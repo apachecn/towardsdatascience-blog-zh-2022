@@ -3,7 +3,7 @@
     
     README.md
     
-        TowardsDataScience 博客中文翻译：文档中文名
+        TowardsDataScience 博客中文翻译 2022：文档中文名
         TowardsDataScience：文档英文名
         https://towardsdatascience.com：文档原始链接
         tds22：域名前缀
@@ -21,7 +21,7 @@
 
     index.html
     
-        TowardsDataScience 博客中文翻译：文档中文名
+        TowardsDataScience 博客中文翻译 2022：文档中文名
         rgba(102, 138, 170, 1)：显示颜色
         towardsdatascience-blog-zh-2022：ApacheCN 的 Github 仓库名称
 
@@ -30,7 +30,7 @@
         towardsdatascience-blog-zh-2022：ApacheCN 的 Github 仓库名称
 -->
 
-# TowardsDataScience 博客中文翻译
+# TowardsDataScience 博客中文翻译 2022
 
 > 原文：[TowardsDataScience](https://towardsdatascience.com)
 > 
