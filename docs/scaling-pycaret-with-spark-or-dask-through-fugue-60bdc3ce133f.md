@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/scaling-pycaret-with-spark-or-dask-through-fugue-60bdc3ce133f>
 
-# 通过赋格用火花(或 Dask)缩放 PyCaret
-
 ## 分布式地在每个数据分区上运行 PyCaret 函数
 
 ![](img/6a4a43e9500369aae47a0f5c17b3e73c.png)

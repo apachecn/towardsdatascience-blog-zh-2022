@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/10-datasets-from-kaggle-you-should-practice-on-to-improve-your-data-science-skills-6d671996177>
 
-# 10 个来自 Kaggle 的数据集，你应该练习一下，以提高你的数据科学技能
-
 ## 通过这 10 个数据集磨练你的技能
 
 ![](img/4728277e8e10c49020aa0820c7432ebd.png)

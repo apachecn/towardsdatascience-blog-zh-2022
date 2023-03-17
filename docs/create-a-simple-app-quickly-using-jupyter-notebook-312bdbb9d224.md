@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/create-a-simple-app-quickly-using-jupyter-notebook-312bdbb9d224>
 
-# 使用 Jupyter 笔记本快速创建一个简单的应用程序
-
 ## 数据科学家和其他希望将 Python 函数转化为交互式应用程序的人的指南。
 
 ![](img/f639772f33ffbdf9e35fab505eedbbec.png)

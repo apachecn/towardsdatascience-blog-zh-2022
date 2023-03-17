@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/machine-learning-serverlessly-1a532685fa7c>
 
-# 使用 AWS Lambda、Docker、ECR、S3 和 API Gateway 的无服务器机器学习
-
 ## **如何在 AWS 上无服务器地构建复杂的机器学习 web 应用**
 
 ![](img/e94d761d625d0f91f3611c69c66e85bc.png)

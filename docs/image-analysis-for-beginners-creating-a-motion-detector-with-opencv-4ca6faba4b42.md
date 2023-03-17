@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/image-analysis-for-beginners-creating-a-motion-detector-with-opencv-4ca6faba4b42>
 
-# 用 OpenCV 检测运动——适合初学者的图像分析
-
 ## 如何用 OpenCV 检测和分析运动物体
 
 ![](img/2cbfa714a08cc5560039e8869f4b3eb5.png)

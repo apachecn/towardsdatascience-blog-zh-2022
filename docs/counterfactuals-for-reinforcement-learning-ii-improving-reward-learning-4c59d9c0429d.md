@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/counterfactuals-for-reinforcement-learning-ii-improving-reward-learning-4c59d9c0429d>
 
-# 强化学习的反事实 II:改善奖励学习
-
 ## 使用反事实进行更安全的奖励函数学习
 
 在本系列的前一部分[中，我介绍了反事实，并展示了如何在 POMDP 框架中对它们进行编码。在这一部分，我将集中讨论如何将反事实应用于奖励学习这一新兴领域。文章将首先简要总结奖励学习的基本要素。接下来，我将通过一个运行中的例子来展示奖励学习如何无法产生预期的结果。最后，我将介绍反事实奖励学习，并展示它如何在我们的例子中帮助解决常规奖励学习的问题。如果您已经阅读了第一部分，理解本文的唯一要求是您熟悉强化学习的基础知识。](/counterfactuals-for-reinforcement-learning-i-what-if-d70188fb83c2)

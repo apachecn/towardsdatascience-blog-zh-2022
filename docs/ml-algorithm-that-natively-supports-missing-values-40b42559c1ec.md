@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/ml-algorithm-that-natively-supports-missing-values-40b42559c1ec>
 
-# 本机支持缺失值的 ML 算法
-
 ## 不需要显式处理缺少的值
 
 ![](img/0f682e6f3f5319693cf64ecdaac7687e.png)

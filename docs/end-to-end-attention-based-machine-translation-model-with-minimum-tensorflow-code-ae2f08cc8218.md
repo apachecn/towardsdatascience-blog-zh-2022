@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/end-to-end-attention-based-machine-translation-model-with-minimum-tensorflow-code-ae2f08cc8218>
 
-# 基于端到端注意力的最小张量流代码机器翻译模型
-
 这篇博文介绍了仅使用高级 Tensorflow API 的基于注意力的机器翻译的训练和推理。这是一个简化的端到端教程，旨在减少代码行。
 
 关于这个话题有很多在线教程。但大多数都是包含大量样板代码的 [Tensorflow 官方教程](https://www.tensorflow.org/text/tutorials/nmt_with_attention)的变种。虽然理解它是如何使用低级 API 实现的是有帮助的，但是容易获得和简化的实现通常是受欢迎的——初学者可以使用它来快速形成对主题的直觉；从业者可以很容易地借用自包含的代码片段。这篇博文提供了一个简化的基于注意力的机器翻译代码的端到端实现，仅使用高级 Tensorflow Keras 层实现。

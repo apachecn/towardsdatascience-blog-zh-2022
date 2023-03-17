@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/advancing-to-professional-dashboard-with-python-using-dash-and-plotly-1e8e5aa4c668>
 
-# 使用 Dash 通过 Python 升级到专业仪表板
-
 ## 增强初始框架代码的高级方法
 
 ![](img/3f1cd82ff6c405b941482bcdf7d19572.png)

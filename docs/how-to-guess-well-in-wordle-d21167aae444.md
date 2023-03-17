@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-to-guess-well-in-wordle-d21167aae444>
 
-# 如何在 Wordle 中猜对
-
 ## 从另外 1300 万个世界扑克游戏中吸取的教训
 
 ![](img/c5843476bbed12ec3b18ec177209b0b3.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/4-must-know-parameters-in-python-pandas-6a4e36f6ddaf>
 
-# Python Pandas 中的 4 个必须知道的参数
-
 ## 这使得函数更加有用。
 
 ![](img/e2c7fb1c27afc0315858da84c6b048d6.png)

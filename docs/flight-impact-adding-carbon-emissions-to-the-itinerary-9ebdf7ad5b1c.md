@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/flight-impact-adding-carbon-emissions-to-the-itinerary-9ebdf7ad5b1c>
 
-# 飞行影响:将碳排放加入旅程
-
 ## 构建一个交互式应用程序，为关注气候的旅行者提供支持
 
 ![](img/a3defbc227b7e1b681913f17f7a84b54.png)

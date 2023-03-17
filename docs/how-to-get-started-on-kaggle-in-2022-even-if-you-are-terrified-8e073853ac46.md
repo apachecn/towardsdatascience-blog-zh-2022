@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-to-get-started-on-kaggle-in-2022-even-if-you-are-terrified-8e073853ac46>
 
-# 如何在 2022 年开始使用 Kaggle(即使你很害怕)
-
 ## 你的大师之路
 
 ![](img/9756e518f02bbe06c3f0588f50d08b1d.png)

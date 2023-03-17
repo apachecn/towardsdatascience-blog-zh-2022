@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/fuzzy-string-search-pruning-the-search-space-4012811f592a>
 
-# **模糊字符串搜索:修剪搜索空间**
-
 ## 拼音键，区分位置的哈希
 
 ![](img/68a0b46e648d7ebfd2f563a1210f18f7.png)

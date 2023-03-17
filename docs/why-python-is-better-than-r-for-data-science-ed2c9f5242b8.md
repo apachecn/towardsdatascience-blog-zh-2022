@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/why-python-is-better-than-r-for-data-science-ed2c9f5242b8>
 
-# 为什么 Python 比 R 更适合数据科学
-
 ## 选择 Python 作为你的第一语言，并一路学习 R
 
 ![](img/3f0c8ff85be07ded10a93b8f0fddfafd.png)

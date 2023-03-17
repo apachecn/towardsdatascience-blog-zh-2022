@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/create-a-custom-model-card-with-googles-model-card-toolkit-a1e89a7887b5>
 
-# 用谷歌的模型卡工具包创建一个定制的模型卡
-
 ## 如何将您自己的字段添加到 Tensorflow 模型卡工具包模式中，以便自动生成自定义机器学习模型文档
 
 ![](img/07b8c2eda5fbfaead888c4ce9b5fe02f.png)

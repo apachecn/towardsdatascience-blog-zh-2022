@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/creating-interactive-geospatial-visualisation-75a2dfaf7e59>
 
-# 使用 Python 创建交互式地理空间可视化
-
 ## 从提取几何数据到创建交互式图表—逐步指南
 
 ![](img/5f823e03af143254f8113fbd7e9b55ec.png)

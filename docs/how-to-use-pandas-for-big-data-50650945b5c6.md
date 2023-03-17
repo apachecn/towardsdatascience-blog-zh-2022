@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-to-use-pandas-for-big-data-50650945b5c6>
 
-# 如何利用熊猫进行大数据
-
 ## 通过 Spark 上的 Pandas 运行分布式工作负载
 
 ![](img/399a546ac26412b94938cd7b6b53d6b9.png)

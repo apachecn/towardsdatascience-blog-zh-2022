@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/adding-custom-layers-on-top-of-a-hugging-face-model-f1ccdfc257bd>
 
-# 在拥抱脸模型上添加自定义层
-
 ## 了解如何从拥抱脸模型体中提取隐藏状态，在其上修改/添加特定于任务的层，并使用 PyTorch 端到端地训练整个自定义设置
 
 在开始之前，这篇文章假设对拥抱脸有基本的了解(使用开箱即用的模型)。此外，在 [**拥抱脸**](https://huggingface.co/) 的人们大声喊出来，建立一个对初学者友好的学习环境！

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-to-embed-interactive-plotly-visualizations-in-folium-map-pop-ups-c69c818a8cd9>
 
-# 如何在树叶地图弹出窗口中嵌入交互式绘图可视化
-
 ## 一个详细的实践教程来提升你的 Python、Plotly 和 Folium 技能
 
 ![](img/9e02eedc3d368ddecfac56301443c6e7.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/camera-intrinsic-matrix-with-example-in-python-d79bf2478c12>
 
-# 相机固有矩阵及 Python 中的示例
-
 ## Python 中图像形成和相机校准综合教程系列的第 3 部分
 
 ![](img/44012fc5eec81e2ac26ffa877b92b8a5.png)

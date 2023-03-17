@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-knowledge-graphs-are-making-ai-understand-our-world-666bc68428e2>
 
-# 知识图表如何让人工智能理解我们的世界
-
 ## 基于逻辑的计算方法的成功与失败
 
 ![](img/d28ca4d44c17cba9a631561032cfe1d9.png)

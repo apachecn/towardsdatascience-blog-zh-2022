@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/nlp-101-3-3-neural-architectures-for-nlp-71f11e27b189>
 
-# **NLP 101 3/3—NLP 的神经架构**
-
 ## 了解传统的顺序神经网络架构以及变压器如何革新 NLP。
 
 ![](img/a6386383bfc4dfb723df8b90a6c478d0.png)

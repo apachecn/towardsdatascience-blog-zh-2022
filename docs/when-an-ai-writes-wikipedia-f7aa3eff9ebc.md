@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/when-an-ai-writes-wikipedia-f7aa3eff9ebc>
 
-# 当人工智能写维基百科的时候
-
 ## GPT 尼奥对我们了解多少？
 
 ![](img/f609c2f99bbfabb83d0d04ec89fbae10.png)

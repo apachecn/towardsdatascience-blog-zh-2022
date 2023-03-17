@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/towards-a-more-applicative-pose-estimation-bf18bc311228>
 
-# 朝向更适用的姿态估计
-
 ## 为冥想者设计一个静止记分器——用 python 实现
 
 ![](img/c0f0d431cb225722688040ee4f8101c2.png)

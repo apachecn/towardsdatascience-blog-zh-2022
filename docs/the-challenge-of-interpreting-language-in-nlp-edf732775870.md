@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/the-challenge-of-interpreting-language-in-nlp-edf732775870>
 
-# 自然语言处理中口译语言的挑战
-
 ## 为什么教机器理解语言如此困难
 
 ![](img/653951135ad17329a786f7f13b3cd993.png)

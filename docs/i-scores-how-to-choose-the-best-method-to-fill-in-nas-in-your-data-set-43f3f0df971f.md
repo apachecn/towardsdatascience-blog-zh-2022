@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/i-scores-how-to-choose-the-best-method-to-fill-in-nas-in-your-data-set-43f3f0df971f>
 
-# I-Scores:如何选择在数据集中填充 NAs 的最佳方法
-
 ## 应用 R-package*is cores*中实施的*插补分数*选择最佳插补方法
 
 ![](img/4bc3b08c86dca90c4d1e25a4d1a1020a.png)

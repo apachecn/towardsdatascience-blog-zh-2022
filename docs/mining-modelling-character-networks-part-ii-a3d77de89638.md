@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/mining-modelling-character-networks-part-ii-a3d77de89638>
 
-# 字符网络的挖掘和建模—第二部分
-
 ## 本文将介绍挖掘和建模字符网络的 Python 实现
 
 ![](img/e68e61b9a30365382c556be31e4aa478.png)

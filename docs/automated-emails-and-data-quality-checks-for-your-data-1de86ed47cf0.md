@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/automated-emails-and-data-quality-checks-for-your-data-1de86ed47cf0>
 
-# 针对您的数据的自动化电子邮件和数据质量检查
-
 ## 通过预定的电子邮件获得更好、更干净数据的数据仓库指南
 
 ![](img/fb8e11b84d979981b023d08ac1cb2e98.png)

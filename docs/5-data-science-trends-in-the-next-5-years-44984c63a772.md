@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/5-data-science-trends-in-the-next-5-years-44984c63a772>
 
-# 未来 5 年的 5 大数据科学趋势
-
 ## 根据我在不同行业和学科的观察，这是一个评估
 
 ![](img/109ff2c77de0fb36e4ae70e4de81ed4b.png)

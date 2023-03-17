@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/numpy-for-data-science-interviews-part-02-28c9ee37d2c8>
 
-# 数据科学访谈节目:第 2 部分
-
 ## *数据科学数字系列的第 2 部分*
 
 ![](img/ce7ce641bc04754321068caa1d75f63a.png)

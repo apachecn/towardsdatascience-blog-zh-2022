@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/2022-trends-in-data-science-and-machine-learning-in-russia-1cd9998696d7>
 
-# 2022 年俄罗斯数据科学和机器学习趋势
-
 ## 超自动化，自动化，数据市场和更多…
 
 ![](img/76acc505155e48f611b4e978b5be9c74.png)

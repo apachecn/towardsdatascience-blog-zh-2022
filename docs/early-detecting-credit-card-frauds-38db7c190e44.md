@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/early-detecting-credit-card-frauds-38db7c190e44>
 
-# 及早发现信用卡欺诈
-
 ## 应用机器学习模型来主动测试交易并将其分类为有效或无效
 
 ![](img/7420911d996bcfb2b8e9abf7e479dcfd.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/the-non-engineers-guide-to-bad-data-c5325d2b1458>
 
-# 非工程师的坏数据指南
-
 ## 为什么你最喜欢的仪表板坏了，以及如何修理它们。
 
 ![](img/90b94b36992359b17a4073376ec7bcf6.png)

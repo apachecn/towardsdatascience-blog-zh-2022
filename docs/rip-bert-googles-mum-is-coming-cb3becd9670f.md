@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/rip-bert-googles-mum-is-coming-cb3becd9670f>
 
-# 瑞普·伯特:谷歌的妈妈来了
-
 ## Google MUM 解释:Google 的多任务统一模式背后是什么？
 
 ![](img/686be361409382165a074fa2075da201.png)

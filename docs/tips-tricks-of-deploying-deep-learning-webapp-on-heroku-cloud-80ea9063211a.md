@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/tips-tricks-of-deploying-deep-learning-webapp-on-heroku-cloud-80ea9063211a>
 
-# 在 Heroku Cloud 上部署深度学习 Webapp 的技巧和诀窍
-
 ## 通过在 Heroku 服务器上部署基于 Tensorflow 的图像分类器 Streamlit 应用程序，我学到了一些东西
 
 ![](img/b2ee4cfa65c83f02de1420625c5b89e5.png)

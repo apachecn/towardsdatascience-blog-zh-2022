@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/uber-data-scientist-interview-question-walkthrough-60b7ccdcb592>
 
-# 优步数据科学家面试问题演练
-
 ## *在本帖中，我们将仔细研究一个来自优步的数据科学家面试难题，并向您展示一个 Python 解决方案*
 
 ![](img/19676369a780aa367d6c7fc6ff7a9f32.png)

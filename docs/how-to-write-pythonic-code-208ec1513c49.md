@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-to-write-pythonic-code-208ec1513c49>
 
-# 如何编写 Pythonic 代码
-
 ## 充分利用这美丽的语言
 
 ![](img/03e4f7a185ace6a43bffc27f6285edc4.png)

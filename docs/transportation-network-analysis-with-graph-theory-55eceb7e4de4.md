@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/transportation-network-analysis-with-graph-theory-55eceb7e4de4>
 
-# 基于图论的交通网络分析
-
 ## 用图论优化零售企业的道路运输网络
 
 ![](img/6088167c8d8e3ff0a70fbc7b291a189a.png)

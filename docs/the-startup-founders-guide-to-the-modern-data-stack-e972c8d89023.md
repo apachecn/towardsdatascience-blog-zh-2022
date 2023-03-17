@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/the-startup-founders-guide-to-the-modern-data-stack-e972c8d89023>
 
-# 初创公司创始人的现代数据堆栈指南
-
 **你** [**需要**](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/big-data-getting-a-better-read-on-performance) [**分析**](https://thinkgrowth.org/the-startup-founders-guide-to-analytics-1d2176f20ac1) **。**虽然像谷歌分析这样的无代码解决方案会让你走得很远，但在你的首轮投资中，你会意识到有太多的问题你无法回答，你会开始谷歌“如何正确设置分析”来偷工减料解决方案。你将游过企业、全方位承诺的海洋，差点被拉进去。但是在这次搜索中，你可能会听到希望之乡的低语:现代数据堆栈。
 
 不幸的是，栈*是什么*是模糊的，你可能会遇到更多的思想领导而不是解决方案。因为尽管现代数据堆栈兜售的东西令人信服——为你的组织建立分析的正确方式——但工具很少被列举，主要是因为形势仍在变化，没有人真正知道。

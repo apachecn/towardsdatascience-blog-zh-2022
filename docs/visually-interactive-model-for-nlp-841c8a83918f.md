@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/visually-interactive-model-for-nlp-841c8a83918f>
 
-# 自然语言处理的可视化交互模型
-
 ## 使用 LIT 创建理解基于 NLP 的机器学习模型的可视化界面
 
 ![](img/b7661b7efe6ef8e00733c07bba78eccf.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/data-leakage-in-machine-learning-how-it-can-be-detected-and-minimize-the-risk-8ef4e3a97562>
 
-# **机器学习中的数据泄露:如何检测并最小化风险**
-
 ![](img/6b3f9356904353292367335f648fbf0e.png)
 
 作者图片

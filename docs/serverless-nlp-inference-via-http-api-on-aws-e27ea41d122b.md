@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/serverless-nlp-inference-via-http-api-on-aws-e27ea41d122b>
 
-# 通过 AWS 上的 HTTP API 进行无服务器 NLP 推理
-
 ## 如何使用 Boto3 为您的无服务器端点设置 API
 
 ![](img/b8dfd2e94e80fe68044b4f876c8d8048.png)

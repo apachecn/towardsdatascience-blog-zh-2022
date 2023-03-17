@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/ameca-is-proof-hyper-realistic-robots-wont-be-long-916241e1d344>
 
-# Ameca 证明超现实机器人不会太久
-
 ## 它的表现力会让你起鸡皮疙瘩。
 
 ![](img/36e954bad96d2fb13b960f28c95c0364.png)

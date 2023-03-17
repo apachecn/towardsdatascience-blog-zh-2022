@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/implement-your-topic-modeling-using-the-bertopic-library-d6708baa78fe>
 
-# 使用 BERTopic 库实现您的主题建模
-
 ## Python 中使用 BERT 的主题建模
 
 ![](img/78932605ad17b9d94f0d2bae8549d620.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/four-deep-learning-papers-to-read-in-january-2022-fbe183e6bf6c>
 
-# 【2022 年 1 月要读的四篇深度学习论文
-
 ## **从自举元学习到深度学习的时间序列预测，外推&泛化与利用 Ridge Rider 探索多样性最优的关系**
 
 ![](img/b4dac16062850cd68156910f632df74e.png)

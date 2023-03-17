@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/every-single-awesome-built-in-function-in-python-f36a23842954>
 
-# Python 中每一个令人敬畏的内置函数
-
 ## 看看这种语言已经提供的一些最好的 Python 方法，以及如何使用它
 
 ![](img/49d0a9574ecf002f06a411caf996a6e1.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/predicting-solar-power-output-using-machine-learning-techniques-56e7959acb1f>
 
-# 使用机器学习技术预测太阳能输出
-
 ## 应用数据科学解决方案应对可再生能源挑战。
 
 ![](img/6455a84fa0a4cd82d0270ab2d8f33c5a.png)

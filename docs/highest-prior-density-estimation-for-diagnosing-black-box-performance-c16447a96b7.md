@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/highest-prior-density-estimation-for-diagnosing-black-box-performance-c16447a96b7>
 
-# 用于诊断黑盒性能的最高先验密度估计
-
 ## 如何搜索精确度较差的数字要素
 
 模型可解释性是机器学习的一个领域，在过去几年里越来越受欢迎。更好的理解导致利益相关者更大的信任和更好的推广。但是你怎么能偷看黑盒呢？

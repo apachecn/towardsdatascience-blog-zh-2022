@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/training-on-aws-with-habana-gaudi-3126e183048>
 
-# Habana Gaudi 的 AWS 培训
-
 ## 利用专用 DNN 训练芯片的力量—第 2 部分
 
 ![](img/d26a25c7e658fd1fccc7c1bb870f5abf.png)

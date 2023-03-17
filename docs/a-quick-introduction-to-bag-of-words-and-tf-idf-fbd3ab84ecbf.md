@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/a-quick-introduction-to-bag-of-words-and-tf-idf-fbd3ab84ecbf>
 
-# 单词袋和 TF-IDF 的快速介绍
-
 ## 机器学习和自然语言处理模型如何处理文本
 
 ![](img/85a534c358493213966672643b91bb11.png)

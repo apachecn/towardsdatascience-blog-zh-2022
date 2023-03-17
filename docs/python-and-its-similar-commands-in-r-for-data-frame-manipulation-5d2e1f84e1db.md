@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/python-and-its-similar-commands-in-r-for-data-frame-manipulation-5d2e1f84e1db>
 
-# Python 及其在 R 语言中用于数据框操作的类似命令
-
 ## Python 和 R 中数据争论的备忘单
 
 ![](img/a07281db5b3dd8da6e368451f5b6be20.png)

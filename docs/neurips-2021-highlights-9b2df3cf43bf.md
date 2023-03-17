@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/neurips-2021-highlights-9b2df3cf43bf>
 
-# **NeurIPS 2021 集锦**
-
 ## 以及 2022 年数据的未来趋势
 
 ![](img/62383b0be862c1dce7da9d9e4936b784.png)

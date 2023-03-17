@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/parsing-the-urbansound8k-dataset-with-tensorflow-43192a5206e7>
 
-# 用 TensorFlow 解析 UrbanSound8K 数据集
-
 ## 从原始音频到 TFRecord 再到填充批次
 
 有多种方法可以将数据输入神经网络。最常用的是 Numpy 数组和 CSV/Pandas 文件。此外，TensorFlow 还提供自定义存储格式 TFRecord。它很方便，但对初学者不太友好。

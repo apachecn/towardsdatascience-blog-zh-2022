@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/ml-ops-with-azure-machine-learning-72ebc37ee3cd>
 
-# 使用 Azure 机器学习的 ML Ops
-
 ## ML DevOps 管道实施框架的高级概念概述
 
 # 介绍

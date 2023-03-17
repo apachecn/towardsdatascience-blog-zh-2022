@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/learn-coding-13-free-sites-to-help-you-do-it-9b2c1b92e573>
 
-# 学习编码:13 个免费网站帮助你开始
-
 ![](img/917e9a2c5696d5ab7a2c78626255d91c.png)
 
 克里斯托夫·高尔在 [Unsplash](https://unsplash.com/s/photos/coding?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 上拍摄的照片

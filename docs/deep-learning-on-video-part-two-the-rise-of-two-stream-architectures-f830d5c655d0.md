@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/deep-learning-on-video-part-two-the-rise-of-two-stream-architectures-f830d5c655d0>
 
-# 视频深度学习(下):双流架构的兴起
-
 ![](img/33612feecfa3033f19715ba229ba05f1.png)
 
 用于视频理解的双流架构(图片由作者提供)

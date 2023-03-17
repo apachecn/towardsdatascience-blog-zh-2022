@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/what-if-data-became-everybodys-business-85b7c20d6ab7>
 
-# 如果数据成为每个人的事情会怎样？
-
 ## 在未来的数据经济中取得成功的新思维
 
 ![](img/1ace1ea6e7eadfb26c4f0da7a5111a6c.png)

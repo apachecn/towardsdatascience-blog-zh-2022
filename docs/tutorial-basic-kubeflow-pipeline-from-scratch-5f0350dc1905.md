@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/tutorial-basic-kubeflow-pipeline-from-scratch-5f0350dc1905>
 
-# 教程—从零开始的基本 Kubeflow 管道
-
 ![](img/c1a77d427a012a29adcebd87c582b4bf.png)
 
 来源:Hanna Morris 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄的照片

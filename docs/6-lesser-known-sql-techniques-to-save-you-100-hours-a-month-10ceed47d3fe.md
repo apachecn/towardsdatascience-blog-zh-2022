@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/6-lesser-known-sql-techniques-to-save-you-100-hours-a-month-10ceed47d3fe>
 
-# 6 种鲜为人知的 SQL 技术每月为您节省 100 个小时
-
 ## 使用这些简单的技术使您的分析和数据提取更容易
 
 在八年的数据职业生涯中，我依靠一些简单但鲜为人知的 SQL 技术为自己节省了无数的时间来执行分析和构建 ETL 管道。

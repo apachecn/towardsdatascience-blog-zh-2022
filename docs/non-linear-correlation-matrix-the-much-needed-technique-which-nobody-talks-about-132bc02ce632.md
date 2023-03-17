@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/non-linear-correlation-matrix-the-much-needed-technique-which-nobody-talks-about-132bc02ce632>
 
-# 非线性相关矩阵——无人问津的急需技术
-
 ## 为什么过度使用相关矩阵，为什么需要非线性相关矩阵
 
 ![](img/b86c9fd4d77988d26767a145fb843e74.png)

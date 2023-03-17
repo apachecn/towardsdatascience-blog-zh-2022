@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/save-plots-matplotlib-1a16b3432d8a>
 
-# 如何使用 Matplotlib 将绘图保存到图像文件
-
 ## 了解如何将 matplotlib 图形和绘图保存到图像文件
 
 ![](img/b87c79374e39efc3d4ceef60be5255f1.png)

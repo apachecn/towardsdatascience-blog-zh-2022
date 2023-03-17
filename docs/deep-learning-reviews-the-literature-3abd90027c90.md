@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/deep-learning-reviews-the-literature-3abd90027c90>
 
-# 深度学习回顾文献
-
 ## 用变形器对复杂文本进行分类的指南
 
 由 [Jaren R Haber](https://medium.com/u/e393a0d6684?source=post_page-----3abd90027c90--------------------------------) (乔治城大学) [Thomas Lu](https://medium.com/u/1865a1d2f0b2?source=post_page-----3abd90027c90--------------------------------) (加州大学伯克利分校) [Nancy Xu](https://medium.com/u/9c797a119b78?source=post_page-----3abd90027c90--------------------------------) (加州大学伯克利分校)

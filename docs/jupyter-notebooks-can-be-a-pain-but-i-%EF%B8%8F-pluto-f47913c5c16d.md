@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/jupyter-notebooks-can-be-a-pain-but-i-%EF%B8%8F-pluto-f47913c5c16d>
 
-# 朱庇特笔记本可能是一种痛苦，但我❤️布鲁托
-
 ## 朱莉娅的 Pluto.jl 将使教育变得更好
 
 ![](img/886c565ffbae5e864fdaf6c217a3c48a.png)

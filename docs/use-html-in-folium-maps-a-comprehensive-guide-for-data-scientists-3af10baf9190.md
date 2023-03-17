@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/use-html-in-folium-maps-a-comprehensive-guide-for-data-scientists-3af10baf9190>
 
-# 在树叶地图中使用 HTML:数据科学家综合指南
-
 ## 逐步了解如何使用 HTML 将动态图像、链接、文本和表格添加到叶子地图弹出窗口
 
 ![](img/6c1a4e56449192fed261732a42162af9.png)

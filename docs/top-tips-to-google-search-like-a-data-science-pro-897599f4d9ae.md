@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/top-tips-to-google-search-like-a-data-science-pro-897599f4d9ae>
 
-# 像经验丰富的数据科学家一样使用谷歌搜索的顶级技巧
-
 ## 了解高级 Google 搜索功能，提高您查找数据科学解决方案的效率
 
 ![](img/c99fd701dd0cdfde290f23099585bc4f.png)

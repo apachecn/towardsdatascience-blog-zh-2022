@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/build-a-q-a-app-with-pytorch-cb599480e29>
 
-# 使用 PyTorch 构建问答应用程序
-
 ## 如何使用 Docker 和 FastAPI 轻松部署 QA HuggingFace 模型
 
 ![](img/195f116ecba7a340e2609eff5ba770ee.png)

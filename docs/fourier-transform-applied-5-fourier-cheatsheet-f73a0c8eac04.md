@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/fourier-transform-applied-5-fourier-cheatsheet-f73a0c8eac04>
 
-# 傅立叶变换，应用(5):傅立叶备忘单
-
 ## Numpy 的傅里叶变换函数之旅
 
 为了结束这个系列，让我们回顾一下最常见的数字傅里叶变换函数。

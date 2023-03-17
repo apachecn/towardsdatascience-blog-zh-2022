@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/leetcode-two-sum-with-go-67d24e5a53f3>
 
-# 用围棋对两个和进行编码
-
 ## Python 用户 Golang 入门
 
 ![](img/699737a63b6bdbd87a649da177667020.png)

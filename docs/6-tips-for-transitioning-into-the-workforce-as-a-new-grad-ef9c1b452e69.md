@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/6-tips-for-transitioning-into-the-workforce-as-a-new-grad-ef9c1b452e69>
 
-# 作为新毕业生进入职场的 6 个小贴士
-
 ## 从换工作中学到的教训，以及我希望自己能早点知道的事情
 
 ![](img/d4a3c08cfa552299a78582a4a4b539ac.png)

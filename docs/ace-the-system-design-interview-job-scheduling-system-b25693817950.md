@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/ace-the-system-design-interview-job-scheduling-system-b25693817950>
 
-# Ace 系统设计面试:作业调度系统
-
 ## 根据我自己的经验和与其他工程师的讨论，为大规模作业调度程序设计的。
 
 # 1.介绍

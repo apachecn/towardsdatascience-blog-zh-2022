@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/monte-carlo-simulation-a-practical-guide-85da45597f0e>
 
-# 蒙特卡罗模拟——实用指南
-
 ## 一种通用的参数估计方法。Python 编程语言中的示例性实现。
 
 ![](img/429e8c3136b2fb950599632f3ace0925.png)

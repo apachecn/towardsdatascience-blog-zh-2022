@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/whats-in-a-lambda-part-2-6dc2fa89d2d1>
 
-# λ里有什么？—第二部分
-
 ## 既然您已经学习了 Python 中的 lambda 函数，我将介绍一个数据处理示例。
 
 ![](img/ef85b3d8a9704f5cfd3ceec27780fcfd.png)

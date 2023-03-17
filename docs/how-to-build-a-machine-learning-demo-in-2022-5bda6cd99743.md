@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-to-build-a-machine-learning-demo-in-2022-5bda6cd99743>
 
-# 如何在 2022 年建立一个机器学习演示
-
 ## 了解**为什么**你应该在 2022 年为你的机器学习模型制作演示，以及**如何**以适合你的需求、技能和受众的方式来做这件事。
 
 ![](img/0998b75452c952e7b683793c6d3042cf.png)

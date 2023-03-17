@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/free-cloud-cpus-for-data-science-and-machine-learning-e4a7fc13043e>
 
-# 用于数据科学和机器学习的免费云 CPU
-
 ## *含电池。附带 Jupyter 笔记本和预装的 python 包*
 
 ![](img/d1637789ca75e13c7950e7b796c1f023.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/a-frequency-analysis-on-wordle-9c5778283363>
 
-# 沃尔多的一句话
-
 ![](img/a8e5beaeb216357515525331ead5c911.png)
 
 克劳德·里士满在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上的照片

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/estimate-pi-using-random-numbers-8b13a7e8c791>
 
-# 使用随机数估计圆周率
-
 ## 通过和 Julia 一起计算π来回答这个面试问题
 
 好吧，所以我真的应该在圆周率日(3 月 14 日)发表这篇文章，但我认为这不会发生，所以无论如何在这里。让我们在 Julia 中使用随机数来估计圆周率——当然😉。

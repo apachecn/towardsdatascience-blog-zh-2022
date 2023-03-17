@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/selective-formatting-of-numbers-in-tableau-f5035cc64b68>
 
-# Tableau 中数字的选择性格式
-
 ## 这就是如何在同一个数据表中有条件地显示不同的小数位数
 
 Tableau 软件是一个令人惊讶的多功能工具。它不仅提供了广泛的数据可视化选项，而且还是一个强大的报告辅助工具。

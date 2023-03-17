@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/assessing-model-performance-for-regression-7568db6b2da0>
 
-# 评估回归模型性能
-
 ## *用于评估回归模型质量的一些方法概述*
 
 ![](img/829207031a2df597ef3ec80fce295ce5.png)

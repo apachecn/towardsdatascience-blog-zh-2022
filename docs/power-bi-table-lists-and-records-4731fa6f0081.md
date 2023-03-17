@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/power-bi-table-lists-and-records-4731fa6f0081>
 
-# 电力 BI —表格、清单和记录
-
 ## …使用这些数据类型协助数据建模
 
 ![](img/e2c2769bb5aeb89857b637bc17c17303.png)

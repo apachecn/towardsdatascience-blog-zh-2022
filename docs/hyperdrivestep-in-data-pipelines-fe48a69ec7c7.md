@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/hyperdrivestep-in-data-pipelines-fe48a69ec7c7>
 
-# 数据管道中的超驱动步骤
-
 ## 使用 tqdm 和 Azure 机器学习扩展 Python 流程。
 
 ![](img/b24965993c8fac5dfea63ac5ff4e3630.png)

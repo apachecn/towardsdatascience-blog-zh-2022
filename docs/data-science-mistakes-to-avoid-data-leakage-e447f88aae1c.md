@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/data-science-mistakes-to-avoid-data-leakage-e447f88aae1c>
 
-# 要避免的数据科学错误:数据泄漏
-
 ## 这个无声的错误可能会毁掉你的机器学习项目
 
 ![](img/9e90bc2942a18422ea47b82bb4484c71.png)

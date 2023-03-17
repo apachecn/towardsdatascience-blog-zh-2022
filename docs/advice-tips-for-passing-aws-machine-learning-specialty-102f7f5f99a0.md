@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/advice-tips-for-passing-aws-machine-learning-specialty-102f7f5f99a0>
 
-# 通过 AWS 机器学习专业的建议和提示
-
 ## 关于 2021 年底通过 CLF-C01 和 MLS-C01 考试的思考和建议
 
 ![](img/4bd341503ac9b3009b4c5e542f427980.png)

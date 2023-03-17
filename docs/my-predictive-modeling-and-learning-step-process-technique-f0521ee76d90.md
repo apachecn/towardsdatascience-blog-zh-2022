@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/my-predictive-modeling-and-learning-step-process-technique-f0521ee76d90>
 
-# 我的预测建模和学习“分步”过程技术
-
 ## 概述了我将数据转化为机器学习模型的不同步骤
 
 ![](img/74bfcf6bb69766fbe9f13cca73440f75.png)

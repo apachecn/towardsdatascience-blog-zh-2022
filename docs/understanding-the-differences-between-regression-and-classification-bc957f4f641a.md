@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/understanding-the-differences-between-regression-and-classification-bc957f4f641a>
 
-# 理解回归和分类之间的区别
-
 ## 对于初学者来说，这是一个非常棘手的问题
 
 ![](img/02f1ddc7bca37525d8eb961dd8536a57.png)

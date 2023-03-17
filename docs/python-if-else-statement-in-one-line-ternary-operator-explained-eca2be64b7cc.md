@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/python-if-else-statement-in-one-line-ternary-operator-explained-eca2be64b7cc>
 
-# Python If-Else 语句在一行中-三元运算符解释
-
 ## **Python 中的单行条件句？以下是何时使用和何时不使用它们。**
 
 ![](img/54db379c69d99c9007d8d71db869431f.png)

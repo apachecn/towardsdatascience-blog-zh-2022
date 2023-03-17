@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/dont-just-fit-data-gain-insights-too-1dba73d3cf8e>
 
-# 不要只是拟合数据，还要获得洞察力
-
 ## 一个轻量级的 Python 包可以让您对回归问题有更多的了解
 
 ![](img/7b1e6ed44879660af7e3546dd908327e.png)

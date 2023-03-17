@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/5-books-to-grow-as-a-leader-in-data-analytics-e16b31a5925a>
 
-# 成为数据分析领域领导者的 5 本书
-
 ![](img/8becc5ccb3bd2fc294186abc411b1f0a.png)
 
 埃里克·范·迪克在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上的照片

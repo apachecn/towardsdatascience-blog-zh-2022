@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/zenodopy-manage-zenodo-projects-from-python-aa7c36634c1d>
 
-# Zenodopy——从 Python 管理 Zeno do 项目
-
 ## 用这个包创建项目和上传/下载文件
 
 ![](img/7bf2a0dad3c66cdb7d3590711690f577.png)

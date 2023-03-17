@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/intermediate-sql-for-everyone-fe35c541147a>
 
-# 面向所有人的中级 SQL
-
 ## 创建数据库，学习有用的语法，构建信息查询
 
 ![](img/ed59a67f248117e4496107af129f798d.png)

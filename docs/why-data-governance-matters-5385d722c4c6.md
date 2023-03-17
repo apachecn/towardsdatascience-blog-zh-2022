@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/why-data-governance-matters-5385d722c4c6>
 
-# 为什么数据治理很重要:简介
-
 ## 我在这个学科的经历和我学到的东西
 
 ![](img/dce4bcfcb8202d69b773d82cca282f1d.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/the-m4-time-series-forecasting-competition-with-thymeboost-b31196fc319>
 
-# 用百里香增强软件进行 M4 时间序列预测竞赛
-
 ## 第 1 部分:每周数据集
 
 ![](img/67316582b24d235d164f58ef823aefdc.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/a-gentle-introduction-to-monte-carlo-methods-98451674018d>
 
-# 蒙特卡罗方法简介
-
 ## 带有 python 中的实际代码示例
 
 **蒙特卡罗方法**是一种广泛的计算算法，依靠重复的[随机抽样](https://en.wikipedia.org/wiki/Random_sampling)来获得数值结果。这些方法背后的基本概念是使用[随机性](https://en.wikipedia.org/wiki/Randomness)来解决原则上可能是[确定性](https://en.wikipedia.org/wiki/Deterministic_system)的问题。蒙特卡罗方法经常用于物理问题和数学问题，正如我们将在本文中讨论的，在难以甚至不可能使用替代方法的情况下，蒙特卡罗方法有一些独特的优势。

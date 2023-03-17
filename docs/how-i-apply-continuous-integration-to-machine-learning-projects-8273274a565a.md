@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-i-apply-continuous-integration-to-machine-learning-projects-8273274a565a>
 
-# 我如何将持续集成应用到机器学习项目中
-
 ## CI 在软件项目中非常有用，也可以为 ML 项目带来好处。
 
 # 介绍

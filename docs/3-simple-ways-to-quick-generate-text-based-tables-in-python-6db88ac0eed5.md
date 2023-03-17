@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/3-simple-ways-to-quick-generate-text-based-tables-in-python-6db88ac0eed5>
 
-# 用 Python 快速生成基于文本的表格的 3 种简单方法
-
 ## 创建基于文本的表格的简单而有用的库
 
 ![](img/e67aa06a0a1eb5514a5a588efe86dee8.png)

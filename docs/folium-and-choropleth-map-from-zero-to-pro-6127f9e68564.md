@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/folium-and-choropleth-map-from-zero-to-pro-6127f9e68564>
 
-# 叶和 Choropleth 地图:从零到专业
-
 ## 使用带有图层控制和自定义工具提示的 follow 创建交互式 Choropleth 地图的分步教程
 
 ![](img/9e520839f3f5c41b276f25db683fc8fd.png)

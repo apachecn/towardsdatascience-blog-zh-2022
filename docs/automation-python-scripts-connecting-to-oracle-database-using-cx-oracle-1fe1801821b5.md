@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/automation-python-scripts-connecting-to-oracle-database-using-cx-oracle-1fe1801821b5>
 
-# Python 自动化:使用 Cx Oracle 连接到 Oracle 数据库
-
 ## 我如何使用 Cx Oracle 和其他一些 Python 库来自动化小型 ETL 任务
 
 ![](img/5c7b4b285455e276a1669eda6fde7c55.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/5-cool-libraries-in-python-you-might-have-missed-part-2-72e82a1f2c7c>
 
-# 你可能错过的 5 个很酷的 Python 库(第 2 部分)
-
 ## 幸运的是，我找到了这些令人兴奋的库！
 
 ![](img/759e0250d5fabcf267abe730674115d8.png)

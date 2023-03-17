@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/using-bike-share-data-to-find-the-most-popular-bike-routes-in-your-city-e8e65d22a43a>
 
-# 使用自行车共享数据查找您所在城市最受欢迎的自行车路线
-
 ## 将数值和空间分析与 Python 相结合
 
 ![](img/9beae73835381afe53f8bb9e1111641e.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/speeding-up-exploratory-data-analysis-with-python-838fe5e25b43>
 
-# 使用 Python 加速探索性数据分析
-
 ## 利用开源 EDA 库提高工作效率
 
 ![](img/51ad5965726ae0cae4689a162fd589a5.png)

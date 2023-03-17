@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/forecasting-with-synthetic-data-at-scale-nixtla-ydata-404b65600876>
 
-# 利用大规模合成数据进行预测(Nixtla & YData)
-
 ## 制作合成时间序列数据，然后用深度学习模型进行预测
 
 *由*[](http://github.com/nixtla)**和* [*YData*](http://YData.ai) *组成。* [*费德里科·加尔萨·拉米雷斯*](https://medium.com/u/2855bd3e0293?source=post_page-----404b65600876--------------------------------) *和* [*马克斯·梅根塔尔*](https://medium.com/u/76b639655285?source=post_page-----404b65600876--------------------------------) *。**

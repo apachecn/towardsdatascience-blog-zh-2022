@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/visualizing-backpropagation-in-neural-network-training-2647f5977fdb>
 
-# 在任意尺度的神经网络训练中可视化反向传播
-
 ## 使用 HiPlot 生成平行坐标图来可视化深度学习模型训练。
 
 ![](img/8b744e4f36364951c001845ac7cb1025.png)

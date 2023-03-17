@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/deploy-cloud-functions-on-gcp-with-terraform-111a1c4a9a88>
 
-# 使用 Terraform 在 GCP 上部署云功能
-
 ## 在本教程中，您将使用 Terraform 部署一个由云存储事件触发的简单云功能
 
 ![](img/169b1e95c99705a9e4a046ce39e55708.png)

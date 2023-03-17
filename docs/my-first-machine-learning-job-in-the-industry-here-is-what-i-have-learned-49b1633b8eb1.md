@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/my-first-machine-learning-job-in-the-industry-here-is-what-i-have-learned-49b1633b8eb1>
 
-# 我在这个行业的第一份机器学习工作——这是我学到的东西
-
 ## 在过去的几个月里，我作为一名机器学习顾问，为一家令人惊叹的医疗人工智能初创公司工作
 
 ![](img/b6db87a344e1fb9501bbf4b28f91ccf8.png)

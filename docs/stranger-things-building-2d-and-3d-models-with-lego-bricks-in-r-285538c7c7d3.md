@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/stranger-things-building-2d-and-3d-models-with-lego-bricks-in-r-285538c7c7d3>
 
-# 奇怪的事情:建立 2D 和 3D 模型…用乐高积木在 R
-
 ## 如何用 R 中的“brickr”包在 2D 和 3D 中模拟和可视化乐高积木
 
 ![](img/5e7ba20bb1b09cfed7690e81ab2744d5.png)

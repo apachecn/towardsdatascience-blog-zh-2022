@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/biased-model-coefficients-part-1-2722128b9e1c>
 
-# 有偏模型系数—(第一部分)
-
 ## 衰减偏差/回归稀释使您的系数偏向 0
 
 ![](img/696fd90ec703f4dd08af9abfc742e51e.png)

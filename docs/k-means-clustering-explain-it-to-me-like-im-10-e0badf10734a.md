@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/k-means-clustering-explain-it-to-me-like-im-10-e0badf10734a>
 
-# k-均值聚类:把它解释给我听，就像我 10 岁一样
-
 ## 一个长期流行的聚类算法的友好介绍
 
 这将是**向一个 10 岁的**系列解释机器学习算法的第二个*系列*(只是因为这一系列听起来比文章更有趣)。你可以在这里 找到 XGBoost 分类文章 [***。今天我将向一个 10 岁的孩子或者基本上是 ML 算法世界的任何新手解释 K-Means 聚类，一个非常流行的聚类算法。我将试图消除血淋淋的，数学细节，并解释背后的简单直觉。***](/xgboost-regression-explain-it-to-me-like-im-10-2cf324b0bbdb)

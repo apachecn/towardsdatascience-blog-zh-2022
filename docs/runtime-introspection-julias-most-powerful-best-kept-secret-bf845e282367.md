@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/runtime-introspection-julias-most-powerful-best-kept-secret-bf845e282367>
 
-# 运行时自省:Julia 最强大、保守得最好的秘密
-
 ## 在 Julia 中使用内省处理类型
 
 ![](img/e5a95d4122d0ff53cadb6ae78cf14d3d.png)

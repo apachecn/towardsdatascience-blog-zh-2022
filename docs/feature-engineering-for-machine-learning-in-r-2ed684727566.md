@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/feature-engineering-for-machine-learning-in-r-2ed684727566>
 
-# R 语言中机器学习的特征工程
-
 ## 从数据集中提取有价值信息的重要过程
 
 ![](img/6ebd557dd36f531905f1f4bd90920b61.png)

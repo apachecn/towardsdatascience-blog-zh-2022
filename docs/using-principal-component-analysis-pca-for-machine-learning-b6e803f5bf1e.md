@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/using-principal-component-analysis-pca-for-machine-learning-b6e803f5bf1e>
 
-# 使用主成分分析(PCA)进行机器学习
-
 ## 了解如何使用 PCA 来降低数据集的维数
 
 ![](img/191c95ac1614cd243ae4cef0e8c05f13.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/convert-images-to-tensors-in-pytorch-and-tensorflow-f0ab01383a03>
 
-# 在 Pytorch 和 Tensorflow 中将图像转换为张量
-
 ## 学习以本机方式转换数据
 
 ![](img/9fc169f0bd974333234241a24b7b7fbd.png)

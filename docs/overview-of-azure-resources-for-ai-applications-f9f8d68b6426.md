@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/overview-of-azure-resources-for-ai-applications-f9f8d68b6426>
 
-# AI 应用的 Azure 资源概述
-
 ## 了解主要的 Azure 服务，以构建语言、视觉和搜索人工智能应用程序
 
 ![](img/bfbb9f4fc060d223a5a4afe82e0b2ac5.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/building-a-named-entity-extractor-for-covid-19-risk-factors-cb9bf9022b5e>
 
-# 为新冠肺炎风险因素构建命名实体提取器
-
 ## 如何从大量数据中提取信息
 
 ![](img/6b7d32ca3c7916ea95c5145bba0e7ec5.png)

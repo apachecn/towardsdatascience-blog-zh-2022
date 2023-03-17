@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/unsupervised-semantic-sentiment-analysis-of-imdb-reviews-2c5f520fbf81>
 
-# IMDB 评论的无监督语义情感分析
-
 ## 一个捕捉情感复杂性和文本主观性的模型
 
 ![](img/cf8944c4b4989e6fd0119ec9917750f9.png)

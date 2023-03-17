@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-to-use-the-ibm-watson-tone-analyzer-to-perform-emotional-sentiment-analysis-in-python-d1d4ad022d0b>
 
-# 如何使用 IBM Watson Tone Analyzer 在 Python 中执行情感情绪分析
-
 ## 如何使用 IBM Watson 人工智能平台来预测客户在撰写产品评论或提供自由文本反馈时的情绪
 
 ![](img/451fc5f2e012757cd662b4480a720982.png)

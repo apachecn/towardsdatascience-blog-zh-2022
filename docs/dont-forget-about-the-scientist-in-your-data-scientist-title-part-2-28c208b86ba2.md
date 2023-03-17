@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/dont-forget-about-the-scientist-in-your-data-scientist-title-part-2-28c208b86ba2>
 
-# 不要忘记你的数据科学家头衔中的“科学家”(第 2 部分)
-
 ## 在不引入混淆变量的情况下同时测试多个因素
 
 ![](img/63db4616dd503c33069c85e189e0605d.png)

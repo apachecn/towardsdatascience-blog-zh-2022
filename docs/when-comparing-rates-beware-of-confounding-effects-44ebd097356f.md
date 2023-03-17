@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/when-comparing-rates-beware-of-confounding-effects-44ebd097356f>
 
-# **比较比率时，小心混淆效应**
-
 ![](img/3f342506d909cfcdf550b46a606d781d.png)
 
 Niklas Ohlrogge 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄的照片

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/the-easiest-way-to-create-an-interactive-dashboard-in-python-77440f2511d1>
 
-# **用 Python 创建交互式仪表盘的最简单方法**
-
 ## **使用 hvPlot 将 Pandas 管道变成仪表板。互动**
 
 由[索菲亚·杨](https://sophiamyang.medium.com/)和[马克·斯科夫·麦德森](https://medium.com/@marcskovmadsen)

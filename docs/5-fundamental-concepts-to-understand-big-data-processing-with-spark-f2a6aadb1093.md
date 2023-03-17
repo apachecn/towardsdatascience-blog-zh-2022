@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/5-fundamental-concepts-to-understand-big-data-processing-with-spark-f2a6aadb1093>
 
-# 理解 Spark 大数据处理的 5 个基本概念
-
 ## #5.懒惰评估
 
 ![](img/7a045b0d9a1e3c0a53d72f5c5005d69e.png)

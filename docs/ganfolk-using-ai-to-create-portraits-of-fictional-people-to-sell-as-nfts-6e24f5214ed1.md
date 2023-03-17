@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/ganfolk-using-ai-to-create-portraits-of-fictional-people-to-sell-as-nfts-6e24f5214ed1>
 
-# GANfolk:使用人工智能创建虚构人物的肖像，作为非功能性物品出售
-
 ## 如何使用 StyleGAN2、VQGAN 和 GPT-3 从开源图像中合成不同的字符
 
 ![](img/b7a44679e2174b5603eae7ea2a4e0788.png)

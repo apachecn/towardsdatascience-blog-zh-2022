@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/the-science-behind-alphago-and-alphago-zero-44aeef000448>
 
-# AlphaGo 和 AlphaGo Zero 背后的科学
-
 ## 概念性的友好解释
 
 ![](img/5ebd7d0758d026e0a28bab2fdcbe96cc.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/the-viz-for-social-good-community-an-analysis-using-python-tableau-63d19ed8376d>
 
-# 面向社会公益社区的 Viz 使用 Python 和 Tableau 进行分析
-
 ## 了解面向社会公益志愿者的 Viz，为您的下一次可视化获取有用的提示，并了解如何参与其中
 
 ![](img/a84ffc793c69d95ad058dded28cc6466.png)

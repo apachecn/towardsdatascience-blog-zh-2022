@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/find-the-top-n-most-expensive-queries-48e46d8e9752>
 
-# 查找数据库中排名靠前且最慢的查询
-
 ## 找到降低数据库处理速度的瓶颈查询
 
 ![](img/f6ba165f7b06c48231afc4caeea58926.png)

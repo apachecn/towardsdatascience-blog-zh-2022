@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/getting-started-with-data-lakes-6761e0317442>
 
-# 数据湖入门
-
 ## 数据仓库补充背后的想法和解释
 
 ![](img/50a98332f777072b869f269df36b158d.png)

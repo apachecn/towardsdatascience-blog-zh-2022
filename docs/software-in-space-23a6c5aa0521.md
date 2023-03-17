@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/software-in-space-23a6c5aa0521>
 
-# 软件！在！太空！
-
 ## 当人们想到太空探索时，他们往往会想到直冲云霄的火箭。但是成功的任务不仅仅是宇宙飞船。
 
 ![](img/05d40375b85d70ccc8a35c1cf050c91d.png)

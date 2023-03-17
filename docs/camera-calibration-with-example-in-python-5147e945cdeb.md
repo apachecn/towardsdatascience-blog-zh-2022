@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/camera-calibration-with-example-in-python-5147e945cdeb>
 
-# Python 中的摄像机标定示例
-
 ## Python 中图像形成和相机校准综合教程系列的第 5 部分
 
 ![](img/41a772e815653ffa90a1c15b31497b39.png)

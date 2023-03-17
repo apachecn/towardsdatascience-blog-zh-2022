@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/5-python-tips-that-you-dont-want-to-miss-7696a9ec9df1>
 
-# 不容错过的 5 个 Python 技巧
-
 ## 充分利用 Python
 
 ![](img/71d3f74b3b323d75ebfc805fbba822c3.png)

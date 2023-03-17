@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/using-deep-learning-to-predict-hip-hop-popularity-on-spotify-1125dc734ac2>
 
-# 使用深度学习预测 Spotify 上的嘻哈流行度
-
 ## 我能建立一个对音乐很有品味的神经网络吗？
 
 ![](img/a3f616405c80a3e42ff48a805296a1d3.png)

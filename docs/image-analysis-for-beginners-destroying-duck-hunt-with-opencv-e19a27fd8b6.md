@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/image-analysis-for-beginners-destroying-duck-hunt-with-opencv-e19a27fd8b6>
 
-# 用 OpenCV 破坏猎鸭——初学者的图像分析
-
 ## 编写代码，将击败每一个鸭子狩猎高分
 
 ![](img/90b876f72aa586ccc687dfc6e6091cf8.png)

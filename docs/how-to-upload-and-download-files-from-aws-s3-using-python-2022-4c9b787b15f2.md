@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-to-upload-and-download-files-from-aws-s3-using-python-2022-4c9b787b15f2>
 
-# 如何使用 Python (2022)从 S3 自动气象站上传和下载文件
-
 ## 了解如何在 Python 脚本中使用云资源
 
 ![](img/4464d1f4eb67324ab4f8b8be29ce92d7.png)

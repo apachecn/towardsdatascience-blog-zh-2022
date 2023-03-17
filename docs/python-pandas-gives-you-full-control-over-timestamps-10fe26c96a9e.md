@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/python-pandas-gives-you-full-control-over-timestamps-10fe26c96a9e>
 
-# Python Pandas 让您完全控制时间戳
-
 ## 从几年到几纳秒。
 
 ![](img/6812e5fd616ea4c3ca26d461bf532ad2.png)

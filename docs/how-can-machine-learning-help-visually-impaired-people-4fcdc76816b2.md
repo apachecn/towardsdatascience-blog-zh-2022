@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-can-machine-learning-help-visually-impaired-people-4fcdc76816b2>
 
-# 机器学习如何帮助视障人士
-
 ## 基于 DeepLabv3+的盲人室外障碍物识别方案
 
 ![](img/0de3ab781aa7c54df5f88f3587645704.png)

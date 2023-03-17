@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/data-does-not-speak-for-itself-start-asking-questions-4e152274d605>
 
-# **数据不会说话？开始提问！**
-
 ## 通过 R 中的可视化快速探索数据的实用工具
 
 ![](img/0ef8b0c7eb3a3a439ef665bffe7ef1c6.png)

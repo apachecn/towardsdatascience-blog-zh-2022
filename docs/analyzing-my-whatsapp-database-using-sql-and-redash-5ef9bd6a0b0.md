@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/analyzing-my-whatsapp-database-using-sql-and-redash-5ef9bd6a0b0>
 
-# 使用 SQL 和 Redash 分析我的 WhatsApp 数据库
-
 ## 如何创建一个包含一些关键绩效指标的交互式仪表盘，显示您和您的朋友如何使用 WhatsApp
 
 几个月前，我在浏览 WhatsApp 聊天记录时，突然有了一个想法:为什么不提取我的 WhatsApp 数据库，并对其进行一些数据分析？可以提取许多关于我和我的联系人如何使用 WhatsApp 的有趣元数据。

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/why-you-should-save-numpy-arrays-with-zarr-dabff4ae6c0c>
 
-# 为什么应该用 Zarr 保存 NumPy 数组
-
 ## 利用 Dask 更快地读写阵列
 
 ![](img/1e1619876fb12e73f8e095436e531c85.png)

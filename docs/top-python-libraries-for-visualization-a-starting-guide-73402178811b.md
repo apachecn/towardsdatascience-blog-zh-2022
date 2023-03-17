@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/top-python-libraries-for-visualization-a-starting-guide-73402178811b>
 
-# 可视化顶级 Python 库:入门指南
-
 ## **Python 中散点图、热图、脊线图和线图绘制指南**
 
 ![](img/a02dd52018ca891e3c6cf2e55b63779b.png)

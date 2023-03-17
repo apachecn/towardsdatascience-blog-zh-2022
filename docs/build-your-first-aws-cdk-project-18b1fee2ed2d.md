@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/build-your-first-aws-cdk-project-18b1fee2ed2d>
 
-# 构建您的第一个 AWS CDK 项目
-
 ## Python 使基础设施代码变得简单
 
 ![](img/1728b79a5be41eba14783200d76f0216.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/generating-confidence-intervals-for-regression-models-2dd60026fbce>
 
-# 为回归模型生成置信区间
-
 ## 几种模型无关方法的解释和研究
 
 ![](img/e7b745f61fff79e39ff0eda5390939b2.png)

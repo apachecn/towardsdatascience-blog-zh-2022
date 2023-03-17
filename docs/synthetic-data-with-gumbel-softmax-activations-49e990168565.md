@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/synthetic-data-with-gumbel-softmax-activations-49e990168565>
 
-# Gumbel-Softmax 激活的合成数据
-
 ## 高质量分类数据合成实践
 
 ![](img/3e5304bcc38473ab8460b37e365aece3.png)

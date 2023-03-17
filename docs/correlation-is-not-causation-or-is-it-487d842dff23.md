@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/correlation-is-not-causation-or-is-it-487d842dff23>
 
-# 相关性不是因果关系…或者是吗？
-
 ## 当谈到相关性时，你如何超越挥臂
 
 ![](img/a433c9bc557c58143066727dcde53db2.png)

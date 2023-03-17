@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/metaprogramming-in-julia-a-full-overview-2b4e811f1f77>
 
-# Julia 中的元编程:全面概述
-
 ## 在 Julia 中用几种不同的技术看元编程
 
 ![](img/663a0c9862f09cf198388a79fdcf34d0.png)

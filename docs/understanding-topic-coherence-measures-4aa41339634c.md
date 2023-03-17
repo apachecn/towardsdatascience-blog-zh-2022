@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/understanding-topic-coherence-measures-4aa41339634c>
 
-# 理解主题连贯性度量
-
 ## 从主题建模工具箱中了解这个日常工具背后的细节
 
 ![](img/81b556bc1788b9a0a7cd8b84e09cd6d6.png)

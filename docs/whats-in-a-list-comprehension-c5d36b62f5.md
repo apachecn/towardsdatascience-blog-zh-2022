@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/whats-in-a-list-comprehension-c5d36b62f5>
 
-# 什么是列表理解？
-
 ## 概述 Python 对循环的替代以及为什么应该使用它们。
 
 ![](img/6306467d91b773ef7d0dee72401526a6.png)

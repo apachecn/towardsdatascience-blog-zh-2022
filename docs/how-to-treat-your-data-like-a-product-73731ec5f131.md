@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-to-treat-your-data-like-a-product-73731ec5f131>
 
-# 如何像对待产品一样对待您的数据
-
 ## *您的团队希望“像对待产品一样对待数据”太好了！现在怎么办？*
 
 ![](img/7b143887e1af949765b0e19aa4f1a6ca.png)

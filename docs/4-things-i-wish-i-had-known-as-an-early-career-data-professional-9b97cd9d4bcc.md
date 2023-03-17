@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/4-things-i-wish-i-had-known-as-an-early-career-data-professional-9b97cd9d4bcc>
 
-# 作为一名早期职业数据专家，我希望知道的 4 件事
-
 ## 对任何处于数据专业人员职业生涯早期或考虑做出改变的人，有四条主动提供的建议
 
 我很幸运在我的职业生涯中四处走动，并有幸与一些真正伟大的人一起工作。我在这个过程中学到了一些东西，我认为这些东西对任何处于职业生涯早期的数据科学家、分析师或数据工程师都有帮助。

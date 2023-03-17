@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/a-neural-network-as-an-ensemble-of-simple-models-1f2b01a0616b>
 
-# **作为简单模型集合的神经网络**
-
 ## **以及为什么神经网络代价函数是非凸的直观解释**
 
 ![](img/f3a0ae069452a0b9239c84dad0729d0c.png)

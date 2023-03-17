@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/principal-component-analysis-pca-8133b02f11bd>
 
-# 主成分分析:物理直观的数学介绍
-
 ![](img/8a9678bac793827a6397dad964d2113d.png)
 
 亨特·哈里特在 [Unsplash](https://unsplash.com/@hharritt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 上的照片

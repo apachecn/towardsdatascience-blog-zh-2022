@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/sql-ranking-window-function-guide-b9aee35d5931>
 
-# SQL 排名窗口功能指南
-
 排数()、排名()、密集排名()、实体()、百分比排名()、CUME DIST()
 
 在 SQL 查询的世界中，我们经常发现自己需要创建某种排序来更好地理解我们的数据。幸运的是，排序函数是窗口函数下的主要领域之一，并且很容易实现！

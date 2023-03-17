@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/hands-on-implementation-of-basic-nlp-techniques-nltk-or-spacy-687099e02816>
 
-# 用 spaCy 实现基本 NLP 技术的完整指南(第 4 部分)
-
 ## 了解如何使用 Python 库实现基本的 NLP 技术
 
 ![](img/69e887d44fe80483230033e96bd7e925.png)

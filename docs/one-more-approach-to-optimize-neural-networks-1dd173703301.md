@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/one-more-approach-to-optimize-neural-networks-1dd173703301>
 
-# **优化神经网络的另一种方法**
-
 ## 浅谈优化神经网络超参数的神经结构搜索和自适应算法
 
 ![](img/417eb0c7af67b54107b5082a7248efa4.png)

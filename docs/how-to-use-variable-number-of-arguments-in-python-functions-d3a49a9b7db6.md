@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-to-use-variable-number-of-arguments-in-python-functions-d3a49a9b7db6>
 
-# 如何在 Python 函数中使用可变数量的参数
-
 ## 一个关于*args 和**kwargs 的小故事
 
 ![](img/54c7c189bd78497608a1c2bde8e5b30f.png)

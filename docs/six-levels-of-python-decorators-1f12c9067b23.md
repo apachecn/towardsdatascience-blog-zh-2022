@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/six-levels-of-python-decorators-1f12c9067b23>
 
-# 理解 Python 装饰者:从初学者到专家的六个层次的装饰者
-
 ## 装饰者如何工作，何时使用它们，以及 6 个越来越复杂的例子
 
 ![](img/61215e1ae77448241a28316697d7e3de.png)

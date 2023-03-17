@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/are-you-a-pandas-user-who-is-curious-about-r-for-data-analysis-here-is-a-quick-start-1f88bb5d7001>
 
-# 你是对 R 进行数据分析很好奇的熊猫用户吗？这是一个快速的开始
-
 ## 熊猫是伟大的，但它不是游戏中的唯一。
 
 ![](img/d87293c3c613c89561efa876e773bfde.png)

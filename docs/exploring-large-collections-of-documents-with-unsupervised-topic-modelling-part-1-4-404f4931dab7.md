@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/exploring-large-collections-of-documents-with-unsupervised-topic-modelling-part-1-4-404f4931dab7>
 
-# 利用无监督主题建模探索大型文档集—第 1/4 部分
-
 ## 借助话题模块性解读提取的话题
 
 ![](img/9adf31568b4f19b17bbba85b4252a4a1.png)

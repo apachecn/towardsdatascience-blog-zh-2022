@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/understanding-markov-chains-cbc186d30649>
 
-# 理解马尔可夫链
-
 ## 以及它们与神经科学、人工智能和俄罗斯诗歌的联系
 
 > “我的梦，我的梦！他们的甜蜜变成了什么？我的青春到底变成了什么？”

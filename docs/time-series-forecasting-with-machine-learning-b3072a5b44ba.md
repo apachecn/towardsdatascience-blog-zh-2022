@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/time-series-forecasting-with-machine-learning-b3072a5b44ba>
 
-# 基于监督机器学习的时间序列预测
-
 ## 使用监督机器学习模型的时间序列分析和预测
 
 ![](img/7b27e1101fc50982e90fe5e2148c679e.png)

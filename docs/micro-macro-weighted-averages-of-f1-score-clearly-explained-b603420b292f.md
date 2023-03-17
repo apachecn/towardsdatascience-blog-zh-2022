@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/micro-macro-weighted-averages-of-f1-score-clearly-explained-b603420b292f>
 
-# F1 分数的微观、宏观和加权平均值，解释清楚
-
 ## 用简单的插图理解 F1 分数在多类分类中的微观平均、宏观平均和加权平均背后的概念
 
 ![](img/2678e5ea43a1470ddb66d9a8695f7964.png)

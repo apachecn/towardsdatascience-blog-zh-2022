@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/introduction-to-random-forest-algorithm-fed4b8c8e848>
 
-# 随机森林算法简介
-
 ## 算法是如何工作的，我们可以用它来做什么
 
 ![](img/d3a5b7ce536169e0505eaaa413786685.png)

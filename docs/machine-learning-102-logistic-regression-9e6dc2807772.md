@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/machine-learning-102-logistic-regression-9e6dc2807772>
 
-# 机器学习 102:逻辑回归
-
 ## 回到分类的基础
 
 在之前的一篇文章中，我探索了线性回归——机器学习和数据科学中使用的所有其他高级模型的基础。线性回归模型连续因变量，如股票价格。

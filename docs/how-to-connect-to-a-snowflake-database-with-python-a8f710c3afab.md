@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-to-connect-to-a-snowflake-database-with-python-a8f710c3afab>
 
-# 如何用 Python 连接到雪花数据库
-
 ## 了解如何使用雪花连接器或 SQLAlchemy Python 包与雪花进行交互，并利用本文中提供的模板。
 
 ![](img/737cf61dc6cc20b7f239dc5b20bba861.png)

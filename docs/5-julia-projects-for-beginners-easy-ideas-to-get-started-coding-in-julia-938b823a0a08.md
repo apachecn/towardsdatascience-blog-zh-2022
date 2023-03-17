@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/5-julia-projects-for-beginners-easy-ideas-to-get-started-coding-in-julia-938b823a0a08>
 
-# 面向初学者的 5 个 Julia 项目——用 Julia 开始编码的简单方法
-
 ![](img/3f707650dd6e97abdc5b65616949a989.png)
 
 作者图片

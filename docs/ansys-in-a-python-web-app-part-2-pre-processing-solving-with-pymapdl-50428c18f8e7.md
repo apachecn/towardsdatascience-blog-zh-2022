@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/ansys-in-a-python-web-app-part-2-pre-processing-solving-with-pymapdl-50428c18f8e7>
 
-# Python Web 应用程序中的 ANSYS，第 2 部分:用 PyMAPDL 进行预处理和求解
-
 ## 将 PyAnsys 与 Plotly 的 Dash 和 Dash-VTK 组件集成，以构建 Ansys 结构分析 web 应用程序
 
 ANSYS [最近宣布](https://www.ansys.com/blog/ansys-gets-into-open-source-with-github?utm_campaign=brand&utm_source=marketing-automation&utm_medium=email-single&utm_content=digital_weekly-blog_211015_blog-weekly_roundup_en_global&campaignID=)支持一个开源项目: [PyAnsys](https://www.ansys.com/blog/ansys-gets-into-open-source-with-github?utm_campaign=brand&utm_source=marketing-automation&utm_medium=email-single&utm_content=digital_weekly-blog_211015_blog-weekly_roundup_en_global&campaignID=) 。PyAnsys 被拆分成多个包: [PyMAPDL](https://mapdldocs.pyansys.com/user_guide/index.html) 用于与 Ansys multiphysics 仿真和方程解算器的实例进行交互，以及 [PyDPF-Core](https://github.com/pyansys/pydpf-core) ( &它的简化兄弟 [PyDPF-Post](https://github.com/pyansys/pydpf-post) )用于后处理 Ansys 结果文件。这是 Python Web 应用程序中 Ansys 的姊妹文章，第 1 部分:使用 PyDPF 进行后处理。

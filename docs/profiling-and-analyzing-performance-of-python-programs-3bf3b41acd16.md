@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/profiling-and-analyzing-performance-of-python-programs-3bf3b41acd16>
 
-# 剖析和分析 Python 程序的性能
-
 ## 快速找到 Python 程序中的所有瓶颈并修复它们的工具和技术
 
 ![](img/eafb7d4ffcb55298615ce8b7d4717161.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/from-data-driven-to-data-science-driven-f2db93f83d51>
 
-# 从数据驱动到数据科学驱动
-
 数据科学驱动是新数据驱动的三个原因
 
 ![](img/38e1bb9554bfb541dd13a50d84ba5c5c.png)

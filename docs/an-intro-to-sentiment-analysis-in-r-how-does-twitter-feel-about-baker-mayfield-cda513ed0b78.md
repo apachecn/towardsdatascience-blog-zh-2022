@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/an-intro-to-sentiment-analysis-in-r-how-does-twitter-feel-about-baker-mayfield-cda513ed0b78>
 
-# R 中的情感分析介绍 Twitter 对贝克·梅菲尔德有何看法？
-
 ## 使用 Twitter 开发者 API 和 R 库分析受众情绪
 
 全国的体育迷定期讨论他们喜欢的球队、球员、教练等。贯穿每个运动赛季。毕竟，共同的热情将人们联系在一起——而体育运动经常将人们聚集在一起。不同的球队有如此多的观点，如果我们想更好地了解某个球队、教练、比赛或球员的情绪会怎么样呢？

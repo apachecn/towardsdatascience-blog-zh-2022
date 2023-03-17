@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-i-designed-my-data-science-portfolio-f05f51ebfd9b>
 
-# 我如何设计我的数据科学产品组合
-
 ![](img/2472b4dca3a5dd09b131de8e2ce40258.png)
 
 (*图片作者*)

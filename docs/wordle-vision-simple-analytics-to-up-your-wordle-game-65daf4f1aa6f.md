@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/wordle-vision-simple-analytics-to-up-your-wordle-game-65daf4f1aa6f>
 
-# WORDLE-VISION:简单分析提升你的 WORDLE 游戏
-
 ![](img/4c05d86f2516aea353d3a13f8707057f.png)
 
 斯文·布兰德斯马在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上的照片

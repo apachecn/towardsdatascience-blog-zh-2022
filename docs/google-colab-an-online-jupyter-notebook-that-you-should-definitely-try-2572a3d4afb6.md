@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/google-colab-an-online-jupyter-notebook-that-you-should-definitely-try-2572a3d4afb6>
 
-# Google Colab:你绝对应该试试的在线 Jupyter 笔记本
-
 ## 谷歌的 Colab 允许任何人在任何地方在线编写和分享 Jupyter 笔记本
 
 ![](img/16bf8c1973a17fe2927941335db7a327.png)

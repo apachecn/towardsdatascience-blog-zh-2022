@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/workforce-equity-at-the-county-of-santa-clara-9da948d63ec5>
 
-# **圣克拉拉县的劳动力权益**
-
 ## 使用逻辑回归预测圣克拉拉县的全职就业结果
 
 ![](img/d6d1c42d4dca4969208bce7b474e8d8d.png)

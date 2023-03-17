@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/game-theory-666abe63215e>
 
-# 数据科学家的博弈论
-
 ## **基础:同时移动游戏&优势可解策略**
 
 ![](img/40ded372f5ee0d9d3f0dd109eebb783e.png)

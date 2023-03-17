@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/extracting-information-from-historical-genealogical-documents-ab3068b10715>
 
-# 从历史家谱文献中提取信息
-
 ## *HTR(手写文本识别)和相关技术如何推动家庭发现*
 
 ## 概观

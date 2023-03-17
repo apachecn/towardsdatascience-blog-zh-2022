@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/time-series-anomaly-detection-with-pyfbad-d37e5462c6c3>
 
-# 基于 PyFBAD 的时间序列异常检测
-
 ## 一种端到端的无监督离群点检测
 
 ![](img/f7bc4998a21f92e7f873be338bd08515.png)

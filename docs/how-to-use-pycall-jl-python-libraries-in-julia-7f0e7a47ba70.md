@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-to-use-pycall-jl-python-libraries-in-julia-7f0e7a47ba70>
 
-# 如何在 Julia 中使用 PyCall.jl: Python 库
-
 ## Julia 的 PyCall 包的概述，以及更多关于它的有用性和可用性的内容
 
 ![](img/50c314644529239dbfecec7c844c3c58.png)

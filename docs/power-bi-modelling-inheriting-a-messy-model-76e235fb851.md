@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/power-bi-modelling-inheriting-a-messy-model-76e235fb851>
 
-# Power BI 建模——继承混乱的模型
-
 ## 在这些情况下该怎么做
 
 ![](img/115a6af1e411a776aa468aa844bbd71b.png)

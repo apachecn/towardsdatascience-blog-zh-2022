@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-ai-can-help-smart-city-initiatives-f83484891343>
 
-# 人工智能如何帮助智能城市计划
-
 ## 基于人工智能感知和市民数据来源，帮助智能城市计划的一些想法
 
 ![](img/bc6090fcb26ab80543d4f901fcb0ba7a.png)

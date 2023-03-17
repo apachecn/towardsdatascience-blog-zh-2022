@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-to-create-a-map-from-geospatial-data-in-python-f4bb7d11ddad>
 
-# 如何使用 Python 从地理空间数据创建地图
-
 ## 使用 Folium 将印度尼西亚火山的位置数据绘制成地图
 
 ![](img/536c2db0c5042e34c346581d9f248298.png)

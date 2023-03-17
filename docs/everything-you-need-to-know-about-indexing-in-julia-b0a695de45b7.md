@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/everything-you-need-to-know-about-indexing-in-julia-b0a695de45b7>
 
-# 关于 Julia 中的索引，您需要知道的一切
-
 ## 关于 Julia 中索引的所有细节的概述
 
 ![](img/5c9bac7fdb7ab74815f999ba44f61f80.png)

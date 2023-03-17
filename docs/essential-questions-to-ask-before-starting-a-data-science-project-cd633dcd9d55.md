@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/essential-questions-to-ask-before-starting-a-data-science-project-cd633dcd9d55>
 
-# 开始数据科学项目之前要问的基本问题
-
 ## 如何确保你的项目有一个良好的开端
 
 ![](img/1303c3b3060ad41459b0655268f371b5.png)

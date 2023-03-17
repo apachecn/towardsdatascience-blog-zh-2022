@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/ai-assisted-annotation-with-multimodal-neural-networks-1c69f5a4017c>
 
-# 基于多模态神经网络的人工智能辅助标注
-
 ## 反垃圾邮件人脸检测项目的真实数据验证示例
 
 ![](img/789e0ab8229dea3c2993990905ee7b9f.png)

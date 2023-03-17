@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/data-science-masters-uk-what-should-you-look-for-4a7a0f4bb0ae>
 
-# 选择最好的数据科学硕士:你应该寻找什么？(英国)
-
 ## 我对未来数据科学学生的建议
 
 ![](img/3af8c23798895ffc18aa894d4d91a7e9.png)

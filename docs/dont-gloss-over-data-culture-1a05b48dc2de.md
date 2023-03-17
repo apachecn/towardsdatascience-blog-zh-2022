@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/dont-gloss-over-data-culture-1a05b48dc2de>
 
-# **不要掩盖数据文化**
-
 ![](img/18faf3b7fccbd071b9d3e393c722a7f5.png)
 
 莎伦·麦卡琴在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上的照片

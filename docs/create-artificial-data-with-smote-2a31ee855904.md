@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/create-artificial-data-with-smote-2a31ee855904>
 
-# 用 SMOTE 创建人工数据
-
 ## 如何利用简单的算法来弥补数据的不足
 
 ![](img/67df7a9989d456766017a01e8be3fa86.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/ensemble-learning-in-sklearn-587f21246e8d>
 
-# sklearn 中的集成学习
-
 ## 了解如何在 sklearn 中与 pipelines 和 GridSearchCV 一起执行集成学习
 
 ![](img/dad2aa1575811a51631794941810f5c0.png)

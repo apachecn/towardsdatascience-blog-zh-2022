@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/6-common-mistakes-machine-learning-beginners-make-and-how-to-avoid-them-b1f774d06838>
 
-# 机器学习初学者常犯的 6 个错误以及如何避免
-
 ## 我在旅途中犯过的错误，以及你如何避免在开始时像我一样
 
 ![](img/54f47715b20b8183b08e295e8abd5783.png)

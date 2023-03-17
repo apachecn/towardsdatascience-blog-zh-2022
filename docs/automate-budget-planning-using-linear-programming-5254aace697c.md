@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/automate-budget-planning-using-linear-programming-5254aace697c>
 
-# 使用线性规划自动进行预算规划
-
 ## 选择投资回报最大化的项目，遵循管理准则，同时遵守预算限制
 
 ![](img/88d84bb92692f5d1af01459d16bc9bfa.png)

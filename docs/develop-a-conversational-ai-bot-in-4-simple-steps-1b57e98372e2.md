@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/develop-a-conversational-ai-bot-in-4-simple-steps-1b57e98372e2>
 
-# 用 4 个简单的步骤开发一个对话式人工智能机器人
-
 ## 了解如何使用 PyTorch transformers、FastAPI 和 Docker 创建聊天机器人
 
 ![](img/0804db4ee48ed679b74f2cad81cef5cd.png)

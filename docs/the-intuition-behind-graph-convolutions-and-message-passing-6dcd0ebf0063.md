@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/the-intuition-behind-graph-convolutions-and-message-passing-6dcd0ebf0063>
 
-# 图形卷积和消息传递背后的直觉
-
 ## 图神经网络中图卷积和消息传递之间的关系及图分类实例。
 
 ![](img/5e8d1787cdb82920403f547ea9cb0f0b.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/pca-102-should-you-use-pca-how-many-components-to-use-how-to-interpret-them-da0c8e3b11f0>
 
-# PCA 102:该不该用 PCA？使用多少组件？如何解读它们？
-
 ## 对 PCA 分析中一些中间概念的探讨
 
 ![](img/b032f1ecce0e9e9d9934ba5b3b9bf6de.png)

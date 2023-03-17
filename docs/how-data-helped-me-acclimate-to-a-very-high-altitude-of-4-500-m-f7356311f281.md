@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-data-helped-me-acclimate-to-a-very-high-altitude-of-4-500-m-f7356311f281>
 
-# 数据如何帮助我适应 4500 米的高海拔
-
 ## 关于如何利用数据为现实生活决策提供信息的快速、实用的方法
 
 ![](img/dfb4d9c507b2e38842bd97bab38a5327.png)

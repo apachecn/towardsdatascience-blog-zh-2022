@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/macbook-m1-vs-m1-pro-for-data-science-is-the-new-chip-radically-better-3d6098ef3694>
 
-# MacBook M1 与 M1 Pro 在数据科学领域的较量——新芯片真的更好吗？
-
 ## **从 8 到 16 个 GPU 核心——这是它在 TensorFlow 中产生的巨大差异**
 
 ![](img/f0b41dcba40c29ff94564d679e555858.png)

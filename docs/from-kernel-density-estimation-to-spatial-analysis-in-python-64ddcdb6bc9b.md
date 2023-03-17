@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/from-kernel-density-estimation-to-spatial-analysis-in-python-64ddcdb6bc9b>
 
-# 从核密度估计到 Python 中的空间分析
-
 ## 如何将您的 KDE 转化为地理空间数据
 
 ![](img/e959c60bc24cac7fbbebfd9e108c860c.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/building-an-analytics-api-with-graphql-the-next-level-of-data-engineering-6a8aea32ba72>
 
-# 用 GraphQL 构建分析 API:数据工程的下一个层次？
-
 ## 拥有一个高性能、安全、可靠的数据端点是实实在在的挑战。尤其是选择每个人都同意的准确的度量和尺寸，对吗？让我们解决这个问题。
 
 ![](img/486eb8497df26d5fbb5e43b73a1e23d3.png)

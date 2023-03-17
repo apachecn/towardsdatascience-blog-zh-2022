@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/tensorflow-for-computer-vision-transfer-learning-made-easy-e3d1418b110f>
 
-# 面向计算机视觉的 TensorFlow 轻松实现迁移学习
-
 ## 90+%的准确率？迁移学习使之成为可能。
 
 ![](img/85efd3377c0b9a3bb43cd5d623da5346.png)

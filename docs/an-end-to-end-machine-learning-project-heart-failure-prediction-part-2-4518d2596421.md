@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/an-end-to-end-machine-learning-project-heart-failure-prediction-part-2-4518d2596421>
 
-# 端到端机器学习项目:心力衰竭预测，第 2 部分
-
 ## web 应用程序中的模型部署
 
 欢迎来到端到端机器学习项目系列的第二部分！在[第一篇文章](/an-end-to-end-machine-learning-project-heart-failure-prediction-part-1-ccad0b3b468a)中，我们训练、验证、调整并保存了一个使用患者信息来预测心力衰竭概率的机器学习模型。在本文中，我们将开发一个 web 应用程序，任何人都可以通过它与我们的模型进行交互。应用程序的前端将由 HTML、CSS 和 JavaScript 处理，后端将使用 Flask 用 python 编写。和往常一样，文章中使用的所有代码都可以在 [GitHub](https://github.com/hfhoffman1144/Heart-Disease-Prediction) 上找到。应用程序的部署版本可以在[这里](https://hf-predictor.herokuapp.com/)找到。

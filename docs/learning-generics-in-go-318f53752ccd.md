@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/learning-generics-in-go-318f53752ccd>
 
-# 在围棋中学习泛型
-
 ## 泛型在 Go 1.18 中发布，是时候学习如何利用这个新特性了
 
 ![](img/37f1e5728d93628f250cdc21507fb485.png)

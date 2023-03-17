@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-to-automatically-design-an-efficient-neural-network-ee842a631885>
 
-# 如何自动设计高效的神经网络
-
 ## 神经结构搜索的简明介绍
 
 ![](img/e2e774a3c88bd94f2d25c0068f048645.png)

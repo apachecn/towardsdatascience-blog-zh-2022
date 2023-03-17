@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-to-get-faster-in-programming-machine-learning-data-analysis-ce141910d52c>
 
-# 如何更快更高效地进行编程—机器学习—数据分析
-
 ## 步伐是提高数据科学家工作效率的关键因素
 
 ![](img/5124b92cb7c0994e1ee06fd62ee17220.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/this-is-how-i-used-my-coding-skills-to-build-free-pdf-extractor-51f87ce68cc3>
 
-# 这就是我如何使用我的编码技能来构建免费的 Pdf 提取器
-
 ## 使用 Python
 
 ![](img/9db5017be53f7ec2699b434199f8b2ec.png)

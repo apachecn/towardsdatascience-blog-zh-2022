@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/disease-informed-neural-networks-aa1f17f598a4>
 
-# 疾病通知神经网络
-
 ## 神经网络能够学习疾病如何传播，预测其进展，并找到其独特的参数(如死亡率)。
 
 在本教程中，我介绍了疾病通知神经网络(DINNs)。在[论文](https://arxiv.org/abs/2110.05445)中，我们使用 DINNs 来确定 11 种高传染性和致命性疾病的动态。这些系统的复杂性和参数数量各不相同。这些疾病包括 COVID，炭疽，艾滋病毒，寨卡，天花，结核病，肺炎，埃博拉病毒，登革热，脊髓灰质炎和麻疹。完整的代码&实验可以在[这里](https://github.com/Shaier/DINN)找到，具体的教程笔记本可以在[这里](https://github.com/Shaier/DINN/blob/master/tutorial.ipynb)找到。

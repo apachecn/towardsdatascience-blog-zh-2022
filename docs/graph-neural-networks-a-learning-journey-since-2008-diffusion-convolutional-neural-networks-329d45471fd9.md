@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/graph-neural-networks-a-learning-journey-since-2008-diffusion-convolutional-neural-networks-329d45471fd9>
 
-# 图形神经网络:2008 年以来的学习之旅——扩散卷积神经网络
-
 图中邻接矩阵的真正威力是什么？什么是扩散卷积？请跟随我探索图形和机器学习的新冒险，探索 DCNN 理论
 
 ![](img/e8e1f0c8fad9a692f33f63b7f099b0ef.png)

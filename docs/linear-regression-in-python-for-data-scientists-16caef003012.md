@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/linear-regression-in-python-for-data-scientists-16caef003012>
 
-# Python 中的线性回归基础
-
 ## UCL 数据科学学会研讨会 10:什么是线性回归、数据探索、Scikit 学习实施和多元线性回归
 
 ![](img/7233478f2e11edd1625e1a622dcd7845.png)

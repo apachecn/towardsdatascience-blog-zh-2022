@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/accelerated-distributed-training-with-tensorflow-on-googles-tpu-52f1fe21da33>
 
-# 在谷歌 TPU 上使用 TensorFlow 加速分布式训练
-
 ## 了解您的硬件以优化您的软件
 
 ![](img/e6e3500ccde4150853dfc7fe7775d1f0.png)

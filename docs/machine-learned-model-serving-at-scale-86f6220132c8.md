@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/machine-learned-model-serving-at-scale-86f6220132c8>
 
-# 大规模服务的机器学习模型
-
 ![](img/f87683d501534de3c2e90fc1e770c3c2.png)
 
 Jukan Tateisi 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄的照片

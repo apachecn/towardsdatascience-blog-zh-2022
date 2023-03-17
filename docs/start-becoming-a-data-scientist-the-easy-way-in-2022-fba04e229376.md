@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/start-becoming-a-data-scientist-the-easy-way-in-2022-fba04e229376>
 
-# 从 2022 年开始，以最简单的方式成为一名数据科学家
-
 ## **在不损失金钱和财产的情况下进入数据科学领域**
 
 ![](img/408d8c178c5d731e9cc5e01d4da9382d.png)

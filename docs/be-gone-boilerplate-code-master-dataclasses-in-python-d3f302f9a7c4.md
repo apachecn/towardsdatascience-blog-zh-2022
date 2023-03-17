@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/be-gone-boilerplate-code-master-dataclasses-in-python-d3f302f9a7c4>
 
-# 去样板代码！Python 中的主数据类
-
 ## 熟悉一个非常有用的数据容器
 
 ![](img/a309895b5913cda14a8965c8795df8ae.png)

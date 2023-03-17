@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/top-5-bits-of-advice-for-the-first-3-months-in-your-new-data-science-role-a93d1fe91a7f>
 
-# **在你新的数据科学职位的前 3 个月，最重要的 5 条建议**
-
 ## *充分利用你的新数据科学家职位*
 
 ![](img/0d7da158380f6250874659d6426919cd.png)

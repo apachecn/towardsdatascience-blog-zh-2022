@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-i-got-my-first-job-in-data-analytics-with-no-prior-experience-d5a6ebda4a08>
 
-# 我是如何在没有全职工作经验的情况下找到我的第一份数据分析工作的
-
 ## 学习永远不会太晚&忘掉那份被书签标记的工作吧！
 
 ![](img/7e1012d54180a9935bd90ee819672816.png)

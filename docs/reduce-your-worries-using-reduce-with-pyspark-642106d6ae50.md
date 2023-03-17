@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/reduce-your-worries-using-reduce-with-pyspark-642106d6ae50>
 
-# 减少您的担忧:使用 PySpark 的“Reduce”
-
 ## 使用 python 轻松重复 PySpark 操作
 
 ![](img/8ae4854cb338483f7c8fbdce0d34f81a.png)

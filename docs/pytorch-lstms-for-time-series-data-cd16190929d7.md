@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/pytorch-lstms-for-time-series-data-cd16190929d7>
 
-# 时序数据的 Pytorch LSTMs
-
 ## 使用 Pytorch 函数 API 构建单变量时间序列的时态模型
 
 ![](img/1c92f70fa7e244322bb2defab7f00f97.png)

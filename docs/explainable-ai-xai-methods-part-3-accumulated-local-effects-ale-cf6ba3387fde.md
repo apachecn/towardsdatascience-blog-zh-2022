@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/explainable-ai-xai-methods-part-3-accumulated-local-effects-ale-cf6ba3387fde>
 
-# 可解释的人工智能(XAI)方法第三部分——累积局部效应(ALE)
-
 ## 关于累积局部效应(ALE)的教程，侧重于它的使用、解释和利弊
 
 ![](img/a141db704c801a910b40070b6fd95913.png)

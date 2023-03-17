@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/strings-in-sql-part-2-21a467374b84>
 
-# SQL 中的字符串，第 2 部分
-
 ## 用 SQL 聚集和分割字符串变量
 
 ![](img/c8b359e06b7159e941052bee48f572b9.png)

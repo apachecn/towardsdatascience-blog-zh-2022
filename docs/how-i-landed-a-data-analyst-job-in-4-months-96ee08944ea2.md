@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-i-landed-a-data-analyst-job-in-4-months-96ee08944ea2>
 
-# 我如何在 4 个月内找到一份数据分析师的工作
-
 ## 通过数据分析师面试指南
 
 ![](img/faa750a410e0ad126c28f47f9c71f7fa.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/explaining-face-mask-image-classification-model-using-lime-8f423c601ff9>
 
-# 用石灰解释口罩图像分类模型
-
 ## 用于解释影像分类模型的 LIME 的不同组件的概述
 
 ![](img/4a8618aefc0ea14efccbdfb134e422b2.png)

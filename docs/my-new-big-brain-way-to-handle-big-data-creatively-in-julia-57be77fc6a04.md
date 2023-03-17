@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/my-new-big-brain-way-to-handle-big-data-creatively-in-julia-57be77fc6a04>
 
-# 我在 Julia 中创造性地处理大数据的新大脑方法
-
 ## 我想出了为了应用表达式来压缩内存中的大量数据，让我们来看看吧
 
 ![](img/2e999858c232b6a981fd758ab360ffc6.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/when-is-bayesian-machine-learning-actually-useful-1fd8af456e4c>
 
-# 贝叶斯机器学习实际上什么时候有用？
-
 ## 关于一个有点争议的范式的个人想法
 
 ![](img/fac103de75890172a6dafee3dbf67901.png)

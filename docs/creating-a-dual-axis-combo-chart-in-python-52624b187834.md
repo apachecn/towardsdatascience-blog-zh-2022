@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/creating-a-dual-axis-combo-chart-in-python-52624b187834>
 
-# 用 Python 创建双轴组合图
-
 ## 使用 Matplotlib、Seaborn 和 Pandas plot()创建双轴组合图的实践教程
 
 ![](img/b97161918c08146ae8efb7797c633854.png)

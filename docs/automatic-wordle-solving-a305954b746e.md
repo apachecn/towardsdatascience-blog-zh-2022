@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/automatic-wordle-solving-a305954b746e>
 
-# 自动单词求解
-
 ## 去掉 Wordle 的乐趣本身就是乐趣…让我们看看怎么做
 
 ![](img/345564078e1d34d0aa9c6b174c2af8ee.png)

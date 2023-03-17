@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/run-your-r-sparklyr-workloads-at-scale-with-spark-on-kubernetes-3db4f26d3348>
 
-# 借助 Spark-on-Kubernetes 大规模运行您的 R (SparklyR)工作负载
-
 ## 教程:如何建立正确的 Docker 映像，开始您的 Spark 会话，并大规模运行！
 
 r 是一种用于统计计算的编程语言。它被统计学家和数据科学家广泛使用。长期以来，在单台机器上运行应用程序已经足够了，但是当需要更多数据和高级分析时，这就成了一个限制因素。

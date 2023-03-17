@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/multivariate-time-series-forecasting-with-deep-learning-3e7b3e2d2bcf>
 
-# 基于深度学习的多元时间序列预测
-
 ## 用 LSTM 网络进行时间序列预测并解释结果
 
 ![](img/2cd1c86edb364e519d721b059696c7e4.png)

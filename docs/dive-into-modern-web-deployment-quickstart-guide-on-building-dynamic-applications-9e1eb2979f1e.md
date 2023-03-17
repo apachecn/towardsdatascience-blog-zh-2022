@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/dive-into-modern-web-deployment-quickstart-guide-on-building-dynamic-applications-9e1eb2979f1e>
 
-# 深入现代 Web 部署:构建动态应用程序快速入门指南
-
 ## 用顺风 CSS 创建 Vue 应用
 
 ![](img/33f1ec4971865034005e0e795f6fe946.png)

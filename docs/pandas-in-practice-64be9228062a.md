@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/pandas-in-practice-64be9228062a>
 
-# 实践中的熊猫
-
 ## 这是一个实践教程，演示了如何利用 Pandas 包来清理、操作和分析数据。
 
 ![](img/9fd66b41f4ef2eff9d45b6935cb7160e.png)

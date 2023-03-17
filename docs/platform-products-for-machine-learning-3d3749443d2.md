@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/platform-products-for-machine-learning-3d3749443d2>
 
-# 机器学习的平台产品
-
 ## 如何让采用机器学习的组织中的价值交付团队更容易使用平台产品进行部署，从而为他们提供最佳机会？
 
 ![](img/ef7809fe1eea362ac7bc961a42fee399.png)

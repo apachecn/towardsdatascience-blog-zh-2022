@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/the-ultimate-guide-to-a-b-testing-with-python-b2c560b7ab26>
 
-# 用 Python 进行 A/B 测试的终极指南
-
 ## 使用概率规划测试假设
 
 ![](img/3f95b3d43a6bfe036a746e39d034f5de.png)

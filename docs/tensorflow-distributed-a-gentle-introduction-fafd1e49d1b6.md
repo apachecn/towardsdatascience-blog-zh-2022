@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/tensorflow-distributed-a-gentle-introduction-fafd1e49d1b6>
 
-# 张量流分布:一个温和的介绍
-
 ## 当您可以轻松地将训练过程分布到多个 GPU 时，为什么要将自己限制在一个 GPU 上呢？
 
 ![](img/bba315543ab4559feb66ee49d0eac744.png)

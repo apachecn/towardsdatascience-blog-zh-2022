@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/10-ai-models-that-have-defined-2021-7d804b87b10>
 
-# 定义 2021 年的 10 个人工智能模型
-
 ## 未来将建立在这些基础上
 
 ![](img/80b40575cad14e271b08d244fee38d60.png)

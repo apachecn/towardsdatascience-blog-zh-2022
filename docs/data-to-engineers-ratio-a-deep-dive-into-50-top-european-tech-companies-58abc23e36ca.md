@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/data-to-engineers-ratio-a-deep-dive-into-50-top-european-tech-companies-58abc23e36ca>
 
-# 数据与工程师的比率:对欧洲 50 家顶级科技公司的深度调查
-
 你知道，当顶级科技公司的开放数据角色数量接近工程时，数据正迎来它的时刻。但是最好的科技公司到底雇佣了多少数据人员呢？
 
 我对欧洲 50 家顶尖科技公司的分析显示，数据与工程师的比例中位数是 1:4。

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/dont-make-data-scientists-do-scrum-de87bc921a6b>
 
-# **不要让数据科学家做 Scrum**
-
 ## 来自数据科学家和认证 Scrum 大师的想法
 
 ![](img/4d40c3d3d74b855a2adb2679634f9101.png)

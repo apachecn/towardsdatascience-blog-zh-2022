@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/replace-python-lists-and-make-your-code-orders-of-magnitude-faster-702c08fb397b>
 
-# 替换 Python 列表，让你的代码快几个数量级！
-
 ## 没有花哨的库，没有复杂的工程，只有一种数据结构——哈希表。
 
 ![](img/13a7450414097a4c829c7f0ec8daad2e.png)

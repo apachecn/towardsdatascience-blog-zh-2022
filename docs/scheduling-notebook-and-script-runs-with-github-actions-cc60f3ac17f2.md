@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/scheduling-notebook-and-script-runs-with-github-actions-cc60f3ac17f2>
 
-# 用 GitHub 动作安排笔记本和脚本运行
-
 ## 使用 GitHub 操作来自动化工作流程，并从脚本和笔记本中运行和更新结果
 
 ![](img/544a50d569703896ca15feff1aa92408.png)

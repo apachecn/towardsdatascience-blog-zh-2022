@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/5-streamlit-components-to-build-better-applications-71e0195c82d4>
 
-# 5 简化组件以构建更好的应用
-
 ## 2 号是我的最爱
 
 ![](img/7652151fc4d985fb6812875fc14c2e71.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/long-callbacks-in-dash-web-apps-72fd8de25937>
 
-# Dash Web 应用程序中的长时间回调
-
 ## *如何处理 Python Dash web 应用回调函数中耗时的代码*
 
 ![](img/0b567b719789a427ffcbffd4f952ddf6.png)

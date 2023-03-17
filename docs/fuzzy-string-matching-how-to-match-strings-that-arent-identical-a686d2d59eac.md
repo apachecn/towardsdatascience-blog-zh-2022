@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/fuzzy-string-matching-how-to-match-strings-that-arent-identical-a686d2d59eac>
 
-# 模糊字符串匹配—如何匹配不同的字符串
-
 ## 人类思维很容易注意到接近但不完美的匹配——这就是 Python 的工作方式。
 
 ![](img/b902188ec26af9028065b743c5196a1f.png)

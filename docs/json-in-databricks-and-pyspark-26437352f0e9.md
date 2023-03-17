@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/json-in-databricks-and-pyspark-26437352f0e9>
 
-# Databricks 和 PySpark 中的 JSON
-
 ## 使用 PySpark 在数据块中处理 JSON 数据的技巧和诀窍
 
 ![](img/9545cebea9129e47ea3ad08ae1003fa6.png)

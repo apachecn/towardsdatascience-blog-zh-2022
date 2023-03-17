@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/evaluation-metrics-leave-your-comfort-zone-and-try-mcc-and-brier-score-86307fb1236a>
 
-# 评估指标:离开你的舒适区，尝试 MCC 和 Brier 评分
-
 ## Matthews 相关系数和 Brier 评分简介
 
 ![](img/f4d3a37e05069290056c5b2ec8710462.png)

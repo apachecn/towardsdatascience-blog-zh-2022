@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/retention-analysis-framework-4eb62933e2b>
 
-# 保留分析框架
-
 ## 数据科学视角
 
 ![](img/b4f32c4baeca61483bcd0fc360a317ad.png)

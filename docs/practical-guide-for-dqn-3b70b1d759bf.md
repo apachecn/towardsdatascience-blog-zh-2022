@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/practical-guide-for-dqn-3b70b1d759bf>
 
-# DQN 实用指南
-
 ## DQN 在强化学习中的实现
 
 ![](img/e560eb8a3902595847e685486f2385a7.png)

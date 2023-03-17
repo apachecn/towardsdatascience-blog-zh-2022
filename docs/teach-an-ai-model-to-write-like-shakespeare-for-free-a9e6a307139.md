@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/teach-an-ai-model-to-write-like-shakespeare-for-free-a9e6a307139>
 
-# 免费教一个人工智能模型像莎士比亚一样写作
-
 ## 使用 SageMaker Studio Lab 训练您自己的 NLP 模型
 
 ![](img/f0cab7682e7a1707d2a2c74e97edf1b8.png)

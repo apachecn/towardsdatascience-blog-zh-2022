@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/cliff-walking-with-monte-carlo-reinforcement-learning-587e9d3bc4e7>
 
-# 蒙特卡洛强化学习的悬崖行走
-
 ## TD(0)和 TD(1)学习的比较，包括完整的 Python 实现
 
 ![](img/f433224e009019d302326bb06dcac8b2.png)

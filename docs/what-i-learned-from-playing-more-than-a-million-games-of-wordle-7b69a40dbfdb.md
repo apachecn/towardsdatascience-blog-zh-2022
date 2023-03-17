@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/what-i-learned-from-playing-more-than-a-million-games-of-wordle-7b69a40dbfdb>
 
-# 我从玩了一百多万个单词游戏中学到了什么
-
 ## 小心！这篇文章包含了一些剧透
 
 ![](img/9c1a8f3b10bbad0e75427bcfc22fc84f.png)

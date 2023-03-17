@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-to-become-a-freelance-data-scientist-in-2022-e6ce4ea9ce23>
 
-# 如何在 2022 年成为一名自由职业数据科学家
-
 ## 关于建立投资组合、获得新客户和创造稳定的额外收入的建议
 
 ![](img/7f4d203bc9d901f30afa418a6bb43e6d.png)

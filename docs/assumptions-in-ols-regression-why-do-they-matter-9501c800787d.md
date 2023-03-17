@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/assumptions-in-ols-regression-why-do-they-matter-9501c800787d>
 
-# OLS 回归中的假设——它们为什么重要？
-
 ## 为什么你应该关心他们，他们是如何建立或破坏你的回归模型的
 
 ![](img/49f8bf650bba2f0f31509823496e4775.png)

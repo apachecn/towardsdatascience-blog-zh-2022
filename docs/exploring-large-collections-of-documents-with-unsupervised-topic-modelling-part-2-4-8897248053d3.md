@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/exploring-large-collections-of-documents-with-unsupervised-topic-modelling-part-2-4-8897248053d3>
 
-# 利用无监督主题建模探索大型文档集—第 2/4 部分
-
 ## 通过聚类了解文档分布
 
 ![](img/9adf31568b4f19b17bbba85b4252a4a1.png)

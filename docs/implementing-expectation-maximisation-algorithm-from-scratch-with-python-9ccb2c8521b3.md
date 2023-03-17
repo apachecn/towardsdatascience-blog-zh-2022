@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/implementing-expectation-maximisation-algorithm-from-scratch-with-python-9ccb2c8521b3>
 
-# 用 Python 从头开始实现期望最大化算法
-
 ## 通过从头开始构建 EM 算法来揭开 EM 算法的神秘面纱
 
 ![](img/34b1bca78bef182c4d83666b735abf33.png)

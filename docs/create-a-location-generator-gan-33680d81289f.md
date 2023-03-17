@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/create-a-location-generator-gan-33680d81289f>
 
-# 创建位置生成器 GAN
-
 ## 根据几个城市的公共位置数据训练一个快速 GAN，以预测电动自行车在世界各地的实际位置
 
 在本帖中，我们将探索在美国各城市的地图数据和公共电动自行车反馈上训练一个[捷径](https://arxiv.org/pdf/2007.15651)生成对抗网络(GAN)模型。然后，我们可以通过为包括东京在内的世界各地的城市创建[合成数据集](https://gretel.ai/blog/what-is-synthetic-data)，来测试模型的学习和归纳能力。如果您愿意跟随，请[从 GitHub 克隆示例 repo](https://github.com/gretelai/GAN-location-generator) 👇并为您自己的城市创建合成位置数据集！

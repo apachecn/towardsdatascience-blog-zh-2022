@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/boruta-shap-an-amazing-tool-for-feature-selection-every-data-scientist-should-know-33a5f01285c0>
 
-# *博鲁塔·SHAP:每个数据科学家都应该知道的特征选择工具*
-
 ## 我们如何使用博鲁塔和 SHAP 构建一个惊人的特征选择过程——以 python 为例
 
 ![](img/cacc85b02eda49e67c5569d56047caea.png)

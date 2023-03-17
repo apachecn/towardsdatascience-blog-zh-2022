@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/deploy-logistics-operational-dashboards-using-datapane-585cf19532f1>
 
-# 使用数据面板部署物流操作仪表板
-
 ## 使用 DataPane 部署报告解决方案以支持电子商务的仓储物流操作
 
 ![](img/ea98cf91b31a428dbc7498818596bb00.png)

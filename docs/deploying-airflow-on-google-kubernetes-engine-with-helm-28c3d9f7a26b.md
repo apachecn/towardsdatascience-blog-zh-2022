@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/deploying-airflow-on-google-kubernetes-engine-with-helm-28c3d9f7a26b>
 
-# 使用 Helm 在 Google Kubernetes 引擎上部署气流
-
 ## 第一部分:使用 Helm 配置基本气流部署
 
 ![](img/6af8930d757fc31bac1d3b7fafabd7ca.png)

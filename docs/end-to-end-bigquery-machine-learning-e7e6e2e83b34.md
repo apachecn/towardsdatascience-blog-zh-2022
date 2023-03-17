@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/end-to-end-bigquery-machine-learning-e7e6e2e83b34>
 
-# 端到端 BigQuery 机器学习
-
 ## 使用 Google Cloud BigQuery 参加 Kaggle 竞赛
 
 我将向您展示如何仅使用 BigQuery 和 Kaggle API 来预测泰坦尼克号灾难**的幸存者。自从我遇到 BigQuery，我就成了它的粉丝。它很容易使用，超级快，超级便宜——如果你用得好的话…**

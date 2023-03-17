@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/data-warehouses-for-distributed-applications-7e34679f74>
 
-# 分布式应用的数据仓库
-
 ## 什么是云数据仓库，如何大规模实现它们
 
 ![](img/3d2572138bd1d3d1328be029160ec603.png)

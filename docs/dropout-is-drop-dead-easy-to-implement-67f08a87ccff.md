@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/dropout-is-drop-dead-easy-to-implement-67f08a87ccff>
 
-# 辍学是非常容易实现的
-
 ## 大概是 1 行 python…
 
 ![](img/d47c008c979577d9984faa44d2be283d.png)

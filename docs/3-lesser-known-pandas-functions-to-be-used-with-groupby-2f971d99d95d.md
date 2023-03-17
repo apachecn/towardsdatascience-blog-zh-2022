@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/3-lesser-known-pandas-functions-to-be-used-with-groupby-2f971d99d95d>
 
-# 3 个鲜为人知的熊猫函数将与 Groupby 一起使用
-
 ## 这将帮助你充分利用它
 
 ![](img/b05e88d9af5de68a78e91f60c23be9af.png)

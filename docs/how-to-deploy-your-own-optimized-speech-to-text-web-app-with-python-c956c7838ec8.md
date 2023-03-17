@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-to-deploy-your-own-optimized-speech-to-text-web-app-with-python-c956c7838ec8>
 
-# 如何使用 Python 部署您自己优化的语音转文本 Web 应用程序
-
 ## 关于如何构建自己的语音转文本 web 应用程序以最佳方式将音频转换为文本格式的详细指南
 
 ![](img/7dd912efd047c978fcf43c88a3ae663f.png)

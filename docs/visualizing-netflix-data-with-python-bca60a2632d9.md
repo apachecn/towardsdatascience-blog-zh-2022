@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/visualizing-netflix-data-with-python-bca60a2632d9>
 
-# 用 Python 可视化网飞数据
-
 ## 使用熊猫、Plotly Express、Dash 和 Heroku
 
 ![](img/1f305d762c4ca71cf7a729877f7801f6.png)

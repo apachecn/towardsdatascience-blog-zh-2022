@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/the-ultimate-tensorflow-gpu-installation-guide-for-2022-and-beyond-27a88f5e6c6e>
 
-# 2022 年及以后的终极 TensorFlow-GPU 安装指南
-
 ## 无论如何，始终在您的 PC 上安装最新 GPU 版本的 TensorFlow 的终极指南
 
 ![](img/0130524b77d2c40b750b495a1b2f5fc3.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/better-annotations-with-pythons-matplotlib-46815ce098df>
 
-# 使用 Python 的 Matplotlib 进行更好的注释
-
 ## 如何在 Matplotlib 中轻松定制文本的快速指南
 
 ![](img/75321b6764bf99ca04b0772e9a382ccd.png)

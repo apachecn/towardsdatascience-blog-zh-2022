@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/quantitative-input-influence-qii-an-ml-explainability-measure-f16debc9ed10>
 
-# **量化输入影响(QII)——超越 SHAP 的 ML 可解释度**
-
 ## **功能的独立性不再是一个约束**
 
 ![](img/39001890438293dfbf2c6fd1c9351f47.png)

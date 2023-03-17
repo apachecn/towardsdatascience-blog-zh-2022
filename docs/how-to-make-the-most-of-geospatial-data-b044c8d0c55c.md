@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-to-make-the-most-of-geospatial-data-b044c8d0c55c>
 
-# 如何充分利用地理空间数据
-
 空间数据将我们居住的物理世界与应用程序、设备和算法联系起来，帮助我们导航(有时是字面上的)我们的日常生活。本周我们有一个丰富的推荐阅读阵容，涵盖了非常广泛的主题，但让我们从最近的三篇文章开始，这些文章专注于地理空间数据的强大用例。
 
 *   [**学习如何用 Python**](/creating-beautiful-topography-maps-with-python-efced5507aa3) 制作漂亮的地图。谁不爱好看的地图？我们当然有。如果你遵循[亚当·赛明顿](https://medium.com/u/bebd9fb7bbdc?source=post_page-----b044c8d0c55c--------------------------------)的指导，你将会在不需要任何专门工具或代码的情况下制作 3D 地形图。

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/active-learning-behind-the-scenes-7e82f024a5db>
 
-# 幕后的主动学习
-
 ## 我如何评估我的主动学习结果？
 
 ![](img/2c733fb8dde98d6a7ee201dfc6946c22.png)

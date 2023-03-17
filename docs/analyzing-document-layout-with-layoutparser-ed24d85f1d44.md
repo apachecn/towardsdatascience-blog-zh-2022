@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/analyzing-document-layout-with-layoutparser-ed24d85f1d44>
 
-# 使用 LayoutParser 分析文档布局
-
 ## 如何使用 LayoutParser 库检测布局并从文档图像中提取文本
 
 ![](img/7f16bab179eaf45fda01e6fc34ae6bde.png)

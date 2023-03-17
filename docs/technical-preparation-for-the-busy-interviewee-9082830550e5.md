@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/technical-preparation-for-the-busy-interviewee-9082830550e5>
 
-# 为忙碌的受访者做技术准备
-
 # 如何让 Leetcode 成为你最好的朋友
 
 过去几个月，我一直在做“技术面试苦差事”，解决了几十个问题，并为那些大型技术面试做准备，最终得到了一些很好的机会- [我的求职五冲刺计划就在这里](/sprint-plan-for-the-busy-interviewee-16fd0893623d)。

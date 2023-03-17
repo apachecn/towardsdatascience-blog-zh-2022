@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/interpretable-and-explainable-ner-with-lime-d643512c524>
 
-# 可解释的和可说明的石灰 NER
-
 ## 一步一步的教程，了解你的 NER 模型如何工作
 
 ![](img/5a037644410025a506d29b24b193a102.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-to-use-set-operations-in-sql-53d57c4f7b77>
 
-# 如何在 SQL 中使用集合运算
-
 ## 了解并集、交集和例外运算符
 
 ![](img/fe11008cb71ea7702b411f333ba94284.png)

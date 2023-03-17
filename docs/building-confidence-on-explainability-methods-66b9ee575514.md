@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/building-confidence-on-explainability-methods-66b9ee575514>
 
-# 建立对可解释方法的信心
-
 ## 易于评估解释质量的开源指标
 
 ![](img/9f60914a9994e9cbe8be0fb40d8bdb06.png)

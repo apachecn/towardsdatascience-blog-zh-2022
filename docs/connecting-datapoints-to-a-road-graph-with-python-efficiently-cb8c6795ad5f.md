@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/connecting-datapoints-to-a-road-graph-with-python-efficiently-cb8c6795ad5f>
 
-# 用 Python 高效地将数据点连接到道路图
-
 ## 如何从头开始构建一个函数，然后用 numba 将它加速 80 倍
 
 ![](img/f8f8355a58a490ad1339a64f391fee7d.png)

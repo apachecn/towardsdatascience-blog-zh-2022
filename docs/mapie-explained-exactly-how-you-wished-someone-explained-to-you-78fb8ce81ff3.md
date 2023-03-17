@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/mapie-explained-exactly-how-you-wished-someone-explained-to-you-78fb8ce81ff3>
 
-# “MAPIE”准确地解释了你希望别人如何向你解释
-
 ## 一个 Python 库，可以将任何模型的预测转化为置信区间
 
 ![](img/bc05e9e0684da88948cb0e9d56236635.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/building-interpretable-models-on-imbalanced-data-a6ea5ae89bc6>
 
-# 在不平衡数据上建立可解释模型
-
 ## 预测电信提供商的客户流失
 
 ![](img/9064b31990859103434e116fe6793208.png)

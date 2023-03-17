@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/deploy-mnist-trained-model-as-a-web-service-ba333d233a5d>
 
-# 将 MNIST 训练模型部署为 Web 服务
-
 ## 我负责培训、服务和客户实现。该服务接收 0 到 9(张量格式)之间的手写数字图像，并猜测该图像代表哪个数字
 
 ![](img/9b71a6ceee49a83eb342a2704bb59343.png)

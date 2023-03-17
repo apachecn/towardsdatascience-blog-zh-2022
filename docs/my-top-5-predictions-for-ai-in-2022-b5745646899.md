@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/my-top-5-predictions-for-ai-in-2022-b5745646899>
 
-# 我对 2022 年人工智能的五大预测
-
 ## DeepMind、特斯拉、OpenAI 等等。
 
 ![](img/01a24edc98fe9300b13963e2fd35cc75.png)

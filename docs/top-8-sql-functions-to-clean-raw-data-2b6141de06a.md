@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/top-8-sql-functions-to-clean-raw-data-2b6141de06a>
 
-# 清理原始数据的 8 大 SQL 函数
-
 ## 因为垃圾数据进来意味着垃圾数据出去。
 
 ![](img/2100f7969a9795e7113fb688abef8256.png)

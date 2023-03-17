@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-to-work-with-json-data-in-mysql-11672e4da7e9>
 
-# 如何在 MySQL 中使用 JSON 数据
-
 ## 在 MySQL 中学习“NoSQL”
 
 MySQL 支持原生的 [JSON](https://en.wikipedia.org/wiki/JSON) 数据类型，该数据类型支持 JSON 文档的自动验证、优化存储和访问。尽管 JSON 数据应该更好地存储在 NoSQL 数据库中，比如 [MongoDB](https://www.mongodb.com/nosql-explained) ，但是您仍然会不时地遇到包含 JSON 数据的表。在本文的第一部分，我们将介绍如何用简单的语句从 MySQL 的 JSON 字段中提取数据。在第二部分，我们将介绍如何将 MySQL 表中的数据聚集到 JSON 数组或对象中，以便在您的应用程序中方便地使用。

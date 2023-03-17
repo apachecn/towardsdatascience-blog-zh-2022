@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/an-algorithmic-implementation-of-an-autonomous-driving-lidar-perception-stack-with-pcl-4d5928bcebc7>
 
-# 基于 PCL 的自动驾驶激光雷达感知栈的算法实现
-
 ## 基于激光雷达感知的 C++管道示例
 
 ![](img/9810b5025e85403fae8a8049e18fb362.png)

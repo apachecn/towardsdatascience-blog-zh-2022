@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/recursive-feature-selection-addition-or-elimination-755e5d86a791>
 
-# 递归特征选择:增加还是消除？
-
 ## 一种执行详尽特征选择的聪明方法
 
 ![](img/7596e8ea9a417f04aecaf885da5d4041.png)

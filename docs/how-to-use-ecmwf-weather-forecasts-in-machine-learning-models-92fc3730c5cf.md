@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-to-use-ecmwf-weather-forecasts-in-machine-learning-models-92fc3730c5cf>
 
-# 如何在机器学习模型中使用 ECMWF 天气预报
-
 ## 加载数据、查询历史天气、训练 ML 模型
 
 欧洲中期天气预报中心(ECMWF)提供全球天气预报。如果您有一个需要将天气作为输入要素的 ML 问题(例如，您试图预测雨伞或冰淇淋的需求)，您可以使用 ECMWF 数据根据历史数据训练您的 ML 模型，并在预测时使用 ECMWF 的实时预测。

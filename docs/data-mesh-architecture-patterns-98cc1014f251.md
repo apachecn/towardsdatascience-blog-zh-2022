@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/data-mesh-architecture-patterns-98cc1014f251>
 
-# 数据网格架构模式
-
 ## 企业数据网格正在彻底改变企业管理数据的方式。什么是基本的数据网格模式？
 
 ![](img/1a81d935ab36ac1c7cfd0d4d894282ee.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/source-code-datasets-deep-dive-into-github-characteristics-a26c622e0794>
 
-# 源代码数据集——深入探究 GitHub 特征
-
 ## 采样 GitHub 时要考虑的亚人群
 
 ![](img/da7677463c403a5e62d6a6192eb9fd9f.png)

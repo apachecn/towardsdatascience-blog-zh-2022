@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/graph-neural-networks-a-learning-journey-since-2008-python-graph-convolutional-network-5edfd99f8190>
 
-# 图形神经网络:2008 年以来的学习之旅——Python 和图形卷积网络
-
 今天，我们对 GCN 理论有了清晰而实用的认识。我们会穿过基普夫的火炬🔦GCN 的实施👩‍🎓。然后，我们将把我们所学到的应用到可恶的 Twitter 数据集上🔥
 
 ![](img/33d7eba182e69becdf7148234b8363ff.png)

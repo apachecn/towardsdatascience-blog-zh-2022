@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/beware-of-halo-effect-in-data-science-projects-209c3c4af1f2>
 
-# 警惕数据科学项目中的光环效应
-
 ## 你只收集支持你的假设的信息吗？
 
 ![](img/b40d64b73654161cffb700fb91e30eda.png)

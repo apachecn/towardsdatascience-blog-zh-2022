@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/3-python-libraries-for-effective-eda-that-you-might-have-missed-3320f48ff070>
 
-# 3 个 Python 库，用于您可能错过的有效 EDA
-
 ## 通过几行代码，EDA 变得更加简单
 
 ![](img/8fb58f6d5f059d7e97a063721a7ed7b4.png)

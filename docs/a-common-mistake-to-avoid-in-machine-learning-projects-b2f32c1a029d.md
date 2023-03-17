@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/a-common-mistake-to-avoid-in-machine-learning-projects-b2f32c1a029d>
 
-# 机器学习项目中要避免的一个常见错误
-
 ![](img/c1e061488c0e61b9baccd4caaab44817.png)
 
 马文·埃斯特夫在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄的照片

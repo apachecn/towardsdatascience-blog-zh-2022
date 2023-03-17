@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/data-drift-it-can-come-at-you-from-anywhere-b78eb186855>
 
-# 数据漂移:它可能从任何地方向你袭来
-
 ## 数据漂移的概念以各种形状和形式直观地展示出来。
 
 ![](img/c57d13829d53732fd5edbbcfcdfc5c7a.png)

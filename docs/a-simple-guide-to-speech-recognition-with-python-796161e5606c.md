@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/a-simple-guide-to-speech-recognition-with-python-796161e5606c>
 
-# 使用 Python 进行语音识别的简单指南
-
 ## 了解如何通过三个简单的步骤使用 Python 执行语音到文本转换
 
 ![](img/ead6347acf1b56d5f8fe228e2030c543.png)

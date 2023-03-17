@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/learning-how-gpt-3-instruct-models-were-most-likely-trained-3eb61e0f4169>
 
-# 了解 GPT-3 教学模型(很可能)是如何训练的
-
 ![](img/8125d0cfdabcb03a5c32ad707f156262.png)
 
 斯文·布兰德斯马在 [Unsplash](https://unsplash.com/s/photos/word?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 上的照片

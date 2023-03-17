@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/are-you-aware-how-difficult-your-regression-problem-is-b7dae830652b>
 
-# 你知道你的回归问题有多难吗？
-
 ## 一半的解决方案是理解你的问题，但一半的理解是知道它有多复杂
 
 ![](img/896e7afcf9a4fc49cb3219cb98ee65d3.png)

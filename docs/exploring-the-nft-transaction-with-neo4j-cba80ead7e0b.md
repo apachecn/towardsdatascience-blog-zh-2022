@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/exploring-the-nft-transaction-with-neo4j-cba80ead7e0b>
 
-# 用 Neo4j 探索 NFT 交易
-
 ## 600 万次 NFT 交易的探索性图形分析
 
 几个月前，《自然》杂志发表了一篇[文章](https://www.nature.com/articles/s41598-021-00053-8#MOESM1)，绘制了 2017 年 6 月至 2021 年 4 月间主要从以太坊和区块链蜡像馆获得的 610 万笔交易。这是一篇激动人心的文章，分析了市场的统计属性以及一些网络特征。作者还在 CC-BY 4.0 许可下提供了底层 NFT 事务数据集的[。](https://osf.io/wsnzr/?view_only=319a53cf1bf542bbbe538aba37916537)

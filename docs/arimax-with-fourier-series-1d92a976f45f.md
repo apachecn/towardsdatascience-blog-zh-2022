@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/arimax-with-fourier-series-1d92a976f45f>
 
-# 傅立叶级数 ARIMAX
-
 ## 预测非整数季节性时间序列
 
 ![](img/eb10104a7e295a77eb09fdc7da57ea5d.png)

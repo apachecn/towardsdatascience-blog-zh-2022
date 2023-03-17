@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/a-complete-guide-to-decision-trees-ac8656a0b4bb>
 
-# 决策树完全指南
-
 ## 学习关于决策树的所有知识，包括 Python 示例
 
 ![](img/f3bd3d43ad917bc56c8f60acd87e3858.png)

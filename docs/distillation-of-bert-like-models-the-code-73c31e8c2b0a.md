@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/distillation-of-bert-like-models-the-code-73c31e8c2b0a>
 
-# 类伯特模型的提炼:代码
-
 ![](img/d9a2c408ecb484c7463e74f114251a01.png)
 
 就像化学蒸馏一样，我们将从模型中提取重要的东西:知识。照片由[在](https://unsplash.com/@elevatebeer?utm_source=medium&utm_medium=referral)[的](https://unsplash.com?utm_source=medium&utm_medium=referral)上提升

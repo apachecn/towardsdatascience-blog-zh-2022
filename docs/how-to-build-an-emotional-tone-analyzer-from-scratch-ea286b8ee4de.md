@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-to-build-an-emotional-tone-analyzer-from-scratch-ea286b8ee4de>
 
-# 如何从零开始建立一个情感语调分析器
-
 ## 如何构建一个高性能的情感语调分析器来与 IBM Watson 竞争，而无需支付每 API 交易费用
 
 ![](img/921ad210aa9abf0aa9bece88656f38ba.png)

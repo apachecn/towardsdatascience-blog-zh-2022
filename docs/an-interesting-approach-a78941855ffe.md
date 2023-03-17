@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/an-interesting-approach-a78941855ffe>
 
-# 帕斯卡三角形:一种方法
-
 ## 利用数学概念用 C 语言打印出帕斯卡三角形。
 
 老实说，关于编程语言，我不喜欢用 C 写代码。然而，由于一个大学模块(在 C 中)，一个练习是实现将打印出 Pascal 的第 n 行的代码。

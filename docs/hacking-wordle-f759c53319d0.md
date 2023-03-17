@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/hacking-wordle-f759c53319d0>
 
-# 黑客世界
-
 ## 对 Wordle 的分析方法(有点欺骗)
 
 ![](img/5712c4388a19785f5d3118ef8fecde74.png)

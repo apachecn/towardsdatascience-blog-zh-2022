@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/the-evidence-is-critical-for-classifying-legal-cases-36c1dd6cfd04>
 
-# 这些证据对于法律案件的分类至关重要
-
 ## 识别证据以挖掘法律推理
 
 ![](img/6224a544022af75b6bba952c5aea5484.png)

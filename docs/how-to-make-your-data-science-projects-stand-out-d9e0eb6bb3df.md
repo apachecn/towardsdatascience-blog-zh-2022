@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-to-make-your-data-science-projects-stand-out-d9e0eb6bb3df>
 
-# 如何让你的数据科学项目脱颖而出
-
 ## 增加收入以显示业务影响
 
 ![](img/335380064ce568e5f8d32badc07a4210.png)

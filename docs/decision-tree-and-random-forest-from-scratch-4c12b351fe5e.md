@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/decision-tree-and-random-forest-from-scratch-4c12b351fe5e>
 
-# 从零开始的决策树和随机森林
-
 ## 对决策树和随机森林算法的全面外行介绍
 
 ![](img/c69fcc8520a46c61234c023fb6c079f9.png)

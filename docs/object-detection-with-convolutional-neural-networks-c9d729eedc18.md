@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/object-detection-with-convolutional-neural-networks-c9d729eedc18>
 
-# 基于卷积神经网络的目标检测
-
 ## 多阶段(RCNN，快速 RCNN，更快的 RCNN)和单阶段(SSD，YOLO)结构的对象检测和他们的使用训练自己的对象检测模型进行解释
 
 在我之前的帖子中，我们学习了什么是图像分类以及如何创建图像分类模型。

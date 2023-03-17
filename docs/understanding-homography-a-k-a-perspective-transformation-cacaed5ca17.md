@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/understanding-homography-a-k-a-perspective-transformation-cacaed5ca17>
 
-# 理解单应性(又名透视变换)
-
 ## 从不同的角度看待事物
 
 ![](img/ca6433a22df813b14ce236393f881b0c.png)

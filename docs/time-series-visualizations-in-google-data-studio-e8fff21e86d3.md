@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/time-series-visualizations-in-google-data-studio-e8fff21e86d3>
 
-# Google Data Studio 中的时间序列可视化
-
 ## 包括带有累计和缺失数据的可视化。
 
 ![](img/df4b7ec58e5e9adca15264bc0eeca563.png)

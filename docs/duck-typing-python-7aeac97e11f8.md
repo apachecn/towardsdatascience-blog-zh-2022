@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/duck-typing-python-7aeac97e11f8>
 
-# Python 中的鸭式打字是什么？
-
 ## 理解动态类型编程语言(如 Python)中鸭类型的概念
 
 ![](img/df910aff389492d89efd750aa2af8a97.png)

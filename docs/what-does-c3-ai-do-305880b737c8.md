@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/what-does-c3-ai-do-305880b737c8>
 
-# C3.ai 是做什么的？
-
 ## 与前玛奇纳一起深入研究无代码 ML
 
 ![](img/fdb38e8594aa8e0093ca370d4007b209.png)

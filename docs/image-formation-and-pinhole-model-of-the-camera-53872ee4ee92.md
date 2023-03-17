@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/image-formation-and-pinhole-model-of-the-camera-53872ee4ee92>
 
-# 照相机的成像和针孔模型
-
 ## Python 中图像形成和相机校准综合教程系列的第 1 部分
 
 ![](img/0a15d1c3e5836c2e82098b0eaf279387.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/find-the-minimum-stretching-direction-of-positive-definite-matrices-79c2a3b397fc>
 
-# 求正定矩阵的最小拉伸方向
-
 ## Python 中图像形成和相机校准综合教程系列的第 4 部分
 
 ![](img/ebacb3de8bab1e215dc968dfa02c5f7f.png)

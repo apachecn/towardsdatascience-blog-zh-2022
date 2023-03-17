@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/predicting-the-next-nba-mvp-using-machine-learning-62615bfcff75>
 
-# 利用机器学习预测下一届 NBA MVP
-
 ## 在 NBA 历史 MVP 候选人的数据上训练和验证机器学习模型，以预测 2021-2022 赛季 MVP
 
 ![](img/e26044c15f29178fe7ce091873f706ca.png)

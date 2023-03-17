@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/in-depth-understanding-of-neuralprophet-through-a-complete-example-2474f675bc96>
 
-# 通过一个完整的例子深入理解 NeuralProphet
-
 ## 利用气象数据探索脸书算法
 
 NeuralProphet 是由脸书创造的 Prophet 算法的一种进化，是一种**时间序列预测算法**。在这篇文章中，我将基于我在研究过程中遇到的一个**具体而完整的问题**来详述这个算法。

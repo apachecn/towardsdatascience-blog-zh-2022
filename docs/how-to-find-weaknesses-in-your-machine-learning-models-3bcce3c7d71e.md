@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-to-find-weaknesses-in-your-machine-learning-models-3bcce3c7d71e>
 
-# 如何在你的机器学习模型中找到弱点
-
 ## IBM 的 FreaAI 的一种可能实现
 
 任何时候使用汇总统计简化数据，都会丢失信息。模型精度也不例外。当将模型简化为汇总统计数据时，您将无法确定哪里的性能最低/最高以及原因。

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/different-ways-to-run-bash-scripts-in-your-python-file-8aeb721bc3d1>
 
-# 在 Python 文件中运行 Bash 脚本的不同方式
-
 ## 利用子流程、OS、Glob 等
 
 ![](img/9026967d6519dc205a52f7678decf51a.png)

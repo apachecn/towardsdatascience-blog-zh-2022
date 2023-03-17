@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/an-introductory-primer-to-bayesian-statistics-3415ffa28488>
 
-# **贝叶斯统计入门**
-
 ## 贝叶斯统计世界的数学介绍
 
 ![](img/9aa73954c7cb8046388c6092e34e3526.png)

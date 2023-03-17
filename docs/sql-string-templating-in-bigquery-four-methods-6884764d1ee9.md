@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/sql-string-templating-in-bigquery-four-methods-6884764d1ee9>
 
-# BigQuery 脚本中的 SQL 字符串模板:四种方法
-
 ## 强大的基础技术有助于释放 BigQuery 脚本和自动化的力量
 
 ![](img/7ab89e452d0e3fcd383cf19b943f7fd8.png)

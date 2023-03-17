@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/fool-proof-formula-to-extracting-strings-with-sql-9b35c57de224>
 
-# 用 SQL 提取字符串的简单公式
-
 ## 解决讨厌的字符串问题的分步示例
 
 ![](img/0fc83c64af6e983a456bb462ed6146f8.png)

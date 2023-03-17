@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/the-ultimate-guide-challenges-of-machine-learning-model-deployment-e81b2f6bd83b>
 
-# 终极指南:机器学习模型部署的挑战
-
 # 动机
 
 > “机器学习模型部署很容易”

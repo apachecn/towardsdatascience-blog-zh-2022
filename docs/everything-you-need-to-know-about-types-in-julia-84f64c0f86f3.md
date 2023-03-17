@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/everything-you-need-to-know-about-types-in-julia-84f64c0f86f3>
 
-# 关于 Julia 中的类型，你需要知道的一切
-
 ## 对 Julia 中类型系统的全面概述，以及一些你需要了解的关键内容。
 
 ![](img/294d948361bccd3e2f06bf14b3516375.png)

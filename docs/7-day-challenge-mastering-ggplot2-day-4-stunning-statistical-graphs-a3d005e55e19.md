@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/7-day-challenge-mastering-ggplot2-day-4-stunning-statistical-graphs-a3d005e55e19>
 
-# 7 天挑战—掌握 Ggplot2:第 4 天—惊人的统计图表
-
 ## 通过有洞察力的图表了解您的数据
 
 ![](img/76fbd16beaddf85b60297985611d8816.png)

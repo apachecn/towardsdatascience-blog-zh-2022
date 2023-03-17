@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/question-answering-on-textbooks-by-searching-and-ranking-609f8b007aa6>
 
-# 基于搜索和排序的教科书问答
-
 ## 用数据做很酷的事情
 
 ![](img/a680cc4a15abd6fd0c9db47cba92137e.png)

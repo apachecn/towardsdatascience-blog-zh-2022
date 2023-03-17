@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/why-do-you-need-a-data-strategy-f9ad8a66ba51>
 
-# 为什么需要数据策略？
-
 在许多组织中，数据已经成为董事会级别的话题。在您的组织中，您(很可能)有一个适当的业务战略来定义如何实现和保持可持续的竞争优势。然而，大多数组织还没有一个关于如何从数据中提取正确价值以建立竞争优势的战略。
 
 ![](img/4fea9f23c127b6778f6ccf231f00fe0a.png)

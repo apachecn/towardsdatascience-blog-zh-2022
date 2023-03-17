@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/what-are-deepfakes-and-how-do-you-recognize-them-f9ab1a143456>
 
-# 什么是深度赝品？
-
 ## 如何处理人工智能带来的错误信息
 
 ![](img/03c18edd631c2c76e642d2898a59e678.png)

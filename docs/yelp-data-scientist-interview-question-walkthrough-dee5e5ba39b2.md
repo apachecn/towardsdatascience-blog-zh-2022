@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/yelp-data-scientist-interview-question-walkthrough-dee5e5ba39b2>
 
-# Yelp 数据科学家面试问题演练
-
 ## *帮你解决 Yelp SQL 面试问题*
 
 ![](img/b2d3f8a271da2f4b2a7b16b753fcca8c.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/new-year-greetings-with-data-76f32548a78b>
 
-# 用数据创建新年祝福
-
 ## 使用数据在新年主题上创造引人注目的视觉效果
 
 ![](img/a4d828a9bb68500aeb0acd61dec52cbb.png)

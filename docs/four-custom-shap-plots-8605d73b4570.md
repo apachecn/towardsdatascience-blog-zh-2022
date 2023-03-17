@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/four-custom-shap-plots-8605d73b4570>
 
-# 四个自定义 SHAP 图
-
 ## 超越 Python 包，创建 SHAP 值的定制可视化
 
 ![](img/e8f2f35769a1cdeb632c225a9f807168.png)

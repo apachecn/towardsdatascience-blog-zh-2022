@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/tackling-the-take-home-challenge-7c2148fb999e>
 
-# 应对带回家的挑战
-
 ## Python 和 Jupyter 笔记本电脑的 EDA 挑战示例
 
 ![](img/0950c9376c0aa421e370f1167a42048e.png)

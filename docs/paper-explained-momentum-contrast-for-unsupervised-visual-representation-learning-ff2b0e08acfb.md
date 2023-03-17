@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/paper-explained-momentum-contrast-for-unsupervised-visual-representation-learning-ff2b0e08acfb>
 
-# 论文解释:无监督视觉表征学习的动量对比
-
 ## 查看 MoCo v1 和 v2 文件中的原则
 
 在这个故事中，我们将回顾 MoCo 论文，这是一种使用动量对比(MoCo)对计算机视觉模型进行预训练的无监督方法，已经由作者从版本 1 到版本 3 进行了迭代改进。

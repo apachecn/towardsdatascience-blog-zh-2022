@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/common-mistakes-in-hyper-parameters-tuning-ff5951e6c2d>
 
-# 超参数调整中的常见错误
-
 ## 机器学习模型的超参数调整是一个反复试验的游戏。要想成功，最好避免以下错误。
 
 ![](img/ac4a8740a3e01218c90b653d4d6cbb91.png)

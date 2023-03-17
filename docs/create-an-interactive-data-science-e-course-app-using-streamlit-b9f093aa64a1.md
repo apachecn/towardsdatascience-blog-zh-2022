@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/create-an-interactive-data-science-e-course-app-using-streamlit-b9f093aa64a1>
 
-# 使用 Streamlit 创建交互式数据科学电子课程应用程序
-
 ## 探索 streamlit_book -一个新的 streamlit 伙伴库-用于创建交互式电子书/电子教程/电子课程
 
 ![](img/14cc41832d69c97000aa44af60511413.png)

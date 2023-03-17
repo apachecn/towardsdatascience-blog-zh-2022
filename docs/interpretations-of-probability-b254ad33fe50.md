@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/interpretations-of-probability-b254ad33fe50>
 
-# 概率的解释
-
 ## 在这个“数据驱动”的世界里，我们随意使用“概率”这个词，但当我们谈论“概率”或“机会”时，我们到底指的是什么
 
 ![](img/7303b5ac3d8be69b6a5c7b605a68e4a2.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/plot-multiple-graphics-in-the-same-figure-using-python-1cbe5a23e89f>
 
-# 使用 Python 在同一个图形中绘制多个图形
-
 ## 了解如何在同一个 matplotlib 图形中绘制多个图形
 
 ![](img/056c7341360426b1f796a2bd86a73774.png)

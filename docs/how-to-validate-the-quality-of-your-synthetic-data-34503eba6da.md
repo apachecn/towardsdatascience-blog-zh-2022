@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-to-validate-the-quality-of-your-synthetic-data-34503eba6da>
 
-# 如何验证合成数据的质量
-
 ## 关于如何将 ydata-synthetic 与 great expectations 结合起来的教程
 
 ![](img/7e8482057fd5dd489bb2376b9c085850.png)

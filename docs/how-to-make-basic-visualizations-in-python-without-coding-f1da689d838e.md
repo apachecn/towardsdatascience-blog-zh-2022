@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-to-make-basic-visualizations-in-python-without-coding-f1da689d838e>
 
-# 如何在不编码的情况下用 Python 实现基本的可视化
-
 ## 使用 Mitosheet，只需几次点击即可创建可视化效果
 
 ![](img/e0e12e254ec1376d5916b0bf2bb07086.png)

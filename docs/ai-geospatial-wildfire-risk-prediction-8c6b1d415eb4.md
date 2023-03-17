@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/ai-geospatial-wildfire-risk-prediction-8c6b1d415eb4>
 
-# 人工智能地理空间野火风险预测
-
 ## 使用地理空间栅格数据评估美国邻近地区野火危害的预测模型
 
 ![](img/19a74fb970352f03b5a7d47e44c2d7ea.png)

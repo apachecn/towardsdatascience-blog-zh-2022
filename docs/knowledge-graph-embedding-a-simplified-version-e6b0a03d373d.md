@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/knowledge-graph-embedding-a-simplified-version-e6b0a03d373d>
 
-# 知识图嵌入——一个简化版本
-
 ## 解释什么是知识图嵌入以及如何计算它们
 
 ![](img/a76677475717a914a6dc676dbd8d7595.png)

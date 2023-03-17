@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/content-moderation-python-assemblyai-4a09ca61d346>
 
-# 如何使用 Python 对音频文件进行内容审核
-
 ## 用 Python 和 AssemblyAI API 检测音频文件中的敏感内容
 
 ![](img/8072e098f61b16b49898d0b68748b322.png)

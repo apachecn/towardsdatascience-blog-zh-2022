@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-to-read-research-papers-a-pragmatic-approach-for-ml-practitioners-299935624326>
 
-# 如何阅读研究论文:面向 ML 从业者的实用方法
-
 ## 如何理解人工智能/人工智能研究出版物
 
 ![](img/91cfb2ab61cc8ff1f0db13c3733e1396.png)

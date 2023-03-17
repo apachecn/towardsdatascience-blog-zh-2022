@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/top-3-python-packages-for-outlier-detection-2dc004be9014>
 
-# 用于异常值检测的前 3 个 Python 包
-
 ## 这些软件包会让你在分析中占有优势
 
 ![](img/07d30ca92ce139474cbe2dc61b5d4e60.png)

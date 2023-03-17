@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/multi-dimensional-machine-learning-decision-boundary-how-to-get-it-to-work-7122dca3b3a>
 
-# 多维决策边界:当前方法失败的原因及如何使其有效
-
 ## 决策边界是模型评估的一个非常重要的可视化工具。了解如何让它处理复杂的数据集。
 
 ![](img/1a3e05d10859560125d4014f5219988b.png)

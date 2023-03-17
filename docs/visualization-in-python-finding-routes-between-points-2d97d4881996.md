@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/visualization-in-python-finding-routes-between-points-2d97d4881996>
 
-# Python 中的可视化:寻找点与点之间的路径
-
 ## 了解如何对您的位置进行地理编码，并根据距离、出行模式和时间计算两点之间的最短路径
 
 ![](img/1daaad06276cdbb943888b8b65e59116.png)

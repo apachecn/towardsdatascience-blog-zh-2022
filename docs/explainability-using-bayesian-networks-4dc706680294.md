@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/explainability-using-bayesian-networks-4dc706680294>
 
-# 使用贝叶斯网络的可解释性
-
 ## 我们可以使用 DAG 来满足 DL 需求吗？
 
 ![](img/9eac2e6b2e5dc26bf8ffc2a9ab74b146.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/what-ive-learned-from-building-my-own-data-science-courses-49fc67353ea2>
 
-# 我从构建自己的数据科学课程中学到了什么
-
 ![](img/737872510aff6d537269a00a932b7776.png)
 
 照片由 [@melpoole](https://unsplash.com/@melpoole) @unsplash.com 拍摄

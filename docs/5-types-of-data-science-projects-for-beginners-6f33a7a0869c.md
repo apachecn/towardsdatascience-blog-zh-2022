@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/5-types-of-data-science-projects-for-beginners-6f33a7a0869c>
 
-# 成为数据科学家:面向初学者的 5 种数据科学项目
-
 ## 初学者项目要放在你的作品集里
 
 ![](img/1e2981b6bb2de0700a8255c0724adb49.png)

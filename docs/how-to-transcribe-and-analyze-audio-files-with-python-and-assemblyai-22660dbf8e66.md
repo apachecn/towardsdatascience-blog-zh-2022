@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-to-transcribe-and-analyze-audio-files-with-python-and-assemblyai-22660dbf8e66>
 
-# 如何用 Python 和 AssemblyAI 转录和分析音频文件
-
 ## 演示:将 Youtube 视频转换成摘要文本
 
 ![](img/8ffab45d21ba0f342604db00702d80e7.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/accelerating-resnet-50-training-on-the-ipu-behind-our-mlperf-benchmark-2cefe43ab2b2>
 
-# **在 IPU 上加速 ResNet-50 训练:落后于我们的 MLPerf 基准**
-
 ## 关于高效硬件扩展、内存优化策略和性能工具的技术指南
 
 作者:[Mario Michael Krell](https://medium.com/u/24372940c2b3?source=post_page-----2cefe43ab2b2--------------------------------)博士、刘振英、Emmanuel Menage 和 Bartosz Bogdanski

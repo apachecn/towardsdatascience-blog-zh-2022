@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/bias-and-variance-for-machine-learning-in-3-minutes-4e5770e4bf1b>
 
-# 机器学习中的偏差和方差
-
 ## 什么是偏差和方差，这对你的机器学习模型意味着什么？
 
 ![](img/370b055d986bcaa91b76edc83e3a683d.png)

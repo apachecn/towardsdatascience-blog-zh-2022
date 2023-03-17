@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/4-key-players-in-python-data-visualization-ecosystem-matplotlib-seaborn-altair-and-plotly-23ae37a68227>
 
-# Python 数据可视化生态系统中的 4 个主要参与者:Matplotlib、Seaborn、Altair 和 Plotly
-
 ## 一张图胜过千言万语
 
 ![](img/948accc023a2be5bda88fa63dd2e5c7c.png)

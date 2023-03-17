@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/nyt-sentiment-analysis-with-tensorflow-7156d77e385e>
 
-# 基于张量流的 NYT 情感分析
-
 ![](img/a334f87d7d9905618eb9657f26ca99ac.png)
 
 乔恩·泰森在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上的照片

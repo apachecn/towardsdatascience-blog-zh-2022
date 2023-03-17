@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/contrastive-learning-in-3-minutes-89d9a7db5a28>
 
-# 3 分钟对比学习
-
 ## 自我监督任务中对比学习的指数级进展
 
 深度学习研究已经转向图像识别任务的监督领域，许多人现在已经转向一个更未探索的领域:通过[自我监督学习](/supervised-semi-supervised-unsupervised-and-self-supervised-learning-7fa79aa9247c)的方式执行相同的任务。导致这项看似不可能的任务取得巨大进步的基石之一是对比学习损失的引入。这篇文章深入探讨了最近提出的一些对比损失，这些损失将无监督学习的结果推到了与监督学习类似的高度。

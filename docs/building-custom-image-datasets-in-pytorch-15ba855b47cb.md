@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/building-custom-image-datasets-in-pytorch-15ba855b47cb>
 
-# 在 PyTorch 中构建自定义影像数据集
-
 ## 带代码的教程
 
 ![](img/aeaf47a4abbffa07245082619f95ba17.png)

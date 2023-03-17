@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/3-tricky-data-analysis-questions-and-how-to-solve-them-with-pandas-ceb53bbb9c9e>
 
-# 3 个棘手的数据分析问题以及如何用熊猫解决它们
-
 ## Pandas 简化并加速了复杂的任务
 
 ![](img/4f9e4939e70a578344cf26134a9478df.png)

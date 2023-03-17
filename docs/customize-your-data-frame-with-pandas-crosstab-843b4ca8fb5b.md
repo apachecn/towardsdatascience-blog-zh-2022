@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/customize-your-data-frame-with-pandas-crosstab-843b4ca8fb5b>
 
-# 使用熊猫交叉表自定义您的数据框
-
 ## 只需用交叉表透视您的表数据
 
 ![](img/0d861ce33ae09bc12dfa23ab978cf9fc.png)

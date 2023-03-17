@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-to-predict-risk-proportional-intervals-with-conformal-quantile-regression-175775840dc4>
 
-# 如何用共形分位数回归预测风险比例区间
-
 ## 这种算法-由斯坦福大学学者于 2019 年发表-结合了分位数回归和保形预测。下面是如何用 Python 实现的。
 
 ![](img/f98d7ee57490d1e7435955c70c26ac99.png)

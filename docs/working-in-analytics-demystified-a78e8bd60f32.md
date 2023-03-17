@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/working-in-analytics-demystified-a78e8bd60f32>
 
-# 在分析领域工作去神秘化
-
 这篇文章旨在阐明现代“全栈分析师”的定义，深入探讨这个角色的实际范围和成功的要求
 
 ![](img/0f82d9604c38280ddb9ea51aabd69c4f.png)

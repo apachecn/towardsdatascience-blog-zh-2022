@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/facial-expression-recognition-fer-without-artificial-neural-networks-4fa981da9724>
 
-# 无人工神经网络的面部表情识别(FER)
-
 ## SVM、PCA 和 HOG 联手解决了一个计算机视觉问题
 
 ![](img/5cced3b32356ef1ba39a346e7808e465.png)

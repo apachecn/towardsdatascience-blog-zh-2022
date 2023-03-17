@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/the-kaggle-way-to-tune-hyperparameters-with-optuna-285e59a0b95a>
 
-# 用 Optuna 调整超参数的 Kaggle 方法
-
 ## 使用 Optuna 和一个小型项目轻松高效地优化模型的超参数
 
 ![](img/57c8978b482516778d60389a17bab0d0.png)

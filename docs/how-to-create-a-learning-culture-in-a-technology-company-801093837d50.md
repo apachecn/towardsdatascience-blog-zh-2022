@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-to-create-a-learning-culture-in-a-technology-company-801093837d50>
 
-# 如何在科技公司创造学习文化
-
 ## 这里有三种建立学习型组织的有效方法
 
 ![](img/613533c42c391daf168bc2cb83c46302.png)

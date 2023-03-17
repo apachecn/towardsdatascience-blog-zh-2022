@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/data-lake-vs-data-warehouse-2e3df551b800>
 
-# 数据湖与数据仓库
-
 ## 了解数据存储架构中的两种不同方法
 
 ![](img/3b392e2d73920930b0ef11a3d4726cbe.png)

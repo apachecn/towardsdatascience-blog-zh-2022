@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/notes-about-the-box-cox-transformations-18d7cd594265>
 
-# 关于 Box-Cox 变换的注记
-
 ## 经过一些测试，这里是我能提供的最好的结果
 
 ![](img/2a874d0d737a5737ce329d09cf8e8ea8.png)

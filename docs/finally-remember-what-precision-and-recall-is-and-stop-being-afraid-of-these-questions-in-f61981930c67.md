@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/finally-remember-what-precision-and-recall-is-and-stop-being-afraid-of-these-questions-in-f61981930c67>
 
-# 最后，记住什么是精确和回忆，不要在面试中害怕这些问题
-
 ## 一个直观的指南，一步一步地绘制混淆矩阵，并推导出精确度、召回率和 F1 分数的定义
 
 ![](img/5dec01d7645aa4595795e81db6fe9975.png)

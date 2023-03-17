@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/hey-ai-tell-me-a-quote-about-rainbow-f351340ffb45>
 
-# 嘿，艾——给我讲一段关于彩虹的话
-
 ## 一个动手的人工智能项目
 
 ![](img/c1a19e27a6b360d2af777962fe9812d0.png)

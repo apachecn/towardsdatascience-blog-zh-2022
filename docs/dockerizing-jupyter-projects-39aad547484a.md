@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/dockerizing-jupyter-projects-39aad547484a>
 
-# 对接 Jupyter 项目
-
 ## 将您的项目和 conda 环境容器化的简单方法
 
 ![](img/6d06bfe3e015d56153e4ad0ecb8bcc7c.png)

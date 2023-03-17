@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/sentiment-analysis-74624b075842>
 
-# 在社交媒体情绪分析中提升自己的水平
-
 ## 了解客户对你的产品和服务的感受
 
 ![](img/a2b32fe2dbd5f7454cbe63ebffbc0a17.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/pytorch-custom-datasets-in-5-minutes-to-help-james-bond-c7e454aa1aab>
 
-# PyTorch 定制数据集在 5 分钟内帮助詹姆斯·邦德
-
 ## 如何利用自定义数据集来提高我们最喜爱的英雄的机会
 
 ![](img/23ed67a6f362b4e608a534c0a8b4e8de.png)

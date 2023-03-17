@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/12-podcasts-for-industry-data-scientists-2022-1c76b4c26bdf>
 
-# 2022 年行业数据科学家应该听的 12 个播客，不是关于数据科学的
-
 ## 通过倾听，变得更有商业头脑，更善于思考，更好地为人
 
 ![](img/165e8d05d91af9de4f8f46d4371884eb.png)

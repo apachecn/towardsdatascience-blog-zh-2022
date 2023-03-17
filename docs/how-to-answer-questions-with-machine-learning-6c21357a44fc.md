@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-to-answer-questions-with-machine-learning-6c21357a44fc>
 
-# 如何用机器学习回答问题
-
 ## 看看班数据集，它的顶级 NLP 模型，以及它们是否过度拟合。
 
 你曾经想要建立一个算法来做你的功课吗？虽然技术还没到位，但我们已经接近了。

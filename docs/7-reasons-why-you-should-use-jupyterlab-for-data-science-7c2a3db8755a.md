@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/7-reasons-why-you-should-use-jupyterlab-for-data-science-7c2a3db8755a>
 
-# 您应该将 Jupyterlab 用于数据科学的 7 个理由
-
 ![](img/4f8b55dd3e86dc65acac1bc4876b2a5b.png)
 
 米利安·耶西耶在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄的照片

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/numpy-reshape-can-break-your-heart-96fcc47c6894>
 
-# NumPy 重塑可以打破你的心
-
 ## NumPy reshape 可能不会真的让你心碎，但它可以对心电图(ECG)等时间序列做出无意的改变，并导致生理属性的巨大变化
 
 ![](img/bed868cc0253c7369a258c361446acad.png)

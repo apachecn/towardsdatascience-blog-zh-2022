@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/version-control-with-rstudio-d20c54bd5b49>
 
-# 使用 RStudio 进行版本控制
-
 ## 对于 Git 和 GitHub
 
 ![](img/63b1d7b39ec0e0114b6c1fa9ab1797da.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/whats-in-a-tuple-5d4b2668b9a1>
 
-# 元组里有什么？
-
 ## 概述 Python 对列表的替代以及为什么应该使用它们
 
 ![](img/042a8d697f56d0bde6961be10fd3f049.png)

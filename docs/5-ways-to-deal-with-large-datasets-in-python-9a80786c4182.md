@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/5-ways-to-deal-with-large-datasets-in-python-9a80786c4182>
 
-# 用 Python 处理大型数据集的 3 种方法
-
 作为一名数据科学家，我发现自己越来越需要处理“*大数据”*。我戏称为*的大数据*对应的数据集，虽然并不真的那么大，但却大到足以让我的计算机努力处理它们，并真的减慢一切。
 
 ![](img/188e54a69d2943052f459671005b40e0.png)

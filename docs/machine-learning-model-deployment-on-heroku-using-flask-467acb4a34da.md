@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/machine-learning-model-deployment-on-heroku-using-flask-467acb4a34da>
 
-# 使用 Flask 在 Heroku 上部署机器学习模型
-
 ## 机器学习平台即服务
 
 ![](img/41e0b19927a9f88cd1f9a7ecfb515781.png)

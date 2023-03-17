@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/integrate-neo4j-with-pytorch-geometric-to-create-recommendations-21b0b7bc9aa>
 
-# 将 Neo4j 与 PyTorch Geometric 集成以创建推荐
-
 ## 利用 PyTorch Geometric 的强大功能，为您的应用开发和训练自定义图形神经网络
 
 自从我看到 PyTorch Geometric (pyG)宣布与斯坦福大学合作举办他们的[研讨会](https://snap.stanford.edu/graphlearning-workshop/)以来，我就一直想写关于 PyTorch Geometric 的文章。PyTorch Geometric (pyG)是一个建立在 PyTorch 基础上的库，可以帮助您轻松地为您的应用程序编写和训练自定义图形神经网络。在这篇博文中，我将展示如何从 Neo4j 获取数据，以 PyTorch Geometric 创建电影推荐。

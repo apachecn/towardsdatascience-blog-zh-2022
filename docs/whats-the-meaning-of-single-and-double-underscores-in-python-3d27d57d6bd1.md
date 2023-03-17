@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/whats-the-meaning-of-single-and-double-underscores-in-python-3d27d57d6bd1>
 
-# Python 中单下划线和双下划线是什么意思？
-
 ## 我从来没有注意过这些特殊的字符，直到我知道它们是什么意思
 
 ![](img/d99f9dbc1b3f77ac2e662380e7c53bf4.png)

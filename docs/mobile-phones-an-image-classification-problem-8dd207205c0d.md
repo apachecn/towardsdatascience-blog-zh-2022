@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/mobile-phones-an-image-classification-problem-8dd207205c0d>
 
-# 手机:一个图像分类问题
-
 ## 使用监督学习算法的背景和介绍
 
 ## 分类

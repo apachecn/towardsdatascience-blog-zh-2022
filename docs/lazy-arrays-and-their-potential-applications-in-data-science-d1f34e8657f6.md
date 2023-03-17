@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/lazy-arrays-and-their-potential-applications-in-data-science-d1f34e8657f6>
 
-# 惰性数组及其在数据科学中的潜在应用
-
 ## 什么是惰性数组，如何在数据科学环境中使用它们？
 
 ![](img/ae2b67cdcca555909ede140f11844abd.png)

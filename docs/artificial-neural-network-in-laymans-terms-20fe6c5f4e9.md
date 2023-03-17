@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/artificial-neural-network-in-laymans-terms-20fe6c5f4e9>
 
-# 人工神经网络通俗地说
-
 ## 为初学者解开神经网络的复杂性
 
 ![](img/8ba90015a529ea3031a4bbda08edd6b7.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/team-topology-for-machine-learning-45bddba626e3>
 
-# 机器学习的团队拓扑
-
 ## 在现代组织中组织团队进行机器学习以实现快速流动。
 
 ![](img/f661cdd44091ab102fe8417155a5068f.png)

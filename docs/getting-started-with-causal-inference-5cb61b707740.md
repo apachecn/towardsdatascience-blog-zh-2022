@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/getting-started-with-causal-inference-5cb61b707740>
 
-# 因果推理入门
-
 ## 超越“相关性不是因果关系”,理解“为什么”
 
 ![](img/3c20145faae37cf99e14aaef204ca02d.png)

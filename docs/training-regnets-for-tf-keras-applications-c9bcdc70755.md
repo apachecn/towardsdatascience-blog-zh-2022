@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/training-regnets-for-tf-keras-applications-c9bcdc70755>
 
-# tf.keras .应用程序的培训规则
-
 ## 这篇博文是关于分享我为`tf.keras.applications`训练 24 个 RegNet 模型的经验。
 
 ![](img/4612b00bb70395321b54f3f810fc6798.png)

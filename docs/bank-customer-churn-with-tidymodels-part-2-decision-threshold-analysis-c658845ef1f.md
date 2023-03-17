@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/bank-customer-churn-with-tidymodels-part-2-decision-threshold-analysis-c658845ef1f>
 
-# 潮汐模型下的银行客户流失——第二部分决策阈值分析
-
 ## 决策阈值与潮汐模型情景分析
 
 欢迎回到我们探索银行客户流失问题的第 2 部分，现在检查决策阈值分析。

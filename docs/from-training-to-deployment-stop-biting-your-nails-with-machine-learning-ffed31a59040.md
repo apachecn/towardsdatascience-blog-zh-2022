@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/from-training-to-deployment-stop-biting-your-nails-with-machine-learning-ffed31a59040>
 
-# 从训练到部署:用机器学习停止咬指甲
-
 ## 了解如何通过几次点击来训练机器学习模型，在简单的 web 应用程序中将其付诸实践，并将其部署到云上与他人共享。
 
 为了完成所有这些，我们将使用 Teachable Machine、ReactJS、GitHub Actions 和开发者沙箱。

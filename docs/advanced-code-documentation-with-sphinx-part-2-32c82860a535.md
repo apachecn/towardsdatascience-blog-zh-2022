@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/advanced-code-documentation-with-sphinx-part-2-32c82860a535>
 
-# Sphinx 高级代码文档—第 2 部分
-
 ## Sphinx 的扩展提供了一个用户友好的界面来理解代码库——即使对于非技术用户也是如此
 
 ***更新*** *:本文是系列文章的一部分。查看* [*第 1 部分*](/advanced-code-documentation-beyond-comments-and-docstrings-2cc5b2ace28a) *，* [*第 3 部分*](/advanced-code-documentation-with-coverage-and-unit-tests-part-3-3f7b698497fb) *！*

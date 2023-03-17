@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/6-python-matplotlib-features-to-create-better-data-visualizations-b9fc65b0430b>
 
-# 6 Python Matplotlib 特性创建更好的数据可视化
-
 ## 如何展示和展示什么一样重要
 
 ![](img/691b055c742b9a4379405eb0d494c392.png)

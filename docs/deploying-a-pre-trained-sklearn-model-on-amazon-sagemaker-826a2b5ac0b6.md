@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/deploying-a-pre-trained-sklearn-model-on-amazon-sagemaker-826a2b5ac0b6>
 
-# 在 Amazon SageMaker 上部署预先训练的 Sklearn 模型
-
 ## 将本地培训的模型投入生产
 
 ![](img/95fb2fb430f7cf75a8af16ac13f00c92.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/the-awesome-power-of-hierarchy-visualizations-466274d16e8>
 
-# 层级可视化的强大力量
-
 ## 通过将数据视为一个层次结构，将您的数据分析和可视化提升到一个新的水平
 
 ![](img/28bf7545e6389319b6aa7b68a24164b6.png)

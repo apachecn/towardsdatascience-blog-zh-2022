@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-to-automatically-generate-vgg-image-annotation-files-41d226e6d85>
 
-# 如何自动生成 VGG 图像标注文件
-
 ## 使用语义数据集更快地训练实例分割
 
 ![](img/8c462d18ba70d68a749458fa29e86698.png)

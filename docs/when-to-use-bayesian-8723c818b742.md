@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/when-to-use-bayesian-8723c818b742>
 
-# 何时使用贝叶斯
-
 ## 应该考虑贝叶斯建模的 5 个场景
 
 ## 介绍

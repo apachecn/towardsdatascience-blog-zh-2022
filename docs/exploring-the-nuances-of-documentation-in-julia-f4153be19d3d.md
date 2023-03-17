@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/exploring-the-nuances-of-documentation-in-julia-f4153be19d3d>
 
-# 探索 Julia 中文档的细微差别
-
 ## 浏览 Julia 文档的所有奇怪之处，以及如何处理这些奇怪之处
 
 ![](img/70c210250db307dfe3ae9cd49c66b47e.png)

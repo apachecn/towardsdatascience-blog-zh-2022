@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/pipeline-and-custom-transformer-with-a-hands-on-case-study-in-python-c416731e6158>
 
-# 管道和定制转换器，并附有 Python 实践案例研究
-
 ## 使用定制和 scikit-learn 管道
 
 机器学习中的管道涉及将端到端的工作流转换为一组代码，以自动化整个数据处理和模型开发过程。我们可以使用管道依次应用一系列转换来准备数据，并在最后安装一个估计器。管道有助于简化将一系列操作组合在一起的过程。仅当转换和模型及其超参数被预先识别时，才使用管道。

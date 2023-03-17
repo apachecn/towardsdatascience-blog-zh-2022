@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/assembly-compilers-and-the-x86-instruction-set-9a945c72d136>
 
-# 汇编、编译器和 x86 指令集
-
 ## 介绍汇编语言及其在 x86 微处理器系列中的使用
 
 ![](img/971d6b02a264185c59c42d84086f9571.png)

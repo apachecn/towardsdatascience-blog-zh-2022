@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/harnessing-programming-techniques-to-improve-r-scripts-e28d09fa0489>
 
-# 利用编程技术改进 R 脚本:
-
 ## 使用循环和函数自动化重复性任务
 
 ![](img/04157dc69a9f4380e1c90ec9badb6d48.png)

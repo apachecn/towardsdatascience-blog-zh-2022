@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/macbook-m1-pro-16-vs-custom-pc-with-rtx3060ti-close-call-16b15f085fb7>
 
-# 16 英寸 MacBook M1 Pro 与采用 RTX3060Ti 的定制电脑—千钧一发
-
 ## **【2499 美元的苹果 beast 与 1300 美元的配备专用 GPU 的 PC——了解哪种更适合 TensorFlow**
 
 ![](img/50264824b92a01c03137d69be73bc16a.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/design-patterns-in-machine-learning-for-mlops-a3f63f745ce4>
 
-# 机器学习中的设计模式
-
 ## 概述创建成功的机器学习解决方案时遇到的一些最常见的设计模式
 
 ![](img/15d0f0c0cd18d4e92f78c1822cd8bb45.png)

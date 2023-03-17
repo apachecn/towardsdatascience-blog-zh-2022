@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/lets-do-feature-engineering-5731efc3d7fe>
 
-# 让我们做:特征工程
-
 ## 使用房屋销售价格数据和一个`LightGBM`模型简要展示简单特征工程的威力。
 
 ![](img/f5cfad83860693c7160feba2d1f94665.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/everything-you-need-to-know-to-build-an-amazing-binary-classifier-590de3482aad>
 
-# 构建惊人的二进制分类器所需的一切
-
 ## 利用机器学习将产品评论自动分类为正面或负面
 
 ![](img/33c74c2dda3c5c5c0a58612d1f730ae1.png)

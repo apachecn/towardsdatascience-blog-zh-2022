@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-i-used-data-science-to-create-five-consistent-streams-of-income-74f48bb6cb98>
 
-# 我如何利用数据科学创造五个稳定的收入流
-
 ## 用数据科学赚钱的成熟方法
 
 ![](img/b404bb54fd10c34be16692de0adcfd49.png)

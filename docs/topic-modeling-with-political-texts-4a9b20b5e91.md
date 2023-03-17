@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/topic-modeling-with-political-texts-4a9b20b5e91>
 
-# 政治文本的话题建模
-
 ## 自然语言处理和文本分析系列的第二部分——利用 LDA
 
 欢迎来到我们的自然语言处理和文本分析系列的第二部分！如果你还没有机会，请阅读本系列的第一部分[这里](/using-nlp-and-text-analytics-to-cluster-political-texts-41fdb2c3a325)。为了总结我们迄今为止的进展，我们从政治著作的文集开始，如马基雅维利的《君主论》、汉密尔顿/麦迪逊/杰伊的《联邦党人文集》和马克思/恩格斯的《共产党宣言》。从这些作品中，我们导出了文本表格，并使用余弦相似性度量来确定各个作品的聚类，如下所示。

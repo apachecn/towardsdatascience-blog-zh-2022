@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/what-is-data-observability-and-why-do-you-need-it-87463f054bea>
 
-# **什么是数据可观测性，为什么需要它？**
-
 ## 数据可观察性意味着什么，为什么它至关重要，以及为什么组织和数据团队需要关注它。
 
 ![](img/9ec754b72bcf6a53fb9a4cf80299f2cc.png)

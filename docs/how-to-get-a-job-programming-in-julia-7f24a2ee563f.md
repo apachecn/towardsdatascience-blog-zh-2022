@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-to-get-a-job-programming-in-julia-7f24a2ee563f>
 
-# 如何找工作用 Julia(发展最快的语言)编程
-
 ![](img/811f34e71fa977a4ca2415474c8c1728.png)
 
 作者图片

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/using-compute-power-to-iterate-faster-through-ml-experiments-94c72342adaf>
 
-# 使用计算能力更快地迭代 ML 实验
-
 ## 在机器学习环境中使用 Python 模板进行引导实验并提高生产率
 
 ![](img/66e954e75cfcaa67d29c14ab127a5d65.png)

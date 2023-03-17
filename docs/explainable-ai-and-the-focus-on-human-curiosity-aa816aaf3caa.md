@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/explainable-ai-and-the-focus-on-human-curiosity-aa816aaf3caa>
 
-# 可解释的人工智能和对人类好奇心的关注
-
 ## 专注于最重要的几个因素和反事实
 
 ![](img/c9a8aa18847868a3806ec3db11829a09.png)

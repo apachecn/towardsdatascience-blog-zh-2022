@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/introduction-to-logistic-regression-predicting-diabetes-bc3a88f1e60e>
 
-# 逻辑回归简介:预测糖尿病
-
 ## UCL 数据科学学会研讨会 11:什么是逻辑回归、数据探索、实施和评估
 
 ![](img/2890e8ebd891404f6ffc3bb7919129d8.png)

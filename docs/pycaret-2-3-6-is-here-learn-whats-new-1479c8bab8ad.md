@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/pycaret-2-3-6-is-here-learn-whats-new-1479c8bab8ad>
 
-# PyCaret 2.3.6 来了！了解新内容？
-
 ## 从 EDA 到部署到 AI 公平性 PyCaret 迄今为止最大的版本
 
 ![](img/3109dd71033107a68543e68900b788dc.png)

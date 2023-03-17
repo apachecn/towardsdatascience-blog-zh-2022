@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/improve-your-a-b-tests-with-9-lessons-from-the-covid-19-vaccine-trials-8e270bf157d2>
 
-# 从新冠肺炎疫苗试验中吸取 9 个教训，提高你的 A/B 检验
-
 ## 在线实验的实践者能从一个复杂的过程中学到什么和总结什么
 
 ![](img/c92b22c72823f16d8fdfef5fcf7f33da.png)

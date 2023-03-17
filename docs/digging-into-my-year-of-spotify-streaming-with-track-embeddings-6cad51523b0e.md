@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/digging-into-my-year-of-spotify-streaming-with-track-embeddings-6cad51523b0e>
 
-# 用曲目嵌入挖掘我的 Spotify 流媒体年
-
 ## 受“Spotify Wrapped”的启发，我用嵌入、聚类和情绪分类来审视我这一年的音乐流
 
 ![](img/d5de377876762946329f2c778ab7e5b7.png)

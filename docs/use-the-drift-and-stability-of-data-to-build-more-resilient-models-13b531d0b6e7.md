@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/use-the-drift-and-stability-of-data-to-build-more-resilient-models-13b531d0b6e7>
 
-# 利用数据的漂移和稳定性建立更具弹性的模型
-
 ## 预测模型的好坏取决于为其提供动力的数据
 
 ![](img/6e1f2e718db8ef86c3277628a28b2e29.png)

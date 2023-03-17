@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/reading-h5-files-faster-with-pytorch-datasets-3ff86938cc>
 
-# 使用 PyTorch 数据集更快地读取. h5 文件
-
 ## 使用弱洗牌的方法
 
 ![](img/ac9630edf203e9b990748b5ff7fa9fa9.png)

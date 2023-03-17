@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/image-classification-with-convolutional-neural-networks-12a7b4fb4c91>
 
-# 基于卷积神经网络的图像分类
-
 ## 用于图像分类的卷积和卷积神经网络综合指南，从 Python 和 TensorFlow 的实现到优化和转移学习技术
 
 在我之前的文章中，我们学习了神经网络的基础知识

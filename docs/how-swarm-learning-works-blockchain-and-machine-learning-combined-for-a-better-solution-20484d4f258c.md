@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-swarm-learning-works-blockchain-and-machine-learning-combined-for-a-better-solution-20484d4f258c>
 
-# 群体学习如何工作——区块链和机器学习相结合以获得更好的解决方案
-
 ## 群体学习简介
 
 ![](img/b96fb892a9f7918d7e1da5f50c60a389.png)

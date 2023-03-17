@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-to-build-powerful-airflow-dags-for-big-data-workflows-in-python-14eb2b66f280>
 
-# 如何在 Python 中为大数据工作流构建强大的气流 Dag
-
 ## 将您的气流管道扩展到云
 
 ![](img/d0dd05c3dbdac623d152eac2406d52de.png)

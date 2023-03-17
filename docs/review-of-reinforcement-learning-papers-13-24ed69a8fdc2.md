@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/review-of-reinforcement-learning-papers-13-24ed69a8fdc2>
 
-# 复习强化学习试卷#13
-
 ## 我在我的研究领域发表了 4 篇文章:强化学习。大家讨论一下吧！
 
 ![](img/719b68a4e0fb45f11ba1a60a8358be43.png)

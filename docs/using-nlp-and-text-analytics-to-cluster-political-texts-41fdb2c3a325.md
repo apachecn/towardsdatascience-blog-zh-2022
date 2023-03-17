@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/using-nlp-and-text-analytics-to-cluster-political-texts-41fdb2c3a325>
 
-# 使用自然语言处理和文本分析对政治文本进行聚类
-
 ## NLTK 和古根海姆项目文本的 scipy
 
 在文本分析的保护伞下，有许多 python 包可以帮助我们以产生有趣结果的方式分析当前和历史文本。在这个项目中，我试图用余弦相似性聚类法对跨越数千年的政治著作进行分类。我使用的具体标题是:

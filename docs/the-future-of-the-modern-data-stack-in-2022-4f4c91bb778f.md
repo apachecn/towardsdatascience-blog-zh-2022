@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/the-future-of-the-modern-data-stack-in-2022-4f4c91bb778f>
 
-# 2022 年现代数据堆栈的未来
-
 ## 介绍 2021 年你应该知道的 6 大想法
 
 ![](img/f40e68ddd00b8d1cc0a70d0f7d2d79f4.png)

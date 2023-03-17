@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/getting-introduced-to-sml-a-weird-polymorphic-language-originated-in-1983-797ff9d6622e>
 
-# SML 入门:一种起源于 1983 年的怪异多态语言
-
 ## 尝试用 SML 语言编写和编译一些基本代码
 
 ![](img/3819a74b37630bf9512b72936187297e.png)

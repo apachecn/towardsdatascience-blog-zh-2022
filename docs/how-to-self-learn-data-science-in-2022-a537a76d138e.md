@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-to-self-learn-data-science-in-2022-a537a76d138e>
 
-# 如何自学数据科学
-
 ## 基于项目的数据科学入门方法
 
 ![](img/4e0557c7f2d6c013f8074ba58b872008.png)

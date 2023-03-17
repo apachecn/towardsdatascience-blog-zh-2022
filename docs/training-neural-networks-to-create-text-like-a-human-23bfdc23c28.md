@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/training-neural-networks-to-create-text-like-a-human-23bfdc23c28>
 
-# 训练神经网络像人类一样创造文本
-
 ## 递归神经网络可以生成与人类书写难以区分的文本。这里有一个亚马逊产品评论数据的例子。
 
 ![](img/bbd6dd93baba0a0826480e97e133222f.png)

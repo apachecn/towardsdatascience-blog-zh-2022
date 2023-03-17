@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/distinguish-4-ranking-functions-in-sql-37db99107c05>
 
-# 区分 SQL 中的 4 个排名函数
-
 ## 不同排名函数的备忘单
 
 ![](img/4feb24ce90ace4b6f96371f0161eaf7d.png)

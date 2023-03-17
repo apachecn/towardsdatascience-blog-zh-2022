@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/what-do-data-scientists-do-1309d53c2420>
 
-# **数据科学家是做什么的？**
-
 ## 我作为数据科学家的想法
 
 ![](img/30aa04a0e21962aea5f004ce1c96cb5e.png)

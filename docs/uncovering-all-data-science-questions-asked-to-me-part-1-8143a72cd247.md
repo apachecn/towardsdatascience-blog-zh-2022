@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/uncovering-all-data-science-questions-asked-to-me-part-1-8143a72cd247>
 
-# 揭开所有问我的数据科学面试问题—第 1 部分
-
 ![](img/470bd6322367511e1b6e5144e879522c.png)
 
 塞巴斯蒂安·赫尔曼在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上的照片

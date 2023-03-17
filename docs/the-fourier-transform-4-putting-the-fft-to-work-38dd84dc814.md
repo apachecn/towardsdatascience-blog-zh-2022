@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/the-fourier-transform-4-putting-the-fft-to-work-38dd84dc814>
 
-# 傅立叶变换，应用(4):让快速傅立叶变换发挥作用
-
 ## 傅立叶变换的实际应用
 
 现在，我们已经拥有了演示 FFT 的一些真实用例所需的所有工具！

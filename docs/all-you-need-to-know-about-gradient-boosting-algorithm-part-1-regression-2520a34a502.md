@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/all-you-need-to-know-about-gradient-boosting-algorithm-part-1-regression-2520a34a502>
 
-# 关于梯度提升算法，您只需知道第 1 部分。回归
-
 ## 用例子、数学和代码解释算法
 
 ![](img/e3e4da158343f2b00d0b7b74ab629737.png)

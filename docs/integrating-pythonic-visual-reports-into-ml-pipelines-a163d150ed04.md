@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/integrating-pythonic-visual-reports-into-ml-pipelines-a163d150ed04>
 
-# 将 Pythonic 可视化报告集成到 ML 管道中
-
 ## 每一个工作流的执行都值得被记录(自动地)
 
 ![](img/67b91cd88209649d7eda541a38fedc3b.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-i-discovered-the-power-of-effective-communication-in-data-science-2a1f6aca903c>
 
-# 我是如何发现数据科学中有效沟通的力量的
-
 ## 发现新事物时学到的经验教训
 
 ![](img/aad84df8fe0575be787ced70d3576bb7.png)

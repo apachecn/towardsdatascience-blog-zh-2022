@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-to-create-and-train-a-multi-task-transformer-model-18c54a146240>
 
-# 如何创建和训练多任务转换器模型
-
 ## 关于如何使用 Huggingface Transformers 创建和训练多任务 transformer 模型的分步教程。
 
 ![](img/c425bd1f1c7b801be5e376c1dd7599fd.png)

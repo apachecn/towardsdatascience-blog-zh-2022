@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/5-tricks-to-master-pandas-append-ede4318cc700>
 
-# 掌握熊猫的 5 招追加()
-
 ## 使用 Pandas append()在当前数据帧末尾有效添加行的实践教程
 
 ![](img/187f847138ea820cc8294b4553b04283.png)

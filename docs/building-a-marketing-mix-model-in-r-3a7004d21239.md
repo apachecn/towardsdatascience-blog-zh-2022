@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/building-a-marketing-mix-model-in-r-3a7004d21239>
 
-# 使用 R 建立一个简单的营销组合模型(MMM)并进行预测
-
 ## 我们回顾了**营销组合建模(MMM)** 与**多点接触归因(MTA)** 之间的区别，然后我们继续在 R
 
 ![](img/3a491d287a3491bfc6cba0932fab946b.png)

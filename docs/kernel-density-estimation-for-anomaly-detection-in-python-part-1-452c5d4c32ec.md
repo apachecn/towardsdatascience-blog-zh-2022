@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/kernel-density-estimation-for-anomaly-detection-in-python-part-1-452c5d4c32ec>
 
-# Python 中异常检测的核密度估计:第 1 部分
-
 ## 将经典方法与深度学习相结合以获得更好的表示
 
 ![](img/57bf1aef58ed6cd7e5fe15817f6e4b3f.png)

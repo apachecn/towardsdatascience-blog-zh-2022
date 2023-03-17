@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/weve-only-scratched-the-surface-of-the-full-potential-for-the-data-warehouse-a53d18aae170>
 
-# 我们仅仅触及了数据仓库全部潜力的表面
-
 可能感觉我们正处于数据仓库的顶峰。数据团队[接近工程团队规模的 50%](https://mikkeldengsoe.substack.com/p/data-to-engineers)在一些公司，雪花收入去年增长超过 100%,现代数据堆栈现在是一个常用术语。
 
 我认为我们只是触及了表面。

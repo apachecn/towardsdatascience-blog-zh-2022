@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/spark-graphx-pregel-its-not-so-complex-as-it-sounds-d196da246c73>
 
-# Spark Graphx Pregel API:它没有听起来那么复杂
-
 ## 了解 Pregel 的基础知识，以及它如何解决现实世界中的问题，即使这些问题与图形没有严格的关系。
 
 ![](img/f5be65066f0b1f1c39db7afec18ebbd9.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/graph-machine-learning-with-python-part-3-unsupervised-learning-aa2854fe0ff2>
 
-# 使用 Python 的图机器学习第 3 部分:无监督学习
-
 ## 大都会艺术博物馆中绘画的聚类和嵌入
 
 ![](img/4ced4f42b72fdd21f5f95daab60723a1.png)

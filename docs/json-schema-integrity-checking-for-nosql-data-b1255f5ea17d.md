@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/json-schema-integrity-checking-for-nosql-data-b1255f5ea17d>
 
-# JSON 模式:NoSQL 数据的完整性检查
-
 ## 用 JSON 模式验证 JSON 和 CSV 数据的格式。Python 和 pandas 中的示例代码。
 
 ![](img/f2114755e7895cbea0db8a08a0d695de.png)

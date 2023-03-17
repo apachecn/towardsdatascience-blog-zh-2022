@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/using-deep-learning-for-text-generation-of-wikipedia-articles-c9f1897f54a0>
 
-# 使用深度学习进行维基百科文章的文本生成
-
 ## 在 fastai 和 Pytorch 中对自然语言模型使用 AWD-lstm
 
 ![](img/574b00eaa84464820fc36fd257cd5bae.png)

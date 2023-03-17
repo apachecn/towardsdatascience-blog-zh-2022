@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/settingwithcopywarning-in-pandas-782e4aa54ff7>
 
-# 在熊猫中设置版权警告
-
 ## 它是什么，为什么突然出现，以及如何摆脱它
 
 (TL；dr:如果你是来寻求答案的，直接跳到[消除带有复制警告的设置](#0e7a)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/comparison-between-arcgis-dashboard-tableau-dashboard-and-r-flexdashboard-86604cd125d1>
 
-# **ArcGIS Dashboard、Tableau Dashboard 和 R Flexdashboard 之间的比较**
-
 ## 为数据分析项目选择正确的工具
 
 ![](img/e6c774daa5c7f169292aa45c606770db.png)

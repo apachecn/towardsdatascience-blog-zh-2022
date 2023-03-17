@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-to-create-a-strong-data-science-portfolio-for-free-142588a0d754>
 
-# 如何免费创建强大的数据科学产品组合
-
 ## 一个有效总结你的技能、数据科学项目和过去经验的网站
 
 ![](img/be881dda4b52195ba419181c991ee9ab.png)

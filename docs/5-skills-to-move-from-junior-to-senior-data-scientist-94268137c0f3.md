@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/5-skills-to-move-from-junior-to-senior-data-scientist-94268137c0f3>
 
-# 从初级数据科学家晋升到高级数据科学家的 5 项技能
-
 ## 期待什么以及如何到达那里？
 
 ![](img/f3856c6031a1162a600d74afc1417e74.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/a-novel-way-to-use-batch-normalization-837176d53525>
 
-# 一种使用批处理规范化的新方法
-
 ## 在推断过程中，我如何使用批量标准化来提高我的眼球跟踪器 20%的性能
 
 ![](img/11b3db94fc69e6f491835f6131f2f9e4.png)

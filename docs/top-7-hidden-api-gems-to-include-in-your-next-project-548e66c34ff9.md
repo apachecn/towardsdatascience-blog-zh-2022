@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/top-7-hidden-api-gems-to-include-in-your-next-project-548e66c34ff9>
 
-# 将包含在您的下一个项目中的 7 大隐藏 API 宝石
-
 ## 你可能从来没有听说过这些
 
 ![](img/b18e2712d12f2480e375cc174c11456e.png)

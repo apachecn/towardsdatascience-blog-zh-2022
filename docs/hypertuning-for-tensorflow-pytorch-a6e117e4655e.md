@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/hypertuning-for-tensorflow-pytorch-a6e117e4655e>
 
-# TensorFlow 和 PyTorch 的超调
-
 ![](img/d89ff40f4abd6b03e497ece9509c1db7.png)
 
 超参数调整就像用数据打碟一样——照片来源([unsplash.com/photos/ZfCVTJ30yoc](https://unsplash.com/photos/ZfCVTJ30yoc))

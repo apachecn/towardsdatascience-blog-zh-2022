@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/debunking-my-assumptions-on-traffic-data-328f6a38a772>
 
-# 揭穿我对交通数据的假设
-
 ## 从数据探索到模型训练，如何充分利用交通数据集。
 
 ![](img/330998ed0ce7ebf2f00940dde2332ec8.png)

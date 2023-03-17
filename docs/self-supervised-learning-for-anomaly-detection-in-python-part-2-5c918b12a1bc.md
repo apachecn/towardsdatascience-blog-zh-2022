@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/self-supervised-learning-for-anomaly-detection-in-python-part-2-5c918b12a1bc>
 
-# Python 中异常检测的自监督学习:第二部分
-
 ## CutPaste:作为核密度估计改进的自我监督学习
 
 ![](img/e4da8b9a5c48488f1c7256f352340d14.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/mapping-your-favorite-high-end-grocery-chains-5fe3d234cfd4>
 
-# 描绘你最喜欢的高端连锁杂货店
-
 ## 全食超市 vs. Trader Joes:他们的选址策略有多大不同？
 
 ![](img/95db85319d654a9fbd456d46add96182.png)

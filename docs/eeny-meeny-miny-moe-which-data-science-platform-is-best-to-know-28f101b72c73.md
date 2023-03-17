@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/eeny-meeny-miny-moe-which-data-science-platform-is-best-to-know-28f101b72c73>
 
-# Eeny Meeny Miny Moe，最好了解哪个数据科学平台？
-
 ## 研究不同的数据科学平台和 ide 以及何时学习它们
 
 ![](img/b4b166736d8179505ca2d6ca58d074c4.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/let-the-bot-automate-your-data-processing-e6ef26959d65>
 
-# 让机器人自动处理你的数据
-
 ## 使用 RPA、PyAutoGui 和 Pandas 来避免在 SAP 和您的数据仓库中进行重复的手动工作
 
 ![](img/2032ba629674adc9c981e6e18e9e777a.png)

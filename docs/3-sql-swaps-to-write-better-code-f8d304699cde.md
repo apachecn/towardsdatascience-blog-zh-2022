@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/3-sql-swaps-to-write-better-code-f8d304699cde>
 
-# 3 次 SQL 交换以编写更好的代码
-
 ## 如何确保您的代码是准确的、可读的和高效的
 
 ![](img/a62bc11a82cd4cabddab926c4756d6d1.png)

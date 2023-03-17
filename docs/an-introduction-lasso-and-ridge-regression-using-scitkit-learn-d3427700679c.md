@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/an-introduction-lasso-and-ridge-regression-using-scitkit-learn-d3427700679c>
 
-# 使用 scitkit-learn 介绍套索和岭回归
-
 ## UCL 数据科学学会 12a 研讨会:偏差-方差权衡、套索实施、山脊实施及其差异
 
 ![](img/163334455b2c89bf80df00485536728e.png)

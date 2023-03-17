@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/back-to-bit-sics-bits-pointers-and-memory-8c0eb125a0b7>
 
-# 回到“位-系统”:位、指针和内存
-
 ## 数据科学家用 C 语言解释位、指针和内存
 
 ![](img/f3978ba56492d32b407b1aa647ee1230.png)

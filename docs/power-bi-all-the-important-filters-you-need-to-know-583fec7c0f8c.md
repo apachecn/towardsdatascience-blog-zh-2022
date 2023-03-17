@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/power-bi-all-the-important-filters-you-need-to-know-583fec7c0f8c>
 
-# power BI——您需要了解的所有重要滤波器
-
 ## …当然还有例子！
 
 ![](img/3d5100c46df4d2649e08aa6c5c8f98db.png)

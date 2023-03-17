@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/gradient-boosted-arima-for-time-series-forecasting-e093f80772f6>
 
-# 时间序列预测的梯度增强 ARIMA
-
 ## 提升 PmdArima 的 Auto-Arima 性能
 
 ![](img/4aae73d52e8088a07c5f7cf1f25ded88.png)

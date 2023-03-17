@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/decision-trees-random-forests-and-gradient-boosting-whats-the-difference-ae435cbb67ad>
 
-# 决策树、随机森林和梯度推进:有什么区别？
-
 ## 基于决策树的算法简介
 
 ![](img/29ceb375bc5b63e8a4d09e536a964f89.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/designing-data-systems-complexity-modular-design-384b28fec672>
 
-# 设计数据系统:复杂性和模块化设计
-
 ## 数据科学家和工程师的设计思维方法。
 
 ![](img/e0dd8a42d67a02e6bb53adc5d72f018b.png)

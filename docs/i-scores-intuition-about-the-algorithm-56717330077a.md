@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/i-scores-intuition-about-the-algorithm-56717330077a>
 
-# I-Scores:对算法的直觉
-
 ## 关于插补分数算法的一些细节，一种选择最佳插补的方法
 
 ![](img/4cd47b6bb4f1358aee0c63867c31354b.png)

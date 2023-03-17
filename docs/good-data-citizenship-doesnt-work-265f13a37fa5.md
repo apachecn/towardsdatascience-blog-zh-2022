@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/good-data-citizenship-doesnt-work-265f13a37fa5>
 
-# 良好的数据公民身份不起作用
-
 ## 我们可以也应该要求每个人都成为良好的数据公民。但是我们也必须成为优秀的领导者。
 
 ![](img/bb56b2bbcb0fa8f3285c4735dd152024.png)

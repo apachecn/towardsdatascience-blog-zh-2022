@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/youtube-to-text-with-speech-recognition-in-python-cd47d6d98b16>
 
-# 使用 Python 中的语音识别功能将 Youtube 转换为文本
-
 ## 基于 Python 的库，用于为 NLP 用例下载 Youtube 视频
 
 ![](img/f4d8916b7554a782faa997892fa8de80.png)

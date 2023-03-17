@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-my-degree-in-physics-helped-me-become-a-better-data-scientist-726c643c54ae>
 
-# 我的物理学学位如何帮助我成为一名更好的数据科学家
-
 ![](img/3f701567a779265d372e5ca81ed4921a.png)
 
 *照片由* [*罗马法师*](https://unsplash.com/@roman_lazygeek?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) *上* [*下*](https://unsplash.com/s/photos/physics?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)

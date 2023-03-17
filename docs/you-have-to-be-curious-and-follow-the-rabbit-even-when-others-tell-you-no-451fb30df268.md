@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/you-have-to-be-curious-and-follow-the-rabbit-even-when-others-tell-you-no-451fb30df268>
 
-# 即使别人对你说不，你也要保持好奇心，跟着兔子走
-
 ## Robert McKeon Aloe 谈论数据、咖啡和在每个转折点质疑假设的重要性。
 
 在 Author Spotlight 系列中，TDS 编辑与我们社区的成员谈论他们在数据科学领域的职业道路、他们的写作以及他们的灵感来源。今天，我们很高兴与 [*罗伯特·麦肯芦荟*](https://medium.com/u/ae592466d35f?source=post_page-----451fb30df268--------------------------------) *分享我们的对话。*

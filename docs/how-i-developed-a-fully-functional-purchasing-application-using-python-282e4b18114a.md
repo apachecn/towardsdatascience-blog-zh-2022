@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-i-developed-a-fully-functional-purchasing-application-using-python-282e4b18114a>
 
-# 我如何使用 Python 开发一个全功能的采购应用程序
-
 ## 输入采购订单，将其发送给供应商，并在您的仓库中接收产品
 
 ![](img/5798026d18f9482116ef3866680425dc.png)

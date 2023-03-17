@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/build-a-song-recommendation-system-using-streamlit-and-deploy-on-heroku-375a57ce5e85>
 
-# 使用 Streamlit 构建歌曲推荐系统并在 Heroku 上部署
-
 ## 了解如何使用 Spotify 音乐数据集的 K 近邻构建一个简单的歌曲推荐引擎
 
 ![](img/77f48f55884a6a2755c151d571efb70d.png)

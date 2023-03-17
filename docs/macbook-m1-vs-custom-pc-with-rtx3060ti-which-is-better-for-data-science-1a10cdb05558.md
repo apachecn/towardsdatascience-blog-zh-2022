@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/macbook-m1-vs-custom-pc-with-rtx3060ti-which-is-better-for-data-science-1a10cdb05558>
 
-# MacBook M1 与采用 RTX3060Ti 的定制 PC——哪个对数据科学更有利？
-
 ## **苹果 2020 年售价 1299 美元的 beast 与同等价格的 PC 配置相比，TensorFlow 的速度更快？**
 
 ![](img/5c00827d9271da93d2adf1a9f59d991e.png)

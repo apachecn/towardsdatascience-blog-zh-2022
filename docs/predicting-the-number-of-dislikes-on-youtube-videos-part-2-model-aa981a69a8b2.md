@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/predicting-the-number-of-dislikes-on-youtube-videos-part-2-model-aa981a69a8b2>
 
-# 预测 YouTube 视频上不喜欢的数量。第 2 部分—模型
-
 ## 如何(尝试)使用 Tensorflow/Keras 建立深度神经网络来预测不喜欢的数量
 
 ![](img/fd078eb40bf80fbc19e483d5acf381dc.png)

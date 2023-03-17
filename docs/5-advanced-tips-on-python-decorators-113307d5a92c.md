@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/5-advanced-tips-on-python-decorators-113307d5a92c>
 
-# Python Decorators 的 5 个高级技巧
-
 ## 你想写出简洁、易读、高效的代码吗？嗯，python decorators 可能会在您的旅程中帮助您。
 
 ![](img/0eb9b0eb19d4eb7c1cd7d08eff538fd5.png)

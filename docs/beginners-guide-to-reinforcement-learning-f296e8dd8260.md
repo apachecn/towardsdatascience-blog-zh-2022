@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/beginners-guide-to-reinforcement-learning-f296e8dd8260>
 
-# 强化学习初学者指南
-
 ## 强化学习模型的高级概述
 
 ![](img/dddcdad28f32392a1a93447d79411272.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/swin-vision-transformers-hacking-the-human-eye-4223ba9764c3>
 
-# swin/视觉变形金刚——侵入人眼
-
 ## 一个 ML 架构来统治他们？也许不是…
 
 ![](img/6e87f9beeb8d493a1051187b1a8161f5.png)

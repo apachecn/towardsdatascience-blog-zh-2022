@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/four-r-packages-for-automated-exploratory-data-analysis-you-might-have-missed-c38b03d4ee16>
 
-# 您可能错过的自动化探索性数据分析的四个 R 包
-
 ## 通过 R 中的实际例子探索有用的工具来简化探索性任务
 
 ![](img/aaa09ee3be09b8cc23e0277083559607.png)

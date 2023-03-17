@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/node2vec-explained-db86a319e9ab>
 
-# Node2Vec 解释
-
 ## 用 Python 解释和实现 Node2Vec 白皮书
 
 ![](img/2d633b9f27afed914f1d439ac415fff3.png)

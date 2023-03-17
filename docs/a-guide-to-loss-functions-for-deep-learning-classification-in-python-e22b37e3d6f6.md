@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/a-guide-to-loss-functions-for-deep-learning-classification-in-python-e22b37e3d6f6>
 
-# Python 中深度学习分类的损失函数指南
-
 ## 多类多标签分类的损失函数
 
 ![](img/d61d39a11e140d62f2065e7b3f36db17.png)

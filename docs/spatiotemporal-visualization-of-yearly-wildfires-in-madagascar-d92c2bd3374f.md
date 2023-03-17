@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/spatiotemporal-visualization-of-yearly-wildfires-in-madagascar-d92c2bd3374f>
 
-# 马达加斯加每年野火的时空可视化
-
 ## 热图-VIRS(375 米)活动火数据展开时的动画
 
 ![](img/108960ecd43794588b89d01e8d924bc6.png)

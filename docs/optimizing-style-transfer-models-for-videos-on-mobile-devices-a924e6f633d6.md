@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/optimizing-style-transfer-models-for-videos-on-mobile-devices-a924e6f633d6>
 
-# 优化移动设备上视频的风格转移模型
-
 ## 尝试 PyTorch 照明和闪光灯的灵活性，以创建一个面部卡通模型
 
 [iOS ToonClip App](https://apps.apple.com/us/app/toonclip/id1536285338) 采用本帖描述的人脸转卡通模型——模型、App、图片均由作者提供。

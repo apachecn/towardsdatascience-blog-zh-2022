@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/a-simple-introduction-to-gaussian-mixture-model-gmm-f9fe501eef99>
 
-# 高斯混合模型(GMM)简介
-
 ## 这篇文章将向您展示——使用简单的词语——在 Python 中聚类数据的另一种选择
 
 ![](img/e0dcc322864cc558789a6a88fa0c1e1b.png)

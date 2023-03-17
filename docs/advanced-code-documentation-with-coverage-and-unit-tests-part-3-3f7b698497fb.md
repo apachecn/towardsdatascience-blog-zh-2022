@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/advanced-code-documentation-with-coverage-and-unit-tests-part-3-3f7b698497fb>
 
-# 包含覆盖率和单元测试的高级代码文档—第 3 部分
-
 ## 评估文档的完整性并对文档字符串执行单元测试——使用和不使用 Sphinx
 
 ***更新*** *:本文是系列文章的一部分。查看* [*第一部分*](/advanced-code-documentation-beyond-comments-and-docstrings-2cc5b2ace28a) ， [*第二部分*](/advanced-code-documentation-with-sphinx-part-2-32c82860a535) *！*

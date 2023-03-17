@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/airflow-prefect-and-dagster-an-inside-look-6074781c9b77>
 
-# 气流，级长，和 Dagster:一个内部看看
-
 ![](img/0be027cf5208f41017783fc50362ec06.png)
 
 约书亚·索蒂诺在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄的照片

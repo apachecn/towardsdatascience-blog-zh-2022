@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/data-engineering-in-julia-3fd37eaa618a>
 
-# Julia 中的数据工程
-
 ## 开始创建数据管道所需的一切🪠🧑‍🔧
 
 ![](img/3bcae8283f7c0a8f5c3a88fb92013544.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/detangling-decoding-7e8842edfa0a>
 
-# 解缠结解码
-
 ## 后处理是介于算法输出和洞察力之间的数据争论。
 
 ![](img/5393bde47d76f9a0c94303dc37e200ba.png)

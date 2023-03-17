@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/why-we-actually-need-data-science-cc1df7adce97>
 
-# **为什么我们*其实*需要数据科学**
-
 ## 数据科学具有并将继续具有影响力的 3 个原因
 
 ![](img/4a896e7c185a873f2ab4301cb04388db.png)

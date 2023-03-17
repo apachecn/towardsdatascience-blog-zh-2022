@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/combating-the-curse-of-dimensionality-62b0c2bf3472>
 
-# 对抗维度的诅咒
-
 ## 方法来减少数据集的维数，以减少过度拟合并加速该过程
 
 ![](img/6f928a6eeeec7243e0b40c27d25528cf.png)

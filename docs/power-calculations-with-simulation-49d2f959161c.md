@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/power-calculations-with-simulation-49d2f959161c>
 
-# 通过仿真进行功耗计算
-
 ## 用 R 中的例子来说明
 
 ![](img/acde9af8c97efcc609e8bdb071bda368.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/creating-a-ui-with-ipywidgets-and-autocalc-2ef8ea4cc6c2>
 
-# 使用 Jupyter 和 autocalc 为您的数据分析项目创建一个用户界面
-
 ## autocalc 软件包如何让您自动重新计算变量
 
 ![](img/ecc9b7c115c7708066a20db0b7c515f7.png)

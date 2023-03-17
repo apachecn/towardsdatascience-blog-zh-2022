@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/azure-data-factory-basic-concepts-e10448e54023>
 
-# Azure 数据工厂基本概念
-
 ## 有很好的资源可以逐步学习 ADF，但是很少有对其基本概念的清晰解释。本文填补了这一空白。
 
 ![](img/0d46ea614e679c951310e8cc73d882bb.png)

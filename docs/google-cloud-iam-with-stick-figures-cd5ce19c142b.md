@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/google-cloud-iam-with-stick-figures-cd5ce19c142b>
 
-# 用简笔画理解谷歌云 IAM 概念
-
 ## 用涂鸦描述谷歌云平台上的 IAM 概念
 
 ![](img/863b9ce4ad32f2c4f7fac7e7a40d0e0c.png)

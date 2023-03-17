@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/exploring-your-fitness-through-strava-data-90bffe391521>
 
-# **通过 Strava 数据探索您的健康状况**
-
 ## **如何开始锻炼数据冒险(EDA)**
 
 ![](img/9ed3d724df5ca50ec6437b3778041908.png)

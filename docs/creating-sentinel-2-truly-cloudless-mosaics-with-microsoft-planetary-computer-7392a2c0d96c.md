@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/creating-sentinel-2-truly-cloudless-mosaics-with-microsoft-planetary-computer-7392a2c0d96c>
 
-# 用微软行星计算机创建哨兵 2 号(真正的)无云镶嵌图
-
 ## 使用 GEE 的 S2 无云图层，在微软行星计算机上有效地遮蔽云(和云的阴影)
 
 ![](img/69cf7c6740e99e9adb61b0ff0a84d790.png)

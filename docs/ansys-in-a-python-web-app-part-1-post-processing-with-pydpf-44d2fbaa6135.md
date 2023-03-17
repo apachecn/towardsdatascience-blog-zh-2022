@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/ansys-in-a-python-web-app-part-1-post-processing-with-pydpf-44d2fbaa6135>
 
-# Python Web 应用程序中的 ANSYS，第 1 部分:使用 PyDPF 进行后处理
-
 ## 将 PyAnsys 与 Plotly 的 Dash 和 Dash-VTK 组件集成，构建 Ansys 结构分析后处理 web 应用程序
 
 ![](img/9c05c6e49132d77bbb0eded5abc15461.png)

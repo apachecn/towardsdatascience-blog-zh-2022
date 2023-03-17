@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/shap-for-xgboost-from-np-completness-to-polynomial-time-20c9e78907a0>
 
-# XGBoost 的 SHAP:从 NP 完全到多项式时间
-
 ![](img/991f276abe8207ee1c6e67090e6d9848.png)
 
 丹-克里斯蒂安·pădureț在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄的照片

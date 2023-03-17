@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/four-interpretable-algorithms-that-you-should-use-in-2022-56b76974889b>
 
-# 你应该在 2022 年使用的四种可解释的算法
-
 ## 为了做出最好的决定，我们必须了解他们
 
 ![](img/c1ca40b9dfde86706a2fa5a831c38a5c.png)

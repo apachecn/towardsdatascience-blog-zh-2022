@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/charting-with-dash-583b65a22ace>
 
-# **用绘图破折号制图**
-
 ## **3:使用破折号选择图表以更好地讲述故事**
 
 ![](img/85f385114317d282674ca992ede8236a.png)

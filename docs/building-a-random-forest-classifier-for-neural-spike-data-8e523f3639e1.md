@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/building-a-random-forest-classifier-for-neural-spike-data-8e523f3639e1>
 
-# **构建随机森林分类器来预测神经尖峰信号**
-
 ## *在 Python 中构建随机森林分类器以预测真实神经细胞外尖峰的子类型的分步指南。*
 
 ![](img/5054fdd9991494b6a8be60f14f954667.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/5-sql-commands-you-need-to-know-as-a-beginner-starting-out-cdc11cc2d9c>
 
-# 作为初学者，你需要知道的 5 个 SQL 命令
-
 ## 如果你想精通 SQL，你需要知道的 5 个基本命令
 
 ![](img/7c8839a0be3730e14ec4288a6bbe5e7f.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/pytorch-multi-weight-support-api-makes-transfer-learning-trivial-again-899071fa2844>
 
-# PyTorch 多权重支持 API 让迁移学习再次变得琐碎
-
 ## 一个新的 Pytorch API 使微调流行的神经网络架构变得容易，并使它们为您工作
 
 ![](img/6cf6da8655d7b226929d87a7db5bcf50.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/python-package-for-bayesian-a-b-testing-86ea3ff5c963>
 
-# 用于贝叶斯测试的 Python 包
-
 ## 使用贝叶斯方法快速评估 A/B(或 A/B/C/…)测试
 
 ![](img/8ba925f26df4bf08f9709cb3835eeed8.png)

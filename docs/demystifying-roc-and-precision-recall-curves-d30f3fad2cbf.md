@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/demystifying-roc-and-precision-recall-curves-d30f3fad2cbf>
 
-# 揭开 ROC 和精确回忆曲线的神秘面纱
-
 ## 揭穿关于二元分类的 ROC 曲线/ AUC 和精确召回曲线/ AUPRC 的神话，关注不平衡数据
 
 受试者工作特征(ROC)曲线和精确召回率(PR)曲线是比较二元分类器的两种可视化工具。与此相关的是，ROC 曲线下面积(AUC，又名 AUROC)和 precision-recall 曲线下面积(AUPRC，又名 average precision)是用单个数字概括 ROC 和 PR 曲线的度量。在本文中，我们对这些工具进行了一些阐述，并把它们与不平衡数据(1 比 0 多)进行了比较。特别是，我们提出的论点是，对于不平衡数据，民间传说"*PR 曲线优于 ROC 曲线，因为 ROC 可能会误导人或不提供信息*"包含的真理比通常假设的要少。这是否正确取决于具体的应用环境，尤其是如何应用这些工具。更重要的是，PR 曲线同样可以很好地掩盖预测准确性的重要方面，并且在存在阶级不平衡时具有误导性。

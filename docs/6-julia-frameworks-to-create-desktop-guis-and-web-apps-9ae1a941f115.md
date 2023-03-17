@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/6-julia-frameworks-to-create-desktop-guis-and-web-apps-9ae1a941f115>
 
-# 6 Julia 框架来创建桌面 GUI 和 Web 应用程序
-
 ![](img/4fc325e5d0a3c00e1832f27bbc0574f1.png)
 
 阿尔瓦罗·雷耶斯在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄的照片

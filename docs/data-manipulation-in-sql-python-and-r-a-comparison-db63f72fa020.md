@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/data-manipulation-in-sql-python-and-r-a-comparison-db63f72fa020>
 
-# SQL、Python 和 R 中的数据操作——比较
-
 ## 对最常见的 SQL 语句及其用 pandas (Python)和 dplyr (R)编写的对应物的完整而友好的概述
 
 ![](img/3d2d22bb2ef2a8bc11a77abcab7c61df.png)

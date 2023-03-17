@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/deriving-location-intelligence-insights-using-safegraph-d53803e239cb>
 
-# 使用 SafeGraph 获得位置智能洞察
-
 ## SafeGraph 提供基于动态位置的数据。让我们利用这一点来获得研究见解。
 
 ![](img/0e08accb8ceddedf349f83620d17cd2d.png)

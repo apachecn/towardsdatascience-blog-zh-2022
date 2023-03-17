@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/manifold-alignment-c67fc3fc1a1c>
 
-# 歧管对齐
-
 ## 多个数据集的统一
 
 ![](img/c521a0900525f42b68ea854d5d23450b.png)

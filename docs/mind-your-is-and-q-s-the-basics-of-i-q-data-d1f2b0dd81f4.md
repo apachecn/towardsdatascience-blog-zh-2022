@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/mind-your-is-and-q-s-the-basics-of-i-q-data-d1f2b0dd81f4>
 
-# 注意你的 I 和 Q:I/Q 数据的基础
-
 ## 使用相位调制示例了解同相和正交分量
 
 I/Q 数据出现在许多数据科学设置中:RF(射频)数据、时间序列分析、音频处理等等。

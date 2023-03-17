@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/cool-software-engineering-concepts-for-data-scientists-d6bd54243f4e>
 
-# 数据科学家的酷软件工程概念
-
 ## 这些是我作为数据科学家和团队成员学到的一些软件工程概念
 
 ![](img/d5bf1f50803effe4ed523739eee0a39a.png)

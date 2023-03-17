@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/tips-on-how-to-learn-deep-reinforcement-learning-effectively-8578813ff23>
 
-# 如何有效学习深度强化学习的小技巧
-
 ## 可能会帮你节省时间的多年经验总结
 
 ![](img/0c4bca255068aeef7914b2912853ea3c.png)

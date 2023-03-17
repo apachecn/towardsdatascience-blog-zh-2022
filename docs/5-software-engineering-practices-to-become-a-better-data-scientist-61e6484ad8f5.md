@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/5-software-engineering-practices-to-become-a-better-data-scientist-61e6484ad8f5>
 
-# 成为更好的数据科学家的 5 个软件工程实践
-
 ## 数据科学家应该向软件工程师学习的最佳实践。
 
 ![](img/3acbd6f6a32ca9b20b59c8d9e983ac50.png)

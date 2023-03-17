@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/identifying-tweet-sentiment-in-python-7c37162c186b>
 
-# 在 Python 中识别推文情感
-
 ## 如何使用 Tweepy 和 Textblob 识别推文情感
 
 ![](img/6aa186210daf59d46c84a40076771bec.png)

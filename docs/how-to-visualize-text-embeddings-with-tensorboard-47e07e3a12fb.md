@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-to-visualize-text-embeddings-with-tensorboard-47e07e3a12fb>
 
-# 如何用 TensorBoard 可视化文本嵌入
-
 ## 从文本数据中轻松创建引人注目的图表，并检查嵌入内容的质量
 
 ![](img/ee8481d0804298b358dbf655fdedc6c0.png)

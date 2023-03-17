@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/numpy-for-data-science-interviews-1f86e7277ddd>
 
-# 数据科学面试的数字
-
 ## *数据科学 NumPy 简介*
 
 ![](img/8baab02e4297a94f3b3c9226c86b2973.png)

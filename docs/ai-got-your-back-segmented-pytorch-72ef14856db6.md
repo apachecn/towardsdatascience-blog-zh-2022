@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/ai-got-your-back-segmented-pytorch-72ef14856db6>
 
-# 人工智能让你的背部分段(PyTorch)
-
 ## 用于脊柱的 UNet 分割
 
 ![](img/95b5d6d2347b87b5391576ccc59e66d8.png)

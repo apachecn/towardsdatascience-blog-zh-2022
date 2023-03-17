@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/store-api-credentials-easily-and-securely-in-jupyter-notebooks-50411e98e81c>
 
-# 在 Jupyter 笔记本电脑中轻松安全地存储 API 凭证
-
 ## 将您的凭证安全地存储在您自己的机器上，并通过一个对话窗口将它们放入您的笔记本中。
 
 ![](img/4223c76bfb5c42512493a391ea350159.png)

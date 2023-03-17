@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/tableau-vs-powerbi-which-should-you-choose-1ad8d4d4be40>
 
-# Tableau vs. PowerBI:你该选哪个？
-
 ## 深入探究这两个程序之间的相似之处和不同之处
 
 ![](img/907ee06ed4ae5181d038eaea7209daa3.png)

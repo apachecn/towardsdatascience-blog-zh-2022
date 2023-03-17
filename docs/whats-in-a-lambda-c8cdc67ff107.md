@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/whats-in-a-lambda-c8cdc67ff107>
 
-# λ里有什么？
-
 ## Python 中匿名函数的概述以及为什么应该使用它们
 
 ![](img/98964d3c765108422d5942eeb86bec31.png)

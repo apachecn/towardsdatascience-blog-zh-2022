@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/8-podcast-episodes-on-the-climate-impact-of-machine-learning-54f1c19f52d>
 
-# 8 集关于机器学习对气候影响的精彩播客
-
 ## 这里有一个精心策划的列表，列出了 8 个关于机器学习的环境足迹以及如何减少它的精彩播客。
 
 ![](img/e5dd2110ff59cd8cb15baba5538044e9.png)

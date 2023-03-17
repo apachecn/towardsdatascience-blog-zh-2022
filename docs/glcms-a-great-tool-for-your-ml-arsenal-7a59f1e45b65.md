@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/glcms-a-great-tool-for-your-ml-arsenal-7a59f1e45b65>
 
-# GL CMS——你的 ML 武器库的一个伟大的工具
-
 ## 灰度共生矩阵理论(GLCMs)和一个实际应用(带代码！)
 
 *   *什么是灰度共生矩阵？*

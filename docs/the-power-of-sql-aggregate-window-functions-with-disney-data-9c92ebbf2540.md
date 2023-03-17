@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/the-power-of-sql-aggregate-window-functions-with-disney-data-9c92ebbf2540>
 
-# 迪士尼数据的 SQL 聚合窗口函数的强大功能
-
 AVG()，计数()，最大值()，最小值()，总和()
 
 ![](img/9206a04ddea6207da95f8deafaf61b1b.png)

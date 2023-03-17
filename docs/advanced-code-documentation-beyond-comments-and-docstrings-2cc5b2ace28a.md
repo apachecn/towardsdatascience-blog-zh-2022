@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/advanced-code-documentation-beyond-comments-and-docstrings-2cc5b2ace28a>
 
-# 注释和文档字符串之外的高级代码文档
-
 ## 使用 Sphinx 并阅读文档以获得用户友好的界面来理解代码库——即使对于非技术用户也是如此
 
 ***更新*** *:本文是系列文章的一部分。退房* [*第二部分*](/advanced-code-documentation-with-sphinx-part-2-32c82860a535)*[*第三部分*](/advanced-code-documentation-with-coverage-and-unit-tests-part-3-3f7b698497fb) *！**

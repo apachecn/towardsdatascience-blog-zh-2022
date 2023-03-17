@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/precision-and-recall-a-comprehensive-guide-with-practical-examples-71d614e3fc43>
 
-# 精确度和召回率——包含实例的综合指南
-
 ## 所有你需要知道的关于准确性，精确性，回忆，F 分数，班级不平衡和混乱矩阵
 
 ![](img/b229f2c63c8ab028e610c8544c4e14f0.png)

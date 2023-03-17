@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/tips-and-tricks-for-solving-wordle-efficiently-28ab67a52dbf>
 
-# 有效解决 Wordle 的提示和技巧
-
 ## 使用 Wolfram 语言
 
 ![](img/24c201ff5bc7fe08a62fc0000c975ef6.png)

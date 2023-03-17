@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/whats-in-an-f-string-a435db4f477a>
 
-# F 弦里有什么？
-
 ## 概述 Python 组合字符串和变量的方法，以及为什么应该使用它。
 
 ![](img/0d11d9182df68ad76caa883659a8db69.png)

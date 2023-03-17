@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/sql-pandas-or-both-analysing-the-uk-electoral-system-24fa01d33d05>
 
-# SQL，Pandas，或两者兼而有之:用 Python 分析英国选举系统
-
 ## Python Pandas 非常适合分析和绘制数据，但是您应该用 Pandas 还是 SQL 编写代码呢？让我们来看看使用两者的一些常见操作，并看看它们是如何比较的。
 
 ![](img/6303504c8209b934e10a8924c808cb48.png)

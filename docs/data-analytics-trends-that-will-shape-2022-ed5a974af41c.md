@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/data-analytics-trends-that-will-shape-2022-ed5a974af41c>
 
-# **影响 2022 年的 6 大数据科学趋势**
-
 ## 对这个不断发展的行业的未来工作的叙述
 
 ![](img/fbc1c3bf57824fd32724481e98051c7c.png)

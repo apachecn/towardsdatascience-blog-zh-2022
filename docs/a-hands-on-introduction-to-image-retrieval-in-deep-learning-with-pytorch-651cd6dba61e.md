@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/a-hands-on-introduction-to-image-retrieval-in-deep-learning-with-pytorch-651cd6dba61e>
 
-# 【PyTorch 图像检索简介
-
 ## *用 PyTorch 的完整代码简单而彻底地介绍了图像检索的世界*
 
 ![](img/8df3f331d0a4bf62d3b94d63ab0df4d9.png)

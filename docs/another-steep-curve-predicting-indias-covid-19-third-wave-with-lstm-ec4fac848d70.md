@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/another-steep-curve-predicting-indias-covid-19-third-wave-with-lstm-ec4fac848d70>
 
-# 又一个陡峭的曲线？与 LSTM 一起预测印度的新冠肺炎第三次浪潮
-
 ## 完成项目，预测新的新冠肺炎病例在未来 90 天与 LSTM(代码包括在内)
 
 ![](img/7b967eab2a0f1db814e31f232e698989.png)

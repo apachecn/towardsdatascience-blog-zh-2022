@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/analyze-big-sequence-alignments-with-pyspark-in-aws-emr-a044acaa60af>
 
-# 用 PySpark 分析 AWS EMR 中的大序列比对
-
 ## 如何处理生物信息学中的大数据
 
 如今，生物领域的程序员需要从第一天起就为大数据设计他们的应用。这都是因为最新的 DNA 测序仪可以产生大量的数据。比如 [Illumina NextSeq 2000](https://www.illumina.com/systems/sequencing-platforms/nextseq-1000-2000/specifications.html) 两天产生 360 Gb，而来自 MGI 的 [DNBSEQ-T7](https://en.mgi-tech.com/products/instruments_info/5/) 每天可以输出 1 到 6 Tb。在一台计算机上处理它们可能需要几天时间。为了加快速度，我们需要分布式计算。

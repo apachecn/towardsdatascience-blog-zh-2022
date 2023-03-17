@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/the-newest-package-for-instantly-evaluating-ml-models-deepchecks-d478e1c20d04>
 
-# 用于即时验证 ML 模型的最新包— Deepchecks
-
 ## Deepchecks 是一个 ML 套件，用于验证 Scikitlearn 模型的性能。它与内置的 Scikitlearn 解决方案相比如何？
 
 ![](img/24c860c148d02db15fed06893988b012.png)

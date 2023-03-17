@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/neural-network-from-scratch-in-excel-4774f6131cdb>
 
-# Excel 中从头开始的神经网络
-
 ## 为了更好地理解反向传播的工作原理
 
 虽然使用 Excel/Google Sheets 来解决机器学习算法的实际问题肯定是一个坏主意，但使用简单的公式和简单的数据集从零开始实现算法对理解算法的工作方式非常有帮助。

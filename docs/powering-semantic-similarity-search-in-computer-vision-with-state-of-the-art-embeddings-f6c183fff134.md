@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/powering-semantic-similarity-search-in-computer-vision-with-state-of-the-art-embeddings-f6c183fff134>
 
-# 用最先进的嵌入技术支持计算机视觉中的语义相似性搜索
-
 ## 执行图像到图像和文本到图像相似性搜索的最简单方法
 
 ![](img/31d54f88c1e22a08b07bc3b83fd5e9f4.png)

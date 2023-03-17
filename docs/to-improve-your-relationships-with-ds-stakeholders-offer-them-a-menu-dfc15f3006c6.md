@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/to-improve-your-relationships-with-ds-stakeholders-offer-them-a-menu-dfc15f3006c6>
 
-# 为了改善你与 DS 利益相关者的关系，给他们提供一份菜单
-
 ## 通过分享你所能提供的和你所需要的投入，使统计、人工智能和 ML 更加透明
 
 ![](img/2b1a62379f842059e62a7db8ed4e78ec.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/inventory-management-for-retail-periodic-review-policy-4399330ce8b0>
 
-# 零售库存管理—定期审查政策
-
 ## 根据**定期审查政策**实施库存管理规则，以减少**商店补货数量**
 
 ![](img/a13b1c03b735cc3f56b2efa68ee51e6e.png)

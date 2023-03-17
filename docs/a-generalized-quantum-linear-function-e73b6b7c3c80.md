@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/a-generalized-quantum-linear-function-e73b6b7c3c80>
 
-# 一个广义量子线性函数
-
 ## 了解量子数据科学的基本构建模块
 
 量子机器学习要不要入门？看看 [**动手量子机器学习用 Python**](https://www.pyqml.com/page?ref=medium_genlin&dest=/) **。**

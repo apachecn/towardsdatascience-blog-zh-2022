@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/transcribe-large-audio-files-offline-with-vosk-a77ee8f7aa28>
 
-# 使用 Vosk 离线转录大型音频文件
-
 ## 为您的下一个 NLP 项目转录大型音频文件
 
 ![](img/c82e3e6998783d386ead99fba4a8bf69.png)

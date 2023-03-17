@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/uncover-the-latent-structure-of-personality-with-lavaan-in-r-aaf66fc2cc81>
 
-# 用《R》中的拉旺揭示人格的潜在结构
-
 ## 使用结构方程模型(SEM)揭示数据中隐藏的关系
 
 ![](img/7ab0d7b9aa7b21408867b71696552a31.png)

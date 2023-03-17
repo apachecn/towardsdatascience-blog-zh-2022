@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/earn-more-salary-as-a-coder-higher-degree-or-more-years-of-experience-68c13f73a557>
 
-# 作为一名程序员挣更多的薪水——更高的学位还是更多年的经验？
-
 ## 在 Python 中使用可视化和贝叶斯推理的分析
 
 # 动机

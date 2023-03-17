@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/understanding-how-to-handle-image-data-for-computer-vision-and-deep-learning-problems-f48cdeb98c83>
 
-# 理解如何为计算机视觉和深度学习问题处理图像数据
-
 ![](img/7af9de8a8572afec7337af2af3622eea.png)
 
 图片由 Bud Helisson 从 [Unsplash](https://unsplash.com/photos/kqguzgvYrtM)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/macbook-m1-vs-google-colab-for-data-science-unexpected-results-f50127e72d1e>
 
-# MacBook M1 与 Google Colab 在数据科学领域的较量——意想不到的结果
-
 ## **苹果 2020 年售价 1299 美元的 beast 与完全免费的环境相比，TensorFlow 的速度更快？**
 
 ![](img/b7cf710ba3636cec9ef3204d0737fc39.png)

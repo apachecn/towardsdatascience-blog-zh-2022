@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/the-right-hardware-for-your-ai-workload-unusual-considerations-84e072bb8a30>
 
-# 适合您的人工智能工作负载的硬件—不同寻常的考虑
-
 ## 在为我们的人工智能工作负载设计最佳硬件组合时，我们指出了一些很少被提及和低估的特性和相互关系
 
 ![](img/7d1283e2df59e6a070624fba7232c0ff.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/your-friends-probably-have-more-friends-than-you-b44ffcb5280>
 
-# 你的朋友(可能)比你的朋友多。
-
 ## 这个悖论背后的数学可以帮助我们预测下一个疫情。
 
 ![](img/e75f6ff526847bef05839f67e85e6ecd.png)

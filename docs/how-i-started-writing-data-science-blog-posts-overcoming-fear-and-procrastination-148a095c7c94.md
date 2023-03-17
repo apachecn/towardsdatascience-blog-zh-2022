@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-i-started-writing-data-science-blog-posts-overcoming-fear-and-procrastination-148a095c7c94>
 
-# 我如何开始写数据科学博客:克服恐惧和拖延
-
 坦白地说，我不是一个成功的作家——甚至也不是一个特别成功的博客作者——所以如果你打算靠写文章谋生，这可能不适合你。然而，如果你是一个忙碌的数据科学家、机器学习工程师或软件工程师，有一段时间一直想开始写博客，但一直没有时间，希望这能帮助你开始。
 
 在我本科学位的最后一年，我清楚地记得我的导师对我说了这样的话:

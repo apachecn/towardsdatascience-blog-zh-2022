@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-to-choose-the-right-activation-function-for-neural-networks-3941ff0e6f9c>
 
-# 如何为神经网络选择合适的激活函数
-
 ## 用视觉表征分析不同类型的激活函数——神经网络和深度学习课程:第五部分
 
 ![](img/17d30b5b489d2637d44fa1fd3cf4c128.png)

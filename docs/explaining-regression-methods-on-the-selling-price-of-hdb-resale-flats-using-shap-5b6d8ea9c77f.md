@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/explaining-regression-methods-on-the-selling-price-of-hdb-resale-flats-using-shap-5b6d8ea9c77f>
 
-# 用 SHAP 解释 HDB 转售单位售价的回归方法
-
 ## SHAP-帮助解释影响回归模型输出的主要特征的工具
 
 ![](img/6af259ab13368aee0ddc91a7bb37ac1e.png)

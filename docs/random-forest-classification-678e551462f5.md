@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/random-forest-classification-678e551462f5>
 
-# 随机森林分类
-
 ## 7 分钟的背景信息和示例使用案例
 
 ![](img/1f19456ee5be2b981e5384b740374f79.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/a-complete-20-week-guide-to-self-learn-data-science-fundamentals-for-free-bf5873f5acc6>
 
-# 20 周免费自学数据科学基础知识的完整指南
-
 ## 一步一步的指南，学习所有的关键概念，做好工作准备
 
 ![](img/7b3078931d3f2ade448642045dd8effb.png)

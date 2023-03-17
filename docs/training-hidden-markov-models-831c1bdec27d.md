@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/training-hidden-markov-models-831c1bdec27d>
 
-# 训练隐马尔可夫模型
-
 ## Baum-Welch 和向前向后算法
 
 在我的[上一篇文章](/hidden-markov-models-an-overview-98926404da0e)中，我介绍了隐马尔可夫模型(HMMs)——对有噪声的序列数据建模的最强大(但未被充分重视)的工具之一。如果你有一个 HMM 来描述你的过程，维特比算法可以把一个嘈杂的观察流变成一个对每个时间步发生的事情的高度可信的猜测。

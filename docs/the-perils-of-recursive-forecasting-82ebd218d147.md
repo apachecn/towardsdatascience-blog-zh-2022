@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/the-perils-of-recursive-forecasting-82ebd218d147>
 
-# 递归预测的危险
-
 ## 为什么你的递归预测模型可能不尽如人意
 
 ![](img/dfe402ce54b6be5fbee9caa32b325be7.png)

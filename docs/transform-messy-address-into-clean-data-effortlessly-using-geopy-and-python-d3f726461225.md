@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/transform-messy-address-into-clean-data-effortlessly-using-geopy-and-python-d3f726461225>
 
-# 使用 Geopy 和 Python 轻松清理杂乱的地址数据
-
 ## 处理缺少邮政编码、缺少州、拼错街道名称、拼错城市名称的地址
 
 ![](img/76a8bdcdc807529e4bf31e5fc94e4ea3.png)

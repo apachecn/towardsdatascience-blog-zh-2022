@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/8-essential-python-techniques-for-data-engineers-and-analysts-with-code-samples-5915b31ce724>
 
-# 面向数据工程师和分析师的 8 种基本 Python 技术(带代码示例)
-
 ## 这些是我重复使用最多的 Python 代码片段
 
 即使是最有经验的程序员也要用谷歌搜索。

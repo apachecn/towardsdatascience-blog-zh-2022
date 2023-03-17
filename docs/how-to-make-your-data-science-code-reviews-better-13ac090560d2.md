@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-to-make-your-data-science-code-reviews-better-13ac090560d2>
 
-# 如何让你的数据科学代码评审更好
-
 ## 从主持代码评审中吸取的经验教训
 
 ![](img/c13bee6bc92f9129eeaec182509275f3.png)

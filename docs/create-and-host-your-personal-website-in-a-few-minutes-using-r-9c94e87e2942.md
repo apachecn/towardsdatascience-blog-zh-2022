@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/create-and-host-your-personal-website-in-a-few-minutes-using-r-9c94e87e2942>
 
-# 使用 R 在几分钟内创建并托管您的个人网站
-
 ## 在几分钟内建立和主持一个简单，干净，专业的个人网页，如果你喜欢，添加一些铃铛和口哨
 
 ![](img/1e442bcd6c6b6eb3fccfabbb9cefe24f.png)

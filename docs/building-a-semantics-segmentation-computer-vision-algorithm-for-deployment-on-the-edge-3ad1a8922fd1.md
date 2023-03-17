@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/building-a-semantics-segmentation-computer-vision-algorithm-for-deployment-on-the-edge-3ad1a8922fd1>
 
-# 构建一个语义分割的计算机视觉算法部署在边缘
-
 ## 生产计算机视觉项目中的技术挑战和学习
 
 ![](img/be30ca2cf3dc6aa8b304724cff9b1693.png)

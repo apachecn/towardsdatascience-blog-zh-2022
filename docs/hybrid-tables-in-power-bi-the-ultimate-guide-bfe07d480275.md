@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/hybrid-tables-in-power-bi-the-ultimate-guide-bfe07d480275>
 
-# Power BI 中的混合表——终极指南！
-
 ## 导入模式和 DirectQuery 在同一个表中？？？是的，借助 Power BI 中的最新混合表功能，可以从两个世界中获得最佳效果！
 
 ![](img/8c0cf38dda29f6cf4e02a9085c88b62f.png)

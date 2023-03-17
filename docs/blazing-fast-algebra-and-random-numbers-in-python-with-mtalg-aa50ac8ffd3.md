@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/blazing-fast-algebra-and-random-numbers-in-python-with-mtalg-aa50ac8ffd3>
 
-# 使用 mtalg 在 Python 中实现极快的代数和随机数
-
 ## 用于多线程代数和伪随机数生成的 python 工具
 
 ![](img/09d553f4a897a606b0fc6969811eaf02.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/sprint-plan-for-the-busy-interviewee-16fd0893623d>
 
-# 为忙碌的受访者制定冲刺计划
-
 ## 你可以根据面试过程调整冲刺计划的蓝图
 
 当开始为科技行业面试时，一些工程师倾向于开始[磨 leetcode](https://medium.com/r?url=https%3A%2F%2Ftowardsdatascience.com%2Ftechnical-preparation-for-the-busy-interviewee-9082830550e5) 和发送简历，但有组织性和彻底性帮助我实现了我的目标，没有迷路或与错误的公司签约。

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/top-3-python-packages-for-machine-learning-validation-2df17ee2e13d>
 
-# 用于机器学习验证的前 3 个 Python 包
-
 ## 用这些包验证你的机器学习模型
 
 ![](img/8271e5ac5f140ae414a9c39e19fa27ff.png)

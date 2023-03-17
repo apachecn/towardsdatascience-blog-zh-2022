@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/modern-data-stack-which-place-for-spark-8e10365a8772>
 
-# 现代数据栈:Spark 何去何从？
-
 一年前，[一些人已经预测 dbt 有一天会超过 Spark](https://medium.com/datamindedbe/why-dbt-will-one-day-be-bigger-than-spark-2225cadbdad0) ，2021 年证明他们是对的:dbt 已经变得非常受欢迎，有传言称 [dbt-labs 可能会以 60 亿美元的估值再次融资](https://www.forbes.com/sites/kenrickcai/2021/12/15/dbt-labs-in-talks-to-raise-at-6-billion-valuation-six-months-after-becoming-a-unicorn/)。按照这种速度，他们将很快赶上 2021 年 9 月估值达到 380 亿美元的 [Databricks。](https://www.futuriom.com/articles/news/databricks-heaps-on-1-6-billion-for-38-billion-valuation/2021/09)
 
 尽管如此，今年 Spark 给我留下最深刻印象的是，几乎所有关于现代数据堆栈的博客帖子中都没有 Spark，现代数据堆栈是围绕两个关键组件构建的:

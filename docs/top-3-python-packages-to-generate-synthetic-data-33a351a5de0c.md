@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/top-3-python-packages-to-generate-synthetic-data-33a351a5de0c>
 
-# 生成合成数据的前 3 个 Python 包
-
 ## 为您的数据科学项目提供合成数据
 
 ![](img/2e403d02793e530f83d5ca648637989d.png)

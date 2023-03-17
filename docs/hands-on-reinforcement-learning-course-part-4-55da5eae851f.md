@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/hands-on-reinforcement-learning-course-part-4-55da5eae851f>
 
-# 实践强化学习课程:第 4 部分
-
 ## 线性 Q 学习
 
 ![](img/a48eb11c58b38b64e48c5b6cd2191414.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-much-green-did-australia-lose-during-2020-bushfires-calculating-using-landsat-8-images-36f35c67edb4>
 
-# 澳大利亚在 2020 年的森林大火中损失了多少绿色？—使用 Landsat-8 图像进行计算
-
 ## 用 Landsat-8 图像计算澳大利亚森林火灾后某一地区健康自然植被的变化
 
 ![](img/c9285668473d8dcc3fb19f09cbc38edd.png)

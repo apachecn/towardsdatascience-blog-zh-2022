@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/understanding-mapreduce-with-the-help-of-harry-potter-5b0ae89cc88>
 
-# 借助《哈利·波特》理解 MapReduce
-
 ## 通过一个简单的例子从头开始学习 MapReduce
 
 ![](img/400805015b449387de434be9cc67d717.png)

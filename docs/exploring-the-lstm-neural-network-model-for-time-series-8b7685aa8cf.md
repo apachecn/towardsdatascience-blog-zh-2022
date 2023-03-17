@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/exploring-the-lstm-neural-network-model-for-time-series-8b7685aa8cf>
 
-# 探索时间序列的 LSTM 神经网络模型
-
 ## scalecast 库的实用、简单实现
 
 ![](img/1d3af001ec4f65d725bc79ba7b4ec33a.png)

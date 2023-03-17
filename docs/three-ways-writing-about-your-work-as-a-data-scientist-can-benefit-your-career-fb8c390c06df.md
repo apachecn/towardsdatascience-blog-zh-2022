@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/three-ways-writing-about-your-work-as-a-data-scientist-can-benefit-your-career-fb8c390c06df>
 
-# 写下你作为数据科学家的工作对你的职业生涯有好处的三种方式
-
 ## 一年多来，我一直在媒体上写关于数据科学的文章。以下是我注意到这样做的所有好处。
 
 ![](img/80e51e6ca539df9dd459bc8d68ae6993.png)

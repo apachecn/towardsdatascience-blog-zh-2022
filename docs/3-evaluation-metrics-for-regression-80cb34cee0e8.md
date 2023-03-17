@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/3-evaluation-metrics-for-regression-80cb34cee0e8>
 
-# 回归的 3 个评估指标
-
 ## …用简单的英语解释
 
 ![](img/3b9a9f2651dc68ab6522401bc66ed42a.png)

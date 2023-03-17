@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/interactive-data-visualization-with-julia-and-pluto-notebooks-6fad6f3eca2>
 
-# 使用 Julia 和 Pluto 笔记本进行交互式数据可视化
-
 ## Pluto 是一项重要的发展，它允许您轻松地与数据进行交互。我们使用 Julia 绘图包快速浏览一下，轻松创建令人印象深刻的图表。
 
 ![](img/fe13a6d49c37e5960b57b317b5de2cd6.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/profanity-filtering-audio-files-python-3dd2335bc567>
 
-# 用 Python 过滤音频文件中的脏话
-
 ## 用 Python 和 AssemblyAI 过滤音视频文件中的脏话
 
 ![](img/39e74394969123cd610ce7e1d8f73f51.png)

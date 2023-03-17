@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/understanding-machine-learning-interpretability-168fd7562a1a>
 
-# 理解机器学习的可解释性
-
 ## **机器学习可解释性介绍，**可解释性评估的驱动力、分类、示例和注释。
 
 ![](img/4a09028ecfee973ce3cf69136a06020c.png)

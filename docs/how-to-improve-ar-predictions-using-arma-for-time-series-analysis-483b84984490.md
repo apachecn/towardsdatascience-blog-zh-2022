@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-to-improve-ar-predictions-using-arma-for-time-series-analysis-483b84984490>
 
-# 如何利用 ARMA 改进时间序列分析中的 AR 预测
-
 ## 学会使用 ARMA 模型做出比 AR 模型更好的预测
 
 ![](img/d36345c2c90b8642797ef04a403ea8ca.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-i-became-an-actual-self-taught-data-scientist-my-story-ba4dbeb96cf8>
 
-# 我如何成为一名真正自学成才的数据科学家:我的故事
-
 ## 我从没有数据科学经验到现在已经在这个行业工作了 5 年的历程
 
 ![](img/0f59ee00e6a3843e921e8d6434acb23f.png)

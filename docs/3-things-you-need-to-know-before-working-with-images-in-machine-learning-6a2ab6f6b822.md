@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/3-things-you-need-to-know-before-working-with-images-in-machine-learning-6a2ab6f6b822>
 
-# 在机器学习中处理图像之前你需要知道的 3 件事
-
 ## 在接受计算机视觉项目之前掌握基本知识
 
 ![](img/9f76872f122040cf6418645e942ba4ab.png)

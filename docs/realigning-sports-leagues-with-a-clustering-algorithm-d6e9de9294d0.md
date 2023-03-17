@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/realigning-sports-leagues-with-a-clustering-algorithm-d6e9de9294d0>
 
-# 用聚类算法重组体育联盟
-
 ## 使用改进的 K-means 算法将职业运动队分组为最小化旅行距离的组
 
 ![](img/0dc085c8ee49abde8769fdea3c3c6159.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/ssl-could-avoid-supervised-learning-fd049a27cd1b>
 
-# SSL 可以避免监督学习
-
 ## *对于* ***选择监督任务*** *与* ***满足一定性质的自监督学习(SSL)模型***
 
 ![](img/672d4f2c5fb4860018e00d3666a0d6f8.png)

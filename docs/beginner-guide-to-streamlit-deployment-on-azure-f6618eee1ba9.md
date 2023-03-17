@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/beginner-guide-to-streamlit-deployment-on-azure-f6618eee1ba9>
 
-# Azure 上简化 it 部署的初学者指南
-
 ## 使用免费 SSL 证书在 15 分钟内在 Microsoft Azure 上部署 Hello World Streamlit 应用程序的完整指南
 
 ![](img/2028dfb74b80ed60229c11e84261f12d.png)

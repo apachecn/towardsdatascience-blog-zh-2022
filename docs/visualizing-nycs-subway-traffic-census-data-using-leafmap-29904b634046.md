@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/visualizing-nycs-subway-traffic-census-data-using-leafmap-29904b634046>
 
-# 可视化纽约市的地铁交通和人口普查数据
-
 ## 使用 Python 的 Geopandas 和 Leafmap 包可视化开放城市数据。
 
 ![](img/2967f2940da53fe5b87385c0d0ee1a97.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/github-automated-testing-python-fdfe5aec9446>
 
-# 如何使用 GitHub 动作在每次提交时运行 Python 测试
-
 ## 自动化枯燥的工作，并通过 CI 管道确保代码质量
 
 ![](img/8fee9419bc867eb0d59123705a03f8f5.png)

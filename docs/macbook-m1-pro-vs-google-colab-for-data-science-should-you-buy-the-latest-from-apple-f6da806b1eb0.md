@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/macbook-m1-pro-vs-google-colab-for-data-science-should-you-buy-the-latest-from-apple-f6da806b1eb0>
 
-# MacBook M1 Pro 与谷歌 Colab 在数据科学方面的对比——你应该从苹果公司购买最新产品吗？
-
 ## **苹果 2499 美元的 16 英寸 beast 与完全免费的环境——哪个对 TensorFlow 更好？**
 
 ![](img/8a2d0e67419b26c781d795d55905fdb1.png)

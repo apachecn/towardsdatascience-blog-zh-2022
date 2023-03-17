@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/fuzzing-tests-in-go-96eb08b7694d>
 
-# 围棋模糊测试
-
 ## 模糊化是一种自动为函数生成输入值来查找 bug 的技术
 
 ![](img/f27e429af90e923b68509eeafc20e6cb.png)

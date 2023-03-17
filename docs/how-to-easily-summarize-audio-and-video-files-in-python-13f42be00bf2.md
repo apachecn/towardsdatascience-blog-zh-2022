@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-to-easily-summarize-audio-and-video-files-in-python-13f42be00bf2>
 
-# 如何用 Python 轻松汇总音视频文件
-
 ## 使用自动章节来总结 Python 中的音频和视频文件
 
 ![](img/a9a1d793882053a3b619d036f77756ff.png)

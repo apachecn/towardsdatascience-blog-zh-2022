@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/five-key-techniques-for-machine-learning-department-df95bba5cc95>
 
-# 机器学习部门的五项关键技术
-
 ## 2022 年，可能会对机器学习部门的工作方式产生重大影响的技术
 
 ![](img/f5f02388f86d69ec0b1a920fcae14c02.png)

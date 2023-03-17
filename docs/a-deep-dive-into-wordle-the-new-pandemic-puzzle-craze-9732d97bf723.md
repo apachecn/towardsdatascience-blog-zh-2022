@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/a-deep-dive-into-wordle-the-new-pandemic-puzzle-craze-9732d97bf723>
 
-# 深入了解新疫情的字谜热
-
 ## 评估不同的试探法以确定最有效的解决策略，并构建一个人工智能辅助工具来帮助您获胜
 
 自从 2022 年 1 月获得病毒般的地位以来，Wordle 重新点燃了群聊，激发了每个人的竞争精神，并使 Twitter 充满了神秘的表情网格。在内容创作者 Emily Coleman 发布的一条推文中，它被比作从新冠肺炎·疫情开始就渗透到许多人厨房的烘焙痴迷物:酸面团发酵剂。

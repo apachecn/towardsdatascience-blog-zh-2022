@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/xgboost-for-timeseries-lightgbm-is-a-bigger-boat-197864013e88>
 
-# XGBoost for time series: lightGBM 是更大的船！
-
 ![](img/1b65139cf5c2114e086c3945431c6679.png)
 
 威廉·戴尼奥在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄的照片

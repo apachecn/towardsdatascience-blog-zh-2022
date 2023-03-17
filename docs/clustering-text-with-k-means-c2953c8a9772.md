@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/clustering-text-with-k-means-c2953c8a9772>
 
-# 如何利用机器学习自动检测文本中的模式
-
 ## 用 k-Means 聚类葡萄酒评论
 
 ![](img/2c67156ca9afc3f15c955bd10f0c30d0.png)

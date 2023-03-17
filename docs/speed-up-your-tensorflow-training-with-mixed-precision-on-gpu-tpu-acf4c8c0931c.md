@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/speed-up-your-tensorflow-training-with-mixed-precision-on-gpu-tpu-acf4c8c0931c>
 
-# 利用 GPU 和 TPU 上的混合精度加速 TensorFlow 训练
-
 ## 简单的分步指南
 
 ![](img/a25845b59d25851d3b5b55fcb549cb9c.png)

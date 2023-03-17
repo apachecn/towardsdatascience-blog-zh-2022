@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/image-analysis-for-beginners-how-to-read-images-video-webcam-and-screen-3778e26760e2>
 
-# 如何在 OpenCV 中读取图像、视频、网络摄像头和屏幕——初学者图像分析
-
 ## 如何读取 OpenCV 要处理的图像的分步指南
 
 ![](img/3961fb933683c409b9797d066b1266b2.png)

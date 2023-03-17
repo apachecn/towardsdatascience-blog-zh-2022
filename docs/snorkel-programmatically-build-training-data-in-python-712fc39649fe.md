@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/snorkel-programmatically-build-training-data-in-python-712fc39649fe>
 
-# 通气管——构建训练数据的人在回路平台
-
 ## 停止手工标记您的数据。而是以编程方式对其进行标记
 
 # 动机

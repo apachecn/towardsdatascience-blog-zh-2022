@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/explore-pandas-dataframe-with-datatile-59c425b55d01>
 
-# 使用数据切片探索熊猫数据框
-
 ## *只需几行代码就能快速洞察您的数据*
 
 ![](img/fcc2e195609bce7041fd37af18decef2.png)

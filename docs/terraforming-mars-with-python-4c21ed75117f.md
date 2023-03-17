@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/terraforming-mars-with-python-4c21ed75117f>
 
-# 用 Python 将火星地球化
-
 ## *通过想象力和色彩映射表的巧妙运用，让死亡的世界变得栩栩如生*
 
 ![](img/bd81125c7ab693c5984beb091743e17c.png)

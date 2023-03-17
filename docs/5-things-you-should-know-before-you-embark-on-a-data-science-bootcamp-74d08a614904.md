@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/5-things-you-should-know-before-you-embark-on-a-data-science-bootcamp-74d08a614904>
 
-# 在参加数据科学训练营之前，你应该知道的 5 件事
-
 ## 适用于任何试图学习数据科学的人或任何人的见解
 
 ![](img/25486c312ca00498b46182fab3254d22.png)

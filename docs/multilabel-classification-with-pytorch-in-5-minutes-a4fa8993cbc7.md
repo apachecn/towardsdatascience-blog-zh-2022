@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/multilabel-classification-with-pytorch-in-5-minutes-a4fa8993cbc7>
 
-# 用 PyTorch 在 5 分钟内进行多标记分类
-
 ## 您自己的分类任务蓝图
 
 ![](img/de9e11f0e38c4924ae250090b363f8b9.png)

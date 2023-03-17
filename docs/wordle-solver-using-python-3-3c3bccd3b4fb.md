@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/wordle-solver-using-python-3-3c3bccd3b4fb>
 
-# 使用 Python 3 构建一个 Wordle 解算器
-
 ## 用 Python 3 开发字母位置概率求解单词
 
 ![](img/e4ac44cc49668c3ef4d6b3d579332865.png)

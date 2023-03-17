@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/a-simple-way-to-segment-customers-using-google-bigquery-and-data-studio-f31c8896cc52>
 
-# 使用 Google BigQuery 和 Data Studio 对客户进行细分的简单方法
-
 ## RFM 分割和结果段可视化指南
 
 ![](img/be568fb60e737261bc3366eb7980b2a9.png)

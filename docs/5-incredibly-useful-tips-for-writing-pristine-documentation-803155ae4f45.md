@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/5-incredibly-useful-tips-for-writing-pristine-documentation-803155ae4f45>
 
-# 编写原始文档的 5 个非常有用的技巧
-
 ## 我用来改进软件文档的一些技术
 
 ![](img/ef24e048abeb8617cf0060321974c87a.png)

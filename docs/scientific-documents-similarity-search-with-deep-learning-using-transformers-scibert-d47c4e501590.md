@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/scientific-documents-similarity-search-with-deep-learning-using-transformers-scibert-d47c4e501590>
 
-# 使用变形金刚进行深度学习的科学文档相似性搜索(SciBERT)
-
 ## 这篇文章是一个全面的概述，为具有 k-NN 和余弦相似性的文档构建一个语义相似性搜索工具
 
 ![](img/6c28d195827f9ea099ae7f733e4e886b.png)

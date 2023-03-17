@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/introduction-to-data-processing-using-descriptive-statistics-and-statistical-charts-in-python-9857a60c481b>
 
-# Python 中使用描述性统计和统计图进行数据处理的介绍
-
 ## Python 中测试数据假设(MCAR、MAR、MNAR、集中趋势、偏斜度和异常值)的完整实践指南
 
 ![](img/77c5cdd09827fa0c963682b6ae457bb3.png)

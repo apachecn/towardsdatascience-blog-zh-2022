@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/python-iterables-vs-iterators-688907fd755f>
 
-# Python 中的 Iterables vs 迭代器
-
 ## 理解 Python 中 Iterables 和迭代器的区别
 
 ![](img/d75823e57f14b4d42578978cea93c6c7.png)

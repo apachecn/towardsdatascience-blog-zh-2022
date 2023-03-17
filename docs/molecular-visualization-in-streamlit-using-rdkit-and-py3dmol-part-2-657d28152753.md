@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/molecular-visualization-in-streamlit-using-rdkit-and-py3dmol-part-2-657d28152753>
 
-# 使用 RDKit 和 Py3DMol 在 Streamlit 中进行分子可视化(第 2 部分)
-
 ## Py3DMol 和 stmol 组分
 
 ![](img/da976866fced9b1b87ca2423524136bb.png)

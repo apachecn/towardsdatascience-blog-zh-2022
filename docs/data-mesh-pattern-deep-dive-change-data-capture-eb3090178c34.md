@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/data-mesh-pattern-deep-dive-change-data-capture-eb3090178c34>
 
-# 数据网格模式:更改数据捕获
-
 ## 探索疾病控制中心模式的来龙去脉
 
 Data Mesh 使用变更数据捕获模式在企业内安全可靠地移动数据。让我们深入研究一下这个模式，看看它在企业数据网中是如何工作的。

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-to-numerically-integrate-dynamics-problems-w-python-85d9783aa088>
 
-# 使用 Python 进行数值积分
-
 ## Python 中数值积分方程和可视化结果的简单方法
 
 ![](img/d2b7d855e2c1ca0b6a40ce075f58ab41.png)

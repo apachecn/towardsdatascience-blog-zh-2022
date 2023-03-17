@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/implementing-data-mesh-on-azure-c01ee94306cd>
 
-# 在 Azure 上实现数据网格
-
 **数据网格**是一种令人兴奋的设计和开发数据架构的新方法。在我的第一系列文章和更多关于[数据产品](/data-domains-and-data-products-64cc9d28283e)和[数据域](/data-domains-where-do-i-start-a6d52fef95d1)的最新资料之后，我收到了关于解释 Azure 上的实际实现可能是什么样子的询问。我将在这篇博文中尝试回答这个问题。
 
 ## Azure 数据管理和分析场景

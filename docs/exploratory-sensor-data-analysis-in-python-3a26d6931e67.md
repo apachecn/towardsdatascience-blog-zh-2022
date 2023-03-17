@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/exploratory-sensor-data-analysis-in-python-3a26d6931e67>
 
-# Python 中的探索性传感器数据分析
-
 ![](img/57bad4fe0b47fda804ded011ea6e17e7.png)
 
 克里斯·利维拉尼在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上的照片

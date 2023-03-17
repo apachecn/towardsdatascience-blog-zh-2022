@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/latexpage-fc3c47e4d822>
 
-# 加速收敛的解空间技术:介绍
-
 ![](img/7d8ff79231765720e5466e0ae5b428f0.png)
 
 弗洛里安·里德在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄的照片

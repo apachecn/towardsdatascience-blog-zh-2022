@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/solving-data-problems-22ab8ac792bd>
 
-# 解决数据问题:初学者指南
-
 ![](img/0285f98647e4de55fa7df8b480633d68.png)
 
 翻倒的卡车(中国云南红河)——图片由作者提供

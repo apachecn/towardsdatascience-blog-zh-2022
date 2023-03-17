@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/overview-of-supervised-machine-learning-algorithms-a5107d036296>
 
-# 监督机器学习算法综述
-
 ## 大图如何通过连接点给我们洞察力和对 ML 的更好理解
 
 有这么多的机器学习算法，我们可以找到不同种类的概述和备忘单。为什么是另一个概述？

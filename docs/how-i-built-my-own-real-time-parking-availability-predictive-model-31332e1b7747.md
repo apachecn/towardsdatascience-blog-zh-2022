@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-i-built-my-own-real-time-parking-availability-predictive-model-31332e1b7747>
 
-# 我如何建立自己的实时停车可用性预测模型
-
 ## 使用机器学习帮助我日常生活的简单方法。
 
 ![](img/497940df320d6a7f3539ea3e725d433d.png)

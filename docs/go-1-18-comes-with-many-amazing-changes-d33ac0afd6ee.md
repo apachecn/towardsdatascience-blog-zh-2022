@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/go-1-18-comes-with-many-amazing-changes-d33ac0afd6ee>
 
-# Go 1.18 带来了许多惊人的变化
-
 ## Go 1.18 将于二月发布，它包含了多项改进语言的变化
 
 ![](img/81e0cd5f4233f967e86d69757f264cc6.png)

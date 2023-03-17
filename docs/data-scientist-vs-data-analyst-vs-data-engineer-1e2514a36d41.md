@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/data-scientist-vs-data-analyst-vs-data-engineer-1e2514a36d41>
 
-# 数据科学家 vs 数据分析师 vs 数据工程师
-
 ## 在数据领域找到你真正的激情
 
 ![](img/b91a9e6b9d0eb83130466aeb38f80aa9.png)

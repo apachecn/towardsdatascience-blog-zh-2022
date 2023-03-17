@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/a-data-quality-test-approach-with-python-to-identify-non-standard-character-patterns-864affcb9195>
 
-# 一种用 Python 识别非标准字符模式的数据质量测试方法
-
 ## **用 Python 高效执行数据质量测试的用户友好方法**
 
 **在你的数据中有一些标准是必要的吗？除了标准测试之外，是否要进行全面的数据质量测试？在本帖中，我们将创建一个程序来学习数据中的常见字符模式，并将非标准字符模式报告为数据质量问题。另外，您不会因为额外的配置而浪费时间，因为它与不同的数据集兼容。**

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/cleaning-and-normalizing-data-using-aws-glue-databrew-b31fb1075302>
 
-# 使用 AWS Glue DataBrew 清理和规范化数据
-
 ## 使用 AWS DataBrew 自动清理数据，无需编写任何代码
 
 ![](img/98f64fd4a02bfe9bcef78c0a8bed127e.png)

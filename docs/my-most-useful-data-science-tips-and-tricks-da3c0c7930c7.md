@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/my-most-useful-data-science-tips-and-tricks-da3c0c7930c7>
 
-# 我最有用的数据科学技巧和诀窍
-
 ## 分享一些关于数据科学建模和数据处理的有用提示
 
 ![](img/aeb35f813e2db745d71c7fd23bc67902.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/an-unexpected-lesson-with-calculating-currency-conversions-in-dax-58014260a98>
 
-# 在 DAX 中计算货币转换的意外教训
-
 ## *货币兑换是常见的报告要求。在实现该解决方案时，我意外地学到了 Power BI 中的数据建模。*
 
 ![](img/101c4e48ca16e5068a9a472b0000bc6c.png)

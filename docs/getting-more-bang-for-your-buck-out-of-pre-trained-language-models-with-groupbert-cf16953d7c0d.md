@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/getting-more-bang-for-your-buck-out-of-pre-trained-language-models-with-groupbert-cf16953d7c0d>
 
-# 使用 GroupBERT 从预先训练的语言模型中获得更多回报
-
 ## 在 Graphcore IPU 上实现 2 倍的训练速度
 
 ![](img/431cb73bce19c5ecf274891a1174e5e5.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/an-architecture-for-the-data-mesh-32ff4a15f16f>
 
-# 数据网格的体系结构
-
 ## 数据网格正在革新企业数据管理。但是实际的数据网格架构是什么样的呢？
 
 ![](img/0cec1178514be7c230995bbd8ca15c4e.png)

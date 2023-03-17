@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/linear-regression-visualized-and-better-understood-c8f7b9c69810>
 
-# 线性回归直观且更容易理解
-
 ## 可以检查一下自己是否真的懂多元线性回归
 
 线性回归是最简单的算法之一。特别是当只有一个连续的特征变量:y=ax+b，并且用一条**直线**表示的时候。这种可视化表示对于理解模型是什么非常有用。

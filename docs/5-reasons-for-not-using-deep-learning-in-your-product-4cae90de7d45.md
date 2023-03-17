@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/5-reasons-for-not-using-deep-learning-in-your-product-4cae90de7d45>
 
-# 不在产品中使用深度学习的 5 个理由
-
 深度学习是一种受人脑工作方式启发的机器学习方法，在我们没有深度领域专业知识但有大量数据的情况下特别受欢迎。但是，它是你正在构建的人工智能产品的最佳解决方案吗？
 
 ![](img/c84312007cb2f2614a64c0b5f3446425.png)

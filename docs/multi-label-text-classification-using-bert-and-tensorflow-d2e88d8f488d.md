@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/multi-label-text-classification-using-bert-and-tensorflow-d2e88d8f488d>
 
-# 基于 BERT 和张量流的多类文本分类
-
 ## 从数据加载到预测的分步教程
 
 ![](img/97a844acea1c0cb2627a75e6eea72fba.png)

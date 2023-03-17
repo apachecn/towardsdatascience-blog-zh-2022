@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/communicating-as-a-data-scientist-why-it-matters-and-how-to-do-it-well-f1c34d28c7c4>
 
-# 作为数据科学家进行交流
-
 ## 为什么它很重要以及如何做好它
 
 ![](img/a23eba4e796bc4ada95a3d80510d0288.png)

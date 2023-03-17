@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/visualizing-the-determinants-of-democratic-backsliding-e9e15a09a729>
 
-# 可视化民主倒退的决定因素
-
 ## 使用 K-最近邻分类器预测民主侵蚀
 
 ![](img/74d3393e0fe540239f8e4f123ad00b21.png)

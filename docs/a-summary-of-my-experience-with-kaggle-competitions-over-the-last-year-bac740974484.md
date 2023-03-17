@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/a-summary-of-my-experience-with-kaggle-competitions-over-the-last-year-bac740974484>
 
-# 过去一年我参加 Kaggle 比赛的经验总结
-
 ## 在高尔夫球比赛中取得好成绩的系统方法
 
 ![](img/6b063d4356fae0b6dd43f2f171eebdb2.png)

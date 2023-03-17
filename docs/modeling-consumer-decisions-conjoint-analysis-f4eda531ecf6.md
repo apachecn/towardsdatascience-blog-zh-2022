@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/modeling-consumer-decisions-conjoint-analysis-f4eda531ecf6>
 
-# 消费者决策建模:联合分析
-
 ## 产品开发的基于选择的联合分析指南
 
 ![](img/d7dcf826090f76b7b44ccfd05f0e0d8c.png)

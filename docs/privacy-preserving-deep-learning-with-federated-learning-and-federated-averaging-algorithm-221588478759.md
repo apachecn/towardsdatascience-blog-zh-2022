@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/privacy-preserving-deep-learning-with-federated-learning-and-federated-averaging-algorithm-221588478759>
 
-# 结合联邦学习和联邦平均算法的隐私保护深度学习
-
 ## 利用保护隐私的人工智能构建您的竞争优势——在不了解任何人的情况下向任何人学习——联合学习——数据科学
 
 ![](img/f70aea4ec72d376a562e19057c7f5728.png)

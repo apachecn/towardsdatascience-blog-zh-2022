@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/lyrics-analysis-5e1990070a4b>
 
-# 随着时间的推移，歌词的情感和词汇多样性分析
-
 ## 使用 Quanteda 和 IBM 的音调分析仪对 1958 年以来公告牌百强歌曲进行分析
 
 ![](img/f0fa555ab5029ae677444aafe8d5649c.png)

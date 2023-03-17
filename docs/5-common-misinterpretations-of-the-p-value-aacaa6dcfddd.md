@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/5-common-misinterpretations-of-the-p-value-aacaa6dcfddd>
 
-# 对 P 值的 5 种常见误解
-
 ## 在解释和报告您的结果时避免这些
 
 ![](img/be17120e611b3944f71ca41b9d5a57ca.png)

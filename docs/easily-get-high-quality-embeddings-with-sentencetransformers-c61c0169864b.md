@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/easily-get-high-quality-embeddings-with-sentencetransformers-c61c0169864b>
 
-# 使用 SentenceTransformers 轻松获得高质量的嵌入！
-
 ## 介绍向量表示的概念，并比较 TF-IDF 向量和 SentenceTransformers 向量！
 
 ![](img/c5b764f29c9bba822d72dffaddc88b20.png)

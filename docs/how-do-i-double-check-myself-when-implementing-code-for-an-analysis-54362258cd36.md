@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-do-i-double-check-myself-when-implementing-code-for-an-analysis-54362258cd36>
 
-# 使用 SAS 研究所的 JMP 软件进行代码和分析验证
-
 ## 当学习一门新的编码语言时，如何验证你的代码和分析是正确的
 
 ![](img/f82c8bb655ff02a36fac9ae2eda12de5.png)

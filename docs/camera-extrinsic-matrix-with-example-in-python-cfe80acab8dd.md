@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/camera-extrinsic-matrix-with-example-in-python-cfe80acab8dd>
 
-# Python 中带示例的相机外部矩阵
-
 ## Python 中图像形成和相机校准综合教程系列的第 2 部分
 
 ![](img/46614a57a2a8aed6b697ffd7c571ccd0.png)

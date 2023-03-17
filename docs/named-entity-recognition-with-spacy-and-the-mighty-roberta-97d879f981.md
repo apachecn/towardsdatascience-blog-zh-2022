@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/named-entity-recognition-with-spacy-and-the-mighty-roberta-97d879f981>
 
-# 用 Spacy 和强大的 roBERTa 进行命名实体识别
-
 ## 命名实体识别(NER)，文本数据挖掘的一个重要方面
 
 ![](img/a5a1051d6654dd981e0dbb194665795d.png)

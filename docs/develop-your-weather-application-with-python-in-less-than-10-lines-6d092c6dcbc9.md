@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/develop-your-weather-application-with-python-in-less-than-10-lines-6d092c6dcbc9>
 
-# 用 Python 开发不到 10 行的天气应用程序
-
 ## 使用 Python 构建我们的天气电视广播应用程序，以接收所需位置的更新
 
 ![](img/e91a91f832beac04e711e17b41acedaf.png)

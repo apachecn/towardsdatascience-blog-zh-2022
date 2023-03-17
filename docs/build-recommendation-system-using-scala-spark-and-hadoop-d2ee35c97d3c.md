@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/build-recommendation-system-using-scala-spark-and-hadoop-d2ee35c97d3c>
 
-# 利用 Scala、Spark 和 Hadoop 构建推荐系统
-
 ## 在分布式 Hadoop 集群上使用 Scala 和 Spark 构建的电影推荐器
 
 ![](img/44c7747b6cb2f9fd2e33a87ec6c9342a.png)

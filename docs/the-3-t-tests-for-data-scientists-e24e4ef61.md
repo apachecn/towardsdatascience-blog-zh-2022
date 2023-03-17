@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/the-3-t-tests-for-data-scientists-e24e4ef61>
 
-# 数据科学家的 3 t 测试
-
 ![](img/4c6a45dda2ffc6ec04de0173f2872553.png)
 
 约翰·额外的照片在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上

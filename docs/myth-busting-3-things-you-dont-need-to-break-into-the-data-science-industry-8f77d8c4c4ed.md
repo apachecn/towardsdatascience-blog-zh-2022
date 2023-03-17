@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/myth-busting-3-things-you-dont-need-to-break-into-the-data-science-industry-8f77d8c4c4ed>
 
-# 打破神话:进入数据科学行业不需要的 3 样东西
-
 ## 你需要的是什么
 
 ![](img/e8cf0303124356f27c7c9c132a9f51ff.png)

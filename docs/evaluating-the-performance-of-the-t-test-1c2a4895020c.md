@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/evaluating-the-performance-of-the-t-test-1c2a4895020c>
 
-# 仔细看看 T-test 的性能
-
 ## 一项模拟研究，调查不同情况下 t 检验的 I 型误差和功效。样本大小和方差如何影响双样本 t 检验的性能。
 
 ![](img/3b22623968cf58983efbf22a2bf89674.png)

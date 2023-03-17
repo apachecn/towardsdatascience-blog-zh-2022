@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/11-ways-to-learn-more-data-science-1c5ab293be2d>
 
-# 了解更多数据科学的 11 种方法
-
 ## 使用这些方法让你的专业知识更上一层楼！
 
 ![](img/9cc9deafd62c421e63cb42b6fb27de38.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/whats-in-a-dictionary-87f9b139cc03>
 
-# 字典里有什么？
-
 ## 基本 Python 数据结构的概述以及为什么应该使用它
 
 ![](img/496f7c0608cb7dc94a2ba941279f505e.png)

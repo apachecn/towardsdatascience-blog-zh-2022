@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/from-supervised-to-unsupervised-learning-a-paradigm-shift-in-computer-vision-ae19ada1064d>
 
-# 从监督学习到非监督学习:计算机视觉中的范式转变
-
 ## 慢慢地从训练过程中去除人类知识的注入
 
 自从现代计算机视觉方法出现以来，这些技术的成功应用只能在监控领域中看到。为了使模型有助于执行图像识别、对象检测或语义分割等任务，人工监督曾经是必要的。在一个重大转变中，过去几年的计算机视觉研究已经改变了该领域的焦点:从人类监督下的保证成功转向新的前沿:自我监督和非监督学习。

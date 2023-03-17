@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/a-poetic-apology-71a41db4ecce>
 
-# 诗意的道歉
-
 ## 或者为什么要用诗歌来管理 Python 的依赖性
 
 如果你曾经花时间尝试编写一个 Python 应用程序，你可能在某个时候体验过 Python 臭名昭著的依赖地狱。

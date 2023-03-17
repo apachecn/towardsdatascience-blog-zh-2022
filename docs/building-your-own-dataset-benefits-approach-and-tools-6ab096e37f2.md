@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/building-your-own-dataset-benefits-approach-and-tools-6ab096e37f2>
 
-# 构建您自己的数据集:优势、方法和工具
-
 ## *构建自己的数据集而不是使用预建解决方案的重要性*
 
 ![](img/7b46dcbfaaa3a39b13f580d4a2fe51e7.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/everything-you-need-to-know-about-bias-over-fitting-and-under-fitting-8e2c1963107b>
 
-# 关于偏差、过度拟合和欠拟合，你需要知道的一切
-
 ## 偏见的详细描述以及它是如何融入机器学习模型的
 
 ![](img/b8bd445b8f89a56f498a0f807ca9b128.png)

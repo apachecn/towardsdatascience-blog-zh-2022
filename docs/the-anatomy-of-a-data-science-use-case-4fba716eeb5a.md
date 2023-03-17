@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/the-anatomy-of-a-data-science-use-case-4fba716eeb5a>
 
-# 剖析数据科学用例
-
 ## 在编写任何代码之前，您必须在用例中定义 4 个组件
 
 ![](img/f2e49261a41dbd6300b3dec36bd1320d.png)

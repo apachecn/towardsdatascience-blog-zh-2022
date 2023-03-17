@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/2-must-know-time-series-models-and-their-properties-e92953bd8c5a>
 
-# 2 个必须知道的时间序列模型及其特性
-
 ## 随机游走和白噪声
 
 ![](img/98a3b1744a3abdb9821c29c64c680377.png)

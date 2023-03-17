@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/write-better-scientific-papers-by-understanding-your-readers-thoughts-def6a35b3066>
 
-# 通过理解读者的想法写出更好的科学论文
-
 ## 更好地传达你的故事，让人们理解
 
 ![](img/d44eacc12c0726249b8e2d774551d5de.png)

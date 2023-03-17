@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/visualising-the-worlds-carbon-dioxide-emissions-with-python-e9149492e820>
 
-# **用 Python 可视化**世界二氧化碳排放量
-
 ## 用 Python 展示全球二氧化碳排放的严峻现实
 
 ![](img/6b6f160fd61173f4a8d7858aea6e321d.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/python-single-vs-double-quotes-which-should-you-use-and-why-c02dd011f86c>
 
-# Python 单引号和双引号——应该使用哪个，为什么？
-
 ## 何时以及为什么应该使用其中一个而不是另一个？解释最佳实践。
 
 ![](img/3f97d8e6f16abf5c251899accd2b7b42.png)

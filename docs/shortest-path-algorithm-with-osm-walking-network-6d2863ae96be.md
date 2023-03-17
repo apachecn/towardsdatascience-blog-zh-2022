@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/shortest-path-algorithm-with-osm-walking-network-6d2863ae96be>
 
-# 基于 OSM 步行网络的最短路径算法
-
 ## 利用爱沙尼亚塔尔图的 OSM 数据寻找最短步行路径
 
 ![](img/2fd24432d94adcaec19e21bc7ca10493.png)

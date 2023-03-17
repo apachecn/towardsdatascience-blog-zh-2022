@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/machine-learning-engineers-partners-for-scaling-ai-in-enterprises-ea8d89593e14>
 
-# 机器学习工程师——企业中扩展人工智能的合作伙伴
-
 ![](img/2383b676c8fc5c2f82be833e1a5bfe58.png)
 
 (图片由作者提供)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/the-time-to-get-started-in-quantum-computing-is-now-9157d0e606e1>
 
-# 现在是开始量子计算的时候了
-
 ## 现在轮到我们这些领域专家来学习如何使用这项新技术了
 
 量子机器学习要不要入门？看看 [**动手量子机器学习用 Python**](https://www.pyqml.com/page?ref=medium_timenow&dest=/) **。**

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/get-more-out-of-your-data-with-analytics-microservices-9a5a34a3ad2f>
 
-# 借助分析微服务从您的数据中获得更多价值
-
 ![](img/d6d41f8964cfea5cbdabc37a64102a21.png)
 
 凯尔·辛克森在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上的照片

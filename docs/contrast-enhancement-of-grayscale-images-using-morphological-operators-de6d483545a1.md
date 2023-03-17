@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/contrast-enhancement-of-grayscale-images-using-morphological-operators-de6d483545a1>
 
-# 基于形态学算子的灰度图像对比度增强
-
 ## 利用 OpenCV 中的形态学算子增强灰度图像对比度的简单方法
 
 ![](img/4ef2029dce1144bf3bbcf9bf4b6dd9c3.png)

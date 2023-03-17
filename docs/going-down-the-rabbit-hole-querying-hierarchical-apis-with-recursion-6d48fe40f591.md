@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/going-down-the-rabbit-hole-querying-hierarchical-apis-with-recursion-6d48fe40f591>
 
-# 使用递归查询分层 API
-
 ## 编写从 ICD API 中提取关系的递归函数的指南
 
 ![](img/3a81ecdadf4786bc3b8f7cc2d679735a.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/building-a-tool-to-estimate-surrounding-area-population-c7d77263468a>
 
-# 构建一个工具来估计周围地区的人口
-
 ## 一步一步的指南，建立一个免费的周围人口估计工具(加上[访问一个已经建成的](http://www.jordanbean.com/population-estimator)！)
 
 ![](img/a617509279bcedc531261270a2eb571e.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/why-is-ggplot2-so-good-for-data-visualization-b38705f43f85>
 
-# 为什么 ggplot2 对数据可视化这么好？
-
 ## 探索 ggplot2 中的图形语法
 
 ![](img/d896197af905302924054a7555c5eddf.png)

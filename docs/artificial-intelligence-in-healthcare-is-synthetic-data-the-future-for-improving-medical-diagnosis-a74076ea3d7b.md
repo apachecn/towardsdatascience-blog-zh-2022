@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/artificial-intelligence-in-healthcare-is-synthetic-data-the-future-for-improving-medical-diagnosis-a74076ea3d7b>
 
-# **医疗保健中的人工智能:合成数据是改善医疗诊断的未来吗？**
-
 *作者* [*西尔维娅*](https://sylwia-majchrowska.medium.com/) *和* [*桑德拉·卡拉斯*](https://medium.com/@sandra.carrasco) *o*
 
 ![](img/93c8e3b924ab34256db65284cdbf328c.png)

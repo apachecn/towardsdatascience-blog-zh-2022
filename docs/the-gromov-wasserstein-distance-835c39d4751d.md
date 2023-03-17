@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/the-gromov-wasserstein-distance-835c39d4751d>
 
-# 格罗莫夫-沃瑟斯坦距离
-
 ## Python 中对象匹配的度量与实例
 
 ![](img/8c7c9265f8e49d07123f56e4f2959718.png)

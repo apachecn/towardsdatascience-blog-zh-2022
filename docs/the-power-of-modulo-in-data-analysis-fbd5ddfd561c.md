@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/the-power-of-modulo-in-data-analysis-fbd5ddfd561c>
 
-# 数据分析中模的力量
-
 ## 你可能知道不同编程语言中的模运算符。但是您如何使用这个操作符，以及为了什么？
 
 ![](img/239202f3e4fc464d7e066bda5daeeb10.png)

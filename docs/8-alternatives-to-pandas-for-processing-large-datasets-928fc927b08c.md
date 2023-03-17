@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/8-alternatives-to-pandas-for-processing-large-datasets-928fc927b08c>
 
-# 用于处理大型数据集的熊猫的 8 种替代方案
-
 ## 停止使用熊猫
 
 ![](img/5a89ec1c4f6092425f1636d1eb3eb989.png)

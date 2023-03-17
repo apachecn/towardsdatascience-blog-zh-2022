@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/exploring-the-feature-space-of-human-knowledge-about-common-objects-e86940c1638a>
 
-# 探索人类对常见事物知识的特征空间
-
 ## 人脑能够将日常生活中生动感知的事物和瞬间加工成抽象的概念和语义知识
 
 ![](img/8194e584cbb88e04d88549156808e59b.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/why-you-should-ask-questions-as-a-data-scientist-46fb9f2bf893>
 
-# 作为数据科学家，为什么应该提问
-
 ## 不要以为你什么都知道
 
 ![](img/b8e4f0e880250f70e379b52181920b96.png)

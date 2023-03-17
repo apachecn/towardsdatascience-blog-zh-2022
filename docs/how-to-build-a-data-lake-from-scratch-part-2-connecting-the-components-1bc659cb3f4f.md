@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-to-build-a-data-lake-from-scratch-part-2-connecting-the-components-1bc659cb3f4f>
 
-# 如何从零开始构建数据湖—第 2 部分:连接组件
-
 ## 如何利用流行技术构建数据工程沙盒的完整教程
 
 在这一系列文章中，我将指导您建立自己的数据湖基础设施作为数据工程沙箱。在这一部分中，我将展示如何连接我们的数据湖基础设施的各种服务。在第一部分中，我已经展示了如何用 docker 托管必要的服务，并解释了各个配置选项。

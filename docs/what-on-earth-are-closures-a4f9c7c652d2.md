@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/what-on-earth-are-closures-a4f9c7c652d2>
 
-# 闭包到底是什么？
-
 ## 闭包函数及其使用方法概述
 
 ![](img/a74b307f2fd6b4b9d8c7b7ba2e4e0985.png)

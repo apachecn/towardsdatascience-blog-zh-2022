@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/downloading-datasets-from-kaggle-for-your-ml-project-b9120d405ea4>
 
-# 为您的 ML 项目从 Kaggle 下载数据集
-
 ## 如何利用 Kaggle Python API 从他们的网站下载任何数据集
 
 ![](img/eeb1c088e8fd4681216fdeb4c22d78ae.png)

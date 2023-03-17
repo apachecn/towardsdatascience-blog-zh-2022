@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-federated-learning-advanced-covid-19-diagnosis-6e16b9ecc21f>
 
-# 联合学习如何推进新冠肺炎诊断
-
 ## 新冠肺炎人工智能诊断成功案例研究
 
 ![](img/1f28adbd8300a7ab65e4033bbb2851a2.png)

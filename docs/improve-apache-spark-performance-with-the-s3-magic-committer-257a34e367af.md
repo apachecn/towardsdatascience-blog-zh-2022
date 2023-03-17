@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/improve-apache-spark-performance-with-the-s3-magic-committer-257a34e367af>
 
-# 使用 S3 魔术提交器提高 Apache Spark 性能
-
 ## 使用 Spark 3.2 和 Hadoop 3.3 的最新 S3 magic committer 实现高达 65%的性能提升！
 
 大多数 Apache Spark 用户忽略了 S3 提交器的选择(Spark 在将输出结果写入 S3 时使用的一种协议)，因为它相当复杂，并且关于它的文档很少。每当 Spark 向 S3 写入数据时，这种选择都会对性能产生重大影响。由于对于 AWS 用户来说，Spark 工作的很大一部分都花在了给 S3 写信上，所以选择合适的 S3 提交者非常重要。

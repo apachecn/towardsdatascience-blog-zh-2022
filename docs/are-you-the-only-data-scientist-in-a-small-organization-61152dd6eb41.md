@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/are-you-the-only-data-scientist-in-a-small-organization-61152dd6eb41>
 
-# 你是一个小组织中唯一的数据科学家吗？这里有 5 个小贴士可以帮助你走向成功
-
 ## 足智多谋、利益相关者管理和持续学习
 
 ![](img/25ca06140dfa4efb51713311664caf10.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/develop-your-own-calendar-to-track-important-dates-with-python-c1af9e98ffc3>
 
-# 使用 Python 开发您自己的日历来跟踪重要日期
-
 ## 开发一个日历 GUI 界面来管理您 2022 年及以后的计划
 
 ![](img/79024c7b9ebdf7a4a68b58c203457ed6.png)

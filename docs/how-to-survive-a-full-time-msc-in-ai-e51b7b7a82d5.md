@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-to-survive-a-full-time-msc-in-ai-e51b7b7a82d5>
 
-# 如何在 AI 全日制硕士中生存
-
 ## 对有兴趣攻读人工智能全日制硕士学位的个人的生存指南
 
 ![](img/fdfa000b6977a51ebf8618bbff2d5caf.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/bayesian-method-1-1cbdb1e6b4>
 
-# 贝叶斯方法(1)
-
 ## 先验分布
 
 ![](img/36099223984e5166cd97b5633b09f433.png)

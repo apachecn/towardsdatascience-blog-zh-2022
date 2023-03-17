@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/multithreading-multiprocessing-python-180d0975ab29>
 
-# Python 中的多线程和多处理
-
 ## 深入探讨 Python 中的多线程和多处理，以及它们与并发性和并行性的关系
 
 ![](img/920e8469f789ab18db786d7ac591badb.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/mitigate-your-model-with-data-3c4216580dae>
 
-# 用数据减轻你的模型
-
 ## 用这些简单的技巧让你的模型脱离生命支持系统，让你的数据更优秀
 
 ![](img/d782d9926fe0d926ebc39bba26b4eabc.png)

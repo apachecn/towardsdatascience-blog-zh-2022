@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/disney-movies-were-right-we-are-all-special-and-statistically-so-3bb56e79ab71>
 
-# 迪士尼电影是对的——我们都是特殊的，从统计数据来看也是如此
-
 ## *一点点统计理论会让你相信“普通人”的想法其实只是一个大神话*
 
 ![](img/505126a7fbb8b11537d9585e0225ed59.png)

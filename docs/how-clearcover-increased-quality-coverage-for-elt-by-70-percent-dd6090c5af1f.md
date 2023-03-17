@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/how-clearcover-increased-quality-coverage-for-elt-by-70-percent-dd6090c5af1f>
 
-# Clearcover 如何将 ELT 的质量覆盖率提高 70%
-
 ## 以下是数据可观察性如何帮助一家领先的汽车保险提供商的数据工程团队更快地交付更可靠的数据
 
 ![](img/3bf979f16fdace5da166d82a891a17ab.png)

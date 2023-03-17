@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/scaling-up-your-data-science-means-scaling-up-your-compute-ead3d5dd243d>
 
-# 扩展您的数据科学意味着扩展您的计算
-
 ## 如何使用云虚拟机设置支持远程桌面的数据科学环境
 
 ![](img/96f2e8ab1ec06e45b56ac16deb2306fd.png)

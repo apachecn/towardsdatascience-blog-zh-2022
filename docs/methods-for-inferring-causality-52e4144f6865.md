@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/methods-for-inferring-causality-52e4144f6865>
 
-# 推断因果关系的方法
-
 ## 匹配，倾向加权，双重稳健最大似然，回归不连续设计
 
 ![](img/7b821669497d599c01e5ce1ffc976a8d.png)

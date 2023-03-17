@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/9-best-machine-learning-models-for-beginners-2bcd8386774d>
 
-# 初学者的 9 个最佳机器学习模型
-
 ## 你应该学习的模型有线性回归、支持向量机的逻辑回归和主成分分析
 
 ![](img/f939cfa6fc7743edb58625d21a683d35.png)

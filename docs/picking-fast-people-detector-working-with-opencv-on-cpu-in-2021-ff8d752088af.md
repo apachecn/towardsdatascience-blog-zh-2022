@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/picking-fast-people-detector-working-with-opencv-on-cpu-in-2021-ff8d752088af>
 
-# 2021 年在 CPU 上使用 OpenCV 的快速人物检测器
-
 最近，我需要为一个新的宠物项目探测人。我有一段时间没有这样做了，决定看看现在什么是最好的选择。
 
 因此，我通读了一些论文，并进行了基本测试来衡量准确性和性能。

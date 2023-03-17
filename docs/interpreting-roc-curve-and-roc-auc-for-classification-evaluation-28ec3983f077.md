@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/interpreting-roc-curve-and-roc-auc-for-classification-evaluation-28ec3983f077>
 
-# *解释 ROC 曲线和 ROC AUC 进行分类评价*
-
 ## 我多么希望我第一次学 ROC 曲线的时候就有人教我
 
 ![](img/0688ec23a9ba920743e594c2c265307d.png)

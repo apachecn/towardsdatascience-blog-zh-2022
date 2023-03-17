@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/lets-end-the-debate-actuary-vs-data-scientist-83abe51a4845>
 
-# 让我们结束这场辩论——精算师 vs 数据科学家
-
 ## 哪个职业更好，为什么我选择两个都做
 
 ![](img/8a2d513567abbfa827b989b642edadf6.png)

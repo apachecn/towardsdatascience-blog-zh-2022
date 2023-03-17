@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/advanced-pandas-plots-e2347a33d576>
 
-# 在一行代码中创建令人惊叹的可视化熊猫数据框架
-
 ## 一个简单的技巧，使您的图表具有交互性和视觉吸引力
 
 ![](img/cf45e2d3bd0bc5abc8c380410a04f46d.png)

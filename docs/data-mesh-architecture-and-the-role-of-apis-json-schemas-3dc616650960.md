@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/data-mesh-architecture-and-the-role-of-apis-json-schemas-3dc616650960>
 
-# 数据网格架构以及 API 和 JSON 模式的作用
-
 ## 如何使用 JSON 模式来协调 API、数据网格和事件定义
 
 数据网格和 API 的关系比您可能意识到的要密切得多。事实上，API 和它们的近亲 JSON 模式是数据网格的基础组件。这个架构讨论解释了为什么。

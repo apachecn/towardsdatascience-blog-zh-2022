@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/precision-and-recall-88a3776c8007>
 
-# 如何学习精确和回忆的定义(永久)
-
 ## 为什么我总是记不住这些的意思？！
 
 ![](img/f8c3af7b70e2ca2ab8df25d4cf1582fc.png)

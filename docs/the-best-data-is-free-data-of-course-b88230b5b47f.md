@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/the-best-data-is-free-data-of-course-b88230b5b47f>
 
-# 当然，最好的数据是免费数据
-
 ## 使用 Socrata 开放数据 API 和 sodapy 包访问大量的开放数据
 
 ![](img/a6cb9f6e3b53a2a41196f4f66f6dd3ac.png)

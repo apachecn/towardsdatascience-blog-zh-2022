@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/sagemaker-multi-model-vs-multi-container-endpoints-304f4c151540>
 
-# SageMaker 多模型与多容器端点
-
 ## 使用哪个实时推理选项
 
 Amazon SageMaker 为模型托管和部署提供了过多的推理选项。在推论内具体有四个主要选项:

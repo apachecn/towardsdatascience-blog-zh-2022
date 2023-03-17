@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/image-data-augmentation-pipeline-9841bc7bb56d>
 
-# 这个微小的 Python 包创建了巨大的扩充数据集
-
 ## 如何创建图像数据扩充管道来生成大量合成数据点
 
 ![](img/23087ac597608c7a6c2fc802f659bf19.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/tableau-behind-the-scenes-ada520b5969d>
 
-# 幕后场景
-
 ## 在您处理数据时揭示正在发生的事情
 
 ![](img/b66518083960b27f965ecbe0983989b5.png)

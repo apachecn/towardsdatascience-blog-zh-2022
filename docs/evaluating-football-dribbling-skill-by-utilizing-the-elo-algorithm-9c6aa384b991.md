@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/evaluating-football-dribbling-skill-by-utilizing-the-elo-algorithm-9c6aa384b991>
 
-# 利用 Elo 算法评价足球运球技术
-
 ## 使用 StatsBomb 开放数据集，用 Python 中的 Elo 算法对球员的运球技巧进行评分。
 
 ![](img/c43a301410a8a84256ab38b560542023.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/comparing-robustness-of-mae-mse-and-rmse-6d69da870828>
 
-# MAE、MSE 和 RMSE 的稳健性比较
-
 ## 存在异常值时主要回归指标的表现
 
 ![](img/f02fceb80faf1635e43b960c6c0037f8.png)

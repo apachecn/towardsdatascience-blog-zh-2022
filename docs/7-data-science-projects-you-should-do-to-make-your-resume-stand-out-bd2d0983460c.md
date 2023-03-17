@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/7-data-science-projects-you-should-do-to-make-your-resume-stand-out-bd2d0983460c>
 
-# 为了让你的简历脱颖而出，你应该做的 7 个数据科学项目
-
 ## 将帮助你获得理想工作的数据科学项目
 
 ![](img/45d6e2cc8ec8e7db85b9033eb7d23516.png)

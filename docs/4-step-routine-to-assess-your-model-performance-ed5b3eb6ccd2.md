@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/4-step-routine-to-assess-your-model-performance-ed5b3eb6ccd2>
 
-# 评估模型性能的 4 步程序
-
 ## 回到基础
 
 ![](img/2881ce92100d9b61fa29698cca03ab8d.png)

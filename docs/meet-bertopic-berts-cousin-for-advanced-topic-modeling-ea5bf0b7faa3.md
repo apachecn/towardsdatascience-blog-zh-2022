@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/meet-bertopic-berts-cousin-for-advanced-topic-modeling-ea5bf0b7faa3>
 
-# 认识一下 BERTopic——BERT 的堂兄，学习高级主题建模
-
 ## 使用转换器进行自动主题发现的综合概述
 
 ![](img/3408243f148245444f396300b06b008e.png)

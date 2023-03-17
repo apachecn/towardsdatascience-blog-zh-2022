@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/survival-analysis-in-python-a-quick-guide-to-the-weibull-analysis-5babd4f137f6>
 
-# Python 中的生存分析
-
 ## 威布尔分析快速指南
 
 威布尔分析因其灵活性和直观性在可靠性工程师中非常流行。本指南将通过示例代码演示威布尔分析的基本概念。为了进行威布尔分析，我们将使用开源 Python 包[](https://pypi.org/project/predictr/)**。**

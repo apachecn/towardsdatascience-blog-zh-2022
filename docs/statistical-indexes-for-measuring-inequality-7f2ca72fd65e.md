@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/statistical-indexes-for-measuring-inequality-7f2ca72fd65e>
 
-# 衡量经济不平等的统计指数
-
 ## 如何使用 Python 计算不等式指数
 
 ![](img/eeaf040380b729a2b2d48288f886f9c1.png)

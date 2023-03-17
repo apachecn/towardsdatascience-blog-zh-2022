@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/create-a-photo-converter-app-using-streamlit-surprisingly-easy-and-fun-db291b5010c6>
 
-# 使用 Streamlit 创建一个照片编辑应用程序——出奇的简单和有趣
-
 ## 让我们享受 Streamlit 和计算机视觉的乐趣:初学者实用指南
 
 ![](img/05235012ca800c904faab4868c20e14b.png)

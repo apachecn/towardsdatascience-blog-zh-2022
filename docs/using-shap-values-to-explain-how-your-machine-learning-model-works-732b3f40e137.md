@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/using-shap-values-to-explain-how-your-machine-learning-model-works-732b3f40e137>
 
-# 用 SHAP 值来解释你的机器学习模型是如何工作的
-
 ## 学习使用工具来显示每个特征如何影响模型的每个预测
 
 ![](img/7bd7208e0e4291bb86fedf2268beb655.png)

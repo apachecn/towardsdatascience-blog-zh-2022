@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/comparing-documents-with-similarity-metrics-e486bc678a7d>
 
-# 使用相似性度量比较文档
-
 ## 自然语言处理中如何利用数学比较文本的初步研究
 
 ![](img/fa39b033e9a0e4a52bb1ff12f6947888.png)

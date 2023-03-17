@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/insertion-sort-explained-6ff0fa1cb15c>
 
-# 插入排序解释——数据科学家算法指南
-
 ![](img/9a33a24caab1d600ab540c17879ec5ac.png)
 
 特雷弗·瓦诺伊在 [Unsplash](https://unsplash.com/s/photos/computation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 上的照片

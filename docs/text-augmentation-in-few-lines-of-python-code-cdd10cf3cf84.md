@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/text-augmentation-in-few-lines-of-python-code-cdd10cf3cf84>
 
-# 几行 Python 代码中的文本扩充
-
 ## 用 NLPAUG 增强自然语言处理中的数据
 
 ![](img/8277051aa94b6951dc97acb26a09f1a6.png)

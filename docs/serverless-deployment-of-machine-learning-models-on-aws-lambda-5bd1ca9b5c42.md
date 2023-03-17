@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/serverless-deployment-of-machine-learning-models-on-aws-lambda-5bd1ca9b5c42>
 
-# AWS Lambda 上机器学习模型的无服务器部署
-
 ## 在 AWS Lambda 上部署 dockerised ML 模型的指南
 
 ![](img/5d114f66abe8e957e1ec97fd62305c49.png)

@@ -2,8 +2,6 @@
 
 > 原文：<https://towardsdatascience.com/building-machine-learning-models-faster-e9fa52ad701>
 
-# 更快地构建机器学习模型
-
 ## 使用 GuildAI 控制机器学习模型
 
 ![](img/4f5ffa81ef6112554e26c9c20f2adad0.png)
