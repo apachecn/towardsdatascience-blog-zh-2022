@@ -44,7 +44,7 @@
 
 特别是，一些种类的蚂蚁会在地面上沉积信息素，以标记其他蚂蚁遵循的最佳路径。
 
-受这些蚂蚁智能的启发，研究人员开发了有效的通用[](https://ieeexplore.ieee.org/abstract/document/4129846)**蚁群优化算法。**
+受这些蚂蚁智能的启发，研究人员开发了有效的通用<https://ieeexplore.ieee.org/abstract/document/4129846>**蚁群优化算法。**
 
 # **人工蜂群算法**
 

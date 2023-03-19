@@ -120,7 +120,7 @@
 
 # *参考*
 
-*[](https://airflow.apache.org/)  
+*<https://airflow.apache.org/>  
 
 # 阅读其他数据博客
 
@@ -128,4 +128,4 @@
 
 # 在 Linkedin 上连接:
 
-[](https://www.linkedin.com/in/vachan-anand-26bb76b7/) *
+<https://www.linkedin.com/in/vachan-anand-26bb76b7/> *

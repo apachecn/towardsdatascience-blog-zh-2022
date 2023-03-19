@@ -25,7 +25,7 @@ CSV 可以在任何系统上工作，无需安装任何东西。毕竟，它们�
 [CSV 和泡菜的更好替代品](#1b59)；
 [对存储数据集的不同文件格式进行基准测试](#a2c7)
 
-[](/python-3-11-is-indeed-faster-than-3-10-1247531e771b)  
+</python-3-11-is-indeed-faster-than-3-10-1247531e771b>  
 
 您可以访问我在这篇文章中使用的用于基准测试的 [Colab 笔记本](https://colab.research.google.com/drive/1te6F2RCGohF-nQuOJ9jTxYRETJg5LOpJ?usp=sharing)。
 
@@ -41,7 +41,7 @@ CSV 可以在任何系统上工作，无需安装任何东西。毕竟，它们�
 
 简单在很多情况下都很有效。尤其是如果你不知道客户使用的是什么软件，CSV 是非常好的。分享然后忘记！
 
-[](/image-data-augmentation-pipeline-9841bc7bb56d)  
+</image-data-augmentation-pipeline-9841bc7bb56d>  
 
 但是 CSV 并没有针对存储或性能进行优化。
 
@@ -65,7 +65,7 @@ df = read_csv('/path/to/file.csv', encoding = "ISO-8859-1")
 
 我们需要一种存储文件元数据(如头和编码)的文件格式，它从磁盘读取和写入的时间最少，并且大小更小。
 
-[](/become-a-data-scientist-or-data-engineer-without-coding-skills-fbf11ac8e278)  
+</become-a-data-scientist-or-data-engineer-without-coding-skills-fbf11ac8e278>  
 
 # 用泡菜代替怎么样？
 
@@ -85,7 +85,7 @@ df.to_pickle("./path/to/file.pkl") # to write a dataframe as pickledf = pd.read_
 
 在我们的出发三角中，pickle 文件放弃了一点可访问性，以获得性能和文件大小方面的好处。因为您只能从 Python 程序中读取 pickle 文件。如果您组织中的其他人正在使用 R、Excel 或其他软件，它们可能无法很好地工作。
 
-[](/how-to-serve-massive-computations-using-python-web-apps-590e51624bc6)  
+</how-to-serve-massive-computations-using-python-web-apps-590e51624bc6>  
 
 酸洗可以解决文件存储的许多问题。但是，如果您愿意进一步缩小可访问性特征的范围，还有一个更好的方法。
 
@@ -123,7 +123,7 @@ model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accur
 
 尤其是其中的两个。[羽毛](https://arrow.apache.org/docs/python/feather.html) & [拼花](https://parquet.apache.org/)。
 
-[](/how-to-speed-up-python-data-pipelines-up-to-91x-80d7accfe7ec)  
+</how-to-speed-up-python-data-pipelines-up-to-91x-80d7accfe7ec>  
 
 ## 羽毛文件格式
 
@@ -185,7 +185,7 @@ df.to_parquet(...)
 
 所以我写了一个小剧本。它从公开可用的数据集中获取数据。然后，它从原始文件创建 1000 个不同的 10，000 行的文件。为此，脚本在熊猫数据帧上使用随机抽样。
 
-[](/how-to-detect-memory-leakage-in-your-python-application-f83ae1ad897d)  
+</how-to-detect-memory-leakage-in-your-python-application-f83ae1ad897d>  
 
 然后，我们记录将所有这些文件写入磁盘所需的时间、磁盘上的文件大小，以及将所有这些文件读回内存所需的时间。
 
@@ -215,7 +215,7 @@ df.to_parquet(...)
 
 羽毛在写作表现上也远胜 CSV。只有泡菜和羽毛的数量相对相似(仍然缓慢)。
 
-[](/python-web-apps-are-a-terrible-idea-for-analytics-projects-36f1bd33e84b)  
+</python-web-apps-are-a-terrible-idea-for-analytics-projects-36f1bd33e84b>  
 
 # 最终考虑
 

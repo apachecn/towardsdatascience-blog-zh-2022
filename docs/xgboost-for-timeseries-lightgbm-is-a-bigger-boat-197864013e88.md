@@ -8,7 +8,7 @@
 
 > **更新**:发现我关于渐变提升的新书，[实用渐变提升](https://amzn.to/3gaBn4R)。这是用 python 中的许多例子对渐变增强的深入探究。
 
-[](https://amzn.to/3gaBn4R) [## 实用的渐变增强:深入探究 Python 中的渐变增强
+<https://amzn.to/3gaBn4R> [## 实用的渐变增强:深入探究 Python 中的渐变增强
 
 ### 这本书的梯度推进方法是为学生，学者，工程师和数据科学家谁希望…](https://amzn.to/3gaBn4R) 
 
@@ -18,7 +18,7 @@
 
 在上一篇文章中，我展示了 XGBoost 的一个最重要的限制是它不能根据构造进行推断。
 
-[](/xgboost-for-time-series-youre-gonna-need-a-bigger-boat-9d329efa6814)  
+</xgboost-for-time-series-youre-gonna-need-a-bigger-boat-9d329efa6814>  
 
 这是相当严格的，因为在许多 ML 情况下，你需要能够推断。在处理时间序列时尤其如此，因为你通常想要预测未来，而没有外推，你就被困在了过去。XGBoost 所做的所有预测都是历史值的集合。
 

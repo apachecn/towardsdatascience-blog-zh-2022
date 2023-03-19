@@ -42,7 +42,7 @@ Pandas 对 CSV 文件的输入输出操作是序列化的，这不可避免地�
 
 如果您的 CSV 文件是静态的，并且您认为您会多次读取它，可能是在同一个管道中或在重新加载内核之后，请立即将其保存为一个**泡菜**或**羽毛**或**拼花**文件。但是为什么呢？这一点我已经在下面的帖子中讨论过了:
 
-[](/why-i-stopped-dumping-dataframes-to-a-csv-and-why-you-should-too-c0954c410f8f)  
+</why-i-stopped-dumping-dataframes-to-a-csv-and-why-you-should-too-c0954c410f8f>  
 
 下面的代码块演示了从 CSV 格式到所需格式的转换:
 
@@ -188,7 +188,7 @@ Pandas 中有三种方法可以实现迭代。下面，我们将讨论它们，�
 
 如果你喜欢读这篇文章，我希望你也会喜欢下面的文章:
 
-[](/powerful-one-liners-in-pandas-every-data-scientist-should-know-737e721b81b6)  [](/20-of-pandas-functions-that-data-scientists-use-80-of-the-time-a4ff1b694707)  
+</powerful-one-liners-in-pandas-every-data-scientist-should-know-737e721b81b6>  </20-of-pandas-functions-that-data-scientists-use-80-of-the-time-a4ff1b694707>  
 
 感谢阅读。
 

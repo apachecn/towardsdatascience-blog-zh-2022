@@ -183,8 +183,8 @@ np.sqrt( mean_squared_error(y_test, preds_rand) )**[OUT]:
 
 如果你喜欢这篇文章，关注我的博客或者在 [Linkedin](https://www.linkedin.com/in/gurezende/) 上找到我。
 
-[](http://gustavorsantos.medium.com/)  
+<http://gustavorsantos.medium.com/>  
 
 # 参考
 
-[](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html#sklearn.model_selection.GridSearchCV)  [](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html#sklearn.model_selection.RandomizedSearchCV) 
+<https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html#sklearn.model_selection.GridSearchCV>  <https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html#sklearn.model_selection.RandomizedSearchCV> 

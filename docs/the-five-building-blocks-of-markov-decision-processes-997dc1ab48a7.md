@@ -40,7 +40,7 @@ MDP 作为一个框架来形式化顺序决策问题，其中随着时间的推�
 
 作为指导方针，州政府应该包含**所有用于做出明智决策的相关数据**——不多也不少。如果某些数据不影响决策、奖励或转换，则不应将其纳入状态。
 
-[](https://wvheeswijk.medium.com/a-deep-dive-into-problem-states-498ad0746c98)  
+<https://wvheeswijk.medium.com/a-deep-dive-into-problem-states-498ad0746c98>  
 
 # 行动空间(A)
 
@@ -50,7 +50,7 @@ MDP 作为一个框架来形式化顺序决策问题，其中随着时间的推�
 
 对于允许各种排列的基于向量的决策，动作空间的枚举可能会成为问题。此外，通常很难**评估行动是否可行**。考虑原材料、优先关系、存储能力、机器可用性等有限的生产线的决策。仅仅验证一个时间表是否有效就构成了一个复杂的子问题。在这种情况下，我们需要使动作空间服从一组约束，例如，通过将动作问题公式化为数学程序**。一个额外的好处是，它大大增加了可以处理的行动空间的大小。**
 
-**[](/using-linear-programming-to-boost-your-reinforcement-learning-algorithms-994977665902)  
+**</using-linear-programming-to-boost-your-reinforcement-learning-algorithms-994977665902>  
 
 # 奖励函数(R)
 
@@ -66,9 +66,9 @@ MDP 模型需要优化一些*目标*函数，通常是(贴现的)累积报酬。
 
 虽然转移函数是 MDP 的必要组成部分，但在 RL 中我们不一定要明确定义它。相反，我们可以**观察来自环境**的转变 **。如果我们学习玩超级马里奥游戏，我们可能不知道实际的转换函数；我们只是试着移动，然后观察会发生什么。我们甚至可以利用真实世界的观察(例如，当控制取决于天气情况的风电场时)。在这种情况下，世界本身就是我们的过渡函数！**
 
-[](/what-are-post-decision-states-and-what-do-they-want-from-us-9e02105b7f40) [## 什么是后决策状态？他们想从我们这里得到什么？
+</what-are-post-decision-states-and-what-do-they-want-from-us-9e02105b7f40> [## 什么是后决策状态？他们想从我们这里得到什么？
 
-towardsdatascience.com](/what-are-post-decision-states-and-what-do-they-want-from-us-9e02105b7f40) [](/about-post-decision-states-again-5725e5c15d90)  
+towardsdatascience.com](/what-are-post-decision-states-and-what-do-they-want-from-us-9e02105b7f40) </about-post-decision-states-again-5725e5c15d90>  
 
 # 折扣系数(γ)
 
@@ -76,7 +76,7 @@ towardsdatascience.com](/what-are-post-decision-states-and-what-do-they-want-fro
 
 任何设置`γ<1`都足以**保证(理论上的)收敛**，但是精确的设置对于优化目的很重要。一个普遍的经验法则是，系统的不确定性越大，贴现率就越高，这反映了今天的行动对未来表现的影响有限。
 
-[](/why-discount-future-rewards-in-reinforcement-learning-a833d0ae1942)  
+</why-discount-future-rewards-in-reinforcement-learning-a833d0ae1942>  
 
 # 摘要
 

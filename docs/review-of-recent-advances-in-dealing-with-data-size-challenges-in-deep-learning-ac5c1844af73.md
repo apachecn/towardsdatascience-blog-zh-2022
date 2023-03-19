@@ -51,7 +51,7 @@
 
 *这可归因于几个因素，包括数据的不完善。数据质量和不断迭代的重要性在之前的一些演讲中有所涉及 [a](https://suneeta-mall.github.io/talks/She_Builds_on_AWS_2020.html) 、 [b](https://suneeta-mall.github.io/talks/AWS_ANZ_Commuity_day_2020.html) 、 [c](https://suneeta-mall.github.io/talks/Kafka_Summit_APAC_2021.html) 。数据质量很重要，数据分布也很重要。训练数据集的分布越好，模型就越通用！*
 
-> **数据肯定是新油！*[](https://www.wired.com/story/no-data-is-not-the-new-oil/)*
+> **数据肯定是新油！*<https://www.wired.com/story/no-data-is-not-the-new-oil/>*
 
 **那么，我们能在没有太多抱怨的情况下缩放数据大小吗？请记住，61%的人工智能实践组织已经发现数据和数据相关的挑战是他们的首要挑战 [4](https://pages.run.ai/hubfs/PDFs/2021-State-of-AI-Infrastructure-Survey.pdf) 。如果围绕数据集的采购、存储、数据质量和分布/人口统计的挑战还没有包含在内，这篇文章将关注另一系列问题。在数据量增长，计算成本和周转时间随数据增长线性增长的情况下，如何高效训练？然后我们开始问有多少数据是多余的，哪些例子更有影响力，我们如何找到它们？鉴于最近的一项调查 [4](https://pages.run.ai/hubfs/PDFs/2021-State-of-AI-Infrastructure-Survey.pdf) 指出，大约 40%实践人工智能的组织已经在 GPU 和人工智能相关的计算基础设施上每年花费至少 100 万美元，这些是非常重要的问题。这应该关系到我们所有人。不是所有 FAANG 以外的组织(还有，FAANG 中假设的组织，但是省略了缩写！)而那些资产负债表丰厚的公司将能够通过简单地扩展数据集来利用收益。此外，出于环境原因和碳排放影响，这应该关系到我们所有人[更多详情](https://www.forbes.com/sites/robtoews/2020/06/17/deep-learnings-climate-change-problem/?sh=55d621d76b43)。**
 

@@ -220,4 +220,4 @@ tb.set_deco(tb.HEADER | tb.HLINES)
 
 # 参考
 
-  [](https://www.statology.org/create-table-in-python/)  [](https://www.geeksforgeeks.org/creating-tables-with-prettytable-library-python/) 
+  <https://www.statology.org/create-table-in-python/>  <https://www.geeksforgeeks.org/creating-tables-with-prettytable-library-python/> 

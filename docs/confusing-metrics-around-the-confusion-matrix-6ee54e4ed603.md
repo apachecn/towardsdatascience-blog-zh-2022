@@ -194,6 +194,6 @@ Precision 和 recall 的分子中都有 TP，但分母不同。为了平均它�
 
 ******[https://tryo labs . com/blog/2013/03/25/why-accuracy-alone-bad-measure-class ification-tasks-and-what-we-can-do-about-it](https://tryolabs.com/blog/2013/03/25/why-accuracy-alone-bad-measure-classification-tasks-and-what-we-can-do-about-it)******
 
-******[](https://stats.stackexchange.com/questions/424737/is-there-a-name-for-this-metric-tn-tn-fn)  
+******<https://stats.stackexchange.com/questions/424737/is-there-a-name-for-this-metric-tn-tn-fn>  
 
 [https://towardsdatascience.com/the-f1-score-bec2bbc38aa6](/the-f1-score-bec2bbc38aa6)******

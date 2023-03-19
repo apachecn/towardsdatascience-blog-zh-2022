@@ -60,4 +60,4 @@ Q_Omega 是通知较低层策略的较高层元策略。
 
 参考资料:
 
-[](https://www.sciencedirect.com/science/article/pii/S0004370299000521)  [](https://arxiv.org/abs/1609.05140)  [](/hierarchical-reinforcement-learning-a2cca9b76097) 
+<https://www.sciencedirect.com/science/article/pii/S0004370299000521>  <https://arxiv.org/abs/1609.05140>  </hierarchical-reinforcement-learning-a2cca9b76097> 

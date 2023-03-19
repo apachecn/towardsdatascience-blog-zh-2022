@@ -74,6 +74,6 @@ Excel 的另一个问题是不同文件中的数据不容易合并。如果在�
 
 随着业务越来越受数据驱动，对 SQL 技能的需求也在增加。SQL 是一种通用的技能，任何想要检索和分析数据的人都可以使用。查看我的下一篇文章，关于如何在 Google BigQuery 上用真实世界的数据集学习 SQL。
 
-[](/learn-sql-with-the-e-commerce-dataset-on-google-bigquery-6864989e1494)  
+</learn-sql-with-the-e-commerce-dataset-on-google-bigquery-6864989e1494>  
 
 开始学习 SQL，给自己一个优势。

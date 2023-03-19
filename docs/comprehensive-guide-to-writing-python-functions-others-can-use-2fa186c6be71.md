@@ -24,11 +24,11 @@
 
 **这篇文章将讲述如何编写干净的、文档记录良好的函数，这些函数遵循最佳实践，并且是 ide 所乐于见到的。**
 
-**[](https://ibexorigin.medium.com/membership)  
+**<https://ibexorigin.medium.com/membership>  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex)  
+<https://alphasignal.ai/?referrer=Bex>  
 
 ## 文档字符串
 
@@ -119,12 +119,12 @@
 
 **您可以使用下面的链接成为高级媒体会员，并访问我的所有故事和数以千计的其他故事:**
 
-[](https://ibexorigin.medium.com/membership)  
+<https://ibexorigin.medium.com/membership>  
 
 **或者订阅我的邮件列表:**
 
-[](https://ibexorigin.medium.com/subscribe)  
+<https://ibexorigin.medium.com/subscribe>  
 
 ## **阅读更多我的故事:**
 
-[](/complete-guide-to-experiment-tracking-with-mlflow-and-dagshub-a0439479e0b9)  [](https://ibexorigin.medium.com/6-sklearn-mistakes-that-silently-tell-you-are-rookie-f1fe44779a4d)  [](/3-best-often-better-alternatives-to-histograms-61ddaec05305) **
+</complete-guide-to-experiment-tracking-with-mlflow-and-dagshub-a0439479e0b9>  <https://ibexorigin.medium.com/6-sklearn-mistakes-that-silently-tell-you-are-rookie-f1fe44779a4d>  </3-best-often-better-alternatives-to-histograms-61ddaec05305> **

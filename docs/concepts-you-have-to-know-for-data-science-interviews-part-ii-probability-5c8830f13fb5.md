@@ -98,4 +98,4 @@
 
 ***寻找更多面试指南？这里有一些文章可能会有帮助！***
 
-*[](/concepts-you-have-to-know-for-data-science-interviews-part-i-distribution-f4c28da3fc50)  [](/take-home-exercises-can-make-or-break-your-ds-interviews-5aac8b63f6d1)  [](/the-ultimate-interview-prep-guide-for-data-scientists-and-data-analysts-18621db1da47)  [](/the-ultimate-interview-prep-guide-for-your-next-dream-data-job-be4b2c7f73a8) *
+*</concepts-you-have-to-know-for-data-science-interviews-part-i-distribution-f4c28da3fc50>  </take-home-exercises-can-make-or-break-your-ds-interviews-5aac8b63f6d1>  </the-ultimate-interview-prep-guide-for-data-scientists-and-data-analysts-18621db1da47>  </the-ultimate-interview-prep-guide-for-your-next-dream-data-job-be4b2c7f73a8> *

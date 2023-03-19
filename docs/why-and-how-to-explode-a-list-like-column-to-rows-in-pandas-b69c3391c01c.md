@@ -51,7 +51,7 @@ df = df.explode('tags').drop_duplicates()
 
 还有很多方法可以美化如上图所示的基本单词云，包括改变背景颜色、调整字体大小、使用定制的遮罩图像等。如果你想做一个比我们在这篇文章中创建的基本视觉效果更好的视觉效果，你可以在这里阅读我关于文字云[的另一篇文章。](https://medium.com/@insightsbees/let-your-artistic-creativity-shine-with-advanced-python-visualization-d4fcccd78848)
 
-[](https://medium.com/@insightsbees/let-your-artistic-creativity-shine-with-advanced-python-visualization-d4fcccd78848)  
+<https://medium.com/@insightsbees/let-your-artistic-creativity-shine-with-advanced-python-visualization-d4fcccd78848>  
 
 总的来说，如果您的数据帧有一个类似列表的列，并且您需要通过解包列表并将每个元素分解为一行来重塑数据帧，您可以使用下面的代码片段轻松实现您的目标。
 

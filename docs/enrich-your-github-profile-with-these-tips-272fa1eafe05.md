@@ -97,7 +97,7 @@
 
 ![](img/b07bc68ffa914f000ec81446887707d1.png)
 
-如果你不确定从哪里开始，我建议从免费的[模板](https://www.canva.com/templates/)开始，在*‘脸书封面’，【YouTube 频道艺术’，*和*‘LinkedIn 横幅’下。*此外，[](https://excalidraw.com/)**或*[*draw . io*](https://app.diagrams.net/)*都是免费的有用探索工具。****
+如果你不确定从哪里开始，我建议从免费的[模板](https://www.canva.com/templates/)开始，在*‘脸书封面’，【YouTube 频道艺术’，*和*‘LinkedIn 横幅’下。*此外，<https://excalidraw.com/>**或*[*draw . io*](https://app.diagrams.net/)*都是免费的有用探索工具。****
 
 ***GIF 让我们表达的不仅仅是静态图像。你可以从 [GIPHY](https://giphy.com/) 或 [Tenor](https://tenor.com/) 等平台上找到一个 GIF 来补充你的个人资料。或者，你可以制作你独特的 GIF，这就是我为我的个人资料所做的。***
 

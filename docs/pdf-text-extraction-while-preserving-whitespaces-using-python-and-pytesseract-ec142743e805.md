@@ -49,7 +49,7 @@ ocr_text = file.pages[0].extract_text()
 
 # 使用 **pdf2image** 和 Pytesseract 保留有意义的空白
 
-我们可以将 PDF 转换为图像，然后使用 OCR 引擎(例如，[](https://en.wikipedia.org/wiki/Tesseract_(software))**)从图像中提取文本，而不是依赖 PDF 结构来提取底层文本。**
+我们可以将 PDF 转换为图像，然后使用 OCR 引擎(例如，<https://en.wikipedia.org/wiki/Tesseract_(software>)**)从图像中提取文本，而不是依赖 PDF 结构来提取底层文本。**
 
 ## ****所需库****
 

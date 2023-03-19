@@ -60,7 +60,7 @@ PostgreSQL 的一大特点是它的可扩展性。许多令人惊叹的数据库
 
 TimescaleDB 可以下载并自托管。它也可以通过多云管理平台 Aiven 托管在您选择的平台上的云中。我已经讨论了 AWS 上针对本文中讨论的许多数据库的不同部署选项:
 
-[](https://aws.plainenglish.io/timeseries-databases-on-aws-236677f739db)  
+<https://aws.plainenglish.io/timeseries-databases-on-aws-236677f739db>  
 
 TimescaleDB 还提供了 [Promscale](https://www.timescale.com/promscale) ，一个为 [Prometheus](https://prometheus.io) 高效处理 OpenTelemetry 数据的数据库后端。你可以在官方博客的[上了解更多关于 TimescaleDB 与 PostgreSQL 和其他产品的不同之处。](https://blog.timescale.com)
 
@@ -70,7 +70,7 @@ TimescaleDB 还提供了 [Promscale](https://www.timescale.com/promscale) ，一
 
 老实说，我不知道谁在或曾经在 kdb+上工作，但这说明这是一个远离主流的小众产品。你会发现足够多的公司将它与不太常见的架构模式一起使用，比如这里描述的，它涉及将 [Amazon FSx for Lustre](https://aws.amazon.com/fsx/lustre/) 与许多 EC2 实例、S3 桶等一起使用。，用于 kdb+的服务，如 Tickerplant、实时数据库、历史数据库、复杂事件处理(CEP)和网关。类似的架构在 Azure、 [Google Cloud](https://code.kx.com/q/cloud/gcpm/) 和 Digital Ocean 上也是可能的。
 
-[](https://databricks.com/blog/2021/05/25/time-series-data-analytics-in-financial-services-with-databricks-and-kx.html)  
+<https://databricks.com/blog/2021/05/25/time-series-data-analytics-in-financial-services-with-databricks-and-kx.html>  
 
 Databricks 与 kdb+合作，使用 Spark 实现了[超快速的金融时间系列数据分析。您可以使用几个选项将 Databricks 与 kdb+结合使用，包括 PyQ、Databricks APIs、使用 JDBC 的联邦查询等。数据库排名网站 db-engines.com 在时间序列数据库类别中排名第二，仅次于 InfluxDB。虽然我有理由怀疑你在下一份工作中是否需要 kdb+-](https://github.com/hughhyndman/kdbspark)
 
@@ -80,13 +80,13 @@ Databricks 与 kdb+合作，使用 Spark 实现了[超快速的金融时间系�
 
 Druid 不一定只是一个 timeseries 数据库，而是通常用于对时序数据进行超快速聚合。因此，Druid 更适合作为基于时间的分析数据库。正因为如此，德鲁伊的架构壮举在于它所服务的各种用例。一些用例与 InfluxDB 和 TimescaleDB 等时间序列数据库重叠，例如网络遥测分析和应用性能分析。由于这种重叠，Druid 组合了[一个数据仓库、一个时间序列数据库和一个搜索系统](https://druid.apache.org/technology)。
 
-[](https://www.rilldata.com/blog/guide-to-apache-druid-architectures)  
+<https://www.rilldata.com/blog/guide-to-apache-druid-architectures>  
 
 它的核心重点是成为一个具有列存储、实时和批量接收能力的分布式 MPP 系统，这对于您的数据工程堆栈来说是一个令人兴奋的工具。对于超快速查询，Druid 使用[压缩位图索引](https://roaringbitmap.org/)和基于时间的分区来删除不需要的数据。Druid 使用基于 JSON 的查询语言，类似于您可能在 MongoDB 或 Cassandra 中看到的。尽管如此，因为每个人都知道 SQL 并使用 SQL 与数据交互，所以 Druid 还提供了 Druid SQL，这是一个在原生查询引擎之上的包装器。
 
 像网飞、Airbnb、Salesforce、Booking、Appsflyer、Criteo 和 PayPal 这样的公司在生产中使用 Druid。这里有一个来自网飞科技博客的案例研究，讲述了他们如何将德鲁伊与卡夫卡结合使用，以实时传递洞察力:
 
-[](https://netflixtechblog.com/how-netflix-uses-druid-for-real-time-insights-to-ensure-a-high-quality-experience-19e1e8568d06)  
+<https://netflixtechblog.com/how-netflix-uses-druid-for-real-time-insights-to-ensure-a-high-quality-experience-19e1e8568d06>  
 
 我还建议由[罗曼·莱文托夫](https://medium.com/u/6ce225eafe47?source=post_page-----95cd7f7ee64d--------------------------------)撰写的另一篇博文，讨论德鲁伊、皮诺和点击屋之间的区别。
 

@@ -12,7 +12,7 @@ Git 是所有数据科学家和软件工程师都应该知道如何使用的工�
 
 Git 是所有数据科学家和软件工程师都应该知道如何使用的工具，所以我整理了一系列有助于掌握 git 的关键工具和功能。这篇文章是这个系列的第二篇文章，将介绍 git 重置和 git 恢复，它们可以用来撤销提交历史中的更改。如果您错过了本系列的第一篇文章，关于 git merge 和 git rebase，可以在下面找到链接:
 
-[](/mastering-git-merge-and-rebase-f2a7c5c348a9)  
+</mastering-git-merge-and-rebase-f2a7c5c348a9>  
 
 git 用户会遇到的两个常用工具是`git reset`和`git revert`的工具。这两个命令的好处是，您可以使用它们来删除或编辑您在之前提交的代码中所做的更改。理解它们是如何工作的将会为你节省大量的时间，让你编写更干净的代码，并且当你这样做的时候对提交有更多的信心。
 
@@ -66,8 +66,8 @@ git revert B
 
 如果你喜欢你所读的，并且还不是 medium 会员，请使用下面我的推荐链接注册 Medium，来支持我和这个平台上其他了不起的作家！提前感谢。
 
-[](https://philip-wilkinson.medium.com/membership)  
+<https://philip-wilkinson.medium.com/membership>  
 
 或者随意查看我在 Medium 上的其他文章:
 
-[](/eight-data-structures-every-data-scientist-should-know-d178159df252)  [](/a-complete-data-science-curriculum-for-beginners-825a39915b54)  [](https://python.plainenglish.io/a-practical-introduction-to-random-forest-classifiers-from-scikit-learn-536e305d8d87) 
+</eight-data-structures-every-data-scientist-should-know-d178159df252>  </a-complete-data-science-curriculum-for-beginners-825a39915b54>  <https://python.plainenglish.io/a-practical-introduction-to-random-forest-classifiers-from-scikit-learn-536e305d8d87> 

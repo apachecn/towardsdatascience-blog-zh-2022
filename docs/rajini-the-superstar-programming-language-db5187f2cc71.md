@@ -154,13 +154,13 @@ Executing 5+5 in rajini++
 
 如果该项目引起了您的兴趣，并且如果您想对 github repo 的项目负责人进行审计或做出贡献，请:
 
-[](https://github.com/aadhithya/rajiniPP)  
+<https://github.com/aadhithya/rajiniPP>  
 
 # PyPI 上的 rajinipp
 
 rajinipp 在 PyPI 上，可以在这里找到:
 
-[](https://pypi.org/project/rajinipp/)  
+<https://pypi.org/project/rajinipp/>  
 
 请继续关注下一篇文章，我会写关于如何在几分钟内完成 [rajiniPP 回购](https://github.com/aadhithya/rajiniPP)并创建你自己的 esolang！
 

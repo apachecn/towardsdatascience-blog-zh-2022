@@ -30,7 +30,7 @@
 
 ## *幂律*
 
-*在这里，我们将介绍一种似乎是算法合成的新方法，它使用了一种叫做[](https://www.youtube.com/watch?v=7jUp1rR-Q4I)*幂律的[分形几何](https://users.math.yale.edu/public_html/People/frame/Fractals/)的基本属性。幂律存在于自然科学和社会科学中令人难以置信的一系列现象中。以下是几个例子:**
+*在这里，我们将介绍一种似乎是算法合成的新方法，它使用了一种叫做<https://www.youtube.com/watch?v=7jUp1rR-Q4I>*幂律的[分形几何](https://users.math.yale.edu/public_html/People/frame/Fractals/)的基本属性。幂律存在于自然科学和社会科学中令人难以置信的一系列现象中。以下是几个例子:**
 
 *   **生物多样性**
 *   **植物和动物的循环系统**
@@ -124,4 +124,4 @@ largeCount ← number of the largest elements in set// Implementation:countRatio
 
 ***如果你喜欢这篇文章，你可以考虑成为 Medium 会员，这样就可以无限制地访问 Medium 上的所有内容:***
 
-**[](https://medium.com/@harlan.j.brothers/membership) **
+**<https://medium.com/@harlan.j.brothers/membership> **

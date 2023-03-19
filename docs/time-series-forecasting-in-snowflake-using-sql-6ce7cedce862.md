@@ -12,7 +12,7 @@
 
 时间序列预测是一种基于历史时间采样数据预测值的技术。
 
-## 预测是企业管理的基础[](https://modelstar.io/docs/tutorials/sales-forecasting-inside-snowflake/#sales-forecasting-is-rudimentary-for-business-management)
+## 预测是企业管理的基础<https://modelstar.io/docs/tutorials/sales-forecasting-inside-snowflake/#sales-forecasting-is-rudimentary-for-business-management>
 
 预测可以帮助公司在供应链管理、库存管理(关于补货数量和时间)、财务规划、产品路线图和招聘策略等方面做出正确的商业决策。有了准确及时的预测结果，企业管理层可以更好地了解如何分配资源或利用顺风。
 
@@ -49,11 +49,11 @@ Python 有丰富的生态系统来实现机器学习和预测算法。雪花的�
 
 我们的产出报告。图片作者。
 
-# SQL ML 之旅的准备[](https://modelstar.io/docs/tutorials/sales-forecasting-inside-snowflake/#preparation-for-the-sql-ml-journey)
+# SQL ML 之旅的准备<https://modelstar.io/docs/tutorials/sales-forecasting-inside-snowflake/#preparation-for-the-sql-ml-journey>
 
 如果您是第一次使用 Modelstar，这是一个安装 Modelstar 的快速入门指南。
 
-## 第一步:安装型号之星[](https://modelstar.io/docs/tutorials/sales-forecasting-inside-snowflake/#step-1-install-modelstar)
+## 第一步:安装型号之星<https://modelstar.io/docs/tutorials/sales-forecasting-inside-snowflake/#step-1-install-modelstar>
 
 ```
 $ pip install modelstar
@@ -69,7 +69,7 @@ $ modelstar --version
 
 这应该会在您的终端中显示版本号。
 
-## 步骤 2:初始化一个模型星项目[](https://modelstar.io/docs/tutorials/sales-forecasting-inside-snowflake/#step-2-initialize-a-modelstar-project)
+## 步骤 2:初始化一个模型星项目<https://modelstar.io/docs/tutorials/sales-forecasting-inside-snowflake/#step-2-initialize-a-modelstar-project>
 
 ```
 $ modelstar init forecast_project
@@ -79,7 +79,7 @@ $ modelstar init forecast_project
 
 现在你会看到一个`forecast_project`文件夹创建在你的工作目录中。
 
-## 步骤#3:配置雪花会话[](https://modelstar.io/docs/tutorials/sales-forecasting-inside-snowflake/#step-3-config-snowflake-session)
+## 步骤#3:配置雪花会话<https://modelstar.io/docs/tutorials/sales-forecasting-inside-snowflake/#step-3-config-snowflake-session>
 
 在`forecast_project`文件夹中，找到文件`modelstar.config.yaml`，用你最喜欢的编辑器打开它。向其中添加您的雪花帐户信息和凭据。随意用任何名称命名会话。在这个例子中，我们使用`snowflake-test`。该文件中的凭证用于连接到您的雪花数据仓库。(注意:不要将 modelstar.config.yaml 文件提交到您的 CI/CD 版本控制中。)
 
@@ -102,7 +102,7 @@ sessions:
 
 > **注意:**请在您的雪花仓库数据库中创建阶段，并在配置中指定它。
 
-## 第四步:Ping 雪花[](https://modelstar.io/docs/tutorials/sales-forecasting-inside-snowflake/#step-4-ping-snowflake)
+## 第四步:Ping 雪花<https://modelstar.io/docs/tutorials/sales-forecasting-inside-snowflake/#step-4-ping-snowflake>
 
 我们现在可以从您的终端启动 Modelstar 会话。在新生成的 Modelstar 项目的目录中(在我们的示例中，它是`./forecast_project/`)，运行以下命令:
 
@@ -118,7 +118,7 @@ $ modelstar use snowflake-test
 
 控制台输出。图片作者。
 
-## 第五步:将预测算法注册到雪花[](https://modelstar.io/docs/tutorials/sales-forecasting-inside-snowflake/#step-5-register-the-forecast-algorithm-to-snowflake)
+## 第五步:将预测算法注册到雪花<https://modelstar.io/docs/tutorials/sales-forecasting-inside-snowflake/#step-5-register-the-forecast-algorithm-to-snowflake>
 
 Modelstar 提供了现成的预测算法，并管理该算法的依赖关系，因此您不必这样做。要使其在您的雪花仓库中可用，请运行以下命令:
 
@@ -132,7 +132,7 @@ $ modelstar register forecast:univariate_time_series_forecast
 
 控制台输出。图片作者。
 
-## 步骤#6:将样本销售数据上传到雪花(可选，如果您使用自己的数据集)[](https://modelstar.io/docs/tutorials/sales-forecasting-inside-snowflake/#step-6-upload-sample-sales-data-to-snowflake)
+## 步骤#6:将样本销售数据上传到雪花(可选，如果您使用自己的数据集)<https://modelstar.io/docs/tutorials/sales-forecasting-inside-snowflake/#step-6-upload-sample-sales-data-to-snowflake>
 
 如果您想在示例销售数据集上尝试预测算法，请运行此命令在您的数据仓库中创建一个数据表。如果您想使用自己的数据，可以跳过这一步。
 
@@ -142,9 +142,9 @@ $ modelstar create table sample_data/time_series_data.csv:TS_DATA_TABLE
 
 该命令将`time_series_data.csv`文件上传到雪花并创建一个名为`‘TS_DATA_TABLE’`的表。在这里找到更多关于这个 [API 的信息。](https://modelstar.io/docs/api/cli/create)
 
-# 使用 SQL 1-linear [](https://modelstar.io/docs/tutorials/sales-forecasting-inside-snowflake/#build-a-forecast-model-using-a-sql-1-linear)构建预测模型
+# 使用 SQL 1-linear <https://modelstar.io/docs/tutorials/sales-forecasting-inside-snowflake/#build-a-forecast-model-using-a-sql-1-linear>构建预测模型
 
-## 在雪花工作表 [](https://modelstar.io/docs/tutorials/sales-forecasting-inside-snowflake/#run-this-script-in-a-snowflake-worksheet) 中运行该脚本
+## 在雪花工作表 <https://modelstar.io/docs/tutorials/sales-forecasting-inside-snowflake/#run-this-script-in-a-snowflake-worksheet> 中运行该脚本
 
 在 Snowflake 中使用以下命令来构建预测模型(下面的示例使用了在步骤#6 中上传的样本数据):
 
@@ -158,13 +158,13 @@ CALL UNIVARIATE_TIME_SERIES_FORECAST('TS_DATA_TABLE', 'DS', 'Y', 40, 'M');
 
 雪花雪景。图片作者。
 
-## 对您自己的数据运行预测算法[](https://modelstar.io/docs/tutorials/sales-forecasting-inside-snowflake/#to-run-the-forecasting-algorithm-on-your-own-data)
+## 对您自己的数据运行预测算法<https://modelstar.io/docs/tutorials/sales-forecasting-inside-snowflake/#to-run-the-forecasting-algorithm-on-your-own-data>
 
 在幕后，预测算法作为存储过程在雪花内部运行。它采用以下参数:
 
 要配置您自己的预测周期，请查看[该 API 文档](https://modelstar.io/docs/api/ml-sql-functions/univariate-time-series-forecast)以获取设备别名的完整列表。
 
-## 检查结果[](https://modelstar.io/docs/tutorials/sales-forecasting-inside-snowflake/#check-the-result)
+## 检查结果<https://modelstar.io/docs/tutorials/sales-forecasting-inside-snowflake/#check-the-result>
 
 模型训练完成后，在雪花结果窗口中，一次成功的运行应该会输出如下所示的 json 字符串:
 
@@ -212,7 +212,7 @@ $ modelstar check <run_id>
 
 模特之星报道。图片作者。
 
-## 报告里有什么[](https://modelstar.io/docs/tutorials/sales-forecasting-inside-snowflake/#whats-in-the-report)
+## 报告里有什么<https://modelstar.io/docs/tutorials/sales-forecasting-inside-snowflake/#whats-in-the-report>
 
 该报告包括 3 个部分:
 

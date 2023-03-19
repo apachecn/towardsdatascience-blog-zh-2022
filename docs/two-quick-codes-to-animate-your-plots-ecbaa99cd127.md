@@ -131,10 +131,10 @@ for i in range(df.shape[0]):
 
 ## 参考
 
-[](https://plotly.com/python/animations/)  [](/a-simple-way-to-turn-your-plots-into-gifs-in-python-f6ea4435ed3c)  [](https://pypi.org/project/gif/)  
+<https://plotly.com/python/animations/>  </a-simple-way-to-turn-your-plots-into-gifs-in-python-f6ea4435ed3c>  <https://pypi.org/project/gif/>  
 
 如果这些内容对你有用，请关注我的博客。
 
-[](https://gustavorsantos.medium.com/)  
+<https://gustavorsantos.medium.com/>  
 
 如果你想阅读大量的好内容，可以考虑订阅 Medium。您可以使用此[推荐代码](https://gustavorsantos.medium.com/)。

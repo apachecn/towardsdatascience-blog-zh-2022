@@ -379,4 +379,4 @@ VAR ActDate = MAX(‘Date’[Date])RETURN
 
 用父子结构实现动态 RLS:[已解决:动态 RLS —微软 Power BI 社区](https://urldefense.proofpoint.com/v2/url?u=https-3A__community.powerbi.com_t5_Desktop_dynamic-2DRLS_m-2Dp_1219642&d=DwMFAg&c=eIGjsITfXP_y-DLLX0uEHXJvU8nOHrUK8IrwNKOtkVU&r=ZqPxQ-KsPgtWk7-5IsCGGjWC4rFt4Of6e_QaPwMyJ8uHsqW5Nl18C5H3JDxMLHOq&m=rjcYcKP8S9KjM6XA4tRZ80LUGRqesZZH6ALgLp3U96gzkoTiG5cnsiUqQ15QfGNF&s=rEisI1k6Us22xoY9_GdTZUbcB7lTjqckBXuWgfLeGtw&e=)。
 
-[](https://medium.com/@salvatorecagliari/membership) 
+<https://medium.com/@salvatorecagliari/membership> 

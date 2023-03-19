@@ -202,4 +202,4 @@ MacQueen。为简单起见，我们将实现劳埃德算法:](https://www.rdocum
 
 **我写关于机器学习算法的文章，请通过下面的链接关注我，并完全访问我的文章:**
 
-**[](https://medium.com/@angela.shi/membership) **
+**<https://medium.com/@angela.shi/membership> **

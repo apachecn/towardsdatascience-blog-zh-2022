@@ -36,7 +36,7 @@
 
 努力理解缩写，首先阅读这篇文章:
 
-[](https://medium.com/geekculture/25-terms-to-help-you-in-your-career-in-data-science-14ca681b0699)  
+<https://medium.com/geekculture/25-terms-to-help-you-in-your-career-in-data-science-14ca681b0699>  
 
 ## 6.剧烈的数据变化
 
@@ -52,7 +52,7 @@
 
 不了解历史维护方法，请查看这篇文章:
 
-[](https://medium.com/geekculture/6-different-types-of-slowly-changing-dimensions-and-how-to-apply-them-b152ef908d4e)  
+<https://medium.com/geekculture/6-different-types-of-slowly-changing-dimensions-and-how-to-apply-them-b152ef908d4e>  
 
 ## 9.无关数据
 
@@ -88,7 +88,7 @@
 
 如果您想了解在您的数据之旅中哪里可以找到 DQ，请查看这篇文章:
 
-[](/apply-data-quality-checks-at-these-5-points-in-your-data-journey-b80c59fd7758)  
+</apply-data-quality-checks-at-these-5-points-in-your-data-journey-b80c59fd7758>  
 
 如果您没有订阅 Medium，请考虑使用我的推荐链接订阅[。它比网飞便宜，而且客观上能更好地利用你的时间。](https://hanzalaqureshi.medium.com/membership)如果你使用我的链接，我会获得一小笔佣金，而你可以在 Medium 上获得无限的故事。
 

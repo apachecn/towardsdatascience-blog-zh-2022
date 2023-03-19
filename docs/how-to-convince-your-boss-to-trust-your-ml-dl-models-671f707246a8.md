@@ -42,7 +42,7 @@
 
 可以在 [**上一篇**](/fish-weight-prediction-regression-analysis-for-beginners-part-1-8e43b0cb07e) 中看到线性回归算法的详细解释。
 
-[](/fish-weight-prediction-regression-analysis-for-beginners-part-1-8e43b0cb07e)  
+</fish-weight-prediction-regression-analysis-for-beginners-part-1-8e43b0cb07e>  
 
 **1.2 决策树**
 
@@ -54,7 +54,7 @@
 
 如果你想了解更多关于决策树是如何工作的，你可以访问我的[上一篇文章](/regression-analysis-for-beginners-using-tree-based-methods-2b65bd193a7)。
 
-[](/regression-analysis-for-beginners-using-tree-based-methods-2b65bd193a7)  
+</regression-analysis-for-beginners-using-tree-based-methods-2b65bd193a7>  
 
 **2。局部解释方法:石灰**
 
@@ -138,7 +138,7 @@
 
 *如果你想了解更多关于应用数据科学的知识，这里有 [**我的 YouTube 频道**](https://www.youtube.com/channel/UCvlF0PPaQ2GAuqYKJT4UpJQ) **。***
 
-*[](https://www.youtube.com/channel/UCvlF0PPaQ2GAuqYKJT4UpJQ)  
+*<https://www.youtube.com/channel/UCvlF0PPaQ2GAuqYKJT4UpJQ>  
 
 ## **参考文献:**
 

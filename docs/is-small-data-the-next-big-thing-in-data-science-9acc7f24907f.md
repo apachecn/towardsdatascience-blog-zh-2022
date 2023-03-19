@@ -99,4 +99,4 @@
 
 # **进一步阅读**
 
-**[](https://amplify.nabshow.com/articles/ic-smaller-smarter-data-needed-to-train-and-scale-ai/)    [](https://www.forbes.com/sites/gilpress/2021/06/16/andrew-ng-launches-a-campaign-for-data-centric-ai/?sh=69763abc74f5)  [](https://fortune.com/2022/06/21/andrew-ng-data-centric-ai/)  [](https://mitsloan.mit.edu/ideas-made-to-matter/why-its-time-data-centric-artificial-intelligence)  [](https://spectrum.ieee.org/andrew-ng-data-centric-ai)  [](https://www.techopedia.com/what-is-data-centric-ai-and-why-do-we-need-it/2/34756)   **
+**<https://amplify.nabshow.com/articles/ic-smaller-smarter-data-needed-to-train-and-scale-ai/>    <https://www.forbes.com/sites/gilpress/2021/06/16/andrew-ng-launches-a-campaign-for-data-centric-ai/?sh=69763abc74f5>  <https://fortune.com/2022/06/21/andrew-ng-data-centric-ai/>  <https://mitsloan.mit.edu/ideas-made-to-matter/why-its-time-data-centric-artificial-intelligence>  <https://spectrum.ieee.org/andrew-ng-data-centric-ai>  <https://www.techopedia.com/what-is-data-centric-ai-and-why-do-we-need-it/2/34756>   **

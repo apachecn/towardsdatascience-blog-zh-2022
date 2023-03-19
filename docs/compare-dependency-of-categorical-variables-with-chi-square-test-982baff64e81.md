@@ -174,14 +174,14 @@ Expected table value is
 7.  [*通过规范化提高您的数据科学模型效率(Stat-07)*](https://medium.datadriveninvestor.com/increase-your-data-science-model-efficiency-with-normalization-918484b4626f?source=your_stories_page-------------------------------------)
 8.  [*数据科学的基本概率概念(Stat-08)*](/basic-probability-concepts-for-data-science-eb8e08c9ad92?source=your_stories_page-------------------------------------)
 9.  [*从朴素贝叶斯定理到朴素贝叶斯分类器的路线图(Stat-09)*](/road-map-from-naive-bayes-theorem-to-naive-bayes-classifier-6395fc6d5d2a?source=your_stories_page-------------------------------------)
-10.  [](https://medium.datadriveninvestor.com/all-you-need-to-know-about-hypothesis-testing-for-data-science-enthusiasts-30cfe1dce028?source=your_stories_page-------------------------------------)*数据科学爱好者关于假设检验的所有知识(Stat-10)*
+10.  <https://medium.datadriveninvestor.com/all-you-need-to-know-about-hypothesis-testing-for-data-science-enthusiasts-30cfe1dce028?source=your_stories_page------------------------------------->*数据科学爱好者关于假设检验的所有知识(Stat-10)*
 11.  *[*多组间统计比较用 ANOVA (Stat-11)*](/statistical-comparison-among-multiple-groups-with-anova-d4ac27f6e59e?source=your_stories_page-------------------------------------)*
 12.  *[*用卡方检验比较分类变量的相关性(Stat-12)*](/compare-dependency-of-categorical-variables-with-chi-square-test-982baff64e81?source=your_stories_page-------------------------------------)*
 
 **您可以通过以下链接订阅媒体上的每一篇文章。**
 
-*[](https://mzh706.medium.com/membership)  
+*<https://mzh706.medium.com/membership>  
 
 *订阅以下链接，获取我的文章通知。*
 
-[](https://mzh706.medium.com/subscribe) *
+<https://mzh706.medium.com/subscribe> *

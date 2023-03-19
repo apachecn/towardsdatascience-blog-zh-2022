@@ -91,4 +91,4 @@ JD
 
 参考:
 
-[](https://stackoverflow.com/questions/54615195/spark-dataframe-limit-function-takes-too-much-time-to-show)  [](https://stackoverflow.com/questions/56301329/understanding-spark-explain-collect-vs-global-vs-local-limit)   
+<https://stackoverflow.com/questions/54615195/spark-dataframe-limit-function-takes-too-much-time-to-show>  <https://stackoverflow.com/questions/56301329/understanding-spark-explain-collect-vs-global-vs-local-limit>   

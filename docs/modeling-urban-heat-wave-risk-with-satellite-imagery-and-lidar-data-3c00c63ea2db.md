@@ -102,4 +102,4 @@
 
 ***如果你还不是中会员，想支持我这样的作家，可以随时通过我的推荐链接报名:***
 
-[](https://guilhermeiablonovski.medium.com/membership) 
+<https://guilhermeiablonovski.medium.com/membership> 

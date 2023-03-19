@@ -224,7 +224,7 @@ df_group.get_group('Home')
 
 **对每个组中的列应用聚合函数是一种广泛使用的做法，以获得汇总结构，用于进一步的统计分析。**
 
-**根据 IBM[](https://www.ibm.com/docs/da/tnpm/1.4.2?topic=data-aggregation)**，****
+**根据 IBM<https://www.ibm.com/docs/da/tnpm/1.4.2?topic=data-aggregation>**，****
 
 > ****您可以分析汇总的数据，以获得关于特定资源或资源组的见解****
 
@@ -255,7 +255,7 @@ df_group.get_group('Home')
 
 ****尽管像上面这样写一行程序看起来很容易，也很有趣，但是你应该始终记住 PEP-8 关于一行中字符数的准则。你可以在下面的文章中读到更多。****
 
-****[](/5-most-powerful-one-liners-you-should-know-in-python-programming-c9d49a89b7f3)  
+****</5-most-powerful-one-liners-you-should-know-in-python-programming-c9d49a89b7f3>  
 
 接下来，您可以使用`GroupBy`方法`**.aggregate()**`在同一列上应用多个聚合函数。只需提供要在列上应用的函数名列表。
 

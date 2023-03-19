@@ -238,4 +238,4 @@ tr -cs A-Za-z '' | tr A-Z a-z | sort | uniq -c | sort -rn | sed ${1}q
 
 **寻找更多提高工作效率的技巧？查看下面链接的文章👇**
 
-*[](/the-most-effective-creatives-maximize-leverage-not-hours-worked-20ed0070fdd7) *
+*</the-most-effective-creatives-maximize-leverage-not-hours-worked-20ed0070fdd7> *

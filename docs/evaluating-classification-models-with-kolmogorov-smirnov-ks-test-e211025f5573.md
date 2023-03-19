@@ -20,7 +20,7 @@
 
 如果你想更好地理解 KS 测试是如何工作的，可以看看我关于这个主题的文章:
 
-[](/comparing-sample-distributions-with-the-kolmogorov-smirnov-ks-test-a2292ad6fee5)  
+</comparing-sample-distributions-with-the-kolmogorov-smirnov-ks-test-a2292ad6fee5>  
 
 # 实验
 
@@ -28,7 +28,7 @@
 
 我的 [github](https://github.com/vinyluis/Articles/tree/main/Kolmogorov-Smirnov) 上有所有的代码，所以我只讲述最重要的部分。
 
-[](https://github.com/vinyluis/Articles/tree/main/Kolmogorov-Smirnov)  
+<https://github.com/vinyluis/Articles/tree/main/Kolmogorov-Smirnov>  
 
 作为一个例子，我们可以构建三个数据集，它们在类之间具有不同的分离级别(参见代码以了解它们是如何构建的)。
 
@@ -121,7 +121,7 @@ ROC AUC: 0.8837
 
 您可以在我的 [GitHub 存储库中找到本文](https://github.com/vinyluis/Articles/tree/main/Kolmogorov-Smirnov)的代码片段，但是您也可以使用我关于多类 ROC 曲线和 ROC AUC 的文章作为参考:
 
-[](/multiclass-classification-evaluation-with-roc-curves-and-roc-auc-294fd4617e3a)  
+</multiclass-classification-evaluation-with-roc-curves-and-roc-auc-294fd4617e3a>  
 
 # **结论**
 
@@ -139,7 +139,7 @@ KS 和 ROC AUC 技术将以不同的方式评估相同的指标。即使 ROC AUC
 
 看看这个很棒的帖子
 
-[](/comparing-robustness-of-mae-mse-and-rmse-6d69da870828)  
+</comparing-robustness-of-mae-mse-and-rmse-6d69da870828>  
 
 # 参考
 

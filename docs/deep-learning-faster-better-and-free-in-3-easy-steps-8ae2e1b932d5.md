@@ -47,7 +47,7 @@ Google Colab 是一项服务
 
 如果你想知道更多关于这个例子的细节，查看我的 [**强化学习课程**](http://datamachines.xyz/the-hands-on-reinforcement-learning-course/) 。这个笔记本是基于 课程的 [**第 6 部分，在这里我们训练一个深度 Q 智能体去解决来自 OpenAI 健身房的**](http://datamachines.xyz/2022/03/03/hyperparameters-in-deep-rl-hands-on-course/) **[**大车杆子**](https://gym.openai.com/envs/CartPole-v1/) 环境。**
 
-[](/hyperparameters-in-deep-rl-f8a9cf264cd6)  
+</hyperparameters-in-deep-rl-f8a9cf264cd6>  
 
 我们开始吧！
 
@@ -175,7 +175,7 @@ $ (venv) ngrok http 5000
 
 👉🏽今天使用我的 [**推荐链接**](https://pau-labarta-bajo.medium.com/membership) 成为会员。
 
-[](https://pau-labarta-bajo.medium.com/membership)  
+<https://pau-labarta-bajo.medium.com/membership>  
 
 👉🏽订阅 [***datamachines* 简讯**](https://datamachines.xyz/subscribe/) **。**
 

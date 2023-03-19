@@ -136,6 +136,6 @@ client.dashboard_link>> 'http://127.0.0.1:8787/status'
 
 请考虑成为支持写作社区的媒体成员:
 
-[](https://richardpelgrim.medium.com/membership)  
+<https://richardpelgrim.medium.com/membership>  
 
 *原载于 2022 年 2 月 10 日*[*https://coiled . io*](https://coiled.io/blog/common-dask-mistakes/)*。*

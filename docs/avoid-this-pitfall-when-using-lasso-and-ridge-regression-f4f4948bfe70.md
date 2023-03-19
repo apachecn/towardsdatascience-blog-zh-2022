@@ -32,7 +32,7 @@
 
 有关**套索和脊正规化**的更深入讨论，请查看以下文章:
 
-[](/regulate-your-regression-model-with-ridge-lasso-and-elasticnet-92735e192e34)  
+</regulate-your-regression-model-with-ridge-lasso-and-elasticnet-92735e192e34>  
 
 来对抗过度拟合。LASSO 将以下惩罚(用红色标记)添加到基本回归程序中:
 
@@ -80,4 +80,4 @@ LASSO 和 ridge 看起来是明智的技术，但它们只考虑了`β`的值，
 
 *对更高级的回归技术感兴趣？你可能也会喜欢这篇关于多项式回归的文章:*
 
-[](/polynomial-regression-an-alternative-for-neural-networks-c4bd30fa6cf6) 
+</polynomial-regression-an-alternative-for-neural-networks-c4bd30fa6cf6> 

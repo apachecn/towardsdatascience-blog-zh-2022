@@ -93,6 +93,6 @@
 
 本教程侧重于为探索性分析准备测量数据。我们创建的条形图很有见地，但我们可以对它们的美学进行改进，使它们更加专业和引人注目。请阅读我关于如何做到这一点的教程:
 
-[](/customize-your-ggplot2-bar-graph-5-ways-to-instantly-improve-your-r-data-visualizations-f9c11dfe0163)  
+</customize-your-ggplot2-bar-graph-5-ways-to-instantly-improve-your-r-data-visualizations-f9c11dfe0163>  
 
 为了进行更深入的分析，我们还可以执行统计测试来检验相关性和测量调查的可靠性。您可以阅读更多关于这些概念的内容，并尝试将它们与 R 的`cor.test()`函数和`ltm`包中的`cronbach.alpha()`一起应用。

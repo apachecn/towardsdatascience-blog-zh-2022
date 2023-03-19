@@ -30,7 +30,7 @@ pip install wordcloud
 
 如果您使用[poem 来管理 Python 包](https://www.the-analytics.club/virtualenv-alternative-for-python-dependency-management)，您可以使用下面的命令。
 
-[](/poetry-to-complement-virtualenv-44088cc78fd1)  
+</poetry-to-complement-virtualenv-44088cc78fd1>  
 
 ```
 poetry add wordcloud
@@ -50,7 +50,7 @@ text = """ Python is a widely used high-level interpreted language for general-p
 
 但是，您可能需要加载比这多得多的数据。例如，如果您有一个评论数据集，您必须以不同的方式加载它们。
 
-[](/summarize-pandas-data-frames-b9770567f940)  
+</summarize-pandas-data-frames-b9770567f940>  
 
 你可以从[熊猫数据框](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html)中创建单词云。以下代码通过以下方式准备一个合并的审阅文本
 

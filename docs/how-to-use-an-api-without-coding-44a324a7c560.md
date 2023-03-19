@@ -130,7 +130,7 @@ API JSON 响应—(图片由作者提供)
 
 你可以在我的 Youtube 频道上找到更多的生产力技巧和 google sheets 教程
 
-[](https://youtube.com/@productivedata)  
+<https://youtube.com/@productivedata>  
 
 # 后续步骤
 
@@ -160,4 +160,4 @@ Excel 有自己的函数来执行名为 WEBSERVICE 的 API 查询。但是没有
 
 如果你对数据分析和供应链感兴趣，可以看看我的网站
 
-[](https://samirsaci.com) 
+<https://samirsaci.com> 

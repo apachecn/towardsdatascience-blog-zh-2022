@@ -33,7 +33,7 @@ AlexNet 是 CNN 能够在这个历史复杂的 ImageNet 数据集上表现良好
 > 
 > 有了这个模板，你可能想要编辑现有的架构，用于自己的演示、教育或研究目的，或者你可能想要使用我们美丽的传说来构建其他令人惊叹的深度学习架构，但不想从头开始。**免费(或者想付多少就付多少)！**
 
-[](https://dwiuzila.gumroad.com/l/cnn-architectures-visualized)  
+<https://dwiuzila.gumroad.com/l/cnn-architectures-visualized>  
 
 # 全连接层和激活功能
 
@@ -171,7 +171,7 @@ LRN 实现了 ***侧抑制*** 的想法，这是神经生物学中的一个概�
 
 > 注意:故事的这一部分很大程度上是受莱米·卡里姆的以下故事的启发。一定要去看看！
 
-[](/illustrated-10-cnn-architectures-95d78ace614d)  
+</illustrated-10-cnn-architectures-95d78ace614d>  
 
 我们开始吧，好吗？
 

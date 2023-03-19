@@ -107,7 +107,7 @@ let net = net(&vs.root());// set up optimizer
 let mut opt = nn::Adam::default().build(&vs, 1e-4)?;
 ```
 
-还有一个 Adam 优化器— [记住](https://www.google.com/search?client=safari&rls=en&q=question+mark+in+Rust&ie=UTF-8&oe=UTF-8) `[opt](https://www.google.com/search?client=safari&rls=en&q=question+mark+in+Rust&ie=UTF-8&oe=UTF-8)` [](https://www.google.com/search?client=safari&rls=en&q=question+mark+in+Rust&ie=UTF-8&oe=UTF-8)末尾的 `[?](https://www.google.com/search?client=safari&rls=en&q=question+mark+in+Rust&ie=UTF-8&oe=UTF-8)` [，否则你会返回一个`Result<>`类型，它没有我们需要的功能。在这一点上，我们可以简单地按照 PyTorch 的过程来做，所以我们将设置一些 epochs，并用优化器的`backward_step`方法和给定的`loss`来执行反向传播](https://www.google.com/search?client=safari&rls=en&q=question+mark+in+Rust&ie=UTF-8&oe=UTF-8)
+还有一个 Adam 优化器— [记住](https://www.google.com/search?client=safari&rls=en&q=question+mark+in+Rust&ie=UTF-8&oe=UTF-8) `[opt](https://www.google.com/search?client=safari&rls=en&q=question+mark+in+Rust&ie=UTF-8&oe=UTF-8)` <https://www.google.com/search?client=safari&rls=en&q=question+mark+in+Rust&ie=UTF-8&oe=UTF-8>末尾的 `[?](https://www.google.com/search?client=safari&rls=en&q=question+mark+in+Rust&ie=UTF-8&oe=UTF-8)` [，否则你会返回一个`Result<>`类型，它没有我们需要的功能。在这一点上，我们可以简单地按照 PyTorch 的过程来做，所以我们将设置一些 epochs，并用优化器的`backward_step`方法和给定的`loss`来执行反向传播](https://www.google.com/search?client=safari&rls=en&q=question+mark+in+Rust&ie=UTF-8&oe=UTF-8)
 
 图 10:针对给定的历元数 N_EPOCHS 训练序列神经网络，并使用 opt.backward_step(&loss)设置反向推进；
 
@@ -141,10 +141,10 @@ let mut opt = nn::Adam::default().build(&vs, 1e-4)?;
 
 *通过我的推荐链接加入 Medium 来支持我的写作和项目:*
 
-[](https://stefanobosisio1.medium.com/membership)  
+<https://stefanobosisio1.medium.com/membership>  
 
 如果有任何问题或意见，请随时给我发电子邮件，地址是:stefanobosisio1@gmail.com，或者直接在 Medium 这里。
 
 # 以前关于 Rust 和 ML 的教程
 
-[](https://levelup.gitconnected.com/machine-learning-and-rust-part-1-getting-started-745885771bc2)  [](https://levelup.gitconnected.com/machine-learning-and-rust-part-2-linear-regression-d3b820ed28f9)  [](https://levelup.gitconnected.com/machine-learning-and-rust-part-3-smartcore-dataframe-and-linear-regression-10451fdc2e60) 
+<https://levelup.gitconnected.com/machine-learning-and-rust-part-1-getting-started-745885771bc2>  <https://levelup.gitconnected.com/machine-learning-and-rust-part-2-linear-regression-d3b820ed28f9>  <https://levelup.gitconnected.com/machine-learning-and-rust-part-3-smartcore-dataframe-and-linear-regression-10451fdc2e60> 

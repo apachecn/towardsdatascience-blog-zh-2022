@@ -12,7 +12,7 @@ App 预览。作者图片
 
 在我之前的文章中，我介绍了 autocalc 包，它可以让你组织内部变量之间的依赖关系。在这篇文章中，我们将更进一步，实现一个更复杂的例子，涉及机器学习，模型拟合和预测。
 
-[](/create-a-simple-app-quickly-using-jupyter-notebook-312bdbb9d224)  
+</create-a-simple-app-quickly-using-jupyter-notebook-312bdbb9d224>  
 
 特别是，我们将:
 
@@ -122,4 +122,4 @@ App 预览。作者图片
 *   这个帖子最初是作为 Jupyter 笔记本创建的。作为单个笔记本的[代码](https://gist.github.com/kefirbandi/6204da76c2a8f8e26af78331afe6223a)可以作为 github gist 获得。
 *   使用 [jupyter_to_medium 工具](https://www.dexplo.org/jupyter_to_medium)将其转换为介质。非常感谢 [Ted Petrou](https://medium.com/u/cf7f60f2eeb3?source=post_page-----2ef8ea4cc6c2--------------------------------) 的这个包。
 
-[](https://medium.com/dunder-data/jupyter-to-medium-initial-post-ecd140d339f0) 
+<https://medium.com/dunder-data/jupyter-to-medium-initial-post-ecd140d339f0> 

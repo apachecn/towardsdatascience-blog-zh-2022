@@ -94,7 +94,7 @@ from sklearn.ensemble import RandomForestRegressorX_train, X_test, y_train, y_te
 
 我希望你喜欢阅读这篇文章。如果你愿意支持我成为一名作家，请考虑 [***注册会员***](https://rukshanpramoditha.medium.com/membership) *以获得无限制的媒体访问权限。它只需要每月 5 美元，我会收到你的会员费的一部分。*
 
-[](https://rukshanpramoditha.medium.com/membership)  
+<https://rukshanpramoditha.medium.com/membership>  
 
 非常感谢你一直以来的支持！下一篇文章再见。祝大家学习愉快！
 
@@ -102,15 +102,15 @@ from sklearn.ensemble import RandomForestRegressorX_train, X_test, y_train, y_te
 
 通过例子学习如何做交叉验证。
 
-[](/k-fold-cross-validation-explained-in-plain-english-659e33c0bc0)  
+</k-fold-cross-validation-explained-in-plain-english-659e33c0bc0>  
 
 了解随机森林如何在幕后工作，以及随机森林中涉及的两种随机性。
 
-[](/random-forests-an-ensemble-of-decision-trees-37a003084c6c)  
+</random-forests-an-ensemble-of-decision-trees-37a003084c6c>  
 
 了解参数和超参数之间的区别。
 
-[](https://rukshanpramoditha.medium.com/parameters-vs-hyperparameters-what-is-the-difference-5f40e16e2e82)  
+<https://rukshanpramoditha.medium.com/parameters-vs-hyperparameters-what-is-the-difference-5f40e16e2e82>  
 
 特别感谢 Pixabay 上的 [aalmeidah](https://pixabay.com/users/aalmeidah-4277022/) ，为我提供了这篇文章的封面图片。请注意，我稍微编辑了图像。
 

@@ -105,7 +105,7 @@ np.cumsum( counts / np.sum(counts) ) # counts-> no of values per bin
 
 为了查看从已知分布计算 **PDF 值的上下文中的一个示例，**我可以参考下面的帖子(它使用超几何分布作为基础分布，并将其放在 A/B 测试的上下文中):
 
-[](/fishers-exact-fb49432e55b5)  
+</fishers-exact-fb49432e55b5>  
 
 **基本情况:正态分布**
 

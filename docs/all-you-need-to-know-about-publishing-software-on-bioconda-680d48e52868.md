@@ -20,7 +20,7 @@ bioconda-recipes GitHub 知识库(作者截图)
 
 如果这是你第一次在 bioconda 上发布，你必须建立你的[**bio conda-recipes**](https://github.com/bioconda/bioconda-recipes)库。
 
-[](https://github.com/bioconda/bioconda-recipes)  
+<https://github.com/bioconda/bioconda-recipes>  
 
 点击 [**此处**](https://github.com/bioconda/bioconda-recipes/fork) 创建 bioconda-recipes 库的分支。
 
@@ -158,7 +158,7 @@ wget -O- $url | shasum -a 256
 
 如果你想阅读更多关于`meta.yaml`文件的细节，请查看[官方 bioconda 文档](https://bioconda.github.io/tutorials/gcb2020.html#meta-yaml-sections)。
 
-[](https://bioconda.github.io/tutorials/gcb2020.html#meta-yaml-sections)  
+<https://bioconda.github.io/tutorials/gcb2020.html#meta-yaml-sections>  
 
 ## 建议:看看别人的食谱
 

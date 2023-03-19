@@ -88,8 +88,8 @@ John was born in 12/02/1993\.
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership)  
+<https://gmyrianthous.medium.com/membership>  
 
 **你可能也会喜欢**
 
-[](/sentiment-analysis-assemblyai-python-a4686967e0fc)  [](/real-time-speech-recognition-python-assemblyai-13d35eeed226) 
+</sentiment-analysis-assemblyai-python-a4686967e0fc>  </real-time-speech-recognition-python-assemblyai-13d35eeed226> 

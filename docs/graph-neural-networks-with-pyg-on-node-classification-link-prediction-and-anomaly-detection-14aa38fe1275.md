@@ -196,7 +196,7 @@ GCN 节点分类模型架构(图片由作者提供)
 
 如果你感兴趣，完整的代码可以在下面的 Google Colab 和 GitHub repo 中找到。
 
-[](https://colab.research.google.com/drive/1Ksca_p4XrZjeN0A6jT5aYN6ARvwFVSbY?usp=sharing)  [](https://github.com/tomonori-masui/graph-neural-networks/blob/main/gnn_pyg_implementations.ipynb)  
+<https://colab.research.google.com/drive/1Ksca_p4XrZjeN0A6jT5aYN6ARvwFVSbY?usp=sharing>  <https://github.com/tomonori-masui/graph-neural-networks/blob/main/gnn_pyg_implementations.ipynb>  
 
 # 参考
 

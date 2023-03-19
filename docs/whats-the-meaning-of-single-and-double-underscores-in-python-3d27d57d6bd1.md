@@ -28,7 +28,7 @@ Clark Van Der Beken 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_me
 
 > 新到中？你可以每月订阅 5 美元，解锁我写的不限数量的关于编程、MLOps 和系统设计的文章，以帮助数据科学家(或 ML 工程师)编写更好的代码。
 
-[](https://medium.com/membership/@ahmedbesbes)  
+<https://medium.com/membership/@ahmedbesbes>  
 
 # **1 —单前导下划线:_foo**
 
@@ -138,12 +138,12 @@ Dunder 方法是保留的方法，您仍然可以覆盖它们。它们有特殊�
 
 如果你有兴趣学习更多关于 Python 技巧的知识，可以看看我以前的文章，或者至少是上一篇。
 
-[](/how-to-use-variable-number-of-arguments-in-python-functions-d3a49a9b7db6)  
+</how-to-use-variable-number-of-arguments-in-python-functions-d3a49a9b7db6>  
 
 今天就这些了。下次见！👋
 
 ## ***新到中？您可以每月订阅 5 美元，并解锁各种主题的无限文章(技术、设计、创业……)您可以通过点击我的推荐*** [***链接***](https://ahmedbesbes.medium.com/membership) 来支持我
 
-[](https://ahmedbesbes.medium.com/membership)  ![](img/719933aeb1e21185674dd0e657d46c59.png)
+<https://ahmedbesbes.medium.com/membership>  ![](img/719933aeb1e21185674dd0e657d46c59.png)
 
 照片由[卡斯滕·怀恩吉尔特](https://unsplash.com/@karsten116?utm_source=medium&utm_medium=referral)在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄

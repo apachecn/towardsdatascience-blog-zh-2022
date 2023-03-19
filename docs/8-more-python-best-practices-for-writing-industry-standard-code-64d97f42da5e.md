@@ -106,6 +106,6 @@ pip freeze > requirements.txt
 
 ## 参考
 
-[](/python-best-practices-for-writing-industry-standard-code-66b848783e0b) [## 编写行业标准代码的 Python 最佳实践
+</python-best-practices-for-writing-industry-standard-code-66b848783e0b> [## 编写行业标准代码的 Python 最佳实践
 
-towardsdatascience.com](/python-best-practices-for-writing-industry-standard-code-66b848783e0b) [](https://www.tutorialsteacher.com/python/public-private-protected-modifiers)  [](https://stackoverflow.com/questions/9916878/importing-modules-in-python-best-practice)  [](https://github.com/psf/black)  [](https://pypi.org/project/pylint/)      [](https://learnpython.com/blog/python-requirements-file/) 
+towardsdatascience.com](/python-best-practices-for-writing-industry-standard-code-66b848783e0b) <https://www.tutorialsteacher.com/python/public-private-protected-modifiers>  <https://stackoverflow.com/questions/9916878/importing-modules-in-python-best-practice>  <https://github.com/psf/black>  <https://pypi.org/project/pylint/>      <https://learnpython.com/blog/python-requirements-file/> 

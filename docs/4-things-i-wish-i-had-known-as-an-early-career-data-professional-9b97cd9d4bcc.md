@@ -34,7 +34,7 @@
 
 如果你不确定你想做什么，蒂姆·厄本有一个很好的练习。这将极大地有助于回答一些关于你自己和你下一步想做什么的深层问题。
 
-[](https://waitbutwhy.com/2018/04/picking-career.html)  
+<https://waitbutwhy.com/2018/04/picking-career.html>  
 
 关于这个话题，我要说的最后一件事是，如果你对目前的工作不满意，如果你只是想“做些不同的事情”，那么你也不太可能对下一份工作满意努力思考你想要走向什么，而不是你想要远离什么。
 
@@ -50,4 +50,4 @@
 
 [1]如果您想阅读一些不是专门针对数据科学但仍然非常有帮助的观点，我发现这两篇文章非常有帮助:
 
-[](https://hbr.org/2021/02/promotions-arent-just-about-your-skills-theyre-about-your-relationships)  [](https://hbr.org/2007/01/how-leaders-create-and-use-networks) 
+<https://hbr.org/2021/02/promotions-arent-just-about-your-skills-theyre-about-your-relationships>  <https://hbr.org/2007/01/how-leaders-create-and-use-networks> 

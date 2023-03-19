@@ -155,7 +155,7 @@ rf <- randomForest(formula = cnt ~ .,
 
 # *使用游侠图书馆*
 
-*我们可以在 R 中使用的另一个实现是[](https://cran.r-project.org/web/packages/ranger/ranger.pdf)**实现。这个库也实现了随机森林，但是以一种更快的方式——当你的维度(行或列)增长时，这将产生巨大的差异。***
+*我们可以在 R 中使用的另一个实现是<https://cran.r-project.org/web/packages/ranger/ranger.pdf>**实现。这个库也实现了随机森林，但是以一种更快的方式——当你的维度(行或列)增长时，这将产生巨大的差异。***
 
 ***这里是和以前完全一样的随机森林:***
 

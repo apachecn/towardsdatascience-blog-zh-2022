@@ -132,8 +132,8 @@
 
 如果你想看看这个实验中使用的代码，你可以在这个 GitHub 库中找到它。
 
-[](https://github.com/Prasad9/GaitDetection)  
+<https://github.com/Prasad9/GaitDetection>  
 
 你也可以看看我们以前的文章，解释高斯混合模型和期望最大化的算法。
 
-[](/demystifying-gaussian-mixture-models-and-expectation-maximization-a66575deaea6) 
+</demystifying-gaussian-mixture-models-and-expectation-maximization-a66575deaea6> 

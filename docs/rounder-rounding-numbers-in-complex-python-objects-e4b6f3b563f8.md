@@ -120,4 +120,4 @@ rounder:在 Python 中舍入数字从未如此简单。照片由[米卡·鲍梅�
 
 # *资源*
 
-*[](https://github.com/nyggus/rounder)    [](https://realpython.com/copying-python-objects/)  [](/does-python-still-need-the-map-function-96787ea1fb05) *
+*<https://github.com/nyggus/rounder>    <https://realpython.com/copying-python-objects/>  </does-python-still-need-the-map-function-96787ea1fb05> *

@@ -122,6 +122,6 @@
 
 我希望以上讨论让您对变量变换和生成新的统计分布和相应的密度函数有了很好的理解。本文的 pdf 副本可以从[https://github . com/rahulbhadani/medium . com/raw/master/05 _ 25 _ 2022/Variable % 20 transformation % 20 to % 20 generate % 20 new % 20 distributions . pdf](https://github.com/rahulbhadani/medium.com/raw/master/05_25_2022/Variable%20Transformation%20to%20Generate%20New%20Distributions.pdf)下载。
 
-[](/stat-stories-multivariate-transformation-for-statistical-distributions-7077a374b3b4)  
+</stat-stories-multivariate-transformation-for-statistical-distributions-7077a374b3b4>  
 
 > 如果你喜欢我的文章并想支持我的内容，我请求你通过[https://rahulbhadani.medium.com/membership](https://rahulbhadani.medium.com/membership)订阅 Medium。

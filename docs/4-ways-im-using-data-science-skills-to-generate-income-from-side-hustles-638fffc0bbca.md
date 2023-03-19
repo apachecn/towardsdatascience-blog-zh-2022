@@ -40,7 +40,7 @@
 
 数据科学领域的一些中型作者一个月可以赚几千美元。例如，[的吉姆·克莱德·蒙赫](https://medium.com/u/819323b399ac?source=post_page-----638fffc0bbca--------------------------------)在今年 7 月和 8 月赚了 2000 多美元。如果你想得到启发，可以点击下面的链接查看他的总结:
 
-[](https://medium.com/illumination/august-2022-stats-and-earnings-report-6cbdf1f7ea52)  
+<https://medium.com/illumination/august-2022-stats-and-earnings-report-6cbdf1f7ea52>  
 
 > 如果你想尝试在媒体上写作，并想获得所有文章，那么你可以使用 [**我的链接**](https://andymcdonaldgeo.medium.com/membership) 这里**注册。**
 
@@ -103,7 +103,7 @@
 
 如果你想了解数据科学中心，你可以在下面的文章中找到它的详细信息。
 
-[](https://medium.com/illumination/using-notion-for-data-science-777bd04870fe)  
+<https://medium.com/illumination/using-notion-for-data-science-777bd04870fe>  
 
 # 联盟营销
 
@@ -127,7 +127,7 @@
 
 当推广你的链接时，重要的是要声明这些链接是附属链接，你可以从中赚取一小笔佣金。我强烈推荐阅读下面的文章来理解在 Medium 上使用联盟链接的一些复杂性。
 
-[](https://medium.com/feedium/can-you-use-amazon-affiliate-links-in-your-medium-articles-7334f5212046)  
+<https://medium.com/feedium/can-you-use-amazon-affiliate-links-in-your-medium-articles-7334f5212046>  
 
 # 未来领域
 

@@ -177,12 +177,12 @@ dict_items([('Score1', 12), ('Score2', 53), ('Score3', 74), ('Score4', 62), ('Sc
 
 这是探索数据结构及其在 Python 中的使用和实现系列的第四篇文章。如果您错过了列表、元组和集的前三个，您可以在以下链接中找到它们:
 
-[](/a-complete-guide-to-lists-in-python-d049cf3760d4)  [](/a-complete-guide-to-sets-in-python-99dc595b633d)  [](/a-complete-guide-to-tuples-in-python-af76241e8b59)  
+</a-complete-guide-to-lists-in-python-d049cf3760d4>  </a-complete-guide-to-sets-in-python-99dc595b633d>  </a-complete-guide-to-tuples-in-python-af76241e8b59>  
 
 本系列的后续文章将涵盖 Python 中的链表、栈、队列和图形。为了确保您将来不会错过任何内容，请注册以便在发布时收到电子邮件通知:
 
-[](https://philip-wilkinson.medium.com/subscribe)  
+<https://philip-wilkinson.medium.com/subscribe>  
 
 如果你喜欢你所阅读的内容，并且还不是一个媒体成员，考虑通过使用我下面的推荐代码注册来支持我自己和这个平台上其他了不起的作者:
 
-[](https://philip-wilkinson.medium.com/membership)  [](/a-complete-data-science-curriculum-for-beginners-825a39915b54)  [](/an-introduction-to-sql-for-data-scientists-e3bb539decdf)  [](/git-and-github-basics-for-data-scientists-b9fd96f8a02a) 
+<https://philip-wilkinson.medium.com/membership>  </a-complete-data-science-curriculum-for-beginners-825a39915b54>  </an-introduction-to-sql-for-data-scientists-e3bb539decdf>  </git-and-github-basics-for-data-scientists-b9fd96f8a02a> 

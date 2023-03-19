@@ -141,7 +141,7 @@ model **=** tf**.**keras**.**Model(inputs**=**baseModel**.**input,outputs**=**x)
 
 **正如您在代码中看到的，该模型建立在[***mobilenetv 3 large***](/everything-you-need-to-know-about-mobilenetv3-and-its-comparison-with-previous-versions-a5d5e5a6eeaa)*预训练模型的基础上，没有其原始的最终*密集层，而是由一个从全局平均池操作接收数据的 256 个神经元的隐藏层、一个用于固定内部的 [***批处理规范化***](https://youtu.be/DtEq44FTPM4) 层所取代之后，最后一层包含由***【num classes】***变量确定的输出类一样多的神经元。注意，我们需要添加[****正则化****](/l1-and-l2-regularization-methods-ce25e7fc831c) *来防止过度拟合，导致缺乏泛化能力。*****
 
-**除了迁移学习，有时解冻预训练卷积模型的最后几个卷积层也是合适的。这种做法被称为[](https://youtu.be/5T-iXNNiwIs)**微调，提高了模型的整体性能。这里只解冻最后六层*(可以训练)。*****
+**除了迁移学习，有时解冻预训练卷积模型的最后几个卷积层也是合适的。这种做法被称为<https://youtu.be/5T-iXNNiwIs>**微调，提高了模型的整体性能。这里只解冻最后六层*(可以训练)。*****
 
 ```
 **model**.**compile(optimizer**=**tf**.**keras**.**optimizers**.**Adam(learning_rate**=**0.00125), loss**=**tf**.**keras**.**losses**.**SparseCategoricalCrossentropy(from_logits**=True**), metrics**=**['accuracy'])

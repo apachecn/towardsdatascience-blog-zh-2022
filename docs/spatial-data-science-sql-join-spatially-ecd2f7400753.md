@@ -36,7 +36,7 @@ SQL 连接示例(来源:作者，2022)
 
 在 postgresql 中，安装 postgis 扩展模块时会启用空间数据框架功能。一旦安装完毕，我们就可以访问空间数据函数和构造函数了。我们来构造一些数据:`citizens`和`city`。
 
-[](https://postgis.net/)  
+<https://postgis.net/>  
 
 ## 构建样本数据
 
@@ -104,7 +104,7 @@ citizens(name,geom) AS
 
 您可以在 PostGIS 的空间关系部分了解有关空间关系的更多信息。
 
-[](http://postgis.net/workshops/postgis-intro/spatial_relationships.html)  
+<http://postgis.net/workshops/postgis-intro/spatial_relationships.html>  
 
 # 空间连接 SQL 空间连接
 
@@ -157,8 +157,8 @@ PowerQuery 高级编辑器(来源:作者，2022)
 
 本文是我创作的*空间数据科学系列*的一部分。查看元文章。
 
-[](https://perkotaan.medium.com/spatial-data-science-the-series-81344a3ead29)  
+<https://perkotaan.medium.com/spatial-data-science-the-series-81344a3ead29>  
 
 我的 github 账号里有一些算法。查看一些公共存储库！
 
-[](https://github.com/sutanmufti) 
+<https://github.com/sutanmufti> 

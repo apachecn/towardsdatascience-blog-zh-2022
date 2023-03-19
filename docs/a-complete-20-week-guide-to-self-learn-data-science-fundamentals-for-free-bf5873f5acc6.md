@@ -42,7 +42,7 @@
 
 下面是一个免费的互动平台，可以开始学习 Python。
 
-[](https://www.learnpython.org)  
+<https://www.learnpython.org>  
 
 # 第 4 周到第 6 周—处理数据和操作
 
@@ -50,7 +50,7 @@
 
 熊猫图书馆提供了广泛的功能，使得数据分析变得非常容易。如果你是 Python 或 Pandas 的新手，那么从 PyData 的这个简单的 10 分钟教程开始吧。
 
-[](https://pandas.pydata.org/docs/user_guide/10min.html)  
+<https://pandas.pydata.org/docs/user_guide/10min.html>  
 
 一旦你熟悉了基本的功能，这里有一个来自 Kaggle 的简短课程。这将有助于通过数据集学习熊猫。
 
@@ -80,7 +80,7 @@ NumPy 是一个能够在数组上高效工作的库。很多时候我们需要�
 
 如果你是一个绝对的初学者，那么下面的文章将有助于更好地理解 NumPy，所执行的操作，以及可视化输入输出的流行功能。
 
-[](https://numpy.org/devdocs/user/absolute_beginners.html)  [](https://betterprogramming.pub/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d)  
+<https://numpy.org/devdocs/user/absolute_beginners.html>  <https://betterprogramming.pub/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d>  
 
 在许多数据科学项目中，我们会处理数字数据。非数字属性通常也转换成数字数据。因此，对于热衷于数据科学的人来说，学习使用 NumPy 是至关重要的。了解 NumPy 的关键主题是，
 
@@ -109,7 +109,7 @@ NumPy 是一个能够在数组上高效工作的库。很多时候我们需要�
 
 下面的文章可以帮助你找到一条使用 Python 学习可视化的道路。
 
-[](/how-to-do-visualization-using-python-from-scratch-651304b5ee7a)  
+</how-to-do-visualization-using-python-from-scratch-651304b5ee7a>  
 
 这里有一个来自 Kaggle 的简短课程，可以帮助你学习可视化。
 
@@ -132,7 +132,7 @@ NumPy 是一个能够在数组上高效工作的库。很多时候我们需要�
 
 Khan Academy 的以下课程是一个很好的数据科学统计学入门课程
 
-[](https://www.khanacademy.org/math/statistics-probability)  
+<https://www.khanacademy.org/math/statistics-probability>  
 
 # 第 13 至 15 周—学习 SQL
 
@@ -140,7 +140,7 @@ Khan Academy 的以下课程是一个很好的数据科学统计学入门课程
 
 那些来自非编程背景的人需要专注并建立 SQL 技能。那些在学术上接触过 SQL 的人也需要更多的实践来更好地理解关键概念。在现实生活中，数据可能以不同的粒度出现在不同的表中。只有具备良好的 SQL 技能，您才能将数据转换成能够回答您的问题的格式。通过处理数据来学习 SQL 的一个好平台是，
 
-[](https://mode.com/sql-tutorial/)  
+<https://mode.com/sql-tutorial/>  
 
 如果你正在寻找一个免费的选择，那么 Kaggle 和 [Datacamp](https://www.datacamp.com/courses/introduction-to-sql) 提供了一个非常好的免费学习 SQL 的课程。以下是课程的链接
 
@@ -162,11 +162,11 @@ Khan Academy 的以下课程是一个很好的数据科学统计学入门课程
 
 为了更好地理解数据分析中涉及的不同步骤，请阅读下面的文章。
 
-[](https://careerfoundry.com/en/blog/data-analytics/the-data-analysis-process-step-by-step/)  
+<https://careerfoundry.com/en/blog/data-analytics/the-data-analysis-process-step-by-step/>  
 
 了解探索性数据分析中常用的技术。此外，要知道它们是如何有用的。查看下面的 Kaggle 笔记本，
 
-[](https://www.kaggle.com/kashnitsky/topic-1-exploratory-data-analysis-with-pandas)  
+<https://www.kaggle.com/kashnitsky/topic-1-exploratory-data-analysis-with-pandas>  
 
 在彻底的数据分析之后，下一步是特征工程。像其他任何东西一样，这些数据都不会是完美的。它将有许多问题，并且可能不是为某些算法或模型准备的格式。在这些情况下，我们需要使用合适的转换技术。下面是一个很好的特征工程入门课程，
 
@@ -191,7 +191,7 @@ Khan Academy 的以下课程是一个很好的数据科学统计学入门课程
 
 如果你在尝试自学数据科学，寻找路线图。这是我根据 100 多个小时的研究准备的路线图。这个路线图有一个精选的流行免费资源列表，用于学习数据科学中的重要概念，它包括链接分配问题、面试问题和其他相关阅读材料
 
-[](https://rsharankumar.gumroad.com/l/yufkcc)  
+<https://rsharankumar.gumroad.com/l/yufkcc>  
 
 ## 记住这是一次长途旅行
 
@@ -209,7 +209,7 @@ Khan Academy 的以下课程是一个很好的数据科学统计学入门课程
 
 建立一个作品集网站非常简单。你不需要任何先前的网站开发经验来为你建立一个组合网站。如果你正在寻找为自己建立一个投资组合网站。查看下面的文章，它解释了为你建立一个的步骤。
 
-[](/how-to-create-a-stunning-personal-portfolio-website-for-free-50ec15b059dd)  
+</how-to-create-a-stunning-personal-portfolio-website-for-free-50ec15b059dd>  
 
 # 保持联系
 

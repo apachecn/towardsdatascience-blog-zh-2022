@@ -111,7 +111,7 @@ tfserving_boston Docker 容器正在运行
 
 ## 结论
 
-[](https://github.com/RamVegiraju/TF-Serving-Demo)  
+<https://github.com/RamVegiraju/TF-Serving-Demo>  
 
 有关本示例的完整代码，请访问上面的链接。我希望这篇文章是对 TensorFlow 服务的良好介绍。对于数据科学家来说，理解机器学习的基础设施和托管方面变得比以往任何时候都更加重要。有很多主机选项，我在下面附上了我一直在做的 SageMaker 系列，以及一些其他资源，当我开始使用模型主机和推理时，这些资源也帮助了我。
 

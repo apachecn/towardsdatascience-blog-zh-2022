@@ -12,7 +12,7 @@
 
 去年，我写过一篇关于如何在你的 Apple Silicon Mac 上安装 TensorFlow 的文章:
 
-[](/installing-tensorflow-on-the-m1-mac-410bb36b776) [## 在 M1 Mac 上安装 TensorFlow
+</installing-tensorflow-on-the-m1-mac-410bb36b776> [## 在 M1 Mac 上安装 TensorFlow
 
 towardsdatascience.com](/installing-tensorflow-on-the-m1-mac-410bb36b776) 
 
@@ -182,7 +182,7 @@ $ **conda install -c apple tensorflow-deps --force-reinstall**
 $ **python -m pip install tensorflow-macos**
 ```
 
-[](https://weimenglee.medium.com/membership)  
+<https://weimenglee.medium.com/membership>  
 
 # 摘要
 

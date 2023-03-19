@@ -34,7 +34,7 @@
 
 每台计算机都有某种外壳，有些有多个外壳。它们之间的语法可以不同，但基本上它们执行相同的过程。
 
-最广为人知的 shell 是 **Bourne Again Shell (Bash)** ，它通常是 Linux 和 MacOS 等类似 Unix 的[](https://en.wikipedia.org/wiki/Unix-like)**系统的默认 Shell。然而，MacOS 最近在 2019 年将其默认设置更改为 [**Z-Shell**](https://en.wikipedia.org/wiki/Z_shell) ，这只是 Bash 的一个扩展，因此具有许多相同的语法和功能。**
+最广为人知的 shell 是 **Bourne Again Shell (Bash)** ，它通常是 Linux 和 MacOS 等类似 Unix 的<https://en.wikipedia.org/wiki/Unix-like>**系统的默认 Shell。然而，MacOS 最近在 2019 年将其默认设置更改为 [**Z-Shell**](https://en.wikipedia.org/wiki/Z_shell) ，这只是 Bash 的一个扩展，因此具有许多相同的语法和功能。**
 
 # **基本命令和功能**
 
@@ -136,6 +136,6 @@
 *   ****[*LinkedIn*](https://www.linkedin.com/in/egor-howell-092a721b3/)*👔*****
 *   *****[*碎碎念*](https://twitter.com/EgorHowell) 🖊*****
 *   ****[*github*](https://github.com/egorhowell)*🖥*****
-*   *****[](https://www.kaggle.com/egorphysics)**🏅*******
+*   *****<https://www.kaggle.com/egorphysics>**🏅*******
 
 > *****(所有表情符号都是由 [OpenMoji](https://openmoji.org/) 设计的——开源的表情符号和图标项目。执照: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)*****

@@ -118,4 +118,4 @@
 
 # *参考资料和进一步阅读:*
 
-*[](/robust-experiment-design-244f835c6874)  [](https://arxiv.org/abs/2106.07263)  [](https://www.semanticscholar.org/paper/Improving-the-sensitivity-of-online-controlled-by-Deng-Xu/c65d71c42dedb3329c2b81499950bf12786a3e8e)    [](https://www.jstatsoft.org/article/view/v009i08)   *
+*</robust-experiment-design-244f835c6874>  <https://arxiv.org/abs/2106.07263>  <https://www.semanticscholar.org/paper/Improving-the-sensitivity-of-online-controlled-by-Deng-Xu/c65d71c42dedb3329c2b81499950bf12786a3e8e>    <https://www.jstatsoft.org/article/view/v009i08>   *

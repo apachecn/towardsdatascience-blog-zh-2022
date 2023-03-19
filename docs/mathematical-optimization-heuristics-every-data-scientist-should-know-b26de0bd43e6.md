@@ -178,4 +178,4 @@
 
 ## 有关系的
 
-[](/four-ways-to-combine-mathematical-optimization-and-machine-learning-8cb874276254)  [](/how-to-handle-optimization-problems-daf97b3c248c)  [](/choosing-fast-with-dynamic-programming-b6916da543f4) 
+</four-ways-to-combine-mathematical-optimization-and-machine-learning-8cb874276254>  </how-to-handle-optimization-problems-daf97b3c248c>  </choosing-fast-with-dynamic-programming-b6916da543f4> 

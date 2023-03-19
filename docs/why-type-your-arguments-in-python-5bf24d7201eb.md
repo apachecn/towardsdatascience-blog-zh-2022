@@ -48,7 +48,7 @@ printer(x : float)
 
 我输入参数的最后一个原因是，通过函数装饰器，它使函数更加元可编程。一个很好的例子就是多调度模块，它实际上是一个非常棒的模块。如果您想了解更多关于该模块的信息，我实际上写了一整篇文章，以下是链接:
 
-[](/flawless-parametric-polymorphism-in-python-with-multipledispatch-f26b75d69c5f)  
+</flawless-parametric-polymorphism-in-python-with-multipledispatch-f26b75d69c5f>  
 
 > 没有什么比多态更让我开心了。
 

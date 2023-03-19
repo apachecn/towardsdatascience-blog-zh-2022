@@ -40,7 +40,7 @@
 
 这个问题本质上和可解释的机器学习或者可解释的 AI 有关。如果你想了解更多关于可解释机器学习的知识，这里有一本由 Cristoph Molnar 写的很棒的书。
 
-[](https://christophm.github.io/interpretable-ml-book/)  
+<https://christophm.github.io/interpretable-ml-book/>  
 
 > 问题 2:什么是机器学习中的偏差和方差？
 
@@ -68,8 +68,8 @@
 
 我强烈建议思考你自己的问题，因为这既是一个很好的思维锻炼，也是一个学习的机会。
 
-*你可以成为* [*媒介会员*](https://sonery.medium.com/membership) *解锁我的全部写作权限，外加其余媒介。如果你已经是了，别忘了订阅*[](https://sonery.medium.com/subscribe)**如果你想在我发表新文章时收到电子邮件。**
+*你可以成为* [*媒介会员*](https://sonery.medium.com/membership) *解锁我的全部写作权限，外加其余媒介。如果你已经是了，别忘了订阅*<https://sonery.medium.com/subscribe>**如果你想在我发表新文章时收到电子邮件。**
 
-*[](https://sonery.medium.com/membership)  
+*<https://sonery.medium.com/membership>  
 
 感谢您的阅读。如果您有任何反馈，请告诉我。*

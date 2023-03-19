@@ -50,4 +50,4 @@ ML-Collage [40]:作者的数字。|📝[论文](https://arxiv.org/abs/2011.06505
 
 这是这个月的🤗让我知道你最喜欢的论文是什么。如果你想获得一些每周的 ML 拼贴画输入，查看 Twitter 标签 [#mlcollage](https://twitter.com/hashtag/mlcollage) ，你也可以在最后的摘要中看到更多的拼贴画📖博客帖子:
 
-[](/four-deep-learning-papers-to-read-in-december-2021-e28f31e6aab4) 
+</four-deep-learning-papers-to-read-in-december-2021-e28f31e6aab4> 

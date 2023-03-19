@@ -106,8 +106,8 @@ WhyLabs 可以轻松存储和监控 whylogs 创建的配置文件，以检测机
 
 我还要感谢本文的合著者塞奇·艾略特(Sage Elliott)和与我们合著了最初的[笔记本](https://colab.research.google.com/drive/1BnugKMNIChFugMafvgI0fE9SlAQ5EZ72?usp=sharing#scrollTo=ocxaBmVBRQsM)的[丹尼尔·费杜洛夫(Daniil Fedulov)](https://www.linkedin.com/in/daniil-fedulov-17949479/)。
 
-*PS:我正在 Medium 和*[***aboutdatablog.com***](https://www.aboutdatablog.com/)*上撰写以简单易懂的方式解释基本数据科学概念的文章。你可以订阅我的* [***邮件列表***](https://medium.com/subscribe/@konkiewicz.m) *在我每次写新文章的时候得到通知。如果你还不是中等会员，你可以在这里加入*[](https://medium.com/@konkiewicz.m/membership)**。**
+*PS:我正在 Medium 和*[***aboutdatablog.com***](https://www.aboutdatablog.com/)*上撰写以简单易懂的方式解释基本数据科学概念的文章。你可以订阅我的* [***邮件列表***](https://medium.com/subscribe/@konkiewicz.m) *在我每次写新文章的时候得到通知。如果你还不是中等会员，你可以在这里加入*<https://medium.com/@konkiewicz.m/membership>**。**
 
 *下面还有一些你可能喜欢的帖子*
 
-*[](/visual-question-answering-challenge-51c4623ddfa5)  [](/top-8-magic-commands-in-jupyter-notebook-c1582e813560)  [](/how-to-do-data-labeling-versioning-and-management-for-ml-ba0345e7988)  [](/jupyter-notebook-autocompletion-f291008c66c) *
+*</visual-question-answering-challenge-51c4623ddfa5>  </top-8-magic-commands-in-jupyter-notebook-c1582e813560>  </how-to-do-data-labeling-versioning-and-management-for-ml-ba0345e7988>  </jupyter-notebook-autocompletion-f291008c66c> *

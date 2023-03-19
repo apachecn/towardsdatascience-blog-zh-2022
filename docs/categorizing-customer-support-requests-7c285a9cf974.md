@@ -102,8 +102,8 @@
 
 如果你想了解这个项目的更多细节，请观看 Natasha 的这个[演示](https://www.youtube.com/watch?v=dlloWgAAjIA&t=43s)。如果你想了解更多关于数据标注管道的信息，请加入这个数据赋能社区
 
-*PS:我正在 Medium 和*[***aboutdatablog.com***](https://www.aboutdatablog.com/)*上撰写深入浅出地解释基本数据科学概念的文章。你可以订阅我的* [***邮件列表***](https://medium.com/subscribe/@konkiewicz.m) *以便在我每次写新文章时得到通知。如果你还不是中等会员，你可以在这里加入*[](https://medium.com/@konkiewicz.m/membership)**。**
+*PS:我正在 Medium 和*[***aboutdatablog.com***](https://www.aboutdatablog.com/)*上撰写深入浅出地解释基本数据科学概念的文章。你可以订阅我的* [***邮件列表***](https://medium.com/subscribe/@konkiewicz.m) *以便在我每次写新文章时得到通知。如果你还不是中等会员，你可以在这里加入*<https://medium.com/@konkiewicz.m/membership>**。**
 
 *下面还有一些你可能喜欢的帖子*
 
-*[](/moderation-pipeline-for-user-generated-content-59e7f3c320e0)  [](/human-in-the-loop-in-machine-translation-systems-bdf3fe82bfa3)  [](/how-to-successfully-add-large-data-sets-to-google-drive-130beb320f1a) *
+*</moderation-pipeline-for-user-generated-content-59e7f3c320e0>  </human-in-the-loop-in-machine-translation-systems-bdf3fe82bfa3>  </how-to-successfully-add-large-data-sets-to-google-drive-130beb320f1a> *

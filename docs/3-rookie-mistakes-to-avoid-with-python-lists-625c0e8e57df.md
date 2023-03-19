@@ -64,4 +64,4 @@ For 循环为构造列表提供了一个简单明了、文档完备的解决方�
 
 感谢您阅读我的文章。如果你喜欢我的内容，请考虑关注我。此外，欢迎所有反馈。我总是渴望学习新的或更好的做事方法。请随时留下您的评论或联系我 katyhagerty19@gmail.com。
 
-[](https://medium.com/@katyhagerty19/membership) 
+<https://medium.com/@katyhagerty19/membership> 

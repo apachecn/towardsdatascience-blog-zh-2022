@@ -89,6 +89,6 @@ $ pipreqs /home/project/location
 
 我写关于 Python 和数据科学的文章。这是我写的其他一些标题。
 
-[](https://levelup.gitconnected.com/5-new-features-in-python-3-11-that-makes-it-the-coolest-new-release-in-2022-c9df658ef813)  [](/7-must-read-books-for-data-scientists-in-2022-aa87c0f9bffb)  [](/creating-multipage-applications-using-streamlit-efficiently-b58a58134030) [## 使用 Streamlit 创建多页面应用程序(高效！)
+<https://levelup.gitconnected.com/5-new-features-in-python-3-11-that-makes-it-the-coolest-new-release-in-2022-c9df658ef813>  </7-must-read-books-for-data-scientists-in-2022-aa87c0f9bffb>  </creating-multipage-applications-using-streamlit-efficiently-b58a58134030> [## 使用 Streamlit 创建多页面应用程序(高效！)
 
 towardsdatascience.com](/creating-multipage-applications-using-streamlit-efficiently-b58a58134030)

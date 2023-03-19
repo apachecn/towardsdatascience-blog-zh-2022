@@ -150,7 +150,7 @@ para_grid 参数界定了模型的超参数搜索空间，并定义了数据类�
 
 如果你想了解更多关于 sklearn-genetic-opt 的信息，你可以查看这里的文档:
 
-[](https://sklearn-genetic-opt.readthedocs.io/en/stable/index.html) [## sklearn genetic opt 文档
+<https://sklearn-genetic-opt.readthedocs.io/en/stable/index.html> [## sklearn genetic opt 文档
 
 ### Sklearn-genetic-opt 使用 deap 包中的进化算法来选择一组超参数…](https://sklearn-genetic-opt.readthedocs.io/en/stable/index.html) 
 

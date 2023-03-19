@@ -238,4 +238,4 @@ sns.relplot(data = ti, x = 'age', y = "fare", hue = "alive", col = "pclass", hei
 
 ## 更多阅读
 
-[](/an-ultimate-cheatsheet-of-data-visualization-in-seaborn-be8ed13a3697)  [](/exploratory-data-analysis-with-some-cool-visualizations-in-pythons-matplotlib-and-seaborn-library-99dde20d98bf)  [](https://pub.towardsai.net/data-analysis-91a38207c92b)  [](/30-very-useful-pandas-functions-for-everyday-data-analysis-tasks-f1eae16409af)  [](/chi-square-test-for-correlation-test-in-details-manual-and-python-implementation-472ae5c4b15f)  [](https://medium.datadriveninvestor.com/what-is-a-b-testing-how-to-perform-an-a-b-testing-892cc8f35cbf) 
+</an-ultimate-cheatsheet-of-data-visualization-in-seaborn-be8ed13a3697>  </exploratory-data-analysis-with-some-cool-visualizations-in-pythons-matplotlib-and-seaborn-library-99dde20d98bf>  <https://pub.towardsai.net/data-analysis-91a38207c92b>  </30-very-useful-pandas-functions-for-everyday-data-analysis-tasks-f1eae16409af>  </chi-square-test-for-correlation-test-in-details-manual-and-python-implementation-472ae5c4b15f>  <https://medium.datadriveninvestor.com/what-is-a-b-testing-how-to-perform-an-a-b-testing-892cc8f35cbf> 

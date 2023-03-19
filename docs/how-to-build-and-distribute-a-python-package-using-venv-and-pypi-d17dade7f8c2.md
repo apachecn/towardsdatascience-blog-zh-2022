@@ -12,7 +12,7 @@ Python 是一个开源平台，建立在无数付费和自由开发者的基础�
 
 # 第一步:注册 pypi.org 账户
 
-报名账号:[](https://pypi.org/)****。**Python 包索引(PyPI)是 Python 编程语言的软件仓库**
+报名账号:<https://pypi.org/>****。**Python 包索引(PyPI)是 Python 编程语言的软件仓库**
 
 # **步骤 2:升级 pip 版本**
 

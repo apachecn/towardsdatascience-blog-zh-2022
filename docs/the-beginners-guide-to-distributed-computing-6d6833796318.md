@@ -176,7 +176,7 @@ df.visualize()
 
 这显然是**而不是**一个令人尴尬的并行问题:图中的一些步骤依赖于前面步骤的结果。这并不意味着问题根本不能并行化；Dask 仍然可以通过将您的数据划分到**分区来并行化*部分的*计算。**
 
-[](https://coiled.io/blog/common-dask-mistakes/)  
+<https://coiled.io/blog/common-dask-mistakes/>  
 
 # 3.划分
 
@@ -328,4 +328,4 @@ ddf = dd.read_parquet(
 
 **请考虑成为支持写作社区的媒体成员:**
 
-**[](https://richardpelgrim.medium.com/membership) **
+**<https://richardpelgrim.medium.com/membership> **

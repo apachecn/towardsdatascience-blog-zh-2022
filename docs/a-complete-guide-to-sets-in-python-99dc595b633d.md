@@ -173,12 +173,12 @@ fruits.symmetric_difference_update(companies)print(fruits)#out:
 
 这是探索数据结构及其在 Python 中的使用和实现系列的第二篇文章。如果您错过了 Python 中的第一个列表，可以在以下链接中找到:
 
-[](/a-complete-guide-to-lists-in-python-d049cf3760d4)  
+</a-complete-guide-to-lists-in-python-d049cf3760d4>  
 
 未来的帖子将涵盖 Python 中的字典、链表、栈、队列和图形。为了确保您将来不会错过任何内容，请注册以便在发布时收到电子邮件通知:
 
-[](https://philip-wilkinson.medium.com/subscribe)  
+<https://philip-wilkinson.medium.com/subscribe>  
 
 如果你喜欢你所阅读的内容，并且还不是一个媒体成员，考虑通过使用我下面的推荐代码注册来支持我自己和这个平台上的了不起的作者们:
 
-[](https://philip-wilkinson.medium.com/membership)  [](/an-introduction-to-sql-for-data-scientists-e3bb539decdf)  [](/git-and-github-basics-for-data-scientists-b9fd96f8a02a)  [](/london-convenience-store-classification-using-k-means-clustering-70c82899c61f) 
+<https://philip-wilkinson.medium.com/membership>  </an-introduction-to-sql-for-data-scientists-e3bb539decdf>  </git-and-github-basics-for-data-scientists-b9fd96f8a02a>  </london-convenience-store-classification-using-k-means-clustering-70c82899c61f> 

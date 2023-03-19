@@ -96,8 +96,8 @@ plt.show()
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership)  
+<https://gmyrianthous.medium.com/membership>  
 
 **相关文章你可能也喜欢**
 
-[](/legend-outside-the-plot-matplotlib-5d9c1caa9d31)  [](/plot-logarithmic-axes-matplotlib-python-bb8533f430c0)  [](/save-plots-matplotlib-1a16b3432d8a) 
+</legend-outside-the-plot-matplotlib-5d9c1caa9d31>  </plot-logarithmic-axes-matplotlib-python-bb8533f430c0>  </save-plots-matplotlib-1a16b3432d8a> 

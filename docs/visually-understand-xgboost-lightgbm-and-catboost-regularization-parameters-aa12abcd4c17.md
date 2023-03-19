@@ -8,7 +8,7 @@
 
 > **更新**:发现我关于渐变提升的新书[实用渐变提升](https://www.amazon.com/dp/B0BJ82S916)。这是用 python 中的许多例子对渐变增强的深入探究。
 
-[](https://www.amazon.com/dp/B0BJ82S916) [## 实用的渐变增强:深入探究 Python 中的渐变增强
+<https://www.amazon.com/dp/B0BJ82S916> [## 实用的渐变增强:深入探究 Python 中的渐变增强
 
 ### 这本书的梯度推进方法是为学生，学者，工程师和数据科学家谁希望…](https://www.amazon.com/dp/B0BJ82S916) 
 
@@ -111,7 +111,7 @@
 
 现在让我们更深入地了解一下`lambda`。你可能已经注意到，或者已经知道，如果你已经读过我以前的文章:
 
-[](/diy-xgboost-library-in-less-than-200-lines-of-python-69b6bf25e7d9)  
+</diy-xgboost-library-in-less-than-200-lines-of-python-69b6bf25e7d9>  
 
 `lambda`缩放平方权重的和`w_j`，因此在相对于`w_j`求导时仍然出现。
 

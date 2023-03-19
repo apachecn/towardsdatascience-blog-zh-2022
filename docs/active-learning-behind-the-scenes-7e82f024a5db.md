@@ -146,6 +146,6 @@
 
 **那么让我们一起来看看幕后，让我们来改进我们的模型吧！**
 
-[](/how-to-start-being-an-active-learner-8d311d68fb70)  [](/towards-a-fully-automated-active-learning-pipeline-29b8f4eb7d73)  
+</how-to-start-being-an-active-learner-8d311d68fb70>  </towards-a-fully-automated-active-learning-pipeline-29b8f4eb7d73>  
 
 想听更多我的作品吗？在 [Linkedin](https://www.linkedin.com/in/sbiham/) 上关注我，并访问我的[网站](https://www.sbiham.com/)。

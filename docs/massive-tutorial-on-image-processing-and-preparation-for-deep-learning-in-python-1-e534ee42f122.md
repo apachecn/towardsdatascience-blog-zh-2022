@@ -18,11 +18,11 @@
 
 > **这是一篇由两部分组成的文章。你可以在这个之后在这里阅读第二部分[。最后还有一个链接。](/massive-tutorial-on-image-processing-and-preparation-for-deep-learning-in-python-2-14816263b4a5)**
 
-**[](https://ibexorigin.medium.com/membership)  
+**<https://ibexorigin.medium.com/membership>  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex)  
+<https://alphasignal.ai/?referrer=Bex>  
 
 # 基础
 
@@ -306,12 +306,12 @@ chickens = imread("images/chickens.jpg")
 
 > 你可以在这里阅读帖子的下一部分[。](/massive-tutorial-on-image-processing-and-preparation-for-deep-learning-in-python-2-14816263b4a5)
 
-[](https://ibexorigin.medium.com/membership)  
+<https://ibexorigin.medium.com/membership>  
 
 **或者订阅我的邮件列表:**
 
-[](https://ibexorigin.medium.com/subscribe)  
+<https://ibexorigin.medium.com/subscribe>  
 
 **你可以在**[**LinkedIn**](https://twitter.com/BexTuychiev)**或**[**Twitter**](https://twitter.com/BexTuychiev)**上联系我，友好地聊一聊所有的事情数据。或者你可以读我的另一个故事。这些怎么样:**
 
-[](/good-bye-pandas-meet-terality-its-evil-twin-with-identical-syntax-455b42f33a6d)  [](/github-copilot-crushes-data-science-and-ml-tasks-ultimate-review-c8bcbefb928a)  [](/10-minute-guide-to-julia-for-die-hard-python-lovers-a2fcf7dcb860)  [](/6-pandas-mistakes-that-silently-tell-you-are-a-rookie-b566a252e60d)  [](/8-booming-data-science-libraries-you-must-watch-out-in-2022-cec2dbb42437) **
+</good-bye-pandas-meet-terality-its-evil-twin-with-identical-syntax-455b42f33a6d>  </github-copilot-crushes-data-science-and-ml-tasks-ultimate-review-c8bcbefb928a>  </10-minute-guide-to-julia-for-die-hard-python-lovers-a2fcf7dcb860>  </6-pandas-mistakes-that-silently-tell-you-are-a-rookie-b566a252e60d>  </8-booming-data-science-libraries-you-must-watch-out-in-2022-cec2dbb42437> **

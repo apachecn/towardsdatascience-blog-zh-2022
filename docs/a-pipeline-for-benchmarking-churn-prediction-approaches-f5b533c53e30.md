@@ -26,7 +26,7 @@ C 客户流失预测是营销中非常常见的数据科学用例。这个想法
 ## 你在这篇文章中找不到的:
 
 *   基准测试结果。他们值得拥有自己的文章。
-*   **文章现在可以在这里找到**[](/findings-from-benchmarking-churn-prediction-methods-95940683523d)****。****
+*   **文章现在可以在这里找到**</findings-from-benchmarking-churn-prediction-methods-95940683523d>****。****
 *   **对所用模型和管道功能的详细解释。**
 
 > ****请注意** :

@@ -66,7 +66,7 @@ Holopy 提供了不同的球体、颜色、参数和理论来重建全息图，�
 
 **这些预测非常激动人心，值得期待。**
 
-***PS:你可以订阅我的* [*邮件列表*](https://medium.com/subscribe/@petrkorab) *在我每次写新文章的时候得到通知。如果你还不是中等会员，你可以在这里加入*[](https://medium.com/@petrkorab/membership)**。****
+***PS:你可以订阅我的* [*邮件列表*](https://medium.com/subscribe/@petrkorab) *在我每次写新文章的时候得到通知。如果你还不是中等会员，你可以在这里加入*<https://medium.com/@petrkorab/membership>**。****
 
 # ***参考资料:***
 

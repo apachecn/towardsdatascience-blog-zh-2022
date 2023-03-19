@@ -30,7 +30,7 @@ GPT-3 和 PALM 甚至声称其翻译质量与一些标准的机器翻译系统�
 
 然而，这些声明仅仅基于机器翻译的标准自动评估指标 BLEU 的改进。众所周知，蓝色与人类判断的相关性很差。
 
-[](/bleu-a-misunderstood-metric-from-another-age-d434e18f1b37)  
+</bleu-a-misunderstood-metric-from-another-age-d434e18f1b37>  
 
 需要使用**更好的自动指标和/或手动评估**进行评估，以确认语言模型和标准机器翻译系统实现了相似的翻译质量。
 
@@ -170,7 +170,7 @@ GPT-3 和 PALM 甚至声称其翻译质量与一些标准的机器翻译系统�
 
 *评估还遗漏了对使用自动度量计算的结果的统计显著性测试。它们在 BLEU 中显得很重要，但很难一眼就判断 BLEURT 中的差异是否真的很重要。*注:鉴于布鲁分数和 MQM 分数之间的差距，我想说它们是显著的，但还需要进一步证实。**
 
-*[](https://pub.towardsai.net/yes-we-need-statistical-significance-testing-927a8d21f9f0)  
+*<https://pub.towardsai.net/yes-we-need-statistical-significance-testing-927a8d21f9f0>  
 
 据我所知，作者没有发布 PaLM 生成的用于评估的提示和翻译。我希望他们会。这将允许研究社区研究它们，并促进在未来的工作中使用不同的指标进行比较，类似于 [Meta AI 为 No Language Left Behind](https://github.com/facebookresearch/fairseq/blob/nllb/examples/nllb/evaluation/README.md) 所做的工作。
 
@@ -188,6 +188,6 @@ GPT-3 和 PALM 甚至声称其翻译质量与一些标准的机器翻译系统�
 
 **如果你喜欢这篇文章，支持我工作的最好方式就是使用我的链接成为一个媒体成员:**
 
-*[](https://medium.com/@bnjmn_marie/membership)  
+*<https://medium.com/@bnjmn_marie/membership>  
 
 *如果你已经是会员，想要支持这项工作，* [*就在 Medium*](https://medium.com/@bnjmn_marie) *上关注我吧。**

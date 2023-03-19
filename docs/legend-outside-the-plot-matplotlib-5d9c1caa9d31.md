@@ -140,8 +140,8 @@ plt.show()
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读媒体上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership)  
+<https://gmyrianthous.medium.com/membership>  
 
 **相关文章你可能也喜欢**
 
-[](/save-plots-matplotlib-1a16b3432d8a)  [](/change-font-size-matplolib-480630e300b4)  [](/change-figure-size-matplotlib-11a409f39584) 
+</save-plots-matplotlib-1a16b3432d8a>  </change-font-size-matplolib-480630e300b4>  </change-figure-size-matplotlib-11a409f39584> 

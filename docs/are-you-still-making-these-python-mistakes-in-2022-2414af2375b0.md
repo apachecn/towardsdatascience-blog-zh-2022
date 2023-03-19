@@ -43,7 +43,7 @@ from rest_framework.decorators import permission_classes**
 
 我写了一篇关于使用`pip freeze`的问题和你可以使用的可能解决方案的非常详细的文章。
 
-[](/stop-using-pip-freeze-for-your-python-projects-9c37181730f9)  
+</stop-using-pip-freeze-for-your-python-projects-9c37181730f9>  
 
 我个人的建议是这一期改用`[pipreqs](https://pypi.org/project/pipreqs/)`。
 
@@ -145,4 +145,4 @@ if not *condition*:
 
 你也可以看看我写的其他东西。
 
-[](/7-must-read-books-for-data-scientists-in-2022-aa87c0f9bffb)  [](https://levelup.gitconnected.com/5-new-features-in-python-3-11-that-makes-it-the-coolest-new-release-in-2022-c9df658ef813)  [](/a-novel-approach-to-feature-importance-shapley-additive-explanations-d18af30fc21b) 
+</7-must-read-books-for-data-scientists-in-2022-aa87c0f9bffb>  <https://levelup.gitconnected.com/5-new-features-in-python-3-11-that-makes-it-the-coolest-new-release-in-2022-c9df658ef813>  </a-novel-approach-to-feature-importance-shapley-additive-explanations-d18af30fc21b> 

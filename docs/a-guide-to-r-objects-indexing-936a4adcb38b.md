@@ -519,4 +519,4 @@ iris_df[(iris_df$Species == 'setosa') | (iris_df$Species == 'virginica'),]
 
 绝对初学者的 R 编程课程 —图片由作者提供
 
-[](https://medium.com/membership/@ivopbernardo) 
+<https://medium.com/membership/@ivopbernardo> 

@@ -103,7 +103,7 @@
 
 Medium 最近推出了作家伙伴计划，支持像我这样的普通作家。如果你还不是订户，通过下面的链接注册，我会收到一部分会员费。
 
-[](https://leihua-ye.medium.com/membership)  
+<https://leihua-ye.medium.com/membership>  
 
 # **外卖**
 

@@ -77,4 +77,4 @@
 
 对于任何数据科学家来说，至少了解一点数学优化都是有益的。以下是一些相关文章，供您参考:
 
-[](/why-every-data-scientist-should-learn-mathematical-optimization-3ac102663456)  [](/how-to-handle-optimization-problems-daf97b3c248c)  [](/taking-your-optimization-skills-to-the-next-level-de47a9c51167) 
+</why-every-data-scientist-should-learn-mathematical-optimization-3ac102663456>  </how-to-handle-optimization-problems-daf97b3c248c>  </taking-your-optimization-skills-to-the-next-level-de47a9c51167> 

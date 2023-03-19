@@ -80,4 +80,4 @@
 
 **如果你想更多地了解我，这里有几篇你可能会喜欢的文章**:
 
-[](/7-tips-to-avoid-public-embarrassment-as-a-data-analyst-caec8f701e42)  [](/how-to-build-a-successful-dashboard-359c8cb0f610)  [](https://medium.com/@jolecoco/how-to-choose-which-data-projects-to-work-on-c6b8310ac04e) 
+</7-tips-to-avoid-public-embarrassment-as-a-data-analyst-caec8f701e42>  </how-to-build-a-successful-dashboard-359c8cb0f610>  <https://medium.com/@jolecoco/how-to-choose-which-data-projects-to-work-on-c6b8310ac04e> 

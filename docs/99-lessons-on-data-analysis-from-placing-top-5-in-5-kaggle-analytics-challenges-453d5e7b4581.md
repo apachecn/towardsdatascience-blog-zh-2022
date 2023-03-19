@@ -144,7 +144,7 @@ df["lon"] = df["coord"].map(lambda x: x.split(", ")[1]))*
 
 *22.合并两个数据帧时，不要丢失有价值的数据点。此外，确保键列的**拼写**在两个数据帧中匹配。通过使用`len(df)`检查结果数据帧的长度，再次检查您的工作。*
 
-*[](/how-to-merge-pandas-dataframes-35afe8b1497c)  
+*</how-to-merge-pandas-dataframes-35afe8b1497c>  
 
 23.查看评估标准。
 
@@ -322,7 +322,7 @@ sns.barplot(data = df,
 
 59.请记住，单个数字和表格也可以是数据可视化。
 
-[](/essential-techniques-to-style-pandas-dataframes-8796c74c9ff3)  
+</essential-techniques-to-style-pandas-dataframes-8796c74c9ff3>  
 
 60.请不要使用饼图。另外，请不要使用环形图。**如果你的剧情是以一个甜点命名的，那就不要用**(还有[做](https://www.kaggle.com/code/iamleonie/head-in-the-clouds)的时候，知道不应该)**。**
 
@@ -352,7 +352,7 @@ plt.cm.register_cmap("custom_palette", custom_palette)
 
 67.确保你的颜色是色盲和影印安全。
 
-[](/is-your-color-palette-stopping-you-from-reaching-your-goals-bf3b32d2ac49)  
+</is-your-color-palette-stopping-you-from-reaching-your-goals-bf3b32d2ac49>  
 
 68.像成年人一样想象:给你的图添加一个标题和标签。
 
@@ -440,11 +440,11 @@ warnings.filterwarnings("ignore")
 
 # 喜欢这个故事吗？
 
-*如果你想把我的新故事直接发到你的收件箱里，一定要订阅*[](https://medium.com/subscribe/@iamleonie)**！**
+*如果你想把我的新故事直接发到你的收件箱里，一定要订阅*<https://medium.com/subscribe/@iamleonie>**！**
 
 *成为一名媒体会员，阅读更多来自我和其他作家的故事。报名时可以使用我的 [*推荐链接*](https://medium.com/@iamleonie/membership) *支持我。我将收取佣金，不需要你额外付费。**
 
-*[](https://medium.com/@iamleonie/membership)  
+*<https://medium.com/@iamleonie/membership>  
 
 *在*[*LinkedIn*](https://www.linkedin.com/in/804250ab/)*和*[*ka ggle*](https://www.kaggle.com/iamleonie)*！*
 
@@ -455,7 +455,7 @@ warnings.filterwarnings("ignore")
 *   2022: [《隐藏的宝石》中一提之后会发生什么？](https://www.kaggle.com/code/iamleonie/what-happens-after-a-mention-in-hidden-gems)参加[隐藏宝石笔记本比赛](https://www.kaggle.com/datasets/headsortails/notebooks-of-the-week-hidden-gems/discussion/317098?sort=recent-comments) ( [第一名](https://www.kaggle.com/datasets/headsortails/notebooks-of-the-week-hidden-gems/discussion/330871?sort=votes))
 *   2021: [《云里雾里》](https://www.kaggle.com/code/iamleonie/head-in-the-clouds)为 [2021 Kaggle 机器学习&数据科学调查](https://www.kaggle.com/competitions/kaggle-survey-2021)([5 名获奖者中的 1 名](https://www.kaggle.com/competitions/kaggle-survey-2021/discussion/295401))
 *   2020 年:[布卢姆前的马斯洛](https://www.kaggle.com/code/iamleonie/maslow-before-bloom/)为 [LearnPlatform 新冠肺炎对数字学习的影响](https://www.kaggle.com/competitions/learnplatform-covid19-impact-on-digital-learning)([5 个获奖者中有 1 个](https://www.kaggle.com/competitions/learnplatform-covid19-impact-on-digital-learning/discussion/287019))
-*   2020:[](https://www.kaggle.com/code/iamleonie/impact-potential-analysis-of-water-use-efficiency)[CDP 用水效率](https://www.kaggle.com/competitions/cdp-unlocking-climate-solutions)影响潜力分析——解开气候方案 ( [第三名](https://www.kaggle.com/competitions/cdp-unlocking-climate-solutions/discussion/204739))
+*   2020:<https://www.kaggle.com/code/iamleonie/impact-potential-analysis-of-water-use-efficiency>[CDP 用水效率](https://www.kaggle.com/competitions/cdp-unlocking-climate-solutions)影响潜力分析——解开气候方案 ( [第三名](https://www.kaggle.com/competitions/cdp-unlocking-climate-solutions/discussion/204739))
 *   2019: [日本:崛起女性之国](https://www.kaggle.com/code/iamleonie/japan-country-of-the-rising-women)参加 [2019 Kaggle 机器学习&数据科学调查](https://www.kaggle.com/competitions/kaggle-survey-2019) ( [第 4 名](https://www.kaggle.com/competitions/kaggle-survey-2019/discussion/121041))
 
 [2] geckoboard，《数据谬误》。geckoboard.com。[https://www . geckoboard . com/best-practice/statistical-fallacies/](https://www.geckoboard.com/best-practice/statistical-fallacies/)(2022 年 8 月 14 日访问)

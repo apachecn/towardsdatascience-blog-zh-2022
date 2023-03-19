@@ -10,15 +10,15 @@
 
 在第 1 部分中，我介绍了我们如何从图中推理，为什么它们如此有用，用于分析和浓缩大量信息的度量标准，等等。
 
-[](/graph-machine-learning-with-python-pt-1-basics-metrics-and-algorithms-cc40972de113)  
+</graph-machine-learning-with-python-pt-1-basics-metrics-and-algorithms-cc40972de113>  
 
 在第 2 部分中，我查看了 CryptoPunks 交易网络，介绍了更高级别的图形推理——随机世界和扩散模型。
 
-[](/graph-machine-learning-with-python-pt-2-random-graphs-and-diffusion-models-of-cryptopunks-trading-99cd5170b5ea)  
+</graph-machine-learning-with-python-pt-2-random-graphs-and-diffusion-models-of-cryptopunks-trading-99cd5170b5ea>  
 
 然后我稍微离题讨论了我们如何使用网络和图表分析来看待 NBA 比赛。这一部分将使用那个故事中介绍的概念来进一步分析图形机器学习。
 
-[](https://animadurkar.medium.com/network-analysis-of-nba-playoffs-via-flow-dynamics-e5d5de70d4af)  
+<https://animadurkar.medium.com/network-analysis-of-nba-playoffs-via-flow-dynamics-e5d5de70d4af>  
 
 我强烈建议在深入研究这一部分之前先回顾一下前面的部分，因为它们为这一部分做了很好的准备，我在这里不深入研究的许多概念已经在每一部分中讨论和展示了。
 
@@ -427,4 +427,4 @@ Jure Lescovec，斯坦福， [CS224W:带图的机器学习](http://web.stanford.
 
 ## 您可以在这里找到本系列的第 4 部分:
 
-[](/graph-machine-learning-with-python-part-4-supervised-semi-supervised-learning-d66878161b79) 
+</graph-machine-learning-with-python-part-4-supervised-semi-supervised-learning-d66878161b79> 

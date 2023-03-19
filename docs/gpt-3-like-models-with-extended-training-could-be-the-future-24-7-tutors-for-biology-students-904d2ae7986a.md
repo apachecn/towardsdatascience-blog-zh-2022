@@ -14,7 +14,7 @@
 
 在我最近对 GPT-3 帮助学生学习科学科目的潜力进行的测试中，我发现除了作为一种更自然地检索系统从网络上“学习”的理论概念的工具，化学和物理很少或根本没有适用性。
 
-[](/devising-tests-to-measure-gpt-3s-knowledge-of-the-basic-sciences-4bbfcde8286b)  [](/testing-gpt-3-on-elementary-physics-unveils-some-important-problems-9d2a2e120280)  
+</devising-tests-to-measure-gpt-3s-knowledge-of-the-basic-sciences-4bbfcde8286b>  </testing-gpt-3-on-elementary-physics-unveils-some-important-problems-9d2a2e120280>  
 
 生物学，至少在高中和大学早期阶段，是高度描述性的，因此可能是 GPT-3 和其他 NLP 模型的潜在应用领域。在这篇文章中，我通过遵循我以前文章中相同的过程，探索了这一点:我在 OpenAI 的操场上拿着 GPT-3 的达芬奇模型，就好像它是一个学生一样，我通过考试般的聊天对它进行了一系列概念的评估。
 

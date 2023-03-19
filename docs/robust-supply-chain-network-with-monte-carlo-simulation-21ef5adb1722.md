@@ -129,7 +129,7 @@ YYY 工厂为 XXX 市场生产了多少台？
 
 *日本工厂只为当地市场生产，而巴西和印度主要由出口需求驱动。*
 
-[](http://samirsaci.com)  
+<http://samirsaci.com>  
 
 # 二。问题陈述
 
@@ -202,7 +202,7 @@ YYY 工厂为 XXX 市场生产了多少台？
 
 由于它在低生产成本国家的足迹最大化，我们肯定能满足大多数情况下的需求。
 
-[](http://samirsaci.com)  
+<http://samirsaci.com>  
 
 # 三。后续步骤
 
@@ -229,7 +229,7 @@ YYY 工厂为 XXX 市场生产了多少台？
 
 如果你对数据分析和供应链感兴趣，可以看看我的网站
 
-[](https://samirsaci.com)  
+<https://samirsaci.com>  
 
 # 参考
 

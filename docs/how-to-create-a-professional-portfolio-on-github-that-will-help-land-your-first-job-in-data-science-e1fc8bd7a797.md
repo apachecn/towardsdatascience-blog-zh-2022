@@ -70,15 +70,15 @@ GitHub 是行业标准，这使它成为托管和维护您的专业投资组合�
 *   **将你的导入放在顶部:**一个古老的软件工程最佳实践，当雇主开始筛选文件中的代码时，将你所有的导入放在顶部是为他们定下基调的一个好方法。导入允许他们立即看到你在使用什么工具。不仅如此，这对您来说也是一个很好的实践，因为它提高了可读性和代码优化。
 *   **遵循语言惯例:**不管你用什么语言写数据分析，确保你使用了正确的语言惯例。每种编码语言都有自己的一套约定，应该遵循这些约定来确保任何阅读您的代码的人都能理解它在做什么。
 
-[](/this-quick-and-easy-7-step-checklist-will-help-you-write-better-python-code-for-data-science-62f1a1f4b20c)  
+</this-quick-and-easy-7-step-checklist-will-help-you-write-better-python-code-for-data-science-62f1a1f4b20c>  
 
 *   在代码中维护代码文档，并在项目存储库中提供支持文档:代码文档是帮助雇主理解你的代码应该做什么，为什么你要这样写，以及它如何与其他代码一起工作的最佳方式。内联代码文档(又名注释)提供了对您的逻辑、思维过程的清晰一瞥，并且还提供了您的代码所说内容的英文版本。此外，它有助于将变量和函数结合成一个易于理解的故事，任何第一次看代码的人都可以理解。
 
-[](/how-to-write-good-code-documentation-for-data-scientists-c9940aebb4f0)  
+</how-to-write-good-code-documentation-for-data-scientists-c9940aebb4f0>  
 
 *   **使用准确的变量和函数名帮助别人理解你的代码:**在个人项目中，很容易陷入用模糊的名字称呼变量和使用只有你自己能理解的函数名的陷阱。这在你独自做一个项目的时候很好(虽然我不建议继续这个习惯)，但是在你把它放入你的文件夹之前，你应该确保你的变量名和函数名是清晰的，并且尽可能具有描述性。这有助于雇主第一次看到你的代码，并确切地知道你想要完成什么。
 
-[](/software-engineering-best-practices-for-data-scientists-4c199ede6e03)  
+</software-engineering-best-practices-for-data-scientists-4c199ede6e03>  
 
 # 最后的想法
 

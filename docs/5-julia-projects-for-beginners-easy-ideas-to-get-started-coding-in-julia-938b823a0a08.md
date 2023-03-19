@@ -18,7 +18,7 @@ Julia 被用于许多真正有影响力和有趣的挑战，如机器学习和�
 
 编辑:我和我的合著者很高兴地告诉大家，我们的新书《朱莉娅速成班》已经开始预售了
 
-[](https://logankilpatrick.gumroad.com/l/juliacrashcourse)  
+<https://logankilpatrick.gumroad.com/l/juliacrashcourse>  
 
 # 疯狂的 Libs ✍️
 
@@ -140,7 +140,7 @@ human_move = Base.prompt("Please enter 🗿, 📃, or ✂️")
 
 在这个数据泄露层出不穷、每个网站都使用同一个密码的时代，拥有一个安全的密码非常重要。在本例中，我们将生成任意数量的长度可变的密码。鉴于这可能需要很长时间，我们还将添加一个外部包 progress bars . JL:[https://github.com/cloud-oak/ProgressBars.jl](https://github.com/cloud-oak/ProgressBars.jl)来直观地显示我们的 for 循环的进度。如果您以前从未添加过外部包，可以考虑看看这个强大的教程:
 
-[](https://logankilpatrick.medium.com/the-most-underrated-feature-of-the-julia-programming-language-the-package-manager-652065f45a3a)  
+<https://logankilpatrick.medium.com/the-most-underrated-feature-of-the-julia-programming-language-the-package-manager-652065f45a3a>  
 
 要添加 Julia 包，请打开 REPL 并键入`]`，然后键入`add ProgressBars`。之后，正如我们对 Random 模块所做的那样(注意我们不需要添加它，因为它是基本 Julia 的一部分)，我们可以说`using ProgressBars`来加载它。
 

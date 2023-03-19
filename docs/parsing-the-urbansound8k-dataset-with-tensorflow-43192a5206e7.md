@@ -78,4 +78,4 @@ TFRecord 格式将数据存储为*示例对象，可以这么想。图片由作�
 
 ## 文学
 
-[1] J. Salamon、C. Jacoby 和 J. P. Bello，“城市声音研究的数据集和分类法[](http://www.justinsalamon.com/uploads/4/3/9/4/4394963/salamon_urbansound_acmmm14.pdf)**”，第 22 届 ACM 多媒体国际会议，美国奥兰多，2014 年 11 月。**
+[1] J. Salamon、C. Jacoby 和 J. P. Bello，“城市声音研究的数据集和分类法<http://www.justinsalamon.com/uploads/4/3/9/4/4394963/salamon_urbansound_acmmm14.pdf>**”，第 22 届 ACM 多媒体国际会议，美国奥兰多，2014 年 11 月。**

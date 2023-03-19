@@ -27,11 +27,11 @@
 
 您可以在 DagsHub 上开始[这个存储库](https://dagshub.com/BexTuychiev/pet_pawpularity)来跟随整篇文章。
 
-[](https://ibexorigin.medium.com/membership)  
+<https://ibexorigin.medium.com/membership>  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex)  
+<https://alphasignal.ai/?referrer=Bex>  
 
 ## 解决问题的方法
 
@@ -226,8 +226,8 @@ for level in range(20, 101, 20):
 
 **您可以使用下面的链接成为高级媒体会员，并访问我的所有故事和数以千计的其他故事:**
 
-[](https://ibexorigin.medium.com/membership)  
+<https://ibexorigin.medium.com/membership>  
 
 **或者订阅我的邮件列表:**
 
-[](https://ibexorigin.medium.com/subscribe) 
+<https://ibexorigin.medium.com/subscribe> 

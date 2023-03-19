@@ -26,7 +26,7 @@
 
 对于大规模系统，数据工程师通常必须建立和维护**数据仓库**和**数据湖**。我不打算深入讨论这些概念以及它们与传统数据库的不同之处，但是如果您有兴趣了解关于这个主题的更多信息，请务必阅读我最近在下面分享的一篇文章。
 
-[](/data-lakes-vs-data-warehouses-47444228604c)  
+</data-lakes-vs-data-warehouses-47444228604c>  
 
 ## (大)数据处理工具
 
@@ -70,8 +70,8 @@ Apache Spark 是几乎每个行业都普遍使用的这种技术的一个例子�
 
 **[**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。****
 
-**[](https://gmyrianthous.medium.com/membership) ** 
+**<https://gmyrianthous.medium.com/membership> ** 
 
 ****相关文章你可能也喜欢****
 
-**[](/kafka-no-longer-requires-zookeeper-ebfbf3862104) ** **[](/how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3) ** **[](/kafka-monitoring-tools-704de5878030) **
+**</kafka-no-longer-requires-zookeeper-ebfbf3862104> ** **</how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3> ** **</kafka-monitoring-tools-704de5878030> **

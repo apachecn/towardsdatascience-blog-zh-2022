@@ -111,7 +111,7 @@
 
 另一种方法是按网格单元面积加权，见下面的帖子
 
-[](/the-correct-way-to-average-the-globe-92ceecd172b7)  
+</the-correct-way-to-average-the-globe-92ceecd172b7>  
 
 # 5.移动平均数
 
@@ -131,7 +131,7 @@
 
 我之前写过这个主题，描述了用`xarray`实现这一点的不同技术。我现在更喜欢上面的代码。
 
-[](/pythonic-way-to-perform-statistics-across-multiple-variables-with-xarray-d0221c78e34a)  
+</pythonic-way-to-perform-statistics-across-multiple-variables-with-xarray-d0221c78e34a>  
 
 # 7.分配新变量或坐标
 

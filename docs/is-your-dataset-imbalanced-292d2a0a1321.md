@@ -145,4 +145,4 @@ chisquare(pd.Series(y).value_counts()).pvalue
 
 在这篇文章中，我提出了一些评估数据集是否不平衡的技术。选择适当的技术将为您提供不同的见解，并引导您采取不同的策略来处理不平衡的数据(例如，SMOTE 重采样或类分组)。
 
-*原载于 2022 年 6 月 26 日 https://www.yourdatateacher.com*[](https://www.yourdatateacher.com/2022/06/27/is-your-dataset-imbalanced/)**。**
+*原载于 2022 年 6 月 26 日 https://www.yourdatateacher.com*<https://www.yourdatateacher.com/2022/06/27/is-your-dataset-imbalanced/>**。**

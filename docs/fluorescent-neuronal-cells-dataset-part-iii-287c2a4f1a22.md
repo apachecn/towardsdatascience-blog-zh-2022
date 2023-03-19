@@ -12,11 +12,11 @@
 
 如果您错过了第一部分，请查看更多关于 ***i)*** 数据是如何收集的以及它们代表了什么的详细信息:
 
-[](/fluorescent-neuronal-cells-dataset-part-i-ac123196b963)  
+</fluorescent-neuronal-cells-dataset-part-i-ac123196b963>  
 
 与***ii)***FNC 数据相关的具体挑战:
 
-[](/fluorescent-neuronal-cells-dataset-part-ii-e1ac27e26d7)  
+</fluorescent-neuronal-cells-dataset-part-ii-e1ac27e26d7>  
 
 模型评估和性能评估是数据分析管道中的关键步骤。当然，有各种方法可用于此目的。
 

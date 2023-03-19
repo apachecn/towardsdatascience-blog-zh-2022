@@ -35,7 +35,7 @@
 
 数据扩充是指我们使用代码系统地或随机地改变数据。对于图像，这包括翻转、调整颜色和添加随机噪声等方法。这些方法允许我们人为地引入噪声并增加数据集的大小。如果你想了解更多关于图像增强的细节，我推荐这篇文章:
 
-[](/augmenting-images-for-deep-learning-3f1ea92a891c)  
+</augmenting-images-for-deep-learning-3f1ea92a891c>  
 
 在生产中，模型需要在不同的条件下运行。这些条件由照明、摄像机角度、房间颜色或背景中的物体等变量决定。
 
@@ -260,7 +260,7 @@ def pixel_filter(img, t=0):
 
 你可能想知道我们从哪里得到下限和上限。这就是我们如何知道通道将落在[134，84，55]和[192，121，101]之间？嗯，我们使用 Python 创建的颜色选择器。我们在下面的文章中概述了这是如何创建的。
 
-[](/building-a-color-picker-with-python-55e8357539e7)  
+</building-a-color-picker-with-python-55e8357539e7>  
 
 在**图 10** 中，您可以看到拾取器正在工作。我们从多个图像中选择像素，并尝试在轨道上的不同位置选择它们。这是为了在不同条件下获得全范围的像素值。
 
@@ -298,7 +298,7 @@ upper = [max(x[0] for x in colours),
 
 我希望你喜欢这篇文章！你可以成为我的 [**推荐会员**](https://conorosullyds.medium.com/membership) **:)** 来支持我
 
-[](https://conorosullyds.medium.com/membership)  
+<https://conorosullyds.medium.com/membership>  
 
 | [推特](https://twitter.com/conorosullyDS) | [YouTube](https://www.youtube.com/channel/UChsoWqJbEjBwrn00Zvghi4w) | [时事通讯](https://mailchi.mp/aa82a5ce1dc0/signup) —注册免费参加 [Python SHAP 课程](https://adataodyssey.com/courses/shap-with-python/)
 

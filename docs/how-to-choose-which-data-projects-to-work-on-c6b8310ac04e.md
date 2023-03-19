@@ -71,6 +71,6 @@
 
 如果你觉得“有趣”,可以看看我的其他文章:
 
-[](https://medium.com/@jolecoco/what-training-at-the-gym-teaches-you-about-training-models-931e5878dc14)  [](/how-to-build-a-successful-dashboard-359c8cb0f610)  [](https://medium.com/@jolecoco/the-art-of-turning-fuzzy-concepts-into-operational-metrics-part-1-9140b79d54b2)  
+<https://medium.com/@jolecoco/what-training-at-the-gym-teaches-you-about-training-models-931e5878dc14>  </how-to-build-a-successful-dashboard-359c8cb0f610>  <https://medium.com/@jolecoco/the-art-of-turning-fuzzy-concepts-into-operational-metrics-part-1-9140b79d54b2>  
 
 [1][https://www . techrepublic . com/article/85-of-big-data-projects-fail-but-your-developers-can-help-yours-success/](https://www.techrepublic.com/article/85-of-big-data-projects-fail-but-your-developers-can-help-yours-succeed/)

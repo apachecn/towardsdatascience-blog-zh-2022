@@ -106,4 +106,4 @@ Yandex research 发表了一篇很棒的文章，介绍了他们解决数据集�
 Igor 联合创始人
 [Lightly.ai](https://lightly.ai/)
 
-[](https://medium.datadriveninvestor.com/the-advantage-of-self-supervised-learning-bd6fddc8f345)  [](/few-shot-learning-with-fast-ai-81c66064e372)  [](/how-to-keep-up-with-the-latest-research-and-trends-in-ml-a45a356b1001) 
+<https://medium.datadriveninvestor.com/the-advantage-of-self-supervised-learning-bd6fddc8f345>  </few-shot-learning-with-fast-ai-81c66064e372>  </how-to-keep-up-with-the-latest-research-and-trends-in-ml-a45a356b1001> 

@@ -12,7 +12,7 @@
 
 虽然`unittest`包是面向对象的，因为测试用例是以类的形式编写的，但是`pytest`包是功能性的，导致代码行更少。就个人而言，我更喜欢`unittest`,因为我觉得代码可读性更强。也就是说，这两个包，或者更确切地说是框架，都同样强大，在它们之间进行选择只是个人喜好的问题。
 
-[](/unit-testing-with-mocking-in-10-minutes-e28feb7e530)  
+</unit-testing-with-mocking-in-10-minutes-e28feb7e530>  
 
 ***更新*** *:本文是系列文章的一部分。查看其他“10 分钟内”话题* [*此处*](https://medium.com/@kayjanwong/list/in-10-minutes-eeaa9aa67055) *！*
 

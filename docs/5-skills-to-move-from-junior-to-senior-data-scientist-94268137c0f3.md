@@ -87,7 +87,7 @@
 
 作为一名数据科学家，我在这篇文章中更详细地讨论了沟通:
 
-[](/communicating-as-a-data-scientist-why-it-matters-and-how-to-do-it-well-f1c34d28c7c4)  
+</communicating-as-a-data-scientist-why-it-matters-and-how-to-do-it-well-f1c34d28c7c4>  
 
 ## 需要教练和领导来支持团队
 
@@ -120,4 +120,4 @@
 
 如果你喜欢 Medium，请考虑使用我的推荐链接来无限制地访问每篇文章，我将免费收取你的一部分会员费！
 
-[](https://valentin-mucke-ds.medium.com/membership) 
+<https://valentin-mucke-ds.medium.com/membership> 

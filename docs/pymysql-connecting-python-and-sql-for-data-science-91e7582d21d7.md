@@ -61,7 +61,7 @@ MySQL Workbench 中的 *customers* 表截图|作者图片
 
 如果您想了解更多关于为这样的实验生成模拟数据的免费资源，请查看以下参考资料:
 
-[](/free-resources-for-generating-realistic-fake-data-da63836be1a8)  
+</free-resources-for-generating-realistic-fake-data-da63836be1a8>  
 
 ## ㈢进口包装
 
@@ -118,7 +118,7 @@ PyMySQL 库建立在两个关键的 Python 对象之上:**连接**对象和**光
 
 dataframe | Image 的“频率应用程序访问”列的直方图(按作者)
 
-[](https://kennethleungty.medium.com/membership)  
+<https://kennethleungty.medium.com/membership>  
 
 # (6)其他 CRUD 功能
 
@@ -142,10 +142,10 @@ dataframe | Image 的“频率应用程序访问”列的直方图(按作者)
 
 如果您想了解 PyMySQL 是如何用于云数据库(而不是本演示中所示的本地数据库)的，请查看以下内容:
 
-[](/definitive-guide-to-create-an-sql-database-on-cloud-with-aws-and-python-c818c7270af2)  
+</definitive-guide-to-create-an-sql-database-on-cloud-with-aws-and-python-c818c7270af2>  
 
 # 在你走之前
 
 欢迎您**加入我的数据科学学习之旅！**点击此[媒体](https://kennethleungty.medium.com/)页面，查看我的 [GitHub](https://github.com/kennethleungty) ，了解更多令人兴奋的实用数据科学内容。同时，祝您在使用 PyMySQL 的过程中愉快！
 
-[](/how-to-dockerize-machine-learning-applications-built-with-h2o-mlflow-fastapi-and-streamlit-a56221035eb5)  [](/top-tips-to-google-search-like-a-data-science-pro-897599f4d9ae)  [](/imputation-of-missing-data-in-tables-with-datawig-2d7ab327ece2) 
+</how-to-dockerize-machine-learning-applications-built-with-h2o-mlflow-fastapi-and-streamlit-a56221035eb5>  </top-tips-to-google-search-like-a-data-science-pro-897599f4d9ae>  </imputation-of-missing-data-in-tables-with-datawig-2d7ab327ece2> 

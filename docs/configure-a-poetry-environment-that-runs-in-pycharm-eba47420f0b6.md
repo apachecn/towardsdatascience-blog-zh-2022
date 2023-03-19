@@ -32,7 +32,7 @@
 
 对于版本低于 2021.3 的 PyCharm，我们将安装 PyCharm 所需的插件。你可以在下面找到不同 JetBrains IDEs 的诗歌版本列表。
 
-[](https://plugins.jetbrains.com/plugin/14307-poetry/versions)  
+<https://plugins.jetbrains.com/plugin/14307-poetry/versions>  
 
 单击上面的链接后，IDE 中将出现一个弹出窗口，显示如何安装插件的说明。
 
@@ -274,8 +274,8 @@ poetry shell
 
 我肯定会在我未来的项目中继续使用诗歌，我希望你也这么想。
 
-[*海*](https://medium.com/u/5921283ee0f1?source=post_page-----eba47420f0b6--------------------------------)【】是一名首席数据科学家在 [*天际线*](https://www.skyline.ai/) *，一家*[](https://www.jll.co.il/)**公司和部分*[*【JLL】科技*](https://www.jllt.com/) *任职。我们使用大量多样的信息和尖端技术，为房地产专业人士提供产生独特商业价值的视角。**
+[*海*](https://medium.com/u/5921283ee0f1?source=post_page-----eba47420f0b6--------------------------------)【】是一名首席数据科学家在 [*天际线*](https://www.skyline.ai/) *，一家*<https://www.jll.co.il/>**公司和部分*[*【JLL】科技*](https://www.jllt.com/) *任职。我们使用大量多样的信息和尖端技术，为房地产专业人士提供产生独特商业价值的视角。**
 
 # *参考*
 
- ** *[](/a-poetic-apology-71a41db4ecce)  [](https://www.jetbrains.com/help/pycharm/poetry.html) *
+ ** *</a-poetic-apology-71a41db4ecce>  <https://www.jetbrains.com/help/pycharm/poetry.html> *

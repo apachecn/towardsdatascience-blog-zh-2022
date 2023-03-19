@@ -22,7 +22,7 @@
 
 *   [**如何在 6 个月内从非编码人员成长为数据科学家**](/how-to-grow-from-non-coder-to-data-scientist-in-6-months-197f465dfa9f) 作者[莎兰·库马尔·拉文德兰](https://medium.com/u/9fc8dfce153b?source=post_page-----a493660213d--------------------------------) (10 分钟)
     一个包含所有必需资源的完整指南。
-*   [](/5-tips-to-boost-your-data-science-learning-320a2284690)**[Julia Nikulski](https://medium.com/u/3ac0f6e42709?source=post_page-----a493660213d--------------------------------)(9 分钟)
+*   </5-tips-to-boost-your-data-science-learning-320a2284690>**[Julia Nikulski](https://medium.com/u/3ac0f6e42709?source=post_page-----a493660213d--------------------------------)(9 分钟)
     提高数据科学学习的 5 个技巧通过专注于这 5 件事而不是参加更多的在线课程来增加你的学习曲线。**
 *   [**想在 12 周内成为数据科学家？**](/want-to-become-a-data-scientist-in-12-weeks-d32d5ff0bef4) by [拉希达·纳斯林·阿摩林](https://medium.com/u/8a36b941a136?source=post_page-----a493660213d--------------------------------) (5 分钟)
     花钱前三思。

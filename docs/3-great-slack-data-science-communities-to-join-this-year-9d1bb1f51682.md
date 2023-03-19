@@ -22,7 +22,7 @@
 
 1.  [**数据会谈俱乐部**](https://datatalks.club/)
 
-[](https://datatalks.club/)  
+<https://datatalks.club/>  
 
 **松弛环节:**https://datatalks.club/slack.html
 
@@ -32,7 +32,7 @@
 
 **2。** [**MLOps 社区**](https://mlops.community/)
 
-[](https://mlops.community/)  
+<https://mlops.community/>  
 
 **松弛环节:**[https://mlops-community.slack.com](https://mlops-community.slack.com/join/shared_invite/zt-178s99cyv-Q~whRpqbhgMTBrOcbjnDIQ#/shared-invite/email)
 
@@ -42,7 +42,7 @@
 
 **3。** [**托洛卡全球社区**](https://toloka.ai/community/)
 
-[](https://toloka.ai/community/)  
+<https://toloka.ai/community/>  
 
 **松弛环节:**https://toloka.ai/community
 
@@ -56,8 +56,8 @@
 
 正如我之前提到的，所有这些社区现在都开始组织一些线下聚会和活动。所以，如果你所在的地方有什么事情发生，请继续关注…
 
-*PS:我正在 Medium 和*[***aboutdatablog.com***](https://www.aboutdatablog.com/)*上写文章，深入浅出地解释基本的数据科学概念。你可以订阅我的* [***邮件列表***](https://medium.com/subscribe/@konkiewicz.m) *在我每次写新文章的时候得到通知。如果你还不是中等会员，你可以在这里加入*[](https://medium.com/@konkiewicz.m/membership)**。**
+*PS:我正在 Medium 和*[***aboutdatablog.com***](https://www.aboutdatablog.com/)*上写文章，深入浅出地解释基本的数据科学概念。你可以订阅我的* [***邮件列表***](https://medium.com/subscribe/@konkiewicz.m) *在我每次写新文章的时候得到通知。如果你还不是中等会员，你可以在这里加入*<https://medium.com/@konkiewicz.m/membership>**。**
 
 *下面还有一些你可能喜欢的帖子*
 
-*[](/data-centric-ai-82fea1fc678d)  [](/categorizing-customer-support-requests-7c285a9cf974)  [](/human-in-the-loop-in-machine-translation-systems-bdf3fe82bfa3)  [](/how-to-successfully-add-large-data-sets-to-google-drive-130beb320f1a) *
+*</data-centric-ai-82fea1fc678d>  </categorizing-customer-support-requests-7c285a9cf974>  </human-in-the-loop-in-machine-translation-systems-bdf3fe82bfa3>  </how-to-successfully-add-large-data-sets-to-google-drive-130beb320f1a> *

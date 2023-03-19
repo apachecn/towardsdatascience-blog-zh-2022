@@ -149,4 +149,4 @@ cap = vc2.VideoCapture('c:/path/to/my/file.mp4
 
 页（page 的缩写）学生:比如我正在做的事情？[跟着我！](https://mikehuls.medium.com/membership)
 
-[](https://mikehuls.medium.com/membership) 
+<https://mikehuls.medium.com/membership> 

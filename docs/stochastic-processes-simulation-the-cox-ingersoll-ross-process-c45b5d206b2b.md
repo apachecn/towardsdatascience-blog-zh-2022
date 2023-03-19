@@ -136,20 +136,20 @@ cir params(a = 0.05125324782019516，b=0.5043588622427937，c=0.0201467063720786
 
 在[媒体](https://medium.com/@diego-barba)上关注我，并订阅以获得该系列下一个故事的最新消息。
 
-[](https://medium.com/subscribe/@diego-barba)  
+<https://medium.com/subscribe/@diego-barba>  
 
 我希望这个故事对你有用。如果我错过了什么，请让我知道。
 
 喜欢这个故事吗？通过我的推荐链接成为媒体会员，可以无限制地访问我的故事和许多其他内容。
 
-[](https://medium.com/@diego-barba/membership)  
+<https://medium.com/@diego-barba/membership>  
 
 ## 浏览随机过程模拟系列
 
 该系列之前的故事:
 
-[](/stochastic-processes-simulation-brownian-motion-the-basics-c1d71585d9f9)  [](/stochastic-processes-simulation-the-ornstein-uhlenbeck-process-e8bff820f3)  
+</stochastic-processes-simulation-brownian-motion-the-basics-c1d71585d9f9>  </stochastic-processes-simulation-the-ornstein-uhlenbeck-process-e8bff820f3>  
 
 该系列的下一个故事:
 
-[](/stochastic-processes-simulation-geometric-brownian-motion-31ec734d68d6)  [](/stochastic-processes-simulation-generalized-geometric-brownian-motion-a327c0fa6226) 
+</stochastic-processes-simulation-geometric-brownian-motion-31ec734d68d6>  </stochastic-processes-simulation-generalized-geometric-brownian-motion-a327c0fa6226> 

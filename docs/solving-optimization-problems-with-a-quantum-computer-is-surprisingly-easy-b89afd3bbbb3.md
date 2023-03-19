@@ -184,7 +184,7 @@ draw_graph(use_network(8),  ''.join(str(int(x)) for x in result.x[::-1]))
 
 然而，这些库并没有让您摆脱对优化目标的理解。你需要确保明确你要解决的问题。如果你在问题表述上马虎，你可能会得到错误问题的正确答案。
 
-[](https://pyqml.medium.com/membership)  
+<https://pyqml.medium.com/membership>  
 
 不要错过下一集，订阅我的[子栈频道](https://pyqml.substack.com/)。
 

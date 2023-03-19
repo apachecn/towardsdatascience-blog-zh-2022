@@ -109,7 +109,7 @@ morthan opportunities 仍是一个发展中的项目。然而，它已经显示�
 
 # 相关阅读
 
-[](/use-r-to-calculate-boilerplate-for-accounting-analysis-f4a5b64e9b0d)  
+</use-r-to-calculate-boilerplate-for-accounting-analysis-f4a5b64e9b0d>  
 
 [使用 R 计算用于会计分析的样板文件](/use-r-to-calculate-boilerplate-for-accounting-analysis-f4a5b64e9b0d)
 

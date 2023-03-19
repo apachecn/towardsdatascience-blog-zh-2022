@@ -51,4 +51,4 @@
 
 > **想看更多这方面的内容？查看我关于[低秩结构和数据驱动建模](https://loiseau-jc.medium.com/list/lowrank-structure-and-datadriven-modeling-8f39635a90ea)的其他文章或者我的[机器学习基础](https://loiseau-jc.medium.com/list/machine-learning-basics-0baf10d8f8b5)！**
 
-**[](/rosenblatts-perceptron-the-very-first-neural-network-37a3ec09038a) **
+**</rosenblatts-perceptron-the-very-first-neural-network-37a3ec09038a> **

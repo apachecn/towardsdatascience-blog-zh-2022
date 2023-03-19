@@ -307,7 +307,7 @@ page2()的代码继续尝试将 Excel 文件作为熊猫数据帧 df 读取。�
 
 此代码的 GitHub repo 可以在下面的链接中找到。
 
-[](https://github.com/christianwanser/LinkedIn-Engagements-Dash.git)  
+<https://github.com/christianwanser/LinkedIn-Engagements-Dash.git>  
 
 # 摘要
 
@@ -321,4 +321,4 @@ page2()的代码继续尝试将 Excel 文件作为熊猫数据帧 df 读取。�
 
 如果你对数据专业人员的生活有任何疑问，请随时在 [LinkedIn](https://www.linkedin.com/in/christian-wanser/) 或 [Twitter](https://twitter.com/ChrisWritesData) 上联系我！
 
-[](https://medium.com/@ChristianWritesData/membership) 
+<https://medium.com/@ChristianWritesData/membership> 

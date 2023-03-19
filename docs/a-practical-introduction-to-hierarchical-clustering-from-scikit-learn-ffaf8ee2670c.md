@@ -14,7 +14,7 @@
 
 如果您错过了之前的任何研讨会，您可以在这里找到:
 
-[](/a-practical-introduction-to-kmeans-clustering-using-scikit-learn-fd9cff95144b)  [](/a-practical-introduction-to-support-vector-machines-from-scikit-learn-6e678cf1f228)  [](https://python.plainenglish.io/a-practical-introduction-to-random-forest-classifiers-from-scikit-learn-536e305d8d87)  
+</a-practical-introduction-to-kmeans-clustering-using-scikit-learn-fd9cff95144b>  </a-practical-introduction-to-support-vector-machines-from-scikit-learn-6e678cf1f228>  <https://python.plainenglish.io/a-practical-introduction-to-random-forest-classifiers-from-scikit-learn-536e305d8d87>  
 
 **什么是层次聚类？**
 
@@ -171,8 +171,8 @@ insta gram:https://www.instagram.com/ucl.datasci/
 
 如果你想了解 UCL 数据科学协会和其他优秀作者的最新信息，请使用我下面的推荐代码注册 medium。
 
-[](https://philip-wilkinson.medium.com/membership)  
+<https://philip-wilkinson.medium.com/membership>  
 
 或者在媒体上查看我的其他商店，例如:
 
-[](/an-introduction-to-sql-for-data-scientists-e3bb539decdf)  [](/git-and-github-basics-for-data-scientists-b9fd96f8a02a)  [](/multi-variate-outlier-detection-in-python-e900a338da10) 
+</an-introduction-to-sql-for-data-scientists-e3bb539decdf>  </git-and-github-basics-for-data-scientists-b9fd96f8a02a>  </multi-variate-outlier-detection-in-python-e900a338da10> 

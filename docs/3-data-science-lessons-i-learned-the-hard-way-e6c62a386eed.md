@@ -78,4 +78,4 @@
 
 和往常一样，如果你觉得这篇文章有帮助，你可以看看我在 YouTube 上的其他视频。如果你想通过电子邮件了解我在做什么，你可以考虑注册我的[简讯](https://leonlok.co.uk/newsletter/)！
 
-*原载于 2022 年 2 月 6 日 https://leonlok.co.uk*[](https://leonlok.co.uk/blog/3-data-scientist-lessons-i-learnt-the-hard-way/)**。**
+*原载于 2022 年 2 月 6 日 https://leonlok.co.uk*<https://leonlok.co.uk/blog/3-data-scientist-lessons-i-learnt-the-hard-way/>**。**

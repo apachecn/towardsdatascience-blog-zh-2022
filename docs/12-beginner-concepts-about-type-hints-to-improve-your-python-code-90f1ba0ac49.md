@@ -20,7 +20,7 @@ Python 是一种动态类型的编程语言。这意味着解释器只在代码�
 
 > 新到中？你可以每月订阅 5 美元，解锁我写的不限数量的关于编程、MLOps 和系统设计的文章，以帮助数据科学家(或 ML 工程师)编写更好的代码。
 
-[](https://medium.com/membership/@ahmedbesbes)  
+<https://medium.com/membership/@ahmedbesbes>  
 
 # 1-类型注释:支持添加类型的新语法
 
@@ -122,7 +122,7 @@ VSCode 使用类型提示信息来提供相关的自动完成功能——作者�
 
 遗憾的是，这不起作用，尽管写起来似乎很自然和直观。
 
-为了支持这一点，您只需用从[](https://docs.python.org/3/library/typing.html)**模块导入的`**L**ist`类型替换内置的标准`list`类型。**
+为了支持这一点，您只需用从<https://docs.python.org/3/library/typing.html>**模块导入的`**L**ist`类型替换内置的标准`list`类型。**
 
 **列表类型的有趣之处在于，它可以包含任何类型，而不仅仅是内置类型。我们自己的类型基本上可以和 List 结合。**
 
@@ -262,4 +262,4 @@ def bar(input):
 
 # **新到中？您可以每月订阅 5 美元，并解锁各种主题的无限文章(技术、设计、创业……)您可以通过点击我的推荐链接[来支持我](https://ahmedbesbes.medium.com/membership)**
 
-**[](https://ahmedbesbes.medium.com/membership) **
+**<https://ahmedbesbes.medium.com/membership> **

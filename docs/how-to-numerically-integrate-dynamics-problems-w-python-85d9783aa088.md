@@ -22,7 +22,7 @@
 
 如果你对这个方程是如何推导出来的感兴趣，请阅读下面的链接。
 
-[](https://medium.com/@zackfizell10/using-lagrangian-mechanics-to-solve-dynamics-problems-663460cbf94e)  
+<https://medium.com/@zackfizell10/using-lagrangian-mechanics-to-solve-dynamics-problems-663460cbf94e>  
 
 在我们深入研究代码之前，最好先了解一下 ode 求解器是如何工作的。在这个特殊的例子中，我们要解决一个初值问题，或者说 IVP。对于 IVP，ODE 求解器从初始时间和初始条件开始(稍后将介绍)，逐步通过一个时间间隔，并在每个时间步长计算一个解。这是一个高层次的解释，所以如果你想了解更多，我鼓励你做你的研究。
 

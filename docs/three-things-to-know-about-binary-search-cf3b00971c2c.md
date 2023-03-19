@@ -166,4 +166,4 @@ Take away 4。如果`target`在`array`中不存在，那么`lo`显示的是**目
 
 以下是一些训练问题:
 
-[](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)  [](https://leetcode.com/problems/sqrtx/)  [](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) 
+<https://leetcode.com/problems/find-smallest-letter-greater-than-target/>  <https://leetcode.com/problems/sqrtx/>  <https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/> 

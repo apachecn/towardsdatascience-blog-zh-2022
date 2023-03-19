@@ -170,4 +170,4 @@ MLPs 可用于非常广泛的任务；例如，简单的图像识别、文件和
 
 MLP 在许多不同的领域都很有用，现在你对它们有了更多的了解🤩
 
-[](https://taraprole.substack.com/subscribe) 
+<https://taraprole.substack.com/subscribe> 

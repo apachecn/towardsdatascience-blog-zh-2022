@@ -156,7 +156,7 @@ Variance concentration ratio original data = 85.85%             Variance concent
 
 1.  *Goodfellow，I .、Pouget-Abadie，j .、Mirza，m .、Xu，b .、Warde-Farley，d .、Ozair，s .、& Bengio，y .等人(2014 年)。生成对抗网络。神经信息处理系统进展，27。*
 2.  戈森(1854 年)。人类关系的法则和由此衍生的人类行为的规则。(1983).麻省剑桥:麻省理工学院出版社。
-3.  约翰逊，J. K. (1979)。广告与 S 曲线:一种新方法。市场研究杂志，16(3)，346–354 页。[](https://doi.org/10.1177/002224377901600307)
+3.  约翰逊，J. K. (1979)。广告与 S 曲线:一种新方法。市场研究杂志，16(3)，346–354 页。<https://doi.org/10.1177/002224377901600307>
 4.  *阿尔乔夫斯基，m .，钦塔拉，s .&amp；博图湖..(2017).沃瑟斯坦生成对抗网络。第 34 届国际机器学习会议论文集，机器学习研究论文集 70:214–223。*
 5.  **Pedregosa 等人(2012 年)。*[*Scikit-learn:Python 中的机器学习*](http://jmlr.csail.mit.edu/papers/v12/pedregosa11a.html) *，JMLR 12，第 2825–2830 页。**
 6.  **Ilya Tolstikhin、Bharath K. Sriperumbudur 和 Bernhard schlkopf(2016 年)。径向核下最大平均偏差的极小极大估计。《第 30 届国际神经信息处理系统会议录》(NIPS'16)。1938-1946 年，美国纽约州红钩镇柯伦联合公司。**

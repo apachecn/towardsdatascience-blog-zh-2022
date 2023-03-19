@@ -159,7 +159,7 @@ Pipreqs 通过扫描给定项目文件夹中的 Python 文件并寻找实际导�
 
 *喜欢这篇文章吗？成为* [*中等会员*](/@radecicdario/membership) *继续无限制学习。如果你使用下面的链接，我会收到你的一部分会员费，不需要你额外付费。*
 
-[](https://medium.com/@radecicdario/membership)  
+<https://medium.com/@radecicdario/membership>  
 
 ## 保持联系
 

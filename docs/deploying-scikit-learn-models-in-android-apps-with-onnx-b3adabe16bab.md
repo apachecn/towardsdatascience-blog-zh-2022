@@ -22,7 +22,7 @@
 
 Android 应用程序的源代码可以在这里找到->
 
-[](https://github.com/shubham0204/Scikit_Learn_Android_Demo)  ![Shubham Panchal](img/f257a972277364d883633e08e85054eb.png)
+<https://github.com/shubham0204/Scikit_Learn_Android_Demo>  ![Shubham Panchal](img/f257a972277364d883633e08e85054eb.png)
 
 舒巴姆·潘查尔
 
@@ -38,7 +38,7 @@ Android 应用程序的源代码可以在这里找到->
 
 例如，如果您必须将一个 [PyTorch](https://pytorch.org/) 模型转换为一个 [TensorFlow](https://www.tensorflow.org/) 模型，您可以首先将其转换为 ONNX 模型。 [TensorFlow 支持加载 ONNX 模型](https://github.com/onnx/onnx-tensorflow)，这样你就可以从 ONNX 模型中得到一个 TF 模型。这里有一个关于 ONNX 框架的详细博客，
 
-[](https://blog.roboflow.com/what-is-onnx/)  
+<https://blog.roboflow.com/what-is-onnx/>  
 
 ## A.构建 Scikit-Learn 模型
 

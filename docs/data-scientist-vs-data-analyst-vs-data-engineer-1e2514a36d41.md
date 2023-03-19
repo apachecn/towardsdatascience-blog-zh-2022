@@ -117,4 +117,4 @@
 
 最后，我强烈建议不要只看头衔，而要仔细看职位描述，真正了解这个角色在他们公司做什么，以及这些日常工作是否符合你的期望。
 
-[](https://hoooching.medium.com/membership) 
+<https://hoooching.medium.com/membership> 

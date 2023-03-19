@@ -54,11 +54,11 @@
 
 要用 SQL 构建群组图，请查看我下面的教程:
 
-[](/a-complete-guide-to-revenue-cohort-analysis-in-sql-and-python-9eeecd4c731a)  
+</a-complete-guide-to-revenue-cohort-analysis-in-sql-and-python-9eeecd4c731a>  
 
 要用 Python 制作群组图表，请查看[埃里克·林森](https://medium.com/u/44bc27317e6b?source=post_page-----e042d5e1f532--------------------------------)的精彩教程:
 
-[](/a-step-by-step-introduction-to-cohort-analysis-in-python-a2cbbd8460ea)  
+</a-step-by-step-introduction-to-cohort-analysis-in-python-a2cbbd8460ea>  
 
 > ***请务必*** [***订阅此处***](https://terenceshin.medium.com/membership) ***千万不要错过另一篇关于数据科学指南、诀窍和技巧、生活经验等的文章！***
 
@@ -100,7 +100,7 @@
 
 查看下面的链接，构建一个简单的相关性矩阵:
 
-[](https://datatofish.com/correlation-matrix-pandas/)  
+<https://datatofish.com/correlation-matrix-pandas/>  
 
 # 3.距离图
 
@@ -118,7 +118,7 @@ distplot 的主要目的是了解和比较数据的分布，以便更好地了�
 
 查看以下链接，了解如何使用 Plotly 构建 distplot:
 
-[](https://plotly.com/python/distplot/)  
+<https://plotly.com/python/distplot/>  
 
 > ***务必*** [***订阅此处***](https://terenceshin.medium.com/membership) ***千万不要错过另一篇关于数据科学指南、诀窍和技巧、生活经验等的文章！***
 
@@ -140,7 +140,7 @@ distplot 的主要目的是了解和比较数据的分布，以便更好地了�
 
 查看下面的链接，了解如何使用 Plotly 构建瀑布图:
 
-[](https://plotly.com/python/waterfall-charts/)  
+<https://plotly.com/python/waterfall-charts/>  
 
 # 5.漏斗图
 
@@ -160,7 +160,7 @@ distplot 的主要目的是了解和比较数据的分布，以便更好地了�
 
 查看以下链接，了解如何使用 Plotly 构建漏斗图:
 
-[](https://plotly.com/python/funnel-charts/)  
+<https://plotly.com/python/funnel-charts/>  
 
 # 感谢阅读！
 
@@ -168,11 +168,11 @@ distplot 的主要目的是了解和比较数据的分布，以便更好地了�
 
 不确定接下来要读什么？我为你挑选了另一篇文章:
 
-[](/the-10-best-data-visualizations-of-2021-fec4c5cf6cdb)  
+</the-10-best-data-visualizations-of-2021-fec4c5cf6cdb>  
 
 **还有一个:**
 
-[](/all-machine-learning-models-explained-in-6-minutes-9fe30ff6776a)  
+</all-machine-learning-models-explained-in-6-minutes-9fe30ff6776a>  
 
 # 特伦斯·申
 

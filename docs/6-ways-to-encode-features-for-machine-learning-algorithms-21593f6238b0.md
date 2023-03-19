@@ -162,11 +162,11 @@ HashingEncoder(cols=['player']).fit(df).transform(df)
 
 *   哈希技巧
 
-[](https://booking.ai/dont-be-tricked-by-the-hashing-trick-192a6aae3087)  
+<https://booking.ai/dont-be-tricked-by-the-hashing-trick-192a6aae3087>  
 
 *   光谱编码
 
-[](/spectral-encoding-of-categorical-features-b4faebdf4a)  
+</spectral-encoding-of-categorical-features-b4faebdf4a>  
 
 好奇想了解更多关于 Anthony 的工作和项目吗？在[中](https://medium.com/@anthonycvn)、 [LinkedIn](https://www.linkedin.com/in/anthonycavin/) 、 [Twitter](https://twitter.com/Anthony66333223) 上关注他。
 

@@ -140,4 +140,4 @@ if __name__ == "__main__":
 *   在 YouTube[上订阅](https://www.youtube.com/c/BetterDataScience)
 *   在 [LinkedIn](https://www.linkedin.com/in/darioradecic/) 上连接
 
-*原载于 2022 年 4 月 4 日 https://betterdatascience.com*[](https://betterdatascience.com/python-json-configuration-file/)**。**
+*原载于 2022 年 4 月 4 日 https://betterdatascience.com*<https://betterdatascience.com/python-json-configuration-file/>**。**

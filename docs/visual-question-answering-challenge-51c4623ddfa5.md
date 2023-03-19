@@ -56,8 +56,8 @@ VQA 数据集中包含的所有图像都来自经许可在 CC 下发布的 [MS C
 
 可以直接在 [CodaLab 网站](https://codalab.lisn.upsaclay.fr/competitions/7434#learn_the_details-overview)参与。我还感兴趣的是，你将如何使用不同于基线建议的方法来解决这个计算机视觉和自然语言的挑战。欢迎在评论中分享你的想法。
 
-*PS:我正在 Medium 和*[](https://www.aboutdatablog.com/)**上撰写深入浅出地解释基本数据科学概念的文章。你可以订阅我的* [***邮件列表***](https://medium.com/subscribe/@konkiewicz.m) *每次我写新文章都会收到通知。如果你还不是中等会员，你可以在这里加入**[***。***](https://medium.com/@konkiewicz.m/membership)**
+*PS:我正在 Medium 和*<https://www.aboutdatablog.com/>**上撰写深入浅出地解释基本数据科学概念的文章。你可以订阅我的* [***邮件列表***](https://medium.com/subscribe/@konkiewicz.m) *每次我写新文章都会收到通知。如果你还不是中等会员，你可以在这里加入**[***。***](https://medium.com/@konkiewicz.m/membership)**
 
 **下面是一些你可能会喜欢的帖子**
 
-**[](/how-to-do-data-labeling-versioning-and-management-for-ml-ba0345e7988)  [](/adapting-a-sentiment-analysis-model-to-a-custom-domain-62ec386516bc)  [](/jupyter-notebook-autocompletion-f291008c66c) **
+**</how-to-do-data-labeling-versioning-and-management-for-ml-ba0345e7988>  </adapting-a-sentiment-analysis-model-to-a-custom-domain-62ec386516bc>  </jupyter-notebook-autocompletion-f291008c66c> **

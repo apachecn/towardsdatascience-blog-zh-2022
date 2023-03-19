@@ -18,7 +18,7 @@
 
 # 什么是自相关？
 
-自相关只是数据与自身的[](https://en.wikipedia.org/wiki/Correlation)**。因此，我们不是测量两个随机变量之间的相关性，而是测量一个随机变量自身之间的相关性。于是，为什么叫 [***自动***](https://www.macmillandictionary.com/dictionary/british/auto_3)——关联。**
+自相关只是数据与自身的<https://en.wikipedia.org/wiki/Correlation>**。因此，我们不是测量两个随机变量之间的相关性，而是测量一个随机变量自身之间的相关性。于是，为什么叫 [***自动***](https://www.macmillandictionary.com/dictionary/british/auto_3)——关联。**
 
 > **相关性是指两个变量之间的相关程度。如果值为 1，变量完全正相关，-1，它们完全负相关，0，没有相关性。**
 
@@ -38,12 +38,12 @@
 
 ***如上所述，我们使用自相关来衡量时间序列与其自身滞后版本的相关性。这种计算让我们对我们系列的特征有了一些有趣的了解:***
 
-*   ***[](https://www.investopedia.com/terms/s/seasonality.asp)**:假设我们发现某些滞后倍数的相关性通常高于其他倍数。这意味着我们的数据中有一些季节性成分。例如，如果我们有每日数据，并且我们发现 ***7*** 滞后项的每个倍数都比其他的高，我们可能有一些周季节性。*****
-*   *****[**趋势**](https://www.geeksforgeeks.org/what-is-a-trend-in-time-series/) **:** 如果最近滞后的相关性较高，并且随着滞后的增加而缓慢下降，那么我们的数据中存在某种趋势。因此，我们需要进行一些差分来呈现时间序列[](https://otexts.com/fpp2/stationarity.html)**。*******
+*   ***<https://www.investopedia.com/terms/s/seasonality.asp>**:假设我们发现某些滞后倍数的相关性通常高于其他倍数。这意味着我们的数据中有一些季节性成分。例如，如果我们有每日数据，并且我们发现 ***7*** 滞后项的每个倍数都比其他的高，我们可能有一些周季节性。*****
+*   *****[**趋势**](https://www.geeksforgeeks.org/what-is-a-trend-in-time-series/) **:** 如果最近滞后的相关性较高，并且随着滞后的增加而缓慢下降，那么我们的数据中存在某种趋势。因此，我们需要进行一些差分来呈现时间序列<https://otexts.com/fpp2/stationarity.html>**。*******
 
 *******要了解更多关于季节性、趋势和平稳性的知识，请查看我以前关于这些主题的文章:*******
 
-*******[](/seasonality-of-time-series-5b45b4809acd)  [](/time-series-decomposition-8f39432f78f9)  [](/time-series-stationarity-simply-explained-125269968154)  
+*******</seasonality-of-time-series-5b45b4809acd>  </time-series-decomposition-8f39432f78f9>  </time-series-stationarity-simply-explained-125269968154>  
 
 现在让我们通过 Python 中的一个例子来使这个理论更加具体！
 
@@ -84,7 +84,7 @@
 
 本文中使用的完整代码脚本可以在我的 GitHub 中找到:
 
-[](https://github.com/egorhowell/Medium-Articles/blob/main/Time%20Series/Time%20Series%20Tools/autocorrelation.py)  
+<https://github.com/egorhowell/Medium-Articles/blob/main/Time%20Series/Time%20Series%20Tools/autocorrelation.py>  
 
 # 参考资料和进一步阅读
 
@@ -97,6 +97,6 @@
 *   [*领英*](https://www.linkedin.com/in/egor-howell-092a721b3/) 👔
 *   [*推特*](https://twitter.com/EgorHowell) 🖊
 *   [*GitHub*](https://github.com/egorhowell) 🖥
-*   [](https://www.kaggle.com/egorphysics)**🏅**
+*   <https://www.kaggle.com/egorphysics>**🏅**
 
 > **(所有表情符号都是由 [OpenMoji](https://openmoji.org/) 设计的——开源的表情符号和图标项目。许可证: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)*********

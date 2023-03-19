@@ -106,4 +106,4 @@
 
 [带区域对比的自举语义分割，2022](https://arxiv.org/pdf/2104.04465.pdf)
 
-[](https://dushuchen.medium.com/membership) 
+<https://dushuchen.medium.com/membership> 

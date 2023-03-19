@@ -82,4 +82,4 @@ isort 将自动查找所有的 Python 文件，并在目录中的所有 Python �
 
 如果你有任何问题或对编辑有任何建议，请随时在下面留下评论，并查看我的更多 [Python 编程](https://pyshark.com/category/python-programming/)教程。
 
-*原载于 2022 年 9 月 23 日 https://pyshark.com*[](https://pyshark.com/automatically-sort-python-module-imports-using-isort/)**。**
+*原载于 2022 年 9 月 23 日 https://pyshark.com*<https://pyshark.com/automatically-sort-python-module-imports-using-isort/>**。**

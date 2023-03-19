@@ -52,4 +52,4 @@
 
 ## 你可能也会喜欢…
 
-[](https://medium.datadriveninvestor.com/how-data-scientists-can-develop-business-acumen-870eb55866e6)  [](/how-to-a-tell-story-with-data-3200bfadce6d)  [](/how-to-create-a-successful-data-presentation-7eae7a9a41f) 
+<https://medium.datadriveninvestor.com/how-data-scientists-can-develop-business-acumen-870eb55866e6>  </how-to-a-tell-story-with-data-3200bfadce6d>  </how-to-create-a-successful-data-presentation-7eae7a9a41f> 

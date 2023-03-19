@@ -26,7 +26,7 @@
 
 # 1.普通的身材
 
-在这一部分，我们将用最简单的方式来建立我们的形象。尽管如此，我们还是要记住一些小技巧来最小化我们的形象，详见本文[](https://mikehuls.medium.com/5-easy-to-implement-tricks-to-trim-down-your-docker-image-size-263978a6ed29)**。这是 dockerfile 文件:**
+在这一部分，我们将用最简单的方式来建立我们的形象。尽管如此，我们还是要记住一些小技巧来最小化我们的形象，详见本文<https://mikehuls.medium.com/5-easy-to-implement-tricks-to-trim-down-your-docker-image-size-263978a6ed29>**。这是 dockerfile 文件:**
 
 ```
 FROM ubuntu:20.04# BUNDLE LAYERS
@@ -133,4 +133,4 @@ testimgbetter                                                latest        8ad32
 
 **页（page 的缩写）学生:比如我正在做的事情？[跟我来](https://mikehuls.medium.com/membership)！**
 
-**[](https://mikehuls.medium.com/membership) **
+**<https://mikehuls.medium.com/membership> **

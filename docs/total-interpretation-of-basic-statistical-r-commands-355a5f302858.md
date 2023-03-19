@@ -98,4 +98,4 @@ Crosstable 命令是另一个非常强大的命令，用于可视化表格输出
 
 [本文的 Youtube 演练](https://www.youtube.com/watch?v=TMh99PzrV2E)
 
-[](https://mdsohel-mahmood.medium.com/membership)  [](https://mdsohel-mahmood.medium.com/subscribe) 
+<https://mdsohel-mahmood.medium.com/membership>  <https://mdsohel-mahmood.medium.com/subscribe> 

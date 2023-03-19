@@ -161,4 +161,4 @@ df = datum.to_pandas('iris.tsv') **splitset = aiqc.Pipeline.Tabular.make**(
 
 **高级 API* 允许从业者专注于他们的数据科学工作流程，而不是将脚本和拼凑的工具集粘在一起。它抽象出了使机器学习变得如此不可接近的数据争论。*
 
-> *[](https://github.com/aiqc/aiqc)**(别忘了⭐ )***
+> *<https://github.com/aiqc/aiqc>**(别忘了⭐ )***

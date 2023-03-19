@@ -326,11 +326,11 @@ weight_decay = 0.01
 
 [6] **GPT-J** ，网格-变压器-JAX:模型-与 JAX (2021)并行实现变压器语言模型
 
-[7] R .卡鲁阿纳，[](http://www.cs.cornell.edu/~caruana/mlj97.pdf)**(1997)**
+[7] R .卡鲁阿纳，<http://www.cs.cornell.edu/~caruana/mlj97.pdf>**(1997)**
 
 **[8] E .胡等， [**LoRA** :大型语言模型的低秩适应](https://arxiv.org/pdf/2106.09685.pdf) (2021)**
 
-**[9] L. Hanu 与《酉队》，[](https://github.com/unitaryai/detoxify)****(2020)******
+**[9] L. Hanu 与《酉队》，<https://github.com/unitaryai/detoxify>****(2020)******
 
 # ******附录******
 

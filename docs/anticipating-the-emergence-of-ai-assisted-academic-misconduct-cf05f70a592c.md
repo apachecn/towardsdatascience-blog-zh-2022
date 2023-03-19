@@ -18,7 +18,7 @@ GPT-3 是一种由旧金山研究公司 OpenAI 开发的语言模型。GPT-3 接
 
 生成原始文本并不是 GPT 3 号唯一能做的事情。这里是一些其他媒体的文章，有更多关于这个模型的例子和细节。
 
-[](/gpt-3-demos-use-cases-implications-77f86e540dc1)  [](/will-gpt-3-kill-coding-630e4518c04d)  [](/gpt-3-creative-potential-of-nlp-d5ccae16c1ab)  
+</gpt-3-demos-use-cases-implications-77f86e540dc1>  </will-gpt-3-kill-coding-630e4518c04d>  </gpt-3-creative-potential-of-nlp-d5ccae16c1ab>  
 
 # **访问并试驾 GPT 三号**
 

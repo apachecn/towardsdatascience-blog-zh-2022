@@ -118,7 +118,7 @@ git clone [https://github.com/michaelhoarau/smarter-anomaly-detection.git](https
 
 如果你想了解更多关于带状图的知识，可以看看我之前的文章，在这篇文章中我深入探讨了带状图是如何产生的:
 
-[](/using-strip-charts-to-visualize-dozens-of-time-series-at-once-a983baabb54f)  
+</using-strip-charts-to-visualize-dozens-of-time-series-at-once-a983baabb54f>  
 
 一旦你的合成数据集生成，你可以使用第二个配套笔记本(`[synthetic_1_data_preparation.ipynb](https://github.com/michaelhoarau/smarter-anomaly-detection/blob/main/notebooks/synthetic_1_data_preparation.ipynb)`)为亚马逊寻找设备准备数据。请随意更新它，以便将数据准备成适合您自己的异常检测模型的格式。您已经准备好训练您的模型了！
 
@@ -128,11 +128,11 @@ git clone [https://github.com/michaelhoarau/smarter-anomaly-detection.git](https
 
 如果你想了解更多关于 Amazon Lookout for Equipment 的信息，在我的书《AWS 上的时间序列分析》中有六个章节专门介绍这项服务:
 
-[](https://www.amazon.com/Time-Analysis-AWS-forecasting-anomalies-ebook/dp/B09MMLLWDY)  
+<https://www.amazon.com/Time-Analysis-AWS-forecasting-anomalies-ebook/dp/B09MMLLWDY>  
 
 随意看看 [**这篇博文**](https://michoara.medium.com/time-series-analysis-on-aws-book-presentation-36dc05a9c7ad) 和 [**这篇另一篇**](https://michoara.medium.com/time-series-analysis-on-aws-part-2-presentation-multivariate-anomaly-detection-26325bc0b4a7) 以获得更多关于这些章节的详细信息:
 
-[](https://michoara.medium.com/time-series-analysis-on-aws-part-2-presentation-multivariate-anomaly-detection-26325bc0b4a7)  
+<https://michoara.medium.com/time-series-analysis-on-aws-part-2-presentation-multivariate-anomaly-detection-26325bc0b4a7>  
 
 训练过程包括对历史数据的回溯测试评估，在这种情况下，如果服务当时正在运行，您可以检测到它应该检测到的事件。与其他异常检测模型一样，Amazon Lookout for Equipment 的原始结果如下所示:
 
@@ -245,8 +245,8 @@ git clone [https://github.com/michaelhoarau/smarter-anomaly-detection.git](https
 
 在我的下一篇文章中，我将详细介绍如何更深入地理解我的异常检测模型的结果:
 
-[](/top-3-ways-your-anomaly-detection-models-can-earn-your-trust-f59072a6199c)  
+</top-3-ways-your-anomaly-detection-models-can-earn-your-trust-f59072a6199c>  
 
 我希望你觉得这篇文章很有见地:如果你不想错过我即将发布的帖子，请随时在这里给我留下评论，并不要犹豫订阅我的 [**中型电子邮件源**](https://michoara.medium.com/subscribe) ！想支持我和以后的工作？**通过我的推荐链接加入 Medium** :
 
-[](https://michoara.medium.com/membership) 
+<https://michoara.medium.com/membership> 

@@ -110,7 +110,7 @@
 
 计算克莱姆 V 的例子可以在[这里](https://www.statology.org/cramers-v-in-excel/)找到。
 
-*根据优缺点，可以考虑各种其他相关性指标(有关更多详细信息，请参考此处的*[](https://medium.com/@outside2SDs/an-overview-of-correlation-measures-between-categorical-and-continuous-variables-4c7f85610365)**),但是上述指标是可比的，并且具有相同的范围。**
+*根据优缺点，可以考虑各种其他相关性指标(有关更多详细信息，请参考此处的*<https://medium.com/@outside2SDs/an-overview-of-correlation-measures-between-categorical-and-continuous-variables-4c7f85610365>**),但是上述指标是可比的，并且具有相同的范围。**
 
 ****这里是一个 python 函数，用于实现所有的相关性指标:****
 

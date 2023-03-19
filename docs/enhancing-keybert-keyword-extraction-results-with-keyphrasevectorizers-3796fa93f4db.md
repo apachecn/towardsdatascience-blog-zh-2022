@@ -128,7 +128,7 @@ KeyBERT 可以通过`pip install keybert`安装。
 
 # 来源
 
-[](https://github.com/TimSchopf/KeyphraseVectorizers)  [](https://github.com/MaartenGr/KeyBERT)  [](https://arxiv.org/abs/2210.05245)  
+<https://github.com/TimSchopf/KeyphraseVectorizers>  <https://github.com/MaartenGr/KeyBERT>  <https://arxiv.org/abs/2210.05245>  
 
 米哈尔恰和塔劳(2004 年)。 [TextRank:将 or-
 der 带入文本。](https://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf)2004 年自然语言处理经验方法会议论文集-

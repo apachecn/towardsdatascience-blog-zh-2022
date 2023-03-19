@@ -239,4 +239,4 @@ optics_clustering.labels_
 
 ## 参考资料:
 
-[](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.OPTICS.html)  [](https://en.wikipedia.org/wiki/OPTICS_algorithm) 
+<https://scikit-learn.org/stable/modules/generated/sklearn.cluster.OPTICS.html>  <https://en.wikipedia.org/wiki/OPTICS_algorithm> 

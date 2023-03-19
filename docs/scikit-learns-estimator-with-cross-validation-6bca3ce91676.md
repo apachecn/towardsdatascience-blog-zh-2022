@@ -127,10 +127,10 @@ model_cv.score(X_test, y_test)**[OUT]:
 
 如果你喜欢这篇文章，请随时关注我
 
-[](http://gustavorsantos.medium.com/)  
+<http://gustavorsantos.medium.com/>  
 
 如果你正在考虑中等会员资格，[这里有一个推荐代码](https://gustavorsantos.medium.com/membership)给你。它帮助并激励着我！
 
 # 参考
 
-[](https://en.wikipedia.org/wiki/Cross-validation_%28statistics%29)  [](https://stats.stackexchange.com/questions/320154/when-not-to-use-cross-validation)  [](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegressionCV.html#sklearn.linear_model.LogisticRegressionCV) 
+<https://en.wikipedia.org/wiki/Cross-validation_%28statistics%29>  <https://stats.stackexchange.com/questions/320154/when-not-to-use-cross-validation>  <https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegressionCV.html#sklearn.linear_model.LogisticRegressionCV> 

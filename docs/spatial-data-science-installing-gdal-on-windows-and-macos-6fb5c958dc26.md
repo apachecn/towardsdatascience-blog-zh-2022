@@ -49,7 +49,7 @@ Collecting fiona                                                                
 
 Anaconda 是一个 python 发行商，但是它附带了`conda`。我们可以把`conda`看作是`pip`和`venv`的替代品，虽然不是真的。`conda`是一个在`anaconda`环境中管理 python 库和环境的工具。如果您不理解这一点，特别是关于环境的部分，请不要担心，但是我们可以从安装 anaconda 开始:
 
-[](https://www.anaconda.com/)  ![](img/0304fa440a8b3f4ecfb7ab195e58174f.png)
+<https://www.anaconda.com/>  ![](img/0304fa440a8b3f4ecfb7ab195e58174f.png)
 
 安装向导(来源:作者(2022))
 

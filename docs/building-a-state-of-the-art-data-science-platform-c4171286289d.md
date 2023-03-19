@@ -65,7 +65,7 @@
 
 查看我的另一篇关于使用 Python 处理 Kafka 事件数据流的文章！
 
-[](/introduction-to-kafka-stream-processing-in-python-e30d34bf3a12)  
+</introduction-to-kafka-stream-processing-in-python-e30d34bf3a12>  
 
 **第二部分:**数据存储方面。选择数据库系统在很大程度上取决于以下特征:
 
@@ -105,13 +105,13 @@
 
 如果对 Hangar 感兴趣，可以随意查看我关于这个纯 Python DVC 实现的另一篇文章。
 
-[](/introduction-to-data-version-control-5c4a83276b9)  
+</introduction-to-data-version-control-5c4a83276b9>  
 
 从长远来看，在我们的数据科学平台中正确实施 DVC 将被证明是非常强大的。特别是有了 MLFlow 这样的工具，我们就可以将 MLFlow 上版本化的训练数据模型绑定到该模型使用的训练数据集(在 DVC 版本化)。这也允许我们对我们的数据进行审计跟踪。尽管如此，模型版本控制和 DVC 都应该与一个*元数据*存储进行通信，以建立一个关于什么、何时以及如何的强大的审计追踪。但稍后会详细介绍。
 
 这个组件的另一个方面是可解释的人工智能(XAI)。建立机器学习模型是一项任务。但是向最终用户提供可解释的预测是另一个层面的任务。现在，有许多 XAI 软件包可以帮助你解释任何机器学习算法的结果。因此，在我们的智能组件中整合这些技术确实有助于将我们的平台提升到一个新的水平。查看我关于这些技术之一的帖子！
 
-[](/how-to-interpret-any-machine-learning-prediction-64ff43020214)  
+</how-to-interpret-any-machine-learning-prediction-64ff43020214>  
 
 这个组件的最后一个功能是模型监控。我们需要一种方法来评估我们的训练模型的性能，并持续监控它们的性能下降。模型监控和评估应分为三种方式:
 
@@ -159,15 +159,15 @@
 
 你喜欢这篇文章吗？如果是，请考虑订阅我的电子邮件列表，以便在我发布新内容时得到通知。
 
-[](https://david-farrugia.medium.com/subscribe)  
+<https://david-farrugia.medium.com/subscribe>  
 
 另外，考虑成为一名会员来支持我和你其他喜欢的作家。每月 5 美元，你就可以无限制地阅读 Medium 上的每一篇文章。
 
-[](https://david-farrugia.medium.com/membership)  
+<https://david-farrugia.medium.com/membership>  
 
 **想给我买杯咖啡吗？**
 
-[](https://paypal.me/itsdavidfarrugia?country.x=MT&locale.x=en_US)  
+<https://paypal.me/itsdavidfarrugia?country.x=MT&locale.x=en_US>  
 
 # **想取得联系？**
 

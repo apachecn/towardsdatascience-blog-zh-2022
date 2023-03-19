@@ -30,7 +30,7 @@
 
 可以参考下面的[文章](/streamlit-hands-on-from-zero-to-your-first-awesome-web-app-2c28f9f4e214)，按照说明安装 Streamlit，学习基础知识。
 
-[](/streamlit-hands-on-from-zero-to-your-first-awesome-web-app-2c28f9f4e214)  
+</streamlit-hands-on-from-zero-to-your-first-awesome-web-app-2c28f9f4e214>  
 
 **#安装 OpenCV:**
 

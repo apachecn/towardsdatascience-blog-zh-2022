@@ -275,7 +275,7 @@ None :   True : 39.88187183116921*
 
 *分枝定界算法是整数和混合整数问题求解中最常用的算法。对其机制的介绍感兴趣的人可以参考我的另一篇文章:*
 
-*[](/a-gentle-introduction-to-branch-bound-d00a4ee1cad) * 
+*</a-gentle-introduction-to-branch-bound-d00a4ee1cad> * 
 
 # *结论*
 

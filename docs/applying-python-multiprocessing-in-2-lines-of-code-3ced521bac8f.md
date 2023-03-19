@@ -23,13 +23,13 @@ Python 中有两种“同时做事情”的方式:线程化和多处理。在本
 *   **线程**并发运行代码**:我们有**一个活动的 CPU** ，它可以在多个线程之间快速切换(查看下面的文章)**
 *   ****多重处理**以**并行**方式运行代码:我们有**多个活动的 CPU**，它们各自运行自己的代码**
 
-**[](/thread-your-python-program-with-two-lines-of-code-3b474407dbb8)  
+**</thread-your-python-program-with-two-lines-of-code-3b474407dbb8>  
 
 因此，在本文中，我们将演示如何并行运行代码。如果您对线程和多处理之间的区别以及何时应用哪个感兴趣；查看下面的文章，获得更深入的解释。
 
 一般来说，如果你的代码涉及大量的计算，并且每个进程或多或少都是独立的(因此进程不必互相等待/需要另一个进程的输出),那么多处理是正确的想法。
 
-[](/multi-tasking-in-python-speed-up-your-program-10x-by-executing-things-simultaneously-4b4fc7ee71e)  
+</multi-tasking-in-python-speed-up-your-program-10x-by-executing-things-simultaneously-4b4fc7ee71e>  
 
 # 为本文创建一个示例
 
@@ -43,7 +43,7 @@ Python 中有两种“同时做事情”的方式:线程化和多处理。在本
 
 这个函数适合 MP，因为它要计算很多；它必须遍历图像中的每个像素。
 
-[](/image-analysis-for-beginners-destroying-duck-hunt-with-opencv-e19a27fd8b6)  
+</image-analysis-for-beginners-destroying-duck-hunt-with-opencv-e19a27fd8b6>  
 
 # 代码部分:正常应用我们的函数并使用 MP
 
@@ -76,7 +76,7 @@ image_paths = [
 
 **什么时候用这个？如果你的时间不重要，并且你想让你的结果一个接一个地按顺序排列，这种方法是合适的。一旦 image1 准备就绪，我们就可以将结果发送回客户端。**
 
-[](/why-is-python-so-slow-and-how-to-speed-it-up-485b5a84154e)  
+</why-is-python-so-slow-and-how-to-speed-it-up-485b5a84154e>  
 
 ## 2.正常方式:使用地图
 
@@ -88,7 +88,7 @@ image_paths = [
 
 **什么时候用这个？** 当单个客户发送一批图像时，我们希望对它们进行处理，并发回一条包含所有结果的消息。我们不会针对每个结果向客户发送电子邮件。
 
-[](/cython-for-absolute-beginners-30x-faster-code-in-two-simple-steps-bbb6c10d06ad)  
+</cython-for-absolute-beginners-30x-faster-code-in-two-simple-steps-bbb6c10d06ad>  
 
 ## 3.多重处理:映射
 
@@ -102,7 +102,7 @@ image_paths = [
 
 **什么时候用这个？** 与方法 2 一样，结果被锁定(不可访问)，直到所有功能完成。由于它们都是并行运行的，现在我们只需等待 2 秒钟，而不是 8 秒钟。我们仍然不能像#1 那样真正地循环结果，所以这种方法适合处理像#2 那样的批处理。
 
-[](/virtual-environments-for-absolute-beginners-what-is-it-and-how-to-create-one-examples-a48da8982d4b)  
+</virtual-environments-for-absolute-beginners-what-is-it-and-how-to-create-one-examples-a48da8982d4b>  
 
 ## 4.用迭代器进行多重处理
 
@@ -116,7 +116,7 @@ image_paths = [
 
 ***什么时候用这个？** 当多个客户端各自发送一张我们需要处理的图片时，我们现在可以使用`imap`功能并行处理。把这个函数想象成#1 的平行版本；这是一个普通的循环，但是要快得多。*
 
-*[](/docker-for-absolute-beginners-what-is-docker-and-how-to-use-it-examples-3d3b11efd830) * 
+*</docker-for-absolute-beginners-what-is-docker-and-how-to-use-it-examples-3d3b11efd830> * 
 
 ## *5.用忽略输入顺序的迭代器进行多重处理*
 
@@ -130,7 +130,7 @@ image_paths = [
 
 ***什么时候用这个？** 这个函数是#1 和#4 的升级版:它类似于普通的 for 循环，但是它以并行方式执行所有的函数，并且一旦任何函数准备就绪，就可以访问结果。有了这个功能，拥有小图像的客户端不必等到大图像完成后才能收到结果。*
 
-*[](/image-analysis-for-beginners-creating-a-motion-detector-with-opencv-4ca6faba4b42) * 
+*</image-analysis-for-beginners-creating-a-motion-detector-with-opencv-4ca6faba4b42> * 
 
 # *限制进程/内核的数量*
 
@@ -157,4 +157,4 @@ image_paths = [
 
 *附注:喜欢我正在做的事吗？ [*跟我来！*](https://mikehuls.medium.com/membership)*
 
-*[](https://mikehuls.medium.com/membership) ***
+*<https://mikehuls.medium.com/membership> ***

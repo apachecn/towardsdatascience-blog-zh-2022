@@ -163,6 +163,6 @@ MyApp.setStyleSheet("QLineEdit {background-color: grey}")
 
 ***如果你想阅读更多这样的内容，成为会员:***
 
-[](https://melo-stefan.medium.com/membership)  
+<https://melo-stefan.medium.com/membership>  
 
 ***或者你可以订阅我下面的简讯。谢谢你。***

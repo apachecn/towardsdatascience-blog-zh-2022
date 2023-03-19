@@ -16,7 +16,7 @@
 
 事不宜迟，让我们直接开始吧。🏊
 
-[](https://medium.com/membership/@ahmedbesbes)  
+<https://medium.com/membership/@ahmedbesbes>  
 
 # 1—列表和元组有什么区别？你应该在什么时候使用它们？
 
@@ -231,4 +231,4 @@ Python 生成器是一个生成项目序列的函数。
 
 # 新到中？你可以每月订阅 5 美元，并解锁各种主题的无限文章(技术、设计、创业……)你可以通过点击我的推荐[链接](https://ahmedbesbes.medium.com/membership)来支持我
 
-[](https://ahmedbesbes.medium.com/membership) 
+<https://ahmedbesbes.medium.com/membership> 

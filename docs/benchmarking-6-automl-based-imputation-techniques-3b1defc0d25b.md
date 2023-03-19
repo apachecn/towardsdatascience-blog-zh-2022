@@ -12,7 +12,7 @@
 
 有各种技术来处理或估算缺失值。在我以前的一篇文章中，我有 7 种处理缺失值的技术。
 
-[](/7-ways-to-handle-missing-values-in-machine-learning-1a6326adf79e)  
+</7-ways-to-handle-missing-values-in-machine-learning-1a6326adf79e>  
 
 Scikit-learn、Verstack、Impyute 是各种开源包，提供了在几行 Python 代码中估算缺失值的实现。这些软件包实现了各种插补算法，包括 KNN 插补、随机森林插补、迭代插补等。
 

@@ -130,7 +130,7 @@ LightweitMMM 使用 Numpyro 和 JAX 进行概率编程，这使得建模过程�
 
 让我向您展示它实际上是如何使用 LightweightMMM 的。完整的代码可以在下面我的 Github 上找到。我的示例代码基于 lightweight_mmm 的官方演示脚本。
 
-[](https://github.com/takechanman1228/mmm_pydata_global_2022/blob/main/simple_end_to_end_demo_pydataglobal.ipynb)  
+<https://github.com/takechanman1228/mmm_pydata_global_2022/blob/main/simple_end_to_end_demo_pydataglobal.ipynb>  
 
 首先，让我们使用 pip 命令安装 lightweight_mmm 库。大约需要 1-2 分钟。如果你得到错误“重启运行时”，你需要点击“重启运行时”按钮。
 

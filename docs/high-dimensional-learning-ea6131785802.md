@@ -14,7 +14,7 @@
 
 维度的诅咒。图片来自 GDL 课程第二讲。
 
-*本帖与*[*M . Elfatih Salah*](https://medium.com/@mmohamedkhair)*合著。另见我们的* [*上一篇*](/geometric-deep-learning-da09e7c17aa3) *关于 ML 的埃尔兰根方案。我们主要参考的是四位导师的*[](https://arxiv.org/abs/2104.13478)**，以及* [*GDL 课程*](https://geometricdeeplearning.com/lectures/)*at*[*AMMI*](https://aimsammi.org/)*。**
+*本帖与*[*M . Elfatih Salah*](https://medium.com/@mmohamedkhair)*合著。另见我们的* [*上一篇*](/geometric-deep-learning-da09e7c17aa3) *关于 ML 的埃尔兰根方案。我们主要参考的是四位导师的*<https://arxiv.org/abs/2104.13478>**，以及* [*GDL 课程*](https://geometricdeeplearning.com/lectures/)*at*[*AMMI*](https://aimsammi.org/)*。**
 
 *统计学习可以被定义为从可能的高维和有噪声的数据中提取信息的任务，以对看不见的数据给出一些性能保证。因为我们想在计算机上完成这项任务，基本上我们需要四种主要材料:*
 

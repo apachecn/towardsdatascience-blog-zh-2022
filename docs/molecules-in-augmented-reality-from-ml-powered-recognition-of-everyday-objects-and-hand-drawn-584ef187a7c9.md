@@ -14,7 +14,7 @@ Sakshuwong 等人的臼齿在行动。左图:MolAR 刚刚扫描了丙醇的手�
 
 除了该应用程序在化学教育中的明显应用之外，该论文和相关作品(如下所述)肯定会引起*对数据科学*的读者的兴趣，因为它们说明了机器学习方法的具体应用，这里与视觉识别有关。最重要的是，该应用程序利用了商品增强现实，这是现代的另一个关键技术里程碑，尤其是随着元宇宙的发展。
 
-[](https://medium.com/age-of-awareness/metaverse-not-sure-but-webxr-hell-yes-12af5b302e08)  
+<https://medium.com/age-of-awareness/metaverse-not-sure-but-webxr-hell-yes-12af5b302e08>  
 
 # 臼齿及其工作原理概述
 
@@ -22,7 +22,7 @@ Sakshuwong 等人的臼齿在行动。左图:MolAR 刚刚扫描了丙醇的手�
 
 观察 3D 分子结构对于理解原子水平上的世界是如何运作的至关重要。但是分子本质上是 3D 物体，很长一段时间以来，我们一直停留在平面屏幕上的 2D 视图。尽管通过增强和虚拟现实(AR/VR)的 3D 可视化多次试图做出改变，但它们大多无效且非常昂贵，直到最近手机中的 AR 变得可用，甚至高端 VR 耳机也降低了成本。我在 EPFL([EPFL tech 4 impact](https://medium.com/u/7dbe1c70684b?source=post_page-----584ef187a7c9--------------------------------)[EPFL 推广学校](https://medium.com/u/b91d50f7c43c?source=post_page-----584ef187a7c9--------------------------------) [智能系统中心 CIS EPFL](https://medium.com/u/dbc90b1d5873?source=post_page-----584ef187a7c9--------------------------------) [EPFL 企业家俱乐部](https://medium.com/u/f76876cdbe6c?source=post_page-----584ef187a7c9--------------------------------))工作的很大一部分实际上是致力于开发廉价的 AR 和 VR 在化学领域应用的新工具:
 
-[](https://medium.com/geekculture/chemistry-and-biology-education-using-commodity-web-augmented-reality-in-any-device-9fa9fdc4ab35)  [](https://lucianosphere.medium.com/molecularweb-a-brief-practical-introduction-5738771b224d)  
+<https://medium.com/geekculture/chemistry-and-biology-education-using-commodity-web-augmented-reality-in-any-device-9fa9fdc4ab35>  <https://lucianosphere.medium.com/molecularweb-a-brief-practical-introduction-5738771b224d>  
 
 ## 摩尔的关键:化学与日常生活的无缝输入和连接
 
@@ -43,13 +43,13 @@ MolAR 应用程序是用 Swift 编写的，带有一个专门针对 iPhones 和 
 
 为了解析手绘结构，服务器通过神经网络运行从应用程序接收的图像，该神经网络将图像转换为 SMILES 代码，这是分子结构的简化纯文本表示。这个名为 ChemPix 的神经网络也是由 Martinez 小组在之前的一项工作中开发的，如果你对深度学习在图像分析中的应用感兴趣，那么你必须阅读这份工作，如果是化学方面的话，就更是如此:
 
-[](https://pubs.rsc.org/en/content/articlehtml/2021/sc/d1sc02957f)  
+<https://pubs.rsc.org/en/content/articlehtml/2021/sc/d1sc02957f>  
 
 简而言之，ChemPix 首先用卷积神经网络对图像进行编码，然后用产生微笑代码的长短期记忆网络对其进行解码。在 MolAR 的服务器中，这个 SMILES 代码然后通过使用翻译器转换成 3D 坐标，翻译器是美国国家癌症研究所的许多计算化学终点之一，就像我们的 MoleculARweb 的虚拟建模工具包一样。
 
 3D 原子坐标最终通过球体和圆柱体图元转换为 3D 模型，非常类似于任何其他 AR/VR 系统中的分子显示。
 
-[](https://lucianosphere.medium.com/how-to-load-any-molecule-for-display-in-augmented-reality-on-molecularweb-5da0af4b64b2)  
+<https://lucianosphere.medium.com/how-to-load-any-molecule-for-display-in-augmented-reality-on-molecularweb-5da0af4b64b2>  
 
 ## 解析对象
 
@@ -73,7 +73,7 @@ MolAR 应用程序是用 Swift 编写的，带有一个专门针对 iPhones 和 
 
 或者，您可以在此免费获取预印本:
 
-[](https://chemrxiv.org/engage/chemrxiv/article-details/613081028e38a3bd644709da)  
+<https://chemrxiv.org/engage/chemrxiv/article-details/613081028e38a3bd644709da>  
 
 要了解更多这个小组令人兴奋的研究和软件开发，请看它的主页:[https://mtzweb.stanford.edu/](https://mtzweb.stanford.edu/)
 

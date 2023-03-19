@@ -14,13 +14,13 @@ T 现代生物学的两个标志是:( I)预测蛋白质结构的 ML 模型的出
 
 我所说的这场革命的明星和种子是 DeepMind 及其用于蛋白质结构预测的 AlphaFold 2 模型。在此基础上，新的 ML 模型发展起来，主要是在学术实验室，可以进行蛋白质设计，预测相互作用表面，等等:
 
-[](/new-deep-learned-tool-designs-novel-proteins-with-high-accuracy-41ae2a7d23d8)  [](/new-preprint-describes-a-novel-parameter-free-geometric-transformer-of-atomic-coordinates-to-c6545150855e)  
+</new-deep-learned-tool-designs-novel-proteins-with-high-accuracy-41ae2a7d23d8>  </new-preprint-describes-a-novel-parameter-free-geometric-transformer-of-atomic-coordinates-to-c6545150855e>  
 
 (更多信息，[查看我所有关于 CASP、AlphaFold 2 和相关技术的文章的摘要](https://lucianosphere.medium.com/here-are-all-my-peer-reviewed-and-blog-articles-on-protein-modeling-casp-and-alphafold-2-d78f0a9feb61))
 
 然后在相邻的化学领域，我介绍了 DeepMind 和谷歌如何加速量子计算。甚至抖音似乎也有计划用最大似然法来帮助量子计算，因为它最近正在雇佣这些领域的人员。
 
-[](/deepmind-strikes-back-now-tackling-quantum-mechanical-calculations-e1cae792e5d0)  [](/google-proposes-new-method-to-derive-analytical-expressions-for-terms-in-quantum-mechanics-d70fff6e1ef2)  
+</deepmind-strikes-back-now-tackling-quantum-mechanical-calculations-e1cae792e5d0>  </google-proposes-new-method-to-derive-analytical-expressions-for-terms-in-quantum-mechanics-d70fff6e1ef2>  
 
 梅塔，原名脸书，几年来一直致力于生物学的一些新东西，现在有了成果:开发一种“知道”蛋白质结构的蛋白质语言模型。正如我将在这里描述的，Meta 创造并发展了一系列方法，这些方法现在形成了一套完整的蛋白质结构预测、设计和突变评估，所有这些都完全基于语言模型。
 
@@ -66,7 +66,7 @@ Meta 的蛋白质和语言模型工作始于他们在 *PNAS* 发表的 2019 年�
 
 Meta 使得 ESMFold 可以通过多种方式访问。最简单的，直接从他们的网站，允许您提交一个序列建模使用“折叠序列”功能在这个页面:
 
-[](https://esmatlas.com/resources?action=search_structure)  
+<https://esmatlas.com/resources?action=search_structure>  
 
 网络服务运行速度非常快；例如，我在不到 4 秒的时间内预测出了这个结构:
 
@@ -110,14 +110,14 @@ Meta 的模型图集可以像本文的主图一样图形化浏览，这很有美
 
 ESM-2 主网络、ESMFold 和 ESM 地图集的预印本:
 
-[](https://www.biorxiv.org/content/10.1101/2022.07.20.500902v2)  
+<https://www.biorxiv.org/content/10.1101/2022.07.20.500902v2>  
 
 提供 ESM-2 工具和图集的主要网站:
 
-[](https://esmatlas.com/resources?action=fold)  [](https://esmatlas.com/explore?at=1%2C1%2C21.999999344348925)  
+<https://esmatlas.com/resources?action=fold>  <https://esmatlas.com/explore?at=1%2C1%2C21.999999344348925>  
 
 早期的相关工作是关于语言模型如何帮助预测蛋白质突变的影响，以及如何设计蛋白质:
 
-[](https://www.biorxiv.org/content/10.1101/2021.07.09.450648v2)  [](https://www.biorxiv.org/content/10.1101/2022.04.10.487779v2)  
+<https://www.biorxiv.org/content/10.1101/2021.07.09.450648v2>  <https://www.biorxiv.org/content/10.1101/2022.04.10.487779v2>  
 
 www.lucianoabriata.com*我写作并拍摄我广泛兴趣范围内的一切事物:自然、科学、技术、编程等等。* [***成为媒介会员***](https://lucianosphere.medium.com/membership) *访问其所有故事(我免费获得小额收入的平台的附属链接)和* [***订阅获取我的新故事***](https://lucianosphere.medium.com/subscribe) ***通过电子邮件*** *。到* ***咨询关于小职位*** *查看我的* [***服务页面这里***](https://lucianoabriata.altervista.org/services/index.html) *。你可以* [***这里联系我***](https://lucianoabriata.altervista.org/office/contact.html) ***。***

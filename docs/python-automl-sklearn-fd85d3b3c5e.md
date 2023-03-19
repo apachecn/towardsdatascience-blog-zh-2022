@@ -24,7 +24,7 @@
 
 Auto ML 是一个术语，指的是在这些阶段中消除手工操作的技术。
 
-[](/how-to-become-a-citizen-data-scientist-294660da0494)  
+</how-to-become-a-citizen-data-scientist-294660da0494>  
 
 很多数据科学家用 Python，大部分用 scikit-learn。很难找到不是这样的人。
 
@@ -40,7 +40,7 @@ Scikit-learn 提供了优秀的高级 API 来构建 ML 模型。他们删除了�
 
 如果不充分利用你的脑力，你会陷入困境。反复改变超参数并等待结果并不能更好地利用你的智力技能。
 
-[](/is-deep-learning-right-for-you-b59a2219c457)  
+</is-deep-learning-right-for-you-b59a2219c457>  
 
 这就是 auto-sklearn 解决的问题。你可以让计算机改变超参数，评估它们的输出，然后**选择最佳模型**。另外，你可以**给培训设定一个时间限制**。除了这些好处，你可以在桌面分布式系统上运行并行的贝叶斯优化。
 
@@ -127,7 +127,7 @@ Auto-sklearn 排行榜告诉我们在我们的数据集上试用的不同算法�
 
 如果我们需要更多地了解这些不同的模型，我们可以调用 show_models 方法来获取细节。
 
-[](/become-a-data-scientist-or-data-engineer-without-coding-skills-fbf11ac8e278)  
+</become-a-data-scientist-or-data-engineer-without-coding-skills-fbf11ac8e278>  
 
 # 用 AutoML 在大数据集上训练 ML 模型
 

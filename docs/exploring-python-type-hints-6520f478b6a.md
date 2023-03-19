@@ -120,4 +120,4 @@ pip install data-science-types
 
 # 我的其他一些帖子你可能会感兴趣
 
-[](/building-machine-learning-pipelines-using-snowflake-and-dask-10ae5e7fff0f)  [](/lets-build-a-streaming-data-pipeline-e873d671fc57)  [](/a-bayesian-approach-to-time-series-forecasting-d97dd4168cb7) 
+</building-machine-learning-pipelines-using-snowflake-and-dask-10ae5e7fff0f>  </lets-build-a-streaming-data-pipeline-e873d671fc57>  </a-bayesian-approach-to-time-series-forecasting-d97dd4168cb7> 

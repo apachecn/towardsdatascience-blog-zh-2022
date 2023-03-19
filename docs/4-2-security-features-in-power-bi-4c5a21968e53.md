@@ -12,7 +12,7 @@
 
 去年，2021 年 11 月 03 日，我写了下面这篇文章:
 
-[](/why-do-we-have-four-levels-of-security-in-power-bi-7bc53e7d5729)  
+</why-do-we-have-four-levels-of-security-in-power-bi-7bc53e7d5729>  
 
 此后，微软在 Power BI 中增加了两个新的安全特性。
 
@@ -149,4 +149,4 @@ Power BI 中的对象级安全性:[对象级安全性(OLS) —微软学习](http
 
 [Power BI 中使用对象级安全的隐藏措施— SQLBI](https://www.sqlbi.com/articles/hiding-measures-by-using-object-level-security-in-power-bi/)
 
-[](https://medium.com/@salvatorecagliari/membership) 
+<https://medium.com/@salvatorecagliari/membership> 

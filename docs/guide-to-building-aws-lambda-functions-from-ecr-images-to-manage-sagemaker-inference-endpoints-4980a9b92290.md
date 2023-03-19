@@ -14,7 +14,7 @@ Lambda 是 AWS cloud 上一个强大的无服务器托管服务。在 2014 年�
 
 Lambdas 可以被视为小型空计算沙箱，因此要求我们提供执行其任务所需的操作系统、代码和依赖关系。本教程将从一个 docker 图像构建一个 lambda 函数。我们 lambda 的目标将是从 S3 下载资源，接收 JSON 有效负载，执行特性工程，并将它们提供给 sagemaker 端点进行推理。
 
-*本教程是关于使用英特尔人工智能分析工具包构建硬件优化的 SageMaker 端点系列的一部分。你可以在这里找到本教程*[](https://github.com/eduand-alvarez/ai-kit-sagemaker-templates/tree/main/xgboost-daal4py/1_lambda-container)**的所有代码。**
+*本教程是关于使用英特尔人工智能分析工具包构建硬件优化的 SageMaker 端点系列的一部分。你可以在这里找到本教程*<https://github.com/eduand-alvarez/ai-kit-sagemaker-templates/tree/main/xgboost-daal4py/1_lambda-container>**的所有代码。**
 
 ## ***准备我们的容器环境***
 

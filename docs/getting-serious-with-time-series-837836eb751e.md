@@ -6,7 +6,7 @@
 
 本周，我们选择了四篇具有启发性的文章，它们从不同的角度涵盖了时间序列预测。不管你的经验水平如何，你都有可能学到新的东西。
 
-*   [](https://medium.com/towards-data-science/what-you-need-to-know-for-your-arima-time-series-project-804713b8f00d)**做好基础很重要。如果你刚刚开始时间序列分析， [Sameeha Afrulbasha](https://medium.com/u/ec6ff76f8627?source=post_page-----837836eb751e--------------------------------) 对这个主题的介绍是一个很好的起点。它提供了基本概念的明确定义，侧重于 ARIMA(自回归综合移动平均)模型，并解释了不同的组成部分如何一起工作。**
+*   <https://medium.com/towards-data-science/what-you-need-to-know-for-your-arima-time-series-project-804713b8f00d>**做好基础很重要。如果你刚刚开始时间序列分析， [Sameeha Afrulbasha](https://medium.com/u/ec6ff76f8627?source=post_page-----837836eb751e--------------------------------) 对这个主题的介绍是一个很好的起点。它提供了基本概念的明确定义，侧重于 ARIMA(自回归综合移动平均)模型，并解释了不同的组成部分如何一起工作。**
 *   **[**在 Python 中赋予时间序列生命**](/a-collection-of-must-know-techniques-for-working-with-time-series-data-in-python-7c01d199b184) 。如果你准备好卷起袖子用一些真实的数据工作，Leonie Monigatti 会让你从理论到实践的转变变得平稳而不费力。这个有用的资源提供了您开始操作和可视化时间序列数据所需的所有细节和代码片段，并特别关注有时难以处理的日期时间格式。**
 
 **![](img/8920cec092e577cca08269a8e1e7ef16.png)**

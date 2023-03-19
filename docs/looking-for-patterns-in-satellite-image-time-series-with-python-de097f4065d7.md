@@ -96,4 +96,4 @@ Mapbiomas 很神奇，说实话。(图片由作者提供)
 
 ***如果你还不是一个媒介会员，想要支持像我这样的作家，可以通过我的推荐链接随意报名:***
 
-[](https://guilhermeiablonovski.medium.com/membership) 
+<https://guilhermeiablonovski.medium.com/membership> 

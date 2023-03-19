@@ -71,7 +71,7 @@
 
 **如果你想了解更多的库存管理政策，请看下面的文章**
 
-**[](https://www.samirsaci.com/inventory-management-for-retail-periodic-review-policy/)  
+**<https://www.samirsaci.com/inventory-management-for-retail-periodic-review-policy/>  
 
 ## **仓库补货**
 
@@ -101,7 +101,7 @@
 
 **然而，这个指标本身并不能让你全面了解供应链中发生了什么。**
 
-**因此，我们需要使用数据分析对其进行分解，并了解影响整体性能的因素。**** ****[](http://samirsaci.com) **** 
+**因此，我们需要使用数据分析对其进行分解，并了解影响整体性能的因素。**** ****<http://samirsaci.com> **** 
 
 # ****二。端到端配送流程****
 
@@ -175,7 +175,7 @@
 ****💡** The added value at this stage is to provide detailed visibility of the performance by process. Your role is to support operational teams to improve their performance by implementing a continuous improvement culture backed by data.**
 ```
 
-****[](http://samirsaci.com) **** 
+****<http://samirsaci.com> **** 
 
 # ****四。结论****
 
@@ -253,7 +253,7 @@
 
 ****欲知详情，****
 
-****[](https://www.samirsaci.com/what-is-a-supply-chain-digital-twin/)  
+****<https://www.samirsaci.com/what-is-a-supply-chain-digital-twin/>  
 
 # 关于我
 
@@ -261,4 +261,4 @@
 
 如果你对数据分析和供应链感兴趣，可以看看我的网站
 
-[](https://samirsaci.com) ****
+<https://samirsaci.com> ****

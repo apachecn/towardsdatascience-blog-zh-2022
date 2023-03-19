@@ -176,4 +176,4 @@ Plotly express 与其他可视化库一样简单，并为您提供了额外的�
 
 ## 参考
 
-[](https://plotly.com/python/plotly-express/)  [](https://plotly.com/python/subplots/)    [](https://gustavorsantos.medium.com/) 
+<https://plotly.com/python/plotly-express/>  <https://plotly.com/python/subplots/>    <https://gustavorsantos.medium.com/> 

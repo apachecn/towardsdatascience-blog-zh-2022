@@ -32,7 +32,7 @@
 
 *如果你愿意了解移动定位数据的分析结果及其应用，我建议你阅读这个故事:*
 
-*[](/interactive-flow-map-with-an-od-matrix-of-regular-movements-in-tartu-estonia-3ac6b7738397)  
+*</interactive-flow-map-with-an-od-matrix-of-regular-movements-in-tartu-estonia-3ac6b7738397>  
 
 # **目标**
 

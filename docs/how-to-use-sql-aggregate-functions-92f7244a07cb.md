@@ -36,7 +36,7 @@ SQL 聚合函数对一组值执行计算并返回一个值。嗯，大多数时�
 
 *有*子句与*相似，其中*子句有一些不同。它只能用于属于 GROUP BY 子句或聚合函数的*列。我写了一篇关于 SQL 中过滤子句的详细文章，可以在这里随意参考，*
 
-[](/commonly-asked-interview-question-where-vs-having-vs-qualify-1445a1d15902)  
+</commonly-asked-interview-question-where-vs-having-vs-qualify-1445a1d15902>  
 
 *DISTINCT* 子句用于过滤掉重复项，只提供结果集中唯一的值。
 

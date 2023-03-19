@@ -20,7 +20,7 @@
 
 我们将进行一个虚拟项目。目前，它包含一个`hello.py`脚本和一个包含 5 个音频文件的小型虚拟`audio_data` 数据集。你可以在 Github 的这里找到[。](https://github.com/V-Sher/medium_debugger)
 
-[](https://github.com/V-Sher/medium_debugger)  
+<https://github.com/V-Sher/medium_debugger>  
 
 作为健全性检查，运行脚本以查看终端中的输出。
 
@@ -274,4 +274,4 @@ hello.py
 
 我喜欢写循序渐进的初学者指南、操作指南、面试问题、ML/AI 中使用的解码术语等。如果你想完全访问我的所有文章(以及其他媒体上的文章)，那么你可以注册使用 [***我的链接***](https://varshitasher.medium.com/membership)**这里* ***。****
 
-*[](/fine-tuning-hubert-for-emotion-recognition-in-custom-audio-data-using-huggingface-c2d516b41cd8)  [](/time-series-modeling-using-scikit-pandas-and-numpy-682e3b8db8d1)  [](/end-to-end-deep-learning-project-part-1-930af1e1e191)  [](/step-by-step-guide-to-explaining-your-ml-project-during-a-data-science-interview-81dfaaa408bf) *
+*</fine-tuning-hubert-for-emotion-recognition-in-custom-audio-data-using-huggingface-c2d516b41cd8>  </time-series-modeling-using-scikit-pandas-and-numpy-682e3b8db8d1>  </end-to-end-deep-learning-project-part-1-930af1e1e191>  </step-by-step-guide-to-explaining-your-ml-project-during-a-data-science-interview-81dfaaa408bf> *

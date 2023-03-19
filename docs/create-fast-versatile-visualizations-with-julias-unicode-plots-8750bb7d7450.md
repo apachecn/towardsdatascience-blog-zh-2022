@@ -16,11 +16,11 @@ Jupyter 笔记本经常提到的一个重要问题是状态。许多人试图解
 
 然而，这些笔记本电脑的一个非常大的好处是，数据科学家经常想要在网络浏览器中查看他们的输出。在某些情况下，这有点像试图在没有浏览器的情况下测试新的 JavaScript 网站，而试图在浏览器之外进行数据科学研究。至少，对于许多分析任务来说是这样的——更具体地说，是可视化。说到数据可视化，Julia 确实有一些相当健壮和有用的图形库，在大多数情况下，我已经在我的博客上查看了几乎所有的图形库。如果你想看看我过去写的故事的模块的比较，这里有一个文章的链接，我在这里做了一个概述，并对 Plots.jl 和 Vegalite.jl 这样的模块做了比较:
 
-[](/julia-visualization-libraries-which-is-best-e4108d3eeaba)  
+</julia-visualization-libraries-which-is-best-e4108d3eeaba>  
 
 鉴于笔记本电脑存在的所有问题，大多数数据科学家可能已经考虑彻底抛弃它们。REPLs 虽然不是地球上最具可复制性的东西，但实际上工作得相当好——而且有一些 IDE 提供了数据科学家经常渴望的那种反应式编程，所以为什么不抛弃笔记本，尝试一些新的东西呢？今天，我们将在 Julia 中测试 REPL 的潜力，尝试使用一个名为 UnicodePlots.jl 的强大软件包将我们的数据可视化移回 REPL。除了强大之外，这些可视化对于那些可能会暂时或永久绑定到终端的人来说也非常有用。然而，以我的读者能够非常容易地复制我的代码(并在他们的 web 浏览器中查看输入/输出)的名义，我将在下面的例子中在笔记本中使用这个库。如果您想查看此笔记本，请点击以下链接:
 
-[](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/Unicode%20Plotting.ipynb)  
+<https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/Unicode%20Plotting.ipynb>  
 
 # 基础知识
 

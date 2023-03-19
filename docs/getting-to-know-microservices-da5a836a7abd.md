@@ -60,7 +60,7 @@ monoliths 的优点是可以进行集中记录，即系统的状态通过一个�
 
 由于微服务是相互独立的，所以它们也可以在自己的环境中运行，只要这些环境可以通过接口相互通信。虚拟化平台 [Docker](https://databasecamp.de/en/data/docker-basics) 经常用于此目的。它使得在一台机器上启动几个彼此独立运行的所谓容器成为可能。
 
-[](/beginners-guide-to-kubernetes-and-docker-c07655e43ebb)  
+</beginners-guide-to-kubernetes-and-docker-c07655e43ebb>  
 
 单个服务所需的所有信息和资源都包含在这个容器中。此外，如果服务需要，容器还可以单独缩放，即变得更强大。
 
@@ -70,7 +70,7 @@ monoliths 的优点是可以进行集中记录，即系统的状态通过一个�
 
 然而，将完成的模型和机器学习管道划分到不同的微服务中是有意义的，以便尽可能地节约成本和资源。特别是神经网络和变压器可以用 GPU 相对快速地计算。但是在云中使用 GPU 在很多情况下是很昂贵的，所以只有模型计算的微服务才应该运行在 GPU 上。另一方面，预处理和后处理也可以在没有 GPU 的情况下进行。
 
-[](https://medium.com/nerd-for-tech/easy-guide-to-transformer-models-6b15c103bfcf)  
+<https://medium.com/nerd-for-tech/easy-guide-to-transformer-models-6b15c103bfcf>  
 
 因此，在许多用例中，将复杂的模型划分为微服务以提高部署效率是有意义的。然而，具体的优势取决于许多因素，应该与每个个案中重新编程的额外努力进行权衡。
 
@@ -80,6 +80,6 @@ monoliths 的优点是可以进行集中记录，即系统的状态通过一个�
 *   与此相反的是整体，其中软件由一个结合了所有功能的大型结构组成。
 *   微服务的优点是独立于单独的服务，增加了兼容性，并且易于扩展。
 
-*如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
+*如果你喜欢我的作品，请在这里订阅*<https://medium.com/subscribe/@niklas_lang>**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
 
-*[](/beginners-guide-extract-transform-load-etl-49104a8f9294)  [](/why-you-should-know-big-data-3c0c161b9e14)  [](/introduction-to-apache-hadoop-distributed-file-system-99cb98d175c) *
+*</beginners-guide-extract-transform-load-etl-49104a8f9294>  </why-you-should-know-big-data-3c0c161b9e14>  </introduction-to-apache-hadoop-distributed-file-system-99cb98d175c> *

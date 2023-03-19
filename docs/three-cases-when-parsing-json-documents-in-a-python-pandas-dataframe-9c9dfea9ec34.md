@@ -235,6 +235,6 @@ df = pd.concat([
 
 在这篇文章中，我介绍了 Pandas 框架中最方便的方法之一`json_normalise()`。它很容易使用，可以节省大量的时间和精力，虽然有时它不能处理一些特殊情况。本文展示了 JSON 文档中有空值的 3 种情况以及如何处理它。
 
-[](https://medium.com/@qiuyujx/membership)  
+<https://medium.com/@qiuyujx/membership>  
 
 如果你觉得我的文章有帮助，请考虑加入 Medium 会员来支持我和成千上万的其他作者！(点击上面的链接)

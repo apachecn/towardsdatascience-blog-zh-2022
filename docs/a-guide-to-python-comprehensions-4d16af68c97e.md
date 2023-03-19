@@ -1061,7 +1061,7 @@ def process_texts(input_paths: List[pathlib.Path]) -> None:
 
 # *资源*
 
-*[](/does-python-still-need-the-map-function-96787ea1fb05)  [](/building-generator-pipelines-in-python-8931535792ff)    [](/benchmarking-python-code-with-timeit-80827e131e48)  [](/the-walrus-operator-in-python-a315e4f84583)  
+*</does-python-still-need-the-map-function-96787ea1fb05>  </building-generator-pipelines-in-python-8931535792ff>    </benchmarking-python-code-with-timeit-80827e131e48>  </the-walrus-operator-in-python-a315e4f84583>  
 
 # 脚注
 
@@ -1118,4 +1118,4 @@ def process_texts(input_paths: List[pathlib.Path]) -> None:
 
 如果你懂围棋，你可能已经注意到了两者的相似之处，因为这就是作用域在围棋中的工作方式。
 
-[](https://medium.com/@nyggus/membership) *
+<https://medium.com/@nyggus/membership> *

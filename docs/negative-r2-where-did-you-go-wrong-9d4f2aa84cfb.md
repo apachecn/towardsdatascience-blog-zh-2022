@@ -118,4 +118,4 @@ b)该性能指标可以应用于几乎任何模型的拟合值，因此它与为
 
 凯特·沃尔报道:
 
-[](/level-up-with-python-quickly-produce-pdfs-with-stunning-visuals-d6750c9c7be2)  [](/probability-for-data-scientists-the-capable-chi-squared-distribution-abced58fa157) 
+</level-up-with-python-quickly-produce-pdfs-with-stunning-visuals-d6750c9c7be2>  </probability-for-data-scientists-the-capable-chi-squared-distribution-abced58fa157> 

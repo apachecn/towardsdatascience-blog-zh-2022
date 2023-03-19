@@ -20,7 +20,7 @@
 
 最后，我希望这篇文章将激励机器学习模型的开发人员公开他们模型的能耗和/或碳足迹，以便这些信息可以与模型准确性度量一起用于评估模型的性能。
 
-[](/chatgpts-electricity-consumption-7873483feac4)  [](https://kaspergroesludvigsen.medium.com/chatgpts-electricity-consumption-pt-ii-225e7e43f22b)  
+</chatgpts-electricity-consumption-7873483feac4>  <https://kaspergroesludvigsen.medium.com/chatgpts-electricity-consumption-pt-ii-225e7e43f22b>  
 
 # 大规模机器学习的环境成本
 
@@ -37,7 +37,7 @@
 
 # 2 很大程度上取决于电力是如何产生的，例如太阳能和风能显然比煤更环保。为了量化这一点，我们通常使用硬件所在电网的平均碳强度。
 
-[](/how-to-estimate-and-reduce-the-carbon-footprint-of-machine-learning-models-49f24510880)  
+</how-to-estimate-and-reduce-the-carbon-footprint-of-machine-learning-models-49f24510880>  
 
 # 来自培训聊天的碳足迹
 
@@ -71,7 +71,7 @@
 
 另一方面，如果 OpenAI 的工程师已经找到一些更有效地处理所有请求的聪明方法，我对 ChatGPT 碳足迹的估计可能会太高。
 
-[](/8-podcast-episodes-on-the-climate-impact-of-machine-learning-54f1c19f52d)  
+</8-podcast-episodes-on-the-climate-impact-of-machine-learning-54f1c19f52d>  
 
 # ChatGPT 全生命周期碳足迹
 
@@ -81,7 +81,7 @@
 
 此外，我们还需要获得生产硬件的具体排放量的估计值。这是一个相当复杂的任务，留给读者来做练习。可以在[3]和[5]中找到有用的信息，前者估计了布鲁姆的总生命周期碳足迹，后者估计了脸书一些大型模型的总生命周期碳足迹。
 
-[](https://kaspergroesludvigsen.medium.com/the-10-most-energy-efficient-programming-languages-6a4165126670)  
+<https://kaspergroesludvigsen.medium.com/the-10-most-energy-efficient-programming-languages-6a4165126670>  
 
 # 结论
 

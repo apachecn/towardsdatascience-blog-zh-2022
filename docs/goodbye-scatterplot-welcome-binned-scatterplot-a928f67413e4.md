@@ -92,7 +92,7 @@ s.fig.suptitle("Sales by firm's age");
 
 现在空地少了很多，但看起来我们并没有走远。关节分布**还是太偏**。当数据遵循某种幂分布时就是这种情况，业务数据通常就是这种情况。
 
-一种解决方案是通过取[](https://en.wikipedia.org/wiki/Natural_logarithm)****转换**变量。**
+一种解决方案是通过取<https://en.wikipedia.org/wiki/Natural_logarithm>****转换**变量。**
 
 ```
 df['log_age'] = np.log(df['age'])
@@ -262,7 +262,7 @@ plt.title("Sales by firm's age");*
 
 ***你可以在这里找到 Jupyter 的原版笔记本。***
 
-***[](https://github.com/matteocourthoud/Blog-Posts/blob/main/notebooks/binscatter.ipynb) *** 
+***<https://github.com/matteocourthoud/Blog-Posts/blob/main/notebooks/binscatter.ipynb> *** 
 
 ## ***感谢您的阅读！***
 

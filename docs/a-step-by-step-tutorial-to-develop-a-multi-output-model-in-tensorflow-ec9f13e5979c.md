@@ -12,7 +12,7 @@ Pavel Neznanov 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=
 
 如果你已经知道函数式 API 是如何工作的，对你来说应该很简单。如果您需要关于函数式 API 的教程或复习，这篇文章应该会有所帮助:
 
-[](https://regenerativetoday.com/regression-in-tensorflow-using-both-sequential-and-function-apis/)  
+<https://regenerativetoday.com/regression-in-tensorflow-using-both-sequential-and-function-apis/>  
 
 让我们深入教程。首先导入必要的包:
 
@@ -29,7 +29,7 @@ import itertools
 
 我使用一个名为 auto_clean 的公共数据集。请随意从该链接下载数据集。**这是一个免费的公共数据集。**
 
-[](https://datahub.io/machine-learning/autos#resource-autos)  
+<https://datahub.io/machine-learning/autos#resource-autos>  
 
 首先，用 auto_clean.csv 数据创建一个 pandas 数据框架:
 
@@ -303,4 +303,4 @@ plt.show()
 
 ## 更多阅读
 
-[](/a-complete-guide-for-detecting-and-dealing-with-outliers-bad26b1e92b6)  [](/what-is-a-recurrent-neural-network-and-implementation-of-simplernn-gru-and-lstm-models-in-keras-f7247e97c405)  [](/developing-a-convolutional-neural-network-model-using-the-unlabeled-image-files-directly-from-the-124180b8f21f)  [](/20-very-commonly-used-functions-of-pyspark-rdd-90b8271c25b2) 
+</a-complete-guide-for-detecting-and-dealing-with-outliers-bad26b1e92b6>  </what-is-a-recurrent-neural-network-and-implementation-of-simplernn-gru-and-lstm-models-in-keras-f7247e97c405>  </developing-a-convolutional-neural-network-model-using-the-unlabeled-image-files-directly-from-the-124180b8f21f>  </20-very-commonly-used-functions-of-pyspark-rdd-90b8271c25b2> 

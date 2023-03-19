@@ -321,4 +321,4 @@ INFO:sklearn-pipelines:MAPE: 0.030220
 
 如果你喜欢读我的文章，你可以在 LinkedIn 上关注我，了解关于 ML、MLOps 和自由职业者的每周见解。
 
-[](https://medium.com/membership/@pauliusztin) 
+<https://medium.com/membership/@pauliusztin> 

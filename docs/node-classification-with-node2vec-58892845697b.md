@@ -10,7 +10,7 @@
 
 本文将展示使用图形解决分类问题的管道的实现。今天介绍的解决方案背后的基本算法是 Node2Vec。如果你对 node2vec 不熟悉，我以前写过一篇关于它的文章，你可以在下面看看。
 
-[](/node2vec-explained-db86a319e9ab)  
+</node2vec-explained-db86a319e9ab>  
 
 您还可以在这里查看如何使用 Node2Vec 构建链接预测推荐系统。
 
@@ -143,4 +143,4 @@ node2vec 生成的嵌入数据的输出示例。图片由作者提供。
 
 如果你喜欢读这篇文章，这里有一些我写的其他文章，我想你可能也会喜欢。
 
-[](/text-summarization-in-python-with-jaro-winkler-and-pagerank-72d693da94e8)  [](/random-walks-with-restart-explained-77c3fe216bca)  [](/frequentist-a-b-testing-explained-90b9ce8c28b9)  [](/mining-modelling-character-networks-part-ii-a3d77de89638) 
+</text-summarization-in-python-with-jaro-winkler-and-pagerank-72d693da94e8>  </random-walks-with-restart-explained-77c3fe216bca>  </frequentist-a-b-testing-explained-90b9ce8c28b9>  </mining-modelling-character-networks-part-ii-a3d77de89638> 

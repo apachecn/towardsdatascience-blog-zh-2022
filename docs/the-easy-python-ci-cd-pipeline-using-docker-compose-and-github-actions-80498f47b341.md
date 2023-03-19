@@ -287,4 +287,4 @@ jobs:
 
 另外几个故事引起了你的兴趣:
 
-[](https://betterprogramming.pub/the-easy-python-auto-code-formatting-guide-e8300c82797b)  [](/26-github-repositories-to-inspire-your-next-data-science-project-3023c24f4c3c)  [](https://medium.com/geekculture/21-vscode-keyboard-shortcuts-you-should-know-1b96a65e9428) 
+<https://betterprogramming.pub/the-easy-python-auto-code-formatting-guide-e8300c82797b>  </26-github-repositories-to-inspire-your-next-data-science-project-3023c24f4c3c>  <https://medium.com/geekculture/21-vscode-keyboard-shortcuts-you-should-know-1b96a65e9428> 

@@ -129,6 +129,6 @@
 
 **参考文献**
 
-[](https://microservices.io/patterns/deployment/sidecar.html)  [](https://medium.com/nerd-for-tech/microservice-design-pattern-sidecar-sidekick-pattern-dbcea9bed783)  [](https://thenewstack.io/ten-commandments-microservices)  [](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)  [](https://medium.com/omarelgabrys-blog/plug-in-architecture-dec207291800)  [](https://piotrminkowski.com/2021/07/22/spring-cloud-stream-with-schema-registry-and-kafka/)  [](https://www.fluentd.org/)  [](https://epsagon.com/development/using-redis-to-optimize-mongodb-queries/)  ![](img/eccb1719f22583bddeffb8f357d527f1.png)
+<https://microservices.io/patterns/deployment/sidecar.html>  <https://medium.com/nerd-for-tech/microservice-design-pattern-sidecar-sidekick-pattern-dbcea9bed783>  <https://thenewstack.io/ten-commandments-microservices>  <https://en.wikipedia.org/wiki/Don%27t_repeat_yourself>  <https://medium.com/omarelgabrys-blog/plug-in-architecture-dec207291800>  <https://piotrminkowski.com/2021/07/22/spring-cloud-stream-with-schema-registry-and-kafka/>  <https://www.fluentd.org/>  <https://epsagon.com/development/using-redis-to-optimize-mongodb-queries/>  ![](img/eccb1719f22583bddeffb8f357d527f1.png)
 
 一张服务的网，只因为图像的美丽:)(图片由 Unsplash 提供)

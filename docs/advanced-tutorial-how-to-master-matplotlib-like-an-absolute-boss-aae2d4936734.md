@@ -18,11 +18,11 @@
 
 如果你在那个位置，或者想加强你的 Matplotlib 游戏，我有你需要的指南。我会告诉你如何深入 Matplotlib 丛林的根部，放一把火，然后乘着喷气背包飞出去了。你准备好了吗？开始吧！
 
-[](https://ibexorigin.medium.com/membership)  
+<https://ibexorigin.medium.com/membership>  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex)  
+<https://alphasignal.ai/?referrer=Bex>  
 
 # 艺术家创造了 Matplotlib
 
@@ -217,8 +217,8 @@ ax = axes_list[0]
 
 我希望这三种技能都来自你。我的部分是展示如何使用 Python 生态系统中最强大的绘图库之一来补充这些技能。我已经教了你一个强大的迭代过程，使你能够以智能和结构化的方式改进 Matplotlib 图。
 
-[](https://ibexorigin.medium.com/membership)  [](https://ibexorigin.medium.com/subscribe)  
+<https://ibexorigin.medium.com/membership>  <https://ibexorigin.medium.com/subscribe>  
 
 # 您可能会对这些热门话题感兴趣…
 
-[](/10-sklearn-gems-buried-in-the-docs-waiting-to-be-found-ad95a8fabdfd)  [](https://ibexorigin.medium.com/python-became-the-language-of-the-year-3-times-in-4-years-it-wont-be-this-year-e5c724758ef)  [](/matplotlib-vs-plotly-lets-decide-once-and-for-all-dc3eca9aa011)  [](https://ibexorigin.medium.com/how-to-use-matplotlib-annotations-like-you-know-what-you-are-doing-da61e397cce3) 
+</10-sklearn-gems-buried-in-the-docs-waiting-to-be-found-ad95a8fabdfd>  <https://ibexorigin.medium.com/python-became-the-language-of-the-year-3-times-in-4-years-it-wont-be-this-year-e5c724758ef>  </matplotlib-vs-plotly-lets-decide-once-and-for-all-dc3eca9aa011>  <https://ibexorigin.medium.com/how-to-use-matplotlib-annotations-like-you-know-what-you-are-doing-da61e397cce3> 

@@ -20,7 +20,7 @@
 
 彗星拓扑，有一种比萨斜塔的感觉。图片作者。
 
-[](/xlm-cross-lingual-language-model-33c1fd1adf82)  
+</xlm-cross-lingual-language-model-33c1fd1adf82>  
 
 在 WMT 的 [metrics 共享任务](https://www.statmt.org/wmt21/pdf/2021.wmt-1.73.pdf)中，Comet 因与人类判断的相关性而排名靠前。然而，它是一个具有 500M 参数的相当大的模型，并且运行缓慢。当我们需要经常运行它时，这尤其是一个问题，例如以最小的风险[解码](https://aclanthology.org/N04-1022.pdf)或[训练](https://aclanthology.org/P16-1159/)。
 
@@ -46,7 +46,7 @@ Comet 编码其三元组的方式使缓存成为可能:源、假设和引用被�
 
 使用 [TextPruner](https://textpruner.readthedocs.io/en/ latest) 执行修剪，这是一个开源工具，为许多预训练的变压器实现层修剪。如果这是你的任务，就查一下。
 
-[](/neural-network-pruning-101-af816aaea61)  
+</neural-network-pruning-101-af816aaea61>  
 
 *权重成比例地降低向量的大小，但这只是故事的一部分。Kobayashi 和他的同事的这篇论文表明，矢量的原始大小也必须被考虑。这也很直观，因为外部权重也可以重新平衡不平衡的向量。
 
@@ -54,7 +54,7 @@ Comet 编码其三元组的方式使缓存成为可能:源、假设和引用被�
 
 虽然层修剪有助于以较小的退化减少参数计数，但是模型仍然太大而不能有效地使用。事实上，它的大尺寸极大地影响了计算能力和时间，特别是对于需要重复 MT 评估计算的应用，例如最小贝叶斯风险解码。为了实现显著的参数缩减，需要[知识提炼](https://arxiv.org/abs/1503.02531)。
 
-[](/knowledge-distillation-simplified-dd4973dbc764)  
+</knowledge-distillation-simplified-dd4973dbc764>  
 
 通过知识提炼，使用原始模型的输出作为学习目标来训练一个新的更小的模型。对于这个特定的任务，作者使用 OPUS 语料库的 15 个语言对，用两个不同质量的机器翻译模型翻译其 2500 万个句子对，并使用 5 个 Comet 模型的集合来评估翻译。由于这些是没有经过人工评估的机器翻译训练数据，所以没有用来训练 Comet。
 
@@ -74,4 +74,4 @@ Cometinho 的论文具有实际意义，因为它展示了如何应用模型简�
 
 如果你对这个话题感兴趣，你的下一步可以是研究量化作为进一步的技术，以减少模型的大小和提高推理时间。
 
-[](/pick-your-deep-learning-tool-d01fcfb86845)  [](/massive-pretraining-for-bilingual-machine-translation-3e26bfd85432)  [](/dynamically-add-arguments-to-argparse-python-patterns-a439121abc39) 
+</pick-your-deep-learning-tool-d01fcfb86845>  </massive-pretraining-for-bilingual-machine-translation-3e26bfd85432>  </dynamically-add-arguments-to-argparse-python-patterns-a439121abc39> 

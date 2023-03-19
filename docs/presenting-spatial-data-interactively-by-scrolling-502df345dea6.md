@@ -27,7 +27,7 @@
 
 然后遇到了[库斯伯特·周](https://medium.com/u/bff07afa23c2?source=post_page-----502df345dea6--------------------------------)关于 D3.js 的文章，D3.js 是一个 javascript 库，用来操作 DOM(文档对象模型)中的元素和 svg。人们使用 D3.js 来呈现数据，其中 Chow 做了精彩的演示，扩展了 Jim Vallandingham 的文章。看他下面的文章。
 
-[](/how-i-created-an-interactive-scrolling-visualisation-with-d3-js-and-how-you-can-too-e116372e2c73)  
+</how-i-created-an-interactive-scrolling-visualisation-with-d3-js-and-how-you-can-too-e116372e2c73>  
 
 然后我想到:我们也可以用地图来制作这个！使用 javascript 可以实现滚动和交互显示数据的想法。这篇文章讲述了我是如何做到的。
 
@@ -48,7 +48,7 @@
 
 我写的是空间数据科学，在接下来的文章中我写了一篇关于表示空间数据的文章。本文就是论证。
 
-[](/spatial-data-science-javascript-python-60464cbe908d)  
+</spatial-data-science-javascript-python-60464cbe908d>  
 
 基本上它的工作原理是:
 
@@ -70,7 +70,7 @@
 
 大部分代码来自 Jim 关于 javascript scroller 的文章。基于这段代码的演示是[这里有](http://vallandingham.me/scroll_demo/)。
 
-[](https://vallandingham.me/scroller.html)  
+<https://vallandingham.me/scroller.html>  
 
 但是在这篇文章中，我讨论的是我的演示。我将根据这些组件对其进行分解:
 
@@ -229,7 +229,7 @@ const positionMap = (sectionIndex) =>{
 
 在无模式数据结构中，基本上是一个包含 JSON 对象的数组，我们可以添加任意属性。我在数据结构文章中演示了这一点。
 
-[](/spatial-data-science-data-structures-a00c484b8a00)  
+</spatial-data-science-data-structures-a00c484b8a00>  
 
 我们可以这样定义一个最小的空间数据:
 

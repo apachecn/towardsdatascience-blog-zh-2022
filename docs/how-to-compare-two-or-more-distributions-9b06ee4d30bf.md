@@ -12,7 +12,7 @@
 
 比较变量在不同组中的经验分布是数据科学中的一个常见问题。特别是，在因果推断中，当我们不得不**评估随机化的质量**时，问题经常出现。
 
-当我们想要评估一项政策(或 UX 特色、广告活动、药物……)的因果效应时，因果推断的黄金标准是[](https://en.wikipedia.org/wiki/Randomized_controlled_trial)**随机对照试验，也称为 [**A/B 测试**](https://de.wikipedia.org/wiki/A/B-Test) 。在实践中，我们选择一个样本进行研究，并将其随机分为**对照组**和**治疗组**，并比较两组之间的结果。随机化确保两组之间的唯一差异是平均治疗，因此我们可以将结果差异归因于治疗效果。**
+当我们想要评估一项政策(或 UX 特色、广告活动、药物……)的因果效应时，因果推断的黄金标准是<https://en.wikipedia.org/wiki/Randomized_controlled_trial>**随机对照试验，也称为 [**A/B 测试**](https://de.wikipedia.org/wiki/A/B-Test) 。在实践中，我们选择一个样本进行研究，并将其随机分为**对照组**和**治疗组**，并比较两组之间的结果。随机化确保两组之间的唯一差异是平均治疗，因此我们可以将结果差异归因于治疗效果。**
 
 **T21 的问题是，尽管进行了随机分组，两组人永远不会完全相同。然而，有时候，他们甚至不“相似”。例如，我们可能在一个群体中有更多的男性，或者老年人，等等..(我们通常称这些特征为*协变量*或*控制变量*)。当这种情况发生时，我们不能再确定结果的差异仅仅是由于治疗，而不是由于**不平衡的协变量**。因此，在随机化之后，检查所有观察到的变量在各组之间是否平衡以及是否没有系统性差异总是很重要的。另一个选择是[分层抽样](https://en.wikipedia.org/wiki/Stratified_sampling)，为了事先确定某些协变量是平衡的。**
 
@@ -526,7 +526,7 @@ print(f"F Test: statistic={stat:.4f}, p-value={p_value:.4f}")F Test: statistic=9
 
 ***你可以在这里找到 Jupyter 的原始笔记本:***
 
-***[](https://github.com/matteocourthoud/Blog-Posts/blob/main/notebooks/distr.ipynb) *** 
+***<https://github.com/matteocourthoud/Blog-Posts/blob/main/notebooks/distr.ipynb> *** 
 
 ## ***感谢您的阅读！***
 

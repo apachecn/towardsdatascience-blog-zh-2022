@@ -125,6 +125,6 @@ x2 <= M*x2_dummy
 
 ## 有关系的
 
-[](/why-every-data-scientist-should-learn-mathematical-optimization-3ac102663456)  [](/how-to-handle-optimization-problems-daf97b3c248c)  
+</why-every-data-scientist-should-learn-mathematical-optimization-3ac102663456>  </how-to-handle-optimization-problems-daf97b3c248c>  
 
 如果你想在我发表新文章时收到电子邮件，别忘了订阅。

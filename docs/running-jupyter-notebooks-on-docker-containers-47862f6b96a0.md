@@ -26,7 +26,7 @@
 
 使用的数据是在 Kaggle 上找到的数据的子集。它包含 1，800，000 个训练样本，200，000 个测试样本，因此每个评论要么是“正面的”，要么是“负面的”。
 
-[](https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews)  
+<https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews>  
 
 由于这是一个大型数据集，并且我们正在使用 AWS，因此数据存储在 S3 存储桶中。此外，确保您正在使用的 bucket 和 AWS 服务在同一个[区域](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html)中。对于这个项目，选择的地区是**美国东部-2** (美国东俄亥俄州)。
 
@@ -95,4 +95,4 @@ SageMaker 处理模块允许我们使用一个[框架](https://sagemaker.readthe
 
 如果您有兴趣查看完整的代码和输出来验证您自己的工作，请查看下面的 Github repo:
 
-[](https://github.com/NadimKawwa/amazon-review-docker/blob/main/README.md) 
+<https://github.com/NadimKawwa/amazon-review-docker/blob/main/README.md> 

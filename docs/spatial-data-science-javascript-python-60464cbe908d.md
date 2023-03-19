@@ -20,7 +20,7 @@ Python 已经是我多年来最好的朋友了。它加速了我作为交通/城
 
 在开始之前，请注意，本文是空间数据科学系列的一部分。更多类似的文章，请访问下面的元文章
 
-[](https://medium.com/rekayasa-data-spasial/spatial-data-science-the-series-81344a3ead29)  
+<https://medium.com/rekayasa-data-spasial/spatial-data-science-the-series-81344a3ead29>  
 
 让我们探索每一点，好吗？
 
@@ -28,7 +28,7 @@ Python 已经是我多年来最好的朋友了。它加速了我作为交通/城
 
 在我们学习语言之前，我认为了解语言的类型是很重要的。我们将编程语言分为两类:编译语言和解释语言。这个帖子值得一看。
 
-[](https://stackoverflow.com/questions/3265357/compiled-vs-interpreted-languages)  
+<https://stackoverflow.com/questions/3265357/compiled-vs-interpreted-languages>  
 
 简而言之:
 
@@ -61,7 +61,7 @@ Python 的主要优势是:
 
 当数据存在时，分析数据是容易的，然而，通常情况下，数据分散在整个星系和服务器中。数据工程将这些分散的数据变成可供数据分析师使用的数据。最基本的角色是执行 ETL(提取、转换、加载)。medium 里面有很多关于 ETL 的文章；例如，使用 Apache Airflow，或者通常使用请求模块；但是大部分都在用 Python 或者要求 Python 是主要语言。
 
-[](https://airflow.apache.org/)  
+<https://airflow.apache.org/>  
 
 ## 全栈应用
 
@@ -73,7 +73,7 @@ Python 的主要优势是:
 
 这个建议是基于多年的实践。我的判断是，这可能是人们所需要的。
 
-[](/spatial-data-science-installing-gdal-on-windows-and-macos-6fb5c958dc26)  
+</spatial-data-science-installing-gdal-on-windows-and-macos-6fb5c958dc26>  
 
 ## 学习资源
 
@@ -94,7 +94,7 @@ Python 的主要优势是:
 
 Python 数据分析的结果可以以 HTML 格式呈现。例如，Python 中的 Folium 模块将地理空间信息转换成 html 地图，使我们的地图具有交互性。它利用了 Javascript 传单库，我们稍后将讨论这一点。
 
-[](https://python-visualization.github.io/folium/)  
+<https://python-visualization.github.io/folium/>  
 
 ## 入门指南
 
@@ -122,7 +122,7 @@ You should have the text in the top right and left corner of the browsers.
 
 w3school 是一个非常好的资源。他们提供简单的指导。
 
-[](https://www.w3schools.com/html/)  
+<https://www.w3schools.com/html/>  
 
 # java 描述语言
 
@@ -153,7 +153,7 @@ Javascript 控制台(来源:作者，2022)
 
 普通的 javascript(唯一的 Javascript，比如，基础的)也可以从 w3schools 学到。
 
-[](https://www.w3schools.com/js/default.asp)  
+<https://www.w3schools.com/js/default.asp>  
 
 如果你只关心简单的 web，那么香草 javascript 是你需要的。学会操作 DOM(文档对象模型)和显示数据。
 

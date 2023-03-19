@@ -235,11 +235,11 @@ Epoch 5: Train Loss=0.21393 - Accs=[0.956, 0.748]
 
 *如果你喜欢这篇文章，想支持我当作家，可以考虑成为* [*中等会员*](https://cordmaur.medium.com/membership) *。每月只需 5 美元，我会从你的会员费中收取一小笔佣金，不需要你额外付费。或者你可以随时给我买杯咖啡。*
 
-[](https://cordmaur.medium.com/membership)  
+<https://cordmaur.medium.com/membership>  
 
 # 以前的零件
 
-[](/artificial-intelligence-for-geospatial-analysis-with-pytorchs-torchgeo-part-1-52d17e409f09)  [](/artificial-intelligence-for-geospatial-analysis-with-pytorchs-torchgeo-part-2-ec3785fae284)  
+</artificial-intelligence-for-geospatial-analysis-with-pytorchs-torchgeo-part-1-52d17e409f09>  </artificial-intelligence-for-geospatial-analysis-with-pytorchs-torchgeo-part-2-ec3785fae284>  
 
 # 参考资料:
 

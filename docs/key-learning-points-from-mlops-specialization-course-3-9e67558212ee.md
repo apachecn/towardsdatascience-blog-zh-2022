@@ -253,11 +253,11 @@
 
 **准备好了吗？点击此处查看下一期课程总结:**
 
-**[](/key-learning-points-from-mlops-specialization-course-4-ee39bbd2864b)  
+**</key-learning-points-from-mlops-specialization-course-4-ee39bbd2864b>  
 
 您可以在此处找到前两个课程的总结:
 
-[](/key-learning-points-from-mlops-specialization-course-deeplearning-ai-andrew-ng-5d0746605752)  [](/key-learning-points-from-mlops-specialization-course-2-13af51e22d90)  
+</key-learning-points-from-mlops-specialization-course-deeplearning-ai-andrew-ng-5d0746605752>  </key-learning-points-from-mlops-specialization-course-2-13af51e22d90>  
 
 # 在你走之前
 

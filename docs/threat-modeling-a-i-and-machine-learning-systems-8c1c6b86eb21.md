@@ -103,4 +103,4 @@
 
 我希望这有助于你看到威胁建模如何以一种清晰易懂的方式帮助设想人工智能的风险和威胁。从本质上来说，威胁建模就是提出“什么会出错”的问题，并在像攻击者一样思考的同时回答这个问题。在人工智能的整个生命周期中执行这个过程，每当有重大变化时，你会看到你的人工智能安全状况的切实改善
 
-> 我希望你喜欢阅读这篇文章。如果你觉得这个话题很有趣，那就去看看我的书《人工智能治理与网络安全》[](https://www.amazon.com/gp/product/B09YHK8L2T/)****或者我的*** [***教程***](https://cloudsecguy.gumroad.com/l/aigovernance) ***。请考虑使用此*** [***链接***](https://taimurcloud123.medium.com/membership) 成为中等会员来支持我*
+> 我希望你喜欢阅读这篇文章。如果你觉得这个话题很有趣，那就去看看我的书《人工智能治理与网络安全》<https://www.amazon.com/gp/product/B09YHK8L2T/>****或者我的*** [***教程***](https://cloudsecguy.gumroad.com/l/aigovernance) ***。请考虑使用此*** [***链接***](https://taimurcloud123.medium.com/membership) 成为中等会员来支持我*

@@ -26,7 +26,7 @@
 
 但是我们可以有第二个更简单的方法。互联网上有一些公开的、精心策划的知识图谱，比如 [Hetionet](https://het.io/) 、 [STRING](https://string-db.org/) 和 [KEGG](https://www.kegg.jp/kegg/) 。为什么不直接把这些数据转移到 Doctor.ai 里？然后，Doctor.ai 将在其所有医疗记录的基础上获得关于药物-药物相互作用、药物副作用、基因-基因相互作用的知识。在这篇文章中，我将向您展示如何将这三个数据库集成到 Doctor.ai 中。您可以在我的存储库中找到这些数据和我的代码。
 
-[](https://github.com/dgg32/transfer_kg)  
+<https://github.com/dgg32/transfer_kg>  
 
 集成知识图转储在这里:
 
@@ -118,4 +118,4 @@ KEGG 疾病数据库的整合更加复杂。我已经通过 KEGG API 下载了�
 
 [*本文*](https://medium.com/p/1396d1cd6fa5) *采用 GPT-3 作为 NLU，提高性能，减少开发时间，收缩代码。*
 
-[](https://dgg32.medium.com/membership) 
+<https://dgg32.medium.com/membership> 

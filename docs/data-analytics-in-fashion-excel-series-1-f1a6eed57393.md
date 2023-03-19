@@ -20,13 +20,13 @@ Timur Saglambilek 以[像素](https://www.pexels.com/photo/analytics-text-185576
 
 > **和我在一起……**
 
-[](https://medium.com/data4fashion/fashion-and-big-data-application-cb946dd76844)  
+<https://medium.com/data4fashion/fashion-and-big-data-application-cb946dd76844>  
 
 虽然许多时尚品牌尚未利用数据的力量，但一些品牌正在探索员工技能提升选项和人才搜寻，一些品牌甚至愿意培训新的数据专业人员，如数据工程师、数据分析师、数据科学家、云工程师等。
 
 换句话说，无论你是核心设计师、插画师、跟单员、技术设计师等，你都需要知道如何从你公司的数据中解读见解- **掌握数据分析。**
 
-[](/re-imagine-the-business-of-fashion-part-1-cc8037cbef6d)  
+</re-imagine-the-business-of-fashion-part-1-cc8037cbef6d>  
 
 也就是说，本文将重点关注数据分析的关键步骤之一，即**“数据清理”、**，但在探索这一步骤之前，让我带您了解一下数据分析生命周期的各个阶段。
 
@@ -179,7 +179,7 @@ Two things to do before performing data cleaning;#1.Make a copy of your dataset.
 11.  查找和替换
 12.  表格格式
 
-> 既然您已经了解了数据清理的概念和一些清理数据的 excel 技术，请直接跳到这里的[](/data-analytics-in-fashion-excel-series-2-8e29be44a306)**，您将直接进入使用上述 15 种技术中的每一种的逐步过程。**
+> 既然您已经了解了数据清理的概念和一些清理数据的 excel 技术，请直接跳到这里的</data-analytics-in-fashion-excel-series-2-8e29be44a306>**，您将直接进入使用上述 15 种技术中的每一种的逐步过程。**
 
 ```
 The next two tutorials in this series will be structured below;**Tutorial 2: Techniques 1–6****Tutorial 3: Techniques 7–12****Tutorial 4: A complete Data Cleaning Project in Microsoft Excel.**
@@ -197,6 +197,6 @@ The next two tutorials in this series will be structured below;**Tutorial 2: Tec
 
 ***干杯！***
 
-**[](/practical-guide-to-data-visualization-83e375b0037) [## 数据可视化实用指南
+**</practical-guide-to-data-visualization-83e375b0037> [## 数据可视化实用指南
 
 towardsdatascience.com](/practical-guide-to-data-visualization-83e375b0037)**

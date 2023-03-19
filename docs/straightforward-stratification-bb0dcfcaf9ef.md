@@ -186,7 +186,7 @@ bin_count       = 15
 
 AIQC 是本帖作者创建的一个开源库。
 
-*别忘了 github.com/aiqc/aiqc*[](https://github.com/aiqc/aiqc)
+*别忘了 github.com/aiqc/aiqc*<https://github.com/aiqc/aiqc>
 
 ## *摘要*
 

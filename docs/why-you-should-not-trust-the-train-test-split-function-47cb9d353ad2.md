@@ -126,6 +126,6 @@ mean = 3029.5400317608987std = 302.5362185895346
 
 # 相关文章
 
-[](/a-complete-data-analysis-workflow-in-python-and-scikit-learn-9a77f7c283d3) [## Python 和 scikit 中的完整数据分析工作流程-学习
+</a-complete-data-analysis-workflow-in-python-and-scikit-learn-9a77f7c283d3> [## Python 和 scikit 中的完整数据分析工作流程-学习
 
-towardsdatascience.com](/a-complete-data-analysis-workflow-in-python-and-scikit-learn-9a77f7c283d3) [](/how-to-spend-your-time-when-you-are-waiting-for-a-data-analysis-output-e71b383f43cb)  [](/have-you-ever-thought-about-using-python-virtualenv-fc419d8b0785)  [](/automl-in-python-a-comparison-between-hyperopt-sklearn-and-tpot-8c12aaf7e829) 
+towardsdatascience.com](/a-complete-data-analysis-workflow-in-python-and-scikit-learn-9a77f7c283d3) </how-to-spend-your-time-when-you-are-waiting-for-a-data-analysis-output-e71b383f43cb>  </have-you-ever-thought-about-using-python-virtualenv-fc419d8b0785>  </automl-in-python-a-comparison-between-hyperopt-sklearn-and-tpot-8c12aaf7e829> 

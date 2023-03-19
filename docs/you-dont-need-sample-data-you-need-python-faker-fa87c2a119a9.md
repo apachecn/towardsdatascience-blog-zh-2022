@@ -278,6 +278,6 @@ fake = Faker()for _ in range(5):
 
 在本文中，我介绍了 Faker 库，它是 Python 社区中令人惊叹的反重力库之一。它确实非常容易使用，而且会非常有用。当你只需要一些哑数据，并且不关心数据的分布时，可以考虑先用 Faker。
 
-[](https://medium.com/@qiuyujx/membership)  
+<https://medium.com/@qiuyujx/membership>  
 
 如果你觉得我的文章有帮助，请考虑加入 Medium 会员来支持我和成千上万的其他作者！(点击上面的链接)

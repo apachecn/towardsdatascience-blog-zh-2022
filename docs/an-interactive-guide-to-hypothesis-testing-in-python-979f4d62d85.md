@@ -57,7 +57,7 @@ p 值的计算方式因统计测试而异。首先，基于观察到的样本数
 
 除了显著性水平，[功效分析](/statistical-power-in-hypothesis-testing-visually-explained-1576968b587e)也常用于假设检验，查看我关于统计功效的文章。
 
-[](/statistical-power-in-hypothesis-testing-visually-explained-1576968b587e)  
+</statistical-power-in-hypothesis-testing-visually-explained-1576968b587e>  
 
 # 用示例进行假设检验
 
@@ -284,7 +284,7 @@ pvalue = 1 - rv.cdf(x)*
 
 ## *更多这样的文章*
 
-*[](/how-to-self-learn-data-science-in-2022-a537a76d138e)  ![Destin Gong](img/dcd4375055f8aa7602b1433a60ad5ca3.png)
+*</how-to-self-learn-data-science-in-2022-a537a76d138e>  ![Destin Gong](img/dcd4375055f8aa7602b1433a60ad5ca3.png)
 
 [德斯坦贡](https://destingong.medium.com/?source=post_page-----979f4d62d85--------------------------------)
 

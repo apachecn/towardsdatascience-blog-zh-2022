@@ -27,11 +27,11 @@
 
 接下来，报告平均分数及其标准偏差作为置信区间。只有这样，您才能真正用所选的参数来判断模型的性能，因为您得到的平均分将代表模型从数据中有效学习并对未知样本进行准确预测的真正潜力。
 
-[](https://ibexorigin.medium.com/membership)  
+<https://ibexorigin.medium.com/membership>  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex)  
+<https://alphasignal.ai/?referrer=Bex>  
 
 # 1.KFold
 
@@ -141,8 +141,8 @@ ShuffleSplit 的优点是您可以完全控制每个折叠中的序列和集合�
 
 感谢您的阅读！
 
-[](https://ibexorigin.medium.com/membership)  [](https://ibexorigin.medium.com/subscribe)  
+<https://ibexorigin.medium.com/membership>  <https://ibexorigin.medium.com/subscribe>  
 
 ## 阅读更多我写的故事…
 
-[](https://ibexorigin.medium.com/28-weekly-machine-learning-tricks-and-resources-that-are-pure-gems-1-8e5259a93c94)  [](/10-sklearn-gems-buried-in-the-docs-waiting-to-be-found-ad95a8fabdfd)  [](https://ibexorigin.medium.com/26-weekly-ml-tricks-and-resources-that-are-pure-gems-2-3be56841b1d9)  [](/advanced-tutorial-how-to-master-matplotlib-like-an-absolute-boss-aae2d4936734) 
+<https://ibexorigin.medium.com/28-weekly-machine-learning-tricks-and-resources-that-are-pure-gems-1-8e5259a93c94>  </10-sklearn-gems-buried-in-the-docs-waiting-to-be-found-ad95a8fabdfd>  <https://ibexorigin.medium.com/26-weekly-ml-tricks-and-resources-that-are-pure-gems-2-3be56841b1d9>  </advanced-tutorial-how-to-master-matplotlib-like-an-absolute-boss-aae2d4936734> 

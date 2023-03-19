@@ -18,7 +18,7 @@
 
 此外，对于那些想要自己运行这些示例的人来说，我在这个小概述中使用的代码是笔记本格式的:
 
-[](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/runtime%20introspection.ipynb)  
+<https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/runtime%20introspection.ipynb>  
 
 # 数据类型
 
@@ -86,7 +86,7 @@ subtypes(Pasta)
 
 如果你没有接触过朱利安式的等级制度，我有一整篇文章可以更详细地介绍:
 
-[](/overview-abstract-super-type-heirarchies-in-julia-26b7e64c9d10)  
+</overview-abstract-super-type-heirarchies-in-julia-26b7e64c9d10>  
 
 此外，这里有一个子类型树函数，它对于更好地可视化子类型也很有价值。我只是在这里的某个问题上发现了这一点，但我认为对于那些可能想更好地掌握某个类型的人来说，这绝对是非常好的:
 

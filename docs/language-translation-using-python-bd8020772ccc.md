@@ -59,7 +59,7 @@ ts.<api_name>(..)                          # e.g. ts.google
 
 对于 Google，我们也可以查看下面的语言支持页面:
 
-[](https://cloud.google.com/translate/docs/languages)  
+<https://cloud.google.com/translate/docs/languages>  
 
 ## 查看选项
 
@@ -132,7 +132,7 @@ df = pd.DataFrame(corpus, columns = ['text'])df['welsh_text'] = df['text'].apply
 pip install bs4
 ```
 
-[](https://beautiful-soup-4.readthedocs.io/en/latest/)  
+<https://beautiful-soup-4.readthedocs.io/en/latest/>  
 
 ## HTML 模板示例
 

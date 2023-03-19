@@ -390,13 +390,13 @@ st.pyplot(fig)
 
 你可以阅读第二部分，解决接下来的 6 个视觉效果。这里:
 
-[](/12-essential-visualizations-and-how-to-implement-them-part-2-e47c1d4b9784)  
+</12-essential-visualizations-and-how-to-implement-them-part-2-e47c1d4b9784>  
 
 您可以从我的 Github 资源库下载所有代码和数据文件。在我的[网页](http://alanjones2.github.io)上找到它的链接，以及其他文章的信息。
 
 如果你想了解我发表的其他文章，你可以在 Medium 上关注我，或者在 [Substack](http://technofile.substack.com) 上订阅我的时事通讯。
 
-[](https://medium.com/membership/@alan-jones)  
+<https://medium.com/membership/@alan-jones>  
 
 # 笔记
 

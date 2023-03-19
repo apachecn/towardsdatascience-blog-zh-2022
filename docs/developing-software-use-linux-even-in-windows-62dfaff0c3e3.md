@@ -142,4 +142,4 @@
 
 # *资源*
 
-*[](https://learn.microsoft.com/en-us/windows/wsl/about)  [](https://code.visualstudio.com/docs/devcontainers/containers) *
+*<https://learn.microsoft.com/en-us/windows/wsl/about>  <https://code.visualstudio.com/docs/devcontainers/containers> *

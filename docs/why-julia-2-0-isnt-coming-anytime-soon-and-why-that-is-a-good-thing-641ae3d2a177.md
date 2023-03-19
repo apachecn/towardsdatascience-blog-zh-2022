@@ -16,7 +16,7 @@
 
 *编辑:我和我的合著者很高兴地告诉大家，我们的新书《茱莉亚速成班》已经开始预售了:*
 
-[](https://logankilpatrick.gumroad.com/l/juliacrashcourse)  
+<https://logankilpatrick.gumroad.com/l/juliacrashcourse>  
 
 # 历史背景(0.6 版➡️0.7 版➡️1.0 版)
 
@@ -28,7 +28,7 @@
 
 即将发布的次要 Julia 版本是 Julia 1.9。根据目前的发布时间表，这个版本可能会在 3-4 个月左右推出。你可以在 GitHub 上看到提议的改变:
 
-[](https://github.com/JuliaLang/julia/blob/master/NEWS.md)  
+<https://github.com/JuliaLang/julia/blob/master/NEWS.md>  
 
 我个人感到兴奋的一大变化是:
 
@@ -50,7 +50,7 @@
 
 如果您想了解 2.0 中正在考虑的问题类型，请查看:
 
-[](https://github.com/JuliaLang/julia/milestone/23)  
+<https://github.com/JuliaLang/julia/milestone/23>  
 
 正如你所看到的，细节是相当稀少的，因为大部分被提出的想法都可以在不破坏改变的情况下实现。
 

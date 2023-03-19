@@ -119,4 +119,4 @@ rcParams 中一些可用的自定义选项，由作者打印
 
 喜欢这篇文章吗？下面更喜欢！
 
-[](https://www.linkedin.com/in/kate-wall/)  [](/professional-venn-diagrams-in-python-638abfff39cc)  [](/access-google-drive-using-google-colab-running-an-r-kernel-3736db7835)  [](/probability-distributions-for-beginners-d14f59aba2cb) 
+<https://www.linkedin.com/in/kate-wall/>  </professional-venn-diagrams-in-python-638abfff39cc>  </access-google-drive-using-google-colab-running-an-r-kernel-3736db7835>  </probability-distributions-for-beginners-d14f59aba2cb> 

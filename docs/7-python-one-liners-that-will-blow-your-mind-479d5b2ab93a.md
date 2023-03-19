@@ -152,4 +152,4 @@ q([])
 
 ## 参考
 
-[](https://www.amazon.com/Python-One-Liners-Concise-Eloquent-Professional/dp/1718500505) 
+<https://www.amazon.com/Python-One-Liners-Concise-Eloquent-Professional/dp/1718500505> 

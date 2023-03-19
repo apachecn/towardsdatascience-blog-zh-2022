@@ -150,4 +150,4 @@ Y 的分布是失败概率和成功概率的平方的比值。
 
 喜欢这篇文章吗？下面更喜欢！
 
-[](https://www.linkedin.com/in/kate-wall/)  [](/probability-distributions-for-beginners-d14f59aba2cb)  [](/professional-venn-diagrams-in-python-638abfff39cc) 
+<https://www.linkedin.com/in/kate-wall/>  </probability-distributions-for-beginners-d14f59aba2cb>  </professional-venn-diagrams-in-python-638abfff39cc> 

@@ -50,7 +50,7 @@ import numpy as np
 from PIL import ImageGrab
 ```
 
-[](/why-is-python-so-slow-and-how-to-speed-it-up-485b5a84154e)  
+</why-is-python-so-slow-and-how-to-speed-it-up-485b5a84154e>  
 
 ## 1.记录我们的屏幕
 
@@ -68,7 +68,7 @@ from PIL import ImageGrab
 
 在第 13 行，我们开始记录我们的屏幕。我们不需要每一帧都搜索鸟(每秒超过 30 次，取决于你的硬件)。因此，我们每隔 5 帧才执行一次代码(第 15-17 行)，这对那些讨厌的鸟来说已经足够快了。
 
-[](https://medium.com/geekculture/applying-python-multiprocessing-in-2-lines-of-code-3ced521bac8f)  
+<https://medium.com/geekculture/applying-python-multiprocessing-in-2-lines-of-code-3ced521bac8f>  
 
 ## 2.预处理和模板匹配
 
@@ -86,7 +86,7 @@ from PIL import ImageGrab
 
 正如你在上面的 GIF 中看到的，模板匹配函数正在做它应该做的事情:识别鸟类并在它们身上做标记。在接下来的部分，我们将拍摄鸟类。
 
-[](/docker-for-absolute-beginners-the-difference-between-an-image-and-a-container-7e07d4c0c01d)  
+</docker-for-absolute-beginners-the-difference-between-an-image-and-a-container-7e07d4c0c01d>  
 
 ## 3.射鸟
 
@@ -98,7 +98,7 @@ from PIL import ImageGrab
 
 最后，我们设置光标位置并点击 ctypes 库。
 
-[](/cython-for-absolute-beginners-30x-faster-code-in-two-simple-steps-bbb6c10d06ad)  
+</cython-for-absolute-beginners-30x-faster-code-in-two-simple-steps-bbb6c10d06ad>  
 
 # 最终结果
 
@@ -130,4 +130,4 @@ from PIL import ImageGrab
 
 页（page 的缩写）学生:比如我正在做的事情？[跟着我！](https://mikehuls.medium.com/membership)
 
-[](https://mikehuls.medium.com/membership) 
+<https://mikehuls.medium.com/membership> 

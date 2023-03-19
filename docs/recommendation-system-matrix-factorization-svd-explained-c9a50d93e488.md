@@ -193,4 +193,4 @@ numpy=1.20.1
 
 如果你喜欢读这篇文章，这里有一个与数据科学和机器学习相关的列表，你可能会感兴趣。
 
-[](/active-learning-in-machine-learning-explained-777c42bd52fa)  [](/link-prediction-recommendation-engines-with-node2vec-c97c429351a8)  [](/text-summarization-in-python-with-jaro-winkler-and-pagerank-72d693da94e8)  [](/recommendation-systems-explained-a42fc60591ed)  [](/word2vec-explained-49c52b4ccb71)  [](/support-vector-machine-svm-explained-58e59708cae3)  [](/build-a-collaborative-filtering-music-recommendation-system-in-sql-d9d955cfde6c) 
+</active-learning-in-machine-learning-explained-777c42bd52fa>  </link-prediction-recommendation-engines-with-node2vec-c97c429351a8>  </text-summarization-in-python-with-jaro-winkler-and-pagerank-72d693da94e8>  </recommendation-systems-explained-a42fc60591ed>  </word2vec-explained-49c52b4ccb71>  </support-vector-machine-svm-explained-58e59708cae3>  </build-a-collaborative-filtering-music-recommendation-system-in-sql-d9d955cfde6c> 

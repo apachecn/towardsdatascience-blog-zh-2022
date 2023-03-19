@@ -32,7 +32,7 @@
 
 如果您仍然有问题，Twitter 已经在他们的文档中写了一份关于如何连接 API 的详细指南:
 
-[](https://developer.twitter.com/en/docs/twitter-api/getting-started/getting-access-to-the-twitter-api)  
+<https://developer.twitter.com/en/docs/twitter-api/getting-started/getting-access-to-the-twitter-api>  
 
 # 连接到 Twitter API
 
@@ -120,6 +120,6 @@ tweets_df[tweets_df['tweet_sentiment'] == 'Neutral'].content.sample(3).valuesRem
 
 如果你喜欢这篇文章，我写了更多你可能也会喜欢的文章
 
-[](/word2vec-explained-49c52b4ccb71)  [](/recommendation-systems-explained-a42fc60591ed)  [](/bayesian-a-b-testing-explained-344a6df88c1a) [## 贝叶斯 A/B 测试解释
+</word2vec-explained-49c52b4ccb71>  </recommendation-systems-explained-a42fc60591ed>  </bayesian-a-b-testing-explained-344a6df88c1a> [## 贝叶斯 A/B 测试解释
 
-towardsdatascience.com](/bayesian-a-b-testing-explained-344a6df88c1a) [](/random-walks-with-restart-explained-77c3fe216bca)  [](/markov-chain-explained-210581d7a4a9) 
+towardsdatascience.com](/bayesian-a-b-testing-explained-344a6df88c1a) </random-walks-with-restart-explained-77c3fe216bca>  </markov-chain-explained-210581d7a4a9> 

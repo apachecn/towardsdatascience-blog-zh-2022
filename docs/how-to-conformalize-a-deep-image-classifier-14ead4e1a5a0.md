@@ -182,4 +182,4 @@ plot(plt_list..., size=(800,300),bg_colour=:transparent)
 
 勒昆，扬恩。1998." MNIST 手写数字数据库."
 
-*原载于 2022 年 12 月 5 日 https://www.paltmeyer.com*[](https://www.paltmeyer.com/blog/posts/conformal-image-classifier/)**。**
+*原载于 2022 年 12 月 5 日 https://www.paltmeyer.com*<https://www.paltmeyer.com/blog/posts/conformal-image-classifier/>**。**

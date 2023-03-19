@@ -34,7 +34,7 @@
 
 这个博客的代码和数据可以在这里找到:
 
-[](https://github.com/BruceYanghy/End-to-End-Guide-to-Building-a-Credit-Scorecard-Using-Machine-Learning)  
+<https://github.com/BruceYanghy/End-to-End-Guide-to-Building-a-Credit-Scorecard-Using-Machine-Learning>  
 
 **开源工具:** [**Toad**](https://github.com/amphibian-dev/toad)
 

@@ -283,4 +283,4 @@ where student_full_name LIKE '__e%';
 
 [SQL 绝对初学者](https://www.udemy.com/course/sql-for-absolute-beginners/?referralCode=23E560A160F7202E026F) —图片由作者提供
 
-[](https://ivopbernardo.medium.com/membership) 
+<https://ivopbernardo.medium.com/membership> 

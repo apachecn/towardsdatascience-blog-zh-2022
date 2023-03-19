@@ -28,7 +28,7 @@
 
 我经常向学生强调做个人项目的重要性，以积累使用真实世界数据的经验。这里有几篇描述不同方法的文章:
 
-[](/the-ideal-data-source-and-activities-for-developing-data-skills-yourself-347e58a1567e)  [](/portfolio-products-to-showcase-your-data-skills-b573e538e094)  
+</the-ideal-data-source-and-activities-for-developing-data-skills-yourself-347e58a1567e>  </portfolio-products-to-showcase-your-data-skills-b573e538e094>  
 
 > ***告诉我你是如何与这个领域保持同步的。你关注哪些不同的社交媒体网站和人？你从哪里获取最新发展的信息？***
 
@@ -52,7 +52,7 @@
 
 下面是我写的一篇关于解决这个问题的短文。入门级数据分析师应该了解这些基本策略。
 
-[](/solving-data-problems-22ab8ac792bd)  
+</solving-data-problems-22ab8ac792bd>  
 
 ***你为什么喜欢和数据打交道？什么让你兴奋？***
 

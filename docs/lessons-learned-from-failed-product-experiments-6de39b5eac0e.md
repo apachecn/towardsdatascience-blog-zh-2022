@@ -61,6 +61,6 @@
 
 ## 你可能也会喜欢…
 
-[](https://medium.datadriveninvestor.com/what-data-analysts-should-know-about-product-analytics-f31f13e66291)  [](/my-experience-as-a-product-data-analyst-3d01748bc6ea)  [](/what-product-analysts-should-know-about-a-b-testing-a7bdc8e9a61) [## 关于 A/B 测试，产品分析师应该知道什么
+<https://medium.datadriveninvestor.com/what-data-analysts-should-know-about-product-analytics-f31f13e66291>  </my-experience-as-a-product-data-analyst-3d01748bc6ea>  </what-product-analysts-should-know-about-a-b-testing-a7bdc8e9a61> [## 关于 A/B 测试，产品分析师应该知道什么
 
 towardsdatascience.com](/what-product-analysts-should-know-about-a-b-testing-a7bdc8e9a61)

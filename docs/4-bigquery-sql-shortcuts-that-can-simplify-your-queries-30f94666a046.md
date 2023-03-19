@@ -76,4 +76,4 @@ QUALIFY 允许您像在 SELECT 语句中创建的列上应用 WHERE 条件一样
 
 ## 你可能也会喜欢…
 
-[](https://medium.com/swlh/how-i-used-a-machine-learning-model-to-generate-actionable-insights-3aa1dfe2ddfd)  [](/how-to-translate-data-into-actionable-insights-83982eba7675)  [](/6-best-practices-i-learned-as-a-data-engineer-9d3ad512f5aa) 
+<https://medium.com/swlh/how-i-used-a-machine-learning-model-to-generate-actionable-insights-3aa1dfe2ddfd>  </how-to-translate-data-into-actionable-insights-83982eba7675>  </6-best-practices-i-learned-as-a-data-engineer-9d3ad512f5aa> 

@@ -103,7 +103,7 @@ joséSena goulo 为[苏露莎](https://www.lusa.pt/)拍照
 
 下面我将解释更多关于我做这个项目的具体步骤。如果你只是想深入研究代码，你可以去 polids GitHub 库[:](https://github.com/AndreCNF/polids)
 
-[](https://github.com/AndreCNF/polids)  
+<https://github.com/AndreCNF/polids>  
 
 ## 清单数据
 
@@ -138,7 +138,7 @@ joséSena goulo 为[苏露莎](https://www.lusa.pt/)拍照
 
 我在这里做的一个简单的改变是我遵循了 Anupama Garla 在她自己的[关于单词云的中型文章](/how-to-make-word-clouds-in-python-that-dont-suck-86518cdcb61f) [14]中建议的风格变化:
 
-[](/how-to-make-word-clouds-in-python-that-dont-suck-86518cdcb61f)  
+</how-to-make-word-clouds-in-python-that-dont-suck-86518cdcb61f>  
 
 函数来创建好看的单词云。
 
@@ -224,7 +224,7 @@ joséSena goulo 为[苏露莎](https://www.lusa.pt/)拍照
 
 出现的一个问题是，这个项目涉及大量的文本数据和一些冗长的任务。如果我们在应用程序加载时动态运行所有东西，这会使应用程序变慢。此外，我们只打算显示静态数据，没有任何反馈循环或新的数据流。因此，解决方案是预先计算更重的工作负载，即单词云、情感分析和仇恨言论检测。然后，在应用程序加载时，我们简单地显示输出。以下是我运行以获得输出的脚本:
 
-[](https://github.com/AndreCNF/polids/tree/4df57de6cba19866d8df659f849d989bab6a5907/scripts)  ![](img/4e180ce9cbf81623f9c9eaee1f18d4aa.png)
+<https://github.com/AndreCNF/polids/tree/4df57de6cba19866d8df659f849d989bab6a5907/scripts>  ![](img/4e180ce9cbf81623f9c9eaee1f18d4aa.png)
 
 应用程序使用的 NLP 输出表的一些示例。图片作者。
 
@@ -234,7 +234,7 @@ joséSena goulo 为[苏露莎](https://www.lusa.pt/)拍照
 
 我不会详细讨论特定于绘图的代码，但是您可以查看`viz_utils`文件，它显示了我是如何做到的:
 
-[](https://github.com/AndreCNF/polids/blob/4df57de6cba19866d8df659f849d989bab6a5907/utils/viz_utils.py)  
+<https://github.com/AndreCNF/polids/blob/4df57de6cba19866d8df659f849d989bab6a5907/utils/viz_utils.py>  
 
 # 未来的工作
 
@@ -259,7 +259,7 @@ joséSena goulo 为[苏露莎](https://www.lusa.pt/)拍照
 
 关于政治本身的更多评论，请看我之前的文章:
 
-[](https://medium.com/@andrecnf/politics-is-broken-what-would-an-ideal-system-look-like-811449994e0)  
+<https://medium.com/@andrecnf/politics-is-broken-what-would-an-ideal-system-look-like-811449994e0>  
 
 # 参考
 

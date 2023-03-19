@@ -12,7 +12,7 @@ Pawel Czerwinski 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_mediu
 
 如果你不熟悉 Foobar 挑战，我推荐你阅读我以前的文章，这篇文章提供了 1 级问题的概述和分解。
 
-[](/google-foobar-challenge-level-1-3487bb252780)  
+</google-foobar-challenge-level-1-3487bb252780>  
 
 # 问题和概念📚
 
@@ -103,4 +103,4 @@ Pawel Czerwinski 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_mediu
 
 我计划在以后的文章中继续描述我的 Foobar 之旅，并详细说明我是如何解决这些问题的。关注我，阅读更多关于挑战的信息。此外，欢迎所有反馈。我总是渴望学习新的或更好的做事方法。请随时留下您的评论或联系我 katyhagerty19@gmail.com。
 
-[](https://medium.com/@katyhagerty19/membership) 
+<https://medium.com/@katyhagerty19/membership> 

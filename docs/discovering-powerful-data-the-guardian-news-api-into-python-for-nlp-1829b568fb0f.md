@@ -106,6 +106,6 @@ tag_list = ['environment/energy', 'money/energy', 'technology/energy', 'science/
 
 或者，如果您有兴趣加入 Medium 社区，这里有一个推荐链接:
 
-[](https://medium.com/@adrian.causby15/membership) [## 通过我的推荐链接加入 Medium-Adrian caus by
+<https://medium.com/@adrian.causby15/membership> [## 通过我的推荐链接加入 Medium-Adrian caus by
 
 medium.com](https://medium.com/@adrian.causby15/membership)

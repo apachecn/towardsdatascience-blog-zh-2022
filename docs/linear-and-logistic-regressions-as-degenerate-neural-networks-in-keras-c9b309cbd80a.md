@@ -110,6 +110,6 @@ Epoch 6/1000 loss: 0.0104 - val_loss: 0.0098
 
 我们已经看到了神经网络如何成为线性和逻辑回归的超集，以及如何使用现有的软件组件来构建神经网络，我们可以非常容易地实现回归模型。以这种方式实现回归模型可以很容易地在必要时将它们升级为神经网络。
 
-*图片基于 Ashkan Forouzani 在 Unsplash 上的照片，*[](https://unsplash.com/photos/_Y82jqFIBgw)
+*图片基于 Ashkan Forouzani 在 Unsplash 上的照片，*<https://unsplash.com/photos/_Y82jqFIBgw>
 
 **原载于* [*家具雪貂博客*](https://www.furnitureferret.com/blog/2022/05/19/linear-and-logistic-regressions-as-degenerate-neural-networks-in-keras/)*

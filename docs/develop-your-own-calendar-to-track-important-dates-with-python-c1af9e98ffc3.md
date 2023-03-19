@@ -16,7 +16,7 @@
 
 在我们开始用 Python 构建我们的日历 GUI 界面之前，如果您刚刚开始学习数据科学，并希望在今年内掌握它，我有一篇文章非常详细地介绍了这一点。查看我以前的一篇博客，通过下面提供的链接中的 12 个关键步骤，你可以在 12 个月内掌握数据科学。
 
-[](/12-steps-for-beginner-to-pro-in-data-science-in-12-months-c6f6ba01f96e)  
+</12-steps-for-beginner-to-pro-in-data-science-in-12-months-c6f6ba01f96e>  
 
 # 开发您的日历:
 
@@ -26,7 +26,7 @@
 
 从上图中我们可以注意到，这个项目需要我们使用图形用户界面(GUI)来构建一个视觉上吸引人的日历。我们将利用 python 中可用的 Tkinter 库来构建这样一个用户界面。要了解更多关于这些 GUI 工具的知识，我建议查看我以前的一篇文章，这篇文章解释了其中的七个工具，并附有入门代码，可以帮助您快速入门。
 
-[](/7-best-ui-graphics-tools-for-python-developers-with-starter-codes-2e46c248b47c)  
+</7-best-ui-graphics-tools-for-python-developers-with-starter-codes-2e46c248b47c>  
 
 除了 Tkinter GUI 模块之外，我们还需要安装一个额外的 tkcalendar，它为 Tkinter 界面提供了日历和日期输入小部件。它允许用户对不同的窗口小部件进行定制控制，从而按照用户的要求相应地操纵日期和时间。下面的命令应该允许您轻松安装下面的模块。
 
@@ -91,7 +91,7 @@ tk.mainloop()
 
 我建议添加到日历中的一个主要改进是将所选日期保存在文本文件中的能力，以便您可以在不同的 Python 项目中使用这些保存的日期来构建待办事项提醒列表，该列表将提醒您某人的生日、特定事件、重要日期等等。我建议检查一个以前的提醒应用程序项目，为这些日期创建一个提醒提醒。
 
-[](/python-project-to-improve-your-productivity-for-the-new-year-1956824eddb1)  
+</python-project-to-improve-your-productivity-for-the-new-year-1956824eddb1>  
 
 另一个绝妙的主意是将你的日历与特定的日期联系起来，使你的电子邮件自动化，或者将信息转发给你想接收信息的人。我们将讨论如何实现这些目标的未来项目。在此之前，请继续探索您刚刚创建的日历的众多隐藏可能性！
 
@@ -110,12 +110,12 @@ tk.mainloop()
 
 如果你想在我的文章发表后第一时间得到通知，请点击下面的[链接](https://bharath-k1297.medium.com/subscribe)订阅邮件推荐。如果你希望支持其他作者和我，请订阅下面的链接。
 
-[](https://bharath-k1297.medium.com/membership)  
+<https://bharath-k1297.medium.com/membership>  
 
 如果你对这篇文章中提到的各点有任何疑问，请在下面的评论中告诉我。我会尽快给你回复。
 
 看看我的一些与本文主题相关的文章，你可能也会喜欢阅读！
 
-[](/develop-your-weather-application-with-python-in-less-than-10-lines-6d092c6dcbc9)  [](/complete-python-starter-guide-for-data-science-for-2022-c1f880fa249d)  [](/generating-qr-codes-with-python-in-less-than-10-lines-f6e398df6c8b)  
+</develop-your-weather-application-with-python-in-less-than-10-lines-6d092c6dcbc9>  </complete-python-starter-guide-for-data-science-for-2022-c1f880fa249d>  </generating-qr-codes-with-python-in-less-than-10-lines-f6e398df6c8b>  
 
 谢谢你们坚持到最后。我希望你们都喜欢这篇文章。祝大家有美好的一天！

@@ -172,4 +172,4 @@
 *   *连接上*[*Linkedin*](https://www.linkedin.com/in/emmading001/)*！*
 *   前往[emmading.com/resources](https://www.emmading.com/resources)获取更多关于数据科学面试技巧和策略的免费资源！
 
-[](/7-a-b-testing-questions-and-answers-in-data-science-interviews-eee6428a8b63)  [](https://pub.towardsai.net/4-types-of-machine-learning-interview-questions-for-data-scientists-and-machine-learning-engineers-b8135805ce1b) 
+</7-a-b-testing-questions-and-answers-in-data-science-interviews-eee6428a8b63>  <https://pub.towardsai.net/4-types-of-machine-learning-interview-questions-for-data-scientists-and-machine-learning-engineers-b8135805ce1b> 

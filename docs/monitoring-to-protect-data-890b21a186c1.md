@@ -164,4 +164,4 @@ http {
 
 所以现在我有一些工作要做，检查所有这些记录，并确定我是否需要更改安全策略。收集和使用个人或敏感的个人数据需要绝对的安全，因此我继续探索向求职者展示安全可靠的 NLP 服务！
 
-[](https://cognitivedave.medium.com/membership) 
+<https://cognitivedave.medium.com/membership> 

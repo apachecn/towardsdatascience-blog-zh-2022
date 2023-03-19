@@ -180,7 +180,7 @@ python3 run_hypothesis_premise.py --do_eval --task nli --dataset snli --model ./
 
 请随意使用本文的源代码:
 
-[](https://github.com/cmphan/SNLI_ELECTRA_CheckList)  
+<https://github.com/cmphan/SNLI_ELECTRA_CheckList>  
 
 参考文章/研究论文:
 

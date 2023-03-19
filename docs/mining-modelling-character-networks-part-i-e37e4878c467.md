@@ -14,7 +14,7 @@
 
 这是一篇由两部分组成的文章，第一部分将讨论相关的研究论文，包括从各种文本中挖掘和建模字符网络的主题。接下来的第二部分将介绍挖掘角色的 python 实现，识别角色交互，然后在这些角色之间创建交互网络。
 
-[](https://vatsal12-p.medium.com/mining-modelling-character-networks-part-ii-a3d77de89638)  
+<https://vatsal12-p.medium.com/mining-modelling-character-networks-part-ii-a3d77de89638>  
 
 以下是这篇文章的提纲。
 
@@ -123,6 +123,6 @@ Bonato 等人介绍的方法在许多方面都可以改进。首先，这些模�
 
 如果你喜欢这篇文章，下面是我写的一些你可能会感兴趣的文章:
 
-[](/monte-carlo-method-explained-8635edf2cf58)  [](/bayesian-a-b-testing-explained-344a6df88c1a) [## 贝叶斯 A/B 测试解释
+</monte-carlo-method-explained-8635edf2cf58>  </bayesian-a-b-testing-explained-344a6df88c1a> [## 贝叶斯 A/B 测试解释
 
-towardsdatascience.com](/bayesian-a-b-testing-explained-344a6df88c1a) [](/word2vec-explained-49c52b4ccb71)  [](/dimensionality-reduction-explained-5ae45ae3058e) 
+towardsdatascience.com](/bayesian-a-b-testing-explained-344a6df88c1a) </word2vec-explained-49c52b4ccb71>  </dimensionality-reduction-explained-5ae45ae3058e> 

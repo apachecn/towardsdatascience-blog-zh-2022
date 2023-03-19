@@ -20,7 +20,7 @@
 
 阅读去年关于自学数据科学的文章:
 
-[](/the-step-by-step-curriculum-im-using-to-teach-myself-data-science-in-2021-c8eab834a87c)  
+</the-step-by-step-curriculum-im-using-to-teach-myself-data-science-in-2021-c8eab834a87c>  
 
 # 在线数据科学项目。
 
@@ -32,11 +32,11 @@
 
 2021 年 4 月，我写了一篇文章，回顾并比较了这三个方案。下面是我的调查结果的总结，提供了每个项目的全面比较，以更好地帮助您选择适合您的项目。要阅读全文:
 
-[](/google-vs-ibm-vs-microsoft-which-online-data-analyst-certificate-is-best-dc8fd790a174)  
+</google-vs-ibm-vs-microsoft-which-online-data-analyst-certificate-is-best-dc8fd790a174>  
 
 ## 谷歌数据分析专业证书
 
-[](https://grow.google/dataanalytics/#?modal_active=none)  
+<https://grow.google/dataanalytics/#?modal_active=none>  
 
 **技能等级:**初学者
 
@@ -52,7 +52,7 @@
 
 ## IBM 数据分析师专业证书
 
-[](https://www.coursera.org/professional-certificates/ibm-data-analyst)  
+<https://www.coursera.org/professional-certificates/ibm-data-analyst>  
 
 **技能等级:**初学者
 
@@ -68,7 +68,7 @@
 
 ## 微软认证:数据分析师助理
 
-[](https://docs.microsoft.com/en-us/learn/certifications/data-analyst-associate/)  
+<https://docs.microsoft.com/en-us/learn/certifications/data-analyst-associate/>  
 
 **技能等级:**初级/中级
 
@@ -101,9 +101,9 @@
 
 以下是一些关于如何最好地学习这些数据科学课程的资源:
 
-[](/how-to-study-for-the-ibm-data-analyst-professional-certificate-427a16da9fd9) [## 如何学习 IBM 数据分析师专业证书
+</how-to-study-for-the-ibm-data-analyst-professional-certificate-427a16da9fd9> [## 如何学习 IBM 数据分析师专业证书
 
-towardsdatascience.com](/how-to-study-for-the-ibm-data-analyst-professional-certificate-427a16da9fd9) [](/how-to-study-for-the-google-data-analytics-professional-certificate-25e5e13b1f04)  
+towardsdatascience.com](/how-to-study-for-the-ibm-data-analyst-professional-certificate-427a16da9fd9) </how-to-study-for-the-google-data-analytics-professional-certificate-25e5e13b1f04>  
 
 ## 完成在线课程后如何衡量你的学习？
 
@@ -121,7 +121,7 @@ towardsdatascience.com](/how-to-study-for-the-ibm-data-analyst-professional-cert
 
 数据科学训练营经历了指数级增长，现在有数百家公司提供这些快速学习机会。这里有一个很好的资源，总结了 2021 年 10 个最佳数据科学训练营，以及其他 17 个值得考虑的荣誉奖:
 
-[](https://www.computerscience.org/bootcamps/rankings/data-science/)  
+<https://www.computerscience.org/bootcamps/rankings/data-science/>  
 
 ## 谁应该参加数据科学训练营？
 
@@ -193,7 +193,7 @@ towardsdatascience.com](/how-to-study-for-the-ibm-data-analyst-professional-cert
 
 以下链接提供了一些想法和资源，可帮助您选择利用您所学的所有技能来构建您的问题解决技能、行业知识以及最重要的数据科学组合的项目。
 
-[](/5-concrete-real-world-projects-to-build-up-your-data-science-portfolio-ef44509abdd7)  [](/learning-data-science-from-real-world-projects-b2a174bf1db2)  
+</5-concrete-real-world-projects-to-build-up-your-data-science-portfolio-ef44509abdd7>  </learning-data-science-from-real-world-projects-b2a174bf1db2>  
 
 ## 谁应该学习数据科学的自学课程？
 
@@ -207,9 +207,9 @@ towardsdatascience.com](/how-to-study-for-the-ibm-data-analyst-professional-cert
 
 以下是一些关于如何自学数据科学(以及如何坚持学习)的资源:
 
-[](/how-to-use-the-progressive-overload-method-to-aggressively-improve-your-data-science-skills-in-6-da7e932de68e) [## 如何使用渐进超负荷方法积极提高你的数据科学技能在 6…
+</how-to-use-the-progressive-overload-method-to-aggressively-improve-your-data-science-skills-in-6-da7e932de68e> [## 如何使用渐进超负荷方法积极提高你的数据科学技能在 6…
 
-towardsdatascience.com](/how-to-use-the-progressive-overload-method-to-aggressively-improve-your-data-science-skills-in-6-da7e932de68e) [](/ultralearning-is-the-extreme-approach-to-mastering-data-science-skills-the-hard-way-7019aeba7be4)  [](/how-microlearning-can-help-you-improve-your-data-science-skills-in-less-than-10-minutes-per-day-6499348228d7)  [](/how-to-use-the-feynman-technique-to-become-an-expert-in-the-most-complicated-concepts-in-data-cecf33d7d518)  
+towardsdatascience.com](/how-to-use-the-progressive-overload-method-to-aggressively-improve-your-data-science-skills-in-6-da7e932de68e) </ultralearning-is-the-extreme-approach-to-mastering-data-science-skills-the-hard-way-7019aeba7be4>  </how-microlearning-can-help-you-improve-your-data-science-skills-in-less-than-10-minutes-per-day-6499348228d7>  </how-to-use-the-feynman-technique-to-become-an-expert-in-the-most-complicated-concepts-in-data-cecf33d7d518>  
 
 ## 自学数据科学后如何衡量自己的学习？
 

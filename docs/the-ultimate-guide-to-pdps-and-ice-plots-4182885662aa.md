@@ -104,7 +104,7 @@ PDP 和 ICE 图都可以帮助我们理解我们的模型如何做出预测。
 
 从上面，我们可以看到 PDP 在**可视化**非线性关系时是有用的。我们将在下面的文章中更深入地探讨这个话题。在处理许多功能时，查看所有 PDP 可能不切实际。所以我们也讨论使用互信息和特征重要性来帮助**找到**非线性关系。
 
-[](/finding-and-visualising-non-linear-relationships-4ecd63a43e7e)  
+</finding-and-visualising-non-linear-relationships-4ecd63a43e7e>  
 
 在**图 6** 中，我们可以看到一个特性与目标变量没有关系时的 PDP 示例。对于**车主年龄**，PDP 保持不变。这告诉我们，当我们改变所有者年龄时，预测价格不会改变。稍后，我们将看到如何使用 PDP 变化的思想来创建特性重要性分数。
 
@@ -192,7 +192,7 @@ PDP 和 ICE 图都可以帮助我们理解我们的模型如何做出预测。
 
 与 PDP 一样，ICE 图可以帮助我们可视化数据中的重要关系。为了找到这些关系，我们可能需要使用像特性重要性这样的指标。另一种专门用于突出模型中交互作用的度量是弗里德曼的 H-统计量。我们将在下面的文章中讨论使用所有这些方法。
 
-[](/finding-and-visualising-interactions-14d54a69da7c)  
+</finding-and-visualising-interactions-14d54a69da7c>  
 
 ## 分类特征的冰图
 
@@ -436,11 +436,11 @@ scikit-learn 包的缺点是它将分类特征视为连续特征。你可以在�
 
 PDP 和 ICE 图是**可解释的机器学习**方法。它们被用来理解我们的模型是如何做出预测的。另一种流行的方法是 SHAP。SHAP 值的一个优点是它们可以用来理解个人预测是如何做出的。还可以将它们聚合起来，以了解模型作为一个整体是如何工作的。在下面的文章中，我们将探索如何在 Python 中应用这种方法。
 
-[](/introduction-to-shap-with-python-d27edc23c454)  
+</introduction-to-shap-with-python-d27edc23c454>  
 
 我希望这篇文章对你有帮助！你可以成为我的 [**推荐会员**](https://conorosullyds.medium.com/membership) **来支持我。你可以访问 medium 上的所有文章，我可以得到你的部分费用。**
 
-[](https://conorosullyds.medium.com/membership)  
+<https://conorosullyds.medium.com/membership>  
 
 你可以在|[Twitter](https://twitter.com/conorosullyDS)|[YouTube](https://www.youtube.com/channel/UChsoWqJbEjBwrn00Zvghi4w)|[时事通讯](https://mailchi.mp/aa82a5ce1dc0/signup)上找到我——注册免费参加 [Python SHAP 课程](https://adataodyssey.com/courses/shap-with-python/)
 

@@ -22,7 +22,7 @@
 
 *参见我上一篇文章中关于概率解释的简介:*
 
-[](/interpretations-of-probability-b254ad33fe50)  
+</interpretations-of-probability-b254ad33fe50>  
 
 # 信仰程度
 

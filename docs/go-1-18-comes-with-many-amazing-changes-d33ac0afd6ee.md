@@ -48,7 +48,7 @@ Go 中缺少泛型的问题以前已经解决了，每个数据类型使用重�
 
 如果你想了解更多关于如何使用泛型的知识，你可以阅读我写的关于泛型的文章。在这篇文章中，我们介绍了如何使用泛型，以及还可以用它做些什么。
 
-[](https://medium.com/@percybolmer/learning-generics-in-go-318f53752ccd)  
+<https://medium.com/@percybolmer/learning-generics-in-go-318f53752ccd>  
 
 ## 模糊测试
 
@@ -72,7 +72,7 @@ go.dev —模糊示例
 
 如果你想了解如何使用 fuzzer 和编写 fuzzing 函数，for，etc HTTP 处理程序或更多，那么你可以阅读我的文章。
 
-[](https://medium.com/@percybolmer/fuzzing-tests-in-go-96eb08b7694d)  
+<https://medium.com/@percybolmer/fuzzing-tests-in-go-96eb08b7694d>  
 
 ## 工作区
 

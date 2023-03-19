@@ -131,6 +131,6 @@ poems 添加了一个名为`dist`的新文件夹，并为项目创建了必要�
 
 在本文中，我简要介绍了用于管理数据科学项目的诗歌。关于 Python 虚拟环境和数据科学代码可再现性的更多信息，请参见我之前的文章。
 
-[](/a-data-scientists-guide-to-python-virtual-environments-858841922f14)  [](/a-recipe-for-organising-data-science-projects-50a1cc539c69)  
+</a-data-scientists-guide-to-python-virtual-environments-858841922f14>  </a-recipe-for-organising-data-science-projects-50a1cc539c69>  
 
 感谢阅读！

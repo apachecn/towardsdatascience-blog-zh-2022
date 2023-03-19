@@ -210,7 +210,7 @@ g = grad_v_f.reshape(-1, 1) * v # scale v with grad_f to compute g**
 1.  ****想支持我多写点机器学习和****
 2.  ****无论如何都要计划获得中等订阅量，****
 
-****为什么不通过这个环节**[](https://dr-robert-kuebler.medium.com/membership)****？这将对我帮助很大！😊******
+****为什么不通过这个环节**<https://dr-robert-kuebler.medium.com/membership>****？这将对我帮助很大！😊******
 
 ****透明地说，给你的价格不变，但大约一半的订阅费直接归我。****
 

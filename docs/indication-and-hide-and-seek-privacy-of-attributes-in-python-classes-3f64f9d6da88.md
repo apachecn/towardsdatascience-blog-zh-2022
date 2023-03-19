@@ -93,7 +93,7 @@ class Me:
 
 我使用了`doctest`来格式化上面块中的代码。它帮助我确保代码是正确的。您可以从下面的文章中了解关于这个文档测试框架的更多信息:
 
-[](/python-documentation-testing-with-doctest-the-easy-way-c024556313ca)  
+</python-documentation-testing-with-doctest-the-easy-way-c024556313ca>  
 
 如果您想将代码复制并粘贴为 doctest，并自己以这种方式运行，请访问本文末尾的附录 2，其中包含以这种方式格式化的剩余代码(例如，`Me`类的代码)。
 
@@ -280,7 +280,7 @@ class MyClass:
 
 *如果你喜欢这篇文章，你也可以喜欢我写的其他文章；你会在这里找到它们。如果你想加入 Medium，请使用我下面的推荐链接:*
 
-*[](https://medium.com/@nyggus/membership)  
+*<https://medium.com/@nyggus/membership>  
 
 # 脚注
 

@@ -122,7 +122,7 @@
 
 **💎 [**今天使用我的推荐链接**](https://pau-labarta-bajo.medium.com/membership) 成为会员，可以无限制地访问我在媒体上发布的所有内容并支持我的写作。**
 
-**[](https://pau-labarta-bajo.medium.com/membership)  
+**<https://pau-labarta-bajo.medium.com/membership>  
 
 快乐学习🤗
 

@@ -144,6 +144,6 @@ numpy=1.20.1
 
 如果你喜欢这篇文章，你可能也会喜欢。
 
-[](/link-prediction-recommendation-engines-with-node2vec-c97c429351a8)  [](/word2vec-explained-49c52b4ccb71)  [](/recommendation-systems-explained-a42fc60591ed)  [](/optimize-training-predicting-sk-learn-models-in-python-with-sparse-matrices-1612072a025d)  [](https://pub.towardsai.net/dynamic-time-warping-explained-fbb24c1e079b)  [](/mining-modelling-character-networks-part-ii-a3d77de89638)  [](/monte-carlo-method-explained-8635edf2cf58)  [](/bayesian-a-b-testing-explained-344a6df88c1a) [## 贝叶斯 A/B 测试解释
+</link-prediction-recommendation-engines-with-node2vec-c97c429351a8>  </word2vec-explained-49c52b4ccb71>  </recommendation-systems-explained-a42fc60591ed>  </optimize-training-predicting-sk-learn-models-in-python-with-sparse-matrices-1612072a025d>  <https://pub.towardsai.net/dynamic-time-warping-explained-fbb24c1e079b>  </mining-modelling-character-networks-part-ii-a3d77de89638>  </monte-carlo-method-explained-8635edf2cf58>  </bayesian-a-b-testing-explained-344a6df88c1a> [## 贝叶斯 A/B 测试解释
 
 towardsdatascience.com](/bayesian-a-b-testing-explained-344a6df88c1a)

@@ -120,4 +120,4 @@ Frequentist 方法使用 MLE 来获得对 *θ* 的估计，因为它没有先验
 > 
 > 链接:
 
-[](https://www.routledge.com/Survival-Analysis-with-Python/Nag/p/book/9781032148267) 
+<https://www.routledge.com/Survival-Analysis-with-Python/Nag/p/book/9781032148267> 

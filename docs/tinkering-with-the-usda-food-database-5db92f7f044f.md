@@ -454,4 +454,4 @@
 
 *喜欢这个故事吗？通过我下面的推荐链接成为一个媒体成员来支持我的写作。无限制地访问我的故事和许多其他内容。*
 
-[](https://medium.com/@diego-barba/membership) 
+<https://medium.com/@diego-barba/membership> 

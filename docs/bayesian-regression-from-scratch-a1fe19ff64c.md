@@ -10,7 +10,7 @@
 
 # 介绍
 
-[**线性回归**](https://en.wikipedia.org/wiki/Linear_regression) 是数据科学中最知名的算法，然而它有不止一个版本。大多数人使用的版本来自统计学家[](https://en.wikipedia.org/wiki/Frequentist_inference)**的解释，但还有一个版本来自贝叶斯[](https://en.wikipedia.org/wiki/Bayesian_statistics)**学派。****
+[**线性回归**](https://en.wikipedia.org/wiki/Linear_regression) 是数据科学中最知名的算法，然而它有不止一个版本。大多数人使用的版本来自统计学家<https://en.wikipedia.org/wiki/Frequentist_inference>**的解释，但还有一个版本来自贝叶斯<https://en.wikipedia.org/wiki/Bayesian_statistics>**学派。****
 
 ****在本文中，我们将复习 [**贝叶斯定理**](https://en.wikipedia.org/wiki/Bayes'_theorem) ，频数统计和贝叶斯统计的区别，最后用 Python 从头开始实现 [**贝叶斯线性回归**](https://en.wikipedia.org/wiki/Bayesian_linear_regression) 。****
 
@@ -37,7 +37,7 @@
 
 ****如果你不熟悉贝叶斯定理，我强烈推荐你看看我以前关于这个主题的文章:****
 
-****[](https://pub.towardsai.net/conditional-probability-and-bayes-theorem-simply-explained-788a6361f333)  
+****<https://pub.towardsai.net/conditional-probability-and-bayes-theorem-simply-explained-788a6361f333>  
 
 ## 贝叶斯更新
 
@@ -51,7 +51,7 @@
 
 你可以在我最近的一篇文章中读到更多关于贝叶斯更新的内容:
 
-[](/bayesian-updating-simply-explained-c2ed3e563588)  
+</bayesian-updating-simply-explained-c2ed3e563588>  
 
 # 回归理论
 
@@ -298,7 +298,7 @@ for slope in prior_slope['slope']:
 
 *****这部分可能需要一段时间来运行，这是在大规模模型中使用贝叶斯方法的问题之一。要知道为什么会这样，查看一下我之前关于贝叶斯共轭先验的文章，这篇文章告诉你实施贝叶斯定理的一些缺点:*****
 
-*****[](/bayesian-conjugate-priors-simply-explained-747218be0f70)  
+*****</bayesian-conjugate-priors-simply-explained-747218be0f70>  
 
 我们的数据框架现在看起来像这样:
 
@@ -389,7 +389,7 @@ OLS 估计值是这些参数最可能的值，但不是唯一的值。我们可�
 
 这个计算并不是那么直接，写这篇博客最终让我理解了整个贝叶斯回归过程。我建议读者在我的 GitHub 上查看完整的笔记本，并在上面玩一玩:
 
-[](https://github.com/egorhowell/Medium-Articles/blob/main/Statistics/Bayesian_Regression.ipynb)  
+<https://github.com/egorhowell/Medium-Articles/blob/main/Statistics/Bayesian_Regression.ipynb>  
 
 # 结论
 
@@ -406,6 +406,6 @@ OLS 估计值是这些参数最可能的值，但不是唯一的值。我们可�
 *   [*领英*](https://www.linkedin.com/in/egor-howell-092a721b3/) 👔
 *   [*碎碎念*](https://twitter.com/EgorHowell) 🖊
 *   [*github*](https://github.com/egorhowell)*🖥*
-*   *[](https://www.kaggle.com/egorphysics)**🏅***
+*   *<https://www.kaggle.com/egorphysics>**🏅***
 
 > ***(所有表情符号都是由 [OpenMoji](https://openmoji.org/) 设计的——开源的表情符号和图标项目。执照: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)************

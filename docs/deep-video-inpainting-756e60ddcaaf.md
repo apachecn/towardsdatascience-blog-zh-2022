@@ -118,7 +118,7 @@
 
 **在无缝融合步骤中，通过置信度加权平均来融合候选对象。在梯度域中执行融合，以避免可见的颜色接缝。最终融合是通过泊松优化获得的。**
 
-**[](https://arxiv.org/abs/2108.06765)****，2021 (VOIN)******
+**<https://arxiv.org/abs/2108.06765>****，2021 (VOIN)******
 
 ****![](img/d96e0520636e87038655d97e567e766b.png)********![](img/94b5f820adf72252244ceb8c6d61e501.png)****
 
@@ -224,4 +224,4 @@
 
 ****我错过了什么吗？不要犹豫，直接在 [LinkedIn](https://www.linkedin.com/in/aliakseimikhailiuk/) 或 [Twitter](https://twitter.com/mikhailiuka) 上给我留言、评论或发消息吧！****
 
-****[](/deep-image-quality-assessment-30ad71641fac)  [](/perceptual-losses-for-image-restoration-dd3c9de4113)  [](/cnn-cheat-sheet-the-essential-summary-for-a-quick-start-58820a14d3b4) ****
+****</deep-image-quality-assessment-30ad71641fac>  </perceptual-losses-for-image-restoration-dd3c9de4113>  </cnn-cheat-sheet-the-essential-summary-for-a-quick-start-58820a14d3b4> ****

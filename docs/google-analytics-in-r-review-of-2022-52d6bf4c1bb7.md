@@ -375,4 +375,4 @@ dat %>%
 *   [为什么我有一个数据科学博客？分享代码的 7 个好处](https://statsandr.com/blog/7-benefits-of-sharing-your-code-in-a-data-science-blog/)
 *   [R 中的图形与 ggplot2](https://statsandr.com/blog/graphics-in-r-with-ggplot2/)
 
-*原载于 2022 年 12 月 16 日 https://statsandr.com*[](https://statsandr.com/blog/review-of-2022/)**。**
+*原载于 2022 年 12 月 16 日 https://statsandr.com*<https://statsandr.com/blog/review-of-2022/>**。**

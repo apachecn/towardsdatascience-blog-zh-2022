@@ -409,7 +409,7 @@ gridExtra::grid.arrange(g1,g2,g3,nrow=3)
 
 现在，创建合成数据的另一种方法(这意味着模拟相关变量)是深入到连接函数的世界中，我们现在将在某种程度上使用高斯函数。连接函数是理解和建立多元分布的连接概率的一个很好的方法。copula 这个词的意思是“链接”,这正是他们所做的。
 
-根据维基百科，一个 copula 是:*一个多元* [*累积分布函数*](https://en.wikipedia.org/wiki/Cumulative_distribution_function) *其中* [*边际概率*](https://en.wikipedia.org/wiki/Marginal_probability) *每个变量的分布是*[](https://en.wikipedia.org/wiki/Uniform_distribution_(continuous))**均匀分布在区间[0，1]上。*如果我们将这些步骤分解开来，看起来会是这样的(这是我从[博客](https://thomasward.com/simulating-correlated-data/)上引用的):*
+根据维基百科，一个 copula 是:*一个多元* [*累积分布函数*](https://en.wikipedia.org/wiki/Cumulative_distribution_function) *其中* [*边际概率*](https://en.wikipedia.org/wiki/Marginal_probability) *每个变量的分布是*<https://en.wikipedia.org/wiki/Uniform_distribution_(continuous>)**均匀分布在区间[0，1]上。*如果我们将这些步骤分解开来，看起来会是这样的(这是我从[博客](https://thomasward.com/simulating-correlated-data/)上引用的):*
 
 1.  *多元正态分布的样本相关标准化(N[0，1])分布。*
 2.  *用正态 CDF 将它们转换成相关的均匀(0，1)分布([概率积分转换](https://en.wikipedia.org/wiki/Probability_integral_transform))。*

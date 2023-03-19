@@ -114,12 +114,12 @@ from scipy import linalg**array_1d_norm = array_1d / linalg.norm(array_1d, ord=1
 
 在我的另一篇关于 Medium 的文章中，您还可以了解到另一个关于数据预处理和转换的类似概念，称为**特性缩放**。
 
-[](/feature-scaling-and-normalisation-in-a-nutshell-5319af86f89b)  
+</feature-scaling-and-normalisation-in-a-nutshell-5319af86f89b>  
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership)  
+<https://gmyrianthous.medium.com/membership>  
 
 **你可能也会喜欢**
 
-[](/random-seed-numpy-786cf7876a5f)  [](/scikit-learn-vs-sklearn-6944b9dc1736) 
+</random-seed-numpy-786cf7876a5f>  </scikit-learn-vs-sklearn-6944b9dc1736> 

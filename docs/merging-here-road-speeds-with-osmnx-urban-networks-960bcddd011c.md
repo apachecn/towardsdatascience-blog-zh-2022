@@ -22,7 +22,7 @@ place_name="Washington DC, USA" G = ox.graph_from_place(place_name,network_type=
 
 HERE API 使得从某个边界框内的路段获取速度成为可能。我写过一篇关于如何使用 HERE API 获得道路速度的文章:
 
-[](/visualizing-real-time-traffic-patterns-using-here-traffic-api-5f61528d563)  
+</visualizing-real-time-traffic-patterns-using-here-traffic-api-5f61528d563>  
 
 很容易设置一个 HERE API 帐户。
 
@@ -73,10 +73,10 @@ edges1=add_edge_speeds(G,df_es,0.01) #change cutoff as necessary
 
 代码可以在 GitHub repo 中找到:
 
-[](https://github.com/skandavivek/osmnx-edge-speeds)  
+<https://github.com/skandavivek/osmnx-edge-speeds>  
 
 *如果你还不是中会员，想支持我这样的作家，可以通过我的推荐链接随意报名:*[*【https://skanda-vivek.medium.com/membership】*](https://skanda-vivek.medium.com/membership)
 
 [*关注我*](https://medium.com/@skanda.vivek) *如果你喜欢这篇文章——我经常在数据科学、物理和社会的界面上写作。*
 
-*原载于 2022 年 4 月 8 日 https://chaoscontrol.net*[](https://chaoscontrol.net/real-time-traffic-speeds-in-osmnx-urban-road-networks/)**。**
+*原载于 2022 年 4 月 8 日 https://chaoscontrol.net*<https://chaoscontrol.net/real-time-traffic-speeds-in-osmnx-urban-road-networks/>**。**

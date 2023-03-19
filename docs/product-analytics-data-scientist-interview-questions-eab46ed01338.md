@@ -309,4 +309,4 @@ result = sessions.groupby('user_id')['duration'].agg(lambda x: np.mean(x)).reset
 
 请随意浏览 StrataScratch 平台上的其他产品分析面试问题。使用“方法提示”功能来显示解决问题的一般步骤，并与其他用户讨论您的代码，以获得更多的见解和反馈。练习使用真题后，你应该准备好在面试时面对产品分析问题！
 
-【https://www.stratascratch.com】最初发表于[](https://www.stratascratch.com/blog/product-analytics-data-scientist-interview-questions/?utm_source=blog&utm_medium=click&utm_campaign=medium)**。**
+【https://www.stratascratch.com】最初发表于<https://www.stratascratch.com/blog/product-analytics-data-scientist-interview-questions/?utm_source=blog&utm_medium=click&utm_campaign=medium>**。**

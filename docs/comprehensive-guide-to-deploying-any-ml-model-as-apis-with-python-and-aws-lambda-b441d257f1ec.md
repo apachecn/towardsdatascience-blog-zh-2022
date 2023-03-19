@@ -38,11 +38,11 @@
 
 用户可以向它的`classify`端点发送请求以获得预测，并通过一个链接在任何地方嵌入这个 API。
 
-[](https://ibexorigin.medium.com/membership)  
+<https://ibexorigin.medium.com/membership>  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex)  
+<https://alphasignal.ai/?referrer=Bex>  
 
 ## 我们将使用的堆栈
 
@@ -136,7 +136,7 @@ Runners 是 BentoML 的特殊对象，根据它们的框架进行优化，以最
 
 现在，我们已经准备好开始构建 API 了！
 
-[](https://ibexorigin.medium.com/membership)  
+<https://ibexorigin.medium.com/membership>  
 
 ## 组织成脚本
 
@@ -346,8 +346,8 @@ $ terraform apply -var-file=bentoctl.tfvars -auto-approve
 
 感谢您的阅读！
 
-[](https://ibexorigin.medium.com/membership)  [](https://ibexorigin.medium.com/subscribe)  
+<https://ibexorigin.medium.com/membership>  <https://ibexorigin.medium.com/subscribe>  
 
 更多来自我的故事…
 
-[](/25-advanced-pandas-functions-people-are-using-without-telling-you-b65fa442f0f4)  [](/25-numpy-treasures-buried-in-the-docs-waiting-to-be-found-60d8e17931cd)  [](/advanced-tutorial-how-to-master-matplotlib-like-an-absolute-boss-aae2d4936734)  [](https://ibexorigin.medium.com/28-weekly-machine-learning-tricks-and-resources-that-are-pure-gems-1-8e5259a93c94)  [](/the-easiest-way-to-deploy-your-ml-dl-models-in-2022-streamlit-bentoml-dagshub-ccf29c901dac) 
+</25-advanced-pandas-functions-people-are-using-without-telling-you-b65fa442f0f4>  </25-numpy-treasures-buried-in-the-docs-waiting-to-be-found-60d8e17931cd>  </advanced-tutorial-how-to-master-matplotlib-like-an-absolute-boss-aae2d4936734>  <https://ibexorigin.medium.com/28-weekly-machine-learning-tricks-and-resources-that-are-pure-gems-1-8e5259a93c94>  </the-easiest-way-to-deploy-your-ml-dl-models-in-2022-streamlit-bentoml-dagshub-ccf29c901dac> 

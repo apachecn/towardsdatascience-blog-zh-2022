@@ -62,7 +62,7 @@ def extend(x: list, n: int) -> list:
 
 如您所见，我添加了一个带有 doctests 的 docstring。如果你想了解这个有用的测试框架，你可以阅读下面的*走向数据科学*文章:
 
-[](/python-documentation-testing-with-doctest-the-easy-way-c024556313ca)  
+</python-documentation-testing-with-doctest-the-easy-way-c024556313ca>  
 
 要运行测试，使用下面的 shell 命令，它假设您将上面的文件保存为`extender.py`，并且您就在 shell 中的这个文件夹中。
 
@@ -103,7 +103,7 @@ if __name__ == "__main__":
 
 `[rounder](https://github.com/nyggus/rounder)`[包](https://github.com/nyggus/rounder)使你能够以一种非常简单的方式对任何 Python 对象中的数字进行舍入。如果你感兴趣，你可以阅读下面的文章:
 
-[](/rounder-rounding-numbers-in-complex-python-objects-e4b6f3b563f8)  
+</rounder-rounding-numbers-in-complex-python-objects-e4b6f3b563f8>  
 
 我们来看看`perftester.pp()`用上面的字典做了什么。这是我们的`main.py`模块的代码:
 
@@ -142,7 +142,7 @@ if __name__ == "__main__":
 
 我想你们中的许多人认为我在编写这个函数的时候可以做得更好…你是对的！这并不是我一生中编写的最好的函数。创建列表的`for`循环？当然，列表理解应该做得更好，在性能方面也是如此；点击此处查看更多信息:
 
-[](/a-guide-to-python-comprehensions-4d16af68c97e)  
+</a-guide-to-python-comprehensions-4d16af68c97e>  
 
 那么，让我们改进一下`extend()`函数。但是因为我们想检查我们的更改是否提高了性能，我们将更改函数名，以便我们的`extender`模块有两个版本。下面是我们新函数`extend_2()`的代码:
 
@@ -259,7 +259,7 @@ perftester.config.benchmark_function = foo
 
 您可以从下面来自`perftester`仓库的文档文件中了解更多关于这个主题的信息:
 
-[](https://github.com/nyggus/perftester/blob/implement-profiling-decorator/docs/benchmarking_against_another_function.md)  
+<https://github.com/nyggus/perftester/blob/implement-profiling-decorator/docs/benchmarking_against_another_function.md>  
 
 # 结论
 
@@ -320,7 +320,7 @@ import perftester as pt
 
 在此期间，您可以将其用于基准时间。如果你想了解更多关于这个包及其用途的信息，你可以在`perftester`的 GitHub 仓库中找到:
 
-[](https://github.com/nyggus/perftester)  
+<https://github.com/nyggus/perftester>  
 
 # 附录
 
@@ -332,7 +332,7 @@ import perftester as pt
 
 然而，如果一个函数有一个参数`Func`、`Number`或`Repeat`，有一个解决方案。您可以定义一个`functools.partial()`函数并测试这个函数。你可以在这里阅读更多关于`functools.partial()`的信息:
 
-[](https://docs.python.org/3/library/functools.html#functools.partial)  
+<https://docs.python.org/3/library/functools.html#functools.partial>  
 
 下面，你会发现一个例子。假设你有一个函数`foo()`，它的参数是`Number`和`Repeat`。要使用`perftester.time_benchmark()`，您需要执行以下操作:
 
@@ -352,4 +352,4 @@ perftester.time_benchmark(foo_partial, Number=1000, Repeat=10)
 
 # 资源
 
-[](/benchmarking-python-code-with-timeit-80827e131e48)  [](https://docs.python.org/3/library/functools.html#functools.partial)  [](https://github.com/nyggus/perftester)  [](https://github.com/nyggus/rounder)  [](/rounder-rounding-numbers-in-complex-python-objects-e4b6f3b563f8)  [](/a-guide-to-python-comprehensions-4d16af68c97e) 
+</benchmarking-python-code-with-timeit-80827e131e48>  <https://docs.python.org/3/library/functools.html#functools.partial>  <https://github.com/nyggus/perftester>  <https://github.com/nyggus/rounder>  </rounder-rounding-numbers-in-complex-python-objects-e4b6f3b563f8>  </a-guide-to-python-comprehensions-4d16af68c97e> 

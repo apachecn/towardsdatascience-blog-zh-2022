@@ -29,7 +29,7 @@
 
 事不宜迟，让我们来看看🔍
 
-[](https://medium.com/membership/@ahmedbesbes)  
+<https://medium.com/membership/@ahmedbesbes>  
 
 # 有时，您需要花费时间来构建标注数据集⏳
 
@@ -278,6 +278,6 @@ docker container create --name doccano \
 
 # *新到中？你可以每月订阅 5 美元，并解锁各种主题的无限文章(技术、设计、创业……)你可以通过点击我的推荐[链接](https://ahmedbesbes.medium.com/membership)来支持我*
 
-*[](https://ahmedbesbes.medium.com/membership)  ![](img/c7b61de180de76be6e62d9dd209f736a.png)
+*<https://ahmedbesbes.medium.com/membership>  ![](img/c7b61de180de76be6e62d9dd209f736a.png)
 
 由 [Oleksandra Bardash](https://unsplash.com/@bardashka?utm_source=medium&utm_medium=referral) 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄的照片*

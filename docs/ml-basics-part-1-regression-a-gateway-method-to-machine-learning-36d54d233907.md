@@ -116,11 +116,11 @@
 
 **在 Patreon 上支持我:**
 
-[](https://patreon.com/azadacademy)  
+<https://patreon.com/azadacademy>  
 
 **在子栈上找到我:**
 
-[](https://azadwolf.substack.com)  
+<https://azadwolf.substack.com>  
 
 **关注 Twitter 更新:**
 

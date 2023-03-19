@@ -277,4 +277,4 @@ torch.Size([8, 10, 512, 512]) torch.Size([8, 1, 512, 512])
 
 # 进一步阅读
 
-[](/artificial-intelligence-for-geospatial-analysis-with-pytorchs-torchgeo-part-1-52d17e409f09)  [](/artificial-intelligence-for-geospatial-analysis-with-pytorchs-torchgeo-part-3-7521131f30b1)  [](https://cordmaur.medium.com/membership) 
+</artificial-intelligence-for-geospatial-analysis-with-pytorchs-torchgeo-part-1-52d17e409f09>  </artificial-intelligence-for-geospatial-analysis-with-pytorchs-torchgeo-part-3-7521131f30b1>  <https://cordmaur.medium.com/membership> 

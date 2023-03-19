@@ -126,6 +126,6 @@ df[df["description"].str.count("used") < 1]
 
 我们已经介绍了基于字符串值的熊猫数据帧的 5 种不同方式。我们倾向于更加重视数字数据，但是文本数据也同样重要，它承载了大量有价值的信息。因此，能够清理和预处理文本数据对于数据分析和建模至关重要。
 
-*你可以成为* [*媒介会员*](https://sonery.medium.com/membership) *解锁我的全部写作权限，外加其余媒介。如果你已经是了，别忘了订阅*[](https://sonery.medium.com/subscribe)**如果你想在我发表新文章时收到电子邮件。**
+*你可以成为* [*媒介会员*](https://sonery.medium.com/membership) *解锁我的全部写作权限，外加其余媒介。如果你已经是了，别忘了订阅*<https://sonery.medium.com/subscribe>**如果你想在我发表新文章时收到电子邮件。**
 
 *感谢您的阅读。如果您有任何反馈，请告诉我。*

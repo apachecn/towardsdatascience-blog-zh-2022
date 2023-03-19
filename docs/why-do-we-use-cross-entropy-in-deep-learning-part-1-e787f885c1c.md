@@ -6,7 +6,7 @@
 
 **第二部分可用** [**这里用**](https://medium.com/towards-data-science/why-do-we-use-cross-entropy-in-deep-learning-part-2-943c915db115) **！**
 
-[](/why-do-we-use-cross-entropy-in-deep-learning-part-2-943c915db115)  
+</why-do-we-use-cross-entropy-in-deep-learning-part-2-943c915db115>  
 
 如果你在深度学习领域刚刚起步，看过一些专业文章，我很确定你遇到过以下任何一个术语:*熵*、*交叉熵*、*二元交叉熵、*或*分类交叉熵*。
 

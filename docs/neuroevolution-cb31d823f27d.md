@@ -18,7 +18,7 @@
 
 在本文中，我们将研究基于遗传编码(神经进化)的进化(即优化)神经网络的概念。为了理解这一点，我们将首先深入自然和信息技术中的进化原理(有时称为“遗传算法”或类似的概念，这些概念都密切相关)。
 
-*NB:要阅读本文，您应该了解什么是*[](https://en.wikipedia.org/wiki/Artificial_neural_network)**【以及(大致)如何通过* [*梯度下降/反向传播*](https://en.wikipedia.org/wiki/Backpropagation) *来使用和训练它们。对达尔文进化论原理的基本理解可能也是有用的——但我还是会尝试再次解释这一部分。**
+*NB:要阅读本文，您应该了解什么是*<https://en.wikipedia.org/wiki/Artificial_neural_network>**【以及(大致)如何通过* [*梯度下降/反向传播*](https://en.wikipedia.org/wiki/Backpropagation) *来使用和训练它们。对达尔文进化论原理的基本理解可能也是有用的——但我还是会尝试再次解释这一部分。**
 
 **我们不会在这上面花太多时间，但是研究进化优化的动机的一小部分是理解基于梯度下降/反向传播的训练的替代方案。我已经探索过的其他一些例子可以在关于* [*级联相关*](https://medium.com/towards-data-science/cascade-correlation-a-forgotten-learning-architecture-a2354a0bec92) *和* [*快速推进*](https://medium.com/towards-data-science/quickprop-an-alternative-to-back-propagation-d9a78069e2a7) *的文章中找到。**
 

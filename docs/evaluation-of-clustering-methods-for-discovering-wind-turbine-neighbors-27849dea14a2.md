@@ -14,7 +14,7 @@
 
 在题为“运行中的风力涡轮机的基于聚类的数据预处理”的前一篇文章中，我们详细介绍了在风力涡轮机数据预处理期间输入缺失值的基于聚类的方法。我们在该分析中仅使用了 KMeans 算法，这里的重点是评估用于此目的的其他可用算法。
 
-[](/clustering-based-data-preprocessing-for-operational-wind-turbines-268e231d90a)  
+</clustering-based-data-preprocessing-for-operational-wind-turbines-268e231d90a>  
 
 在选择对涡轮机进行分组的“最佳”模型时，我们特别寻找能够创建最佳数量的聚类的模型，这些聚类的统计数据能够对缺失的风速值做出最佳预测。
 
@@ -156,7 +156,7 @@ Kmeans 模型非常直观，可以填充大部分缺失的值。然而，基于 
 
 什么更有趣？你可以通过下面我的推荐链接订阅 Medium 来获得更多我和其他作者的启发性文章，这也支持我的写作。
 
-[](https://aolaoye.medium.com/membership)  
+<https://aolaoye.medium.com/membership>  
 
 *不要忘了查看在可再生能源领域应用最新数据科学原理的其他故事。*
 

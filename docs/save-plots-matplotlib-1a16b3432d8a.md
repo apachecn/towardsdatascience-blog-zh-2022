@@ -81,8 +81,8 @@ plt.ylabel('Some measurements')plt.savefig('my_plot.png')**plt.close()**
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership)  
+<https://gmyrianthous.medium.com/membership>  
 
 **你可能也会喜欢**
 
-[](/change-font-size-matplolib-480630e300b4)  [](/change-figure-size-matplotlib-11a409f39584) 
+</change-font-size-matplolib-480630e300b4>  </change-figure-size-matplotlib-11a409f39584> 

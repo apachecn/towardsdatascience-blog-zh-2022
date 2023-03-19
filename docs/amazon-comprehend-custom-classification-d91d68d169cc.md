@@ -84,7 +84,7 @@ IAM 角色理解(作者截图)
 
 ## 其他资源和结论
 
-[](https://github.com/RamVegiraju/aws-comprehend-custom-classifier)  
+<https://github.com/RamVegiraju/aws-comprehend-custom-classifier>  
 
 整篇文章的代码请访问上面的链接。关于 Amazon understand 的更多示例/资源，请查看如何在没有任何代码的情况下直接在 [AWS 控制台](https://docs.aws.amazon.com/comprehend/latest/dg/custom-sync.html)上重复整个过程。为了进一步理解代码示例，请查看这个 [AWS 示例库](https://github.com/aws-samples/amazon-comprehend-examples)。
 

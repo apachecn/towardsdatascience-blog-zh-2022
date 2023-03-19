@@ -93,7 +93,7 @@ Posit 还提供了与他们的 Connect 平台的平滑集成，这使得部署�
 
 您可能还会对以下内容感兴趣:
 
-[](/pyscript-unleash-the-power-of-python-in-your-browser-6e0123c6dc3f)  [](/three-approaches-to-feature-engineering-for-time-series-2123069567be)  [](https://medium.com/geekculture/investigating-the-effects-of-resampling-imbalanced-datasets-with-data-validation-techniques-f4ca3c8b2b94)  
+</pyscript-unleash-the-power-of-python-in-your-browser-6e0123c6dc3f>  </three-approaches-to-feature-engineering-for-time-series-2123069567be>  <https://medium.com/geekculture/investigating-the-effects-of-resampling-imbalanced-datasets-with-data-validation-techniques-f4ca3c8b2b94>  
 
 # 参考
 

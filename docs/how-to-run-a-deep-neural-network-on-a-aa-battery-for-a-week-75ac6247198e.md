@@ -26,7 +26,7 @@
 
 最近推出的 MAX78002 更进了一步，几乎将 CNN 加速器的大部分规格增加了一倍。在不久的将来，我们只能期待持续的改进和更强大的加速器。
 
-[](https://www.maximintegrated.com/en/products/microcontrollers/MAX78002.html)  
+<https://www.maximintegrated.com/en/products/microcontrollers/MAX78002.html>  
 
 ## 何时使用“人工智能微处理器”
 
@@ -55,11 +55,11 @@
 
 借助 ADI 公司的这个 [Github 库](https://github.com/MaximIntegratedAI)，MAX7800x 系列的入门变得非常简单，该库包含 MCU 的 SDK 以及用于训练和综合您自己的定制模型的所有必要工具。
 
-[](https://github.com/MaximIntegratedAI)  
+<https://github.com/MaximIntegratedAI>  
 
 MAX78000 是一款真正独一无二的微控制器，将彻底改变我们所知的深度学习。随着 [ARM 宣布 ARM v9 将优先于 DSP 和 ML 硬件加速器](https://www.arm.com/company/news/2021/03/arms-answer-to-the-future-of-ai-armv9-architecture)，我们可以期待更多超低功耗深度学习技术。与 Ethos-U55 神经处理单元配对的新 ARM Cortex-M55 有望在基于现有 Cortex-M 的系统上实现 480 倍的 ML 性能提升。
 
-[](https://www.arm.com/company/news/2021/03/arms-answer-to-the-future-of-ai-armv9-architecture)  
+<https://www.arm.com/company/news/2021/03/arms-answer-to-the-future-of-ai-armv9-architecture>  
 
 深度学习已经是一个令人兴奋的领域，随着这些最新的硬件创新，我们可以期待它随着更广泛的应用而达到更高的高度。敬请关注 EdgeAI 和深度学习的更多思考！
 

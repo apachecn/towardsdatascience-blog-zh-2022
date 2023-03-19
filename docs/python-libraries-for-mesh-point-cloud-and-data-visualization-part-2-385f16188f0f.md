@@ -2,7 +2,7 @@
 
 > 原文：<https://towardsdatascience.com/python-libraries-for-mesh-point-cloud-and-data-visualization-part-2-385f16188f0f>
 
-> 这是本教程的第 2 部分，探索一些用于数据集、点云和网格的可视化和动画的最佳库。在本部分中，您将获得一些见解和代码片段，帮助您使用[](https://github.com/mmatl/pyrender)**，*[*PlotOptiX*](https://plotoptix.rnd.team/)*，*[*poly scope*](https://polyscope.run/py/)，*和*[*Simple-3d viz*](https://simple-3dviz.com/)*。制作令人惊叹的交互式可视化和光线跟踪渲染可以很容易！**
+> 这是本教程的第 2 部分，探索一些用于数据集、点云和网格的可视化和动画的最佳库。在本部分中，您将获得一些见解和代码片段，帮助您使用<https://github.com/mmatl/pyrender>**，*[*PlotOptiX*](https://plotoptix.rnd.team/)*，*[*poly scope*](https://polyscope.run/py/)，*和*[*Simple-3d viz*](https://simple-3dviz.com/)*。制作令人惊叹的交互式可视化和光线跟踪渲染可以很容易！**
 
 *![](img/b0157cb2296a585ace8f6797a5c8aacf.png)**![](img/874c5e76d5909f5105a9e2bd683f2c94.png)**![](img/db7156800f04eaf9f324b71622ae6f5b.png)*
 
@@ -12,7 +12,7 @@
 
 *如果你对使用 Open3D、Trimesh、PyVista 或 Vedo 感兴趣，可以看看概述教程的第 1 部分——这里[这里](https://medium.com/@inikolov17/python-libraries-for-mesh-and-point-cloud-visualization-part-1-daa2af36de30)。*
 
-*[](/python-libraries-for-mesh-and-point-cloud-visualization-part-1-daa2af36de30)  ![](img/b2f67c9990a3fb70d18e3615cac79ab7.png)
+*</python-libraries-for-mesh-and-point-cloud-visualization-part-1-daa2af36de30>  ![](img/b2f67c9990a3fb70d18e3615cac79ab7.png)
 
 作者使用 Simple-3dviz|图像的平滑闭环摄像机轨迹可视化示例
 

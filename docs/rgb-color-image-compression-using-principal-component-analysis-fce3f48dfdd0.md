@@ -268,19 +268,19 @@ PCA 方向对特征的相对范围高度敏感。如果我们没有在相同的�
 
 *主成分分析—回答 18 个问题(关于主成分分析的大多数问题的一站式解决方案)*
 
-[](https://rukshanpramoditha.medium.com/principal-component-analysis-18-questions-answered-4abd72041ccd)  
+<https://rukshanpramoditha.medium.com/principal-component-analysis-18-questions-answered-4abd72041ccd>  
 
 ## 成为会员
 
 如果你愿意的话，你可以注册成为会员，以获得我写的每一个故事的全部信息，我会收到你的一部分会员费。
 
-[](https://rukshanpramoditha.medium.com/membership)  
+<https://rukshanpramoditha.medium.com/membership>  
 
 ## 订阅我的电子邮件列表
 
 订阅我的电子邮件列表，再也不会错过精彩的故事了。我一点击发布按钮，你就会在收件箱里收到每一篇文章。
 
-[](https://rukshanpramoditha.medium.com/subscribe)  
+<https://rukshanpramoditha.medium.com/subscribe>  
 
 [鲁克山·普拉莫蒂塔](https://medium.com/u/f90a3bb1d400?source=post_page-----fce3f48dfdd0--------------------------------)
 2022–03–29

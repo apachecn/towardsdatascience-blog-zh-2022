@@ -81,7 +81,7 @@
 当我们的数据集中的要素比例不同时，此计算的执行效果不佳。例如，尽管 5 千克和 5000 克的含义相同，但在距离计算中，算法会对高量值特征(5000 克)施加很大的权重。
 这就是为什么在将数据输入任何机器学习或统计模型之前，我们必须首先将数据标准化，并将所有特征置于相同的数量级。*
 
-*[](https://medium.com/greyatom/why-how-and-when-to-scale-your-features-4b30ab09db5e)  
+*<https://medium.com/greyatom/why-how-and-when-to-scale-your-features-4b30ab09db5e>  
 
 Scikit-learn 在预处理模块下提供了这个方便的类“StandardScaler ”,这使得标准化我们的数据框架变得非常容易。
 
@@ -106,4 +106,4 @@ Scikit-learn 在预处理模块下提供了这个方便的类“StandardScaler �
 
 ***通过此* [*推荐链接*](https://analyticsoul.medium.com/membership) *加入 Medium，免费支持我。***
 
-**[](https://analyticsoul.medium.com/membership) **
+**<https://analyticsoul.medium.com/membership> **

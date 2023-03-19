@@ -167,12 +167,12 @@ model.predict(predict_data)
 
 ## 更多这样的资源
 
-[](/top-machine-learning-algorithms-for-classification-2197870ff501)  ![Destin Gong](img/dcd4375055f8aa7602b1433a60ad5ca3.png)
+</top-machine-learning-algorithms-for-classification-2197870ff501>  ![Destin Gong](img/dcd4375055f8aa7602b1433a60ad5ca3.png)
 
 [德斯坦贡](https://destingong.medium.com/?source=post_page-----3b976d0ee084--------------------------------)
 
 ## 开始学习数据科学
 
-[View list](https://destingong.medium.com/list/get-started-in-data-science-8006bb4ba3ad?source=post_page-----3b976d0ee084--------------------------------)8 stories![](img/d302bbd526df8af0e847419971dc535a.png)![Statistical Tests in Python](img/2ff8d4b6d8bd95fde596b31de22ef09e.png)![](img/ae659430af3f4c100a2e11f1f558462c.png)[](/how-to-self-learn-data-science-in-2022-a537a76d138e)  
+[View list](https://destingong.medium.com/list/get-started-in-data-science-8006bb4ba3ad?source=post_page-----3b976d0ee084--------------------------------)8 stories![](img/d302bbd526df8af0e847419971dc535a.png)![Statistical Tests in Python](img/2ff8d4b6d8bd95fde596b31de22ef09e.png)![](img/ae659430af3f4c100a2e11f1f558462c.png)</how-to-self-learn-data-science-in-2022-a537a76d138e>  
 
 *原载于 2022 年 6 月 2 日*[*【https://www.visual-design.net】*](https://www.visual-design.net/post/semi-automated-exploratory-data-analysis-process-in-python)*。*

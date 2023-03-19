@@ -215,4 +215,4 @@ GraphSAGE** test accuracy: **77.20% (12.4 s)****
 
 # ****相关文章****
 
-****[](/how-to-design-the-most-powerful-graph-neural-network-3d18b07a6e66)  [](/graph-attention-networks-in-python-975736ac5c0c) ****
+****</how-to-design-the-most-powerful-graph-neural-network-3d18b07a6e66>  </graph-attention-networks-in-python-975736ac5c0c> ****

@@ -289,6 +289,6 @@ plot_sorted_scatter <- function(cars_data, agg_var, by_var) { library(ggplot2)
 
 [数据科学训练营:你成为数据科学家的第一步](https://www.udemy.com/course/r-for-data-science-first-step-data-scientist/?referralCode=IVOSTUDENTSJUNE) —图片由作者提供
 
-[](https://medium.com/membership/@ivopbernardo)  
+<https://medium.com/membership/@ivopbernardo>  
 
 以下是这篇文章中代码的要点:

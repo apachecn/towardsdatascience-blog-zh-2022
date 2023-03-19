@@ -18,11 +18,11 @@
 
 本教程将介绍 Sklearn 中两个更健壮的基于模型的插补算法— `KNNImputer`和`IterativeImputer`。您将学习它们的基本用法，调整它们的参数，最后，看看如何直观地测量它们的效果。
 
-[](https://ibexorigin.medium.com/membership)  
+<https://ibexorigin.medium.com/membership>  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex)  
+<https://alphasignal.ai/?referrer=Bex>  
 
 ## 识别缺失的类型
 
@@ -79,7 +79,7 @@
 
 你可能需要一段时间来理解这些思念的类型。要更深入地了解，你可以参考我写的另一篇文章，专门讨论想念类型和 MSNO 套餐:
 
-[](https://towardsdev.com/how-to-identify-missingness-types-with-missingno-61cfe0449ad9)  
+<https://towardsdev.com/how-to-identify-missingness-types-with-missingno-61cfe0449ad9>  
 
 ## 用 KNNImputer 输入
 
@@ -87,7 +87,7 @@
 
 除了基本的`SimpleImputer`，Sklearn 还提供了`KNNImputer`类，它使用 K-Nearest-Neighbors 算法来估算数值。如果您不熟悉它，我推荐您阅读我关于它的另一篇文章:
 
-[](/intro-to-scikit-learns-k-nearest-neighbors-classifier-and-regressor-4228d8d1cba6)  
+</intro-to-scikit-learns-k-nearest-neighbors-classifier-and-regressor-4228d8d1cba6>  
 
 作为参考，下面是一篇文章的节选，简要介绍了 KNN 算法的工作原理:
 
@@ -158,8 +158,8 @@ KNNImputer 是 KNN 算法的一个略微修改的版本，它试图通过平均�
 
 感谢阅读！
 
-[](https://ibexorigin.medium.com/membership)  [](https://ibexorigin.medium.com/subscribe)  
+<https://ibexorigin.medium.com/membership>  <https://ibexorigin.medium.com/subscribe>  
 
 **我的更多故事:**
 
-[](/10-minute-effortless-sql-tutorial-for-die-hard-pandas-lovers-a64c36733fd0)  [](/how-to-create-slick-math-animations-like-3blue1brown-in-python-457f74701f68)  [](/matplotlib-vs-plotly-lets-decide-once-and-for-all-dc3eca9aa011)  [](https://ibexorigin.medium.com/yes-these-unbelievable-masterpieces-are-created-with-matplotlib-b62e0ff2d1a8) 
+</10-minute-effortless-sql-tutorial-for-die-hard-pandas-lovers-a64c36733fd0>  </how-to-create-slick-math-animations-like-3blue1brown-in-python-457f74701f68>  </matplotlib-vs-plotly-lets-decide-once-and-for-all-dc3eca9aa011>  <https://ibexorigin.medium.com/yes-these-unbelievable-masterpieces-are-created-with-matplotlib-b62e0ff2d1a8> 

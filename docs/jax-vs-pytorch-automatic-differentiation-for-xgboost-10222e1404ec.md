@@ -104,7 +104,7 @@ XGBoost 是一个有效实现 GBDT 的流行库。它提供了一个简单的[�
 
 该基准测试的完整代码可在此处找到:
 
-[](https://github.com/1danielr/auto-gb)  
+<https://github.com/1danielr/auto-gb>  
 
 ## 结论
 

@@ -14,7 +14,7 @@
 
 由于这是一项无服务器服务，我们不必担心设置或管理服务器或任何基础设施。这种产品也被称为功能即服务(FaaS)。查看以下文章，了解更多信息，并了解如何在生产中使用它:
 
-[](/machine-learning-model-as-a-serverless-endpoint-using-google-cloud-function-a5ad1080a59e)  
+</machine-learning-model-as-a-serverless-endpoint-using-google-cloud-function-a5ad1080a59e>  
 
 绕远路之后，让我们回到我们为什么在这里。
 
@@ -121,4 +121,4 @@
 
 *您可能喜欢的其他文章:*
 
-[](/how-to-extract-and-convert-tables-from-pdf-files-to-pandas-dataframe-cb2e4c596fa8)  [](/machine-learning-model-as-a-serverless-endpoint-using-google-cloud-function-a5ad1080a59e)  [](/machine-learning-model-as-a-serverless-app-using-google-app-engine-b760de59156)  [](/documenting-your-python-code-9e69671f046a) 
+</how-to-extract-and-convert-tables-from-pdf-files-to-pandas-dataframe-cb2e4c596fa8>  </machine-learning-model-as-a-serverless-endpoint-using-google-cloud-function-a5ad1080a59e>  </machine-learning-model-as-a-serverless-app-using-google-app-engine-b760de59156>  </documenting-your-python-code-9e69671f046a> 

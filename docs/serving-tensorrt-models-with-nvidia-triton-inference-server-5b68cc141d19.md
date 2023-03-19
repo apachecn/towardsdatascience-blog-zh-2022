@@ -16,7 +16,7 @@
 
 在我的上一篇文章中，我们已经讨论了在 edge (一个独立的 GPU Linux 设备)上用 TensorRT 设置和运行模型推理**。正如我们所见，这非常简单:**
 
-[](https://medium.com/mlearning-ai/running-tensorflow-model-on-edge-with-tensorrt-for-fast-inference-4dcad300a523)  
+<https://medium.com/mlearning-ai/running-tensorflow-model-on-edge-with-tensorrt-for-fast-inference-4dcad300a523>  
 
 另一方面，在本文中，我们将讨论在单个服务器(一个将通过网络接收来自其他设备的请求的 GPU 工作站)上使用 tensort 设置和运行模型推理**，即 [**NVIDIA Triton 推理服务器**](https://developer.nvidia.com/nvidia-triton-inference-server) **。****
 
@@ -24,7 +24,7 @@
 
 关于 Triton server 性能的更多信息可以在以下文章中找到:
 
-  [](https://developer.nvidia.com/blog/nvidia-serves-deep-learning-inference/)  
+  <https://developer.nvidia.com/blog/nvidia-serves-deep-learning-inference/>  
 
 ## 先决条件
 
@@ -143,7 +143,7 @@ pip install tritonclient[all]
 
 然而，当我们考虑在 Triton TensorRT 和 local TensorRT 之间运行单个本地推理时，local TensorRT 仍然具有更快的推理速度，因为 Triton TensorRT 在网络上运行推理时具有额外的开销。在下面的线程中可以看到一些参数:
 
-[](https://github.com/triton-inference-server/server/issues/4812)  
+<https://github.com/triton-inference-server/server/issues/4812>  
 
 # 8.结论
 
@@ -155,8 +155,8 @@ pip install tritonclient[all]
 
 此外，如果你想知道如何快速深入地学习数据科学和人工智能，请查看我在《学习》中的一篇顶级文章:
 
-[](/a-brief-guide-to-effective-learning-in-data-science-637de316da0e)  
+</a-brief-guide-to-effective-learning-in-data-science-637de316da0e>  
 
 > ***支持我！*** *—* 如果你没有订阅 Medium，但喜欢我的内容，请考虑通过我的[推荐链接](https://tanpengshi.medium.com/membership)加入 Medium 来支持我。
 
-[](https://tanpengshi.medium.com/membership) 
+<https://tanpengshi.medium.com/membership> 

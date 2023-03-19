@@ -138,11 +138,11 @@
 
 我们一直关注用 SHAP 值来解释个人预测。它们也可以用来给出全局的解释。这解释了模型作为一个整体是如何工作的。我们通过聚合 SHAP 值和创建不同的地块来做到这一点。我们已经看过一个——卑鄙的 SHAP 阴谋。我们将在下面的文章中详细讨论。我们还将讨论用于计算 SHAP 值和创建这些图的 Python 代码。
 
-[](/introduction-to-shap-with-python-d27edc23c454)  
+</introduction-to-shap-with-python-d27edc23c454>  
 
 我希望这篇文章对你有帮助！你可以成为我的 [**推荐会员**](https://conorosullyds.medium.com/membership) **来支持我。**你可以接触到 Medium 上的所有文章，我可以得到你的一部分费用。
 
-[](https://conorosullyds.medium.com/membership)  
+<https://conorosullyds.medium.com/membership>  
 
 你可以在|[Twitter](https://twitter.com/conorosullyDS)|[YouTube](https://www.youtube.com/channel/UChsoWqJbEjBwrn00Zvghi4w)|[时事通讯](https://mailchi.mp/aa82a5ce1dc0/signup)上找到我——注册免费参加 [Python SHAP 课程](https://adataodyssey.com/courses/shap-with-python/)
 

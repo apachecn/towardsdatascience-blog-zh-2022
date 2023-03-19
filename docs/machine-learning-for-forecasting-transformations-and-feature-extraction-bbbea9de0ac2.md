@@ -116,7 +116,7 @@
 
 ## 你可能想读的以前的故事
 
-[](/12-things-you-should-know-about-time-series-975a185f4eb2)  
+</12-things-you-should-know-about-time-series-975a185f4eb2>  
 
 ## 参考
 

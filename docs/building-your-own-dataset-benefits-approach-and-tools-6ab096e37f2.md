@@ -126,6 +126,6 @@ Maksym Kaharlytskyi 在 [Unsplash](https://unsplash.com/s/visual/29225aad-fffc-4
 
 如果您想支持我的内容创作活动，**请随时关注我下面的推荐链接，并加入 Medium 的会员计划**。我将收到你投资的一部分，你将能够以无缝的方式访问 Medium 的大量数据科学文章。
 
-[](https://medium.com/@theDrewDag/membership)  
+<https://medium.com/@theDrewDag/membership>  
 
 我希望我对你的教育有所贡献。下次见！👋

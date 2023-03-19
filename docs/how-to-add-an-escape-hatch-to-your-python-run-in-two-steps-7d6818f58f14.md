@@ -26,7 +26,7 @@
 
 我已经把这个框架放在了 GitHub 的仓库里，你可以在这里找到:
 
-[](https://github.com/Causb1A/escape-hatch/tree/main) [## GitHub-caus B1 a/Escape-hatch:Escape hatch python 库，以补充 TDS 文章
+<https://github.com/Causb1A/escape-hatch/tree/main> [## GitHub-caus B1 a/Escape-hatch:Escape hatch python 库，以补充 TDS 文章
 
 github.com](https://github.com/Causb1A/escape-hatch/tree/main) 
 
@@ -36,7 +36,7 @@ github.com](https://github.com/Causb1A/escape-hatch/tree/main)
 
 在深入细节之前，我只想介绍一下我使用装饰函数和装饰工厂来做这件事。如果你不确定这些是如何工作的，请在这里阅读更多信息:
 
-[](/decorators-in-python-9cf8ba95e8e7)  
+</decorators-in-python-9cf8ba95e8e7>  
 
 在一个非常高的层次上，装饰器是一个接受另一个函数并扩展后一个函数的行为的函数。
 
@@ -99,7 +99,7 @@ Function_that_runs_forever()是一个永远运行的函数，用来测试逃生�
 
 或者，如果您有兴趣加入 Medium 社区，这里有一个推荐链接:
 
-[](https://medium.com/@adrian.causby15/membership) [## 通过我的推荐链接加入 Medium-Adrian caus by
+<https://medium.com/@adrian.causby15/membership> [## 通过我的推荐链接加入 Medium-Adrian caus by
 
 medium.com](https://medium.com/@adrian.causby15/membership) 
 

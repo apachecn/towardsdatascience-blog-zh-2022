@@ -218,7 +218,7 @@ python -m pydoc -w "..\lib\crypto_tools.py"
 
 这只是定期写关于编码的博客的众多好处之一。
 
-[](https://grahamharrison-86487.medium.com/)  
+<https://grahamharrison-86487.medium.com/>  
 
 准备一个博客包括用一种新的批判的眼光审查代码；毕竟你不希望任何错误，使之成为一个公开的文章！
 
@@ -234,7 +234,7 @@ python -m pydoc -w "..\lib\crypto_tools.py"
 
 注册真正的 Python([https://realpython.com/](https://realpython.com/))这样的邮件列表，并确保你加入 medium.com…
 
-[](https://grahamharrison-86487.medium.com/membership)  
+<https://grahamharrison-86487.medium.com/membership>  
 
 注意:如果你使用这个链接注册，作者将收到一定比例的费用。
 
@@ -248,7 +248,7 @@ python -m pydoc -w "..\lib\crypto_tools.py"
 
 除了这些免费或低成本的资源，有时购买一本好的、老式的书也是值得的。以下是我最近读过的提高技能的最佳书籍——
 
-[](https://www.amazon.co.uk/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975)  [](https://www.amazon.co.uk/Python-Machine-Learning-Example-scikit-learn/dp/1800209711)  [](https://www.amazon.co.uk/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527)  [](https://www.amazon.co.uk/Practical-Blockchains-Cryptocurrencies-Application-Applications/dp/1484258924)  
+<https://www.amazon.co.uk/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975>  <https://www.amazon.co.uk/Python-Machine-Learning-Example-scikit-learn/dp/1800209711>  <https://www.amazon.co.uk/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527>  <https://www.amazon.co.uk/Practical-Blockchains-Cryptocurrencies-Application-Applications/dp/1484258924>  
 
 本节的最后一个建议是利用丰富的在线工具和资源挑战自我。
 
@@ -258,7 +258,7 @@ python -m pydoc -w "..\lib\crypto_tools.py"
 
 我目前在下面的比赛中排名第四，为什么不看看你是否能打败我？…
 
-[](https://www.kaggle.com/competitions/credit-default-prediction-ai-big-data/leaderboard)  
+<https://www.kaggle.com/competitions/credit-default-prediction-ai-big-data/leaderboard>  
 
 # 结论
 

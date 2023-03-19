@@ -101,7 +101,7 @@ rescaling_layer = layers.experimental.preprocessing.**Rescaling**(
 
 *参见本文[文章](https://medium.com/@andrewdaviesul/chain-rule-differentiation-log-loss-function-d79f223eae5)确定如何推导分类应用的二元(0 或 1)交叉熵损失函数。*
 
-*[](https://medium.com/@andrewdaviesul/chain-rule-differentiation-log-loss-function-d79f223eae5)  
+*<https://medium.com/@andrewdaviesul/chain-rule-differentiation-log-loss-function-d79f223eae5>  
 
 图 4 是`model.summary()`的输出。层、输出形状和参数计数与图 3 中所示的等效。
 
@@ -197,7 +197,7 @@ model.summary()*
 
 *找到下面使用的所有 Python 代码。感谢阅读。*
 
-*[](https://medium.com/@andrewdaviesul/membership) * 
+*<https://medium.com/@andrewdaviesul/membership> * 
 
 ## *CNN 培训的 Python 代码(要点 5)*
 

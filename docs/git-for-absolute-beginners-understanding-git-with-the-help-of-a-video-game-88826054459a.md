@@ -155,4 +155,4 @@ origin  [https://github.com/mike-huls/cythonbuilder.git](https://github.com/mike
 
 页（page 的缩写）学生:比如我正在做的事情？[跟我来](https://mikehuls.medium.com/membership)！
 
-[](https://mikehuls.medium.com/membership) 
+<https://mikehuls.medium.com/membership> 

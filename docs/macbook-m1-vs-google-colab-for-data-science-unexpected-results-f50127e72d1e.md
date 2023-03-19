@@ -28,13 +28,13 @@ Google Colab 环境在纸面上看起来更好——这一点毋庸置疑。我�
 
 如果您继续学习，您将需要安装 TensorFlow。这里有一整篇文章致力于在苹果 M1 上安装 TensorFlow:
 
-[](https://betterdatascience.com/install-tensorflow-2-7-on-macbook-pro-m1-pro/)  
+<https://betterdatascience.com/install-tensorflow-2-7-on-macbook-pro-m1-pro/>  
 
 此外，您还需要一个影像数据集。我使用了 Kaggle 的[狗和猫的数据集](https://www.kaggle.com/pybear/cats-vs-dogs?select=PetImages)，它是在知识共享许可下授权的。长话短说，你可以免费使用。
 
 有关如何组织和预处理它的详细说明，请参考以下文章:
 
-[](https://betterdatascience.com/top-3-prerequisites-for-deep-learning-projects/)  
+<https://betterdatascience.com/top-3-prerequisites-for-deep-learning-projects/>  
 
 我们今天会做两个测试:
 
@@ -269,7 +269,7 @@ print(f'Duration: {time_end - time_start}')
 
 *喜欢这篇文章吗？成为* [*中等会员*](https://medium.com/@radecicdario/membership) *继续无限制学习。如果你使用下面的链接，我会收到你的一部分会员费，不需要你额外付费。*
 
-[](https://medium.com/@radecicdario/membership)  
+<https://medium.com/@radecicdario/membership>  
 
 # 保持联系
 

@@ -54,7 +54,7 @@
 
 由[canva.com](https://www.canva.com/design/DAE5MMYtuP4/ZONEBqDNKGFaXATLyoqAQQ/view?utm_content=DAE5MMYtuP4&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)创作
 
-*“如今，92%的组织已经实施或正在实施云计算战略，82%的大型企业已经采用了混合云基础架构。平均而言，组织使用的是 2.6 版本的公共云和 2.7 版本的私有云。”-*[](https://www.factioninc.com/blog/hybrid-multi-cloud/multi-cloud-trends/#:~:text=Today%2C%2092%20percent%20of%20organizations,adopted%20a%20hybrid%20cloud%20infrastructure.)
+*“如今，92%的组织已经实施或正在实施云计算战略，82%的大型企业已经采用了混合云基础架构。平均而言，组织使用的是 2.6 版本的公共云和 2.7 版本的私有云。”-*<https://www.factioninc.com/blog/hybrid-multi-cloud/multi-cloud-trends/#:~:text=Today%2C%2092%20percent%20of%20organizations,adopted%20a%20hybrid%20cloud%20infrastructure.>
 
 # *2.防止停机。*
 

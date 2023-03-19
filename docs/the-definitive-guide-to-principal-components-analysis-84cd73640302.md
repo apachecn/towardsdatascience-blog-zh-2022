@@ -8,7 +8,7 @@
 
 这就是为什么我写了这个新教程，它剥离了我最近构建的在线运行 PCA 的 web 应用程序的底层代码:
 
-[](/a-free-online-tool-for-principal-components-analysis-with-full-graphical-output-c9b3725b4f98)  
+</a-free-online-tool-for-principal-components-analysis-with-full-graphical-output-c9b3725b4f98>  
 
 我所说的“低级”是指除了一个取自库的函数之外，其余的代码都是简单的操作和循环。
 
@@ -85,7 +85,7 @@ for (i=0;i<nvariables;i++) {
 
 这是这个过程中唯一的一点，我宁愿使用一个健壮的、经过良好测试的、正确编码的、高效的矩阵代数库，而不是在底层编码所有的东西。在这种情况下，我使用了 Lalolib 包中用于浏览器内数学的一个过程，我在最近的一篇文章中介绍了这个过程:
 
-[](/websites-for-statistics-and-data-analysis-on-every-device-ebf92bec3e53)  
+</websites-for-statistics-and-data-analysis-on-every-device-ebf92bec3e53>  
 
 请注意，要使用 Lalolib，您需要在 HTML 中找到它，如下所示:
 
@@ -145,7 +145,7 @@ for (i=0; i<nobjects; i++) {
 
 对于在线运行 PCA 的实际 web 应用程序，包括图形输出，以及关于如何解释结果的解释，请查看另一个故事:
 
-[](/a-free-online-tool-for-principal-components-analysis-with-full-graphical-output-c9b3725b4f98)  
+</a-free-online-tool-for-principal-components-analysis-with-full-graphical-output-c9b3725b4f98>  
 
 ## 尝试一下
 

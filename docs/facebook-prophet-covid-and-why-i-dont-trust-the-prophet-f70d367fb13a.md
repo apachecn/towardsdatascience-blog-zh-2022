@@ -146,4 +146,4 @@ Prophet 应该工作得很好，只要它正确地描述了条件均值和条件
 
 综上所述:只要你希望你的时间序列保持一定的稳定性，Prophet 可以是一个有用的即插即用解决方案。然而，不要被先知多次正确所迷惑。最坏的情况是，当它突然不再存在时，你最终会破产。
 
-*原载于 2022 年 8 月 8 日 https://www.sarem-seitz.com*[](https://www.sarem-seitz.com/facebook-prophet-covid-and-why-i-dont-trust-the-prophet/)**。**
+*原载于 2022 年 8 月 8 日 https://www.sarem-seitz.com*<https://www.sarem-seitz.com/facebook-prophet-covid-and-why-i-dont-trust-the-prophet/>**。**

@@ -132,4 +132,4 @@
 
 ## *[第 3 部分——生物信息学框架设计和方法——用于理解结肠直肠癌致癌作用的机器学习建模结果](https://medium.com/@cekikjmiodrag/application-of-machine-learning-algorithms-in-modeling-the-role-of-the-microbiome-in-the-colorectal-2c222ea6ba0)*
 
-*【https://www.linkedin.com】最初发表于[](https://www.linkedin.com/pulse/application-machine-learning-algorithms-modeling-role-miodrag-cekikj-1f/?published=t&trackingId=klyOg4d4INA7kupYlEjq4Q%3D%3D)**。***
+*【https://www.linkedin.com】最初发表于<https://www.linkedin.com/pulse/application-machine-learning-algorithms-modeling-role-miodrag-cekikj-1f/?published=t&trackingId=klyOg4d4INA7kupYlEjq4Q%3D%3D>**。***

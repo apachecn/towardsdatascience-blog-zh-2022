@@ -116,4 +116,4 @@
 
 *如果你很看重这类文章，想支持我这个作家，可以考虑* [*报名成为中会员*](https://arunnthevapalan.medium.com/membership) *。每月 5 美元，你可以无限制地阅读媒体上的故事。*
 
-[](https://arunnthevapalan.medium.com/membership) 
+<https://arunnthevapalan.medium.com/membership> 

@@ -16,7 +16,7 @@
 
 您可以将它看作是简单预测模型和平均预测模型之间的中间值，在简单预测模型中，我们将预测值设置为等于最近的观测值，在平均预测模型中，我们将预测值设置为等于所有历史观测值的平均值。如果你想了解更多关于天真和平均预测模型的内容，请点击这里查看我以前的帖子:
 
-[](/basic-forecasting-techniques-ef4295248e46)  
+</basic-forecasting-techniques-ef4295248e46>  
 
 在本文中，我想介绍最基本的指数平滑模型，以及如何用 Python 实现它。
 
@@ -26,11 +26,11 @@
 
 如上所述，这篇文章是关于指数平滑家族中最基本的模型，*简单指数平滑*。这个模型简单的原因是因为它没有考虑趋势或季节性。然而，这是一个很好的起点，可以在以后添加进一步的复杂性。如果你想了解更多的趋势和季节性，请参考我以前的文章:
 
-[](/seasonality-of-time-series-5b45b4809acd)  [](/time-series-decomposition-8f39432f78f9)  
+</seasonality-of-time-series-5b45b4809acd>  </time-series-decomposition-8f39432f78f9>  
 
 一般来说，当您的数据没有任何趋势或季节性时，这个简单的模型是最好的。或者，您可以通过执行差分和 Box-Cox 变换来转换数据，使其保持平稳，从而消除其趋势和季节性。要了解更多关于这些转换的信息，请点击这里查看我以前的帖子:
 
-[](/time-series-stationarity-simply-explained-125269968154)  [](/box-cox-transform-for-time-series-cc45f26082c6)  
+</time-series-stationarity-simply-explained-125269968154>  </box-cox-transform-for-time-series-cc45f26082c6>  
 
 ## 理论
 
@@ -76,7 +76,7 @@
 
 *作者用 Python 生成的图*
 
-*预测显然不太好，但这确实是最简单的指数平滑模型。需要注意的一点是，预测是平的，这显然是由于模型没有趋势或季节性成分。还有进一步的模型，如霍尔特·温特的[](https://en.wikipedia.org/wiki/Exponential_smoothing#Triple_exponential_smoothing_(Holt_Winters))****，我将在后面的帖子中讨论，这些模型对这些额外的组件进行建模。*****
+*预测显然不太好，但这确实是最简单的指数平滑模型。需要注意的一点是，预测是平的，这显然是由于模型没有趋势或季节性成分。还有进一步的模型，如霍尔特·温特的<https://en.wikipedia.org/wiki/Exponential_smoothing#Triple_exponential_smoothing_(Holt_Winters>)****，我将在后面的帖子中讨论，这些模型对这些额外的组件进行建模。*****
 
 *****我们可以通过运行以下方法提取拟合模型的详细信息:*****
 
@@ -96,7 +96,7 @@
 
 *****本文使用的完整代码可以在我的 GitHub 中找到:*****
 
-*****[](https://github.com/egorhowell/Medium-Articles/blob/main/Time%20Series/Exponential%20Smoothing/simple_exp_smoothing.py)  
+*****<https://github.com/egorhowell/Medium-Articles/blob/main/Time%20Series/Exponential%20Smoothing/simple_exp_smoothing.py>  
 
 # 参考资料和进一步阅读
 
@@ -109,6 +109,6 @@
 *   [*领英*](https://www.linkedin.com/in/egor-howell-092a721b3/) 👔
 *   [*碎碎念*](https://twitter.com/EgorHowell) 🖊
 *   [*github*](https://github.com/egorhowell)*🖥*
-*   *[](https://www.kaggle.com/egorphysics)**🏅***
+*   *<https://www.kaggle.com/egorphysics>**🏅***
 
 > ***(所有表情符号由 [OpenMoji](https://openmoji.org/) 设计——开源表情符号和图标项目。许可证: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)********

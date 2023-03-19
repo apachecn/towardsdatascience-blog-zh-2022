@@ -91,7 +91,7 @@ PC 算法的一个重要限制是，如果你的数据中有隐藏的[混淆](ht
 
 另一个更普遍的限制是，PC 和 IC 等基于约束的算法依赖于条件独立性测试，这在非参数设置中是一项困难的任务。据我所知，这个问题没有通用的非参数无模型解决方案(Azadkia 等人，2021)。
 
-[](https://aleksander-molak.medium.com/yes-six-causality-books-that-will-get-you-from-zero-to-advanced-2023-f4d08718a2dd)  ![](img/b961712fdb4d147a8ec6856af13d930e.png)
+<https://aleksander-molak.medium.com/yes-six-causality-books-that-will-get-you-from-zero-to-advanced-2023-f4d08718a2dd>  ![](img/b961712fdb4d147a8ec6856af13d930e.png)
 
 图片由[Sebastian Arie Voortman](https://www.pexels.com/@sebastian/)@[Pexels](https://www.pexels.com/photo/two-silver-chess-pieces-on-white-surface-411207/)
 
@@ -163,7 +163,7 @@ LiNGAM 背后的主要思想是**相对简单**。想象一个简单的线性系
 
 **要了解更多关于傀儡如何工作的信息，请查看 Ng 等人的文章。**
 
-**[](/causal-kung-fu-in-python-3-basic-techniques-to-jump-start-your-causal-inference-journey-tonight-ae09181704f7) ** 
+**</causal-kung-fu-in-python-3-basic-techniques-to-jump-start-your-causal-inference-journey-tonight-ae09181704f7> ** 
 
 **准备好把手弄脏了吗？**
 
@@ -308,7 +308,7 @@ LiNGAM 背后的主要思想是**相对简单**。想象一个简单的线性系
 
 **笔记本和环境文件在这里:**
 
-**[](https://github.com/AlxndrMlk/blogs-code/tree/main/Beyond%20The%20Basics!%20Level%20Up%20Your%20Causal%20Discovery%20Skills%20in%20Python%20Now%C2%A0%282023%29) ** 
+**<https://github.com/AlxndrMlk/blogs-code/tree/main/Beyond%20The%20Basics!%20Level%20Up%20Your%20Causal%20Discovery%20Skills%20in%20Python%20Now%C2%A0%282023%29> ** 
 
 # **脚注**
 

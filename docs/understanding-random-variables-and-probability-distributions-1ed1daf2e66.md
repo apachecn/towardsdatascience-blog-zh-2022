@@ -74,7 +74,7 @@
 2.  没有概率超过 1
 3.  任何可数不相交(互斥)事件的可加性
 
-[](/understanding-probability-models-and-axioms-c0f498972b80)  
+</understanding-probability-models-and-axioms-c0f498972b80>  
 
 我们描述概率分布的方式取决于随机变量是离散的还是连续的，这将分别产生概率质量或密度函数。
 
@@ -226,7 +226,7 @@
 
 **喜欢这篇文章吗？成为* [*中等会员*](https://medium.com/@marvinlanhenke/membership) *继续无限学习。如果你使用下面的链接，我会收到你的一部分会员费，不需要你额外付费。**
 
-*[](https://medium.com/@marvinlanhenke/membership)  
+*<https://medium.com/@marvinlanhenke/membership>  
 
 **参考资料/更多资料:**
 

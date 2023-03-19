@@ -193,7 +193,7 @@ boosting_params = {
 
 如果你觉得这很有趣，我鼓励你看看我用另一种土生土长的方法对 M4 比赛的另一种看法:[百里香增强。](https://github.com/tblume1992/ThymeBoost)
 
-[](/the-m4-time-series-forecasting-competition-with-thymeboost-b31196fc319)  [](/thymeboost-a0529353bf34)  [](/gradient-boosted-arima-for-time-series-forecasting-e093f80772f6)  
+</the-m4-time-series-forecasting-competition-with-thymeboost-b31196fc319>  </thymeboost-a0529353bf34>  </gradient-boosted-arima-for-time-series-forecasting-e093f80772f6>  
 
 **参考文献:**
 

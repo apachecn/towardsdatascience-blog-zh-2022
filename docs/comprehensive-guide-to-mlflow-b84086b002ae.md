@@ -149,4 +149,4 @@ GUI 中的模型分解。图片由作者提供。
 
 如果你觉得读这篇文章有用，这里是我写的其他文章，你可能也会觉得有用。
 
-[](/comprehensive-guide-to-github-for-data-scientist-d3f71bd320da)  [](/recommendation-systems-explained-a42fc60591ed)  [](/active-learning-in-machine-learning-explained-777c42bd52fa)  [](/text-summarization-in-python-with-jaro-winkler-and-pagerank-72d693da94e8)  [](/text-similarity-w-levenshtein-distance-in-python-2f7478986e75)  [](/word2vec-explained-49c52b4ccb71)  [](/link-prediction-recommendation-engines-with-node2vec-c97c429351a8)  [](https://pub.towardsai.net/community-detection-with-node2vec-6cd5a40c7155) 
+</comprehensive-guide-to-github-for-data-scientist-d3f71bd320da>  </recommendation-systems-explained-a42fc60591ed>  </active-learning-in-machine-learning-explained-777c42bd52fa>  </text-summarization-in-python-with-jaro-winkler-and-pagerank-72d693da94e8>  </text-similarity-w-levenshtein-distance-in-python-2f7478986e75>  </word2vec-explained-49c52b4ccb71>  </link-prediction-recommendation-engines-with-node2vec-c97c429351a8>  <https://pub.towardsai.net/community-detection-with-node2vec-6cd5a40c7155> 

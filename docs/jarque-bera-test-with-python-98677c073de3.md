@@ -107,7 +107,7 @@ Jarque-Bera 每年的计数结果
 
 如果您有任何问题，请随时在 Linkedin[和 Twitter](https://www.linkedin.com/in/jdejesus22/)[上发表评论或联系我们。对 Twitter 上的 DM 开放。如果你喜欢这篇文章，也可以看看我下面的其他相关文章:](https://twitter.com/johnnydata22?lang=en)
 
-[](/hypergeometric-distribution-explained-with-python-2c80bc613bf4)  [](/what-why-and-how-to-read-empirical-cdf-123e2b922480)  [](/point-biserial-correlation-with-python-f7cd591bd3b1)  
+</hypergeometric-distribution-explained-with-python-2c80bc613bf4>  </what-why-and-how-to-read-empirical-cdf-123e2b922480>  </point-biserial-correlation-with-python-f7cd591bd3b1>  
 
 直到下一次，
 

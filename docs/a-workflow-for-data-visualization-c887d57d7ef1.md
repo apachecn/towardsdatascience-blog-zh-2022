@@ -226,7 +226,7 @@ m
 
 如果这个内容你感兴趣，关注我。
 
-[](https://gustavorsantos.medium.com/)  
+<https://gustavorsantos.medium.com/>  
 
 ## 参考
 

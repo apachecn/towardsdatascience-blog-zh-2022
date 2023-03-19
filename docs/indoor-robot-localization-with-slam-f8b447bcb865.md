@@ -81,7 +81,7 @@
 
 **此解决方案的源代码可从[这里](https://github.com/AdroitAnandAI/SLAM-on-Raspberry-Pi)获得**
 
-*****如果您有任何疑问或建议，可以在这里*** 联系我[](https://www.linkedin.com/in/ananduthaman/)**
+*****如果您有任何疑问或建议，可以在这里*** 联系我<https://www.linkedin.com/in/ananduthaman/>**
 
 # ***参考***
 

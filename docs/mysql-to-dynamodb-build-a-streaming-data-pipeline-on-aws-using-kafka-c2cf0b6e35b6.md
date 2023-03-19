@@ -12,7 +12,7 @@
 
 这一部分将展示*变更数据捕获*的作用，它让您可以跟踪数据库表中的行级变更，以响应创建、更新和删除操作。例如，在 MySQL 中，这些变更数据事件通过 [MySQL 二进制日志(binlog)](https://dev.mysql.com/doc/internals/en/binary-log-overview.html) 公开。在第 1 部分中，我们在数据管道的源部分使用了 Datagen 连接器——它帮助我们为 MSK 主题生成模拟数据，并使事情变得简单。
 
-[](/build-a-data-pipeline-on-aws-with-kafka-kafka-connect-and-dynamodb-97642cdb0cfb)  
+</build-a-data-pipeline-on-aws-with-kafka-kafka-connect-and-dynamodb-97642cdb0cfb>  
 
 我们将使用 Aurora MySQL 作为数据源，并通过[Debezium connector for MySQL](https://debezium.io/documentation/reference/1.9/connectors/mysql.html)利用其变更数据捕获功能，从 [Aurora MySQL](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/Aurora.AuroraMySQL.html) 中的表中实时提取数据，并将其推送到 MSK 主题。然后，我们将像以前一样继续使用 DynamoDB 接收器连接器。
 

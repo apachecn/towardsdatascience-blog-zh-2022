@@ -106,7 +106,7 @@ Shape of dataset after removing outliers in Na column: (206, 9)
 
 > 如果你需要一个关于集合学习的复习，你可以看看这篇文章。
 
-[](/practical-guide-to-ensemble-learning-d34c74e022a0)  
+</practical-guide-to-ensemble-learning-d34c74e022a0>  
 
 隔离林遵循随机林的方法，但相反，它检测(或换句话说隔离)异常数据点。为了做到这一点，它做了两个基本假设:离群值是少数，他们是不寻常的。
 
@@ -196,7 +196,7 @@ LOF 检测到异常值(黄色)(n_neighbors=20，污染=“自动”)
 
 在介绍这些方法时，我们没有花太多时间调优超参数。然而，超参数调整是 ML 模型开发中的一个重要步骤。如果你想学习或者刷新一下知识，可以看看下面这篇文章。
 
-[](/hyperparameter-tuning-with-grid-search-and-random-search-6e1b5e175144)  
+</hyperparameter-tuning-with-grid-search-and-random-search-6e1b5e175144>  
 
 我希望您喜欢阅读异常值检测，并发现这篇文章对您的工作有用！
 

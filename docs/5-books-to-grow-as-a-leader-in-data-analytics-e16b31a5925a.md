@@ -99,7 +99,7 @@
 
 如果你喜欢 Medium，请考虑使用我的推荐链接来获得对每篇文章的无限制访问，我将收取你的一部分会员费，不收你任何费用！
 
-[](https://valentin-mucke-ds.medium.com/membership)  
+<https://valentin-mucke-ds.medium.com/membership>  
 
 *免责声明:本帖中有附属链接支持我的写作。如果你通过他们买东西，我可以赚佣金。至于你是否决定买东西，决定权在你。这完全取决于你。*
 

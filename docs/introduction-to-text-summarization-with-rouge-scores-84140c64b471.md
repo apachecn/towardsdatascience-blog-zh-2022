@@ -167,14 +167,14 @@ pip install rouge
 
 我还介绍了 NLP 中的一些其他主题。如果你有兴趣，可以看看我下面的一些文章:
 
-[](https://medium.com/mlearning-ai/introduction-to-hidden-markov-model-hmm-with-simple-ner-d1353ff35842)  [](/dynamic-word-tokenization-with-regex-tokenizer-801ae839d1cd)  
+<https://medium.com/mlearning-ai/introduction-to-hidden-markov-model-hmm-with-simple-ner-d1353ff35842>  </dynamic-word-tokenization-with-regex-tokenizer-801ae839d1cd>  
 
 *附:如果你对* ***加速你的数据科学学习*** *感兴趣，这里还有一篇关于养成良好学习习惯的极其有用的文章:*
 
-[](/a-brief-guide-to-effective-learning-in-data-science-637de316da0e)  
+</a-brief-guide-to-effective-learning-in-data-science-637de316da0e>  
 
 > *感谢阅读！如果您喜欢这些内容，请在* [*中的*](https://tanpengshi.medium.com/) *上阅读我的其他文章，并在*[*LinkedIn*](https://www.linkedin.com/in/tanpengshi/)*上关注我。*
 > 
 > ***支持我！*** —如果你没有*订阅 Medium，并且喜欢我的内容，请考虑通过我的[推荐链接](https://tanpengshi.medium.com/membership)加入 Medium 来支持我。*
 
-[](https://tanpengshi.medium.com/membership) 
+<https://tanpengshi.medium.com/membership> 

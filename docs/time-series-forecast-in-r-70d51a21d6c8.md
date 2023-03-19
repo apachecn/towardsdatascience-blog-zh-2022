@@ -18,7 +18,7 @@
 
 在开始任何数据科学或人工智能相关的任务之前，执行探索性数据分析(EDA)是一个好的做法。在整个 EDA 过程中，你将获得有价值的见解，这些见解可能会极大地影响你即将到来的建模策略。如果你不熟悉 EDA，我推荐你看一看我的另一个故事，我在其中执行了一个示例 EDA。
 
-[](/exploratory-data-analysis-eda-in-python-using-sql-and-seaborn-sns-d1f3bfcc78af)  
+</exploratory-data-analysis-eda-in-python-using-sql-and-seaborn-sns-d1f3bfcc78af>  
 
 # 让我们开始吧…
 
@@ -108,7 +108,7 @@
 
 如果你愿意进一步尝试时间序列预测，并探索 Python 中的 SARIMAX 和 Prophet 等其他算法，那么你可以看看下面的故事。
 
-[](/time-series-forecast-in-python-using-sarimax-and-prophet-c970e6056b5b)  
+</time-series-forecast-in-python-using-sarimax-and-prophet-c970e6056b5b>  
 
 如果你喜欢我的故事，并想跳到代码和完整的数据集，我已经在我个人的 git 上的 repo 中发布了它。
 

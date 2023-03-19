@@ -54,7 +54,7 @@ img = cv2.imread('Dummy Floorplanner Input Image.png')plt.imshow(img)
 
 我们正在处理输入图像，这样，当输入到 pytesseract 时，它可以揭示更多关于文本块的信息。请阅读下文了解更多关于阈值的信息。
 
-[](https://pyimagesearch.com/2021/04/28/opencv-thresholding-cv2-threshold/)  
+<https://pyimagesearch.com/2021/04/28/opencv-thresholding-cv2-threshold/>  
 
 经过处理后，我们的输入图像如下所示:
 
@@ -116,7 +116,7 @@ fig, ax = plt.subplots()ax.scatter(df_img['left'].tolist(), df_img['top'].tolist
 
 如果需要，请阅读下面的帖子来了解 DBSCAN 是如何工作的。
 
-[](/dbscan-clustering-explained-97556a2ad556)  
+</dbscan-clustering-explained-97556a2ad556>  
 
 使用 DBSCAN，我们能够将相关的字符块组合在一起。当该聚类算法预测值为-1 时，该数据点被视为异常值。
 

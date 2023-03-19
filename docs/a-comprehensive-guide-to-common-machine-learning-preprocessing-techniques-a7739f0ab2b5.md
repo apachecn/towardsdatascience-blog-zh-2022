@@ -16,7 +16,7 @@
 
 处理数据通常涉及几个关键步骤，包括数据争论、清理、格式化、探索和预处理。当开始处理数据并创建某种数据分析时，通常会争论、清理、格式化和探索这些数据。然而，预处理更有趣，因为预处理方法将我们的数据技术带入了一个全新的方向。而对于其他操作，清理、格式化、探索，我们试图将数据解释为人类，在预处理的情况下，我们已经将数据解释为人类，现在正试图使数据更容易被统计算法解释。也就是说，预处理的数量及其有效性会对机器学习模型的性能产生严重影响。鉴于这一点的重要性，今天我们将介绍最流行的预处理技术，解释它们是如何工作的，然后我们将自己编写一些技术，以便更好地演示它们是如何工作的。
 
-[](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/comprehensive%20machine-learning%20techniques.ipynb)  
+<https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/comprehensive%20machine-learning%20techniques.ipynb>  
 
 ## 特征类型—简要回顾
 
@@ -176,7 +176,7 @@ end
 
 关于编码器的更多信息，以及解决这些问题的更传统的面向对象方法，您可以在我写的另一篇文章中读到更多关于编码器的信息:
 
-[](/encoders-how-to-write-them-how-to-use-them-d8dd70f45e39)  
+</encoders-how-to-write-them-how-to-use-them-d8dd70f45e39>  
 
 ## 估算者
 
@@ -219,9 +219,9 @@ endx = [5, 10, missing, 20, missing, 82, missing, missing, 40] impute_mean(x)9-e
 
 数据处理领域的下一个主要概念是分解。分解允许人们获取具有多个维度的特征，并将这些维度压缩成单个一致的值。这是很有用的，因为它可以用于为模型提供较少的单个特征，同时仍然让这些特征产生统计效果。这对于性能来说也是非常有价值的，并且在机器学习中非常普遍。最流行的分解技术是奇异值分解。还有一种非常酷的技术叫做随机投影。我在这里不打算详细介绍这两种技术，但是我已经写了一些关于这两种技术的文章，可以从中获得更多信息:
 
-[](/deep-in-singular-value-decomposition-98cfd9532241) [## 深入奇异值分解
+</deep-in-singular-value-decomposition-98cfd9532241> [## 深入奇异值分解
 
-towardsdatascience.com](/deep-in-singular-value-decomposition-98cfd9532241) [](/random-projection-and-its-role-in-data-science-f253dd66485b)  
+towardsdatascience.com](/deep-in-singular-value-decomposition-98cfd9532241) </random-projection-and-its-role-in-data-science-f253dd66485b>  
 
 ## 结论
 

@@ -26,7 +26,7 @@
 
 由于我们将建立在以前的项目上，本指南的先决条件将与我以前的博客中列出的要求相同。
 
-[](/serverless-deployment-of-machine-learning-models-on-aws-lambda-5bd1ca9b5c42)  
+</serverless-deployment-of-machine-learning-models-on-aws-lambda-5bd1ca9b5c42>  
 
 在继续之前，您需要满足几个先决条件。本指南将要求您与许多工具进行交互，所以请花一些时间来满足这些先决条件。
 
@@ -34,7 +34,7 @@
 
 这个项目的源代码可以在下面的链接中找到。
 
-[](https://github.com/lloydhamilton/aws_lambda_with_authoriser)  
+<https://github.com/lloydhamilton/aws_lambda_with_authoriser>  
 
 # 1.λ授权者
 

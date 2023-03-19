@@ -20,7 +20,7 @@
 
 我们将使用我在 [my Django tutorial for total 初学者教程](https://medium.com/towards-data-science/django-first-steps-for-the-total-beginners-a-quick-tutorial-5f1e5e7e9a8c)中创建的非常简化的 films 应用程序，该教程发布在[toward Data Science](https://medium.com/towards-data-science)上。
 
-[](/django-first-steps-for-the-total-beginners-a-quick-tutorial-5f1e5e7e9a8c)  
+</django-first-steps-for-the-total-beginners-a-quick-tutorial-5f1e5e7e9a8c>  
 
 它的模型只有两个表:`films_film`和`films_genre`。来自`films/models.py`的代码转载如下:
 

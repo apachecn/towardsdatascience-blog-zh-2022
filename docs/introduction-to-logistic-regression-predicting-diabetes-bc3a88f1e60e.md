@@ -14,7 +14,7 @@
 
 如果您错过了我们之前的任何研讨会，可以在这里找到:
 
-[](/linear-regression-in-python-for-data-scientists-16caef003012)  [](/an-introduction-to-sql-for-data-scientists-e3bb539decdf)  [](/an-introduction-to-plotting-with-matplotlib-in-python-6d983b9ba081)  
+</linear-regression-in-python-for-data-scientists-16caef003012>  </an-introduction-to-sql-for-data-scientists-e3bb539decdf>  </an-introduction-to-plotting-with-matplotlib-in-python-6d983b9ba081>  
 
 ## 什么是逻辑回归？
 
@@ -246,8 +246,8 @@ insta gram:【https://www.instagram.com/ucl.datasci/
 
 如果你想了解 UCL 数据科学协会和其他优秀作者的最新信息，请使用我下面的推荐代码注册 medium。
 
-[](https://philip-wilkinson.medium.com/membership)  
+<https://philip-wilkinson.medium.com/membership>  
 
 或者看看我写的其他故事:
 
-[](/bias-and-variance-for-machine-learning-in-3-minutes-4e5770e4bf1b)  [](/an-introduction-to-object-oriented-programming-for-data-scientists-879106d90d89)  [](/git-and-github-basics-for-data-scientists-b9fd96f8a02a) 
+</bias-and-variance-for-machine-learning-in-3-minutes-4e5770e4bf1b>  </an-introduction-to-object-oriented-programming-for-data-scientists-879106d90d89>  </git-and-github-basics-for-data-scientists-b9fd96f8a02a> 

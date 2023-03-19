@@ -12,7 +12,7 @@
 
 我推荐阅读关于生成新分布的变量转换的讨论，作为理解规范化流程的先决条件。
 
-[](/stat-stories-variable-transformation-to-generate-new-distributions-d4607cb32c30)  [](/stat-stories-multivariate-transformation-for-statistical-distributions-7077a374b3b4)  
+</stat-stories-variable-transformation-to-generate-new-distributions-d4607cb32c30>  </stat-stories-multivariate-transformation-for-statistical-distributions-7077a374b3b4>  
 
 # **简介**
 

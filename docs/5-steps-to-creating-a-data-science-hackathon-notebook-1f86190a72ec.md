@@ -25,7 +25,7 @@
 
 我们在整篇文章中提到的与**案例研究**相关的文件都可以在这里找到:
 
-[](https://github.com/Causb1A/cyf-edf-hackathon) [## GitHub-caus B1 a/cyf-EDF-hackathon
+<https://github.com/Causb1A/cyf-edf-hackathon> [## GitHub-caus B1 a/cyf-EDF-hackathon
 
 github.com](https://github.com/Causb1A/cyf-edf-hackathon) 
 
@@ -332,7 +332,7 @@ import sklearndf = pd.read_csv(“energy.csv”)
 
 或者，如果您有兴趣加入 Medium 社区，这里有一个推荐链接:
 
-[](https://medium.com/@adrian.causby15/membership) [## 通过我的推荐链接加入 Medium-Adrian caus by
+<https://medium.com/@adrian.causby15/membership> [## 通过我的推荐链接加入 Medium-Adrian caus by
 
 medium.com](https://medium.com/@adrian.causby15/membership) 
 

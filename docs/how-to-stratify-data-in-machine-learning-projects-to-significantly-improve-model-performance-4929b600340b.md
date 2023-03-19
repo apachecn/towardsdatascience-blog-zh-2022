@@ -188,4 +188,4 @@ dtype: int64
 
 如果你想通过订阅来支持作者和全世界 1000 个为文章写作做出贡献的人，请使用下面的链接(注意:如果你使用这个链接免费注册，作者将收到一定比例的费用)。
 
-[](https://grahamharrison-86487.medium.com/membership) 
+<https://grahamharrison-86487.medium.com/membership> 

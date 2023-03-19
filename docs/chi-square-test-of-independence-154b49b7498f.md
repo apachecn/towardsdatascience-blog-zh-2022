@@ -12,7 +12,7 @@
 
 到目前为止，我们已经介绍了**卡方分布**，并用它来解释**卡方拟合优度测试**。你可以在这里查阅这两篇文章:
 
-[](/chi-square-distribution-simply-explained-87f707ba631a)  [](/chi-square-goodness-of-fit-test-7774d3410896)  
+</chi-square-distribution-simply-explained-87f707ba631a>  </chi-square-goodness-of-fit-test-7774d3410896>  
 
 > 我强烈推荐在这篇文章之前阅读那些文章！
 
@@ -41,7 +41,7 @@
 
 ****我还有其他一些帖子，以更详细的形式介绍了假设检验的概念，你可以在这里查看:****
 
-****[](/z-test-simply-explained-80b346e0e239)  [](/confidence-intervals-simply-explained-58b0b11e985f)  
+****</z-test-simply-explained-80b346e0e239>  </confidence-intervals-simply-explained-58b0b11e985f>  
 
 # 卡方检验统计和自由度
 
@@ -145,6 +145,6 @@
 *   [*领英*](https://www.linkedin.com/in/egor-howell-092a721b3/) 👔
 *   [*推特*](https://twitter.com/EgorHowell) 🖊
 *   [*github*](https://github.com/egorhowell)*🖥*
-*   *[](https://www.kaggle.com/egorphysics)**🏅***
+*   *<https://www.kaggle.com/egorphysics>**🏅***
 
 > ***(所有表情符号由 [OpenMoji](https://openmoji.org/) 设计——开源表情符号和图标项目。许可证: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)*******

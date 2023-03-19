@@ -117,7 +117,7 @@ Word2Vec 同时解决了单词包表示的两个限制:
 
 > 注意:在继续之前，最好知道什么是密集神经网络和激活函数。这里有一个故事。
 
-[](/5-most-well-known-cnn-architectures-visualized-af76f1f0065e)  
+</5-most-well-known-cnn-architectures-visualized-af76f1f0065e>  
 
 Word2Vec 采用了具有单个隐藏层的 [**密集神经网络**](/5-most-well-known-cnn-architectures-visualized-af76f1f0065e#c7c5) 的使用，该隐藏层没有激活函数，在给定另一个独热码编码令牌的情况下预测一个独热码编码令牌。
 
@@ -186,7 +186,7 @@ CBOW 的训练速度比 SG 快几倍，对常用词的准确率略高。如果�
 1.  Word2Vec 依赖于关于单词的本地信息，即单词的上下文仅依赖于其邻居。
 2.  单词嵌入是训练神经网络的副产品，因此特征向量之间的线性关系是一个黑盒(某种)。
 3.  Word2Vec 无法理解词汇外(OOV)单词，即不存在于训练数据中的单词。您可以分配一个用于所有 OOV 单词的 UNK 令牌，或者您可以使用对 OOV 单词稳定的其他模型。
-4.  通过给每个单词分配不同的向量，Word2Vec 忽略单词的[](https://en.wikipedia.org/wiki/Morphology_(linguistics))**。比如*吃*、*吃*、吃*吃*被 Word2Vec 认为是独立不同的词，但它们来自同一个词根:*吃*。这个信息可能有用。**
+4.  通过给每个单词分配不同的向量，Word2Vec 忽略单词的<https://en.wikipedia.org/wiki/Morphology_(linguistics>)**。比如*吃*、*吃*、吃*吃*被 Word2Vec 认为是独立不同的词，但它们来自同一个词根:*吃*。这个信息可能有用。**
 
 **在下一个故事中，我们将提出并解释理论上可以解决这些限制的嵌入模型。敬请期待！**
 

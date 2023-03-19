@@ -38,7 +38,7 @@
 *   Bechdel 考试成绩如何随时间变化？电影在通过贝克德尔测试方面做得更好吗🤞？
 *   Bechdel 测试与屏幕外表现的其他基准相比如何？
 
-> *为数据集勾选*[](https://www.kaggle.com/alisonyao/movie-bechdel-test-scores)**。
+> *为数据集勾选*<https://www.kaggle.com/alisonyao/movie-bechdel-test-scores>**。
 > 本帖中的代码可以在这个*[*GitHub repo*](https://github.com/AlisonYao/HCDS-Bechdel-Test-Final-Project)*中找到。**
 
 # *数据收集*
@@ -370,7 +370,7 @@ bechdel_df_no_nan_no_dubious = bechdel_df_no_nan[bechdel_df_no_nan['dubious']==0
 
 *我的优秀队友 **JB** 、**敏杰**和**法蒂玛**浏览了 Bechdel 网站上的评论，并做了使项目完整的定性分析。如果你有兴趣，请点击这里的！*
 
-> **本帖中的代码可以在这个*[*GitHub repo*](https://github.com/AlisonYao/HCDS-Bechdel-Test-Final-Project)*中找到。检查数据集的*[](https://www.kaggle.com/alisonyao/movie-bechdel-test-scores)**。***
+> **本帖中的代码可以在这个*[*GitHub repo*](https://github.com/AlisonYao/HCDS-Bechdel-Test-Final-Project)*中找到。检查数据集的*<https://www.kaggle.com/alisonyao/movie-bechdel-test-scores>**。***
 
 # **参考资料和相关阅读**
 

@@ -245,4 +245,4 @@ plt.show()
 
 编码快乐！[这里是完整的 Colab 笔记本](https://colab.research.google.com/drive/1_LCks_XBBM1Cgro9R29HhpXQTW6M5Exh?usp=sharing)供你参考。
 
-*“酷散点图”是在* [*柏克莱编码学院*](https://www.berkeleycodingacademy.com/) *教授给湾区及更远地区青少年的众多主题之一。暑假期间，* [*伯克利编码学院*](https://www.berkeleycodingacademy.com/) *提供了机器学习& AI 暑期项目，此外还有全年 1-1 节课。作者科里·韦德是伯克利编码学院*[](https://www.berkeleycodingacademy.com/)**的导演和创始人。**
+*“酷散点图”是在* [*柏克莱编码学院*](https://www.berkeleycodingacademy.com/) *教授给湾区及更远地区青少年的众多主题之一。暑假期间，* [*伯克利编码学院*](https://www.berkeleycodingacademy.com/) *提供了机器学习& AI 暑期项目，此外还有全年 1-1 节课。作者科里·韦德是伯克利编码学院*<https://www.berkeleycodingacademy.com/>**的导演和创始人。**

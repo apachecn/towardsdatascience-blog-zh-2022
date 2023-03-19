@@ -77,7 +77,7 @@ API 使用页面提供了其使用说明。虽然有三种类型的 API 查询�
 
 下面是本文示例中将使用的基本 URL 的格式:
 
-> [](http://quickstats.nass.usda.gov/api/api_GET/?key=api)**关键字&{参数…参数} &格式={json | csv | xml}**
+> <http://quickstats.nass.usda.gov/api/api_GET/?key=api>**关键字&{参数…参数} &格式={json | csv | xml}**
 
 *请参见 [Quick Stats API“使用”页面](https://quickstats.nass.usda.gov/api)了解该 URL 和其他两个 URL。*
 

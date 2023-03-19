@@ -250,7 +250,7 @@ Text.From ( [CustomerKey] )
 
 如果您不了解这种机制，可以阅读我关于上下文转换的文章:
 
-[](/whats-fancy-about-context-transition-in-dax-efb5d5bc4c01)  
+</whats-fancy-about-context-transition-in-dax-efb5d5bc4c01>  
 
 首先，我们创建一个调用现有销售度量值的计算列:
 
@@ -316,4 +316,4 @@ Category by Sales =SWITCH( TRUE()
 
 Contoso 数据可以在 MIT 许可下自由使用，如这里的[所述](https://github.com/microsoft/Power-BI-Embedded-Contoso-Sales-Demo)。
 
-[](https://medium.com/@salvatorecagliari/membership) 
+<https://medium.com/@salvatorecagliari/membership> 

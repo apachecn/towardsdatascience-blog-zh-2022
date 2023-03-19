@@ -84,11 +84,11 @@ FROM daily_sales
 
 不确定接下来要读什么？我为你选了另一篇文章:
 
-[](/3-most-valuable-data-science-skills-that-increased-my-salary-by-60-89b4bbe0b34f)  
+</3-most-valuable-data-science-skills-that-increased-my-salary-by-60-89b4bbe0b34f>  
 
 **还有一个:**
 
-[](/the-5-best-data-science-books-you-should-read-in-2022-9209616c203f)  
+</the-5-best-data-science-books-you-should-read-in-2022-9209616c203f>  
 
 # -特伦斯·申
 

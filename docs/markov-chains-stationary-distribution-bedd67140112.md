@@ -12,7 +12,7 @@
 
 在我以前的文章中，我们开始发展我们对 [**马尔可夫链**](https://en.wikipedia.org/wiki/Markov_chain) 的直觉和知识。到目前为止，我们已经讲述了: [**马尔可夫性质、**](https://en.wikipedia.org/wiki/Markov_property) [**转移矩阵**](https://en.wikipedia.org/wiki/Stochastic_matrix) 和**多步转移**利用 [**查普-柯尔莫哥洛夫方程**](https://en.wikipedia.org/wiki/Chapman%E2%80%93Kolmogorov_equation) **。我建议在继续写这篇文章之前通读这些文章:**
 
-[](/markov-chains-simply-explained-dc77836b47e3)  [](/markov-chains-multi-step-transitions-6772114bcc1d)  
+</markov-chains-simply-explained-dc77836b47e3>  </markov-chains-multi-step-transitions-6772114bcc1d>  
 
 但是，简单总结一下上面的文章:**马尔可夫链是离散时间内有限状态空间中的一系列转移，其中转移的概率只取决于当前状态**。这个系统是完全无记忆的。
 
@@ -133,7 +133,7 @@ print(initial_dist)***
 
 ***完整代码可以在我的 GitHub 上找到:***
 
-***[](https://github.com/egorhowell/Medium-Articles/blob/main/Statistics/markov_stationary.py)  
+***<https://github.com/egorhowell/Medium-Articles/blob/main/Statistics/markov_stationary.py>  
 
 # 摘要
 
@@ -146,6 +146,6 @@ print(initial_dist)***
 *   [*【领英】*](https://www.linkedin.com/in/egor-howell-092a721b3/) 👔
 *   [*碎碎念*](https://twitter.com/EgorHowell) 🖊
 *   [*github*](https://github.com/egorhowell)*🖥*
-*   *[](https://www.kaggle.com/egorphysics)**🏅***
+*   *<https://www.kaggle.com/egorphysics>**🏅***
 
 > ***(所有表情符号都是由 [OpenMoji](https://openmoji.org/) 设计的——开源的表情符号和图标项目。许可证: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)******

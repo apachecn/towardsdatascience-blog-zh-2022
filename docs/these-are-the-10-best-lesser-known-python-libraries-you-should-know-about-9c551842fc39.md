@@ -43,7 +43,7 @@ models
 
 我写了两篇关于 Lazy Predict 的博客——一篇是关于分类模型的，另一篇是关于回归模型的，其中包括了我对它的想法和代码，这样你就可以自己测试了。
 
-[](/how-to-run-30-machine-learning-models-with-2-lines-of-code-d0f94a537e52)  [](/how-to-run-40-regression-models-with-a-few-lines-of-code-5a24186de7d)  
+</how-to-run-30-machine-learning-models-with-2-lines-of-code-d0f94a537e52>  </how-to-run-40-regression-models-with-a-few-lines-of-code-5a24186de7d>  
 
 # 勒克斯
 
@@ -59,7 +59,7 @@ Lux 是另一个你绝对应该尝试的黄金图书馆。它允许您进行探�
 
 如果你想进一步了解莱克丝，我还为此写了一篇博客。
 
-[](/how-to-create-data-visualizations-on-python-with-one-click-f6bafbd8de54)  
+</how-to-create-data-visualizations-on-python-with-one-click-f6bafbd8de54>  
 
 # 黑色
 
@@ -83,13 +83,13 @@ Lux 是另一个你绝对应该尝试的黄金图书馆。它允许您进行探�
 
 QuickDA 太棒了，我在两个博客中写了关于它的内容。一个侧重于数据清理、数据探索和数据分析，您可以在此找到:
 
-[](/save-hours-of-work-doing-a-complete-eda-with-a-few-lines-of-code-45de2e60f257) [## 用几行代码完成一个完整的 EDA，节省大量时间
+</save-hours-of-work-doing-a-complete-eda-with-a-few-lines-of-code-45de2e60f257> [## 用几行代码完成一个完整的 EDA，节省大量时间
 
 towardsdatascience.com](/save-hours-of-work-doing-a-complete-eda-with-a-few-lines-of-code-45de2e60f257) 
 
 另一个关注数据可视化，你可以在这里找到:
 
-[](/how-to-create-data-visualizations-in-python-with-one-line-of-code-8cda1044fe69) [## 如何用一行代码在 Python 中创建数据可视化
+</how-to-create-data-visualizations-in-python-with-one-line-of-code-8cda1044fe69> [## 如何用一行代码在 Python 中创建数据可视化
 
 towardsdatascience.com](/how-to-create-data-visualizations-in-python-with-one-line-of-code-8cda1044fe69) 
 
@@ -105,7 +105,7 @@ PyForest 是我写的第一批 Python 库之一。我发现 PyForest 时，我�
 
 你可以在这里找到我的博客:
 
-[](/how-to-import-all-python-libraries-with-one-line-of-code-2b9e66a5879f)  
+</how-to-import-all-python-libraries-with-one-line-of-code-2b9e66a5879f>  
 
 # Bamboolib，米托和 D-Tale
 
@@ -127,7 +127,7 @@ Bamboolib、米托和 D-Tale 不是一个图书馆。它们实际上是三个不
 
 这是我关于 Bamboolib 的博客
 
-[](/bamboolib-one-of-the-most-useful-python-libraries-you-have-ever-seen-6ce331685bb7)  
+</bamboolib-one-of-the-most-useful-python-libraries-you-have-ever-seen-6ce331685bb7>  
 
 ## 米托
 
@@ -139,7 +139,7 @@ Bamboolib、米托和 D-Tale 不是一个图书馆。它们实际上是三个不
 
 这是我关于米托的博客:
 
-[](/mito-one-of-the-coolest-python-libraries-you-have-ever-seen-5261dbfedceb)  
+</mito-one-of-the-coolest-python-libraries-you-have-ever-seen-5261dbfedceb>  
 
 ## 数字童话
 
@@ -149,7 +149,7 @@ Bamboolib、米托和 D-Tale 不是一个图书馆。它们实际上是三个不
 
 作者 GIF
 
-[](/d-tale-one-of-the-best-python-libraries-you-have-ever-seen-c2deecdfd2b)  
+</d-tale-one-of-the-best-python-libraries-you-have-ever-seen-c2deecdfd2b>  
 
 # PyCaret
 
@@ -163,7 +163,7 @@ PyCaret 是一个用 Python 编写的开源、低代码的机器学习库，可�
 
 几个月前我写过这个。是时候写一篇关于它的新博客了，因为他们增加了更多的功能，但是你可以在这里了解 PyCaret:
 
-[](/how-to-run-complex-machine-learning-models-with-2-lines-of-code-e0a541502ee9)  
+</how-to-run-complex-machine-learning-models-with-2-lines-of-code-e0a541502ee9>  
 
 # SweetViz
 
@@ -183,7 +183,7 @@ PyCaret 是一个用 Python 编写的开源、低代码的机器学习库，可�
 
 几个月前我写了一篇关于它的博客，如果你想了解更多的话:
 
-[](/5-python-libraries-that-you-dont-know-but-you-should-fd6f810773a7) [## 5 个你不知道但应该知道的 Python 库
+</5-python-libraries-that-you-dont-know-but-you-should-fd6f810773a7> [## 5 个你不知道但应该知道的 Python 库
 
 towardsdatascience.com](/5-python-libraries-that-you-dont-know-but-you-should-fd6f810773a7) 
 

@@ -135,7 +135,7 @@ wq.plot_param('SPM', cmap='jet', vmin=5, vmax=20)
 
 *如果你喜欢这篇文章，想支持我成为一名作家，可以考虑通过我的推荐链接成为* [*媒介会员*](https://cordmaur.medium.com/membership) *。每月只需 5 美元，我会从你的会员费中收取一小笔佣金，不需要你额外付费。或者你可以随时给我买杯咖啡。*
 
-[](http://cordmaur.medium.com/membership)  
+<http://cordmaur.medium.com/membership>  
 
 # 参考
 

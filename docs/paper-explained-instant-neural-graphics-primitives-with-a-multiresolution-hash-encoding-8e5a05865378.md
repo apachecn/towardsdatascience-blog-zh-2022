@@ -16,7 +16,7 @@
 
 这是一个高级话题，你可能从未听说过 NeRF 或者需要复习一下。那样的话，别担心，我会掩护你的！下面你会发现我的文章，这一切都是从这张纸上开始的；我建议您在继续之前阅读它，因为我不打算重复解释已经讨论过的内容。
 
-[](https://blog.devgenius.io/paper-explained-nerf-representing-scenes-as-neural-radiance-fields-for-view-synthesis-e16567180531)  
+<https://blog.devgenius.io/paper-explained-nerf-representing-scenes-as-neural-radiance-fields-for-view-synthesis-e16567180531>  
 
 > **免责声明**:大部分图片和内容来源于即时 NGP [论文](https://nvlabs.github.io/instant-ngp/assets/mueller2022instant.pdf) / [项目网站](https://nvlabs.github.io/instant-ngp/)，在本文中我尽量报道了对其理解至关重要的部分，必要时补充细节。所有图片都是在作者许可下拍摄的，必要时还列出了额外的许可。
 

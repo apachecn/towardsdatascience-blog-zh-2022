@@ -117,8 +117,8 @@ dtype: int64
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership)  
+<https://gmyrianthous.medium.com/membership>  
 
 **你可能也会喜欢**
 
-[](/how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3)  [](/dynamic-typing-in-python-307f7c22b24e)  [](/mastering-indexing-and-slicing-in-python-443e23457125) 
+</how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3>  </dynamic-typing-in-python-307f7c22b24e>  </mastering-indexing-and-slicing-in-python-443e23457125> 

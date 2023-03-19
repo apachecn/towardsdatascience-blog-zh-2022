@@ -20,7 +20,7 @@
 
 因此，在实践中，这些基于物理学的方法只对某些领域的某些问题非常有用，而它们完全难以准确捕捉其他领域的复杂性和微妙性。仅举一个与我的研究密切相关的例子，人们会期望模拟应该能够将延伸的蛋白质折叠成正确的 3D 结构。实际上，除了小蛋白质和使用非常复杂的机器来运行分子模拟，我们还远远没有做到这一点，正如我在这里描述的:
 
-[](/a-family-of-specialized-supercomputers-that-simulates-molecular-mechanics-like-no-other-38a6e59f96ef)  
+</a-family-of-specialized-supercomputers-that-simulates-molecular-mechanics-like-no-other-38a6e59f96ef>  
 
 ## 人工智能时代
 
@@ -52,7 +52,7 @@
 
 与物理学更相关的是，我还介绍了考虑物理约束的符号回归如何能够重新发现已知的物理学，并发现在物理学和工程学中使用的新方程:
 
-[](/real-world-applications-of-symbolic-regression-2025d17b88ef)  
+</real-world-applications-of-symbolic-regression-2025d17b88ef>  
 
 在接下来的内容中，我将围绕 3 个主题/案例，展示几个结合了基于人工智能和基于物理的方法的研究和工具开发的具体例子。
 
@@ -60,7 +60,7 @@
 
 ***马等人，2022 和柯克帕特里克等人科学 2021*** 正如我在一篇专门的博客文章中所讨论的那样，谷歌研究人员最近采用了人工智能方法和符号回归来大幅加快量子力学计算中涉及的一个特定计算步骤:
 
-[](/google-proposes-new-method-to-derive-analytical-expressions-for-terms-in-quantum-mechanics-d70fff6e1ef2)  
+</google-proposes-new-method-to-derive-analytical-expressions-for-terms-in-quantum-mechanics-d70fff6e1ef2>  
 
 Deepmind 对量子计算中的类似问题提出了不同的解决方案，[也是基于 ML 方法](/deepmind-strikes-back-now-tackling-quantum-mechanical-calculations-e1cae792e5d0)。
 
@@ -70,7 +70,7 @@ Deepmind 对量子计算中的类似问题提出了不同的解决方案，[也�
 
 一些现代神经网络提供了量子计算方法的准确性和一些能力，在某种程度上适用于经典的分子动力学模拟。也许最先进的这类系统是 ANI，是阿纳金-我的缩写，源自美国佛罗里达大学和卡耐基梅隆大学的罗伊特伯格和伊萨耶夫小组开发的*分子能量精确神经网络引擎；*
 
-[](https://pubs.rsc.org/en/content/articlelanding/2017/sc/c6sc05720a#:~:text=ANI%20is%20a%20new%20method,AEV%29%20as%20a%20molecular%20representation)  
+<https://pubs.rsc.org/en/content/articlelanding/2017/sc/c6sc05720a#:~:text=ANI%20is%20a%20new%20method,AEV%29%20as%20a%20molecular%20representation>  
 
 ANI 读入原子坐标和符号，并返回能量，从其沿三维空间的梯度，还可以获得作用在原子上的力。正如作者所展示的，一旦获得了力，这些力就有可能被用来优化分子的几何形状和进行其他类型的计算。潜在地，通过一些仍在研究和开发中的调整，这些力可以用来驱动分子动力学模拟，取代传统的力场。
 
@@ -84,7 +84,7 @@ ANI 作为一个深度神经网络，通过使用 DFT 类型的非常详细的�
 
 作为另一个具体的示例应用，我们使用 ANI 作为分子结构操纵 VR 工具的一个组件，以在交互式分子模拟中提供真实的物理特性，接近 DFT 水平，但足够快速地实时运行。你可以在这个短片中看到它的作用:
 
-[](https://www.youtube.com/shorts/BKRmyvMXBRo)  
+<https://www.youtube.com/shorts/BKRmyvMXBRo>  
 
 **基于材料的高质量电子结构计算的大数据集训练的基于 ML 的力场是有吸引力的，因为它们结合了效率和准确性。作者强调了设计高质量训练数据集的重要性，并讨论了主动学习和迁移学习等策略以提高模型的准确性。他们也提供这些进展到分子和材料的应用的例子。**
 
@@ -96,13 +96,13 @@ ANI 作为一个深度神经网络，通过使用 DFT 类型的非常详细的�
 
 **首先，研究人员证明了在 MD 模拟产生的蛋白质结构上训练的神经网络可以用来生成新的，似乎合理的蛋白质构象。他们表明，这种方法可以用于蛋白质-蛋白质对接场景，其中考虑灵活性的能力有助于蛋白质结合时发生的广泛铰链运动-这在常规原子模拟中需要很长的计算时间。**
 
-**[](https://www.sciencedirect.com/science/article/pii/S0969212619301145)  
+**<https://www.sciencedirect.com/science/article/pii/S0969212619301145>  
 
 该网络在通过常规原子模拟产生的可选蛋白质构象的集合上进行训练，并在不用于训练的一组独立构象上进行测试。该网络由一个编码器组成，该编码器接收原子坐标，并将它们通过一系列神经元数量逐渐减少的隐藏层，以产生输入构象的低维表示。然后，该信号进入解码器，这是另一系列隐藏层，但这一次神经元的数量增加了，解码器将其扩展回输出，该输出应该类似于通过编码器的初始蛋白质结构。整个自动编码器最初被训练成编码-解码结构，使得输入和输出构象之间的差异最小化。但经过训练后，解码器可以用来从潜在空间内的任何坐标生成新的蛋白质结构。
 
 在随后的工作中，同一个小组开发了一个卷积神经网络，它不仅学习蛋白质构象，还学习它们如何相互交换，这被称为构象空间。此外，这个网络使用损失函数来确保构象之间的中间产物在物理上是合理的。这样，在对常规原子模拟的快照进行训练后，网络可以预测给定的蛋白质构象如何转变为另一种构象，即它如何以物理上合理的方式移动。
 
-[](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.011052)  
+<https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.011052>  
 
 在核心，这个网络还包括一个编码器和解码器，就像在以前的工作中一样，压缩和解压缩信息，沿途产生结构性波动。但是在编码器和解码器之间，这个网络增加了一个模块，其损失函数包含基于物理的项，确保任何一对构象之间的潜在空间插值产生低能的蛋白质结构。基于物理学的损失函数是基于经典原子模拟的一个琥珀力场(更具体地说是琥珀 ff14SB)构建的，分别采用其成键和非成键项。通过使用这种损失，网络的内部模块在连接输入和输出蛋白质构象的测地线的所有点上强制遵守物理学，并约束中间体遵循局部最小能量路径。
 
@@ -110,7 +110,7 @@ ANI 作为一个深度神经网络，通过使用 DFT 类型的非常详细的�
 
 ***Majewski 等人 arXiv 2022*** 仍然与蛋白质有关，但分辨率较低，Majewski 等人刚刚发布了一份预印本，描述了基于人工神经网络和基于统计力学的粗粒度分子势。他们用 9 ms 的累积原子模拟(大部分是由这种专用计算机产生的)来训练这个神经网络，用于各种不同结构的 12 种不同蛋白质。所得到的粗粒度模型将构象动力学的采样加速了三个数量级以上，同时保留了用于训练的详细原子模拟所提供的系统热力学。
 
-[](https://arxiv.org/abs/2212.07492)  
+<https://arxiv.org/abs/2212.07492>  
 
 致力于可转移的基于 ML 的力场，作者进一步表明，可以计算单个粗粒度势，它可以正确地模拟所有 12 种蛋白质的动力学，甚至捕获这些蛋白质突变版本的某些特殊特征。
 
@@ -134,6 +134,6 @@ ANI 作为一个深度神经网络，通过使用 DFT 类型的非常详细的�
 
 除了我在整篇文章中提到的文章和博客条目…
 
-[](https://medium.com/advances-in-biological-science/how-computer-modeling-simulations-and-artificial-intelligence-impact-protein-engineering-in-4d8473bd59ff)  [](/gato-the-latest-from-deepmind-towards-true-ai-1ac06e1d18cd)  [](/how-huge-protein-language-models-could-disrupt-structural-biology-6b98193f880b)  
+<https://medium.com/advances-in-biological-science/how-computer-modeling-simulations-and-artificial-intelligence-impact-protein-engineering-in-4d8473bd59ff>  </gato-the-latest-from-deepmind-towards-true-ai-1ac06e1d18cd>  </how-huge-protein-language-models-could-disrupt-structural-biology-6b98193f880b>  
 
 www.lucianoabriata.com*我写作并拍摄我广泛兴趣范围内的一切事物:自然、科学、技术、编程等等。* [***成为媒介会员***](https://lucianosphere.medium.com/membership) *访问其所有故事(我免费获得小额收入的平台的附属链接)和* [***订阅获取我的新故事***](https://lucianosphere.medium.com/subscribe) ***通过电子邮件*** *。到* ***咨询关于小职位*** *查看我的* [***服务页面这里***](https://lucianoabriata.altervista.org/services/index.html) *。你可以* [***这里联系我***](https://lucianoabriata.altervista.org/office/contact.html) ***。*****

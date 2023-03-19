@@ -18,7 +18,7 @@
 
 学习 SQL 也差不多。在你学会写一个简单的陈述后，现在做什么？建立一个本地数据库很难，并不是每个懂 SQL 的人都能做到。此外，处理用 Excel 创建的假数据一点也不好玩。
 
-[](/why-should-you-pick-up-sql-in-your-spare-time-65634dbb6eb1)  
+</why-should-you-pick-up-sql-in-your-spare-time-65634dbb6eb1>  
 
 所以，我们去“兜风”，好吗？
 

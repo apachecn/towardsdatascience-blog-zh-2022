@@ -84,7 +84,7 @@ df[ df.value.isna() ]
 
 从这里，你可以使用许多可用的技术来处理缺失数据:删除，插补，插值等。我在下面的文章中浏览了几个选项。
 
-[](/exploratory-data-analysis-with-python-part-1-b6248b28dc85)  
+</exploratory-data-analysis-with-python-part-1-b6248b28dc85>  
 
 ## 带有文本缺失数据的数值数据
 
@@ -142,7 +142,7 @@ df[ df.text.apply(lambda x: len(re.findall('NA|[*|?|!|#|-]', x)) !=0 )]
 
 更多内容，别忘了关注我。
 
-[](https://gustavorsantos.medium.com/)  
+<https://gustavorsantos.medium.com/>  
 
 如果你喜欢的话，可以订阅 Medium。你可以在这里使用我的推荐代码。
 

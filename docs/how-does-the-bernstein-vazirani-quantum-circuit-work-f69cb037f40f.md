@@ -74,7 +74,7 @@ Bernstein-Vazirani 算法可以在一次传递中识别一个秘密的二进制�
 
 伯恩斯坦-瓦齐拉尼算法没有像肖尔算法那样受到重视。然而，它第一次展示了量子计算机如何加速秘密字符串的发现，例如用于加密的字符串。
 
-[](https://pyqml.medium.com/membership)  
+<https://pyqml.medium.com/membership>  
 
 不要错过下一集，订阅我的[子栈频道](https://pyqml.substack.com/)。
 

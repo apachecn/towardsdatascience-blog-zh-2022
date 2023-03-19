@@ -40,7 +40,7 @@ TRPO 很快获得了欢迎和主流认可，因为根据经验，它比自然政
 
 有关策略梯度的更多详细信息，请查看以下文章:
 
-[](/policy-gradients-in-reinforcement-learning-explained-ecec7df94245)  
+</policy-gradients-in-reinforcement-learning-explained-ecec7df94245>  
 
 # 自然政策梯度(二阶优化)
 
@@ -66,7 +66,7 @@ KL-divergence 衡量更新前后策略之间的距离。
 
 有关自然政策梯度的详细解释，请查看以下文章:
 
-[](/natural-policy-gradients-in-reinforcement-learning-explained-2265864cf43c)  
+</natural-policy-gradients-in-reinforcement-learning-explained-2265864cf43c>  
 
 # 自然政策梯度的问题
 
@@ -211,13 +211,13 @@ TRPO 算法的伪代码。TRPO 执行一个共轭梯度算法，一个约束样�
 *   当架构有多个输出时——神经网络输出策略和价值函数的情况很常见——没有一致的度量标准可供使用；
 *   总的来说，TRPO 很难解释和说明，使得实现、调试和培训都很困难。
 
-[](/proximal-policy-optimization-ppo-explained-abed1952457b)  
+</proximal-policy-optimization-ppo-explained-abed1952457b>  
 
 [近似策略近似法](https://medium.com/p/abed1952457b)——也是 OpenAI 在 2017 年推出的——在经验上与 TRPO 等方法具有竞争力(甚至优于 TRPO ),而且实现起来也简单得多。因此，*事实上已经*取代了 PPO。尽管如此， **TRPO 代表了自然政策梯度发展中的一个重要里程碑****，值得强化学习领域的学生关注。**
 
 ***喜欢这篇文章？你可能也会喜欢下面的 RL 文章:***
 
-**[](/the-five-building-blocks-of-markov-decision-processes-997dc1ab48a7)  [](/why-reinforcement-learning-doesnt-need-bellman-s-equation-c9c2e51a0b7)  [](/cliff-walking-problem-with-the-discrete-policy-gradient-algorithm-59d1900d80d8)  
+**</the-five-building-blocks-of-markov-decision-processes-997dc1ab48a7>  </why-reinforcement-learning-doesnt-need-bellman-s-equation-c9c2e51a0b7>  </cliff-walking-problem-with-the-discrete-policy-gradient-algorithm-59d1900d80d8>  
 
 # 进一步阅读
 

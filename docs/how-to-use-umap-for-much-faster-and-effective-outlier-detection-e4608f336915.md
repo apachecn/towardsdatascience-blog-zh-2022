@@ -18,11 +18,11 @@
 
 那么，在处理如此常见的大规模、百万行数据集时，我们如何才能在离群点检测的速度和准确性方面表现出色呢？这就是 UMAP 的用武之地。
 
-[](https://ibexorigin.medium.com/membership)  
+<https://ibexorigin.medium.com/membership>  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex)  
+<https://alphasignal.ai/?referrer=Bex>  
 
 # 什么是 UMAP？
 
@@ -40,7 +40,7 @@ UMAP 的设计使得无论你将数据投影到哪个维度，它都尽可能地
 
 > 如果你想更多地了解 UMAP 及其令人敬畏的特色，我在以前的一篇文章中已经深入地讨论过了:
 
-[](/beginners-guide-to-umap-for-reducing-dimensionality-and-visualizing-100-dimensional-datasets-ff5590fb17be)  
+</beginners-guide-to-umap-for-reducing-dimensionality-and-visualizing-100-dimensional-datasets-ff5590fb17be>  
 
 # 用纯隔离林设置基线
 
@@ -88,10 +88,10 @@ UMAP 的设计使得无论你将数据投影到哪个维度，它都尽可能地
 
 感谢您的阅读！
 
-[](https://ibexorigin.medium.com/membership)  [](https://ibexorigin.medium.com/subscribe)  
+<https://ibexorigin.medium.com/membership>  <https://ibexorigin.medium.com/subscribe>  
 
 ## 阅读更多来自我的故事…
 
-[](/comprehensive-guide-to-deploying-any-ml-model-as-apis-with-python-and-aws-lambda-b441d257f1ec) [## 使用 Python 和 AWS Lambda 将任何 ML 模型部署为 API 的综合指南
+</comprehensive-guide-to-deploying-any-ml-model-as-apis-with-python-and-aws-lambda-b441d257f1ec> [## 使用 Python 和 AWS Lambda 将任何 ML 模型部署为 API 的综合指南
 
-towardsdatascience.com](/comprehensive-guide-to-deploying-any-ml-model-as-apis-with-python-and-aws-lambda-b441d257f1ec) [](/25-advanced-pandas-functions-people-are-using-without-telling-you-b65fa442f0f4)  [](/forget-roadmaps-here-is-how-to-dominate-the-data-science-stack-blazingly-fast-a49e62f2bcf)  [](/25-numpy-treasures-buried-in-the-docs-waiting-to-be-found-60d8e17931cd)  [](https://ibexorigin.medium.com/28-weekly-machine-learning-tricks-and-resources-that-are-pure-gems-1-8e5259a93c94) 
+towardsdatascience.com](/comprehensive-guide-to-deploying-any-ml-model-as-apis-with-python-and-aws-lambda-b441d257f1ec) </25-advanced-pandas-functions-people-are-using-without-telling-you-b65fa442f0f4>  </forget-roadmaps-here-is-how-to-dominate-the-data-science-stack-blazingly-fast-a49e62f2bcf>  </25-numpy-treasures-buried-in-the-docs-waiting-to-be-found-60d8e17931cd>  <https://ibexorigin.medium.com/28-weekly-machine-learning-tricks-and-resources-that-are-pure-gems-1-8e5259a93c94> 

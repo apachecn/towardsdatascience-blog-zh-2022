@@ -118,4 +118,4 @@ p 值对于理解统计假设检验非常重要，可以用一句话来概括:�
 
 [数据科学训练营课程](https://www.udemy.com/course/r-for-data-science-first-step-data-scientist/?couponCode=MEDIUMREADERSSEP) —图片作者
 
-[](https://medium.com/membership/@ivopbernardo) 
+<https://medium.com/membership/@ivopbernardo> 

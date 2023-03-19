@@ -35,7 +35,7 @@ NumPy 是一个免费的开源 Python 库，可以帮助你操作数字和应用
 
 更好的做法是使用 Numpy 数组而不是列表。它们分别是**更快**，消耗**更少内存**，更**方便**。
 
-[](https://medium.com/@LVillepinte/introduction-to-list-a49a4a73f8ce)  
+<https://medium.com/@LVillepinte/introduction-to-list-a49a4a73f8ce>  
 
 # 2.索引数组
 
@@ -194,4 +194,4 @@ NumPy 提出了一种操作数据的简便方法。数组比列表更好、更�
 
 *📚先前发布:*
 
-[](https://faun.pub/how-to-become-the-best-data-scientist-6b1334f53244)  [](https://faun.pub/this-one-thing-is-causing-the-next-black-swan-e734e6e710c1) 
+<https://faun.pub/how-to-become-the-best-data-scientist-6b1334f53244>  <https://faun.pub/this-one-thing-is-causing-the-next-black-swan-e734e6e710c1> 

@@ -128,7 +128,7 @@
 
 *完整的代码和解析的数据可以在这里找到:*
 
-*[](https://github.com/kinivi/patent_ner_linking)  
+*<https://github.com/kinivi/patent_ner_linking>  
 
 ## 附言
 

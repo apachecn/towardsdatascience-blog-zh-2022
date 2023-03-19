@@ -52,8 +52,8 @@ ML 模型的核心是训练数据。它们反映了它所训练的数据中存�
 
 为了产生商业价值，需要将 ML 模型部署到生产中。这绝对不是一件容易的事。创建这样一个系统超出了数据科学家的技能范围。然而，了解与在生产中维护 ML 模型相关的风险并采取预防措施可以使事情变得更容易。
 
-*你可以成为* [*媒介会员*](https://sonery.medium.com/membership) *解锁我的全部写作权限，外加其余媒介。如果你已经是了，别忘了订阅*[](https://sonery.medium.com/subscribe)**如果你想在我发表新文章时收到电子邮件。**
+*你可以成为* [*媒介会员*](https://sonery.medium.com/membership) *解锁我的全部写作权限，外加其余媒介。如果你已经是了，别忘了订阅*<https://sonery.medium.com/subscribe>**如果你想在我发表新文章时收到电子邮件。**
 
-*[](https://sonery.medium.com/membership)  
+*<https://sonery.medium.com/membership>  
 
 感谢您的阅读。如果您有任何反馈，请告诉我。*

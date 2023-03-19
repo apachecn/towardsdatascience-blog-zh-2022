@@ -210,7 +210,7 @@
 
 ***所有代码都存储在这个 GitHub [库](https://github.com/ad-1/u-net-aerial-imagery-segmentation)中:***
 
-***[](https://github.com/ad-1/u-net-aerial-imagery-segmentation)  [](https://medium.com/@andrewdaviesul/membership)  
+***<https://github.com/ad-1/u-net-aerial-imagery-segmentation>  <https://medium.com/@andrewdaviesul/membership>  
 
 ## 参考
 

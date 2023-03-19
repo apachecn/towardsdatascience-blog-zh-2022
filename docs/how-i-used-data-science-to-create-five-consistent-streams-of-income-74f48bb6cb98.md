@@ -44,7 +44,7 @@
 
 如果你想了解更多关于我如何建立一个成功的数据科学博客的信息，请查看我下面的文章:
 
-[](/my-secrets-to-writing-a-successful-data-science-blog-b2597b2553c6) [## 我写一篇成功的数据科学博客的秘密
+</my-secrets-to-writing-a-successful-data-science-blog-b2597b2553c6> [## 我写一篇成功的数据科学博客的秘密
 
 towardsdatascience.com](/my-secrets-to-writing-a-successful-data-science-blog-b2597b2553c6) 
 
@@ -84,11 +84,11 @@ towardsdatascience.com](/my-secrets-to-writing-a-successful-data-science-blog-b2
 
 不确定接下来要读什么？我为你选了另一篇文章:
 
-[](/all-machine-learning-algorithms-you-should-know-in-2022-db5b4ccdf32f)  
+</all-machine-learning-algorithms-you-should-know-in-2022-db5b4ccdf32f>  
 
 **还有一个:**
 
-[](/the-10-best-data-visualizations-of-2021-fec4c5cf6cdb)  
+</the-10-best-data-visualizations-of-2021-fec4c5cf6cdb>  
 
 ## -特伦斯·申
 

@@ -14,7 +14,7 @@
 
 上周，我开始撰写一系列关于深度预测的文章。我们讨论的第一种方法是变压器。
 
-[](/transformer-unleashed-deep-forecasting-of-multivariate-time-series-in-python-9ca729dac019)  
+</transformer-unleashed-deep-forecasting-of-multivariate-time-series-in-python-9ca729dac019>  
 
 今天，让我们为我们的武器库中添加另一个神经网络预测器: **N-BEATS，**时间序列的**神经基础扩展分析**。
 
@@ -48,7 +48,7 @@ N-BEATS 的超参数为:
 
 关于概率性预测而非确定性预测的更多背景信息，请参考本文:
 
-[](/temporal-fusion-transformer-a-primer-on-deep-forecasting-in-python-4eb37f3f3594)  
+</temporal-fusion-transformer-a-primer-on-deep-forecasting-in-python-4eb37f3f3594>  
 
 # 2.属国
 
@@ -223,7 +223,7 @@ N-BEATS 模型似乎在 12 月下旬受到向下偏差的困扰，此时蓝色�
 
 我们也可以开始一个调整过程。Darts 为 N-BEATS 和其他深度预测器提供了网格搜索—穷举或随机采样—请参见本文中的 Python 示例:
 
-[](/temporal-fusion-transformer-a-primer-on-deep-forecasting-in-python-4eb37f3f3594)  
+</temporal-fusion-transformer-a-primer-on-deep-forecasting-in-python-4eb37f3f3594>  
 
 但是 N-BEATS 的处理时间有点令人沮丧。它在时间序列上咬了 1 个多小时。超参数搜索会增加计算量。因此，我经受住了诱惑，试图通过隔夜网格搜索将 MAPE 降低 1%或 2%。
 
@@ -277,4 +277,4 @@ N-BEATS 实现了 6.5%的 MAPE(在任何调整工作之前)。它花费的训练
 
 N-BEATS Jupyter 笔记本可以在 GitHub 上下载，与 Transformer 笔记本在同一个存储库中:[h3ik 0th/ES _ energy _ Transformer:Transformer deep forecast(github.com)](https://github.com/h3ik0th/ES_energy_Transformer)
 
-[](https://medium.com/@h3ik0.th/membership)  [](https://medium.com/@h3ik0.th/temporal-fusion-transformer-unleashed-deep-forecasting-of-multivariate-time-series-in-python-674fa393821b) 
+<https://medium.com/@h3ik0.th/membership>  <https://medium.com/@h3ik0.th/temporal-fusion-transformer-unleashed-deep-forecasting-of-multivariate-time-series-in-python-674fa393821b> 

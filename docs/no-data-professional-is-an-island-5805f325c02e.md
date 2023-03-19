@@ -201,4 +201,4 @@
 
 如果你对数据专业人员的生活有任何疑问，请随时在 [LinkedIn](https://www.linkedin.com/in/christian-wanser/) 或 [Twitter](https://twitter.com/ChrisWritesData) 上联系我！
 
-[](https://medium.com/@ChristianWritesData/membership) 
+<https://medium.com/@ChristianWritesData/membership> 

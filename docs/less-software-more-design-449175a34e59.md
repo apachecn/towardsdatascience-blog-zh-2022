@@ -106,7 +106,7 @@ Ishara 色盲测试，显示数字 74。图片来自维基百科。
 
 不幸的是，我无法用一个段落或一篇短文来概括这些大量的信息。所以，我的建议是把这个作为一个课题加入研究。Aseem Kashyap 有一篇关于入门的优秀文章。
 
-[](/8-rules-for-optimal-use-of-color-in-data-visualization-b283ae1fc1e2)  
+</8-rules-for-optimal-use-of-color-in-data-visualization-b283ae1fc1e2>  
 
 # 小心谨慎地使用标题、标题和文本注释。
 
@@ -114,7 +114,7 @@ Ishara 色盲测试，显示数字 74。图片来自维基百科。
 
 您可以使用文本来创建视觉层次，但这需要一定的对比度。例如，标题应该与正文区分开来。可以通过字体配对实现对比。Esther Teo 有一篇关于这个主题的优秀文章:
 
-[](https://medium.com/8px-magazine/practical-guide-to-font-pairing-da58b9bcd42b)  
+<https://medium.com/8px-magazine/practical-guide-to-font-pairing-da58b9bcd42b>  
 
 # 分类和排序
 

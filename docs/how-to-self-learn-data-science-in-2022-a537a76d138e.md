@@ -43,7 +43,7 @@
 
 查看我关于假设检验的文章:
 
-[](/an-interactive-guide-to-hypothesis-testing-in-python-979f4d62d85)  [](/statistical-power-in-hypothesis-testing-visually-explained-1576968b587e)  
+</an-interactive-guide-to-hypothesis-testing-in-python-979f4d62d85>  </statistical-power-in-hypothesis-testing-visually-explained-1576968b587e>  
 
 有各种类型的假设检验可供探讨——***T 检验、方差分析、*** ***卡方检验……***。机器学习基本上被认为是一个假设测试过程，我们需要在假设空间中搜索最适合我们观察到的数据的模型，并允许我们对未观察到的数据进行预测。
 
@@ -121,7 +121,7 @@ SQL 是一种功能强大的语言，用于与结构化数据库通信并从中�
 
 如果感兴趣，请查看我关于 EDA 和数据可视化的文章:
 
-[](/semi-automated-exploratory-data-analysis-eda-in-python-7f96042c9809)  [](/which-chart-to-choose-4b21929539eb)  [](https://medium.com/analytics-vidhya/3-ux-design-principles-for-better-data-visualization-70548630ff28)  
+</semi-automated-exploratory-data-analysis-eda-in-python-7f96042c9809>  </which-chart-to-choose-4b21929539eb>  <https://medium.com/analytics-vidhya/3-ux-design-principles-for-better-data-visualization-70548630ff28>  
 
 # 4.模型实现
 
@@ -133,7 +133,7 @@ SQL 是一种功能强大的语言，用于与结构化数据库通信并从中�
 
 **监督学习**可以进一步分为分类和回归算法，查看我关于一些流行算法的文章。
 
-[](/top-machine-learning-algorithms-for-regression-c67258a2c0ac)  [](/top-machine-learning-algorithms-for-classification-2197870ff501)  
+</top-machine-learning-algorithms-for-regression-c67258a2c0ac>  </top-machine-learning-algorithms-for-classification-2197870ff501>  
 
 下面是常用算法的快速总结:
 
@@ -228,6 +228,6 @@ SQL 是一种功能强大的语言，用于与结构化数据库通信并从中�
 
 ## EDA 和特征工程技术
 
-[View list](https://destingong.medium.com/list/eda-and-feature-engineering-techniques-e0696974ed54?source=post_page-----a537a76d138e--------------------------------)9 stories![](img/7fc2bdc73b7b052566cf26034941c232.png)![](img/a7c4110e9a854cf9e9eba83dfa46e7d3.png)![](img/3ac6d4f7832c8daa758f71b1e479406c.png)[](/a-practical-guide-to-linear-regression-3b1cb9e501a6)  [](/semi-automated-exploratory-data-analysis-eda-in-python-7f96042c9809)  
+[View list](https://destingong.medium.com/list/eda-and-feature-engineering-techniques-e0696974ed54?source=post_page-----a537a76d138e--------------------------------)9 stories![](img/7fc2bdc73b7b052566cf26034941c232.png)![](img/a7c4110e9a854cf9e9eba83dfa46e7d3.png)![](img/3ac6d4f7832c8daa758f71b1e479406c.png)</a-practical-guide-to-linear-regression-3b1cb9e501a6>  </semi-automated-exploratory-data-analysis-eda-in-python-7f96042c9809>  
 
 *原载于 2022 年 1 月 30 日*[*【https://www.visual-design.net】*](https://www.visual-design.net/post/3-ux-design-principles-for-better-data-visualization)*。*

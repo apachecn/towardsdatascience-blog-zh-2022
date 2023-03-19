@@ -14,7 +14,7 @@
 
 本文的重点是向读者展示如何使用 node2vec 嵌入和余弦相似性或 node2vec 嵌入和基于建模的方法来实现解决链路预测问题的算法方法。如果你对 node2vec 不熟悉，我以前写过一篇关于它的文章，你可以在下面看看。
 
-[](/node2vec-explained-db86a319e9ab)  
+</node2vec-explained-db86a319e9ab>  
 
 推荐系统环境中的 Node2Vec 可用于基于邻居的应用。这是因为 node2vec 保留了网络的初始结构，来自 node2vec 的嵌入是量化是否应该有连接一对节点的边的好方法。
 
@@ -173,7 +173,7 @@ sklearn=0.24.1
 
 关于如何在推荐系统中实现更简单的解决方案，您可以参考我写的另一篇文章。
 
-[](/recommendation-systems-explained-a42fc60591ed)  
+</recommendation-systems-explained-a42fc60591ed>  
 
 此外，如果你想在与这个项目相关的 jupyter 笔记本中进行跟进，你可以参考我的 [GitHub](https://github.com/vatsal220/medium_articles/blob/main/link_prediction/link_prediction.ipynb) 。
 
@@ -185,6 +185,6 @@ sklearn=0.24.1
 
 如果你喜欢这篇文章，这里有一些我写的其他文章，你可能也会喜欢。
 
-[](/word2vec-explained-49c52b4ccb71)  [](/linear-algebra-explained-through-graph-theory-1c79711e9a20)  [](/mining-modelling-character-networks-part-i-e37e4878c467)  [](https://vatsal12-p.medium.com/mining-modelling-character-networks-part-ii-a3d77de89638)  [](/bayesian-a-b-testing-explained-344a6df88c1a) [## 贝叶斯 A/B 测试解释
+</word2vec-explained-49c52b4ccb71>  </linear-algebra-explained-through-graph-theory-1c79711e9a20>  </mining-modelling-character-networks-part-i-e37e4878c467>  <https://vatsal12-p.medium.com/mining-modelling-character-networks-part-ii-a3d77de89638>  </bayesian-a-b-testing-explained-344a6df88c1a> [## 贝叶斯 A/B 测试解释
 
-towardsdatascience.com](/bayesian-a-b-testing-explained-344a6df88c1a) [](/markov-chain-explained-210581d7a4a9)  [](https://pub.towardsai.net/dynamic-time-warping-explained-fbb24c1e079b) 
+towardsdatascience.com](/bayesian-a-b-testing-explained-344a6df88c1a) </markov-chain-explained-210581d7a4a9>  <https://pub.towardsai.net/dynamic-time-warping-explained-fbb24c1e079b> 

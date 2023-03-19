@@ -12,7 +12,7 @@
 
 **在这里阅读上一篇文章:**
 
-[](/multiclass-text-classification-using-keras-to-predict-emotions-a-comparison-with-and-without-word-5ef0a5eaa1a0)  
+</multiclass-text-classification-using-keras-to-predict-emotions-a-comparison-with-and-without-word-5ef0a5eaa1a0>  
 
 **在这次重新访问相同的数据集时，**在 Kaggle [这里](https://www.kaggle.com/praveengovi/emotions-dataset-for-nlp)和拥抱人脸数据集[这里](https://huggingface.co/datasets/emotion)，**上公开可用，我将尝试改进模型**，在未见过的数据集上的加权平均召回率为 81%。
 

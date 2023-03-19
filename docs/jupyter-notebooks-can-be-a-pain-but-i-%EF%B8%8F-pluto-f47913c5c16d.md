@@ -147,10 +147,10 @@ Pluto 知道你是否正在安装软件包，并将软件包元数据直接存�
 
 > 非常感谢冥王星的创造者！你们太棒了。
 
-[](https://github.com/fonsp/Pluto.jl)  
+<https://github.com/fonsp/Pluto.jl>  
 
 来自 JuliaCon 的创作者的精彩演讲——由 Julia 编程语言频道上传
 
 > 我写朱莉娅和其他很酷的东西。如果你喜欢这样的文章，请考虑关注我。
 
-[](/joining-dataframes-in-julia-c435e3da32f3)  [](/reading-csv-files-with-julia-e2623fb62938) 
+</joining-dataframes-in-julia-c435e3da32f3>  </reading-csv-files-with-julia-e2623fb62938> 

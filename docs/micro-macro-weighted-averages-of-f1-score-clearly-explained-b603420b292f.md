@@ -174,7 +174,7 @@ F1 分数(也称为 F-measure)是一种用于评估分类模型性能的流行�
 
 > ***微 F1** =准确度=微精度=微召回*
 
-*[](https://kennethleungty.medium.com/membership) * 
+*<https://kennethleungty.medium.com/membership> * 
 
 # *(6)我应该选择哪个平均数？*
 
@@ -192,4 +192,4 @@ F1 分数(也称为 F-measure)是一种用于评估分类模型性能的流行�
 
 *欢迎您来到**和我一起踏上数据科学学习之旅！**关注我的 [Medium](https://kennethleungty.medium.com/) 页面，查看我的 [GitHub](https://github.com/kennethleungty) ，了解更多精彩的数据科学内容。同时，享受解释 F1 分数的乐趣！*
 
-*[](/assumptions-of-logistic-regression-clearly-explained-44d85a22b290)  [](/why-bootstrapping-actually-works-1e75640cf172)  [](/the-dying-relu-problem-clearly-explained-42d0c54e0d24)  [](https://kennethleungty.medium.com/membership) *
+*</assumptions-of-logistic-regression-clearly-explained-44d85a22b290>  </why-bootstrapping-actually-works-1e75640cf172>  </the-dying-relu-problem-clearly-explained-42d0c54e0d24>  <https://kennethleungty.medium.com/membership> *

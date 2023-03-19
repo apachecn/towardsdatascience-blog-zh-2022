@@ -209,7 +209,7 @@ from webdataset.handlers import reraise_exceptionfs = s3fs.S3FileSystem()def url
 
 查看[这篇很酷的帖子](https://joshua-robinson.medium.com/object-storage-via-fuse-filesystems-ea2cc8094e2c)了解更多基于 FUSE 的提取 S3 数据的方法，包括 s3f 的替代方法，如 [goofys](https://github.com/kahing/goofys) 和 [rclone](https://rclone.org/commands/rclone_mount/) 。
 
-[](https://joshua-robinson.medium.com/object-storage-via-fuse-filesystems-ea2cc8094e2c)  
+<https://joshua-robinson.medium.com/object-storage-via-fuse-filesystems-ea2cc8094e2c>  
 
 **亚马逊 S3 PyTorch 插件** :
 去年 [AWS 宣布](https://aws.amazon.com/blogs/machine-learning/announcing-the-amazon-s3-plugin-for-pytorch/)发布一个专用库，用于将数据从 S3 拉入 PyTorch 培训环境。这个插件的细节，包括使用说明，可以在这个 [github 项目](https://github.com/aws/amazon-s3-plugin-for-pytorch)中找到。应该注意的是，作者最近宣布弃用这个库，并计划在 [TorchData](https://pytorch.org/data/beta/index.html) 库中用 S3 IO 支持来取代它。(下面将详细介绍。)下面的代码块演示了使用 S3 PyTorch 插件，用我们的 toy WebDataset 文件创建一个可迭代的 PyTorch 数据集。

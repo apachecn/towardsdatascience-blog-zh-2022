@@ -50,7 +50,7 @@ Photo by [愚木混株 cdd20](https://unsplash.com/@cdd20?utm_source=unsplash&ut
 
 我们需要的下一件事是一些测试数据来表示场景的“观察”。要快速构建一百万行代表因果场景的测试数据，请阅读本文…
 
-[](/how-to-generate-synthetic-data-for-any-causal-inference-project-in-less-than-10-lines-of-code-158688a89349)  
+</how-to-generate-synthetic-data-for-any-causal-inference-project-in-less-than-10-lines-of-code-158688a89349>  
 
 …查看源代码和对`BinaryDataGenerator`类的解释…
 
@@ -85,7 +85,7 @@ Deaths caused by Smallpox: 40
 
 在《为什么》一书中，Pearl 认为因果推理引擎的关键组成部分之一是“因果模型”,它可以是因果图、结构方程、逻辑陈述等。但是在因果图上珍珠被“强烈销售”。
 
-[](https://www.amazon.co.uk/Book-Why-Science-Cause-Effect/dp/0241242630)  
+<https://www.amazon.co.uk/Book-Why-Science-Cause-Effect/dp/0241242630>  
 
 目前，大多数的库和文章都称之为“有向无环图”(DAGs 它们本质上是一样的。
 
@@ -263,7 +263,7 @@ Number of deaths: 2050
 
 [通过我的推荐链接](https://grahamharrison-86487.medium.com/membership)加入 Medium(如果你使用这个链接注册，我将收取一定比例的费用)。
 
-[](https://grahamharrison-86487.medium.com/membership)  
+<https://grahamharrison-86487.medium.com/membership>  
 
 每当我发表新故事时，订阅一封免费电子邮件。
 

@@ -177,4 +177,4 @@ Afif Kusuma 在 [Unsplash](https://unsplash.com/photos/376KN_ISplE) 上拍摄的
 
 如果你对这种类型的内容感兴趣，并想探索更多，有一些奇妙的想法，以进一步探讨这些想法如何桥梁经济学和 ML。
 
-    [](https://www.linkedin.com/pulse/why-utility-determination-critical-defining-ai-success-bill-schmarzo/) 
+    <https://www.linkedin.com/pulse/why-utility-determination-critical-defining-ai-success-bill-schmarzo/> 

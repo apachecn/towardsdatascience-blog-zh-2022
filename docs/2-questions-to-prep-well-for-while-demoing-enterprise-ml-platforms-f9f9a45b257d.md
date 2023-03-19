@@ -71,4 +71,4 @@ Pawel Czerwinski 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_mediu
 
 **访问我的免费数据科学资源清单** [**这里**](https://landing.mailerlite.com/webforms/landing/k1n3r2) **。**
 
-[](https://edo-romani1.medium.com/membership) 
+<https://edo-romani1.medium.com/membership> 

@@ -20,7 +20,7 @@ Streamlit 提供了一个简洁的 [API](https://docs.streamlit.io/library/api-r
 
 让我们看一看🔍
 
-[](https://medium.com/membership/@ahmedbesbes)  
+<https://medium.com/membership/@ahmedbesbes>  
 
 # 快速提醒
 
@@ -121,7 +121,7 @@ Streamlit 宣布推出新的 st.tabs 功能
 
 如果你是 Streamlit 及其生态系统的新手，你可以看看我以前的一些帖子:
 
-[](/7-reasons-why-you-should-use-the-streamlit-aggrid-component-2d9a2b6e32f0)  [](/5-streamlit-components-to-build-better-applications-71e0195c82d4)  [](/how-to-build-a-streamlit-app-to-extract-topics-from-youtube-videos-9c7aebbfab8e)  [](/how-i-built-a-machine-learning-playground-with-streamlit-3cddb7368ba9)  
+</7-reasons-why-you-should-use-the-streamlit-aggrid-component-2d9a2b6e32f0>  </5-streamlit-components-to-build-better-applications-71e0195c82d4>  </how-to-build-a-streamlit-app-to-extract-topics-from-youtube-videos-9c7aebbfab8e>  </how-i-built-a-machine-learning-playground-with-streamlit-3cddb7368ba9>  
 
 或者查看以下链接:
 
@@ -132,4 +132,4 @@ Streamlit 宣布推出新的 st.tabs 功能
 
 ## 新到中？你可以每月订阅 5 美元，并解锁各种主题的无限文章(技术、设计、创业……)你可以通过点击我的推荐链接[来支持我](https://ahmedbesbes.medium.com/membership)
 
-[](https://ahmedbesbes.medium.com/membership) 
+<https://ahmedbesbes.medium.com/membership> 

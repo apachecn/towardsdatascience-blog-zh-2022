@@ -31,7 +31,7 @@
 
 顺便说一句，如果这是你第一次听说朱莉娅，我推荐你读“什么是朱莉娅？”一节来快速入门:
 
-[](/is-julia-really-faster-than-python-and-numpy-242e0a5fe34f)  
+</is-julia-really-faster-than-python-and-numpy-242e0a5fe34f>  
 
 # 参考笔记本
 
@@ -41,7 +41,7 @@
 
 可以在此处找到适合您本地环境的原始笔记本:
 
-[](https://github.com/thetestspecimen/notebooks/tree/main/julia-python-image-classification)  
+<https://github.com/thetestspecimen/notebooks/tree/main/julia-python-image-classification>  
 
 …或者在 deepnote 或 colab 中快速启动。
 
@@ -98,7 +98,7 @@ ENV DEFAULT_KERNEL_NAME "julia-1.8"
 
 本文中使用的较小数据集可从以下网址获得:
 
-[](https://github.com/thetestspecimen/notebooks/tree/main/datasets/rock_paper_scissors)  
+<https://github.com/thetestspecimen/notebooks/tree/main/datasets/rock_paper_scissors>  
 
 # 这个计划
 
@@ -660,7 +660,7 @@ my_func(x, y) = x * y + 2
 
 **使用我的推荐链接注册会给我一点回扣，对你的会员资格没有影响，所以如果你选择这样做，谢谢你。**
 
-**[](https://medium.com/@maclayton/membership)  
+**<https://medium.com/@maclayton/membership>  
 
 # 参考
 

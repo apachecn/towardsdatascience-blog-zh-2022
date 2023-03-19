@@ -102,7 +102,7 @@
 
 *这是我的 GitHub 库，你可以在这里找到这些数据可视化的所有代码。*
 
-[](https://github.com/isaacarroyov/tidy_tuesday_R)  
+<https://github.com/isaacarroyov/tidy_tuesday_R>  
 
 # **关于我**
 

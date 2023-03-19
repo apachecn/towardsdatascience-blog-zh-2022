@@ -97,4 +97,4 @@ PCA 将一组相关变量(p)转换成较少数量的不相关变量 k (k < p) ca
 
 **通过此* [*推荐链接*](https://analyticsoul.medium.com/membership) *加入 Medium，免费支持我。**
 
-*[](https://analyticsoul.medium.com/membership) *
+*<https://analyticsoul.medium.com/membership> *

@@ -212,10 +212,10 @@ poetry install -E dbt_core -E pandas
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership)  
+<https://gmyrianthous.medium.com/membership>  
 
 **相关文章你可能也喜欢**
 
-[](/requirements-vs-setuptools-python-ae3ee66e28af)  [](/setuptools-python-571e7d5500f2)  [](/how-to-upload-your-python-package-to-pypi-de1b363a1b3) [## 如何将 Python 包上传到 PyPI
+</requirements-vs-setuptools-python-ae3ee66e28af>  </setuptools-python-571e7d5500f2>  </how-to-upload-your-python-package-to-pypi-de1b363a1b3> [## 如何将 Python 包上传到 PyPI
 
 towardsdatascience.com](/how-to-upload-your-python-package-to-pypi-de1b363a1b3)

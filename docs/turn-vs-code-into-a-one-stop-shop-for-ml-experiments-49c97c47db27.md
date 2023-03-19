@@ -304,7 +304,7 @@ train:
 
 您可能还会对以下内容感兴趣:
 
-[](/dealing-with-outliers-using-three-robust-linear-regression-models-544cfbd00767)  [](https://medium.com/geekculture/investigating-the-effects-of-resampling-imbalanced-datasets-with-data-validation-techniques-f4ca3c8b2b94)  [](/estimating-the-performance-of-an-ml-model-in-the-absence-of-ground-truth-cc87dbf6e57)  
+</dealing-with-outliers-using-three-robust-linear-regression-models-544cfbd00767>  <https://medium.com/geekculture/investigating-the-effects-of-resampling-imbalanced-datasets-with-data-validation-techniques-f4ca3c8b2b94>  </estimating-the-performance-of-an-ml-model-in-the-absence-of-ground-truth-cc87dbf6e57>  
 
 # 参考
 

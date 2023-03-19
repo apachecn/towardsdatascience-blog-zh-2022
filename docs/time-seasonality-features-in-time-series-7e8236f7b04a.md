@@ -178,6 +178,6 @@ T **ime 和季节性特征** s 在时间序列分析中经常被假设，忽略�
 
 ****(这个练习的完整 Python 代码和数据可以在我的*GitHub*资源库中找到。如果直接渲染 *GitHub* 笔记本文件有问题，使用 [nbviewer](https://nbviewer.org/) 。)****
 
-****如果你在阅读这样的文章中看到了价值，你可以在这里订阅 Medium[](https://at-tan.medium.com/membership)**来阅读我和无数其他作家的其他文章。谢谢你。******
+****如果你在阅读这样的文章中看到了价值，你可以在这里订阅 Medium<https://at-tan.medium.com/membership>**来阅读我和无数其他作家的其他文章。谢谢你。******
 
-****[](/stacking-machine-learning-models-for-multivariate-time-series-28a082f881)  [](/tackling-imbalanced-data-with-predicted-probabilities-3293602f0f2)  [](/portfolio-diversification-with-emerging-market-bonds-ef1ec966531a) ****
+****</stacking-machine-learning-models-for-multivariate-time-series-28a082f881>  </tackling-imbalanced-data-with-predicted-probabilities-3293602f0f2>  </portfolio-diversification-with-emerging-market-bonds-ef1ec966531a> ****

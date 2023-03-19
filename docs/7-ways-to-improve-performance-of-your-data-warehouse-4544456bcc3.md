@@ -32,7 +32,7 @@ P oor 性能是数据仓库(DWH)名声不佳的主要原因之一。无论何时
 
 如果您不知道变更数据捕获的各种方法，请查看下面的文章:
 
-[](https://medium.com/geekculture/6-different-types-of-slowly-changing-dimensions-and-how-to-apply-them-b152ef908d4e)  
+<https://medium.com/geekculture/6-different-types-of-slowly-changing-dimensions-and-how-to-apply-them-b152ef908d4e>  
 
 除了多值压缩，最好还进行行值压缩。如果有一行只是“Y”和“N”的值，并且数据类型是 Char(1000)，那么所有这些字节都没有用。压缩它可以节省大量的磁盘空间，而不会影响查询的输出。
 
@@ -98,7 +98,7 @@ P oor 性能是数据仓库(DWH)名声不佳的主要原因之一。无论何时
 
 如果你觉得这篇文章有帮助，请在下面留言告诉我。查看我在 Medium 上的其他帖子:
 
-[](/how-to-create-a-data-warehouse-in-5-important-steps-95a8f893a3fd)  
+</how-to-create-a-data-warehouse-in-5-important-steps-95a8f893a3fd>  
 
 如果您没有订阅 Medium，请考虑使用我的推荐链接订阅[。它比网飞便宜，而且客观上能更好地利用你的时间。](https://hanzalaqureshi.medium.com/membership)如果你使用我的链接，我会获得一小笔佣金，而你可以在 Medium 上获得无限的故事。
 

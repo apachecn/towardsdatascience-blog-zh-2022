@@ -36,7 +36,7 @@ OpenAI 的 GPT 3 号首次以其逼真的对话震惊了科技界。但这只是
 
 在本文中，我们将向您展示如何在 Doctor.ai 中使用 GPT-3。图 3 展示了该架构。我们将利用它的能力把我们的英语问题转换成密码。但是在这种情况下，`Text to Cypher`可能是一个更好的名字。这个项目的源代码存放在 Github 仓库中:
 
-[](https://github.com/dgg32/doctorai_ui_gpt3)  
+<https://github.com/dgg32/doctorai_ui_gpt3>  
 
 Neo4j 数据库转储文件位于:
 
@@ -54,7 +54,7 @@ Neo4j 数据库转储文件位于:
 
 我们可以在 AWS、GCP 或 AuraDB 上托管我们的 Neo4j 数据库。你也可以简单地使用我下面的 CloudFormation 模板在 AWS 上设置它。用户名是`neo4j`，密码是`s00pers3cret`。
 
-[](https://github.com/dgg32/doctorai_gpt3_aws)  
+<https://github.com/dgg32/doctorai_gpt3_aws>  
 
 在任何情况下，您都可以使用上面的转储文件来恢复完整的数据库。例如，在 EC2 中，首先以`ubuntu`的身份登录您的实例，并执行以下 bash 命令:
 
@@ -182,4 +182,4 @@ Update: my next article [*Can Doctor.ai understand German, Chinese and Japanese?
 
 [*Hetionet*](https://github.com/hetio/hetionet) *发布为* [*CC0*](https://creativecommons.org/publicdomain/zero/1.0/) *。* [*STRING 在“4.0 知识共享”许可下*](https://string-db.org/cgi/access) *免费提供，而* [*学术用户可以免费使用 KEGG 网站*](https://www.kegg.jp/kegg/legal.html) *。*
 
-[](https://dgg32.medium.com/membership) 
+<https://dgg32.medium.com/membership> 

@@ -72,7 +72,7 @@
 
 ## 3.其他资源和结论
 
-[](https://github.com/RamVegiraju/Lambda-Container)  
+<https://github.com/RamVegiraju/Lambda-Container>  
 
 有关示例的代码，请查看上面的链接。Lambda 容器映像使得定制 Lambda 函数以适应您的工作流比以往任何时候都更容易。这是一个非常简单的用例，您可以使用它作为构建自己的复杂函数的基础。如果您想了解如何在 Lambda 上部署 ML 模型进行推理，请查看这个 [AWS 样本库](https://github.com/aws-samples/aws-lambda-docker-serverless-inference)。这是另一个伟大的[例子](https://github.com/philschmid/serverless-bert-huggingface-aws-lambda-docker)，在 AWS Lambda 上部署 [BERT](https://arxiv.org/abs/1810.04805) 模型用于无服务器推理。
 

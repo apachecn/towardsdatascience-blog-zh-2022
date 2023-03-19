@@ -166,7 +166,7 @@
 
 ## **代码**
 
-**这里可以找到[](https://github.com/adidinchuk/2d-unity-quadcopter-sim)****。**脚本对象是用几行值得注意的代码进行高级描述的。****
+**这里可以找到<https://github.com/adidinchuk/2d-unity-quadcopter-sim>****。**脚本对象是用几行值得注意的代码进行高级描述的。****
 
 ******推进器. cs******
 
@@ -266,4 +266,4 @@
 
 ******编码快乐！******
 
-*******原载于 2022 年 2 月 1 日 https://theappliedarchitect.com*[](https://theappliedarchitect.com/learning-2d-rotorcopter-mechanics-and-control-with-unity/)**。********
+*******原载于 2022 年 2 月 1 日 https://theappliedarchitect.com*<https://theappliedarchitect.com/learning-2d-rotorcopter-mechanics-and-control-with-unity/>**。********

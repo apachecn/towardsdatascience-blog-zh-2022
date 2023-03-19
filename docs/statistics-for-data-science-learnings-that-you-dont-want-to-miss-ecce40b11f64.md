@@ -57,7 +57,7 @@ tips 数据集中数值变量的直方图。图片由作者提供。
 
 最近，我在下面的链接中写了关于假设检验的文章。
 
-[](/an-illustrated-explanation-of-hypothesis-tests-3594ffff34dc)  
+</an-illustrated-explanation-of-hypothesis-tests-3594ffff34dc>  
 
 一般来说，当我们创建一个假设检验时，我们所做的就是这样说:
 
@@ -144,6 +144,6 @@ Ttest_indResult(statistic=-0.9969050118330597, pvalue=0.32002736861405306)
 
 如果你对这些内容感兴趣，请关注我的博客。
 
-[](https://gustavorsantos.medium.com/)  
+<https://gustavorsantos.medium.com/>  
 
 也在 LinkedIn 上找到我，告诉我你读了这篇文章。

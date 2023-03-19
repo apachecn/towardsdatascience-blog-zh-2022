@@ -104,7 +104,7 @@ df.loc[:, "Year_formatted"] =df["Month"].map('{:%Y}'.format)
 
 感谢阅读！我希望您喜欢这个关于 Pandas 格式化技巧的简短教程，并且能够很快将这些技巧应用到您的数据科学任务中。你可以阅读我的其他文章来了解更多熊猫的技巧和技术:
 
-[](/why-and-how-to-reshape-a-pandas-dataframe-from-wide-to-long-ca90c89156b9)  [](https://medium.com/codex/how-to-batch-rename-columns-in-pandas-based-on-patterns-7d2382b5fc9a)  
+</why-and-how-to-reshape-a-pandas-dataframe-from-wide-to-long-ca90c89156b9>  <https://medium.com/codex/how-to-batch-rename-columns-in-pandas-based-on-patterns-7d2382b5fc9a>  
 
 # **参考文献和数据来源**
 

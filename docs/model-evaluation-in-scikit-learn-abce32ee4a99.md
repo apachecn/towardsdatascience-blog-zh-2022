@@ -242,7 +242,7 @@ Accuracy: 0.983
 
 # 相关文章
 
-[](/an-overview-of-the-scikit-learn-clustering-package-d39a0499814)  [](/an-overview-of-the-scikit-learn-library-episode-1-preprocessing-9b17ab4dde4f)  [](/understanding-the-n-jobs-parameter-to-speedup-scikit-learn-classification-26e3d1220c28)  
+</an-overview-of-the-scikit-learn-clustering-package-d39a0499814>  </an-overview-of-the-scikit-learn-library-episode-1-preprocessing-9b17ab4dde4f>  </understanding-the-n-jobs-parameter-to-speedup-scikit-learn-classification-26e3d1220c28>  
 
 # 从社区收集的文章
 

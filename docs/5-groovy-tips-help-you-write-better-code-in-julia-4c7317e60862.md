@@ -14,7 +14,7 @@
 
 幸运的是，编写良好且组织良好的代码可以缓解这些问题。唯一的问题是，在某些情况下，我们并不总是编写组织良好的代码。对于那些喜欢 Julia 编程语言的人来说，有一些非常简单的步骤可以让你的代码变得更好。考虑到方法定义还有一个新的方面，这些步骤对 Julia 来说是额外有价值的，那就是由于语言的多分派范例而被类型化。让我们来看看这些技术，我用它们来使我的代码在 Julia 中变得更好。另外，如果你想看 Python 的等价物，这里有我写的另一篇文章的链接:
 
-[](/how-not-to-make-spaghetti-out-of-python-7f4d96d4000b)  
+</how-not-to-make-spaghetti-out-of-python-7f4d96d4000b>  
 
 # №1:按类型和层次结构参数分开调度
 
@@ -76,7 +76,7 @@ incrementx!(h::Hello) = h.x += 1 # We can tell this is a mutating call
 
 Julia 被低估的优势之一是类型层次结构。Julia 中的子类型的伟大之处在于，结合多种调度，它可以非常强大。使用子类型的另一个很大的好处是，它将使你的软件更具可扩展性，因为现在你可以导入抽象类型，用类似的字段对某些东西进行子类型化，然后这个新类型立即继承分派给那个类型的每个方法。这可以节省很多时间，因为您不需要为每种类型编写单独的函数，相反，您可以只调度一种类型，然后根据需要相应地调度下面的类型。我有一篇文章详细介绍了这一点，并概括了 Julia 中的类型，因此，如果您还不熟悉这一点，这可能是了解 Julia 中的类型层次结构的好地方:
 
-[](/everything-you-need-to-know-about-types-in-julia-84f64c0f86f3)  
+</everything-you-need-to-know-about-types-in-julia-84f64c0f86f3>  
 
 # №4:提取
 
@@ -84,7 +84,7 @@ Julia 被低估的优势之一是类型层次结构。Julia 中的子类型的�
 
 提取过程非常简单，您只需命名代码的一部分，然后将其封装到一个方法中。我也有一整篇关于提取的文章，如果你想更深入地了解这项技术的话。
 
-[](/more-methods-means-better-code-1d3b237f6cf2) [## 更多的方法意味着更好的代码
+</more-methods-means-better-code-1d3b237f6cf2> [## 更多的方法意味着更好的代码
 
 towardsdatascience.com](/more-methods-means-better-code-1d3b237f6cf2) 
 

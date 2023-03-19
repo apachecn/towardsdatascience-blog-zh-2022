@@ -89,7 +89,7 @@
 
 *   [*GraphPlot*](https://github.com/JuliaGraphs/GraphPlot.jl)
 *   [*matrix networks*](https://juliapackages.com/p/matrixnetworks)
-*   [](https://juliapackages.com/p/evolvinggraphs)
+*   <https://juliapackages.com/p/evolvinggraphs>
 *   *[*网络*](https://juliapackages.com/p/networks)*
 *   *[*生态网络*](http://docs.ecojulia.org/EcologicalNetworks.jl/stable/#EcologicalNetworks)*
 
@@ -98,7 +98,7 @@
 *   *[*Textnets for R*](https://github.com/cbail/textnets)*
 *   *[*visNetwork*](https://datastorm-open.github.io/visNetwork/)*(这个列表不完整，因为我不是经常使用 R 的用户)**
 
-*由于公司需要理解复杂的网络数据结构，大多数 BI 程序包括网络方法和图形。参见 [Data Surfers (2019)](https://thedatasurfers.com/2019/08/27/how-to-use-gephi-to-create-network-visualizations-for-tableau/) 关于 **Tableau** 的网络可视化教程和 **Power B** I 中的[网络方法列表。对于其他商业和开源软件，我们可能会选择](https://appsource.microsoft.com/en-us/marketplace/apps?search=network&page=1&product=power-bi%3Bpower-bi-visuals)[](https://infranodus.com/)**(*【文字网络分析】*[**Neo4j**](https://neo4j.com/product/)(*【图形数据科学】*)[**ge phi**](https://gephi.org/)**(****)**或[**SocNetV**](https://socnetv.org/)***
+*由于公司需要理解复杂的网络数据结构，大多数 BI 程序包括网络方法和图形。参见 [Data Surfers (2019)](https://thedatasurfers.com/2019/08/27/how-to-use-gephi-to-create-network-visualizations-for-tableau/) 关于 **Tableau** 的网络可视化教程和 **Power B** I 中的[网络方法列表。对于其他商业和开源软件，我们可能会选择](https://appsource.microsoft.com/en-us/marketplace/apps?search=network&page=1&product=power-bi%3Bpower-bi-visuals)<https://infranodus.com/>**(*【文字网络分析】*[**Neo4j**](https://neo4j.com/product/)(*【图形数据科学】*)[**ge phi**](https://gephi.org/)**(****)**或[**SocNetV**](https://socnetv.org/)***
 
 # *****我们要去哪里？*****
 
@@ -110,7 +110,7 @@
 
 *******从头开始文本网络分析#3 —使用网络作为预测模型*******
 
-******PS:你可以订阅我的* [*邮件列表*](https://medium.com/subscribe/@petrkorab) *在我每次写新文章的时候得到通知。而如果你还不是中等会员，可以在这里加入*[](https://medium.com/@petrkorab/membership)**。*******
+******PS:你可以订阅我的* [*邮件列表*](https://medium.com/subscribe/@petrkorab) *在我每次写新文章的时候得到通知。而如果你还不是中等会员，可以在这里加入*<https://medium.com/@petrkorab/membership>**。*******
 
 # ******参考******
 

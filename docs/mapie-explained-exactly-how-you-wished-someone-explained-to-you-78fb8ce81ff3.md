@@ -210,6 +210,6 @@ MAPIE 是一个 Python 库，用于将模型做出的点预测转化为区间预
 
 如果你想知道如何预测与每次观察相关的风险的“定制”区间，你可以阅读我下面的文章“共形分位数回归”:
 
-[](/how-to-predict-risk-proportional-intervals-with-conformal-quantile-regression-175775840dc4)  
+</how-to-predict-risk-proportional-intervals-with-conformal-quantile-regression-175775840dc4>  
 
 > *感谢您的阅读！我希望你喜欢这篇文章。如果你愿意，* [*在 Linkedin 上加我*](https://www.linkedin.com/in/samuelemazzanti/) *！*

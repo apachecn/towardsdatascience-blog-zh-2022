@@ -316,7 +316,7 @@ df_results
 
 欲知详情，
 
-[](https://www.samirsaci.com/what-is-a-supply-chain-digital-twin/)  
+<https://www.samirsaci.com/what-is-a-supply-chain-digital-twin/>  
 
 ## 生产线调度
 
@@ -338,7 +338,7 @@ df_results
 
 欲知详情，
 
-[](https://www.samirsaci.com/optimize-warehouse-value-added-services-with-python/)  
+<https://www.samirsaci.com/optimize-warehouse-value-added-services-with-python/>  
 
 # 关于我
 
@@ -346,4 +346,4 @@ df_results
 
 如果你对数据分析和供应链感兴趣，可以看看我的网站
 
-[](https://samirsaci.com) 
+<https://samirsaci.com> 

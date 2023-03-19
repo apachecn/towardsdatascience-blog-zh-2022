@@ -67,8 +67,8 @@
 
 ****想获得 Medium 文章的全部访问权限并支持我的工作？使用以下链接订阅:****
 
-**[](https://boemer.medium.com/membership) ** 
+**<https://boemer.medium.com/membership> ** 
 
 ****感谢阅读。这里有一些你可能会喜欢的文章:****
 
-**[](/switching-career-to-data-science-in-your-30s-6122e51a18a3)  [](/5-tips-to-get-your-first-data-scientist-job-d8e5afd5a59b) **
+**</switching-career-to-data-science-in-your-30s-6122e51a18a3>  </5-tips-to-get-your-first-data-scientist-job-d8e5afd5a59b> **

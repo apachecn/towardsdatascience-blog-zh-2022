@@ -106,7 +106,7 @@ student_data_long.pivot(index='Student', columns='Assignment', values='Score')
 
 **想擅长 Python？** [**获取独家，免费获取我简单易懂的指南**](https://witty-speaker-6901.ck.page/0977670a91) **。想在介质上无限阅读故事？用我下面的推荐链接注册！**
 
-[](https://murtaza5152-ali.medium.com/?source=entity_driven_subscription-607fa603b7ce---------------------------------------)  
+<https://murtaza5152-ali.medium.com/?source=entity_driven_subscription-607fa603b7ce--------------------------------------->  
 
 ## 参考
 

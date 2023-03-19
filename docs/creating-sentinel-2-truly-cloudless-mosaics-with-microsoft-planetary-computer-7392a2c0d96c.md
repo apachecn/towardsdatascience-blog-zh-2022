@@ -104,7 +104,7 @@ Map.addLayer(mask.selfMask(), {'min': 0, 'max': 1, 'palette': ['orange']}, 'Fina
 
 *如果你喜欢这篇文章，并想继续无限制地阅读/学习这些和其他故事，考虑成为* [*中等会员*](https://cordmaur.medium.com/membership) *。你也可以在 https://cordmaur.carrd.co/*查看我的作品集。
 
-[](https://cordmaur.medium.com/membership)  
+<https://cordmaur.medium.com/membership>  
 
 # **参考**
 

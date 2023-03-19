@@ -26,7 +26,7 @@
 
 > 本文选自 [**算法之桥**](https://thealgorithmicbridge.substack.com/subscribe?) ，这是一份教育通讯，其目的是在算法和人之间架起一座桥梁。它将帮助你理解人工智能对你生活的影响，并开发工具来更好地导航未来。
 
-[](https://thealgorithmicbridge.substack.com/subscribe)  
+<https://thealgorithmicbridge.substack.com/subscribe>  
 
 # 使 Optimus 脱颖而出的 5 个关键特征
 
@@ -132,7 +132,7 @@ BD 的 Atlas 是一个很贵的研究平台(我记得在某个地方看到过 10
 
 *除了感觉运动功能，以及注意力和决策的相关过程，我还提到了语言、常识和因果推理是人形机器人的关键特征。*
 
-> **“就语言而言，这种必要性是显而易见的，因为我们想向擎天柱发出口头命令，而不需要明确的指令……*[*专家们发现了*](https://www.technologyreview.com/2020/08/22/1007539/gpt3-openai-language-generator-artificial-intelligence-ai-opinion/)*GPT 3 号的重要缺陷，主要原因是它缺乏与现实世界的联系——这是虚拟人工智能的巨大弱点。它无法获得语用学和语境信息。如果我说:“去找一块灰色的玄武岩，”擎天柱需要知道什么是岩石，灰色是什么意思，以及如何区分玄武岩和火山渣。我们知道如何在现实世界的人工智能中灌输这样的语言能力吗？*[](/ai-wont-master-human-language-anytime-soon-3e7e3561f943)**。”***
+> **“就语言而言，这种必要性是显而易见的，因为我们想向擎天柱发出口头命令，而不需要明确的指令……*[*专家们发现了*](https://www.technologyreview.com/2020/08/22/1007539/gpt3-openai-language-generator-artificial-intelligence-ai-opinion/)*GPT 3 号的重要缺陷，主要原因是它缺乏与现实世界的联系——这是虚拟人工智能的巨大弱点。它无法获得语用学和语境信息。如果我说:“去找一块灰色的玄武岩，”擎天柱需要知道什么是岩石，灰色是什么意思，以及如何区分玄武岩和火山渣。我们知道如何在现实世界的人工智能中灌输这样的语言能力吗？*</ai-wont-master-human-language-anytime-soon-3e7e3561f943>**。”***
 
 **即使 Optimus 在视觉方面很棒(由 FSD 硬件和软件提供)，它还没有自然语言界面。马斯克去年承诺，我们可以用自然语言给机器人下达命令，但这似乎不是工厂机器人的优先事项。PaLM-SayCan 在这方面走在了前面，因为它是由现存的性能最好的大型语言模型(LLM)驱动的。**
 

@@ -26,11 +26,11 @@
 
 这里有一个资源可以帮助你决定在数据科学领域寻找什么样的职业:
 
-[](/data-scientist-vs-data-analyst-vs-data-engineer-1e2514a36d41)  
+</data-scientist-vs-data-analyst-vs-data-engineer-1e2514a36d41>  
 
 以下是一些资源，可帮助您决定需要为数据科学中的每种工作类型学习什么:
 
-[](/the-complete-roadmap-to-becoming-a-data-analyst-with-no-previous-experience-952c5b3a7cbc)  [](/top-10-skills-for-a-data-scientist-in-2020-2b8e6122a742)  
+</the-complete-roadmap-to-becoming-a-data-analyst-with-no-previous-experience-952c5b3a7cbc>  </top-10-skills-for-a-data-scientist-in-2020-2b8e6122a742>  
 
 [**FAANG**](/what-skills-are-important-for-a-data-engineering-role-at-faang-ec5230cbc962#:~:text=read.amazon.com-,Summary,this%20skill%20in%20your%20toolbox.)的数据工程职位需要哪些技能
 
@@ -68,7 +68,7 @@
 
 这里有一个很好的资源，可以帮助你了解更多关于学习风格以及如何改进自主学习过程的信息:
 
-[](https://uwaterloo.ca/centre-for-teaching-excellence/teaching-resources/teaching-tips/tips-students/self-knowledge/understanding-your-learning-style)  
+<https://uwaterloo.ca/centre-for-teaching-excellence/teaching-resources/teaching-tips/tips-students/self-knowledge/understanding-your-learning-style>  
 
 # 5.学习如何正确打字
 
@@ -80,7 +80,7 @@
 
 这里有一些资源可以帮助您学习如何更快地键入和使用键盘快捷键:
 
-[](https://www.ratatype.com/learn/)    [](/jypyter-notebook-shortcuts-bf0101a98330)  [](https://dev.to/macmacky/my-vscode-shortcuts-settings-and-extensions-for-productivity-3chd)  
+<https://www.ratatype.com/learn/>    </jypyter-notebook-shortcuts-bf0101a98330>  <https://dev.to/macmacky/my-vscode-shortcuts-settings-and-extensions-for-productivity-3chd>  
 
 # 6.通过自动化你的学习计划来避免生产力下降
 
@@ -92,7 +92,7 @@
 
 这里有一个很好的资源可以让你开始自动化你的日常事务，并且可以扩展到自动化你的学习计划:
 
-[](/automating-your-digital-morning-routine-with-python-8387fe884422)  
+</automating-your-digital-morning-routine-with-python-8387fe884422>  
 
 # 7.承诺每天阅读一篇关于数据科学的文章
 
@@ -104,7 +104,7 @@
 
 以下是一些提供日常数据科学内容的资源:
 
-[](https://towardsdatascience.com)  [](https://www.datasciencecentral.com/)  
+<https://towardsdatascience.com>  <https://www.datasciencecentral.com/>  
 
 # 最后的想法
 

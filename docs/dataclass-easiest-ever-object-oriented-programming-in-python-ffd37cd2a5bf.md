@@ -319,7 +319,7 @@ Rectangle(1,8) > Rectangle(2,3)
 
 Dataclass 试图概括数据类的常见需求，并提供现成的，但它也提供类级和字段级的注释，允许我们定制行为。除此之外，post init 方法给了我们更多的灵活性。
 
-[](https://medium.com/@qiuyujx/membership)  
+<https://medium.com/@qiuyujx/membership>  
 
 **如果你觉得我的文章有帮助，请考虑加入灵媒会员来支持我和成千上万的其他作家！(点击上面的链接)**
 

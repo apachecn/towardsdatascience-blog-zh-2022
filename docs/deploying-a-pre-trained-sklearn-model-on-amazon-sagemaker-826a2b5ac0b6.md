@@ -104,7 +104,7 @@ SageMaker 端点配置创建
 
 # 4.其他资源和结论
 
-[](https://github.com/RamVegiraju/Pre-Trained-Sklearn-SageMaker)  
+<https://github.com/RamVegiraju/Pre-Trained-Sklearn-SageMaker>  
 
 有关示例的完整代码，请访问上面的链接。理解了模型数据的格式和结构之后，在 SageMaker 上部署预先训练好的模型就非常简单了。需要发生的主要变化是您使用 SDK 检索的图像，这应该与您正在使用的框架相匹配。如果 SageMaker 不支持容器，请查看如何[自带容器](/bring-your-own-container-with-amazon-sagemaker-37211d8412f4)。
 

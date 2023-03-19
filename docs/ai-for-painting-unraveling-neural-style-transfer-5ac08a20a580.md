@@ -30,7 +30,7 @@ Vgg-19 网络具有以下架构:
 
 首先，我们来看看上面的一些层李尔都认识什么。每层至少有 64 个过滤器来学习图像特征。为简单起见，我们将使用前十个过滤器的输出来查看这些层学到了什么。如果您想要代码，您可以使用以下链接之一。
 
-[](https://www.kaggle.com/shashank069/neuralstyletransfer-experiments)  
+<https://www.kaggle.com/shashank069/neuralstyletransfer-experiments>  
 
 [https://github . com/shashank 14k/my work/blob/main/neuralstyletransfer-experiments . ipynb](https://github.com/shashank14k/MyWork/blob/main/neuralstyletransfer-experiments.ipynb)
 
@@ -222,7 +222,7 @@ w 是分配给每层损失的重量。这是一个超参数，可以调整来观
 
 1.卡格尔:
 
-[](https://www.kaggle.com/shashank069/neuralstyletransfer-experiments/data)  
+<https://www.kaggle.com/shashank069/neuralstyletransfer-experiments/data>  
 
 2.开源代码库
 

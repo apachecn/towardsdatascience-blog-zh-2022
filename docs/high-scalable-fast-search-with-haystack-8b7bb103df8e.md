@@ -37,7 +37,7 @@ Haystack 向我们展示了这个问题的前三个答案(图片由作者提供)
 
 > 如果您想了解更多关于单词相似性的知识，您可能会发现这篇文章很有帮助:
 
-[](/chatbot-a-complete-pycharm-app-part-2-of-3-distance-metric-46462a9ad4e4)  
+</chatbot-a-complete-pycharm-app-part-2-of-3-distance-metric-46462a9ad4e4>  
 
 还记得我们在[简单字符串搜索](https://medium.com/p/e8bc3f2c1669/edit)中搜索“absorption”时，我们得到的是“Vollkostenrechnung”这个单词的正确德语翻译吗？
 
@@ -93,6 +93,6 @@ Answers:
 
 在此之前，非常感谢您的阅读！希望这篇文章对你有帮助。请随时在 [LinkedIn](https://de.linkedin.com/in/jesko-rehberg-40653883) 、 [Twitter](https://twitter.com/DAR_Analytics) 或[工作室](https://jesko-rehberg.medium.com/virtual-reality-vr-for-education-a532aa5b6272)与我联系。
 
-[](https://jesko-rehberg.medium.com/membership)  
+<https://jesko-rehberg.medium.com/membership>  
 
 您可以在我的 [Github](https://github.com/DAR-DatenanalyseRehberg/HaystackFAQSearch) 资源库中找到完整的代码和文件。请随时在 [LinkedIn](https://de.linkedin.com/in/jesko-rehberg-40653883) 、 [Twitter](https://twitter.com/DAR_Analytics) 或[工作室](https://jesko-rehberg.medium.com/virtual-reality-vr-for-education-a532aa5b6272)与我联系。

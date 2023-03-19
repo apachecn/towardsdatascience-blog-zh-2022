@@ -14,7 +14,7 @@
 
 我在使用 BigQuery 脚本之前尝试过:
 
-[](/sql-unit-testing-in-bigquery-here-is-a-tutorial-64fc7a6b377)  
+</sql-unit-testing-in-bigquery-here-is-a-tutorial-64fc7a6b377>  
 
 > 然而，这里有另一种(也可能是更好的)方法。
 
@@ -54,7 +54,7 @@ Dataform 支持针对**视图**的 **SQL 单元测试**，您可以在 Dataform 
 
 我以前在这里写过关于合并更新的文章:
 
-[](/advanced-sql-techniques-for-beginners-211851a28488)  
+</advanced-sql-techniques-for-beginners-211851a28488>  
 
 # 我们如何为此创建一个单元测试？
 
@@ -150,6 +150,6 @@ Dataform 还有一个 docker 映像，因此您可能希望设置一个 **Gitflo
 
 # 推荐阅读:
 
-[](https://cloud.google.com/dataform)  [](/sql-unit-testing-in-bigquery-here-is-a-tutorial-64fc7a6b377)  [](/advanced-sql-techniques-for-beginners-211851a28488)    
+<https://cloud.google.com/dataform>  </sql-unit-testing-in-bigquery-here-is-a-tutorial-64fc7a6b377>  </advanced-sql-techniques-for-beginners-211851a28488>    
 
 *原载于*[*https://mydataschool.com*](https://mydataschool.com/blog/unit-tests-for-sql-scripts-with-dependencies-in-dataform/)*。*

@@ -12,7 +12,7 @@
 
 在我以前的一篇文章中，我讨论了 Iterable 和 Iterator 对象，以及它们是如何参与 Python 迭代协议的。
 
-[](/python-iterables-vs-iterators-688907fd755f)  
+</python-iterables-vs-iterators-688907fd755f>  
 
 在今天的文章中，我们将探索如何创建用户定义的迭代器，这些迭代器可以在用户定义的类中使用，以使它们成为可迭代的。换句话说，我们将展示如何创建一个用户定义的类，并实现所有需要的方法，以满足迭代协议中描述的 Python Iterables 的特征。
 
@@ -151,8 +151,8 @@ Python 中用户定义的可重复项的示例类—来源:作者
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership)  
+<https://gmyrianthous.medium.com/membership>  
 
 **你可能也会喜欢**
 
-[](/python-iterables-vs-iterators-688907fd755f)  [](/requirements-vs-setuptools-python-ae3ee66e28af)  [](/how-to-merge-pandas-dataframes-221e49c41bec) 
+</python-iterables-vs-iterators-688907fd755f>  </requirements-vs-setuptools-python-ae3ee66e28af>  </how-to-merge-pandas-dataframes-221e49c41bec> 

@@ -50,7 +50,7 @@
 
 创建 LLM 的主要挑战是训练一个具有数百万和数十亿参数的超大型深度神经网络。像 GLaM 和 LaMDA 这样的模型是在一个单独的 TPU v3 吊舱上训练的。威震天-图灵 NLG 使用流水线并行在 GPU 集群中扩展到 2240 - A100 个 GPU。使用多个 TPU v3 pod 的 Gopher 实现了 4096 个 TPU v3 芯片的规模。他们观察到，具有更多训练参数的更大模型改善了 NLG 结果。PaLM 是这一类别中最新的一个，它使用谷歌的*路径*系统将训练扩展到 6144 个芯片，并创建了 5400 亿参数语言模型。它实现了 57.8%的硬件 FLOPs 利用率的训练效率，这是迄今为止 LLM 实现的最高效率。Google 重新设计了 *Transformer* 模块，允许并行计算*注意力*和*前馈*层。这有助于为训练网络创建更好的并行策略。
 
-[](https://medium.com/@profsarang/membership)  
+<https://medium.com/@profsarang/membership>  
 
 # 手掌训练
 

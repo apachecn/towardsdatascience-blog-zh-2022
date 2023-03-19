@@ -162,7 +162,7 @@ xmax = np.max(ts_ita.index)
 
 # 相关文章
 
-[](https://pub.towardsai.net/are-data-journalism-and-data-science-the-same-thing-77ba7ec794d4)  [](/why-a-data-scientist-needs-to-also-be-a-storyteller-89b4636cb83)  [](https://alod83.medium.com/how-to-design-a-data-journalism-story-b2e421673b6e)  [](/data-visualisation-principles-part-1-a-practical-example-in-altair-b6e16f665fc6)  [](/data-visualisation-principles-part-2-layout-and-emphasis-d682bbc38217)  
+<https://pub.towardsai.net/are-data-journalism-and-data-science-the-same-thing-77ba7ec794d4>  </why-a-data-scientist-needs-to-also-be-a-storyteller-89b4636cb83>  <https://alod83.medium.com/how-to-design-a-data-journalism-story-b2e421673b6e>  </data-visualisation-principles-part-1-a-practical-example-in-altair-b6e16f665fc6>  </data-visualisation-principles-part-2-layout-and-emphasis-d682bbc38217>  
 
 有上下文和无上下文的示例
 

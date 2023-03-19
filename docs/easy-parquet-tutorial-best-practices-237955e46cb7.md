@@ -212,10 +212,10 @@ pd.read_parquet('APPLICATIONS_PROCESSED')
 
 用我的其他文章继续学习拼花地板:
 
-[](/parquet-best-practices-discover-your-data-without-loading-them-f854c57a45b6)  [](https://pub.towardsai.net/parquet-best-practices-the-art-of-filtering-d729357e441d)  
+</parquet-best-practices-discover-your-data-without-loading-them-f854c57a45b6>  <https://pub.towardsai.net/parquet-best-practices-the-art-of-filtering-d729357e441d>  
 
 *无需额外费用，您可以通过我的推荐链接订阅 Medium。*
 
-[](https://medium.com/@arli94/membership)  
+<https://medium.com/@arli94/membership>  
 
 或者你可以在收件箱里收到我所有的帖子。*[***做到这里*** *！*](https://arli94.medium.com/subscribe)*

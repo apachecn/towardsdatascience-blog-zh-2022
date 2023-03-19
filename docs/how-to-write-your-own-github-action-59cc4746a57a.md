@@ -112,7 +112,7 @@ Victoria Akvarel 的照片:[https://www . pexels . com/photo/two-boys-playing-so
 
 如果你对如何写一个合适的 docker 文件的提示和技巧感兴趣，看看下面的链接。
 
-[](https://medium.com/skilluped/10-tips-on-writing-a-proper-dockerfile-13956ceb435f)  
+<https://medium.com/skilluped/10-tips-on-writing-a-proper-dockerfile-13956ceb435f>  
 
 如上所述，应用程序的定义可能如下所示:
 
@@ -148,7 +148,7 @@ GitHub 发布后，您和其他人将能够使用 GitHub 操作，使用下面�
 
 所有文件都可以通过下面的链接获得。
 
-[](https://github.com/licenseware/send-email-notification/)  
+<https://github.com/licenseware/send-email-notification/>  
 
 # 第 2 幕:使用 Shell 编写第二个 GitHub 动作
 
@@ -186,7 +186,7 @@ GitHub 发布后，您和其他人将能够使用 GitHub 操作，使用下面�
 
 所有文件都可以通过下面的链接获得。
 
-[](https://github.com/licenseware/helm)  ![](img/1e0bc440a9a28c018d70261c48598c1a.png)
+<https://github.com/licenseware/helm>  ![](img/1e0bc440a9a28c018d70261c48598c1a.png)
 
 照片由 Nout Gons 拍摄:[https://www . pexels . com/photo/road-in-city-during-sunset-248159/](https://www.pexels.com/photo/road-in-city-during-sunset-248159/)
 
@@ -206,4 +206,4 @@ GitHub Actions，最著名的 CI/CD 工具箱之一，提供了很多功能。�
 
 如果你喜欢这篇文章，看看我的其他内容，你可能也会觉得有帮助。
 
-[](https://medium.com/skilluped/what-is-iptables-and-how-to-use-it-781818422e52)  [](https://medium.com/amerandish/clean-architecture-simplified-223f45e1a10)  [](/how-to-set-up-ingress-controller-in-aws-eks-d745d9107307)  [](https://medium.com/amerandish/a-tmux-a-beginners-guide-7c129733148)  [](https://medium.com/geekculture/patch-your-dependencies-like-a-boss-de757367010f)  [](https://medium.com/skilluped/stop-writing-mediocre-docker-compose-files-26b7b4c9bd14) 
+<https://medium.com/skilluped/what-is-iptables-and-how-to-use-it-781818422e52>  <https://medium.com/amerandish/clean-architecture-simplified-223f45e1a10>  </how-to-set-up-ingress-controller-in-aws-eks-d745d9107307>  <https://medium.com/amerandish/a-tmux-a-beginners-guide-7c129733148>  <https://medium.com/geekculture/patch-your-dependencies-like-a-boss-de757367010f>  <https://medium.com/skilluped/stop-writing-mediocre-docker-compose-files-26b7b4c9bd14> 

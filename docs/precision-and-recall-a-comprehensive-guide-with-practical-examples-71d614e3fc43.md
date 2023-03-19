@@ -128,4 +128,4 @@
 
 ## *进一步阅读*
 
-*[](http://www.chioka.in/class-imbalance-problem/)  [](https://en.wikipedia.org/wiki/Precision_and_recall)  [](https://machinelearningmastery.com/roc-curves-and-precision-recall-curves-for-classification-in-python/)  [](https://machinelearningmastery.com/random-oversampling-and-undersampling-for-imbalanced-classification/) *
+*<http://www.chioka.in/class-imbalance-problem/>  <https://en.wikipedia.org/wiki/Precision_and_recall>  <https://machinelearningmastery.com/roc-curves-and-precision-recall-curves-for-classification-in-python/>  <https://machinelearningmastery.com/random-oversampling-and-undersampling-for-imbalanced-classification/> *

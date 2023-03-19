@@ -66,7 +66,7 @@ pip install stmol==0.0.7*
 
 *在这种情况下，分子是来自“纳米管位置”的一些美丽的富勒烯。如果你有兴趣探索一些其他的，这里有链接:*
 
-*[](https://nanotube.msu.edu/fullerene/fullerene-isomers.html)  
+*<https://nanotube.msu.edu/fullerene/fullerene-isomers.html>  
 
 我邀请你下载一些富勒烯文件，然后尝试用这个应用程序将它们可视化。
 

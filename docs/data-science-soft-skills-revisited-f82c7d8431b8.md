@@ -15,7 +15,7 @@
 
 *   [**是的，沟通仍然很重要——很多**](/software-development-is-almost-100-about-communication-1bb9bc60810f) 。 [Thomas Reinecke](https://medium.com/u/286199bbb1eb?source=post_page-----f82c7d8431b8--------------------------------) 坚持认为软件开发工作流程(以及大多数数据科学项目)的成败几乎完全归结于沟通。这就是为什么理解跨团队和组织良好沟通的一些最大障碍是如此重要。
 *   [**庆祝成就的微妙艺术**](/top-3-tools-to-promote-your-work-in-analytics-data-science-7b87d80615fc) 。让其他人知道你成功的数据项目和计划可能会感到尴尬，如果不是彻底的自我推销的话。虽然不需要。Preeti Semwal 提出了三种方法，在不疏远任何人的情况下告知同事重要的职业里程碑。
-*   知道什么时候该改变路线。把退出能力称为“软技能”感觉不准确；当我们走在错误的道路上时，很难意识到，而采取相应的行动就更难了。最近的两篇帖子很好地提炼了这一思维过程:[康纳·奥沙利文](https://medium.com/u/4ae48256fb37?source=post_page-----f82c7d8431b8--------------------------------)反思了他离开工业界进入学术界的决定[](/why-i-decided-to-do-a-phd-in-machine-learning-fdee03bb956f)**，而[阿尤什·马利克](https://medium.com/u/1d4ec5c16259?source=post_page-----f82c7d8431b8--------------------------------)分享了关于将数据科学抛在身后的 [**想法**](/today-i-quit-data-sciences-here-are-7-reasons-why-15c29e51d032) 。**
+*   知道什么时候该改变路线。把退出能力称为“软技能”感觉不准确；当我们走在错误的道路上时，很难意识到，而采取相应的行动就更难了。最近的两篇帖子很好地提炼了这一思维过程:[康纳·奥沙利文](https://medium.com/u/4ae48256fb37?source=post_page-----f82c7d8431b8--------------------------------)反思了他离开工业界进入学术界的决定</why-i-decided-to-do-a-phd-in-machine-learning-fdee03bb956f>**，而[阿尤什·马利克](https://medium.com/u/1d4ec5c16259?source=post_page-----f82c7d8431b8--------------------------------)分享了关于将数据科学抛在身后的 [**想法**](/today-i-quit-data-sciences-here-are-7-reasons-why-15c29e51d032) 。**
 
 **如果本周你有心情谈论其他话题，我们有更多的建议:**
 

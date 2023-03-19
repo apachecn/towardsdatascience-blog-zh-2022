@@ -99,11 +99,11 @@
 
 *****使用 FastAPI** :最初，我想使用 FastAPI 应用程序提供静态和 JSON 内容(API 端点响应)。然而，那对我不起作用。所以，我决定使用 Nginx 提供静态内容，这意味着 index.html 和所有 vue.js 块都由 Nginx 直接提供。流量通过到套接字的 Nginx 反向代理流向 FastAPI 应用程序。在 Gunicorn 进程的控制下，Uvicorn 工人监控套接字，并对来自客户端的 API 调用做出必要的响应。应用程序由管理员监控和运行，这保证了服务器上应用程序的弹性。我用了一个教程帮我，很高明！***
 
-***[](https://blog.askjarvis.io/fastapi-with-nginx-gunicorn-and-supervisor-on-ec2-2e0258441d7c)  
+***<https://blog.askjarvis.io/fastapi-with-nginx-gunicorn-and-supervisor-on-ec2-2e0258441d7c>  
 
 **Nginx 配置:**设计有几个步骤。我用了教程来帮助我，这些都很有帮助。当我们谈论个人或敏感的个人数据时，安全性至关重要。
 
-[](https://ubiq.co/tech-blog/nginx-ssl-configuration-step-step-details/)  [](https://www.tecmint.com/nginx-web-server-security-hardening-and-performance-tips/)  [](https://www.cloudsavvyit.com/3782/how-to-configure-cache-control-headers-in-nginx/)      
+<https://ubiq.co/tech-blog/nginx-ssl-configuration-step-step-details/>  <https://www.tecmint.com/nginx-web-server-security-hardening-and-performance-tips/>  <https://www.cloudsavvyit.com/3782/how-to-configure-cache-control-headers-in-nginx/>      
 
 CORS: 我犯了 CORS 错误！所以我不得不使用 CORSMiddleware 来解决这个问题，我不认为这是一个好主意！
 
@@ -128,7 +128,7 @@ app = FastAPI(openapi_url=None)
 
 **发送电子邮件:**两难的选择是在后台还是在前台发送。我选择从客户端在 vue.js 中做。到目前为止，我不确定这个决定是否明智。
 
-[](https://www.freecodecamp.org/news/send-emails-from-your-vue-application/)  
+<https://www.freecodecamp.org/news/send-emails-from-your-vue-application/>  
 
 **认证:**我使用了 Auth0
 
@@ -167,4 +167,4 @@ Auth0 再次提供了前端视图安全性，这里有一个 vue.js 组件作为
 
 Erik Mclean 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄的照片
 
-[](https://cognitivedave.medium.com/membership) ***
+<https://cognitivedave.medium.com/membership> ***

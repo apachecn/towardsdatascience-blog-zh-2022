@@ -40,7 +40,7 @@
 
 `*[Complete data visualization guideline is available here…*`
 
-[](https://medium.datadriveninvestor.com/ultimate-guide-to-data-visualization-for-data-science-90b0b13e72ab)  
+<https://medium.datadriveninvestor.com/ultimate-guide-to-data-visualization-for-data-science-90b0b13e72ab>  
 
 `*]*`
 
@@ -147,7 +147,7 @@
 
 *【要了解更多关于频率分布的细节，请阅读文章*
 
-[](/find-the-patterns-of-a-dataset-by-visualizing-frequency-distribution-c5718ab1f2c2)  
+</find-the-patterns-of-a-dataset-by-visualizing-frequency-distribution-c5718ab1f2c2>  
 
 *】*
 
@@ -180,8 +180,8 @@
 
 **完整的数据可视化指南。**
 
-[](https://medium.datadriveninvestor.com/ultimate-guide-to-data-visualization-for-data-science-90b0b13e72ab)  
+<https://medium.datadriveninvestor.com/ultimate-guide-to-data-visualization-for-data-science-90b0b13e72ab>  
 
 `***I have chosen some articles for you. Don’t miss to read the following articles.***`
 
-[](/11-less-used-but-important-plots-for-data-science-dede3f9b7ebd)  [](/spread-of-covid-19-with-interactive-data-visualization-521ac471226e)  [](/ultimate-guide-to-statistics-for-data-science-a3d8f1fd69a7) 
+</11-less-used-but-important-plots-for-data-science-dede3f9b7ebd>  </spread-of-covid-19-with-interactive-data-visualization-521ac471226e>  </ultimate-guide-to-statistics-for-data-science-a3d8f1fd69a7> 

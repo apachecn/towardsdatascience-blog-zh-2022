@@ -210,7 +210,7 @@ check_ols_assumptions(data['x_var'], data['y_var'], ols_result.predict())
 
 此图显示了正弦函数的线性回归模型的残差。因为有一个明显的趋势(散点图值和 lowess 回归的红线所示)，所以不符合 X 和 Y 之间的关系是线性的假设。
 
-*边注:想了解更多关于洛维斯回归的信息，请点击这里*[](/lowess-regression-in-python-how-to-discover-clear-patterns-in-your-data-f26e523d7a35)
+*边注:想了解更多关于洛维斯回归的信息，请点击这里*</lowess-regression-in-python-how-to-discover-clear-patterns-in-your-data-f26e523d7a35>
 
 ***2。误差项呈正态分布***
 
@@ -266,7 +266,7 @@ check_ols_assumptions(data['x_var'], data['y_var'], ols_result.predict())*
 
 *如果你是中级新手，可以考虑使用下面的我的推荐链接订阅👇*
 
-*[](https://medium.com/@andreasmartinson/membership)  
+*<https://medium.com/@andreasmartinson/membership>  
 
 ## 参考
 

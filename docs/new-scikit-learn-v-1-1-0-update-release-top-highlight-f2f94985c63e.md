@@ -100,7 +100,7 @@ plt.title('Sample HistGradientBoostingRegressor with Quantile Loss')
 
 一键编码是应用于分类特征以产生数字特征的常见分类过程。使用 Scikit-Learn `OneHotEncoder`，我们可以根据我们的数据开发出用于生产环境的变压器。如果你从来没有听说过什么是独热编码，你可以在下面的文章中读到它。
 
-[](/4-categorical-encoding-concepts-to-know-for-data-scientists-e144851c6383)  
+</4-categorical-encoding-concepts-to-know-for-data-scientists-e144851c6383>  
 
 在最新的更新中，Scikit-Learn 添加了一个新参数`OneHotEncoder`来对所有罕见值进行分组，而不是将每个罕见值创建到新的数字特征中。让我们用一个样本数据集来尝试一下。我将使用 Seaborn 的 tips 样本数据集。
 

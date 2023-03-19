@@ -272,7 +272,7 @@ You can use matplotlib.pyplot for a bar plot selecting stacked=true
 
 欲知详情，
 
-[](https://www.samirsaci.com/logistic-performance-management-using-data-analytics/)  
+<https://www.samirsaci.com/logistic-performance-management-using-data-analytics/>  
 
 # 关于我
 
@@ -280,4 +280,4 @@ You can use matplotlib.pyplot for a bar plot selecting stacked=true
 
 如果你对数据分析和供应链感兴趣，可以看看我的网站
 
-[](https://samirsaci.com) 
+<https://samirsaci.com> 

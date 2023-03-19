@@ -222,7 +222,7 @@ NOTEARS 和其他类似的算法不能解释“未观察到的混杂因素”,�
 
 [通过我的推荐链接](https://grahamharrison-86487.medium.com/membership)加入媒体(如果你使用这个链接注册，我将收取一定比例的费用)。
 
-[](https://grahamharrison-86487.medium.com/membership)  
+<https://grahamharrison-86487.medium.com/membership>  
 
 [每当我发表一个新故事时，订阅一封免费电子邮件](https://grahamharrison-86487.medium.com/subscribe)。
 

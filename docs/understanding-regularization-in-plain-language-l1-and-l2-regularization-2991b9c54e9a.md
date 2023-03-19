@@ -72,4 +72,4 @@ L1 和 L2 正规化各有利弊。根据项目的不同，您可以选择自己�
 
 **更多阅读**
 
-[](https://pub.towardsai.net/data-analysis-91a38207c92b)  [](/a-complete-sentiment-analysis-project-using-pythons-scikit-learn-b9ccbb0405c2)  [](/30-very-useful-pandas-functions-for-everyday-data-analysis-tasks-f1eae16409af)  [](/a-data-storytelling-project-with-some-advanced-visualization-in-ggplot2-fb60dfc56dde)  [](/convolutional-neural-network-good-understanding-of-the-layers-and-an-image-classification-example-a280bc02c13e) 
+<https://pub.towardsai.net/data-analysis-91a38207c92b>  </a-complete-sentiment-analysis-project-using-pythons-scikit-learn-b9ccbb0405c2>  </30-very-useful-pandas-functions-for-everyday-data-analysis-tasks-f1eae16409af>  </a-data-storytelling-project-with-some-advanced-visualization-in-ggplot2-fb60dfc56dde>  </convolutional-neural-network-good-understanding-of-the-layers-and-an-image-classification-example-a280bc02c13e> 

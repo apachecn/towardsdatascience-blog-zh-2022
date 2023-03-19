@@ -183,6 +183,6 @@ Azure 函数运行日志。截图由作者拍摄。
 
 如果你喜欢这个内容，请鼓掌并订阅，并在我的 [LinkedIn](https://www.linkedin.com/in/hectorandresmv/) 上与我联系。干杯！👾
 
-[](https://github.com/hector6298) [## 赫克托 6298
+<https://github.com/hector6298> [## 赫克托 6298
 
 github.com](https://github.com/hector6298)

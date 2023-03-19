@@ -244,4 +244,4 @@ GROUP BY 1;
 
 这个中等难度的 SQL 面试问题真正展示了面试官喜欢问的问题。我们讨论了数据聚合，处理日期、数据转换、CASE 语句和数据分组。这些也是在工作面试中测试的流行的 SQL 概念。还有更多这样的 DoorDash 问题，请查看我们的帖子“ [*最常见的 DoorDash 数据科学家面试问题*](https://www.stratascratch.com/blog/most-common-doordash-data-scientist-interview-questions/?utm_source=blog&utm_medium=click&utm_campaign=tds) ”。尝试解决其中的一些问题，看看你在这里学到的东西是否可以应用到其他问题上。在面试中回答问题时，不要忘记使用结构化框架。这对你来说真的很重要！
 
-【https://www.stratascratch.com】最初发表于[](https://www.stratascratch.com/blog/doordash-sql-interview-questions/?utm_source=blog&utm_medium=click&utm_campaign=tds)**。**
+【https://www.stratascratch.com】最初发表于<https://www.stratascratch.com/blog/doordash-sql-interview-questions/?utm_source=blog&utm_medium=click&utm_campaign=tds>**。**

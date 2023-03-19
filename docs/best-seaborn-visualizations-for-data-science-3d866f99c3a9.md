@@ -16,7 +16,7 @@
 
 在我们开始这篇关于 seaborn 的文章之前，我建议从下面提供的链接中查看我以前的一篇关于 matplotlib 可视化技术的文章。这应该是更熟悉不同类型的可视化的一个很好的起点。
 
-[](/8-best-visualizations-to-consider-for-your-data-science-projects-b9ace21564a)  
+</8-best-visualizations-to-consider-for-your-data-science-projects-b9ace21564a>  
 
 # 数据科学的 9 个最佳 Seaborn 可视化:
 
@@ -185,12 +185,12 @@ sns.heatmap(iris_data.corr())
 
 如果你想在我的文章发表后第一时间得到通知，请点击下面的[链接](https://bharath-k1297.medium.com/subscribe)订阅邮件推荐。如果你希望支持其他作者和我，请订阅下面的链接。
 
-[](https://bharath-k1297.medium.com/membership)  
+<https://bharath-k1297.medium.com/membership>  
 
 如果你对这篇文章中提到的各点有任何疑问，请在下面的评论中告诉我。我会尽快给你回复。
 
 看看我的一些与本文主题相关的文章，你可能也会喜欢阅读！
 
-[](/7-python-programming-tips-to-improve-your-productivity-a57802f225b6)  [](/develop-your-weather-application-with-python-in-less-than-10-lines-6d092c6dcbc9)  [](/python-project-how-to-hide-secret-data-in-images-2a835ed6b9b1)  
+</7-python-programming-tips-to-improve-your-productivity-a57802f225b6>  </develop-your-weather-application-with-python-in-less-than-10-lines-6d092c6dcbc9>  </python-project-how-to-hide-secret-data-in-images-2a835ed6b9b1>  
 
 谢谢你们坚持到最后。我希望你们都喜欢这篇文章。祝大家有美好的一天！

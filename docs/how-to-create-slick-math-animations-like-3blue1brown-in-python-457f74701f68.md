@@ -20,11 +20,11 @@
 
 如果你能创造出与他的作品有一点相似的东西，那不是很酷吗？本 Manim 教程结束时，你不仅能够创建自己的精彩动画，还能了解格兰特·桑德森在视频中使用的一些签名转换的秘密。
 
-[](https://ibexorigin.medium.com/membership)  
+<https://ibexorigin.medium.com/membership>  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex)  
+<https://alphasignal.ai/?referrer=Bex>  
 
 # 什么是曼尼姆？
 
@@ -150,8 +150,8 @@ Manim 使用 numpy 数组在`x`、`y`、`z`坐标中表示屏幕。`z`只要您�
 
 如果你想成为一名铁杆 manim 动画师，我强烈建议你仔细阅读社区版的[文档的每一页。我也建议你去看看像](https://docs.manim.community/en/stable/)[这种](https://www.youtube.com/channel/UCK8XIGR5kRidIw2fWqwyHRA)使用 Manim 的频道，并阅读他们的源代码。
 
-[](https://ibexorigin.medium.com/membership)  [](https://ibexorigin.medium.com/subscribe)  
+<https://ibexorigin.medium.com/membership>  <https://ibexorigin.medium.com/subscribe>  
 
 我的更多故事:
 
-[](/matplotlib-vs-plotly-lets-decide-once-and-for-all-dc3eca9aa011)  [](https://ibexorigin.medium.com/yes-these-unbelievable-masterpieces-are-created-with-matplotlib-b62e0ff2d1a8)  [](/an-in-depth-tutorial-to-python-decorators-that-you-can-actually-use-1e34d3d2d305)  [](https://ibexorigin.medium.com/how-to-use-matplotlib-annotations-like-you-know-what-you-are-doing-da61e397cce3)  [](/the-easiest-way-to-deploy-your-ml-dl-models-in-2022-streamlit-bentoml-dagshub-ccf29c901dac) 
+</matplotlib-vs-plotly-lets-decide-once-and-for-all-dc3eca9aa011>  <https://ibexorigin.medium.com/yes-these-unbelievable-masterpieces-are-created-with-matplotlib-b62e0ff2d1a8>  </an-in-depth-tutorial-to-python-decorators-that-you-can-actually-use-1e34d3d2d305>  <https://ibexorigin.medium.com/how-to-use-matplotlib-annotations-like-you-know-what-you-are-doing-da61e397cce3>  </the-easiest-way-to-deploy-your-ml-dl-models-in-2022-streamlit-bentoml-dagshub-ccf29c901dac> 

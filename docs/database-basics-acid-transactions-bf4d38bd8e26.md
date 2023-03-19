@@ -53,6 +53,6 @@ Pawel Czerwinski 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_mediu
 *   关系数据库满足这些特性，因此在任何时候都是一致的。另一方面，NoSQL 数据库在很大程度上不符合 ACID。
 *   遵循这些原则可以确保数据库在任何时候都没有错误，并且可以毫无顾虑地进行并发访问。
 
-*如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，请不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
+*如果你喜欢我的作品，请在这里订阅*<https://medium.com/subscribe/@niklas_lang>**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，请不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
 
-*[](/redis-in-memory-data-store-easily-explained-3b92457be424)  [](/comprehensive-guide-to-data-warehouses-6374617f45d5)  [](/introducing-nosql-databases-with-mongodb-d46c976da5bf) *
+*</redis-in-memory-data-store-easily-explained-3b92457be424>  </comprehensive-guide-to-data-warehouses-6374617f45d5>  </introducing-nosql-databases-with-mongodb-d46c976da5bf> *

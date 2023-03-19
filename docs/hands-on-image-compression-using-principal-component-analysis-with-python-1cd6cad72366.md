@@ -10,7 +10,7 @@
 
 ## 从理论到实践，这就是如何使用 PCA 压缩你的图像而不破坏质量
 
-当我和埃森哲[](https://www.accenture.com/us-en?c=acn_glb_brandexpressiongoogle_12722872&n=psgs_1221&&c=ad_usadfy17_10000001&n=psgs_Brand-%7c-US-%7c-Exact_accenture&gclid=Cj0KCQiAi9mPBhCJARIsAHchl1zGVurARH3g4nQKqa8WBZgAE0gxEfbulbQYZ0hrLC72izQCidNYa1caAuXpEALw_wcB&gclsrc=aw.ds)**一起写硕士学位论文时，我们曾经使用一个确定的固定大小的图像。特别是，我们正在研究一个非常著名的机器学习挑战，它被称为 [**快速 MRI**](https://fastmri.org/) ，是由[脸书人工智能研究](https://ai.facebook.com/)(现在的**元人工智能**)提出的。**
+当我和埃森哲<https://www.accenture.com/us-en?c=acn_glb_brandexpressiongoogle_12722872&n=psgs_1221&&c=ad_usadfy17_10000001&n=psgs_Brand-%7c-US-%7c-Exact_accenture&gclid=Cj0KCQiAi9mPBhCJARIsAHchl1zGVurARH3g4nQKqa8WBZgAE0gxEfbulbQYZ0hrLC72izQCidNYa1caAuXpEALw_wcB&gclsrc=aw.ds>**一起写硕士学位论文时，我们曾经使用一个确定的固定大小的图像。特别是，我们正在研究一个非常著名的机器学习挑战，它被称为 [**快速 MRI**](https://fastmri.org/) ，是由[脸书人工智能研究](https://ai.facebook.com/)(现在的**元人工智能**)提出的。**
 
 **我不会说得太详细，但我们有一个具体的目标，那就是提高这些图像的质量。一旦我们做到了这一点，我们开始问自己是否有办法以压缩的形式存储这些大图像，以节省一些存储空间。**
 

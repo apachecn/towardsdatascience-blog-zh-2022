@@ -126,7 +126,7 @@
 
 **如果你想支持我的内容创作活动，欢迎点击我下面的推荐链接，加入 Medium 的会员计划**。我将收到你投资的一部分，你将能够以无缝的方式访问 Medium 的大量数据科学文章。
 
-[](https://medium.com/@theDrewDag/membership)  
+<https://medium.com/@theDrewDag/membership>  
 
 下次见！👋
 

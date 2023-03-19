@@ -22,7 +22,7 @@ W 当我们建立一个机器学习模型时，我们通常以这样的方式设
 
 图片由作者提供。
 
-[](/a-gentle-introduction-to-bayesian-inference-6a7552e313cb)  [](/bayesian-linear-regression-in-python-via-pymc3-ab8c2c498211)  
+</a-gentle-introduction-to-bayesian-inference-6a7552e313cb>  </bayesian-linear-regression-in-python-via-pymc3-ab8c2c498211>  
 
 正因为如此，我们可以通过观察预测的分布或一些导出的数字(如标准差)来了解模型何时不确定。分布越窄(标准差越小)，模型越确定。
 
@@ -128,7 +128,7 @@ W 当我们建立一个机器学习模型时，我们通常以这样的方式设
 
 *****在你选择的任何深度学习框架中实现这两件事应该都很容易。我们将在 Tensorflow 中进行，因为上次我已经选择了 PyTorch 来解释可解释的神经网络。😎*****
 
-*****[](/interpretable-neural-networks-with-pytorch-76f1c31260fe)  
+*****</interpretable-neural-networks-with-pytorch-76f1c31260fe>  
 
 让我们从一个简单的例子开始。
 

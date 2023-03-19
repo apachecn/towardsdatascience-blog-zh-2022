@@ -10,7 +10,7 @@
 
 在我之前的文章中，我谈到了在 sklearn 中使用管道:
 
-[](/using-sklearn-pipelines-to-streamline-your-machine-learning-process-a27721fdff1b)  
+</using-sklearn-pipelines-to-streamline-your-machine-learning-process-a27721fdff1b>  
 
 在那篇文章中，您学习了如何在 sklearn 中使用管道来简化您的机器学习工作流。您还了解了如何使用`GridSearchCV()`和管道来为您的数据集寻找最佳估计器。
 
@@ -77,7 +77,7 @@ class FeatureSelector(BaseEstimator, TransformerMixin):
 
 如果您不熟悉自定义变压器，请参考本文:
 
-[](/creating-custom-transformers-for-sklearn-pipelines-d3d51852ecc1)  
+</creating-custom-transformers-for-sklearn-pipelines-d3d51852ecc1>  
 
 ## 转换列
 
@@ -323,4 +323,4 @@ test_data = {
 
 这篇短文解释了集成学习是如何工作的。特别是，我将它与 pipelines 和`GridSearchCV()`结合起来，使你的机器学习工作流程正式化。如果你在你的机器学习项目中使用集成学习，请在评论中告诉我。
 
-[](https://weimenglee.medium.com/membership) 
+<https://weimenglee.medium.com/membership> 

@@ -134,8 +134,8 @@
 
 **我希望这个故事对你有用。请继续关注协整流行方法迷你系列的第 2 部分。订阅以便在第 2 部分发布后立即收到通知。**
 
-**[](https://medium.com/subscribe/@diego-barba) ** 
+**<https://medium.com/subscribe/@diego-barba> ** 
 
 **喜欢这个故事吗？通过我下面的推荐链接成为一个媒体成员来支持我的写作。无限制地访问我的故事和许多其他内容。**
 
-**[](https://medium.com/@diego-barba/membership) **
+**<https://medium.com/@diego-barba/membership> **

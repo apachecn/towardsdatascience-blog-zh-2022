@@ -262,7 +262,7 @@ df.groupby("store").agg(
 
 如果你想了解更多，这里有一篇我以前写的关于 groupby 函数的文章:
 
-[](/11-examples-to-master-pandas-groupby-function-86e0de574f38)  
+</11-examples-to-master-pandas-groupby-function-86e0de574f38>  
 
 # 8.独一无二的
 
@@ -279,8 +279,8 @@ array([1, 2, 3, 4, 5, 6], dtype=int64)
 
 熊猫有更多的功能来简化和加快数据科学家和分析师的工作。我们只介绍了其中的 8 种，但我相信这些是你会用得最多的。
 
-*你可以成为* [*媒介会员*](https://sonery.medium.com/membership) *解锁我的全部写作权限，外加其余媒介。如果你已经是了，别忘了订阅*[](https://sonery.medium.com/subscribe)**如果你想在我发表新文章时收到电子邮件。**
+*你可以成为* [*媒介会员*](https://sonery.medium.com/membership) *解锁我的全部写作权限，外加其余媒介。如果你已经是了，别忘了订阅*<https://sonery.medium.com/subscribe>**如果你想在我发表新文章时收到电子邮件。**
 
-*[](https://sonery.medium.com/membership) * 
+*<https://sonery.medium.com/membership> * 
 
 *感谢您的阅读。如果您有任何反馈，请告诉我。*

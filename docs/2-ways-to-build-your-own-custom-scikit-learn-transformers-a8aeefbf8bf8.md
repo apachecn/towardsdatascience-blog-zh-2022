@@ -86,7 +86,7 @@ FunctionTransformer 可用于将预先存在的 numpy 或 pandas 函数转换为
 
 另外，我在另一篇文章中讨论了这个难题的解决方案:
 
-[](/why-you-shouldnt-use-pandas-get-dummies-for-machine-learning-e088a435beef)  
+</why-you-shouldnt-use-pandas-get-dummies-for-machine-learning-e088a435beef>  
 
 总而言之，FunctionTransformer 类是一种将函数转换为转换器的简单方法，但对于必须保留来自训练数据的参数的情况，它并不理想。
 

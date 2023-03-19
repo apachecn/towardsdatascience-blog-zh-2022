@@ -76,8 +76,8 @@ IaC 可以帮助您摆脱基础架构资源的手动配置和部署，并提供�
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership)  
+<https://gmyrianthous.medium.com/membership>  
 
 **相关文章你可能也喜欢**
 
-[](/diagrams-as-code-python-d9cbaa959ed5)  [](/apache-airflow-architecture-496b9cb28288)  [](/docker-image-vs-container-7d9acab24c5) 
+</diagrams-as-code-python-d9cbaa959ed5>  </apache-airflow-architecture-496b9cb28288>  </docker-image-vs-container-7d9acab24c5> 

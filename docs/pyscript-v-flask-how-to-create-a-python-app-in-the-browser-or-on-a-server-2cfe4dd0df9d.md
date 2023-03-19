@@ -156,11 +156,11 @@ PySript 是工具箱中另一个看起来很有前途的工具。我怀疑它会
 
 一如既往，感谢阅读。要下载代码或找到更多关于 PyScript、Python、Flask 和其他数据科学相关主题的文章，请参见我的 [Github 网页](http://alanjones2.github.io)。
 
-[](https://alanjones2.github.io)  
+<https://alanjones2.github.io>  
 
 你也可以订阅我的时事通讯 [Technofile](http://technofile.substack.com) 来了解我正在做的事情。
 
-[](https://technofile.substack.com)  
+<https://technofile.substack.com>  
 
 # 笔记
 

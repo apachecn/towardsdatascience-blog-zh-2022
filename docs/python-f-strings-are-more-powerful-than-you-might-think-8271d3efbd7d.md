@@ -68,8 +68,8 @@ Python 的格式化迷你语言不仅仅包括格式化数字和日期的选项�
 
 [成为会员](https://medium.com/@martin.heinz/membership)阅读 Medium 上的每一个故事。**你的会员费直接支持我和你看的其他作家。**你还可以在媒体上看到所有的故事。
 
-[](https://medium.com/@martin.heinz/membership)  
+<https://medium.com/@martin.heinz/membership>  
 
 你可能也喜欢…
 
-[](/ultimate-ci-pipeline-for-all-of-your-python-projects-27f9019ea71a)  [](/optimizing-memory-usage-in-python-applications-f591fc914df5) 
+</ultimate-ci-pipeline-for-all-of-your-python-projects-27f9019ea71a>  </optimizing-memory-usage-in-python-applications-f591fc914df5> 

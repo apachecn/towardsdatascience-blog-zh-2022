@@ -257,4 +257,4 @@ frequency             0.072322   1.000000
 
 你也可以试试我的其他文章。不能选择？从这些中选择一个:
 
-[](/comparing-things-the-bayesian-approach-b9a26ddb5ef1)  [](/on-the-importance-of-bayesian-thinking-in-everyday-life-a74475fcceeb)  [](/confidence-intervals-vs-prediction-intervals-7b296ae58745) 
+</comparing-things-the-bayesian-approach-b9a26ddb5ef1>  </on-the-importance-of-bayesian-thinking-in-everyday-life-a74475fcceeb>  </confidence-intervals-vs-prediction-intervals-7b296ae58745> 

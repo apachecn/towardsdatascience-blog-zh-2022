@@ -18,7 +18,7 @@
 
 我们也可以用索引来解决这些问题。有一种使用索引的核心方法是 Julia 独有的，而且以我个人的经验来看非常简单。与其他生态系统相比，这种方法似乎非常适合。此外，如果您想查看包含本文代码的笔记本，您可以从 Github 仓库获得它:
 
-[](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/Julia%20Indexing.ipynb)  
+<https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/Julia%20Indexing.ipynb>  
 
 # 索引
 
@@ -49,7 +49,7 @@ array[1:5]5-element Vector{Int64}:
 
 如果这个集合是一个字典，我们也可以通过键(不管是什么类型)进行索引。)如果你想更多地了解 Julia 的各种数据结构，你可以在这里阅读或观看:
 
-[](/in-depth-look-at-data-structures-in-julia-d22171a8f5ed)  
+</in-depth-look-at-data-structures-in-julia-d22171a8f5ed>  
 
 对于要提供的类型的完整列表，我们实际上可以对一个方法打上问号。索引调用的方法是来自 base 的 getindex()方法。让我们在上面调用文档浏览器:
 
@@ -166,13 +166,13 @@ append!(nums, 5.5)
 
 Julia 中的 filter 方法是另一个非常常用的方法。这一点在使用统计数据时尤其有用。想想熊猫数据框面具，它实际上成了我最喜欢的熊猫特写的一部分:
 
-[](/20-great-pandas-tricks-for-data-science-3a6daed71da0)  
+</20-great-pandas-tricks-for-data-science-3a6daed71da0>  
 
 > 但是，过滤！()在 Julia 中是等价的。也哇，一年多前。
 
 我和过滤器有些小问题！()，这并不是说我不喜欢这种方法——我只是觉得使用起来比其他界面更烦人。Julia 倾向于在它所做的许多事情上出类拔萃，并使事情对程序员来说变得超级容易——但这是一个例子，我认为学会这一点比学会另一种语言更难，那就是 Python。幸运的是，我希望进行的修改的语法非常容易完成，布尔索引现在可以在我目前正在开发的包 OddFrames.jl 中找到，您也可以在这里查看 Github 页面:
 
-[](https://github.com/ChifiSource/OddFrames.jl)  
+<https://github.com/ChifiSource/OddFrames.jl>  
 
 ```
 filter((x) -> x == 5, nums)
@@ -180,7 +180,7 @@ filter((x) -> x == 5, nums)
 
 对于这个方法，我们使用一个叫做匿名函数的东西作为它的第一个参数，为了更全面地了解这个概念，您可以在这里阅读一篇深入研究它们的文章:
 
-[](/what-on-earth-is-an-anonymous-function-f8043eb845f3)  
+</what-on-earth-is-an-anonymous-function-f8043eb845f3>  
 
 在本文的稍后部分，我们还将更多地涉及它们，但是现在我们将简单地观察我们的过滤值:
 

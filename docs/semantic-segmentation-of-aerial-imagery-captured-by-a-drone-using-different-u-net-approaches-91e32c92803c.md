@@ -143,7 +143,7 @@ U-Net 是一种特定类型的卷积神经网络架构，是 2015 年德国弗�
 
 > 不同的方法将在后续文章中用不同的编码方法来介绍。
 
-[](https://ibrahimkovan.medium.com/machine-learning-guideline-959da5c6f73d)  
+<https://ibrahimkovan.medium.com/machine-learning-guideline-959da5c6f73d>  
 
 # 参考
 

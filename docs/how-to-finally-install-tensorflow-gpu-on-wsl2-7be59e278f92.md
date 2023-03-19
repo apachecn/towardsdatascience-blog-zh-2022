@@ -14,7 +14,7 @@
 
 首先，确保您遵循我的第一篇文章中所写的步骤:
 
-[](/how-to-finally-install-tensorflow-gpu-on-windows-10-63527910f255)  
+</how-to-finally-install-tensorflow-gpu-on-windows-10-63527910f255>  
 
 在 WSL2 上安装 TensorFlow 的 GPU 支持是建立在 Windows 端的 NVIDIA CUDA 驱动程序之上的。因此，您必须完成第一篇文章中的步骤。如果您可以从 Windows 命令行运行以下命令并得到相同的输出，那么您就可以开始了:
 
@@ -32,13 +32,13 @@ $ python
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex)  
+<https://alphasignal.ai/?referrer=Bex>  
 
 ## 2.检查您的 WSL2 安装
 
 还没有安装 WSL2 吗？不用担心；在这方面我也帮你搞定了。仔细阅读我上一篇文章中关于安装它的综合文章。
 
-[](/how-to-create-perfect-machine-learning-development-environment-with-wsl2-on-windows-10-11-2c80f8ea1f31)  
+</how-to-create-perfect-machine-learning-development-environment-with-wsl2-on-windows-10-11-2c80f8ea1f31>  
 
 如果你已经安装了 WSL2，但还没有为机器学习工作进行配置，那么继续阅读。
 
@@ -197,10 +197,10 @@ model.fit(x_train, y_train, epochs=5)
 
 感谢您的阅读！
 
-[](https://ibexorigin.medium.com/membership)  
+<https://ibexorigin.medium.com/membership>  
 
 ## 我的更多故事
 
-[](/how-to-boost-pandas-speed-and-process-10m-row-datasets-in-milliseconds-48d5468e269)  [](/a-complete-shap-tutorial-how-to-explain-any-black-box-ml-model-in-python-7538d11fae94)  [](/comprehensive-guide-to-deploying-any-ml-model-as-apis-with-python-and-aws-lambda-b441d257f1ec) [## 使用 Python 和 AWS Lambda 将任何 ML 模型部署为 API 的综合指南
+</how-to-boost-pandas-speed-and-process-10m-row-datasets-in-milliseconds-48d5468e269>  </a-complete-shap-tutorial-how-to-explain-any-black-box-ml-model-in-python-7538d11fae94>  </comprehensive-guide-to-deploying-any-ml-model-as-apis-with-python-and-aws-lambda-b441d257f1ec> [## 使用 Python 和 AWS Lambda 将任何 ML 模型部署为 API 的综合指南
 
 towardsdatascience.com](/comprehensive-guide-to-deploying-any-ml-model-as-apis-with-python-and-aws-lambda-b441d257f1ec)

@@ -208,8 +208,8 @@
 
 **如果你对我以前的文章感兴趣，并且想在新内容发表时得到通知，你也可以注册下面的邮件列表**
 
-**[](https://medium.com/subscribe/@vflovik)  
+**<https://medium.com/subscribe/@vflovik>  
 
 而且，如果你想成为一个媒体会员，免费访问平台上的所有资料，你可以使用下面我的推荐链接。(注意:如果您使用此链接注册，我也会收到一部分会员费)
 
-[](https://medium.com/@vflovik/membership) **
+<https://medium.com/@vflovik/membership> **

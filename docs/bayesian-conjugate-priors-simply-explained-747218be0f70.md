@@ -24,7 +24,7 @@
 
 作者在 LaTeX 中生成的方程。
 
-*   ***P(H):***[](https://en.wikipedia.org/wiki/Prior_probability)****。**假设的概率， ***H.*****
+*   ***P(H):***<https://en.wikipedia.org/wiki/Prior_probability>****。**假设的概率， ***H.*****
 *   *****P(D | H):***[**可能性**](https://en.wikipedia.org/wiki/Likelihood_function) **。**数据的概率，*，给定我们当前的假设，***
 *   *******P(H | D):***[**后路**](https://en.wikipedia.org/wiki/Posterior_probability) 。当前假设的概率， ***H，*** ，给定数据， ***D.*******
 *   *******P(D):***[**归一化常数**](https://en.wikipedia.org/wiki/Normalizing_constant#Bayes'_theorem) **。**这个是可能性和先验的乘积之和，也就是所谓的 [**全概率定律**](https://en.wikipedia.org/wiki/Law_of_total_probability) :****
@@ -35,7 +35,7 @@
 
 ****如果你想更深入地推导和理解贝叶斯定理，可以在这里查阅我以前的文章:****
 
-****[](https://pub.towardsai.net/conditional-probability-and-bayes-theorem-simply-explained-788a6361f333)  
+****<https://pub.towardsai.net/conditional-probability-and-bayes-theorem-simply-explained-788a6361f333>  
 
 ## 贝叶斯更新
 
@@ -51,7 +51,7 @@
 
 您可以在此阅读有关贝叶斯更新的更多信息:
 
-[](/bayesian-updating-simply-explained-c2ed3e563588)  
+</bayesian-updating-simply-explained-c2ed3e563588>  
 
 然而，如果我们想要获得有效的概率，我们需要计算 ***P(D)*** 。如上所示，这是可能性和先验的乘积之和。描述求和的另一种方式是通过积分:
 
@@ -59,7 +59,7 @@
 
 作者在 LaTeX 中生成的方程。
 
-这种积分往往是[](https://www.reddit.com/r/askmath/comments/cghi5c/what_is_an_intractable_integral_and_why_this/)**。这基本上意味着它在计算上非常昂贵，或者它没有一个 [**封闭形式的解**](https://en.wikipedia.org/wiki/Closed-form_expression) 。我在这里链接了[](https://stats.stackexchange.com/questions/202917/why-is-computing-the-bayesian-evidence-difficult)**一个 StatExchange 线程，解释了为什么它很难处理。****
+这种积分往往是<https://www.reddit.com/r/askmath/comments/cghi5c/what_is_an_intractable_integral_and_why_this/>**。这基本上意味着它在计算上非常昂贵，或者它没有一个 [**封闭形式的解**](https://en.wikipedia.org/wiki/Closed-form_expression) 。我在这里链接了<https://stats.stackexchange.com/questions/202917/why-is-computing-the-bayesian-evidence-difficult>**一个 StatExchange 线程，解释了为什么它很难处理。****
 
 # ****共轭先验****
 
@@ -69,7 +69,7 @@
 
 ## ****二项式和贝塔权变****
 
-****最简单和常见的共轭分布对之一是[](https://en.wikipedia.org/wiki/Beta_distribution)**(先验)和[](https://en.wikipedia.org/wiki/Binomial_distribution)**(似然)。********
+****最简单和常见的共轭分布对之一是<https://en.wikipedia.org/wiki/Beta_distribution>**(先验)和<https://en.wikipedia.org/wiki/Binomial_distribution>**(似然)。********
 
 ********贝塔分布**:******
 
@@ -86,7 +86,7 @@
 
 ****如果您想全面了解 Beta 发行版，您应该浏览一下我以前关于它的文章:****
 
-****[](/beta-distribution-simply-explained-839b3acde6e9)  
+****</beta-distribution-simply-explained-839b3acde6e9>  
 
 **二项分布:**
 
@@ -289,7 +289,7 @@ plt.show()
 **贝塔二项分布并不是唯一的共轭分布:**
 
 *   **[贝塔-**伯努利**](https://en.wikipedia.org/wiki/Bernoulli_distribution)**
-*   **[](https://en.wikipedia.org/wiki/Gamma_distribution)**-[-**阿松**](https://en.wikipedia.org/wiki/Poisson_distribution)****
+*   **<https://en.wikipedia.org/wiki/Gamma_distribution>**-[-**阿松**](https://en.wikipedia.org/wiki/Poisson_distribution)****
 *   ****[**狄利克雷**](https://en.wikipedia.org/wiki/Dirichlet_distribution)-[-**多项式**](https://en.wikipedia.org/wiki/Multinomial_distribution)****
 
 ****仅举几个例子。****
@@ -304,7 +304,7 @@ plt.show()
 
 ****本文中使用的完整代码可以在我的 GitHub 上找到:****
 
-****[](https://github.com/egorhowell/Medium-Articles/blob/main/Statistics/Conjugate_Priors.ipynb)  
+****<https://github.com/egorhowell/Medium-Articles/blob/main/Statistics/Conjugate_Priors.ipynb>  
 
 # 和我联系！
 
@@ -313,6 +313,6 @@ plt.show()
 *   [*LinkedIn*](https://www.linkedin.com/in/egor-howell-092a721b3/)*👔*
 *   *[*推特*](https://twitter.com/EgorHowell) 🖊*
 *   *[*github*](https://github.com/egorhowell)*🖥**
-*   **[](https://www.kaggle.com/egorphysics)**🏅****
+*   **<https://www.kaggle.com/egorphysics>**🏅****
 
 > ***(所有表情符号都是由 [OpenMoji](https://openmoji.org/) 设计的——开源的表情符号和图标项目。许可证: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)***************

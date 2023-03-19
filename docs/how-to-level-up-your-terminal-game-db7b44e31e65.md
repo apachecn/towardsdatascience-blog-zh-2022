@@ -170,7 +170,7 @@ Fzf 可以从几乎所有的包管理器中获得，但是你也可以用 git �
 
 # Git 仓库
 
-[](https://github.com/schollz/croc)  [](https://github.com/ajeetdsouza/zoxide)  [](https://github.com/htop-dev/htop)  [](https://github.com/eradman/entr)  [](https://github.com/junegunn/fzf)  
+<https://github.com/schollz/croc>  <https://github.com/ajeetdsouza/zoxide>  <https://github.com/htop-dev/htop>  <https://github.com/eradman/entr>  <https://github.com/junegunn/fzf>  
 
 # 结论
 

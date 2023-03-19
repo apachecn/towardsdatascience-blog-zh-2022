@@ -44,7 +44,7 @@ Julia 是一种开放源代码语言，它是动态类型的，直观的，像 P
 
 我以前写过一篇文章，讨论使用 Python 中的 numpy 库进行矢量化:
 
-[](/how-to-speedup-data-processing-with-numpy-vectorization-12acac71cfca)  
+</how-to-speedup-data-processing-with-numpy-vectorization-12acac71cfca>  
 
 本文将要进行的速度测试基本上是本文的扩展/比较。
 
@@ -137,7 +137,7 @@ FROM deepnote/python:3.10RUN wget https://julialang-s3.julialang.org/bin/linux/x
 
 原始笔记本可在以下位置找到:
 
-[](https://github.com/thetestspecimen/notebooks/tree/main/julia-python-comparison)  
+<https://github.com/thetestspecimen/notebooks/tree/main/julia-python-comparison>  
 
 …或者在 deepnote 或 colab 中快速启动。
 
@@ -235,7 +235,7 @@ numpy 在某些情况下如此快速的一个方法是，它使用**预编译**�
 
 如果你想更全面地了解 Julia 与其他语言相比有多快，你可以看看 Julia 网站上的通用基准:
 
-[](https://julialang.org/benchmarks/)  
+<https://julialang.org/benchmarks/>  
 
 同样的结果，它独树一帜，尤其是在数据科学领域。除非你用 c 写所有的代码。
 
@@ -261,4 +261,4 @@ Python 和 R 是现阶段的行业标准，这将需要很大的动力来改变�
 
 使用我的推荐链接注册会给我一点回扣，对你的会员资格没有影响，所以如果你选择这样做，谢谢你。
 
-[](https://medium.com/@maclayton/membership) 
+<https://medium.com/@maclayton/membership> 

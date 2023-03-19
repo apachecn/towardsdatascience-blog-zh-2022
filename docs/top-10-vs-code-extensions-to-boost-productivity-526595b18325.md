@@ -64,7 +64,7 @@ LiveShare(图片由作者提供)
 
 代码运行者(图片由作者提供)
 
-[](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+<https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode>
 
 **Prettier 是一个非常固执己见的代码格式化程序，它在开发过程中强制执行 JavaScript 最佳实践。虽然 prettle 也是一个独立的 JavaScript 包，但是这个扩展的强大之处在于它可以被定制来在保存时根据 prettle 的配置重新格式化你的代码。Prettier 的唯一警告是它非常固执己见，会强行重新格式化和构建代码。如果这不是您想要的行为，它可能不是一个很好的选择，但是我坚信它有助于增强初学者的最佳实践。**
 

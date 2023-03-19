@@ -146,7 +146,7 @@ df.pivot_table(
 
 当您正在寻找一种从数据中获取洞察力并执行聚合的方法时，`[pivot_table()](/a-practical-introduction-to-pandas-pivot-table-function-3e1002dcd4eb)`应该是最佳选择。如果你想了解更多关于`pivot_table()`的信息，请查看这篇文章:
 
-[](/a-practical-introduction-to-pandas-pivot-table-function-3e1002dcd4eb)  
+</a-practical-introduction-to-pandas-pivot-table-function-3e1002dcd4eb>  
 
 # 结论
 

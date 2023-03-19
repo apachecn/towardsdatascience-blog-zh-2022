@@ -114,6 +114,6 @@ array([2, 0, 0, 0, 0, 1, 1, 0, 2], dtype=int64)
 *   在大多数情况下，它包含四个字段:真阳性、真阴性、假阳性和假阴性。
 *   这些字段可用于计算有助于评估分类器的特定指标。
 
-*如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
+*如果你喜欢我的作品，请在这里订阅*<https://medium.com/subscribe/@niklas_lang>**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
 
-*[](/association-rules-with-apriori-algorithm-574593e35223)  [](/an-introduction-to-tensorflow-fa5b17051f6b)  [](/software-as-a-service-the-game-changer-for-small-it-departments-f841b292b02a) *
+*</association-rules-with-apriori-algorithm-574593e35223>  </an-introduction-to-tensorflow-fa5b17051f6b>  </software-as-a-service-the-game-changer-for-small-it-departments-f841b292b02a> *

@@ -14,7 +14,7 @@
 
 尽管有一些细微的差别，并且缺乏关于 Julia 元编程的全面教程，Julian 系统实际上真的很棒。如果你碰巧有过其他语言的元编程经验，这个实现可能会让你感到惊讶和兴奋，因为我认为 Julia 处理这个的方式非常棒，就像 Julia 中的许多其他特性一样！如果您想更深入地了解我在本文中使用的代码和数据代码，这里有一个链接指向我在本文中使用的笔记本！：
 
-[](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/Julia%20metaprogramming.ipynb)  
+<https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/Julia%20metaprogramming.ipynb>  
 
 > 顺便说一下，这个存储库非常庞大，现在总共包含 132 个项目。那可是好多笔记本啊！
 
@@ -48,7 +48,7 @@ getfield(Main, :x)5
 
 我有一整篇关于 getfield 和 Julian 自省主题的文章，如果这不是很有意义，或者可能有人想了解更多关于这种方法和其他类似方法的信息，那么它可能值得一读:
 
-[](/runtime-introspection-julias-most-powerful-best-kept-secret-bf845e282367)  
+</runtime-introspection-julias-most-powerful-best-kept-secret-bf845e282367>  
 
 # 公式
 

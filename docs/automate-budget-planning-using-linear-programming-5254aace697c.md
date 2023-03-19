@@ -210,7 +210,7 @@ III. Conclusion & Next Steps**
 
 ****如果你对数据分析和供应链感兴趣，可以看看我的网站****
 
-****[](https://samirsaci.com) **** 
+****<https://samirsaci.com> **** 
 
 # ****参考****
 

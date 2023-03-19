@@ -26,11 +26,11 @@
 
 ## 学习线性代数的资源
 
-[](https://www.khanacademy.org/math/linear-algebra)  
+<https://www.khanacademy.org/math/linear-algebra>  
 
 ## 如何使用线性代数进行数据分析
 
-[](/linear-algebra-essentials-with-numpy-part-1-af4a867ac5ca)  
+</linear-algebra-essentials-with-numpy-part-1-af4a867ac5ca>  
 
 # 2.可能性
 
@@ -52,7 +52,7 @@
 
 ## 学习统计的资源
 
-[](/fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7)  [](/an-undergraduate-level-introductory-statistics-course-in-15-minutes-51996bb7caf3) [## 15 分钟的大学水平的统计学入门课程
+</fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7>  </an-undergraduate-level-introductory-statistics-course-in-15-minutes-51996bb7caf3> [## 15 分钟的大学水平的统计学入门课程
 
 towardsdatascience.com](/an-undergraduate-level-introductory-statistics-course-in-15-minutes-51996bb7caf3) 
 

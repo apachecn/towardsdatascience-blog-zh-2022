@@ -20,7 +20,7 @@
 *   [**熟悉匿名化**](/building-a-customized-pii-anonymizer-with-microsoft-presidio-b5c2ddfe523b) 。处理个人身份信息(PII)和应对日益复杂的监管环境已经成为许多数据从业者的必备技能。凌镇·陈写了一篇关于这个主题的很有帮助的介绍，汇集了理论、最佳实践和推荐的资源。
 *   [**跨专业应用合适的课程**](/5-lessons-i-learned-as-a-data-scientist-from-a-machine-learning-engineer-a8c3ebb223fd) 。凯特琳·雷的职业生涯跨越了数据科学和机器学习工程，这两个领域之间的转换让她对解决问题、讲故事和简单性的重要性有了一些深刻的见解。
 *   [**深挖二分图**](/bipartite-graphs-for-archaeological-assemblage-networks-part-i-648a2f20d389) 。作为一名训练有素的考古学家，[詹姆斯·斯科特红衣主教](https://medium.com/u/47cc46088f93?source=post_page-----9a0e3ca15d4b--------------------------------)亲身经历了解决挖掘现场“大拼图”的挑战。阅读 James 的第一篇 TDS 文章，了解数据科学方法如何对一个看似遥远的学科产生巨大影响。
-*   [](/hands-on-inverse-propensity-weighting-in-python-with-causallib-14505ebdc109)**一种通达因果关系的方法。回答因果问题和提高推理效率是数据专业人员的两项基本技能。 [Eden Zohar](https://medium.com/u/316c740f8f8?source=post_page-----9a0e3ca15d4b--------------------------------) 探索了反向倾向加权(IPW)作为确定治疗和结果之间关系的一种强有力的方法。**
+*   </hands-on-inverse-propensity-weighting-in-python-with-causallib-14505ebdc109>**一种通达因果关系的方法。回答因果问题和提高推理效率是数据专业人员的两项基本技能。 [Eden Zohar](https://medium.com/u/316c740f8f8?source=post_page-----9a0e3ca15d4b--------------------------------) 探索了反向倾向加权(IPW)作为确定治疗和结果之间关系的一种强有力的方法。**
 
 **一如既往地感谢您对我们作者工作的支持和花费的时间。如果你想以其他有意义的方式表达你的支持，可以考虑[成为一名中级会员](https://bit.ly/tds-membership)。**
 

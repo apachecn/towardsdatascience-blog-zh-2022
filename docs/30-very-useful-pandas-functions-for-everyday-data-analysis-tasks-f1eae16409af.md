@@ -14,11 +14,11 @@ Python 的 Pandas 库是 Python 中使用最广泛的库。因为这是数据分
 
 在本文中，我将使用来自 Kaggle 的公共数据集 FIFA dataset。
 
-*这里提到的用户许可是*[](https://www.kaggle.com/stefanoleone992/fifa-21-complete-player-dataset/metadata)**。**
+*这里提到的用户许可是*<https://www.kaggle.com/stefanoleone992/fifa-21-complete-player-dataset/metadata>**。**
 
 *请随意从这里下载数据集:*
 
-*[](https://github.com/rashida048/Datasets/blob/master/fifa.csv)  
+*<https://github.com/rashida048/Datasets/blob/master/fifa.csv>  
 
 好戏开始了！
 
@@ -42,7 +42,7 @@ df = pd.read_csv("fifa.csv")
 
 我有一个关于 read_csv 函数的详细视频。它有几个很好的参数，可以帮助您在读取数据集时稍微清理一下数据集。我这里有一篇详细的文章:
 
-[](/import-csv-files-as-pandas-dataframe-with-skiprows-skipfooter-usecols-index-col-and-header-fbf67a2f92a)  
+</import-csv-files-as-pandas-dataframe-with-skiprows-skipfooter-usecols-index-col-and-header-fbf67a2f92a>  
 
 答。txt 文件也可以使用。read_csv()函数使用以下语法:
 
@@ -530,7 +530,7 @@ df.groupby(['nationality', 'league_rank'])['value_eur', 'wage_eur'].agg([np.mean
 
 使用“分组依据”功能，您可以做更多的事情。我这里有一篇详细的文章:
 
-[](/efficient-data-summarizing-and-analysis-using-pandas-groupby-function-7b2cc9eff186)  
+</efficient-data-summarizing-and-analysis-using-pandas-groupby-function-7b2cc9eff186>  
 
 ## 22.。pct_change()
 
@@ -676,7 +676,7 @@ pd.crosstab(df['league_rank'], df['international_reputation'],
 
 下面是关于 count、value_counts 和 crosstab 方法的详细教程:
 
-[](/three-very-useful-functions-of-pandas-to-summarize-the-data-491b64db9370) [## 熊猫总结数据的三个非常有用的功能
+</three-very-useful-functions-of-pandas-to-summarize-the-data-491b64db9370> [## 熊猫总结数据的三个非常有用的功能
 
 towardsdatascience.com](/three-very-useful-functions-of-pandas-to-summarize-the-data-491b64db9370) 
 
@@ -748,7 +748,7 @@ Name: value_eur, dtype: int64
 
 我有一篇关于使用 cut 和 qcut 方法的数据宁滨的详细文章。请随意看一看:
 
-[](/sort-and-segment-your-data-into-bins-to-get-sorted-ranges-pandas-cut-and-qcut-7785931bbfde)  
+</sort-and-segment-your-data-into-bins-to-get-sorted-ranges-pandas-cut-and-qcut-7785931bbfde>  
 
 ## 28.df['']。描述()
 
@@ -829,7 +829,7 @@ df1.explode(jupyter notebook
 
 Python 的熊猫库好大。功能那么多。我选择一些日常生活中的重要功能。如果您非常了解这些，您将能够成功地执行大多数分析任务。熊猫还有一个非常有用的功能，我在这里没有提到。plot()函数。你只能用熊猫来绘图。熊猫在后端使用 Matplotlib，为你返回剧情。我这里有一个详细的教程:
 
-[](/an-ultimate-cheat-sheet-for-data-visualization-in-pandas-f7bc239c9937)  
+</an-ultimate-cheat-sheet-for-data-visualization-in-pandas-f7bc239c9937>  
 
 希望这篇文章是有帮助的。
 
@@ -837,4 +837,4 @@ Python 的熊猫库好大。功能那么多。我选择一些日常生活中的�
 
 ## 更多阅读
 
-[](/exploratory-data-analysis-with-some-cool-visualizations-in-pythons-matplotlib-and-seaborn-library-99dde20d98bf)  [](/a-complete-anomaly-detection-algorithm-from-scratch-in-python-step-by-step-guide-4c115e65d54e)  [](/all-the-datasets-you-need-to-practice-data-science-skills-and-make-a-great-portfolio-74f2eb53b38a)  [](https://pub.towardsai.net/a-complete-guide-to-confidence-interval-t-test-and-z-test-in-r-for-data-scientists-cd16dd2d0eec) *
+</exploratory-data-analysis-with-some-cool-visualizations-in-pythons-matplotlib-and-seaborn-library-99dde20d98bf>  </a-complete-anomaly-detection-algorithm-from-scratch-in-python-step-by-step-guide-4c115e65d54e>  </all-the-datasets-you-need-to-practice-data-science-skills-and-make-a-great-portfolio-74f2eb53b38a>  <https://pub.towardsai.net/a-complete-guide-to-confidence-interval-t-test-and-z-test-in-r-for-data-scientists-cd16dd2d0eec> *

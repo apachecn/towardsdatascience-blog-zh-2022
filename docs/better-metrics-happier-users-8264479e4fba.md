@@ -231,7 +231,7 @@
 
 ***这只是开始！如果你喜欢这篇文章，请关注我以获得下一篇文章的通知！我感谢❤️的支持***
 
-***[](https://medium.com/@brandenlisk) *** 
+***<https://medium.com/@brandenlisk> *** 
 
 ## ***来源***
 

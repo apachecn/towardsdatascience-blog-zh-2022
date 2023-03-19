@@ -126,7 +126,7 @@
 
 > 化学工程师负责设计、建造和操作生产化学品的工厂。他们必须确保工厂安全高效地运行，同时符合环境法规。
 
-[](https://pub.towardsai.net/six-months-later-what-data-science-hopefully-learned-from-facebooks-whistleblower-fe8049e5cac3)  
+<https://pub.towardsai.net/six-months-later-what-data-science-hopefully-learned-from-facebooks-whistleblower-fe8049e5cac3>  
 
 # 数学老师
 
@@ -150,7 +150,7 @@
 
 然而，这种人工智能的实现，与其他人工智能的实现不同，似乎有可能受到社会系统性偏见和成见的影响。
 
-[](https://medium.com/the-faculty/reading-list-on-bias-in-ai-ml-data-science-4ccdc93f6219)  
+<https://medium.com/the-faculty/reading-list-on-bias-in-ai-ml-data-science-4ccdc93f6219>  
 
 # 感谢阅读
 

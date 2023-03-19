@@ -178,4 +178,4 @@ dbt build -s +tag:revenue --exclude tag:unit_testing
 
 ## 参考
 
-[](https://medium.com/slalom-build/the-challenge-of-testing-data-pipelines-4450744a84f1)  [](https://github.com/EqualExperts/dbt-unit-testing) 
+<https://medium.com/slalom-build/the-challenge-of-testing-data-pipelines-4450744a84f1>  <https://github.com/EqualExperts/dbt-unit-testing> 

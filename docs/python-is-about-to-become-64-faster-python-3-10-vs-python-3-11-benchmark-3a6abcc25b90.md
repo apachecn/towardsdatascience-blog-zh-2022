@@ -104,7 +104,7 @@ pyperf compare_to py310.json py311.json --table
 
 *喜欢这篇文章吗？成为* [*中等会员*](https://medium.com/@radecicdario/membership) *继续无限制学习。如果你使用下面的链接，我会收到你的一部分会员费，不需要你额外付费。*
 
-[](https://medium.com/@radecicdario/membership)  
+<https://medium.com/@radecicdario/membership>  
 
 ## 推荐阅读
 
@@ -118,4 +118,4 @@ pyperf compare_to py310.json py311.json --table
 *   在 YouTube[上订阅](https://www.youtube.com/c/BetterDataScience)
 *   在 [LinkedIn](https://www.linkedin.com/in/darioradecic/) 上连接
 
-*原载于 2022 年 4 月 28 日 https://betterdatascience.com*[](https://betterdatascience.com/python-310-vs-python-311/)**。**
+*原载于 2022 年 4 月 28 日 https://betterdatascience.com*<https://betterdatascience.com/python-310-vs-python-311/>**。**

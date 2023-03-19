@@ -260,4 +260,4 @@ $ source project-after/bic/activate
 
 # *资源*
 
- ** *[](https://pypi.org/)  [](https://github.com/nyggus/makepackage)  [](https://github.com/nyggus/perftester)  [](https://pypi.org/project/virtualenv/)    [](https://github.com/cookiecutter/cookiecutter)      [](https://github.com/jazzband/pip-tools) *
+ ** *<https://pypi.org/>  <https://github.com/nyggus/makepackage>  <https://github.com/nyggus/perftester>  <https://pypi.org/project/virtualenv/>    <https://github.com/cookiecutter/cookiecutter>      <https://github.com/jazzband/pip-tools> *

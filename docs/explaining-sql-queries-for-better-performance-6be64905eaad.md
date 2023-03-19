@@ -55,4 +55,4 @@
 
 如果你觉得我的文章有用，请订阅并查看我的文章🌲 [**Linktree**](linktree.com/kovid) 。你也可以考虑用我的推荐链接购买一个中级会员来支持我。
 
-[](https://kovidrathee.medium.com/membership) 
+<https://kovidrathee.medium.com/membership> 

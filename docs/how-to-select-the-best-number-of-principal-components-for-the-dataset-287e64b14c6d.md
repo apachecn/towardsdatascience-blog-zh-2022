@@ -170,35 +170,35 @@ pca_2 = PCA(**n_components=k**)
 
 了解主成分分析(PCA)的幕后工作原理。
 
-[](https://rukshanpramoditha.medium.com/eigendecomposition-of-a-covariance-matrix-with-numpy-c953334c965d)  
+<https://rukshanpramoditha.medium.com/eigendecomposition-of-a-covariance-matrix-with-numpy-c953334c965d>  
 
 一站式解决您关于 PCA 的大部分问题。
 
-[](https://rukshanpramoditha.medium.com/principal-component-analysis-18-questions-answered-4abd72041ccd)  
+<https://rukshanpramoditha.medium.com/principal-component-analysis-18-questions-answered-4abd72041ccd>  
 
 主成分分析在降维中的应用。
 
-[](/rgb-color-image-compression-using-principal-component-analysis-fce3f48dfdd0)  
+</rgb-color-image-compression-using-principal-component-analysis-fce3f48dfdd0>  
 
 整个 ML 都是降维及其应用。让我们看看他们的行动吧！
 
-[](/11-different-uses-of-dimensionality-reduction-4325d62b4fa6)  
+</11-different-uses-of-dimensionality-reduction-4325d62b4fa6>  
 
 了解参数和超参数之间的区别。
 
-[](https://rukshanpramoditha.medium.com/parameters-vs-hyperparameters-what-is-the-difference-5f40e16e2e82)  
+<https://rukshanpramoditha.medium.com/parameters-vs-hyperparameters-what-is-the-difference-5f40e16e2e82>  
 
 ## 成为会员
 
 如果你愿意的话，你可以注册成为会员，以获得我写的每一个故事的全部信息，我会收到你的一部分会员费。
 
-[](https://rukshanpramoditha.medium.com/membership)  
+<https://rukshanpramoditha.medium.com/membership>  
 
 ## 订阅我的电子邮件列表
 
 订阅我的电子邮件列表，再也不会错过精彩的故事了。我一点击发布按钮，你就会在收件箱里收到每一篇文章。
 
-[](https://rukshanpramoditha.medium.com/subscribe)  
+<https://rukshanpramoditha.medium.com/subscribe>  
 
 撰写人[鲁克山·普拉莫蒂塔](https://medium.com/u/f90a3bb1d400?source=post_page-----287e64b14c6d--------------------------------)
 **2022–04–24**

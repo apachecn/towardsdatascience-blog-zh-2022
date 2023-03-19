@@ -105,7 +105,7 @@ BPM——再次参考[篮球参考](https://www.basketball-reference.com/about/b
 
 体育作家重新起草比较:
 
-[](https://fadeawayworld.net/nba/re-drafting-the-2015-nba-draft-class-karl-anthony-towns-devin-booker-kristaps-porzingis)  
+<https://fadeawayworld.net/nba/re-drafting-the-2015-nba-draft-class-karl-anthony-towns-devin-booker-kristaps-porzingis>  
 
 # **2016 NBA 选秀**
 
@@ -119,7 +119,7 @@ BPM——再次参考[篮球参考](https://www.basketball-reference.com/about/b
 
 体育作家重新起草比较:
 
-[](https://www.yardbarker.com/nba/articles/redrafting_the_2016_nba_draft/s1__33314207)  
+<https://www.yardbarker.com/nba/articles/redrafting_the_2016_nba_draft/s1__33314207>  
 
 # **2017 NBA 选秀**
 
@@ -133,7 +133,7 @@ BPM——再次参考[篮球参考](https://www.basketball-reference.com/about/b
 
 体育作家重新起草比较:
 
-[](https://bleacherreport.com/articles/2890076-re-drafting-the-2017-nba-draft-class)  
+<https://bleacherreport.com/articles/2890076-re-drafting-the-2017-nba-draft-class>  
 
 # **2018 NBA 选秀**
 
@@ -145,7 +145,7 @@ BPM——再次参考[篮球参考](https://www.basketball-reference.com/about/b
 
 体育作家重新起草比较:
 
-[](https://hoopshabit.com/2021/08/18/nba-draft-luka-doncic-rises-2018-redraft/)  
+<https://hoopshabit.com/2021/08/18/nba-draft-luka-doncic-rises-2018-redraft/>  
 
 # **2019 NBA 选秀**
 
@@ -157,7 +157,7 @@ BPM——再次参考[篮球参考](https://www.basketball-reference.com/about/b
 
 体育作家重新起草比较:
 
-[](https://bleacherreport.com/articles/2931305-2019-nba-re-draft-where-do-zion-ja-morant-and-the-rest-of-the-class-land)  
+<https://bleacherreport.com/articles/2931305-2019-nba-re-draft-where-do-zion-ja-morant-and-the-rest-of-the-class-land>  
 
 # 结论
 

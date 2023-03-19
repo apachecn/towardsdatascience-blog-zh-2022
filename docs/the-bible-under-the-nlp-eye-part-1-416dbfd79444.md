@@ -186,6 +186,6 @@ from scipy.stats import norm
 
 *通过我的推荐链接加入 Medium，支持我的写作和项目:*
 
-[](https://stefanobosisio1.medium.com/membership)  
+<https://stefanobosisio1.medium.com/membership>  
 
 *如果有任何问题或意见，请随时给我发电子邮件:stefanobosisio1@gmail.com 或直接在 Medium 这里。*

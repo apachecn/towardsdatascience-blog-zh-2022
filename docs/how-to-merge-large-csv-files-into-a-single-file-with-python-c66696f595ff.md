@@ -150,7 +150,7 @@ os.listdir(path)**Output:**['sales_records_full.csv',
 
 # 你可能也喜欢
 
-[](/10-algorithms-to-solve-before-your-python-coding-interview-feb74fb9bc27)  [](/3-ways-to-compute-a-weighted-average-in-python-4e066de7a719)  [](/3-ways-to-iterate-over-python-dictionaries-using-for-loops-14e789992ce5)  
+</10-algorithms-to-solve-before-your-python-coding-interview-feb74fb9bc27>  </3-ways-to-compute-a-weighted-average-in-python-4e066de7a719>  </3-ways-to-iterate-over-python-dictionaries-using-for-loops-14e789992ce5>  
 
 # 给我的读者一个提示
 

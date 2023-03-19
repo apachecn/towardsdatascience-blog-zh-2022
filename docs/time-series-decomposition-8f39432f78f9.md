@@ -22,7 +22,7 @@
 
 [**季节性**](https://en.wikipedia.org/wiki/Seasonality) **:** 序列中任何有规律的季节性模式。例如，冰淇淋的销量在夏季通常高于冬季。要了解更多关于季节性的知识，请查看我的上一篇文章:
 
-[](/seasonality-of-time-series-5b45b4809acd)  
+</seasonality-of-time-series-5b45b4809acd>  
 
 [**残差/余数**](https://otexts.com/fpp3/residuals.html) **:** 这是我们考虑了趋势和季节性之后剩下的那一点。也可以认为只是 [**统计噪声**](https://www.statisticshowto.com/statistical-noise/) 。
 
@@ -56,11 +56,11 @@
 
 要了解关于 Box-Cox 变换的更多信息，您可以阅读我以前的一篇文章:
 
-[](/box-cox-transform-for-time-series-cc45f26082c6)  
+</box-cox-transform-for-time-series-cc45f26082c6>  
 
 # 分解是怎么做的？
 
-有多种算法和方法可以将时间序列分解为三个部分。我想回顾一下经典的[](https://www.openforecast.org/adam/classical-seasonal-decomposition.html)**方法，因为这种方法经常使用并且非常直观。**
+有多种算法和方法可以将时间序列分解为三个部分。我想回顾一下经典的<https://www.openforecast.org/adam/classical-seasonal-decomposition.html>**方法，因为这种方法经常使用并且非常直观。**
 
 *   **使用[移动/滚动平均值](https://www.investopedia.com/terms/m/movingaverage.asp)计算趋势分量**、 *T、*、**。**
 *   **去趋势系列， ***Y-T*** 为加法模型， ***Y/T*** 为乘法模型。**
@@ -109,7 +109,7 @@
 
 *****这篇文章中使用的完整代码可以在我的 GitHub 中找到:*****
 
-*****[](https://github.com/egorhowell/Medium-Articles/blob/main/Time%20Series/Time%20Series%20Tools/decomposition.py)  
+*****<https://github.com/egorhowell/Medium-Articles/blob/main/Time%20Series/Time%20Series%20Tools/decomposition.py>  
 
 # 参考资料和进一步阅读
 
@@ -122,6 +122,6 @@
 *   [*领英*](https://www.linkedin.com/in/egor-howell-092a721b3/) 👔
 *   [*碎碎念*](https://twitter.com/EgorHowell) 🖊
 *   [*github*](https://github.com/egorhowell)*🖥*
-*   *[](https://www.kaggle.com/egorphysics)**🏅***
+*   *<https://www.kaggle.com/egorphysics>**🏅***
 
 > ***(所有表情符号由 [OpenMoji](https://openmoji.org/) 设计——开源表情符号和图标项目。许可证: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)********

@@ -10,7 +10,7 @@
 
 *通过我的推荐链接加入 Medium 来支持我的写作和项目:*
 
-[](https://stefanobosisio1.medium.com/membership)  
+<https://stefanobosisio1.medium.com/membership>  
 
 **为什么要关心神经科学？**
 

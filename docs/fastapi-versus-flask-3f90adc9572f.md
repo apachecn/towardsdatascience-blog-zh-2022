@@ -36,7 +36,7 @@
 
 让我们回顾一下我早期的一个项目，并带着 FastAPI 和那个用例做一个简短的介绍。
 
-[](/semantic-highlighting-d2fba3da2822)  
+</semantic-highlighting-d2fba3da2822>  
 
 语义突出是我当前项目的一部分，利用 NLP 服务帮助人们处理他们的[简历和求职](https://medium.com/p/90e6aed661a3)。用于 spin 的 [Github 库](https://github.com/CognitiveDave/semantic)包含了这两种方法。原始的[烧瓶](https://github.com/CognitiveDave/semantic/blob/master/backend.py)方法和新的 [FastAPI](https://github.com/CognitiveDave/semantic/blob/master/main.py) 工艺。
 
@@ -99,7 +99,7 @@ Swagger UI 界面来自/docs —图片由作者提供。
 *   异步ˌ非同步(asynchronous)
 *   等待
 
-[](https://medium.com/technofunnel/javascript-async-await-c83b15950a71)  [](https://ai.plainenglish.io/django-async-vs-fastapi-vs-wsgi-django-choice-of-ml-dl-inference-servers-answering-some-burning-e6a354bf272a)  
+<https://medium.com/technofunnel/javascript-async-await-c83b15950a71>  <https://ai.plainenglish.io/django-async-vs-fastapi-vs-wsgi-django-choice-of-ml-dl-inference-servers-answering-some-burning-e6a354bf272a>  
 
 在我的上下文中，我正在设计一个处理文本文档的应用程序，包括对 NLP 例程的调用，并且需要为我的用户保持快速的响应时间。长时间运行的文本处理程序会挂起前端，并很快疏远我的用户。所以现在，有了 FastAPI，我可以利用 JavaScript 的 Express 服务器的优势和 Python 库的机器学习优势，而不会对我的最终用户造成重大影响。
 
@@ -109,4 +109,4 @@ Swagger UI 界面来自/docs —图片由作者提供。
 
 照片由[雅各布·欧文斯](https://unsplash.com/@jakobowens1?utm_source=medium&utm_medium=referral)在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
-[](https://cognitivedave.medium.com/membership) 
+<https://cognitivedave.medium.com/membership> 

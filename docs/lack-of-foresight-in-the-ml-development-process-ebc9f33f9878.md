@@ -110,7 +110,7 @@ Y 您已经收集并准备了数据，设计了出色的特性，训练、评估
 
 这只是开始！如果你喜欢这篇文章，请关注我以获得下一篇文章的通知！我感谢❤️的支持
 
-[](https://medium.com/@brandenlisk)  
+<https://medium.com/@brandenlisk>  
 
 **来源**
 

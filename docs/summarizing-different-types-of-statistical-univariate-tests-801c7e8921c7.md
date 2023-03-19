@@ -102,10 +102,10 @@
 
 你可以在这里找到我以前的帖子:
 
-[](/binominal-distribution-what-analysts-should-have-known-95e6a0b56129)  [](/simple-explanations-of-basic-statistics-concepts-part-1-bba66a1761d7)  
+</binominal-distribution-what-analysts-should-have-known-95e6a0b56129>  </simple-explanations-of-basic-statistics-concepts-part-1-bba66a1761d7>  
 
 ## **参考**
 
-[](https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/parametric-and-non-parametric-data/)  
+<https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/parametric-and-non-parametric-data/>  
 
 [https://www . Wiley . com/en-us/Methods+of+variable+Analysis % 2C+2nd+Edition-p-9780471461722](https://www.wiley.com/en-us/Methods+of+Multivariate+Analysis%2C+2nd+Edition-p-9780471461722)

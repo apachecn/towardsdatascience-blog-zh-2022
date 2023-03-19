@@ -57,7 +57,7 @@
 
 **喜欢这个故事吗？需要编码帮助？请考虑成为赞助人！**
 
-[](https://www.patreon.com/user/membership?u=78117613) [## 阿尔斯兰·沙希德|帕特里翁
+<https://www.patreon.com/user/membership?u=78117613> [## 阿尔斯兰·沙希德|帕特里翁
 
 www.patreon.com](https://www.patreon.com/user/membership?u=78117613) 
 

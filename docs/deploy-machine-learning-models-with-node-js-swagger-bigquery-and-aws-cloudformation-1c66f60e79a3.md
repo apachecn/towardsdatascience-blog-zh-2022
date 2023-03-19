@@ -220,4 +220,4 @@ https://aws.amazon.com/cli/
 
 [6]:[https://docs . AWS . Amazon . com/AmazonECS/latest/developer guide/launch _ container _ instance . html](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/launch_container_instance.html)
 
-*原载于 https://mydataschool.com*[](https://mydataschool.com/blog/deploy-ml-model-with-swagger-bigquery-and-node-js/)**。**
+*原载于 https://mydataschool.com*<https://mydataschool.com/blog/deploy-ml-model-with-swagger-bigquery-and-node-js/>**。**

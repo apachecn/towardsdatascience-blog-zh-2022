@@ -24,7 +24,7 @@
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex)  
+<https://alphasignal.ai/?referrer=Bex>  
 
 # 高效索引
 
@@ -72,7 +72,7 @@
 
 `replace`还有其他好处，包括基于正则表达式的替换，这可以在[文档](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.replace.html)中读到。
 
-[](https://ibexorigin.medium.com/membership)  
+<https://ibexorigin.medium.com/membership>  
 
 # 高效迭代
 
@@ -104,7 +104,7 @@
 
 大约 9gb，这应该足够了。哦，顺便说一下，如果这种规模的数据集对你来说是一个问题，请查看我关于驯服这些野兽的文章:
 
-[](/how-to-work-with-million-row-datasets-like-a-pro-76fb5c381cdd)  
+</how-to-work-with-million-row-datasets-like-a-pro-76fb5c381cdd>  
 
 现在，我们将继续使用我们的`crazy_function`，从 NumPy 矢量化作为基线开始:
 
@@ -132,4 +132,4 @@
 
 我们讨论的大部分内容摘自 Pandas 文档中信息丰富的 [*提高速度*](https://pandas.pydata.org/pandas-docs/stable/user_guide/enhancingperf.html) 部分。我们已经涵盖了最重要和最有效的方法，忽略了小细节。我强烈建议你通过它来获得更多的速度提示。
 
-[](https://ibexorigin.medium.com/membership)  [](https://ibexorigin.medium.com/subscribe)  [](/a-complete-shap-tutorial-how-to-explain-any-black-box-ml-model-in-python-7538d11fae94)  [](/3-step-feature-selection-guide-in-sklearn-to-superchage-your-models-e994aa50c6d2)  [](/how-to-use-umap-for-much-faster-and-effective-outlier-detection-e4608f336915) 
+<https://ibexorigin.medium.com/membership>  <https://ibexorigin.medium.com/subscribe>  </a-complete-shap-tutorial-how-to-explain-any-black-box-ml-model-in-python-7538d11fae94>  </3-step-feature-selection-guide-in-sklearn-to-superchage-your-models-e994aa50c6d2>  </how-to-use-umap-for-much-faster-and-effective-outlier-detection-e4608f336915> 

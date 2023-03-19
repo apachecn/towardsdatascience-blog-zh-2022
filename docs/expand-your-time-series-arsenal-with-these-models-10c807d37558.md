@@ -351,4 +351,4 @@ f**.**export_backtest_metrics('stacking')
 
 这篇文章介绍了几种用于预测的建模概念，包括线性方法(MLR、Lasso、Ridge)、树集合(Random Forest、XGBoost、LightGBM)、装袋和堆叠。通过提高应用于它的非线性方法的复杂性，并使用巧妙的采样方法，我们在一个有大约 400 个观察值的测试集上获得了 10%的测试集 MAPE 分数。我希望这个例子能够激发你自己的一些想法，我很感谢你的参与！如果你觉得这个概述有帮助，在 GitHub 上给 scalecast 包打个星吧。
 
-[](https://github.com/mikekeith52/scalecast) 
+<https://github.com/mikekeith52/scalecast> 

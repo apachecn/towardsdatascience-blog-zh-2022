@@ -10,7 +10,7 @@
 
 在我的上一篇文章中，我谈到了新的 DataFrame 库，它的速度比熊猫还要快。
 
-[](/getting-started-with-the-polars-dataframe-library-6f9e1c014c5c)  
+</getting-started-with-the-polars-dataframe-library-6f9e1c014c5c>  
 
 随之而来的一个很自然的问题是:*可视化*怎么样？Polars 内置可视化功能吗？因此，在本文中，我将向您展示如何使用 Polars DataFrame 进行可视化。
 
@@ -352,7 +352,7 @@ import polars as pldef age_group(x):
 )
 ```
 
-[](https://weimenglee.medium.com/membership)  
+<https://weimenglee.medium.com/membership>  
 
 > 我将在即将到来的新加坡 ML 会议(2022 年 11 月 22-24 日)上主持一个关于 Polars 的研讨会。如果你想在 Polars 数据框架上快速起步，请在[https://ml conference . ai/machine-learning-advanced-development/using-Polars-for-data-analytics-workshop/](https://mlconference.ai/machine-learning-advanced-development/using-polars-for-data-analytics-workshop/)上注册我的研讨会。
 

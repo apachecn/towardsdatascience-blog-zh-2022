@@ -116,7 +116,7 @@ evaluate_metrics(data, num_outliers = 2, amplitude_outliers = 10)
 
 查看本文的 github 资源库:
 
-[](https://github.com/vinyluis/Articles/tree/main/Comparing%20robustness%20of%20MAE%20MSE%20and%20RMSE)  
+<https://github.com/vinyluis/Articles/tree/main/Comparing%20robustness%20of%20MAE%20MSE%20and%20RMSE>  
 
 # 如果你喜欢这个帖子…
 
@@ -128,4 +128,4 @@ evaluate_metrics(data, num_outliers = 2, amplitude_outliers = 10)
 
 看看这个很棒的帖子
 
-[](/5-tips-to-start-a-career-in-data-211ad15a7ca8) 
+</5-tips-to-start-a-career-in-data-211ad15a7ca8> 

@@ -194,8 +194,8 @@
 
 **[**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。****
 
-**[](https://gmyrianthous.medium.com/membership) ** 
+**<https://gmyrianthous.medium.com/membership> ** 
 
 ****相关文章你可能也喜欢****
 
-**[](/python-linked-lists-c3622205da81) ** **[](/multithreading-multiprocessing-python-180d0975ab29) ** **[](/augmented-assignments-python-caa4990811a0) **
+**</python-linked-lists-c3622205da81> ** **</multithreading-multiprocessing-python-180d0975ab29> ** **</augmented-assignments-python-caa4990811a0> **

@@ -77,10 +77,10 @@ numba 的另一个方法是 `vectorize`，这使得创建 numpy 通用函数( [u
 
 如果你对让熊猫跑得更快的更多方法感兴趣，看看我们关于 `eval` & `query`的文章:
 
-[](https://python.plainenglish.io/these-methods-will-change-how-you-use-pandas-921e4669271f)  
+<https://python.plainenglish.io/these-methods-will-change-how-you-use-pandas-921e4669271f>  
 
 谢谢你坚持到现在。注意安全，在接下来的故事中再见😊！
 
 # 更多文章阅读
 
-[](/rapidly-explore-jupyter-notebooks-right-in-your-terminal-67598d2265c2)  [](/equivalents-between-pandas-and-pyspark-c8b5ba57dc1d)  [](/8-tips-to-write-cleaner-code-376f7232652c)  [](/how-to-easily-merge-multiple-jupyter-notebooks-into-one-e464a22d2dc4) 
+</rapidly-explore-jupyter-notebooks-right-in-your-terminal-67598d2265c2>  </equivalents-between-pandas-and-pyspark-c8b5ba57dc1d>  </8-tips-to-write-cleaner-code-376f7232652c>  </how-to-easily-merge-multiple-jupyter-notebooks-into-one-e464a22d2dc4> 

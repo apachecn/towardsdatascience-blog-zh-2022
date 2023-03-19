@@ -56,7 +56,7 @@ TargetGroupBinding 是 AWS 管理的 Kubernetes 中[目标组](https://docs.aws.
 
 你可以通过下面的链接阅读我上一篇文章中的讨论，或者阅读参考指南来理解设计和配置。
 
-[](/how-to-set-up-ingress-controller-in-aws-eks-d745d9107307)  
+</how-to-set-up-ingress-controller-in-aws-eks-d745d9107307>  
 
 既然我们已经介绍了基础知识和先决条件，现在是时候谈谈控制器和 CRD 了，这就是你想要如何配置你的 [AWS 负载平衡器](https://aws.amazon.com/elasticloadbalancing/)。
 
@@ -218,4 +218,4 @@ Kubernetes 是与云无关的，允许您将数据库、缓存、消息代理和
 
 如果你喜欢这篇文章，看看我的其他内容，你可能也会觉得有帮助。
 
-[](https://medium.com/skilluped/what-is-iptables-and-how-to-use-it-781818422e52)  [](https://medium.com/amerandish/clean-architecture-simplified-223f45e1a10)  [](https://medium.com/amerandish/a-tmux-a-beginners-guide-7c129733148)  [](https://medium.com/skilluped/10-tips-on-writing-a-proper-dockerfile-13956ceb435f)  [](https://meysam.io/what-is-haproxy-how-to-get-the-most-from-of-it-a9009b67f618) 
+<https://medium.com/skilluped/what-is-iptables-and-how-to-use-it-781818422e52>  <https://medium.com/amerandish/clean-architecture-simplified-223f45e1a10>  <https://medium.com/amerandish/a-tmux-a-beginners-guide-7c129733148>  <https://medium.com/skilluped/10-tips-on-writing-a-proper-dockerfile-13956ceb435f>  <https://meysam.io/what-is-haproxy-how-to-get-the-most-from-of-it-a9009b67f618> 

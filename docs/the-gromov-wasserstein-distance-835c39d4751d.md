@@ -32,7 +32,7 @@
 
 图一。由作者创建
 
-[](/manifold-alignment-c67fc3fc1a1c)  
+</manifold-alignment-c67fc3fc1a1c>  
 
 让我们再定义几个术语:
 

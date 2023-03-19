@@ -183,8 +183,8 @@ GRU 和 LSTM 不仅在建筑上相似，而且在预测能力上也相似。因�
 
 ***如果你已经花光了这个月的学习预算，下次请记得我。*** *我的个性化链接加入媒介:*
 
-[](https://solclover.com/membership)  
+<https://solclover.com/membership>  
 
 您可能感兴趣的其他文章:
 
-[](/rnn-recurrent-neural-networks-how-to-successfully-model-sequential-data-in-python-5a0b9e494f92)  [](/feed-forward-neural-networks-how-to-successfully-build-them-in-python-74503409d99a)  [](/deep-feed-forward-neural-networks-and-the-advantage-of-relu-activation-function-ff881e58a635) 
+</rnn-recurrent-neural-networks-how-to-successfully-model-sequential-data-in-python-5a0b9e494f92>  </feed-forward-neural-networks-how-to-successfully-build-them-in-python-74503409d99a>  </deep-feed-forward-neural-networks-and-the-advantage-of-relu-activation-function-ff881e58a635> 

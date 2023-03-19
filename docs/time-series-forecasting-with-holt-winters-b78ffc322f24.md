@@ -14,11 +14,11 @@
 
 最基本的指数平滑模型是(有趣的是)*简单指数平滑*也被称为*单一指数平滑。*该模型只是预测时间序列的水平，没有考虑[趋势](https://medium.com/towards-data-science/time-series-stationarity-simply-explained-125269968154)或[季节性](https://medium.com/towards-data-science/seasonality-of-time-series-5b45b4809acd)。要了解这个模型的更多信息，请查看我之前的帖子:
 
-[](/forecasting-with-simple-exponential-smoothing-dd8f8470a14c)  
+</forecasting-with-simple-exponential-smoothing-dd8f8470a14c>  
 
 这个简单模型的下一步是*霍尔特的线性趋势方法*，也称为*双指数平滑。*顾名思义，这款车型融合了潮流和水平。如果你想了解更多关于霍尔特的方法，请参考这里:
 
-[](/forecasting-with-holts-linear-trend-exponential-smoothing-af2aa4590c18)  
+</forecasting-with-holts-linear-trend-exponential-smoothing-af2aa4590c18>  
 
 最后，霍尔特方法的下一步是找到一种将季节性纳入指数平滑模型的方法。这就是 [*霍尔特·温特斯*](https://en.wikipedia.org/wiki/Exponential_smoothing#Triple_exponential_smoothing_(Holt_Winters)) *(三重指数平滑)*的用武之地！
 
@@ -64,7 +64,7 @@
 
 *两个模型的区别在于季节性波动的大小。对于加性模型，季节性波动通常是恒定的。然而，对于乘法模型，波动与给定时间的时间序列值成比例。要了解更多关于加法和乘法时间序列模型的信息，请查看我之前的博文:*
 
-*[](/time-series-decomposition-8f39432f78f9)  
+*</time-series-decomposition-8f39432f78f9>  
 
 现在让我们回顾一下霍尔特·温特斯两个模型的[方程](https://otexts.com/fpp3/holt-winters.html):
 
@@ -78,7 +78,7 @@
 
 如果你想了解更多关于季节性的知识，请点击这里查看我之前的博文:
 
-[](/seasonality-of-time-series-5b45b4809acd)  
+</seasonality-of-time-series-5b45b4809acd>  
 
 **乘法:**
 
@@ -126,7 +126,7 @@ print(model_holt_winters.summary())
 
 本文中使用的全部代码可以从我的 GitHub 获得，网址是:
 
-[](https://github.com/egorhowell/Medium-Articles/blob/main/Time%20Series/Exponential%20Smoothing/holt_winters.py)  
+<https://github.com/egorhowell/Medium-Articles/blob/main/Time%20Series/Exponential%20Smoothing/holt_winters.py>  
 
 # 参考资料和进一步阅读
 
@@ -141,6 +141,6 @@ print(model_holt_winters.summary())
 *   [*LinkedIn*](https://www.linkedin.com/in/egor-howell-092a721b3/)*👔*
 *   *[*推特*](https://twitter.com/EgorHowell) 🖊*
 *   *[*github*](https://github.com/egorhowell)*🖥**
-*   **[](https://www.kaggle.com/egorphysics)**🏅****
+*   **<https://www.kaggle.com/egorphysics>**🏅****
 
 > ***(所有表情符号都是由 [OpenMoji](https://openmoji.org/) 设计的——开源的表情符号和图标项目。执照: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)****

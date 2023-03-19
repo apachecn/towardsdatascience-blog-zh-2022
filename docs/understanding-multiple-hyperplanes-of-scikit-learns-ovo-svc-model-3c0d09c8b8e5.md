@@ -10,7 +10,7 @@
 
 在我最近的文章中，我向你展示了如何为一个**二元分类问题**解释一个拟合的 SVC 模型的`coef_`和`intercept_`属性，以及如何绘制决策平面。如果你还没有读过，我建议你在读这篇文章之前先看看。以下是它的链接:
 
-[](/understanding-the-hyperplane-of-scikit-learns-svc-model-f8515a109222)  
+</understanding-the-hyperplane-of-scikit-learns-svc-model-f8515a109222>  
 
 **注意:** *因为上一篇文章围绕着一个二元分类问题，所以它基本上是我们使用的一个 SVM。在这篇文章中，我们实际上使用了一个 SVC，我们将利用 SVC 的力量。SVM 和支持向量机之间的主要区别在于，支持向量机本质上只是多个支持向量机的组合，因此允许我们使用多个超平面来分类多个类别。*
 
@@ -193,4 +193,4 @@ print(clf.predict(new_point))>> **['blue']*****
 
 ***如果你是一个渴望更多的好奇的开发者，那么下面这些帖子可能也会让你感兴趣:***
 
-***[](https://betterprogramming.pub/what-is-up-with-the-numbers-in-python-26d8d36e129b)  [](/how-to-use-an-autoregressive-ar-model-for-time-series-analysis-bb12b7831024) ***
+***<https://betterprogramming.pub/what-is-up-with-the-numbers-in-python-26d8d36e129b>  </how-to-use-an-autoregressive-ar-model-for-time-series-analysis-bb12b7831024> ***

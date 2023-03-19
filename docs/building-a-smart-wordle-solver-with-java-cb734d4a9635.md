@@ -239,4 +239,4 @@ Wordle 是 Josh Wardle 最近在 2021 年 10 月创作的视频游戏，用户�
 
 **可以找到完整的 ***。java*** 文件和包含所有 Python 代码的 Colab 笔记本放在下面的 ***GitHub*** 资源库中:**
 
-**[](https://github.com/cardstdani/practica-java) **
+**<https://github.com/cardstdani/practica-java> **

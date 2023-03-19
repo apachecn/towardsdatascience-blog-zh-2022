@@ -52,7 +52,7 @@
 
 使用 HTTP 处理程序将您的日志发送到一个 API 让您的日志立即到达需要它们的地方。您可以创建一个 API 来监视所有传入的日志(来自各种应用程序),并在需要时通知您。这也是在你的应用上收集用户统计数据的好方法。
 
-[](/create-a-fast-auto-documented-maintainable-and-easy-to-use-python-api-in-5-lines-of-code-with-4e574c00f70e)  
+</create-a-fast-auto-documented-maintainable-and-easy-to-use-python-api-in-5-lines-of-code-with-4e574c00f70e>  
 
 # 实例—代码部分
 
@@ -92,7 +92,7 @@
 
 *设置 logging.basicConfig 的级别后，您可以使用`logger.setLevel(level=logging.ERROR)`动态设置您的记录器的级别。*
 
-*[](/cython-for-absolute-beginners-30x-faster-code-in-two-simple-steps-bbb6c10d06ad) * 
+*</cython-for-absolute-beginners-30x-faster-code-in-two-simple-steps-bbb6c10d06ad> * 
 
 ## *设置字段*
 
@@ -126,7 +126,7 @@
 
 *添加`exc_info=True`会将堆栈跟踪放入我们的日志消息中，并为我们提供更多关于导致我们错误的原因的信息。在下面的文章中，我们将看到，我们可以将这个堆栈跟踪写到一个文件中，甚至可以将它发送到一个 API，以便将它存储在一个数据库中，或者对它做任何事情。*
 
-*[](/a-complete-guide-to-using-environment-variables-and-files-with-docker-and-compose-4549c21dc6af) * 
+*</a-complete-guide-to-using-environment-variables-and-files-with-docker-and-compose-4549c21dc6af> * 
 
 # *结论*
 
@@ -150,4 +150,4 @@
 
 *附注:喜欢我正在做的事吗？ [*跟我来！*](https://mikehuls.medium.com/membership)*
 
-*[](https://mikehuls.medium.com/membership) *
+*<https://mikehuls.medium.com/membership> *

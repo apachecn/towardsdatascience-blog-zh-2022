@@ -156,4 +156,4 @@
 
 **【3】**吕特克波尔，赫尔穆特。多重时间序列分析的新介绍。斯普林格科学&商业媒体，2005。
 
-*原载于 2022 年 8 月 25 日 https://www.sarem-seitz.com*[](https://www.sarem-seitz.com/cointegrated-time-series-and-when-difference-transformations-might-be-bad/)**。**
+*原载于 2022 年 8 月 25 日 https://www.sarem-seitz.com*<https://www.sarem-seitz.com/cointegrated-time-series-and-when-difference-transformations-might-be-bad/>**。**

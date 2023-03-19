@@ -55,7 +55,7 @@ class BreadNButter(Pickle):
 
 如果你想学习更多关于 Python 中继承和类型的知识，我也有一整篇关于这个主题的文章，你可以在这里阅读:
 
-[](/everything-you-need-to-know-about-type-inheritance-in-python-2e173277ff22)  
+</everything-you-need-to-know-about-type-inheritance-in-python-2e173277ff22>  
 
 这两种实现实现了相似的目标。我们不必多次编写方法，因为它们被带入我们的新类或通过多次分派来分派。然而，这两种方法都有一些区别和优点。
 

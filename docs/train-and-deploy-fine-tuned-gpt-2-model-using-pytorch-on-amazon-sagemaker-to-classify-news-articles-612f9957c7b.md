@@ -149,7 +149,7 @@ docker container run -p 8501:8501 -d streamlit:gpt2-news-classifier-app
 
 所有的源代码都可以在这个 Github 回购中找到:[https://github.com/haocai1992/GPT2-News-Classifier](https://github.com/haocai1992/GPT2-News-Classifier)
 
-[](https://github.com/haocai1992/GPT2-News-Classifier)  
+<https://github.com/haocai1992/GPT2-News-Classifier>  
 
 # 9.参考
 

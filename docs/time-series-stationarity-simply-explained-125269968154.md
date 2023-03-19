@@ -144,7 +144,7 @@ Critical Values:
 
 **本文中生成数据、图表和 ADF 测试的完整代码可在此处查看:**
 
-**[](https://github.com/egorhowell/Medium-Articles/blob/main/Time%20Series/Time%20Series%20Tools/stationary.py)  
+**<https://github.com/egorhowell/Medium-Articles/blob/main/Time%20Series/Time%20Series%20Tools/stationary.py>  
 
 # 参考资料和进一步阅读
 
@@ -155,10 +155,10 @@ Critical Values:
 # 和我联系！
 
 *   要在媒体上阅读无限的故事，请务必在此注册！ 💜
-*   [](/subscribe/@egorhowell)😀
+*   </subscribe/@egorhowell>😀
 *   [*领英*](https://www.linkedin.com/in/egor-howell-092a721b3/) 👔
 *   [*碎碎念*](https://twitter.com/EgorHowell) 🖊
 *   [*github*](https://github.com/egorhowell)*🖥*
-*   *[](https://www.kaggle.com/egorphysics)**🏅***
+*   *<https://www.kaggle.com/egorphysics>**🏅***
 
 > ***(所有表情符号都是由 [OpenMoji](https://openmoji.org/) 设计的——开源的表情符号和图标项目。执照: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)*****

@@ -39,7 +39,7 @@
 
 ## 属国
 
-我们将把 YouTube 上我的美丽城市格罗宁根的实时网络摄像头放在屏幕上并录制下来，而不是看一个真实的网络摄像头。如果你想使用另一个来源，那么看看这篇文章[](https://mikehuls.medium.com/image-analysis-for-beginners-how-to-read-images-video-webcam-and-screen-3778e26760e2)**来学习如何阅读它。
+我们将把 YouTube 上我的美丽城市格罗宁根的实时网络摄像头放在屏幕上并录制下来，而不是看一个真实的网络摄像头。如果你想使用另一个来源，那么看看这篇文章<https://mikehuls.medium.com/image-analysis-for-beginners-how-to-read-images-video-webcam-and-screen-3778e26760e2>**来学习如何阅读它。
 在我们的案例中，我们需要以下进口:**
 
 ```
@@ -101,7 +101,7 @@ if (cv2.waitKey(30) == 27):
     break
 ```
 
-**在下面的 gif 中，你可以看到我们分析的最终结果。查看 YouTube 上的[](https://www.youtube.com/watch?v=q2Urd1GNGMM)**和 [**这段**](https://www.youtube.com/watch?v=jSIuji70_uk) 视频，了解更多演示。所有代码都可以在[这里](https://gist.github.com/mike-huls/372d968aa523484b8cca05844dfc8443)获得。****
+**在下面的 gif 中，你可以看到我们分析的最终结果。查看 YouTube 上的<https://www.youtube.com/watch?v=q2Urd1GNGMM>**和 [**这段**](https://www.youtube.com/watch?v=jSIuji70_uk) 视频，了解更多演示。所有代码都可以在[这里](https://gist.github.com/mike-huls/372d968aa523484b8cca05844dfc8443)获得。****
 
 ****![](img/ab300e9ce3c7b39a4a3fd71866b7cf68.png)****
 

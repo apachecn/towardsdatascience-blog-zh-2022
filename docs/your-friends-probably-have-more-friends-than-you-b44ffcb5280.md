@@ -86,7 +86,7 @@ d(v)是顶点 v 的度数。|E|是图中的边数。p(v)是选择随机朋友时
 
 ## 进一步阅读
 
-[](https://medium.com/geekculture/dont-just-learn-to-code-learn-to-build-cool-stuff-instead-7d0783d51655)  
+<https://medium.com/geekculture/dont-just-learn-to-code-learn-to-build-cool-stuff-instead-7d0783d51655>  
 
 **来源**
 

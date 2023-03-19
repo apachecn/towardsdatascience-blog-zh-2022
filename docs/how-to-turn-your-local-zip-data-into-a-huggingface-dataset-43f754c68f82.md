@@ -6,7 +6,7 @@
 
 ## 在一行代码中快速加载数据集，用于训练深度学习模型
 
-[](https://github.com/V-Sher/HF-Loading-Script)  
+<https://github.com/V-Sher/HF-Loading-Script>  
 
 # 什么是拥抱脸🤗数据集？
 

@@ -101,6 +101,6 @@
 *****来源:*****
 
 *   ***除特别注明外，所有图片均为作者所有。***
-*   **1850-2000 年的温度数据:C. P. Morice、J. J. Kennedy、N. A. Rayner、J. P.Winn、E. Hogan、R. E. Killick、R. J. H. Dunn、T. J. Osborn、P. D. Jones 和 I. R. Simpson，“1850 年以来近地表温度变化的更新评估:HadCRUT5 数据集”。研究:大气。126、e2019JD032361、【https://doi.org/10.1029/2019JD032361】[](https://doi.org/10.1029/2019JD032361) **(2021)。****
+*   **1850-2000 年的温度数据:C. P. Morice、J. J. Kennedy、N. A. Rayner、J. P.Winn、E. Hogan、R. E. Killick、R. J. H. Dunn、T. J. Osborn、P. D. Jones 和 I. R. Simpson，“1850 年以来近地表温度变化的更新评估:HadCRUT5 数据集”。研究:大气。126、e2019JD032361、【https://doi.org/10.1029/2019JD032361】<https://doi.org/10.1029/2019JD032361> **(2021)。****
 *   **强迫数据:G. A. Schmidt、J. H. Jungclaus、C. M. Ammann、E. Bard、p .布拉科诺、T. J. Crowley、G. Delaygue、F. Joos、N. A. Krivova、R. Muscheler、B. L. Otto-Bliesner、J. Pongratz、D. T. Shindell、S. K. Solanki、F. Steinhilber 和 L. E. A. Vieira，“最近一次气候强迫重建用于 PMIP 模拟”模型开发。5, 185–191 (2012).**
 *   ***这里使用的复杂气候模型数据(HadCM3 模型):A. P. Schurer，S. F. B. Tett，G. C. Hegerl，“过去一千年太阳变率对气候的微小影响”，Nat。乔斯奇。7, 104–108 (2014).***

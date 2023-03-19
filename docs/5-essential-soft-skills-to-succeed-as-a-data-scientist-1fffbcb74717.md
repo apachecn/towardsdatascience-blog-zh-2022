@@ -76,7 +76,7 @@ Andrea Piacquadio 的照片:[https://www . pexels . com/photo/engineer-working-w
 
 哥伦比亚大学整理了一系列关于数据科学领域成功团队合作的技巧，非常值得一读:
 
-[](https://datascience.columbia.edu/news/2021/top-ten-advice-for-successful-data-science-teamwork/)  
+<https://datascience.columbia.edu/news/2021/top-ten-advice-for-successful-data-science-teamwork/>  
 
 # 问题解决
 
@@ -96,7 +96,7 @@ Andrea Piacquadio 的照片:[https://www . pexels . com/photo/engineer-working-w
 
 下面这篇文章深入探讨了如何提炼问题陈述，非常值得一读。
 
-[](https://analyticsindiamag.com/problem-solving-skills-the-guardian-angel-for-data-scientists/)  
+<https://analyticsindiamag.com/problem-solving-skills-the-guardian-angel-for-data-scientists/>  
 
 # 摘要
 

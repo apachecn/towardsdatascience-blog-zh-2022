@@ -186,7 +186,7 @@
 
 如果你是中级新手，可以考虑使用下面的我的推荐链接订阅👇
 
-[](https://medium.com/@andreasmartinson/membership)  
+<https://medium.com/@andreasmartinson/membership>  
 
 ## 参考
 

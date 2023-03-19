@@ -24,7 +24,7 @@
 
 如果你想跟随这个教程，这里有 GitHub repo。
 
-[](https://github.com/V-Sher/Audio-Classification-HF/tree/main/src)  
+<https://github.com/V-Sher/Audio-Classification-HF/tree/main/src>  
 
 # 拥抱脸库和教练 API
 
@@ -311,7 +311,7 @@ model_path = ""facebook/hubert-large-ls960-ft""hubert_model = HubertForSequenceC
 `prepare_dataset`是一个助手函数，它将处理函数应用于数据集中的每个示例(或者一组示例，也就是`batch`)。更具体地说，该函数做两件事— (1)读取出现在`batch["array"]`的音频数组，并使用上面讨论的`feature_extractor`从中提取特征，并将其存储为名为`input_values`的新特征—(除了`file`、`labels`和`array`)以及(2)创建名为`labels`的新特征，其值与`batch["label"]`相同。
 
 *问题:你可能想知道对于每个例子都有* `*label*` *和* `*labels*` *有什么意义，尤其是当它们有相同的值时。*
-*原因:训练器 API 会寻找* `*labels*` *的列名，默认情况下，所以我们只是乐于助人。如果你愿意，你甚至可以在这一步删除*[](https://huggingface.co/docs/datasets/process#remove)**和其他* `*label*` *列，或者更好，在创建加载脚本时将特征命名为“标签”。**
+*原因:训练器 API 会寻找* `*labels*` *的列名，默认情况下，所以我们只是乐于助人。如果你愿意，你甚至可以在这一步删除*<https://huggingface.co/docs/datasets/process#remove>**和其他* `*label*` *列，或者更好，在创建加载脚本时将特征命名为“标签”。**
 
 *如果你仔细观察，就会发现不像前面的`map`用例，lambda 函数只需要*一个*输入参数，`prepare_dataset()`需要*两个*参数。*
 
@@ -442,4 +442,4 @@ metrics={'test_loss': 1.780486822128296, 'test_accuracy': 0.0, 'test_runtime': 1
 
 *我喜欢写循序渐进的初学者指南、操作指南、ML/AI 中使用的解码术语等。如果你想完全访问我的所有文章(以及其他媒体上的文章)，那么你可以使用 [***我的链接***](https://varshitasher.medium.com/membership)**这里* ***注册。*****
 
-**[](/step-by-step-guide-to-explaining-your-ml-project-during-a-data-science-interview-81dfaaa408bf)  [](/time-series-modeling-using-scikit-pandas-and-numpy-682e3b8db8d1)  [](/hands-on-introduction-to-github-actions-for-data-scientists-f422631c9ea7)  [](/deploying-an-end-to-end-deep-learning-project-with-few-clicks-part-2-89009cff6f16) **
+**</step-by-step-guide-to-explaining-your-ml-project-during-a-data-science-interview-81dfaaa408bf>  </time-series-modeling-using-scikit-pandas-and-numpy-682e3b8db8d1>  </hands-on-introduction-to-github-actions-for-data-scientists-f422631c9ea7>  </deploying-an-end-to-end-deep-learning-project-with-few-clicks-part-2-89009cff6f16> **

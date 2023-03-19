@@ -20,7 +20,7 @@
 *   较新的自动化系统
 *   公共产品和服务的数字化交付
 
-[](https://www.businessgoing.digital/artificial-intelligence-in-smart-cities/)  
+<https://www.businessgoing.digital/artificial-intelligence-in-smart-cities/>  
 
 这是一项至关重要的任务，因为**数据的爆炸规模和**快速城市化不可避免的问题的维度。根据联合国经济和社会事务部的数据，目前，世界上 55%的人口居住在城市地区。预计到 2050 年，这一比例将上升至 68%。
 
@@ -28,9 +28,9 @@
 
 图片来源:[联合国人口报告](https://population.un.org/wup/Publications/Files/WUP2018-PopFacts_2018-1.pdf)
 
-人们正积极努力为管理如此巨大的人类及其愿望的融合奠定一个[数字主干](https://www.businessgoing.digital/artificial-intelligence-in-smart-cities/)。最近在物联网方面的努力集中在将数十亿个传感器[](https://www.smartcitiesworld.net/news/news/iot-connected-devices-predicted-to-reach-7-billion-2132)**(各种类型和功能)放置在世界主要城市周围。这是获取数据的第一步。但是，吸收、分析、理解和处理“大数据”需要对数字和计算系统进行变革。**
+人们正积极努力为管理如此巨大的人类及其愿望的融合奠定一个[数字主干](https://www.businessgoing.digital/artificial-intelligence-in-smart-cities/)。最近在物联网方面的努力集中在将数十亿个传感器<https://www.smartcitiesworld.net/news/news/iot-connected-devices-predicted-to-reach-7-billion-2132>**(各种类型和功能)放置在世界主要城市周围。这是获取数据的第一步。但是，吸收、分析、理解和处理“大数据”需要对数字和计算系统进行变革。**
 
-**[](https://www.smartcitiesworld.net/news/news/iot-connected-devices-predicted-to-reach-7-billion-2132)  
+**<https://www.smartcitiesworld.net/news/news/iot-connected-devices-predicted-to-reach-7-billion-2132>  
 
 # 城市计算机视觉中的人工智能——挑战与理念
 
@@ -46,7 +46,7 @@
 
 在这方面，已经有一些来自科技创业公司 的 [**新颖的想法和举措。这是一个很好的开始。**](https://www.hayden.ai/safe-sense-app)
 
-[](https://www.hayden.ai/safe-sense-app)  
+<https://www.hayden.ai/safe-sense-app>  
 
 与此同时，我们可以想出一些关于如何稍微调整基本 AI/ML 问题的想法，以便大量涌入的数据可以在短期内得到很好的利用。
 
@@ -164,4 +164,4 @@
 
 ***喜欢这篇文章吗？成为* [***中等会员***](https://medium.com/@tirthajyoti/membership) *继续* ***无限制学习*** *。如果您使用下面的链接，* ***，我会收到您的一部分会员费，而不会对您产生额外的费用*** *。***
 
-**[](https://medium.com/@tirthajyoti/membership) ****
+**<https://medium.com/@tirthajyoti/membership> ****

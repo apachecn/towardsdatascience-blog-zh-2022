@@ -18,7 +18,7 @@
 
 心理学——对思维和行为的科学研究——已经花了一个多世纪的时间来应对试图测量尚未正确定义的模糊数量的危险，因此该领域已经学到了一些坚实的金块，商业领袖和数据科学家在设计指标时借鉴这些金块是明智的。
 
-[](/why-arguing-about-metrics-is-a-waste-of-time-b1c6f9026724)  
+</why-arguing-about-metrics-is-a-waste-of-time-b1c6f9026724>  
 
 如果你不相信公制设计很难，拿起笔和纸。我挑战你写下幸福的定义，它是如此的铁，以至于没人会反对你衡量幸福的方式…
 
@@ -42,7 +42,7 @@
 
 什么是操作化？我已经为你写了一篇关于它的介绍文章[这里](http://bit.ly/quaesita_opera)，但结果是当你操作时，你首先对自己说*“我永远不会去衡量幸福，我已经平静地接受了这一点。”哲学家已经研究这个问题几千年了，所以你不可能突然提出一个让所有人都满意的定义*。**
 
-*[](/operationalization-the-art-and-science-of-making-metrics-31770d94998f)  
+*</operationalization-the-art-and-science-of-making-metrics-31770d94998f>  
 
 接下来，你将你的概念的可测量的本质提取到一个代理中。
 
@@ -86,7 +86,7 @@
 
 在这里欣赏课程播放列表，它被分成 120 个单独的一口大小的课程视频:[bit.ly/machinefriend](http://bit.ly/machinefriend)
 
-[](https://kozyrkov.medium.com/membership)  
+<https://kozyrkov.medium.com/membership>  
 
 *附言:你有没有试过在 Medium 上不止一次点击这里的鼓掌按钮，看看会发生什么？* ❤️
 

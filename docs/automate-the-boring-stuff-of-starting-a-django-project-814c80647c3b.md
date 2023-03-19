@@ -70,4 +70,4 @@ django-admin startproject PROJECT_NAME .python manage.py startapp APP_NAME # for
 
 *快乐编码*！
 
-[](/build-a-django-crud-app-by-using-class-based-views-12bc69d36ab6)  [](/django-first-steps-for-the-total-beginners-a-quick-tutorial-5f1e5e7e9a8c)  [](/create-a-django-app-with-login-restricted-pages-31229cc48791)  [](/use-python-scripts-to-insert-csv-data-into-django-databases-72eee7c6a433) 
+</build-a-django-crud-app-by-using-class-based-views-12bc69d36ab6>  </django-first-steps-for-the-total-beginners-a-quick-tutorial-5f1e5e7e9a8c>  </create-a-django-app-with-login-restricted-pages-31229cc48791>  </use-python-scripts-to-insert-csv-data-into-django-databases-72eee7c6a433> 

@@ -98,7 +98,7 @@ array([1\.        , 0.94804734, 0.87557484, 0.80668116, 0.75262542,        0.713
 
 另外，这个公式可能来自关于时间序列预测的最好的书——《预测:原则与实践》。我强烈推荐给任何对这个话题感兴趣的人。你可以在这里阅读我的观点/评论:
 
-[](/the-best-book-to-start-learning-about-time-series-forecasting-69fcc618b6bb)  
+</the-best-book-to-start-learning-about-time-series-forecasting-69fcc618b6bb>  
 
 # 偏自相关
 
@@ -155,7 +155,7 @@ array([1\.        , 0.94804734, 0.87557484, 0.80668116, 0.75262542,        0.713
 
 *您可能还会对以下内容感兴趣:*
 
-*[](/one-thing-you-might-not-have-known-about-linear-regression-634446de7559)  [](/the-easiest-way-to-identify-holidays-in-python-58333176af4f)  [](/8-more-useful-pandas-functionalities-for-your-analyses-ef87dcfe5d74)  
+*</one-thing-you-might-not-have-known-about-linear-regression-634446de7559>  </the-easiest-way-to-identify-holidays-in-python-58333176af4f>  </8-more-useful-pandas-functionalities-for-your-analyses-ef87dcfe5d74>  
 
 # 参考
 

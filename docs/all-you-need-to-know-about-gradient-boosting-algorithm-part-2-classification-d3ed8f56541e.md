@@ -260,7 +260,7 @@
 
 在这篇博文中，我们回顾了梯度推进分类算法的所有细节。如果您也对回归算法感兴趣，请查看第 1 部分的文章。
 
-[](/all-you-need-to-know-about-gradient-boosting-algorithm-part-1-regression-2520a34a502)  
+</all-you-need-to-know-about-gradient-boosting-algorithm-part-1-regression-2520a34a502>  
 
 如果您想了解该算法的更多细节，还有一些其他的好资源:
 
@@ -271,7 +271,7 @@
 
 你也可以在 Google Colab 链接或者下面的 Github 链接中查看完整的 Python 代码。
 
-[](https://colab.research.google.com/drive/13p46IFhg3h6BIdjxUcfXPco13jIOCV6I?usp=sharing)  
+<https://colab.research.google.com/drive/13p46IFhg3h6BIdjxUcfXPco13jIOCV6I?usp=sharing>  
 
 # 参考
 

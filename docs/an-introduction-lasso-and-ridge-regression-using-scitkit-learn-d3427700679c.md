@@ -14,7 +14,7 @@
 
 如果您错过了之前的任何研讨会，可以在这里找到:
 
-[](/introduction-to-logistic-regression-predicting-diabetes-bc3a88f1e60e)  [](/linear-regression-in-python-for-data-scientists-16caef003012)  [](/an-introduction-to-sql-for-data-scientists-e3bb539decdf)  
+</introduction-to-logistic-regression-predicting-diabetes-bc3a88f1e60e>  </linear-regression-in-python-for-data-scientists-16caef003012>  </an-introduction-to-sql-for-data-scientists-e3bb539decdf>  
 
 ## **偏差与方差的权衡**
 
@@ -234,8 +234,8 @@ insta gram:【https://www.instagram.com/ucl.datasci/
 
 如果你想了解 UCL 数据科学协会和其他优秀作者的最新信息，请使用我下面的推荐代码注册 medium。
 
-[](https://philip-wilkinson.medium.com/membership)  
+<https://philip-wilkinson.medium.com/membership>  
 
 或者看看我写的其他故事:
 
-[](/git-and-github-basics-for-data-scientists-b9fd96f8a02a)  [](/multi-variate-outlier-detection-in-python-e900a338da10)  [](/london-convenience-store-classification-using-k-means-clustering-70c82899c61f) 
+</git-and-github-basics-for-data-scientists-b9fd96f8a02a>  </multi-variate-outlier-detection-in-python-e900a338da10>  </london-convenience-store-classification-using-k-means-clustering-70c82899c61f> 

@@ -10,7 +10,7 @@
 
 在我的上一篇文章中，我谈到了使用 leav 库可视化您的地理空间数据。
 
-[](/visualization-in-python-visualizing-geospatial-data-122bf85d128f)  
+</visualization-in-python-visualizing-geospatial-data-122bf85d128f>  
 
 开发人员经常必须使用地理空间数据执行的另一项任务是绘制各种兴趣点之间的路由路径。因此，在这篇文章中，我将向您展示如何:
 
@@ -326,6 +326,6 @@ dest_node = ox.distance.nearest_nodes(graph, end_latlng[1],
 
 *我希望你从这篇文章中找到灵感，并开始使用它来创建兴趣点的路线。您可能希望让用户输入他们的当前位置，然后绘制路线，向他们显示如何到达目的地。无论如何，玩得开心！*
 
-*[](https://weimenglee.medium.com/membership)  
+*<https://weimenglee.medium.com/membership>  
 
 > **参考文献**:波音，G. 2017。 [OSMnx:获取、构建、分析和可视化复杂街道网络的新方法](https://geoffboeing.com/publications/osmnx-complex-street-networks/)。*计算机、环境和城市系统* 65，126–139。doi:10.1016/j . compenurbsys . 2017 . 05 . 004*

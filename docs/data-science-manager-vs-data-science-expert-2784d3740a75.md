@@ -96,6 +96,6 @@
 
 最终，由你来决定哪个角色最适合你的工作！
 
-本文内容的灵感来自于 DataTalks.Club 上 Barbara Sobkowiak 的播客插曲 [](https://datatalks.club/podcast/s01e03-building-ds-team.html) [数据科学经理 vs 数据科学专家](https://datatalks.club/podcast/s06e03-manager-vs-expert.html#data-science-managers-in-startups)
+本文内容的灵感来自于 DataTalks.Club 上 Barbara Sobkowiak 的播客插曲 <https://datatalks.club/podcast/s01e03-building-ds-team.html> [数据科学经理 vs 数据科学专家](https://datatalks.club/podcast/s06e03-manager-vs-expert.html#data-science-managers-in-startups)
 
 *原贴于* [*DataTalks。*](https://datatalks.club/blog/data-science-manager-vs-data-science-expert.html) *俱乐部。*

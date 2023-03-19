@@ -41,7 +41,7 @@ constring: sa.engine.url.URL = sa.engine.URL.create(
 
 > 通常，硬编码您的凭证是一个非常糟糕的想法。如果我在 Github 上把这个文件提交给我的 repo，每个人都可以看到我的凭证。强烈建议将您的凭证保存在一个`*.env*`文件中，这是一个**简单的技术，可以防止您的机密信息落入坏人之手**。查看下面的文章，了解如何做到这一点。
 
-[](/keep-your-code-secure-by-using-environment-variables-and-env-files-4688a70ea286)  
+</keep-your-code-secure-by-using-environment-variables-and-env-files-4688a70ea286>  
 
 ## 步骤 2:创建引擎
 
@@ -57,7 +57,7 @@ dbEngine= sa.create_engine(
 
 我通过`fast_executemany`作为补充论证。这是 SQL Server 针对更快插入的特定优化。阅读以下文章了解更多信息:
 
-[](/dramatically-improve-your-database-inserts-with-a-simple-upgrade-6dfa672f1424)  
+</dramatically-improve-your-database-inserts-with-a-simple-upgrade-6dfa672f1424>  
 
 ## 步骤 3:连接和测试发动机
 
@@ -77,7 +77,7 @@ except Exception as e:
 
 例如，您可能会得到一个错误，因为 SQLAlchemy 缺少必需的包。例如，为了连接到 Postgres 数据库，我们需要`pip install psycopg2`。SQL Server 需要`pyodbc`。SQLAlchemy 非常清楚这一点，所以只需遵循说明。
 
-[](/python-to-sql-upsert-safely-easily-and-fast-17a854d4ec5a)  
+</python-to-sql-upsert-safely-easily-and-fast-17a854d4ec5a>  
 
 # 2.使用引擎执行 SQL
 
@@ -109,7 +109,7 @@ with dbEngine_sqlserver_localhost.connect() as con:
 2.  **特定于数据库的**:也许您只想在 Postgres 上测试和开发，但是您的生产数据库是另一种类型。例如，如果你使用 SQL Server，你不能使用`ID SERIAL PRIMARY KEY`，而应该使用类似`ID INT IDENTITY(1,1) PRIMARY KEY`的东西。
 3.  **组织**:你的存储库将会充满 SQL 语句。想象一下，如果一个列名改变了；您需要浏览所有这些 SQL 语句并调整您的查询。
 
-[](/sql-understand-how-indices-work-under-the-hood-to-speed-up-your-queries-a7f07eef4080)  
+</sql-understand-how-indices-work-under-the-hood-to-speed-up-your-queries-a7f07eef4080>  
 
 ## 解决方案:与数据库无关的模型
 
@@ -121,7 +121,7 @@ SqlAlchemy 通过创建映射到数据库中的表的**对象来解决这个问�
 
 我目前正在写一篇文章，演示如何将 SQLAlchemy 的 ORM 用于数据库引擎。 [**跟我来**](https://mikehuls.medium.com/membership) **敬请关注**！
 
-[](/find-the-top-n-most-expensive-queries-48e46d8e9752)  
+</find-the-top-n-most-expensive-queries-48e46d8e9752>  
 
 # 结论
 
@@ -143,4 +143,4 @@ SqlAlchemy 通过创建映射到数据库中的表的**对象来解决这个问�
 
 附注:喜欢我正在做的事吗？ [*跟我来！*](https://mikehuls.medium.com/membership)
 
-[](https://mikehuls.medium.com/membership) 
+<https://mikehuls.medium.com/membership> 

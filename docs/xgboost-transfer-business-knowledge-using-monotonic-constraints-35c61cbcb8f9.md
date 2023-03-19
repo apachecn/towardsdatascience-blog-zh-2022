@@ -16,7 +16,7 @@ Photo by [愚木混株 cdd20](https://unsplash.com/@cdd20?utm_source=medium&utm_
 
 > 在我的书[实用梯度提升](https://amzn.to/3EctIej)中有更多关于决策树的梯度提升:
 
-[](https://amzn.to/3EctIej) [## 实用的渐变增强:深入探究 Python 中的渐变增强
+<https://amzn.to/3EctIej> [## 实用的渐变增强:深入探究 Python 中的渐变增强
 
 ### 这本书的梯度推进方法是为学生，学者，工程师和数据科学家谁希望…](https://amzn.to/3EctIej) 
 
@@ -64,11 +64,11 @@ y = 3*x。
 
 我在以前的文章中展示了如何从头开始实现决策树的梯度推进:
 
-[](/diy-xgboost-library-in-less-than-200-lines-of-python-69b6bf25e7d9)  
+</diy-xgboost-library-in-less-than-200-lines-of-python-69b6bf25e7d9>  
 
 这段代码可以很容易地修改成集成`monotonic`约束。处理代码中的约束通常需要开发一个求解器，而且通常是相当复杂的代码。各种方法都是可能的。在本文中，您可以看到如何使用基于几何的迭代方法来实现这样的求解器:
 
-[](/building-an-iterative-solver-for-linear-optimization-under-constraints-using-geometry-d8df2a18b37e)  
+</building-an-iterative-solver-for-linear-optimization-under-constraints-using-geometry-d8df2a18b37e>  
 
 然而，在梯度提升应用于决策树的情况下，`monotonic`约束可以很容易地实现。这种实现的简单性来自于使用**二进制**决策树作为底层模型。
 
@@ -120,6 +120,6 @@ y = 3*x。
 
 如果你想了解更多关于梯度增强及其应用的知识，我写了一本关于这个主题的书，[实用梯度增强](https://amzn.to/3XjRk9N)，它详细介绍了数学基础，并提供了实用信息来充分利用 XGBoost、LightGBM 和 CatBoost:
 
-[](https://amzn.to/3EctIej) [## 实用的渐变增强:深入探究 Python 中的渐变增强
+<https://amzn.to/3EctIej> [## 实用的渐变增强:深入探究 Python 中的渐变增强
 
 ### 这本书的梯度推进方法是为学生，学者，工程师和数据科学家谁希望…](https://amzn.to/3EctIej)

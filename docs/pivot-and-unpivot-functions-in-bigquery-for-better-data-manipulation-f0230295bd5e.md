@@ -92,4 +92,4 @@ WITH sale AS (Select 'January' as Month, 31 as Laptop, 42 as TV,75 as Mobile, 58
 
 ## 更多阅读:
 
-[](/precision-recall-and-f1-score-of-multiclass-classification-learn-in-depth-6c194b217629)  [](/complete-explanation-on-sql-joins-and-unions-with-examples-in-postgresql-cbd868fe9e95)  [](https://pub.towardsai.net/an-overview-of-the-major-sql-query-clauses-and-most-commonly-used-functions-60720e2a20d7)  [](/regression-in-tensorflow-using-both-sequential-and-function-apis-314e74b537ca)  [](https://pub.towardsai.net/data-analysis-91a38207c92b) 
+</precision-recall-and-f1-score-of-multiclass-classification-learn-in-depth-6c194b217629>  </complete-explanation-on-sql-joins-and-unions-with-examples-in-postgresql-cbd868fe9e95>  <https://pub.towardsai.net/an-overview-of-the-major-sql-query-clauses-and-most-commonly-used-functions-60720e2a20d7>  </regression-in-tensorflow-using-both-sequential-and-function-apis-314e74b537ca>  <https://pub.towardsai.net/data-analysis-91a38207c92b> 

@@ -319,6 +319,6 @@ my_func('mandatory value', 'a', 'b', 'c', name='Chris', age=33)
 
 这些参数可以是强制的，也可以是可选的。对于可选参数，它们可以有不同的长度，可以有也可以没有关键字。变元可以是位置变元，它依赖于用值决定哪个参数的位置。或者，我们可以用关键字显式传递值，这是关键字参数。
 
-[](https://medium.com/@qiuyujx/membership)  
+<https://medium.com/@qiuyujx/membership>  
 
 如果你觉得我的文章有帮助，请考虑加入 Medium 会员来支持我和成千上万的其他作者！(点击上面的链接)

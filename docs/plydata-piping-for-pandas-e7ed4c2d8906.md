@@ -100,4 +100,4 @@ m .科萨克和 b .奥托卡(2013 年)。关于著名的虹膜数据我们应该
 
 威克姆等人(2019)。欢迎来到 tidyverse。《开放源码软件杂志》，4 卷 43 期，1686 页，【https://doi.org/10.21105/joss.01686 
 
-[](https://medium.com/@nyggus/membership) 
+<https://medium.com/@nyggus/membership> 

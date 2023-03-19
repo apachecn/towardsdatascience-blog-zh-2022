@@ -443,13 +443,13 @@ hessian_r <-  (219 * 0.513) * exp(0.7)
 
 这是一个令人满意的项目，我希望你发现结果有用！
 
-[](https://matepocs.medium.com/membership)  
+<https://matepocs.medium.com/membership>  
 
 # 来源
 
 我通常认为 XGBoost 文档是一个非常好的起点，尽管它没有考虑 L1 规范:
 
-[](https://xgboost.readthedocs.io/en/stable/tutorials/model.html)  
+<https://xgboost.readthedocs.io/en/stable/tutorials/model.html>  
 
 除此之外，我还使用了 LightGBM 包中的源代码。我认为值得看一看幕后发生了什么。这个脚本的`GetLeafGain`功能非常关键:
 

@@ -145,13 +145,13 @@ Hex 还允许你通过一个漂亮的 GUI 创建一个简单的图表。
 
 您可以在此处找到此数据管道的代码:
 
-[](https://github.com/khuyentran1401/customer_segmentation/tree/prefect2)  
+<https://github.com/khuyentran1401/customer_segmentation/tree/prefect2>  
 
 ## 概观
 
 我们将使用[perfect](https://www.prefect.io/)来观察和编排我们的数据管道。Prefect 是一个开源库，允许您编排和观察 Python 中定义的数据管道。
 
-[](https://medium.com/the-prefect-blog/orchestrate-your-data-science-project-with-prefect-2-0-4118418fd7ce)  
+<https://medium.com/the-prefect-blog/orchestrate-your-data-science-project-with-prefect-2-0-4118418fd7ce>  
 
 管道中有四种流量:`process_data`、`segment`和`run_notebook`。这些流程的详细信息:
 
@@ -219,4 +219,4 @@ if __name__ == "__main__":
 
 如果你想查看我写的所有文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/dvc-github-actions-automatically-rerun-modified-components-of-a-pipeline-a3632519dc42)  [](/create-robust-data-pipelines-with-prefect-docker-and-github-12b231ca6ed2)  [](/how-to-structure-a-data-science-project-for-readability-and-transparency-360c6716800)  [](/hypothesis-and-pandera-generate-synthesis-pandas-dataframe-for-testing-e5673c7bec2e) 
+</dvc-github-actions-automatically-rerun-modified-components-of-a-pipeline-a3632519dc42>  </create-robust-data-pipelines-with-prefect-docker-and-github-12b231ca6ed2>  </how-to-structure-a-data-science-project-for-readability-and-transparency-360c6716800>  </hypothesis-and-pandera-generate-synthesis-pandas-dataframe-for-testing-e5673c7bec2e> 

@@ -75,7 +75,7 @@
 *   在**路径或**和**路径初始化**中你有 2D 坐标的继承
 *   在**距离或**和**距离初始化**中，你有总距离
 
-[](https://www.samirsaci.com/improve-warehouse-productivity-using-pathfinding-algorithm-with-python/)  
+<https://www.samirsaci.com/improve-warehouse-productivity-using-pathfinding-algorithm-with-python/>  
 
 ## 情节
 
@@ -110,7 +110,7 @@
 
 目标是**生成这些部分路径的 GIF 图**以显示两个解决方案的连续位置。
 
-[](http://samirsaci.com)  
+<http://samirsaci.com>  
 
 # 用 Python Pillow 创建 GIF
 
@@ -168,7 +168,7 @@
 
 交通路线—(图片由作者提供)
 
-[](https://www.samirsaci.com/road-transportation-network-visualization/)  
+<https://www.samirsaci.com/road-transportation-network-visualization/>  
 
 # 关于我
 
@@ -176,4 +176,4 @@
 
 如果你对数据分析和供应链感兴趣，可以看看我的网站
 
-[](https://samirsaci.com) 
+<https://samirsaci.com> 

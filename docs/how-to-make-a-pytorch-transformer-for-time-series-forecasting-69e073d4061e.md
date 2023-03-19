@@ -53,7 +53,7 @@
 
 当你读完这篇文章后，你可能想学习如何在推理过程中使用时间序列转换器:
 
-[](/how-to-run-inference-with-a-pytorch-time-series-transformer-394fd6cbe16c)  
+</how-to-run-inference-with-a-pytorch-time-series-transformer-394fd6cbe16c>  
 
 # 1.分解变压器架构
 
@@ -223,7 +223,7 @@
 
 我已经创建了[这个回购](https://github.com/KasperGroesLudvigsen/influenza_transformer)，它包含了一个完整的例子和一些时间序列数据。repo 还包含用时序转换器模型运行推理的代码，我的文章“[如何用 PyTorch 时序转换器](https://medium.com/towards-data-science/how-to-run-inference-with-a-pytorch-time-series-transformer-394fd6cbe16c)运行推理”中描述了这些代码
 
-[](/multi-step-time-series-forecasting-with-xgboost-65d6820bec39)  
+</multi-step-time-series-forecasting-with-xgboost-65d6820bec39>  
 
 就是这样！我希望你喜欢这篇文章🤞
 

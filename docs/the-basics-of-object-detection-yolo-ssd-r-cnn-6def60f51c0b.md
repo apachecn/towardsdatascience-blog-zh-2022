@@ -85,7 +85,7 @@ R-CNN 是最准确的。然而，它在计算上是昂贵的。它需要大量�
 
 你可以阅读更多关于如何开始使用 Label Studio 的内容。设置起来超级简单。您通过命令`pip install -U label-studio`下载 label-studio，然后通过`label-studio`启动它。用户界面非常直观，可以随时随地解决问题。
 
-[](https://labelstud.io/guide/index.html#Quick-start)  
+<https://labelstud.io/guide/index.html#Quick-start>  
 
 > 太棒了。但是我如何可视化这些对象的注释呢？
 
@@ -93,7 +93,7 @@ R-CNN 是最准确的。然而，它在计算上是昂贵的。它需要大量�
 
 如果你需要帮助来解决这个问题，其他一些来自数据科学家的贡献者写了他们自己的注释图像的方法。见下文。
 
-[](/how-to-use-matplotlib-for-plotting-samples-from-an-object-detection-dataset-5877fe76496d)  
+</how-to-use-matplotlib-for-plotting-samples-from-an-object-detection-dataset-5877fe76496d>  
 
 现在，您拥有了在自己的自定义数据集上训练现有对象检测模型所需的工具。
 

@@ -14,11 +14,11 @@
 
 对于那些不熟悉我的项目 OddFrames.jl 的人来说，这是一个用于 Julia 中数据管理的选择性面向对象包。当然，这个软件包的应用主要是基于科学计算。也就是说，这肯定是一个有趣又酷的项目。如果你想查看这个项目的 Github，你可以在这里:
 
-[](https://github.com/ChifiSource/OddFrames.jl)  
+<https://github.com/ChifiSource/OddFrames.jl>  
 
 今天，我们将加入一些新的功能，使我们能够轻松地将奇数帧组合在一起。我有几个有趣的计划来解决这个问题，我计划用函数做一些很酷的调度，我知道一个合并函数将会非常困难，所以不再多说，让我们开始写这些函数吧！最后一件事，如果你想更深入地了解 OddFrames.jl，这里是我写的关于这个包的前一篇文章，我在其中写了一个 CSV 解析器:
 
-[](/the-wretched-pain-i-experienced-creating-a-csv-reader-in-julia-e67520857b9c)  
+</the-wretched-pain-i-experienced-creating-a-csv-reader-in-julia-e67520857b9c>  
 
 # 修改构造函数
 
@@ -382,7 +382,7 @@ length_check([x, columns[1])
 
 现在我们将使用大量的推力！().如果你想阅读关于推的完整指南，推在朱莉娅中是相当重要的！()，以及这种非常通用的方法的所有细微差别，我实际上已经写了一整篇文章，您可以在这里阅读:
 
-[](/everything-you-need-to-know-about-push-in-julia-1f01891f1c0a)  
+</everything-you-need-to-know-about-push-in-julia-1f01891f1c0a>  
 
 如果我没有一个想法的话，接下来的部分会非常困难。我将扩展一些 Julia 的基本方法来处理一些我需要的语法。另一种方法是在将来我需要的时候再做，这可能会很多，所以我认为这肯定是一个好主意。我要创造一个新的推动！()变异方法。
 

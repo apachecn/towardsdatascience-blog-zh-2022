@@ -267,12 +267,12 @@ print(double_names)#out:
 
 这是探索数据结构及其在 Python 中的使用和实现的系列文章的第一篇。即将发表的文章将涵盖 Python 中的集合、元组、字典、链表、栈、队列和图形。为了确保您不会错过任何在发布时接收电子邮件通知的注册:
 
-[](https://philip-wilkinson.medium.com/subscribe)  
+<https://philip-wilkinson.medium.com/subscribe>  
 
 如果您喜欢您所阅读的内容，并且还不是 medium 会员，请随时使用下面的我的推荐代码注册 medium，以支持我自己和这个平台上的其他作者:
 
-[](https://philip-wilkinson.medium.com/membership)  
+<https://philip-wilkinson.medium.com/membership>  
 
 或者考虑看看我的其他媒介文章:
 
-[](/an-introduction-to-sql-for-data-scientists-e3bb539decdf)  [](/git-and-github-basics-for-data-scientists-b9fd96f8a02a)  [](/london-convenience-store-classification-using-k-means-clustering-70c82899c61f) 
+</an-introduction-to-sql-for-data-scientists-e3bb539decdf>  </git-and-github-basics-for-data-scientists-b9fd96f8a02a>  </london-convenience-store-classification-using-k-means-clustering-70c82899c61f> 

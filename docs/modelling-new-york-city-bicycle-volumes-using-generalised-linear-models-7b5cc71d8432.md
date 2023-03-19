@@ -24,7 +24,7 @@
 
 为了完整起见，我将在本文中讨论 GLMs 背后的主要概念。然而，为了更深入地理解，我强烈建议您查看我以前的文章，这些文章真正深入了它们的技术细节:
 
-[](/poisson-regression-and-generalised-linear-models-606fe5f7c1fd)  [](/the-essence-of-logistic-regression-e9188625cb7d)  
+</poisson-regression-and-generalised-linear-models-606fe5f7c1fd>  </the-essence-of-logistic-regression-e9188625cb7d>  
 
 ## 动机
 
@@ -217,7 +217,7 @@ plt.show()
 
 完整的代码/笔记本可以在我的 GitHub 上找到:
 
-[](https://github.com/egorhowell/Medium-Articles/blob/main/Modelling/GLM_Bike_Volume_NYC.ipynb)  
+<https://github.com/egorhowell/Medium-Articles/blob/main/Modelling/GLM_Bike_Volume_NYC.ipynb>  
 
 # 结论
 
@@ -226,10 +226,10 @@ plt.show()
 # 和我联系！
 
 *   要在媒体上阅读无限的故事，请务必在此注册！ 💜
-*   [](/subscribe/@egorhowell)😀
+*   </subscribe/@egorhowell>😀
 *   [*【领英】*](https://www.linkedin.com/in/egor-howell-092a721b3/) 👔
 *   [*碎碎念*](https://twitter.com/EgorHowell) 🖊
 *   [*github*](https://github.com/egorhowell)*🖥*
-*   *[](https://www.kaggle.com/egorphysics)**🏅***
+*   *<https://www.kaggle.com/egorphysics>**🏅***
 
 > ***(所有表情符号都是由 [OpenMoji](https://openmoji.org/) 设计的——开源的表情符号和图标项目。许可证: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)***

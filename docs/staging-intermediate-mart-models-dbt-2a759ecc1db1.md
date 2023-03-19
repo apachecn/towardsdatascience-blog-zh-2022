@@ -70,8 +70,8 @@
 
 ****[**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。******
 
-****[](https://gmyrianthous.medium.com/membership) **** 
+****<https://gmyrianthous.medium.com/membership> **** 
 
 ******相关文章你可能也喜欢******
 
-****[](/dbt-models-structure-c31c8977b5fc) **** ****[](/install-dbt-1bd6a4259a14) **** ****[](/visual-sql-joins-4e3899d9d46c) ****
+****</dbt-models-structure-c31c8977b5fc> **** ****</install-dbt-1bd6a4259a14> **** ****</visual-sql-joins-4e3899d9d46c> ****

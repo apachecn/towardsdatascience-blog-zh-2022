@@ -104,11 +104,11 @@
 
 不确定接下来要读什么？我为你挑选了另一篇文章:
 
-[](/over-100-data-scientist-interview-questions-and-answers-c5a66186769a)  
+</over-100-data-scientist-interview-questions-and-answers-c5a66186769a>  
 
 **还有一个:**
 
-[](/5-things-that-i-actually-did-at-work-as-a-data-scientist-in-2021-e46d3a0d6dab)  
+</5-things-that-i-actually-did-at-work-as-a-data-scientist-in-2021-e46d3a0d6dab>  
 
 # 感谢阅读！
 
@@ -118,11 +118,11 @@
 
 不确定接下来要读什么？我为你挑选了另一篇文章:
 
-[](/over-100-data-scientist-interview-questions-and-answers-c5a66186769a)  
+</over-100-data-scientist-interview-questions-and-answers-c5a66186769a>  
 
 **或者你可以查看我的介质页面:**
 
-[](https://terenceshin.medium.com/)  
+<https://terenceshin.medium.com/>  
 
 # 特伦斯·申
 

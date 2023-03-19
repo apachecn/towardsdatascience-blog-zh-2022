@@ -59,7 +59,7 @@ def forward(
 
 尽管处理代码量很少，但确保数据一致性的脚手架很长、很复杂且容易出错。如果我们想改变什么，它也是脆弱的。
 
-[](/machine-translation-evaluation-with-cometinho-c89880731409)  
+</machine-translation-evaluation-with-cometinho-c89880731409>  
 
 我们现在想做的是让我们的静态分析工具，如 mypy，为我们做烦人的工作，同时我们专注于建模什么是允许的，什么是非法的，以及带来价值的代码。
 
@@ -118,7 +118,7 @@ class AudioWithPreprocess(DataWithFunc):
 
 我们需要定义一个新的类型 DataWithFunc，它包含数据和一个函数，并且有一个方法将函数应用于数据。然后，我们定义了 DataWithFunc 的两个子类型，即 TextWithPreprocess 和 audiowithprocessor，每个子类型定义了两个有效输入组合中的一个。最后，我们的 forward 函数现在只接受模型和一个 DataWithFunc 类型的新参数作为参数，由于它是一个抽象类(ABC ),我们需要使用一个有效的子类型:现在只有合法的表示是有效的。
 
-[](/python-polymorphism-with-class-discovery-28908ac6456f)  
+</python-polymorphism-with-class-discovery-28908ac6456f>  
 
 这种设计的一个好处是，我们可以通过再次为新的有效组合子类化 DataWithFunc 来添加输入和预处理类型的新组合。因为我们的输入是 DataWithFunc 类型，所以签名不需要改变。
 
@@ -138,4 +138,4 @@ class AudioWithPreprocess(DataWithFunc):
 
 # 进一步阅读
 
-[](/dynamically-add-arguments-to-argparse-python-patterns-a439121abc39)  [](/tips-for-reading-and-writing-an-ml-research-paper-a505863055cf) 
+</dynamically-add-arguments-to-argparse-python-patterns-a439121abc39>  </tips-for-reading-and-writing-an-ml-research-paper-a505863055cf> 

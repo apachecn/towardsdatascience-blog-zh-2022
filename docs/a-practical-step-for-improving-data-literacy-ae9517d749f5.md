@@ -63,4 +63,4 @@ Mac 上的 Microsoft Word 编辑器面板(作者截图)
 
 想了解更多关于数据素养的知识吗？查看我最近关于这个主题的文章:
 
-[](/what-is-data-literacy-9b5c3032216f) 
+</what-is-data-literacy-9b5c3032216f> 

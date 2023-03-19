@@ -96,8 +96,8 @@ Python 的神奇方法——也称为 *dunder* (双下划线)方法——可以�
 
 [成为会员](https://medium.com/@martin.heinz/membership)阅读媒体上的每一个故事。**你的会员费直接支持我和你看的其他作家。**你还可以在媒体上看到所有的故事。
 
-[](https://medium.com/@martin.heinz/membership)  
+<https://medium.com/@martin.heinz/membership>  
 
 你可能也喜欢…
 
-[](https://medium.com/@martin.heinz/python-cli-tricks-that-dont-require-any-code-whatsoever-e7bdb9409aeb)  [](https://betterprogramming.pub/all-the-ways-to-introspect-python-objects-at-runtime-80e6991b4cc6) 
+<https://medium.com/@martin.heinz/python-cli-tricks-that-dont-require-any-code-whatsoever-e7bdb9409aeb>  <https://betterprogramming.pub/all-the-ways-to-introspect-python-objects-at-runtime-80e6991b4cc6> 

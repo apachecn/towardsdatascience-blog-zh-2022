@@ -144,8 +144,8 @@
 
 *我希望这个故事对你有用。如果我错过了什么，请让我知道。如果你想知道更多这样的故事，请关注我。*
 
-*[](https://medium.com/subscribe/@diego-barba)  
+*<https://medium.com/subscribe/@diego-barba>  
 
 喜欢这个故事吗？通过我的推荐链接成为媒体会员，可以无限制地访问我的故事和许多其他内容。
 
-[](https://medium.com/@diego-barba/membership) *
+<https://medium.com/@diego-barba/membership> *

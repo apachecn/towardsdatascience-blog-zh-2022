@@ -20,7 +20,7 @@
 
 虽然美国宇航局公开了很多代码，但很难找到空间技术软件工程师日常活动的细节。不过，埃隆·马斯克的项目中也有一些故事。考虑到在 SpaceX 或 Starlink 工作是许多工程师的梦想，这些将是我在这里的重点。
 
-[](/is-ai-coming-for-your-job-2f593ab72b55) [## 艾是来找你工作的吗？
+</is-ai-coming-for-your-job-2f593ab72b55> [## 艾是来找你工作的吗？
 
 towardsdatascience.com](/is-ai-coming-for-your-job-2f593ab72b55) 
 
@@ -50,7 +50,7 @@ Starlink 的软件是用众所周知的编程语言编写的。由于其可靠�
 
 卫星互联网是一个非常雄心勃勃的项目，它伴随着许多困难的挑战。Starlink 无疑是这一领域的先驱，但其他公司和太空机构也在迅速跟进。一二十年后，它可能会像今天的卫星电视一样成为标准。
 
-[](https://uxdesign.cc/product-designers-are-clashing-with-developers-and-its-ugly-59e9875d9866)  
+<https://uxdesign.cc/product-designers-are-clashing-with-developers-and-its-ugly-59e9875d9866>  
 
 # SpaceX，还是努力不失败
 

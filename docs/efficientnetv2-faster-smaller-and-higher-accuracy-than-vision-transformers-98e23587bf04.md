@@ -71,7 +71,7 @@ EfficientNets 是目前最强大的卷积神经网络(CNN)模型之一。随着�
 
 我已经写了一篇关于 EfficientNet 版本 1 的文章。要详细了解这个版本，请点击下面的链接—
 
-[](https://medium.com/mlearning-ai/understanding-efficientnet-the-most-powerful-cnn-architecture-eaeb40386fad)  
+<https://medium.com/mlearning-ai/understanding-efficientnet-the-most-powerful-cnn-architecture-eaeb40386fad>  
 
 # 2.高效网络 V2
 
@@ -179,7 +179,7 @@ i. EfficientNetV2-M 实现了与 EfficientNetB7(以前最好的 EfficientNet 型
 
 要了解更多关于视觉变形金刚的信息，请访问下面的链接
 
-[](/are-transformers-better-than-cnns-at-image-recognition-ced60ccc7c8) [## 变形金刚在图像识别方面比 CNN 强吗？
+</are-transformers-better-than-cnns-at-image-recognition-ced60ccc7c8> [## 变形金刚在图像识别方面比 CNN 强吗？
 
 towardsdatascience.com](/are-transformers-better-than-cnns-at-image-recognition-ced60ccc7c8) 
 

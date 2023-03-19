@@ -259,7 +259,7 @@ AND Product_Category LIKE 'Healthcare'
 
 在我的上一篇文章中，了解更多关于在 SQL 中寻找唯一记录的 3 种终极方法。
 
-[](/3-ultimate-ways-to-find-unique-records-in-sql-6ddf8ae567b0)  
+</3-ultimate-ways-to-find-unique-records-in-sql-6ddf8ae567b0>  
 
 最后，让我们讨论如何使用 SQL 的内置特性(如索引)来提高查询性能。
 

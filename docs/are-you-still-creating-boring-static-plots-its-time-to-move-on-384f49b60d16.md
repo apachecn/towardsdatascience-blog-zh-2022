@@ -90,4 +90,4 @@ output 函数有两个参数——1)component _ id:它定义了我们希望用�
 
 你可以通过下面的故事了解更多关于 Dash 的知识:
 
-[](/dash-for-beginners-create-interactive-python-dashboards-338bfcb6ffa4) 
+</dash-for-beginners-create-interactive-python-dashboards-338bfcb6ffa4> 

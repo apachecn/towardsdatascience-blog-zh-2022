@@ -102,7 +102,7 @@
 1.  Vim 有一点学习曲线，但是一旦你习惯了，你可以更快地导航和编辑你的代码。
 2.  [**自动结束标记**](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) —自动完成 HTML 和 XML 结束标记。网页开发者必备。
 3.  [**Git Graph**](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) —给出 git repo 中分支和变化的直观线性图形。您甚至可以直接从图中执行 git 操作！
-4.  [](https://marketplace.visualstudio.com/items?itemName=smcpeak.default-keys-windows)**—也许更有经验的 Linux 用户知道这是否有充分的理由，但 Windows/Mac 上的大多数键盘快捷键使用的键比 Linux 上的少。我刚刚开始全职使用 Linux，并且习惯了 Windows 的键盘绑定。这使得转换更容易，这样我就不必重新学习任何键盘快捷键。**
+4.  <https://marketplace.visualstudio.com/items?itemName=smcpeak.default-keys-windows>**—也许更有经验的 Linux 用户知道这是否有充分的理由，但 Windows/Mac 上的大多数键盘快捷键使用的键比 Linux 上的少。我刚刚开始全职使用 Linux，并且习惯了 Windows 的键盘绑定。这使得转换更容易，这样我就不必重新学习任何键盘快捷键。**
 5.  **[**快捷键**](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf) —键盘快捷键是加速你编码的最好方法之一。VSCode 有大量有用的键盘快捷键，可以加快打字和编辑的速度。完整列表已链接，但以下是我最常用的几个:**
 
 ****查看器快捷键:****

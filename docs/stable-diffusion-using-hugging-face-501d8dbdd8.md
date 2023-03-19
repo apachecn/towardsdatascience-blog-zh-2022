@@ -27,7 +27,7 @@
 
 3.**安装 hugging face hub 库并登录—** 生成令牌后，复制它。首先，我们将使用下面的代码下载 hugging face hub 库。
 
-***注意—*** *为了用代码正确地渲染这些内容，我推荐你在这里阅读*[](https://aayushmnit.com/posts/2022-11-02-StabeDiffusionP1/2022-11-02-StableDiffusionP1.html)**。**
+***注意—*** *为了用代码正确地渲染这些内容，我推荐你在这里阅读*<https://aayushmnit.com/posts/2022-11-02-StabeDiffusionP1/2022-11-02-StableDiffusionP1.html>**。**
 
 ```
 *!pip install huggingface-hub==0.10.1*
@@ -108,7 +108,7 @@ pipe(prompt).images[0]*
 
 *我们通过代码来看一下。我们将从导入相关的工件开始。*
 
-****注—*** *要用代码正确地渲染这些内容，我推荐你在这里阅读*[](https://aayushmnit.com/posts/2022-11-05-StableDiffusionP2/2022-11-05-StableDiffusionP2.html)**。***
+****注—*** *要用代码正确地渲染这些内容，我推荐你在这里阅读*<https://aayushmnit.com/posts/2022-11-05-StableDiffusionP2/2022-11-05-StableDiffusionP2.html>**。***
 
 ```
 **import torch, logging

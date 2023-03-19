@@ -248,8 +248,8 @@ df[df.profession.notna()]**# output** name  note           profession  date_of_b
 
 我们已经做了 20 个例子，展示了几种过滤熊猫数据帧的工具和技术。
 
-*你可以成为* [*介质成员*](https://sonery.medium.com/membership) *解锁我的全部写作权限，外加其余介质。如果你已经是了，别忘了订阅*[](https://sonery.medium.com/subscribe)**如果你想在我发表新文章时收到电子邮件。**
+*你可以成为* [*介质成员*](https://sonery.medium.com/membership) *解锁我的全部写作权限，外加其余介质。如果你已经是了，别忘了订阅*<https://sonery.medium.com/subscribe>**如果你想在我发表新文章时收到电子邮件。**
 
-*[](https://sonery.medium.com/membership)  
+*<https://sonery.medium.com/membership>  
 
 感谢您的阅读。如果您有任何反馈，请告诉我。*

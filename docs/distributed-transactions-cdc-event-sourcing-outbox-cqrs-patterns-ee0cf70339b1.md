@@ -19,7 +19,7 @@
 *   命令查询响应分离
 *   发件箱模式
 
-[](https://linkedin.com/in/p-jainani)  
+<https://linkedin.com/in/p-jainani>  
 
 在我们分别讨论每个问题之前，让我们先描述两个重要的概念:
 
@@ -74,4 +74,4 @@
 
 在后续的文章中，我们将通过解决一个业务用例，同时利用云原生平台服务，详细阐述每个模式的实现。
 
-[](https://linkedin.com/in/p-jainani) 
+<https://linkedin.com/in/p-jainani> 

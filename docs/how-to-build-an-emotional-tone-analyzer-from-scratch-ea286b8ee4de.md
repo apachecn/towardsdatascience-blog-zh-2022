@@ -12,7 +12,7 @@
 
 在最近的一篇文章中，我展示了如何使用 IBM Watson 的“声调分析器”，它可以将文本的情感分析直接嵌入到用 Python(或其他语言)编写的机器学习应用程序中。
 
-[](/how-to-use-the-ibm-watson-tone-analyzer-to-perform-emotional-sentiment-analysis-in-python-d1d4ad022d0b)  
+</how-to-use-the-ibm-watson-tone-analyzer-to-perform-emotional-sentiment-analysis-in-python-d1d4ad022d0b>  
 
 本文继续开发和解释 Python 代码，探索与一个虚构的在线女装零售商的客户反馈相关的开放许可数据集，使用 tone analyzer 预测客户写评论时的情绪。
 
@@ -140,7 +140,7 @@ RandomForestClassifier(bootstrap=False, max_depth=40, max_features='sqrt', min_s
 
 使用混淆矩阵来可视化性能也是有用的。如果你对如何为 k 倍交叉验证建立混淆矩阵的完整解释感兴趣，我已经在另一篇文章中解释了细节
 
-[](/how-to-plot-a-confusion-matrix-from-a-k-fold-cross-validation-b607317e9874)  [](https://grahamharrison-86487.medium.com/how-to-plot-a-confusion-matrix-from-a-k-fold-cross-validation-b607317e9874)  ![](img/da91d8f368112c31022b3aa626f923ae.png)
+</how-to-plot-a-confusion-matrix-from-a-k-fold-cross-validation-b607317e9874>  <https://grahamharrison-86487.medium.com/how-to-plot-a-confusion-matrix-from-a-k-fold-cross-validation-b607317e9874>  ![](img/da91d8f368112c31022b3aa626f923ae.png)
 
 作者图片
 
@@ -236,4 +236,4 @@ Name: Emotion, dtype: float64
 
 如果你想通过订阅来支持作者和全世界 1000 个为文章写作做出贡献的人，请使用下面的链接(注意:如果你使用这个链接免费注册，作者将收到一定比例的费用)。
 
-[](https://grahamharrison-86487.medium.com/membership) 
+<https://grahamharrison-86487.medium.com/membership> 

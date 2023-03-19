@@ -87,4 +87,4 @@
 
 想了解更多关于数据科学和商业的信息吗？我可能有一些建议给你:
 
-[](/these-mistakes-could-easily-ruin-your-data-science-interviews-49ce03c36bef)  [](/5-mistakes-i-wish-i-had-avoided-in-my-data-science-career-6c22a44304a1)  [](https://medium.com/illumination/why-i-wont-participate-in-the-great-resignation-for-my-side-hustle-e6ef6f9c85ab) 
+</these-mistakes-could-easily-ruin-your-data-science-interviews-49ce03c36bef>  </5-mistakes-i-wish-i-had-avoided-in-my-data-science-career-6c22a44304a1>  <https://medium.com/illumination/why-i-wont-participate-in-the-great-resignation-for-my-side-hustle-e6ef6f9c85ab> 

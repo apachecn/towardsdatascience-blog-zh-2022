@@ -16,11 +16,11 @@
 
 今天，我决定分享一份我在帖子中使用的精选数据集的列表，作为我学习的一部分。尽情享受吧！
 
-[](https://ibexorigin.medium.com/membership)  
+<https://ibexorigin.medium.com/membership>  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex)  
+<https://alphasignal.ai/?referrer=Bex>  
 
 # 回归数据集
 
@@ -46,7 +46,7 @@
 
 **🎯目标:“戒指”**
 
-**🔗链接:**[](https://www.kaggle.com/rodolfomendes/abalone-dataset)
+**🔗链接:**<https://www.kaggle.com/rodolfomendes/abalone-dataset>
 
 ****📦尺寸:(4177，9)****
 
@@ -86,7 +86,7 @@
 
 ****🎯目标:“预期寿命。”****
 
-****🔗链接:**[](https://www.kaggle.com/kumarajarshi/life-expectancy-who/)**
+****🔗链接:**<https://www.kaggle.com/kumarajarshi/life-expectancy-who/>**
 
 ******📦尺寸:(2938，21)******
 
@@ -100,7 +100,7 @@
 
 ******🎯目标:'销售价格'******
 
-******🔗链接:**[](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho?ref=hackernoon.com&select=Car+details+v3.csv)****
+******🔗链接:**<https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho?ref=hackernoon.com&select=Car+details+v3.csv>****
 
 ********📦尺寸:(8128，12)********
 
@@ -158,7 +158,7 @@
 
 ******🎯目标:' stabf'******
 
-******🔗链接:**[](https://www.kaggle.com/pcbreviglieri/smart-grid-stability)****
+******🔗链接:**<https://www.kaggle.com/pcbreviglieri/smart-grid-stability>****
 
 ********📦尺寸:(60000，13)********
 
@@ -186,7 +186,7 @@
 
 ******🎯目标:“类”******
 
-******🔗链接:**[](https://www.kaggle.com/uciml/mushroom-classification)****
+******🔗链接:**<https://www.kaggle.com/uciml/mushroom-classification>****
 
 ********📦尺寸:(8124，23)********
 
@@ -200,7 +200,7 @@
 
 ******🎯目标:“类”******
 
-******🔗链接:**[](https://www.kaggle.com/ritesaluja/bank-note-authentication-uci-data)****
+******🔗链接:**<https://www.kaggle.com/ritesaluja/bank-note-authentication-uci-data>****
 
 ********📦尺寸:(1372，5)********
 
@@ -214,7 +214,7 @@
 
 ******🎯目标:“收入”******
 
-******🔗链接:**[](https://www.kaggle.com/wenruliu/adult-income-dataset)****
+******🔗链接:**<https://www.kaggle.com/wenruliu/adult-income-dataset>****
 
 ********📦尺寸:(48842，15)********
 
@@ -236,7 +236,7 @@
 
 ******⚙Missing 值:否******
 
-****[](/comprehensive-guide-to-multiclass-classification-with-sklearn-127cc500f362) **** 
+****</comprehensive-guide-to-multiclass-classification-with-sklearn-127cc500f362> **** 
 
 ## ****1️6️.ka ggle TPS 2021 年 5 月****
 
@@ -244,7 +244,7 @@
 
 ******🎯目标:“目标”******
 
-******🔗链接:**[](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho?ref=hackernoon.com&select=Car+details+v3.csv)****
+******🔗链接:**<https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho?ref=hackernoon.com&select=Car+details+v3.csv>****
 
 ********📦尺寸:(100000，52)********
 
@@ -252,7 +252,7 @@
 
 ****[📚入门笔记本](https://www.kaggle.com/subinium/tps-may-categorical-eda)****
 
-****[](/comprehensive-guide-on-multiclass-classification-metrics-af94cfb83fbd) **** 
+****</comprehensive-guide-on-multiclass-classification-metrics-af94cfb83fbd> **** 
 
 ## ****1️7️.卡格尔 TPS 2021 年 6 月****
 
@@ -260,7 +260,7 @@
 
 ******🎯目标:“目标”******
 
-******🔗链接:**[](https://www.kaggle.com/c/tabular-playground-series-jun-2021/data?select=train.csv)****
+******🔗链接:**<https://www.kaggle.com/c/tabular-playground-series-jun-2021/data?select=train.csv>****
 
 ********📦尺寸:(200000，77)********
 
@@ -274,7 +274,7 @@
 
 ******🎯目标:“切割”、“颜色”、“清晰度”******
 
-******🔗链接:**[](https://www.kaggle.com/shivam2503/diamondshttps://www.kaggle.com/shivam2503/diamonds)****
+******🔗链接:**<https://www.kaggle.com/shivam2503/diamondshttps://www.kaggle.com/shivam2503/diamonds>****
 
 ********📦尺寸:(53940，10)********
 
@@ -284,8 +284,8 @@
 
 ****找到一个好的、新颖的数据集很难，尤其是如果你是初学者的话。我希望我简化了这个过程，并能列出一个你可以收藏的清单。感谢阅读。****
 
-****[](https://ibexorigin.medium.com/membership)  [](https://ibexorigin.medium.com/subscribe)  
+****<https://ibexorigin.medium.com/membership>  <https://ibexorigin.medium.com/subscribe>  
 
 **我的更多故事……**
 
-[](https://ibexorigin.medium.com/python-became-the-language-of-the-year-3-times-in-4-years-it-wont-be-this-year-e5c724758ef)  [](/in-depth-spacy-tutorial-for-beginners-in-nlp-2ba4d961328f)  [](https://ibexorigin.medium.com/in-depth-guide-to-building-custom-sklearn-transformers-for-any-data-preprocessing-scenario-33450f8b35ff)  [](/advanced-missing-data-imputation-methods-with-sklearn-d9875cbcc6eb)  [](/10-minute-effortless-sql-tutorial-for-die-hard-pandas-lovers-a64c36733fd0) ****
+<https://ibexorigin.medium.com/python-became-the-language-of-the-year-3-times-in-4-years-it-wont-be-this-year-e5c724758ef>  </in-depth-spacy-tutorial-for-beginners-in-nlp-2ba4d961328f>  <https://ibexorigin.medium.com/in-depth-guide-to-building-custom-sklearn-transformers-for-any-data-preprocessing-scenario-33450f8b35ff>  </advanced-missing-data-imputation-methods-with-sklearn-d9875cbcc6eb>  </10-minute-effortless-sql-tutorial-for-die-hard-pandas-lovers-a64c36733fd0> ****

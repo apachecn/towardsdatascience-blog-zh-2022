@@ -23,7 +23,7 @@ HAP(SHapley Additive exPlanations)是一种流行的建模可解释性的方法�
 
 在这篇文章中，我们将集中在定制 SHAP 情节。如果你需要关于如何使用 SHAP 软件包的介绍或复习，我推荐 Conor O'Sullivan 的这篇文章:
 
-[](/introduction-to-shap-with-python-d27edc23c454)  
+</introduction-to-shap-with-python-d27edc23c454>  
 
 确保您安装了 SHAP **版本 0.41.0** 。否则，您会在本文的代码片段中遇到错误[1，3]。
 
@@ -84,7 +84,7 @@ plt.show()
 
 最近，我写了一篇文章强调色盲安全数据可视化的重要性。
 
-[](/is-your-color-palette-stopping-you-from-reaching-your-goals-bf3b32d2ac49)  
+</is-your-color-palette-stopping-you-from-reaching-your-goals-bf3b32d2ac49>  
 
 不幸的是，SHAP 的默认调色板既不是色盲也不是影印安全的(在 2022 年 8 月写作时)，正如你在下图中看到的。
 
@@ -225,7 +225,7 @@ shap.force_plot(shap_values[0],
 
 成为一名媒体成员，阅读更多其他作家和我的故事。报名时可以用我的 [*推荐链接*](https://medium.com/@iamleonie/membership) *支持我。我将收取佣金，不需要你额外付费。*
 
-[](https://medium.com/@iamleonie/membership)  
+<https://medium.com/@iamleonie/membership>  
 
 *在*[*Twitter*](https://twitter.com/helloiamleonie)*[*LinkedIn*](https://www.linkedin.com/in/804250ab/)*，以及*[*Kaggle*](https://www.kaggle.com/iamleonie)*！**
 

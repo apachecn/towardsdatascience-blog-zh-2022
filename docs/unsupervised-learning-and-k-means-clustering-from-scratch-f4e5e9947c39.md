@@ -177,7 +177,7 @@ K-means 是最流行的聚类算法。这是一种简单的聚类算法，适用
 
 在上一节中，我们看到初始聚类质心在 K-means 聚类算法中是随机分配的，这导致了随机的迭代和执行时间。因此，初始质心点的选择是算法中的一个关键问题。你可以阅读下面的文章，它代表了一种系统地选择初始质心的技术。
 
-[](/efficient-k-means-clustering-algorithm-with-optimum-iteration-and-execution-time-9358a794406c)  
+</efficient-k-means-clustering-algorithm-with-optimum-iteration-and-execution-time-9358a794406c>  
 
 该算法对复杂的分布式数据不太适用。
 
@@ -234,4 +234,4 @@ K-means 是最流行的聚类算法。这是一种简单的聚类算法，适用
 
 ****其他相关文章。你可以看看。****
 
-*[](/knn-algorithm-from-scratch-37febe0c15b3)  [](/efficient-k-means-clustering-algorithm-with-optimum-iteration-and-execution-time-9358a794406c)  [](/road-map-from-naive-bayes-theorem-to-naive-bayes-classifier-6395fc6d5d2a) *
+*</knn-algorithm-from-scratch-37febe0c15b3>  </efficient-k-means-clustering-algorithm-with-optimum-iteration-and-execution-time-9358a794406c>  </road-map-from-naive-bayes-theorem-to-naive-bayes-classifier-6395fc6d5d2a> *

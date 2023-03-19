@@ -96,11 +96,11 @@ Photo by [愚木混株 cdd20](https://unsplash.com/@cdd20?utm_source=unsplash&ut
 
 不确定接下来要读什么？我为你挑选了另一篇文章:
 
-[](/five-advanced-data-visualizations-all-data-scientists-should-know-e042d5e1f532)  
+</five-advanced-data-visualizations-all-data-scientists-should-know-e042d5e1f532>  
 
 **还有一个:**
 
-[](/over-100-data-scientist-interview-questions-and-answers-c5a66186769a)  
+</over-100-data-scientist-interview-questions-and-answers-c5a66186769a>  
 
 # 特伦斯·申
 

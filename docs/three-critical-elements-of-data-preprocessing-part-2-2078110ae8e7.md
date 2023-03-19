@@ -16,7 +16,7 @@
 
 在本系列的第一篇文章中，我介绍了数据预处理的数据集成组件，它涉及到组合来自不同来源的数据，以获得包含所有可用相关特性和示例的数据集。该文章的链接可在此处找到:
 
-[](/three-critical-elements-of-data-preprocessing-part-1-3c16f46f8ced)  
+</three-critical-elements-of-data-preprocessing-part-1-3c16f46f8ced>  
 
 在本文中，我将讨论数据预处理的下一个组成部分，也可能是建模目的中最关键的部分，即数据清洗。此外，我将分享处理数据清理过程不同部分的资源。
 
@@ -66,7 +66,7 @@ Missing values occur in several forms including:
 
 *资源:*
 
-[](https://www.ncbi.nlm.nih.gov/books/NBK493614/)    
+<https://www.ncbi.nlm.nih.gov/books/NBK493614/>    
 
 ## 处理异常值
 
@@ -116,4 +116,4 @@ Missing values occur in several forms including:
 
 什么更有趣？你可以通过下面我的推荐链接订阅 Medium 来获得更多我和其他作者的启发性文章，这也支持我的写作。
 
-[](https://aolaoye.medium.com/membership) 
+<https://aolaoye.medium.com/membership> 

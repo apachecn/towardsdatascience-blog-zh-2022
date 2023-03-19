@@ -22,7 +22,7 @@
 
 BERT 是一种基于 Transformer 编码器的语言模型。如果你对《变形金刚》不熟悉，我推荐你阅读[这篇惊人的文章](https://jalammar.github.io/illustrated-transformer/)。
 
-[](https://jalammar.github.io/illustrated-transformer/)  
+<https://jalammar.github.io/illustrated-transformer/>  
 
 **伯特一言以蔽之**:
 
@@ -49,7 +49,7 @@ BERT 是一种基于 Transformer 编码器的语言模型。如果你对《变�
 
 如果你想了解更多关于 BERT 或他的**单词标记器**的信息，请查看以下资源:
 
-  [](https://huggingface.co/blog/bert-101)  [](/wordpiece-subword-based-tokenization-algorithm-1fbd14394ed7)  [](https://huggingface.co/docs/transformers/tokenizer_summary)  
+  <https://huggingface.co/blog/bert-101>  </wordpiece-subword-based-tokenization-algorithm-1fbd14394ed7>  <https://huggingface.co/docs/transformers/tokenizer_summary>  
 
 # 我们来编码吧！
 

@@ -102,4 +102,4 @@ pyheat 热图
 
 *本文最初发布于*[*martinheinz . dev*](https://martinheinz.dev/blog/64?utm_source=medium&utm_medium=referral&utm_campaign=blog_post_64)
 
-[](/speeding-up-container-image-builds-with-remote-cache-c72577317886)  [](/the-unknown-features-of-pythons-operator-module-1ad9075d9536)  [](/functools-the-power-of-higher-order-functions-in-python-8e6e61c6e4e4) 
+</speeding-up-container-image-builds-with-remote-cache-c72577317886>  </the-unknown-features-of-pythons-operator-module-1ad9075d9536>  </functools-the-power-of-higher-order-functions-in-python-8e6e61c6e4e4> 

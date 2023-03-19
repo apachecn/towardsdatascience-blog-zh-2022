@@ -176,4 +176,4 @@ Interview query 围绕真实数据科学工作的每个方面都有大量的问�
 
 查看我的其他文章:
 
-[](https://medium.com/@skylar.kerzner/publish-your-first-python-package-to-pypi-8d08d6399c2f)  [](https://medium.com/@skylar.kerzner/making-python-packages-part-3-designing-your-classes-82b3a5786e30) 
+<https://medium.com/@skylar.kerzner/publish-your-first-python-package-to-pypi-8d08d6399c2f>  <https://medium.com/@skylar.kerzner/making-python-packages-part-3-designing-your-classes-82b3a5786e30> 

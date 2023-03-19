@@ -105,7 +105,7 @@ clf.fit(train_X, train_Y)
 
 要了解更多关于机器学习环境中分类和回归问题之间的区别，请务必阅读我在 Medium 上的一篇旧文章，分享如下。
 
-[](https://medium.com/analytics-vidhya/regression-vs-classification-29ec592c7fea)  
+<https://medium.com/analytics-vidhya/regression-vs-classification-29ec592c7fea>  
 
 ## 最后的想法
 
@@ -115,8 +115,8 @@ clf.fit(train_X, train_Y)
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读媒介上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership)  
+<https://gmyrianthous.medium.com/membership>  
 
 **相关文章你可能也喜欢**
 
-[](/scikit-learn-vs-sklearn-6944b9dc1736)  [](/predict-vs-predict-proba-scikit-learn-bdc45daa5972)  [](/training-vs-testing-vs-validation-sets-a44bed52a0e1) 
+</scikit-learn-vs-sklearn-6944b9dc1736>  </predict-vs-predict-proba-scikit-learn-bdc45daa5972>  </training-vs-testing-vs-validation-sets-a44bed52a0e1> 

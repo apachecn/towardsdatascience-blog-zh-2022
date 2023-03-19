@@ -81,4 +81,4 @@ Julia 允许我们通过实例化的结构调用函数。在某种程度上，�
 
 如果你愿意尝试，并且能处理偶尔的怪癖，你绝对应该给朱莉娅一个机会。
 
-*原载于 2022 年 2 月 28 日 https://sarem-seitz.com*[](https://sarem-seitz.com/blog/implementing-neural-networks-in-16-lines-of-raw-julia/)**。**
+*原载于 2022 年 2 月 28 日 https://sarem-seitz.com*<https://sarem-seitz.com/blog/implementing-neural-networks-in-16-lines-of-raw-julia/>**。**

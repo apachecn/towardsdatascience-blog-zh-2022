@@ -6,7 +6,7 @@
 
 ANSYS [最近宣布](https://www.ansys.com/blog/ansys-gets-into-open-source-with-github?utm_campaign=brand&utm_source=marketing-automation&utm_medium=email-single&utm_content=digital_weekly-blog_211015_blog-weekly_roundup_en_global&campaignID=)支持一个开源项目: [PyAnsys](https://www.ansys.com/blog/ansys-gets-into-open-source-with-github?utm_campaign=brand&utm_source=marketing-automation&utm_medium=email-single&utm_content=digital_weekly-blog_211015_blog-weekly_roundup_en_global&campaignID=) 。PyAnsys 被拆分成多个包: [PyMAPDL](https://mapdldocs.pyansys.com/user_guide/index.html) 用于与 Ansys multiphysics 仿真和方程解算器的实例进行交互，以及 [PyDPF-Core](https://github.com/pyansys/pydpf-core) ( &它的简化兄弟 [PyDPF-Post](https://github.com/pyansys/pydpf-post) )用于后处理 Ansys 结果文件。这是 Python Web 应用程序中 Ansys 的姊妹文章，第 1 部分:使用 PyDPF 进行后处理。
 
-[](/ansys-in-a-python-web-app-part-1-post-processing-with-pydpf-44d2fbaa6135)  
+</ansys-in-a-python-web-app-part-1-post-processing-with-pydpf-44d2fbaa6135>  
 
 在本文中，我将使用 PyMAPDL，Dash & Dash-VTK 构建一个 web 应用程序，该应用程序构建一个模型，运行模态分析，并呈现一些结果。你可以在[这个 GitHub 库](https://github.com/shkiefer/pyAnsys_MAPDL_dash)里看到完整的文件(笔记本和 Dash app)。这就是它的作用:
 
@@ -20,11 +20,11 @@ PyMAPDL Web 应用程序正在运行！图片作者。
 
 虽然自首次亮相以来它已经发展了很多，但你可以阅读 2017 年的公告文章，以了解 Dash 的更多背景信息:
 
-[](https://medium.com/plotly/introducing-dash-5ecf7191b503)  
+<https://medium.com/plotly/introducing-dash-5ecf7191b503>  
 
 你还可以在本文中看到更多关于 Dash_VTK 的内容:
 
-[](/3d-mesh-models-in-the-browser-using-python-dash-vtk-e15cbf36a132)  
+</3d-mesh-models-in-the-browser-using-python-dash-vtk-e15cbf36a132>  
 
 # PyMAPDL
 

@@ -24,7 +24,7 @@
 
 当人们把你视为专家时，你在管理层的知名度会提高，他们会开始更多地寻求你的专业知识。这将导致获得最重要的利益相关者的支持——管理层的支持。
 
-[](/data-scientists-how-to-sell-your-project-and-yourself-41e44685cfc0)  
+</data-scientists-how-to-sell-your-project-and-yourself-41e44685cfc0>  
 
 # 2.利用可用的资源
 
@@ -36,7 +36,7 @@
 
 我一直发现，这是我的工作被整个组织接受和使用的一个关键因素。我没有宣传我工作的价值，而是首先与那些对分析感兴趣的人建立了牢固的关系。他们将成为你的冠军。你的拥护者将促进你的工作，并为当前和未来的项目创造支持。这将解决作为一名数据科学家取得成功的最重要的方面之一——利益相关者管理。
 
-[](/3-critical-aspects-of-effective-stakeholder-management-for-data-science-projects-b2bf3a472da3)  
+</3-critical-aspects-of-effective-stakeholder-management-for-data-science-projects-b2bf3a472da3>  
 
 # 4.与您的 IT 团队建立牢固的工作关系
 
@@ -48,8 +48,8 @@
 
 我自愿参加了一个虚拟研讨会，这让我与其他行业的数据科学家进行了几次对话。学习必须继续，我们很可能必须向外看。
 
-[](/a-hiring-manager-who-went-through-120-resumes-for-a-junior-data-scientist-role-21216d0507d4)  
+</a-hiring-manager-who-went-through-120-resumes-for-a-junior-data-scientist-role-21216d0507d4>  
 
 有很多关于如何成为一名成功的数据科学家的资源，但大多数建议都是针对预算较大的大型项目/组织的。如果你是一家小型组织的数据科学家，我列出的五个技巧应该有助于你走向成功。与您的支持者和 IT 团队建立牢固的工作关系，这样他们可以为您消除任何障碍，让您更高效地工作。与其他数据科学家建立联系，以便您可以从他们的经验中学习，并了解该领域的最新发展。并继续学习；永远不要停止发展你的技能，因为这将使你与众不同。有了这些工具，即使你不在谷歌或脸书工作，你也一定会在数据科学职业生涯中取得长足进步！
 
-[](https://ilro.medium.com/membership) 
+<https://ilro.medium.com/membership> 

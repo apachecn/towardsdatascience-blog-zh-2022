@@ -12,7 +12,7 @@
 
 这可以通过多种方式实现。一种常见的方法是给程序添加参数。这是我以前的一篇文章，详细介绍了这种方法。
 
-[](/typer-probably-the-simplest-to-use-python-command-line-interface-library-17abf1a5fd3e)  
+</typer-probably-the-simplest-to-use-python-command-line-interface-library-17abf1a5fd3e>  
 
 然而，使用参数的局限性也是显而易见的。
 
@@ -342,7 +342,7 @@ config['Indented Section']['name']
 
 在本文中，我介绍了一个名为`configparser`的 Python 内置库。它允许我们动态地从文本文件中读取和写入参数。它还提供了许多现成的特性，例如将值读入某些数据类型和回退值。它还支持多种键值对格式，可以很好地处理注释、空键和无用的缩进。
 
-[](https://medium.com/@qiuyujx/membership)  
+<https://medium.com/@qiuyujx/membership>  
 
 如果你觉得我的文章有帮助，请考虑加入 Medium 会员来支持我和成千上万的其他作者！(点击上面的链接)
 

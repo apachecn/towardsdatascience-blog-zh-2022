@@ -20,13 +20,13 @@ Python 非常容易使用；清晰的语法、解释器和鸭式输入让你可�
 
 对于那些不熟悉 Cython 和 CythonBuilder 的人，我们将回答一些探索性的问题。然后我们将定义我们的示例项目。我们将使用命令行，如果您不熟悉，请仔细阅读:
 
-[](/terminals-consoles-command-line-for-absolute-beginners-de7853c7f5e8)  
+</terminals-consoles-command-line-for-absolute-beginners-de7853c7f5e8>  
 
 ## 什么是 Cython /为什么使用 Cython？
 
 Cython 将 Python 代码转换成包含 CPU 指令的文件。Python 解释器不再需要对这个文件进行任何检查；它可以运行它。这导致了性能的显著提高。查看下面的文章，了解关于 Python 如何工作以及它与 C 语言相比如何的更多详细信息:
 
-[](/why-is-python-so-slow-and-how-to-speed-it-up-485b5a84154e)  
+</why-is-python-so-slow-and-how-to-speed-it-up-485b5a84154e>  
 
 当你把一段代码变成 Cythonize 时，你就给你的代码添加了额外的信息；定义类型，例如，然后编译代码，这样 Python 就不必执行额外的检查。同样，查看上面的文章可以获得更深入的分析。
 
@@ -42,13 +42,13 @@ Cythonizing 一个 pyx 文件(作者图片)
 
 并不是所有的代码都是编译好的。例如，在 C 包中等待 API 的响应并不会更快。简而言之:我们专注于需要大量计算的 CPU 密集型任务。在下面的文章中阅读更多，以获得更清晰的区别。
 
-[](/multi-tasking-in-python-speed-up-your-program-10x-by-executing-things-simultaneously-4b4fc7ee71e)  
+</multi-tasking-in-python-speed-up-your-program-10x-by-executing-things-simultaneously-4b4fc7ee71e>  
 
 ## CythonBuilder —自动化 Cythonizing
 
 你是如何将你的`.pyx`文件有效化的？这个过程相当复杂；您必须创建一个`setup.py`，定义所有的包，然后运行一些命令(参见下面的文章)。相反，我们将使用[**CythonBuilder**](https://pypi.org/project/cythonbuilder/)**:**一个**为我们自动化一切的包**:在一个命令中构建你的`.pyx`文件！
 
-[](/getting-started-with-cython-how-to-perform-1-7-billion-calculations-per-second-in-python-b83374cfcf77)  ![](img/7c2d9fcaeac0c35abeca7964411c94e6.png)
+</getting-started-with-cython-how-to-perform-1-7-billion-calculations-per-second-in-python-b83374cfcf77>  ![](img/7c2d9fcaeac0c35abeca7964411c94e6.png)
 
 你的代码经过了两步(图片由 [Sammy Wong](https://unsplash.com/@vr2ysl) 上的 [Unsplash](https://unsplash.com/photos/lFMIQ6AiiW8)
 
@@ -141,7 +141,7 @@ Cy+Options:  0.9562186 seconds (30.838 faster than PurePython
 
 通过利用我们的多核处理器，我们有可能进一步加速我们的代码。查看下面的文章，了解如何在 Python 程序中应用多处理和线程。另请查看[**这篇文章**向您展示了如何对 Cython 代码](https://mikehuls.medium.com/getting-started-with-cython-how-to-perform-1-7-billion-calculations-per-second-in-python-b83374cfcf77)进行多进程处理，并解释了 Cython 的注释文件:图形化概述了您的代码的哪些部分可以进一步优化。非常方便！
 
-[](/advanced-multi-tasking-in-python-applying-and-benchmarking-threadpools-and-processpools-90452e0f7d40)  
+</advanced-multi-tasking-in-python-applying-and-benchmarking-threadpools-and-processpools-90452e0f7d40>  
 
 # 结论
 
@@ -166,4 +166,4 @@ CythonBuilder 使得使用 Cython 加速我们的 Python 代码变得很容易�
 
 *又及:喜欢我正在做的事吗？* [*跟我来！*](https://mikehuls.medium.com/membership)
 
-[](https://mikehuls.medium.com/membership) 
+<https://mikehuls.medium.com/membership> 

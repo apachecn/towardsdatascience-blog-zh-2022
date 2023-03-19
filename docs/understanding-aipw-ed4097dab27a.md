@@ -405,7 +405,7 @@ simulate_estimators(['age'], ['male', 'hours'], D="dark_mode", y="read_time")
 
 ****你可以在这里找到 Jupyter 的原始笔记本:****
 
-****[](https://github.com/matteocourthoud/Blog-Posts/blob/main/notebooks/aipw.ipynb) **** 
+****<https://github.com/matteocourthoud/Blog-Posts/blob/main/notebooks/aipw.ipynb> **** 
 
 ## ****感谢您的阅读！****
 

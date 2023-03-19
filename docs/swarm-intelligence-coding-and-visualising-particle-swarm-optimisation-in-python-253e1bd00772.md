@@ -124,7 +124,7 @@ Number of Generations:  68
 
 本文探讨了粒子群优化算法，用简单的代码来理解其中的机制。如果你对 PSO 在 ML 中的应用感兴趣，我强烈推荐阅读下面这篇关于将机器学习集成到各种元启发式算法中的文章。
 
-[](https://www.sciencedirect.com/science/article/pii/S0377221721003623)  
+<https://www.sciencedirect.com/science/article/pii/S0377221721003623>  
 
 **参考:**
 

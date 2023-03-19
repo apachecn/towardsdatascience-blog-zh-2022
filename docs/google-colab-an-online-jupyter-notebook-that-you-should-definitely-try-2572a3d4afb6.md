@@ -92,4 +92,4 @@ Colab 单元格中显示的数据框架—作者图片
 
 一如既往，感谢阅读。如果你愿意，你可以订阅我偶尔发布的免费时事通讯，Substack 上的[Technofile](https://technofile.substack.com/)——我在那里发布新文章。[这里](https://technofile.substack.com/p/streamlit-special)举例来说就是我写的一堆 [Streamlit 文章](https://technofile.substack.com/p/streamlit-special)的帖子。
 
-[](https://alanjones2.github.io/) 
+<https://alanjones2.github.io/> 

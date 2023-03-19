@@ -90,8 +90,8 @@
 
 希望你从这些建议中学到了有用的东西。在用 SQL 编码时，你发现了哪些有用的技巧？我也期待听到你的建议，请在评论中链接其他有用的文章，谢谢！
 
-[](https://medium.com/@andreasmartinson/membership)  
+<https://medium.com/@andreasmartinson/membership>  
 
 如果你喜欢这篇文章，请在 LinkedIn 上联系我，或者看看我的另一个故事:
 
-[](/why-is-nobody-talking-about-sql-anti-joins-f970a5f6cb54)  [](/5-window-function-examples-to-take-your-sql-skills-to-the-next-level-2b3306650bb6) 
+</why-is-nobody-talking-about-sql-anti-joins-f970a5f6cb54>  </5-window-function-examples-to-take-your-sql-skills-to-the-next-level-2b3306650bb6> 

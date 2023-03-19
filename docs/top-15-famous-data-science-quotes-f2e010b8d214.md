@@ -34,7 +34,7 @@
 
 这是我最喜欢的数据科学名言之一。它提到了数据科学的“最后一英里”,并推断我们可以接触到聪明的数据科学家和良好的数据，但如果我们无法影响关键决策者根据研究结果采取行动，那么一切都是徒劳的，我们心爱的模型注定会在数据科学的书架上积灰。
 
-[](https://www.amazon.co.uk/Analytics-Lifecycle-Toolkit-Practical-Capability-ebook/dp/B07BB63MXH)  
+<https://www.amazon.co.uk/Analytics-Lifecycle-Toolkit-Practical-Capability-ebook/dp/B07BB63MXH>  
 
 > ***2。“拷问数据，它什么都会坦白。”***
 
@@ -72,7 +72,7 @@ Jim Barksdale 鼓励他的团队带着可以在决策过程中分析的数据来
 
 根据丹尼尔·卡内曼的著作，纯粹的直觉是一种谬误，根据推论，仅仅依靠直觉而没有数据和证据的决策者会做出错误的或者只是侥幸的决定。
 
-[](https://www.amazon.co.uk/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576)  
+<https://www.amazon.co.uk/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576>  
 
 > ***7。“大数据就像青少年性行为；每个人都在谈论它，没有人真正知道如何去做，每个人都认为其他人都在做，所以每个人都声称自己在做。”***
 

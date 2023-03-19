@@ -103,11 +103,11 @@ SISA 方法:代替重新训练模型，你只需要重新处理部分输入。�
 
 **这是我的 GitHub 知识库的链接，我计划在这里收集代码和许多与机器学习、人工智能等相关的资源。**
 
-**[](https://github.com/SalvatoreRa/tutorial)  
+**<https://github.com/SalvatoreRa/tutorial>  
 
 或者随意查看我在 Medium 上的其他文章:
 
-[](/how-science-contribution-has-become-a-toxic-environment-6beb382cebcd)  [](/machine-learning-to-tackle-climate-change-7911e004c3a2)  [](/how-ai-could-fuel-global-warming-8f6e1dda6711)  [](/googles-minerva-solving-math-problems-with-ai-4f0a6aaabaf1)  
+</how-science-contribution-has-become-a-toxic-environment-6beb382cebcd>  </machine-learning-to-tackle-climate-change-7911e004c3a2>  </how-ai-could-fuel-global-warming-8f6e1dda6711>  </googles-minerva-solving-math-problems-with-ai-4f0a6aaabaf1>  
 
 **附加资源**
 

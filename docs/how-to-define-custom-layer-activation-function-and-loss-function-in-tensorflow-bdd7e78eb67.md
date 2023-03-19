@@ -20,11 +20,11 @@
 
 以下是数据集的链接:
 
-[](https://datahub.io/machine-learning/autos#resource-autos)  
+<https://datahub.io/machine-learning/autos#resource-autos>  
 
 我已经根据需要清理了数据集。请随时从这里下载干净的数据集，以便跟进:
 
-[](https://github.com/rashida048/Tensorflow/blob/main/auto_price.csv)  
+<https://github.com/rashida048/Tensorflow/blob/main/auto_price.csv>  
 
 我们开始吧。
 
@@ -233,4 +233,4 @@ Tensorflow 可以如此动态地使用。有很多不同的方法可以操纵它
 
 ## 更多阅读
 
-[](/a-step-by-step-tutorial-to-develop-a-multi-output-model-in-tensorflow-ec9f13e5979c)  [](/regression-in-tensorflow-using-both-sequential-and-function-apis-314e74b537ca)  [](/what-is-a-recurrent-neural-network-and-implementation-of-simplernn-gru-and-lstm-models-in-keras-f7247e97c405)  [](/30-very-useful-pandas-functions-for-everyday-data-analysis-tasks-f1eae16409af)  [](/pivot-and-unpivot-functions-in-bigquery-for-better-data-manipulation-f0230295bd5e) 
+</a-step-by-step-tutorial-to-develop-a-multi-output-model-in-tensorflow-ec9f13e5979c>  </regression-in-tensorflow-using-both-sequential-and-function-apis-314e74b537ca>  </what-is-a-recurrent-neural-network-and-implementation-of-simplernn-gru-and-lstm-models-in-keras-f7247e97c405>  </30-very-useful-pandas-functions-for-everyday-data-analysis-tasks-f1eae16409af>  </pivot-and-unpivot-functions-in-bigquery-for-better-data-manipulation-f0230295bd5e> 

@@ -241,7 +241,7 @@ GPT 三号写道:
 
 ![](img/a731c3b5c73fe9c7b24e9ed40ee79e8a.png)
 
-[](https://opensea.io/collection/ganfolk)**，图片作者**
+<https://opensea.io/collection/ganfolk>**，图片作者**
 
 # **结论**
 

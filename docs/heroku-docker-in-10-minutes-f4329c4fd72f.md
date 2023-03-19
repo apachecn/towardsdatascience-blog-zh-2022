@@ -32,7 +32,7 @@ Heroku 是一个云平台即服务(PaaS)，允许应用程序托管在云上。�
 
 ***更新*** *: Heroku 已于 2022 年 11 月移除其免费层，替代方案是使用 Google Cloud 或 Fly。如果你使用的是付费版本的 Heroku，请继续阅读！*
 
-[](/google-cloud-vs-fly-io-as-heroku-alternatives-1f5a47716a58)  
+</google-cloud-vs-fly-io-as-heroku-alternatives-1f5a47716a58>  
 
 # 为什么是 Docker？
 
@@ -121,7 +121,7 @@ build:
 
 希望你已经学会了如何使用 Docker 在 Heroku 上部署 Python 应用程序。如果您有兴趣查看我以同样方式部署的 web 应用程序，链接在下面！
 
-[](https://kayjan.herokuapp.com)  
+<https://kayjan.herokuapp.com>  
 
 **感谢您的阅读！如果你喜欢这篇文章，请随意分享。**
 

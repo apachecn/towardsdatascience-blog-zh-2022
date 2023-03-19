@@ -78,4 +78,4 @@
 
 不知道接下来要读什么？以下是一些建议:
 
-[](/why-i-joined-mckinsey-as-a-data-scientist-2fb3b586fd0d)  [](/productivity-tips-for-data-scientists-eb66242fde27)  [](/top-qualities-hiring-managers-look-for-in-data-scientist-candidates-2e2cd52444c2) 
+</why-i-joined-mckinsey-as-a-data-scientist-2fb3b586fd0d>  </productivity-tips-for-data-scientists-eb66242fde27>  </top-qualities-hiring-managers-look-for-in-data-scientist-candidates-2e2cd52444c2> 

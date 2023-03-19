@@ -117,7 +117,7 @@ ROC AUC: 0.9271
 
 您可以在我的 github 存储库中找到可用的代码，所以可以跳过这一部分。
 
-[](https://github.com/vinyluis/Articles/tree/main/ROC%20Curve%20and%20ROC%20AUC)  
+<https://github.com/vinyluis/Articles/tree/main/ROC%20Curve%20and%20ROC%20AUC>  
 
 首先，我们需要在数据集中训练一个分类器模型:
 
@@ -237,4 +237,4 @@ plot_sklearn_roc_curve(y_test, y_pred)
 
 如果你喜欢这个主题，可以看看我解释 ROC 曲线用于多类分类的文章:
 
-[](/multiclass-classification-evaluation-with-roc-curves-and-roc-auc-294fd4617e3a) 
+</multiclass-classification-evaluation-with-roc-curves-and-roc-auc-294fd4617e3a> 

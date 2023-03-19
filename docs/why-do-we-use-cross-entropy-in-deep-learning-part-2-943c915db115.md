@@ -195,4 +195,4 @@ N 个数据点批次的 BCE 公式。图片由作者提供。
 
 最后，如果你想阅读更多关于如何使用神经网络模型进行分类的内容，我推荐阅读我的文章[5 分钟内 Sigmoid 和 SoftMax 函数](https://medium.com/towards-data-science/sigmoid-and-softmax-functions-in-5-minutes-f516c80ea1f9?source=user_profile---------3----------------------------)，其中我解释了用于输出多类和二元问题中概率分布的两个激活函数。
 
-[](/sigmoid-and-softmax-functions-in-5-minutes-f516c80ea1f9) 
+</sigmoid-and-softmax-functions-in-5-minutes-f516c80ea1f9> 

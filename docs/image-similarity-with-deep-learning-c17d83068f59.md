@@ -21,7 +21,7 @@
 如果你想运行本文中的代码，可以去 Google Colab 笔记本。
 *您需要在笔记本中上传并引用自己的图片。*
 
-[](https://colab.research.google.com/drive/1fgFMR-9dpx13CKZm_uYRwbji79PT83Pu?usp=sharing)  
+<https://colab.research.google.com/drive/1fgFMR-9dpx13CKZm_uYRwbji79PT83Pu?usp=sharing>  
 
 # 用例
 
@@ -142,7 +142,7 @@ TensorFlow Hub 可以轻松重用已经预先训练好的[图像特征和矢量�
 
 我希望这篇文章能启发您思考您特定领域中的用例。如果你打算将相似性搜索投入生产，我有一篇谷歌顶点人工智能匹配引擎的文章和视频。
 
-[](https://medium.com/google-cloud/all-you-need-to-know-about-google-vertex-ai-matching-engine-3344e85ad565)  [](https://medium.com/google-cloud/real-time-deep-learning-vector-similarity-search-8d791821f3ad)  
+<https://medium.com/google-cloud/all-you-need-to-know-about-google-vertex-ai-matching-engine-3344e85ad565>  <https://medium.com/google-cloud/real-time-deep-learning-vector-similarity-search-8d791821f3ad>  
 
 # 感谢阅读
 

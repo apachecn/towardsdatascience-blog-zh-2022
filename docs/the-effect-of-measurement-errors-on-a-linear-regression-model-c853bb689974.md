@@ -33,7 +33,7 @@
 
 **用数据集中的第 I 行表示的线性模型(图片由作者提供)**
 
-**为了方便起见，我们将继续使用等式(1)而不是(1a)。让我们假设 ***x*** *_2* 和****x****_ 3*是[](/what-are-exogenous-and-endogenous-regression-variables-c0ea1ba03ce8)**即与***【ϵ***不相关，那么等式(1)(或 1a)中的模型可以使用普通最小二乘法(OLS)一致地估计[](/the-consistent-estimator-913fab06f4f3)*****
+**为了方便起见，我们将继续使用等式(1)而不是(1a)。让我们假设 ***x*** *_2* 和****x****_ 3*是</what-are-exogenous-and-endogenous-regression-variables-c0ea1ba03ce8>**即与***【ϵ***不相关，那么等式(1)(或 1a)中的模型可以使用普通最小二乘法(OLS)一致地估计</the-consistent-estimator-913fab06f4f3>*****
 
 ******我们假设 ***y*** *** 是因变量的真实(确切)值但我们测得(即观察到)的值是***y******y***包含一个误差 ***ν*** 我们假设这个误差是可加的。我们可以将 ***y*** *** 与 ***y*** 的关系表示如下:******
 
@@ -49,7 +49,7 @@
 
 ******包含错误测量的响应变量的线性模型(图片由作者提供)******
 
-******在上面的模型中， ***x*** *_2* 和****x****_ 3*继续保持[外生](/what-are-exogenous-and-endogenous-regression-variables-c0ea1ba03ce8)即不与*复合*误差项**(***+*)因此，就像早期的模型一样，等式(3)中的模型可以使用普通最小二乘法(OLS)和 OLS 一致地估计[](/the-consistent-estimator-913fab06f4f3)**，将产生所有回归系数的无偏估计。***********
+******在上面的模型中， ***x*** *_2* 和****x****_ 3*继续保持[外生](/what-are-exogenous-and-endogenous-regression-variables-c0ea1ba03ce8)即不与*复合*误差项**(***+*)因此，就像早期的模型一样，等式(3)中的模型可以使用普通最小二乘法(OLS)和 OLS 一致地估计</the-consistent-estimator-913fab06f4f3>**，将产生所有回归系数的无偏估计。***********
 
 ********我们来考察一下随机变量*(****ϵ****+****ν****)的均值和方差特性。*对于两个*独立*随机变量***X****_ 1*和***X****_ 2*的均值和方差，我们将使用以下两个恒等式********
 
@@ -172,7 +172,7 @@
 
 # ******进一步阅读的建议******
 
-******[](/the-consistent-estimator-913fab06f4f3)  [](/what-happens-when-you-omit-important-variables-from-your-regression-model-966830590d53)  [](/what-are-exogenous-and-endogenous-regression-variables-c0ea1ba03ce8)  [](/introduction-to-instrumental-variables-estimation-3eba75a04418)  [](/introduction-to-two-stage-least-squares-estimation-4dbabdd98102)  
+******</the-consistent-estimator-913fab06f4f3>  </what-happens-when-you-omit-important-variables-from-your-regression-model-966830590d53>  </what-are-exogenous-and-endogenous-regression-variables-c0ea1ba03ce8>  </introduction-to-instrumental-variables-estimation-3eba75a04418>  </introduction-to-two-stage-least-squares-estimation-4dbabdd98102>  
 
 # 参考文献、引文和版权
 

@@ -59,8 +59,8 @@
 
 如果你想了解更多关于以数据为中心的人工智能，你可以听听我在伦敦为 ML 社区做的[演讲](https://www.youtube.com/watch?v=LlzZGcpzqVM)。
 
-*PS:我正在 Medium 和*[](https://www.aboutdatablog.com/)**上撰写深入浅出地解释基本数据科学概念的文章。你可以订阅我的* [***邮件列表***](https://medium.com/subscribe/@konkiewicz.m) *每次我写新文章都会收到通知。如果你还不是中等会员，你可以在这里加入**[***。***](https://medium.com/@konkiewicz.m/membership)**
+*PS:我正在 Medium 和*<https://www.aboutdatablog.com/>**上撰写深入浅出地解释基本数据科学概念的文章。你可以订阅我的* [***邮件列表***](https://medium.com/subscribe/@konkiewicz.m) *每次我写新文章都会收到通知。如果你还不是中等会员，你可以在这里加入**[***。***](https://medium.com/@konkiewicz.m/membership)**
 
 **下面是一些你可能会喜欢的帖子**
 
-**[](/moderation-pipeline-for-user-generated-content-59e7f3c320e0)  [](/categorizing-customer-support-requests-7c285a9cf974)  [](/human-in-the-loop-in-machine-translation-systems-bdf3fe82bfa3)  [](/how-to-successfully-add-large-data-sets-to-google-drive-130beb320f1a) **
+**</moderation-pipeline-for-user-generated-content-59e7f3c320e0>  </categorizing-customer-support-requests-7c285a9cf974>  </human-in-the-loop-in-machine-translation-systems-bdf3fe82bfa3>  </how-to-successfully-add-large-data-sets-to-google-drive-130beb320f1a> **

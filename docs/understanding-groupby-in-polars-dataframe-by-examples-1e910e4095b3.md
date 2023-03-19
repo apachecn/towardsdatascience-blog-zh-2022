@@ -454,7 +454,7 @@ q.collect()
 
 作者图片
 
-[](https://weimenglee.medium.com/membership)  
+<https://weimenglee.medium.com/membership>  
 
 > 我将在即将到来的新加坡 ML 会议(2022 年 11 月 22-24 日)上主持一个关于 Polars 的研讨会。如果你想在 Polars 数据框架上快速起步，请在[https://ml conference . ai/machine-learning-advanced-development/using-Polars-for-data-analytics-workshop/](https://mlconference.ai/machine-learning-advanced-development/using-polars-for-data-analytics-workshop/)注册我的研讨会。
 
@@ -466,4 +466,4 @@ q.collect()
 
 以下是我以前关于 Polars 数据框架的文章，供您参考:
 
-[](/getting-started-with-the-polars-dataframe-library-6f9e1c014c5c)  [](/understanding-lazy-evaluation-in-polars-b85ccb864d0c)  [](/visualizing-polars-dataframes-using-plotly-express-8da4357d2ee0)  [](/manipulating-values-in-polars-dataframes-1087d88dd436) 
+</getting-started-with-the-polars-dataframe-library-6f9e1c014c5c>  </understanding-lazy-evaluation-in-polars-b85ccb864d0c>  </visualizing-polars-dataframes-using-plotly-express-8da4357d2ee0>  </manipulating-values-in-polars-dataframes-1087d88dd436> 

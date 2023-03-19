@@ -6,7 +6,7 @@
 
 在前几章中，我们看到了如何使用索引。我们要么使用`DataFrame`中提供的默认索引，要么将一列转换成索引。
 
-[](https://battox.medium.com/a-thorough-intro-to-pandas-for-data-analysis-ii-d09cbbf67cd)  
+<https://battox.medium.com/a-thorough-intro-to-pandas-for-data-analysis-ii-d09cbbf67cd>  
 
 现在，我们将看到 Pandas 提供的更多可能性，以通过索引探索一个`DataFrame`，以及我们如何能够拥有多个索引。
 

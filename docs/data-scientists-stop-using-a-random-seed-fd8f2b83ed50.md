@@ -39,7 +39,7 @@
 
 下面这篇文章很好地解释了这一点。
 
-[](https://laurenoakdenrayner.com/2019/09/19/ai-competitions-dont-produce-useful-models/)  
+<https://laurenoakdenrayner.com/2019/09/19/ai-competitions-dont-produce-useful-models/>  
 
 ## 安全性
 

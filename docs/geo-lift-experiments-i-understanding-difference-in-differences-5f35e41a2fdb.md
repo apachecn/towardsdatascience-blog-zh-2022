@@ -53,4 +53,4 @@ uplift = post_release_diff - pre_release_diff
 
 如果你喜欢阅读我的文章，愿意支持我的写作，并且正在考虑订阅一个媒体，请随时使用我下面的推荐链接。我会从你的订阅费中提成。
 
-[](https://medium.com/@kaushsk12/membership) 
+<https://medium.com/@kaushsk12/membership> 

@@ -10,7 +10,7 @@
 
 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上由 [Aniket Bhattacharya](https://unsplash.com/@aniket940518?utm_source=medium&utm_medium=referral) 拍摄的照片
 
-首先，我简单解释一下什么是**无代码 AI 技术**。无代码人工智能是一种无代码技术，它使非人工智能专家能够在不需要人工智能专家的情况下实现和测试他们的想法。无代码人工智能平台帮助人工智能专家以更少的努力更快地构建 ML 解决方案。它们还提供了人工智能专家和领域专家之间的合作机会。无代码 AI 平台有**拖拽(如**[](https://sway-ai.com/)****)**或**基于向导的界面(如**[**Akkio**](https://www.akkio.com/)**)**。在这篇文章中，我描述了一个无代码人工智能平台如何帮助大规模采用人工智能技术。**
+首先，我简单解释一下什么是**无代码 AI 技术**。无代码人工智能是一种无代码技术，它使非人工智能专家能够在不需要人工智能专家的情况下实现和测试他们的想法。无代码人工智能平台帮助人工智能专家以更少的努力更快地构建 ML 解决方案。它们还提供了人工智能专家和领域专家之间的合作机会。无代码 AI 平台有**拖拽(如**<https://sway-ai.com/>****)**或**基于向导的界面(如**[**Akkio**](https://www.akkio.com/)**)**。在这篇文章中，我描述了一个无代码人工智能平台如何帮助大规模采用人工智能技术。**
 
 **如今，专家们旨在用人工智能技术解决问题，以提高生产率和效率。例如，医生希望使用人工智能来改善为患者提供的医疗服务。或者，企业高管希望使用 AI 来改善为其用户提供的客户服务。你说吧！问题是，作为人工智能社区，“我们是否成功地妥善解决了这些挑战？”如果不能，**我们如何确保人工智能技术可以在任何地方被任何人采用。**答案在于无代码 AI 技术。我们在过去相对成功地应对了许多挑战，但我们需要无代码人工智能技术来确保大规模采用。**
 
@@ -22,7 +22,7 @@
 
 **❤ **我为什么喜欢无代码人工智能技术？**无代码人工智能平台为领域专家创造了测试他们的想法并与人工智能专家更好地交流的机会。**💪****
 
-**[](/build-an-ml-product-4-mistakes-to-avoid-bce30d98bd24)  
+**</build-an-ml-product-4-mistakes-to-avoid-bce30d98bd24>  
 
 ## 问题 2——我们没有像我们一样多的人工智能专家！
 
@@ -38,7 +38,7 @@
 
 > 我们可以根据目标数据的类型对无代码 AI 平台进行分类:表格、文本和视觉。
 
-[](/how-to-create-a-perfect-data-strategy-7e8fd9bbfad0)  
+</how-to-create-a-perfect-data-strategy-7e8fd9bbfad0>  
 
 ## —接口
 
@@ -60,4 +60,4 @@
 *   *连接上*[*Linkedin*](https://www.linkedin.com/in/pedrama/)*！*
 *   *跟我上* [*推特*](https://twitter.com/pedram_ataee) *！*
 
-[](https://pedram-ataee.medium.com/membership) **
+<https://pedram-ataee.medium.com/membership> **

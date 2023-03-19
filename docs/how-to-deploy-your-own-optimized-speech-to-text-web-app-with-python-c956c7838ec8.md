@@ -186,10 +186,10 @@ streamlit run final_app.py
 
 如果你想在我的文章发表后第一时间得到通知，请点击下面的[链接](https://bharath-k1297.medium.com/membership)订阅邮件推荐。如果你希望支持其他作者和我，请订阅下面的链接。
 
-[](https://bharath-k1297.medium.com/membership)  
+<https://bharath-k1297.medium.com/membership>  
 
 看看我的一些与本文主题相关的文章，你可能也会喜欢阅读！
 
-[](/develop-your-weather-application-with-python-in-less-than-10-lines-6d092c6dcbc9)  [](/develop-your-own-calendar-to-track-important-dates-with-python-c1af9e98ffc3)  [](/complete-python-starter-guide-for-data-science-for-2022-c1f880fa249d)  
+</develop-your-weather-application-with-python-in-less-than-10-lines-6d092c6dcbc9>  </develop-your-own-calendar-to-track-important-dates-with-python-c1af9e98ffc3>  </complete-python-starter-guide-for-data-science-for-2022-c1f880fa249d>  
 
 谢谢你们坚持到最后。我希望你们都喜欢这篇文章。祝大家有美好的一天！

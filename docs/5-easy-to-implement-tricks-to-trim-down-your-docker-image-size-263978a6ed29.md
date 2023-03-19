@@ -135,4 +135,4 @@ RUN apt-get update -y && apt install -y --no-install-recommends \
 
 页（page 的缩写）学生:比如我正在做的事情？[跟我来](https://mikehuls.medium.com/membership)！
 
-[](https://mikehuls.medium.com/membership) 
+<https://mikehuls.medium.com/membership> 

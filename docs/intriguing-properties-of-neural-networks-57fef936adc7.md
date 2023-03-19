@@ -274,12 +274,12 @@ T **wo** 这些特性在我们将在本文中讨论的'[神经网络的有趣特
 
 # **参考**
 
-**[](https://arxiv.org/abs/1312.6199)  [](https://stats.stackexchange.com/questions/371564/intriguing-properties-of-neural-networks)  
+**<https://arxiv.org/abs/1312.6199>  <https://stats.stackexchange.com/questions/371564/intriguing-properties-of-neural-networks>  
 
 [https://www . duo . uio . no/bitstream/handle/10852/69487/master _ mathialo . pdf](https://www.duo.uio.no/bitstream/handle/10852/69487/master_mathialo.pdf)
 
-[](https://en.wikipedia.org/wiki/Lipschitz_continuity)  [](https://www.youtube.com/watch?v=zVDDITt4XEA)  
+<https://en.wikipedia.org/wiki/Lipschitz_continuity>  <https://www.youtube.com/watch?v=zVDDITt4XEA>  
 
 [https://math . Berkeley . edu/~ hutching/teach/54-2017/SVD-notes . pdf](https://math.berkeley.edu/~hutching/teach/54-2017/svd-notes.pdf)
 
-[](https://yeephycho.github.io/2016/08/03/normalizations_in_neural_networks/)  [](https://arxiv.org/abs/2006.08391) **
+<https://yeephycho.github.io/2016/08/03/normalizations_in_neural_networks/>  <https://arxiv.org/abs/2006.08391> **

@@ -82,11 +82,11 @@ Lag 获取前一行的值并将其放在当前行上。默认的滞后是 1 行�
 
 要阅读关于窗口函数的其他详细信息，请参考 SQLite 窗口函数文档。
 
-[](https://medium.com/@andreasmartinson/membership)  
+<https://medium.com/@andreasmartinson/membership>  
 
 如果你喜欢这篇文章，请在 [LinkedIn](https://www.linkedin.com/in/aem193/) 上联系我，或者看看我的另一个故事:
 
-[](/why-is-nobody-talking-about-sql-anti-joins-f970a5f6cb54)  [](/10-quick-sql-tips-after-writing-daily-in-sql-for-3-years-37bdba0637d0)  
+</why-is-nobody-talking-about-sql-anti-joins-f970a5f6cb54>  </10-quick-sql-tips-after-writing-daily-in-sql-for-3-years-37bdba0637d0>  
 
 **参考文献**
 

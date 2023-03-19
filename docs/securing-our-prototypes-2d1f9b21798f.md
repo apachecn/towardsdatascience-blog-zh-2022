@@ -36,11 +36,11 @@ Web 应用程序安全性是一个重要的话题，有各种各样的过程和�
 
 由于我很难宣称自己是安全专家，能力甚至是一种延伸；我使用了一篇博客文章、可用的代码示例和 python 的 SDK。
 
-[](https://auth0.com/blog/build-and-secure-fastapi-server-with-auth0/)  
+<https://auth0.com/blog/build-and-secure-fastapi-server-with-auth0/>  
 
 vue.js 有一个入门应用程序，就像放入一个安全的基础，然后在上面构建组件、服务和视图，这非常有吸引力。科学不是重新发明轮子！
 
-[](https://auth0.com/blog/complete-guide-to-vue-user-authentication/)  
+<https://auth0.com/blog/complete-guide-to-vue-user-authentication/>  
 
 鉴于这些文章的质量，我觉得我没有必要写太多，除了在处理第一部分时反思我的经历。
 
@@ -144,4 +144,4 @@ NLP 项目现在使用 Auth0，我们可以保护 FastAPI 路由。在下面的�
 
 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上由 [Aron 视觉](https://unsplash.com/@aronvisuals?utm_source=medium&utm_medium=referral)拍摄的照片
 
-[](https://cognitivedave.medium.com/membership) 
+<https://cognitivedave.medium.com/membership> 

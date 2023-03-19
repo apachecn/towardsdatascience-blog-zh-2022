@@ -132,7 +132,7 @@ SVD 是一种通用的矩阵分解算法，它将一个矩阵分解为 3 个独�
 
 现在你知道了！以 3 种不同方式执行 PCA 的数学直觉和代码实现。检查代码并运行它，让自己相信它是可行的！
 
-[](https://github.com/reoneo97/medium-notebooks/blob/master/pca-svd.ipynb)  
+<https://github.com/reoneo97/medium-notebooks/blob/master/pca-svd.ipynb>  
 
 如果你喜欢这篇文章，请在 Medium 上关注我！
 在 LinkedIn 上连接:[https://www.linkedin.com/in/reo-neo/](https://www.linkedin.com/in/reo-neo/)

@@ -23,7 +23,7 @@
 
 # 搜索第一个单词
 
-我使用了一个来自 Donald E. Knuth 的《计算机编程艺术》(TAOCP)[](https://www-cs-faculty.stanford.edu/~knuth/taocp.html)**的 数据集。数据集包含由 5 个字母(根据 wordle 上的字母限制)组成的英语单词，总共 5757 个单词。**
+我使用了一个来自 Donald E. Knuth 的《计算机编程艺术》(TAOCP)<https://www-cs-faculty.stanford.edu/~knuth/taocp.html>**的 数据集。数据集包含由 5 个字母(根据 wordle 上的字母限制)组成的英语单词，总共 5757 个单词。**
 
 > ****引用**:以上数据集来自唐纳德·e·克努特教授。斯坦福大学计算机编程艺术荣誉退休教授。**
 

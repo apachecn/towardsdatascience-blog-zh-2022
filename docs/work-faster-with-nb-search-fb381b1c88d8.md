@@ -28,7 +28,7 @@ pip install nb_search
 
 您也可以从下面的 GitHub 页面手动安装它:
 
-[](https://github.com/loevlie/nb_search)  
+<https://github.com/loevlie/nb_search>  
 
 # 功能
 

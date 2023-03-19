@@ -294,7 +294,7 @@ EI 定义如下[Kra18][Jon98][Uai18][Has19]:
 
 如果你喜欢这篇文章，请随意查看我的另一篇文章，它解释了各种回归技术、异常检测方法等。：
 
-[](/7-of-the-most-commonly-used-regression-algorithms-and-how-to-choose-the-right-one-fc3c8890f9e3)  [](/a-comprehensive-beginners-guide-to-the-diverse-field-of-anomaly-detection-8c818d153995)  
+</7-of-the-most-commonly-used-regression-algorithms-and-how-to-choose-the-right-one-fc3c8890f9e3>  </a-comprehensive-beginners-guide-to-the-diverse-field-of-anomaly-detection-8c818d153995>  
 
 如果您还不是中级高级会员并打算成为会员，您可以通过以下推荐链接注册来支持我:
 

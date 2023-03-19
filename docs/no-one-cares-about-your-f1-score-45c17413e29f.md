@@ -181,7 +181,7 @@ TL；博士:
 
 领英|【brandenlisk.com】T2
 
-[](https://medium.com/@brandenlisk) [## Branden Lisk -中等
+<https://medium.com/@brandenlisk> [## Branden Lisk -中等
 
 medium.com](https://medium.com/@brandenlisk) 
 

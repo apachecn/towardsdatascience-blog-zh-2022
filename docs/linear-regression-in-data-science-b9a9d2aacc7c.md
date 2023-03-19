@@ -71,8 +71,8 @@
 
 查看我最近的一些文章
 
-[](https://miketechgame.medium.com/getting-started-with-seq-in-python-4f5fde688364)  [](https://medium.com/codex/javascript-cdns-and-how-to-use-them-offline-e6e6333491a3)  [](https://medium.com/codex/something-i-learned-this-week-vue-js-in-asp-net-core-mvc-7b7540a38343)  [](https://python.plainenglish.io/5-python-libraries-to-use-everyday-d32a9de13269)  [](https://blog.devgenius.io/automate-kubernetes-with-python-2150c290afe7)  
+<https://miketechgame.medium.com/getting-started-with-seq-in-python-4f5fde688364>  <https://medium.com/codex/javascript-cdns-and-how-to-use-them-offline-e6e6333491a3>  <https://medium.com/codex/something-i-learned-this-week-vue-js-in-asp-net-core-mvc-7b7540a38343>  <https://python.plainenglish.io/5-python-libraries-to-use-everyday-d32a9de13269>  <https://blog.devgenius.io/automate-kubernetes-with-python-2150c290afe7>  
 
 参考资料:
 
-[](https://brilliant.org/wiki/linear-regression/)  [](https://www.analyticsvidhya.com/blog/2021/05/all-you-need-to-know-about-your-first-machine-learning-model-linear-regression/)  [](https://www.ibm.com/topics/linear-regression)   
+<https://brilliant.org/wiki/linear-regression/>  <https://www.analyticsvidhya.com/blog/2021/05/all-you-need-to-know-about-your-first-machine-learning-model-linear-regression/>  <https://www.ibm.com/topics/linear-regression>   

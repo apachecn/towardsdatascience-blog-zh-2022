@@ -78,7 +78,7 @@
 
 注意:除非另有说明，本文中的图片都是我的原创作品。
 
-[](https://www.kaggle.com/code/purswaninuri/association-analysis)  [](https://www.kaggle.com/datasets/knightbearr/sales-product-data)  
+<https://www.kaggle.com/code/purswaninuri/association-analysis>  <https://www.kaggle.com/datasets/knightbearr/sales-product-data>  
 
 # 粘贴在下面的完整代码:
 

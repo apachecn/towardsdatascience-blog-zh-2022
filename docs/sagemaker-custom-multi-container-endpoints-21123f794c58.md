@@ -81,7 +81,7 @@ TextBlob 推断(作者截图)
 
 ## 其他资源和结论
 
-[](https://github.com/RamVegiraju/SageMaker-Deployment/tree/master/RealTime/Multi-Container/mce-custom)  
+<https://github.com/RamVegiraju/SageMaker-Deployment/tree/master/RealTime/Multi-Container/mce-custom>  
 
 要访问示例中的**完整代码**，请查看上方的**链接，还有大量其他 SageMaker 推理示例和资源。如果您已经设置了一个自定义容器，那么将多个引入到多容器端点并不困难，正如您在本例中所看到的。再一次，**确保根据需要调整你的 Dockerfile 和 predictor . py**来反映你的框架。**
 

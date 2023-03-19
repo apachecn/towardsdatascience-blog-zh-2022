@@ -18,7 +18,7 @@ Jupyter 笔记本通常是大多数初级数据科学家深入研究该主题的
 
 如果观众不完全熟悉 Jupyter 笔记本是什么，以及它们对数据科学有多有用，我建议通过下面提供的链接查看我以前的一篇文章。它涵盖了初级数据科学爱好者从头开始使用 Jupyter 笔记本所需了解的几乎所有内容。
 
-[](/everything-you-need-to-know-about-jupyter-notebooks-10770719952b)  
+</everything-you-need-to-know-about-jupyter-notebooks-10770719952b>  
 
 # Jupyter 笔记本的缺点:
 
@@ -113,12 +113,12 @@ Google Colab 的内核问题更加明显，因为有时它们可能会在一段�
 
 如果你想在我的文章发表后第一时间得到通知，请点击下面的[链接](https://bharath-k1297.medium.com/subscribe)订阅邮件推荐。如果你希望支持其他作者和我，请订阅下面的链接。
 
-[](https://bharath-k1297.medium.com/membership)  
+<https://bharath-k1297.medium.com/membership>  
 
 如果你对这篇文章中提到的各点有任何疑问，请在下面的评论中告诉我。我会尽快给你回复。
 
 看看我的一些与本文主题相关的文章，你可能也会喜欢阅读！
 
-[](/7-best-research-papers-to-read-to-get-started-with-deep-learning-projects-59e11f7b9c32)  [](/visualizing-cpu-memory-and-gpu-utilities-with-python-8028d859c2b0)  [](/best-seaborn-visualizations-for-data-science-3d866f99c3a9)  
+</7-best-research-papers-to-read-to-get-started-with-deep-learning-projects-59e11f7b9c32>  </visualizing-cpu-memory-and-gpu-utilities-with-python-8028d859c2b0>  </best-seaborn-visualizations-for-data-science-3d866f99c3a9>  
 
 谢谢你们坚持到最后。我希望你们都喜欢这篇文章。祝大家有美好的一天！

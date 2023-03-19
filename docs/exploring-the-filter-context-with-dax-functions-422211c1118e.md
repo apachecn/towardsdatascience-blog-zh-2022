@@ -340,7 +340,7 @@ VAR FilterTable =
 
 我写过一篇关于如何使用 HASONEVALUE()的真实场景的文章:
 
-[](/dynamic-time-intelligence-in-dax-made-easy-640b4e531ca8)  
+</dynamic-time-intelligence-in-dax-made-easy-640b4e531ca8>  
 
 # ISCROSSFILTERED
 
@@ -485,4 +485,4 @@ SELECTEDVALUE()非常强大，因为我们可以使用它从切片器甚至从�
 
 Contoso 数据可以在 MIT 许可下自由使用，如这里的[所述](https://github.com/microsoft/Power-BI-Embedded-Contoso-Sales-Demo)。
 
-[](https://medium.com/@salvatorecagliari/membership) 
+<https://medium.com/@salvatorecagliari/membership> 

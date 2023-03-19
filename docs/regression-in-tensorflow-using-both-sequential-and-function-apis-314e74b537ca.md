@@ -16,7 +16,7 @@ Tensorflow 可以说是深度学习和神经网络领域中最受欢迎的包。
 
 可从以下链接下载干净并可用于模型数据集中的产品:
 
-[](https://github.com/rashida048/Tensorflow/blob/main/auto_price.csv)  
+<https://github.com/rashida048/Tensorflow/blob/main/auto_price.csv>  
 
 [原始数据集](https://archive.ics.uci.edu/ml/datasets/Automobile)取自 UCI 机器学习知识库。
 
@@ -389,4 +389,4 @@ model6.evaluate([X_test1, X_test2], y_test)
 
 ## 更多阅读
 
-[](/simple-explanation-on-how-decision-tree-algorithm-makes-decisions-34f56be344e9)  [](/what-is-a-recurrent-neural-network-and-implementation-of-simplernn-gru-and-lstm-models-in-keras-f7247e97c405)  [](/developing-a-convolutional-neural-network-model-using-the-unlabeled-image-files-directly-from-the-124180b8f21f)  [](/chi-square-test-for-correlation-test-in-details-manual-and-python-implementation-472ae5c4b15f)  [](/understanding-regularization-in-plain-language-l1-and-l2-regularization-2991b9c54e9a)  [](https://pub.towardsai.net/data-analysis-91a38207c92b) 
+</simple-explanation-on-how-decision-tree-algorithm-makes-decisions-34f56be344e9>  </what-is-a-recurrent-neural-network-and-implementation-of-simplernn-gru-and-lstm-models-in-keras-f7247e97c405>  </developing-a-convolutional-neural-network-model-using-the-unlabeled-image-files-directly-from-the-124180b8f21f>  </chi-square-test-for-correlation-test-in-details-manual-and-python-implementation-472ae5c4b15f>  </understanding-regularization-in-plain-language-l1-and-l2-regularization-2991b9c54e9a>  <https://pub.towardsai.net/data-analysis-91a38207c92b> 

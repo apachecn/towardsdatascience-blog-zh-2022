@@ -36,7 +36,7 @@
 > 
 > 这是玩家对其可以加入的所有联盟贡献的加权平均值。
 
-从划分奖金到解释机器学习模型，这似乎是一个很大的飞跃。然而，Shapley 值可以用来理解每个模型特征(玩家)如何对预测(奖金)做出贡献。我们将解释 Shapley 值如何**扩展到解释模型预测**。我们将以探索[](/introduction-to-shap-with-python-d27edc23c454)**对这一领域研究的**贡献来结束。也就是说，它们极大地提高了我们逼近 Shapley 值的速度。****
+从划分奖金到解释机器学习模型，这似乎是一个很大的飞跃。然而，Shapley 值可以用来理解每个模型特征(玩家)如何对预测(奖金)做出贡献。我们将解释 Shapley 值如何**扩展到解释模型预测**。我们将以探索</introduction-to-shap-with-python-d27edc23c454>**对这一领域研究的**贡献来结束。也就是说，它们极大地提高了我们逼近 Shapley 值的速度。****
 
 # **3 人游戏的 Shapley 值**
 
@@ -200,7 +200,7 @@
 
 **使用 KernelSHAP，我们可以在指数时间内估计 Shapley 值与特征数量的关系。而 TreeSHAP 可以在线性时间内估计它们。我们将在下面的文章中详细讨论这种差异。我们还探讨了模型的其他方面如何影响近似时间。这包括集合中的树的数量、最大深度和叶子的数量。**
 
-**[](/kernelshap-vs-treeshap-e00f3b3a27db)  
+**</kernelshap-vs-treeshap-e00f3b3a27db>  
 
 如前所述，这些方法可以近似计算大量的 Shapley 值。我们可以用不同的方式将它们结合起来，以了解模型作为一个整体是如何工作的。一个例子是**图 2** 中给出的蜂群图。
 
@@ -212,11 +212,11 @@
 
 这些类型的地块易于实施是 SHAP 一揽子计划被广泛采用的另一个原因。我们将在下面的文章中探索如何使用这个包。我们讨论 Python 代码，并探索该包提供的一些其他聚合。
 
-[](/introduction-to-shap-with-python-d27edc23c454)  
+</introduction-to-shap-with-python-d27edc23c454>  
 
 我希望这篇文章对你有帮助！如果你想看更多，你可以成为我的 [**推荐会员**](https://conorosullyds.medium.com/membership) **来支持我。你可以访问 medium 上的所有文章，我可以得到你的部分费用。**
 
-[](https://conorosullyds.medium.com/membership)  
+<https://conorosullyds.medium.com/membership>  
 
 你可以在|[Twitter](https://twitter.com/conorosullyDS)|[YouTube](https://www.youtube.com/channel/UChsoWqJbEjBwrn00Zvghi4w)|[时事通讯](https://mailchi.mp/aa82a5ce1dc0/signup)上找到我——注册免费参加 [Python SHAP 课程](https://adataodyssey.com/courses/shap-with-python/)
 

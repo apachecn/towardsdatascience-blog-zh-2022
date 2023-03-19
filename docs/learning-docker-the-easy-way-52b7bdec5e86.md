@@ -32,7 +32,7 @@ Docker 映像不是虚拟机，而是软件的自包含单元，该自包含单�
 
 通过访问他们的下载网站下载并安装 docker 引擎。Docker-desktop 现在可用于所有平台，可以作为学习和维护 Docker 引擎的一个非常好的途径。
 
-[](https://docs.docker.com/engine/install/)  
+<https://docs.docker.com/engine/install/>  
 
 如果您使用的是 Linux，不要忘记运行
 

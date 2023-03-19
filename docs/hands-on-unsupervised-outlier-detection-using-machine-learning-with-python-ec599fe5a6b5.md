@@ -49,7 +49,7 @@
 
 ## 2.2 数据集
 
-我使用的数据集是一个时间序列，我在这里找到了[](https://www.kaggle.com/arashnic/learn-time-series-forecasting-from-gold-price)****。** 数据集将主要用于回归任务，但该方法的实际用途来自我们能够预测的边界。**
+我使用的数据集是一个时间序列，我在这里找到了<https://www.kaggle.com/arashnic/learn-time-series-forecasting-from-gold-price>****。** 数据集将主要用于回归任务，但该方法的实际用途来自我们能够预测的边界。**
 
 **我们来导入一下:**
 

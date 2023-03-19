@@ -44,7 +44,7 @@
 
 此外，如果你正在记录一个需要整个段落来描述的功能，它可能需要被最小化。也就是说，理想的情况是函数完成单一目标，而不是可能需要在整个代码中重复的复杂任务。我在编程中使用了一种技术，让我所有的软件都适合这个团队，这种技术叫做抽取。实际上，我写了一篇文章，详细介绍了提取以及如何使用它，如果您愿意，可以在这里阅读:
 
-[](/more-methods-means-better-code-1d3b237f6cf2) [## 更多的方法意味着更好的代码
+</more-methods-means-better-code-1d3b237f6cf2> [## 更多的方法意味着更好的代码
 
 towardsdatascience.com](/more-methods-means-better-code-1d3b237f6cf2) 
 
@@ -52,11 +52,11 @@ towardsdatascience.com](/more-methods-means-better-code-1d3b237f6cf2)
 
 作为一名计算机程序员，你可能知道开发人员多久去一次谷歌，查询他们想要的信息。也就是说，虽然代码内文档浏览更好，但网页更容易理解。Web 文档也非常容易制作。例如，如果你是一名 Python 程序员，这里有一篇来自 [James Briggs](https://medium.com/u/b9d77a4ca1d1?source=post_page-----803155ae4f45--------------------------------) 的关于数据科学的精彩文章，详细介绍了如何用 Python 自动化你的文档:
 
-[](/auto-docs-for-python-b545ce372e2d)  
+</auto-docs-for-python-b545ce372e2d>  
 
 如果您碰巧写了 Julia，我有一篇详细介绍如何使用 Documenter.jl 的文章，您可能也会感兴趣:
 
-[](/how-to-automate-julia-documentation-with-documenter-jl-21a44d4a188f)  
+</how-to-automate-julia-documentation-with-documenter-jl-21a44d4a188f>  
 
 对于大多数语言来说，通常都有能够做到这一点的包。这非常方便，从头开始创建文档站点是一件麻烦的事情——这已经是过去的事情了！也就是说，对于一个实际上想要使用的包来说，没有任何理由不拥有这样一个案例的 web 文档！
 

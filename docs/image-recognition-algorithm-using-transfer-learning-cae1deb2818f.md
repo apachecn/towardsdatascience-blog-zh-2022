@@ -19,7 +19,7 @@
 
 代码和笔记本可以在 GitHub 资源库中找到:
 
-[](https://github.com/andreoniriccardo/transfer-learning-image-classifier)  
+<https://github.com/andreoniriccardo/transfer-learning-image-classifier>  
 
 用于第二步训练的数据集将从 [Google Open Images V6 数据集](https://storage.googleapis.com/openimages/web/index.html)中获取。
 

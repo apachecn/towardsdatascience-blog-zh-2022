@@ -145,7 +145,7 @@ docker compose up -d
 
 > **注意**:我们可以通过简单地执行`docker compose down`来停止正在运行的容器。
 
-[](/how-to-design-better-dags-in-apache-airflow-494f5cb0c9ab)  
+</how-to-design-better-dags-in-apache-airflow-494f5cb0c9ab>  
 
 # 结论
 
@@ -159,7 +159,7 @@ Airflow 是一个面向批处理的框架，允许我们用 Python 创建复杂�
 
 *喜欢这篇文章吗？成为* [*中级会员*](https://medium.com/@marvinlanhenke/membership) *继续无限学习。如果你使用下面的链接，我会收到你的一部分会员费，不需要你额外付费。*
 
-[](https://medium.com/@marvinlanhenke/membership)  
+<https://medium.com/@marvinlanhenke/membership>  
 
 **参考资料/更多资料:**
 

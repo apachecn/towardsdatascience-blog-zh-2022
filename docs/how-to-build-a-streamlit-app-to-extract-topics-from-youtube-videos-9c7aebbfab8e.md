@@ -22,7 +22,7 @@
 
 👉如果你想了解更多关于 AssemblyAI API 的知识，我建议你阅读我之前的两篇文章:
 
-[](/how-to-transcribe-and-analyze-audio-files-with-python-and-assemblyai-22660dbf8e66)  [](/how-to-moderate-audio-data-using-python-and-assemblyai-a5eab9910730)  
+</how-to-transcribe-and-analyze-audio-files-with-python-and-assemblyai-22660dbf8e66>  </how-to-moderate-audio-data-using-python-and-assemblyai-a5eab9910730>  
 
 # 一种新颖的话题检测方法
 
@@ -122,7 +122,7 @@ AssemblyAI 使用的分类法被称为 [IAB 分类法](https://www.iab.com/guide
 4.  它获取结果并保存它们
 5.  它显示输出:对于每个结果，它嵌入相应的视频部分、转录的文本以及提取的主题列表。
 
-**该应用已上线。你可以在这里试用一下**[](https://share.streamlit.io/ahmedbesbes/assemblyai/main/app.py)****:**注意，它使用的是我的 API 密匙，链接到一个自由计划账户。如果每月使用量超过其限制，您将无法转录视频。**
+**该应用已上线。你可以在这里试用一下**<https://share.streamlit.io/ahmedbesbes/assemblyai/main/app.py>****:**注意，它使用的是我的 API 密匙，链接到一个自由计划账户。如果每月使用量超过其限制，您将无法转录视频。**
 
 **但是，您仍然可以可视化一些预先计算的示例。**
 
@@ -156,6 +156,6 @@ streamlit run app.py**
 
 # **新到中？你可以每月订阅 5 美元，并解锁各种主题的无限文章(技术、设计、创业……)你可以通过点击我的推荐链接[来支持我](https://ahmedbesbes.medium.com/membership)**
 
-**[](https://ahmedbesbes.medium.com/membership)  ![](img/78246390f6e16a01de9ac938f5ac6c42.png)
+**<https://ahmedbesbes.medium.com/membership>  ![](img/78246390f6e16a01de9ac938f5ac6c42.png)
 
 由[路易斯·史密斯](https://unsplash.com/@louisesmithma?utm_source=medium&utm_medium=referral)在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄的照片**

@@ -209,7 +209,7 @@ ARMA 预测(图片由作者提供)
 
 对于时间序列回归，我们可以应用一般的回归模型评估方法，如 RMSE 或 MSE。更多详情，请看我的文章《机器学习中的 4 大线性回归变量》。
 
-[](/top-machine-learning-algorithms-for-regression-c67258a2c0ac)  
+</top-machine-learning-algorithms-for-regression-c67258a2c0ac>  
 
 RMSE 越大，表明实际值和预测值之间的差异越大。我们可以使用下面的代码来计算 ARMA 模型的 RMSE——大约是 6.56。
 
@@ -322,7 +322,7 @@ SARIMA_model.summary()
 
 ## 更多相关文章
 
-[](/top-machine-learning-algorithms-for-regression-c67258a2c0ac)  ![Destin Gong](img/dcd4375055f8aa7602b1433a60ad5ca3.png)
+</top-machine-learning-algorithms-for-regression-c67258a2c0ac>  ![Destin Gong](img/dcd4375055f8aa7602b1433a60ad5ca3.png)
 
 [德斯坦贡](https://destingong.medium.com/?source=post_page-----eea5cbf43c73--------------------------------)
 

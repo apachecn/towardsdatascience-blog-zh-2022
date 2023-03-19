@@ -317,4 +317,4 @@ t-SNE 映射到 2D 的测试图像的潜在表征。图片由作者提供。
 
 你也可以试试我的其他文章。不能选择？从这些中选择一个:
 
-[](/on-the-importance-of-bayesian-thinking-in-everyday-life-a74475fcceeb)  [](/8-tips-for-object-oriented-programming-in-python-3e98b767ae79)  [](/6-useful-probability-distributions-with-applications-to-data-science-problems-2c0bee7cef28) 
+</on-the-importance-of-bayesian-thinking-in-everyday-life-a74475fcceeb>  </8-tips-for-object-oriented-programming-in-python-3e98b767ae79>  </6-useful-probability-distributions-with-applications-to-data-science-problems-2c0bee7cef28> 

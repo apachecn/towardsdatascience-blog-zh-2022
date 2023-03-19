@@ -161,4 +161,4 @@ my_list_squared = list(map(lambda i: i**2, my_list))
 
 # ***延伸阅读***
 
-*[](https://www.analyticsvidhya.com/blog/2021/07/python-most-powerful-functions-map-filter-and-reduce-in-5-minutes/)  [](https://developers.slashdot.org/story/13/08/25/2115204/interviews-guido-van-rossum-answers-your-questions)  [](https://www.learnpython.org/en/Map%2C_Filter%2C_Reduce#:~:text=Map%2C%20Filter%2C%20and%20Reduce%20are,intricacies%20like%20loops%20and%20branching)  [](https://www.educba.com/functional-programming-vs-oop/)  [](https://www.knowledgehut.com/blog/programming/python-map-list-comprehension)   *
+*<https://www.analyticsvidhya.com/blog/2021/07/python-most-powerful-functions-map-filter-and-reduce-in-5-minutes/>  <https://developers.slashdot.org/story/13/08/25/2115204/interviews-guido-van-rossum-answers-your-questions>  <https://www.learnpython.org/en/Map%2C_Filter%2C_Reduce#:~:text=Map%2C%20Filter%2C%20and%20Reduce%20are,intricacies%20like%20loops%20and%20branching>  <https://www.educba.com/functional-programming-vs-oop/>  <https://www.knowledgehut.com/blog/programming/python-map-list-comprehension>   *

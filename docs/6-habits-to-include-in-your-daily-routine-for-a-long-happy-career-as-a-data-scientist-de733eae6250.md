@@ -24,7 +24,7 @@
 
 当数据科学家进入他们的职业生涯时，最大的抱怨或体会之一是，大多数工作都是琐碎的。数据搜集、清理和准备可能占用项目所需时间的 80%，其中 10%用于项目规划，另外 10%用于实际的分析和可视化工作。这意味着你所做的 80%的工作，虽然对项目的成功至关重要，却是重复的，令人麻木的工作，这相当于每天 8 小时用奶酪刨丝器在你的额头上刮擦。
 
-[](/automated-data-cleaning-with-python-94d44d854423)  
+</automated-data-cleaning-with-python-94d44d854423>  
 
 许多数据科学家通过自动化这些任务找到了喘息的机会，这样就可以花更多的时间做“有趣”的事情。在学习如何编码时，最大的体会之一就是你只需写几个命令就可以做大量的事情。这种认识可以让你在各种没人有时间做的琐碎任务上变得有创造力。
 
@@ -34,7 +34,7 @@
 
 # 2.每天花 10 分钟学习与数据科学相关的新技能
 
-[](/how-microlearning-can-help-you-improve-your-data-science-skills-in-less-than-10-minutes-per-day-6499348228d7)  
+</how-microlearning-can-help-you-improve-your-data-science-skills-in-less-than-10-minutes-per-day-6499348228d7>  
 
 微学习是每天用不到 10 分钟的时间学习新的数据科学技能的一种可验证的方式。
 
@@ -48,11 +48,11 @@
 
 我见过的最狂热的数据科学家通常是那些喜欢在工作之外从事自己的数据科学项目的人。他们对数据科学的真正热情似乎从未因为他们从事与日常工作完全无关的个人项目而减弱。
 
-[](/the-7-data-science-projects-i-plan-on-completing-in-2021-5f7dd5cda72f)  
+</the-7-data-science-projects-i-plan-on-completing-in-2021-5f7dd5cda72f>  
 
 在我(包括我自己)做这些之前，我不会浪费你的时间列出所有你可以做的项目。然而，我想做的是，为您提供一些有趣的地方，您可以在那里检索免费数据进行工作:
 
-[](https://data.nasa.gov/)  [](https://data.worldbank.org/)      
+<https://data.nasa.gov/>  <https://data.worldbank.org/>      
 
 这些激情项目应该是你可以每天拿出十分钟来添加一个功能或尝试一种新的分析或可视化的东西。没有什么太费力或费力的，但足以鼓励你尝试新技能。虽然您作为数据科学家的日常工作可能很单调，但这个项目不一定是也可以是您作为数据科学家真正伸展四肢的地方。
 
@@ -70,11 +70,11 @@
 
 下面建议的播客涉及从伦理人工智能到打破玻璃天花板再到作为数据科学家的职业发展的方方面面。我更喜欢听关于数据科学非技术方面的故事，这些故事挖掘了道德问题的本质，采访了我崇拜的数据科学家，以及如何成为一名更好的数据科学家，因为它们提供了从编程和数学的严格性中稍微休息一下的机会。
 
-[](https://banana-data.buzzsprout.com/)  [](https://www.widsconference.org/podcast.html)  [](https://theartistsofdatascience.fireside.fm/)  
+<https://banana-data.buzzsprout.com/>  <https://www.widsconference.org/podcast.html>  <https://theartistsofdatascience.fireside.fm/>  
 
 当我们很少有人有时间阅读时，数据科学有声读物是获得一些额外知识的好方法。我喜欢听涉及更多学术或严谨话题的有声读物，因为听别人给你解释的东西往往比你自己读更能让你对这个话题有更清晰的理解。然而，在不止一个场合，我发现自己手忙脚乱地拿起笔来写下一个相关的想法，所以请确保你准备好了纸和笔，以确保你不会错过任何你刚刚想到的想法。
 
-[](https://www.audible.com/pd/Weapons-of-Math-Destruction-Audiobook/B01JPA41ZU?source_code=BLGORWS0107160001)  [](https://www.audible.com/pd/Big-Data-How-Data-Analytics-Is-Transforming-the-World-Audiobook/1629976091?source_code=BLGORWS0107160001)  [](https://www.audible.com/pd/Naked-Statistics-Audiobook/B00CH3UI28?source_code=BLGORWS0107160001)  [](https://www.audible.com/pd/Algorithms-of-Oppression-Audiobook/B07CX9GHJZ?source_code=BLGORWS0107160001)  
+<https://www.audible.com/pd/Weapons-of-Math-Destruction-Audiobook/B01JPA41ZU?source_code=BLGORWS0107160001>  <https://www.audible.com/pd/Big-Data-How-Data-Analytics-Is-Transforming-the-World-Audiobook/1629976091?source_code=BLGORWS0107160001>  <https://www.audible.com/pd/Naked-Statistics-Audiobook/B00CH3UI28?source_code=BLGORWS0107160001>  <https://www.audible.com/pd/Algorithms-of-Oppression-Audiobook/B07CX9GHJZ?source_code=BLGORWS0107160001>  
 
 # 6.与他人分享你的经验和知识，以回报他人
 

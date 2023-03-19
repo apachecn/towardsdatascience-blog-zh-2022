@@ -81,7 +81,7 @@ Kubernetes 旨在解决整个基础设施中多个容器的部署和控制。Kub
 
 在我们开始使用 K8S 之前，我们需要下载并安装它，以及本教程中使用的一些其他工具。
 
-[](https://kubernetes.io/releases/download/)  
+<https://kubernetes.io/releases/download/>  
 
 遵循 Kubernetes 自己提供的安装指南。如果你用的是 Linux，这就是我们需要做的。
 

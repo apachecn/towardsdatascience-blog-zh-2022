@@ -8,7 +8,7 @@
 
 埃菲社在 [Unsplash](https://unsplash.com/@efekurnaz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 上拍摄的照片
 
-*前言——从本文的标题可以推断出，这并不是一个全面的指南，介绍 React.js 新版本中可以使用的所有* *钩子，而是对大多数使用 React.js 的人最有可能遇到的* ***基本*** *钩子的概述。如果您对可以“挂钩”到 React.js 组件中的所有挂钩的完整列表感兴趣(截至本文发布时的版本 16.13.1)，请参考 React.js 文档*[](https://reactjs.org/docs/hooks-reference.html)**。此外，如果你不熟悉 React.js，我可以建议你看看 YouTube 上的*[*Ben Awad*](https://medium.com/u/36ed94674ddf)*的* [*实用 React*](https://www.youtube.com/watch?v=p6c7QA9ofvI&list=PLN3n1USn4xlntqksY83W3997mmQPrUmqM) *系列，作为你的教育努力的入门，因为本文假设你事先了解 React.js。话不多说，我希望你喜欢它！**
+*前言——从本文的标题可以推断出，这并不是一个全面的指南，介绍 React.js 新版本中可以使用的所有* *钩子，而是对大多数使用 React.js 的人最有可能遇到的* ***基本*** *钩子的概述。如果您对可以“挂钩”到 React.js 组件中的所有挂钩的完整列表感兴趣(截至本文发布时的版本 16.13.1)，请参考 React.js 文档*<https://reactjs.org/docs/hooks-reference.html>**。此外，如果你不熟悉 React.js，我可以建议你看看 YouTube 上的*[*Ben Awad*](https://medium.com/u/36ed94674ddf)*的* [*实用 React*](https://www.youtube.com/watch?v=p6c7QA9ofvI&list=PLN3n1USn4xlntqksY83W3997mmQPrUmqM) *系列，作为你的教育努力的入门，因为本文假设你事先了解 React.js。话不多说，我希望你喜欢它！**
 
 # *React.js 钩子是什么？*
 

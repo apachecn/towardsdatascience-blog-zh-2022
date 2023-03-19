@@ -120,4 +120,4 @@ Photo by [Lisanto 李奕良](https://unsplash.com/@lisanto_?utm_source=medium&ut
 
 ***如果你喜欢这篇文章以及关于数据科学和数学的文章，今天就注册一个中级会员，可以无限制地访问我的故事。***
 
-**[](https://medium.com/@leannechannie/membership) **
+**<https://medium.com/@leannechannie/membership> **

@@ -297,6 +297,6 @@ Apache Kafka 和 Apache Spark 都是可靠和健壮的工具，许多公司使�
 
 [1] [功能深度挖掘:Apache Spark 结构化流中的水印](https://www.databricks.com/blog/2022/08/22/feature-deep-dive-watermarking-apache-spark-structured-streaming.html) — Max Fisher 在 Databricks 博客上的文章
 [2] Chambers，b .，& Zaharia，M. (2018)。Spark:权威指南:简化大数据处理。奥莱利媒体公司。
-【3】[与阿帕奇·卡夫卡](https://www.kai-waehner.de/blog/2022/09/29/real-time-logistics-shipping-transportation-with-apache-kafka/) [](https://docs.ksqldb.io/en/latest/tutorials/etl/)实时物流、海运、运输——凯·沃纳
+【3】[与阿帕奇·卡夫卡](https://www.kai-waehner.de/blog/2022/09/29/real-time-logistics-shipping-transportation-with-apache-kafka/) <https://docs.ksqldb.io/en/latest/tutorials/etl/>实时物流、海运、运输——凯·沃纳
 【4】[以阿帕奇·卡夫卡为特色的网飞工作室和金融世界](https://www.confluent.io/blog/how-kafka-is-used-by-netflix/)——汇流博客
 【5】星火流媒体&卡夫卡——[https://sparkbyexamples.com/](https://sparkbyexamples.com/)

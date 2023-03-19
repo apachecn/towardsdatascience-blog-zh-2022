@@ -14,11 +14,11 @@
 
 如果你不熟悉 SHAP 或者 python 包，我建议你阅读下面的文章。我们深入探讨如何诠释 SHAP 价值观。我们还探索了本文中使用的一些聚合。
 
-[](/introduction-to-shap-with-python-d27edc23c454)  
+</introduction-to-shap-with-python-d27edc23c454>  
 
 在处理分类变量时，还有一个替代解决方案。那就是使用 CatBoost 进行建模。您可以在下面的文章中找到这个解决方案。
 
-[](/shap-for-categorical-features-with-catboost-8315e14dac1)  
+</shap-for-categorical-features-with-catboost-8315e14dac1>  
 
 # 资料组
 
@@ -120,7 +120,7 @@
 
 我希望这篇文章对你有帮助！你可以成为我的 [**推荐会员**](https://conorosullyds.medium.com/membership) **来支持我。你可以访问 medium 上的所有文章，我可以得到你的部分费用。**
 
-[](https://conorosullyds.medium.com/membership)  
+<https://conorosullyds.medium.com/membership>  
 
 你可以在|[Twitter](https://twitter.com/conorosullyDS)|[YouTube](https://www.youtube.com/channel/UChsoWqJbEjBwrn00Zvghi4w)|[时事通讯](https://mailchi.mp/aa82a5ce1dc0/signup)上找到我——注册免费参加 [Python SHAP 课程](https://adataodyssey.com/courses/shap-with-python/)
 

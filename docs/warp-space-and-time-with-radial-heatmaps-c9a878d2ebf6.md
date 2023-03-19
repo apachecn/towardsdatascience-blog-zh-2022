@@ -24,7 +24,7 @@
 
 散景和全息视图使得用交互式组件创建高质量的数据可视化成为可能。要了解有关这些库的更多信息，请访问以下链接:
 
-[](https://docs.bokeh.org/en/latest/)  [](https://holoviews.org/index.html)  
+<https://docs.bokeh.org/en/latest/>  <https://holoviews.org/index.html>  
 
 # 设置径向热图
 
@@ -60,10 +60,10 @@
 
 所有代码都可以在 GitHub [这里](https://github.com/chags1313/RadialHeat)获得。单击下面的链接，在 google colab 笔记本上试用一下。
 
-[](https://colab.research.google.com/drive/1dgYmkdGeye0v5PP_BCWEW_kbwb_UYr_n?usp=sharing)  
+<https://colab.research.google.com/drive/1dgYmkdGeye0v5PP_BCWEW_kbwb_UYr_n?usp=sharing>  
 
 *感谢您的阅读！*
 
 ## 作者的相关文章—
 
-[](/making-it-rain-with-raincloud-plots-496c39a2756f)  [](/a-quick-introduction-into-stream-graphs-with-python-33ff4493ccc)  [](/using-py-feat-to-plot-facial-expression-predictions-86a9064990ce) 
+</making-it-rain-with-raincloud-plots-496c39a2756f>  </a-quick-introduction-into-stream-graphs-with-python-33ff4493ccc>  </using-py-feat-to-plot-facial-expression-predictions-86a9064990ce> 

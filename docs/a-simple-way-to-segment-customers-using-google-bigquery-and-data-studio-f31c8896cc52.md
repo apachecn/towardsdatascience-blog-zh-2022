@@ -51,7 +51,7 @@ RFM 代表近期、频率和货币。分析了以下购买行为:
 3.  为每个 RFM 指标分配分数
 4.  使用步骤 3 中的分数定义 RFM 细分市场
 
-在这里可以访问整个代码[](https://github.com/noemistatcat/Data_Viz_Portfolio/blob/main/online_retail_rfm.sql)****，但是我将详细介绍每一步并解释 SQL 代码块。****
+在这里可以访问整个代码<https://github.com/noemistatcat/Data_Viz_Portfolio/blob/main/online_retail_rfm.sql>****，但是我将详细介绍每一步并解释 SQL 代码块。****
 
 ******第 1 步:计算每个客户的近期、频率和货币价值******
 

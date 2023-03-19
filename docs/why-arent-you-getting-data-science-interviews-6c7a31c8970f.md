@@ -164,4 +164,4 @@
 *   *连接上* [*Linkedin*](https://www.linkedin.com/in/emmading001/) *！*
 *   前往[emmading.com/resources](https://www.emmading.com/resources)获取更多关于数据科学面试技巧和策略的免费资源！
 
-[](/how-to-choose-the-right-data-science-position-in-2022-f940efd0a10a)  [](/how-to-get-data-science-interviews-finding-jobs-reaching-gatekeepers-and-getting-referrals-63a51c0078af) 
+</how-to-choose-the-right-data-science-position-in-2022-f940efd0a10a>  </how-to-get-data-science-interviews-finding-jobs-reaching-gatekeepers-and-getting-referrals-63a51c0078af> 

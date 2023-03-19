@@ -279,6 +279,6 @@ Github [回购](https://github.com/ahmedbesbes/whales-classification)
 
 # 新到中？你可以每月订阅 5 美元，并解锁各种主题的无限文章(技术、设计、创业……)你可以通过点击我的推荐链接[来支持我](https://ahmedbesbes.medium.com/membership)
 
-[](https://ahmedbesbes.medium.com/membership)  ![](img/164520bc1b75737b14e758fdbc350204.png)
+<https://ahmedbesbes.medium.com/membership>  ![](img/164520bc1b75737b14e758fdbc350204.png)
 
 由 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上的 [Karsten Winegeart](https://unsplash.com/@karsten116?utm_source=medium&utm_medium=referral) 拍摄

@@ -286,4 +286,4 @@ Git 是一个非常有用的工具，所有数据科学家和软件工程师都�
 
 这是一篇高度概括的文章，总结了在《走向数据科学》中已经发表的其他几篇文章。有关这些主题的详细解释，请访问以下链接:
 
-[](/mastering-git-merge-and-rebase-f2a7c5c348a9)  [](/mastering-git-reset-v-revert-12701108a451)  [](/mastering-git-git-cherry-pick-fbeb23eea04d)  [](/mastering-git-amending-commits-f46c2afc9508)  [](/mastering-git-git-stash-cf4042dca068) 
+</mastering-git-merge-and-rebase-f2a7c5c348a9>  </mastering-git-reset-v-revert-12701108a451>  </mastering-git-git-cherry-pick-fbeb23eea04d>  </mastering-git-amending-commits-f46c2afc9508>  </mastering-git-git-stash-cf4042dca068> 

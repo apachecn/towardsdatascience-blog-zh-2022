@@ -197,7 +197,7 @@
 
 ****更多的细节，你可以看看我几周前发表的这篇文章，****
 
-****[](https://www.samirsaci.com/automate-operational-reports-distribution-in-html-emails-using-python/)  
+****<https://www.samirsaci.com/automate-operational-reports-distribution-in-html-emails-using-python/>  
 
 # 关于我
 
@@ -205,4 +205,4 @@
 
 如果你对数据分析和供应链感兴趣，可以看看我的网站
 
-[](https://samirsaci.com) ****
+<https://samirsaci.com> ****

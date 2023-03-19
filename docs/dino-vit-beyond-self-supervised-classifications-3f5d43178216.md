@@ -58,7 +58,7 @@ Amir 等人在他们的项目页面上为有兴趣的个人发布了现成的 Go
 
 该代码的链接可在此处找到:
 
-[](https://github.com/ShirAmir/dino-vit-features)  
+<https://github.com/ShirAmir/dino-vit-features>  
 
 # 结束注释
 

@@ -68,7 +68,7 @@ The **four available features** in the iris dataset for the iris flower species 
 
 一旦训练结束，学习到的关系用于预测输入**特征向量**(作为输入给出的特征集)的输出标签，其中**未知**类别标签。如果模型继续做出错误的预测，原因可能是用于训练模型的特征不足以识别良好的关系。这就是为什么选择正确的功能在任何机器学习项目的开始都很重要。更多关于选择好的特性和为什么坏的特性应该被忽略的信息可以在我下面的帖子中找到。
 
-[](/feature-selection-choosing-the-right-features-for-your-machine-learning-algorithm-379bda9f3e05)  
+</feature-selection-choosing-the-right-features-for-your-machine-learning-algorithm-379bda9f3e05>  
 
 特征可以是不同的类型，例如浮点数、整数、序数值(自然的、有序的类别，其中值之间的差不总是相同的)和分类值(其中数字用作代码，例如男性=0，女性=1)。
 
@@ -256,7 +256,7 @@ Now we see that all features are similar to each other, compared to our original
 
 但是如果我们有一个小的数据集呢？我们可以使用诸如 **k 倍交叉验证**的方法来确保这种方法的问题，例如训练和测试数据中的不平衡，可以得到缓解。如果你想了解更多关于这个方法的知识，可以看看我下面的帖子。
 
-[](https://medium.com/@praveennellihela/what-is-k-fold-cross-validation-5a7bb241d82f)  
+<https://medium.com/@praveennellihela/what-is-k-fold-cross-validation-5a7bb241d82f>  
 
 # 最后看一下我们的数据
 

@@ -14,4 +14,4 @@
 
 听起来很有趣？想了解更多信息和/或申请吗？[这是我们的官方申请](/join-us-as-an-editorial-associate-of-towards-data-science-766cdd74d13e)，它提供了你需要的所有细节。我们希望听到你的消息！
 
-[](/join-us-as-an-editorial-associate-of-towards-data-science-766cdd74d13e) 
+</join-us-as-an-editorial-associate-of-towards-data-science-766cdd74d13e> 

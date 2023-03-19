@@ -67,7 +67,7 @@
 
 ***为了让你的想法变得清晰，请阅读下面的文章—***
 
-[](/less-is-more-the-art-of-sampling-dda8b59d399)  
+</less-is-more-the-art-of-sampling-dda8b59d399>  
 
 ## 变量和测量水平
 
@@ -75,7 +75,7 @@
 
 如果你对题目有任何困惑，请通读这篇文章。
 
-[](/get-familiar-with-the-most-important-weapon-of-data-science-variables-48cc7cd85dc5)  
+</get-familiar-with-the-most-important-weapon-of-data-science-variables-48cc7cd85dc5>  
 
 ## 集中趋势
 
@@ -89,7 +89,7 @@
 
 *完整均值准则—*
 
-[](https://medium.datadriveninvestor.com/eliminate-your-misconception-about-mean-with-a-brief-discussion-a9fed67d4b08)  
+<https://medium.datadriveninvestor.com/eliminate-your-misconception-about-mean-with-a-brief-discussion-a9fed67d4b08>  
 
 *   **中位数**
 
@@ -147,7 +147,7 @@
 
 **频率是数据集中事件发生的量度。下面的文章将帮助你了解这个话题的细节。**
 
-**[](/to-increase-data-analysing-power-you-must-know-frequency-distribution-afa438c3e7a4)  [](/find-the-patterns-of-a-dataset-by-visualizing-frequency-distribution-c5718ab1f2c2)  [](/compare-multiple-frequency-distributions-to-extract-valuable-information-from-a-dataset-10cba801f07b)  
+**</to-increase-data-analysing-power-you-must-know-frequency-distribution-afa438c3e7a4>  </find-the-patterns-of-a-dataset-by-visualizing-frequency-distribution-c5718ab1f2c2>  </compare-multiple-frequency-distributions-to-extract-valuable-information-from-a-dataset-10cba801f07b>  
 
 ## 离差的度量
 
@@ -203,13 +203,13 @@
 
 归一化是将数据转换成相似尺度的过程，是数据预处理的关键部分之一。下面的文章集成了数据规范化的所有技术。
 
-[](https://medium.datadriveninvestor.com/increase-your-data-science-model-efficiency-with-normalization-918484b4626f)  
+<https://medium.datadriveninvestor.com/increase-your-data-science-model-efficiency-with-normalization-918484b4626f>  
 
 ## **概率**
 
 概率是一种数学技术，通过它我们可以预测一个事件的可能结果。如果你对概率有任何困惑，请阅读以下文章。
 
-[](/basic-probability-concepts-for-data-science-eb8e08c9ad92)  [](/road-map-from-naive-bayes-theorem-to-naive-bayes-classifier-6395fc6d5d2a)  
+</basic-probability-concepts-for-data-science-eb8e08c9ad92>  </road-map-from-naive-bayes-theorem-to-naive-bayes-classifier-6395fc6d5d2a>  
 
 ## 概率分布
 
@@ -349,19 +349,19 @@
 
 假设检验是一种统计技术，通过它我们可以检验和验证一个假设。在**假设检验**中，我们考虑一个**零假设**，它被假定为真，而**是一个替代假设**，如果零假设失败，它是可接受的。关于**假设检验**的更多细节在下面的文章中给出。
 
-[](https://medium.datadriveninvestor.com/all-you-need-to-know-about-hypothesis-testing-for-data-science-enthusiasts-30cfe1dce028)  
+<https://medium.datadriveninvestor.com/all-you-need-to-know-about-hypothesis-testing-for-data-science-enthusiasts-30cfe1dce028>  
 
 ## 方差分析(ANOVA)
 
 在假设检验的文章中，我提到过一些检验，如 p 检验、t 检验等。但是这些测试只是在两组之间进行比较。它们都不能用于多个组。 **ANOVA** 是一种统计检验，用于比较两组或多组之间的可变性。下面的文章提供了详细的解释。
 
-[](/statistical-comparison-among-multiple-groups-with-anova-d4ac27f6e59e)  
+</statistical-comparison-among-multiple-groups-with-anova-d4ac27f6e59e>  
 
 ## 卡方检验
 
 卡方检验是另一种用于发现分类变量相关性的统计检验。通读下面这篇文章。
 
-[](/compare-dependency-of-categorical-variables-with-chi-square-test-982baff64e81)  
+</compare-dependency-of-categorical-variables-with-chi-square-test-982baff64e81>  
 
 ## 结论
 
@@ -372,7 +372,7 @@
 ## 参考
 
 1.  [*统计—百科*](https://en.wikipedia.org/wiki/Statistics)
-2.  *百分位数。IAHPC Pallipedia。*[](https://pallipedia.org/percentile/)**。2022 年 10 月 16 日进入。**
+2.  *百分位数。IAHPC Pallipedia。*<https://pallipedia.org/percentile/>**。2022 年 10 月 16 日进入。**
 3.  *[*所有频率分布的基础知识|走向数据科学*](/to-increase-data-analysing-power-you-must-know-frequency-distribution-afa438c3e7a4)*
 4.  *[*https://towards data science . com/compare-multi-frequency-distributions-to-extract-of-a-valued-information-from-a-dataset-10 CBA 801 f 07 b*](/compare-multiple-frequency-distributions-to-extract-valuable-information-from-a-dataset-10cba801f07b)*
 5.  *[*什么是统计学中的方差？定义、公式和示例(investopedia.com)*](https://www.investopedia.com/terms/v/variance.asp#:~:text=The%20term%20variance%20refers%20to,by%20this%20symbol%3A%20%CF%832.)*
@@ -383,4 +383,4 @@
 10.  *[估计量:简单定义和示例—统计如何进行](https://www.statisticshowto.com/estimator/)*
 11.  *[https://www . science direct . com/topics/mathematics/significance-level-alpha](https://www.sciencedirect.com/topics/mathematics/significance-level-alpha)*
 
-*[](https://mzh706.medium.com/subscribe)  [](https://mzh706.medium.com/membership) ***
+*<https://mzh706.medium.com/subscribe>  <https://mzh706.medium.com/membership> ***

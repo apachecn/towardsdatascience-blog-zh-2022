@@ -128,7 +128,7 @@
 
 # ****创建数据库内 gnn****
 
-****现在让我们切换到一个*实用的*框架，它实例化了我们到目前为止讨论过的所有前述的[深度关系学习](https://medium.com/tag/deep-relational-learning)原则。它叫做[](https://github.com/LukasZahradnik/PyNeuraLogic)**，你可以在[之前的文章](https://medium.com/towards-data-science/beyond-graph-neural-networks-with-pyneuralogic-c1e6502c46f7)中读到更多关于它的内容。这里，让我们直接进入它的一个(最近的)模块，处理框架内部使用的关系逻辑表示和关系数据库之间的映射。******
+****现在让我们切换到一个*实用的*框架，它实例化了我们到目前为止讨论过的所有前述的[深度关系学习](https://medium.com/tag/deep-relational-learning)原则。它叫做<https://github.com/LukasZahradnik/PyNeuraLogic>**，你可以在[之前的文章](https://medium.com/towards-data-science/beyond-graph-neural-networks-with-pyneuralogic-c1e6502c46f7)中读到更多关于它的内容。这里，让我们直接进入它的一个(最近的)模块，处理框架内部使用的关系逻辑表示和关系数据库之间的映射。******
 
 *****与常见的以张量为中心的深度学习框架相反，PyNeuraLogic 将一切都建立在逻辑*关系*上。由于关系(表)是框架中的一等公民，因此不需要任何特别的(有问题的)张量变换，这使得它与关系数据库的互操作非常自然。特别是，PyNeuraLogic 框架配备了一组工具，用于直接关系表数据映射，直接在其上训练当代深度关系模型，甚至导出到普通 SQL 代码，以便您可以直接在数据库中评估训练的模型！*****
 

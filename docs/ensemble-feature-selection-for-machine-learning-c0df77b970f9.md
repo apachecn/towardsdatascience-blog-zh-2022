@@ -107,7 +107,7 @@ Borda Count 是最著名的投票系统之一。它相当简单，根据特征�
 
 # 不确定接下来要读什么？这里有两个选择:
 
-[](/feature-selection-for-machine-learning-3-categories-and-12-methods-6a4403f86543)  [](/outlier-detection-theory-visualizations-and-code-a4fd39de540c)  
+</feature-selection-for-machine-learning-3-categories-and-12-methods-6a4403f86543>  </outlier-detection-theory-visualizations-and-code-a4fd39de540c>  
 
 # 保持联络
 

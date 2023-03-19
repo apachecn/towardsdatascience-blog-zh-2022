@@ -176,7 +176,7 @@
 
 如果你感兴趣，可以看看下面这篇由 [Indhumathy Chelliah](https://medium.com/u/720e3a4ac60c?source=post_page-----454da1ddd5b8--------------------------------) 撰写的文章，这篇文章详细分析了`map`和`starmap`之间的区别:
 
-[](https://betterprogramming.pub/exploring-map-vs-starmap-in-python-6bcf32f5fa4a)  
+<https://betterprogramming.pub/exploring-map-vs-starmap-in-python-6bcf32f5fa4a>  
 
 # **itertools.tee()**
 
@@ -254,4 +254,4 @@
 
 如果你对类似的内容感兴趣，可以看看我下面列出的其他文章。通过[媒体](https://zeyalt.medium.com/)关注我，或者通过 [LinkedIn](https://www.linkedin.com/in/zeyalt/) 或 [Twitter](https://twitter.com/zeyalt_) 联系我。祝您愉快！
 
-[](https://betterprogramming.pub/7-lesser-known-python-tips-to-write-elegant-code-fa06476e3959)  [](https://betterprogramming.pub/demystifying-look-ahead-and-look-behind-in-regex-4a604f99fb8c)  [](/a-quick-and-easy-guide-to-conditional-formatting-in-pandas-8783035071ee)  [](/precision-and-recall-made-simple-afb5e098970f) 
+<https://betterprogramming.pub/7-lesser-known-python-tips-to-write-elegant-code-fa06476e3959>  <https://betterprogramming.pub/demystifying-look-ahead-and-look-behind-in-regex-4a604f99fb8c>  </a-quick-and-easy-guide-to-conditional-formatting-in-pandas-8783035071ee>  </precision-and-recall-made-simple-afb5e098970f> 

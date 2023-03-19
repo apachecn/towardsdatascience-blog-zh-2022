@@ -75,7 +75,7 @@
 
 在 2021 年，我们在这个想法上有了另一个重大的发展— **逆向 ETL** 。这个概念在二月份开始受到关注，当时 Astasia Myers(Quiet Capital 的创始企业合伙人)写了一篇关于反向 ETL 出现的文章。
 
-从那以后，[](https://hightouch.io/)**和 [**普查**](https://www.getcensus.com/) (两者都在 2020 年 12 月推出)掀起了一场风暴，因为他们一直在争夺反向 ETL 空间的所有权。人口普查局宣布，它在 2 月份筹集了 1600 万美元的 A 轮融资，并发布了一系列针对 Hightouch 的基准报告。Hightouch 在不到 12 个月的时间里三次加薪，总计 5420 万美元。**
+从那以后，<https://hightouch.io/>**和 [**普查**](https://www.getcensus.com/) (两者都在 2020 年 12 月推出)掀起了一场风暴，因为他们一直在争夺反向 ETL 空间的所有权。人口普查局宣布，它在 2 月份筹集了 1600 万美元的 A 轮融资，并发布了一系列针对 Hightouch 的基准报告。Hightouch 在不到 12 个月的时间里三次加薪，总计 5420 万美元。**
 
 **Hightouch 和 Census 已经主导了今年的反向 ETL 讨论，但是它们并不是这个领域中唯一的两个。其他值得注意的公司有 [**Grouparoo**](https://www.grouparoo.com/) ，[**head up**，](https://www.headsup.ai/)[**Polytomic**](https://techcrunch.com/2021/02/03/polytomic-announces-2-4m-seed-to-move-business-data-where-its-needed/)，[**ruder stack**](https://rudderstack.com/)，以及 [**Workato**](https://www.workato.com/) (他们在 11 月完成了一笔 2 亿美元的 E 轮投资)。 **Seekwell** 甚至在三月份得到了被 Thoughtspot 收购的[。](https://www.businesswire.com/news/home/20210331005210/en/ThoughtSpot-Acquires-SeekWell-to-Operationalize-Analytics-and-Push-Cloud-Data-Insights-to-Business-Apps)**
 
@@ -147,7 +147,7 @@
 
 **我仍然无法相信数据可观测性这么快就从一个想法变成了现代数据堆栈的关键部分。(最近，它甚至开始被称为“数据可靠性”或“数据可靠性工程”。)**
 
-**这个空间从不存在变成了一批公司的所在地，在 18 个月内总共筹集了 2 亿美元的资金。这包括[](https://www.acceldata.io/newsroom/acceldata-raises-35-million-series-b)**[**Anomalo**](https://techcrunch.com/2021/10/28/anomalo-launches-with-33m-series-a-to-find-issues-in-data-sets-automatically/)[**big eye**](https://techcrunch.com/2021/09/23/bigeye-providing-data-quality-automation-closes-second-round-this-year-with-45m/)[**Databand**](https://techcrunch.com/2020/12/01/databand-raises-14-5m-led-by-accel-for-its-data-pipeline-observability-tools/)[**data fold**](https://www.businesswire.com/news/home/20211109005656/en/Datafold-Raises-20M-Series-A-To-Help-Data-Teams-Deliver-Reliable-Products-Faster)[**meta plane**](https://news.ycombinator.com/item?id=29226864)[**Monte**](https://barrmoses.medium.com/monte-carlo-raises-25m-series-b-to-help-companies-achieve-more-reliable-data-abf497368ee1)**[**Carlo**人们甚至开始创建新的“数据观察公司”名单，以帮助跟踪空间。****](https://barrmoses.medium.com/monte-carlo-raises-series-c-brings-funding-to-101m-to-help-companies-trust-their-data-a11f58036896)******
+**这个空间从不存在变成了一批公司的所在地，在 18 个月内总共筹集了 2 亿美元的资金。这包括<https://www.acceldata.io/newsroom/acceldata-raises-35-million-series-b>**[**Anomalo**](https://techcrunch.com/2021/10/28/anomalo-launches-with-33m-series-a-to-find-issues-in-data-sets-automatically/)[**big eye**](https://techcrunch.com/2021/09/23/bigeye-providing-data-quality-automation-closes-second-round-this-year-with-45m/)[**Databand**](https://techcrunch.com/2020/12/01/databand-raises-14-5m-led-by-accel-for-its-data-pipeline-observability-tools/)[**data fold**](https://www.businesswire.com/news/home/20211109005656/en/Datafold-Raises-20M-Series-A-To-Help-Data-Teams-Deliver-Reliable-Products-Faster)[**meta plane**](https://news.ycombinator.com/item?id=29226864)[**Monte**](https://barrmoses.medium.com/monte-carlo-raises-25m-series-b-to-help-companies-achieve-more-reliable-data-abf497368ee1)**[**Carlo**人们甚至开始创建新的“数据观察公司”名单，以帮助跟踪空间。****](https://barrmoses.medium.com/monte-carlo-raises-series-c-brings-funding-to-101m-to-help-companies-trust-their-data-a11f58036896)******
 
 **![](img/0a4197870fabdd32f0a9125850d245a2.png)**
 

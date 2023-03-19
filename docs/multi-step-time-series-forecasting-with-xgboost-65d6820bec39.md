@@ -20,7 +20,7 @@ XGBoost [1]是梯度提升树的快速实现。它在包括时间序列预测在
 2.  然后，我将描述如何获得一个带标签的时间序列数据集，该数据集将用于训练和测试 XGBoost 时间序列预测模型。
 3.  最后，我将展示如何训练 XGBoost 时间序列模型，以及如何使用它生成多步预测。
 
-[](/how-to-make-a-pytorch-transformer-for-time-series-forecasting-69e073d4061e)  
+</how-to-make-a-pytorch-transformer-for-time-series-forecasting-69e073d4061e>  
 
 # 数据集描述和问题表述
 
@@ -61,7 +61,7 @@ XGBoost 预测值与实际值(图片由作者提供)
 
 完整示例可在本报告的笔记本中找到:
 
-[](https://github.com/KasperGroesLudvigsen/xgboost_time_series)  
+<https://github.com/KasperGroesLudvigsen/xgboost_time_series>  
 
 # 摘要
 

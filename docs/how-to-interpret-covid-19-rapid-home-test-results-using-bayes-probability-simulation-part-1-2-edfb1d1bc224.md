@@ -10,7 +10,7 @@
 
 这篇文章是我上一篇概率文章第一部分的延续。(这是一个临时帖子，我将在稍后发布该系列的第 2 部分)。
 
-[](/probability-simulations-solve-complex-probability-problems-using-randomness-part-1-6010026d4f49)  
+</probability-simulations-solve-complex-probability-problems-using-randomness-part-1-6010026d4f49>  
 
 # 背景
 
@@ -137,9 +137,9 @@
 
 它们与我们提供的输入数字相匹配，这是意料之中的。
 
-*****请参考*** [***这个站点和算法由疾控中心***](https://www.cdc.gov/coronavirus/2019-ncov/lab/resources/antigen-tests-guidelines.html#evaluating-test-results) ***设定你应该根据抗原检测结果的阳性或阴性采取什么行动。也可以参考***[](https://www.cdc.gov/coronavirus/2019-ncov/lab/faqs.html#Interpreting-Results-of-Diagnostic-Tests)****。****
+*****请参考*** [***这个站点和算法由疾控中心***](https://www.cdc.gov/coronavirus/2019-ncov/lab/resources/antigen-tests-guidelines.html#evaluating-test-results) ***设定你应该根据抗原检测结果的阳性或阴性采取什么行动。也可以参考***<https://www.cdc.gov/coronavirus/2019-ncov/lab/faqs.html#Interpreting-Results-of-Diagnostic-Tests>****。****
 
-******此外，如果您的检测结果呈阳性，并且在更长时间内持续呈阳性，请查看***[](http://can-i-stop-isolating-if-im-still-testing-positive-for-the-virus/)****。*****
+******此外，如果您的检测结果呈阳性，并且在更长时间内持续呈阳性，请查看***<http://can-i-stop-isolating-if-im-still-testing-positive-for-the-virus/>****。*****
 
 # **先验(预测试概率)**
 

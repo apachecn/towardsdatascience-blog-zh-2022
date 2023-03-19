@@ -16,11 +16,11 @@
 
 因此，在我们开始编写 decorators 之前，我们将深入学习一些 Python 的内部知识，比如作用域和闭包。如果你熟悉这些概念，请跳过它们，到第 5 部分，所有的乐趣开始了！
 
-[](https://ibexorigin.medium.com/membership)  
+<https://ibexorigin.medium.com/membership>  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex)  
+<https://alphasignal.ai/?referrer=Bex>  
 
 ## 函数是对象
 
@@ -326,8 +326,8 @@ sleep took 0.0 seconds to run!
 
 感谢您的阅读！
 
-[](https://ibexorigin.medium.com/membership)  [](https://ibexorigin.medium.com/subscribe)  
+<https://ibexorigin.medium.com/membership>  <https://ibexorigin.medium.com/subscribe>  
 
 阅读更多我的故事:
 
-[](https://ibexorigin.medium.com/6-sklearn-mistakes-that-silently-tell-you-are-rookie-f1fe44779a4d)  [](/comprehensive-guide-to-writing-python-functions-others-can-use-2fa186c6be71)  [](/the-easiest-way-to-deploy-your-ml-dl-models-in-2022-streamlit-bentoml-dagshub-ccf29c901dac)  [](/complete-guide-to-experiment-tracking-with-mlflow-and-dagshub-a0439479e0b9) 
+<https://ibexorigin.medium.com/6-sklearn-mistakes-that-silently-tell-you-are-rookie-f1fe44779a4d>  </comprehensive-guide-to-writing-python-functions-others-can-use-2fa186c6be71>  </the-easiest-way-to-deploy-your-ml-dl-models-in-2022-streamlit-bentoml-dagshub-ccf29c901dac>  </complete-guide-to-experiment-tracking-with-mlflow-and-dagshub-a0439479e0b9> 

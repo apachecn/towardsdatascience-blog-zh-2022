@@ -117,7 +117,7 @@ DataOps 方法对任何公司来说都是一个强大的工具，值得花时间
 
 # 相关文章
 
-[](/how-to-run-a-data-science-project-in-a-docker-container-2ab1a3baa889)  [](/model-evaluation-in-scikit-learn-abce32ee4a99)  [](/how-to-build-a-web-app-with-data-ingested-through-versatile-data-kit-ddae43b5f62d)  
+</how-to-run-a-data-science-project-in-a-docker-container-2ab1a3baa889>  </model-evaluation-in-scikit-learn-abce32ee4a99>  </how-to-build-a-web-app-with-data-ingested-through-versatile-data-kit-ddae43b5f62d>  
 
 # DevOps 和 MLOps 是一回事吗？
 

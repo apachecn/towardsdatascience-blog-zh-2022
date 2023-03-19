@@ -186,8 +186,8 @@ COCO Africa(图片来源:GitHub 官方[资源库](https://github.com/victordibia
 
 **这是我的 GitHub 知识库的链接，我计划在这里收集代码和许多与机器学习、人工智能等相关的资源。**
 
-**[](https://github.com/SalvatoreRa/tutorial)  
+**<https://github.com/SalvatoreRa/tutorial>  
 
 或者随意查看我在 Medium 上的其他文章:
 
-[](/machine-unlearning-the-duty-of-forgetting-3666e5b9f6e5)  [](/machine-learning-to-tackle-climate-change-7911e004c3a2)  [](/how-science-contribution-has-become-a-toxic-environment-6beb382cebcd)  [](https://pub.towardsai.net/a-new-bloom-in-ai-why-the-bloom-model-can-be-a-gamechanger-380a15b1fba7) **
+</machine-unlearning-the-duty-of-forgetting-3666e5b9f6e5>  </machine-learning-to-tackle-climate-change-7911e004c3a2>  </how-science-contribution-has-become-a-toxic-environment-6beb382cebcd>  <https://pub.towardsai.net/a-new-bloom-in-ai-why-the-bloom-model-can-be-a-gamechanger-380a15b1fba7> **

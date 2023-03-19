@@ -40,7 +40,7 @@
 
 有关内存管理的更多信息，请查看我以前的文章:
 
-[](/memory-management-every-developer-should-know-4f4911d8268b)  
+</memory-management-every-developer-should-know-4f4911d8268b>  
 
 # 静态与动态类型
 

@@ -168,7 +168,7 @@
 
 ***如果你对 Python、工程学和数据科学感兴趣，可以看看我的其他文章。***
 
-***[](https://medium.com/codex/python-project-idea-graph-traversal-and-pathfinding-algorithm-visualisations-99595c414293)  [](https://medium.com/@andrewdaviesul/membership)  
+***<https://medium.com/codex/python-project-idea-graph-traversal-and-pathfinding-algorithm-visualisations-99595c414293>  <https://medium.com/@andrewdaviesul/membership>  
 
 ## 参考
 

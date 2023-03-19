@@ -116,4 +116,4 @@ MLOps 是关于将 DevOps 原理应用于机器学习系统的新热潮。因此
 
 已经是会员了？[订阅](https://kurtispykes.medium.com/subscribe)在我发布时得到通知。
 
-[](https://kurtispykes.medium.com/subscribe) 
+<https://kurtispykes.medium.com/subscribe> 

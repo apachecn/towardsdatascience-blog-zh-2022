@@ -14,7 +14,7 @@
 
 在本教程中，我将通过使用我在之前的教程中创建的 [Films CRUD 应用程序](https://github.com/fabricius1/DjangoFilmsCRUD)向您展示如何做到这一点:
 
-[](/build-a-django-crud-app-by-using-class-based-views-12bc69d36ab6)  
+</build-a-django-crud-app-by-using-class-based-views-12bc69d36ab6>  
 
 因此，我邀请你[克隆这个 GitHub 库](https://github.com/fabricius1/DjangoFilmsCRUD)并遵循它的`README.md`指令，这样你就可以在你的机器上安装并运行 Films CRUD 应用。在本地运行项目后，您的文件夹结构将如下所示(`__pycache__`文件夹不在此显示):
 

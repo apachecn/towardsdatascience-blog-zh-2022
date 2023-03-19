@@ -10,7 +10,7 @@
 
 在本文中，我将在评估二进制分类模型的背景下讨论混淆矩阵。你可以在这里阅读用于推理分析和假设检验的[混淆矩阵](https://medium.com/@andreagustafsen/the-confusion-matrix-explained-part-1-5513c6f659c1)。
 
-[](https://medium.com/@andreagustafsen/the-confusion-matrix-explained-part-1-5513c6f659c1)  
+<https://medium.com/@andreagustafsen/the-confusion-matrix-explained-part-1-5513c6f659c1>  
 
 在分类中，行代表实际类别，列代表预测类别。让我们使用吉娃娃或蓝莓松饼分类案例，我们想要识别其中有狗的图像来说明混淆矩阵。
 
@@ -90,8 +90,8 @@ F1 分数的计算方法如下
 
 我希望这篇文章能帮助您理解混淆矩阵，以及如何根据它计算不同的二进制分类度量。
 
-[](https://medium.com/@andreagustafsen/the-confusion-matrix-explained-part-1-5513c6f659c1)  
+<https://medium.com/@andreagustafsen/the-confusion-matrix-explained-part-1-5513c6f659c1>  
 
 *如果你喜欢阅读这样的故事，并想支持我成为一名作家，可以考虑注册成为一名灵媒会员。每月 5 美元，你可以无限制地阅读媒体上的故事。如果你注册使用我的链接，我会赚一小笔佣金。*
 
-[](https://medium.com/@andreagustafsen/membership) 
+<https://medium.com/@andreagustafsen/membership> 

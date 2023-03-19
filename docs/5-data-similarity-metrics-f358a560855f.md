@@ -276,4 +276,4 @@ plot_similarities(similarities_list, product_labels, titles)
 
 如果你喜欢这篇文章，请阅读我的其他文章
 
-[](/evaluate-topic-model-in-python-latent-dirichlet-allocation-lda-7d57484bb5d0)  [](/recommendation-system-in-python-lightfm-61c85010ce17) 
+</evaluate-topic-model-in-python-latent-dirichlet-allocation-lda-7d57484bb5d0>  </recommendation-system-in-python-lightfm-61c85010ce17> 

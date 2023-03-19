@@ -489,7 +489,7 @@ def cons_grad(x):
 
 **您可以在下面的文章中找到差分进化的概述以及一些有趣的应用。**
 
-**[](/pymoode-differential-evolution-in-python-78e4221e5cbe)  [](/differential-evolution-an-alternative-to-nonlinear-convex-optimization-690a123f3413)  
+**</pymoode-differential-evolution-in-python-78e4221e5cbe>  </differential-evolution-an-alternative-to-nonlinear-convex-optimization-690a123f3413>  
 
 # 结论
 

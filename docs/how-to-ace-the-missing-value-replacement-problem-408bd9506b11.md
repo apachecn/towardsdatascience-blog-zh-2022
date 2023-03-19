@@ -120,11 +120,11 @@ ROC 分上去了，说明所有缺失值替换的努力都是值得的！哪怕�
 
 请**订阅**,以便在我发布新故事时随时获得通知。
 
-[](https://pranay-dave9.medium.com/subscribe)  
+<https://pranay-dave9.medium.com/subscribe>  
 
 如果你喜欢你所读的，你也可以通过我的推荐链接**加入 Medium** 。这是支持我的直接方式，我会非常感谢你。
 
-[](https://pranay-dave9.medium.com/membership)  
+<https://pranay-dave9.medium.com/membership>  
 
 # **数据源引用**
 

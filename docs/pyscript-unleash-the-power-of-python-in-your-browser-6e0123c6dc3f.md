@@ -80,4 +80,4 @@ PyScript 网站上提供的最基本的示例如下:
 
 您可能还会对以下内容感兴趣:
 
-[](/pandas-is-not-enough-a-comprehensive-guide-to-alternative-data-wrangling-solutions-a4730ba8d0e4)  [](/preview-your-jupyter-notebooks-in-the-terminal-with-nbpreview-87601a92d0d1)  [](/pur-the-easiest-way-to-keep-your-requirements-file-up-to-date-22d835279348) 
+</pandas-is-not-enough-a-comprehensive-guide-to-alternative-data-wrangling-solutions-a4730ba8d0e4>  </preview-your-jupyter-notebooks-in-the-terminal-with-nbpreview-87601a92d0d1>  </pur-the-easiest-way-to-keep-your-requirements-file-up-to-date-22d835279348> 

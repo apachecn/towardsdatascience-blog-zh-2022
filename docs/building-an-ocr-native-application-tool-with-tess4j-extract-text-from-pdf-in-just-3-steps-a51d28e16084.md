@@ -18,11 +18,11 @@
 
 **我过去在实现 Tesseract OCR 方面的一些尝试是以 [TesseractJS](https://tesseract.projectnaptha.com/) 的形式出现的，这是 OCR 引擎的一个纯 JavaScript 端口*(请参考下面的文章了解完整的细节)*:**
 
-**[](https://javascript.plainenglish.io/build-a-text-to-speech-app-using-client-side-javascript-98cd72df73bb)  [](/build-an-image-pdf-text-extraction-tool-with-tesseract-ocr-using-client-side-javascript-6126031001)  
+**<https://javascript.plainenglish.io/build-a-text-to-speech-app-using-client-side-javascript-98cd72df73bb>  </build-an-image-pdf-text-extraction-tool-with-tesseract-ocr-using-client-side-javascript-6126031001>  
 
 然而，最近我决定使用[Tess4J](http://tess4j.sourceforge.net/)(Java 中的 [Tesseract-OCR](https://github.com/tesseract-ocr) )作为利用 Tesseract 的 OCR 引擎的替代方法。作为我最近尝试使用 Tess4J 进行图像到文本转换的后续工作，我的学习之旅的第二部分将展示 Tess4J 的内置组件来对 PDF 文档执行文本提取。此外，这也是对第一部分中开发的早期原型的补充:
 
-[](/build-a-portable-ocr-tool-in-4-steps-with-tess4j-jar-a-tesseract-wrapper-for-java-6d1be3f0cb3d)  
+</build-a-portable-ocr-tool-in-4-steps-with-tess4j-jar-a-tesseract-wrapper-for-java-6d1be3f0cb3d>  
 
 # 用 Tess4J 构建 PDF 文本提取功能
 
@@ -30,7 +30,7 @@
 
 在深入研究其技术实现之前，请确保已经具备了使用 Tesseract 的 Java 应用程序的最小化设置。所有 JAR 依赖项与第一部分**完全相同。**
 
-关于如何使用 Tesseract 设置 Java 应用项目的详细信息，请参考第一部分[](/build-a-portable-ocr-tool-in-4-steps-with-tess4j-jar-a-tesseract-wrapper-for-java-6d1be3f0cb3d)****。****
+关于如何使用 Tesseract 设置 Java 应用项目的详细信息，请参考第一部分</build-a-portable-ocr-tool-in-4-steps-with-tess4j-jar-a-tesseract-wrapper-for-java-6d1be3f0cb3d>****。****
 
 **此后，Java 项目应该如下所示:**
 
@@ -102,4 +102,4 @@ for (int p = 0; p < totalNoOfPages; p++) { // FOR-EACH PAGE
 
 **— 🌮请给我买一份玉米卷🎀˶❛◡❛)**
 
-**[](https://geek-cc.medium.com/membership) ****
+**<https://geek-cc.medium.com/membership> ****

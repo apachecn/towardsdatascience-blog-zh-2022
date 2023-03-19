@@ -96,7 +96,7 @@ iForest 算法实现简单，可用于任何类型的数据(数值型、分类�
 
 它提供了一种简单的方法来比较不同的算法，并为给定的数据集选择最佳的算法。PyOD 还提供了多种功能，方便研究和生产。如果您想在不同的机器上运行相同的基准测试，这里有他们网站的链接:
 
-[](https://pyod.readthedocs.io/en/latest/benchmark.html)  
+<https://pyod.readthedocs.io/en/latest/benchmark.html>  
 
 关于测试的设置，基准测试是通过以下配置完成的:
 

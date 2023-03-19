@@ -58,7 +58,7 @@
 
 **注意:如果虚线代表 p 值，这将是正确的，因为 p 值也基于曲线下的面积，但更常见的是，这些图像中的虚线代表显著性水平——这就是为什么有些人会感到困惑。在这种情况下，我们用它来表示显著性水平，而不是 p 值。*
 
-以下所有可视化中的阴影部分代表曲线下的区域。在这种情况下，曲线下的阴影面积是正态分布曲线下总面积的 5%*(如果你曾经对计算曲线下面积的数学感兴趣，这里的*[](https://medium.com/geek-physics/3-ways-to-find-the-area-under-a-curve-and-why-you-would-want-to-do-that-949434a727d3)**是一个有趣的阅读)。**
+以下所有可视化中的阴影部分代表曲线下的区域。在这种情况下，曲线下的阴影面积是正态分布曲线下总面积的 5%*(如果你曾经对计算曲线下面积的数学感兴趣，这里的*<https://medium.com/geek-physics/3-ways-to-find-the-area-under-a-curve-and-why-you-would-want-to-do-that-949434a727d3>**是一个有趣的阅读)。**
 
 *虚线代表显著性水平或α(读作 alpha)。由于α通常设定为 5%，我们可以说有 5%的几率我们拒绝零假设是错误的。这也被称为第一类错误的概率。*
 
@@ -126,11 +126,11 @@
 
 *如果您是中级新手，请考虑使用下面的“我的推荐”链接订阅:*
 
-*[](https://medium.com/@andreasmartinson/membership)  
+*<https://medium.com/@andreasmartinson/membership>  
 
 此外，如果喜欢阅读，可以看看我最近发表的另一篇与统计相关的文章:
 
-[](/how-to-simplify-hypothesis-testing-for-linear-regression-in-python-8b43f6917c86)  
+</how-to-simplify-hypothesis-testing-for-linear-regression-in-python-8b43f6917c86>  
 
 ## 参考
 

@@ -100,4 +100,4 @@
 
 这些材料可以提高你的技术写作技巧:
 
-[](https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines)  [](https://developers.google.com/tech-writing) 
+<https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines>  <https://developers.google.com/tech-writing> 

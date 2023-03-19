@@ -254,7 +254,7 @@ docker run --rm -v `pwd`:/app_home test-model
 
 # 相关文章
 
-[](/how-to-convert-your-python-project-into-a-package-installable-through-pip-a2b36e8ace10)  [](/three-tricks-on-python-functions-that-you-should-know-e6badb26aac2)  [](/understanding-the-n-jobs-parameter-to-speedup-scikit-learn-classification-26e3d1220c28)  
+</how-to-convert-your-python-project-into-a-package-installable-through-pip-a2b36e8ace10>  </three-tricks-on-python-functions-that-you-should-know-e6badb26aac2>  </understanding-the-n-jobs-parameter-to-speedup-scikit-learn-classification-26e3d1220c28>  
 
 # 你认为使用 Docker 太复杂了吗？请改用 virtualenv
 

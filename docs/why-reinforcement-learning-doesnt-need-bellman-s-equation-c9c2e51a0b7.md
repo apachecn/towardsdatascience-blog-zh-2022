@@ -40,7 +40,7 @@
 
 寻找最优值函数的经典动态规划求解方法有[值迭代](/implement-value-iteration-in-python-a-minimal-working-example-f638907f3437)和[策略迭代](/implement-policy-iteration-in-python-a-minimal-working-example-6bf6cc156ca9)。您可以在以下文章中详细了解它们:
 
-[](/implement-value-iteration-in-python-a-minimal-working-example-f638907f3437)  [](/implement-policy-iteration-in-python-a-minimal-working-example-6bf6cc156ca9)  
+</implement-value-iteration-in-python-a-minimal-working-example-f638907f3437>  </implement-policy-iteration-in-python-a-minimal-working-example-6bf6cc156ca9>  
 
 # 贝尔曼方程和维数灾难
 
@@ -112,7 +112,7 @@
 
 你可以看到强化学习当然不需要求解贝尔曼方程，甚至不需要近似求解。
 
-[](/why-discount-future-rewards-in-reinforcement-learning-a833d0ae1942)  [](/the-four-policy-classes-of-reinforcement-learning-38185daa6c8a) [## 强化学习的四个策略类别
+</why-discount-future-rewards-in-reinforcement-learning-a833d0ae1942>  </the-four-policy-classes-of-reinforcement-learning-38185daa6c8a> [## 强化学习的四个策略类别
 
 towardsdatascience.com](/the-four-policy-classes-of-reinforcement-learning-38185daa6c8a) 
 

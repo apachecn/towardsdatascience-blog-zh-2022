@@ -128,7 +128,7 @@
 
 如果你想了解更多关于季节性的知识，可以看看我以前的博客:
 
-[](/seasonality-of-time-series-5b45b4809acd)  
+</seasonality-of-time-series-5b45b4809acd>  
 
 如果误差小于 1，则该预测优于对长度为*的训练数据的平均[简单预测](https://en.wikipedia.org/wiki/Forecasting#Na.C3.AFve_approach)。另一方面，如果它大于 1，则预测比平均的简单预测差。上式中 ***m*** 指季节性指数。*
 
@@ -176,6 +176,6 @@
 *   *[*LinkedIn*](https://www.linkedin.com/in/egor-howell-092a721b3/)*👔**
 *   **[*推特*](https://twitter.com/EgorHowell) 🖊**
 *   **[*github*](https://github.com/egorhowell)*🖥***
-*   ***[](https://www.kaggle.com/egorphysics)**🏅*****
+*   ***<https://www.kaggle.com/egorphysics>**🏅*****
 
 > ***(所有表情符号都是由 [OpenMoji](https://openmoji.org/) 设计的——开源的表情符号和图标项目。许可证: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)***

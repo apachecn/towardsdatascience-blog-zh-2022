@@ -111,7 +111,7 @@ df.drop(index=**df.index[-1]**)
 
 如果您想了解关于切片技术以及如何使用行索引来选择数据的更多信息，可以查看本文:
 
-[](/how-to-use-loc-and-iloc-for-selecting-data-in-pandas-bd09cb4c3d79)  
+</how-to-use-loc-and-iloc-for-selecting-data-in-pandas-bd09cb4c3d79>  
 
 # 4.删除单个列
 
@@ -238,7 +238,7 @@ df.drop(**columns=('Day', 'Weather')**)
 
 如果您想了解更多关于在多索引数据框架中访问数据的信息，请查阅本文:
 
-[](/accessing-data-in-a-multiindex-dataframe-in-pandas-569e8767201d) [## 在熊猫的多索引数据框架中访问数据
+</accessing-data-in-a-multiindex-dataframe-in-pandas-569e8767201d> [## 在熊猫的多索引数据框架中访问数据
 
 towardsdatascience.com](/accessing-data-in-a-multiindex-dataframe-in-pandas-569e8767201d) 
 

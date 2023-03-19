@@ -74,4 +74,4 @@
 
 ***不知道接下来要读什么？我可能有一些推荐给你:***
 
-[](/productivity-tips-for-data-scientists-eb66242fde27)  [](/top-qualities-hiring-managers-look-for-in-data-scientist-candidates-2e2cd52444c2)  [](https://medium.com/geekculture/avoid-these-five-behaviors-that-make-you-look-like-a-data-novice-40f01158ae00) 
+</productivity-tips-for-data-scientists-eb66242fde27>  </top-qualities-hiring-managers-look-for-in-data-scientist-candidates-2e2cd52444c2>  <https://medium.com/geekculture/avoid-these-five-behaviors-that-make-you-look-like-a-data-novice-40f01158ae00> 

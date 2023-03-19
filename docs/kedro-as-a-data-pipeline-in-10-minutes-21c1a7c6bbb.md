@@ -206,11 +206,11 @@ $ kedro run --runner=ParallelRunner*
 
 *命令`kedro test`运行项目中的所有单元测试，遵循 Python `unittest`或`pytest`框架。而命令`kedro lint`使用`flake8`、`isort`和`black` Python 包执行林挺。这些 CLI 命令无缝地工作，除了编写测试用例之外，用户不需要额外的工作。*
 
-*[](/unit-testing-with-mocking-in-10-minutes-e28feb7e530)  [](/pytest-with-marking-mocking-and-fixtures-in-10-minutes-678d7ccd2f70)  
+*</unit-testing-with-mocking-in-10-minutes-e28feb7e530>  </pytest-with-marking-mocking-and-fixtures-in-10-minutes-678d7ccd2f70>  
 
 为您的源代码编写文档字符串和文档也是一个很好的实践，这样技术和非技术受众都可以理解这个存储库。命令`kedro build-docs`自动为您的项目生成文档。这是建立在 Sphinx 框架之上的，它可以用漂亮的 HTML 格式显示文档。
 
-[](/advanced-code-documentation-beyond-comments-and-docstrings-2cc5b2ace28a)  
+</advanced-code-documentation-beyond-comments-and-docstrings-2cc5b2ace28a>  
 
 # 高级:使用外部数据库
 

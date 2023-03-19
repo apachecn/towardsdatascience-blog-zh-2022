@@ -160,11 +160,11 @@ if __name__ == "__main__":
 
 和往常一样，你可以在我的 GitHub 账户上找到这个脚本。
 
-[](https://github.com/CognitiveDave/ReadingList/blob/main/parallelism.py)  
+<https://github.com/CognitiveDave/ReadingList/blob/main/parallelism.py>  
 
 不是中等会员！为什么不加入呢——只需 50 美元，物超所值。
 
-[](https://cognitivedave.medium.com/membership)  
+<https://cognitivedave.medium.com/membership>  
 
 # 参考
 

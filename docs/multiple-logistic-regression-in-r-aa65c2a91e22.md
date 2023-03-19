@@ -30,7 +30,7 @@ MADEG 数据[图片由作者提供]
 
 在之前的多元逻辑回归文章中(链接如下)，
 
-[](/simple-logistic-regression-for-dichotomous-variables-in-r-8befbe3e95b4)  
+</simple-logistic-regression-for-dichotomous-variables-in-r-8befbe3e95b4>  
 
 我们试图回答以下问题。
 
@@ -93,4 +93,4 @@ R 中的输出窗口[图片由作者提供]
 
 感谢阅读。
 
-[](https://mdsohel-mahmood.medium.com/membership)  [](https://mdsohel-mahmood.medium.com/subscribe) 
+<https://mdsohel-mahmood.medium.com/membership>  <https://mdsohel-mahmood.medium.com/subscribe> 

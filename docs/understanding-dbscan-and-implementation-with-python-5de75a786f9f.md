@@ -103,4 +103,4 @@ DBSCAN_cluster.labels_
 
 ## 参考
 
-[](https://en.wikipedia.org/wiki/DBSCAN)  [](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html)  [](https://scikit-learn.org/stable/modules/clustering.html#dbscan) 
+<https://en.wikipedia.org/wiki/DBSCAN>  <https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html>  <https://scikit-learn.org/stable/modules/clustering.html#dbscan> 

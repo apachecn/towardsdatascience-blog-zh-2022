@@ -99,7 +99,7 @@ from setuptools import setup if __name__ == "__main__":
 
 关于`setup.py`和`setup.cfg`文件之间的区别，你可以阅读这篇文章
 
-[](/setuptools-python-571e7d5500f2)  
+</setuptools-python-571e7d5500f2>  
 
 ## 我们需要 requirements.txt 和 setup.py/setup.cfg 文件吗？
 
@@ -131,10 +131,10 @@ from setuptools import setup if __name__ == "__main__":
 
 如果您现在想知道如何分发您的 Python 包并使其在 PyPI 上可用，以便它也可以通过`pip`包管理器安装，请务必阅读下面的文章。
 
-[](/how-to-upload-your-python-package-to-pypi-de1b363a1b3)  **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
+</how-to-upload-your-python-package-to-pypi-de1b363a1b3>  **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership)  
+<https://gmyrianthous.medium.com/membership>  
 
 **相关文章你可能也喜欢**
 
-[](/8-must-know-venv-commands-for-data-scientists-and-engineers-dd81fbac0b38)  [](/pycache-python-991424aabad8)  [](https://betterprogramming.pub/11-python-one-liners-for-everyday-programming-f346a0a73f39) 
+</8-must-know-venv-commands-for-data-scientists-and-engineers-dd81fbac0b38>  </pycache-python-991424aabad8>  <https://betterprogramming.pub/11-python-one-liners-for-everyday-programming-f346a0a73f39> 

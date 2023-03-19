@@ -196,7 +196,7 @@ touch films/templates/films/film_{confirm_delete,detail,form,list}.html
 
 如果您想了解更多关于在 Django 中运行 Python 脚本的知识，我邀请您阅读我写的另一篇教程:
 
-[](/use-python-scripts-to-insert-csv-data-into-django-databases-72eee7c6a433)  
+</use-python-scripts-to-insert-csv-data-into-django-databases-72eee7c6a433>  
 
 **最后备注:制作你自己的 DJANGO CRUD 应用**
 

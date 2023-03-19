@@ -155,7 +155,7 @@ C++实现如下所示:
 
 *成为媒介会员，阅读更多其他作家和我的故事。报名时可以用我的* [*推荐链接*](https://medium.com/@iamleonie/membership) *支持我。我将收取佣金，不需要你额外付费。*
 
-[](https://medium.com/@iamleonie/membership)  
+<https://medium.com/@iamleonie/membership>  
 
 *在* [*上找我*](https://twitter.com/helloiamleonie)*[*LinkedIn*](https://www.linkedin.com/in/804250ab/)*[*ka ggle*](https://www.kaggle.com/iamleonie)*！***
 

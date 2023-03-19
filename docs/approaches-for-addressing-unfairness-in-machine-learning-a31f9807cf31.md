@@ -62,7 +62,7 @@ DIR 还有一个**调优参数**，它在准确性和公平性之间引入了一
 
 均等的机会只是公平的一个潜在定义。其他定义包括**平等机会**和**不同影响**。我们将在下面的文章中讨论所有这些。我们还将讨论每个定义的合理性，并向您展示如何使用 Python 来应用它们。
 
-[](/analysing-fairness-in-machine-learning-with-python-96a9ab0d0705)  
+</analysing-fairness-in-machine-learning-with-python-96a9ab0d0705>  
 
 这些方法的缺点是在实践中很难实施。它们需要调整成熟的算法。与预处理方法不同，这些调整也是算法特定的。对于回归、树方法或神经网络，我们引入惩罚参数的方式将是不同的。
 
@@ -106,7 +106,7 @@ DIR 还有一个**调优参数**，它在准确性和公平性之间引入了一
 
 首先，我们需要了解不公平模型的原因。我们已经提到了其中的一些。它们包括**代理变量**、**倾斜数据集**和**嵌入数据的历史不公**。不公平也可能来自我们的**算法选择**或者**用户与模型的**交互方式。我们将在下面的文章中对此进行更深入的讨论。
 
-[](/algorithm-fairness-sources-of-bias-7082e5b78a2c)  
+</algorithm-fairness-sources-of-bias-7082e5b78a2c>  
 
 然后我们需要做一个彻底的[公平分析](/analysing-fairness-in-machine-learning-with-python-96a9ab0d0705)。这是为了了解上述原因普遍存在的程度。将这种分析扩展到数据和模型之外也很重要。模型可以拒绝或接受贷款申请。我们可以用 1/0 来量化这些，计算公平性度量。然而，这隐藏了我们模型的真实后果。拒绝可能导致企业破产或学生无法上大学。
 
@@ -142,7 +142,7 @@ DIR 还有一个**调优参数**，它在准确性和公平性之间引入了一
 
 可解释性要求我们将理解置于性能之上。我们可以使用回归或决策树等本质上可解释的模型来做到这一点。这些可以通过查看模型参数来直接解释。对于非线性模型，如 xgboost 或神经网络，我们将需要[模型不可知的](/what-are-model-agnostic-methods-387b0e8441ef)方法。一种常见的方法是 SHAP，我们将在下面的文章中介绍。
 
-[](/introduction-to-shap-with-python-d27edc23c454)  
+</introduction-to-shap-with-python-d27edc23c454>  
 
 ## 给出解释
 
@@ -150,7 +150,7 @@ DIR 还有一个**调优参数**，它在准确性和公平性之间引入了一
 
 重要的是要明白解释和说明不是一回事。解释是技术性的。我们关注模型参数或 SHAP 值。向非技术观众提供解释。这意味着以一种可以理解的方式给出它们是很重要的。我们将在下面的文章中讨论如何做到这一点。
 
-[](/the-art-of-explaining-predictions-22e3584ed7d8)  
+</the-art-of-explaining-predictions-22e3584ed7d8>  
 
 解释也可以超越特性贡献。我们可以解释决策过程自动化的程度。我们还可以解释在这个过程中使用了哪些数据，以及这些数据是从哪里获得的。这些方面的解释可以由法律或客户需求来定义。
 
@@ -176,7 +176,7 @@ DIR 还有一个**调优参数**，它在准确性和公平性之间引入了一
 
 我希望这篇文章对你有帮助！你可以成为我的 [**推荐会员**](https://conorosullyds.medium.com/membership) **来支持我。你可以访问 Medium 上的所有文章，我可以得到你的部分费用。**
 
-[](https://conorosullyds.medium.com/membership)  
+<https://conorosullyds.medium.com/membership>  
 
 你可以在|[Twitter](https://twitter.com/conorosullyDS)|[YouTube](https://www.youtube.com/channel/UChsoWqJbEjBwrn00Zvghi4w)|[时事通讯](https://mailchi.mp/aa82a5ce1dc0/signup)上找到我——注册免费参加 [Python SHAP 课程](https://adataodyssey.com/courses/shap-with-python/)
 

@@ -24,7 +24,7 @@ Armand Khoury 在 [Unsplash](https://unsplash.com/) 拍摄的图片
 
 > 要了解更多关于安德鲁斯曲线和上面提到的其他多维可视化工具，请查看下面的链接
 
-[](https://en.wikipedia.org/wiki/Andrews_plot)  [](https://www.mikulskibartosz.name/looking-for-structure-in-data-andrews-curves-plot-explained/)    [](https://www.geeksforgeeks.org/difference-between-pca-vs-t-sne/)  
+<https://en.wikipedia.org/wiki/Andrews_plot>  <https://www.mikulskibartosz.name/looking-for-structure-in-data-andrews-curves-plot-explained/>    <https://www.geeksforgeeks.org/difference-between-pca-vs-t-sne/>  
 
 在下面的段落中，我们将讨论如何为安德鲁斯曲线准备数据，并测试一些绘图方法。
 
@@ -58,8 +58,8 @@ Seaborn 的数据[可视化库](https://seaborn.pydata.org/)提供了另一种�
 
 ## 感谢您的阅读！
 
-[](https://medium.com/membership/@cole-hagen)  
+<https://medium.com/membership/@cole-hagen>  
 
 作者的类似文章—
 
-[](/warp-space-and-time-with-radial-heatmaps-c9a878d2ebf6)  [](/making-it-rain-with-raincloud-plots-496c39a2756f) 
+</warp-space-and-time-with-radial-heatmaps-c9a878d2ebf6>  </making-it-rain-with-raincloud-plots-496c39a2756f> 

@@ -94,7 +94,7 @@ ETL 的第三个也是最后一个阶段需要将数据加载到一个安全且�
 
 注意:这个练习涉及到使用[纽约时报文章搜索 API](https://developer.nytimes.com/docs/articlesearch-product/1/overview) 提取数据。如果您不熟悉这个 API，或者不熟悉使用 API 进行数据收集，请查阅本文:
 
-[](https://betterprogramming.pub/data-collection-with-api-for-beginners-52b02e571944)  
+<https://betterprogramming.pub/data-collection-with-api-for-beginners-52b02e571944>  
 
 **第一步:提取**
 

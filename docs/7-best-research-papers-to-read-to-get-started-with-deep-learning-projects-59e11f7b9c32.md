@@ -16,7 +16,7 @@
 
 对于深度学习来说，拥有自己的设备或系统来计算复杂的问题总是最好的。在继续阅读本文之前，我建议从下面提供的文章链接中寻找一些在众多价格范围内用于深度学习的最佳 PC 版本。
 
-[](/best-pc-builds-for-deep-learning-in-every-budget-ranges-3e83d1351a8) [## 在各种预算范围内，最适合深度学习的电脑
+</best-pc-builds-for-deep-learning-in-every-budget-ranges-3e83d1351a8> [## 在各种预算范围内，最适合深度学习的电脑
 
 towardsdatascience.com](/best-pc-builds-for-deep-learning-in-every-budget-ranges-3e83d1351a8) 
 
@@ -66,7 +66,7 @@ ResNet 体系结构利用了残余块。这个概念是非常重要的，因为�
 
 计算机视觉是人工智能最受欢迎的分支之一。一个可以解决这些复杂的计算机视觉问题的深度学习模型，例如实时物体检测和人脸识别，具有很高的价值。YOLO 是解决高精度目标检测问题的最佳方法之一。如果观众对掌握计算机视觉的基础感兴趣，我建议观众看看下面提供的指南。
 
-[](/opencv-complete-beginners-guide-to-master-the-basics-of-computer-vision-with-code-4a1cd0c687f9)  
+</opencv-complete-beginners-guide-to-master-the-basics-of-computer-vision-with-code-4a1cd0c687f9>  
 
 ## 3.U-Net:
 
@@ -128,7 +128,7 @@ U-Net 是一篇革命性的论文，用于分割不同类型的计算机视觉�
 
 [ArtSpiley](https://unsplash.com/@artspiley?utm_source=medium&utm_medium=referral) 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄的照片
 
-**研究论文:**[](https://arxiv.org/pdf/1406.2661.pdf)
+**研究论文:**<https://arxiv.org/pdf/1406.2661.pdf>
 
 *作者: *伊恩·古德菲勒、让·普盖-阿巴迪、迈赫迪·米尔扎、徐炳、大卫·沃德-法利、谢尔吉尔·奥泽尔、亚伦·库维尔、约舒阿·本吉奥**
 
@@ -173,12 +173,12 @@ U-Net 是一篇革命性的论文，用于分割不同类型的计算机视觉�
 
 *如果你想在我的文章发表后第一时间得到通知，请点击下面的[链接](https://bharath-k1297.medium.com/subscribe)订阅邮件推荐。如果你希望支持其他作者和我，请订阅下面的链接。*
 
-*[](https://bharath-k1297.medium.com/membership)  
+*<https://bharath-k1297.medium.com/membership>  
 
 如果你对这篇文章中提到的各点有任何疑问，请在下面的评论中告诉我。我会尽快给你回复。
 
 看看我的一些与本文主题相关的文章，你可能也会喜欢阅读！
 
-[](/7-python-programming-tips-to-improve-your-productivity-a57802f225b6)  [](/best-seaborn-visualizations-for-data-science-3d866f99c3a9)  [](/visualizing-cpu-memory-and-gpu-utilities-with-python-8028d859c2b0)  
+</7-python-programming-tips-to-improve-your-productivity-a57802f225b6>  </best-seaborn-visualizations-for-data-science-3d866f99c3a9>  </visualizing-cpu-memory-and-gpu-utilities-with-python-8028d859c2b0>  
 
 谢谢你们坚持到最后。我希望你们都喜欢这篇文章。祝大家有美好的一天！*

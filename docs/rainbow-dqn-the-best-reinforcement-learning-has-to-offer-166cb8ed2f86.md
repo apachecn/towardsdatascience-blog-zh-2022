@@ -182,7 +182,7 @@ DeepMind 团队还通过省略彩虹中的个别技术，检查了所有组件�
 
 想更多地了解 DQN 吗？查看以下文章:
 
-[](/deep-q-learning-for-the-cliff-walking-problem-b54835409046)  [](/how-to-model-experience-replay-batch-learning-and-target-networks-c1350db93172)  [](/a-minimal-working-example-for-deep-q-learning-in-tensorflow-2-0-e0ca8a944d5e)  
+</deep-q-learning-for-the-cliff-walking-problem-b54835409046>  </how-to-model-experience-replay-batch-learning-and-target-networks-c1350db93172>  </a-minimal-working-example-for-deep-q-learning-in-tensorflow-2-0-e0ca8a944d5e>  
 
 # 参考
 

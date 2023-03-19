@@ -153,4 +153,4 @@ Disclaimer: I make no claims that the PDF is the most **effective** means of com
 
 喜欢这篇文章？更像下面的。
 
-[](https://www.linkedin.com/in/kate-wall/)  [](/professional-treemaps-in-python-how-to-customize-matplotlib-squarify-efd5dc4c8755)  [](/professional-venn-diagrams-in-python-638abfff39cc) 
+<https://www.linkedin.com/in/kate-wall/>  </professional-treemaps-in-python-how-to-customize-matplotlib-squarify-efd5dc4c8755>  </professional-venn-diagrams-in-python-638abfff39cc> 

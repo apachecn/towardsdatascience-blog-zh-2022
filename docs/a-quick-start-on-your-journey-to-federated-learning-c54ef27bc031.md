@@ -151,4 +151,4 @@ final_fl_model = fx.run_experiment(collaborators,override_config={‘aggregator.
 
 [Jagdish](https://www.linkedin.com/in/jagdish-kharatmol-5abb06190/) Kharatmol(代码开发)
 
-[](https://medium.com/@profsarang/membership) 
+<https://medium.com/@profsarang/membership> 

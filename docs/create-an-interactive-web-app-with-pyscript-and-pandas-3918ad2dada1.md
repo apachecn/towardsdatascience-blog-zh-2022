@@ -204,11 +204,11 @@ def setup():
 
 **一如既往，感谢阅读。你可以在我的[网站](https://alanjones2.github.io/)上找到完整代码和演示网页的链接，在那里你还可以找到其他文章的链接。**
 
-**[](https://alanjones2.github.io)  
+**<https://alanjones2.github.io>  
 
 如果你想跟上我写的东西，请考虑订阅我偶尔的[时事通讯](http://technofile.substack.com)或者点击下面的链接，当我在这里发表时，你会收到一封电子邮件。
 
-[](https://technofile.substack.com)  
+<https://technofile.substack.com>  
 
 # 笔记
 

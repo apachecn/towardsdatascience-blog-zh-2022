@@ -130,7 +130,7 @@
 
 如果您不确定为什么这样的安排是必要的，请查看我关于数据泄漏的文章:
 
-[](/an-introduction-to-data-leakage-f1c58f7c1d64)  
+</an-introduction-to-data-leakage-f1c58f7c1d64>  
 
 ## 你应该使用哪一个？
 

@@ -16,7 +16,7 @@
 
 > 注意:因为我们将在这个故事中创建许多决策树，所以最好刷新一些关于决策树以及如何构建决策树的基本概念。这里有一个故事可能对你有所帮助:
 
-[](/k-nearest-neighbors-naive-bayes-and-decision-tree-in-10-minutes-f8620b25e89b)  
+</k-nearest-neighbors-naive-bayes-and-decision-tree-in-10-minutes-f8620b25e89b>  
 
 ```
 **Table of Contents****·** [**Random Forest**](#e8d7)

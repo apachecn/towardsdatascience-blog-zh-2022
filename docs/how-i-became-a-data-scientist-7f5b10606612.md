@@ -26,7 +26,7 @@
 
 参加 Python、机器学习基础和其他数据科学技术的在线课程是第一步。利用 Python 来完成我论文中的数据分析过程确实给了我征服这种语言的良好开端。然后我在我的一篇论文章节中得到了一个使用机器学习算法的想法，并与另外两位有相同兴趣的同事一起实现了它。在这种背景下，我申请并获得了为期八周的数据科学训练营的奖学金，这是我真正涉足各种项目并发展相关技能的时候。训练营还提供职业指导、求职帮助和校友小组，帮助我更多地了解数据科学家每天都在做什么，并增强了我申请数据科学家职位的决心。关于训练营的更多细节，你可以在这里阅读文章:
 
-[](https://pub.towardsai.net/how-to-benefit-from-attending-a-data-science-bootcamp-289db43e2d7c)  
+<https://pub.towardsai.net/how-to-benefit-from-attending-a-data-science-bootcamp-289db43e2d7c>  
 
 作为一个在提高数据科学技能的同时从动手项目中受益的人，我想回馈社会，我正在开发一门[数据科学课程，其中包含时间序列预测中的动手项目](https://www.greedyacademy.com/training-product-detail/supply-chain-optimization)，面向那些有兴趣学习时间序列分析并接触行业最佳实践的人。不幸的是，该课程目前只有中文版，但我会有一系列的博客帖子来提供与该课程相关的教程和有趣的实践。如果你有兴趣参加这个课程，请在这里或在 [LinkedIn](https://www.linkedin.com/in/zijingzhu/) 上给我发短信。
 
@@ -34,7 +34,7 @@
 
 对于那些跟踪我一段时间的人来说，你可能知道我的求职之旅并不容易。这是一个长达七个月的过程，一路上有很多拒绝。这是对自信的不断挑战，让我多次怀疑自己是否做出了正确的选择。当我回头看时，我很感激自己没有轻易放弃，继续为下一次面试做准备。终于有了回报。我还写了一篇文章来分享整个经历，你可以在这里查看:
 
-[](/how-to-not-feel-like-crap-facing-rejections-from-data-science-interviews-89035129a466)  
+</how-to-not-feel-like-crap-facing-rejections-from-data-science-interviews-89035129a466>  
 
 在漫长的求职过程中，我真正受益的不仅是宝贵的面试经验，还有我写的总结每次面试准备的文章，许多人发现这些文章对准备自己的面试也很有用:
 
@@ -54,20 +54,20 @@
 
 数据科学是一个具有挑战性的职位，需要不断学习，因为世界在快速变化，技术变化更快。它有如此多的潜在用例，并且它一直在塑造所有公司做出数据驱动决策的行业。我担任这一角色的时间越长，我就越意识到数据科学不仅仅是我所认为的花哨的数据分析、高级建模或复杂的编码，而是与不同团队的合作、揭示和交流见解以及数据故事有关。在下一篇文章中，我将讨论如何成为一名优秀的数据科学家，以及我根据自己的经验遵循的七条原则:
 
-[](/seven-principals-i-follow-to-be-a-better-data-scientist-25a547d6acfc)  
+</seven-principals-i-follow-to-be-a-better-data-scientist-25a547d6acfc>  
 
 总而言之，我从经济学博士到数据科学的旅程包含了很多快乐、挑战、拒绝、满足等等。我很高兴能在一个既有激情又有技能的岗位上工作。希望这篇文章给那些处于职业生涯或任何人生十字路口的人一个参考点，如果它能以某种方式激励任何人，我会很激动。感谢您的阅读！如果感兴趣，请查看我的其他文章:
 
-[](https://zzhu17.medium.com/my-blog-posts-gallery-ac6e01fe5cc3)  
+<https://zzhu17.medium.com/my-blog-posts-gallery-ac6e01fe5cc3>  
 
 订阅我的电子邮件列表:
 
-[](https://zzhu17.medium.com/subscribe)  
+<https://zzhu17.medium.com/subscribe>  
 
 注册成为中级会员:
 
-[](https://zzhu17.medium.com/membership)  
+<https://zzhu17.medium.com/membership>  
 
 或者在 YouTube 上关注我:
 
-[](https://youtube.com/channel/UCMs6go1pvY5OOy1DXVtMo5A) 
+<https://youtube.com/channel/UCMs6go1pvY5OOy1DXVtMo5A> 

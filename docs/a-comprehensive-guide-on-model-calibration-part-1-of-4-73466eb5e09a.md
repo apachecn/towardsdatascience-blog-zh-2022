@@ -175,7 +175,7 @@ Ml-insight 的可靠性曲线(图片由作者提供)
 
 如果你喜欢这个，这里还有一些！
 
-[](/interpreting-an-lstm-through-lime-e294e6ed3a03)  [](/adding-custom-layers-on-top-of-a-hugging-face-model-f1ccdfc257bd)  [](/dealing-with-features-that-have-high-cardinality-1c9212d7ff1b)  
+</interpreting-an-lstm-through-lime-e294e6ed3a03>  </adding-custom-layers-on-top-of-a-hugging-face-model-f1ccdfc257bd>  </dealing-with-features-that-have-high-cardinality-1c9212d7ff1b>  
 
 # 承认
 

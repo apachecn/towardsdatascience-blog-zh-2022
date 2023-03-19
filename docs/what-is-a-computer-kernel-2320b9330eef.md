@@ -81,6 +81,6 @@ Jupyter Notebook 内核是一个执行笔记本代码的引擎，专用于特定
 *   这些任务包括管理并行运行的进程或外部连接设备的正常运行。
 *   Jupyter Notebook 内核不是所描述的系统内核，因为它只用于执行编程代码。
 
-*如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你想让***无限制地访问我的文章和数以千计的精彩文章，请不要犹豫，通过点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格***
+*如果你喜欢我的作品，请在这里订阅*<https://medium.com/subscribe/@niklas_lang>**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你想让***无限制地访问我的文章和数以千计的精彩文章，请不要犹豫，通过点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格***
 
-**[](/introducing-nosql-databases-with-mongodb-d46c976da5bf)  [](https://medium.com/codex/understanding-the-backpropagation-algorithm-7a2e3cb4a69c)  [](/beginners-guide-to-gradient-descent-47f8d0f4ce3b) **
+**</introducing-nosql-databases-with-mongodb-d46c976da5bf>  <https://medium.com/codex/understanding-the-backpropagation-algorithm-7a2e3cb4a69c>  </beginners-guide-to-gradient-descent-47f8d0f4ce3b> **

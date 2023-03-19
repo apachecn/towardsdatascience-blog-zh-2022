@@ -20,7 +20,7 @@ Streamlit 是一个**惊人的** Python 库。
 
 事不宜迟，让我们来看看👀
 
-[](https://medium.com/membership/@ahmedbesbes)  
+<https://medium.com/membership/@ahmedbesbes>  
 
 # 简化组件—它们是什么？
 
@@ -116,7 +116,7 @@ GitHub:[https://github.com/PablocFonseca/streamlit-aggrid](https://github.com/Pa
 
 **这些 gif 是从我以前的一篇文章中截取的。如果你有兴趣了解更多关于 streamit_aggrid 的内容，可以去看看。**
 
-**[](/7-reasons-why-you-should-use-the-streamlit-aggrid-component-2d9a2b6e32f0)  
+**</7-reasons-why-you-should-use-the-streamlit-aggrid-component-2d9a2b6e32f0>  
 
 ## 什么时候需要使用 streamlit-aggrid？
 
@@ -234,7 +234,7 @@ st-annotated-text 是一个有趣的组件，它允许您突出显示文本的�
 
 如果你有兴趣了解这个应用程序的更多信息，你可以查看我的帖子:
 
-[](/how-to-build-and-deploy-a-text-anonymizer-with-spacy-and-streamlit-70ed9607823)  
+</how-to-build-and-deploy-a-text-anonymizer-with-spacy-and-streamlit-70ed9607823>  
 
 # 资源
 

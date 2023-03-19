@@ -154,4 +154,4 @@ LIMIT 20
 
 # 有用的资源
 
-[](https://cloud.google.com/bigquery/docs/reference/odbc-jdbc-drivers)  [](https://dbeaver.io/) 
+<https://cloud.google.com/bigquery/docs/reference/odbc-jdbc-drivers>  <https://dbeaver.io/> 

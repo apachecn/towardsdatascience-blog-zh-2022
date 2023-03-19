@@ -162,7 +162,7 @@ applicant_scores <- cbind(
 
 你可以在这里访问我的数据集。
 
-[](https://github.com/MartinaGiron/R-Portfolio/tree/main/Employee-Selection)  
+<https://github.com/MartinaGiron/R-Portfolio/tree/main/Employee-Selection>  
 
 # 一些最后的话
 

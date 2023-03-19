@@ -10,7 +10,7 @@ Julia 用于许多深度技术应用，如机器学习和数据科学。但作�
 
 *编辑:我和我的合著者很高兴地告诉大家，我们的新书《茱莉亚速成班》已经开始预售了:*
 
-[](https://logankilpatrick.gumroad.com/l/juliacrashcourse)  
+<https://logankilpatrick.gumroad.com/l/juliacrashcourse>  
 
 # 精灵🧞‍♂️的网络应用
 

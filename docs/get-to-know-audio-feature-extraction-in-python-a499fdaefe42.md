@@ -231,7 +231,7 @@ tempo = librosa.beat.tempo(onset_envelope=oenv, sr=sr,
 
 要了解有关音频/音乐特征提取的更多信息，您可以浏览下面的资源。
 
-[](https://link.springer.com/book/10.1007/978-3-540-74048-3)    [](https://www.kdnuggets.com/2020/02/audio-data-analysis-deep-learning-python-part-1.html)  
+<https://link.springer.com/book/10.1007/978-3-540-74048-3>    <https://www.kdnuggets.com/2020/02/audio-data-analysis-deep-learning-python-part-1.html>  
 
 **使用的音频参考**
 

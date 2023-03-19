@@ -46,7 +46,7 @@
 
 在基础层面，全栈数据科学家将具备解决任何一般数据科学问题所需的数学、分析、设计和编码技能。这些基础知识超出了本文的范围，但是可以在这里找到更多信息:
 
-[](/the-fully-updated-guide-you-can-use-to-learn-data-science-in-2022-without-getting-a-degree-8e73e416c21b)  
+</the-fully-updated-guide-you-can-use-to-learn-data-science-in-2022-without-getting-a-degree-8e73e416c21b>  
 
 从那里，数据科学家可以扩展他们的数据和软件工程技能，成为完整的包。
 
@@ -54,17 +54,17 @@
 
 最容易提高的技能是软件工程。所有这些都需要你写出比现在更好的代码。
 
-[](/software-engineering-best-practices-for-data-scientists-4c199ede6e03)  
+</software-engineering-best-practices-for-data-scientists-4c199ede6e03>  
 
 全栈数据科学家需要了解的软件工程围绕着能够端到端地进行数据项目，这意味着您可以在最后将它发布到生产环境中。这将包括开发模块化、文档化和自动化测试的技能。
 
 [模块化](https://stackoverflow.com/questions/1444221/how-to-make-code-modular)指的是编写代码，将它的功能分成独立的、[可互换的模块](https://en.wikipedia.org/wiki/Modular_programming)。这些模块应该被[分成可访问的](https://stackoverflow.com/questions/1444221/how-to-make-code-modular)类和函数，允许你写一次代码，提高你的代码的性能，并保持你的代码文件小且易于导航。
 
-[](/object-oriented-programming-for-data-scientists-8d4d976b6af8)  
+</object-oriented-programming-for-data-scientists-8d4d976b6af8>  
 
 提高软件工程技能的下一步是学习如何编写好的代码文档。令人惊讶的是，将新代码集成到现有的生产环境中，却没有代码文档来帮助您清理混乱，这种情况非常普遍。好的代码文档很容易创建，并且围绕着突出逻辑中的任何关键点，提前排除故障，并且通常给出代码做什么以及它应该如何工作的良好概述。
 
-[](/how-to-write-good-code-documentation-for-data-scientists-c9940aebb4f0)  
+</how-to-write-good-code-documentation-for-data-scientists-c9940aebb4f0>  
 
 提高软件工程技能的最后一步是培养自动化测试的感觉。与普通测试相比，普通测试包括手动运行代码，并在每次输入一段逻辑时查看是否会抛出错误，自动化测试是使用为您执行这些任务的工具来执行的。您可以执行的自动化测试类型包括单元测试、冒烟测试、集成测试、回归测试、API 测试、安全测试、性能测试、验收测试等等。您将熟悉的一些工具包括 Selenium、LambaTest 和 QMetry Automation Studio。这里有一个很棒的视频，可以帮助你开始自动化测试:
 
@@ -78,7 +78,7 @@
 
 数据工程技能，就像软件工程技能一样，可以通过免费的在线课程轻松掌握。获得全面的数据工程教育的最佳来源是 DataTalks 的免费在线课程。名为[数据工程 Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) 的俱乐部。本课程[将带您了解基础知识](https://www.kdnuggets.com/2022/05/free-data-engineering-courses.html)，从设置您的环境到学习工作流程编排，再到在本地和云中创建数据管道。还涵盖了数据仓库、批处理和端到端项目。
 
-[](https://github.com/DataTalksClub/data-engineering-zoomcamp)  
+<https://github.com/DataTalksClub/data-engineering-zoomcamp>  
 
 订阅将我的故事直接发送到您的收件箱:[故事订阅](https://madison13.medium.com/subscribe)
 

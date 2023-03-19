@@ -104,10 +104,10 @@ KNN vs 对数转换回归。图片由作者提供。
 
 另外，我的博客有更多的内容。
 
-[](https://gustavorsantos.medium.com/)  
+<https://gustavorsantos.medium.com/>  
 
 Git Hub 代码:完整的代码[可以在这里找到](https://github.com/gurezende/Studying/blob/master/Python/Linear%20Regression/KNN_Regression.ipynb)。
 
 ## 参考
 
-[](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsRegressor.html) 
+<https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsRegressor.html> 

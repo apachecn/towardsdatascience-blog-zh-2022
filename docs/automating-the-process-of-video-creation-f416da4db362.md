@@ -16,7 +16,7 @@
 
 这里有一篇摘自 bbc.com 的文章，谈论新当选的澳大利亚总理及其背景。
 
-[](https://www.bbc.com/news/world-australia-61267489)  
+<https://www.bbc.com/news/world-australia-61267489>  
 
 **工艺流程:**
 
@@ -54,7 +54,7 @@
 
 **输出视频:**
 
-[](https://youtube.com/shorts/gUG4sneHKwY?feature=share)  
+<https://youtube.com/shorts/gUG4sneHKwY?feature=share>  
 
 考虑到我们没有微调我们的模型来寻找关键词和从新闻数据集中提取摘要，视频的输出相当不错。
 
@@ -62,6 +62,6 @@
 
 **Github**链接:
 
-[](https://github.com/pawanreddy-u/videocreation)  
+<https://github.com/pawanreddy-u/videocreation>  
 
 我希望这个博客对你有所帮助。敬请关注机器学习和数据科学领域更多有趣的博客。

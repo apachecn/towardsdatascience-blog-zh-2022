@@ -86,7 +86,7 @@
 
 放心吧！这些概念比大多数人想象的要简单得多，我的向导会带你慢慢了解它们。快乐学习！
 
-[](/stats-gist-list-an-irreverent-statisticians-guide-to-jargon-be8173df090d)  
+</stats-gist-list-an-irreverent-statisticians-guide-to-jargon-be8173df090d>  
 
 # 喜欢作者？与凯西·科兹尔科夫联系
 

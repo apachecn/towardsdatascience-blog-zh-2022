@@ -70,4 +70,4 @@
 
 *我写的其他文章，你可能会喜欢:*
 
-[](/documenting-your-python-code-9e69671f046a)  [](/machine-learning-model-as-a-serverless-app-using-google-app-engine-b760de59156)  [](/machine-learning-model-as-a-serverless-endpoint-using-google-cloud-function-a5ad1080a59e)  [](/how-to-schedule-a-serverless-google-cloud-function-to-run-periodically-249acf3a652e) 
+</documenting-your-python-code-9e69671f046a>  </machine-learning-model-as-a-serverless-app-using-google-app-engine-b760de59156>  </machine-learning-model-as-a-serverless-endpoint-using-google-cloud-function-a5ad1080a59e>  </how-to-schedule-a-serverless-google-cloud-function-to-run-periodically-249acf3a652e> 

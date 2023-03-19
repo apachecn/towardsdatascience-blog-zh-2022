@@ -10,7 +10,7 @@
 
 在我们之前的文章[第 1 部分:因果推理入门](/getting-started-with-causal-inference-5cb61b707740)中，我们介绍了因果推理的基础知识，并对**回归**给予了很多关注。我们还讨论了回归不是因果估计设计中关闭后门的唯一方法。在这篇文章中，我们将讨论一些其他方法，都旨在实现同样的事情，即，使治疗组和对照组在所有方面都相似，除了在治疗方面。
 
-[](/getting-started-with-causal-inference-5cb61b707740)  
+</getting-started-with-causal-inference-5cb61b707740>  
 
 # 相称的
 

@@ -10,7 +10,7 @@
 
 泛型在更新 1.18(将于 2022 年 2 月发布)中推出，带有一系列其他闪亮的新功能。你可以在我的 1.18 补丁说明摘要中了解所有的变化。
 
-[](https://medium.com/@percybolmer/go-1-18-comes-with-many-amazing-changes-d33ac0afd6ee)  
+<https://medium.com/@percybolmer/go-1-18-comes-with-many-amazing-changes-d33ac0afd6ee>  
 
 要开始使用 1.18，您可以运行或下载它[这里](https://go.dev/dl/#go1.18beta1)。
 
@@ -72,7 +72,7 @@ go install golang.org/dl/go1.18beta1@latest
 
 现在，函数参数可能看起来微不足道，但是在进入泛型之前理解它是至关重要的。
 
-除了函数参数，还有**类型参数**。类型参数在`[]`内部定义，应该在函数参数`[](a,b int)`之前定义。您可以像定义函数参数一样定义类型参数，名称后跟数据类型。
+除了函数参数，还有**类型参数**。类型参数在`[]`内部定义，应该在函数参数`<a,b int>`之前定义。您可以像定义函数参数一样定义类型参数，名称后跟数据类型。
 
 > 类型参数通常是大写的，以便于识别。
 
@@ -268,6 +268,6 @@ func Move[V Moveable, S Subtractable](v V, distance S, meters S) S
 
 如果你喜欢我写的东西，不要错过我的指南，它提供了围棋中的模糊功能！
 
-[](https://medium.com/@percybolmer/fuzzy-testing-in-go-96eb08b7694d)  
+<https://medium.com/@percybolmer/fuzzy-testing-in-go-96eb08b7694d>  
 
 走出去，成为普通人！

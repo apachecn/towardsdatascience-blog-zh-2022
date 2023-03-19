@@ -110,4 +110,4 @@ Minerva 在不同的定量推理基准数据集上展示了最先进的结果。
 
 **这里是我的 Github 资源库的链接，我计划在那里收集代码，以及许多与机器学习、人工智能等相关的资源。**
 
-**[](https://github.com/SalvatoreRa/tutorial) **
+**<https://github.com/SalvatoreRa/tutorial> **

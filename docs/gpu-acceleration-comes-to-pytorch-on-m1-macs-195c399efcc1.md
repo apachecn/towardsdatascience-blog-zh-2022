@@ -94,7 +94,7 @@ pip3 install -U --pre torch torchvision torchaudio --extra-index-url https://dow
 
 我们将使用`transformers`和`datasets`库，它们是用`pip install transformers datasets`安装的。
 
-***旁注:*** *变形金刚库使用 Rust 内置的记号化器(它让它们更快)。因为我们正在使用这个新的 ARM64 环境，我们可能会得到* ***错误:为记号赋予器*** *构建轮子失败。如果是这样，我们安装*[](https://huggingface.co/docs/tokenizers/python/v0.9.4/installation/main.html#installation-from-sources)**(在相同的环境下)与:**
+***旁注:*** *变形金刚库使用 Rust 内置的记号化器(它让它们更快)。因为我们正在使用这个新的 ARM64 环境，我们可能会得到* ***错误:为记号赋予器*** *构建轮子失败。如果是这样，我们安装*<https://huggingface.co/docs/tokenizers/python/v0.9.4/installation/main.html#installation-from-sources>**(在相同的环境下)与:**
 
 ```
 *curl — proto ‘=https’ — tlsv1.2 -sSf [https://sh.rustup.rs](https://sh.rustup.rs) | sh*

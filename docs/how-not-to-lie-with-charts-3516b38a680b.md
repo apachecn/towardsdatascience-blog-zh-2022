@@ -214,6 +214,6 @@ Cairo 也是许多书籍的作者，包括[真实艺术:数据、图表和交流
 
 ## *报价
 
-*“谎言有三种:谎言、该死的谎言和统计数据”这句话经常被认为是马克·吐温说的，但它的起源*[](https://en.wikipedia.org/wiki/Lies,_damned_lies,_and_statistics)**可能早于他的用法。**
+*“谎言有三种:谎言、该死的谎言和统计数据”这句话经常被认为是马克·吐温说的，但它的起源*<https://en.wikipedia.org/wiki/Lies,_damned_lies,_and_statistics>**可能早于他的用法。**
 
 **本文包含附属链接。**

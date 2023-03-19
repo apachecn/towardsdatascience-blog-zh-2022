@@ -134,4 +134,4 @@ Similarity between Sent2 and Sent3 = 0.462 ## moderate; mentioned US
 
 **你可能会发现其他博客也很鼓舞人心，**
 
-[](/6-sql-tricks-every-data-scientist-should-know-f84be499aea5)  [](/best-of-both-worlds-automated-and-dynamic-sql-queries-from-python-5b74a24501b0)  [](/4-hidden-gems-for-idiomatic-pandas-code-99c706e6ce93) 
+</6-sql-tricks-every-data-scientist-should-know-f84be499aea5>  </best-of-both-worlds-automated-and-dynamic-sql-queries-from-python-5b74a24501b0>  </4-hidden-gems-for-idiomatic-pandas-code-99c706e6ce93> 

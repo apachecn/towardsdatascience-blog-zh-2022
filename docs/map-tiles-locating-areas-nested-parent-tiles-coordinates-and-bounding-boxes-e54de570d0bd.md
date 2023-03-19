@@ -120,4 +120,4 @@ def tile_bbox(z,x,y):
 
 ## 关于 Tilesets 的更多信息
 
-[](https://docs.microsoft.com/en-us/bingmaps/articles/bing-maps-tile-system?redirectedfrom=MSDN)  [](https://wiki.openstreetmap.org/wiki/Slippy_map_tilenames) 
+<https://docs.microsoft.com/en-us/bingmaps/articles/bing-maps-tile-system?redirectedfrom=MSDN>  <https://wiki.openstreetmap.org/wiki/Slippy_map_tilenames> 

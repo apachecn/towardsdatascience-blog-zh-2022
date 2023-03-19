@@ -91,4 +91,4 @@ IoU 是通过将模型的预测分割中的像素与真实分割中的像素进�
 
 快乐解释和分段！
 
-*原载于 2022 年 7 月 2 日 http://glassboxmedicine.com*[](https://glassboxmedicine.com/2022/07/02/model-explanation-is-not-weakly-supervised-segmentation/)**。**
+*原载于 2022 年 7 月 2 日 http://glassboxmedicine.com*<https://glassboxmedicine.com/2022/07/02/model-explanation-is-not-weakly-supervised-segmentation/>**。**

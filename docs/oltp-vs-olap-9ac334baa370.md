@@ -105,8 +105,8 @@ OLTP 和 OLAP 系统在预期响应/处理时间方面的差异是意料之中�
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership)  
+<https://gmyrianthous.medium.com/membership>  
 
 **相关文章你可能也喜欢**
 
-[](/star-schema-924b995a9bdf)  [](/data-engineer-tools-c7e68eed28ad)  [](https://betterprogramming.pub/kafka-cli-commands-1a135a4ae1bd) 
+</star-schema-924b995a9bdf>  </data-engineer-tools-c7e68eed28ad>  <https://betterprogramming.pub/kafka-cli-commands-1a135a4ae1bd> 

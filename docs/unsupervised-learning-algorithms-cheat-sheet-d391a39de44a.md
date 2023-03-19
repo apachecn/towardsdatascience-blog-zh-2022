@@ -23,7 +23,7 @@
 
 如果我们把这篇文章看作是这三者的串联，它是相当浩繁的，所以我不建议你一次读完。将这篇文章添加到阅读列表中以便稍后回来，通过 GitLab 阅读章节[或下载这篇文章的 pdf 版本并打印出来(可在同一位置获得)。](https://gitlab.com/Winston-90/unsupervised_algorithms)
 
-[](https://gitlab.com/Winston-90/unsupervised_algorithms)  
+<https://gitlab.com/Winston-90/unsupervised_algorithms>  
 
 ## 介绍
 
@@ -49,7 +49,7 @@
 *   *流形学习* — *LLE* 、 *Isomap* 、*t-SNE；*
 *   *自动编码器*和其他。
 
-[](/dimensionality-reduction-cheatsheet-15060fee3aa)  
+</dimensionality-reduction-cheatsheet-15060fee3aa>  
 
 # 异常检测
 
@@ -59,7 +59,7 @@
 *   *局部离群因子；*
 *   *最小协方差行列式*等来自降维或监督学习的算法。
 
-[](/anomaly-detection-cheat-sheet-5502fc4f6bea)  
+</anomaly-detection-cheat-sheet-5502fc4f6bea>  
 
 # 使聚集
 
@@ -72,7 +72,7 @@
 *   *均值偏移*和*桦木；*
 *   *高斯混合模型。*
 
-[](/clustering-cheat-sheet-dcf72259abb6)  
+</clustering-cheat-sheet-dcf72259abb6>  
 
 # **其他无监督学习任务**
 
@@ -108,7 +108,7 @@
 
 您可能还对以下内容感兴趣:
 
-[](/supervised-learning-algorithms-cheat-sheet-40009e7f29f5)  
+</supervised-learning-algorithms-cheat-sheet-40009e7f29f5>  
 
 # 感谢您的阅读！
 

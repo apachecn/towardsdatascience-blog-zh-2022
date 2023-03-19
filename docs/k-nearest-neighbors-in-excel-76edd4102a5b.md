@@ -119,8 +119,8 @@ KNN 是最简单的机器学习，而且非常容易理解。使用 Excel，我�
 
 如果你想获得一个监督机器学习算法的完整概述，你可以我的文章:
 
-[](/overview-of-supervised-machine-learning-algorithms-a5107d036296)  
+</overview-of-supervised-machine-learning-algorithms-a5107d036296>  
 
 我写关于机器学习算法的文章，请通过下面的链接关注我，并完全访问我的文章:
 
-[](https://medium.com/@angela.shi/membership) 
+<https://medium.com/@angela.shi/membership> 

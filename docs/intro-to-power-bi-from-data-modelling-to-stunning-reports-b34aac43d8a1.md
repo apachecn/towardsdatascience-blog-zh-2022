@@ -20,7 +20,7 @@ Power BI 对 ETL 和数据建模也有好处吗？
 
 **数据科学新手？**
 
-查看我的文章，关于[](/predict-house-prices-with-machine-learning-5b475db4e1e)**[**分类**](/will-your-employee-leave-a-machine-learning-model-8484c2a6663e) 、流行的 [**绩效指标**](/popular-machine-learning-performance-metrics-a2c33408f29)**——以及人工智能如何被用于[](https://medium.com/swlh/math-modelling-and-machine-learning-for-covid-19-646efcbe024e)**，机器学习与传统的 [**数学模型**](https://medium.com/swlh/differential-equations-versus-machine-learning-78c3c0615055) ，以及如何 [**企业**](/jupyter-notebooks-versus-dataiku-dss-for-data-science-e02264a753ca)******
+查看我的文章，关于</predict-house-prices-with-machine-learning-5b475db4e1e>**[**分类**](/will-your-employee-leave-a-machine-learning-model-8484c2a6663e) 、流行的 [**绩效指标**](/popular-machine-learning-performance-metrics-a2c33408f29)**——以及人工智能如何被用于<https://medium.com/swlh/math-modelling-and-machine-learning-for-covid-19-646efcbe024e>**，机器学习与传统的 [**数学模型**](https://medium.com/swlh/differential-equations-versus-machine-learning-78c3c0615055) ，以及如何 [**企业**](/jupyter-notebooks-versus-dataiku-dss-for-data-science-e02264a753ca)******
 
 ****加入 Medium [这里](https://col-jung.medium.com/membership)并获得**无限制访问**互联网上最好的数据科学文章。****
 

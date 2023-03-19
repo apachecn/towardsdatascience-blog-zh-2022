@@ -84,7 +84,7 @@
 
 数据损坏可能有数百万种原因，由数据工程师来确定根本原因。图片由 [Shutterstock](http://www.shutterstock.com) 上的[彼得拜尔](https://www.shutterstock.com/image-photo/support-colleague-you-can-find-your-1812761575)提供。
 
-数据中断的原因有很多，通常归结为不止一个根本原因。(我们就不说技术术语了，但好奇的读者应该去看看奥莱利关于数据质量的新书[](https://www.oreilly.com/library/view/data-quality-fundamentals/9781098112035/)****，了解数据可靠性和可信度的来龙去脉)。****
+数据中断的原因有很多，通常归结为不止一个根本原因。(我们就不说技术术语了，但好奇的读者应该去看看奥莱利关于数据质量的新书<https://www.oreilly.com/library/view/data-quality-fundamentals/9781098112035/>****，了解数据可靠性和可信度的来龙去脉)。****
 
 ****当你和你的数据工程朋友一起修理你的仪表板时，它有助于理解幕后发生的事情。以下是即使是最懂数据的公司也面临的一些常见数据质量问题:****
 

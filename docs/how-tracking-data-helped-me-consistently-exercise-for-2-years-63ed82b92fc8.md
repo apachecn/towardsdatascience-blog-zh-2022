@@ -243,4 +243,4 @@ data_activity<-data_all%>%
 
 > 一旦你开始跟踪你的疗程，随着时间的推移，你会对自己的能力有一个敏锐的认识。你会知道你一天、一周、一个月、一年能锻炼多少。你还会知道一天中什么时候你可以锻炼，适合你的日常习惯，以及你喜欢的锻炼类型。你将能够更好地设定现实的、可实现的目标来维持或发展。
 
-[](https://ahmarshah.medium.com/membership) 
+<https://ahmarshah.medium.com/membership> 

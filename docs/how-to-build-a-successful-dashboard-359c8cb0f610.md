@@ -86,4 +86,4 @@
 
 如果你觉得“有趣”,可以看看我的其他文章:
 
-[](/one-simple-methodology-to-turn-a-subjective-concept-into-an-objective-metric-14943cf6fb95)  [](/7-tips-to-avoid-public-embarrassment-as-a-data-analyst-caec8f701e42)  [](/how-to-choose-which-data-projects-to-work-on-c6b8310ac04e) 
+</one-simple-methodology-to-turn-a-subjective-concept-into-an-objective-metric-14943cf6fb95>  </7-tips-to-avoid-public-embarrassment-as-a-data-analyst-caec8f701e42>  </how-to-choose-which-data-projects-to-work-on-c6b8310ac04e> 

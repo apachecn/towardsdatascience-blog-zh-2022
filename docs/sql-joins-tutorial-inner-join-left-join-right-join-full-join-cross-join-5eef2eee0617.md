@@ -211,7 +211,7 @@ SQL 连接是数据分析和数据科学中的常见操作。您了解了内连�
 
 要了解包括列仓库在内的各种数据库的更多信息:
 
-[](/datastore-choices-sql-vs-nosql-database-ebec24d56106)  
+</datastore-choices-sql-vs-nosql-database-ebec24d56106>  
 
 **如果您喜欢，请:**
 

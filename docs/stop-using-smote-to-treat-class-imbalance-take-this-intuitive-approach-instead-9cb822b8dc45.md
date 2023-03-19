@@ -64,7 +64,7 @@ scikit-learn 和神经网络中的所有分类模型都有一个超参数，称�
 
 让我们来看看这三者的作用。在案例研究中，我们将回顾一个 Kaggle 数据集，其中包含可能正在寻找工作变动的个人。我们的目标是利用这些数据，识别那些对新的定向招聘机会持开放态度的人。这是数据和它的许可证信息:[https://creativecommons.org/publicdomain/zero/1.0/](https://creativecommons.org/publicdomain/zero/1.0/)
 
-[](https://www.kaggle.com/datasets/kukuroo3/hr-data-predict-change-jobscompetition-form)  
+<https://www.kaggle.com/datasets/kukuroo3/hr-data-predict-change-jobscompetition-form>  
 
 数据预处理和特征工程步骤不在本文的讨论范围内，所以让我们看一下图表:
 

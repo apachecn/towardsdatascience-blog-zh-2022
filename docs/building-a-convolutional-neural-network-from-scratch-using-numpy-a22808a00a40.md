@@ -51,7 +51,7 @@
 
 所有的代码都可以在[这个 GitHub 资源库](https://github.com/andreoniriccardo/CNN-from-scratch)中找到。
 
-[](https://github.com/andreoniriccardo/CNN-from-scratch) [## GitHub-andreoniriccardo/CNN-从零开始:从零开始的卷积神经网络
+<https://github.com/andreoniriccardo/CNN-from-scratch> [## GitHub-andreoniriccardo/CNN-从零开始:从零开始的卷积神经网络
 
 github.com](https://github.com/andreoniriccardo/CNN-from-scratch) 
 

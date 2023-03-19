@@ -52,7 +52,7 @@
 
 另外，在我最近为前雇主 Servian 撰写的一篇文章中，我已经相当详细地讨论了存储这个话题。这可能有些用处。
 
-[](https://servian.dev/ingredients-of-a-data-warehouse-cd68b48f5306)  
+<https://servian.dev/ingredients-of-a-data-warehouse-cd68b48f5306>  
 
 ## 转溶的
 
@@ -70,7 +70,7 @@
 
 最后，我想分享一下对这些不同工作负载的快速观察。公司中的数据团队，尤其是小公司，经常会遇到这样的情况:他们必须快速扩展以支持更多的查询，处理事务性数据库、副本或数据仓库中的大量数据。对此问题的下意识解决方案是在问题上投入更多的计算。它会工作一段时间，直到它需要更多的计算能力。我曾经写过在一个问题上投入更多的计算是不明智的。
 
-[](/throwing-more-compute-at-the-problem-1ceec0cb178a)  
+</throwing-more-compute-at-the-problem-1ceec0cb178a>  
 
 # 结论
 
@@ -80,4 +80,4 @@ HTAP 工作负载的使用量正在上升，而 OLAP 和 OLTP 仍然表现强劲
 
 如果你觉得我的文章有用，请订阅并查看我的文章🌲 [**Linktree**](https://medium.com/towards-data-science/linktree.com/kovid) 。你也可以考虑用我的推荐链接购买一个中级会员来支持我。
 
-[](https://kovidrathee.medium.com/membership) 
+<https://kovidrathee.medium.com/membership> 

@@ -261,7 +261,7 @@ Mario Cortina Borja 和 John Haigh 的论文对此进行了深入的解释。他
 
 我在这里使用了**出生**数据集(知识共享许可)。
 
-[](https://data.fivethirtyeight.com/)  
+<https://data.fivethirtyeight.com/>  
 
 ## 论文谈均匀性假设
 
@@ -269,7 +269,7 @@ Mario Cortina Borja 和 John Haigh 的论文对此进行了深入的解释。他
 
 ## 密码
 
-[](https://github.com/Polaris000/BlogCode/tree/main/BirthdayParadox)  
+<https://github.com/Polaris000/BlogCode/tree/main/BirthdayParadox>  
 
 ## 更新
 

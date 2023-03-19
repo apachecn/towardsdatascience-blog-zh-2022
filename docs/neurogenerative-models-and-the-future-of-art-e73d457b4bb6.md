@@ -66,7 +66,7 @@
 
 ![](img/e27b2fcd0d451e40a349f904b8b1bcaf.png)![](img/a517ef24cbe91ef2bc33a2e90d8fd9fb.png)![](img/22e4ac073c3ae0e3a3e57b71548fd903.png)
 
-*抽象的爱情概念，立体主义*(左)*抽象的孤独概念*(中)*分离，印象派风格(右)——生成经由*[](https://github.com/CompVis/stable-diffusion)**稳定扩散由* [*德米特里·索什尼科夫*](http://soshnikov.com)*
+*抽象的爱情概念，立体主义*(左)*抽象的孤独概念*(中)*分离，印象派风格(右)——生成经由*<https://github.com/CompVis/stable-diffusion>**稳定扩散由* [*德米特里·索什尼科夫*](http://soshnikov.com)*
 
 # *怎么试？*
 
@@ -216,4 +216,4 @@
 
 *我们生活在一个非常有趣的时代，当神经网络变得有创造力时(真的吗？)，并可以自动化视觉艺术家或故事作家越来越多的工作。我真诚地希望它能引领我们人类创造出新的艺术形式和风格，并扩展和丰富我们对世界的感知。为了实现这一点，重要的是我们不仅要仔细观看这一场景，而且要积极参与和实验！*
 
-**原载于 2022 年 8 月 22 日 https://soshnikov.com*[](https://soshnikov.com/scienceart/neural-generative-models-and-future-of-art/)**。***
+**原载于 2022 年 8 月 22 日 https://soshnikov.com*<https://soshnikov.com/scienceart/neural-generative-models-and-future-of-art/>**。***

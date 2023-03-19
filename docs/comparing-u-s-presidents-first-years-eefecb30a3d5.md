@@ -8,7 +8,7 @@
 
 作者创建的 Tableau 仪表板
 
-在这个项目的第一部分 [**中，我用 tensorflow 创建了一个情感分析的模型。我用这个模型对过去四位美国总统执政第一年的新闻文章摘要进行了情感分析。文章摘要通过《纽约时报》的 API 获得。**在第二部分，我用 Tableau 形象化了这个分析的结果。我还列出了每位总统每个月最常用的十个单词。最后，我将盖洛普****](/nyt-sentiment-analysis-with-tensorflow-7156d77e385e)**[](https://news.gallup.com/home.aspx)*****的总统支持率包括在内，看看新闻情绪如何与公众支持率相关(或背离)。******
+在这个项目的第一部分 [**中，我用 tensorflow 创建了一个情感分析的模型。我用这个模型对过去四位美国总统执政第一年的新闻文章摘要进行了情感分析。文章摘要通过《纽约时报》的 API 获得。**在第二部分，我用 Tableau 形象化了这个分析的结果。我还列出了每位总统每个月最常用的十个单词。最后，我将盖洛普****](/nyt-sentiment-analysis-with-tensorflow-7156d77e385e)**<https://news.gallup.com/home.aspx>*****的总统支持率包括在内，看看新闻情绪如何与公众支持率相关(或背离)。******
 
 **最终的结果就是这个[**Tableau Dashboard**](https://public.tableau.com/app/profile/anne.bode/viz/NYTSentimentTableau/PresidentialSentimentandApproval#1)。**
 

@@ -63,6 +63,6 @@
 *   它指的是被训练来预测一系列决策的模型，这些决策承诺最高的可能成功率。
 *   例如，强化学习用于教计算机玩游戏或在自动驾驶中做出正确的决定。
 
-*如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，媒体允许你每月免费阅读* ***3 篇*** *。如果你想让***无限制地访问我的文章和数以千计的精彩文章，不要犹豫，通过点击我的推荐链接:*[https://medium.com/@niklas_lang/membership](https://medium.com/@niklas_lang/membership)获得会员资格，每个月只需支付 ***5*****
+*如果你喜欢我的作品，请在这里订阅*<https://medium.com/subscribe/@niklas_lang>**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，媒体允许你每月免费阅读* ***3 篇*** *。如果你想让***无限制地访问我的文章和数以千计的精彩文章，不要犹豫，通过点击我的推荐链接:*[https://medium.com/@niklas_lang/membership](https://medium.com/@niklas_lang/membership)获得会员资格，每个月只需支付 ***5*****
 
-***[](https://medium.com/@niklas_lang/basics-of-ai-deep-learning-vs-machine-learning-93a8499d5679)  [](https://medium.com/@niklas_lang/basics-of-ai-supervised-learning-8505219f07cf)  [](https://medium.com/@niklas_lang/what-are-recurrent-neural-networks-5c48f4908e34) ***
+***<https://medium.com/@niklas_lang/basics-of-ai-deep-learning-vs-machine-learning-93a8499d5679>  <https://medium.com/@niklas_lang/basics-of-ai-supervised-learning-8505219f07cf>  <https://medium.com/@niklas_lang/what-are-recurrent-neural-networks-5c48f4908e34> ***

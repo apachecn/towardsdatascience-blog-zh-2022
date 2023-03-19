@@ -161,4 +161,4 @@ print("Fused and quantized model latency")
 
 **检查参考资料:**
 
-[](https://pytorch.org/blog/quantization-in-practice/)   
+<https://pytorch.org/blog/quantization-in-practice/>   

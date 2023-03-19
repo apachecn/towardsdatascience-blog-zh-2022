@@ -205,10 +205,10 @@
 
 我希望这个故事对你有用。在 [Medium](https://medium.com/@diego-barba) 上关注我，如果你想要更多这样的故事，请订阅。
 
-[](https://medium.com/subscribe/@diego-barba)  
+<https://medium.com/subscribe/@diego-barba>  
 
 如果我错过了什么，请让我知道。对于任何质疑、批评等。，留言评论。
 
 喜欢这个故事吗？通过我的推荐链接成为媒体会员，可以无限制地访问我的故事和许多其他内容。
 
-[](https://medium.com/@diego-barba/membership) 
+<https://medium.com/@diego-barba/membership> 

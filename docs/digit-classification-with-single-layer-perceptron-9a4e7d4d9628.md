@@ -12,7 +12,7 @@ G 一般来说，当一个人要对图像应用监督学习技术时，首先想
 
 如果我们想象一个图像数据集，其中的图像已经被展平(例如，一个 4x4 矩阵的图像被转换为 16 维向量，如图*图 1* 所示)，这些图像是 n 维空间中的数据点，其中 n 是图像中的像素数。可以推断，当我们谈论图像时，数据的维度是巨大的，因此这意味着在神经网络中有大量的参数，这反过来导致更高的计算成本和执行时间。CNN 在神经网络的每一层中减少了图像的维度，也减少了训练中所需的参数数量，并优化了这类任务的模型性能。有关 CNN 的更多信息可在本出版物中找到:
 
-[](/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53)  ![](img/9945e5679e1dc79e6655672f8fb85b03.png)
+</a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53>  ![](img/9945e5679e1dc79e6655672f8fb85b03.png)
 
 **图一。**图像的展平。作者图片
 
@@ -66,7 +66,7 @@ G 一般来说，当一个人要对图像应用监督学习技术时，首先想
 
 计算这些偏导数(更好地称为**梯度**)的理论原因是，它们形成了一个向量，指示在何处更新感知器的权重向量( ***w*** ),以使损失最小化。为了更好地理解它，如果我们考虑三维图中的损失函数 r(看起来像一组山)，梯度向量( *d* ***W*** )将具有 3 个值/维度，将指示到达局部或全局最小值(或者继续类推，到达山的最低点)所遵循的方向，从而允许我们在每次迭代中最小化损失。有关渐变的更多信息，请访问本文:
 
-[](https://machinelearningmastery.com/gradient-in-machine-learning/)  
+<https://machinelearningmastery.com/gradient-in-machine-learning/>  
 
 下面你可以看到基于链式法则计算偏导数的数学发展。
 
@@ -130,10 +130,10 @@ G 一般来说，当一个人要对图像应用监督学习技术时，首先想
 
 ****GitHub 库**:**
 
-**[](https://github.com/JavierMtz5/ArtificialIntelligence) ** 
+**<https://github.com/JavierMtz5/ArtificialIntelligence> ** 
 
 ## **数据**
 
 **本文使用的数据摘自 ka ggle competition**数字识别器**的名为 *train.csv* 的数据集，可以在下面的链接中找到。该数据集在[知识共享署名-共享 3.0 许可](https://creativecommons.org/licenses/by-sa/3.0/)下可用。**
 
-**[](https://www.kaggle.com/competitions/digit-recognizer/overview) **
+**<https://www.kaggle.com/competitions/digit-recognizer/overview> **

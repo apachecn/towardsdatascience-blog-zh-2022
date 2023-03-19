@@ -106,7 +106,7 @@ tree.search({
 
 ![](img/b383198388dce3e8438622d9bfdf81bb.png)
 
-该工具运行时的屏幕截图。来源:Self(此处可用[](https://wolfiex.github.io/ONSAreaFinder/)****)****
+该工具运行时的屏幕截图。来源:Self(此处可用<https://wolfiex.github.io/ONSAreaFinder/>****)****
 
 # **结论**
 
@@ -120,7 +120,7 @@ tree.search({
 
 **该项目的代码可在 `(__main__.py)`找到:**
 
-**[](https://github.com/wolfiex/ONSAreaFinder)  
+**<https://github.com/wolfiex/ONSAreaFinder>  
 
 “docs”目录下的 web 应用程序`(index.js).`
 

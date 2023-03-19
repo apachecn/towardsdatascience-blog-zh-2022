@@ -155,4 +155,4 @@ Wordle 规则解释(鸣谢:图片由作者提供)
 
 就这些，希望你喜欢这篇文章！如果你想更深入地了解这些代码，你可以在下面的回购协议中查看:
 
-[](https://github.com/nicogarciaara/play_wordle) 
+<https://github.com/nicogarciaara/play_wordle> 

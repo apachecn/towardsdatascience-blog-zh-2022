@@ -78,4 +78,4 @@ Artem Beliaikin 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium
 
 **通过此* [*推荐链接*](https://analyticsoul.medium.com/membership) *加入 Medium，免费支持我。**
 
-*[](https://analyticsoul.medium.com/membership) *
+*<https://analyticsoul.medium.com/membership> *

@@ -14,7 +14,7 @@
 
 这些反射被称为 [**混响**](https://en.wikipedia.org/wiki/Reverberation) 。它们相互堆积，随着时间的推移而衰减，因为声音被物体表面吸收。已经表明，在混响环境中，我们的语音清晰度会受到不利影响。
 
-此外，已经证明混响是[自动语音识别](https://en.wikipedia.org/wiki/Speech_recognition) (ASR)系统[](https://asp-eurasipjournals.springeropen.com/articles/10.1186/s13634-015-0245-7)**中一个显著的误差来源。有些 ASR 系统在其设计中包含了在开始语音识别任务之前消除混响的方法。**
+此外，已经证明混响是[自动语音识别](https://en.wikipedia.org/wiki/Speech_recognition) (ASR)系统<https://asp-eurasipjournals.springeropen.com/articles/10.1186/s13634-015-0245-7>**中一个显著的误差来源。有些 ASR 系统在其设计中包含了在开始语音识别任务之前消除混响的方法。**
 
 **因此，**去混响**是从声音中去除混响的过程，是**信号处理**中的一项关键任务。**
 
@@ -37,7 +37,7 @@
 ******图 1** :基于预处理器和基于 CDR 的后置滤波器的去混响流水线。
 图片取自[**【2】**](https://ieeexplore.ieee.org/document/7076629)****
 
-****其中***【l，f】***， ***Y (l，f)***和 ***Z(l，f)*** 分别是**基于 CDR 的后置滤波器**，**预处理信号，**和**去混响信号**分别在[](https://en.wikipedia.org/wiki/Short-time_Fourier_transform)**中。它们由 ***Z(l，f) = Y (l，f)G(l，f)*** 联系起来。******
+****其中***【l，f】***， ***Y (l，f)***和 ***Z(l，f)*** 分别是**基于 CDR 的后置滤波器**，**预处理信号，**和**去混响信号**分别在<https://en.wikipedia.org/wiki/Short-time_Fourier_transform>**中。它们由 ***Z(l，f) = Y (l，f)G(l，f)*** 联系起来。******
 
 ****此外，***【l，f】***估计(在图 1 中以表示估计的帽子出现)依赖于在 *CDR 估计*块中处理的其他变量(参见[****【2】****](https://ieeexplore.ieee.org/document/7076629))，对它们的理解超出了本文的范围。****
 
@@ -107,4 +107,4 @@
 
 *******[**3**](https://github.com/andreas12345/cdr-dereverb)**安德里亚斯·施瓦茨。cdr-dereverb。[https://github.com/andreas12345/cdr-dereverb](https://github.com/andreas12345/cdr-dereverb)，2019。*********
 
-*******[](https://www.researchgate.net/publication/262639033_Coherence-based_Dereverberation_for_Automatic_Speech_Recognition)**施瓦茨、安德里；布伦德尔、安德列亚斯；沃尔特.凯勒曼。用于自动语音识别的基于相干性的去混响。在*程序中。DAGA* 。2014.*********
+*******<https://www.researchgate.net/publication/262639033_Coherence-based_Dereverberation_for_Automatic_Speech_Recognition>**施瓦茨、安德里；布伦德尔、安德列亚斯；沃尔特.凯勒曼。用于自动语音识别的基于相干性的去混响。在*程序中。DAGA* 。2014.*********

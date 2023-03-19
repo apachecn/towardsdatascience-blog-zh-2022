@@ -56,15 +56,15 @@
 
 TensorFlow 和 PyTorch 都提供了一些量化 API 来简化量化过程。我还打算在网上找一些知识提炼过程的例子，这无疑是相当复杂的。Keras 有一个很好的张量流例子:
 
-[](https://keras.io/examples/vision/knowledge_distillation/)  
+<https://keras.io/examples/vision/knowledge_distillation/>  
 
 对于 PyTorch 来说，这是一个很好的知识提炼的例子，尽管示例代码有点老:
 
-[](/model-distillation-and-compression-for-recommender-systems-in-pytorch-5d81c0f2c0ec)  
+</model-distillation-and-compression-for-recommender-systems-in-pytorch-5d81c0f2c0ec>  
 
 可以想象，结合这些技术来生成一个优化的模型并不一定是一项简单的任务。为了帮助提供简化的模型优化工作流程，英特尔最近发布了[英特尔神经压缩器](https://www.intel.com/content/www/us/en/developer/tools/oneapi/neural-compressor.html)，作为[英特尔人工智能分析工具包](https://www.intel.com/content/www/us/en/developer/tools/oneapi/ai-analytics-toolkit.html)的一部分。这个用于 CPU 和 GPU 部署的开源 python 库简化并自动化了执行这些优化的大量设置和过程。由于它支持 TensorFlow、PyTorch、MXNet 和 ONNX，这个库应该能够帮助快速地将许多较大的模型迁移到更小、更优化的模型中，这些模型需要更少的硬件资源来运行。关于如何在 PyTorch 中利用这个库的更多细节，请查看这篇文章:
 
-[](https://medium.com/pytorch/pytorch-inference-acceleration-with-intel-neural-compressor-842ef4210d7d)  
+<https://medium.com/pytorch/pytorch-inference-acceleration-with-intel-neural-compressor-842ef4210d7d>  
 
 根据您的用例以及您已经在使用的框架，还有其他的选择。例如，如果你碰巧在使用类似 [openVINO](https://docs.openvino.ai/latest/index.html) 的东西，你可以利用框架的相关解决方案，[神经网络压缩框架(NNCF)](https://docs.openvino.ai/latest/docs_nncf_introduction.html) 和[训练后优化工具(POT)](https://docs.openvino.ai/latest/pot_docs_FrequentlyAskedQuestions.html) 。显然，您的最佳选择是尝试使用一个与您已经利用的框架或 SDK 相关联的工具。
 

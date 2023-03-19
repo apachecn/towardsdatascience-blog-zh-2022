@@ -115,4 +115,4 @@ Tableau 公共桌面显示的美国总债务 JSON 数据源。Randy Runtsch 截�
 
 本教程提供了编写 Python 程序以使用债务信息 API 检索美国政府债务数据的基本说明。它还描述了如何使用 Tableau Public 来可视化债务数据。我希望这些信息对您有所帮助。
 
-***P.S.*** *首先，你要* [***把我的帖子收进你的收件箱***](https://rruntsch.medium.com/subscribe) *。接下来，通过成千上万像我一样的作家的故事，体验所有的媒介，考虑一下每月只需 5 美元就能注册成为会员的*[](https://rruntsch.medium.com/membership)**。你也将有机会通过写作赚钱。**
+***P.S.*** *首先，你要* [***把我的帖子收进你的收件箱***](https://rruntsch.medium.com/subscribe) *。接下来，通过成千上万像我一样的作家的故事，体验所有的媒介，考虑一下每月只需 5 美元就能注册成为会员的*<https://rruntsch.medium.com/membership>**。你也将有机会通过写作赚钱。**

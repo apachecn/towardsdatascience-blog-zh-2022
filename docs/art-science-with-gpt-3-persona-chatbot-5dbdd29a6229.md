@@ -78,7 +78,7 @@ GIF 作者|聊天机器人的前端部分
 
 完整的实施和运行说明，你可以在这个回购。因此，你可以使用简单的键盘来聊天。和 Mx 的愉快对话。苹果！😎
 
-[](https://github.com/kinivi/art-science-saclay)  
+<https://github.com/kinivi/art-science-saclay>  
 
 # 确认
 

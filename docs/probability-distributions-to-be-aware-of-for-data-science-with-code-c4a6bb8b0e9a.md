@@ -191,4 +191,4 @@ PDF 如下:
 
 *已经是会员了？[订阅](https://kurtispykes.medium.com/subscribe)在我发布时得到通知。*
 
-*[](https://kurtispykes.medium.com/subscribe) *
+*<https://kurtispykes.medium.com/subscribe> *

@@ -122,7 +122,7 @@ df["Team"] = df["Team"].replace("Max","C")
 
 您可以用 Python 字典增强其他一些 Pandas 函数。这里有一篇我写的关于这个话题的更详细的文章。
 
-[](/4-python-pandas-functions-that-serve-better-with-dictionaries-bbfcc6c39fa5)  
+</4-python-pandas-functions-that-serve-better-with-dictionaries-bbfcc6c39fa5>  
 
 ## 4.缺少值的整数列
 
@@ -142,8 +142,8 @@ df(作者图片)
 
 数据清理和操作是任何面向数据的产品的重要组成部分。Pandas 提供了一些功能和方法来加快和简化您的工作流程。为了最大限度地利用熊猫，你应该尝试发现任何功能的全部潜力。
 
-*你可以成为* [*媒介会员*](https://sonery.medium.com/membership) *解锁我的全部写作权限，外加其余媒介。如果你已经是了，别忘了订阅*[](https://sonery.medium.com/subscribe)**如果你想在我发表新文章时收到电子邮件。**
+*你可以成为* [*媒介会员*](https://sonery.medium.com/membership) *解锁我的全部写作权限，外加其余媒介。如果你已经是了，别忘了订阅*<https://sonery.medium.com/subscribe>**如果你想在我发表新文章时收到电子邮件。**
 
-*[](https://sonery.medium.com/membership)  
+*<https://sonery.medium.com/membership>  
 
 感谢您的阅读。如果您有任何反馈，请告诉我。*

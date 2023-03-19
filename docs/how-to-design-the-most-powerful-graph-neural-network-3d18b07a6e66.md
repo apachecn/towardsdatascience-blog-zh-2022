@@ -206,4 +206,4 @@ GIN 架构的完全胜过 GCN。这种差距(平均 10%的准确度)是由几个
 
 # 相关文章
 
-[](/introduction-to-graphsage-in-python-a9e7f9ecf9d7)  [](/graph-attention-networks-in-python-975736ac5c0c) 
+</introduction-to-graphsage-in-python-a9e7f9ecf9d7>  </graph-attention-networks-in-python-975736ac5c0c> 

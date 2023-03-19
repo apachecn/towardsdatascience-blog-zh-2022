@@ -111,7 +111,7 @@ Bradyn Trollip 在 [Unsplash](https://unsplash.com/s/photos/domino?utm_source=un
 
 关于更详细的探索，请看看我关于发现因果关系的文章
 
-[](/causal-discovery-does-the-cockerel-crowing-cause-the-sun-to-rise-f4308453ecfa)  
+</causal-discovery-does-the-cockerel-crowing-cause-the-sun-to-rise-f4308453ecfa>  
 
 下一步将使用我的`DirectedAcyclicGraph`类。为了使文章更加简洁，我在文章中省略了源代码，但如果你想自己运行代码，这里有完整源代码的链接-[https://gist . github . com/grahamharrison 68/9733 b 0 CD 4 db 8 e 3 e 049 D5 be 7 fc 17 b 7602](https://gist.github.com/grahamharrison68/9733b0cd4db8e3e049d5be7fc17b7602)。
 
@@ -240,7 +240,7 @@ DAG 可以解释如下-
 
 [通过我的推荐链接](https://grahamharrison-86487.medium.com/membership)加入 Medium(如果你使用此链接注册，我将收取一定比例的费用)。
 
-[](https://grahamharrison-86487.medium.com/membership)  
+<https://grahamharrison-86487.medium.com/membership>  
 
 每当我发表新故事时，订阅一封免费电子邮件。
 

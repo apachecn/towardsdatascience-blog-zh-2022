@@ -340,4 +340,4 @@ from vdk.api.job_input import IJobInputdef **run**(job_input: IJobInput): # Read
 
 # 相关文章
 
-[](/an-overview-of-versatile-data-kit-a812cfb26de7)  [](/getting-started-with-trino-query-engine-dc6a2d027d5)  [](https://alod83.medium.com/how-to-represent-and-query-hierarchical-data-in-sql-69b6b77577e8) 
+</an-overview-of-versatile-data-kit-a812cfb26de7>  </getting-started-with-trino-query-engine-dc6a2d027d5>  <https://alod83.medium.com/how-to-represent-and-query-hierarchical-data-in-sql-69b6b77577e8> 

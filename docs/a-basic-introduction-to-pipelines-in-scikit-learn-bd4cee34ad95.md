@@ -217,8 +217,8 @@ mean_absolute_error(y_test, preds)**[OUT]: 0.8914285714285712**
 
 如果你喜欢这些内容，请关注我的博客，或者[在 Linkedin](https://www.linkedin.com/in/gurezende/) 上找到我。
 
-[](http://gustavorsantos.medium.com/)  
+<http://gustavorsantos.medium.com/>  
 
 # 参考
 
-[](https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html#sklearn.pipeline.Pipeline)  [](https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectKBest.html#sklearn.feature_selection.SelectKBest)  [](/how-to-use-sklearn-pipelines-for-ridiculously-neat-code-a61ab66ca90d) 
+<https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html#sklearn.pipeline.Pipeline>  <https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectKBest.html#sklearn.feature_selection.SelectKBest>  </how-to-use-sklearn-pipelines-for-ridiculously-neat-code-a61ab66ca90d> 

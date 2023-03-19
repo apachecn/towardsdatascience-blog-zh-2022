@@ -170,7 +170,7 @@ np.where(a>=b, a+1, a-1)
 
 请随意浏览我以前的帖子，如果有任何问题，请告诉我:
 
-[](/build-a-song-recommendation-system-using-streamlit-and-deploy-on-heroku-375a57ce5e85)  [](https://medium.datadriveninvestor.com/beginners-guide-to-web-scraping-using-beautifulsoup-and-python-999a927f20e6)  [](/beginners-guide-to-regular-expressions-in-python-d16d2fa31587)  [](https://medium.datadriveninvestor.com/top-20-masters-programs-in-ai-data-science-2021-98aadb7db409)  [](/top-nlp-books-to-read-2020-12012ef41dc1)  
+</build-a-song-recommendation-system-using-streamlit-and-deploy-on-heroku-375a57ce5e85>  <https://medium.datadriveninvestor.com/beginners-guide-to-web-scraping-using-beautifulsoup-and-python-999a927f20e6>  </beginners-guide-to-regular-expressions-in-python-d16d2fa31587>  <https://medium.datadriveninvestor.com/top-20-masters-programs-in-ai-data-science-2021-98aadb7db409>  </top-nlp-books-to-read-2020-12012ef41dc1>  
 
 # 参考
 

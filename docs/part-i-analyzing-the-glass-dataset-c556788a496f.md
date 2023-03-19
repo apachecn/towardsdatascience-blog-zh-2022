@@ -154,7 +154,7 @@ maximum(glass_wsum.sumpct), minimum(glass_wsum.sumpct) --->(100.09999999999998, 
 
 **峰度&偏斜度**
 
-为了初步了解实值变量的分布，计算两个度量值[](https://en.wikipedia.org/wiki/Kurtosis)*和 [*偏斜度*](https://en.wikipedia.org/wiki/Skewness) 。*
+为了初步了解实值变量的分布，计算两个度量值<https://en.wikipedia.org/wiki/Kurtosis>*和 [*偏斜度*](https://en.wikipedia.org/wiki/Skewness) 。*
 
 *   *偏斜度是对分布的对称性(或者说不对称性)的一种度量。负值表示它的左尾巴更长(相当平)，质量集中在右边。我们称之为*左偏*或左尾分布。另一方面，正值表示*右偏*分布。*
 *   *峰度是对分布“尾部”的一种度量。它显示了尾巴向左或向右伸出的距离。正态分布的峰度为 3。因此，通常将其他分布的峰度与该值进行比较，并计算出所谓的*过度峰度*。它表示所考虑的分布的峰度超过正态分布的峰度多少。这也是我们从`StatsBase`包的`kurtosis`函数中得到的值。*

@@ -60,7 +60,7 @@ Streamlit 通过易于编程的滑块来改变模拟中的不同参数，从而�
 
 > 看看我关于这个话题的博客吧！
 
-[](/leveling-up-your-machine-learning-projects-317da9c787fe)  
+</leveling-up-your-machine-learning-projects-317da9c787fe>  
 
 在我的 FYP 的上下文中，这意味着为反应器中许多不同的组件编写类和抽象。`Reaction`将是一个具有特定参数和函数的基类，然后我们可以在其上定义`EquilibriumReaction`，重用相同的方法。一个现实的反应堆`RealPFR` 只是一个更简单的理想化的`IdealPFR`的子类，它可以进一步被建模为从基类`Reactor`继承的类。
 
@@ -102,7 +102,7 @@ Streamlit 通过易于编程的滑块来改变模拟中的不同参数，从而�
 
 ## **查看代码:**
 
-[](https://github.com/reoneo97/reactor-sim)  [](https://reoneo.medium.com/membership)  
+<https://github.com/reoneo97/reactor-sim>  <https://reoneo.medium.com/membership>  
 
 ## **参考文献**
 

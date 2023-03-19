@@ -203,7 +203,7 @@ print(line.text)
 
 准备好以 365 Data Science 上的**折扣价向所有专家学习数据科学吧！**
 
-[](https://365datascience.pxf.io/c/3452806/1037878/11148)  
+<https://365datascience.pxf.io/c/3452806/1037878/11148>  
 
 # **结论**
 

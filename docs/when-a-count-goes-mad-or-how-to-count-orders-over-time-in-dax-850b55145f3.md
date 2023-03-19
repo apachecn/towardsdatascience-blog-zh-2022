@@ -153,7 +153,7 @@ DistanceToPrevOrder =
 
 要了解有关上下文转换的更多信息，请阅读本文:
 
-[](/whats-fancy-about-context-transition-in-dax-efb5d5bc4c01)  
+</whats-fancy-about-context-transition-in-dax-efb5d5bc4c01>  
 
 下一步是创建获得最终结果的方法。
 
@@ -323,4 +323,4 @@ Contoso 数据可以在 MIT 许可下自由使用，如这里的[所述](https:/
 我扩大了数据集，使 DAX 引擎工作更努力。
 在线销售表包含 7100 万行(而不是 1260 万行)，零售表包含 1550 万行(而不是 340 万行)。
 
-[](https://medium.com/@salvatorecagliari/membership) 
+<https://medium.com/@salvatorecagliari/membership> 

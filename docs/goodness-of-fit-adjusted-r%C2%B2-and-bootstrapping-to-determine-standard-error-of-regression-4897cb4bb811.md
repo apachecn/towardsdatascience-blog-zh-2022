@@ -24,7 +24,7 @@ r 平方是回归分析中拟合优度的度量。这是可变性的一种度量
 
 如上所述，在回归分析中增加更多的独立变量有助于增加 R 值。然而，分析变量的系数是否有很大价值也很重要。当两个变量相关时，我们可以去掉一个，利用其他不相关的变量。检查共线性的一种方法是检查方差膨胀因子(VIF)。通常，大于 5 的 VIF 值表示可能存在多重共线性。本文解释了获取 VIF 值的过程。
 
-[](/assumptions-of-multiple-linear-regression-d16f2eb8a2e7)  
+</assumptions-of-multiple-linear-regression-d16f2eb8a2e7>  
 
 统计软件在进行回归分析时，会计算 R 和调整后的 R。调整后的 R 会减少添加更多独立变量的影响，并保持 R 值来自最重要变量的可变性。这就是为什么调整后的 R 值总是等于或小于常规的 R 值。
 
@@ -64,4 +64,4 @@ r 平方是回归分析中拟合优度的度量。这是可变性的一种度量
 
 本文解释了 R 和调整后 R 的概念。执行多元线性回归时，调整后的 R 是正确的决定系数。对于简单的线性回归，R 和调整后的 R 都非常接近。同样，为了对样本估计值有信心，我们可以执行 bootstrapping 并确定回归系数的标准误差，这将告诉我们多个样本的值如何变化。
 
-[](https://mdsohel-mahmood.medium.com/membership)  [](https://mdsohel-mahmood.medium.com/subscribe) 
+<https://mdsohel-mahmood.medium.com/membership>  <https://mdsohel-mahmood.medium.com/subscribe> 

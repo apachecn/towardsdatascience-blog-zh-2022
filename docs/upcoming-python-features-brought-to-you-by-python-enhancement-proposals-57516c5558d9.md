@@ -76,4 +76,4 @@ Python 中的函数可以将其他函数作为参数。然而，没有好的方�
 
 **本文最初发布于*[*martinheinz . dev*](https://martinheinz.dev/blog/67?utm_source=medium&utm_medium=referral&utm_campaign=blog_post_67)*
 
-*[](https://python.plainenglish.io/creating-beautiful-tracebacks-with-pythons-exception-hooks-c8a79e13558d)  [](/profiling-and-analyzing-performance-of-python-programs-3bf3b41acd16)  [](/exploring-google-analytics-realtime-data-with-python-8625849c7d7a) *
+*<https://python.plainenglish.io/creating-beautiful-tracebacks-with-pythons-exception-hooks-c8a79e13558d>  </profiling-and-analyzing-performance-of-python-programs-3bf3b41acd16>  </exploring-google-analytics-realtime-data-with-python-8625849c7d7a> *

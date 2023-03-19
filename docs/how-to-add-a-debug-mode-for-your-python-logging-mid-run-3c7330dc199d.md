@@ -31,7 +31,7 @@
 
 这家伙同意了，谢天谢地他已经写下来了:
 
-[](/the-reusable-python-logging-template-for-all-your-data-science-apps-551697c8540) [## 适用于所有数据科学应用的可重复使用的 Python 日志模板
+</the-reusable-python-logging-template-for-all-your-data-science-apps-551697c8540> [## 适用于所有数据科学应用的可重复使用的 Python 日志模板
 
 towardsdatascience.com](/the-reusable-python-logging-template-for-all-your-data-science-apps-551697c8540) 
 
@@ -63,7 +63,7 @@ towardsdatascience.com](/the-reusable-python-logging-template-for-all-your-data-
 
 这个框架真的很难在一篇文章中解释，所以我把完整的例子放在 GitHub 的仓库里:
 
-[](https://github.com/Causb1A/logging-debug-mode) [## GitHub-caus B1 A/logging-debug-mode:补充 TDS 文章的存储库
+<https://github.com/Causb1A/logging-debug-mode> [## GitHub-caus B1 A/logging-debug-mode:补充 TDS 文章的存储库
 
 github.com](https://github.com/Causb1A/logging-debug-mode) 
 
@@ -188,6 +188,6 @@ python 中的单例类允许你创建一个类的实例。这个实例贯穿程�
 
 或者，如果您有兴趣加入 Medium 社区，这里有一个推荐链接:
 
-[](https://medium.com/@adrian.causby15/membership) [## 通过我的推荐链接加入 Medium-Adrian caus by
+<https://medium.com/@adrian.causby15/membership> [## 通过我的推荐链接加入 Medium-Adrian caus by
 
 medium.com](https://medium.com/@adrian.causby15/membership)

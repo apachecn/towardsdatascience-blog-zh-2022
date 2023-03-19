@@ -10,7 +10,7 @@
 
 这是介绍用于数据科学的 Java 基础知识的系列文章的第二篇。在之前的帖子中，Java 被介绍为大数据和物联网应用中常用的语言，以及如何在 Java 中创建变量和使用不同的数据类型。在这篇文章中，我们将在这个基础上讨论 Java 中的控制流和条件，这是构建更复杂代码的基础。
 
-[](/variables-and-data-types-in-java-76f7de62d1b)  
+</variables-and-data-types-in-java-76f7de62d1b>  
 
 ## If 条件
 
@@ -167,8 +167,8 @@ Java 是一种广泛使用的编程语言，经常应用在大数据或物联网
 
 如果你喜欢你所读的，并且还不是 medium 会员，请使用下面我的推荐链接注册 Medium，来支持我和这个平台上其他了不起的作家！提前感谢。
 
-[](https://philip-wilkinson.medium.com/membership)  
+<https://philip-wilkinson.medium.com/membership>  
 
 或者随意查看我在 Medium 上的其他文章:
 
-[](/eight-data-structures-every-data-scientist-should-know-d178159df252)  [](/a-complete-data-science-curriculum-for-beginners-825a39915b54)  [](/a-complete-guide-to-git-for-beginners-a31cb1bf7cfc) 
+</eight-data-structures-every-data-scientist-should-know-d178159df252>  </a-complete-data-science-curriculum-for-beginners-825a39915b54>  </a-complete-guide-to-git-for-beginners-a31cb1bf7cfc> 

@@ -156,7 +156,7 @@ Gist 2 提供了等式 4 的 Python 实现。
 
 ***感谢阅读。请告诉我你是否对其他与空气动力学相关的文章感兴趣。***
 
-**[](/5-python-projects-for-engineering-students-8e951b7c131f)  [](https://medium.com/@andrewdaviesul/membership)  
+**</5-python-projects-for-engineering-students-8e951b7c131f>  <https://medium.com/@andrewdaviesul/membership>  
 
 ## 参考
 

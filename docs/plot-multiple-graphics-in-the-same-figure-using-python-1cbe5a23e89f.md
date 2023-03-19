@@ -97,8 +97,8 @@ g4.set_title('Histogram of the travels beginning in Bronx');
 
 记得关注我了解更多。
 
-[](https://gustavorsantos.medium.com/)  
+<https://gustavorsantos.medium.com/>  
 
 如果你想订阅 Medium，这是我的推荐链接。
 
-[](https://gustavorsantos.medium.com/membership) 
+<https://gustavorsantos.medium.com/membership> 

@@ -90,4 +90,4 @@ TextData 提高了人们处理文本数据的效率。一个很大的优势是�
 
 完整的 python 代码可以在我的 [GitHub](https://github.com/PetrKorab/Exploratory-Data-Analysis-of-Text-Data---Do-it-Faster-with-TextData/blob/main/analysis_medium.ipynb) 上找到，所以请放心使用。
 
-*PS:你可以订阅我的* [*邮件列表*](https://medium.com/subscribe/@petrkorab) *每次我写新文章都会收到通知。如果你还不是中等会员，你可以在这里加入*[](https://medium.com/@petrkorab/membership)**。**
+*PS:你可以订阅我的* [*邮件列表*](https://medium.com/subscribe/@petrkorab) *每次我写新文章都会收到通知。如果你还不是中等会员，你可以在这里加入*<https://medium.com/@petrkorab/membership>**。**

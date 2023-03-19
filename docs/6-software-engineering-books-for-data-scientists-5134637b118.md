@@ -148,4 +148,4 @@
 
 我希望你也能从中汲取一些价值，把它们放在你的书架上，对你的职业成长之旅会像它们对我一样有价值。有其他推荐补充吗？写在评论里吧！
 
-[](https://medium.com/membership/@ivopbernardo) 
+<https://medium.com/membership/@ivopbernardo> 

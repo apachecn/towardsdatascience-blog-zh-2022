@@ -153,6 +153,6 @@ from itertools import combinationsopts = combinations(range(n_groups+n_empty), n
 
 ## 有关系的
 
-[](/how-i-learned-my-computer-to-play-spot-it-using-opencv-and-deep-learning-ad1f017a3ec3)  [](/snake-played-by-a-deep-reinforcement-learning-agent-53f2c4331d36)  [](/solving-mtvs-are-you-the-one-is-it-possible-to-never-lose-992488277099)  
+</how-i-learned-my-computer-to-play-spot-it-using-opencv-and-deep-learning-ad1f017a3ec3>  </snake-played-by-a-deep-reinforcement-learning-agent-53f2c4331d36>  </solving-mtvs-are-you-the-one-is-it-possible-to-never-lose-992488277099>  
 
 *别忘了* [*订阅*](https://hennie-de-harder.medium.com/subscribe) *如果你想在我发表新文章时收到电子邮件。*

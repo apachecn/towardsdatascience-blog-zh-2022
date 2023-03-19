@@ -88,8 +88,8 @@
 
 # 来源
 
-[](https://paperswithcode.com/paper/the-alberta-plan-for-ai-research)  
+<https://paperswithcode.com/paper/the-alberta-plan-for-ai-research>  
 
 *喜欢这篇文章吗？你可能也会喜欢以下几个:*
 
-[](/is-small-data-the-next-big-thing-in-data-science-9acc7f24907f)  [](/five-things-to-consider-for-reinforcement-learning-in-business-environments-23647a32f01f)  [](/why-hasnt-reinforcement-learning-conquered-the-world-yet-459ae99982c6)  [](https://medium.com/mlearning-ai/top-data-science-trends-for-2022-what-do-ceos-have-to-say-86d3d3ea6e9f) 
+</is-small-data-the-next-big-thing-in-data-science-9acc7f24907f>  </five-things-to-consider-for-reinforcement-learning-in-business-environments-23647a32f01f>  </why-hasnt-reinforcement-learning-conquered-the-world-yet-459ae99982c6>  <https://medium.com/mlearning-ai/top-data-science-trends-for-2022-what-do-ceos-have-to-say-86d3d3ea6e9f> 

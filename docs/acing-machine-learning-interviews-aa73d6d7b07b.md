@@ -164,4 +164,4 @@
 
 我错过了什么吗？请不要犹豫，直接在 [LinkedIn](https://www.linkedin.com/in/aliakseimikhailiuk/) 或 [Twitter](https://twitter.com/mikhailiuka) 上给我留言、评论或发消息吧！
 
-[](/nine-tools-i-wish-i-mastered-before-my-phd-in-machine-learning-708c6dcb2fb0)  [](/three-soft-skills-every-phd-student-gets-for-free-f63f4b1d3f2d) 
+</nine-tools-i-wish-i-mastered-before-my-phd-in-machine-learning-708c6dcb2fb0>  </three-soft-skills-every-phd-student-gets-for-free-f63f4b1d3f2d> 

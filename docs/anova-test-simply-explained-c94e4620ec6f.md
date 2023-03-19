@@ -12,7 +12,7 @@
 
 你们中的许多人可能听说过 **Z 测试**和 **T 测试；**我甚至已经就这些话题发表了两篇博文，你可以点击这里查看:
 
-[](/z-test-simply-explained-80b346e0e239)  [](/statistical-t-test-simply-explained-b510045d69e)  
+</z-test-simply-explained-80b346e0e239>  </statistical-t-test-simply-explained-b510045d69e>  
 
 这些测试使我们能够确定**两个总体或样本均值在统计上是否有显著差异**。然而，如果我们想测试三个样本之间的平均值呢？
 
@@ -82,7 +82,7 @@ ANOVA 测试中的主要概念是**方差**，它是数据的**扩散/分散**�
 
 *要了解更多关于 f 分布和 Chi 分布的信息，请查看我以前的帖子:*
 
-*[](/chi-square-distribution-simply-explained-87f707ba631a)  [](/f-distribution-simply-explained-45d0e6768a4)  
+*</chi-square-distribution-simply-explained-87f707ba631a>  </f-distribution-simply-explained-45d0e6768a4>  
 
 # 假设检验步骤
 
@@ -199,6 +199,6 @@ ANOVA 测试中的主要概念是**方差**，它是数据的**扩散/分散**�
 *   [*领英*](https://www.linkedin.com/in/egor-howell-092a721b3/) 👔
 *   [*推特*](https://twitter.com/EgorHowell) 🖊
 *   [*github*](https://github.com/egorhowell)*🖥*
-*   *[](https://www.kaggle.com/egorphysics)**🏅***
+*   *<https://www.kaggle.com/egorphysics>**🏅***
 
 > ***(所有表情符号由 [OpenMoji](https://openmoji.org/) 设计——开源表情符号和图标项目。许可证: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)****

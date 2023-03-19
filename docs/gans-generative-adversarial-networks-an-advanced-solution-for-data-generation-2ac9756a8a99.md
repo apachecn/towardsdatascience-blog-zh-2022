@@ -34,7 +34,7 @@
 
 机器学习算法分类。由[作者](https://solclover.com/)创作的互动图表。
 
-***如果你喜欢数据科学和机器学习*** *，请* [*订阅*](https://bit.ly/3sItbfx) *获取我的新文章的邮件。如果你不是中等会员，可以在这里加入*[](https://bit.ly/36Mozgu)**。**
+***如果你喜欢数据科学和机器学习*** *，请* [*订阅*](https://bit.ly/3sItbfx) *获取我的新文章的邮件。如果你不是中等会员，可以在这里加入*<https://bit.ly/36Mozgu>**。**
 
 # *GAN 架构及其工作原理的直观解释*
 
@@ -210,7 +210,7 @@ train(gen_model, dis_model, gan_model, latent_dim)*
 
 ***如果你还不是媒体会员**，请考虑通过我下面的个性化链接加入，解锁包括我自己在内的成千上万伟大作家的文章。*
 
-*[](https://bit.ly/3J6StZI)  
+*<https://bit.ly/3J6StZI>  
 
 最后，你可以在我的 [**GitHub 库**](https://github.com/SolClover/Art052_NN_GAN) 上找到本文使用的完整 Python 代码，作为 Jupyter 笔记本。
 
@@ -219,4 +219,4 @@ train(gen_model, dis_model, gan_model, latent_dim)*
 
 *一些相关的文章你可能会感兴趣:*
 
-*[](/transposed-convolutional-neural-networks-how-to-increase-the-resolution-of-your-image-d1ec27700c6a)  [](/vae-variational-autoencoders-how-to-employ-neural-networks-to-generate-new-images-bdeb216ed2c0) *
+*</transposed-convolutional-neural-networks-how-to-increase-the-resolution-of-your-image-d1ec27700c6a>  </vae-variational-autoencoders-how-to-employ-neural-networks-to-generate-new-images-bdeb216ed2c0> *

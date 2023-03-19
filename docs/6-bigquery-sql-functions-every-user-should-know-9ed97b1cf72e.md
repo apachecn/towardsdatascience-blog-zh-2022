@@ -64,4 +64,4 @@
 
 ## **你可能也会喜欢…**
 
-**[](/4-bigquery-sql-shortcuts-that-can-simplify-your-queries-30f94666a046)  [](/how-to-troubleshoot-an-abnormal-kpi-change-b9eb0c3d46a1)  [](/why-building-a-machine-learning-model-is-like-cooking-4bed1f6115d1) **
+**</4-bigquery-sql-shortcuts-that-can-simplify-your-queries-30f94666a046>  </how-to-troubleshoot-an-abnormal-kpi-change-b9eb0c3d46a1>  </why-building-a-machine-learning-model-is-like-cooking-4bed1f6115d1> **

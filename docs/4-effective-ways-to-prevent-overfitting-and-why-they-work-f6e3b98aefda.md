@@ -76,4 +76,4 @@ LASSO 将不太重要的要素的贡献缩小到零，从而消除了这些要�
 
 你可以通过下面我的推荐链接订阅 Medium，获得更多我和其他作者的启发性文章，这也支持我的写作。谢谢大家！
 
-[](https://aolaoye.medium.com/membership) 
+<https://aolaoye.medium.com/membership> 

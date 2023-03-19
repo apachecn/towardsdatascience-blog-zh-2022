@@ -60,4 +60,4 @@ NetAug 的损耗函数是原始和扩充架构损耗的组合。由于每一层�
 
 [面向微小深度学习的网络增强，2021](https://arxiv.org/pdf/2110.08890.pdf)
 
-[](https://dushuchen.medium.com/membership) 
+<https://dushuchen.medium.com/membership> 

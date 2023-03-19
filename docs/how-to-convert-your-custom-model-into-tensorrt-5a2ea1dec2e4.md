@@ -132,7 +132,7 @@ model.onnx 图中的 OneHot 运算符与 model_tpat.onnx 图中的 tpat_onehot �
 *   从模型生成序列化引擎。
 *   从生成器生成序列化定时缓存。
 
-[](https://docs.nvidia.com/deeplearning/tensorrt/developer-guide/index.html#trtexec-ovr)  
+<https://docs.nvidia.com/deeplearning/tensorrt/developer-guide/index.html#trtexec-ovr>  
 
 可以使用下面的`trtexec`命令将模型转换成 TensorRT 平面图格式:
 
@@ -159,7 +159,7 @@ trtexec --loadEngine=model.plan \
 
 > 我们希望这篇博客对你有用，请看看我们团队在 Forsight 写的其他一些博客，如果你有任何问题，请随时通过 **info@forsight.ai** 联系我们！
 
-[](/new-tf2-object-detection-api-5c6ea8362a8c)  [](https://medium.com/swlh/construction-feat-tf2-object-detection-api-4465a3937c87)  [](/understand-your-algorithm-with-grad-cam-d3b62fce353)  [](/generalizing-your-model-an-example-with-efficientnetv2-and-cats-dogs-6903740dfe2c)  
+</new-tf2-object-detection-api-5c6ea8362a8c>  <https://medium.com/swlh/construction-feat-tf2-object-detection-api-4465a3937c87>  </understand-your-algorithm-with-grad-cam-d3b62fce353>  </generalizing-your-model-an-example-with-efficientnetv2-and-cats-dogs-6903740dfe2c>  
 
 # 参考
 

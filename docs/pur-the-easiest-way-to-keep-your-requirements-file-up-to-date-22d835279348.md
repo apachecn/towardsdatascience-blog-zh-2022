@@ -71,7 +71,7 @@ pip install -r requirements.txt
 
 您可能还会对以下内容感兴趣:
 
-[](https://eryk-lewinson.medium.com/my-2021-medium-recap-650326b2832a)  [](/a-step-by-step-guide-to-calculating-autocorrelation-and-partial-autocorrelation-8c4342b784e8)  [](/5-free-tools-that-increase-my-productivity-c0fafbbbdd42)  
+<https://eryk-lewinson.medium.com/my-2021-medium-recap-650326b2832a>  </a-step-by-step-guide-to-calculating-autocorrelation-and-partial-autocorrelation-8c4342b784e8>  </5-free-tools-that-increase-my-productivity-c0fafbbbdd42>  
 
 # 参考
 

@@ -14,7 +14,7 @@
 
 ***这一整篇教程作为冥王星笔记本提供:***
 
-[](https://github.com/niczky12/medium/blob/master/julia/epoch_pluto.jl)  
+<https://github.com/niczky12/medium/blob/master/julia/epoch_pluto.jl>  
 
 ***不知道冥王星是什么？请看这篇*** [***文章***](/jupyter-notebooks-can-be-a-pain-but-i-️-pluto-f47913c5c16d) ***。***
 
@@ -92,8 +92,8 @@ Input -> Predicted epochs as datetime | difference
 
 我希望你读这篇文章的时候和我写作的时候一样开心。这仅仅是开始。**你可以用上面的来开始你的 NNs 和 Flux.jl 的旅程**[冥王星笔记本在这里](https://github.com/niczky12/medium/blob/master/julia/epoch_pluto.jl)供你消遣。欢迎您更改输入样本大小、日期、优化器、损失函数、激活函数、神经网络结构等。**去野外按几个按钮！**
 
-[](https://github.com/niczky12/medium/blob/master/julia/epoch_pluto.jl)  
+<https://github.com/niczky12/medium/blob/master/julia/epoch_pluto.jl>  
 
 > 我写朱莉娅和其他很酷的东西。如果你喜欢这样的文章，请考虑关注我。
 
-[](/jupyter-notebooks-can-be-a-pain-but-i-️-pluto-f47913c5c16d)  [](/vectorize-everything-with-julia-ad04a1696944)  [](https://blog.devgenius.io/make-a-command-line-game-with-julia-a408057adcfe)  [](/control-flow-basics-with-julia-c4c10abf4dc2) 
+</jupyter-notebooks-can-be-a-pain-but-i-️-pluto-f47913c5c16d>  </vectorize-everything-with-julia-ad04a1696944>  <https://blog.devgenius.io/make-a-command-line-game-with-julia-a408057adcfe>  </control-flow-basics-with-julia-c4c10abf4dc2> 

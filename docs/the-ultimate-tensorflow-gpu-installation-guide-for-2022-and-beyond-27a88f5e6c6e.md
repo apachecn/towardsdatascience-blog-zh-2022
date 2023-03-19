@@ -16,7 +16,7 @@ GPU 即兴发挥这种深度学习框架的性能，以达到新的高度和峰�
 
 在本文中，我们将探讨如何获得 TensorFlow 的最新版本，并与现代技术保持同步。在你深入研究之前，你可以访问我以前的一个博客，并通过下面提供的链接了解你是否真的需要一个 GPU 来开始深度学习。
 
-[](/do-you-really-need-a-gpu-for-deep-learning-d37c05023226)  
+</do-you-really-need-a-gpu-for-deep-learning-d37c05023226>  
 
 如果读者不想在本地安装 TensorFlow 的麻烦，并希望在 GPU 支持下在云上免费使用它，请查看 [Saturn Cloud](https://saturncloud.io/) ，这是一个面向团队的协作、可扩展的数据科学平台。
 
@@ -50,7 +50,7 @@ conda install -c anaconda tensorflow-gpu
 
 这个自由软件 IDE 帮助我们集成了众多编程语言的组件，如 Python、C、C++等等，使我们能够更好地执行一些特定的操作。成功下载该软件后，您可以关闭它，并进入下一个必要的安装。Visual Studio 代码也是我最喜欢的 Python ide 之一。查看下面的文章，了解更多不同类型的 ide。
 
-[](/a-concise-guide-of-10-awesome-python-editors-and-how-to-choose-which-editor-suits-you-the-best-465c9b232afd)  
+</a-concise-guide-of-10-awesome-python-editors-and-how-to-choose-which-editor-suits-you-the-best-465c9b232afd>  
 
 ## 3.安装 CUDA 工具包:
 
@@ -117,12 +117,12 @@ pip install tensorflow
 
 如果你想在我的文章发表后第一时间得到通知，请点击下面的[链接](https://bharath-k1297.medium.com/subscribe)订阅邮件推荐。如果你希望支持其他作者和我，请订阅下面的链接。
 
-[](https://bharath-k1297.medium.com/membership)  
+<https://bharath-k1297.medium.com/membership>  
 
 如果你对这篇文章中提到的各点有任何疑问，请在下面的评论中告诉我。我会尽快给你回复。
 
 看看我的一些与本文主题相关的文章，你可能也会喜欢阅读！
 
-[](/develop-your-own-calendar-to-track-important-dates-with-python-c1af9e98ffc3)  [](/develop-your-weather-application-with-python-in-less-than-10-lines-6d092c6dcbc9)  [](/complete-python-starter-guide-for-data-science-for-2022-c1f880fa249d)  
+</develop-your-own-calendar-to-track-important-dates-with-python-c1af9e98ffc3>  </develop-your-weather-application-with-python-in-less-than-10-lines-6d092c6dcbc9>  </complete-python-starter-guide-for-data-science-for-2022-c1f880fa249d>  
 
 谢谢你们坚持到最后。我希望你们都喜欢这篇文章。祝大家有美好的一天！

@@ -99,7 +99,7 @@ tree_model.fit(X_train, y_train)top_ten_imp_thresh = sorted(tree_model.feature_i
 
 即使没有明确的人口统计/身份信息，散列的电子邮件或邮政编码也可以为您的团队提供足够的果汁来解决 ML 公平性问题。你甚至可以使用像 IBM 的 fairness 360 这样的开源工具来完成这个任务。
 
-[](http://aif360.mybluemix.net/)  
+<http://aif360.mybluemix.net/>  
 
 **To (#2)** ， ***仅仅因为你的数据/社会中存在偏见，并不意味着你注定要延续这种偏见。***
 

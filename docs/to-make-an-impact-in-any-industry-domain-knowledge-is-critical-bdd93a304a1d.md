@@ -61,7 +61,7 @@
 *   [**特征工程中的 3 个基本过程**](/3-fundamental-processes-in-feature-engineering-d6b84983754)(2022 年 10 月，4 分钟)
 *   [**使用机器学习技术预测太阳能输出**](/predicting-solar-power-output-using-machine-learning-techniques-56e7959acb1f)(2022 年 1 月，7 分钟)
 *   [**根据多个数值天气预报预测风力**](/forecasting-wind-power-from-multiple-numerical-weather-predictions-63c9a67cfc5)(2020 年 7 月，6 分钟)
-*   [](/clustering-based-data-preprocessing-for-operational-wind-turbines-268e231d90a)****【基于聚类的运行风机数据预处理】(2022 年 9 月，10 分钟)****
+*   </clustering-based-data-preprocessing-for-operational-wind-turbines-268e231d90a>****【基于聚类的运行风机数据预处理】(2022 年 9 月，10 分钟)****
 *   ****[**异常检测系统的 5 个必备素质**](/5-essential-qualities-of-anomaly-detection-systems-fcd1ec5ee9d5)(2022 年 10 月，4 分钟)****
 
 ****想和广大观众分享一些你自己的作品吗？[我们希望听到您的意见](http://bit.ly/write-for-tds)。****

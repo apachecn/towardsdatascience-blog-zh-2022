@@ -74,7 +74,7 @@ PandaSQL 是一个流行的 python 包，它融合了 Pandas 和 SQL，允许您
 
 然而，这种在 Pandas 中轻松利用 SQL 的方式带来了巨大的额外运行时成本。为了更好地理解这一点，我们来比较一下 PandaSQL 和 Pandas 的运行时。我们将用 SQL 编写一个查询，然后将运行时与其在 Pandas 中的相应实现进行比较。如果你不熟悉基本 SQL 查询到 Pandas 操作的翻译，我推荐你阅读我下面的帖子:
 
-[](/translating-sql-queries-to-pandas-operations-2d27c354b8a2)  
+</translating-sql-queries-to-pandas-operations-2d27c354b8a2>  
 
 ## 语法警告:
 
@@ -112,7 +112,7 @@ Python 已经有很多名字被保留为关键字，比如`for`、`while`、`in`
 
 但是学习整个熊猫图书馆可能是具有挑战性的，不是吗？别担心。阅读我下面的博客开始吧。
 
-[](/20-of-pandas-functions-that-data-scientists-use-80-of-the-time-a4ff1b694707)  
+</20-of-pandas-functions-that-data-scientists-use-80-of-the-time-a4ff1b694707>  
 
 感谢阅读。
 

@@ -108,7 +108,7 @@ SageMaker 模型创建
 
 ## 额外资源
 
-[](https://github.com/RamVegiraju/SM-Model-Registry)  
+<https://github.com/RamVegiraju/SM-Model-Registry>  
 
 关于示例的完整代码，请查看上面的资源库。我在下面附上了额外的例子和资源。
 

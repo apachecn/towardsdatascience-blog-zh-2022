@@ -65,7 +65,7 @@ Name: Time, dtype: int64
 
 *我们一起连线吧！*
 
-[](https://federicotrotta.medium.com/)
+<https://federicotrotta.medium.com/>
 
 *[***LINKEDIN***](https://www.linkedin.com/in/federico-trotta/)*(向我发送连接请求)**
 

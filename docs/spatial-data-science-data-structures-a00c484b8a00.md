@@ -12,7 +12,7 @@
 
 我们如何定义空间数据？一个正式的标准遵循 OGC 标准的简单功能与众所周知的文本(WKT)。很有可能，这也是大多数人所需要的。我认为这并不新奇，但是下面的官方文件乍一看可能很吓人。
 
-[](https://www.ogc.org/standards/sfa)  
+<https://www.ogc.org/standards/sfa>  
 
 欣赏文档让我们有了在数据库中存储空间数据的想法。本文简要介绍了如何通过理解空间数据结构来存储空间数据。
 
@@ -22,7 +22,7 @@
 
 众所周知的文字(WKT)是定义几何学的标准。我认为维基百科的文章很好地解释了它是如何工作的。
 
-[](https://en.wikipedia.org/wiki/Well-known_text_representation_of_geometry)  
+<https://en.wikipedia.org/wiki/Well-known_text_representation_of_geometry>  
 
 空间数据(在这种情况下，让我们坚持简单的矢量要素)由坐标和类型组成。有 3 种基本类型:点、线串和多边形。
 
@@ -87,7 +87,7 @@ By Mwtoews —自己的作品，CC BY-SA 3.0，【https://commons.wikimedia.org/
 
 在我的另一篇文章中，我解释了我们如何将花括号看作表格行。我们将使用 JSON 格式在 excel 中可视化数据结构。
 
-[](https://perkotaan.medium.com/nested-table-in-excel-9977637a74aa)  
+<https://perkotaan.medium.com/nested-table-in-excel-9977637a74aa>  
 
 我们之前的 JSON 城市表如下图所示。
 

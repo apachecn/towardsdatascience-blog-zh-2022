@@ -16,7 +16,7 @@ M 在数据分析过程中，我们随时都会面临为一组行创建聚合计
 
 由于许多人对房地产价值感兴趣，我们将回顾一个提供宏观经济视角的房价指数。我们将回顾从[data.gov.ie](https://data.gov.ie/)获得的爱尔兰共和国住宅价格指数。请注意，对数据集完成了一些预处理，以使其更易于使用。字符变量“住宅物业类型”包含国家、地区和物业类型的详细信息。因此，在数据集中把这个变量分成两个独立的变量“Area”和“Property_type”是有意义的。
 
-[](https://data.gov.ie/dataset/hpm09-residential-property-price-index?package_type=dataset)  
+<https://data.gov.ie/dataset/hpm09-residential-property-price-index?package_type=dataset>  
 
 本文中显示的 SQL 代码是使用 Microsoft SQL Server Management Studio 18 的一个实例创建的。
 
@@ -104,10 +104,10 @@ SQL 输出 1.5 使用时间序列分析来了解价值变动(图片由作者提�
 
 **您可以使用下面的链接成为高级媒体会员，并访问我的所有故事和数以千计的其他故事:**
 
-[](https://jamesmcneill06.medium.com/membership)  
+<https://jamesmcneill06.medium.com/membership>  
 
 **你可以在** [**LinkedIn**](https://www.linkedin.com/in/james-mc-neill-180a9057/) **上联系我，友好地聊一聊所有的事情数据。我分享过的其他故事:**
 
-[](/declaring-variables-within-sql-fe6a479a7f9c)  [](/developing-sql-tables-3f9b96bc21e1)  [](/strings-in-sql-part-1-122185dd0099)  
+</declaring-variables-within-sql-fe6a479a7f9c>  </developing-sql-tables-3f9b96bc21e1>  </strings-in-sql-part-1-122185dd0099>  
 
 [1]数据集摘自网站 DATA.GOV.IE[https://data . gov . ie/Dataset/HPM 09-住宅-房产-价格-指数？package_type=dataset](https://data.gov.ie/dataset/hpm09-residential-property-price-index?package_type=dataset) ，该数据的版权归[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)所有

@@ -25,7 +25,7 @@
 
 要应用最短路径算法，你需要起点和终点。这些功能已经实现自动化，并在[地理空间分析](https://medium.com/geospatial-analytics)中发布。查看下面的文章，我是从哪里获取这些函数的。它们可用于 OSM 网络类型，如驾驶、自行车和步行。
 
-[](https://medium.com/geospatial-analytics/shortest-path-algorithm-used-in-osm-street-network-33e0f864f34b)  
+<https://medium.com/geospatial-analytics/shortest-path-algorithm-used-in-osm-street-network-33e0f864f34b>  
 
 最短路径算法在由 Geoff Boeing 开发的 python 库 OSMnx 中实现，它获取开放的街道地图数据。
 
@@ -35,7 +35,7 @@
 
 关于从 OSM 获取数据的回顾可以在下一篇文章中回顾:
 
-[](https://medium.com/geekculture/fetching-green-areas-from-osm-data-a6ff835c40dc)  
+<https://medium.com/geekculture/fetching-green-areas-from-osm-data-a6ff835c40dc>  
 
 # 编码实践
 

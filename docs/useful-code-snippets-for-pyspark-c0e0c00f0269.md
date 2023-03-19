@@ -218,6 +218,6 @@ df.sample(withReplacement=False, fraction=0.5, seed=None)
 
 别忘了跟着我。
 
-[](https://gustavorsantos.medium.com/)  
+<https://gustavorsantos.medium.com/>  
 
 或者使用我的[推荐代码](https://gustavorsantos.medium.com/membership)订阅 Medium。

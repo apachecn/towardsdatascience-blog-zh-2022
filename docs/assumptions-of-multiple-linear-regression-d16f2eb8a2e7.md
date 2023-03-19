@@ -81,7 +81,7 @@ VIF 价值观
 
 我有另一篇文章是关于数据的这个特性的。读者可能会觉得有用。
 
-[](/heteroscedasticity-in-regression-model-21d9f5a93e59)  
+</heteroscedasticity-in-regression-model-21d9f5a93e59>  
 
 在我们的“鱼”数据集中，变量“重量”在散点图中显示了类似的行为。
 
@@ -105,7 +105,7 @@ VIF 价值观
 
 这种假设表明模型的残差是正态分布的。确定模型参数后，最好检查残差的分布。除了直观的分布，人们应该检查 Q-Q 图以更好地理解分布。鼓励读者仔细阅读下面文章中概述的 Q-Q 情节的基础和实现。
 
-[](/understand-q-q-plot-using-simple-python-4f83d5b89f8f)  
+</understand-q-q-plot-using-simple-python-4f83d5b89f8f>  
 
 在我们的数据集中，我们可以可视化分布以及 Q-Q 图，但为了更好地理解，让我们生成一些合成数据。
 

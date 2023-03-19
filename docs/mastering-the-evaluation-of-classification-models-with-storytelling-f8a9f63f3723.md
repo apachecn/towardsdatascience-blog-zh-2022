@@ -142,4 +142,4 @@ ROC 曲线是假阳性率(也称为反向特异性)对真阳性率(也称为灵�
 
 像往常一样，给我留下你的评论和[消息](https://www.linkedin.com/in/aureliegiraud9000/)，我会很高兴收到你的来信，让这篇文章变得更好。在 Medium 上关注我，了解更多关于数据科学的内容。
 
-[](https://agiraud.medium.com/membership) 
+<https://agiraud.medium.com/membership> 

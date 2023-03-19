@@ -10,7 +10,7 @@
 
 对象检测是任何 ML/AI 尚未完全掌握的高级计算机视觉(CV)任务之一。简而言之，该任务由图像中给定对象的定位和识别/分类组成。
 
-[](https://machinelearningmastery.com/object-recognition-with-deep-learning/)  
+<https://machinelearningmastery.com/object-recognition-with-deep-learning/>  
 
 目标检测仍然是研究领域的一个热门话题。此外，在许多实际应用的生产中，例如场景中的人物检测或商店货架上物品的识别，使用这种人工智能模型的需求相对较高。这自然会产生一个更大的模型架构集合，甚至更多的实现作为开源项目公开共享。其中之一是 [YOLO v5](https://github.com/ultralytics/yolov5) ，它声称在性能(准确度/精确度)和推理时间之间有最好的比例。
 
@@ -37,7 +37,7 @@ python train.py \
 
 最终，我们可以进行多种培训，但是我们如何推动他们进行合作呢？幸运的是，他们可以共享一个包含转储训练结果的文件，并从中抽取新的群体。由于下一代的随机性，这看起来像是在探索一个更大的群体，正如[作者所说](https://github.com/ultralytics/yolov5/issues/918#issuecomment-1034818168)。
 
-[](https://github.com/ultralytics/yolov5/issues/918)  ![](img/810815469ec4efa1119fb90c5126a061.png)
+<https://github.com/ultralytics/yolov5/issues/918>  ![](img/810815469ec4efa1119fb90c5126a061.png)
 
 插图来自 [Ultralytics 教程](https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb)经 [**许可格伦·约彻**](https://github.com/glenn-jocher) **。**
 
@@ -123,7 +123,7 @@ sudo docker kill $(sudo docker ps -q)
 
 **敬请关注，关注我了解更多！**
 
-[](https://www.kaggle.com/jirkaborovec/starfish-detection-flash-efficientdet)  
+<https://www.kaggle.com/jirkaborovec/starfish-detection-flash-efficientdet>  
 
 # 关于作者
 

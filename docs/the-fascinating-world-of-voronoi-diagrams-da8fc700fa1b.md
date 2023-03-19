@@ -157,4 +157,4 @@ Delaunay 三角剖分就像 Voronoi 图一样神奇。顾名思义，它产生�
 
 本文原载[此处](https://fbellelli.com/posts/2021-07-08-the-fascinating-world-of-voronoi-diagrams/):
 
-[](https://fbellelli.com/posts/2021-07-08-the-fascinating-world-of-voronoi-diagrams/) 
+<https://fbellelli.com/posts/2021-07-08-the-fascinating-world-of-voronoi-diagrams/> 

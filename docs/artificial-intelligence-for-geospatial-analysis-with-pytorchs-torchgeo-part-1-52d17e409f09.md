@@ -153,7 +153,7 @@ plt.imshow(rgb*3)
 
 第 2 部分已在此处提供:
 
-[](/artificial-intelligence-for-geospatial-analysis-with-pytorchs-torchgeo-part-2-ec3785fae284)  
+</artificial-intelligence-for-geospatial-analysis-with-pytorchs-torchgeo-part-2-ec3785fae284>  
 
 # 保持联系
 
@@ -163,4 +163,4 @@ plt.imshow(rgb*3)
 
 [1]新罗。(2021).地球表面水数据集。芝诺多。[https://doi.org/10.5281/zenodo.5205674](https://doi.org/10.5281/zenodo.5205674)
 
-[](https://cordmaur.medium.com/membership) 
+<https://cordmaur.medium.com/membership> 

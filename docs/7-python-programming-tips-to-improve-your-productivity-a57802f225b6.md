@@ -16,7 +16,7 @@
 
 本文假设读者对 Python 编程有基本的了解。如果您对 Python 没有足够的了解，我建议您查看我以前的一些文章，在这些文章中，我更方便地讨论了这个主题。我也推荐看看我之前的一部作品，在那里我们讨论了从下面提供的链接学习编程的十个最好的网站。
 
-[](/10-best-free-websites-to-learn-programming-939ec029009b)  
+</10-best-free-websites-to-learn-programming-939ec029009b>  
 
 # 提高生产率的 7 个最佳 Python 编程实践:
 
@@ -106,7 +106,7 @@ print(squares)
 
 如果您有兴趣学习更多关于 Python 中的列表数据结构的知识，并掌握与该主题相关的所有基本概念，我建议您查看我以前的一篇文章，在这篇文章中，我非常详细地介绍了该主题。下面是博客的链接，可以了解更多关于这个概念的信息。
 
-[](/mastering-python-lists-for-programming-5423b011d937)  
+</mastering-python-lists-for-programming-5423b011d937>  
 
 ## 4.熟悉数学运算:
 
@@ -157,7 +157,7 @@ The floored value is: 5
 
 我建议你去看看数学库的其他基本概念，它们可以让你完成大部分必要的数学计算。即使你在编码时没有从事机器学习或深度学习项目，数学也很重要。如果您有兴趣了解更多关于简化数学主题的知识，如机器学习的微分和积分，请通过下面提供的链接查看我以前的一篇文章。
 
-[](/best-library-to-simplify-math-for-machine-learning-ed64cbe536ac)  
+</best-library-to-simplify-math-for-machine-learning-ed64cbe536ac>  
 
 ## 5.利用多个 Python 文件:
 
@@ -206,7 +206,7 @@ Python 编程中还有其他几个操作系统命令。强烈建议开发人员�
 
 在调试 Python 代码时，程序员还可以利用其他一些工具来获得更好的结果。然而，Python 本身提供了一个令人惊叹的内置工具来成功调试 Python 代码。查看我以前的一篇关于 PDB (Python 调试器)库的文章，通过下面提供的链接，可以有效地修复 Python 代码中的错误。
 
-[](/must-use-built-in-tool-for-debugging-your-python-code-d5f69fecbdbe)  
+</must-use-built-in-tool-for-debugging-your-python-code-d5f69fecbdbe>  
 
 # 结论:
 
@@ -223,12 +223,12 @@ Python 编程中还有其他几个操作系统命令。强烈建议开发人员�
 
 如果你想在我的文章发表后第一时间得到通知，请点击下面的[链接](https://bharath-k1297.medium.com/subscribe)订阅邮件推荐。如果你希望支持其他作者和我，请订阅下面的链接。
 
-[](https://bharath-k1297.medium.com/membership)  
+<https://bharath-k1297.medium.com/membership>  
 
 如果你对这篇文章中提到的各点有任何疑问，请在下面的评论中告诉我。我会尽快给你回复。
 
 看看我的一些与本文主题相关的文章，你可能也会喜欢阅读！
 
-[](/how-to-perform-sentiment-analysis-on-earnings-call-of-companies-122275f47e26)  [](/how-to-deploy-your-own-optimized-speech-to-text-web-app-with-python-c956c7838ec8)  [](/the-ultimate-tensorflow-gpu-installation-guide-for-2022-and-beyond-27a88f5e6c6e)  
+</how-to-perform-sentiment-analysis-on-earnings-call-of-companies-122275f47e26>  </how-to-deploy-your-own-optimized-speech-to-text-web-app-with-python-c956c7838ec8>  </the-ultimate-tensorflow-gpu-installation-guide-for-2022-and-beyond-27a88f5e6c6e>  
 
 谢谢你们坚持到最后。我希望你们都喜欢这篇文章。祝大家有美好的一天！

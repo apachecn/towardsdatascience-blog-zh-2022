@@ -158,7 +158,7 @@ AlphaGo Lee 是 2016 年以 4 比 1 击败 Lee Sedol 的模型，是围棋历史
 
 ## 你可能喜欢的其他文章
 
-[](/reinforcement-learning-an-introduction-a8783f9ea993)  [](/using-ai-to-generate-art-22e030497f73)  
+</reinforcement-learning-an-introduction-a8783f9ea993>  </using-ai-to-generate-art-22e030497f73>  
 
 ## 参考
 

@@ -22,7 +22,7 @@
 
 对主要发现和简要概述感兴趣的人可以直接跳到[“要点”](#18b0)。
 
-*所有图片和图表，除非特别注明，均由 Analytics-toolkit.com*[](https://www.analytics-toolkit.com/)*提供*
+*所有图片和图表，除非特别注明，均由 Analytics-toolkit.com*<https://www.analytics-toolkit.com/>*提供*
 
 # *背景和动机*
 

@@ -89,4 +89,4 @@ Kolmogorov-Smirnov 测试是数据科学家工具箱中非常强大的工具，�
 
 ***我是 Gianluca Malato，意大利数据科学家、作家和企业家。我通过我的在线课程和书籍帮助人们成为专业的数据科学家和分析师。看看我的在线课程*** [***这里***](https://www.yourdatateacher.com/online-courses/?utm_source=medium&utm_medium=post&utm_campaign=How%20is%20your%20data%20distributed%3F) ***。***
 
-*原载于 2022 年 11 月 14 日 https://www.yourdatateacher.com*[](https://www.yourdatateacher.com/2022/11/14/how-is-your-data-distributed-a-practical-introduction-to-the-kolmogorov-smirnov-test/)**。**
+*原载于 2022 年 11 月 14 日 https://www.yourdatateacher.com*<https://www.yourdatateacher.com/2022/11/14/how-is-your-data-distributed-a-practical-introduction-to-the-kolmogorov-smirnov-test/>**。**

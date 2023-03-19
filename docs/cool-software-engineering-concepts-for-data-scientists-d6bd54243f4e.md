@@ -79,4 +79,4 @@ linter 是一个软件，它检查你的代码是否有错误或不一致，指�
 
 *****我在 Udemy 上开设了一门关于学习*** [***数据科学的课程***](https://www.udemy.com/course/r-for-data-science-first-step-data-scientist/?referralCode=MEDIUMREADERS)***——这门课程是为初学者设计的，包含 50 多个练习，我希望您能在身边！*****
 
-**[](https://ivopbernardo.medium.com/membership) **
+**<https://ivopbernardo.medium.com/membership> **

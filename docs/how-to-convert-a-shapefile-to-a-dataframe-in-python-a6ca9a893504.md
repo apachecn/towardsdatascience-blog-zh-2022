@@ -170,4 +170,4 @@ df_rome.plot(ax**=**ax, column**=**'type', legend**=True**, cmap**=**'viridis')
 
 # 相关文章
 
-[](/how-to-manipulate-a-pandas-dataframe-in-sql-7d1a1503f47)  [](/how-to-anonymise-places-in-python-55597d0ded24)  [](/how-to-transform-data-extracted-from-wikipedia-into-a-map-in-python-8325dce0710b)  [](/deepnote-a-collaborative-framework-for-your-python-notebooks-99390a6766e9) 
+</how-to-manipulate-a-pandas-dataframe-in-sql-7d1a1503f47>  </how-to-anonymise-places-in-python-55597d0ded24>  </how-to-transform-data-extracted-from-wikipedia-into-a-map-in-python-8325dce0710b>  </deepnote-a-collaborative-framework-for-your-python-notebooks-99390a6766e9> 

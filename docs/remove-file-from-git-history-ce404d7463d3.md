@@ -20,7 +20,7 @@
 
 但是，如果你不小心按到了什么东西，下面是正确清除的方法。
 
-[](/github-automated-testing-python-fdfe5aec9446)  
+</github-automated-testing-python-fdfe5aec9446>  
 
 # 正确删除 GitHub 中的秘密文件。
 
@@ -83,7 +83,7 @@ $ git push origin main
 
 没用！
 
-[](/python-project-structure-best-practices-d9d0b174ad5d)  
+</python-project-structure-best-practices-d9d0b174ad5d>  
 
 ## 用 BFG 删除 Git 上的秘密文件。
 
@@ -137,7 +137,7 @@ BFG 的文件说，“你需要解决这个问题，BFG 帮不了你。”
 
 此外，如果其他人有您的存储库的本地副本，您仍然有风险。
 
-[](/3-ways-to-deploy-machine-learning-models-in-production-cdba15b00e)  
+</3-ways-to-deploy-machine-learning-models-in-production-cdba15b00e>  
 
 > 朋友，感谢你的阅读！在[***LinkedIn***](https://www.linkedin.com/in/thuwarakesh/)*[***Twitter***](https://twitter.com/Thuwarakesh)*，以及*[***Medium***](https://thuwarakesh.medium.com/)*上跟我打招呼。**
 > 

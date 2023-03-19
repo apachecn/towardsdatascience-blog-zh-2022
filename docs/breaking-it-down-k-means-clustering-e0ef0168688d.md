@@ -30,9 +30,9 @@ k 均值聚类是一种算法，用于将数据分类到用户定义数量的组
 
 由于各种原因，使用 k-means 等算法对数据进行聚类是有价值的。首先，聚类用于在构建数据分析管道时识别未标记数据集中的独特组。这些标签对于数据检查、数据解释和训练 AI 模型是有用的。K-means 及其变体在各种上下文中使用，包括:
 
-*   **研究。**例如，对单细胞 RNA 测序结果进行分类[](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008625)
-*   **计算机科学。**例如，对电子邮件进行聚类以检测和过滤垃圾邮件[](https://www.semanticscholar.org/paper/Spam-Filtering-using-K-mean-Clustering-with-Local-Sharma-Rastogi/901af90a3bf03f34064f22e3c5e39bbe6a5cf661?p2df)
-*   **营销。**例如，针对信用卡广告的客户群细分[](https://www.kaggle.com/code/muhammadshahzadkhan/bank-customer-segmentation-pca-kmeans)
+*   **研究。**例如，对单细胞 RNA 测序结果进行分类<https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008625>
+*   **计算机科学。**例如，对电子邮件进行聚类以检测和过滤垃圾邮件<https://www.semanticscholar.org/paper/Spam-Filtering-using-K-mean-Clustering-with-Local-Sharma-Rastogi/901af90a3bf03f34064f22e3c5e39bbe6a5cf661?p2df>
+*   **营销。**例如，针对信用卡广告的客户群细分<https://www.kaggle.com/code/muhammadshahzadkhan/bank-customer-segmentation-pca-kmeans>
 
 # 2.用 NumPy 从头开始实现 K-Means
 

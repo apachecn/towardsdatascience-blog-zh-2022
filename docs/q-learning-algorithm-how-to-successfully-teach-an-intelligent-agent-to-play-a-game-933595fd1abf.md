@@ -300,4 +300,4 @@ Gif 图片由[作者](https://solclover.com/)使用来自[冰湖游戏](https://
 
 如果你已经花光了这个月的学习预算，下次请记得我。 *我的个性化链接加入媒介:*
 
-[](https://bit.ly/3J6StZI) 
+<https://bit.ly/3J6StZI> 

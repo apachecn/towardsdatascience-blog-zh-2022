@@ -124,8 +124,8 @@
 
 如果你从这篇文章中发现了任何价值，并且还不是一个媒体会员，如果你使用下面的链接注册会员，这对我和这个平台上的其他作者来说意义重大。它鼓励我们继续推出像这样的高质量和信息丰富的内容——提前感谢您！
 
-[](https://chongjason.medium.com/membership)  
+<https://chongjason.medium.com/membership>  
 
 不知道接下来要读什么？这里有一些建议。
 
-[](/want-to-stand-out-as-a-data-scientist-start-practicing-these-non-technical-skills-9e38ed86703e)  [](/i-finally-got-a-data-science-job-465ef457cab6)  [](/addressing-the-issue-of-black-boxes-in-machine-learning-f86429acbb2a) 
+</want-to-stand-out-as-a-data-scientist-start-practicing-these-non-technical-skills-9e38ed86703e>  </i-finally-got-a-data-science-job-465ef457cab6>  </addressing-the-issue-of-black-boxes-in-machine-learning-f86429acbb2a> 

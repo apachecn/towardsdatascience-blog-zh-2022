@@ -62,8 +62,8 @@
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership)  
+<https://gmyrianthous.medium.com/membership>  
 
 **相关文章你可能也喜欢**
 
-[](/data-lakes-vs-data-warehouses-47444228604c)  [](https://pub.towardsai.net/object-storage-521d5454d2d)  [](https://betterprogramming.pub/kafka-cli-commands-1a135a4ae1bd) 
+</data-lakes-vs-data-warehouses-47444228604c>  <https://pub.towardsai.net/object-storage-521d5454d2d>  <https://betterprogramming.pub/kafka-cli-commands-1a135a4ae1bd> 

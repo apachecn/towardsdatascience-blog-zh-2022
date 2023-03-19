@@ -328,7 +328,7 @@ Numpy 数组元素现在有了特定的类型——`numpy.float64`——这就�
 
 *喜欢这篇文章吗？成为* [*中等会员*](/@radecicdario/membership) *继续无限制学习。如果你使用下面的链接，我会收到你的一部分会员费，不需要你额外付费。*
 
-[](https://medium.com/@radecicdario/membership)  
+<https://medium.com/@radecicdario/membership>  
 
 ## 保持联系
 

@@ -346,7 +346,7 @@ sns.pairplot 在数据帧上的应用。图片作者。
 
 **如果你想支持我的内容创作活动，欢迎点击我下面的推荐链接，加入 Medium 的会员计划**。我将收到你投资的一部分，你将能够以无缝的方式访问 Medium 的大量数据科学文章。
 
-[](https://medium.com/@theDrewDag/membership)  
+<https://medium.com/@theDrewDag/membership>  
 
 你探索性分析的方法论是什么？你觉得这个怎么样？用评论分享你的想法👇
 

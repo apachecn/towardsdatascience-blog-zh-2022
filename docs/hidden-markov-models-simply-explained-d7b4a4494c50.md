@@ -14,7 +14,7 @@
 
 在本文中，我假设读者已经对**马尔可夫性质**和**马尔可夫链、**以及**平稳分布背后的思想有了一些基本的了解。**如果没有，请参考我之前关于这些主题的帖子:
 
-[](/markov-chains-simply-explained-dc77836b47e3)  [](/markov-chains-stationary-distribution-bedd67140112)  
+</markov-chains-simply-explained-dc77836b47e3>  </markov-chains-stationary-distribution-bedd67140112>  
 
 # 直觉和范例模型
 
@@ -102,6 +102,6 @@
 *   ****[*领英*](https://www.linkedin.com/in/egor-howell-092a721b3/) 👔****
 *   ****[*推特*](https://twitter.com/EgorHowell) 🖊****
 *   ****[*github*](https://github.com/egorhowell)*🖥*****
-*   *****[](https://www.kaggle.com/egorphysics)**🏅*******
+*   *****<https://www.kaggle.com/egorphysics>**🏅*******
 
 > *****(所有表情符号都是由 [OpenMoji](https://openmoji.org/) 设计的——开源的表情符号和图标项目。执照: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)*****

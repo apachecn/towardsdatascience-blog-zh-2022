@@ -170,7 +170,7 @@ plt.text(6, 32, "Spike in sales : Summer Months", ha="center", va="center", rota
 
 如果你想加入 Medium，你可以使用这个[推荐链接](https://gustavorsantos.medium.com/membership)，不要忘记关注我的博客了解更多。
 
-[](https://gustavorsantos.medium.com/)  
+<https://gustavorsantos.medium.com/>  
 
 查看我的 GitHub 中的[完整代码](https://github.com/gurezende/Studying/blob/master/Python/DataViz/Annotate_PLT.ipynb)。
 
@@ -180,4 +180,4 @@ plt.text(6, 32, "Spike in sales : Summer Months", ha="center", va="center", rota
 
 > 注意:对于一些可视化，我使用了 Python 中 Seaborn 库中的玩具数据集*提示*。
 
-[](https://matplotlib.org/3.5.1/api/_as_gen/matplotlib.pyplot.text.html)  [](https://matplotlib.org/3.5.0/tutorials/text/annotations.html) 
+<https://matplotlib.org/3.5.1/api/_as_gen/matplotlib.pyplot.text.html>  <https://matplotlib.org/3.5.0/tutorials/text/annotations.html> 

@@ -87,9 +87,9 @@
 1.  ****[**TensorFlow 代理**](https://www.tensorflow.org/agents/tutorials/5_replay_buffers_tutorial) (回放缓冲页面)****
 2.  ****[**光线 RLLib**](https://docs.ray.io/en/master/rllib/package_ref/replay-buffers.html) (回放缓冲 API)****
 3.  ****[**稳定基线**](https://docs.ray.io/en/master/rllib/package_ref/replay-buffers.html) (使用带有软演员-评论家的重放缓冲)****
-4.  ****[](https://spinningup.openai.com/en/latest/)****(首页)********
+4.  ****<https://spinningup.openai.com/en/latest/>****(首页)********
 5.  ********[Keras-RL(首页)](https://keras-rl.readthedocs.io/en/latest/)********
-6.  ********[](https://tensorforce.readthedocs.io/en/latest/modules/memories.html?highlight=replay%20buffer#memories)**(回放缓冲页)**********
+6.  ********<https://tensorforce.readthedocs.io/en/latest/modules/memories.html?highlight=replay%20buffer#memories>**(回放缓冲页)**********
 
 ********这些库中的许多都模块化地实现了重放缓冲器*，允许选择*不同的重放缓冲器*与*不同的强化学习算法*一起使用。*********
 

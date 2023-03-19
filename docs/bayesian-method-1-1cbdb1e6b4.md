@@ -206,17 +206,17 @@
 
 **[9]杰里米·奥尔洛夫和乔纳森·布鲁姆， [*共轭先验:贝塔和正常*](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading15a.pdf) ，2021 年 12 月 11 日获取。**
 
-**[](http://halweb.uc3m.es/esp/Personal/personas/mwiper/docencia/English/PhD_Bayesian_Statistics/ch5_2009.pdf)*【先验分布】，2022 年 1 月 1 日获取。***
+**<http://halweb.uc3m.es/esp/Personal/personas/mwiper/docencia/English/PhD_Bayesian_Statistics/ch5_2009.pdf>*【先验分布】，2022 年 1 月 1 日获取。***
 
 *****延伸阅读**:***
 
 ***有关概率论的更多信息:***
 
-***[](/measure-theory-in-probability-c8aaf1dea87c)  
+***</measure-theory-in-probability-c8aaf1dea87c>  
 
 关于贝叶斯和频率主义方法的比较:
 
-[](https://medium.com/science-and-philosophy/subjectivism-in-decision-science-926c29feb7bb)  
+<https://medium.com/science-and-philosophy/subjectivism-in-decision-science-926c29feb7bb>  
 
 **补充**:
 

@@ -116,4 +116,4 @@
 
 这是初学者数据科学系列的一部分，所以如果你喜欢这篇文章，你可以在 YouTube 上查看我的其他视频。如果你想通过电子邮件了解我在做什么，你可以考虑注册我的[简讯](https://leonlok.co.uk/newsletter/)。
 
-*原载于 2022 年 1 月 5 日 https://leonlok.co.uk*[](https://leonlok.co.uk/blog/decision-trees-random-forests-gradient-boosting-whats-the-difference/)**。**
+*原载于 2022 年 1 月 5 日 https://leonlok.co.uk*<https://leonlok.co.uk/blog/decision-trees-random-forests-gradient-boosting-whats-the-difference/>**。**

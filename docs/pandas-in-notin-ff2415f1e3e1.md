@@ -115,8 +115,8 @@ df = df.query('colB not in @vals_to_keep')print(df)
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership)  
+<https://gmyrianthous.medium.com/membership>  
 
 **相关文章你可能也喜欢**
 
-[](/how-to-merge-pandas-dataframes-221e49c41bec)  [](/how-to-iterate-over-rows-in-a-pandas-dataframe-6aa173fc6c84)  [](/how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3) 
+</how-to-merge-pandas-dataframes-221e49c41bec>  </how-to-iterate-over-rows-in-a-pandas-dataframe-6aa173fc6c84>  </how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3> 

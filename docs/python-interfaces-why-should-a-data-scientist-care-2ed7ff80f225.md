@@ -227,10 +227,10 @@ zope.interface 缺点:
 
 我希望这个故事对你有用。如果你想知道更多类似的故事，请订阅。
 
-[](https://medium.com/subscribe/@diego-barba)  
+<https://medium.com/subscribe/@diego-barba>  
 
 喜欢这个故事吗？通过我下面的推荐链接成为一个媒体成员来支持我的写作。无限制地访问我的故事和许多其他内容。
 
-[](https://medium.com/@diego-barba/membership)  
+<https://medium.com/@diego-barba/membership>  
 
 如果我错过了什么，请让我知道。对于任何质疑、批评等。，留言评论。

@@ -61,13 +61,13 @@
 
 *我们使用 **Tweepy** 提供的`Cursor`函数来获取包含 *#bridgertons* 的 tweets。`q`参数包含我们想要查询的术语。我们指定`-filter:retweets`从请求中排除转发。下面的链接展示了我们如何在 Twitter API 中定制查询，例如，指定一个位置，或者使用布尔运算符来匹配多个术语。*
 
-*[](https://developer.twitter.com/en/docs/twitter-api/tweets/search/integrate/build-a-query)  
+*<https://developer.twitter.com/en/docs/twitter-api/tweets/search/integrate/build-a-query>  
 
 此外，由于我们只分析英语推文，我们将参数`lang`设置为等于`'en'`。我们指定`tweet_mode=’extended'`来获取 tweet 的整个文本，因为默认情况下，`tweepy.API`返回的`text`属性被截断为 140 个字符。查询完 tweets 后，我们将全文存储在一个列表中，以供进一步处理。
 
 我们不会对搜索设置任何时间或空间限制；然而，重要的是要记住**使用标准 API 将不会获得超过一周**的 tweets。如果我们想访问旧的推文，我们需要访问 Twitter 的高级 API。 **Tweepy** 还支持访问高级 API 来检索信息(例如通过`API.search_30_day`或`API.search_full_archive`函数)。
 
-[](https://developer.twitter.com/en/support/twitter-api/premium)  
+<https://developer.twitter.com/en/support/twitter-api/premium>  
 
 # 数据清理
 
@@ -101,7 +101,7 @@
 
 AFINN 字典可以在很多网站上找到，例如，你可以通过下面的链接轻松下载一个. txt 文件。
 
-[](https://github.com/abromberg/sentiment_analysis/blob/master/AFINN/AFINN-111.txt)  
+<https://github.com/abromberg/sentiment_analysis/blob/master/AFINN/AFINN-111.txt>  
 
 将 **AFINN 字典**下载为. txt 文件后，我们必须将其转换为 **Python 字典**，以便在我们的分析中使用。
 
@@ -113,7 +113,7 @@ AFINN 字典可以在很多网站上找到，例如，你可以通过下面的�
 
 如上所述，一条推文的**极性不仅通过分析其**观点词**来计算，我们还会考虑**表情符号**。文件 **emoji-polarity.txt** 包含 JSON 格式的表情符号的极性，可以使用下面链接中说明的`emoji-emotion`模块获得。极性是由一个人根据这些表情符号的名称和它们的 [AFINN-165](https://github.com/words/afinn-165) 值手工分类的。**
 
-[](https://github.com/words/emoji-emotion)  
+<https://github.com/words/emoji-emotion>  
 
 我们将 **emoji-polarity.txt** 文件读取为 **JSON 对象**。
 

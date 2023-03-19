@@ -79,7 +79,7 @@ Milana 是 Pharmalex 的数据科学家。她对分析工具发现我们周围�
 
 ![](img/850dd2a4bb87d6e386994cd3808b3e05.png)
 
-图 2:世界热点本地化。**这里有一个高分辨率的图可用**[](https://tdemarchin.github.io/DataScienceOnBlockchainWithR-PartIII/DataScienceOnBlockchainWithR-PartIII.html)****。****
+图 2:世界热点本地化。**这里有一个高分辨率的图可用**<https://tdemarchin.github.io/DataScienceOnBlockchainWithR-PartIII/DataScienceOnBlockchainWithR-PartIII.html>****。****
 
 **除了形象化，提供一些数字总是有用的。下面我们总结了各大洲热点的比例。为此，我们利用带有自定义函数的 *rworldmap* 包，该函数来自 [here](https://stackoverflow.com/questions/21708488/get-country-and-continent-from-longitude-and-latitude-point-in-r) ，它将经度/纬度对映射到它所属的洲/国家的名称。表 [3](#tab:tHotspotContinent) 显示，近一半的热点位于北美，其次是欧洲，占 30%，然后是亚洲，占 16%。请注意未定义的一组，它可能指的是位于海洋中部或大陆边缘的热点。还要注意南极洲的四个热点。**
 

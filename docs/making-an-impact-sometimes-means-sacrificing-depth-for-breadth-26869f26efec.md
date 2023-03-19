@@ -69,7 +69,7 @@
 要了解更多关于艾德丽安的工作，了解她的最新文章，请点击[媒体](https://medium.com/@askline1)、[推特](https://twitter.com/klineadrienne1)和[谷歌学术](https://scholar.google.ca/citations?user=-z88fzEAAAAJ&hl=en)关注她。为了体验阿德里安娜的 TDS 文章，这里有一些突出的:
 
 *   浏览 [**统计训练营**系列](https://towardsdatascience.com/tagged/statistics-bootcamp)中的所有当前帖子。
-*   [](/creating-a-dashboard-app-with-dash-heroku-a-streamlined-process-26bce4fbf2c8)**插补方法的实施与限制(2022 年 5 月，9 分钟)**
+*   </creating-a-dashboard-app-with-dash-heroku-a-streamlined-process-26bce4fbf2c8>**插补方法的实施与限制(2022 年 5 月，9 分钟)**
 *   **[**用 Dash/Heroku 创建仪表盘 App:精简的流程**](/creating-a-dashboard-app-with-dash-heroku-a-streamlined-process-26bce4fbf2c8)**(2022 年 6 月，5 分钟)****
 *   ****[**参数与非参数测试，以及何时使用它们**](/parametric-vs-non-parametric-tests-and-where-to-use-them-85130b3877dc)(2022 年 4 月，4 分钟)****
 

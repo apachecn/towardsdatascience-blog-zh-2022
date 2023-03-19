@@ -12,7 +12,7 @@
 
 如果您还没有阅读这些部分，我强烈建议您先阅读前两部分，然后再回到本文。
 
-[](/build-a-blog-website-using-django-rest-framework-overview-part-1-1f847d53753f)  [](/build-a-blog-website-using-django-rest-framework-part-2-be9bc353abf3)  
+</build-a-blog-website-using-django-rest-framework-overview-part-1-1f847d53753f>  </build-a-blog-website-using-django-rest-framework-part-2-be9bc353abf3>  
 
 在本系列的第三部分，我们将处理 Django 应用程序的完整的`posts`应用程序，从而完成我们应用程序的完整后端。我们还将使用可浏览 API 接口测试 API，就像我们测试`users`应用程序一样。所以，让我们直接进入`posts`应用程序，并开始构建它。
 
@@ -627,4 +627,4 @@ python manage.py migrate
 
 这里还有一些你想读的文章系列:
 
-[](/build-a-social-media-website-using-django-setup-the-project-part-1-6e1932c9f221)  [](https://javascript.plainenglish.io/build-an-e-commerce-website-with-mern-stack-part-1-setting-up-the-project-eecd710e2696) 
+</build-a-social-media-website-using-django-setup-the-project-part-1-6e1932c9f221>  <https://javascript.plainenglish.io/build-an-e-commerce-website-with-mern-stack-part-1-setting-up-the-project-eecd710e2696> 

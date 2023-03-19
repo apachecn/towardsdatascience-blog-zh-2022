@@ -146,11 +146,11 @@ Wall time: 2.42 s
 
 1.F-COREF:快速、准确且易于使用的共指消解(Otmazgin 等人)
 
-[](https://arxiv.org/abs/2209.04280)  
+<https://arxiv.org/abs/2209.04280>  
 
 2.Fastcoref 软件包(Otmazgin 等人)
 
-[](https://github.com/shon-otmazgin/fastcoref)  
+<https://github.com/shon-otmazgin/fastcoref>  
 
 3.无跨度表示的共指消解(Kirstain 等人，ACL 2021)
 
@@ -158,4 +158,4 @@ Wall time: 2.42 s
 
 4.LingMess:基于语言学的多重专家打分器，用于共指消解
 
-[](https://arxiv.org/abs/2205.12644) 
+<https://arxiv.org/abs/2205.12644> 

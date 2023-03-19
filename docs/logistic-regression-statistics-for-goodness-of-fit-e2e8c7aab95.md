@@ -119,7 +119,7 @@
 
 在下面的文章中，我已经讲述了简单逻辑回归的基础知识。我已经讨论了语法和解释是如何完成的。
 
-[](/simple-logistic-regression-for-dichotomous-variables-in-r-8befbe3e95b4)  
+</simple-logistic-regression-for-dichotomous-variables-in-r-8befbe3e95b4>  
 
 这里，我将使用相同的数据集并比较上面描述的统计数据。
 
@@ -157,4 +157,4 @@ nagelkerke 的输出提供了三种不同的伪 R，但我们可以使用麦克�
 
 感谢阅读。
 
-[](https://mdsohel-mahmood.medium.com/membership)  [](https://mdsohel-mahmood.medium.com/subscribe) 
+<https://mdsohel-mahmood.medium.com/membership>  <https://mdsohel-mahmood.medium.com/subscribe> 

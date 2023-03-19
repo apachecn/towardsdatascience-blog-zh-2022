@@ -12,7 +12,7 @@
 
 在我最近的两篇关于使用堆栈实现集成机器学习算法的文章中，我探讨了堆栈是如何工作的，以及如何在`scikit-learn`中构建和理解堆栈算法。
 
-[](/a-deep-dive-into-stacking-ensemble-machine-learning-part-i-10476b2ade3)  [](/a-deep-dive-into-stacking-ensemble-machine-learning-part-ii-69bfc0d6e53d)  
+</a-deep-dive-into-stacking-ensemble-machine-learning-part-i-10476b2ade3>  </a-deep-dive-into-stacking-ensemble-machine-learning-part-ii-69bfc0d6e53d>  
 
 本系列的最后一篇文章将通过从头构建一个堆叠算法，并使用流水线来链接 0 级和 1 级模型，进一步加深对这个问题的理解。
 
@@ -147,4 +147,4 @@ Accuracy of scratch built stacking classifier using level 1 cross-validation: 0.
 
 如果你想通过订阅来支持作者和全世界 1000 个为文章写作做出贡献的人，请使用下面的链接(注意:如果你使用这个链接免费注册，作者将收到一定比例的费用)。
 
-[](https://grahamharrison-86487.medium.com/membership) 
+<https://grahamharrison-86487.medium.com/membership> 

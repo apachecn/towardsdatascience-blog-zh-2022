@@ -73,8 +73,8 @@
 
 查看我最近的一些文章
 
-[](https://miketechgame.medium.com/examining-behavior-driven-development-5db006edfee5)  [](https://python.plainenglish.io/medium-has-an-api-605b51037b52)  [](https://python.plainenglish.io/the-painful-journey-to-find-a-markdown-editor-15bd1cd370e2)  [](https://medium.com/mlearning-ai/a-deeper-dive-into-neural-networks-71b73e7e4364)  [](/reinforcement-learning-in-data-science-e7805f133d7)  
+<https://miketechgame.medium.com/examining-behavior-driven-development-5db006edfee5>  <https://python.plainenglish.io/medium-has-an-api-605b51037b52>  <https://python.plainenglish.io/the-painful-journey-to-find-a-markdown-editor-15bd1cd370e2>  <https://medium.com/mlearning-ai/a-deeper-dive-into-neural-networks-71b73e7e4364>  </reinforcement-learning-in-data-science-e7805f133d7>  
 
 参考资料:
 
-[](https://www.artaigallery.com/pages/what-is-ai-generated-art)  [](https://bernardmarr.com/artificial-intelligence-can-now-generate-amazing-images-what-does-this-mean-for-humans/)  [](https://www.techtarget.com/searchenterpriseai/definition/generative-adversarial-network-GAN)  [](https://www.simplilearn.com/tutorials/deep-learning-tutorial/generative-adversarial-networks-gans)  [](https://www.theguardian.com/culture/2022/jun/09/what-exactly-is-ai-generated-art-how-does-it-work-will-it-replace-human-visual-artists) 
+<https://www.artaigallery.com/pages/what-is-ai-generated-art>  <https://bernardmarr.com/artificial-intelligence-can-now-generate-amazing-images-what-does-this-mean-for-humans/>  <https://www.techtarget.com/searchenterpriseai/definition/generative-adversarial-network-GAN>  <https://www.simplilearn.com/tutorials/deep-learning-tutorial/generative-adversarial-networks-gans>  <https://www.theguardian.com/culture/2022/jun/09/what-exactly-is-ai-generated-art-how-does-it-work-will-it-replace-human-visual-artists> 

@@ -71,7 +71,7 @@
 
 **所以，当高级利益相关者告诉你一些事情的时候，检查它，检查他们，仔细检查情况。你越早停止相信他们的话，越好。在你问 ***为什么*** ，[之前，问 ***谁***](http://bit.ly/quaesita_who) …然后从你新的角度再试试为什么。**
 
-**[](/before-you-ask-why-ask-who-b90841d578b4)  [](https://kozyrkov.medium.com/is-your-boss-telling-you-the-truth-f03ae554ce4d)  
+**</before-you-ask-why-ask-who-b90841d578b4>  <https://kozyrkov.medium.com/is-your-boss-telling-you-the-truth-f03ae554ce4d>  
 
 # 例外
 
@@ -83,7 +83,7 @@
 
 在这里欣赏被分成 120 个单独的一口大小的课程视频的课程播放列表:【bit.ly/machinefriend】T2
 
-[](https://kozyrkov.medium.com/membership)  
+<https://kozyrkov.medium.com/membership>  
 
 *又及:你有没有试过在 Medium 上不止一次点击拍手按钮，看看会发生什么？* ❤️
 

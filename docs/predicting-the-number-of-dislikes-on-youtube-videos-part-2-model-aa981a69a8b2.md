@@ -185,7 +185,7 @@
 
 # 参考
 
-[](https://keras.io/examples/nlp/pretrained_word_embeddings/)  
+<https://keras.io/examples/nlp/pretrained_word_embeddings/>  
 
 # 感谢您的阅读！
 

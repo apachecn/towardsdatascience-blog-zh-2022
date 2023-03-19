@@ -56,7 +56,7 @@
 
 你可以在我之前的文章中读到更多。
 
-[](/transfer-learning-in-deep-learning-641089950f5d)  
+</transfer-learning-in-deep-learning-641089950f5d>  
 
 ## 使用集合来移除模型中不必要的偏差。
 

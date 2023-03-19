@@ -73,11 +73,11 @@ t-SNE 的结果也许可以用于聚类，因为结果矩阵将是数据的低�
 
 ## 参考
 
-[](https://distill.pub/2016/misread-tsne/)  [](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html)  [](/understanding-t-sne-by-implementing-2baf3a987ab3)  [](https://scikit-learn.org/stable/auto_examples/manifold/plot_t_sne_perplexity.html#sphx-glr-auto-examples-manifold-plot-t-sne-perplexity-py)  
+<https://distill.pub/2016/misread-tsne/>  <https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html>  </understanding-t-sne-by-implementing-2baf3a987ab3>  <https://scikit-learn.org/stable/auto_examples/manifold/plot_t_sne_perplexity.html#sphx-glr-auto-examples-manifold-plot-t-sne-perplexity-py>  
 
 如果这些内容有用，请关注我的博客。
 
-[](https://gustavorsantos.medium.com/)  
+<https://gustavorsantos.medium.com/>  
 
 考虑使用此推荐代码[注册为中级会员。](https://gustavorsantos.medium.com/membership)
 

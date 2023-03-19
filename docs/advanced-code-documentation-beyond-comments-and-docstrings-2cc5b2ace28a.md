@@ -215,7 +215,7 @@ sys.path.insert(0, os.path.abspath('../..'))*
 
 *希望您已经学习了设置、定制和托管 Sphinx 文档的基础知识。通过样式化、定制函数和类的格式、添加徽章、使用扩展来查看 Jupyter notebook 和 Markdown 文本，甚至在 Confluence 等其他平台上托管它，有更多的方法来增强文档。有需求的话可以出续集；)*
 
-*[](/advanced-code-documentation-with-sphinx-part-2-32c82860a535)  
+*</advanced-code-documentation-with-sphinx-part-2-32c82860a535>  
 
 这些是 [GitHub 库](https://github.com/kayjan/sphinx-test)和[阅读演示中使用的文档文档](https://kayjan-sphinx-test.readthedocs.io/en/latest/)的链接。
 

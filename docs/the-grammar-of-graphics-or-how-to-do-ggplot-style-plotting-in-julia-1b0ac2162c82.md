@@ -170,7 +170,7 @@ Row │ quantity  fruit   price
 
 **坐标系** 与标尺密切相关的是*坐标系的概念，*定义了位置值如何映射到绘图平面上。在上面的例子中，默认使用了*笛卡尔坐标系*。其他可能性是*极坐标*或*重心*坐标系统或用于地图投影的各种系统。
 
-有趣的是，我们可以从相同的数据和美学映射生成不同类型的图表，只需改变坐标系:例如，条形图基于笛卡尔坐标系。如果我们用极坐标系统替换它，我们会得到一个 Coxcomb 图，如下例所示，来自数据科学的[](https://r4ds.had.co.nz/index.html)*(Hadley Wickham 和 Garret Grolemund，O'Reilly，2017)。*
+有趣的是，我们可以从相同的数据和美学映射生成不同类型的图表，只需改变坐标系:例如，条形图基于笛卡尔坐标系。如果我们用极坐标系统替换它，我们会得到一个 Coxcomb 图，如下例所示，来自数据科学的<https://r4ds.had.co.nz/index.html>*(Hadley Wickham 和 Garret Grolemund，O'Reilly，2017)。*
 
 *![](img/b59f91fb7c8eb4288a311350e896d0b0.png)*
 

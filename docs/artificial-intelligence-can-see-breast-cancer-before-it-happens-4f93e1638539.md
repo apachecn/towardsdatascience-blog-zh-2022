@@ -69,6 +69,6 @@ Gail、BRCAPRO、Tyrer-Cuzick 和乳腺癌监测联盟(BCSC)风险模型是临�
 
 # **更多乳腺癌机器学习工作**
 
-[](/compositional-breast-imaging-with-artificial-intelligence-to-improve-cancer-detection-c5f8f38f2266)  
+</compositional-breast-imaging-with-artificial-intelligence-to-improve-cancer-detection-c5f8f38f2266>  
 
 *原载于 2022 年 2 月 5 日*[*【https://www.lambertleong.com】*](https://www.lambertleong.com/projects/deep-learning-breast-cancer-risk)*。*

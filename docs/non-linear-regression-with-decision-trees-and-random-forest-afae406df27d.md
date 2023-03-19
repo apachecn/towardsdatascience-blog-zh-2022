@@ -14,7 +14,7 @@
 
 如果您错过了之前的任何研讨会，可以在这里找到:
 
-[](/an-introduction-lasso-and-ridge-regression-using-scitkit-learn-d3427700679c)  [](/introduction-to-logistic-regression-predicting-diabetes-bc3a88f1e60e)  [](/linear-regression-in-python-for-data-scientists-16caef003012)  
+</an-introduction-lasso-and-ridge-regression-using-scitkit-learn-d3427700679c>  </introduction-to-logistic-regression-predicting-diabetes-bc3a88f1e60e>  </linear-regression-in-python-for-data-scientists-16caef003012>  
 
 ## 回归树
 
@@ -172,8 +172,8 @@ insta gram:https://www.instagram.com/ucl.datasci/
 
 如果你想了解 UCL 数据科学协会和其他优秀作者的最新信息，请随时使用我下面的推荐代码注册 medium:
 
-[](https://philip-wilkinson.medium.com/membership)  
+<https://philip-wilkinson.medium.com/membership>  
 
 或者由我来查看其他商店:
 
-[](/git-and-github-basics-for-data-scientists-b9fd96f8a02a)  [](/an-introduction-to-object-oriented-programming-for-data-scientists-879106d90d89)  [](/univariate-outlier-detection-in-python-40b621295bc5) 
+</git-and-github-basics-for-data-scientists-b9fd96f8a02a>  </an-introduction-to-object-oriented-programming-for-data-scientists-879106d90d89>  </univariate-outlier-detection-in-python-40b621295bc5> 

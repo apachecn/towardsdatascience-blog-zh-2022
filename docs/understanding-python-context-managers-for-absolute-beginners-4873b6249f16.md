@@ -26,7 +26,7 @@ with open('somefile.text', 'r') as file:
 
 在我们使用上下文管理器进行一些真实的代码示例之前，我们将通过一个清晰的示例来理解其内部工作原理:想象我们正在编写一把光剑。
 
-[](/six-levels-of-python-decorators-1f12c9067b23)  
+</six-levels-of-python-decorators-1f12c9067b23>  
 
 ## 设置:编写光剑代码
 
@@ -38,7 +38,7 @@ with open('somefile.text', 'r') as file:
 
 这段代码的维护成本相当高；我们不能忘记打开我们的光剑，否则它会抛出一个异常。而且我们每次都需要调用`turn_off()`方法。我们怎样才能让这段代码更容易使用呢？
 
-[](/multi-tasking-in-python-speed-up-your-program-10x-by-executing-things-simultaneously-4b4fc7ee71e)  
+</multi-tasking-in-python-speed-up-your-program-10x-by-executing-things-simultaneously-4b4fc7ee71e>  
 
 ## 何时使用上下文管理器？
 
@@ -63,7 +63,7 @@ with open('somefile.text', 'r') as file:
 *   当我们想开始砍和刺的时候它会自动开启。
 *   当我们完成谋杀时，它会自动关闭，防止许多人试图将它藏起来而受伤。
 
-[](/simple-trick-to-work-with-relative-paths-in-python-c072cdc9acb9)  
+</simple-trick-to-work-with-relative-paths-in-python-c072cdc9acb9>  
 
 ## 野外的上下文管理器
 
@@ -101,7 +101,7 @@ with dbconnection.connect() as con:
 
 上面的代码确保连接在我们完成后立即关闭。目前，我正在创建一个将 Python 连接到数据库的指南；有兴趣就跟着我吧！
 
-[](/create-a-fast-auto-documented-maintainable-and-easy-to-use-python-api-in-5-lines-of-code-with-4e574c00f70e)  
+</create-a-fast-auto-documented-maintainable-and-easy-to-use-python-api-in-5-lines-of-code-with-4e574c00f70e>  
 
 # 结论
 
@@ -125,4 +125,4 @@ with dbconnection.connect() as con:
 
 附注:喜欢我正在做的事吗？ [*跟我来！*](https://mikehuls.medium.com/membership)
 
-[](https://mikehuls.medium.com/membership) 
+<https://mikehuls.medium.com/membership> 

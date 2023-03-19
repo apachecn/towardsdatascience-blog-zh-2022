@@ -161,4 +161,4 @@ True
 
 如果你喜欢这篇文章，请查看 Python 中面向对象系列的前几篇:
 
-[](/object-oriented-programming-in-python-what-and-why-d966e9e0fd03)  [](/oop-in-python-understanding-a-class-bcc088e595c6)  [](https://curious-joe.medium.com/object-oriented-programming-in-python-inheritance-and-subclass-9c62ad027278) 
+</object-oriented-programming-in-python-what-and-why-d966e9e0fd03>  </oop-in-python-understanding-a-class-bcc088e595c6>  <https://curious-joe.medium.com/object-oriented-programming-in-python-inheritance-and-subclass-9c62ad027278> 

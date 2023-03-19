@@ -50,7 +50,7 @@
 
 你可以在我的 GitHub 资源库中找到这个练习的完整代码，这里是。
 
-[](https://github.com/gurezende/Studying/tree/master/Python/CatBoost)  
+<https://github.com/gurezende/Studying/tree/master/Python/CatBoost>  
 
 要安装`catboost`，请使用`pip install catboost`。下面列出了一些需要进口的产品。
 
@@ -259,10 +259,10 @@ pd.DataFrame( confusion_matrix(y_true=y_test, y_pred=new_predictions) )
 
 如果你喜欢这个内容，关注我的博客或者在 [LinkedIn](https://www.linkedin.com/in/gurezende/) 上找到我。
 
-[](http://gustavorsantos.medium.com/)  
+<http://gustavorsantos.medium.com/>  
 
 使用这个[推荐代码](https://gustavorsantos.medium.com/membership)成为一个媒体会员(你的订阅的一部分将会来到我这里，激励我继续创作内容)。
 
 # 参考
 
-[](https://github.com/catboost/tutorials/blob/master/events/2019_pydata_london/pydata_london_2019.ipynb) 
+<https://github.com/catboost/tutorials/blob/master/events/2019_pydata_london/pydata_london_2019.ipynb> 

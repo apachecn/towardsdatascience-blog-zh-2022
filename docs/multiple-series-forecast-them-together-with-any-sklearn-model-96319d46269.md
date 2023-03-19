@@ -18,7 +18,7 @@
 
 今天，我将演示如何使用 scalecast 将这种方法应用于预测。设置过程和提取最终结果很容易。该程序包通过多步过程动态预测您输入的所有系列。一个缺点是，以这种方式将机器学习模型应用于多变量预测的研究并不多，至少据我所知是这样。不过，探索还是很有趣的。看完整笔记本[这里](https://github.com/mikekeith52/scalecast-examples/blob/main/multivariate/multivariate.ipynb)。这些数据可以在拥有开放数据库许可证的 [Kaggle](https://www.kaggle.com/datasets/neuromusic/avocado-prices) 上获得。如果您觉得 scalecast 有趣，请在 GitHub 上给它打一颗星:
 
-[](https://github.com/mikekeith52/scalecast)  
+<https://github.com/mikekeith52/scalecast>  
 
 # 探索性数据分析
 

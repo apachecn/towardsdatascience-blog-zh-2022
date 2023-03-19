@@ -223,7 +223,7 @@ Improve your model by including several types of transportation mode (electric, 
 
 这将向您展示供应链的改进，以获得适应这些新的绿色倡议的稳健性水平。
 
-[](https://www.samirsaci.com/what-is-a-supply-chain-digital-twin/)  
+<https://www.samirsaci.com/what-is-a-supply-chain-digital-twin/>  
 
 ## 数字孪生模型的例子:绿色库存管理
 
@@ -243,7 +243,7 @@ Improve your model by including several types of transportation mode (electric, 
 
 使用数据分析来模拟商店补货频率的变化，并衡量对整体环境影响的影响。
 
-[](https://www.samirsaci.com/green-inventory-management-case-study/)  
+<https://www.samirsaci.com/green-inventory-management-case-study/>  
 
 ## 数字孪生模型的范例:时尚循环经济
 
@@ -263,7 +263,7 @@ Improve your model by including several types of transportation mode (electric, 
 
 使用数据分析来模拟循环订阅模式的几种情况对快速时尚零售商的减排和用水的影响。
 
-[](https://www.samirsaci.com/how-sustainable-is-your-circular-economy/)  
+<https://www.samirsaci.com/how-sustainable-is-your-circular-economy/>  
 
 ## 考虑当地的倡议
 
@@ -288,7 +288,7 @@ Improve your model by including several types of transportation mode (electric, 
 
 数据分析可以帮助您自动化这一过程。
 
-[](https://www.samirsaci.com/sustainable-logistics-reduce-packing-and-consummables-consumption/)  
+<https://www.samirsaci.com/sustainable-logistics-reduce-packing-and-consummables-consumption/>  
 
 # 关于我
 
@@ -296,7 +296,7 @@ Improve your model by including several types of transportation mode (electric, 
 
 如果你对数据分析和供应链感兴趣，可以看看我的网站
 
-[](https://samirsaci.com)  
+<https://samirsaci.com>  
 
 ## 参考
 

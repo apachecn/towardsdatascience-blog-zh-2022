@@ -16,13 +16,13 @@ Gerd Altmann 在 [Pixabay](https://cdn.pixabay.com/photo/2016/04/04/14/12/monito
 
 您可以在此处找到介绍材料:
 
-[](/introduction-to-regular-expressions-3371c86f7)  
+</introduction-to-regular-expressions-3371c86f7>  
 
 这篇文章的目的是作为一个剪贴簿/备忘单风格指南，介绍 regex 中一些更高级的概念。当我学习这些类型的技能(需要练习才能真正掌握的技能)时，我发现有简明的指导方针和一个实践场所来测试这些指导方针要好得多。
 
 我通常使用下面的在线工具来练习和测试我的正则表达式。还有其他好的在线工具。挑一个你喜欢的，一如既往——练习，练习，再练习。
 
-[](https://regex101.com)  
+<https://regex101.com>  
 
 因此，这篇文章将与我的典型文章略有不同。这将是最小的和直接的。我也很想听到你对这种指导风格的反馈，以及你是否喜欢更详细和动手的写作风格。
 
@@ -75,7 +75,7 @@ Gerd Altmann 在 [Pixabay](https://cdn.pixabay.com/photo/2016/04/04/14/12/monito
 
 看看下面的 ASCII 码，更好地理解我在说什么。
 
-[](https://www.w3schools.com/charsets/ref_html_ascii.asp)  
+<https://www.w3schools.com/charsets/ref_html_ascii.asp>  
 
 这些例子被称为**正类**，因为正则表达式表达了它应该匹配的内容。另一方面，我们也有**负类**，它们表示正则表达式不应该匹配的内容。这是通过在我们不想匹配的模式开始处使用`^`操作符来完成的。
 
@@ -165,11 +165,11 @@ Gerd Altmann 在 [Pixabay](https://cdn.pixabay.com/photo/2016/04/04/14/12/monito
 
 你喜欢这篇文章吗？如果是，请考虑订阅我的电子邮件列表，以便在我发布新内容时得到通知。免费的:)
 
-[](https://david-farrugia.medium.com/subscribe)  
+<https://david-farrugia.medium.com/subscribe>  
 
 **也许你也可以考虑成为一名会员来支持我和你其他喜欢的作家。每月 5 美元，你就可以无限制地阅读 Medium 上的每一篇文章。**
 
-[](https://david-farrugia.medium.com/membership)  
+<https://david-farrugia.medium.com/membership>  
 
 # 想联系吗？
 

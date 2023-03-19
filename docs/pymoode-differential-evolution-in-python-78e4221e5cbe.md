@@ -37,7 +37,7 @@ pip install pymoode
 
 *如果您不熟悉非线性编程或差分进化，我建议您阅读我以前的文章，以便更好地理解这里介绍的概念。*
 
-*[](/nonlinear-programming-theory-and-applications-cfe127b6060c)  [](/differential-evolution-an-alternative-to-nonlinear-convex-optimization-690a123f3413)  
+*</nonlinear-programming-theory-and-applications-cfe127b6060c>  </differential-evolution-an-alternative-to-nonlinear-convex-optimization-690a123f3413>  
 
 虽然以前我们追求的是一个单一的目标，但在这篇文章中，我们有许多方向可以同时遵循！
 

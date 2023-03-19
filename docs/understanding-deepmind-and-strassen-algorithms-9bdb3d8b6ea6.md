@@ -153,7 +153,7 @@ DeepMind 将矩阵乘法问题带到了更具体的一步。然而，在深入�
 
 # 支持我的写作:
 
-[](https://stefanobosisio1.medium.com/membership)  
+<https://stefanobosisio1.medium.com/membership>  
 
 如果有任何问题或意见，请随时给我发电子邮件，地址是:stefanobosisio1@gmail.com，或者直接在 Medium 这里。
 

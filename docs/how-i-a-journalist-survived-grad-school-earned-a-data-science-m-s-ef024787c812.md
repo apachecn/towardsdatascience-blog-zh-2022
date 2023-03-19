@@ -36,7 +36,7 @@
 
 如果你现在是数据科学或数据分析的学生，你可能会证明 Kaggle 数据集或教科书数据源是多么平凡。只有这么多方法[你可以预测泰坦尼克号的存活率](https://www.kaggle.com/nadintamer/titanic-survival-predictions-beginner)或者[对花卉种类进行分类](https://www.kaggle.com/sixteenpython/machine-learning-with-iris-dataset)。到了选择学期项目的时候，我尽最大努力寻找与我先前的知识相符的数据集。我发现，从我热爱的行业中挑选数据给了我可信度和灵感。拥有领域知识也使我能够更好地将我的发现联系起来并进行展示，从而带来更好的展示和更充实的学习体验。在学校，我是新闻专业出身，我优先考虑我的数据工作的原因，这种技能你也可以通过阅读我以前的故事来学习。
 
-[](/humans-arent-natural-data-storytellers-but-you-can-be-fed221526356)  
+</humans-arent-natural-data-storytellers-but-you-can-be-fed221526356>  
 
 我最喜欢的数据科学项目之一是利用各种分类方法在 Python 中构建假新闻检测模型。回过头来看，这种方法相当简单，也不太新颖，但我能够彻底阐明这种模型试图解决的问题。该项目也是我第一次扩展到 Python 和 r 等语言的原生数据集之外。毕业后，我继续通过抓取 web 数据和访问 API 来寻找和创建新的数据集。
 
@@ -68,7 +68,7 @@
 
 就我个人而言，即使是一份朝九晚五的数据工程师工作，这个领域仍有一些方面令我着迷。例如，我对如何使用数据工程来改善或自动化我的生活感兴趣，就像我如何创建个人财务跟踪管道一样。
 
-[](https://medium.com/plumbersofdatascience/a-python-data-pipeline-to-track-holiday-spending-with-mint-api-bigquery-and-tableau-9ae7f1e2e77f)  
+<https://medium.com/plumbersofdatascience/a-python-data-pipeline-to-track-holiday-spending-with-mint-api-bigquery-and-tableau-9ae7f1e2e77f>  
 
 练习不仅仅是磨练技能。它能建立自信。根据我的经验，你更有可能通过消除对犯错误或产生错误输出的恐惧来解决问题。根据你的轨迹和选择的语言，我强烈推荐 [HackerRank](https://www.hackerrank.com/) ，一个提供大量实践机会的网站；额外收获:雇主利用该网站进行技术面试。
 

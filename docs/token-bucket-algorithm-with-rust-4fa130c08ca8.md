@@ -12,7 +12,7 @@
 
 你可以看看我的其他系列和不同主题的文章。
 
-[](https://jayhuang75.medium.com/)  
+<https://jayhuang75.medium.com/>  
 
 # 令牌桶是什么？
 
@@ -90,8 +90,8 @@ T 主要想法是检查最后更新的时间戳，并根据预定义的速率确
 
 请加入我的中码学习连载，获取最新更新。
 
-[](https://jayhuang75.medium.com/membership)  
+<https://jayhuang75.medium.com/membership>  
 
 另外，你可以用下面的链接给我买一杯咖啡，让我有动力在周末进行更多的锻炼和学习。
 
-[](https://www.buymeacoffee.com/jayhuang75) 
+<https://www.buymeacoffee.com/jayhuang75> 

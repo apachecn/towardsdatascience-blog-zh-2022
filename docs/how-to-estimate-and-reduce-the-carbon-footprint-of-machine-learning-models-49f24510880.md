@@ -51,7 +51,7 @@ BigScience 的开源语言模型 BLOOM 在 18 天内处理了 230，768 个请�
 
 综上所述，由于缺乏数据，很难描绘出机器学习领域碳足迹的全貌，但特定的模型，特别是语言模型，可能会有很大的碳足迹，一些组织在机器学习相关活动上花费了相对较大的总能耗。
 
-[](/8-podcast-episodes-on-the-climate-impact-of-machine-learning-54f1c19f52d)  
+</8-podcast-episodes-on-the-climate-impact-of-machine-learning-54f1c19f52d>  
 
 # 2.如何估计机器学习模型的碳足迹
 
@@ -128,7 +128,7 @@ CodeCarbon 以固定的时间间隔(例如 15 秒)直接测量执行代码的 GP
 
 *消耗的功率* *(E)* 以 kWh 为单位进行测量，并通过以频繁的时间间隔跟踪硬件的电源来获得。默认值是每 15 秒一次，但是可以用`measure_power_secs`构造函数参数进行配置。
 
-[](https://kaspergroesludvigsen.medium.com/the-10-most-energy-efficient-programming-languages-6a4165126670)  
+<https://kaspergroesludvigsen.medium.com/the-10-most-energy-efficient-programming-languages-6a4165126670>  
 
 # 3.如何减少你的机器学习模型的碳足迹
 
@@ -251,7 +251,7 @@ CodeCarbon 以固定的时间间隔(例如 15 秒)直接测量执行代码的 GP
 
 在我看来，稀疏神经网络是一个复杂的主题，在机器学习模型脱碳树上还有其他悬得较低的成果，但如果你想进一步探索这一点，这里有一些资源可以开始:
 
-[](https://ai.googleblog.com/2020/09/improving-sparse-training-with-rigl.html)  [](https://ai.googleblog.com/2021/03/accelerating-neural-networks-on-mobile.html)  
+<https://ai.googleblog.com/2020/09/improving-sparse-training-with-rigl.html>  <https://ai.googleblog.com/2021/03/accelerating-neural-networks-on-mobile.html>  
 
 ## 3.17.将数据移动到低能耗存储解决方案
 

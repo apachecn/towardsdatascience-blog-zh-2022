@@ -124,10 +124,10 @@ Pytest
 
 你还可以从软件工程师那里学到其他好的实践，比如使用版本控制和记录你的代码。去吧，也试试看。
 
-[](https://medium.com/geekculture/is-a-degree-in-data-science-worth-it-1ca8c3bdb00c)  
+<https://medium.com/geekculture/is-a-degree-in-data-science-worth-it-1ca8c3bdb00c>  
 
 [**与 7k 以上的人一起加入我的电子邮件列表，获取我在所有教程中使用的 Python for Data Science 备忘单(免费 PDF)**](https://frankandrade.ck.page/bd063ff2d3)
 
 如果你喜欢阅读这样的故事，并想支持我成为一名作家，可以考虑报名成为一名媒体成员。每月 5 美元，让您可以无限制地访问数以千计的 Python 指南和数据科学文章。如果你使用[我的链接](https://frank-andrade.medium.com/membership)注册，我会赚一小笔佣金，不需要你额外付费。
 
-[](https://frank-andrade.medium.com/membership) 
+<https://frank-andrade.medium.com/membership> 

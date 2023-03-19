@@ -27,7 +27,7 @@ Open3D 中点云的体素化示例—不同的体素大小(左)和体素网格�
 
 在文章中，我们将探索四个 Python 库的体素化能力——[*【Open3D】*](http://www.open3d.org/)*[*Trimesh*](https://trimsh.org/index.html)*[*py vista*](https://docs.pyvista.org/)*和 [pyntcloud](https://github.com/daavoo/pyntcloud) 。我选择了这些库，因为它们提供了相对简单的体素化功能，以及用于分析所创建的体素的内置解决方案。其他较小的库，如 [PyVoxelizer](https://github.com/p-hofmann/PyVoxelizer) 、 [Voxelizer](https://github.com/archi-coder/Voxelizer) 、 [simple-3dviz](https://simple-3dviz.com/) 和 [DepthVisualizer](https://github.com/ErenBalatkan/DepthVisualizer) 也提供了体素化功能，但它们被认为过于有限。另一个提供体素化功能的库是 [Vedo](https://vedo.embl.es/) ，但是在最初的测试之后，我发现它们是针对 3D 体数据的，这限制了它们的使用。如果您想了解更多关于如何使用这些库创建漂亮的可视化效果的信息，您可以看看我以前的文章“**用于网格、点云和数据可视化的 Python 库**”(第 1 和第 2 部分)。我们将使用的唯一一个以前没有讨论过的库是 pyntcloud，所以我们将更详细地讨论如何安装和设置它。***
 
-**[](/python-libraries-for-mesh-and-point-cloud-visualization-part-1-daa2af36de30)  [](/python-libraries-for-mesh-point-cloud-and-data-visualization-part-2-385f16188f0f)  
+**</python-libraries-for-mesh-and-point-cloud-visualization-part-1-daa2af36de30>  </python-libraries-for-mesh-point-cloud-and-data-visualization-part-2-385f16188f0f>  
 
 为了演示点云和网格上的体素化，我提供了两个对象。首先是**中的一个兔子雕像点云。txt** 格式，包含每个点的 *X、Y、Z* 坐标，以及它们的 *R、G、B* 颜色，最后是 *Nx、Ny、Nz* 法线。第二，一只公鸡雕像网在一个**里。obj** 格式，加上一个**。mat** 文件和一个纹理在**中。jpg** 格式。这两个物体都是使用运动摄影测量的结构创建的，并且**可以在商业、非商业、公共和私人项目中免费使用**。这些对象是一个更大的数据集[6]的一部分，并已用于噪声检测和检查方法的开发[7]。为了跟随教程，除了使用的库和它们的依赖项，您还需要 NumPy 和 SciPy。所有代码都可以在 GitHub 库[这里](https://github.com/IvanNik17/python-3d-analysis-libraries)获得
 

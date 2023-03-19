@@ -163,7 +163,7 @@ plot([gray_img], cmap**=**'gray', col_title**=**["Gray"])
 
 ## 其他相关文章:
 
-[](https://medium.com/mlearning-ai/albumentations-a-python-library-for-advanced-image-augmentation-strategies-752bff3a3da0)  [](https://medium.com/mlearning-ai/how-to-quickly-build-your-own-dataset-of-images-for-deep-learning-1cf79073f1bd)  
+<https://medium.com/mlearning-ai/albumentations-a-python-library-for-advanced-image-augmentation-strategies-752bff3a3da0>  <https://medium.com/mlearning-ai/how-to-quickly-build-your-own-dataset-of-images-for-deep-learning-1cf79073f1bd>  
 
 *免责声明:该数据集由恰拉尔·弗拉特·兹内尔根据* [*知识共享署名 4.0 国际*](https://creativecommons.org/licenses/by/4.0/) *(CC BY 4.0)授权。*
 

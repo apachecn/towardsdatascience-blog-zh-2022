@@ -12,7 +12,7 @@
 
 在我以前的文章中，我解释了如何使用 DAX 表达式控制颜色:
 
-[](/how-to-control-colors-with-dax-expressions-in-power-bi-ef7e5c767eff)  
+</how-to-control-colors-with-dax-expressions-in-power-bi-ef7e5c767eff>  
 
 在那篇文章中，我引用了 IBCS 规则来选择高对比度的列视觉效果颜色，而不是标准的 Power BI 颜色。
 
@@ -55,7 +55,7 @@
 
 在我关于 Power BI 和 DAX 的第一篇文章中，我在我的数据表中提到了索引列:
 
-[](/3-ways-to-improve-your-reporting-with-an-expanded-date-table-2d983d76cced)  
+</3-ways-to-improve-your-reporting-with-an-expanded-date-table-2d983d76cced>  
 
 在本例中，有趣的列是 YearIndex 表。
 基于此列，我们需要为所有行创建一个新列，规则如下:
@@ -217,4 +217,4 @@ Contoso 数据可以在 MIT 许可下自由使用，如这里的[所述](https:/
 我扩大了数据集，使 DAX 引擎工作更努力。
 在线销售表包含 7100 万行(而不是 1260 万行)，零售表包含 1850 万行(而不是 340 万行)。
 
-[](https://medium.com/@salvatorecagliari/membership) 
+<https://medium.com/@salvatorecagliari/membership> 

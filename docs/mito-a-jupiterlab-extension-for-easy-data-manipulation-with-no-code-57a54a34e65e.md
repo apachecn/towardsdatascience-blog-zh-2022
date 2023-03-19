@@ -220,7 +220,7 @@ df3_pivot = pivot_table.reset_index()
 
 ## 更多相关文章:
 
-[](https://betterprogramming.pub/how-to-deal-with-time-series-using-pandas-and-plotly-express-45b6848432df)  [](https://betterprogramming.pub/3-pandas-functions-to-group-and-aggregate-data-9763a32583bb)  
+<https://betterprogramming.pub/how-to-deal-with-time-series-using-pandas-and-plotly-express-45b6848432df>  <https://betterprogramming.pub/3-pandas-functions-to-group-and-aggregate-data-9763a32583bb>  
 
 **参考文献:**
 

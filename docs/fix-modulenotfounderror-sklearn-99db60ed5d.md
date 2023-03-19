@@ -171,7 +171,7 @@ $ python3 -m pip install scikit-learn
 
 如果您在导入`scikit-learn`时仍然有问题，那么可能是其他地方出错了。你可能会在我的一篇文章中找到答案
 
-[](/how-to-fix-modulenotfounderror-and-importerror-248ce5b69b1c)  
+</how-to-fix-modulenotfounderror-and-importerror-248ce5b69b1c>  
 
 ## 最后的想法
 
@@ -179,8 +179,8 @@ $ python3 -m pip install scikit-learn
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership)  
+<https://gmyrianthous.medium.com/membership>  
 
 **相关文章你可能也喜欢**
 
-[](/scikit-learn-vs-sklearn-6944b9dc1736)  [](/predict-vs-predict-proba-scikit-learn-bdc45daa5972)  [](/14-must-know-pip-commands-for-data-scientists-and-engineers-a59ebbe0a439) 
+</scikit-learn-vs-sklearn-6944b9dc1736>  </predict-vs-predict-proba-scikit-learn-bdc45daa5972>  </14-must-know-pip-commands-for-data-scientists-and-engineers-a59ebbe0a439> 

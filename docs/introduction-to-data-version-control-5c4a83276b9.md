@@ -144,11 +144,11 @@ test_branch2 = repo.create_branch(name='test2', base_commit=<SOME_HASH_KEY>)
 
 你喜欢这篇文章吗？如果是的话，也许你可以考虑成为会员来支持我和你其他喜欢的作家。
 
-[](https://david-farrugia.medium.com/membership)  
+<https://david-farrugia.medium.com/membership>  
 
 **想给我买杯咖啡吗？**
 
-[](https://paypal.me/itsdavidfarrugia?country.x=MT&locale.x=en_US)  
+<https://paypal.me/itsdavidfarrugia?country.x=MT&locale.x=en_US>  
 
 # 想联系吗？
 

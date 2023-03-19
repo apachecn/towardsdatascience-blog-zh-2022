@@ -183,4 +183,4 @@
 
 赫尔，J. C. (2014 年)。期权、期货和其他衍生品。全球版。
 
-      [](https://en.wikipedia.org/wiki/Low-discrepancy_sequence)    [](https://en.wikipedia.org/wiki/Stratified_sampling) 
+      <https://en.wikipedia.org/wiki/Low-discrepancy_sequence>    <https://en.wikipedia.org/wiki/Stratified_sampling> 

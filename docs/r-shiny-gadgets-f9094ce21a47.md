@@ -153,8 +153,8 @@ results_colourcodes <- reactive(rep(“none”, nrow(data)))
 
 如果您忘记将函数结果分配给一个对象，您的结果将简单地打印在控制台上，就像其他函数一样。请记住，您可以使用`.Last.Value`来访问您在 R 中运行的最后一行的结果，并将其保存在一个对象中。在使用小工具的时候，我确实经历了很多。
 
-[](https://matepocs.medium.com/membership)  
+<https://matepocs.medium.com/membership>  
 
 # 来源
 
-[](https://shiny.rstudio.com/articles/gadgets.html)  [](https://www.rstudio.com/resources/webinars/introducing-shiny-gadgets-interactive-tools/)   
+<https://shiny.rstudio.com/articles/gadgets.html>  <https://www.rstudio.com/resources/webinars/introducing-shiny-gadgets-interactive-tools/>   

@@ -167,7 +167,7 @@ arabica_freq(text = data['tweet_text'],
 *   *[***Arabica 中的可视化模块加速了文本数据的探索***](https://medium.com/towards-data-science/visualization-module-in-arabica-speeds-up-text-data-exploration-47114ad646ce)*
 *   *[***时序文本数据中的情感分析和结构突变***](/sentiment-analysis-and-structural-breaks-in-time-series-text-data-8109c712ca2)*
 
-**PS:你可以订阅我的* [*邮件列表*](https://medium.com/subscribe/@petrkorab) *在我每次写新文章的时候得到通知。而如果你还不是中等成员，可以在这里加入*[](https://medium.com/@petrkorab/membership)**。***
+**PS:你可以订阅我的* [*邮件列表*](https://medium.com/subscribe/@petrkorab) *在我每次写新文章的时候得到通知。而如果你还不是中等成员，可以在这里加入*<https://medium.com/@petrkorab/membership>**。***
 
 # **参考资料:**
 

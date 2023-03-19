@@ -16,11 +16,11 @@
 
 今天，我们将学习 SHAP 是如何工作的，以及如何在实践中使用它来完成经典的 ML 任务。
 
-[](https://ibexorigin.medium.com/membership)  
+<https://ibexorigin.medium.com/membership>  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex)  
+<https://alphasignal.ai/?referrer=Bex>  
 
 # 什么是 SHAP 和沙普利值？
 
@@ -136,7 +136,7 @@ SHAP(SHapley Additive exPlanations)是一个 Python 包，基于 2016 年 NIPS �
 
 我们看到，随着克拉的增加，它对模型的影响越来越积极。对于`y`特性也是如此。`x`和`z`的特征有点复杂，中心周围有一簇混合的点。
 
-[](https://ibexorigin.medium.com/membership)  
+<https://ibexorigin.medium.com/membership>  
 
 # 用依赖图探索每个特性
 
@@ -254,10 +254,10 @@ SHAP 值和沙普利值最奇妙的属性之一是它们能够准确地找到特
 
 现在，你可以走到你的老板面前说:“这是我最好的模型，这是为什么它是最好的以及它是如何工作的解释！”希望你得到的回应会积极得多。感谢您的阅读！
 
-[](https://ibexorigin.medium.com/membership)  [](https://ibexorigin.medium.com/subscribe)  
+<https://ibexorigin.medium.com/membership>  <https://ibexorigin.medium.com/subscribe>  
 
 # 您可能也会对…感兴趣
 
-[](/3-step-feature-selection-guide-in-sklearn-to-superchage-your-models-e994aa50c6d2)  [](/how-to-use-umap-for-much-faster-and-effective-outlier-detection-e4608f336915)  [](/comprehensive-guide-to-deploying-any-ml-model-as-apis-with-python-and-aws-lambda-b441d257f1ec) [## 使用 Python 和 AWS Lambda 将任何 ML 模型部署为 API 的综合指南
+</3-step-feature-selection-guide-in-sklearn-to-superchage-your-models-e994aa50c6d2>  </how-to-use-umap-for-much-faster-and-effective-outlier-detection-e4608f336915>  </comprehensive-guide-to-deploying-any-ml-model-as-apis-with-python-and-aws-lambda-b441d257f1ec> [## 使用 Python 和 AWS Lambda 将任何 ML 模型部署为 API 的综合指南
 
-towardsdatascience.com](/comprehensive-guide-to-deploying-any-ml-model-as-apis-with-python-and-aws-lambda-b441d257f1ec) [](/25-advanced-pandas-functions-people-are-using-without-telling-you-b65fa442f0f4) 
+towardsdatascience.com](/comprehensive-guide-to-deploying-any-ml-model-as-apis-with-python-and-aws-lambda-b441d257f1ec) </25-advanced-pandas-functions-people-are-using-without-telling-you-b65fa442f0f4> 

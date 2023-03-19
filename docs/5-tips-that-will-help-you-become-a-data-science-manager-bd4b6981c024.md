@@ -58,4 +58,4 @@
 
 **想了解更多关于数据科学职业的信息？这里有一些很棒的文章给你。**
 
-[](/productivity-tips-for-data-scientists-eb66242fde27)  [](/5-mistakes-i-wish-i-had-avoided-in-my-data-science-career-6c22a44304a1)  [](/how-to-pick-the-right-career-in-the-data-world-1cec8a084767) 
+</productivity-tips-for-data-scientists-eb66242fde27>  </5-mistakes-i-wish-i-had-avoided-in-my-data-science-career-6c22a44304a1>  </how-to-pick-the-right-career-in-the-data-world-1cec8a084767> 

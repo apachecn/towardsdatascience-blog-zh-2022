@@ -123,4 +123,4 @@ ML 模型中的正则化(想想回归中的 L2 或 L1 正则化)也是有帮助�
 
 今天到此为止。我希望对方差缩减的介绍有助于解释它的重要性，以及它与其他概念的关系。查看我的相关文章，因果推理完全指南:
 
-[](/a-complete-guide-to-causal-inference-8d5aaca68a47) 
+</a-complete-guide-to-causal-inference-8d5aaca68a47> 

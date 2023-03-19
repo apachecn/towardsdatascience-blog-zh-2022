@@ -24,7 +24,7 @@
 
 以下代码在 Google Collab 中工作，用于加载模型和生成数据集。
 
-[](https://github.com/dcshapiro/seriously-a-repo-just-to-upload-one-file-for-an-article/blob/main/Moral_ML.ipynb) 
+<https://github.com/dcshapiro/seriously-a-repo-just-to-upload-one-file-for-an-article/blob/main/Moral_ML.ipynb> 
 
 以下是为每个标签生成的句子示例，包括生成句子的模型:
 

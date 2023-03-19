@@ -394,7 +394,7 @@ SPRT 不仅是 80 年前测试弹药箱的强大工具，而且今天仍被用�
 
 你可以在这里找到 Jupyter 的原版笔记本。
 
-[](https://github.com/matteocourthoud/Blog-Posts/blob/main/notebooks/optimal_stopping.ipynb)  
+<https://github.com/matteocourthoud/Blog-Posts/blob/main/notebooks/optimal_stopping.ipynb>  
 
 ## 感谢您的阅读！
 

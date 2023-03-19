@@ -275,11 +275,11 @@
 
 ****最后，还有更多的工作要做，以充分解释为什么模型是不公平的。这样做的时候，我们需要考虑所有不公平的潜在**原因。**我们在这篇文章中已经提到了一些。你也可以在下面的第一篇文章中深入了解它们。下一步是**纠正不公平**。在下面的第二篇文章中，我们将探讨定量和非定量方法。****
 
-****[](/algorithm-fairness-sources-of-bias-7082e5b78a2c)  [](/approaches-for-addressing-unfairness-in-machine-learning-a31f9807cf31)  
+****</algorithm-fairness-sources-of-bias-7082e5b78a2c>  </approaches-for-addressing-unfairness-in-machine-learning-a31f9807cf31>  
 
 我希望这篇文章对你有帮助！如果你想看更多，你可以成为我的 [**推荐会员**](https://conorosullyds.medium.com/membership) **来支持我。你可以访问 medium 上的所有文章，我可以得到你的部分费用。**
 
-[](https://conorosullyds.medium.com/membership)  
+<https://conorosullyds.medium.com/membership>  
 
 ## 图像来源
 

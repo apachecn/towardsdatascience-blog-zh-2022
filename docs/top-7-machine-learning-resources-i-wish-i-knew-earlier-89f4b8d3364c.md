@@ -28,7 +28,7 @@
 
 掉进泳池淹死的人数和尼古拉斯凯奇出演的电影数量？嗯，相关性只有 66%，看起来像是巧合。缅因州的离婚率和人造黄油的消费呢？99%?什么…
 
-[](https://www.tylervigen.com/spurious-correlations)  
+<https://www.tylervigen.com/spurious-correlations>  
 
 ## Netron
 
@@ -52,7 +52,7 @@ Netron 支持 TensorFlow 和 Keras，并对 PyTorch 提供实验支持。要了�
 
 了解单层神经网络的局限性(以及如何添加额外的层来克服这些局限性)，尝试不同的学习速率、数据形状和激活函数，以便获得关于什么是神经网络以及它如何工作的直观想法。
 
-[](http://playground.tensorflow.org/)  
+<http://playground.tensorflow.org/>  
 
 # 去哪里找模特？
 
@@ -72,7 +72,7 @@ Netron 支持 TensorFlow 和 Keras，并对 PyTorch 提供实验支持。要了�
 
 因为笔记本是交互式的、简单的，并且通常不包含很多代码，所以这是开始不害怕另一个人写的代码的好方法。
 
-[](https://aihub.cloud.google.com/u/0/)  
+<https://aihub.cloud.google.com/u/0/>  
 
 ## **TensorFlow Hub**
 
@@ -86,7 +86,7 @@ Netron 支持 TensorFlow 和 Keras，并对 PyTorch 提供实验支持。要了�
 
 只有通过微调这些模型，你将能够在许多任务上获得非常好的结果。还要注意[教程选项卡](https://www.tensorflow.org/hub/tutorials)，这里通常会提供一个模型链接，提供更详细的描述和解释。
 
-[](https://www.tensorflow.org/hub)  
+<https://www.tensorflow.org/hub>  
 
 ## 拥抱脸
 
@@ -102,7 +102,7 @@ Netron 支持 TensorFlow 和 Keras，并对 PyTorch 提供实验支持。要了�
 
 **这对任何人来说都是最好的资源之一，即使是非机器学习的人，我也很高兴与您分享。**
 
-**[](https://huggingface.co/)  
+**<https://huggingface.co/>  
 
 # 如何开始阅读研究论文
 
@@ -114,7 +114,7 @@ Netron 支持 TensorFlow 和 Keras，并对 PyTorch 提供实验支持。要了�
 
 当然，我不会只给你这个愚蠢的建议。这个网站会帮你解决这个问题，它叫做[论文，代码为](https://paperswithcode.com/)。出于某种原因，我很晚才发现这件事，好像每个人都在瞒着我，所以我才和你分享。
 
-[](https://paperswithcode.com/)  
+<https://paperswithcode.com/>  
 
 直观的界面，对数据集和任务的广泛搜索能力，以及看到最佳模型的机会——这个网站对任何 ML 人员来说都是一个真正的发现。
 
@@ -122,7 +122,7 @@ Netron 支持 TensorFlow 和 Keras，并对 PyTorch 提供实验支持。要了�
 
 如果你认为研究论文只针对精英，那么这是不正确的。如果你第一次不明白某件事，感到困惑或者你只是感到无聊——这没关系，没有人一开始就明白。如果你以前从未读过这些文章，请关注这篇令人敬畏的 NVIDIA 博客文章，它可以帮助你很多:
 
-[](https://developer.nvidia.com/blog/how-to-read-research-papers-a-pragmatic-approach-for-ml-practitioners/)  
+<https://developer.nvidia.com/blog/how-to-read-research-papers-a-pragmatic-approach-for-ml-practitioners/>  
 
 # 摘要
 

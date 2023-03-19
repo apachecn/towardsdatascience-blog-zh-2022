@@ -70,7 +70,7 @@ AssemblyAI 可能会很容易地用仇恨言论标记这个视频。
 
 这就是有趣的地方。让我们开始吧。
 
-> *如果你想重现下面的步骤，你需要一个 AssemblyAI 账户。无需输入信用卡，您可以免费创建一个*[](https://app.assemblyai.com/signup)**。**
+> *如果你想重现下面的步骤，你需要一个 AssemblyAI 账户。无需输入信用卡，您可以免费创建一个*<https://app.assemblyai.com/signup>**。**
 
 *我将把这一节分成几个小部分，这样您就可以理解并轻松地重新运行代码。*
 
@@ -192,6 +192,6 @@ AssemblyAI 可能会很容易地用仇恨言论标记这个视频。
 
 # *新到中？您可以每月订阅 5 美元，并解锁各种主题的无限文章(技术、设计、创业……)。您可以通过点击我的推荐链接[来支持我](https://ahmedbesbes.medium.com/membership)*
 
-*[](https://ahmedbesbes.medium.com/membership)  ![](img/c0c5fae2f30ffd8ce2db9eacfb0c940c.png)
+*<https://ahmedbesbes.medium.com/membership>  ![](img/c0c5fae2f30ffd8ce2db9eacfb0c940c.png)
 
 由 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上的 [Karsten Winegeart](https://unsplash.com/@karsten116?utm_source=medium&utm_medium=referral) 拍摄*

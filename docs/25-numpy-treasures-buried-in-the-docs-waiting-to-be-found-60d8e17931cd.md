@@ -16,11 +16,11 @@
 
 这个月，是时候扭转乾坤，成为一名忍者了。一路上我都在说“为什么我不把别人也做了呢？”。因此，我在这里列出了一些最酷但罕见的 NumPy 函数，当使用它们时，肯定会让任何阅读您的代码的人大吃一惊。
 
-[](https://ibexorigin.medium.com/membership)  
+<https://ibexorigin.medium.com/membership>  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex)  
+<https://alphasignal.ai/?referrer=Bex>  
 
 # 1️⃣.np.full_like
 
@@ -258,8 +258,8 @@ NumPy 的`random`模块有很多伪随机数发生器可供选择。除了我最
 
 好吧，我在介绍中撒了点谎。我并不真正钦佩那些很好地使用 NumPy 的人。其实我很佩服任何比我更会用某个库或者工具的人。所以，我写的每一篇文章都是我试图推动自己，看看使用更有经验的人如此精心利用的东西是什么感觉。
 
-[](https://ibexorigin.medium.com/membership)  [](https://ibexorigin.medium.com/subscribe)  
+<https://ibexorigin.medium.com/membership>  <https://ibexorigin.medium.com/subscribe>  
 
 ## 在你离开之前——我的读者喜欢这些。你为什么不去看看？
 
-[](https://ibexorigin.medium.com/28-subtle-weekly-machine-learning-tricks-and-gem-resources-5-177f95be31c4)  [](/20-python-gems-buried-in-the-installation-waiting-to-be-found-96034cad4d15)  [](/comprehensive-tutorial-on-using-confusion-matrix-in-classification-92be4d70ea18)  [](/one-stop-tutorial-on-all-cross-validation-techniques-you-can-should-use-7e1645fb703c) 
+<https://ibexorigin.medium.com/28-subtle-weekly-machine-learning-tricks-and-gem-resources-5-177f95be31c4>  </20-python-gems-buried-in-the-installation-waiting-to-be-found-96034cad4d15>  </comprehensive-tutorial-on-using-confusion-matrix-in-classification-92be4d70ea18>  </one-stop-tutorial-on-all-cross-validation-techniques-you-can-should-use-7e1645fb703c> 

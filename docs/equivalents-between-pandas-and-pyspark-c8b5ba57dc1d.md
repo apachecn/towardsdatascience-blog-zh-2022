@@ -404,4 +404,4 @@ df.withColumn('new_salary', F.udf(lambda x: x*1.15 if x<= 60000 else x*1.05, Flo
 
 如果您有兴趣了解关于 scikit-learn 的更多信息，请查看以下文章:
 
-[](/4-scikit-learn-tools-every-data-scientist-should-use-4ee942958d9e)  [](/5-hyperparameter-optimization-methods-you-should-use-521e47d7feb0) 
+</4-scikit-learn-tools-every-data-scientist-should-use-4ee942958d9e>  </5-hyperparameter-optimization-methods-you-should-use-521e47d7feb0> 

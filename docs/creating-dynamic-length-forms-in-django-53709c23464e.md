@@ -12,7 +12,7 @@
 
 该应用程序主要是使用 Django 和 HTML 模板构建的。我使用了[维基百科 API](https://pypi.org/project/Wikipedia-API/) 来收集数据。最终输出可以在这里找到和[源代码](https://github.com/prakharrathi25/wikipedia-translator)在我的 GitHub 上。
 
-[](https://github.com/prakharrathi25/wikipedia-translator)  
+<https://github.com/prakharrathi25/wikipedia-translator>  
 
 下面，我还展示了应用程序的工作原理。输入搜索词后，API 抓取结果并显示在页面上。
 
@@ -54,6 +54,6 @@
 
 这不应该是一篇精心设计的文章。目的是分享一种解决 Django 论坛上经常提出的问题的新方法。希望这在将来能派上用场。
 
-[](/creating-multipage-applications-using-streamlit-efficiently-b58a58134030) [## 使用 Streamlit 创建多页面应用程序(高效！)
+</creating-multipage-applications-using-streamlit-efficiently-b58a58134030> [## 使用 Streamlit 创建多页面应用程序(高效！)
 
-towardsdatascience.com](/creating-multipage-applications-using-streamlit-efficiently-b58a58134030) [](https://levelup.gitconnected.com/5-new-features-in-python-3-11-that-makes-it-the-coolest-new-release-in-2022-c9df658ef813) 
+towardsdatascience.com](/creating-multipage-applications-using-streamlit-efficiently-b58a58134030) <https://levelup.gitconnected.com/5-new-features-in-python-3-11-that-makes-it-the-coolest-new-release-in-2022-c9df658ef813> 

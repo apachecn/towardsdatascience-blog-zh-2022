@@ -71,7 +71,7 @@
 
 *深度知觉的重要性及其古老起源*；*视差的定义*；*深度线索的概念以及人类如何自然感知* ( ***提示:*** 两只【立体】眼睛)；*视差和深度之间的关系，以及如何从一个空间变换到另一个空间在两个*(即，左和右)*图像中提供了相应的像素；在*之前假设了什么参数和条件(即，获得内部和外部参数，以及校正的立体图像对)。
 
-[](/how-computers-see-depth-deep-learning-based-methods-368581b244ed)  
+</how-computers-see-depth-deep-learning-based-methods-368581b244ed>  
 
 ## 深度监督学习
 
@@ -173,7 +173,7 @@
 
 **[https://arxiv.org/abs/1510.05970](https://arxiv.org/abs/1510.05970)**
 
-**[](https://github.com/jzbontar/mc-cnn)  
+**<https://github.com/jzbontar/mc-cnn>  
 
 # 流动网络
 
@@ -246,7 +246,7 @@ FlowNet 的缺点包括:
 
 ## 纸张和代码
 
-[](https://github.com/ClementPinard/FlowNetTorch)  
+<https://github.com/ClementPinard/FlowNetTorch>  
 
 # iResNet
 
@@ -334,7 +334,7 @@ FlowNet 的缺点包括:
 
 ## 纸张和代码
 
-[](https://github.com/leonzfa/iResNet)  
+<https://github.com/leonzfa/iResNet>  
 
 # 几何和上下文网络
 
@@ -449,7 +449,7 @@ FlowNet 的缺点包括:
 
 链接到论文[ [arXiv](https://arxiv.org/abs/1703.04309) ]。
 
-[](https://github.com/zyf12389/GC-Net)  
+<https://github.com/zyf12389/GC-Net>  
 
 # 金字塔立体匹配网络(PSMN)
 
@@ -581,7 +581,7 @@ FlowNet 的缺点包括:
 
 ## 纸张和代码
 
-[](https://github.com/JiaRenChang/PSMNet)  
+<https://github.com/JiaRenChang/PSMNet>  
 
 # ModuleNet
 
@@ -706,7 +706,7 @@ U-Net 块由函数 F₁: F₁表示，对噪声普查距离图进行正则化。
 
 ## 纸张和代码
 
-[](https://github.com/feihuzhang/GANet)  
+<https://github.com/feihuzhang/GANet>  
 
 # 讨论
 
@@ -732,11 +732,11 @@ U-Net 块由函数 F₁: F₁表示，对噪声普查距离图进行正则化。
 
 PSM 网络是使用 PyTorch Lightning 实现的。
 
-[](https://pythonrepo.com/repo/xtliu97-PSMNet_PytorchLightning-python-deep-learning)  
+<https://pythonrepo.com/repo/xtliu97-PSMNet_PytorchLightning-python-deep-learning>  
 
 查看 FlowNet 上的深度博客:
 
-[](/a-brief-review-of-flownet-dca6bd574de0)  
+</a-brief-review-of-flownet-dca6bd574de0>  
 
 GA-Net:Youtube 上端到端立体匹配的引导聚合网络。
 

@@ -16,7 +16,7 @@
 
 创建梯度增强估计器时，您会发现这个超参数`n_estimator=100`的默认值为 100 棵树，需要创建这些树才能得到结果。很多时候，我们只是将它设置为默认值，或者根据需要增加，甚至使用网格搜索技术。
 
-[](/grid-search-or-random-search-for-model-tuning-f09edab6aaa3)  
+</grid-search-or-random-search-for-model-tuning-f09edab6aaa3>  
 
 在这篇文章中，我们将找到一个简单的方法来得到一个单一的数字来训练我们的模型。
 
@@ -172,7 +172,7 @@ print(f'Data y mean: {round( y.mean(),1 )}')**[OUT]: Data y mean: 15.8**
 
 如果你喜欢这个内容，请关注我的博客。
 
-[](http://gustavorsantos.medium.com/)  
+<http://gustavorsantos.medium.com/>  
 
 在 [LinkedIn](https://www.linkedin.com/in/gurezende/) 上找到我。
 
@@ -180,4 +180,4 @@ print(f'Data y mean: {round( y.mean(),1 )}')**[OUT]: Data y mean: 15.8**
 
 # 参考
 
-[](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html)  [](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975/ref=pd_lpo_2?pd_rd_w=DBmLe&content-id=amzn1.sym.116f529c-aa4d-4763-b2b6-4d614ec7dc00&pf_rd_p=116f529c-aa4d-4763-b2b6-4d614ec7dc00&pf_rd_r=81QQEFQYR0K7ZTFRHMJD&pd_rd_wg=iPGdg&pd_rd_r=1b48e671-181a-44bc-8d3b-7b6384e9edcd&pd_rd_i=1098125975&psc=1) 
+<https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html>  <https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975/ref=pd_lpo_2?pd_rd_w=DBmLe&content-id=amzn1.sym.116f529c-aa4d-4763-b2b6-4d614ec7dc00&pf_rd_p=116f529c-aa4d-4763-b2b6-4d614ec7dc00&pf_rd_r=81QQEFQYR0K7ZTFRHMJD&pd_rd_wg=iPGdg&pd_rd_r=1b48e671-181a-44bc-8d3b-7b6384e9edcd&pd_rd_i=1098125975&psc=1> 

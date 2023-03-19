@@ -214,11 +214,11 @@ class* NonDataDescriptor:
 
 在这篇文章中，我们学习了 Python 描述符以及如何使用它们。有关更多细节和示例，请务必查看下面的参考资料。
 
-[](https://eminik355.medium.com/subscribe)  
+<https://eminik355.medium.com/subscribe>  
 
 **出自同一作者。**
 
-[](/why-you-should-use-context-managers-in-python-4f10fe231206)  [](/how-not-to-use-python-lists-d06cbe8e593)  [](https://medium.com/analytics-vidhya/multi-armed-bandits-part-1-epsilon-greedy-algorithm-with-python-code-534b9e2abc9)  [](/going-bayesian-testing-rate-metrics-82e872b79175)  
+</why-you-should-use-context-managers-in-python-4f10fe231206>  </how-not-to-use-python-lists-d06cbe8e593>  <https://medium.com/analytics-vidhya/multi-armed-bandits-part-1-epsilon-greedy-algorithm-with-python-code-534b9e2abc9>  </going-bayesian-testing-rate-metrics-82e872b79175>  
 
 # 参考
 

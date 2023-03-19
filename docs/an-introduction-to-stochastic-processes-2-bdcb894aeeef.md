@@ -316,7 +316,7 @@ Radon-Nikodym 导数实际上是两个度量的比值，与实分析中的“导
 
 *[5] [维纳测度](https://planetmath.org/wienermeasure) (2013)。2022 年 7 月 5 日访问。*
 
-*[6]ksen dal，B. (2003 年)。[](https://link.springer.com/chapter/10.1007/978-3-642-14394-6_5?noAccess=true)*随机微分方程。在*随机微分方程*(第 65–84 页)。斯普林格，柏林，海德堡。**
+*[6]ksen dal，B. (2003 年)。<https://link.springer.com/chapter/10.1007/978-3-642-14394-6_5?noAccess=true>*随机微分方程。在*随机微分方程*(第 65–84 页)。斯普林格，柏林，海德堡。**
 
 **[7]谢尔·多克萨姆。(2008). [Radon-Nikodym 衍生物](https://pages.stat.wisc.edu/~doksum/STAT709/n709-5.pdf)。于 2022 年 7 月 9 日访问。**
 

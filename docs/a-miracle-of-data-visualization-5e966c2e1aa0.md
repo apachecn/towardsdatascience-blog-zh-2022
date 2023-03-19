@@ -10,7 +10,7 @@
 
 图片来源:[https://unsplash.com/photos/JKUTrJ4vK00?utm_source=unsplash&UTM _ medium = referral&UTM _ content = creditShareLink](https://unsplash.com/photos/JKUTrJ4vK00?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 
-选择正确的分析工作结果直接影响管理和决策的质量。A17 技术公司的创始人兼首席执行官**[](https://a17.company/)****Andrew Bush 在本文中揭示了为什么数据可视化错误会让您的公司损失惨重，以及如何避免重大损失。******
+选择正确的分析工作结果直接影响管理和决策的质量。A17 技术公司的创始人兼首席执行官**<https://a17.company/>****Andrew Bush 在本文中揭示了为什么数据可视化错误会让您的公司损失惨重，以及如何避免重大损失。******
 
 ******无论你公司的分析团队有多熟练，或者他们的数据和算法有多完整，结果都可能不令人满意。通常，这是由于对工作的不正确的视觉化，而这正是董事、投资者和股东们决策的基础。******
 

@@ -18,7 +18,7 @@
 
 为了确定最佳采样率，我们需要建立一个机器学习管道。许多数据爱好者更喜欢 scikit-learn 的管道，因为它提供了一种建立机器学习管道的简单方法。然而，欠采样和过采样不能使用常规 sklearn 流水线来完成，因为采样将在*拟合*和*变换*方法期间发生。这可以通过不平衡学习(imblearn)库实现的[管道类来弥补。imblearn 的流水线确保重采样只发生在*拟合*方法期间。](https://imbalanced-learn.org/stable/references/generated/imblearn.pipeline.Pipeline.html)
 
-[](https://imbalanced-learn.org/stable/references/generated/imblearn.pipeline.Pipeline.html)  
+<https://imbalanced-learn.org/stable/references/generated/imblearn.pipeline.Pipeline.html>  
 
 首先，我们将加载数据。然后，从数据中获取特征和标签，并创建训练测试分割，因此测试分割可用于评估使用训练分割训练的模型的性能。
 
@@ -52,7 +52,7 @@
 
 这篇文章的工作原理可以在这里找到。
 
-[](https://github.com/Vaseekaran-V/HP_Tuning_Sampling_Strategy) [## GitHub-Vaseekaran-V/HP _ Tuning _ Sampling _ Strategy:Repo 使用超参数调优来查找…
+<https://github.com/Vaseekaran-V/HP_Tuning_Sampling_Strategy> [## GitHub-Vaseekaran-V/HP _ Tuning _ Sampling _ Strategy:Repo 使用超参数调优来查找…
 
 github.com](https://github.com/Vaseekaran-V/HP_Tuning_Sampling_Strategy) 
 

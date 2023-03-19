@@ -98,11 +98,11 @@
 
 The above tutorial on regular expressions is non-exhaustive and there are several other regular expression use cases and rules, and I will leave this to your exploration. I have also collated some good resources for further learning here:
 
-[](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)  [](/a-simple-and-intuitive-guide-to-regular-expressions-404b057b1081)    [](https://stackoverflow.com/questions/2973436/regex-lookahead-lookbehind-and-atomic-groups)  
+<https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285>  </a-simple-and-intuitive-guide-to-regular-expressions-404b057b1081>    <https://stackoverflow.com/questions/2973436/regex-lookahead-lookbehind-and-atomic-groups>  
 
 There are also a couple of handy websites to easily test out regex on text strings. One of my favorite is this:
 
-[](https://regex101.com/)  
+<https://regex101.com/>  
 
 # 3\. The NLTK Regex Tokenizer
 
@@ -146,4 +146,4 @@ Screenshot from [。图片作者。](https://regex101.com/)
 > 
 > ***支持我！*** —如果你*没有*订阅 Medium，并且喜欢我的内容，请考虑通过我的[推荐链接](https://tanpengshi.medium.com/membership)加入 Medium 来支持我。
 
-[](https://tanpengshi.medium.com/membership) 
+<https://tanpengshi.medium.com/membership> 

@@ -377,11 +377,11 @@ git push -u origin main
 
 在收集了必要的文件和 Github repo 之后，我们现在可以创建一个 Heroku 帐户了。导航到 Heroku 的主要网站创建帐户。
 
-[](https://www.heroku.com/)  
+<https://www.heroku.com/>  
 
 创建帐户后，安装 Heroku CLI:
 
-[](https://devcenter.heroku.com/articles/heroku-cli)  
+<https://devcenter.heroku.com/articles/heroku-cli>  
 
 ## 部署到 Heroku
 
@@ -407,7 +407,7 @@ git push heroku main
 
 另外，请随意查看我的其他一些有趣的帖子:
 
-[](https://medium.datadriveninvestor.com/beginners-guide-to-web-scraping-using-beautifulsoup-and-python-999a927f20e6)  [](/beginners-guide-to-regular-expressions-in-python-d16d2fa31587)  [](/top-nlp-books-to-read-2020-12012ef41dc1)  [](/top-nlp-libraries-to-use-2020-4f700cdb841f)  [](/deepstyle-f8557ab9e7b)  
+<https://medium.datadriveninvestor.com/beginners-guide-to-web-scraping-using-beautifulsoup-and-python-999a927f20e6>  </beginners-guide-to-regular-expressions-in-python-d16d2fa31587>  </top-nlp-books-to-read-2020-12012ef41dc1>  </top-nlp-libraries-to-use-2020-4f700cdb841f>  </deepstyle-f8557ab9e7b>  
 
 # 参考
 

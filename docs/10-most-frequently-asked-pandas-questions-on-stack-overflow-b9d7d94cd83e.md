@@ -273,7 +273,7 @@ df.dropna()
 
 默认情况下，至少有 1 个任务值的行将被删除。我们可以使用 subset、how 和 thresh 参数来定制这种行为。这里有一篇关于如何处理熊猫数据帧中缺失值的更详细的文章。
 
-[](/8-methods-for-handling-missing-values-with-python-pandas-842544cdf891)  
+</8-methods-for-handling-missing-values-with-python-pandas-842544cdf891>  
 
 ## 10.从 Pandas DataFrame 列标题获取列表
 

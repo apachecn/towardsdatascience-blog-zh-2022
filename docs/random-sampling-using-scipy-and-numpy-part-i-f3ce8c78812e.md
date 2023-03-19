@@ -54,7 +54,7 @@
 
 让我们想当然地认为，我们有这样一个 PRNG，它产生这些随机数，这些随机数来自均匀分布。如果你对这些数字究竟是如何产生的感到好奇，那么我已经在这里写了一个解释器，但是对于这篇文章来说，说这样一个过程存在就足够了。
 
-[](/where-does-python-get-its-random-numbers-from-81dece23b712) 。事实证明，如果我们:
+</where-does-python-get-its-random-numbers-from-81dece23b712> 。事实证明，如果我们:
 
 *   从连续的概率分布中抽取一批数字
 *   获取所有这些样本的 cdf 值
@@ -138,6 +138,6 @@ func_ppf = interp1d(my_cdf, xs, fill_value='extrapolate')
 
 记住这一点，[让我们继续第二部分](/random-sampling-with-scipy-and-numpy-part-ii-234c2385828a)，开始挖掘 SciPy 和 NumPy 代码库。
 
-[](/random-sampling-with-scipy-and-numpy-part-ii-234c2385828a) [## 用 SciPy 和 NumPy 随机抽样第二部分
+</random-sampling-with-scipy-and-numpy-part-ii-234c2385828a> [## 用 SciPy 和 NumPy 随机抽样第二部分
 
 towardsdatascience.com](/random-sampling-with-scipy-and-numpy-part-ii-234c2385828a)

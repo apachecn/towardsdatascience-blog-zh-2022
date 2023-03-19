@@ -152,4 +152,4 @@
 
 ****有兴趣了解如何像对待产品一样对待您的数据系统吗？伸出手去** [**巴尔**](https://www.linkedin.com/in/barrmoses/)**[**蒙特卡洛**](https://www.montecarlodata.com/request-a-demo/) **车队！******
 
-****[](https://www.linkedin.com/in/meitao/)**[*萨拉盖茨*](https://www.linkedin.com/in/skgates/) *对本文有贡献。*******
+****<https://www.linkedin.com/in/meitao/>**[*萨拉盖茨*](https://www.linkedin.com/in/skgates/) *对本文有贡献。*******

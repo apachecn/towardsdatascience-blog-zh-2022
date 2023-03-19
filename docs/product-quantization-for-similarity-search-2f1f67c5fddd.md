@@ -148,7 +148,7 @@ PQ 码，向量的压缩表示
 
 由于产品量化本身并不是非常大规模搜索的最有效方法，我们将在下一篇文章中看到如何实现更快的非穷举搜索方法。点击下面的链接了解更多信息。
 
-[](/similarity-search-with-ivfpq-9c6348fd4db3)  
+</similarity-search-with-ivfpq-9c6348fd4db3>  
 
 # 参考
 
@@ -166,7 +166,7 @@ PQ 码，向量的压缩表示
 
 有兴趣阅读我的其他数据科学文章吗？查看以下内容:
 
-[](/transformers-can-you-rate-the-complexity-of-reading-passages-17c76da3403)  [](/advanced-techniques-for-fine-tuning-transformers-82e4e61e16e)  [](https://pub.towardsai.net/building-a-product-recommendation-engine-with-aws-sagemaker-321a0e7c7f7b)  [](/aws-certified-machine-learning-specialty-97eacbd1a0fe)  ![Peggy Chang](img/9e4c26496eb3cca6b350330838259487.png)
+</transformers-can-you-rate-the-complexity-of-reading-passages-17c76da3403>  </advanced-techniques-for-fine-tuning-transformers-82e4e61e16e>  <https://pub.towardsai.net/building-a-product-recommendation-engine-with-aws-sagemaker-321a0e7c7f7b>  </aws-certified-machine-learning-specialty-97eacbd1a0fe>  ![Peggy Chang](img/9e4c26496eb3cca6b350330838259487.png)
 
 [张佩琦](https://peggy1502.medium.com/?source=post_page-----2f1f67c5fddd--------------------------------)
 

@@ -250,7 +250,7 @@ plt.ylabel("Partial $R^2$ of ability with wage");
 
 **你可以在这里找到 Jupyter 的原始笔记本:**
 
-**[](https://github.com/matteocourthoud/Blog-Posts/blob/main/notebooks/ovb.ipynb) ** 
+**<https://github.com/matteocourthoud/Blog-Posts/blob/main/notebooks/ovb.ipynb> ** 
 
 ## **感谢您的阅读！**
 

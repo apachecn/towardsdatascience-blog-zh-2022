@@ -48,7 +48,7 @@ pkg> build PyCall
 
 现在我们已经在机器上安装了 PyCall，让我们实际开始使用这个包。对于接下来的部分，我将在一个小示例笔记本上工作。这里有一个 Github 上的笔记本链接，如果你想自己尝试这段代码的话:
 
-[](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/pycall%20basic%20examples.ipynb)  
+<https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/pycall%20basic%20examples.ipynb>  
 
 ## 执行 Python
 

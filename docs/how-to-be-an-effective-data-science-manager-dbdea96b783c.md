@@ -165,10 +165,10 @@ B 成为一名高效的数据科学经理并不容易，但这是可以实现的
 
 **如果你喜欢这篇文章，并希望看到更多的内容，请考虑加入媒体会员，使用下面的链接来支持我和其他作者:**
 
-[](https://albertsuryadi.medium.com/membership)  
+<https://albertsuryadi.medium.com/membership>  
 
 另外，看看我下面的其他媒体文章:
 
-[](/how-to-solve-data-science-problems-faster-14c962edaf27)  [](/data-scientist-vs-data-engineer-f7345a3d0412)  [](https://albertsuryadi.medium.com/an-executive-guide-to-drive-real-value-out-of-your-data-4e260e3a9100)  
+</how-to-solve-data-science-problems-faster-14c962edaf27>  </data-scientist-vs-data-engineer-f7345a3d0412>  <https://albertsuryadi.medium.com/an-executive-guide-to-drive-real-value-out-of-your-data-4e260e3a9100>  
 
 **关于作者:** [*阿尔伯特·苏亚迪*](https://www.linkedin.com/in/albertsuryadi/) *是为前瞻性组织提供高级分析和数据科学能力的公认领导者。他被公认为分析团队(实践社区)的领导者，该团队授权并激励他人超越现状。*

@@ -102,7 +102,7 @@ if output_word == ‘i’:
 
 **jupyter 笔记本的完整代码可以在我的 [GitHub](https://github.com/PetrKorab/Training-Neural-Networks-to-Create-Text-Like-a-Human) 上找到。**
 
-***PS:你可以订阅我的* [*邮件列表*](https://medium.com/subscribe/@petrkorab) *在我每次写新文章的时候得到通知。如果你还不是中等会员，你可以在这里加入*[](https://medium.com/@petrkorab/membership)**。****
+***PS:你可以订阅我的* [*邮件列表*](https://medium.com/subscribe/@petrkorab) *在我每次写新文章的时候得到通知。如果你还不是中等会员，你可以在这里加入*<https://medium.com/@petrkorab/membership>**。****
 
 ******免责声明:*** *本文使用的数据仅作为 TensorFlow 中教学文本生成的训练示例，适合这种特定的深度学习应用。作者不同意在生产中使用生成的数据，或者暗示任何不道德或法律禁止的行为。****
 

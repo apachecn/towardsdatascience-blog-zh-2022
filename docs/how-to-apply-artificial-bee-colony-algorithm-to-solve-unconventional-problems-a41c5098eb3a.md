@@ -256,6 +256,6 @@ X/Y 轴上的数字显示了燃烧的总段数。如果燃烧段的总数显示�
 
 # 参考
 
-[1]卡拉博加，德尔维斯。“人工蜂群算法。”[](http://www.scholarpedia.org/article/Artificial_bee_colony_algorithm)*2010 年第 5 期第 3 期:6915。*
+[1]卡拉博加，德尔维斯。“人工蜂群算法。”<http://www.scholarpedia.org/article/Artificial_bee_colony_algorithm>*2010 年第 5 期第 3 期:6915。*
 
 *[2]拉姆，纳雷什。“实现人工蜂群算法解决商业问题”，《走向数据科学》，[https://towardsdatascience.com](https://towardsdatascience.com/)，(2022 年 3 月)。*

@@ -36,7 +36,7 @@
 
 事实上，用于预测物理或化学性质的 ML 已经存在了几十年，尤其是使用相当简单的神经网络。举例来说，看看早期计算分子核磁共振化学位移的程序，或者其中记载的几个应用程序(顺便说一句，太棒了，我家里就有！)1999 年的书:
 
-[](https://www.amazon.com/Neural-Networks-Chemistry-Drug-Design/dp/3527297790)  
+<https://www.amazon.com/Neural-Networks-Chemistry-Drug-Design/dp/3527297790>  
 
 当然，我们现在有更好的网络架构、激活功能和训练方法；同样重要的是，现在的数据库比 23 年前这本书出版时大了几个数量级，也更容易访问。所有这些方面都将在本文的其他部分讨论。
 
@@ -86,7 +86,7 @@
 
 原来产生势能的 ML 模型也能提供力，因为作用在原子上的力是能量面沿空间维度的梯度。有一个新兴的领域利用这一点来产生新的力场，其运行速度接近经典计算的速度，但几乎和量子计算一样精确。这里有一个最著名的例子:
 
-[](https://pubs.rsc.org/en/content/articlelanding/2017/sc/c6sc05720a)  
+<https://pubs.rsc.org/en/content/articlelanding/2017/sc/c6sc05720a>  
 
 *   **集成机器学习模型:超越局部势的电子结构精度**
 
@@ -104,7 +104,7 @@
 
 密度泛函是量子计算的一个重要部分，ML 现在正在影响他们的计算。我最近讨论了甚至谷歌和 Deepmind 都在处理的工作:
 
-[](/google-proposes-new-method-to-derive-analytical-expressions-for-terms-in-quantum-mechanics-d70fff6e1ef2)  [](/deepmind-strikes-back-now-tackling-quantum-mechanical-calculations-e1cae792e5d0)  
+</google-proposes-new-method-to-derive-analytical-expressions-for-terms-in-quantum-mechanics-d70fff6e1ef2>  </deepmind-strikes-back-now-tackling-quantum-mechanical-calculations-e1cae792e5d0>  
 
 *   **机器学习 Kohn–伪交换–相关电位**
 
@@ -166,7 +166,7 @@
 
 透明性直接关系到这样一个事实，即在科学中，当一个预测性的数学定律被公式化时，一个现象被认为是完全可以理解的，至少在一个给定的应用领域中原则上可以毫无例外地工作，这就是 ML 通过符号回归可以提供最大帮助的地方。此外，这样的定律通常被认为是相对简单的，因此我们可以将它与基础物理或化学联系起来。我在本文中讨论了一些这样的例子:
 
-[](/real-world-applications-of-symbolic-regression-2025d17b88ef)  
+</real-world-applications-of-symbolic-regression-2025d17b88ef>  
 
 另一个方面，可解释性，指的是至少检查一个模型的可能性，该模型通常太复杂而不能被人脑理解(作为一个“黑盒”)来研究，并理想地揭示输入和输出在其中是如何连接的，例如通过测试哪些输入在更大程度上影响输出。
 
@@ -180,10 +180,10 @@
 
 这里是我之前的两篇关于 ML 在量子力学计算中的应用的文章:
 
-[](/google-proposes-new-method-to-derive-analytical-expressions-for-terms-in-quantum-mechanics-d70fff6e1ef2)  [](/deepmind-strikes-back-now-tackling-quantum-mechanical-calculations-e1cae792e5d0)  
+</google-proposes-new-method-to-derive-analytical-expressions-for-terms-in-quantum-mechanics-d70fff6e1ef2>  </deepmind-strikes-back-now-tackling-quantum-mechanical-calculations-e1cae792e5d0>  
 
 这里是我关于 AlphaFold 和 ML 应用于蛋白质结构预测和蛋白质设计的关键文章:
 
-[](/whats-up-after-alphafold-on-ml-for-structural-biology-7bb9758925b8)  [](https://lucianosphere.medium.com/guide-to-my-blog-articles-on-alphafold-39c10a7dad7f)  [](/new-deep-learned-tool-designs-novel-proteins-with-high-accuracy-41ae2a7d23d8)  
+</whats-up-after-alphafold-on-ml-for-structural-biology-7bb9758925b8>  <https://lucianosphere.medium.com/guide-to-my-blog-articles-on-alphafold-39c10a7dad7f>  </new-deep-learned-tool-designs-novel-proteins-with-high-accuracy-41ae2a7d23d8>  
 
 www.lucianoabriata.com*我写作并拍摄我广泛兴趣范围内的一切事物:自然、科学、技术、编程等等。* [***成为媒介会员***](https://lucianosphere.medium.com/membership) *访问其所有故事(我免费获得小额收入的平台的附属链接)和* [***订阅获取我的新故事***](https://lucianosphere.medium.com/subscribe) ***通过电子邮件*** *。到* ***咨询关于小职位*** *查看我的* [***服务页面这里***](https://lucianoabriata.altervista.org/services/index.html) *。你可以* [***这里联系我***](https://lucianoabriata.altervista.org/office/contact.html) ***。***

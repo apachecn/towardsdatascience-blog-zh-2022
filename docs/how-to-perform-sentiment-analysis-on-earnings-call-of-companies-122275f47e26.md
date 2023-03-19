@@ -14,7 +14,7 @@
 
 在本文中，我们将借助 Python 脚本和 AssemblyAI 平台部署一个项目，对公司的收益电话进行情绪分析。如果观众不熟悉类似的 NLP 任务，我建议通过下面提供的链接查看我以前的一篇文章，这篇文章介绍了部署优化的语音到文本 web 应用程序的概念。
 
-[](/how-to-deploy-your-own-optimized-speech-to-text-web-app-with-python-c956c7838ec8)  
+</how-to-deploy-your-own-optimized-speech-to-text-web-app-with-python-c956c7838ec8>  
 
 # 公司盈利预测情绪分析项目:
 
@@ -272,12 +272,12 @@ fig = px.scatter(sar, y='sentiment', color='sentiment', size='confidence', hover
 
 如果你想在我的文章发表后第一时间得到通知，请点击下面的[链接](https://bharath-k1297.medium.com/subscribe)订阅邮件推荐。如果你希望支持其他作者和我，请订阅下面的链接。
 
-[](https://bharath-k1297.medium.com/membership)  
+<https://bharath-k1297.medium.com/membership>  
 
 如果你对这篇文章中提到的各点有任何疑问，请在下面的评论中告诉我。我会尽快给你回复。
 
 看看我的一些与本文主题相关的文章，你可能也会喜欢阅读！
 
-[](/develop-your-weather-application-with-python-in-less-than-10-lines-6d092c6dcbc9)  [](/develop-your-own-calendar-to-track-important-dates-with-python-c1af9e98ffc3)  [](/complete-python-starter-guide-for-data-science-for-2022-c1f880fa249d)  
+</develop-your-weather-application-with-python-in-less-than-10-lines-6d092c6dcbc9>  </develop-your-own-calendar-to-track-important-dates-with-python-c1af9e98ffc3>  </complete-python-starter-guide-for-data-science-for-2022-c1f880fa249d>  
 
 谢谢你们坚持到最后。我希望你们都喜欢这篇文章。祝大家有美好的一天！

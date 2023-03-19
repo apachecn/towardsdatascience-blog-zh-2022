@@ -114,4 +114,4 @@
 
 **欢迎您来到**加入我的数据科学学习之旅！**关注我的 [Medium](https://kennethleungty.medium.com/) 页面，查看我的 [GitHub](https://github.com/kennethleungty) ，了解更多精彩的教育数据科学内容。同时，祝你谷歌搜索愉快！**
 
-**[](/micro-macro-weighted-averages-of-f1-score-clearly-explained-b603420b292f)  [](/end-to-end-automl-train-and-serve-with-h2o-mlflow-fastapi-and-streamlit-5d36eedfe606)  [](/key-learning-points-from-mlops-specialization-course-deeplearning-ai-andrew-ng-5d0746605752) **
+**</micro-macro-weighted-averages-of-f1-score-clearly-explained-b603420b292f>  </end-to-end-automl-train-and-serve-with-h2o-mlflow-fastapi-and-streamlit-5d36eedfe606>  </key-learning-points-from-mlops-specialization-course-deeplearning-ai-andrew-ng-5d0746605752> **

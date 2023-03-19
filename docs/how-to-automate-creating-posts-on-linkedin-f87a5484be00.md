@@ -207,4 +207,4 @@ POST [https://api.linkedin.com/v2/ugcPosts](https://api.linkedin.com/v2/ugcPosts
 *   [登录 LinkedIn](https://docs.microsoft.com/en-us/linkedin/consumer/integrations/self-serve/sign-in-with-linkedin)
 *   [在 LinkedIn 上分享](https://docs.microsoft.com/en-us/linkedin/consumer/integrations/self-serve/share-on-linkedin?context=linkedin/consumer/context)
 
-[](https://ezzeddinabdullah.medium.com/membership) 
+<https://ezzeddinabdullah.medium.com/membership> 

@@ -49,6 +49,6 @@ Python 中的四种基本数据类型是:
 *   它用于在单个变量中存储多个值。
 *   元组创建后不能修改。它也是有序的，这意味着值具有预定义的顺序。
 
-*如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！此外，媒体允许你每月免费阅读三篇文章***。如果你想让***无限制地访问我的文章和数以千计的精彩文章，不要犹豫，通过点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$ ***5*** 获得会员资格***
+*如果你喜欢我的作品，请在这里订阅*<https://medium.com/subscribe/@niklas_lang>**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！此外，媒体允许你每月免费阅读三篇文章***。如果你想让***无限制地访问我的文章和数以千计的精彩文章，不要犹豫，通过点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$ ***5*** 获得会员资格***
 
-**[](/an-introduction-to-tensorflow-fa5b17051f6b)  [](/why-do-we-use-xml-in-data-science-99a730c46adb)  [](/redis-in-memory-data-store-easily-explained-3b92457be424) **
+**</an-introduction-to-tensorflow-fa5b17051f6b>  </why-do-we-use-xml-in-data-science-99a730c46adb>  </redis-in-memory-data-store-easily-explained-3b92457be424> **

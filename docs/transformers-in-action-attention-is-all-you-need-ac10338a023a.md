@@ -69,7 +69,7 @@
 
 > **如果你觉得注意力机制处于未知领域，我推荐你阅读下面这篇文章:**
 
-**[](/rethinking-thinking-how-do-attention-mechanisms-actually-work-a6f67d313f99) ** 
+**</rethinking-thinking-how-do-attention-mechanisms-actually-work-a6f67d313f99> ** 
 
 # **3.变压器架构**
 
@@ -323,7 +323,7 @@
 
 *****你也可以在 [TransformerX Discord 服务器](https://discord.gg/7BF9KUnBNT)和 [Twitter](https://twitter.com/tensorops) 上加入我们，我们会保持联系。*****
 
-*****[](https://www.linkedin.com/in/soran-ghaderi/) ***** 
+*****<https://www.linkedin.com/in/soran-ghaderi/> ***** 
 
 # *****9.参考*****
 

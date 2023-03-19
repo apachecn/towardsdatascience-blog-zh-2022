@@ -64,7 +64,7 @@ GAN 中鉴别器的工作是确定图像是真是假。我们给鉴别者真实�
 
 由于我使用了创建 deepfake 图像的 GANs，鉴别器和生成器网络是**卷积神经网络(CNN)。**阅读下面关于 CNN 的更多信息！
 
-[](/convolutional-neural-networks-from-an-everyday-understanding-to-a-more-technical-deep-dive-83af329e5d89)  
+</convolutional-neural-networks-from-an-everyday-understanding-to-a-more-technical-deep-dive-83af329e5d89>  
 
 鉴别器是典型的 CNN，而发生器是一个 transpose CNN，它会随着时间的推移进行上采样并创建 deepfake 图像。我使用的 GAN 的变体是深度卷积 GAN (DCGAN)(在此了解更多关于此变体的信息)、条件化 DCGAN (cDCGAN)、Wasserstein GAN (WGAN)(在此了解更多关于此变体的信息)和条件化 WGAN (cWGAN)。
 

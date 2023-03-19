@@ -22,7 +22,7 @@
 
 本教程中使用的笔记本可以从我的 GitHub 资源库下载，链接如下:
 
-[](https://github.com/andymcdgeo/ExploratoryDataAnalysis_YT)  
+<https://github.com/andymcdgeo/ExploratoryDataAnalysis_YT>  
 
 # 什么是探索性数据分析(EDA)？
 

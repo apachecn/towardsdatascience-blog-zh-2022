@@ -65,4 +65,4 @@ ExtraTrees 可用于构建分类模型或回归模型，可通过 Scikit-learn �
 
 # 参考
 
-  [](https://machinelearningmastery.com/extra-trees-ensemble-with-python/)  [](https://stats.stackexchange.com/questions/175523/difference-between-random-forest-and-extremely-randomized-trees) 
+  <https://machinelearningmastery.com/extra-trees-ensemble-with-python/>  <https://stats.stackexchange.com/questions/175523/difference-between-random-forest-and-extremely-randomized-trees> 

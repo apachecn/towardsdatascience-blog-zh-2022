@@ -12,7 +12,7 @@
 
 在我之前的文章中，我们讨论并推导了指数分布，你可以在这里查看:
 
-[](/exponential-distribution-simply-explained-349d05b1bdb8)  
+</exponential-distribution-simply-explained-349d05b1bdb8>  
 
 简而言之，**指数分布计算泊松过程中事件之间等待时间的概率。**
 
@@ -120,6 +120,6 @@ plt.show()**
 *   **[*领英*](https://www.linkedin.com/in/egor-howell-092a721b3/) 👔**
 *   **[*碎碎念*](https://twitter.com/EgorHowell) 🖊**
 *   **[*github*](https://github.com/egorhowell)*🖥***
-*   ***[](https://www.kaggle.com/egorphysics)**🏅*****
+*   ***<https://www.kaggle.com/egorphysics>**🏅*****
 
 > ***(所有表情符号由 [OpenMoji](https://openmoji.org/) 设计——开源表情符号和图标项目。许可证: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)***

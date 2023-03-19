@@ -56,7 +56,7 @@ Python ***leafmap*** 包是一个相对较新的包，它面向动态显示地�
 
 如果您使用 **R** 并希望在 **R and R 闪亮中探索这些数据，**请参考[本文](/create-interactive-map-applications-in-r-and-r-shiny-for-exploring-geospatial-data-96b0f9692f0f?sk=481138ff99507245f15683bd58b73def)了解更多信息。
 
-[](/create-interactive-map-applications-in-r-and-r-shiny-for-exploring-geospatial-data-96b0f9692f0f)  
+</create-interactive-map-applications-in-r-and-r-shiny-for-exploring-geospatial-data-96b0f9692f0f>  
 
 我们使用一个`pandas` `DataFrame`将 CSV 数据文件存储到`df_data`中。并用一个`geopandas` `GeoDataFrame`将多多边形区域文件存入`faf_zone`。
 
@@ -199,7 +199,7 @@ map_select**.**save_draw_features("selected_location.geojson")
 
 我希望你喜欢阅读这篇文章。随意留下评论和掌声😊*。*
 
-[](https://huajing-shi.medium.com/membership)  
+<https://huajing-shi.medium.com/membership>  
 
 Python 代码和输入数据可从 [my GitHub repo](https://github.com/shi093/Leafmap-FAF) 获得。
 

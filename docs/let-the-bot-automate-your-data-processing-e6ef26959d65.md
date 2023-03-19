@@ -266,6 +266,6 @@ Bot 将所有数据输入网络表单的速度比我们能做到的要快得多�
 
 非常感谢您的阅读！希望这篇文章对你有帮助。请随时在 [LinkedIn](https://de.linkedin.com/in/jesko-rehberg-40653883) 、 [Twitter](https://twitter.com/DAR_Analytics) 或[工作室](https://jesko-rehberg.medium.com/virtual-reality-vr-for-education-a532aa5b6272)与我联系。
 
-[](https://jesko-rehberg.medium.com/membership)  
+<https://jesko-rehberg.medium.com/membership>  
 
 你可以在我的 Github 中下载完整的 [Jupyter 笔记本和图片](https://github.com/DAR-DatenanalyseRehberg/GuiAutomateRpa)。

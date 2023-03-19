@@ -55,7 +55,7 @@ nb select has_html_tag h1,h2 | nb split -s nb.ipynb
 
 如果您想了解其他选择器或其他用例，请随意查看这篇文章:
 
-[](/rapidly-explore-jupyter-notebooks-right-in-your-terminal-67598d2265c2)  
+</rapidly-explore-jupyter-notebooks-right-in-your-terminal-67598d2265c2>  
 
 默认情况下，结果笔记本将被命名为 `nb-%d.ipynb`，但是您可以通过添加 `--output/-o`选项对其进行自定义:
 
@@ -111,7 +111,7 @@ nb cat nb1.ipynb nb2.ipynb -o result.ipynb
 
 另一个使用案例是连接多个笔记本电脑。如果您感兴趣，您可以查看我们的另一篇文章，该文章不仅展示了如何操作，还详细介绍了 Jupyter 笔记本文件的结构:
 
-[](/how-to-easily-merge-multiple-jupyter-notebooks-into-one-e464a22d2dc4)  
+</how-to-easily-merge-multiple-jupyter-notebooks-into-one-e464a22d2dc4>  
 
 如果您有任何问题，请不要犹豫，在回复部分留言，我们将非常乐意回答。
 
@@ -119,4 +119,4 @@ nb cat nb1.ipynb nb2.ipynb -o result.ipynb
 
 ## 更多文章阅读
 
-[](/rapidly-explore-jupyter-notebooks-right-in-your-terminal-67598d2265c2)  [](/this-decorator-will-make-python-30-times-faster-715ca5a66d5f) 
+</rapidly-explore-jupyter-notebooks-right-in-your-terminal-67598d2265c2>  </this-decorator-will-make-python-30-times-faster-715ca5a66d5f> 

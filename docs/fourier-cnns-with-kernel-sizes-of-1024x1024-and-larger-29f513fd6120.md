@@ -194,7 +194,7 @@ DFT 对于实输入有一个有趣的性质:它关于原点共轭对称。对称
 
 这是我为生成这些图而创建的笔记本:
 
-[](https://github.com/sascha-kirch/ML_Notebooks/blob/main/2D_FFTs.ipynb)  
+<https://github.com/sascha-kirch/ML_Notebooks/blob/main/2D_FFTs.ipynb>  
 
 # TensorFlow 中的实现
 
@@ -330,4 +330,4 @@ std = tf**.**math**.**reduce_std(error)# Mean Absolute Error: 0.0015609820839017
 
 # 进一步阅读和链接
 
-[](https://github.com/sascha-kirch/ML_Notebooks/blob/main/2D_FFTs.ipynb)  [](https://github.com/sascha-kirch/DeepSaki)  [](https://pypi.org/project/DeepSaki/)   
+<https://github.com/sascha-kirch/ML_Notebooks/blob/main/2D_FFTs.ipynb>  <https://github.com/sascha-kirch/DeepSaki>  <https://pypi.org/project/DeepSaki/>   

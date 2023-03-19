@@ -6,7 +6,7 @@
 
 ![](img/2032ba629674adc9c981e6e18e9e777a.png)
 
-*(照片由* [*大卫·莱维克*](https://unsplash.com/@davidleveque?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*[](https://unsplash.com/s/photos/robot?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)**)***
+*(照片由* [*大卫·莱维克*](https://unsplash.com/@davidleveque?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*<https://unsplash.com/s/photos/robot?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>**)***
 
 **在本文中，我将解释一个简单的框架，它将帮助您在数据网格中处理数据治理的“计算”部分。**
 

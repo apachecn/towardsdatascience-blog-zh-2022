@@ -76,6 +76,6 @@ XML 使用相同的结构，不同之处在于标记的数量不受限制，它�
 *   由于可扩展标记语言的基于文本的存储，这种格式相对容易阅读和理解。
 *   此外，这种格式的优势在于可以适应不同方言的不同用例。
 
-*如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
+*如果你喜欢我的作品，请在这里订阅*<https://medium.com/subscribe/@niklas_lang>**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
 
-*[](/getting-started-with-json-4c94bb4df113)  [](/what-is-an-api-easily-explained-d153a736a55f)  [](/the-difference-between-correlation-and-causation-51d44c102789) *
+*</getting-started-with-json-4c94bb4df113>  </what-is-an-api-easily-explained-d153a736a55f>  </the-difference-between-correlation-and-causation-51d44c102789> *

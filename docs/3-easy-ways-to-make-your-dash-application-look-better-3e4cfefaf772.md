@@ -20,7 +20,7 @@ Dash 中的默认设置可以产生一些“功能性”的东西——它完成
 
 改善整体外观和感觉的最快方法是使用主题。Dash bootstrap 主题通过标准化标题、按钮、标签、表格、警告等内容的格式，提供了一种快速改进格式的方法。有一系列的风格，Dash 提供了一个“[主题浏览器](https://dash-bootstrap-components.opensource.faculty.ai/docs/themes/explorer/)”。
 
-主题列表是[鹂](https://bootswatch.com/cerulean/)、[科斯莫](https://bootswatch.com/cosmo/)、[电子人](https://bootswatch.com/cyborg/)、[暗黑](https://bootswatch.com/darkly/)、[平淡](https://bootswatch.com/flatly/)、[期刊](https://bootswatch.com/journal/)、 [LITERA](https://bootswatch.com/litera/) 、[流明](https://bootswatch.com/lumen/)、[力士](https://bootswatch.com/lux/)、[本草](https://bootswatch.com/materia/)、[明蒂](https://bootswatch.com/minty/)、[变身](https://bootswatch.com/morph/)、 [](https://bootswatch.com/pulse/) [SPACELAB](https://bootswatch.com/spacelab/) ，[超级英雄](https://bootswatch.com/superhero/)，[联队](https://bootswatch.com/united/)，[蒸汽](https://bootswatch.com/vapor/)，[雪人](https://bootswatch.com/yeti/)，[西风](https://bootswatch.com/zephyr/)。
+主题列表是[鹂](https://bootswatch.com/cerulean/)、[科斯莫](https://bootswatch.com/cosmo/)、[电子人](https://bootswatch.com/cyborg/)、[暗黑](https://bootswatch.com/darkly/)、[平淡](https://bootswatch.com/flatly/)、[期刊](https://bootswatch.com/journal/)、 [LITERA](https://bootswatch.com/litera/) 、[流明](https://bootswatch.com/lumen/)、[力士](https://bootswatch.com/lux/)、[本草](https://bootswatch.com/materia/)、[明蒂](https://bootswatch.com/minty/)、[变身](https://bootswatch.com/morph/)、 <https://bootswatch.com/pulse/> [SPACELAB](https://bootswatch.com/spacelab/) ，[超级英雄](https://bootswatch.com/superhero/)，[联队](https://bootswatch.com/united/)，[蒸汽](https://bootswatch.com/vapor/)，[雪人](https://bootswatch.com/yeti/)，[西风](https://bootswatch.com/zephyr/)。
 
 要使用主题，您需要导入 dash 引导组件:
 

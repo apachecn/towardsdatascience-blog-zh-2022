@@ -134,4 +134,4 @@ If I’ve inspired you to join medium I would be really grateful if you did it t
 
 这是我写的其他一些东西:
 
-[](/econometrics-is-the-original-data-science-6725d3f0d843) 
+</econometrics-is-the-original-data-science-6725d3f0d843> 

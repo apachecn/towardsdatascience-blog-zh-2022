@@ -503,4 +503,4 @@ rpart.plot(d.tree)
 
 [数据科学训练营课程](https://www.udemy.com/course/r-for-data-science-first-step-data-scientist/?referralCode=MEDIUMREADERS)
 
-[](https://medium.com/membership/@ivopbernardo) 
+<https://medium.com/membership/@ivopbernardo> 

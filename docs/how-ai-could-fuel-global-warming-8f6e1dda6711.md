@@ -94,4 +94,4 @@
 
 **这是我的 Github 知识库的链接，我计划在这里收集代码和许多与机器学习、人工智能等相关的资源。**
 
-**[](https://github.com/SalvatoreRa/tutorial) **
+**<https://github.com/SalvatoreRa/tutorial> **

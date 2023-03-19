@@ -66,7 +66,7 @@ Rasa 提供了一些意图分类器，您可以在`config.yml`文件中直接使
 > 
 > 有关回退和处理失败的更多信息，请查看本系列的这篇文章:
 
-[](/handling-chatbot-failure-gracefully-466f0fb1dcc5)  
+</handling-chatbot-failure-gracefully-466f0fb1dcc5>  
 
 让我们看看除了预测意图本身之外，意图分类器通常提供的信息。
 
@@ -180,7 +180,7 @@ Rasa 提供了许多您可以在测试组件时使用的特性。其中包括:
 
 # 示例代码
 
-[](https://github.com/Polaris000/BlogCode/tree/main/CustomIntentClassifier)  
+<https://github.com/Polaris000/BlogCode/tree/main/CustomIntentClassifier>  
 
 ## 本系列的前几篇文章
 

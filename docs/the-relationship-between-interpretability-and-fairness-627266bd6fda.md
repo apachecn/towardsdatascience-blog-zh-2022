@@ -66,11 +66,11 @@ FAccT 2022 征集论文(来源: [ACM FAccT](https://facctconference.org/2022/cfp
 
 对信任的需求是公平性和可解释性之间关系的真正驱动力。我们看到可解释模型的特征也使这种关系更加密切。一路上，我们谈到了一些与公平相关的话题。这就是**不公平的原因**、**分析公平**和**保证公平的途径**。下面的三篇文章深入探讨了这些主题。
 
-[](/algorithm-fairness-sources-of-bias-7082e5b78a2c)  [](/analysing-fairness-in-machine-learning-with-python-96a9ab0d0705)  [](/approaches-for-addressing-unfairness-in-machine-learning-a31f9807cf31)  
+</algorithm-fairness-sources-of-bias-7082e5b78a2c>  </analysing-fairness-in-machine-learning-with-python-96a9ab0d0705>  </approaches-for-addressing-unfairness-in-machine-learning-a31f9807cf31>  
 
 我希望这篇文章对你有帮助！你可以成为我的 [**推荐会员**](https://conorosullyds.medium.com/membership) **来支持我。你可以访问 medium 上的所有文章，我可以得到你的部分费用。**
 
-[](https://conorosullyds.medium.com/membership)  
+<https://conorosullyds.medium.com/membership>  
 
 你可以在|[Twitter](https://twitter.com/conorosullyDS)|[YouTube](https://www.youtube.com/channel/UChsoWqJbEjBwrn00Zvghi4w)|[时事通讯](https://mailchi.mp/aa82a5ce1dc0/signup)上找到我——注册免费参加 [Python SHAP 课程](https://adataodyssey.com/courses/shap-with-python/)
 

@@ -204,8 +204,8 @@ python main.py --learning_rate 0.015 --batch_size 64
 
 ## [我还建议成为一名中等会员，以便不要错过我每周发表的任何数据科学文章。在此加入👇](https://ipom.medium.com/membership/)
 
-[](https://ipom.medium.com/membership/)  
+<https://ipom.medium.com/membership/>  
 
 ## 我的另外几篇文章你可能会感兴趣:
 
-[](/31-datasets-for-your-next-data-science-project-6ef9a6f8cac6)  [](/26-github-repositories-to-inspire-your-next-data-science-project-3023c24f4c3c) 
+</31-datasets-for-your-next-data-science-project-6ef9a6f8cac6>  </26-github-repositories-to-inspire-your-next-data-science-project-3023c24f4c3c> 

@@ -16,11 +16,11 @@ Google Colab 上提供了训练和推理脚本。
 
 培训脚本:
 
-[](https://colab.research.google.com/drive/18gi-OUCv8S_1ttD6AoHD9hCUO_0j35-4?usp=sharing)  
+<https://colab.research.google.com/drive/18gi-OUCv8S_1ttD6AoHD9hCUO_0j35-4?usp=sharing>  
 
 推理脚本:
 
-[](https://colab.research.google.com/drive/1G6fBdP6xHhuT1GdJA1Ntjomx_Um8XMhO?usp=sharing)  
+<https://colab.research.google.com/drive/1G6fBdP6xHhuT1GdJA1Ntjomx_Um8XMhO?usp=sharing>  
 
 # 布局 V2 模型
 

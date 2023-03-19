@@ -210,7 +210,7 @@ action_endpoint: url: "http://localhost:5055/webhook"
 
 *   地址验证:我们将用户的位置提取为一个地名列表，如['纽约'，'美国']。然后我们使用。join()字符串运算符来生成完整的地址字符串。然后，我们使用 geopy Nominatim 对地址进行地理编码，即将地址映射到一个准确的位置。如果地址无效，则不返回任何结果。如果返回一个结果，我们还存储纬度和经度值，以便传递给 API 调用。
 
-[](/things-to-do-with-latitude-longitude-data-using-geopy-python-1d356ed1ae30)  
+</things-to-do-with-latitude-longitude-data-using-geopy-python-1d356ed1ae30>  
 
 *   半径验证:半径应该是一个数字或一个可以转换成数字的单词，如“六”。我们使用 word2number Python 库来检查这种情况。
 *   发出 API 调用:我们使用 Python 请求库发出 get 请求。用于授权的 API 密钥在头中传递，而参数作为 url 的一部分传递。该调用返回一个 json 对象，我们解析该对象以获得所需的值。
@@ -239,7 +239,7 @@ rules.yml 文件描述了应该总是以相同方式进行的简短对话。“�
 
 这是可行的，但是我们可以通过使用下面显示的聊天机器人 UI 来获得一个更好的界面。
 
-[](https://elysian01.github.io/Rasa-Chatbot-UI/)  
+<https://elysian01.github.io/Rasa-Chatbot-UI/>  
 
 首先，我们下载文件，提取其内容，然后在 web 浏览器中打开 index.html 文件。关于如何修改聊天机器人设计的说明可以在[网站](https://elysian01.github.io/Rasa-Chatbot-UI/)上找到。
 
@@ -272,4 +272,4 @@ rasa run --enable-api --cors='*'
 
 目前就这些。感谢您的阅读。
 
-[](https://rasa.com/)  [](https://developer.foursquare.com/)  [](https://github.com/AhmedFahim-git/simple_chatbot) 
+<https://rasa.com/>  <https://developer.foursquare.com/>  <https://github.com/AhmedFahim-git/simple_chatbot> 

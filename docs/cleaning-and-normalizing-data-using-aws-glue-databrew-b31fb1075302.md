@@ -130,6 +130,6 @@ AWS 有很好的工具来创建带有转换的数据管道、数据湖和仓库�
 
 如果你喜欢你在这里看到的，或者在我的个人博客上看到的。要写博客，并希望在未来看到更多这样有用的技术帖子，请考虑在 [Github](https://github.com/sponsors/contactsunny) 上关注我。
 
-*原载于 2022 年 1 月 17 日 https://blog.contactsunny.com*[](https://blog.contactsunny.com/data-science/cleaning-and-normalizing-data-using-aws-glue-databrew)**。**
+*原载于 2022 年 1 月 17 日 https://blog.contactsunny.com*<https://blog.contactsunny.com/data-science/cleaning-and-normalizing-data-using-aws-glue-databrew>**。**
 
 *[1] NYC OpenData —纽约警察局[https://data . cityofnewyork . us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95)*

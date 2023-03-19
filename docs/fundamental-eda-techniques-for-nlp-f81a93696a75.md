@@ -277,7 +277,7 @@ ngram_freq.columns = ["frequency", "ngram"]
 
 你可以在这篇关于[“NLP 的中级 EDA 技术”](/intermediate-eda-techniques-for-nlp-2c898cc96d1d)的文章中找到这篇文章的续篇:
 
-[](/intermediate-eda-techniques-for-nlp-2c898cc96d1d)  
+</intermediate-eda-techniques-for-nlp-2c898cc96d1d>  
 
 # 喜欢这个故事吗？
 
@@ -295,7 +295,7 @@ ngram_freq.columns = ["frequency", "ngram"]
 
 *成为媒介会员，阅读更多来自我和其他作家的故事。报名时可以用我的* [*推荐链接*](https://medium.com/@iamleonie/membership) *支持我。我将收取佣金，不需要你额外付费。*
 
-[](https://medium.com/@iamleonie/membership)  
+<https://medium.com/@iamleonie/membership>  
 
 *在* [*上找我*](https://twitter.com/helloiamleonie)*[*LinkedIn*](https://www.linkedin.com/in/804250ab/)*[*ka ggle*](https://www.kaggle.com/iamleonie)*！***
 

@@ -138,4 +138,4 @@ PubSub 本质上是一个队列。我们需要像 cloud function 这样的订阅
 
 ## 参考
 
-[](https://cloud.google.com/blog/products/data-analytics/bigquery-audit-logs-pipelines-analysis) 
+<https://cloud.google.com/blog/products/data-analytics/bigquery-audit-logs-pipelines-analysis> 

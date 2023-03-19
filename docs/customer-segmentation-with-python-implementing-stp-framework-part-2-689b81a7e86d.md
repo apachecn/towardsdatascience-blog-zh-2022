@@ -28,7 +28,7 @@
 
 我推荐下面这篇文章来学习更多关于 k-means 聚类的知识:
 
-[](/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1)  
+</understanding-k-means-clustering-in-machine-learning-6a6e67336aa1>  
 
 ## 实现 K 均值聚类
 
@@ -93,4 +93,4 @@ k-means 算法的局限性在于，您必须预先决定您期望创建多少个
 
 **通过此* [*推荐链接*](https://analyticsoul.medium.com/membership) *加入 Medium，免费支持我。**
 
-*[](https://analyticsoul.medium.com/membership) *
+*<https://analyticsoul.medium.com/membership> *

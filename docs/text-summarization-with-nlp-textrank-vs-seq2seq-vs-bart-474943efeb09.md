@@ -24,11 +24,11 @@
 
 我将展示一些有用的 Python 代码，这些代码可以很容易地应用于其他类似的情况(只需复制、粘贴、运行)，并通过注释遍历每一行代码，以便您可以复制这个示例(下面是完整代码的链接)。
 
-[](https://github.com/mdipietro09/DataScience_ArtificialIntelligence_Utils/blob/master/natural_language_processing/example_text_summarization.ipynb)  
+<https://github.com/mdipietro09/DataScience_ArtificialIntelligence_Utils/blob/master/natural_language_processing/example_text_summarization.ipynb>  
 
 我将使用“**CNN Daily Mail**”**数据集，其中为您提供了 CNN 和《每日邮报》记者用英语撰写的数千篇新闻文章，以及每篇文章的摘要(以下链接)。**
 
-**[](https://huggingface.co/datasets/cnn_dailymail)  
+**<https://huggingface.co/datasets/cnn_dailymail>  
 
 特别是，我将经历:
 
@@ -641,4 +641,4 @@ def **bart**(corpus, max_len):
 
 > ******本文是系列文章 **NLP 与 Python** 的一部分，参见:******
 
-******[](/text-classification-with-nlp-tf-idf-vs-word2vec-vs-bert-41ff868d1794)  [](/text-analysis-feature-engineering-with-nlp-502d6ea9225d)  [](/text-classification-with-no-model-training-935fe0e42180)  [](/ai-chatbot-with-nlp-speech-recognition-transformers-583716a299e9) ******
+******</text-classification-with-nlp-tf-idf-vs-word2vec-vs-bert-41ff868d1794>  </text-analysis-feature-engineering-with-nlp-502d6ea9225d>  </text-classification-with-no-model-training-935fe0e42180>  </ai-chatbot-with-nlp-speech-recognition-transformers-583716a299e9> ******

@@ -404,6 +404,6 @@
 
 **【7】*[*克森达本*](https://math.stackexchange.com/questions/1712378/construction-of-the-it%c3%b4-integral-in-%c3%98ksendals-book-why-is-this-sequence-a-cauch) 中的 It“积分”的构造。2022 年 6 月 16 日访问。***
 
-**[](https://folk.ntnu.no/jarlet/ST2101-2008v/diff.pdf)*【8】扩散理论。6 月 18 日访问。***
+**<https://folk.ntnu.no/jarlet/ST2101-2008v/diff.pdf>*【8】扩散理论。6 月 18 日访问。***
 
-***[](https://www.math.cmu.edu/~gautam/sj/teaching/2016-17/944-scalc-finance1/pdfs/ch3-int.pdf)*随机积分。6 月 19 日访问。****
+***<https://www.math.cmu.edu/~gautam/sj/teaching/2016-17/944-scalc-finance1/pdfs/ch3-int.pdf>*随机积分。6 月 19 日访问。****

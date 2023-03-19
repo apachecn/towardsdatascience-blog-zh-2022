@@ -12,7 +12,7 @@
 
 这是包含散景交互式可视化的三篇文章系列的第二部分。因为这篇文章是建立在前一篇文章的基础上的，所以我建议先阅读[第 1 部分](https://medium.com/@katyhagerty19/bokeh-stock-comparison-tool-part-1-81afb176a14e)。
 
-[](https://medium.com/@katyhagerty19/bokeh-stock-comparison-tool-part-1-81afb176a14e)  
+<https://medium.com/@katyhagerty19/bokeh-stock-comparison-tool-part-1-81afb176a14e>  
 
 第 1 部分构建了 Bokeh 应用程序框架来比较管理基金和指数。第 2 部分扩展了该框架，增加了将指数与证券交易所中的任何证券进行比较的选项，如 eft、共同基金、股票和指数基金。第 2 部分功能位于应用程序的新选项卡上，如下所示。
 
@@ -88,7 +88,7 @@ GME 上涨如此之快，以至于 1000 美元的投资会在不到 4 周的时�
 
 欢迎所有反馈。我总是渴望学习新的或更好的做事方法。请随时留下您的评论或联系我 katyhagerty19@gmail.com。
 
-[](https://medium.com/@katyhagerty19/membership)  
+<https://medium.com/@katyhagerty19/membership>  
 
 # 参考
 

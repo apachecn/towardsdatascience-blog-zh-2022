@@ -156,4 +156,4 @@ print(model.summary())*
 
 *Kaggle Knowledge 上的开源数据集:[https://www . ka ggle . com/c/store-sales-time-series-forecasting/overview/description](https://www.kaggle.com/c/store-sales-time-series-forecasting/overview/description)*
 
-*[](https://people.duke.edu/~rnau/arimrule.htm)  [](/the-complete-guide-to-time-series-analysis-and-forecasting-70d476bfe775)  [](https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/)  [](https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/) *
+*<https://people.duke.edu/~rnau/arimrule.htm>  </the-complete-guide-to-time-series-analysis-and-forecasting-70d476bfe775>  <https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/>  <https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/> *

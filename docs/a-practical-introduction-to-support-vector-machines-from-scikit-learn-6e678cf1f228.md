@@ -117,12 +117,12 @@ print (metrics.classification_report(y_test, test_pred_svm))
 
 因此，您可以相对容易地在二维上实现具有线性决策边界的支持向量机。当然，现实永远不会那么简单，因此在研讨会中，我们还将讨论如何对目标群体以外的数据进行分类，以及如何实施不同的内核来表示不同的决策界限。您可以在我们的 GitHub 资源库中找到它和问题表:
 
-[](https://github.com/UCL-DSS/svm-workshop)  
+<https://github.com/UCL-DSS/svm-workshop>  
 
 如果您错过了之前的任何一场研讨会，可以在这里找到后三场研讨会:
 
-[](/how-to-implement-and-evaluate-decision-tree-classifiers-from-scikit-learn-36ef7f037a78)  [](/non-linear-regression-with-decision-trees-and-random-forest-afae406df27d)  [](/an-introduction-lasso-and-ridge-regression-using-scitkit-learn-d3427700679c)  
+</how-to-implement-and-evaluate-decision-tree-classifiers-from-scikit-learn-36ef7f037a78>  </non-linear-regression-with-decision-trees-and-random-forest-afae406df27d>  </an-introduction-lasso-and-ridge-regression-using-scitkit-learn-d3427700679c>  
 
 如果你想了解 UCL 数据科学协会和其他优秀作者的最新信息，请使用我下面的推荐代码注册 medium。
 
-[](https://philip-wilkinson.medium.com/membership) 
+<https://philip-wilkinson.medium.com/membership> 

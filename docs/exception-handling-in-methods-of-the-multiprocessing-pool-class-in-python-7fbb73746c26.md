@@ -301,7 +301,7 @@ time took: 8.2
 
 您可以在我的文章中了解更多关于 **parallelbar** 的信息:
 
-[](https://medium.com/pythoneers/visualize-your-multiprocessing-calculations-in-python-with-parallelbar-5395651f35aa)  
+<https://medium.com/pythoneers/visualize-your-multiprocessing-calculations-in-python-with-parallelbar-5395651f35aa>  
 
 或者您可以查看[文档](http://or you can check the documentation)
 

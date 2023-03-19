@@ -102,7 +102,7 @@ d)并且我们的效应大小 ES 为(0.0075–0.005
 
 > 您也可以使用这个在线样本量计算器:
 
-[](https://www.evanmiller.org/ab-testing/sample-size.html)  
+<https://www.evanmiller.org/ab-testing/sample-size.html>  
 
 > 或者在 Android 或 iOS 上下载 **A/B 好友 app** 。
 
@@ -181,7 +181,7 @@ p_value <- 1 **-** pnorm(zvalue,mean=0,sd**=**1)
 
 因在战机上观察幸存者偏差而闻名的亚伯拉罕·瓦尔德和他在统计研究小组的同事设计了一种方法来加快测试过程，即序贯概率比测试。这需要理解似然比的概念，您可以在这里找到对该方法的精彩解释:
 
-[](/experiments-peeking-and-optimal-stopping-954506cec665)  
+</experiments-peeking-and-optimal-stopping-954506cec665>  
 
 ## 贝叶斯方法
 
@@ -201,7 +201,7 @@ b.贝叶斯 A/B 测试往往更快**，并且在决定何时停止实验时给�
 
 **以一个经典的数学优化问题命名，在这个问题中，一个赌徒需要在一套具有不同(未知)支付的老虎机上最大化他的奖金。MAB 算法是一个优化过程，它将印象分配更改为表现最佳的版本，从而以牺牲统计有效性为代价最大限度地提高转化数量，因为由于该优化过程，结果可能变得难以分析。它回答了**探索与利用的困境**。更多关于 MAB 的信息，请点击此处:**
 
-**[](/a-b-testing-is-there-a-better-way-an-exploration-of-multi-armed-bandits-98ca927b357d)  
+**</a-b-testing-is-there-a-better-way-an-exploration-of-multi-armed-bandits-98ca927b357d>  
 
 ## 分段 A/B 测试
 
@@ -239,4 +239,4 @@ b.贝叶斯 A/B 测试往往更快**，并且在决定何时停止实验时给�
 
 **[格奥尔基·兹德拉夫科夫·乔尔杰夫](https://blackwells.co.uk/bookshop/search/author/Georgi%20Zdravkov%20Georgiev) (2019)，*在线 A/B 测试中的统计方法:电子商务中数据驱动的商业决策和风险管理的统计。*独立发表。**
 
-**[](https://www.evanmiller.org/ab-testing/sample-size.html)  [](/exploring-bayesian-a-b-testing-with-simulations-7500b4fc55bc)  [](/a-b-testing-is-there-a-better-way-an-exploration-of-multi-armed-bandits-98ca927b357d) **
+**<https://www.evanmiller.org/ab-testing/sample-size.html>  </exploring-bayesian-a-b-testing-with-simulations-7500b4fc55bc>  </a-b-testing-is-there-a-better-way-an-exploration-of-multi-armed-bandits-98ca927b357d> **

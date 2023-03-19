@@ -138,10 +138,10 @@ Spark 会自动将这些操作组合在一起，因此会忽略第一个定义�
 
 如果您是 PySpark 的新手，正在从 Pandas 过渡过来，或者只是想要一个不错的备忘单，您可能想看看这篇文章:
 
-[](/equivalents-between-pandas-and-pyspark-c8b5ba57dc1d)  
+</equivalents-between-pandas-and-pyspark-c8b5ba57dc1d>  
 
 谢谢你坚持到现在。注意安全，下一个故事再见😊！
 
 # 更多文章阅读
 
-[](/8-tips-to-write-cleaner-code-376f7232652c)  [](/how-to-easily-merge-multiple-jupyter-notebooks-into-one-e464a22d2dc4) 
+</8-tips-to-write-cleaner-code-376f7232652c>  </how-to-easily-merge-multiple-jupyter-notebooks-into-one-e464a22d2dc4> 

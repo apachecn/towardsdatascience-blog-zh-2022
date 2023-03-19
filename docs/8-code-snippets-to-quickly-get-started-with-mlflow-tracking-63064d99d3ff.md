@@ -22,7 +22,7 @@
 
 *之前在 MLflow 上写过帖子。如果您有兴趣了解更多关于这个 MLOps 工具的信息，这里有一个 6 分钟的故事，涵盖了基本知识⏬*
 
-[](/how-to-use-mlflow-on-aws-to-better-track-machine-learning-experiments-bbcb8acded65)  
+</how-to-use-mlflow-on-aws-to-better-track-machine-learning-experiments-bbcb8acded65>  
 
 MLflow 有四个组件。
 
@@ -279,6 +279,6 @@ MLflow 跟踪被组织成实验，并且每个实验被分成运行(这就是你
 
 ## 新到中？你可以每月订阅 5 美元，并解锁各种主题的无限文章(技术、设计、创业……)，你可以通过点击我的推荐链接[来支持我。](https://ahmedbesbes.medium.com/membership)
 
-[](https://ahmedbesbes.medium.com/membership)  ![](img/dc29731db7b87fcf2a5522da11d6e2ff.png)
+<https://ahmedbesbes.medium.com/membership>  ![](img/dc29731db7b87fcf2a5522da11d6e2ff.png)
 
 由 [Karsten Winegeart](https://unsplash.com/@karsten116?utm_source=medium&utm_medium=referral) 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄

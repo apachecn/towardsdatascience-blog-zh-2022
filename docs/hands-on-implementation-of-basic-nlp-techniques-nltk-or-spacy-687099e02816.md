@@ -12,7 +12,7 @@
 
 自然语言处理(NLP)是一项非常有趣的技术，因为通过这项技术，计算机可以识别我们的自然语言，并像智能人一样做出反应。起初，当我开始了解 NLP 的魔力时，我感到非常惊讶。
 
-*【如果你想了解我的自然语言处理之旅以及自然语言处理的基础知识，我强烈推荐你阅读这篇文章——*[](/a-complete-guide-to-natural-language-processing-nlp-c91f1cfd3b0c)**。]**
+*【如果你想了解我的自然语言处理之旅以及自然语言处理的基础知识，我强烈推荐你阅读这篇文章——*</a-complete-guide-to-natural-language-processing-nlp-c91f1cfd3b0c>**。]**
 
 *我相信实践经验是学习一项技术的最好方法，只有理论知识是没有帮助的。苹果的 Siri，微软的 Cortana，谷歌的语音助手，亚马逊的 Alexa 等。，都在用 NLP。他们的作品多有趣啊！希望我们也能创造一些有趣的项目。*
 
@@ -363,7 +363,7 @@ print(found_matches)*
 
 ***NLP 是现代计算中令人惊叹的技术之一，通过它，计算机可以识别我们的自然语言。有一些计算机处理自然语言的技术，因为人类和机器的学习过程是不同的。spaCy、NLTK 等不同的库使这个过程变得简单。不可能在一篇文章中包含所有必要的技术。因此，请关注即将发布的文章，了解更多令人惊叹的 NLP 实现技术和项目。你也可以读一下我写的关于 NLP 的文章。***
 
-***[](/a-complete-guide-to-natural-language-processing-nlp-c91f1cfd3b0c)  [](/tips-and-tricks-to-work-with-text-files-in-python-89f14a755315)  [](/manipulate-pdf-files-extract-information-with-pypdf2-and-regular-expression-39ff697db0ca)  
+***</a-complete-guide-to-natural-language-processing-nlp-c91f1cfd3b0c>  </tips-and-tricks-to-work-with-text-files-in-python-89f14a755315>  </manipulate-pdf-files-extract-information-with-pypdf2-and-regular-expression-39ff697db0ca>  
 
 ## 参考
 

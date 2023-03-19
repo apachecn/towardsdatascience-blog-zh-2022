@@ -126,4 +126,4 @@ pip install spark-nlp
 
 # 相关文章
 
-[](/how-to-speed-up-your-python-code-through-pyspark-e3296e39da6)  [](/have-you-ever-thought-about-using-python-virtualenv-fc419d8b0785)  [](https://medium.datadriveninvestor.com/how-to-restore-the-original-layout-of-a-text-document-after-a-manipulation-in-python-8f3de41e8e95) 
+</how-to-speed-up-your-python-code-through-pyspark-e3296e39da6>  </have-you-ever-thought-about-using-python-virtualenv-fc419d8b0785>  <https://medium.datadriveninvestor.com/how-to-restore-the-original-layout-of-a-text-document-after-a-manipulation-in-python-8f3de41e8e95> 

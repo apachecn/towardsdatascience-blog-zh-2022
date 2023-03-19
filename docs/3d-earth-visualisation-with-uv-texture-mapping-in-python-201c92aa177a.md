@@ -18,7 +18,7 @@ Juliana Kozoski 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium
 
 在成功应用*数值积分*技术求解*运动方程*后，可以使用 *Matplotlib* 为两体问题创建**动态 3D 绘图**。然而，Matplotlib 的一个*缺点*是它使用了 *2D 渲染器*。因此，有其他选项可以产生更好的 3D 输出。
 
-[](https://levelup.gitconnected.com/the-two-body-problem-in-python-6bbe4a0b2f88)  
+<https://levelup.gitconnected.com/the-two-body-problem-in-python-6bbe4a0b2f88>  
 
 图 1 描绘了两个物体的**运动**，这仅仅是由于它们相互的重力吸引的影响。
 
@@ -76,7 +76,7 @@ PyVista 提供了更新网格值和重绘图形的函数。因此，根据 **3D 
 
 如果你对 Python、工程学和数据科学感兴趣，可以看看我的其他文章。
 
-[](https://medium.com/@andrewdaviesul/membership)  
+<https://medium.com/@andrewdaviesul/membership>  
 
 ## 参考
 

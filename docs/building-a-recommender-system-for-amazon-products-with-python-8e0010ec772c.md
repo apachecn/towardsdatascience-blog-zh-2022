@@ -427,4 +427,4 @@ print('Thank you Medium!')
 
 **如果你想看看我以前的一些文章**
 
-**[](/time-series-forecasting-on-power-consumption-273d56768b99)  [](/model-selection-and-hyperparameter-tuning-on-amazon-kindle-book-reviews-with-python-6d17ec46d318)  [](/feature-importance-to-predict-mushrooms-edibility-in-python-5aa133fea3f8) **
+**</time-series-forecasting-on-power-consumption-273d56768b99>  </model-selection-and-hyperparameter-tuning-on-amazon-kindle-book-reviews-with-python-6d17ec46d318>  </feature-importance-to-predict-mushrooms-edibility-in-python-5aa133fea3f8> **

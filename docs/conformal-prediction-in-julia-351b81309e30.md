@@ -152,4 +152,4 @@ predict(mach, Xtest)[1]**>** missing
 
 帕特里克·奥特梅尔和帕特里克·奥特梅尔。2022.朱丽亚·🟣的共形预测🔴🟢."2022 年 10 月 25 日。
 
-*原载于 2022 年 10 月 25 日 https://www.paltmeyer.com*[](https://www.paltmeyer.com/blog/posts/conformal-prediction/)**。**
+*原载于 2022 年 10 月 25 日 https://www.paltmeyer.com*<https://www.paltmeyer.com/blog/posts/conformal-prediction/>**。**

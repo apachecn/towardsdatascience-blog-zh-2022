@@ -24,7 +24,7 @@ FE 是数据转换的子集，是数据预处理的关键元素。
 
 在最近的一篇文章中，我详细讨论了数据转换。然而，FE 作为一个子领域很突出。文章的链接如下所示:
 
-[](/three-critical-elements-of-data-preprocessing-part-3-6a7da681ae16)  
+</three-critical-elements-of-data-preprocessing-part-3-6a7da681ae16>  
 
 本文的主要目的是讨论数据转换的组件。这有助于更好地理解数据科学项目生命周期中的数据预处理步骤。
 
@@ -82,4 +82,4 @@ FE 是数据转换的子集，是数据预处理的关键元素。
 
 你可以通过下面我的推荐链接订阅 Medium 来获得更多我和其他作者的启发性文章，这也支持我的写作。谢谢大家！
 
-[](https://aolaoye.medium.com/membership) 
+<https://aolaoye.medium.com/membership> 

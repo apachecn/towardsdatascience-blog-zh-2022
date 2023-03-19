@@ -290,7 +290,7 @@ series3 = np.add(df['series1'].to_numpy(),df['series2'].to_numpy())# Function 2
 
 *使用我的推荐链接注册会给我一点回扣，对你的会员资格没有影响，所以如果你选择这样做，谢谢你。*
 
-*[](https://medium.com/@maclayton/membership)  
+*<https://medium.com/@maclayton/membership>  
 
 # 参考
 

@@ -96,6 +96,6 @@ Google BigQuery 使用来自 [Google BigQuery 文档](https://cloud.google.com/b
 
 一定要看看我的其他文章:
 
-[](https://medium.com/learning-sql/reproducible-random-split-in-bigquery-sql-for-beginners-f36a5825528)  [](/7-data-visualization-best-practices-everyone-must-know-b68ebe329b1e)  [](/data-science-career-switch-is-masters-degree-worth-it-part-2-1110c3440e4b)  
+<https://medium.com/learning-sql/reproducible-random-split-in-bigquery-sql-for-beginners-f36a5825528>  </7-data-visualization-best-practices-everyone-must-know-b68ebe329b1e>  </data-science-career-switch-is-masters-degree-worth-it-part-2-1110c3440e4b>  
 
 在 LinkedIn 上关注我:[https://www.linkedin.com/in/nathanthandoko/](https://www.linkedin.com/in/nathanthandoko/)

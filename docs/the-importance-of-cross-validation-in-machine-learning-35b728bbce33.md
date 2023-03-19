@@ -104,4 +104,4 @@ for train, test in kf.split(X):
 *   如果没有交叉验证，可能会发生所谓的过度拟合，即模型过度学习训练数据。
 *   最常用的交叉验证方法是保留法和 k 折叠法。
 
-[](/an-introduction-to-long-short-term-memory-networks-lstm-27af36dde85d)  [](/understanding-mapreduce-with-the-help-of-harry-potter-5b0ae89cc88)  [](/a-complete-guide-to-decision-trees-ac8656a0b4bb)  [](https://medium.com/@niklas_lang/membership) 
+</an-introduction-to-long-short-term-memory-networks-lstm-27af36dde85d>  </understanding-mapreduce-with-the-help-of-harry-potter-5b0ae89cc88>  </a-complete-guide-to-decision-trees-ac8656a0b4bb>  <https://medium.com/@niklas_lang/membership> 

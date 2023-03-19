@@ -166,7 +166,7 @@
 
 我们在这篇文章中回顾的算法只是梯度推进算法的一个选项，它专用于平方损失的回归问题。如果您也对分类算法感兴趣，请查看第 2 部分。
 
-[](/all-you-need-to-know-about-gradient-boosting-algorithm-part-2-classification-d3ed8f56541e)  
+</all-you-need-to-know-about-gradient-boosting-algorithm-part-2-classification-d3ed8f56541e>  
 
 如果您想了解该算法的更多细节，还有一些其他的好资源:
 
@@ -177,7 +177,7 @@
 
 你也可以在 Google Colab 链接或者下面的 Github 链接中查看完整的 Python 代码。
 
-[](https://colab.research.google.com/drive/1mWKDoEtUo82bcxLlwA7YNuEoFzlIY-GG)  
+<https://colab.research.google.com/drive/1mWKDoEtUo82bcxLlwA7YNuEoFzlIY-GG>  
 
 # 参考
 

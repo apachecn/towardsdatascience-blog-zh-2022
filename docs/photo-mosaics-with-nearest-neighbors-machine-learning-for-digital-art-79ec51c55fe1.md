@@ -65,4 +65,4 @@ KNN 算法可以评估库中的所有图块，并对平均像素值进行建模�
 
 分散动画，推荐全屏观看。(作者视频)
 
-*原载于 2022 年 7 月 3 日 https://www.lambertleong.com*[](https://www.lambertleong.com/projects/photo-mosaic)**。**
+*原载于 2022 年 7 月 3 日 https://www.lambertleong.com*<https://www.lambertleong.com/projects/photo-mosaic>**。**

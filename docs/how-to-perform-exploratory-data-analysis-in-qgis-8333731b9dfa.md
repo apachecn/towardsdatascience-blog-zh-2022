@@ -186,7 +186,7 @@ QGis 很强大，你只要测试一下，试试其他功能就行了！
 
 # 相关文章
 
-[](/an-overview-of-visual-techniques-for-exploratory-data-analysis-in-python-d35703d43faf)  [](/how-to-convert-a-shapefile-to-a-dataframe-in-python-a6ca9a893504)  [](/how-to-transform-data-extracted-from-wikipedia-into-a-map-in-python-8325dce0710b)  
+</an-overview-of-visual-techniques-for-exploratory-data-analysis-in-python-d35703d43faf>  </how-to-convert-a-shapefile-to-a-dataframe-in-python-a6ca9a893504>  </how-to-transform-data-extracted-from-wikipedia-into-a-map-in-python-8325dce0710b>  
 
 # 您想从头开始构建地图吗？
 

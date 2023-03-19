@@ -14,13 +14,13 @@
 
 代码可从以下链接获得:
 
-[](https://github.com/unaiLopez/towards-data-science-posts-notebooks/blob/master/time%20series/Bike%20Sharing%20Demand%20Prediction.ipynb)  
+<https://github.com/unaiLopez/towards-data-science-posts-notebooks/blob/master/time%20series/Bike%20Sharing%20Demand%20Prediction.ipynb>  
 
 # 资料组
 
 我们将使用 Kaggle 的自行车共享需求竞争数据集，因为它非常适合本教程。您可以下载并阅读以下链接中的数据:
 
-[](https://www.kaggle.com/c/bike-sharing-demand/data)  
+<https://www.kaggle.com/c/bike-sharing-demand/data>  
 
 # 时间序列分析
 
@@ -132,8 +132,8 @@
 
 如果你喜欢我的内容，你也可以看看我的其他帖子:
 
-[](/unleash-the-power-of-scikit-learns-pipelines-b5f03f9196de)  [](/introduction-to-scikit-learns-pipelines-565cc549754a)  [](/how-to-detect-handle-and-visualize-outliers-ad0b74af4af7)  
+</unleash-the-power-of-scikit-learns-pipelines-b5f03f9196de>  </introduction-to-scikit-learns-pipelines-565cc549754a>  </how-to-detect-handle-and-visualize-outliers-ad0b74af4af7>  
 
 # 参考
 
-  [](https://www.geeksforgeeks.org/python-pandas-dataframe-shift/)  [](https://www.kaggle.com/) 
+  <https://www.geeksforgeeks.org/python-pandas-dataframe-shift/>  <https://www.kaggle.com/> 

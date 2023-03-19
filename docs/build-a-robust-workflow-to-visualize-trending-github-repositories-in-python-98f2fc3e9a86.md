@@ -36,7 +36,7 @@ GitHub feed 是一个很好的方式，可以让你跟踪社区的趋势。你�
 
 如果您想跳过解释，直接创建自己的仪表板，请查看这个 GitHub 资源库:
 
-[](https://github.com/khuyentran1401/analyze_github_feed)  
+<https://github.com/khuyentran1401/analyze_github_feed>  
 
 # 从 GitHub 提取数据
 
@@ -68,7 +68,7 @@ GitHub feed 是一个很好的方式，可以让你跟踪社区的趋势。你�
 
 [perfect](https://www.prefect.io/)是一个开源库，使您能够用 Python 编排数据工作流。
 
-[](https://medium.com/the-prefect-blog/orchestrate-your-data-science-project-with-prefect-2-0-4118418fd7ce)  
+<https://medium.com/the-prefect-blog/orchestrate-your-data-science-project-with-prefect-2-0-4118418fd7ce>  
 
 ## 添加可观察性
 
@@ -327,4 +327,4 @@ prefect deployment create development.py
 
 如果你想查看我写的所有文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/bentoml-create-an-ml-powered-prediction-service-in-minutes-23d135d6ca76)  [](/how-to-structure-a-data-science-project-for-readability-and-transparency-360c6716800)  [](/introduction-to-weight-biases-track-and-visualize-your-machine-learning-experiments-in-3-lines-9c9553b0f99d)  [](/pytest-for-data-scientists-2990319e55e6) 
+</bentoml-create-an-ml-powered-prediction-service-in-minutes-23d135d6ca76>  </how-to-structure-a-data-science-project-for-readability-and-transparency-360c6716800>  </introduction-to-weight-biases-track-and-visualize-your-machine-learning-experiments-in-3-lines-9c9553b0f99d>  </pytest-for-data-scientists-2990319e55e6> 

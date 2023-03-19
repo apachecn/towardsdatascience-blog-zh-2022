@@ -75,4 +75,4 @@
 
 **喜欢这篇文章吗？订阅我的邮件列表，这样你以后就不会错过一篇文章了！不知道接下来要读什么？以下是一些建议:**
 
-**[](/how-to-deal-with-frustrating-stakeholder-situations-as-a-data-scientist-92d48e2c32f7)  [](/top-qualities-hiring-managers-look-for-in-data-scientist-candidates-2e2cd52444c2)  [](/should-you-join-a-big-corporation-or-a-small-startup-as-a-data-scientist-1b7f4d83f5c6) **
+**</how-to-deal-with-frustrating-stakeholder-situations-as-a-data-scientist-92d48e2c32f7>  </top-qualities-hiring-managers-look-for-in-data-scientist-candidates-2e2cd52444c2>  </should-you-join-a-big-corporation-or-a-small-startup-as-a-data-scientist-1b7f4d83f5c6> **

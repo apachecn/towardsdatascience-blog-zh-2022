@@ -175,6 +175,6 @@ python app.py
 
 如果你想在不需要 HTML 和 CSS 的情况下创建 web 应用的另一种选择，请查看我关于使用 Streamlit 构建机器学习 web 应用的文章。
 
-[](/building-a-machine-learning-web-application-using-streamlit-8c3d942f7b35)  
+</building-a-machine-learning-web-application-using-streamlit-8c3d942f7b35>  
 
 如果你喜欢这篇文章，请考虑鼓掌并关注。请在评论中分享你的反馈和想法。感谢您的阅读！

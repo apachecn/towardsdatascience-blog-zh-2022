@@ -12,7 +12,7 @@
 
 在本文中，我们将讨论 Delta 方法，它提供了一个数学框架，用于在给定 iid 样本的情况下计算极限分布和渐近方差。Delta 方法允许您计算方差已知的随机变量函数的方差(通过一些变换，我们将在后面看到)。这个框架与统计学中的变量转换方法密切相关，我之前已经在[详细讨论过](/stat-stories-variable-transformation-to-generate-new-distributions-d4607cb32c30)。
 
-[](/stat-stories-variable-transformation-to-generate-new-distributions-d4607cb32c30)  [](/stat-stories-multivariate-transformation-for-statistical-distributions-7077a374b3b4)  [](/stat-stories-normalizing-flows-as-an-application-of-variable-transformation-7b7beda7b03b)  
+</stat-stories-variable-transformation-to-generate-new-distributions-d4607cb32c30>  </stat-stories-multivariate-transformation-for-statistical-distributions-7077a374b3b4>  </stat-stories-normalizing-flows-as-an-application-of-variable-transformation-7b7beda7b03b>  
 
 # 基础
 
@@ -48,7 +48,7 @@
 
 分布的收敛性是分布的性质，而不是与前两种分布不同的特定随机变量。[矩母函数](/stat-stories-why-is-moment-generating-function-important-25bbc17dad68)的收敛意味着分布的收敛，即 *M_{X_n}(t) → M_X(t)* 对于所有 *t* 在 *0* 的邻域内。
 
-[](/stat-stories-why-is-moment-generating-function-important-25bbc17dad68)  
+</stat-stories-why-is-moment-generating-function-important-25bbc17dad68>  
 
 ***中心极限定理*** 是收敛在分布中的一个应用其中，对于 *X₁、X₂、……xₙ*具有均值 *μ* 和方差 *σ* ，
 

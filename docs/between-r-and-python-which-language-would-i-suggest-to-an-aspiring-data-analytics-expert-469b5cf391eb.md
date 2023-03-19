@@ -10,7 +10,7 @@
 
 到目前为止，我一直避免卷入那些对 R vs Python 之战感兴趣的人的争斗中。但是最近，我的同行数据极客 Brian Julius 在他的 LinkedIn 帖子中问我对 Python 与 R 之争的看法:
 
-[](https://www.linkedin.com/feed/update/urn:li:activity:6996829718033399808/)  
+<https://www.linkedin.com/feed/update/urn:li:activity:6996829718033399808/>  
 
 我试图在帖子的评论中回答，但文本太长了🙂所以，我决定写一个帖子。
 
@@ -51,6 +51,6 @@ Python 的多功能性允许您在职业生涯中改变兴趣时从一个工作�
 
 这并不能抹杀这样一个事实:一旦你深入研究了 Python，学习对 R 及其 Tidyverse 生态系统的包有一个基本的了解，这绝对是一个加分项，在很多情况下会证明非常有用。您不应该低估 R 社区的规模，许多解决方案都是用 R 开发的。因此，将这种语言的知识加入您的武库是一个成功的选择。还因为，与一些人的想法相反，Python 和 R 不再是两个分割的世界。有双语 ide 允许你使用两种语言进行开发。一个例子是 *RStudio* ，如本文所示:
 
-[](https://www.rstudio.com/blog/creating-collaborative-bilingual-teams/)  
+<https://www.rstudio.com/blog/creating-collaborative-bilingual-teams/>  
 
 因此，如果您愿意，您可以通过开发一个解决方案来充分利用这两种语言。两种语言都可以享受！🙂

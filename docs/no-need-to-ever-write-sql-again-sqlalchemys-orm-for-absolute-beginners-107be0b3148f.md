@@ -23,7 +23,7 @@ ORM 代表对象关系映射。这是一种在 Python 代码和 SQL 表之间充
 
 现在我们知道使用 ORM 是个好主意，让我们来看看如何使用。
 
-[](/keep-your-code-secure-by-using-environment-variables-and-env-files-4688a70ea286)  
+</keep-your-code-secure-by-using-environment-variables-and-env-files-4688a70ea286>  
 
 # 使用 ORM
 
@@ -37,7 +37,7 @@ ORM 代表对象关系映射。这是一种在 Python 代码和 SQL 表之间充
 
 **注意** : SQLALchemy 需要一个允许 Python 从我们的数据库中读取数据的数据库引擎。看看下面这篇关于如何创建一个的短文。
 
-[](/sqlalchemy-for-absolute-beginners-22227a287ef3)  
+</sqlalchemy-for-absolute-beginners-22227a287ef3>  
 
 ## 1.创建表格
 
@@ -51,7 +51,7 @@ ORM 代表对象关系映射。这是一种在 Python 代码和 SQL 表之间充
 
 注意，这是我们定义表结构的唯一地方。这意味着您可以将所有的表模型捆绑在一起，而不是在整个项目中使用原始 SQL。
 
-[](/sql-insert-delete-and-update-in-one-statement-sync-your-tables-with-merge-14814215d32c) [## SQL —在一条语句中插入、删除和更新:用 MERGE 同步表
+</sql-insert-delete-and-update-in-one-statement-sync-your-tables-with-merge-14814215d32c> [## SQL —在一条语句中插入、删除和更新:用 MERGE 同步表
 
 towardsdatascience.com](/sql-insert-delete-and-update-in-one-statement-sync-your-tables-with-merge-14814215d32c) 
 
@@ -63,7 +63,7 @@ towardsdatascience.com](/sql-insert-delete-and-update-in-one-statement-sync-your
 
 我们通过创建以前的 student 类的新实例来创建一个新的学生。然后，我们使用导入的 sessionmaker 添加并提交到我们的表中。这不仅非常容易；请注意，我们没有编写一行 SQL！
 
-[](/applying-python-multiprocessing-in-2-lines-of-code-3ced521bac8f)  
+</applying-python-multiprocessing-in-2-lines-of-code-3ced521bac8f>  
 
 ## 3.使用 ORM 选择记录
 
@@ -80,7 +80,7 @@ towardsdatascience.com](/sql-insert-delete-and-update-in-one-statement-sync-your
 *Student mike is 33 years old*
 ```
 
-*[](/dramatically-improve-your-database-inserts-with-a-simple-upgrade-6dfa672f1424) * 
+*</dramatically-improve-your-database-inserts-with-a-simple-upgrade-6dfa672f1424> * 
 
 ## *4.删除记录*
 
@@ -90,7 +90,7 @@ towardsdatascience.com](/sql-insert-delete-and-update-in-one-statement-sync-your
 
 *请注意，我们对 delete 语句应用了一些过滤。我们当然可以在前一部分的 select 语句中做同样的事情。*
 
-*[](/getting-started-with-cython-how-to-perform-1-7-billion-calculations-per-second-in-python-b83374cfcf77) * 
+*</getting-started-with-cython-how-to-perform-1-7-billion-calculations-per-second-in-python-b83374cfcf77> * 
 
 ## *5.更新记录*
 
@@ -100,7 +100,7 @@ towardsdatascience.com](/sql-insert-delete-and-update-in-one-statement-sync-your
 
 *与`delete`和`select`语句的不同之处在于，我们还添加了用来更新所选记录的新值。这些在 6 号线上整齐的传递。*
 
-*[](/git-for-absolute-beginners-understanding-git-with-the-help-of-a-video-game-88826054459a) * 
+*</git-for-absolute-beginners-understanding-git-with-the-help-of-a-video-game-88826054459a> * 
 
 # *ORM 的更多优势:验证*
 
@@ -108,15 +108,15 @@ towardsdatascience.com](/sql-insert-delete-and-update-in-one-statement-sync-your
 
 *如你所见，我们检查提供的年龄是否大于 110，如果是，则抛出一个错误。这将防止该记录被插入我们的数据库。*
 
-*[](/docker-for-absolute-beginners-the-difference-between-an-image-and-a-container-7e07d4c0c01d) * 
+*</docker-for-absolute-beginners-the-difference-between-an-image-and-a-container-7e07d4c0c01d> * 
 
 # *关系呢？*
 
 *目前我们只有一张桌子:学生。大多数应用程序都有更多相互关联的表。学生是班级的一部分，有多门课程。每门课程有一名教师等。*
 
-*SQLAlchemy ORM 允许您在一条语句中轻松地查询相关的表:选择一个学生还将返回与该学生相关的所有班级、课程和教师。请关注我的下一篇文章[](https://mikehuls.medium.com/membership)**！***
+*SQLAlchemy ORM 允许您在一条语句中轻松地查询相关的表:选择一个学生还将返回与该学生相关的所有班级、课程和教师。请关注我的下一篇文章<https://mikehuls.medium.com/membership>**！***
 
-***[](/image-analysis-for-beginners-destroying-duck-hunt-with-opencv-e19a27fd8b6) *** 
+***</image-analysis-for-beginners-destroying-duck-hunt-with-opencv-e19a27fd8b6> *** 
 
 # ***后续步骤:***
 
@@ -131,7 +131,7 @@ towardsdatascience.com](/sql-insert-delete-and-update-in-one-statement-sync-your
 
 ***在以后的文章中，我们将探索如何在 ORM 中动态生成模型，以及如何使用通过外键相关的表，所以请确保 [**跟随我**](http://mikehuls.medium.com/membership) 。***
 
-***[](/virtual-environments-for-absolute-beginners-what-is-it-and-how-to-create-one-examples-a48da8982d4b) *** 
+***</virtual-environments-for-absolute-beginners-what-is-it-and-how-to-create-one-examples-a48da8982d4b> *** 
 
 # ***结论***
 
@@ -150,4 +150,4 @@ towardsdatascience.com](/sql-insert-delete-and-update-in-one-statement-sync-your
 
 ***附注:喜欢我正在做的事吗？ [*跟我来！*](https://mikehuls.medium.com/membership)***
 
-***[](https://mikehuls.medium.com/membership) ***
+***<https://mikehuls.medium.com/membership> ***

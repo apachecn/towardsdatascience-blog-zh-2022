@@ -16,7 +16,7 @@
 
 **Extra:** 在此阅读更多关于设置虚拟环境的信息:
 
-[](https://medium.com/swlh/painless-easy-virtual-environment-setup-for-your-python-project-5aed144acebf)  
+<https://medium.com/swlh/painless-easy-virtual-environment-setup-for-your-python-project-5aed144acebf>  
 
 经过一番疯狂的谷歌搜索，我终于找到了这个快速可靠的解决方案:
 

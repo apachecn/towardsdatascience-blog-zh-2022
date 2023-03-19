@@ -18,7 +18,7 @@ decorators 的美妙之处在于它们非常容易应用，但是为你的代码
 
 本文的目标是为您提供一些现成的装饰器，并启发您开发一些方便的、通用的装饰器。
 
-***在我们开始之前:*** 你知道你还可以让装修工记录状态吗？示例:计算一个函数被调用的次数，这样你就可以对它进行速率限制。请务必阅读本文[](https://mikehuls.medium.com/six-levels-of-python-decorators-1f12c9067b23)**以了解装饰器是如何工作的，如何应用它们以及何时使用装饰器。在这篇文章中，我们用 6 个越来越复杂的步骤来探索装饰者。**
+***在我们开始之前:*** 你知道你还可以让装修工记录状态吗？示例:计算一个函数被调用的次数，这样你就可以对它进行速率限制。请务必阅读本文<https://mikehuls.medium.com/six-levels-of-python-decorators-1f12c9067b23>**以了解装饰器是如何工作的，如何应用它们以及何时使用装饰器。在这篇文章中，我们用 6 个越来越复杂的步骤来探索装饰者。**
 
 # **1.计时器**
 
@@ -119,4 +119,4 @@ Exception in trycatchExample: division by zero
 
 **页（page 的缩写）学生:比如我正在做的事情？[跟着我！](https://mikehuls.medium.com/membership)**
 
-**[](https://mikehuls.medium.com/membership) **
+**<https://mikehuls.medium.com/membership> **

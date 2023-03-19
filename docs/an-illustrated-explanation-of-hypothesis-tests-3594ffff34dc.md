@@ -109,4 +109,4 @@ GitHub 代码:【https://tinyurl.com/3csp5ejm
 
 如果你喜欢这个内容，请关注我的博客。
 
-[](https://gustavorsantos.medium.com/)  [](https://en.wikipedia.org/wiki/Statistical_hypothesis_testing) 
+<https://gustavorsantos.medium.com/>  <https://en.wikipedia.org/wiki/Statistical_hypothesis_testing> 

@@ -235,10 +235,10 @@
 
 *****您可以在此处找到前三门课程的总结:*****
 
-*****[](/key-learning-points-from-mlops-specialization-course-deeplearning-ai-andrew-ng-5d0746605752)  [](/key-learning-points-from-mlops-specialization-course-2-13af51e22d90)  [](/key-learning-points-from-mlops-specialization-course-3-9e67558212ee)  
+*****</key-learning-points-from-mlops-specialization-course-deeplearning-ai-andrew-ng-5d0746605752>  </key-learning-points-from-mlops-specialization-course-2-13af51e22d90>  </key-learning-points-from-mlops-specialization-course-3-9e67558212ee>  
 
 # 在你走之前
 
 欢迎您来到**加入我的数据科学学习之旅！**点击此 [Medium](https://kennethleungty.medium.com/) 页面，查看我的 [GitHub](https://github.com/kennethleungty) ，了解更多精彩的数据科学内容。同时，享受构建生产 ML 系统的乐趣！
 
-[](https://kennethleungty.medium.com/membership) *****
+<https://kennethleungty.medium.com/membership> *****

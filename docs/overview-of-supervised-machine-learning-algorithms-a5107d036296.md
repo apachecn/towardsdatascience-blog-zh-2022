@@ -213,7 +213,7 @@
 *   **特征空间映射**:想法是将非线性数据投影到一个特征空间，在那里数据变成线性。一个简单的例子是**多项式回归**，即使它通常不以这种方式呈现。这里有一个[的课堂笔记](https://cs229.stanford.edu/notes2020fall/notes2020fall/cs229-notes3.pdf)对统一方法很有帮助。有了正则化，就变成了**内核脊**。由于其计算性能，它主要用于 SVM。值得注意的是特征空间映射和内核技巧之间的区别。([这里](https://stats.stackexchange.com/questions/463255/kernels-in-svm-primal-form/)是一个有趣的讨论)。
 *   **函数组合** : [GAM](https://en.wikipedia.org/wiki/Generalized_additive_model) 使用加法方法组合函数，而[神经网络](/visualize-how-a-neural-network-works-from-scratch-3c04918a278)在全局线性函数(或 softmax 回归)中使用多层激活函数。中间层包括将非线性数据转换到最终空间，在最终空间中，数据可以以线性方式建模。你可以在下面找到我写的一篇文章，用一个神经网络来可视化数据的转换。
 
-[](/animations-of-neural-networks-transforming-data-42005e8fffd9)  ![](img/11e49a76d21ca676e116ea1d63c5b201.png)
+</animations-of-neural-networks-transforming-data-42005e8fffd9>  ![](img/11e49a76d21ca676e116ea1d63c5b201.png)
 
 线性模型增强(图片由作者提供)
 
@@ -227,11 +227,11 @@
 
 对于 **LDA** 和 **logistic 回归**，我写了一篇文章来说明它们其实非常相似。它们是同一个模型(数学函数相同，只是变量前的系数不同)。
 
-[](/intuitively-how-can-we-better-understand-logistic-regression-97af9e77e136)  
+</intuitively-how-can-we-better-understand-logistic-regression-97af9e77e136>  
 
 要了解更多的细节，你可以写我写的这篇关于线性分类器到非线性分类器的转换的文章，附带一些可视化。
 
-[](/intuitively-how-can-we-build-non-linear-classifiers-10c381ed633e)  
+</intuitively-how-can-we-build-non-linear-classifiers-10c381ed633e>  
 
 # 6.结论
 

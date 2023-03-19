@@ -182,7 +182,7 @@ profile.to_file("rainfall.html")
 
 # 相关文章
 
-[](/data-preprocessing-with-python-pandas-part-1-missing-data-45e76b781993)  [](/data-processing-with-python-pandas-part-2-data-formatting-710c2eafa426)  [](/data-preprocessing-with-python-pandas-part-3-normalisation-5b5392d27673)  [](/data-preprocessing-with-python-pandas-part-4-standardization-ccd5b1608f1c)  [](/data-preprocessing-with-python-pandas-part-5-binning-c5bd5fd1b950)  [](/data-preprocessing-in-python-pandas-part-6-dropping-duplicates-e35e46bcc9d6)  
+</data-preprocessing-with-python-pandas-part-1-missing-data-45e76b781993>  </data-processing-with-python-pandas-part-2-data-formatting-710c2eafa426>  </data-preprocessing-with-python-pandas-part-3-normalisation-5b5392d27673>  </data-preprocessing-with-python-pandas-part-4-standardization-ccd5b1608f1c>  </data-preprocessing-with-python-pandas-part-5-binning-c5bd5fd1b950>  </data-preprocessing-in-python-pandas-part-6-dropping-duplicates-e35e46bcc9d6>  
 
 ## 你知道 scikit-learn 也提供数据清理功能吗？
 

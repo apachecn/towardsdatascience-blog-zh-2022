@@ -105,4 +105,4 @@
 
 点击此处开始使用 Google Cloud Vision API 和 AutoML Vision [:](https://bit.ly/googlecloudvision)
 
-[](https://bit.ly/googlecloudvision) 
+<https://bit.ly/googlecloudvision> 

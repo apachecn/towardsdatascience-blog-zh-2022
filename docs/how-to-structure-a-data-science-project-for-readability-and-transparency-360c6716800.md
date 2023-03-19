@@ -179,7 +179,7 @@ make setup
 
 由于 Git 对于二进制文件的版本控制并不理想，我们使用 DVC——数据版本控制来对我们的数据和模型进行版本控制。
 
-[](/introduction-to-dvc-data-version-control-tool-for-machine-learning-projects-7cb49c229fe0)  
+</introduction-to-dvc-data-version-control-tool-for-machine-learning-projects-7cb49c229fe0>  
 
 我们在`dvc.yaml`文件中指定了 DVC 阶段。每个阶段代表单独的数据过程，包括它们的输入(`deps`)和结果输出(`outs`)。
 
@@ -224,7 +224,7 @@ git push origin <branch>
 
 然而，在提交代码之前检查所有这些标准可能会让人不知所措。预提交是一个框架，允许您在提交代码之前识别代码中的简单问题。
 
-[](/4-pre-commit-plugins-to-automate-code-reviewing-and-formatting-in-python-c80c6d2e9f5)  
+</4-pre-commit-plugins-to-automate-code-reviewing-and-formatting-in-python-c80c6d2e9f5>  
 
 您可以在预提交管道中添加不同的插件。一旦你的文件被提交，它们将被这些插件检查。除非通过所有检查，否则不会提交任何代码。
 
@@ -289,10 +289,10 @@ make docs_save
 
 请随意使用这里的数据科学模板:
 
-[](https://github.com/khuyentran1401/data-science-template)  
+<https://github.com/khuyentran1401/data-science-template>  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的数据科学工具。你可以在 LinkedIn 和 Twitter 上与我联系。
 
 如果你想查看我写的文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/dagshub-a-github-supplement-for-data-scientists-and-ml-engineers-9ecaf49cc505)  [](/introduction-to-weight-biases-track-and-visualize-your-machine-learning-experiments-in-3-lines-9c9553b0f99d)  [](/pytest-for-data-scientists-2990319e55e6)  [](/orchestrate-a-data-science-project-in-python-with-prefect-e69c61a49074) 
+</dagshub-a-github-supplement-for-data-scientists-and-ml-engineers-9ecaf49cc505>  </introduction-to-weight-biases-track-and-visualize-your-machine-learning-experiments-in-3-lines-9c9553b0f99d>  </pytest-for-data-scientists-2990319e55e6>  </orchestrate-a-data-science-project-in-python-with-prefect-e69c61a49074> 

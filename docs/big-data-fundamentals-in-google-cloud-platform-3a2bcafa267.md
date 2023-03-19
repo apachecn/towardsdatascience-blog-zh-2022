@@ -12,7 +12,7 @@ Pawel Czerwinski 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_mediu
 
 欢迎来到 GCP 专业数据工程师认证系列的第二部分。在第一部分，我们介绍了谷歌的云平台及其层次结构。您可以在这里找到第 1 部分:
 
-[](/part-1-road-to-google-cloud-professional-data-engineer-introduction-to-the-google-cloud-7abbd3411f3a)  
+</part-1-road-to-google-cloud-professional-data-engineer-introduction-to-the-google-cloud-7abbd3411f3a>  
 
 在这一部分，我们将讨论大数据技术和机器学习方面的服务和 GCP 的产品。
 
@@ -64,19 +64,19 @@ GCP 存储流程图。图片作者。
 
 这种软件的一个很好的例子是 Apache Spark 和它的机器学习包(Apache SparkML)。查看我的另一个博客，在创纪录的时间内运行 Spark 作业，而不需要任何基础设施开销。
 
-[](/running-a-spark-job-in-less-than-10-minutes-with-no-infrastructure-fe79f1c41780)  
+</running-a-spark-job-in-less-than-10-minutes-with-no-infrastructure-fe79f1c41780>  
 
 你喜欢这篇文章吗？如果是，请考虑订阅我的电子邮件列表，以便在我发布新内容时得到通知。
 
-[](https://david-farrugia.medium.com/subscribe)  
+<https://david-farrugia.medium.com/subscribe>  
 
 **此外，考虑成为会员，使用我下面的推荐链接来支持我和你在 Medium 上喜欢的其他作家。每月 5 美元，你就可以无限制地阅读 Medium 上的每一篇文章。**
 
-[](https://david-farrugia.medium.com/membership)  
+<https://david-farrugia.medium.com/membership>  
 
 **想给我买杯咖啡吗？**
 
-[](https://paypal.me/itsdavidfarrugia?country.x=MT&locale.x=en_US)  
+<https://paypal.me/itsdavidfarrugia?country.x=MT&locale.x=en_US>  
 
 # 想联系吗？
 

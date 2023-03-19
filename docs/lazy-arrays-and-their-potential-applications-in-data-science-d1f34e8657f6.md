@@ -12,19 +12,19 @@
 
 数据科学就是寻找适合完美模型的完美数据。有时，某些模型可能比其他模型需要更多的数据，这是由于偏差的原因。如果你想知道更多关于一个给定的模型是如何不足或过度的，以及偏见意味着什么，我有一整篇文章，你可以在这里阅读:
 
-[](/everything-you-need-to-know-about-bias-over-fitting-and-under-fitting-8e2c1963107b)  
+</everything-you-need-to-know-about-bias-over-fitting-and-under-fitting-8e2c1963107b>  
 
 也就是说，如果你有一个巨大的模型，有很多非常好的、统计上显著的特征，但仍然不合适，会发生什么？换句话说，如果您的模型急需数据，但由于硬件的限制，您似乎没有办法输入更多的数据，该怎么办呢？不管你有什么样的系统，它的内存容量总是有限的。也许你碰巧在一台内存很小的电脑上工作，比如 Chromebook 或类似的东西。对于这些情况，我有几个选项，您必须补救您的数据问题。
 
 第一种选择是利用分解。分解可以采用许多不同的维度和特性，并将它们压缩成本质上一个可读的特性。这将节省大量内存，也有利于机器学习模型的性能和分析，但是像分解这样的事情是有限制的，它不会完全解决这些问题。我确实有一篇关于奇异值分解的文章，这可能是最恰当和最流行的分解形式，如果你想了解更多关于这个主题的知识，你可以在这里阅读:
 
-[](/deep-in-singular-value-decomposition-98cfd9532241) [## 深入奇异值分解
+</deep-in-singular-value-decomposition-98cfd9532241> [## 深入奇异值分解
 
 towardsdatascience.com](/deep-in-singular-value-decomposition-98cfd9532241) 
 
 下一个方法是把数组变成表达式。这很像随机投影，但是当你真正开始考虑它的时候，它确实变得有点困难。你怎么能做出一个通用的表达式来表示整个数组的数据呢？今天我想考虑的就是这个，以及这些表达式数组的应用，它们可以帮助机器学习领域的人。此外，我决定在本文中编写我们自己的惰性数组，我在一个笔记本中快速完成了这项工作，下面是该笔记本文件的链接:
 
-[](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/lazyarrays.ipynb)  
+<https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/lazyarrays.ipynb>  
 
 > 顺便说一句，两年多的笔记本提交到那个仓库。2022 年将是我在 Medium 上写博客的第三年。非常感谢大家这两三年的美好时光！
 

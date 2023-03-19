@@ -137,8 +137,8 @@ df
 
 ## [我还建议成为一名中等会员，以便不要错过我发表的任何数据科学文章。](https://ipom.medium.com/membership/)在此加入👇
 
-[](https://ipom.medium.com/membership/)  
+<https://ipom.medium.com/membership/>  
 
 我的几篇文章你可能会觉得有趣:
 
-[](/26-github-repositories-to-inspire-your-next-data-science-project-3023c24f4c3c)  [](/the-nice-way-to-manage-your-data-science-workflow-7fb92a2ee4a2) 
+</26-github-repositories-to-inspire-your-next-data-science-project-3023c24f4c3c>  </the-nice-way-to-manage-your-data-science-workflow-7fb92a2ee4a2> 

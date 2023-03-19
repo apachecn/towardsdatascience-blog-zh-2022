@@ -16,7 +16,7 @@
 
 对于代码本身，你可能已经在使用某种版本控制系统，比如 [git](https://git-scm.com/about) 或 [GitHub](https://github.com/features) 。这些确保了使用了正确的代码版本。只要您和您的团队正确使用它，找到最新版本的代码应该是一件简单的事情。
 
-[](/github-desktop-for-data-scientists-b9d8a3afc5ea)  
+</github-desktop-for-data-scientists-b9d8a3afc5ea>  
 
 变化的另一个来源是代码运行的环境，比如使用的 python 版本或者安装的包的版本。
 
@@ -117,7 +117,7 @@ $ conda env export > environment.yml
 
 我们讨论了使用环境背后的动机，提供了一个例子，当使用相同包的不同版本时，相同的代码可以提供不同的执行。我们还介绍了一些使用 conda 从命令行管理环境的最有用的命令，例如创建环境，使用`environment.yml`文件创建环境，以及创建`environment.yml`文件与他人共享您的环境。
 
-[](https://realdrewdata.medium.com/membership)  
+<https://realdrewdata.medium.com/membership>  
 
 有关使用 conda 管理 python 环境的更多信息，请查看以下资源:
 

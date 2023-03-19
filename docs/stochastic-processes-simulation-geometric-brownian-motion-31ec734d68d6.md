@@ -164,20 +164,20 @@
 
 在[媒体](https://medium.com/@diego-barba)上关注我，订阅以在下一个故事一出来就获得更新。
 
-[](https://medium.com/subscribe/@diego-barba)  
+<https://medium.com/subscribe/@diego-barba>  
 
 我希望这个故事对你有用。如果我错过了什么，请让我知道。
 
 喜欢这个故事吗？通过我的推荐链接成为媒体会员，可以无限制地访问我的故事和许多其他内容。
 
-[](https://medium.com/@diego-barba/membership)  
+<https://medium.com/@diego-barba/membership>  
 
 ## 浏览随机过程模拟系列
 
 该系列之前的故事:
 
-[](/stochastic-processes-simulation-brownian-motion-the-basics-c1d71585d9f9)  [](/stochastic-processes-simulation-the-ornstein-uhlenbeck-process-e8bff820f3)  [](/stochastic-processes-simulation-the-cox-ingersoll-ross-process-c45b5d206b2b)  
+</stochastic-processes-simulation-brownian-motion-the-basics-c1d71585d9f9>  </stochastic-processes-simulation-the-ornstein-uhlenbeck-process-e8bff820f3>  </stochastic-processes-simulation-the-cox-ingersoll-ross-process-c45b5d206b2b>  
 
 系列的下一个故事:
 
-[](/stochastic-processes-simulation-generalized-geometric-brownian-motion-a327c0fa6226) 
+</stochastic-processes-simulation-generalized-geometric-brownian-motion-a327c0fa6226> 

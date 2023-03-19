@@ -244,6 +244,6 @@ D.为什么它是物理学知识(第 3.2 章)
 
 如果你喜欢这篇文章，你想知道更多关于机器学习的知识，或者你只是想问我一些你可以问的问题:
 
-A.关注我在 Linkedin 上的[](https://www.linkedin.com/in/pieropaialunga/)**，在那里我发布我所有的故事
+A.关注我在 Linkedin 上的<https://www.linkedin.com/in/pieropaialunga/>**，在那里我发布我所有的故事
 B .订阅我的 [**简讯**](https://piero-paialunga.medium.com/subscribe) 。这会让你了解新的故事，并给你机会发短信给我，让我收到你所有的更正或疑问。
 C .成为 [**推荐会员**](https://piero-paialunga.medium.com/membership) ，这样你就不会有任何“本月最大数量的故事”，你可以阅读我(以及成千上万其他机器学习和数据科学顶级作家)写的任何关于现有最新技术的文章。**

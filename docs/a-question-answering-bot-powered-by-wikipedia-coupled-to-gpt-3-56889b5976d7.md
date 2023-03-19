@@ -112,7 +112,7 @@ GPT 3 号为许多项目提供动力，这些项目在一年前还是不可想�
 
 要了解更多关于 Quillbot 的信息，请查看:
 
-[](https://medium.com/technology-hits/could-this-automatic-summarization-tool-revolutionize-writing-c042908c170d)  
+<https://medium.com/technology-hits/could-this-automatic-summarization-tool-revolutionize-writing-c042908c170d>  
 
 # 这个机器人到底是怎么工作的？
 
@@ -184,7 +184,7 @@ function stripHTML(html){
 
 还有一件非常酷的事情:你会看到这个机器人也在听并大声读出答案。正如我在这里展示的那样:
 
-[](/coupling-gpt-3-with-speech-recognition-and-synthesis-to-achieve-a-fully-talking-chatbot-that-runs-abfcb7bf580)  
+</coupling-gpt-3-with-speech-recognition-and-synthesis-to-achieve-a-fully-talking-chatbot-that-runs-abfcb7bf580>  
 
 # 再举一个例子
 
@@ -244,7 +244,7 @@ function stripHTML(html){
 
 # 相关阅读资料、资源和项目
 
-[](https://arxiv.org/abs/2005.14165)  [](https://freshman.tech/wikipedia-javascript/)  [](/control-web-apps-via-natural-language-by-casting-speech-to-commands-with-gpt-3-113177f4eab1)  [](/gpt-3-like-models-with-extended-training-could-be-the-future-24-7-tutors-for-biology-students-904d2ae7986a)  [](/coupling-gpt-3-with-speech-recognition-and-synthesis-to-achieve-a-fully-talking-chatbot-that-runs-abfcb7bf580)  ![](img/83ed4eb57ee6df1e8c789539fa442dc2.png)
+<https://arxiv.org/abs/2005.14165>  <https://freshman.tech/wikipedia-javascript/>  </control-web-apps-via-natural-language-by-casting-speech-to-commands-with-gpt-3-113177f4eab1>  </gpt-3-like-models-with-extended-training-could-be-the-future-24-7-tutors-for-biology-students-904d2ae7986a>  </coupling-gpt-3-with-speech-recognition-and-synthesis-to-achieve-a-fully-talking-chatbot-that-runs-abfcb7bf580>  ![](img/83ed4eb57ee6df1e8c789539fa442dc2.png)
 
 图由作者来自公开图片。
 

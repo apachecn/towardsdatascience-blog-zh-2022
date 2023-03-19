@@ -140,14 +140,14 @@ Giphy 的 GIF
 
 这是探索数据结构及其在 Python 中的使用和实现系列的第七篇文章。如果您错过了 Python 中的链表、栈和字典的前三部分，您可以在以下链接中找到它们:
 
-[](/a-complete-guide-to-linked-lists-in-python-c52b6cb005)  [](/a-complete-guide-to-stacks-in-python-ee4e2045a704)  [](/a-complete-guide-to-dictionaries-in-python-5c3f4c132569)  
+</a-complete-guide-to-linked-lists-in-python-c52b6cb005>  </a-complete-guide-to-stacks-in-python-ee4e2045a704>  </a-complete-guide-to-dictionaries-in-python-5c3f4c132569>  
 
 本系列的后续文章将涉及链表、队列和图形。为了确保您不会错过任何内容，请注册以便在发布时收到电子邮件通知:
 
-[](https://philip-wilkinson.medium.com/subscribe)  
+<https://philip-wilkinson.medium.com/subscribe>  
 
 如果你喜欢你所读的，但还不是一个中等会员，那么考虑使用我下面的推荐代码注册，在这个平台上支持我自己和其他了不起的作者:
 
-[](https://philip-wilkinson.medium.com/membership)  
+<https://philip-wilkinson.medium.com/membership>  
 
 感谢您的阅读！

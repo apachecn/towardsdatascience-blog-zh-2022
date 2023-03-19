@@ -18,7 +18,7 @@
 
 我以前写过这些数据。
 
-[](/three-datasets-i-often-use-as-examples-c70ec5b2f793)  
+</three-datasets-i-often-use-as-examples-c70ec5b2f793>  
 
 这些数据告诉我们大约 74 辆车。我们知道每辆车的品牌、价格、效率(mpg)和其他因素。
 
@@ -189,7 +189,7 @@ plt.show()
 
 作者的再现。使用此处指定的数据和代码。
 
-[](https://adamrossnelson.medium.com/membership)  
+<https://adamrossnelson.medium.com/membership>  
 
 # 感谢阅读
 

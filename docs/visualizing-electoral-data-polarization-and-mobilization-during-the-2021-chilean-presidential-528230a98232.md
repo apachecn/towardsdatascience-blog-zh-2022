@@ -397,6 +397,6 @@ fontsize='xx-small'
 
 尽管选举发生在去年 12 月，案例研究来得有点晚，但在智利另一场关键选举即将到来的情况下分析这些数据仍然很有趣:9 月 4 日的宪法公投。
 
-*此处可用*[](https://medium.com/@louisleclerc/una-visualizaci%C3%B3n-de-datos-electorales-polarizaci%C3%B3n-y-movilizaci%C3%B3n-durante-las-elecciones-5315435af9b7)**翻译成西班牙语。**
+*此处可用*<https://medium.com/@louisleclerc/una-visualizaci%C3%B3n-de-datos-electorales-polarizaci%C3%B3n-y-movilizaci%C3%B3n-durante-las-elecciones-5315435af9b7>**翻译成西班牙语。**
 
 **上一届法国总统选举后的一个形象化的* [*《世界报》*](https://www.lemonde.fr/les-decodeurs/article/2022/05/04/election-presidentielle-2022-quels-reports-de-voix-entre-les-deux-tours_6124672_4355770.html) *启发了这个案例研究。**

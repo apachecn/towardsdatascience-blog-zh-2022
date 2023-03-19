@@ -60,7 +60,7 @@ MedInc 变量在其值较高时具有非常高的正贡献，而在低值时具�
 
 我在 github 上提供了这一部分的代码。看看这个:
 
-[](https://github.com/vinyluis/Articles/tree/main/Boruta%20SHAP)  
+<https://github.com/vinyluis/Articles/tree/main/Boruta%20SHAP>  
 
 要在 Python 中使用 SHAP，我们需要安装 SHAP 模块:
 
@@ -196,7 +196,7 @@ shap.plots.force(shap_test[0])
 
 记得查看这篇文章的笔记本:
 
-[](https://github.com/vinyluis/Articles/tree/main/Boruta%20SHAP)  
+<https://github.com/vinyluis/Articles/tree/main/Boruta%20SHAP>  
 
 # 如果你喜欢这个帖子…
 
@@ -208,7 +208,7 @@ shap.plots.force(shap_test[0])
 
 看看这个很棒的帖子
 
-[](/boruta-shap-an-amazing-tool-for-feature-selection-every-data-scientist-should-know-33a5f01285c0)  
+</boruta-shap-an-amazing-tool-for-feature-selection-every-data-scientist-should-know-33a5f01285c0>  
 
 # 参考资料:
 

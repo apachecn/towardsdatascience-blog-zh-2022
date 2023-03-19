@@ -46,19 +46,19 @@ ML 建模的主要组件(图片由作者提供)
 
 *数据整合:*
 
-[](/three-critical-elements-of-data-preprocessing-part-1-3c16f46f8ced?sk=f383e05e79c640216fdb820cc74d6ed2)  
+</three-critical-elements-of-data-preprocessing-part-1-3c16f46f8ced?sk=f383e05e79c640216fdb820cc74d6ed2>  
 
 *数据清洗:*
 
-[](/three-critical-elements-of-data-preprocessing-part-2-2078110ae8e7)  
+</three-critical-elements-of-data-preprocessing-part-2-2078110ae8e7>  
 
 *数据转换:*
 
-[](/three-critical-elements-of-data-preprocessing-part-3-6a7da681ae16)  
+</three-critical-elements-of-data-preprocessing-part-3-6a7da681ae16>  
 
 *数据探索:*
 
-[](/four-common-pitfalls-to-avoid-in-exploratory-data-analysis-85d822dd5e34)  
+</four-common-pitfalls-to-avoid-in-exploratory-data-analysis-85d822dd5e34>  
 
 **算法**
 
@@ -88,4 +88,4 @@ ML 模型是通过将算法与数据相匹配而得到的对象。它已经过�
 
 你可以通过下面我的推荐链接订阅 Medium 来获得更多我和其他作者的启发性文章，这也支持我的写作。谢谢大家！
 
-[](https://aolaoye.medium.com/membership) 
+<https://aolaoye.medium.com/membership> 

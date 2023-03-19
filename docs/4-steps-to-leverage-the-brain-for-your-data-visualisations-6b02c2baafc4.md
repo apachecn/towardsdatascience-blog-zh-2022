@@ -127,7 +127,7 @@
 
 你可以把最重要的观想/订书钉作为焦点。一个人的眼睛会自然地移向那里，使观想更加吸引人。有关这方面的更多信息，请参见以下内容:
 
-[](https://medium.com/inside-design/a-guide-to-the-golden-ratio-for-designers-b727ce1739ca)  
+<https://medium.com/inside-design/a-guide-to-the-golden-ratio-for-designers-b727ce1739ca>  
 
 ## 4.其他前注意属性
 
@@ -200,7 +200,7 @@
 
 或者，如果您有兴趣加入 Medium 社区，这里有一个推荐链接:
 
-[](https://medium.com/@adrian.causby15/membership) [## 通过我的推荐链接加入 Medium-Adrian caus by
+<https://medium.com/@adrian.causby15/membership> [## 通过我的推荐链接加入 Medium-Adrian caus by
 
 medium.com](https://medium.com/@adrian.causby15/membership) 
 

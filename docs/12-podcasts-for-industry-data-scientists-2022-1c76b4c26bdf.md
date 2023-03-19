@@ -24,7 +24,7 @@ TLDR；
 *   [*a16z*](https://future.a16z.com/a16z-podcast/)
 *   [*像经济学家一样思考*](https://www.himalaya.com/courses/think-like-an-economist-2340161)
 *   [*HBR*](https://hbr.org/2018/01/podcast-ideacast)
-*   [](https://hanselminutes.com/)
+*   <https://hanselminutes.com/>
 *   *[*零食日用*](https://snacks.robinhood.com/)*
 *   *[*大师级*](https://mastersofscale.com/)*
 *   *[*《华尔街日报》未来的一切*](https://www.wsj.com/podcasts/wsj-the-future-of-everything)*
@@ -69,7 +69,7 @@ TLDR；
 
 ## *W 讲的是什么？*
 
-*2021 年我最喜欢的发现之一——下班后的[](https://www.ted.com/podcasts/after-hours)*播客简直是音频黄金。每一集都包含三位主持人 Youngme Moon、Mihir Desai 和 Felix Oberholzer-Gee 对两个热门故事(例如 2021 供应链，Zillow 的大摸索)。**
+*2021 年我最喜欢的发现之一——下班后的<https://www.ted.com/podcasts/after-hours>*播客简直是音频黄金。每一集都包含三位主持人 Youngme Moon、Mihir Desai 和 Felix Oberholzer-Gee 对两个热门故事(例如 2021 供应链，Zillow 的大摸索)。**
 
 ## **为什么你应该听:**
 
@@ -153,7 +153,7 @@ TLDR；
 
 ## **W 讲的是什么？**
 
-**有趣的未来派对话夹杂着有意的报道——这就是《华尔街日报》未来的一切[](https://www.wsj.com/podcasts/wsj-the-future-of-everything)*。他们自己的话说得最好:“*它提供了一个万花筒般的视角，展现了将塑造我们世界的新生趋势”。****
+**有趣的未来派对话夹杂着有意的报道——这就是《华尔街日报》未来的一切<https://www.wsj.com/podcasts/wsj-the-future-of-everything>*。他们自己的话说得最好:“*它提供了一个万花筒般的视角，展现了将塑造我们世界的新生趋势”。****
 
 ## **为什么你应该听:**
 

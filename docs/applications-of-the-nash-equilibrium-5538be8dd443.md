@@ -323,4 +323,4 @@ P₁ = 99 和 P₂ = 100 是纳什均衡吗？
 
 *可能有助于刷新您对术语和概念的记忆。*
 
-*[](/game-theory-666abe63215e)  [](/dominated-strategies-58504fe12106)  [](/the-nash-equilibrium-c9872e079232) *
+*</game-theory-666abe63215e>  </dominated-strategies-58504fe12106>  </the-nash-equilibrium-c9872e079232> *

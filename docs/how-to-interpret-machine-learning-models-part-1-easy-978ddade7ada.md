@@ -60,7 +60,7 @@ Lasso 是采用 L1 正则化的线性回归，负责使用惩罚权重进行要�
 
 **注**:如果想了解更多关于**线性回归**或者**套索**的内容，可以参考我之前关于线性模型的文章。
 
-[](/fish-weight-prediction-regression-analysis-for-beginners-part-1-8e43b0cb07e)  
+</fish-weight-prediction-regression-analysis-for-beginners-part-1-8e43b0cb07e>  
 
 ## 4.3 特征在线性回归和套索中的重要性
 
@@ -84,7 +84,7 @@ t 统计公式
 
 **注意**:如果你想了解更多关于**决策树的知识，**请参考我之前关于基于树的方法的文章。
 
-[](/regression-analysis-for-beginners-using-tree-based-methods-2b65bd193a7)  
+</regression-analysis-for-beginners-using-tree-based-methods-2b65bd193a7>  
 
 ## 5.2 决策树中的特征重要性:
 
@@ -409,11 +409,11 @@ Image(filename **=** 'tree.png')
 
 如果你想了解更多关于**应用数据科学**的信息，这里是**我的新 YouTube 频道**——[AI 学院与朋友](https://www.youtube.com/channel/UCvlF0PPaQ2GAuqYKJT4UpJQ)
 
-[](https://www.youtube.com/channel/UCvlF0PPaQ2GAuqYKJT4UpJQ)  
+<https://www.youtube.com/channel/UCvlF0PPaQ2GAuqYKJT4UpJQ>  
 
 > *您可以在* [*中*](https://medium.com/@gkeretchashvili) *上关注我，为即将到来的文章保持更新。*
 
-[](https://medium.com/@gkeretchashvili)  
+<https://medium.com/@gkeretchashvili>  
 
 # 参考
 

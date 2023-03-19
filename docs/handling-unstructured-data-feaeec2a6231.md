@@ -195,18 +195,18 @@ BPMN 图中的主题“getTextFromFile”通过订阅 BPMN 任务主题连接到
 
 ## 彼得的文章链接
 
-[](https://medium.com/@klauke.peter/implementing-an-external-task-worker-for-camunda-in-python-566b5ebff488)  
+<https://medium.com/@klauke.peter/implementing-an-external-task-worker-for-camunda-in-python-566b5ebff488>  
 
 ## 使用 Apache Tika 转换文档
 
-[](https://medium.com/@masreis/text-extraction-and-ocr-with-apache-tika-302464895e5f)  [](https://medium.com/mlearning-ai/convert-any-type-of-document-to-text-with-apache-tika-using-python-api-ff306c467b3)  
+<https://medium.com/@masreis/text-extraction-and-ocr-with-apache-tika-302464895e5f>  <https://medium.com/mlearning-ai/convert-any-type-of-document-to-text-with-apache-tika-using-python-api-ff306c467b3>  
 
 ## 替代方法
 
 拥有 RabbitMQ 的芹菜工人可以结合 Apache Tika 来实现类似的工作流，但是没有可执行的 BPMN 图。
 
-[](https://betterprogramming.pub/background-processing-with-rabbitmq-python-and-flask-5ca62acf409c)  
+<https://betterprogramming.pub/background-processing-with-rabbitmq-python-and-flask-5ca62acf409c>  
 
 本文中对特定供应商或第三方的引用并不表示认可，所有讨论的技术都基于可用的开源软件。专有工作流引擎提供了重要的功能，如日志和审计跟踪，这些功能更适合集成到受监管的行业中，如 GMP、Sarbanes Oxley 或金融服务监管环境。在部署智能自动化解决方案之前，务必评估控制和监管要求。
 
-[](https://cognitivedave.medium.com/membership) 
+<https://cognitivedave.medium.com/membership> 

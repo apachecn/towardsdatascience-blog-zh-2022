@@ -113,4 +113,4 @@ Gif 来自 [GIPHY](https://giphy.com/gifs/social-distancing-socialdistancing-6-f
 
 嗯，这很有趣。我希望你在阅读这篇文章的时候过得愉快，并且学到了一些关于几何(不太可能)或者朱莉娅(可能性稍微大一点)的新东西。如果你喜欢读这篇文章，**考虑在 Medium** 上关注我，我在这里发布关于数据科学、Julia 和有趣的东西。
 
-[](/estimate-pi-using-random-numbers-8b13a7e8c791)  [](https://blog.devgenius.io/make-a-command-line-game-with-julia-a408057adcfe) 
+</estimate-pi-using-random-numbers-8b13a7e8c791>  <https://blog.devgenius.io/make-a-command-line-game-with-julia-a408057adcfe> 

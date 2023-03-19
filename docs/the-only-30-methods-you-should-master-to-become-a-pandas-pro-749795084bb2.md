@@ -108,7 +108,7 @@ Pandas 为数据帧中的每一列分配适当的数据类型。
 
 在我之前的博客中阅读更多关于处理缺失数据的内容:
 
-[](/why-you-should-handle-missing-data-and-heres-how-to-do-it-270c321a4d6f)  
+</why-you-should-handle-missing-data-and-heres-how-to-do-it-270c321a4d6f>  
 
 # #12 连接数据框
 
@@ -158,7 +158,7 @@ Pandas 为数据帧中的每一列分配适当的数据类型。
 
 你可以在我之前的博客中读到基于字符串的过滤:
 
-[](/5-string-based-filtering-methods-every-pandas-user-should-know-48021938412e)  
+</5-string-based-filtering-methods-every-pandas-user-should-know-48021938412e>  
 
 ## 方法 2:获取列
 

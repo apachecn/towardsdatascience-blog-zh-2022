@@ -12,7 +12,7 @@
 
 简单线性和多元线性回归是在工程、医学和其他科学领域广泛使用的统计技术。我们可以对模型进行很好的线性拟合，但同时我们需要找出模型可以解释多少变化。R 是这种变化测量的度量，但是如果我们增加独立变量的数量，R 的值也会增加。然而，我们的 R 的增加并不一定意味着模型变得更加健壮。如果数据集中存在多重共线性，我们需要找出调整后的 R。我们之前已经讨论了如果模型在训练数据上过度拟合，惩罚对模型的影响。特别是这些被称为岭回归和套索回归。
 
-[](/simply-linear-and-polynomial-regression-9c9624774f5a)  
+</simply-linear-and-polynomial-regression-9c9624774f5a>  
 
 在这篇文章中，我将通过逐步回归和加权回归分析，这不过是常规回归的扩展。此外，我将扩展度量标准，以检查除 R 以外的 AIC 和 BIC 回归模型的稳健性。
 
@@ -52,7 +52,7 @@ AIC 和 BIC 公式[1]
 
 [我的代码页](https://www.learningfromdata.net/simple-stepwise-and-weighted-regression)
 
-[](https://mdsohel-mahmood.medium.com/membership)  
+<https://mdsohel-mahmood.medium.com/membership>  
 
 参考
 

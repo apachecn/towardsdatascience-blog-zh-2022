@@ -72,7 +72,7 @@ PyScript 将 Python 引入浏览器。我对这项新的创新感到非常兴奋
 
 **参考文献:**
 
-[](https://github.com/anaconda/pyscript)  
+<https://github.com/anaconda/pyscript>  
 
 主题演讲，王蒙杰在 2022 年美国 PyCon 上
 

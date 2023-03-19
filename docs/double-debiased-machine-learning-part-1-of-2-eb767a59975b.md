@@ -189,7 +189,7 @@ plot_alphas(alphas, true_alpha=1)
 
 **在这篇文章的第二部分中，我介绍了一个简单却非常强大的解决方案:双去偏机器学习。**
 
-**[](/double-debiased-machine-learning-part-2-bf990720a0b2)  
+**</double-debiased-machine-learning-part-2-bf990720a0b2>  
 
 ## 参考
 
@@ -209,7 +209,7 @@ plot_alphas(alphas, true_alpha=1)
 
 你可以在这里找到 Jupyter 的原始笔记本:
 
-[](https://github.com/matteocourthoud/Blog-Posts/blob/main/notebooks/pretest.ipynb)  
+<https://github.com/matteocourthoud/Blog-Posts/blob/main/notebooks/pretest.ipynb>  
 
 ## 感谢您的阅读！
 

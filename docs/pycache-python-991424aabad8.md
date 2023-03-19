@@ -66,8 +66,8 @@ Python 是一种解释型语言，这意味着你的源代码在运行时被翻�
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership)  
+<https://gmyrianthous.medium.com/membership>  
 
 **你可能也会喜欢**
 
-[](/python-linked-lists-c3622205da81)  [](/python-iterables-vs-iterators-688907fd755f)  [](/duck-typing-python-7aeac97e11f8) 
+</python-linked-lists-c3622205da81>  </python-iterables-vs-iterators-688907fd755f>  </duck-typing-python-7aeac97e11f8> 

@@ -101,4 +101,4 @@ Ray 是一个易于使用的计算框架。我们可以用它在预先训练好�
 
 # 来源:
 
-[](https://www.ray.io)  [](https://medium.com/@robertnishihara) 
+<https://www.ray.io>  <https://medium.com/@robertnishihara> 

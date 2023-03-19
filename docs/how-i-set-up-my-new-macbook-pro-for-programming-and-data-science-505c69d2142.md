@@ -229,7 +229,7 @@ JetBrains 使用 Pycharm 的原因是，在我的整个工作经历中，它向�
 
 # 你可能喜欢的其他文章
 
-[](/jupyter-notebook-or-lab-or-vs-code-b772f8388911)  [](/develop-and-sell-a-python-api-from-start-to-end-tutorial-9a038e433966)  [](/check-data-claims-yourself-with-python-an-example-8b8a92c0ae56)  
+</jupyter-notebook-or-lab-or-vs-code-b772f8388911>  </develop-and-sell-a-python-api-from-start-to-end-tutorial-9a038e433966>  </check-data-claims-yourself-with-python-an-example-8b8a92c0ae56>  
 
 # 放弃
 

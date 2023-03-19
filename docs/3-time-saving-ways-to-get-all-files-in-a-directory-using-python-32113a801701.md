@@ -247,7 +247,7 @@ C:\Users\Suraj\Challenges\01_Main_Directory\Sub_Dictionary_2\File_2_in_SubDict_2
 
 您可以使用下面的我的推荐链接加入 Medium。这将有助于我和其他作者，因为 Medium 与我们分享你的 5 美元中的一小部分。
 
-[](https://medium.com/@17.rsuraj/membership)  
+<https://medium.com/@17.rsuraj/membership>  
 
 另外，请 [**订阅**](https://medium.com/subscribe/@17.rsuraj) 我的邮件列表&将我的文章直接放入你的收件箱。
 

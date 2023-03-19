@@ -12,7 +12,7 @@
 
 *接下来的故事:*
 
-[](/python-concurrency-multiprocessing-327c02544a5a)  [](/python-concurrency-concurrent-futures-15b56dc9a14d)  
+</python-concurrency-multiprocessing-327c02544a5a>  </python-concurrency-concurrent-futures-15b56dc9a14d>  
 
 有些人喜欢线程，但更多人讨厌线程。然而，在许多情况下，这种厌恶可能源于关于 Python 中线程工作方式的错误信息。是的，编写多线程应用程序可能很难看，我们必须非常小心以避免常见的陷阱。然而，在大多数情况下，**多线程是在 Python** 中实现并发的最简单的方式。
 
@@ -196,4 +196,4 @@ Echo 客户端接收时间[图片由作者提供]。
 
 *喜欢这个故事吗？通过我下面的推荐链接成为一个媒体成员来支持我的写作。无限制地访问我的故事和许多其他内容。*
 
-[](https://medium.com/@diego-barba/membership) 
+<https://medium.com/@diego-barba/membership> 

@@ -8,7 +8,7 @@
 
 作者在 [Canva](https://canva.com/) 上创建的图片
 
-今天，我们每秒钟生成数百万、数十亿行数据。然而，我们通常需要一个单一的指标来标记变更并做出业务决策。例如，上一季度的总销售额、平均流失率、广告投放次数等。聚合函数有助于生成这些指标。聚合函数根据一组输入值计算单个结果。所有聚合函数都是确定性的，每次使用相同的输入值集调用它们时，它们都输出相同的值。我们有一篇文章——《SQL 聚合的终极指南[](https://www.stratascratch.com/blog/the-ultimate-guide-to-sql-aggregate-functions/?utm_source=blog&utm_medium=click&utm_campaign=medium)*——来获得这些函数的介绍性概述。在本文中，我们将更深入地研究 SQL 聚合函数的使用。我们将在这里讨论的各种场景是:*
+今天，我们每秒钟生成数百万、数十亿行数据。然而，我们通常需要一个单一的指标来标记变更并做出业务决策。例如，上一季度的总销售额、平均流失率、广告投放次数等。聚合函数有助于生成这些指标。聚合函数根据一组输入值计算单个结果。所有聚合函数都是确定性的，每次使用相同的输入值集调用它们时，它们都输出相同的值。我们有一篇文章——《SQL 聚合的终极指南<https://www.stratascratch.com/blog/the-ultimate-guide-to-sql-aggregate-functions/?utm_source=blog&utm_medium=click&utm_campaign=medium>*——来获得这些函数的介绍性概述。在本文中，我们将更深入地研究 SQL 聚合函数的使用。我们将在这里讨论的各种场景是:*
 
 *   *整个表上的聚合*
 *   *按组群汇总*

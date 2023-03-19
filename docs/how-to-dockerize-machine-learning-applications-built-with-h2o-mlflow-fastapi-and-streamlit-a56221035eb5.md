@@ -67,7 +67,7 @@ Philippe Oursel 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium
 
 *我们将使用的应用程序基于一个早期的项目，在该项目中，我们构建了一个端到端的 ML 管道，以**对购买额外车辆保险的可能性较高的健康保险客户进行分类**(即交叉销售)。*
 
-*[](/end-to-end-automl-train-and-serve-with-h2o-mlflow-fastapi-and-streamlit-5d36eedfe606)  
+*</end-to-end-automl-train-and-serve-with-h2o-mlflow-fastapi-and-streamlit-5d36eedfe606>  
 
 我们将不讨论管道构建，因此请参考上面的文章了解详细信息。
 
@@ -222,7 +222,7 @@ Philippe Oursel 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium
 
 ***虽然我想演示这个云部署，但是 Docker 文档已经很好地解释了在 Amazon ECS 上部署 Docker 容器。***
 
-***[](https://docs.docker.com/cloud/ecs-integration/)  
+***<https://docs.docker.com/cloud/ecs-integration/>  
 
 尽管如此，我打算很快就这个项目在其他云平台上的部署写一个指南，所以请继续关注这个中型页面！*** 
 
@@ -236,4 +236,4 @@ Philippe Oursel 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium
 
 ***欢迎您**加入我的数据科学学习之旅！**点击此[媒体](https://kennethleungty.medium.com/)页面，查看我的 [GitHub](https://github.com/kennethleungty) ，了解更多令人兴奋的数据科学内容。同时，祝你的 ML 应用程序归档愉快！***
 
-***[](/build-an-anomaly-detection-pipeline-with-isolation-forest-and-kedro-db5f4437bfab)  [](/micro-macro-weighted-averages-of-f1-score-clearly-explained-b603420b292f)  [](https://kennethleungty.medium.com/membership) ***
+***</build-an-anomaly-detection-pipeline-with-isolation-forest-and-kedro-db5f4437bfab>  </micro-macro-weighted-averages-of-f1-score-clearly-explained-b603420b292f>  <https://kennethleungty.medium.com/membership> ***

@@ -88,4 +88,4 @@ CometML 产生了一些我在机器学习中见过的最漂亮的面板。您可
 
 [1] F .麦克斯韦·哈珀和约瑟夫·康斯坦。2015.电影镜头数据集:历史和背景。美国计算机学会交互式智能系统汇刊 5，4:19:1–19:19。
 
-请到 http://itstherealdyl.com[](https://itstherealdyl.com/2022/04/28/collaborative-denoising-autoencoders-on-steam-games/)**查看我的博客，了解更多我的作品。**
+请到 http://itstherealdyl.com<https://itstherealdyl.com/2022/04/28/collaborative-denoising-autoencoders-on-steam-games/>**查看我的博客，了解更多我的作品。**

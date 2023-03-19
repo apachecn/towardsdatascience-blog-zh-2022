@@ -35,7 +35,7 @@
 
 在下面的章节中，我将展示如何在机器学习模型的稳定性的背景下计算 PSI 和 CSI。所有代码和示例都可以在我的 GitHub 资源库中找到:
 
-[](https://github.com/vinyluis/Articles/tree/main/Model%20Stability)  
+<https://github.com/vinyluis/Articles/tree/main/Model%20Stability>  
 
 # 人口稳定指数
 
@@ -121,7 +121,7 @@ for col in sample_initial.columns:
 
 另外，请参考我的 GitHub 存储库，查看一个回归和一个分类示例:
 
-[](https://github.com/vinyluis/Articles/tree/main/Model%20Stability)  
+<https://github.com/vinyluis/Articles/tree/main/Model%20Stability>  
 
 # 如果你喜欢这个帖子…
 
@@ -133,7 +133,7 @@ for col in sample_initial.columns:
 
 看看这个很棒的帖子
 
-[](/evaluating-the-potential-return-of-a-model-with-lift-gain-and-decile-analysis-319f00fde5b6)  
+</evaluating-the-potential-return-of-a-model-with-lift-gain-and-decile-analysis-319f00fde5b6>  
 
 # 参考
 

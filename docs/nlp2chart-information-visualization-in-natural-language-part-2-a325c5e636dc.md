@@ -22,7 +22,7 @@
 
 近年来，通过对大型文本数据集进行预处理，基于 Transformer 架构的强大的新语言模型已经出现，主导了所有当前的 NLP 基准。这项工作的目的是探索数据可视化的 NLIs 是否以及以何种方式从这些模型中受益。为此，我基于 OpenAI Codex 模型创建了一个可视化软件原型。
 
-[](https://openai.com/blog/openai-codex/)  
+<https://openai.com/blog/openai-codex/>  
 
 第二个原型实现了基于 NL 的数据可视化的基线管道。它使用开源的“[数据可视化自然语言”(NL4DV)](https://nl4dv.github.io/nl4dv/) 工具包来解释自然语言语句。该工具包将一个数据集和对应于该数据集的话语作为输入，返回一个 JSON 对象，该对象包含一个有序的 [Vega-Lite](https://vega.github.io/vega-lite/) 规范列表，可以作为输出呈现。
 

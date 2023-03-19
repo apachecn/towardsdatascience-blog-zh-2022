@@ -276,4 +276,4 @@ g++ heapify_code.cpp
 
 堆一棵树是很重要的，因为它允许我们从堆数据结构的有利属性中获益。堆是一种基本的数据结构，具有诸如最小/最大搜索、顺序统计和查找最短路径的应用。堆数据结构可以显著加快这些算法任务的速度。当您需要从一个项目集合中重复选择最大或最小值时，这通常是有用的，优先级队列和订单统计就是这种情况。
 
-***本帖原载于*** [***内置博客***](https://builtin.com/software-engineering-perspectives) ***。原片可以在这里找到***[](https://builtin.com/software-engineering-perspectives/heapify-heap-tree-cpp?i=5350fc7a-62c7-4937-b206-20e00f021c6f&utm_source=transactional&utm_medium=email&utm_campaign=Built-In-Email)****。****
+***本帖原载于*** [***内置博客***](https://builtin.com/software-engineering-perspectives) ***。原片可以在这里找到***<https://builtin.com/software-engineering-perspectives/heapify-heap-tree-cpp?i=5350fc7a-62c7-4937-b206-20e00f021c6f&utm_source=transactional&utm_medium=email&utm_campaign=Built-In-Email>****。****

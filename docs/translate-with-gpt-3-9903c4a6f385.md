@@ -546,6 +546,6 @@ GPT 3 号对提示的解释是自由的。这种自由会带来一些后果。GP
 
 *如果你喜欢这篇文章，支持我工作的最好方式就是使用我的链接成为一名媒体会员:*
 
-[](https://medium.com/@bnjmn_marie/membership)  
+<https://medium.com/@bnjmn_marie/membership>  
 
 *如果你已经是会员，想要支持这项工作，* [*就在 Medium*](https://medium.com/@bnjmn_marie) *上关注我吧。*

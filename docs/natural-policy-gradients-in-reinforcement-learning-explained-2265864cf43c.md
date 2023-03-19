@@ -14,7 +14,7 @@
 
 然而，对自然梯度的完整讨论是相当技术性的，需要许多冗长的推导。为了保持这篇文章的简洁，我主要关注于**推理和直觉**，为更深入的推导提供外部参考。此外，假设对传统(普通)策略梯度和加强算法有扎实的理解。
 
-[](/policy-gradients-in-reinforcement-learning-explained-ecec7df94245)  
+</policy-gradients-in-reinforcement-learning-explained-ecec7df94245>  
 
 # 一阶政策梯度的问题
 
@@ -210,7 +210,7 @@
 
 *诸如共轭梯度和克罗内克因子化近似曲率(K-FAC)的方法可以(部分地)解决上述问题。在实践中，诸如信赖域策略优化( **TRPO** )和特别是邻近策略优化( **PPO** )的方法已经在流行度上超过了自然梯度，尽管它们植根于相同的数学基础。*
 
-*[](/trust-region-policy-optimization-trpo-explained-4b56bd206fc2)  [](/proximal-policy-optimization-ppo-explained-abed1952457b)  
+*</trust-region-policy-optimization-trpo-explained-4b56bd206fc2>  </proximal-policy-optimization-ppo-explained-abed1952457b>  
 
 # 结束语
 
@@ -222,7 +222,7 @@
 
 ***喜欢这篇文章？你可能也会喜欢以下的 RL 作品:***
 
-**[](/why-reinforcement-learning-doesnt-need-bellman-s-equation-c9c2e51a0b7)  [](/a-minimal-working-example-for-continuous-policy-gradients-in-tensorflow-2-0-d3413ec38c6b)  [](/a-minimal-working-example-for-discrete-policy-gradients-in-tensorflow-2-0-d6a0d6b1a6d7)  
+**</why-reinforcement-learning-doesnt-need-bellman-s-equation-c9c2e51a0b7>  </a-minimal-working-example-for-continuous-policy-gradients-in-tensorflow-2-0-d3413ec38c6b>  </a-minimal-working-example-for-discrete-policy-gradients-in-tensorflow-2-0-d6a0d6b1a6d7>  
 
 # 进一步阅读
 

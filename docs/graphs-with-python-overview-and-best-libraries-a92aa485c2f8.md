@@ -126,7 +126,7 @@ PyVis 可视化示例。作者 Gif
 
 ## 参考
 
-[](https://pyvis.readthedocs.io/en/latest/) [## 交互式网络可视化— pyvis 0.1.3.1 文档
+<https://pyvis.readthedocs.io/en/latest/> [## 交互式网络可视化— pyvis 0.1.3.1 文档
 
 pyvis.readthedocs.io](https://pyvis.readthedocs.io/en/latest/) 
 

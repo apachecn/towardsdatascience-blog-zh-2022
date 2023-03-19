@@ -89,7 +89,7 @@
 
 棘手的是你的老板——而不是你！—负责设定项目的[假设](http://bit.ly/quaesita_jupimoon)的人。如果你不是决策者，那么你的工作就是充当数学和你老板脑子里的东西之间的翻译。这是他们在课堂上很少涉及的另一项技能。
 
-[](/tough-love-for-naïve-data-newbies-5dd376693eea)  
+</tough-love-for-naïve-data-newbies-5dd376693eea>  
 
 ## 抛开现实世界
 
@@ -113,7 +113,7 @@
 
 如果你喜欢这篇文章，继续下一篇: [**简单随机抽样真的简单吗？**](http://bit.ly/quaesita_srstrees1) 即将到来！与此同时，顺道拜访并在 Twitter 上打招呼。
 
-[](https://kozyrkov.medium.com/membership)  
+<https://kozyrkov.medium.com/membership>  
 
 *附言:你有没有试过在 Medium 上不止一次点击这里的鼓掌按钮，看看会发生什么？* ❤️
 

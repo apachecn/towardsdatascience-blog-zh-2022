@@ -66,4 +66,4 @@
 
 **感谢阅读！如果你想了解更多关于数据科学和商业的知识，这里有一些推荐:**
 
-[](/top-qualities-hiring-managers-look-for-in-data-scientist-candidates-2e2cd52444c2)  [](/5-mistakes-i-wish-i-had-avoided-in-my-data-science-career-6c22a44304a1)  [](/how-to-pick-the-right-career-in-the-data-world-1cec8a084767) 
+</top-qualities-hiring-managers-look-for-in-data-scientist-candidates-2e2cd52444c2>  </5-mistakes-i-wish-i-had-avoided-in-my-data-science-career-6c22a44304a1>  </how-to-pick-the-right-career-in-the-data-world-1cec8a084767> 

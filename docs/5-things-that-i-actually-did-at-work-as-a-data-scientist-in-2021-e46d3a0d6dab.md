@@ -42,7 +42,7 @@
 
 *要了解如何用 SQL 或 Python 构建群组图表，请查看我的指南:*
 
-[](/a-complete-guide-to-revenue-cohort-analysis-in-sql-and-python-9eeecd4c731a)  
+</a-complete-guide-to-revenue-cohort-analysis-in-sql-and-python-9eeecd4c731a>  
 
 > **请务必点击** [**订阅此处**](https://terenceshin.medium.com/membership) **千万不要错过另一篇关于数据科学指南、技巧和提示、生活经验等的文章！**
 
@@ -115,11 +115,11 @@ LTV，或终身价值，代表了从客户第一次成为客户到客户流失�
 
 不确定接下来要读什么？我为你选了另一篇文章:
 
-[](/all-machine-learning-algorithms-you-should-know-in-2022-db5b4ccdf32f)  
+</all-machine-learning-algorithms-you-should-know-in-2022-db5b4ccdf32f>  
 
 **还有一个:**
 
-[](/the-10-best-data-visualizations-of-2021-fec4c5cf6cdb)  
+</the-10-best-data-visualizations-of-2021-fec4c5cf6cdb>  
 
 # -特伦斯·申
 

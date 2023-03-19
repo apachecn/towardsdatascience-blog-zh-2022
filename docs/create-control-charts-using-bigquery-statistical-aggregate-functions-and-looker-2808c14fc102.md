@@ -36,7 +36,7 @@
 
 此处介绍的工作是之前使用 [BigQuery ML](https://cloud.google.com/bigquery-ml/docs) 和硬编码 Looker 方法设置 KPI 目标的后续工作:
 
-[](/looker-and-bigquery-ml-create-control-charts-for-your-kpis-3d9ad6ee99f7)  
+</looker-and-bigquery-ml-create-control-charts-for-your-kpis-3d9ad6ee99f7>  
 
 与前一篇文章类似，数据将通过 [Looker](https://www.looker.com/) 实例进行建模和可视化。
 

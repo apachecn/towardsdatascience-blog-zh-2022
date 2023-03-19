@@ -52,4 +52,4 @@
 
 ## 你可能也会喜欢…
 
-[](/how-data-scientists-and-data-engineers-can-collaborate-effectively-4d33a23f211c)  [](/6-bad-data-engineering-practices-you-shouldnt-apply-as-a-data-scientist-58de5eca14c3)  [](/6-best-practices-i-learned-as-a-data-engineer-9d3ad512f5aa) 
+</how-data-scientists-and-data-engineers-can-collaborate-effectively-4d33a23f211c>  </6-bad-data-engineering-practices-you-shouldnt-apply-as-a-data-scientist-58de5eca14c3>  </6-best-practices-i-learned-as-a-data-engineer-9d3ad512f5aa> 

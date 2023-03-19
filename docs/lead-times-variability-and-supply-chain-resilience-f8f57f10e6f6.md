@@ -46,7 +46,7 @@
 
 有关更多信息，
 
-[](https://www.samirsaci.com/inventory-management-for-retail-stochastic-demand-2/)  
+<https://www.samirsaci.com/inventory-management-for-retail-stochastic-demand-2/>  
 
 # 交付周期:期望与现实
 
@@ -97,7 +97,7 @@
 
 在结论中，我们将看到，我们可以通过使用数字双胞胎来影响特定于过程的参数，以坚持真实的过程，从而改进这种方法。
 
-[](http://samirsaci.com)  
+<http://samirsaci.com>  
 
 # 如何用 Python 模拟供应链风险？
 
@@ -226,7 +226,7 @@
 
 欲知详情，
 
-[](https://www.samirsaci.com/what-is-a-supply-chain-digital-twin/)  
+<https://www.samirsaci.com/what-is-a-supply-chain-digital-twin/>  
 
 # 关于我
 
@@ -234,4 +234,4 @@
 
 如果你对数据分析和供应链感兴趣，可以看看我的网站
 
-[](https://samirsaci.com) 
+<https://samirsaci.com> 

@@ -103,7 +103,7 @@
 
 *您可以从下面的资源库下载 pdf 和 docx 格式的完整简历。*
 
-*[](https://gitlab.com/Winston-90/ml_resume_first_job/) [## dmytro Nikolai ev/ML _ resume _ first _ job
+*<https://gitlab.com/Winston-90/ml_resume_first_job/> [## dmytro Nikolai ev/ML _ resume _ first _ job
 
 gitlab.com](https://gitlab.com/Winston-90/ml_resume_first_job/) 
 

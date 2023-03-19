@@ -156,7 +156,7 @@
 
 *****如果您喜欢阅读我的故事，并希望支持我成为一名作家，请考虑注册成为 Medium 会员，并获得数千篇数据工程和数据科学文章。*****
 
-*****[](https://medium.com/@anna.bildea/membership)  
+*****<https://medium.com/@anna.bildea/membership>  
 
 *在*[*LinkedIn*](https://www.linkedin.com/in/ana-bildea-phd-2339b728/)*和* [Twitter](https://twitter.com/AnaBildea) 上找我！
 

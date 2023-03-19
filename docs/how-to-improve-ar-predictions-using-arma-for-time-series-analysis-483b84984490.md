@@ -12,7 +12,7 @@
 
 请务必查看之前关于实现自回归模型的文章，您可以在下面的链接中找到该文章。
 
-[](/how-to-use-an-autoregressive-ar-model-for-time-series-analysis-bb12b7831024)  
+</how-to-use-an-autoregressive-ar-model-for-time-series-analysis-bb12b7831024>  
 
 在那篇文章中，我们通过绘制和分析数据的 ACF 图，得出了 AR 模型的最佳阶数。对于这种方法，我们将使用 *pmdarima* 库来为数据集寻找最佳模型和订单。您稍后将会看到，这将意味着从 AR 模型向 ARMA 模型的转变，ARMA 模型中集成了一个*移动平均*组件。
 

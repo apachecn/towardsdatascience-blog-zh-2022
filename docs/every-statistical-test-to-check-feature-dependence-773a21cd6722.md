@@ -151,4 +151,4 @@ Accepting the null hypothesis means that features do not have a dependence betwe
 
 # 参考
 
-[](https://www.scribbr.com/statistics/correlation-coefficient/#spearmans-rho)  [](http://www.biostathandbook.com/spearman.html#:~:text=When%20to%20use%20it,tends%20to%20increase%20or%20decrease)  [](/kendall-rank-correlation-explained-dee01d99c535)  [](https://www.reneshbedre.com/blog/anova.html)  [](https://www.reneshbedre.com/blog/kruskal-wallis-test.html)  [](https://en.wikipedia.org/wiki/Chi-squared_test)  [](https://www.statology.org/chi-square-test-assumptions/) 
+<https://www.scribbr.com/statistics/correlation-coefficient/#spearmans-rho>  <http://www.biostathandbook.com/spearman.html#:~:text=When%20to%20use%20it,tends%20to%20increase%20or%20decrease>  </kendall-rank-correlation-explained-dee01d99c535>  <https://www.reneshbedre.com/blog/anova.html>  <https://www.reneshbedre.com/blog/kruskal-wallis-test.html>  <https://en.wikipedia.org/wiki/Chi-squared_test>  <https://www.statology.org/chi-square-test-assumptions/> 

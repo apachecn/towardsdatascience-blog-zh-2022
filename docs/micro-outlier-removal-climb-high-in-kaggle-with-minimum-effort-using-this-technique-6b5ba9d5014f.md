@@ -112,11 +112,11 @@ Kaggle 排名在前(图片由作者提供)
 
 *请**订阅**,以便在我发布新故事时随时获得通知。*
 
-*[](https://pranay-dave9.medium.com/subscribe)  
+*<https://pranay-dave9.medium.com/subscribe>  
 
 你也可以通过我的推荐链接**加入 Medium**
 
-[](https://pranay-dave9.medium.com/membership)  
+<https://pranay-dave9.medium.com/membership>  
 
 # 额外资源
 

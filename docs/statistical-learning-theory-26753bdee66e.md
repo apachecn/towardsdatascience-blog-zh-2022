@@ -2,7 +2,7 @@
 
 > 原文：<https://towardsdatascience.com/statistical-learning-theory-26753bdee66e>
 
-## [](https://towardsdatascience.com/tagged/word-embeddings-primer)
+## <https://towardsdatascience.com/tagged/word-embeddings-primer>
 
 ## **神经网络的基础**
 

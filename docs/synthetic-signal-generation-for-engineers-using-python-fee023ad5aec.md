@@ -29,7 +29,7 @@ Clint Bustrillos 在 [Unsplash](https://unsplash.com/s/photos/engineer?utm_sourc
 
 # 2.非破坏性检查
 
-进行测试时不破坏部件状态的工程分支称为[](https://en.wikipedia.org/wiki/Nondestructive_testing)****(NDT)**。**
+进行测试时不破坏部件状态的工程分支称为<https://en.wikipedia.org/wiki/Nondestructive_testing>****(NDT)**。**
 
 **NDT 的正式定义(维基百科)如下:**
 

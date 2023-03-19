@@ -126,8 +126,8 @@ PaLI 表明，它在几项迄今为止被认为具有挑战性的任务中达到
 
 **这是我的 GitHub 知识库的链接，我计划在这里收集代码和许多与机器学习、人工智能等相关的资源。**
 
-**[](https://github.com/SalvatoreRa/tutorial)  
+**<https://github.com/SalvatoreRa/tutorial>  
 
 或者随意查看我在 Medium 上的其他文章:
 
-[](/a-critical-analysis-of-your-dataset-2b388e7ca01e)  [](/machine-learning-to-tackle-climate-change-7911e004c3a2)  [](/speaking-the-language-of-life-how-alphafold2-and-co-are-changing-biology-97cff7496221)  [](/how-science-contribution-has-become-a-toxic-environment-6beb382cebcd) **
+</a-critical-analysis-of-your-dataset-2b388e7ca01e>  </machine-learning-to-tackle-climate-change-7911e004c3a2>  </speaking-the-language-of-life-how-alphafold2-and-co-are-changing-biology-97cff7496221>  </how-science-contribution-has-become-a-toxic-environment-6beb382cebcd> **

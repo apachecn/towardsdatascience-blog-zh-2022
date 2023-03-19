@@ -167,8 +167,8 @@ Scikit learn 是数据科学家的得力助手。在他们的文档中，您可�
 
 如果你喜欢这个内容，请关注我的博客。
 
-[](http://gustavorsantos.medium.com/)  
+<http://gustavorsantos.medium.com/>  
 
 # 参考
 
-[](https://scikit-learn.org/stable/modules/classes.html#)  [](https://en.wikipedia.org/wiki/Scikit-learn) 
+<https://scikit-learn.org/stable/modules/classes.html#>  <https://en.wikipedia.org/wiki/Scikit-learn> 

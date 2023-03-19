@@ -44,7 +44,7 @@ GIS4 野生动物的蓝色经济模式旨在向更多用户开放平台。一旦
 
 本文是理解*停止检测算法*如何工作以及如何配置其参数的关键。
 
-[](/stop-detection-in-gps-tracks-movingpandas-keplergl-point-map-with-stops-duration-in-bird-664064b3ccbc)  ![](img/6477a59449c9b03a95d08859e82cbf0a.png)
+</stop-detection-in-gps-tracks-movingpandas-keplergl-point-map-with-stops-duration-in-bird-664064b3ccbc>  ![](img/6477a59449c9b03a95d08859e82cbf0a.png)
 
 GBIF.org(2021 年 3 月 15 日)*全球定位系统追踪北海南部海岸繁殖的小黑背鸥和银鸥*[https://doi.org/10.15468/dl.6vsh8k](https://doi.org/10.15468/dl.6vsh8k)
 
@@ -52,7 +52,7 @@ GBIF.org(2021 年 3 月 15 日)*全球定位系统追踪北海南部海岸繁殖
 
 本文可能有助于在您自己的工作流程中自动化*停止检测算法*。它使得算法参数的配置更容易，并帮助用户做更多的测试。
 
-[](/stop-detection-in-blue-whales-gps-tracking-movingpandas-0-6-55a4b893a592) [## 蓝鲸 GPS 追踪中的停止检测—移动熊猫 0.6
+</stop-detection-in-blue-whales-gps-tracking-movingpandas-0-6-55a4b893a592> [## 蓝鲸 GPS 追踪中的停止检测—移动熊猫 0.6
 
 towardsdatascience.com](/stop-detection-in-blue-whales-gps-tracking-movingpandas-0-6-55a4b893a592) ![](img/7d221f68f2495f1c493e4868673fe820.png)
 
@@ -62,7 +62,7 @@ Irvine LM、Palacios DM、Lagerquist BA、Mate BR、Follett TM (2019)数据来�
 
 这篇文章支持动物追踪数据集在两极的可视化:南极和北极。它给出了关于将空间数据投影到正投影坐标参考系统的说明。
 
-[](/orthographic-projection-with-pyproj-for-penguin-tracking-in-antarctica-18cd2bf2d570)  
+</orthographic-projection-with-pyproj-for-penguin-tracking-in-antarctica-18cd2bf2d570>  
 
 > 在这张网络地图中查看[阿德利企鹅的动向](https://gis-move-analytics.github.io/wildlife-tracker/root/moves-penguins-demo.html)
 
@@ -74,7 +74,7 @@ Irvine LM、Palacios DM、Lagerquist BA、Mate BR、Follett TM (2019)数据来�
 
 本文介绍了如何根据 GPS 轨迹创建线串几何。然后，它给出了按年份过滤的鲸鱼迁徙路线。
 
-[](/time-filter-for-great-whales-migration-routes-32c429ac6bb9)  
+</time-filter-for-great-whales-migration-routes-32c429ac6bb9>  
 
 > 查看本网络地图中的[巨头鲸迁徙路线](https://gis-move-analytics.github.io/wildlife-tracker/root/azores-demo.html)
 
@@ -82,7 +82,7 @@ Irvine LM、Palacios DM、Lagerquist BA、Mate BR、Follett TM (2019)数据来�
 
 本文旨在利用*停止检测算法*发现觅食活动，并参考 Silva 等人(2013)。算法的使用是实验性的，结果的验证需要海洋科学家的批判性观点。但是，该分析与研究杂志的结论相吻合，所以这篇文章展示了可以用来洞察鲸鱼迁徙的其他方法。
 
-[](/foraging-spots-detection-in-great-whales-migration-routes-19ee4540930e)  
+</foraging-spots-detection-in-great-whales-migration-routes-19ee4540930e>  
 
 > [在网络地图中停止探测巨头鲸的迁徙](https://gis-move-analytics.github.io/wildlife-tracker/root/azores-II-demo.html)
 

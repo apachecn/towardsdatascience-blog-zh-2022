@@ -16,7 +16,7 @@
 
 你可以从[https://www.kaggle.com/datasets/usdot/flight-delays](https://www.kaggle.com/datasets/usdot/flight-delays)下载数据集。
 
-[](https://www.kaggle.com/datasets/usdot/flight-delays)  
+<https://www.kaggle.com/datasets/usdot/flight-delays>  
 
 > 许可: [CC0:公共领域](https://creativecommons.org/publicdomain/zero/1.0/)
 
@@ -419,7 +419,7 @@ import plotly.express as pxdef histogram(airline):
 
 > 注意，您也可以在`unique()`功能后使用`count()`功能。
 
-[](https://weimenglee.medium.com/membership)  
+<https://weimenglee.medium.com/membership>  
 
 # 摘要
 

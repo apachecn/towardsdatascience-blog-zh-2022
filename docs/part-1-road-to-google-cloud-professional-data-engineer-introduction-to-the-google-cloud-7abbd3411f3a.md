@@ -73,15 +73,15 @@ GCP 由四个主要部分组成:
 
 你喜欢这篇文章吗？如果是，请考虑订阅我的电子邮件列表，以便在我发布新内容时得到通知。
 
-[](https://david-farrugia.medium.com/subscribe)  
+<https://david-farrugia.medium.com/subscribe>  
 
 另外，考虑成为 Medium 的会员，支持我和你喜欢的其他作家。每月 5 美元，你就可以无限制地阅读 Medium 上的每一篇文章。
 
-[](https://david-farrugia.medium.com/membership)  
+<https://david-farrugia.medium.com/membership>  
 
 想给我买杯咖啡吗？
 
-[](https://paypal.me/itsdavidfarrugia?country.x=MT&locale.x=en_US)  
+<https://paypal.me/itsdavidfarrugia?country.x=MT&locale.x=en_US>  
 
 # 想联系吗？
 

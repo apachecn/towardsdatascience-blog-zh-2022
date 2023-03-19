@@ -76,7 +76,7 @@
 
 *处理`except`条款中的`NameError`给了我们不执行`try`条款的确切原因。✔️*
 
-*你可以在这里找到 Python [***中的所有异常***](https://docs.python.org/3/library/exceptions.html)*以及关于如何使用 try 的细节——除了可以在这里找到[](https://www.freecodecamp.org/news/python-try-and-except-statements-how-to-handle-exceptions-in-python/)*。***
+*你可以在这里找到 Python [***中的所有异常***](https://docs.python.org/3/library/exceptions.html)*以及关于如何使用 try 的细节——除了可以在这里找到<https://www.freecodecamp.org/news/python-try-and-except-statements-how-to-handle-exceptions-in-python/>*。***
 
 # ***使用字典方法***
 
@@ -118,7 +118,7 @@ mydict = {'A': 1001,
 
 **如果你愿意学习更多关于 Python 中的字典，这里有一个快速阅读。**
 
-**[](https://pub.towardsai.net/python-dictionary-10-practical-methods-you-need-to-know-cbeb1c962bed)  
+**<https://pub.towardsai.net/python-dictionary-10-practical-methods-you-need-to-know-cbeb1c962bed>  
 
 # 使用 zip()遍历多个列表
 

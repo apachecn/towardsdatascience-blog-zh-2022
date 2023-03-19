@@ -66,10 +66,10 @@
 
 **如果你喜欢这篇文章，并想看更多的内容，请考虑加入媒体会员，使用下面的链接来支持我和其他作者:**
 
-[](https://albertsuryadi.medium.com/membership)  
+<https://albertsuryadi.medium.com/membership>  
 
 另外，看看我下面的其他媒体文章:
 
-[](/is-data-science-worth-it-or-overrated-1a2816ab500a)  [](/how-to-solve-data-science-problems-faster-14c962edaf27)  [](/how-to-build-production-grade-ai-a0eeff7b1fd2)  
+</is-data-science-worth-it-or-overrated-1a2816ab500a>  </how-to-solve-data-science-problems-faster-14c962edaf27>  </how-to-build-production-grade-ai-a0eeff7b1fd2>  
 
 **关于作者:**[*Albert Suryadi*](https://www.linkedin.com/in/albertsuryadi/)*是在为前瞻性组织提供高级分析和数据科学能力方面久经考验的领导者。他被公认为分析团队(实践社区)的领导者，该团队授权并激励他人超越现状。*

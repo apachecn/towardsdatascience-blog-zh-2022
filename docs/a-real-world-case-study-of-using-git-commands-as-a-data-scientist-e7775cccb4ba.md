@@ -24,7 +24,7 @@
 [Wrapping Up](#c3e3)
 ```
 
-更具体地说，让我们用一个实际的项目来工作(参见这里的最终产品[](https://github.com/dwiuzila/ds-project-example)*)。为了尽量减少创建一个的麻烦，我们将使用著名的 [Cookiecutter 数据科学](https://drivendata.github.io/cookiecutter-data-science/)。安装`cookiecutter`并在本地创建一个项目模板。*
+更具体地说，让我们用一个实际的项目来工作(参见这里的最终产品<https://github.com/dwiuzila/ds-project-example>*)。为了尽量减少创建一个的麻烦，我们将使用著名的 [Cookiecutter 数据科学](https://drivendata.github.io/cookiecutter-data-science/)。安装`cookiecutter`并在本地创建一个项目模板。*
 
 *![](img/2b3e1bfd0dc7fd80f61cf0ebfcad00c9.png)*
 

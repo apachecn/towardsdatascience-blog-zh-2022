@@ -263,4 +263,4 @@ CREATE TABLE cleaned_assets AS (SELECT
 
 # 相关文章
 
-[](/an-overview-of-versatile-data-kit-a812cfb26de7)  [](/from-raw-data-to-a-cleaned-database-a-deep-dive-into-versatile-data-kit-ab5fd992a02e)  [](/is-a-small-dataset-risky-b664b8569a21)  [](/how-to-convert-a-shapefile-to-a-dataframe-in-python-a6ca9a893504) 
+</an-overview-of-versatile-data-kit-a812cfb26de7>  </from-raw-data-to-a-cleaned-database-a-deep-dive-into-versatile-data-kit-ab5fd992a02e>  </is-a-small-dataset-risky-b664b8569a21>  </how-to-convert-a-shapefile-to-a-dataframe-in-python-a6ca9a893504> 

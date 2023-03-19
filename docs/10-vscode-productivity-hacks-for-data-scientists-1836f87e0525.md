@@ -112,7 +112,7 @@ REPL 循环(Read-Eval-Print-Loop)是一种交互式环境，在这种环境中�
 
 加入 Medium 阅读更多类似文章。
 
-[](https://medium.com/@edwin.tan/membership)  
+<https://medium.com/@edwin.tan/membership>  
 
 # 参考
 

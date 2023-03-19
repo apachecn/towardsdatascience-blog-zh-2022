@@ -391,10 +391,10 @@ df1.merge(df2[['id', 'colE']], on='id')
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership)  
+<https://gmyrianthous.medium.com/membership>  
 
 **相关文章你可能也喜欢**
 
-[](/apply-vs-map-vs-applymap-pandas-529acdf6d744)  [](/how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3)  [](/loc-vs-iloc-in-pandas-92fc125ed8eb) [## 熊猫中的 loc 与 iloc
+</apply-vs-map-vs-applymap-pandas-529acdf6d744>  </how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3>  </loc-vs-iloc-in-pandas-92fc125ed8eb> [## 熊猫中的 loc 与 iloc
 
 towardsdatascience.com](/loc-vs-iloc-in-pandas-92fc125ed8eb)

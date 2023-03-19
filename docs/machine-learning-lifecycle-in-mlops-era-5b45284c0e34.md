@@ -177,4 +177,4 @@ MLOps 生命周期 MLOps 时代的机器学习生命周期将数据、ML、Dev �
 
 [![](img/c0b3ff1cd100b0d083b64ab62d80415e.png)](https://ml4devs.substack.com/subscribe)[![](img/bac2c0b02e577402bc596ec11cb947ad.png)](https://twitter.com/intent/follow?user_id=29633907)[![](img/e264d4e0ccfd62b7b649f4ddbf47cc11.png)](http://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=scgupta)
 
-*原载于*[](https://www.ml4devs.com/articles/mlops-machine-learning-life-cycle/)**。**
+*原载于*<https://www.ml4devs.com/articles/mlops-machine-learning-life-cycle/>**。**

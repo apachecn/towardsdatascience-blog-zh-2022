@@ -146,4 +146,4 @@ fund_2.on_change('value', update)
 
 感谢您阅读我的文章。欢迎所有反馈。我总是渴望学习新的或更好的做事方法。请随时留下您的评论或联系我 katyhagerty19@gmail.com。
 
-[](https://medium.com/@katyhagerty19/bokeh-interactive-plotting-part-2-316f8d58f476)  [](https://medium.com/@katyhagerty19/membership) 
+<https://medium.com/@katyhagerty19/bokeh-interactive-plotting-part-2-316f8d58f476>  <https://medium.com/@katyhagerty19/membership> 

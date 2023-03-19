@@ -142,11 +142,11 @@
 
 如果你喜欢我通过数据和使用数据科学技术分析我自己的驾驶行为的迷你项目，请**用我的推荐链接加入 Medium** 。
 
-[](https://pranay-dave9.medium.com/membership)  
+<https://pranay-dave9.medium.com/membership>  
 
 请**订阅**每当我发布一个新的故事时，请随时关注。
 
-[](https://pranay-dave9.medium.com/subscribe)  
+<https://pranay-dave9.medium.com/subscribe>  
 
 # 额外资源
 

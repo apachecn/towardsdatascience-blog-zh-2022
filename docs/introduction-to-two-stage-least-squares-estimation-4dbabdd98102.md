@@ -20,7 +20,7 @@
 
 上式中，**，* ***1，x*** *_2，****x****_ 3*，***【ϵ***为大小为*【n×1】*的列向量。从后面的等式中，为了简洁起见，我们将去掉 ***1*** (它是 1 的向量)。*
 
-*如果一个或多个回归变量，比如说***x****_ 3*，是[](/what-are-exogenous-and-endogenous-regression-variables-c0ea1ba03ce8)**，即它与误差项*相关，则普通最小二乘(OLS)估计量是**不** [**一致**](/the-consistent-estimator-913fab06f4f3) 。它生成的系数估计值偏离了真实值，使人对实验的有用性产生疑问。****
+*如果一个或多个回归变量，比如说***x****_ 3*，是</what-are-exogenous-and-endogenous-regression-variables-c0ea1ba03ce8>**，即它与误差项*相关，则普通最小二乘(OLS)估计量是**不** [**一致**](/the-consistent-estimator-913fab06f4f3) 。它生成的系数估计值偏离了真实值，使人对实验的有用性产生疑问。****
 
 ****挽救这种局面的一个办法是想出一个办法，有效地将***×3****_ 3*分成两部分:****
 
@@ -435,7 +435,7 @@ instruments = **add_constant**(instruments)**
 
 # ****相关阅读****
 
-****[](/introduction-to-instrumental-variables-estimation-3eba75a04418) **** 
+****</introduction-to-instrumental-variables-estimation-3eba75a04418> **** 
 
 # ****参考文献、引文和版权****
 

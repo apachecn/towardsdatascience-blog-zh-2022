@@ -130,7 +130,7 @@
 
 但是如果你渴望成为专家，我有个坏消息要告诉你。虽然我希望你能探索我的[分析迷你课程](http://bit.ly/quaesita_sminianalytics)，但我(或其他任何人)教你的东西都不会让你精通。阅读分析可以帮助你调整心态和态度，但是精通需要天赋和实践。很多很多很多的练习。
 
-[](http://bit.ly/quaesita_sminianalytics)  
+<http://bit.ly/quaesita_sminianalytics>  
 
 如果你渴望用一些核心概念和对分析职业的思考来补充你的实践课程，请参加我的[迷你分析课程](http://bit.ly/quaesita_sminianalytics)。
 

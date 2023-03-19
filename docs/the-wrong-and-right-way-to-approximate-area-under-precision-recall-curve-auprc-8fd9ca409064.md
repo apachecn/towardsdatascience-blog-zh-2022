@@ -16,7 +16,7 @@
 
 为了说明这一点，我在从 UPenn 机器学习基准(PMLB)套件中选择的不平衡数据集上训练了一个虚拟分类器。这个名为“spambase”的数据集有 4，601 个观察值，57 个特征，以及 0.04 个阳性率的二进制目标。虚拟分类器根据 80%的训练数据进行训练，并根据 20%的排除数据进行评估。当比较梯形规则产生的 AUPRC 估计值与平均精度得分时，前者明显更高(0.53 比 0.41)。下面提供了您自己实验的代码片段——由于虚拟分类器和训练/测试分割的随机性，您可能看不到完全相同的估计值。然而，与平均精度分数相比，梯形规则计算的 AUPRC 过于乐观，这一观点应该是明确和一致的。
 
-[](https://replit.com/@TamTran26/AUPRC-different-estimations#main.py) [## AUPRC 不同估计
+<https://replit.com/@TamTran26/AUPRC-different-estimations#main.py> [## AUPRC 不同估计
 
 与平均精度分数相比，使用梯形规则获得的 AUPRC 过于乐观。使用 repl.it 生成的交互式代码。](https://replit.com/@TamTran26/AUPRC-different-estimations#main.py) 
 
@@ -75,4 +75,4 @@ AP 和工作点下的梯形面积都是概括精度-召回曲线的常用方法�
 
 **如果你喜欢这篇文章，你可能也会喜欢:**
 
-[](/precision-recall-curve-is-more-informative-than-roc-in-imbalanced-data-4c95250242f6)  [](/performance-curve-more-intuitive-than-roc-prc-and-less-assumptive-than-threshold-metrics-391e777da566) 
+</precision-recall-curve-is-more-informative-than-roc-in-imbalanced-data-4c95250242f6>  </performance-curve-more-intuitive-than-roc-prc-and-less-assumptive-than-threshold-metrics-391e777da566> 

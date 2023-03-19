@@ -182,7 +182,7 @@ PCA 不适合非线性数据的降维。相比之下，自动编码器在非线�
 
 我希望你喜欢阅读这篇文章。如果你愿意支持我成为一名作家，请考虑 [***注册会员***](https://rukshanpramoditha.medium.com/membership) *以获得无限制的媒体访问权限。它只需要每月 5 美元，我会收到你的会员费的一部分。*
 
-[](https://rukshanpramoditha.medium.com/membership)  
+<https://rukshanpramoditha.medium.com/membership>  
 
 *或者，您也可以考虑通过点击本文底部的* ***给予提示*** *按钮进行小额捐赠。*
 

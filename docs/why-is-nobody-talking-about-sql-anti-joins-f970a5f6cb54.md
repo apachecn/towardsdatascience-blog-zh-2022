@@ -63,7 +63,7 @@
 
 **更新:**我在下面的文章中介绍了第三种反连接方法。如果您已经理解了如何使用`EXISTS`子子句，请跳到本文中的“如何将`EXISTS`子句用于反连接”一节。
 
-[](https://medium.com/learning-sql/understanding-the-sql-exist-clause-f3eaa3c2c34b)  
+<https://medium.com/learning-sql/understanding-the-sql-exist-clause-f3eaa3c2c34b>  
 
 ## 结论
 
@@ -71,11 +71,11 @@
 
 感谢阅读！
 
-[](https://medium.com/@andreasmartinson/membership)  
+<https://medium.com/@andreasmartinson/membership>  
 
 如果你喜欢这篇文章，请通过 LinkedIn 与我联系，或者看看我的另一个故事:
 
-[](/10-quick-sql-tips-after-writing-daily-in-sql-for-3-years-37bdba0637d0)  [](/5-window-function-examples-to-take-your-sql-skills-to-the-next-level-2b3306650bb6)  
+</10-quick-sql-tips-after-writing-daily-in-sql-for-3-years-37bdba0637d0>  </5-window-function-examples-to-take-your-sql-skills-to-the-next-level-2b3306650bb6>  
 
 **参考文献**
 

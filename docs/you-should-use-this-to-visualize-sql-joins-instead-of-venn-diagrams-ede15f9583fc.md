@@ -96,7 +96,7 @@
 
 另外，如果你还没有加入 Medium，并且想无限制地阅读我的文章，请考虑通过我下面的推荐链接加入😃
 
-[](https://medium.com/@andreasmartinson/membership)  
+<https://medium.com/@andreasmartinson/membership>  
 
 ## 参考
 

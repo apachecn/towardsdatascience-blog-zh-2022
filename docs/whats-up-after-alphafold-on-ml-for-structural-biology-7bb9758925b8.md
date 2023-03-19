@@ -14,7 +14,7 @@ AlphaFold 2 是由谷歌 Deepmind 开发的基于人工智能的程序，旨在�
 
 这里有几篇文章，我在其中介绍了 AlphaFold 2、可用于运行它的笔记本，以及它在生物学研究中开辟的许多积极的道路:
 
-[](/google-colab-notebooks-are-already-running-deepminds-alphafold-v-2-92b4531ec127)  [](/the-hype-on-alphafold-keeps-growing-with-this-new-preprint-a8c1f21d15c8)    
+</google-colab-notebooks-are-already-running-deepminds-alphafold-v-2-92b4531ec127>  </the-hype-on-alphafold-keeps-growing-with-this-new-preprint-a8c1f21d15c8>    
 
 ## 现在，怎么了？
 

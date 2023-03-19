@@ -60,4 +60,4 @@
 
 ## 你可能也会喜欢…
 
-[](/how-to-create-a-successful-data-presentation-7eae7a9a41f)  [](/how-to-deliver-a-successful-data-presentation-bfd23684197d)  [](/data-analyst-guide-to-stakeholder-management-728413c19449) 
+</how-to-create-a-successful-data-presentation-7eae7a9a41f>  </how-to-deliver-a-successful-data-presentation-bfd23684197d>  </data-analyst-guide-to-stakeholder-management-728413c19449> 

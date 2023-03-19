@@ -12,7 +12,7 @@
 
 ## 以前的帖子
 
-[](/time-series-forecasting-with-machine-learning-b3072a5b44ba)  
+</time-series-forecasting-with-machine-learning-b3072a5b44ba>  
 
 # 新方法
 
@@ -68,4 +68,4 @@ Prophet 显示了从第 11 列到第 20 列的数据帧
 
 # 参考
 
-[](https://facebook.github.io/prophet/docs/quick_start.html)   
+<https://facebook.github.io/prophet/docs/quick_start.html>   

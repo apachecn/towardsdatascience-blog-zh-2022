@@ -10,7 +10,7 @@
 
 **模型监控**正在成为机器学习的热门趋势。随着关于 MLOps 的活动越来越多，我们记录了关于该主题的工具和研究的兴起。
 
-其中最有趣的肯定是由[**【NannyML】**](https://www.nannyml.com/)开发的[](https://nannyml.readthedocs.io/en/main/how_it_works/performance_estimation.html)****【CBPE】**基于置信度的性能估计算法。他们实施了一个新的程序来**评估未来模型在缺乏基础事实的情况下的性能下降**。它在检测性能下降方面具有很大的优势，因为在实际应用中，收集标签的成本可能很高，并且可能会延迟。**
+其中最有趣的肯定是由[**【NannyML】**](https://www.nannyml.com/)开发的<https://nannyml.readthedocs.io/en/main/how_it_works/performance_estimation.html>****【CBPE】**基于置信度的性能估计算法。他们实施了一个新的程序来**评估未来模型在缺乏基础事实的情况下的性能下降**。它在检测性能下降方面具有很大的优势，因为在实际应用中，收集标签的成本可能很高，并且可能会延迟。**
 
 ****CBPE** 算法可在 [**NannyML 包**](https://github.com/NannyML/nannyml) 中找到，同时还有一些**有趣的移位检测策略**。从标准的单变量漂移检测方法到更先进的多变量特征漂移方法，我们拥有强大的武器库**来自动检测无声模型故障**。**
 

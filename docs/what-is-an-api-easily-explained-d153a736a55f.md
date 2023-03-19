@@ -75,6 +75,6 @@ API 通过允许发送、请求、删除或修改信息来实现不同程序和�
 *   例如，它们被用于网站的建设。
 *   使用这样的接口是有利的，因为它允许程序模块化。
 
-*如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
+*如果你喜欢我的作品，请在这里订阅*<https://medium.com/subscribe/@niklas_lang>**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
 
-*[](/an-introduction-to-elasticsearch-19f081380d14)  [](/an-introduction-to-long-short-term-memory-networks-lstm-27af36dde85d)  [](/comprehensive-guide-to-principal-component-analysis-bb4458fff9e2) *
+*</an-introduction-to-elasticsearch-19f081380d14>  </an-introduction-to-long-short-term-memory-networks-lstm-27af36dde85d>  </comprehensive-guide-to-principal-component-analysis-bb4458fff9e2> *

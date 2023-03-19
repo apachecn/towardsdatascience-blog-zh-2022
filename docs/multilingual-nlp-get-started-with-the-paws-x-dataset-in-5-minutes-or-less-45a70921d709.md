@@ -96,7 +96,7 @@ PAWS-X 数据集用于释义检测，这意味着它可以用于微调简单的�
 
 如果您对我的工作感兴趣，请考虑通过我的推荐链接获得中等会员资格来支持我:
 
-[](https://namiyousef96.medium.com/membership)  
+<https://namiyousef96.medium.com/membership>  
 
 这对我很有帮助，因为你的一部分会员费会归我(别担心，这对你没有额外的费用！)同时让您完全访问 Medium 上的所有文章！
 
@@ -106,11 +106,11 @@ PAWS-X 数据集用于释义检测，这意味着它可以用于微调简单的�
 
 **数据集位置**
 
-[](https://huggingface.co/datasets/paws-x)  
+<https://huggingface.co/datasets/paws-x>  
 
 **数据集论文**
 
-[](https://arxiv.org/abs/1908.11828)  
+<https://arxiv.org/abs/1908.11828>  
 
 ## 引用表
 

@@ -33,7 +33,7 @@ import pandas as pd
 
 有关使用 lasio 的更多信息，请点击此处查看本文:
 
-[](https://andymcdonaldgeo.medium.com/loading-and-displaying-well-log-data-b9568efd1d8)  
+<https://andymcdonaldgeo.medium.com/loading-and-displaying-well-log-data-b9568efd1d8>  
 
 # 使用熊猫载入 CSV 文件
 
@@ -200,4 +200,4 @@ las_file.write('Output/Notebook 22/OutputLAS_FINAL.las')
 
 其次，通过注册会员，你可以获得完整的媒介体验，并支持我自己和成千上万的其他作家。它每个月只花你 5 美元，你可以完全接触到所有令人惊叹的媒体文章，也有机会用你的写作赚钱。如果你使用 [***我的链接***](https://andymcdonaldgeo.medium.com/membership)**报名，你会直接用你的一部分费用支持我，不会多花你多少钱。如果你这样做了，非常感谢你的支持！**
 
-*[](https://andymcdonaldgeo.medium.com/membership) *
+*<https://andymcdonaldgeo.medium.com/membership> *

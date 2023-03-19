@@ -230,4 +230,4 @@ close.screen(all = TRUE)
 
 如果你觉得这篇文章有用，请关注我，看看我的其他文章，包括:
 
-[](/how-do-decision-trees-and-random-forests-work-15cc2a925788)  [](/use-rattle-to-help-you-learn-r-d495c0cc517f)  [](/creating-a-custom-r-package-9a2e303d3332) 
+</how-do-decision-trees-and-random-forests-work-15cc2a925788>  </use-rattle-to-help-you-learn-r-d495c0cc517f>  </creating-a-custom-r-package-9a2e303d3332> 

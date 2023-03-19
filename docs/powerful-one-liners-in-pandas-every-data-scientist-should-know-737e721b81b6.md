@@ -164,6 +164,6 @@ Pandas 允许您根据重复的所有列(或列的子集)为行分配布尔标�
 
 附注:我在这篇文章中只能介绍五种方法。我将很快在另一个帖子中发布下一组有效数据分析的 Pandas 方法:)。同时，如果你喜欢读这篇文章，我相信你也会喜欢下面的文章:
 
-[](/20-of-pandas-functions-that-data-scientists-use-80-of-the-time-a4ff1b694707)  [](https://medium.com/@avi_chawla/top-ai-resources-you-must-follow-if-you-are-into-ai-19f657697c41)  
+</20-of-pandas-functions-that-data-scientists-use-80-of-the-time-a4ff1b694707>  <https://medium.com/@avi_chawla/top-ai-resources-you-must-follow-if-you-are-into-ai-19f657697c41>  
 
 感谢阅读。

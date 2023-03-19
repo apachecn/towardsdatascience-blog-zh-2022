@@ -27,7 +27,7 @@
 
 *   [**图像中的物体识别**](https://databasecamp.de/en/use-case/cnn-in-tensorflow) :监督学习模型的一个用例是识别图像中的物体，比如一辆汽车前面是否有另一辆汽车。已经有数不清的模型架构在对象识别甚至分类方面提供了很好的结果。除了其他方面之外，这一特性还用于自动驾驶，以便能够对如何做出最佳反应做出估计。
 *   **预测**:如果公司能够非常准确地预测未来的情景或状态，他们可以很好地权衡不同的决策选项，并选择最佳的一个。例如，对下一年预期销售额的高质量回归分析可用于决定分配多少预算给营销。
-*   [](https://databasecamp.de/en/use-case/bert-sentiment-analysis)**:如今，许多公司都面临着从各种渠道获取产品评论的挑战。很少有顾客利用这个机会在自己的电子商务商店里描述评论。相反，他们自己的产品也会在社交媒体评论、YouTube 视频或博客文章中得到评级，这些评级有时可能与他们自己网站上的评级相差很大。这就是为什么可以自动将文本分类为正面或负面的模型是一个很好的选择。例如，这使得处理许多评论和快速获得社交媒体上的情绪概览成为可能。**
+*   <https://databasecamp.de/en/use-case/bert-sentiment-analysis>**:如今，许多公司都面临着从各种渠道获取产品评论的挑战。很少有顾客利用这个机会在自己的电子商务商店里描述评论。相反，他们自己的产品也会在社交媒体评论、YouTube 视频或博客文章中得到评级，这些评级有时可能与他们自己网站上的评级相差很大。这就是为什么可以自动将文本分类为正面或负面的模型是一个很好的选择。例如，这使得处理许多评论和快速获得社交媒体上的情绪概览成为可能。**
 *   ****垃圾邮件检测**:许多电子邮件程序已经有了训练有素的垃圾邮件程序。这将检查收到的电子邮件，并计算它们是垃圾邮件的概率，即包含广告或用户不想要的邮件。为了识别这些邮件，会使用其他用户已经手动标记为垃圾邮件的数据。然后，这些数据被用来训练一个监督学习模型，以自动标记电子邮件。**
 
 # **监督学习有什么问题？**
@@ -59,6 +59,6 @@
 *   **公司将这些模型用于各种各样的应用，如垃圾邮件检测或图像中的对象识别。**
 *   **监督学习并非没有问题，因为标记数据集是昂贵的，并且可能包含人为错误。**
 
-***如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！此外，媒体允许你每月免费阅读* ***3 篇*** *。如果你想让***无限制地访问我的文章和数以千计的精彩文章，不要犹豫，通过点击我的推荐链接:*[https://medium.com/@niklas_lang/membership](https://medium.com/@niklas_lang/membership)获得会员资格，每个月只需支付 ***5*******
+***如果你喜欢我的作品，请在这里订阅*<https://medium.com/subscribe/@niklas_lang>**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！此外，媒体允许你每月免费阅读* ***3 篇*** *。如果你想让***无限制地访问我的文章和数以千计的精彩文章，不要犹豫，通过点击我的推荐链接:*[https://medium.com/@niklas_lang/membership](https://medium.com/@niklas_lang/membership)获得会员资格，每个月只需支付 ***5*******
 
-*****[](/8-machine-learning-algorithms-everyone-new-to-data-science-should-know-772bd0f1eca1)  [](/an-introduction-to-long-short-term-memory-networks-lstm-27af36dde85d)  [](/an-introduction-to-databases-for-data-scientists-d6eb686b0dc) *****
+*****</8-machine-learning-algorithms-everyone-new-to-data-science-should-know-772bd0f1eca1>  </an-introduction-to-long-short-term-memory-networks-lstm-27af36dde85d>  </an-introduction-to-databases-for-data-scientists-d6eb686b0dc> *****

@@ -109,7 +109,7 @@ rdd_set.take(3)
 
 我从美国的[维基百科页面复制了一些文本，用一个简单的记事本制作了一个文本文件。该文件保存为 usa.txt。您可以通过以下链接下载该文本文件:](https://en.wikipedia.org/wiki/United_States)
 
-[](https://github.com/rashida048/Big-Data-Anlytics-Pyspark/blob/main/usa.txt)  
+<https://github.com/rashida048/Big-Data-Anlytics-Pyspark/blob/main/usa.txt>  
 
 以下是如何使用文本文件创建 RDD:
 
@@ -602,4 +602,4 @@ rda_11.fullOuterJoin(rdb_22).collect()
 
 ## 更多阅读
 
-[](/regression-in-tensorflow-using-both-sequential-and-function-apis-314e74b537ca)  [](/simple-explanation-on-how-decision-tree-algorithm-makes-decisions-34f56be344e9)  [](https://pub.towardsai.net/data-analysis-91a38207c92b)  [](/understanding-regularization-in-plain-language-l1-and-l2-regularization-2991b9c54e9a)  [](/exploratory-data-analysis-with-some-cool-visualizations-in-pythons-matplotlib-and-seaborn-library-99dde20d98bf) 
+</regression-in-tensorflow-using-both-sequential-and-function-apis-314e74b537ca>  </simple-explanation-on-how-decision-tree-algorithm-makes-decisions-34f56be344e9>  <https://pub.towardsai.net/data-analysis-91a38207c92b>  </understanding-regularization-in-plain-language-l1-and-l2-regularization-2991b9c54e9a>  </exploratory-data-analysis-with-some-cool-visualizations-in-pythons-matplotlib-and-seaborn-library-99dde20d98bf> 

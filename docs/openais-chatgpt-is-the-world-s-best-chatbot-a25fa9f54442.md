@@ -34,7 +34,7 @@ ChatGPT 是迄今为止世界上最好的聊天机器人。它可以写[散文](
 
 *本文选自*[***The Algorithmic Bridge***](https://thealgorithmicbridge.substack.com/subscribe?)*，这是一份旨在弥合算法与人之间鸿沟的教育通讯。它将帮助你理解人工智能对你生活的影响，并开发工具来更好地导航未来。*
 
-[](https://thealgorithmicbridge.substack.com/subscribe)  
+<https://thealgorithmicbridge.substack.com/subscribe>  
 
 # ChatGPT 的广泛含义
 
@@ -112,7 +112,7 @@ ChatGPT 要灵活得多，但是，因为它的目标不是事实或真实，它
 
 > “凡事都有极限。宇宙是有极限的——物理定律之外的事情是不可能发生的，无论我们怎么努力——甚至是无限的——自然数的集合是无限的，但它不包含实数的集合。
 > 
-> GPT-3 有局限性，而我们，那些试图发现它们的人，也有局限性。格温在这里证明了*[*[](https://www.gwern.net/GPT-3#prompts-as-programming)**】*的是，在寻找 GPT 3 号的极限时，我们找到了自己的极限。不是 GPT 3 号没有完成某些任务，而是我们找不到合适的提示。我们的极限是阻止 GPT 3 号执行任务。我们阻止了 GPT 3 号发挥其真正的潜力。*
+> GPT-3 有局限性，而我们，那些试图发现它们的人，也有局限性。格温在这里证明了*[*<https://www.gwern.net/GPT-3#prompts-as-programming>**】*的是，在寻找 GPT 3 号的极限时，我们找到了自己的极限。不是 GPT 3 号没有完成某些任务，而是我们找不到合适的提示。我们的极限是阻止 GPT 3 号执行任务。我们阻止了 GPT 3 号发挥其真正的潜力。*
 > 
 > *这就提出了一个直接的问题:如果 GPT-3 的局限性经常被误认为是我们的局限性，我们如何精确地定义该系统能做什么或不能做什么的界限？*
 > 

@@ -46,7 +46,7 @@
 
 在现实世界中，我更喜欢在一个团队中与最多 5 个人一起工作，应该给这个团队一个具有挑战性但仍然可以实现的功能或能力，并且可以完全归这个团队所有。许多软件项目需要大量的劳动力；然而，模式应该保持不变:**分而治之** —将一个较大的产品分成几个部分，由更小的团队分配和拥有，从而在团队内进行范围有效的沟通，并创建另一个级别的跨团队沟通，仅限于与需要标准化和治理的领域相关的功能-支配性主题—更多详细信息可在此处找到:
 
-[](/why-and-how-software-systems-decay-fa7ec83c4ff3)  
+</why-and-how-software-systems-decay-fa7ec83c4ff3>  
 
 ## 信息的丢失
 
@@ -82,7 +82,7 @@
 
 ## **进一步阅读**
 
- **** **[](https://www.hdwebsoft.com/blog/most-important-skill-software-developer-communication.html) ** 
+ **** **<https://www.hdwebsoft.com/blog/most-important-skill-software-developer-communication.html> ** 
 
 ****关于 Thomas Reinecke** —在过去几年中，我作为 IBM 内部几个关键转型项目的首席架构师，拥有独一无二的机会来共同领导和影响 IBM 内部一些最复杂、最全面和最有影响力的活动，例如支持、销售和业务合作伙伴生态系统的转型。我一直是一个非常好奇和善于思考的人，所以多年来我一直试图理解沟通对软件开发的影响，显然我已经实践了😁。我本质上仍然是一名 IT 工程师，所以我最感兴趣的是事情的实际方面，我在 medium 上分享我自己的真实世界经验。**
 

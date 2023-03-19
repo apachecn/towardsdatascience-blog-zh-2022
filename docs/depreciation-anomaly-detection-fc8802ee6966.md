@@ -52,7 +52,7 @@ Plotly 非常方便，因为它的交互式可视化(图片作者)
 
 在这个例子中，我们不再考虑中位数。但是在继续之前，您可能想仔细看看您的数据的分布情况。因为只有当您知道数据的位置和分布时，您才能设置有意义的警报。我们将使用统计过程控制技术来计算警报。如果您想了解更多关于 SPC 和 QCC 的信息，请参阅本文:
 
-[](/push-your-sales-with-statistical-process-control-52321f329405)  
+</push-your-sales-with-statistical-process-control-52321f329405>  
 
 我们不会完全遵循质量控制图原则，但我们会出于财务目的采用这些原则:
 

@@ -14,7 +14,7 @@
 
 有各种各样的算法广泛用于主题建模。在我之前的三篇文章中，我向您介绍了主题建模的三种算法:LDA、GSDMM 和 NMF。
 
-[](/let-us-extract-some-topics-from-text-data-part-i-latent-dirichlet-allocation-lda-e335ee3e5fa4)  [](https://medium.com/geekculture/let-us-extract-some-topics-from-text-data-part-ii-gibbs-sampling-dirichlet-multinomial-mixture-9e82d51b0fab)  [](/let-us-extract-some-topics-from-text-data-part-iii-non-negative-matrix-factorization-nmf-8eba8c8edada)  
+</let-us-extract-some-topics-from-text-data-part-i-latent-dirichlet-allocation-lda-e335ee3e5fa4>  <https://medium.com/geekculture/let-us-extract-some-topics-from-text-data-part-ii-gibbs-sampling-dirichlet-multinomial-mixture-9e82d51b0fab>  </let-us-extract-some-topics-from-text-data-part-iii-non-negative-matrix-factorization-nmf-8eba8c8edada>  
 
 在本文中，我深入解释了什么是 BERTopic，以及如何将它用于您的主题建模项目！让我们直入主题吧！
 

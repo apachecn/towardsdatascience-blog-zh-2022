@@ -20,7 +20,7 @@ Christoph Molnar 是一位机器学习专家，也是一位拥有统计学背景
 
 如果你曾经想开始可解释的机器学习，你可能会挑选的第一本书是 Christoph 的 [**可解释的机器学习**](https://leanpub.com/interpretable-machine-learning) 。语言的清晰，现实的例子，以及将复杂的理论分解成更简单易懂的部分的艺术是这本书众多 USPs 中的几个。这本书的第二版最近已经发行，如果你想得到它，你可以在这里找到所有的信息。
 
-[](https://christophm.github.io/interpretable-ml-book/)  
+<https://christophm.github.io/interpretable-ml-book/>  
 
 问:这本书的想法是如何产生的？
 
@@ -58,4 +58,4 @@ Christoph Molnar 是一位机器学习专家，也是一位拥有统计学背景
 
 👉**阅读本系列的其他访谈:**
 
-[](/dont-just-take-notes-turn-them-into-articles-and-share-them-with-others-72aa43b83e29)  [](/you-do-not-become-better-by-employing-fancy-techniques-but-by-working-on-the-fundamentals-17d5c471c69c) 
+</dont-just-take-notes-turn-them-into-articles-and-share-them-with-others-72aa43b83e29>  </you-do-not-become-better-by-employing-fancy-techniques-but-by-working-on-the-fundamentals-17d5c471c69c> 

@@ -389,7 +389,7 @@ kedro pipeline create model_evaluation**
 
 **如果您想了解 Kedro 与市场上其他流水线工具的比较，请查看下面这篇全面的 NeptuneAI 文章:**
 
-**[](https://neptune.ai/blog/kedro-vs-zenml-vs-metaflow) [## Kedro vs ZenML vs Metaflow:应该选择哪个管道编排工具？- neptune.ai
+**<https://neptune.ai/blog/kedro-vs-zenml-vs-metaflow> [## Kedro vs ZenML vs Metaflow:应该选择哪个管道编排工具？- neptune.ai
 
 海王星. ai](https://neptune.ai/blog/kedro-vs-zenml-vs-metaflow)** 
 
@@ -397,6 +397,6 @@ kedro pipeline create model_evaluation**
 
 **我欢迎您**加入我的数据科学学习之旅**。跟随此[媒体](https://kennethleungty.medium.com/)页面并查看我的 [GitHub](https://github.com/kennethleungty) 以了解实用和教育数据科学内容。同时，与 Kedro 一起享受构建数据科学管道的乐趣！**
 
-**[](/end-to-end-automl-train-and-serve-with-h2o-mlflow-fastapi-and-streamlit-5d36eedfe606)  [](/autoxgb-for-financial-fraud-detection-f88f30d4734a)  [](/key-learning-points-from-mlops-specialization-course-deeplearning-ai-andrew-ng-5d0746605752)  [](https://kennethleungty.medium.com/membership) [## 通过我的推荐链接加入媒体-梁建华
+**</end-to-end-automl-train-and-serve-with-h2o-mlflow-fastapi-and-streamlit-5d36eedfe606>  </autoxgb-for-financial-fraud-detection-f88f30d4734a>  </key-learning-points-from-mlops-specialization-course-deeplearning-ai-andrew-ng-5d0746605752>  <https://kennethleungty.medium.com/membership> [## 通过我的推荐链接加入媒体-梁建华
 
 ### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…](https://kennethleungty.medium.com/membership)**

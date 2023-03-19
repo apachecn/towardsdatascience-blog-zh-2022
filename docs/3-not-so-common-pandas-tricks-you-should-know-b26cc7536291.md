@@ -147,6 +147,6 @@ dtype: int64
 
 class_category 列消耗的内存不到 class 列的一半。相差 496 字节，不算多。然而，当我们处理大型数据集时，这种差异肯定会很重要。
 
-*你可以成为* [*媒介会员*](https://sonery.medium.com/membership) *解锁我的全部写作权限，外加其余媒介。如果你已经是了，别忘了订阅*[](https://sonery.medium.com/subscribe)**如果你想在我发表新文章时收到电子邮件。**
+*你可以成为* [*媒介会员*](https://sonery.medium.com/membership) *解锁我的全部写作权限，外加其余媒介。如果你已经是了，别忘了订阅*<https://sonery.medium.com/subscribe>**如果你想在我发表新文章时收到电子邮件。**
 
 *感谢您的阅读。如果您有任何反馈，请告诉我。*

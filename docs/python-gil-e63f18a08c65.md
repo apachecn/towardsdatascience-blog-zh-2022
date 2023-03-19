@@ -82,7 +82,7 @@ Python 中的线程(并发)——来源:作者
 
 **要更全面地了解 Python 中的**多处理和线程**，请务必阅读下面分享的相关文章，该文章本质上是对 Python 中的**并发**和**并行**的深入探究。**
 
-**[](/multithreading-multiprocessing-python-180d0975ab29) ** 
+**</multithreading-multiprocessing-python-180d0975ab29> ** 
 
 ## **在 Python 中避开 GIL**
 
@@ -106,8 +106,8 @@ Python 中的线程(并发)——来源:作者
 
 **[**成为会员**](https://gmyrianthous.medium.com/membership) **阅读媒体上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。****
 
-**[](https://gmyrianthous.medium.com/membership) ** 
+**<https://gmyrianthous.medium.com/membership> ** 
 
 ****你可能也会喜欢****
 
-**[](/augmented-assignments-python-caa4990811a0) ** **[](/dynamic-typing-in-python-307f7c22b24e) **
+**</augmented-assignments-python-caa4990811a0> ** **</dynamic-typing-in-python-307f7c22b24e> **

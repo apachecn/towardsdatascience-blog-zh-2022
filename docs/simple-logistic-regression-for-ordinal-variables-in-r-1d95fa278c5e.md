@@ -14,7 +14,7 @@
 
 在以前的文章中，我们已经经历了简单的和多重的逻辑回归。读者可以看看这些文章，以便更好地理解逻辑回归。
 
-[](/simple-logistic-regression-for-dichotomous-variables-in-r-8befbe3e95b4)  [](https://mdsohel-mahmood.medium.com/multiple-logistic-regression-in-r-aa65c2a91e22)  
+</simple-logistic-regression-for-dichotomous-variables-in-r-8befbe3e95b4>  <https://mdsohel-mahmood.medium.com/multiple-logistic-regression-in-r-aa65c2a91e22>  
 
 > **数据集**
 
@@ -126,4 +126,4 @@ AIC/BIC statistics are also smaller in model 3 which also indicates more robustn
 
 感谢阅读。
 
-[](https://mdsohel-mahmood.medium.com/membership)  [](https://mdsohel-mahmood.medium.com/subscribe) 
+<https://mdsohel-mahmood.medium.com/membership>  <https://mdsohel-mahmood.medium.com/subscribe> 

@@ -116,11 +116,11 @@
 
 **这是我的 GitHub 知识库的链接，我计划在这里收集代码和许多与机器学习、人工智能等相关的资源。**
 
-**[](https://github.com/SalvatoreRa/tutorial)  
+**<https://github.com/SalvatoreRa/tutorial>  
 
 或者随意查看我在 Medium 上的其他文章:
 
-[](/how-science-contribution-has-become-a-toxic-environment-6beb382cebcd)  [](/how-ai-could-fuel-global-warming-8f6e1dda6711)  [](/speaking-the-language-of-life-how-alphafold2-and-co-are-changing-biology-97cff7496221)  [](https://pub.towardsai.net/a-new-bloom-in-ai-why-the-bloom-model-can-be-a-gamechanger-380a15b1fba7)  
+</how-science-contribution-has-become-a-toxic-environment-6beb382cebcd>  </how-ai-could-fuel-global-warming-8f6e1dda6711>  </speaking-the-language-of-life-how-alphafold2-and-co-are-changing-biology-97cff7496221>  <https://pub.towardsai.net/a-new-bloom-in-ai-why-the-bloom-model-can-be-a-gamechanger-380a15b1fba7>  
 
 **附加资源**
 

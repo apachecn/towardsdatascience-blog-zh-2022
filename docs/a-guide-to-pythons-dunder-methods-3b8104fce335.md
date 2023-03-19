@@ -189,4 +189,4 @@ RandomNumbers(6, 12)
 
 已经是会员了？订阅在我发布时得到通知。
 
-[](https://kurtispykes.medium.com/subscribe) 
+<https://kurtispykes.medium.com/subscribe> 

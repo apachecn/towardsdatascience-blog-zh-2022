@@ -68,4 +68,4 @@ T o 水印还是不水印，这是个问题。唉，没有简单的答案。你�
 
 *如果你喜欢这篇文章，你可以考虑成为 Medium 会员，这样就可以无限制地访问 Medium 上的所有文章。如果你* [*使用此链接*](https://medium.com/@harlan.j.brothers/membership) *注册，你也可以支持我成为作家、研究者、创作者。*
 
-[](https://medium.com/@harlan.j.brothers/membership) 
+<https://medium.com/@harlan.j.brothers/membership> 

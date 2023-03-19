@@ -64,10 +64,10 @@ EHR 是参与患者护理的个人的所有信息的综合集合。这包括来�
 
 参考
 
-[](https://www.healthit.gov/buzz-blog/electronic-health-and-medical-records/emr-vs-ehr-difference)  [](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3824370/)  [](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-019-0837-5)  
+<https://www.healthit.gov/buzz-blog/electronic-health-and-medical-records/emr-vs-ehr-difference>  <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3824370/>  <https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-019-0837-5>  
 
 [https://en . Wikipedia . org/wiki/Data _ retrieval #:~:text = In % 20 order % 20 to % 20 retrieve % 20 the，used % 20 to % 20 prepare % 20 the % 20 query](https://en.wikipedia.org/wiki/Data_retrieval#:~:text=In%20order%20to%20retrieve%20the,used%20to%20prepare%20the%20queries)。
 
-[](https://bmcmedethics.biomedcentral.com/articles/10.1186/s12910-017-0184-y)  
+<https://bmcmedethics.biomedcentral.com/articles/10.1186/s12910-017-0184-y>  
 
 [https://www . research gate . net/publication/332988365 _ Clinical _ Data _ Sources _ and _ Types _ Regulatory _ Constraints _ Applications](https://www.researchgate.net/publication/332988365_Clinical_Data_Sources_and_Types_Regulatory_Constraints_Applications)

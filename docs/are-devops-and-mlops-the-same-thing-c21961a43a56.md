@@ -142,4 +142,4 @@ DevOps 和 MLOps 有很多共同点，但也有很多不同点。
 
 # 相关文章
 
-[](/how-to-run-a-data-science-project-in-a-docker-container-2ab1a3baa889)  [](/model-evaluation-in-scikit-learn-abce32ee4a99)  [](/using-versatile-data-kit-to-ingest-and-process-data-from-rest-api-6e3e0660b791) 
+</how-to-run-a-data-science-project-in-a-docker-container-2ab1a3baa889>  </model-evaluation-in-scikit-learn-abce32ee4a99>  </using-versatile-data-kit-to-ingest-and-process-data-from-rest-api-6e3e0660b791> 

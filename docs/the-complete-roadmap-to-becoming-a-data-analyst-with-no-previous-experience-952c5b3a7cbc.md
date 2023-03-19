@@ -54,7 +54,7 @@
 
 **你可以用来更新数学技能的资源:**
 
-[](https://www.khanacademy.org/math/algebra)  [](https://www.khanacademy.org/math/algebra2)  [](https://www.khanacademy.org/math/ap-statistics)  
+<https://www.khanacademy.org/math/algebra>  <https://www.khanacademy.org/math/algebra2>  <https://www.khanacademy.org/math/ap-statistics>  
 
 **阶段目标结束:**
 
@@ -116,7 +116,7 @@ Tableau 是数据分析师创建可视化最常用的工具之一，学习它的
 
 **帮助您开始构建数据分析组合的资源:**
 
-[](https://careerfoundry.com/en/blog/data-analytics/data-analytics-portfolio-project-ideas/)    
+<https://careerfoundry.com/en/blog/data-analytics/data-analytics-portfolio-project-ideas/>    
 
 **阶段目标结束:**
 
@@ -138,7 +138,7 @@ Tableau 是数据分析师创建可视化最常用的工具之一，学习它的
 
 **让你为社交、求职和技术面试做好准备的资源:**
 
-[](https://www.anaconda.com/blog/networking-in-tech-find-your-dream-data-science-job)  [](https://www.indeed.com/career-advice/finding-a-job/completing-job-application-to-get-an-interview)  [](https://www.simplilearn.com/tutorials/data-analytics-tutorial/data-analyst-interview-questions)  [](https://www.hackerrank.com/interview/preparation-kits)  
+<https://www.anaconda.com/blog/networking-in-tech-find-your-dream-data-science-job>  <https://www.indeed.com/career-advice/finding-a-job/completing-job-application-to-get-an-interview>  <https://www.simplilearn.com/tutorials/data-analytics-tutorial/data-analyst-interview-questions>  <https://www.hackerrank.com/interview/preparation-kits>  
 
 **阶段目标结束:**
 

@@ -124,4 +124,4 @@
 
 # 参考
 
-[](https://predictivehacks.com/get-google-trends-using-python/)  [](https://pypi.org/project/nb-black/)  [](https://github.com/JovianML/opendatasets) 
+<https://predictivehacks.com/get-google-trends-using-python/>  <https://pypi.org/project/nb-black/>  <https://github.com/JovianML/opendatasets> 

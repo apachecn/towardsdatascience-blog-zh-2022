@@ -34,7 +34,7 @@
 *   [**最小 _ 子 _ 体重**](https://xgboost.readthedocs.io/en/stable/parameter.html#parameters-for-tree-booster)
 *   [**伽马**](https://xgboost.readthedocs.io/en/stable/parameter.html#parameters-for-tree-booster)
 *   **[阿尔法 ](https://xgboost.readthedocs.io/en/stable/parameter.html#parameters-for-tree-booster)**
-*   **[](https://xgboost.readthedocs.io/en/stable/parameter.html#parameters-for-tree-booster)**
+*   **<https://xgboost.readthedocs.io/en/stable/parameter.html#parameters-for-tree-booster>**
 
 ****关于这些超参数的定义，请参考原生 [XGBoost API](https://xgboost.readthedocs.io/en/stable/parameter.html#parameters-for-tree-booster) 的文档。****
 

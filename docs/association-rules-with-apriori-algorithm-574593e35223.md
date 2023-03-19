@@ -191,6 +191,6 @@ Apriori 算法是在具有许多事务的大型数据库中发现关联规则的
 *   虽然 Apriori 算法相对容易理解和实现，但对于大型数据库来说，它的效率非常低，并且需要大量的计算能力。因此，已经有一些方法来提高算法的性能。
 *   在实践中，每当寻找关联规则时，就使用 Apriori 算法。例如，这包括医药、生物或电子商务。
 
-*如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
+*如果你喜欢我的作品，请在这里订阅*<https://medium.com/subscribe/@niklas_lang>**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
 
-*[](/introduction-to-apache-hadoop-distributed-file-system-99cb98d175c)  [](/introduction-to-data-types-and-type-systems-in-programming-3e8aec6da7f2)  [](/introducing-nosql-databases-with-mongodb-d46c976da5bf) *
+*</introduction-to-apache-hadoop-distributed-file-system-99cb98d175c>  </introduction-to-data-types-and-type-systems-in-programming-3e8aec6da7f2>  </introducing-nosql-databases-with-mongodb-d46c976da5bf> *

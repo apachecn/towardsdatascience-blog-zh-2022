@@ -102,4 +102,4 @@
 
 在下面的链接中，您还可以找到一个免费的 PDF 演示，介绍如何使用 r。
 
-[](https://www.aspiringdatascientist.net/community) 
+<https://www.aspiringdatascientist.net/community> 

@@ -12,7 +12,7 @@ Python 是一种流行的高级编程语言，以其简单性、可读性和灵�
 
 # 入门指南
 
-要开始使用 Python，您需要在您的计算机上安装它。Python 的最新版本可以从 Python 官方网站([](https://www.python.org/)**)下载。一旦您下载并安装了 Python，您就可以通过打开 Python 解释器来开始使用它。**
+要开始使用 Python，您需要在您的计算机上安装它。Python 的最新版本可以从 Python 官方网站(<https://www.python.org/>**)下载。一旦您下载并安装了 Python，您就可以通过打开 Python 解释器来开始使用它。**
 
 **在 Windows 上，你可以通过*开始>程序> Python 3 打开解释器。X* (其中 *X* 是你安装的版本号)，然后点击***“Python 3。X"*** 图标。**
 
@@ -179,4 +179,4 @@ print(result)  # Output: 78.53981633974483***
 
 *****如果你喜欢阅读这样的故事，并想支持我成为一名作家，考虑注册成为一名媒体会员。一个月 5 美元， ***让你无限制地访问媒体上的故事*** *。如果你用我的* [***链接***](https://lmatalka90.medium.com/membership) *注册，我会赚一小笔佣金。******
 
-*****[](https://lmatalka90.medium.com/membership) *****
+*****<https://lmatalka90.medium.com/membership> *****

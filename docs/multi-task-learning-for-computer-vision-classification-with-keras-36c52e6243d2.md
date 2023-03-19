@@ -12,7 +12,7 @@ M 多任务学习(multi-task Learning，MLT)是机器学习的一个子领域，
 
 本文将介绍 MTL，并展示如何使用 tensorflow 的 Keras 模块在真实数据上实现和训练它。在我的 GitHub 资源库中可以找到完整的代码，以及一个 Jupyter 笔记本，您可以在其中试验您所学到的内容:
 
-[](https://github.com/JavierMtz5/ArtificialIntelligence)  
+<https://github.com/JavierMtz5/ArtificialIntelligence>  
 
 ## 数据预处理
 
@@ -95,4 +95,4 @@ M 多任务学习(multi-task Learning，MLT)是机器学习的一个子领域，
 
 Tensorflow API:
 
-[](https://www.tensorflow.org/datasets/catalog/cifar10) 
+<https://www.tensorflow.org/datasets/catalog/cifar10> 

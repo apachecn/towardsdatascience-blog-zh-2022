@@ -20,7 +20,7 @@
 
 查看我们的最新报道:*野生动物监测系统，实时浮游植物热点*
 
-[](/marine-wildlife-monitoring-system-with-real-time-phytoplankton-hotspots-9b361dbd2d13)  
+</marine-wildlife-monitoring-system-with-real-time-phytoplankton-hotspots-9b361dbd2d13>  
 
 在这里你可以找到一个简短的分析和文本，关于加拉帕戈斯群岛以及叶绿素 a 的浓度如何随着洋流的季节性而变化。
 
@@ -69,7 +69,7 @@
 *   **哨兵 3 OLCI**
     1)*2019 年 3 月 28 日:*S3A _ OL _ 1 _ EFR _ _ _ _ 2019 03 28t 155754 _ 2019 03 28t 160054 _ 2019 03 29t 200754 _ 0179 _ 043 _ 054 _ 2880 _ LN1 _ O _ NT _ 002。s EN3
     2)*2019 年 8 月 14 日:*S3A _ OL _ 1 _ EFR _ _ _ _ 2019 08 14t 155411 _ 2019 08 14t 155711 _ 2019 08 15t 191235 _ 0179 _ 048 _ 111 _ 2880 _ LN1 _ O _ NT _ 002。EN3
-    ***来源*** *:哥白尼开放访问枢纽。(*[](https://scihub.copernicus.eu/dhus/#/home)**)**
+    ***来源*** *:哥白尼开放访问枢纽。(*<https://scihub.copernicus.eu/dhus/#/home>**)**
 *   ****海表温度月 AQUA/MODIS*** 1)2019 年 3 月
     2)2019 年 8 月
     **来源**:图片获取自[***GEE time lapse Streamlit App***](https://blog.streamlit.io/creating-satellite-timelapse-with-streamlit-and-earth-engine/)，卫星服务来自 Nasa 地球观测(NEO)。

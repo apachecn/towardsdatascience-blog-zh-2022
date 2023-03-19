@@ -32,7 +32,7 @@
 
 机器学习算法分类。由[作者](https://solclover.com/)创建的互动图表。
 
-***如果你喜欢数据科学和机器学习*** *，请* [*订阅*](https://bit.ly/3sItbfx) *获取我的新文章的电子邮件。如果你不是中等会员，可以在这里加入*[](https://bit.ly/36Mozgu)**。**
+***如果你喜欢数据科学和机器学习*** *，请* [*订阅*](https://bit.ly/3sItbfx) *获取我的新文章的电子邮件。如果你不是中等会员，可以在这里加入*<https://bit.ly/36Mozgu>**。**
 
 # *DCGAN 架构及其组件概述*
 
@@ -218,4 +218,4 @@ train(gen_model, dis_model, gan_model, data, latent_dim)*
 
 ****如果你已经花光了这个月的学习预算，下次请记得我。*** *我的个性化加盟链接媒介:**
 
-*[](https://bit.ly/3J6StZI) *
+*<https://bit.ly/3J6StZI> *

@@ -32,8 +32,8 @@
 
 如果你喜欢你所读的内容，以及如何跟上我和其他了不起的作者的文章，请随时使用我下面的推荐代码注册 medium
 
-[](https://philip-wilkinson.medium.com/membership)  
+<https://philip-wilkinson.medium.com/membership>  
 
 或者查看我的其他文章:
 
-[](/git-and-github-basics-for-data-scientists-b9fd96f8a02a)  [](/multi-variate-outlier-detection-in-python-e900a338da10)  [](/london-convenience-store-classification-using-k-means-clustering-70c82899c61f) 
+</git-and-github-basics-for-data-scientists-b9fd96f8a02a>  </multi-variate-outlier-detection-in-python-e900a338da10>  </london-convenience-store-classification-using-k-means-clustering-70c82899c61f> 

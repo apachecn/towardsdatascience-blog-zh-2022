@@ -12,7 +12,7 @@
 
 在我之前关于价格弹性的帖子中，我展示了在创建机器学习模型之前使用 *Exploration Data Analysis* 分析数据集的重要性，以便更好地了解您的数据优势和劣势:
 
-[](/price-elasticity-data-understanding-and-data-exploration-first-of-all-ae4661da2ecb)  
+</price-elasticity-data-understanding-and-data-exploration-first-of-all-ae4661da2ecb>  
 
 当时我用 Azure Machine Learning Studio Classic 作为*无代码/低代码*平台，快速训练线性模型。现在，当你试图登录 Azure ML Studio Classic 时，会弹出一条消息，宣布它将于 2024 年 8 月 31 日退役:
 
@@ -24,7 +24,7 @@
 
 我还将向您展示在 Designer 中实现残差图(用于检查回归模型的健康状况)的方法。我在我的这篇博文中详细探讨了它们:
 
-[](https://medium.com/microsoftazure/how-to-better-evaluate-the-goodness-of-fit-of-regressions-990dbf1c0091)  
+<https://medium.com/microsoftazure/how-to-better-evaluate-the-goodness-of-fit-of-regressions-990dbf1c0091>  
 
 非常感谢我的同事 Greta Villa，他帮助我实现了这篇文章中的大部分 Python 代码。
 

@@ -126,7 +126,7 @@ H[X]是我们对 x 的无知，称为熵，*h*(*x*∣*y*)是给定 y，我们对
 
 *这个项目是为[教授 Renato Vicente](https://www.linkedin.com/in/renatovicente-usp/?originalSubdomain=br) 构思和教授的*信息系统理论、贝叶斯推理和机器学习*课程开发的。*
 
-***这篇文章的笔记本在这里**[](https://github.com/Rodrigo-Motta/NN_IB)****。*****
+***这篇文章的笔记本在这里**<https://github.com/Rodrigo-Motta/NN_IB>****。*****
 
 # ***参考***
 

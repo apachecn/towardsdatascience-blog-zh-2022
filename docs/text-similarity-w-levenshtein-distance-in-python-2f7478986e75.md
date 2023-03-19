@@ -145,6 +145,6 @@ Levenshtein 距离是一种词汇相似性度量，它标识一对字符串之�
 
 如果你喜欢这篇文章，这里还有一些你可能也会喜欢的:
 
-[](/text-summarization-in-python-with-jaro-winkler-and-pagerank-72d693da94e8)  [](/word2vec-explained-49c52b4ccb71)  [](/link-prediction-recommendation-engines-with-node2vec-c97c429351a8)  [](/bayesian-a-b-testing-explained-344a6df88c1a) [## 贝叶斯 A/B 测试解释
+</text-summarization-in-python-with-jaro-winkler-and-pagerank-72d693da94e8>  </word2vec-explained-49c52b4ccb71>  </link-prediction-recommendation-engines-with-node2vec-c97c429351a8>  </bayesian-a-b-testing-explained-344a6df88c1a> [## 贝叶斯 A/B 测试解释
 
-towardsdatascience.com](/bayesian-a-b-testing-explained-344a6df88c1a) [](/mining-modelling-character-networks-part-ii-a3d77de89638)  [](/optimize-training-predicting-sk-learn-models-in-python-with-sparse-matrices-1612072a025d)  [](/identifying-tweet-sentiment-in-python-7c37162c186b) 
+towardsdatascience.com](/bayesian-a-b-testing-explained-344a6df88c1a) </mining-modelling-character-networks-part-ii-a3d77de89638>  </optimize-training-predicting-sk-learn-models-in-python-with-sparse-matrices-1612072a025d>  </identifying-tweet-sentiment-in-python-7c37162c186b> 

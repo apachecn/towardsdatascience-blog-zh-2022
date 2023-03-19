@@ -159,7 +159,7 @@
 
 *喜欢这篇文章吗？成为* [*中级会员*](https://medium.com/@marvinlanhenke/membership) *继续无限学习。如果你使用下面的链接，我会收到你的一部分会员费，你没有额外的费用*
 
-[](https://medium.com/@marvinlanhenke/membership)  
+<https://medium.com/@marvinlanhenke/membership>  
 
 **参考资料/更多资料:**
 

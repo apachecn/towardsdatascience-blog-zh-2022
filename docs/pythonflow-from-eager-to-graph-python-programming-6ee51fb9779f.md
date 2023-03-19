@@ -55,7 +55,7 @@
 
 图( **DAG** )由一系列用边连接的节点(操作)组成。
 
-[](https://en.wikipedia.org/wiki/Directed_acyclic_graph#/media/File:Tred-G.svg)  
+<https://en.wikipedia.org/wiki/Directed_acyclic_graph#/media/File:Tred-G.svg>  
 
 > 当 Pythonflow 对一个操作求值时，它会检查当前的`context`是否为该操作提供了一个值，如果可能就立即返回。如果当前的`context`没有为操作提供值，Pythonflow 将评估操作的依赖关系，评估感兴趣的操作，将计算出的值存储在上下文中，并返回该值。
 
@@ -77,7 +77,7 @@
 
 必须考虑的一个方面是，操作只执行一次，然后保存在缓存中。这一方面极大地优化了我们的代码，尤其是在运算量很大的情况下。
 
-同时，如果我们需要包装我们的一个函数，可以使用一个[](https://peps.python.org/pep-0318/)****。`opmethod`的参数不是强制性的:指定`length`参数可以解包操作。****
+同时，如果我们需要包装我们的一个函数，可以使用一个<https://peps.python.org/pep-0318/>****。`opmethod`的参数不是强制性的:指定`length`参数可以解包操作。****
 
 ****我认为这是这个库的真正潜力，也就是将我们的图形片段组合成一系列复杂静态操作的可能性。为此，我们需要执行 pf.operation 类的子类化，如下例所示。****
 
@@ -99,7 +99,7 @@
 
 ****你可以在这里找到完整的示例代码。目标是展示如何创建一个简单的 DAG(带有一些额外的功能)专门用于人工智能，生成一个参数序列模型，并使用 Keras Functional API 对一些简单数据进行训练。****
 
-****[](https://github.com/GitMarco27/TMML/blob/main/Notebooks/012_pythonflow.ipynb)  
+****<https://github.com/GitMarco27/TMML/blob/main/Notebooks/012_pythonflow.ipynb>  
 
 和往常一样，我使用 Google Colab 创建简短的代码和示例。默认情况下不会安装 Pythonflow，所以您需要安装这个依赖项。
 

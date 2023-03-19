@@ -374,4 +374,4 @@ Python 虚拟环境在本地开发环境中的不同 Python 项目之间创建�
 
 下载电子书: [*数据科学家的工程实践*](https://valohai.com/engineering-practices-ebook/)
 
-【https://valohai.com】最初发表于[](https://valohai.com/blog/docker-for-data-science/)**。**
+【https://valohai.com】最初发表于<https://valohai.com/blog/docker-for-data-science/>**。**

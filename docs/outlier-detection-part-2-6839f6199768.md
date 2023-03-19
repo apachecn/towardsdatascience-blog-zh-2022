@@ -85,7 +85,7 @@ Brys 等人引入了对数偶的概念来度量具有连续单峰分布的单变
 
 [Youtube](https://www.youtube.com/watch?v=N0YCn3sfUm4)
 
-[](https://mdsohel-mahmood.medium.com/membership)  [](https://mdsohel-mahmood.medium.com/subscribe)  
+<https://mdsohel-mahmood.medium.com/membership>  <https://mdsohel-mahmood.medium.com/subscribe>  
 
 > **参考文献**
 

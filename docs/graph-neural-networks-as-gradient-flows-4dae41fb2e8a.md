@@ -192,7 +192,7 @@
 
 **[10]梯度流单调减少底层能量的事实源于∂/∂*t*ℰ(**x**(*t*)= –||∇ℰ(**x**(*t*))| |。**
 
-**[11] J .傅立叶，[](https://archive.org/details/bub_gb_TDQJAAAAIAAJ)**(1822)。傅立叶在 1807-1811 年间发展了后来成为同名的分析。这项工作在接下来的十年里没有被公开，因为他的职责是伊泽尔省的省长，这是一个由拿破仑亲自任命的高级职位(他在埃及的战役中就认识傅立叶)。****
+**[11] J .傅立叶，<https://archive.org/details/bub_gb_TDQJAAAAIAAJ>**(1822)。傅立叶在 1807-1811 年间发展了后来成为同名的分析。这项工作在接下来的十年里没有被公开，因为他的职责是伊泽尔省的省长，这是一个由拿破仑亲自任命的高级职位(他在埃及的战役中就认识傅立叶)。****
 
 ****[12] P .佩罗娜和 j .马利克，[使用各向异性扩散的尺度空间和边缘检测](https://authors.library.caltech.edu/6498/1/PERieeetpami90.pdf) (1990)，*PAMI*12(7):629–639。****
 
@@ -264,4 +264,4 @@
 
 ***[46]传统的 gnn 使用输入图来传播信息，通过这种方式获得反映图的结构和其上的特征的表示。然而，由于“瓶颈”导致来自太多节点的信息被“挤压”到单个节点表示中，一些图对信息传播不太友好，这种现象被称为“过度压制”。现代 GNN 实现通过将输入图与计算图解耦(或为计算目的对其进行优化)来处理这种现象，这是一套被称为“图重布线”的技术。在我们最近的论文 J. Topping，F. Di Giovanni 等人的[通过曲率理解图的过度挤压和瓶颈](https://arxiv.org/pdf/2111.14522.pdf)(2022)*ICLR*中，我们将重布线与图曲率和 Ricci 流联系起来。参见我们的[博客文章](/over-squashing-bottlenecks-and-graph-ricci-curvature-c238b7169e16?sk=f5cf01cbd57b4fee8fb3a89d447e56a9)。***
 
-****我们非常感谢大卫·艾纳德、尼尔斯·哈默拉、托马斯·基普夫、伊曼纽·罗西和康斯坦丁·鲁施对这篇文章的校对。关于图形深度学习的其他文章，请参见 Michael 在《走向数据科学》中的* [*其他帖子*](https://towardsdatascience.com/graph-deep-learning/home) *，* [*订阅他的帖子和*](https://michael-bronstein.medium.com/subscribe) [*YouTube 频道*](https://www.youtube.com/c/MichaelBronsteinGDL) *，获取* [*中等会员*](https://michael-bronstein.medium.com/membership) *，或关注他的*[](https://twitter.com/mmbronstein)***
+****我们非常感谢大卫·艾纳德、尼尔斯·哈默拉、托马斯·基普夫、伊曼纽·罗西和康斯坦丁·鲁施对这篇文章的校对。关于图形深度学习的其他文章，请参见 Michael 在《走向数据科学》中的* [*其他帖子*](https://towardsdatascience.com/graph-deep-learning/home) *，* [*订阅他的帖子和*](https://michael-bronstein.medium.com/subscribe) [*YouTube 频道*](https://www.youtube.com/c/MichaelBronsteinGDL) *，获取* [*中等会员*](https://michael-bronstein.medium.com/membership) *，或关注他的*<https://twitter.com/mmbronstein>***

@@ -38,7 +38,7 @@
 
 你可以在下面链接的 GitHub repo 中找到更多关于这个库的信息。
 
-[](https://github.com/Zabamund/wellpathpy)  
+<https://github.com/Zabamund/wellpathpy>  
 
 如果您还没有安装这个库，您可以使用 pip 安装它，如下所示:
 
@@ -50,7 +50,7 @@ pip install wellpathpy
 
 本教程中使用的数据是 Equinor 在 2018 年发布的 Volve 数据集的子集。数据集的全部细节，包括许可证，可以在下面的链接中找到。
 
-[](https://www.equinor.com/energy/volve-data-sharing)  
+<https://www.equinor.com/energy/volve-data-sharing>  
 
 Volve 数据许可证基于 CC BY 4.0 许可证。许可协议的全部细节可以在这里找到:
 
@@ -159,7 +159,7 @@ depths = list(range(0, int(dev.md[-1]) + 1, depth_step))
 
 [wellpathpy](https://github.com/Zabamund/wellpathpy) 包含多种计算真实垂直深度(TVD)的方法，但是，我们将重点介绍最小曲率法。如果你想了解这种方法背后的数学原理，请点击下面的链接。
 
-[](https://www.drillingformulas.com/minimum-curvature-method/)  
+<https://www.drillingformulas.com/minimum-curvature-method/>  
 
 为了创建我们的 TVD 曲线和位置测量(北距和东距),我们需要调用以下代码。这也将重新采样我们的深度值，以便我们每 1 米测量一次。
 

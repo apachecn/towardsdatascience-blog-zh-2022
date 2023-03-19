@@ -34,7 +34,7 @@ BI 工具语义层从中等厚度开始，允许您定义许多复杂的业务�
 
 就这一点而言，[2020 年商业智能趋势](https://wiiisdom.com/ebook/business-intelligence-trends-2020/)研究显示，67%的员工拥有不止一个 BI 工具，平均每家公司拥有 **3.8 个 BI 工具**。还有许多其他原因来避免厚语义层，其中一些在下面的帖子中有详细介绍:
 
-[](https://blog.transform.co/data-talks/why-business-metric-logic-shouldnt-live-in-bi-tools/)  
+<https://blog.transform.co/data-talks/why-business-metric-logic-shouldnt-live-in-bi-tools/>  
 
 因此，现代 BI 迎来了下一个阶段，即薄语义层。
 
@@ -42,11 +42,11 @@ BI 工具语义层从中等厚度开始，允许您定义许多复杂的业务�
 
 BI 工具中的薄语义层的想法是利用在 BI 工具和数据库之间构建语义层的其他工具。其中一些是度量层(又名无头 BI，度量存储)，如[转换](https://transform.co/)、[立方体](https://cube.dev/)和[度量 ql](https://metriql.com/) 。其他的，像 [dbt](https://www.getdbt.com/) (数据构建工具)，是数据转换工具，提供对度量的支持，以及其他语义层功能。
 
-[](/a-brief-history-of-the-metrics-store-28208ec8f6f1)  
+</a-brief-history-of-the-metrics-store-28208ec8f6f1>  
 
 具有薄语义层的 BI 工具从无头语义层同步或提取大部分元数据，然后在其上定义一些额外的元数据。越来越多的 BI 工具采用了瘦语义层方法。这里有一篇关于超集的文章，详细介绍了一个薄语义层背后的思想:
 
-[](https://preset.io/blog/understanding-superset-semantic-layer/)  
+<https://preset.io/blog/understanding-superset-semantic-layer/>  
 
 薄语义层显然是 BI 的一大进步。但是现在，作为一个积极进取的人，你可能会想“为什么不更进一步呢”？除了度量和一些其他元数据，为什么不将更多的元数据，如名称/标签、描述、格式和同义词，下推到无头语义层呢？
 
@@ -56,7 +56,7 @@ BI 工具中的薄语义层的想法是利用在 BI 工具和数据库之间构�
 
 像所有伟大的想法(悬浮滑板、飞行汽车、从里到外的奥利奥)一样，实现一个通用的语义层，实际上是可行的，值得投资的，仍然是难以捉摸的。前面提到的度量层解决方案(Transform、Cube、dbt、Metricql)正在获得越来越多的关注，但是有些特别关注度量。有充分的理由，它是通用语义层最重要的组成部分。在光谱的另一端，有完整的通用语义层产品，如 [AtScale](https://www.atscale.com/blog/what-is-a-universal-semantic-layer-why-would-you-want-one/) 和 [Kyligence](https://kyligence.io/unified-semantic-layer/) 。但是它们不是集中的度量层，它们是否会获得牵引力还有待观察。BI 和其他工具会努力与它们集成吗？与开源度量解决方案不同，AtScale 或 Kyligence 既不是开源的，也不是透明的。它们都没有定价页面，只列出最大的公司作为它们的客户，所以我认为可以说它们不是“通用的”统一语义层产品。
 
-[](https://www.atscale.com/blog/what-is-a-universal-semantic-layer-why-would-you-want-one/)  
+<https://www.atscale.com/blog/what-is-a-universal-semantic-layer-why-would-you-want-one/>  
 
 对于各种形状和规模的数据团队，当前的产品可能非常适合一小部分组织。或许更小、更灵活的公司会发现无头 BI 产品非常合适。此外，“无语义”的 BI 可能对这些组织来说并不重要。另一方面，大型公司可能在 AtScale 或 Kyligence 等产品上取得了成功。太好了！然而，这篇文章实际上是为介于两者之间的 90%的人而写的。
 
@@ -80,13 +80,13 @@ BI 工具中的薄语义层的想法是利用在 BI 工具和数据库之间构�
 
 虽然 dbt 不是真正的无头服务器，但他们目前正在开发无头度量产品。此外，dbt 认识到了改进的必要性，并高度重视指标和语义层:
 
-[](https://venturebeat.com/2022/02/28/dbt-labs-will-soon-add-a-semantic-layer-in-the-modern-data-stack/)  
+<https://venturebeat.com/2022/02/28/dbt-labs-will-soon-add-a-semantic-layer-in-the-modern-data-stack/>  
 
 现在，BI 工具可以并且正在与 dbt 集成，以提供瘦的和无语义的 BI 体验。 [FlexIt Analytics](https://learn.flexitanalytics.com/docs/dbt/) 和 [Lightdash](https://docs.lightdash.com/) 通过与 dbt 的集成已经具备了语义无关的能力。其他的像[超集](https://github.com/slidoapp/dbt-superset-lineage)和[元数据库](https://github.com/gouline/dbt-metabase)有同步工具，允许 dbt 模型的手动同步，以支持一个瘦语义层。鉴于 dbt 的受欢迎程度，许多其他产品，如 Thoughtspot(2022 年 8 月)和 [Holistics](https://docs.holistics.io/docs/dbt-integration) (现已提供测试版访问)即将推出，因此我们将在 2022 年的某个时候看到它们如何集成。最后，一些 BI 工具，如 [Mode](https://mode.com/get-dbt/) 给你一点(dbt 源代码新鲜度)，但在语义模型方面没有太多。
 
 事情进展很快，制定一些标准变得非常重要。本文详细介绍了如何制定标准，并提供了一个 Github dbt 项目，说明如何与 dbt 集成以实现无语义 BI:
 
-[](https://medium.com/modern-business-intelligence/self-service-business-intelligence-powered-by-dbt-3b7e24a92e27)  
+<https://medium.com/modern-business-intelligence/self-service-business-intelligence-powered-by-dbt-3b7e24a92e27>  
 
 # 结束语
 

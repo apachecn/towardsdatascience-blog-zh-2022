@@ -85,4 +85,4 @@ for a in image_list:
 
 查看我的其他文章:
 
-[](/7-data-visualization-best-practices-everyone-must-know-b68ebe329b1e)  [](https://medium.com/illumination/demings-14-management-principles-every-managers-should-know-60d37ce02ad9) 
+</7-data-visualization-best-practices-everyone-must-know-b68ebe329b1e>  <https://medium.com/illumination/demings-14-management-principles-every-managers-should-know-60d37ce02ad9> 

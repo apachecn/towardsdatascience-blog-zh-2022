@@ -98,4 +98,4 @@ If I’ve inspired you to join medium I would be really grateful if you did it t
 
 如果你喜欢这个，这里还有一些我的文章。
 
-[](/econometrics-is-the-original-data-science-6725d3f0d843)  [](/how-to-easily-show-your-matplotlib-plots-and-pandas-dataframes-dynamically-on-your-website-a9613eff7ae3)  [](/how-to-make-a-free-serverless-interactive-dashboard-in-minutes-e6ce5a1088e0) 
+</econometrics-is-the-original-data-science-6725d3f0d843>  </how-to-easily-show-your-matplotlib-plots-and-pandas-dataframes-dynamically-on-your-website-a9613eff7ae3>  </how-to-make-a-free-serverless-interactive-dashboard-in-minutes-e6ce5a1088e0> 

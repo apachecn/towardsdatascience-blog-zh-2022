@@ -14,16 +14,16 @@
 
 本文建立在[第 1 部分](/translating-sql-into-python-part-1-92bf385d08f1#ca3b)的基础上，第 1 部分涵盖了“选择”、“哪里”、“更新”、“连接”和“排序”，可以通过下面的链接。
 
-[](/translating-sql-into-python-part-1-92bf385d08f1)  
+</translating-sql-into-python-part-1-92bf385d08f1>  
 
 对于这一期，使用下面的内容跳到感兴趣的部分或 ctrl+f 记住这个函数。
 
 **目录:**
 
-1.  [](#61b8)
+1.  <#61b8>
 2.  **[**【分组依据&聚合】**](#7735)**
-3.  **[](#a22c)**
-4.  ****[](#a552)****(尾随空格、串连、赶作等。)********
+3.  **<#a22c>**
+4.  ****<#a552>****(尾随空格、串连、赶作等。)********
 
 ******对于这些例子，我们将使用 pandas、datetime 和 numpy 库。确保您已经安装了这些组件(在 Anaconda 包中它们都是默认的),并使用以下命令将其导入到您的脚本中:******
 
@@ -238,4 +238,4 @@ table['col1'] = pd.to_datetime(table['col1'])**
 
 ****这些不会涵盖所有的用例，但是应该提供一些不错的模板。更多详细信息，请参考[熊猫](https://pandas.pydata.org/docs/)、 [numpy](https://numpy.org/doc/) 和 [datetime](https://docs.python.org/3/library/datetime.html) 文档，这些文档也涵盖了输入参数，让您的代码更加高效。****
 
-****[](https://medium.com/@hollydalligan/membership) ****
+****<https://medium.com/@hollydalligan/membership> ****

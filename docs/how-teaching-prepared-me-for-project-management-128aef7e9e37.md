@@ -74,7 +74,7 @@
 
 另外，如果你喜欢这篇文章，可以看看下面类似的文章:
 
-[](/written-communication-the-other-data-science-skill-you-need-f89b2063923c)  [](/7-reasons-you-should-blog-during-your-data-science-journey-4f542b05dab1)  [](/why-focus-is-key-for-your-data-science-journey-b62715b2a1c)  
+</written-communication-the-other-data-science-skill-you-need-f89b2063923c>  </7-reasons-you-should-blog-during-your-data-science-journey-4f542b05dab1>  </why-focus-is-key-for-your-data-science-journey-b62715b2a1c>  
 
 如果你有任何问题，请随时在 Linkedin 和 Twitter 上发表评论或联系我们。对 Twitter 上的 DM 开放。
 

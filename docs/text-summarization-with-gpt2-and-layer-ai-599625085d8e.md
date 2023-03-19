@@ -16,7 +16,7 @@
 
 在这篇文章中，我将用一些技术背景来介绍变压器。然后，我们将使用 Layer 来获取预训练版本的 GPT2，以对其进行微调，用于总结目的。我们将使用的数据集由亚马逊评论组成，可以通过以下链接在 Kaggle 中找到:
 
-[](https://www.kaggle.com/code/currie32/summarizing-text-with-amazon-reviews/notebook)  
+<https://www.kaggle.com/code/currie32/summarizing-text-with-amazon-reviews/notebook>  
 
 ## 概观
 
@@ -28,7 +28,7 @@
 
 我在本文中包含了最有启发性的代码。这个项目的完整代码库和数据集可以在我的公共 [Colab 笔记本](https://colab.research.google.com/drive/1iDhg8ss-BW0ZpzL-umJhd9XAm7xUlz-g?authuser=2#scrollTo=AY5gYk6U4-l7)或 [Github Repo](https://github.com/aymanehachcham/GPT2_Text_Summarization) 中找到。
 
-[](https://github.com/aymanehachcham/GPT2_Text_Summarization)  [](https://colab.research.google.com/drive/1iDhg8ss-BW0ZpzL-umJhd9XAm7xUlz-g?usp=sharing#scrollTo=rinybKnGJLpY)  
+<https://github.com/aymanehachcham/GPT2_Text_Summarization>  <https://colab.research.google.com/drive/1iDhg8ss-BW0ZpzL-umJhd9XAm7xUlz-g?usp=sharing#scrollTo=rinybKnGJLpY>  
 
 ## 快速参观变形金刚图书馆
 

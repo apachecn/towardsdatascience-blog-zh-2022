@@ -210,4 +210,4 @@ GPU(图形处理单元)更专业一点，在多任务处理方面没有那么灵
 
 **使用我的推荐链接注册会给我一点回扣，对你的会员资格没有影响，所以如果你选择这样做，谢谢你。**
 
-**[](https://medium.com/@maclayton/membership) **
+**<https://medium.com/@maclayton/membership> **

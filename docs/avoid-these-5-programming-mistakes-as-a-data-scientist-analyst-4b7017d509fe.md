@@ -96,7 +96,7 @@ select EMPID, NAME, JOB, SALARY,
 employee_table
 ```
 
-![](img/3a4d4218d4937c7a6b77639c41cc7a54.png)[](/fundato-sql-window-functions-part-1-ab61df519973)  
+![](img/3a4d4218d4937c7a6b77639c41cc7a54.png)</fundato-sql-window-functions-part-1-ab61df519973>  
 
 ## 4.没有过滤所需的列
 
@@ -153,4 +153,4 @@ on a.member_id = b.member_id
 
 ## 你可能喜欢的故事！
 
-[](/sql-coding-best-practices-for-writing-clean-code-a1eca1cccb93) 
+</sql-coding-best-practices-for-writing-clean-code-a1eca1cccb93> 

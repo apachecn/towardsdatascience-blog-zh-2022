@@ -291,7 +291,7 @@ smf.ols('sales_tilde_scaled ~ coupons_tilde_scaled', df).fit().summary().tables[
 
 **你可以在这里找到 Jupyter 的原版笔记本。**
 
-**[](https://github.com/matteocourthoud/Blog-Posts/blob/main/notebooks/fwl.ipynb) ** 
+**<https://github.com/matteocourthoud/Blog-Posts/blob/main/notebooks/fwl.ipynb> ** 
 
 ## **感谢您的阅读！**
 

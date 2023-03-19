@@ -65,12 +65,12 @@
 
 ## 关于 AUC、IDI 和 NRI 的教程和更多信息
 
-[](/area-under-the-curve-and-beyond-f87a8ec6937b)  [](https://www.lambertleong.com/thoughts/AUC-IDI-NRI#idi_plot)  [](https://github.com/LambertLeong/AUC_NRI_IDI_python_functions)  
+</area-under-the-curve-and-beyond-f87a8ec6937b>  <https://www.lambertleong.com/thoughts/AUC-IDI-NRI#idi_plot>  <https://github.com/LambertLeong/AUC_NRI_IDI_python_functions>  
 
 ## **发表 IDI 的例子**
 
-[](https://www.nature.com/articles/s43856-021-00024-0#Fig3)  [](/compositional-breast-imaging-with-artificial-intelligence-to-improve-cancer-detection-c5f8f38f2266)  
+<https://www.nature.com/articles/s43856-021-00024-0#Fig3>  </compositional-breast-imaging-with-artificial-intelligence-to-improve-cancer-detection-c5f8f38f2266>  
 
 ## **资助和研究数据请求**
 
-[](https://shapeup.shepherdresearchlab.org/) 
+<https://shapeup.shepherdresearchlab.org/> 

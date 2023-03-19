@@ -12,7 +12,7 @@ Voronoi 细胞。除非另有说明，所有图片均为作者所有
 
 乘积量化将数据库中的每个向量转换为短码(PQ 码)，这种表示形式对于近似最近邻搜索来说非常节省内存。
 
-[](/product-quantization-for-similarity-search-2f1f67c5fddd)  
+</product-quantization-for-similarity-search-2f1f67c5fddd>  
 
 正如文章中提到的，产品量化是高度可扩展的，但是单独实现产品量化对于大规模搜索来说并不是最有效的方法。
 
@@ -188,7 +188,7 @@ Voronoi 单元的例子
 
 > 处理十亿级向量数据集？点击下面的链接，了解 **HNSW** 以及它如何与 **IVFPQ** 一起使用，以形成十亿级相似性搜索的最佳索引方法。
 
-[](/ivfpq-hnsw-for-billion-scale-similarity-search-89ff2f89d90e)  
+</ivfpq-hnsw-for-billion-scale-similarity-search-89ff2f89d90e>  
 
 # 参考
 
@@ -204,7 +204,7 @@ Voronoi 单元的例子
 
 有兴趣阅读我的其他数据科学文章吗？查看以下内容:
 
-[](/transformers-can-you-rate-the-complexity-of-reading-passages-17c76da3403)  [](/advanced-techniques-for-fine-tuning-transformers-82e4e61e16e)  [](https://pub.towardsai.net/building-a-product-recommendation-engine-with-aws-sagemaker-321a0e7c7f7b)  [](/aws-certified-machine-learning-specialty-97eacbd1a0fe)  ![Peggy Chang](img/9e4c26496eb3cca6b350330838259487.png)
+</transformers-can-you-rate-the-complexity-of-reading-passages-17c76da3403>  </advanced-techniques-for-fine-tuning-transformers-82e4e61e16e>  <https://pub.towardsai.net/building-a-product-recommendation-engine-with-aws-sagemaker-321a0e7c7f7b>  </aws-certified-machine-learning-specialty-97eacbd1a0fe>  ![Peggy Chang](img/9e4c26496eb3cca6b350330838259487.png)
 
 [张佩琦](https://peggy1502.medium.com/?source=post_page-----9c6348fd4db3--------------------------------)
 

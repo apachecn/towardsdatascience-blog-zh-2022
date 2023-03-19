@@ -1913,7 +1913,7 @@ if __name__ == "__main__":
 
 希望这已经提供了 YOLOv7 培训过程中一些最有趣的想法的全面概述，以及如何在定制培训脚本中应用这些想法。
 
-*复制这篇文章所需的所有代码都可以作为笔记本* [*在这里*](https://github.com/Chris-hughes10/Yolov7-training/blob/main/blog%20post/Yolo7%20blog%20post.ipynb) *。虽然在整篇文章中使用了代码片段，但这主要是出于美观的目的，请遵从笔记本，而*[](https://github.com/Chris-hughes10/Yolov7-training)**为工作代码。**
+*复制这篇文章所需的所有代码都可以作为笔记本* [*在这里*](https://github.com/Chris-hughes10/Yolov7-training/blob/main/blog%20post/Yolo7%20blog%20post.ipynb) *。虽然在整篇文章中使用了代码片段，但这主要是出于美观的目的，请遵从笔记本，而*<https://github.com/Chris-hughes10/Yolov7-training>**为工作代码。**
 
 *[*克里斯·休斯*](https://www.linkedin.com/in/chris-hughes1/) *和*[T21【伯纳特】普伊格阵营](https://www.linkedin.com/in/bepuca/) *都在领英**
 

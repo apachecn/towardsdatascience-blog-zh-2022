@@ -189,4 +189,4 @@ ALSaRR 管道。[图片由阿克谢·金达尔拍摄。](https://www.cl.cam.ac.u
 
 我错过了什么吗？不要犹豫，直接在 [LinkedIn](https://www.linkedin.com/in/aliakseimikhailiuk/) 或 [Twitter](https://twitter.com/mikhailiuka) 上给我留言、评论或发消息吧！
 
-[](/scientific-computing-lessons-learned-the-hard-way-db651f8f643a)  [](/on-the-edge-deploying-deep-applications-on-constrained-devices-f2dac997dd4d)  [](/deep-image-quality-assessment-30ad71641fac) 
+</scientific-computing-lessons-learned-the-hard-way-db651f8f643a>  </on-the-edge-deploying-deep-applications-on-constrained-devices-f2dac997dd4d>  </deep-image-quality-assessment-30ad71641fac> 

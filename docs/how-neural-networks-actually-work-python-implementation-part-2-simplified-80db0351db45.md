@@ -151,4 +151,4 @@ yhat shape (1, 395)
 
 感谢您的阅读，欢迎下次光临！！！
 
-[](/how-does-back-propagation-work-in-neural-networks-with-worked-example-bc59dfb97f48) 
+</how-does-back-propagation-work-in-neural-networks-with-worked-example-bc59dfb97f48> 

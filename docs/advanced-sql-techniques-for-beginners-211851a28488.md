@@ -78,7 +78,7 @@ ROLLUP 函数用于在多个级别执行聚合。当您必须处理尺寸图时�
 
 我之前在这里写过:
 
-[](/retention-and-daily-active-users-explained-79c5dab1bf84)  
+</retention-and-daily-active-users-explained-79c5dab1bf84>  
 
 # 9.Row_number()
 
@@ -96,7 +96,7 @@ ROLLUP 函数用于在多个级别执行聚合。当您必须处理尺寸图时�
 
 在本文中，您可以找到如何使用 Firebase 和 Google Analytics 4 数据创建自定义用户活动和绩效仪表板的教程:
 
-[](/i-stopped-using-firebase-dashboards-ive-built-my-own-instead-299631185b41)  
+</i-stopped-using-firebase-dashboards-ive-built-my-own-instead-299631185b41>  
 
 # 11.等级/密集 _ 等级
 
@@ -118,7 +118,7 @@ ROLLUP 函数用于在多个级别执行聚合。当您必须处理尺寸图时�
 
 以类似的方式，您可以创建不需要使用 **UNION ALL** 的表。例如，我用它来模拟单元测试的一些测试数据。这样你可以在你的编辑器中使用`Alt` + `Shift` + `Down`来快速完成。
 
-[](/sql-unit-testing-in-bigquery-here-is-a-tutorial-64fc7a6b377)  
+</sql-unit-testing-in-bigquery-here-is-a-tutorial-64fc7a6b377>  
 
 # 15.使用跟随和无限跟随创建事件漏斗
 

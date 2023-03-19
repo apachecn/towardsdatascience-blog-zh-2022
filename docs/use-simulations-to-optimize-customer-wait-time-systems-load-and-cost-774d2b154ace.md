@@ -369,6 +369,6 @@ plt.show()
 
 包含所有代码的笔记本可在此处获得:
 
-[](https://github.com/FlorinAndrei/misc/blob/master/load_simulation/user_wait_time.ipynb)  
+<https://github.com/FlorinAndrei/misc/blob/master/load_simulation/user_wait_time.ipynb>  
 
 所有图片均由作者创作。

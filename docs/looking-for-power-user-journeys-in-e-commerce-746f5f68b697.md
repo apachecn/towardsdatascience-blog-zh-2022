@@ -294,4 +294,4 @@ Data Studio 代码段:% 1 从一页过渡到下一页。作者图片
 
 # 资源
 
-[](/finding-your-power-users-using-bigquery-firebase-data-ad0e16e0ddea)          [](https://developers.google.com/analytics/devguides/collection/ga4/ecommerce?client_type=gtag#implementation)  [](https://www.alisa-in.tech/post/2019-10-02-ctes/) 
+</finding-your-power-users-using-bigquery-firebase-data-ad0e16e0ddea>          <https://developers.google.com/analytics/devguides/collection/ga4/ecommerce?client_type=gtag#implementation>  <https://www.alisa-in.tech/post/2019-10-02-ctes/> 

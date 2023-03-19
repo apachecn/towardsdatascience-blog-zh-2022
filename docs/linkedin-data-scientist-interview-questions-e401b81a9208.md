@@ -318,4 +318,4 @@ WHERE ((end_date - start_date)/365::float*project_yearly_salary) > budget
 
 你可以尝试回答其他 [SQL 面试问题](https://www.stratascratch.com/blog/sql-interview-questions-you-must-prepare-the-ultimate-guide/?utm_source=blog&utm_medium=click&utm_campaign=medium)来提高你的技能[准备数据科学面试](https://www.stratascratch.com/blog/5-tips-to-prepare-for-a-data-science-interview/?utm_source=blog&utm_medium=click&utm_campaign=medium)。
 
-【https://www.stratascratch.com】最初发表于[](https://www.stratascratch.com/blog/linkedin-data-scientist-interview-questions/?utm_source=blog&utm_medium=click&utm_campaign=medium)**。**
+【https://www.stratascratch.com】最初发表于<https://www.stratascratch.com/blog/linkedin-data-scientist-interview-questions/?utm_source=blog&utm_medium=click&utm_campaign=medium>**。**

@@ -20,7 +20,7 @@ Geran de Klerk 在 [Unsplash](https://unsplash.com/s/photos/satellite-forest?utm
 
 这个项目的代码存放在我的 GitHub 库中。
 
-[](https://github.com/dgg32/ndvi)  
+<https://github.com/dgg32/ndvi>  
 
 我把它们都放进了网络应用程序。
 
@@ -122,4 +122,4 @@ MODIS 应用程序中的代码更简单，因为`MODIS/061/MOD13A1`已经将两�
 
 你的想法是什么？你也用谷歌地球引擎监测植被吗？如果有，请分享你的经验。
 
-[](https://dgg32.medium.com/membership) 
+<https://dgg32.medium.com/membership> 

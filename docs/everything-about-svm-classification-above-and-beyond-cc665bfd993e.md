@@ -160,4 +160,4 @@ SVM 在处理分类时面临的一些缺点如下所述:
 
 至此，我们已经到了这篇文章的结尾。我希望这篇文章能帮助你了解 SVC 算法背后的思想。如果你有任何问题，或者如果你认为我犯了任何错误，请联系我！通过 [LinkedIn](https://www.linkedin.com/in/thisisashwinraj/) 与我联系，并查看我的其他机器学习食谱:
 
-[](/an-exhaustive-guide-to-classification-using-decision-trees-8d472e77223f)  [](/getting-acquainted-with-k-nearest-neighbors-ba0a9ecf354f) 
+</an-exhaustive-guide-to-classification-using-decision-trees-8d472e77223f>  </getting-acquainted-with-k-nearest-neighbors-ba0a9ecf354f> 

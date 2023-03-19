@@ -272,11 +272,11 @@ display.HTML(table)
 
 一如既往，感谢阅读。我希望你会觉得有趣，并看看我的 [Github repo](https://github.com/alanjones2/Alan-Jones-article-code/tree/master/riskviz) 中的代码。
 
-[](https://alanjones2.github.io)  
+<https://alanjones2.github.io>  
 
 如果你对我的其他文章感兴趣，你可以在 Medium 上浏览我的简介，或者在我的[网站](http://alanjones2.github.io)上看到它们。你也可以订阅我的时事通讯， [Technofile](http://technofile.substack.com) ，以获得新文章的通知。
 
-[](https://technofile.substack.com)  
+<https://technofile.substack.com>  
 
 # 笔记
 

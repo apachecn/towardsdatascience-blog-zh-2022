@@ -18,7 +18,7 @@ T 他们是编程世界中的一股巨大力量，也是数学和高级计算的
 
 尽管在试图创建一个函数时很容易迷失方向，但是有一些有用的方法可以使编写函数变得更容易。虽然函数一开始可能令人生畏，但它们通常只是输入和输出的基本操作。我使用了一些很棒的技术来编写看起来很棒、功能也很棒的函数。这些通常伴随着更多的经验，但我认为分享其中的一些可能是有意义的，因为它们在我编写函数的过程中经常会派上用场。如果您想查看我在本文中为演示这些内容而编写的函数的代码，笔记本在这里:
 
-[](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/Better%20functions.ipynb)  
+<https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/Better%20functions.ipynb>  
 
 # 开始一项功能
 
@@ -39,7 +39,7 @@ function r2(x, y)end
 
 因为我使用的是 Julia，所以我还会确保传递每个参数的类型，这样这个方法在不同的上下文中都是可扩展和可用的。顺便说一下，这些好处是在文档和方法错误的好处之上的。如果这些听起来都不熟悉，但您希望如此，我有一整篇文章讨论 MethodError 及其各种功能，因此您可以在这里了解更多信息:
 
-[](/the-beauty-of-the-methoderror-e5bb2f3e2678)  
+</the-beauty-of-the-methoderror-e5bb2f3e2678>  
 
 ```
 function r2(x::Array, y::Array)end
@@ -117,7 +117,7 @@ endr2(x::Array, y::Array) = r(x, y) ^ 2
 
 这项技术非常有用，它的使用展示了一些需要理解的关于函数的东西。函数应该简单直接，并且只有一个目的。当然，总有这样的情况，你可能调用带有很多参数的函数，或者可能没有输出，事情可能会略有不同，但在大多数情况下应该是这样的。无论如何，虽然在这种特殊情况下，函数看起来可能不会更好，但这仍然会使我们辛辛苦苦编写的代码更加适用和有用。实际上，我也有一整篇关于提取的文章，非常简洁；所以这里有一个链接！：
 
-[](/more-methods-means-better-code-1d3b237f6cf2) [## 更多的方法意味着更好的代码
+</more-methods-means-better-code-1d3b237f6cf2> [## 更多的方法意味着更好的代码
 
 towardsdatascience.com](/more-methods-means-better-code-1d3b237f6cf2) 
 

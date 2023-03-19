@@ -127,7 +127,7 @@
 
 您也可以通过我的 [**推荐链接**](https://pranay-dave9.medium.com/membership) 加入 Medium
 
-[](https://pranay-dave9.medium.com/membership)  
+<https://pranay-dave9.medium.com/membership>  
 
 # 额外资源
 
@@ -146,7 +146,7 @@
 
 数据集可用于研究目的
 
-[](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data)  
+<https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data>  
 
 **波尔图出租车数据**
 

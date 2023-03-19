@@ -100,11 +100,11 @@
 
 但这是改天的话题…
 
-[](/setting-up-apache-airflow-with-docker-compose-in-5-minutes-56a1110f4122)  
+</setting-up-apache-airflow-with-docker-compose-in-5-minutes-56a1110f4122>  
 
 *喜欢这篇文章吗？成为* [*中等会员*](https://medium.com/@marvinlanhenke/membership) *继续无限学习。如果你使用下面的链接，我会收到你的一部分会员费，不需要你额外付费。*
 
-[](https://medium.com/@marvinlanhenke/membership)  
+<https://medium.com/@marvinlanhenke/membership>  
 
 **参考资料/更多资料:**
 

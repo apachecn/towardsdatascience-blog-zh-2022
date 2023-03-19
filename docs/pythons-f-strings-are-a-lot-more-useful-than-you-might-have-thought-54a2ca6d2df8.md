@@ -14,7 +14,7 @@
 
 如果您用来编程的编程语言本质上至少是高级的，那么您可能也熟悉字符串插值的概念。字符串插值是编程语言通过定义字符串来读取和修改字符串的能力。在 Python 中，像这样的字符串插值是通过一个叫做 F 字符串的特性来完成的。F 字符串允许你用字符串做很多事情，有些人甚至没有意识到 Python 中 F 字符串的全部功能。幸运的是，互联网上有一些随机的博客作者可以为你的大脑深入探究 F 弦，这就是我今天要做的。如果你想与接下来的代码进行交互，我在这个小项目中使用的笔记本也可以在 Github 上找到:
 
-[](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Python3/f%20strings.ipynb)  
+<https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Python3/f%20strings.ipynb>  
 
 # 什么是 F 弦？
 

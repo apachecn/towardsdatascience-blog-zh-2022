@@ -12,7 +12,7 @@ micha Parzuchowski 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_med
 
 在我之前的文章中，我们讨论了最不可靠的统计测试，即 **Z 测试**，你可以在这里阅读:
 
-[](/z-test-simply-explained-80b346e0e239)  
+</z-test-simply-explained-80b346e0e239>  
 
 在本文中，我们将讨论 **T-Test** ，它也非常受欢迎，与 Z-Test 非常相似。
 
@@ -95,6 +95,6 @@ micha Parzuchowski 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_med
 *   ****[*LinkedIn*](https://www.linkedin.com/in/egor-howell-092a721b3/)*👔*****
 *   *****[*推特*](https://twitter.com/EgorHowell) 🖊*****
 *   ****[*github*](https://github.com/egorhowell)*🖥*****
-*   *****[](https://www.kaggle.com/egorphysics)**🏅*******
+*   *****<https://www.kaggle.com/egorphysics>**🏅*******
 
 > *****(所有表情符号都是由 [OpenMoji](https://openmoji.org/) 设计的——开源的表情符号和图标项目。许可证: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)*****

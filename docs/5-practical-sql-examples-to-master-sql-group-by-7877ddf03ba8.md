@@ -129,7 +129,7 @@ FROM Dummy_Sales_Data_v1
 
 你可以在我以前的一篇文章中读到另一个有趣的`GROUP BY`子句用例——
 
-[](/3-ultimate-ways-to-find-unique-records-in-sql-6ddf8ae567b0)  
+</3-ultimate-ways-to-find-unique-records-in-sql-6ddf8ae567b0>  
 
 接下来，让我们进一步了解如何以有效的方式限制 GROUP BY 子句获得的输出。
 

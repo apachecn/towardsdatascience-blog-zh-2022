@@ -198,7 +198,7 @@ Python 目前支持多个允许对数据进行快速 EDA 的其他包，包括 p
 
 一些有用的链接供你参考。
 
-[](/introduction-to-data-processing-using-descriptive-statistics-and-statistical-charts-in-python-9857a60c481b)  [](/statistics-for-data-science-a-beginners-guide-to-descriptive-statistics-in-python-9e0daa30809a)  
+</introduction-to-data-processing-using-descriptive-statistics-and-statistical-charts-in-python-9857a60c481b>  </statistics-for-data-science-a-beginners-guide-to-descriptive-statistics-in-python-9e0daa30809a>  
 
 # 参考
 

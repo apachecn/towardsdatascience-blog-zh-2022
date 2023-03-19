@@ -105,7 +105,7 @@
 
 为此，我们将使用一个名为 [statsmodels](https://www.statsmodels.org/dev/index.html) 的流行 Python 库。转到以前使用的维基百科数据集。
 
-我们可以使用 statsmodels [](https://www.statsmodels.org/dev/generated/statsmodels.tsa.seasonal.seasonal_decompose.html)`[seasonal_decompose()](https://www.statsmodels.org/dev/generated/statsmodels.tsa.seasonal.seasonal_decompose.html)`函数执行经典分解。如果你清楚地看到上面的时间序列，它更类似于我们上面讨论的加法序列。您可以使用`model`参数在`seasonal_decompose()`功能中设置型号。
+我们可以使用 statsmodels <https://www.statsmodels.org/dev/generated/statsmodels.tsa.seasonal.seasonal_decompose.html>`[seasonal_decompose()](https://www.statsmodels.org/dev/generated/statsmodels.tsa.seasonal.seasonal_decompose.html)`函数执行经典分解。如果你清楚地看到上面的时间序列，它更类似于我们上面讨论的加法序列。您可以使用`model`参数在`seasonal_decompose()`功能中设置型号。
 
 ```
 from statsmodels.api.tsa import seasonal_decomposedecompose = seasonal_decompose(data,model='additive')

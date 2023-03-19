@@ -110,6 +110,6 @@
 
 希望您已经开始理解物化视图，并将它们更多地结合到您的脚本中。但是，如果您认为需要后退一步，从总体上探索常规视图，请查看下面的文章:
 
-[](/views-an-underrated-alternative-to-tables-in-sql-26cd6d1d8660)  
+</views-an-underrated-alternative-to-tables-in-sql-26cd6d1d8660>  
 
 我祝你在数据科学的努力中好运！

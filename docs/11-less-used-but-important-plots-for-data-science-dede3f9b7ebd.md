@@ -14,7 +14,7 @@
 
 `*[Complete data visualization guideline is available here..]*`
 
-[](https://medium.datadriveninvestor.com/ultimate-guide-to-data-visualization-for-data-science-90b0b13e72ab)  
+<https://medium.datadriveninvestor.com/ultimate-guide-to-data-visualization-for-data-science-90b0b13e72ab>  
 
 ## 目录
 
@@ -45,7 +45,7 @@
 
 *让我们用* `***Plotly Express***` *库[1]将数据可视化。* `**Plotly**` 库提供了一个交互式绘图工具。
 
-我们也可以使用其他类似`[**pandas**](https://pandas.pydata.org/docs/reference/api/pandas.plotting.parallel_coordinates.html)**,** [**scikit-learn**](https://learn-scikit.oneoffcoder.com/plot-parallel-coordinates.html), [**and matplotlib**](https://www.geeksforgeeks.org/parallel-coordinates-in-matplotlib)` [](https://www.geeksforgeeks.org/parallel-coordinates-in-matplotlib)的库来绘制平行坐标。
+我们也可以使用其他类似`[**pandas**](https://pandas.pydata.org/docs/reference/api/pandas.plotting.parallel_coordinates.html)**,** [**scikit-learn**](https://learn-scikit.oneoffcoder.com/plot-parallel-coordinates.html), [**and matplotlib**](https://www.geeksforgeeks.org/parallel-coordinates-in-matplotlib)` <https://www.geeksforgeeks.org/parallel-coordinates-in-matplotlib>的库来绘制平行坐标。
 
 ## 六角宁滨
 
@@ -204,12 +204,12 @@ QQ 情节是另一个有趣的情节。QQ 代表分位数——分位数图*(分
 
 ****完成数据可视化指南****
 
-**[](https://medium.datadriveninvestor.com/ultimate-guide-to-data-visualization-for-data-science-90b0b13e72ab)  
+**<https://medium.datadriveninvestor.com/ultimate-guide-to-data-visualization-for-data-science-90b0b13e72ab>  
 
 *你也可以朗读美学数据可视化的文章。*
 
-[](/spread-of-covid-19-with-interactive-data-visualization-521ac471226e)  
+</spread-of-covid-19-with-interactive-data-visualization-521ac471226e>  
 
 *面向数据科学初学者的完整统计指南*
 
-[](/ultimate-guide-to-statistics-for-data-science-a3d8f1fd69a7) **
+</ultimate-guide-to-statistics-for-data-science-a3d8f1fd69a7> **

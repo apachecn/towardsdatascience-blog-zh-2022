@@ -116,4 +116,4 @@ LC = a*G1 + b*G2 + c*G3 + ... + z*Gn
 
 如果你喜欢这篇文章，这里列出了我写的其他文章，你可能也会喜欢。
 
-[](/recommendation-systems-explained-a42fc60591ed)  [](/word2vec-explained-49c52b4ccb71)  [](/node2vec-explained-db86a319e9ab)  [](https://pub.towardsai.net/dynamic-time-warping-explained-fbb24c1e079b)  [](/mining-modelling-character-networks-part-ii-a3d77de89638)  [](/random-walks-with-restart-explained-77c3fe216bca) 
+</recommendation-systems-explained-a42fc60591ed>  </word2vec-explained-49c52b4ccb71>  </node2vec-explained-db86a319e9ab>  <https://pub.towardsai.net/dynamic-time-warping-explained-fbb24c1e079b>  </mining-modelling-character-networks-part-ii-a3d77de89638>  </random-walks-with-restart-explained-77c3fe216bca> 

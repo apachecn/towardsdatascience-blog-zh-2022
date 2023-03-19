@@ -18,7 +18,7 @@
 
 布莱恩·科斯蒂克在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄的照片
 
-尺寸限制不仅阻止了 CPU 拥有更多的晶体管，从而获得更多的计算能力，而且由于其异常的复杂性，也使它们无法廉价或直接地制造和维修。此外，即使我们可以设计出比今天强大一百万倍的 CPU，如果它需要一百万倍的能量来运行，它也没有什么用处，这就引入了新的问题需要考虑。于是，许多世界范围内的计算机科学、物理、电子和数学专家提出了一个解决方案，那就是建造一台所谓的 ***“量子计算机”。*** 然而，这种将经典规则量子化的想法并不像看起来那么当代。第一个介绍它的人是保罗·贝尼奥夫，一个臭名昭著的美国物理学家，被广泛认为是量子计算之父。在他 1981 年的论文 [***【作为物理系统的计算机】***](https://www.researchgate.net/publication/226754042_The_computer_as_a_physical_system_A_microscopic_quantum_mechanical_Hamiltonian_model_of_computers_as_represented_by_Turing_machines) 中，他提出了“量子图灵机”的想法，这种机器将使用量子力学的原理来执行计算。尽管如此，直到 1995 年，[](https://en.wikipedia.org/wiki/National_Institute_of_Standards_and_Technology)*研究人员 [*克里斯托弗·门罗*](https://en.wikipedia.org/wiki/Christopher_Monroe) 和 [*大卫·温兰*](https://en.wikipedia.org/wiki/David_Wineland) 才实验性地实现了第一个量子逻辑门，即受控非 ***(C 非)*** 门，从而导致了第一个工作的双量子位[核磁共振](https://en.wikipedia.org/wiki/Nuclear_magnetic_resonance) *(原子核)**
+尺寸限制不仅阻止了 CPU 拥有更多的晶体管，从而获得更多的计算能力，而且由于其异常的复杂性，也使它们无法廉价或直接地制造和维修。此外，即使我们可以设计出比今天强大一百万倍的 CPU，如果它需要一百万倍的能量来运行，它也没有什么用处，这就引入了新的问题需要考虑。于是，许多世界范围内的计算机科学、物理、电子和数学专家提出了一个解决方案，那就是建造一台所谓的 ***“量子计算机”。*** 然而，这种将经典规则量子化的想法并不像看起来那么当代。第一个介绍它的人是保罗·贝尼奥夫，一个臭名昭著的美国物理学家，被广泛认为是量子计算之父。在他 1981 年的论文 [***【作为物理系统的计算机】***](https://www.researchgate.net/publication/226754042_The_computer_as_a_physical_system_A_microscopic_quantum_mechanical_Hamiltonian_model_of_computers_as_represented_by_Turing_machines) 中，他提出了“量子图灵机”的想法，这种机器将使用量子力学的原理来执行计算。尽管如此，直到 1995 年，<https://en.wikipedia.org/wiki/National_Institute_of_Standards_and_Technology>*研究人员 [*克里斯托弗·门罗*](https://en.wikipedia.org/wiki/Christopher_Monroe) 和 [*大卫·温兰*](https://en.wikipedia.org/wiki/David_Wineland) 才实验性地实现了第一个量子逻辑门，即受控非 ***(C 非)*** 门，从而导致了第一个工作的双量子位[核磁共振](https://en.wikipedia.org/wiki/Nuclear_magnetic_resonance) *(原子核)**
 
 *在花费了二十多年的时间开发量子逻辑门实验实现的新方法并在实验室证明其可行性后，世界各地的科学团队已经在各种量子平台上成功构建了量子处理器，从捕获的离子到超导电路。此外，它的快速发展也使量子计算成为解决人类面临的一些最具挑战性问题的可行选择。然而，这个领域存在的时间太短，这对它不利。许多梦想升级这个世界的硬件开发人员、研究人员和物理学家面临着大量的阻碍和挫折；它们中的大部分源自理解处理物理元件的不同方式的工作原理所需的特定知识，以产生可应用于工业的功能硬件。因此，非专家和量子技术之间的关系很可能是前者向后者寻求问题的潜在解决方案，理解实施这些想法可能有很大的困难。*
 
@@ -238,7 +238,7 @@
 
 **作者图片**
 
-**从上面这篇[](/advanced-waste-classification-with-machine-learning-6445bff1304f)*的文章中可以看出，神经网络试图通过串联多层包含可变参数的 [***感知器***](/what-the-hell-is-perceptron-626217814f53)**【神经元】*来模仿大脑的功能。然后，为了测试模型在拟合特定输入数据集方面的有效性，在每次训练迭代中计算并最小化成本函数，以实现一个*“智能”*模型，该模型稍后在训练数据之外执行推断。****
+**从上面这篇</advanced-waste-classification-with-machine-learning-6445bff1304f>*的文章中可以看出，神经网络试图通过串联多层包含可变参数的 [***感知器***](/what-the-hell-is-perceptron-626217814f53)**【神经元】*来模仿大脑的功能。然后，为了测试模型在拟合特定输入数据集方面的有效性，在每次训练迭代中计算并最小化成本函数，以实现一个*“智能”*模型，该模型稍后在训练数据之外执行推断。****
 
 **![](img/929905b0ba140f8069f939a334b010b4.png)**
 

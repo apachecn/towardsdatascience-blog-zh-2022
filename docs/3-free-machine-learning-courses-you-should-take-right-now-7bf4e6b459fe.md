@@ -42,7 +42,7 @@ Avel Chuklanov 在 [Unsplash](https://unsplash.com/s/photos/learn?utm_source=uns
 
 *来自谷歌*
 
-[](https://developers.google.com/machine-learning/crash-course)  
+<https://developers.google.com/machine-learning/crash-course>  
 
 **时长:** 15 小时
 
@@ -62,7 +62,7 @@ Avel Chuklanov 在 [Unsplash](https://unsplash.com/s/photos/learn?utm_source=uns
 
 *来自 FastAI*
 
-[](https://course.fast.ai)  
+<https://course.fast.ai>  
 
 **时长:** 7 周
 
@@ -90,6 +90,6 @@ Avel Chuklanov 在 [Unsplash](https://unsplash.com/s/photos/learn?utm_source=uns
 
 如果你有兴趣了解更多可用的资源，我之前也发布了一份完整的免费资料列表，这些资料在网上随处可见。
 
-[](/how-to-learn-data-science-for-free-eda10f04d083)  
+</how-to-learn-data-science-for-free-eda10f04d083>  
 
 感谢阅读！

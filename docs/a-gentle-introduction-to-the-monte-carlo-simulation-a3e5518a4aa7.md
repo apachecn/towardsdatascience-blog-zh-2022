@@ -269,12 +269,12 @@ r = mcs(500)
 
 你也可以关注我的博客了解更多内容。
 
-[](https://gustavorsantos.medium.com/)  
+<https://gustavorsantos.medium.com/>  
 
 ## 参考
 
-[](https://en.wikipedia.org/wiki/Law_of_large_numbers)  
+<https://en.wikipedia.org/wiki/Law_of_large_numbers>  
 
 蒙特卡洛模拟的定义:[https://tinyurl.com/3nkxpe4p](https://tinyurl.com/3nkxpe4p)
 
-[](https://en.wikipedia.org/wiki/Monte_Carlo_method)  [](https://www.ibm.com/cloud/learn/monte-carlo-simulation)   
+<https://en.wikipedia.org/wiki/Monte_Carlo_method>  <https://www.ibm.com/cloud/learn/monte-carlo-simulation>   

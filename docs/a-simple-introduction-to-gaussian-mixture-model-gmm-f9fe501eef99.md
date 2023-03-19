@@ -176,7 +176,7 @@ GMM 球形结果。图片由作者提供。
 
 如果你愿意，不要忘记关注我的博客或者使用我的推荐链接订阅 Medium。
 
-[](https://gustavorsantos.medium.com/)  
+<https://gustavorsantos.medium.com/>  
 
 ## 参考
 
@@ -184,4 +184,4 @@ GMM 球形结果。图片由作者提供。
 
 [解释堆栈交换的协方差类型](https://stats.stackexchange.com/questions/326671/different-covariance-types-for-gaussian-mixture-models)
 
-[](/gaussian-mixture-models-explained-6986aaf5a95)  [](/how-to-code-gaussian-mixture-models-from-scratch-in-python-9e7975df5252)  [](/gaussian-mixture-modelling-gmm-833c88587c7f)  [](/gaussian-mixture-models-d13a5e915c8e) 
+</gaussian-mixture-models-explained-6986aaf5a95>  </how-to-code-gaussian-mixture-models-from-scratch-in-python-9e7975df5252>  </gaussian-mixture-modelling-gmm-833c88587c7f>  </gaussian-mixture-models-d13a5e915c8e> 

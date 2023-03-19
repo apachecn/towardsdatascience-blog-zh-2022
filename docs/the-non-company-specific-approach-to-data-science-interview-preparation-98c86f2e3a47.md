@@ -182,4 +182,4 @@ SQL 面试将测试您对 SQL 语言、语法和功能的熟悉程度，但这�
 *   *连接上*[*Linkedin*](https://www.linkedin.com/in/emmading001/)*！*
 *   前往[emmading.com/resources](https://www.emmading.com/resources)获取更多关于数据科学面试技巧和策略的免费资源！
 
-[](/why-arent-you-getting-data-science-interviews-6c7a31c8970f)  [](/cracking-statistics-interviews-for-data-scientists-711a63bcb375) 
+</why-arent-you-getting-data-science-interviews-6c7a31c8970f>  </cracking-statistics-interviews-for-data-scientists-711a63bcb375> 

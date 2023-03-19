@@ -46,7 +46,7 @@ z-检验是医学和数据科学等领域中最常见的统计检验，因此是
 
 > 这个临界值基于**置信区间**，你可以在我之前的文章中读到:
 
-[](/confidence-intervals-simply-explained-58b0b11e985f)  
+</confidence-intervals-simply-explained-58b0b11e985f>  
 
 *   使用样本平均值、 ***μ_1*** 、总体平均值、 ***μ_0*** 、样本中的数据点数、 ***n*** 和总体的标准差、***【σ***计算 **Z 检验统计量:**
 
@@ -95,6 +95,6 @@ z-检验是医学和数据科学等领域中最常见的统计检验，因此是
 *   [*领英*](https://www.linkedin.com/in/egor-howell-092a721b3/) 👔
 *   [*碎碎念*](https://twitter.com/EgorHowell) 🖊
 *   [*github*](https://github.com/egorhowell)*🖥*
-*   *[](https://www.kaggle.com/egorphysics)**🏅***
+*   *<https://www.kaggle.com/egorphysics>**🏅***
 
 > ***(所有表情符号由 [OpenMoji](https://openmoji.org/) 设计——开源表情符号和图标项目。许可证: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)***

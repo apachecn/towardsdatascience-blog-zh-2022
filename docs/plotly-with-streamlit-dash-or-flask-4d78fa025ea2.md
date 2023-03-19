@@ -142,4 +142,4 @@ st.plotly_chart(fig)
 
 您可以在[我的网站](https://alanjones2.github.io/)上找到关于 Streamlit 和其他主题的其他文章:
 
-[](https://alanjones2.github.io/) 
+<https://alanjones2.github.io/> 

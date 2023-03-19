@@ -51,7 +51,7 @@ X_train, X_test, y_train, y_test = train_test_split(
 
 因为大多数机器学习模型不允许`nan`值，所以我们必须考虑不同的插补策略。当然，一般来说，你会启动 EDA(探索性数据分析)来确定`nan`值是 *MAR* (随机缺失) *MCAR* (完全随机缺失)还是 *MNAR* (非随机缺失)。这里有一篇很好的文章解释了这两者之间的区别:
 
-[](/all-about-missing-data-handling-b94b8b5d2184)  
+</all-about-missing-data-handling-b94b8b5d2184>  
 
 我们不去分析为什么有些学生的最后一次成绩丢失了，而是简单地尝试在不同的插补技术上进行网格搜索，以说明如何在任何流水线步骤上进行网格搜索，例如这个特征工程步骤。
 

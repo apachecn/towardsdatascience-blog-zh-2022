@@ -179,7 +179,7 @@
 
 *我希望你喜欢阅读这篇文章。如果你愿意支持我成为一名作家，请考虑注册成为会员，不受限制地接触媒体。它只需要每月 5 美元，我会收到你的会员费的一部分。*
 
-*[](https://rukshanpramoditha.medium.com/membership)  
+*<https://rukshanpramoditha.medium.com/membership>  
 
 *或者，您也可以考虑通过点击本文底部的* ***给小费*** *按钮进行小额捐赠。*
 

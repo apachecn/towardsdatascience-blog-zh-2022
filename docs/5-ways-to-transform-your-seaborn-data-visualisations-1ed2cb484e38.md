@@ -20,7 +20,7 @@
 
 如果您经常使用 matplotlib，那么我建议您查看我以前的文章:
 
-[](/7-simple-ways-to-enhance-your-matplotlib-charts-a232823efed9)  
+</7-simple-ways-to-enhance-your-matplotlib-charts-a232823efed9>  
 
 # 数据源
 

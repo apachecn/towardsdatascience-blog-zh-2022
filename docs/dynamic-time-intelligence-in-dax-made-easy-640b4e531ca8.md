@@ -198,4 +198,4 @@ Contoso 数据可以在 MIT 许可下自由使用，如这里的[所述](https:/
 我扩大了数据集，使 DAX 引擎工作更努力。
 在线销售表包含 6300 万行(而不是 1260 万行)，零售表包含 1550 万行(而不是 340 万行)。
 
-[](https://medium.com/@salvatorecagliari/membership) 
+<https://medium.com/@salvatorecagliari/membership> 

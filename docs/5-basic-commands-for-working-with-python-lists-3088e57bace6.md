@@ -68,6 +68,6 @@ Python 列表对许多数据科学家来说非常重要，因为它们可以用�
 *   它能够像 Python 元组一样存储副本。然而，Python 列表可以改变，而元组不能。
 *   对于数据科学家来说，这是一个非常有用的工具，因为它可以用于数据清理和操作。
 
-*如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
+*如果你喜欢我的作品，请在这里订阅*<https://medium.com/subscribe/@niklas_lang>**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
 
-*[](/6-fundamental-questions-when-working-with-a-pandas-series-1d142b5fba4e)  [](/8-machine-learning-algorithms-everyone-new-to-data-science-should-know-772bd0f1eca1)  [](/4-basic-commands-when-working-with-python-tuples-8edd3787003f) *
+*</6-fundamental-questions-when-working-with-a-pandas-series-1d142b5fba4e>  </8-machine-learning-algorithms-everyone-new-to-data-science-should-know-772bd0f1eca1>  </4-basic-commands-when-working-with-python-tuples-8edd3787003f> *

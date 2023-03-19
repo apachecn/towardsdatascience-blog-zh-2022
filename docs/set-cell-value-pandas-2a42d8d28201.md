@@ -88,10 +88,10 @@ import pandas as pd df = pd.DataFrame(
 
 关于`loc`和`iloc`属性的更全面的阅读，你可以参考我最近的一篇文章，分享如下:
 
-[](/loc-vs-iloc-in-pandas-92fc125ed8eb)  **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
+</loc-vs-iloc-in-pandas-92fc125ed8eb>  **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership)  
+<https://gmyrianthous.medium.com/membership>  
 
 **你可能也会喜欢**
 
-[](/random-seed-numpy-786cf7876a5f)  [](/how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3) 
+</random-seed-numpy-786cf7876a5f>  </how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3> 

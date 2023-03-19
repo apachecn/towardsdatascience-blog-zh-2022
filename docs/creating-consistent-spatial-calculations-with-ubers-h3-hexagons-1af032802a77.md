@@ -62,7 +62,7 @@
 
 我们需要两条主要信息来进行分析——带有相应人口统计数据的街区组形状和六边形形状。
 
-在 R 中，我们可以利用[tidysensus 包](https://www.rdocumentation.org/packages/tidycensus/versions/1.2.1)从美国人口普查 API 中获取数据(您将需要一个免费的开发者密钥)。`[get_acs](https://www.rdocumentation.org/packages/tidycensus/versions/1.2.1/topics/get_acs)` [](https://www.rdocumentation.org/packages/tidycensus/versions/1.2.1/topics/get_acs)功能是获取块组数据的最简单方法，其典型语法如下:
+在 R 中，我们可以利用[tidysensus 包](https://www.rdocumentation.org/packages/tidycensus/versions/1.2.1)从美国人口普查 API 中获取数据(您将需要一个免费的开发者密钥)。`[get_acs](https://www.rdocumentation.org/packages/tidycensus/versions/1.2.1/topics/get_acs)` <https://www.rdocumentation.org/packages/tidycensus/versions/1.2.1/topics/get_acs>功能是获取块组数据的最简单方法，其典型语法如下:
 
 `get_acs(geography = 'block group', year = 2020, variables = c(total_population = 'B01001_001'), state=37, county=183, output='wide')`
 

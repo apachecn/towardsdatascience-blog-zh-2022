@@ -105,7 +105,7 @@ BQ 的土地上一切似乎都很好——作者截图
 
 **JavaScript 函数不是无限的。它们可以访问很小的内存，所以要小心传递给它们的内容。理想情况下，你不会想要传入一个百万长度的数组。用 SQL 或者更好的存储过程来实现:**
 
-**[](/bigquery-stored-procedure-for-permutation-test-35597d6379e4) [## 用于排列测试的 BigQuery 存储过程
+**</bigquery-stored-procedure-for-permutation-test-35597d6379e4> [## 用于排列测试的 BigQuery 存储过程
 
 towardsdatascience.com](/bigquery-stored-procedure-for-permutation-test-35597d6379e4) 
 
@@ -153,4 +153,4 @@ towardsdatascience.com](/bigquery-stored-procedure-for-permutation-test-35597d63
 
 **如果你喜欢这篇文章，请考虑关注我， [**订阅 Medium**](https://niczky12.medium.com/membership) ，或者查看我的其他文章:**
 
-**[](/end-to-end-bigquery-machine-learning-e7e6e2e83b34)  [](/jupyter-notebooks-can-be-a-pain-but-i-️-pluto-f47913c5c16d)  [](/advanced-random-sampling-in-bigquery-sql-7d4483b580bb) **
+**</end-to-end-bigquery-machine-learning-e7e6e2e83b34>  </jupyter-notebooks-can-be-a-pain-but-i-️-pluto-f47913c5c16d>  </advanced-random-sampling-in-bigquery-sql-7d4483b580bb> **

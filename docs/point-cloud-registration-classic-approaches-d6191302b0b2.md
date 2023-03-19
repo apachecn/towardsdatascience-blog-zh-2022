@@ -63,4 +63,4 @@ ICP 从初始对准开始，并在两个步骤之间迭代
 
 这是我在这篇文章中使用的论文列表。您可以阅读它们以了解更多信息。
 
-[](https://ieeexplore.ieee.org/abstract/document/8490968)  [](https://ieeexplore.ieee.org/abstract/document/9336308)  [](https://ieeexplore.ieee.org/abstract/document/5432191)  [](https://link.springer.com/article/10.1007/s11432-011-4465-7)  [](https://ieeexplore.ieee.org/abstract/document/8897021) 
+<https://ieeexplore.ieee.org/abstract/document/8490968>  <https://ieeexplore.ieee.org/abstract/document/9336308>  <https://ieeexplore.ieee.org/abstract/document/5432191>  <https://link.springer.com/article/10.1007/s11432-011-4465-7>  <https://ieeexplore.ieee.org/abstract/document/8897021> 

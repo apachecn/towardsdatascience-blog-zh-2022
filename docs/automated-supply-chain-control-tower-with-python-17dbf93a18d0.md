@@ -50,7 +50,7 @@
 *   **步骤 2** :使用 **pandas** 和 **matplotlib** 处理数据并构建视觉效果
 *   **步骤 3** :使用 **smtplib** 创建 **HTML** 报告并通过电子邮件发送
 
-[](http://samirsaci.com)  
+<http://samirsaci.com>  
 
 # 解决办法
 
@@ -222,7 +222,7 @@
 
 **欲知详情，**
 
-**[](/automate-operational-reports-distribution-in-html-emails-using-python-c65c66fc99a6)  
+**</automate-operational-reports-distribution-in-html-emails-using-python-c65c66fc99a6>  
 
 ## 高级供应链分析
 
@@ -246,7 +246,7 @@
 
 欲知详情，
 
-[](https://www.samirsaci.com/what-is-supply-chain-analytics-2/)  
+<https://www.samirsaci.com/what-is-supply-chain-analytics-2/>  
 
 # 关于我
 
@@ -254,4 +254,4 @@
 
 如果你对数据分析和供应链感兴趣，可以看看我的网站
 
-[](https://samirsaci.com) **
+<https://samirsaci.com> **

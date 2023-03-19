@@ -52,7 +52,7 @@ Miquel Parera 在 [Unsplash](https://unsplash.com/s/photos/mind-the-gap?utm_sour
 
 你可以想象，这不是一个玩具模型，而是世界顶级人工智能实验室之一 DeepMind 生产的真正强大的工程作品。
 
-我将在这个例子中使用的确切版本是在 HuggingFace 模型库中公开提供的版本，您可以在这里找到[](https://huggingface.co/deepmind/vision-perceiver-learned)**。它是一个具有超过 6200 万个参数的模型，在 ImageNet 数据集上进行了预训练，该数据集包含属于 20k 个类别的超过 1400 万个图像。**
+我将在这个例子中使用的确切版本是在 HuggingFace 模型库中公开提供的版本，您可以在这里找到<https://huggingface.co/deepmind/vision-perceiver-learned>**。它是一个具有超过 6200 万个参数的模型，在 ImageNet 数据集上进行了预训练，该数据集包含属于 20k 个类别的超过 1400 万个图像。**
 
 # **欺骗深层心灵感知者的三个步骤**
 
@@ -76,7 +76,7 @@ Miquel Parera 在 [Unsplash](https://unsplash.com/s/photos/mind-the-gap?utm_sour
 
 > **如果你想了解更多关于 FGSM 和其他对抗性例子的技术，我推荐你阅读我以前关于对抗性例子的文章**
 
-**[](/adversarial-examples-to-break-deep-learning-models-e7f543833eae)  
+**</adversarial-examples-to-break-deep-learning-models-e7f543833eae>  
 
 ## 第一步。负载模型
 
@@ -156,7 +156,7 @@ image2class(图片由作者提供)
 
 👉🏽今天就使用我的 [**推荐链接**](https://pau-labarta-bajo.medium.com/membership) 成为会员吧。
 
-[](https://pau-labarta-bajo.medium.com/membership)  
+<https://pau-labarta-bajo.medium.com/membership>  
 
 👉🏽订阅 [***datamachines* 简讯**](https://datamachines.xyz/subscribe/) **。**
 

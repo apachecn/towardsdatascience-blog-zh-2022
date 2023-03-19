@@ -22,7 +22,7 @@
 
 PCA 是一种数学变换，它将数据点从其当前维度投影到称为分量的点向量。每个组成部分的目标都是理解真实数据的最大差异，尽可能减少信息损失。
 
-[](/pca-beyond-the-dimensionality-reduction-e352eb0bdf52)  
+</pca-beyond-the-dimensionality-reduction-e352eb0bdf52>  
 
 # 运行 PCA
 
@@ -113,12 +113,12 @@ plt.title('Principal Components with 95% data variance', size=15);
 
 如果你喜欢这个内容，关注我的博客或者在 [LinkedIn](https://www.linkedin.com/in/gurezende/) 找到我。
 
-[](http://gustavorsantos.medium.com/)  
+<http://gustavorsantos.medium.com/>  
 
 Git Hub 代码:[https://github . com/gure zende/studining/blob/master/Python/sk learn/PCA _ Python . ipynb](https://github.com/gurezende/Studying/blob/master/Python/sklearn/PCA_Python.ipynb)
 
 # 参考
 
-[](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html)  [](https://medium.com/@monishatemp20/principal-component-analysis-pca-1c285cce3c26)  
+<https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html>  <https://medium.com/@monishatemp20/principal-component-analysis-pca-1c285cce3c26>  
 
 Aurélien Géron，2019。 [*用 Scikit-Learn 动手机器学习，Keras & TensorFlow*](https://tinyurl.com/2s3tsh9x) 。第二版，奥赖利。

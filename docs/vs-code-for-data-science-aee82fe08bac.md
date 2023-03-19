@@ -14,7 +14,7 @@ VS 代码对于数据科学来说非常有用，尤其是如果你选择了最�
 
 # 什么是 VS 代码？
 
-[](https://code.visualstudio.com/)  
+<https://code.visualstudio.com/>  
 
 它是由微软维护的开源 IDE，微软还拥有 GitHub 和 OpenAI。
 
@@ -40,11 +40,11 @@ StackOverflow 的 2021 年开发者调查中显示了最常用的 ide。
 
 为了使用它，您需要注册[技术预览](https://copilot.github.com/):
 
-[](https://copilot.github.com/)  
+<https://copilot.github.com/>  
 
 ## 扩展ˌ扩张
 
-[](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)  
+<https://marketplace.visualstudio.com/items?itemName=GitHub.copilot>  
 
 # 自动重新格式化和警告
 
@@ -93,7 +93,7 @@ VS 代码在保存文件时如何自动更正格式的例子。从[韦斯利·�
 
 ## 扩展ˌ扩张
 
-[](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)  [](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)  
+<https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring>  <https://marketplace.visualstudio.com/items?itemName=GitHub.copilot>  
 
 # 调试脚本
 
@@ -125,11 +125,11 @@ VS 代码允许我们调试脚本和笔记本，具有断点和调试控制台�
 
 无论你是喜欢笔记本还是讨厌笔记本，它们都是探索数据、测试代码和进行建模实验的常用格式。虽然 Jupyter 笔记本可能有其问题，但我个人认为 VS Code【4】中的[笔记本是一个重大改进。您可以在单个单元格上继续编码，并在 Markdown 中混合，但您也可以获得与编写脚本时相同的工具箱，如自动完成、调试和您可能已经安装的大多数其他扩展，如 Copilot 和 IDE 主题。您还可以看到运行每个单元所花费的时间，在我看来，这比在 Jupyter 中得到一个更好的 UI。](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
 
-[](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)  
+<https://code.visualstudio.com/docs/datascience/jupyter-notebooks>  
 
 ## 扩展ˌ扩张
 
-[](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)  [](https://marketplace.visualstudio.com/items?itemName=ms-python.python)  [](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)  [](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)  
+<https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter>  <https://marketplace.visualstudio.com/items?itemName=ms-python.python>  <https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance>  <https://marketplace.visualstudio.com/items?itemName=GitHub.copilot>  
 
 # 对虚拟机的远程访问
 
@@ -143,7 +143,7 @@ VS 代码中通过[远程 SSH](https://marketplace.visualstudio.com/items?itemNa
 
 ## 扩展ˌ扩张
 
-[](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)  
+<https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh>  
 
 # 实时共享/协作编码
 
@@ -157,7 +157,7 @@ VS 代码中通过[远程 SSH](https://marketplace.visualstudio.com/items?itemNa
 
 ## 扩展ˌ扩张
 
-[](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)  
+<https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare>  
 
 # Git 管理
 
@@ -178,7 +178,7 @@ VS 代码嵌入了对管理 git 的支持，允许你在没有终端的情况下
 
 ## 扩展ˌ扩张
 
-[](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)  [](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)  
+<https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens>  <https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github>  
 
 # CSV
 
@@ -199,7 +199,7 @@ VS 代码嵌入了对管理 git 的支持，允许你在没有终端的情况下
 
 ## 扩展ˌ扩张
 
-[](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)  [](https://marketplace.visualstudio.com/items?itemName=janisdd.vscode-edit-csv)  
+<https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv>  <https://marketplace.visualstudio.com/items?itemName=janisdd.vscode-edit-csv>  
 
 # 降价
 
@@ -227,7 +227,7 @@ VS 代码嵌入了对管理 git 的支持，允许你在没有终端的情况下
 
 ## 扩展ˌ扩张
 
-[](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)  
+<https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop>  
 
 # 扩展市场
 
@@ -239,11 +239,11 @@ VS 代码确实什么都有，包括约会扩展(！？)🤷‍♂️ 😛从[�
 
 我使用和推荐的一些其他扩展是 [RescueTime](https://marketplace.visualstudio.com/items?itemName=RescueTime.rescuetime) ，用于跟踪我们的生产力，以及 [Night Owl 主题](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl)用于风格😎
 
-[](https://marketplace.visualstudio.com/items?itemName=RescueTime.rescuetime)  [](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl)  
+<https://marketplace.visualstudio.com/items?itemName=RescueTime.rescuetime>  <https://marketplace.visualstudio.com/items?itemName=sdras.night-owl>  
 
 您可以在 VS 代码或以下链接中检查所有可用的扩展:
 
-[](https://marketplace.visualstudio.com/vscode)  
+<https://marketplace.visualstudio.com/vscode>  
 
 # `settings.json`
 

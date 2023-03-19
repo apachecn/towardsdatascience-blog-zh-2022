@@ -28,7 +28,7 @@
 
 不要混淆并发性和并行性也很重要。这是两个不同的概念，所以如果你想更好地了解它们的主要区别，你可以阅读我最近的一篇文章，讨论多线程和多处理之间的区别。
 
-[](/multithreading-multiprocessing-python-180d0975ab29)  
+</multithreading-multiprocessing-python-180d0975ab29>  
 
 ## 并行编程的好处
 
@@ -50,7 +50,7 @@
 
 `multiprocessing`包附带了 Python 标准库，并提供了一个直观的 API，允许用户为本地和远程并发生成多个进程，这可以有效地避开全局解释器锁。你可以在我下面分享的文章中了解更多关于什么是 Python GIL 以及它的作用。
 
-[](/python-gil-e63f18a08c65)  
+</python-gil-e63f18a08c65>  
 
 更具体地说，`[Pool](https://docs.python.org/3/library/multiprocessing.html#multiprocessing.pool.Pool)`对象可用于跨多个输入值并行执行所提供的函数，其方式是将输入数据分布在多个进程中，这些进程可能产生于不同的 CPU 内核上，甚至是一台机器。
 
@@ -142,7 +142,7 @@ import dask.dataframe as dd dd_students = dd.from_pandas(df, npartitions=4)df_me
 
 你可以在我最近在 Medium 上发表的一篇名为《数据工程师工具》的文章中找到更多与大数据工程相关的工具，在这篇文章中，我将更详细地介绍我今天提到的工具的用途，包括 **Apache Airflow** 和 **Apache Kafka** 。
 
-[](/data-engineer-tools-c7e68eed28ad)  
+</data-engineer-tools-c7e68eed28ad>  
 
 ## 最后的想法
 
@@ -152,8 +152,8 @@ import dask.dataframe as dd dd_students = dd.from_pandas(df, npartitions=4)df_me
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership)  
+<https://gmyrianthous.medium.com/membership>  
 
 **相关文章你可能也喜欢**
 
-[](/requirements-vs-setuptools-python-ae3ee66e28af)  [](/star-schema-924b995a9bdf)  [](https://betterprogramming.pub/kafka-cli-commands-1a135a4ae1bd) 
+</requirements-vs-setuptools-python-ae3ee66e28af>  </star-schema-924b995a9bdf>  <https://betterprogramming.pub/kafka-cli-commands-1a135a4ae1bd> 

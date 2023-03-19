@@ -165,7 +165,7 @@ LIME 是对可解释人工智能世界的惊人介绍。LIME 和领域都在不�
 
 你喜欢这篇文章吗？如果是的话，也许你可以考虑成为会员来支持我和你其他喜欢的作家。
 
-[](https://david-farrugia.medium.com/membership)  
+<https://david-farrugia.medium.com/membership>  
 
 # 参考
 
@@ -177,7 +177,7 @@ LIME 是对可解释人工智能世界的惊人介绍。LIME 和领域都在不�
 
 想给我买杯咖啡吗？
 
-[](https://paypal.me/itsdavidfarrugia?country.x=MT&locale.x=en_US)  
+<https://paypal.me/itsdavidfarrugia?country.x=MT&locale.x=en_US>  
 
 # 想联系吗？
 

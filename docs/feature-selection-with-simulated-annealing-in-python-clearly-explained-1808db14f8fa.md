@@ -230,4 +230,4 @@
 
 ******欢迎您来到**加入我的数据科学学习之旅！**点击此 [Medium](https://kennethleungty.medium.com/) 页面，查看我的 [GitHub](https://github.com/kennethleungty) ，了解更多精彩的数据科学内容。与此同时，运行模拟退火进行特征选择也很有趣！******
 
-******[](/micro-macro-weighted-averages-of-f1-score-clearly-explained-b603420b292f)  [](/assumptions-of-logistic-regression-clearly-explained-44d85a22b290) ******
+******</micro-macro-weighted-averages-of-f1-score-clearly-explained-b603420b292f>  </assumptions-of-logistic-regression-clearly-explained-44d85a22b290> ******

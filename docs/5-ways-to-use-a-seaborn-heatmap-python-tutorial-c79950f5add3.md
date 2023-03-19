@@ -50,7 +50,7 @@
 
 现在，我们已经对 2D 数组进行了硬编码。下面的文章将带你了解我们是如何得到这些数字的。总而言之，我们已经使用 NLP 技术建立了一个神经网络。然后，我们使用这个模型来预测测试数据集中的文本语言。你在上面看到的数字来自这些预测。
 
-[](/deep-neural-network-language-identification-ae1c158f6a7d)  
+</deep-neural-network-language-identification-ae1c158f6a7d>  
 
 使用这个 2D 数组，我们创建一个熊猫数据帧( ***conf_matrix_df*** )。我们使用不同的语言作为列名和行名。
 
@@ -126,11 +126,11 @@ AQI 是 0 到 500 之间的值。数值越高，空气污染程度越高。空�
 
 我们不会讨论用于创建该热图的代码。如果你感兴趣，你可以在下面的文章中找到它。我们深入研究 SHAP 互动价值观。我们还使用这些值创建和解释其他图。这些用来解释你的机器学习模型。
 
-[](/analysing-interactions-with-shap-8c4a2bc11c2a)  
+</analysing-interactions-with-shap-8c4a2bc11c2a>  
 
 我希望这篇文章对你有帮助！如果你想看更多，你可以成为我的 [**推荐会员**](https://conorosullyds.medium.com/membership) **来支持我。你可以访问 medium 上的所有文章，我可以得到你的部分费用。**
 
-[](https://conorosullyds.medium.com/membership)  
+<https://conorosullyds.medium.com/membership>  
 
 你可以在|[Twitter](https://twitter.com/conorosullyDS)|[YouTube](https://www.youtube.com/channel/UChsoWqJbEjBwrn00Zvghi4w)|[时事通讯](https://mailchi.mp/aa82a5ce1dc0/signup)上找到我——注册免费参加 [Python SHAP 课程](https://adataodyssey.com/courses/shap-with-python/)
 

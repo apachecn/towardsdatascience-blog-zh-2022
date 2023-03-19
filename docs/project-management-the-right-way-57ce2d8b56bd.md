@@ -323,4 +323,4 @@ from wordcloud import WordCloudimport matplotlib.pyplot as plttext = ‘Project 
 
 在此之前，非常感谢您的阅读！希望这篇文章对你有帮助。请随时在 [LinkedIn](https://de.linkedin.com/in/jesko-rehberg-40653883) 、 [Twitter](https://twitter.com/DAR_Analytics) 或[工作室](https://jesko-rehberg.medium.com/virtual-reality-vr-for-education-a532aa5b6272)与我联系。
 
-[](https://jesko-rehberg.medium.com/membership) 
+<https://jesko-rehberg.medium.com/membership> 

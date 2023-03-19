@@ -171,6 +171,6 @@
 
 ***[4] R. Kosara，[彩虹色地图如何误导](https://eagereyes.org/basics/rainbow-color-map) (2013)，渴望之眼博客***
 
-***[](https://medium.datadriveninvestor.com/less-is-more-best-data-visualization-principle-c166e2797d60) [## 少即是多—最佳数据可视化原则
+***<https://medium.datadriveninvestor.com/less-is-more-best-data-visualization-principle-c166e2797d60> [## 少即是多—最佳数据可视化原则
 
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/less-is-more-best-data-visualization-principle-c166e2797d60) [](https://medium.com/analytics-vidhya/how-to-make-your-audience-look-right-where-you-want-them-to-984df6d0338a) ***
+medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/less-is-more-best-data-visualization-principle-c166e2797d60) <https://medium.com/analytics-vidhya/how-to-make-your-audience-look-right-where-you-want-them-to-984df6d0338a> ***

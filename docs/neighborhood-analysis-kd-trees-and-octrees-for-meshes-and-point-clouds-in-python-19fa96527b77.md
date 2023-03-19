@@ -26,7 +26,7 @@
 
 在本文中，我们将仔细研究三个 Python 库——[open 3D](http://www.open3d.org/)、 [PyVista](https://docs.pyvista.org/) 和 [Vedo](https://vedo.embl.es/) ，以及它们生成 3D 网格和点云的邻域和邻接分析的能力。选择这三个库是因为它们提供了简单易用的距离计算功能，可以在深度学习和处理管道中轻松实现。这些库也是功能齐全的，并提供了分析和操纵网格和点云的方法。我们还将使用 SciPy 提供的 [KD-tree](https://docs.scipy.org/doc/scipy/reference/generated/scipy.spatial.KDTree.html) 实现，因为它是高度优化和并行化的，这使得它在处理大规模 3D 对象时非常有用。关于这三个库的安装说明以及如何用它们构建交互式可视化的例子，您可以在下面查看我以前关于 python 库的文章。
 
-[](/python-libraries-for-mesh-and-point-cloud-visualization-part-1-daa2af36de30)  [](/how-to-voxelize-meshes-and-point-clouds-in-python-ca94d403f81d)  
+</python-libraries-for-mesh-and-point-cloud-visualization-part-1-daa2af36de30>  </how-to-voxelize-meshes-and-point-clouds-in-python-ca94d403f81d>  
 
 为了演示点云和网格上的体素化，我使用了两个对象。先是**里的一个鸭子雕像点云。ply** 格式，包含每个点的 *X、Y 和 Z* 坐标，以及它们的 *R、G 和 B* 颜色，最后是 *Nx、Ny 和 Nz* 法线。鸭子雕像是使用运动摄影测量学的结构创建的，并且**可以在商业、非商业、公共和私人项目中免费使用**。这个对象是一个更大的数据集[1]的一部分，已经用于噪声检测和检查方法的开发[2]，以及规模计算[3]。二、著名的[斯坦福兔女郎](http://graphics.stanford.edu/data/3Dscanrep/)中的一个**对象。使用 ply** 格式，因为它容易获得，并且在网格分析研究中广泛使用。在引用适当的引文后，兔子可以自由地用于**非商业应用和研究**。
 
@@ -136,7 +136,7 @@ Vedo 有现成的功能，可以通过函数`closestPoint()`找到给定半径�
 
 既然我们知道了如何计算点邻域，下一步就是从中提取局部要素和表面信息。在下一篇文章中，我们将研究用于特征提取的 Python 库——基于 PCA 的和几何的。
 
-[](/python-libraries-for-mesh-and-point-cloud-visualization-part-1-daa2af36de30)  [](/python-libraries-for-mesh-point-cloud-and-data-visualization-part-2-385f16188f0f)  
+</python-libraries-for-mesh-and-point-cloud-visualization-part-1-daa2af36de30>  </python-libraries-for-mesh-point-cloud-and-data-visualization-part-2-385f16188f0f>  
 
 如果你想了解更多关于从点云和网格中提取特征的内容，可以看看我的一些关于 3D 曲面检测[8，9]，噪声检测[1]，点云分割[7]的文章。你可以在我的 [**页面**](https://ivannikolov.carrd.co/) 上找到这些文章，加上我的其他研究，如果你看到一些有趣的东西或者只是想聊天，请随时给我留言。敬请关注更多内容！
 

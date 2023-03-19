@@ -240,10 +240,10 @@ IPFS 可能是一个长期存储的地方，CIDs 的功能类似于内置的版�
 
 IPFS 的另一个伟大的应用是托管网站。我的个人网页位于 IPFS。我想我想出了一个优雅的解决方案来管理一个分散的网站，你可以在下面的文章中了解我的解决方案。
 
-[](https://betterprogramming.pub/modern-way-to-host-a-site-on-ipfs-7941b65d27c3)  
+<https://betterprogramming.pub/modern-way-to-host-a-site-on-ipfs-7941b65d27c3>  
 
 ## Storj:另一种分散存储选择
 
 最后，IPFS 不是你唯一的选择。如果你想要一个 S3 兼容的对象存储，那么我建议你去看看 Storj。Storj 解决方案依赖于通过分散的网络存储加密数据的碎片，而不是复制您的数据。这是一项付费服务，但非常实惠，尤其是如果您目前正在使用 AWS。我个人在日常工作中使用 Storj。如果你有兴趣了解我如何使用 Storj，请查看下面的文章。
 
-[](https://betterprogramming.pub/storj-decentralized-cloud-storage-my-new-favorite-cloud-object-storage-99d95ddc4e6a) 
+<https://betterprogramming.pub/storj-decentralized-cloud-storage-my-new-favorite-cloud-object-storage-99d95ddc4e6a> 

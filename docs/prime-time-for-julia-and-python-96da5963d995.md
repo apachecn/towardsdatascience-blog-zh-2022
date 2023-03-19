@@ -138,4 +138,4 @@ end
 
 你对什么时候用 Julia，什么时候用 Python 有什么想法？有没有可以加快速度的代码优化？
 
-[](/how-to-setup-project-environments-in-julia-ec8ae73afe9c)  [](/getting-started-with-data-analysis-in-julia-421ce0032916) 
+</how-to-setup-project-environments-in-julia-ec8ae73afe9c>  </getting-started-with-data-analysis-in-julia-421ce0032916> 

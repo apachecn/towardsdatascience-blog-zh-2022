@@ -24,7 +24,7 @@
 
 ***PS**** *:如果你是 spaCy 新手，推荐你看一下这个* [*链接*](https://spacy.io/usage/spacy-101) *就可以入门了。*
 
-[](https://medium.com/membership/@ahmedbesbes)  
+<https://medium.com/membership/@ahmedbesbes>  
 
 # 1—强大的管道:您需要的一切都封装在 Doc 对象中
 
@@ -321,4 +321,4 @@ pattern_lemma_pos = [
 
 # **新到中？你可以每月订阅 5 美元，并解锁各种主题的无限文章(技术、设计、创业……)你可以通过点击我的推荐链接[来支持我](https://ahmedbesbes.medium.com/membership)**
 
-**[](https://ahmedbesbes.medium.com/membership) **
+**<https://ahmedbesbes.medium.com/membership> **

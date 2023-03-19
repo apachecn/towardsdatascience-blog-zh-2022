@@ -18,7 +18,7 @@
 
 如果您想了解更多关于平稳性的背景和要求，请查阅我以前的文章:
 
-[](/time-series-stationarity-simply-explained-125269968154)  
+</time-series-stationarity-simply-explained-125269968154>  
 
 # 什么是 Box-Cox 变换？
 
@@ -62,7 +62,7 @@ Box-Cox 变换由 ***λ*** 参数化(从 **-5** 到 **5** ) 将时间序列、 *
 
 *用于生成图和转换的完整代码可以在我的 GitHub 中找到:*
 
-*[](https://github.com/egorhowell/Medium-Articles/blob/main/Time%20Series/Time%20Series%20Tools/box_cox_transform.py)  
+*<https://github.com/egorhowell/Medium-Articles/blob/main/Time%20Series/Time%20Series%20Tools/box_cox_transform.py>  
 
 # 结论
 
@@ -80,6 +80,6 @@ Box-Cox 变换由 ***λ*** 参数化(从 **-5** 到 **5** ) 将时间序列、 *
 *   [*领英*](https://www.linkedin.com/in/egor-howell-092a721b3/) 👔
 *   [*碎碎念*](https://twitter.com/EgorHowell) 🖊
 *   [*GitHub*](https://github.com/egorhowell) 🖥
-*   [](https://www.kaggle.com/egorphysics)**🏅**
+*   <https://www.kaggle.com/egorphysics>**🏅**
 
 > **(所有表情符号都是由 [OpenMoji](https://openmoji.org/) 设计的——开源的表情符号和图标项目。许可证: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)***

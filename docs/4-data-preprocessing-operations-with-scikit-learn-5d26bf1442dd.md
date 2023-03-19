@@ -228,6 +228,6 @@ encoded_df.head()
 
 我们已经学习了机器学习中一些最常见的数据预处理操作，以及如何使用 Scikit-learn 库来执行这些操作。
 
-*你可以成为* [*媒介会员*](https://sonery.medium.com/membership) *解锁我的全部写作权限，外加其余媒介。如果你已经是了，别忘了订阅*[](https://sonery.medium.com/subscribe)**如果你想在我发表新文章时收到电子邮件。**
+*你可以成为* [*媒介会员*](https://sonery.medium.com/membership) *解锁我的全部写作权限，外加其余媒介。如果你已经是了，别忘了订阅*<https://sonery.medium.com/subscribe>**如果你想在我发表新文章时收到电子邮件。**
 
 *感谢您的阅读。如果您有任何反馈，请告诉我。*

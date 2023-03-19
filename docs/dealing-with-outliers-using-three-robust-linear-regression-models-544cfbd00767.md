@@ -168,7 +168,7 @@ Outliers you added yourself: 25 / 25
 
 您可能还会对以下内容感兴趣:
 
-[](/r-shiny-is-coming-to-python-1653bbe231ac)  [](/three-approaches-to-feature-engineering-for-time-series-2123069567be)  [](https://medium.com/geekculture/investigating-the-effects-of-resampling-imbalanced-datasets-with-data-validation-techniques-f4ca3c8b2b94)  
+</r-shiny-is-coming-to-python-1653bbe231ac>  </three-approaches-to-feature-engineering-for-time-series-2123069567be>  <https://medium.com/geekculture/investigating-the-effects-of-resampling-imbalanced-datasets-with-data-validation-techniques-f4ca3c8b2b94>  
 
 # 参考
 

@@ -210,8 +210,8 @@ x 射线曝光能够显示绘制不足或进展中的变化。例如，这表明
 
 **这是我的 GitHub 知识库的链接，我计划在这里收集代码和许多与机器学习、人工智能等相关的资源。**
 
-**[](https://github.com/SalvatoreRa/tutorial)  
+**<https://github.com/SalvatoreRa/tutorial>  
 
 或者随意查看我在 Medium 上的其他文章:
 
-[](/how-artificial-intelligence-could-save-the-amazon-rainforest-688fa505c455)  [](https://medium.com/mlearning-ai/reimagining-the-little-prince-with-ai-7e9f68ed8b3c)  [](/speaking-the-language-of-life-how-alphafold2-and-co-are-changing-biology-97cff7496221)  [](/blending-the-power-of-ai-with-the-delicacy-of-poetry-3671f82d2e1) **
+</how-artificial-intelligence-could-save-the-amazon-rainforest-688fa505c455>  <https://medium.com/mlearning-ai/reimagining-the-little-prince-with-ai-7e9f68ed8b3c>  </speaking-the-language-of-life-how-alphafold2-and-co-are-changing-biology-97cff7496221>  </blending-the-power-of-ai-with-the-delicacy-of-poetry-3671f82d2e1> **

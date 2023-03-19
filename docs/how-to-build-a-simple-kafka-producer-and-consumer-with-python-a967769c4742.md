@@ -165,4 +165,4 @@ import random fake=Faker()*
 
 # ***你可能也会喜欢***
 
-*[](/3-nanodegrees-you-should-consider-to-advance-your-data-engineering-career-in-2021-baf597debc72)  [](/pyflink-how-to-create-a-table-from-a-csv-source-ca4851a71d0c)  [](/3-ways-to-create-tables-with-apache-spark-32aed0f355ab) *
+*</3-nanodegrees-you-should-consider-to-advance-your-data-engineering-career-in-2021-baf597debc72>  </pyflink-how-to-create-a-table-from-a-csv-source-ca4851a71d0c>  </3-ways-to-create-tables-with-apache-spark-32aed0f355ab> *

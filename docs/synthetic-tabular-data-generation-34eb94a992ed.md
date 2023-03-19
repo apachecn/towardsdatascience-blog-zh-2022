@@ -8,7 +8,7 @@
 
 图片作者。版权所有 NextBrain.ml
 
-在这篇文章中，我们介绍了由 NextBrain.ai 创建的一个简单而健壮的无监督合成表格数据生成 python 库的开源项目[](https://github.com/NextBrain-ml/nbsynthetic)***，*。**
+在这篇文章中，我们介绍了由 NextBrain.ai 创建的一个简单而健壮的无监督合成表格数据生成 python 库的开源项目<https://github.com/NextBrain-ml/nbsynthetic>***，*。**
 
 1.  **简单:采用基于 [Keras](https://keras.io/) 的简单稳定的无监督 GAN(生成对抗网络)架构设计。**
 2.  **鲁棒:具有特定的超参数调整，以确保训练的稳定性，同时最大限度地降低计算成本。**

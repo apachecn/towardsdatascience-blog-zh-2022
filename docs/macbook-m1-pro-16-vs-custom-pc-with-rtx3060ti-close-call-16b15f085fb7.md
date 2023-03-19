@@ -58,7 +58,7 @@ M1 专业版明显快了 62%。在日常工作中，你肯定会注意到这种�
 
 有关如何组织和预处理它的详细说明，请参考以下文章:
 
-[](https://betterdatascience.com/top-3-prerequisites-for-deep-learning-projects/)  
+<https://betterdatascience.com/top-3-prerequisites-for-deep-learning-projects/>  
 
 我们今天会做两个测试:
 
@@ -300,6 +300,6 @@ print(f'Duration: {time_end - time_start}')
 
 *喜欢这篇文章吗？成为* [*中等会员*](https://medium.com/@radecicdario/membership) *继续无限制学习。如果你使用下面的链接，我会收到你的一部分会员费，不需要你额外付费。*
 
-[](https://medium.com/@radecicdario/membership)  
+<https://medium.com/@radecicdario/membership>  
 
 *原载于 2022 年 1 月 31 日*[*https://betterdatascience.com*](https://betterdatascience.com/macbook-m1-pro-vs-rtx3060ti/)*。*

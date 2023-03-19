@@ -46,4 +46,4 @@
 
 ## 想了解更多关于 DS 访谈的内容？以下是一些建议:
 
-[](/concepts-you-have-to-know-for-data-science-interviews-part-i-distribution-f4c28da3fc50)  [](/concepts-you-have-to-know-for-data-science-interviews-part-ii-probability-5c8830f13fb5)  [](/concepts-you-have-to-know-for-data-science-interviews-part-iii-basic-supervised-learning-models-5115673f57)  [](/concepts-you-have-to-know-for-data-science-interviews-part-iv-random-forest-5c125e4b5777) 
+</concepts-you-have-to-know-for-data-science-interviews-part-i-distribution-f4c28da3fc50>  </concepts-you-have-to-know-for-data-science-interviews-part-ii-probability-5c8830f13fb5>  </concepts-you-have-to-know-for-data-science-interviews-part-iii-basic-supervised-learning-models-5115673f57>  </concepts-you-have-to-know-for-data-science-interviews-part-iv-random-forest-5c125e4b5777> 

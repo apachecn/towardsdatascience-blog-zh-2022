@@ -113,4 +113,4 @@ Agrivero.ai 是一家为生产商、贸易商和烘焙商提供人工智能解�
 
 如果你想享受这种关于度量学习、相似性学习和向量搜索的有趣讨论，请加入我们的 Discord:
 
-[](https://discord.qdrant.tech/) 
+<https://discord.qdrant.tech/> 

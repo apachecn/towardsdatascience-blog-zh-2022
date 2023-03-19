@@ -92,6 +92,6 @@ Python 编程中的不同对象|来源:作者
 *   例如，它们可以用来执行已经熟悉的向量或矩阵的算术运算。
 *   在机器学习中，它们被用于，例如，实现更好的推荐或者在数据结构中映射图像和视频。
 
-*如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
+*如果你喜欢我的作品，请在这里订阅*<https://medium.com/subscribe/@niklas_lang>**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
 
-*[](/beginners-guide-to-gradient-descent-47f8d0f4ce3b)  [](/beginners-guide-extract-transform-load-etl-49104a8f9294)  [](/introducing-nosql-databases-with-mongodb-d46c976da5bf) *
+*</beginners-guide-to-gradient-descent-47f8d0f4ce3b>  </beginners-guide-extract-transform-load-etl-49104a8f9294>  </introducing-nosql-databases-with-mongodb-d46c976da5bf> *

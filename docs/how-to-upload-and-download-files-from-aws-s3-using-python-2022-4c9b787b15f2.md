@@ -16,11 +16,11 @@
 
 为了让您不会有同样的感觉并做艰苦的工作，我将分享以编程方式管理 S3 存储桶的所有技术细节，从创建帐户到向本地机器添加访问 AWS 资源的权限。
 
-[](https://ibexorigin.medium.com/membership)  
+<https://ibexorigin.medium.com/membership>  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex)  
+<https://alphasignal.ai/?referrer=Bex>  
 
 ## 步骤 1:设置帐户
 
@@ -178,12 +178,12 @@
 
 **您可以使用下面的链接成为高级媒体会员，并访问我的所有故事和数以千计的其他故事:**
 
-[](https://ibexorigin.medium.com/membership)  
+<https://ibexorigin.medium.com/membership>  
 
 **或者直接订阅我的邮件列表:**
 
-[](https://ibexorigin.medium.com/subscribe)  
+<https://ibexorigin.medium.com/subscribe>  
 
 ## 你可以通过 LinkedIn 或 T2 Twitter 与我进行友好的交流。或者你可以读我的另一个故事。这些怎么样:
 
-[](/8-booming-data-science-libraries-you-must-watch-out-in-2022-cec2dbb42437)  [](/how-to-get-started-on-kaggle-in-2022-even-if-you-are-terrified-8e073853ac46)  [](/7-cool-python-packages-kagglers-are-using-without-telling-you-e83298781cf4)  [](/22-2-built-in-python-libraries-you-didnt-know-existed-p-guarantee-8-275685dbdb99)  [](/good-bye-pandas-meet-terality-its-evil-twin-with-identical-syntax-455b42f33a6d)  [](/6-pandas-mistakes-that-silently-tell-you-are-a-rookie-b566a252e60d)  [](/8-booming-data-science-libraries-you-must-watch-out-in-2022-cec2dbb42437) 
+</8-booming-data-science-libraries-you-must-watch-out-in-2022-cec2dbb42437>  </how-to-get-started-on-kaggle-in-2022-even-if-you-are-terrified-8e073853ac46>  </7-cool-python-packages-kagglers-are-using-without-telling-you-e83298781cf4>  </22-2-built-in-python-libraries-you-didnt-know-existed-p-guarantee-8-275685dbdb99>  </good-bye-pandas-meet-terality-its-evil-twin-with-identical-syntax-455b42f33a6d>  </6-pandas-mistakes-that-silently-tell-you-are-a-rookie-b566a252e60d>  </8-booming-data-science-libraries-you-must-watch-out-in-2022-cec2dbb42437> 

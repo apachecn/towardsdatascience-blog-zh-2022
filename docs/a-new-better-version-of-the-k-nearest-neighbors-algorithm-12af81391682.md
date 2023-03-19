@@ -77,6 +77,6 @@
 
 如果你喜欢这篇文章，你可能也会喜欢这些:
 
-[](https://medium.com/@arthurmello_/support-vector-machine-theory-and-practice-69394a31df6a)  [](https://medium.datadriveninvestor.com/how-to-correct-sampling-bias-988181c73f5d)  [](/k-nearest-neighbors-theory-and-practice-7f6f6ee48e56)  
+<https://medium.com/@arthurmello_/support-vector-machine-theory-and-practice-69394a31df6a>  <https://medium.datadriveninvestor.com/how-to-correct-sampling-bias-988181c73f5d>  </k-nearest-neighbors-theory-and-practice-7f6f6ee48e56>  
 
 > 如果你想进一步讨论，请随时在 [LinkedIn](https://www.linkedin.com/in/melloarthur/) 上联系我，这将是我的荣幸(老实说)。

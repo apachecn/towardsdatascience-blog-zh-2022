@@ -16,7 +16,7 @@
 
 那么，让我们一起跳进水里去探索米托，好吗？
 
-[](https://docs.trymito.io/)  
+<https://docs.trymito.io/>  
 
 # 安装米托
 
@@ -163,11 +163,11 @@ Excel 函数结果-作者图片
 
 你喜欢这篇文章吗？如果是的话，也许你可以考虑成为会员来支持我和你其他喜欢的作家。
 
-[](https://david-farrugia.medium.com/membership)  
+<https://david-farrugia.medium.com/membership>  
 
 **想给我买杯咖啡吗？**
 
-[](https://paypal.me/itsdavidfarrugia?country.x=MT&locale.x=en_US)  
+<https://paypal.me/itsdavidfarrugia?country.x=MT&locale.x=en_US>  
 
 # 想联系吗？
 

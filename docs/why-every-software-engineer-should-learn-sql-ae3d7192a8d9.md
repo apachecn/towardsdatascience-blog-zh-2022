@@ -101,7 +101,7 @@ Python: 451.37ms, SQL: 5.75ms
 
 如果您喜欢这篇文章，您可能也会喜欢我的关于我的 Python 库`quiffen`的文章，这个库用于解析来自`QIF`文件的金融信息:
 
-[](/parsing-qif-files-to-retrieve-financial-data-with-python-f599cc0d8c03)  
+</parsing-qif-files-to-retrieve-financial-data-with-python-f599cc0d8c03>  
 
 我也可以在[我的博客](http://isaacharrisholt.com/newsletter)，在[推特](https://twitter.com/IsaacHarrisHolt)和 [LinkedIn](https://www.linkedin.com/in/isaac-harris-holt/) 上找到我，所以如果你有任何问题，请随时聊天！
 

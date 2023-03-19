@@ -102,11 +102,11 @@ Enter Your Desired Location: Bangalore
 
 用户可以试用这个项目的一个独特的变化是，每当你启动这个程序时，显示你所在位置的天气报告。并且每隔几个小时继续显示一次，以便快速检查气候变化，从而相应地计划您的日程。您可以按照代码中的要求设置您想要的位置，并以类似于我在以前的一篇文章中提到的提醒应用程序的方式构造项目。请随意从下面提供的链接中查看。
 
-[](/python-project-to-improve-your-productivity-for-the-new-year-1956824eddb1)  
+</python-project-to-improve-your-productivity-for-the-new-year-1956824eddb1>  
 
 用户可以做出的另一个额外改进是构建一个 GUI 应用程序来相应地显示天气状况。如果你不太熟悉 Python 的图形工具，你可以看看我以前的一篇文章，了解更多关于 7 个最好的 GUI 的入门代码。
 
-[](/7-best-ui-graphics-tools-for-python-developers-with-starter-codes-2e46c248b47c)  
+</7-best-ui-graphics-tools-for-python-developers-with-starter-codes-2e46c248b47c>  
 
 # 结论:
 
@@ -122,12 +122,12 @@ NOAA 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 
 
 如果你想在我的文章发表后第一时间得到通知，请点击下面的[链接](https://bharath-k1297.medium.com/membership)订阅邮件推荐。如果你希望支持其他作者和我，请订阅下面的链接。
 
-[](https://bharath-k1297.medium.com/membership)  
+<https://bharath-k1297.medium.com/membership>  
 
 如果你对这篇文章中提到的各点有任何疑问，请在下面的评论中告诉我。我会尽快给你回复。
 
 看看我的一些与本文主题相关的文章，你可能也会喜欢阅读！
 
-[](/complete-python-starter-guide-for-data-science-for-2022-c1f880fa249d)  [](/generating-qr-codes-with-python-in-less-than-10-lines-f6e398df6c8b)  [](/how-to-write-code-effectively-in-python-105dc5f2d293)  
+</complete-python-starter-guide-for-data-science-for-2022-c1f880fa249d>  </generating-qr-codes-with-python-in-less-than-10-lines-f6e398df6c8b>  </how-to-write-code-effectively-in-python-105dc5f2d293>  
 
 谢谢你们坚持到最后。我希望你们都喜欢这篇文章。祝大家有美好的一天！

@@ -197,4 +197,4 @@ Coverage per fold: [0.94, 0.904, 0.874, 0.874, 0.898, 0.922]
 
 布劳姆、安东尼·d .、弗朗茨·基拉里、蒂博特·利纳特、亚尼斯·斯米兰利德斯、迭戈·阿里纳斯和塞巴斯蒂安·沃尔默。2020." MLJ:用于可组合机器学习的 Julia 包."*开源软件杂志* 5 (55): 2704。[https://doi.org/10.21105/joss.02704](https://doi.org/10.21105/joss.02704)。
 
-*原载于 2022 年 12 月 12 日 https://www.paltmeyer.com*[](https://www.paltmeyer.com/blog/posts/conformal-regression/)**。**
+*原载于 2022 年 12 月 12 日 https://www.paltmeyer.com*<https://www.paltmeyer.com/blog/posts/conformal-regression/>**。**

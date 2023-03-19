@@ -12,7 +12,7 @@
 
 想看看 2020 年的 M1 基地在数据科学方面与谷歌实验室相比如何吗？我掩护你:
 
-[](https://betterdatascience.com/macbook-m1-vs-google-colab/)  
+<https://betterdatascience.com/macbook-m1-vs-google-colab/>  
 
 今天，我们将使用 TensorFlow 制作两个数据科学基准，并比较 MacBook Pro M1 Pro 和 Google Colab。我们将忽略拥有闪电般速度的笔记本电脑的明显优势，而只关注模型训练速度。
 
@@ -30,13 +30,13 @@ M1 Pro 有更多的内存和更新的 CPU，但我们关心的是 GPU。我测�
 
 如果您继续学习，您将需要安装 TensorFlow。这里有一整篇文章致力于在苹果 M1 上安装 TensorFlow:
 
-[](https://betterdatascience.com/install-tensorflow-2-7-on-macbook-pro-m1-pro/)  
+<https://betterdatascience.com/install-tensorflow-2-7-on-macbook-pro-m1-pro/>  
 
 此外，您还需要一个影像数据集。我使用了来自 Kaggle 的[狗和猫的数据集](https://www.kaggle.com/pybear/cats-vs-dogs?select=PetImages)，它是在知识共享许可下授权的。长话短说，你可以免费使用。
 
 有关如何组织和预处理它的详细说明，请参考以下文章:
 
-[](https://betterdatascience.com/top-3-prerequisites-for-deep-learning-projects/)  
+<https://betterdatascience.com/top-3-prerequisites-for-deep-learning-projects/>  
 
 我们今天会做两个测试:
 
@@ -281,4 +281,4 @@ M1 Pro 或苹果的任何东西都不是为数据科学家和机器学习工程�
 *   在 YouTube[上订阅](https://www.youtube.com/c/BetterDataScience)
 *   在 [LinkedIn](https://www.linkedin.com/in/darioradecic/) 上连接
 
-*原载于 2022 年 1 月 20 日 https://betterdatascience.com*[](https://betterdatascience.com/macbook-m1-pro-vs-google-colab/)**。**
+*原载于 2022 年 1 月 20 日 https://betterdatascience.com*<https://betterdatascience.com/macbook-m1-pro-vs-google-colab/>**。**

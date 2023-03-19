@@ -100,6 +100,6 @@ encoded_df = pd.DataFrame(
 
 假设一个特性有 20 个不同的值，95%的值属于 4 个不同的值。剩下的 5%属于 16 个不同值的组合。在这种情况下，有效的策略是将这 16 个值分组到一个组中。
 
-*你可以成为* [*媒介会员*](https://sonery.medium.com/membership) *解锁我的全部写作权限，外加其余媒介。如果你已经是了，别忘了订阅*[](https://sonery.medium.com/subscribe)**如果你想在我发表新文章时收到电子邮件。**
+*你可以成为* [*媒介会员*](https://sonery.medium.com/membership) *解锁我的全部写作权限，外加其余媒介。如果你已经是了，别忘了订阅*<https://sonery.medium.com/subscribe>**如果你想在我发表新文章时收到电子邮件。**
 
 *感谢您的阅读。如果您有任何反馈，请告诉我。*

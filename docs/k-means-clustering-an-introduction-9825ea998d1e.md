@@ -179,7 +179,7 @@ k-means 聚类算法概述。图片由作者提供。
 
 有关这两种方法的更多详细信息，请访问:
 
-[](https://www.analyticsvidhya.com/blog/2021/05/k-mean-getting-the-optimal-number-of-clusters/)  
+<https://www.analyticsvidhya.com/blog/2021/05/k-mean-getting-the-optimal-number-of-clusters/>  
 
 # 改进 K 均值结果
 
@@ -221,7 +221,7 @@ k-means 聚类算法概述。图片由作者提供。
 
 你可以在下面的链接中找到它。
 
-[](/how-to-use-unsupervised-learning-to-cluster-well-log-data-using-python-a552713748b5) [## 如何使用 Python 使用无监督学习对测井数据进行聚类
+</how-to-use-unsupervised-learning-to-cluster-well-log-data-using-python-a552713748b5> [## 如何使用 Python 使用无监督学习对测井数据进行聚类
 
 towardsdatascience.com](/how-to-use-unsupervised-learning-to-cluster-well-log-data-using-python-a552713748b5) 
 

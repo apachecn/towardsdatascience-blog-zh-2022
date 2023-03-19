@@ -173,6 +173,6 @@
 
 ## **额外资源**
 
-**[](https://online.stat.psu.edu/stat510/lesson/2/2.2)  [](https://www.real-statistics.com/time-series-analysis/arima-processes/arima-differencing/)  [](https://people.duke.edu/~rnau/411arim2.htm)  
+**<https://online.stat.psu.edu/stat510/lesson/2/2.2>  <https://www.real-statistics.com/time-series-analysis/arima-processes/arima-differencing/>  <https://people.duke.edu/~rnau/411arim2.htm>  
 
 🫶🏽**

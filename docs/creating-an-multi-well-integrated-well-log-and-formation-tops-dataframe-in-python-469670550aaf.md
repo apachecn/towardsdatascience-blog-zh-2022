@@ -154,7 +154,7 @@ formations_dict['L07-01']
 
 **如果您想处理单井，请务必查看以下文章:**
 
-**[](/combining-formation-data-with-well-log-measurements-in-pandas-8c29589ec132) ** 
+**</combining-formation-data-with-well-log-measurements-in-pandas-8c29589ec132> ** 
 
 ***感谢阅读。在你走之前，你一定要订阅我的内容，把我的文章放到你的收件箱里。* [***你可以在这里做！***](https://andymcdonaldgeo.medium.com/subscribe)**或者，您也可以* [***注册我的简讯***](https://fabulous-founder-2965.ck.page/2ca286e572) *免费将更多内容直接发送到您的收件箱。****
 

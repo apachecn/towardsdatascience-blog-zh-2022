@@ -84,8 +84,8 @@
 
 **更新:这是第二部分！**
 
-[](/data-science-career-switch-is-masters-degree-worth-it-part-2-1110c3440e4b)  
+</data-science-career-switch-is-masters-degree-worth-it-part-2-1110c3440e4b>  
 
 订阅我的邮件列表:
 
-[](https://nathanthandoko.medium.com/subscribe)  [](https://nathanthandoko.medium.com/membership) 
+<https://nathanthandoko.medium.com/subscribe>  <https://nathanthandoko.medium.com/membership> 

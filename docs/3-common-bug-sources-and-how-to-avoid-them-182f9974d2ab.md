@@ -37,7 +37,7 @@ Python 核心开发人员 Raymond Hettinger 在下面的视频中非常有效地
 
 很容易看出，这里的问题是同一个 switch 语句(if…elif…else)在不同函数的代码中重复了几次。我们没有工具在代码处于这种状态时，对发生分支的所有代码部分进行强制检查。幸运的是，一些重构可以帮助我们解决这个问题:
 
-[](https://betterprogramming.pub/my-top-takeaways-from-refactoring-part-2-55efe6c547b8)  
+<https://betterprogramming.pub/my-top-takeaways-from-refactoring-part-2-55efe6c547b8>  
 
 ## 解决方案:多态性
 
@@ -53,7 +53,7 @@ Python 核心开发人员 Raymond Hettinger 在下面的视频中非常有效地
 
 具有多个函数的一个变体，可以是只写一次条件而不是多次，并且一起写属于一个分支的所有代码。DRY(不要重复自己)原则不适用于这里重复的代码(在这里是 `x = self.trunk_encode(x)`)，因为它增加了复杂性。此外，DRY 是关于集中知识，而不是编写更少的代码，这里的知识已经在 trunk_encode 方法内部了。
 
-[](https://annageller.com/blog/dont-repeat-yourself-is-beneficial-not-only-in-software-engineering)  
+<https://annageller.com/blog/dont-repeat-yourself-is-beneficial-not-only-in-software-engineering>  
 
 # 模式 2:可变状态
 
@@ -143,4 +143,4 @@ Eric Normand 所著的《追求简单性:用函数式思维驯服复杂软件》
 
 # 更多来自我
 
-[](/parse-dont-validate-f559372cca45)  [](/machine-translation-evaluation-with-cometinho-c89880731409)  [](/pick-your-deep-learning-tool-d01fcfb86845) 
+</parse-dont-validate-f559372cca45>  </machine-translation-evaluation-with-cometinho-c89880731409>  </pick-your-deep-learning-tool-d01fcfb86845> 

@@ -27,13 +27,13 @@ PLAXIS 输出应用程序提供了使用内置绘图工具比较不同阶段输�
 
 和以前一样，本教程要求读者已经安装了 VS 代码和 PLAXIS 环境。如果您不熟悉这个页面，请按照下面文章中的说明进行操作。我们开始吧！
 
-[](https://medium.com/@philip.studio11/start-using-python-to-automate-plaxis-35a5297321e7)  
+<https://medium.com/@philip.studio11/start-using-python-to-automate-plaxis-35a5297321e7>  
 
 # PLAXIS 示例模型
 
 我们将使用第二节课中相同的 PLAXIS 2D 模型。如果您还没有这样做，请按照下面的说明来设置和计算模型。
 
-[](https://medium.com/@philip.studio11/goodbye-boring-plaxis-output-with-python-fc5c8b26cdb2)  
+<https://medium.com/@philip.studio11/goodbye-boring-plaxis-output-with-python-fc5c8b26cdb2>  
 
 与上一个教程类似，我们将使用“open_output.py”打开 PLAXIS 文件，这样就可以启用 API 服务器。
 

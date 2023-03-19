@@ -104,4 +104,4 @@ Table : Followers
 
 如果你喜欢这篇文章，你可能也会喜欢我写的其他文章。请随意查看下面的内容。
 
-[](/recommendation-systems-explained-a42fc60591ed)  [](/active-learning-in-machine-learning-explained-777c42bd52fa)  [](/link-prediction-recommendation-engines-with-node2vec-c97c429351a8)  [](/louvains-algorithm-for-community-detection-in-python-95ff7f675306)  [](/text-similarity-w-levenshtein-distance-in-python-2f7478986e75)  [](/text-summarization-in-python-with-jaro-winkler-and-pagerank-72d693da94e8)  [](/word2vec-explained-49c52b4ccb71) 
+</recommendation-systems-explained-a42fc60591ed>  </active-learning-in-machine-learning-explained-777c42bd52fa>  </link-prediction-recommendation-engines-with-node2vec-c97c429351a8>  </louvains-algorithm-for-community-detection-in-python-95ff7f675306>  </text-similarity-w-levenshtein-distance-in-python-2f7478986e75>  </text-summarization-in-python-with-jaro-winkler-and-pagerank-72d693da94e8>  </word2vec-explained-49c52b4ccb71> 

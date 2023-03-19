@@ -78,6 +78,6 @@ Datetime 数据类型存储包含日期和时间的值，如 2021–09–12 15:2
 *   类型化是限制变量取值范围的能力。
 *   通常，数据类型有整数、浮点、字符串、布尔、日期时间时间戳和字符。此外，还定义了更多的数据类型，这些数据类型会因编程语言或数据库而异。
 
-*如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
+*如果你喜欢我的作品，请在这里订阅*<https://medium.com/subscribe/@niklas_lang>**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
 
-*[](/what-is-odbc-c27f95164dec)  [](/getting-started-with-json-4c94bb4df113)  [](/what-is-an-api-easily-explained-d153a736a55f) *
+*</what-is-odbc-c27f95164dec>  </getting-started-with-json-4c94bb4df113>  </what-is-an-api-easily-explained-d153a736a55f> *

@@ -38,7 +38,7 @@ Photo by [愚木混株 cdd20](https://unsplash.com/@cdd20?utm_source=unsplash&ut
 
 …如果你对因果推理感兴趣，这是本系列的其他文章-
 
-[](/how-to-generate-synthetic-data-for-any-causal-inference-project-in-less-than-10-lines-of-code-158688a89349)  [](/a-simple-explanation-of-causal-inference-in-python-357509506f31)  
+</how-to-generate-synthetic-data-for-any-causal-inference-project-in-less-than-10-lines-of-code-158688a89349>  </a-simple-explanation-of-causal-inference-in-python-357509506f31>  
 
 ## 入门指南
 
@@ -158,7 +158,7 @@ daft 图表的默认布局是“圆形”。可以更改默认值，也可以更
 
 [通过我的推荐链接](https://grahamharrison-86487.medium.com/membership)加入 Medium(如果您使用此链接注册，我将收取一定比例的费用)。
 
-[](https://grahamharrison-86487.medium.com/membership)  
+<https://grahamharrison-86487.medium.com/membership>  
 
 [每当我发布新故事时，订阅一封免费电子邮件](https://grahamharrison-86487.medium.com/subscribe)。
 

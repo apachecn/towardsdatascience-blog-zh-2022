@@ -72,7 +72,7 @@
 
 所以你开始明白为什么科学很难。我们从一个非常简单的问题开始——这种药剂真的能让人变得更强壮吗？——最终得到了一个实验性的设计，其价格可以养活一个小国。可以理解的是，社会可能会停止资助这种强力药剂的防弹结论。我们科学家将不得不要求我们尊敬的同事 [***假设***](http://bit.ly/quaesita_saddest) 我们未能控制的因素无关紧要，但那是另一篇博文的主题(你可以在下面找到[)。](http://bit.ly/quaesita_scientists)
 
-[](https://kozyrkov.medium.com/why-do-we-trust-scientists-98c24e3b9f0e)  
+<https://kozyrkov.medium.com/why-do-we-trust-scientists-98c24e3b9f0e>  
 
 科学是美丽的，艰难的，令人沮丧的。尤其是涉及到了解人类的时候。
 

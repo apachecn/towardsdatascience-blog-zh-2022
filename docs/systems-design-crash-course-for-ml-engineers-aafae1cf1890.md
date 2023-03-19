@@ -279,7 +279,7 @@ headers:{
 
 如果你想了解更多关于软件工程、面试和职业指导的信息，请随时访问我的以下帖子或在 Linkedin 上联系我[:](https://www.linkedin.com/in/vincenttatan/?originalSubdomain=sg)
 
-[](/write-your-own-amazing-data-science-blogs-8b9c19a4255d)  [](/how-i-cracked-ds-tech-interview-at-google-2aca19d21ea5)  [](/top-5-lessons-to-excel-in-data-analytics-interviews-24f5cf0605d1)  [](/data-analytics-is-hard-here-how-you-can-excel-aa2a99d0fad0)  
+</write-your-own-amazing-data-science-blogs-8b9c19a4255d>  </how-i-cracked-ds-tech-interview-at-google-2aca19d21ea5>  </top-5-lessons-to-excel-in-data-analytics-interviews-24f5cf0605d1>  </data-analytics-is-hard-here-how-you-can-excel-aa2a99d0fad0>  
 
 感谢 [Albert Bingei](https://medium.com/u/fcf6ad08f12d?source=post_page-----aafae1cf1890--------------------------------) 对本文的评论、阅读和令人兴奋的反馈。
 

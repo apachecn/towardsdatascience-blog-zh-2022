@@ -193,20 +193,20 @@ response, err := client.Do(req)if err != nil { return err.Error() }
 
 这就是 TigerGo 的快速介绍！想做点贡献？随时向[回购](https://github.com/GenericP3rson/TigerGo)提出拉取请求！
 
-[](https://github.com/GenericP3rson/TigerGo) [## GitHub-generic 3 rson/tiger go
+<https://github.com/GenericP3rson/TigerGo> [## GitHub-generic 3 rson/tiger go
 
 github.com](https://github.com/GenericP3rson/TigerGo) 
 
 对围棋感兴趣？我之前写了一篇关于进入 Go 和创建一个包的博客，你可以看看！
 
-[](https://shreya-chaudhary.medium.com/creating-and-deploying-your-first-go-package-eae220905745)  
+<https://shreya-chaudhary.medium.com/creating-and-deploying-your-first-go-package-eae220905745>  
 
 有兴趣创建自己的 TigerGraph 包装器吗？点击查看官方端点[的完整文档。](https://docs.tigergraph.com/tigergraph-server/current/api/built-in-endpoints)
 
-[](https://docs.tigergraph.com/tigergraph-server/current/api/built-in-endpoints)  
+<https://docs.tigergraph.com/tigergraph-server/current/api/built-in-endpoints>  
 
 最后，如果您在开发项目时有任何问题或想与 TigerGraph 开发人员聊天，请加入 [the Discord](https://discord.gg/DMHabbX3BA) ！
 
-[](https://discord.gg/DMHabbX3BA)  
+<https://discord.gg/DMHabbX3BA>  
 
 > 注:除特别注明外，所有图片均由作者创作。

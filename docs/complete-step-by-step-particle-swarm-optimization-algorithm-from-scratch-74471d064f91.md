@@ -28,7 +28,7 @@
 
 所以，就像[遗传算法](/complete-step-by-step-genetic-algorithm-from-scratch-for-global-optimization-6fee5c55dd3b)一样，粒子群算法是受自然启发的。
 
-[](/complete-step-by-step-genetic-algorithm-from-scratch-for-global-optimization-6fee5c55dd3b) [## 从零开始完成逐步遗传算法的全局优化
+</complete-step-by-step-genetic-algorithm-from-scratch-for-global-optimization-6fee5c55dd3b> [## 从零开始完成逐步遗传算法的全局优化
 
 towardsdatascience.com](/complete-step-by-step-genetic-algorithm-from-scratch-for-global-optimization-6fee5c55dd3b) 
 

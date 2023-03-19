@@ -393,4 +393,4 @@ where b.customer_id IS NULL;
 
 [SQL 绝对初学者教程](https://www.udemy.com/course/sql-for-absolute-beginners/?couponCode=MEDIUM_SEPTEMBER) —图片由作者提供
 
-[](https://medium.com/membership/@ivopbernardo) 
+<https://medium.com/membership/@ivopbernardo> 

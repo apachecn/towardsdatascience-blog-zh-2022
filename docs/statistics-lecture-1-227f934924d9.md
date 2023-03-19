@@ -211,4 +211,4 @@ N 注意:使用的采样程序将影响您可以应用于数据的推断统计�
 
 此外，如果你喜欢看到这样的文章，并希望无限制地访问我的文章和所有由 Medium 提供的文章，请考虑使用下面的我的推荐链接注册。会员费为 5 美元/月；我赚一小笔佣金，这反过来有助于推动更多的内容和文章！
 
-[](https://medium.com/@askline1/membership) 
+<https://medium.com/@askline1/membership> 

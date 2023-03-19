@@ -41,7 +41,7 @@
 
 *特别是，学习 Apache Airflow DAG 创作认证，[可以让您按照最佳实践，用 Python 设计和创建可靠的数据管道。](https://academy.astronomer.io/astronomer-certification-apache-airflow-dag-authoring)*
 
-*[](/3-nanodegrees-you-should-consider-to-advance-your-data-engineering-career-in-2021-baf597debc72)  
+*</3-nanodegrees-you-should-consider-to-advance-your-data-engineering-career-in-2021-baf597debc72>  
 
 # 谁的认证？
 
@@ -107,7 +107,7 @@
 
 **最后一点，尽管非常有帮助，但参加两次考试的想法会诱使学生没有做好充分的准备，因为万一失败，经济后果和同龄人的压力将是最小的。我建议天文学家**在第一次尝试**后引入某种挑战，比如更高的及格分数**。****
 
-**[](/3-ways-to-create-tables-with-apache-spark-32aed0f355ab)  
+**</3-ways-to-create-tables-with-apache-spark-32aed0f355ab>  
 
 # 5 道模拟试题
 

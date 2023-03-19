@@ -28,7 +28,7 @@
 
 > ***生成训练数据集的问题？*** 如果您在这一阶段陷入困境，我推荐您阅读[我以前的文章](/how-to-generate-training-data-faster-and-better-e84d05884dc0)关于使用 SQL 和 Python 生成数据集的最佳实践👇🏼
 
-[](/how-to-generate-training-data-faster-and-better-e84d05884dc0)  
+</how-to-generate-training-data-faster-and-better-e84d05884dc0>  
 
 一旦你有了这些数据，你就非常想训练你的第一个 ML 模型。
 
@@ -212,7 +212,7 @@ $ python eda.py --file v1.csv --target Churn
 
 **👉🏽今天使用我的 [**推荐链接**](https://pau-labarta-bajo.medium.com/membership) 成为会员。**
 
-**[](https://pau-labarta-bajo.medium.com/membership)  
+**<https://pau-labarta-bajo.medium.com/membership>  
 
 👉🏽订阅 [***datamachines* 简讯**](https://datamachines.xyz/subscribe/) **。**
 

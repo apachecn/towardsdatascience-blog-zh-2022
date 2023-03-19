@@ -114,6 +114,6 @@ SaaS 解决方案的主要优势是对训练有素的 IT 人员的需求低，�
 *   对于用户来说，这尤其带来了低成本的优势，以及安装和维护费用的降低。
 *   除了 SaaS，还有基础设施即服务(IaaS)和平台即服务(PaaS)作为使用云的替代选项。
 
-*如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
+*如果你喜欢我的作品，请在这里订阅*<https://medium.com/subscribe/@niklas_lang>**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
 
-*[](/introduction-to-apache-hadoop-distributed-file-system-99cb98d175c)  [](/introduction-to-data-types-and-type-systems-in-programming-3e8aec6da7f2)  [](/introducing-nosql-databases-with-mongodb-d46c976da5bf) *
+*</introduction-to-apache-hadoop-distributed-file-system-99cb98d175c>  </introduction-to-data-types-and-type-systems-in-programming-3e8aec6da7f2>  </introducing-nosql-databases-with-mongodb-d46c976da5bf> *

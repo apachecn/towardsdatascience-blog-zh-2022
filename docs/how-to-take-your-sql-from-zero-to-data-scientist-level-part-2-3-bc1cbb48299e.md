@@ -737,8 +737,8 @@ ORDER BY [CustomerID], [OrderDate] DESC
 
 # 请继续关注第 3 部分！
 
-如果你喜欢阅读这篇文章，并想了解更多，别忘了订阅[](https://medium.com/@alex.vamvakaris.ds/subscribe)**，让我的故事直接发送到你的收件箱。**
+如果你喜欢阅读这篇文章，并想了解更多，别忘了订阅<https://medium.com/@alex.vamvakaris.ds/subscribe>**，让我的故事直接发送到你的收件箱。**
 
 **在下面的链接中，您还可以找到一个免费的 PDF 演示，介绍如何使用 r。**
 
-**[](https://www.aspiringdatascientist.net/community) **
+**<https://www.aspiringdatascientist.net/community> **

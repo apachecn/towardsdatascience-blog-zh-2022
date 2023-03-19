@@ -26,13 +26,13 @@
 
 切入正题，这是我的 Github 库，它实现了一个脚本，该脚本遵循以下策略:
 
-[](https://github.com/yotam-gafni/wordle_solver)  
+<https://github.com/yotam-gafni/wordle_solver>  
 
 (它还有一个实现，您可以每天使用它来玩)
 
 我感谢这两个 Github 项目，在那里我得到了可能的猜测词和隐藏词的列表。查看它们，因为它们具有自动求解器所不具备的有趣特性:
 
-[](https://github.com/coolbutuseless/wordle)  [](https://github.com/octokatherine/word-master)  
+<https://github.com/coolbutuseless/wordle>  <https://github.com/octokatherine/word-master>  
 
 此外，看看 [Absurdle](https://qntm.org/files/wordle/index.html) :它采用我们讨论过的对抗方式，并试图让你尽可能多地移动！
 

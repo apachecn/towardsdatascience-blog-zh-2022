@@ -151,4 +151,4 @@ Kubernetes 上完整的 Nginx 堆栈
 
 如果你喜欢这篇文章，看看我的其他内容，你可能也会觉得有帮助。
 
-[](https://medium.com/skilluped/what-is-iptables-and-how-to-use-it-781818422e52)  [](https://medium.com/skilluped/stop-writing-mediocre-docker-compose-files-26b7b4c9bd14)  [](https://medium.com/amerandish/clean-architecture-simplified-223f45e1a10)  [](https://medium.com/amerandish/a-tmux-a-beginners-guide-7c129733148) 
+<https://medium.com/skilluped/what-is-iptables-and-how-to-use-it-781818422e52>  <https://medium.com/skilluped/stop-writing-mediocre-docker-compose-files-26b7b4c9bd14>  <https://medium.com/amerandish/clean-architecture-simplified-223f45e1a10>  <https://medium.com/amerandish/a-tmux-a-beginners-guide-7c129733148> 

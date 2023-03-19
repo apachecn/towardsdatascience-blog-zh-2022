@@ -302,10 +302,10 @@ prefect agent start -q 'test'
 
 随意发挥，并在这里叉这篇文章的源代码:
 
-[](https://github.com/khuyentran1401/prefect-docker)  
+<https://github.com/khuyentran1401/prefect-docker>  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的数据科学工具。你可以在 LinkedIn 和 Twitter 上与我联系。
 
 如果你想查看我写的所有文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](https://medium.com/the-prefect-blog/orchestrate-your-data-science-project-with-prefect-2-0-4118418fd7ce)  [](/4-pre-commit-plugins-to-automate-code-reviewing-and-formatting-in-python-c80c6d2e9f5)  [](/how-to-structure-a-data-science-project-for-readability-and-transparency-360c6716800)  [](/pytest-for-data-scientists-2990319e55e6) 
+<https://medium.com/the-prefect-blog/orchestrate-your-data-science-project-with-prefect-2-0-4118418fd7ce>  </4-pre-commit-plugins-to-automate-code-reviewing-and-formatting-in-python-c80c6d2e9f5>  </how-to-structure-a-data-science-project-for-readability-and-transparency-360c6716800>  </pytest-for-data-scientists-2990319e55e6> 

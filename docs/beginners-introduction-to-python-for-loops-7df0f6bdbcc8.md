@@ -66,6 +66,6 @@ Python for 循环不应该总是运行到循环的末尾。在某些情况下，
 *   在“中断”的帮助下，你可以提前结束循环。
 *   命令“enumerate”不仅返回每一轮中的一个元素，还返回该元素在对象中的索引。例如，这使得从循环内改变对象成为可能。
 
-*如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
+*如果你喜欢我的作品，请在这里订阅*<https://medium.com/subscribe/@niklas_lang>**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
 
-*[](/3short-introduction-to-numpy-3a65ec23eaba)  [](/5-basic-commands-when-working-with-python-sets-875f71dcc85b)  [](/exception-handling-in-python-8cc8f69f16ad) *
+*</3short-introduction-to-numpy-3a65ec23eaba>  </5-basic-commands-when-working-with-python-sets-875f71dcc85b>  </exception-handling-in-python-8cc8f69f16ad> *

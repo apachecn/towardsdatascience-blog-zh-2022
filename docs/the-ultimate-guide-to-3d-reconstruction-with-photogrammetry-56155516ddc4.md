@@ -536,6 +536,6 @@ Blender 的编辑模式(左)及其删除工具(右)。***
 
 ***✅在 [3D 学院](https://learngeodata.eu/)查看在线课程，尤其是 [3D 摄影测量课程](https://learngeodata.eu/3d-reconstructor-formation/)。***
 
-***[](https://learngeodata.eu/)  
+***<https://learngeodata.eu/>  
 
 **所有图片均为作者所有，如需重用，请联系*[*f . Poux*](https://medium.com/@florentpoux)*。****

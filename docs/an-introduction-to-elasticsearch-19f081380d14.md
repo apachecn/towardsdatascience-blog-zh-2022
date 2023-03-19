@@ -64,6 +64,6 @@ Elasticsearch 是当今非常流行的搜索引擎，因为它有很多优点。
 *   基本原则是索引数据，从而使搜索算法更容易、更快地找到数据。
 *   这种搜索算法的特点是处理速度快，并且索引可以划分到一个计算机集群中，因此是可伸缩的。
 
-*如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，请不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
+*如果你喜欢我的作品，请在这里订阅*<https://medium.com/subscribe/@niklas_lang>**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，请不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
 
-*[](/comprehensive-guide-to-principal-component-analysis-bb4458fff9e2)  [](/why-you-should-know-big-data-3c0c161b9e14)  [](/what-are-deepfakes-and-how-do-you-recognize-them-f9ab1a143456) *
+*</comprehensive-guide-to-principal-component-analysis-bb4458fff9e2>  </why-you-should-know-big-data-3c0c161b9e14>  </what-are-deepfakes-and-how-do-you-recognize-them-f9ab1a143456> *

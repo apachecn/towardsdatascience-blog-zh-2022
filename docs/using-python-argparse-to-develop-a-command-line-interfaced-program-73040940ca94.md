@@ -223,6 +223,6 @@ Argparse 有很多优点。比如它是一个 Python 内置模块，不需要下
 
 然而，当我们有一些更复杂的需求时，它也有一些缺点。这些缺点可以通过一些第三方库来消除，以后我的帖子会重点介绍。
 
-[](https://medium.com/@qiuyujx/membership)  
+<https://medium.com/@qiuyujx/membership>  
 
 **如果你觉得我的文章有帮助，请考虑加入灵媒会员来支持我和成千上万的其他作家！(点击上面的链接)**

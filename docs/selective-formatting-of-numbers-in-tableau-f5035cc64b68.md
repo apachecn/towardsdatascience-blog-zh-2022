@@ -80,8 +80,8 @@ ELSE '≤65%' END
 
 现在你知道了！非常感谢你坚持到这篇文章的结尾！❤希望你觉得这个指南有用，如果你想了解更多 GIS、数据分析(Tableau-inclusive) & Web 应用相关的内容，请随时[关注我的 Medium](https://medium.com/@geek-cc) 。会非常感激—😀
 
-[](https://geek-cc.medium.com/membership)  
+<https://geek-cc.medium.com/membership>  
 
 ## 想了解更多的 Tableau 技巧和窍门，请随意查看下面的帖子:
 
-[](/how-to-plot-a-custom-map-image-on-tableau-dashboard-in-just-3-easy-steps-no-calculations-required-8db0d41680c4)  [](/leverage-on-d3-js-v4-to-build-a-network-graph-for-tableau-with-ease-cc274cba69ce)  [](/5-lesser-known-tableau-tips-tricks-hacks-with-use-case-demo-463f98fbdc7e)  [](/superscript-and-subscript-in-tableau-why-and-how-you-can-implement-it-764caf0cc932)  [](/underrated-combined-functionalities-of-tableau-point-linestring-polygon-mapping-b4c0568a4de2) 
+</how-to-plot-a-custom-map-image-on-tableau-dashboard-in-just-3-easy-steps-no-calculations-required-8db0d41680c4>  </leverage-on-d3-js-v4-to-build-a-network-graph-for-tableau-with-ease-cc274cba69ce>  </5-lesser-known-tableau-tips-tricks-hacks-with-use-case-demo-463f98fbdc7e>  </superscript-and-subscript-in-tableau-why-and-how-you-can-implement-it-764caf0cc932>  </underrated-combined-functionalities-of-tableau-point-linestring-polygon-mapping-b4c0568a4de2> 

@@ -132,7 +132,7 @@
 
 ## 你可能喜欢的其他文章
 
-[](/cancer-prediction-vs-telecom-churn-modelling-9e4ec49095f6)  [](/support-vector-machines-svms-important-derivations-4f50d1e3d4d2)  
+</cancer-prediction-vs-telecom-churn-modelling-9e4ec49095f6>  </support-vector-machines-svms-important-derivations-4f50d1e3d4d2>  
 
 ## 参考
 
@@ -142,6 +142,6 @@
 
 变形金刚的惊人插图:
 
-[](http://jalammar.github.io/illustrated-transformer/)  
+<http://jalammar.github.io/illustrated-transformer/>  
 
 AI Epiphany 的这个视频很棒:

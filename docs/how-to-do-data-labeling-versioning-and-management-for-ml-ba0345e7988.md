@@ -165,8 +165,8 @@ ClearML Data 从存储数据的任何地方获取数据，并缓存数据，这�
 
 还要特别感谢本文的合著者 [@victor.sonck](https://medium.com/@victor.sonck) 和 [Erez Schnaider](https://www.linkedin.com/in/erez-schnaider-0b711890/) 。
 
-*PS:我正在 Medium 和*[***aboutdatablog.com***](https://www.aboutdatablog.com/)*上撰写深入浅出地解释基本数据科学概念的文章。你可以订阅我的* [***邮件列表***](https://medium.com/subscribe/@konkiewicz.m) *以便在我每次写新文章时得到通知。如果你还不是中等会员，你可以在这里加入*[](https://medium.com/@konkiewicz.m/membership)**。**
+*PS:我正在 Medium 和*[***aboutdatablog.com***](https://www.aboutdatablog.com/)*上撰写深入浅出地解释基本数据科学概念的文章。你可以订阅我的* [***邮件列表***](https://medium.com/subscribe/@konkiewicz.m) *以便在我每次写新文章时得到通知。如果你还不是中等会员，你可以在这里加入*<https://medium.com/@konkiewicz.m/membership>**。**
 
 *下面还有一些你可能喜欢的帖子*
 
-*[](/adapting-a-sentiment-analysis-model-to-a-custom-domain-62ec386516bc)  [](/data-centric-ai-82fea1fc678d)  [](/top-8-magic-commands-in-jupyter-notebook-c1582e813560) *
+*</adapting-a-sentiment-analysis-model-to-a-custom-domain-62ec386516bc>  </data-centric-ai-82fea1fc678d>  </top-8-magic-commands-in-jupyter-notebook-c1582e813560> *

@@ -362,8 +362,8 @@ r1 + c1 = r2 + c2Derive r2 as:
 
 准备好深入潜水了吗？跳上 [**掌握动态编程 II**](https://peggy1502.medium.com/mastering-dynamic-programming-ii-73149d26b16d)
 
-[](https://peggy1502.medium.com/mastering-dynamic-programming-ii-73149d26b16d)  
+<https://peggy1502.medium.com/mastering-dynamic-programming-ii-73149d26b16d>  
 
 有兴趣阅读我的其他数据科学文章吗？查看以下内容:
 
-[](/transformers-can-you-rate-the-complexity-of-reading-passages-17c76da3403)  [](/advanced-techniques-for-fine-tuning-transformers-82e4e61e16e)  [](/aws-certified-machine-learning-specialty-97eacbd1a0fe)  [](https://pub.towardsai.net/building-a-product-recommendation-engine-with-aws-sagemaker-321a0e7c7f7b) 
+</transformers-can-you-rate-the-complexity-of-reading-passages-17c76da3403>  </advanced-techniques-for-fine-tuning-transformers-82e4e61e16e>  </aws-certified-machine-learning-specialty-97eacbd1a0fe>  <https://pub.towardsai.net/building-a-product-recommendation-engine-with-aws-sagemaker-321a0e7c7f7b> 

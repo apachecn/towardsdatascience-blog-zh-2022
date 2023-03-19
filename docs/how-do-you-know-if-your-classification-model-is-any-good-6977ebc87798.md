@@ -26,7 +26,7 @@
 
 ![](img/cbc1fd0d25c40049b37554ee0ae3d510.png)
 
-*来源:*[](https://unsplash.com/photos/gKUC4TMhOiY)
+*来源:*<https://unsplash.com/photos/gKUC4TMhOiY>
 
 *你可以认为一个基线模型很少或没有干预。在分类模型中，这将是您对每个观察值猜测出现最多的结果(即模式)的地方。所以…算不上是一个模型。但这是一个有用的基线，因此当您评估您的模型时，假设它检测到欺诈，您可以说，“嘿，我的逻辑回归模型比我随机指定交易为欺诈或非欺诈要好 40%！”(这个随机分配是 ROC 曲线上的“无技能”线，我将在后面更详细地介绍。)*
 
@@ -58,7 +58,7 @@
 
 *![](img/a3c379bfc907c968d45ccac95ba1b337.png)*
 
-**来源:*[](https://unsplash.com/photos/D2TZ-ashGzc)*
+**来源:*<https://unsplash.com/photos/D2TZ-ashGzc>*
 
 # **分类的性能指标**
 

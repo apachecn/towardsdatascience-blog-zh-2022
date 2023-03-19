@@ -158,7 +158,7 @@ X[scores< threshold]*
 
 *如果你喜欢这个内容，请关注我的博客。*
 
-*[](http://gustavorsantos.medium.com/)  
+*<http://gustavorsantos.medium.com/>  
 
 在 LinkedIn 上找到我。如果你正在考虑加入 Medium，[这里有一个推荐链接](https://medium.com/subscribe/@gustavorsantos)。
 
@@ -168,4 +168,4 @@ Aurélien Géron，2019。 [*用 Scikit-Learn 动手机器学习，Keras & Tenso
 
 迈克尔·沃克，2022 年。 [*用机器学习进行数据清洗和探索。*](https://www.amazon.com/Data-Cleaning-Exploration-Machine-Learning/dp/1803241675) 1ed。Packt 出版物。
 
-[](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.LocalOutlierFactor.html)  [](https://scikit-learn.org/stable/modules/generated/sklearn.mixture.GaussianMixture.html) *
+<https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.LocalOutlierFactor.html>  <https://scikit-learn.org/stable/modules/generated/sklearn.mixture.GaussianMixture.html> *

@@ -26,11 +26,11 @@
 
 和以前一样，本教程要求读者已经安装了 VS 代码和 PLAXIS 环境。如果您不熟悉这个页面，请按照下面文章中的说明进行操作。
 
-[](/start-using-python-to-automate-plaxis-35a5297321e7)  
+</start-using-python-to-automate-plaxis-35a5297321e7>  
 
 此外，我们还需要在 PLAXIS 环境中安装 *pandas* 。如果您还没有安装外部模块，请按照下面的说明进行安装。
 
-[](/plaxis-output-visualisation-using-python-a144d2367094)  
+</plaxis-output-visualisation-using-python-a144d2367094>  
 
 # Excel 输入界面
 
@@ -152,7 +152,7 @@ df_geom = pd.read_excel(file, sheet_name = geomsheet,engine="openpyxl")
 
 字典和数据框架的详细解释可以在以下文章中找到:
 
-[](/goodbye-boring-plaxis-output-with-python-fc5c8b26cdb2)  
+</goodbye-boring-plaxis-output-with-python-fc5c8b26cdb2>  
 
 ## 读取坐标定义
 

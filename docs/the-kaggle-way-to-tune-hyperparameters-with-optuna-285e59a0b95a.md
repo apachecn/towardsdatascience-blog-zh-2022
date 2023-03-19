@@ -161,8 +161,8 @@ from optuna.visualization.matplotlib import plot_optimization_historyplot_optimi
 
 ## [我还建议成为一名中等会员，不要错过我每周发表的任何数据科学文章。](https://ipom.medium.com/membership/)在此加入👇
 
-[](https://ipom.medium.com/membership/)  
+<https://ipom.medium.com/membership/>  
 
 **我的另外几篇文章你可能会感兴趣:**
 
-[](/the-nice-way-to-deploy-an-ml-model-using-docker-91995f072fe8)  [](/31-datasets-for-your-next-data-science-project-6ef9a6f8cac6) 
+</the-nice-way-to-deploy-an-ml-model-using-docker-91995f072fe8>  </31-datasets-for-your-next-data-science-project-6ef9a6f8cac6> 

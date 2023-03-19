@@ -163,7 +163,7 @@ cron 工具，也称为 [cronjob](https://en.wikipedia.org/wiki/Cron) ，基本�
 
 *👉*如果你喜欢阅读这样的故事(以及媒体上的其他故事)，也想直接支持我和数千名其他作家，可以考虑注册*[*https://medium.ealizadeh.com/membership*](https://medium.ealizadeh.com/membership)*来获得所有故事的全部访问权限(免责声明:如果你使用我的链接注册，我会为你赚取一小笔佣金，不需要额外费用。)**
 
-*[](https://medium.ealizadeh.com/membership)  
+*<https://medium.ealizadeh.com/membership>  
 
 # 参考
 
@@ -173,8 +173,8 @@ cron 工具，也称为 [cronjob](https://en.wikipedia.org/wiki/Cron) ，基本�
 
 # *有用的链接*
 
-*[](https://www.hostinger.com/tutorials/cron-job)  [](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions)  
+*<https://www.hostinger.com/tutorials/cron-job>  <https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions>  
 
 ## 您可能感兴趣的其他帖子:
 
-[](/deploy-free-postgresql-database-in-heroku-and-ingest-data-8002c574a57d)  [](/a-guide-to-python-environment-dependency-and-package-management-conda-poetry-f5a6c48d795)  [](/visualize-data-transformation-using-pandastutor-6126627dd225) *
+</deploy-free-postgresql-database-in-heroku-and-ingest-data-8002c574a57d>  </a-guide-to-python-environment-dependency-and-package-management-conda-poetry-f5a6c48d795>  </visualize-data-transformation-using-pandastutor-6126627dd225> *

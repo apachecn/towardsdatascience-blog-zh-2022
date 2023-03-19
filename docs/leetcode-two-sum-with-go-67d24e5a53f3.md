@@ -26,7 +26,7 @@ answer: [0,1] or [1,0]
 
 下面是 LeetCode 上问题的链接:
 
-[](https://leetcode.com/problems/two-sum)  
+<https://leetcode.com/problems/two-sum>  
 
 ## 该算法
 

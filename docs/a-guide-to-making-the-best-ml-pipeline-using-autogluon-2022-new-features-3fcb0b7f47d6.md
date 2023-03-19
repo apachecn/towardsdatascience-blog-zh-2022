@@ -160,7 +160,7 @@ predictor.leaderboard(test_data, silent=True)
 
 ****对于没有自动增长的相同数据集的流失预测分析，我建议您阅读这篇文章:****
 
-****[](/telco-customer-churnrate-analysis-d412f208cbbf) **** 
+****</telco-customer-churnrate-analysis-d412f208cbbf> **** 
 
 # ******总结******
 

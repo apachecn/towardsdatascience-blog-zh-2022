@@ -76,7 +76,7 @@ PFI、PDP、LIME 或 SHAP 等不可知模型解释技术可能会误导在多重
 
 > 请参考我之前的文章了解 [8 降维技术](/8-dimensionality-reduction-techniques-every-data-scientists-should-know-1c594f0aa7f2)。
 
-[](/8-dimensionality-reduction-techniques-every-data-scientists-should-know-1c594f0aa7f2)  
+</8-dimensionality-reduction-techniques-every-data-scientists-should-know-1c594f0aa7f2>  
 
 ## 7)不合理的随意解释:
 

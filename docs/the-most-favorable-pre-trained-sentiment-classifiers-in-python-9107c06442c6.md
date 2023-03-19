@@ -153,7 +153,7 @@ Happy Transformer 在技术上非常先进，但仍然很容易实现 NLP 库。
 
 *用于性能比较的 Jupyter 笔记本可以在我的 [GitHub](https://github.com/PetrKorab/The-Most-Favorable-Pre-trained-Sentiment-Classifiers-in-Python/blob/main/analysis.ipynb) 上下载。*
 
-**PS:你可以订阅我的* [*邮箱列表*](https://medium.com/subscribe/@petrkorab) *每次我写新文章都会收到通知。如果你还不是中等会员，你可以在这里加入*[](https://medium.com/@petrkorab/membership)**。***
+**PS:你可以订阅我的* [*邮箱列表*](https://medium.com/subscribe/@petrkorab) *每次我写新文章都会收到通知。如果你还不是中等会员，你可以在这里加入*<https://medium.com/@petrkorab/membership>**。***
 
 ## **参考资料:**
 

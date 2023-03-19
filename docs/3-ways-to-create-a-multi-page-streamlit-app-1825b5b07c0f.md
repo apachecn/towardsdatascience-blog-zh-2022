@@ -120,8 +120,8 @@ modules[moduleNames.index(page)].run()
 
 你可以在我的 [Github 页面](/alanjones2.github.io)上找到这篇文章和我其他作品的代码
 
-[](https://alanjones2.github.io)  
+<https://alanjones2.github.io>  
 
 你可以在 Substack 上订阅我偶尔发的[时事通讯。](/technofile.substack.com)
 
-[](https://technofile.substack.com) 
+<https://technofile.substack.com> 

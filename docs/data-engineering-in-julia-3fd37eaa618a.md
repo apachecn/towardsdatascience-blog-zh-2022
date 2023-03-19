@@ -18,11 +18,11 @@
 
 如果您想了解 Julia 为什么非常适合数据科学，请查看这篇文章:
 
-[](https://betterprogramming.pub/why-you-should-invest-in-julia-now-as-a-data-scientist-30dc346d62e4)  
+<https://betterprogramming.pub/why-you-should-invest-in-julia-now-as-a-data-scientist-30dc346d62e4>  
 
 如果你对为什么 Julia 是机器学习的未来感兴趣，请查看:
 
-[](/the-future-of-machine-learning-and-why-it-looks-a-lot-like-julia-a0e26b51f6a6)  
+</the-future-of-machine-learning-and-why-it-looks-a-lot-like-julia-a0e26b51f6a6>  
 
 # 什么是数据工程？🧐
 
@@ -40,7 +40,7 @@
 
 编辑:我和我的合著者很高兴地告诉大家，我们的新书《朱丽亚速成教程》已经开始预售了:
 
-[](https://logankilpatrick.gumroad.com/l/juliacrashcourse)  
+<https://logankilpatrick.gumroad.com/l/juliacrashcourse>  
 
 # 阅读🤓在茱莉亚写✍️的文件
 
@@ -52,7 +52,7 @@
 
 如果您从未使用过 Julia 中的包管理器，并且需要一个快速概览，请查看这篇文章:
 
-[](https://blog.devgenius.io/the-most-underrated-feature-of-the-julia-programming-language-the-package-manager-652065f45a3a)  
+<https://blog.devgenius.io/the-most-underrated-feature-of-the-julia-programming-language-the-package-manager-652065f45a3a>  
 
 现在我们已经安装了数据帧和 CSV，我们将加载它们:
 

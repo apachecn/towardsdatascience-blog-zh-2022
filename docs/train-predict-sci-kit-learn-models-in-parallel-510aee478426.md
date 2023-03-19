@@ -153,4 +153,4 @@ sklearn=0.24.1
 
 如果你喜欢读这篇文章，你可能会发现我写的关于数据科学和机器学习的其他文章也很有趣。下面来看看吧。
 
-[](/recommendation-system-matrix-factorization-svd-explained-c9a50d93e488)  [](/link-prediction-recommendation-engines-with-node2vec-c97c429351a8)  [](/recommendation-systems-explained-a42fc60591ed) 
+</recommendation-system-matrix-factorization-svd-explained-c9a50d93e488>  </link-prediction-recommendation-engines-with-node2vec-c97c429351a8>  </recommendation-systems-explained-a42fc60591ed> 

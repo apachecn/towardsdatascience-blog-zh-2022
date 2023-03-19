@@ -102,4 +102,4 @@ Docker Hub 中的连署签名—图片由作者提供
 
 *本文最初发布于*[*martinheinz . dev*](https://martinheinz.dev/blog/69?utm_source=medium&utm_medium=referral&utm_campaign=blog_post_69)
 
-[](/optimizing-memory-usage-in-python-applications-f591fc914df5)  [](/speeding-up-container-image-builds-with-remote-cache-c72577317886)  [](/all-the-things-you-can-do-with-github-api-and-python-f01790fca131) 
+</optimizing-memory-usage-in-python-applications-f591fc914df5>  </speeding-up-container-image-builds-with-remote-cache-c72577317886>  </all-the-things-you-can-do-with-github-api-and-python-f01790fca131> 

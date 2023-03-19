@@ -395,4 +395,4 @@ assert count_1 == count_2
 
 *本文使用了马克斯·普朗克研究所在 [Creative Common License 下的数据集。](https://www.bgc-jena.mpg.de/wetter/weather_data.html)
 
-*原载于*[](https://zerowithdot.com/multi-time-series-data-generator/)**。**
+*原载于*<https://zerowithdot.com/multi-time-series-data-generator/>**。**

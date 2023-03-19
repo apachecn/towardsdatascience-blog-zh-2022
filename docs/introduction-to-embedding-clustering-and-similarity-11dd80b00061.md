@@ -230,7 +230,7 @@ k 均值聚类是一个迭代过程。这意味着我们无法在一次计算中
 
 *如果你喜欢这本书，并且对机器学习和数据科学的新见解感兴趣，请注册中级会员，以便完全访问我的内容。关注我，以便在我发布新章节或帖子时收到电子邮件。*
 
-[](https://medium.com/@mathiasgronne/membership)  
+<https://medium.com/@mathiasgronne/membership>  
 
 ## 书籍章节
 

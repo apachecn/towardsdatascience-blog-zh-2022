@@ -20,7 +20,7 @@
 
 [袖扣](https://github.com/santosjorge/cufflinks)是另一个弥合这一鸿沟的图书馆。我们可以用同样的熊猫叫声来制作更令人惊叹的图表。此外，我们可以开发高级图表，如曲面图。
 
-[](/how-to-do-a-ton-of-analysis-in-the-blink-of-an-eye-16fa9affce06)  
+</how-to-do-a-ton-of-analysis-in-the-blink-of-an-eye-16fa9affce06>  
 
 # 如何从数据帧创建情节-纯熊猫的方式。
 
@@ -64,7 +64,7 @@ pd.options.plotting.backend = “plotly”
 
 但是，正如我前面提到的，它仍然缺少一些关键图表。我们换个方式来挖掘 Plotly 的最大潜力。
 
-[](/9-easy-steps-to-make-great-charts-33e2c4612e39)  
+</9-easy-steps-to-make-great-charts-33e2c4612e39>  
 
 # 如何使用袖扣从数据框中创建图
 
@@ -104,7 +104,7 @@ cf.datagen.lines(4,1000).iplot()
 
 Plotly 有几种不同的图表类型。其中一些可以通过袖扣买到，我们可以直接从数据框中调用。
 
-[](/plotly-dashboards-in-python-28a3bb83702c)  
+</plotly-dashboards-in-python-28a3bb83702c>  
 
 以下是一些熊猫身上没有的图表，但通过袖扣却成为可能。
 
@@ -180,7 +180,7 @@ cf.datagen.lines(2).iplot(kind='spread',xTitle='Dates',yTitle='Return')
 
 这些只是你可以用袖扣扩展创建的许多图表中的一部分。当然，您也可以从 pandas 默认 API 中获得更常见的图表。
 
-[](/how-to-create-stunning-web-apps-for-your-data-science-projects-c7791102134e)  
+</how-to-create-stunning-web-apps-for-your-data-science-projects-c7791102134e>  
 
 # 改变图表的主题。
 
@@ -212,7 +212,7 @@ cf.set_config_file(theme='henanigans')
 
 这篇文章讨论了如何开始使用熊猫、Plotly 和袖扣。我们还在一行代码中创建了一些奇妙的数据帧视觉效果。
 
-[](/5-python-gui-frameworks-to-create-desktop-web-and-even-mobile-apps-c25f1bcfb561)  [](/summarize-pandas-data-frames-b9770567f940)  
+</5-python-gui-frameworks-to-create-desktop-web-and-even-mobile-apps-c25f1bcfb561>  </summarize-pandas-data-frames-b9770567f940>  
 
 > 朋友，感谢你的阅读！在[***LinkedIn***](https://www.linkedin.com/in/thuwarakesh/)*[***Twitter***](https://twitter.com/Thuwarakesh)*，以及*[***Medium***](https://thuwarakesh.medium.com/)*上跟我打招呼。**
 > 

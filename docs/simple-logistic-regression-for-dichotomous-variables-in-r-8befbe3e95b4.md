@@ -64,7 +64,7 @@ R 中的输出窗口[图片由作者提供]
 
 在这里，上面的输出窗口非常类似于下一篇文章中讨论的线性回归，我们使用了 lm()函数。
 
-[](/total-interpretation-of-regression-and-anova-commands-in-r-ed8982c12473)  
+</total-interpretation-of-regression-and-anova-commands-in-r-ed8982c12473>  
 
 > **结果解读**
 
@@ -86,4 +86,4 @@ R 中的输出窗口[图片由作者提供]
 
 网站:[从数据中学习](https://www.learningfromdata.net/)
 
-[](https://mdsohel-mahmood.medium.com/membership)  [](https://mdsohel-mahmood.medium.com/subscribe) 
+<https://mdsohel-mahmood.medium.com/membership>  <https://mdsohel-mahmood.medium.com/subscribe> 

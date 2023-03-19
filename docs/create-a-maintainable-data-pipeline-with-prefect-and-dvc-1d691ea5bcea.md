@@ -40,13 +40,13 @@
 
 [DVC](https://dvc.org/doc/start) 是数据版本控制系统。它本质上类似于 Git 的数据。
 
-[](/introduction-to-dvc-data-version-control-tool-for-machine-learning-projects-7cb49c229fe0)  
+</introduction-to-dvc-data-version-control-tool-for-machine-learning-projects-7cb49c229fe0>  
 
 # 什么是提督？
 
 [perfect](https://www.prefect.io/)是一个开源库，允许你编排和观察用 Python 定义的数据管道。
 
-[](https://medium.com/the-prefect-blog/orchestrate-your-data-science-project-with-prefect-2-0-4118418fd7ce)  
+<https://medium.com/the-prefect-blog/orchestrate-your-data-science-project-with-prefect-2-0-4118418fd7ce>  
 
 让我们来看看如何利用提督和 DVC 一起创建一个可维护的数据管道。
 
@@ -59,7 +59,7 @@
 *   将代码分成更小的组件，每个组件只做一件事
 *   为每个组件指定一个描述性名称
 
-[](/python-clean-code-6-best-practices-to-make-your-python-functions-more-readable-7ea4c6171d60)  
+</python-clean-code-6-best-practices-to-make-your-python-functions-more-readable-7ea4c6171d60>  
 
 例如，在下面的代码中，可能很难理解`compare_two_keywords`函数的每一行代码。
 
@@ -222,7 +222,7 @@ config/process/process_1.yaml  remove_outliers_threshold.Income  60000   61000
 
 作者图片
 
-[](https://medium.com/the-prefect-blog/sending-slack-notifications-in-python-with-prefect-840a895f81c)  
+<https://medium.com/the-prefect-blog/sending-slack-notifications-in-python-with-prefect-840a895f81c>  
 
 ## 贮藏
 
@@ -268,13 +268,13 @@ Data and pipelines are up to date.
 
 查看这个资源库，了解一个全面的项目，该项目包括“提督”和“DVC ”:
 
-[](https://github.com/khuyentran1401/prefect-dvc/)  
+<https://github.com/khuyentran1401/prefect-dvc/>  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的数据科学工具。你可以在 LinkedIn 和 Twitter 上与我联系。
 
 如果你想查看我写的所有文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/validate-your-pandas-dataframe-with-pandera-2995910e564)  [](/dagshub-a-github-supplement-for-data-scientists-and-ml-engineers-9ecaf49cc505)  [](https://pub.towardsai.net/github-actions-in-mlops-automatically-check-and-deploy-your-ml-model-9a281d7f3c84)  [](/create-robust-data-pipelines-with-prefect-docker-and-github-12b231ca6ed2)  
+</validate-your-pandas-dataframe-with-pandera-2995910e564>  </dagshub-a-github-supplement-for-data-scientists-and-ml-engineers-9ecaf49cc505>  <https://pub.towardsai.net/github-actions-in-mlops-automatically-check-and-deploy-your-ml-model-9a281d7f3c84>  </create-robust-data-pipelines-with-prefect-docker-and-github-12b231ca6ed2>  
 
 # 参考
 

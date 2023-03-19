@@ -35,7 +35,7 @@
 
 得到💬任何数据科学或编程问题的 GPT 式答案。为成千上万的人生成摘要和学习笔记📚只需一次点击即可获得学习资源。👉
 
-[](https://aigents.co/learn)  
+<https://aigents.co/learn>  
 
 # **2。LDA 背后的直觉**
 
@@ -171,4 +171,4 @@ LDA 是一个概率模型，它利用了*狄利克雷分布和多项分布*。�
 8.  *[https://dataverse.harvard.edu/file.xhtml?fileId=4590189&版本=6.0](https://dataverse.harvard.edu/file.xhtml?fileId=4590189&version=6.0)*
 9.  *贝塔分布*
 
-*[](https://en.wikipedia.org/wiki/Beta_distribution) *
+*<https://en.wikipedia.org/wiki/Beta_distribution> *

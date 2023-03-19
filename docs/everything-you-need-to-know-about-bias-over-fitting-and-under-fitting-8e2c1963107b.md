@@ -47,13 +47,13 @@ T he perfect fit 只是我想出来的一个玩笑名字，用来描述一个在
 
 我想说的最后一件事是如何修复一个表现不佳的模型。我有一整篇文章讨论如何通过处理输入数据来改进模型，你可能会在这里读到，因为在这篇文章中，我只打算介绍一些技术来帮助平衡偏差。如果你对这样一篇文章感兴趣，你可以在这里查阅:
 
-[](/mitigate-your-model-with-data-3c4216580dae)  
+</mitigate-your-model-with-data-3c4216580dae>  
 
 ## 过度拟合
 
 现在让我们转到一些技术上来，这些技术可以用来帮助你的模型停止过度拟合。首先必须使用一个验证集。验证集通常要小得多，尽管更少的观察看起来可能是一件坏事，但最终模型将从这种变化中受益。另一个防止过度拟合的好方法是使用分解。如果您不熟悉分解及其用途，我有一整篇关于最流行的分解类型——奇异值分解的文章，其中我编写了一个 SVD 方法，您可以在这里深入研究:
 
-[](/deep-in-singular-value-decomposition-98cfd9532241) [## 深入奇异值分解
+</deep-in-singular-value-decomposition-98cfd9532241> [## 深入奇异值分解
 
 towardsdatascience.com](/deep-in-singular-value-decomposition-98cfd9532241) 
 
@@ -71,7 +71,7 @@ towardsdatascience.com](/deep-in-singular-value-decomposition-98cfd9532241)
 
 在这条数据科学的道路上，你可能会遇到许多不同类型的数据，拥有一个平衡的模型的绝对关键是**仔细探索和选择你的特性**。你不会在一个不牢固的基础上建造一个房子，那么你为什么要在一个不牢固的基础上建造一个模型呢？这当然是要考虑的事情，我希望这一信息能引起共鸣，因为我发现通过一个我赞同的过程节省了很多时间。如果你想用我的数据了解更多我的过程，我有一整篇文章，其中我反复讨论了每个步骤，你可以在这里阅读:
 
-[](/my-predictive-modeling-and-learning-step-process-technique-f0521ee76d90)  
+</my-predictive-modeling-and-learning-step-process-technique-f0521ee76d90>  
 
 > 是的，我喜欢我写了这么多文章，现在我可以提供我的旧文章作为阐述。
 

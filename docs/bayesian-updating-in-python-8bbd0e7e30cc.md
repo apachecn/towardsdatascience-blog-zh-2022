@@ -12,7 +12,7 @@
 
 在我以前的一篇文章中，我讨论了如何使用贝叶斯更新来更新你的信念。你可以在这里查看帖子:
 
-[](/bayesian-updating-simply-explained-c2ed3e563588)  
+</bayesian-updating-simply-explained-c2ed3e563588>  
 
 在那篇文章中，我们有三个不同数字范围的骰子。我们随机拿起一个骰子，用那个骰子连续掷了两次。从这些信息中，我们计算出我们最有可能捡起哪个骰子的概率(后验概率)。
 
@@ -28,7 +28,7 @@
 
 作者在 LaTeX 中生成的方程。
 
-*   ***P(H):*** 假设的概率，这是[](https://en.wikipedia.org/wiki/Prior_probability)****。**这是在我们看到我们的数据之前，我们假设的可能性有多大， ***D*** 。**
+*   ***P(H):*** 假设的概率，这是<https://en.wikipedia.org/wiki/Prior_probability>****。**这是在我们看到我们的数据之前，我们假设的可能性有多大， ***D*** 。**
 *   *****P(D | H):***[**可能性**](https://en.wikipedia.org/wiki/Likelihood_function) **，**给定我们的假设，我们的数据正确的概率。**
 *   *****P(H|D):*** 从我们给定的数据来看，我们的假设为真的概率。这是[的**后路**的](https://en.wikipedia.org/wiki/Posterior_probability)。**
 *   *****P(D):*** 观测数据的概率。这是 [**归一化常数**](https://en.wikipedia.org/wiki/Normalizing_constant#Bayes'_theorem) **，**这是可能性和先验的乘积之和:**
@@ -39,7 +39,7 @@
 
 **关于贝叶斯定理的完整推导和直觉，请查看我以前的帖子:**
 
-**[](https://pub.towardsai.net/conditional-probability-and-bayes-theorem-simply-explained-788a6361f333)  
+**<https://pub.towardsai.net/conditional-probability-and-bayes-theorem-simply-explained-788a6361f333>  
 
 # 问题是
 
@@ -65,7 +65,7 @@ diceOutput: array([ 3,  4,  5,  6,  7,  8,  9, 10, 11, 12])
 
 ## 在先的；在前的
 
-由于每个骰子被选中的可能性相同，我们有一个[](https://en.wikipedia.org/wiki/Prior_probability#Uninformative_priors)****的统一先验。**因此，每个骰子具有相等的先验概率:**
+由于每个骰子被选中的可能性相同，我们有一个<https://en.wikipedia.org/wiki/Prior_probability#Uninformative_priors>****的统一先验。**因此，每个骰子具有相等的先验概率:**
 
 ```
 prior = [1/len(dice) for _ in np.arange(len(dice))]
@@ -266,7 +266,7 @@ dice[np.argmax(bayesian_dice_updating(data, dice))]Output: 9
 
 **完整代码可从我的 GitHub 获得，网址是:**
 
-**[](https://github.com/egorhowell/Medium-Articles/blob/main/Statistics/Bayesian_Updating.ipynb)  
+**<https://github.com/egorhowell/Medium-Articles/blob/main/Statistics/Bayesian_Updating.ipynb>  
 
 # 结论
 
@@ -279,6 +279,6 @@ dice[np.argmax(bayesian_dice_updating(data, dice))]Output: 9
 *   [*领英*](https://www.linkedin.com/in/egor-howell-092a721b3/) 👔
 *   [*推特*](https://twitter.com/EgorHowell) 🖊
 *   [*github*](https://github.com/egorhowell)*🖥*
-*   *[](https://www.kaggle.com/egorphysics)**🏅***
+*   *<https://www.kaggle.com/egorphysics>**🏅***
 
 > ***(所有表情符号由 [OpenMoji](https://openmoji.org/) 设计——开源表情符号和图标项目。许可证: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)*******

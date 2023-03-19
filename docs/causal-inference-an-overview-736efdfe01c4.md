@@ -165,24 +165,24 @@ DAG 是一组**节点**，由方向**边**(箭头)链接，不形成**循环**�
 
 朱迪亚·珀尔(Judea Pearl)和达纳·麦肯齐(Dana Mackenzie)写的《为什么》这本书可能是一个很好的开始，它会给你一个关于 Dag 以及如何操纵它们进行因果推理的强烈直觉。
 
-[](https://www.amazon.fr/Book-Why-Science-Cause-Effect/dp/046509760X)  
+<https://www.amazon.fr/Book-Why-Science-Cause-Effect/dp/046509760X>  
 
 如果你对阅读这本书没有把握，我根据它写了一篇关于媒介的文章，那会让你对它的内容有个概念:
 
-[](https://medium.com/@arthurmello_/the-science-of-why-a-brief-introduction-ed92060e6f0d)  
+<https://medium.com/@arthurmello_/the-science-of-why-a-brief-introduction-ed92060e6f0d>  
 
 读完那本书后，还有一本更短的书，也是朱迪亚·珀尔写的，会给出更多的数学细节:
 
-[](https://www.amazon.fr/Causality-Primer-Judea-Pearl/dp/1119186846/ref=pd_lpo_3?pd_rd_i=1119186846&psc=1)  
+<https://www.amazon.fr/Causality-Primer-Judea-Pearl/dp/1119186846/ref=pd_lpo_3?pd_rd_i=1119186846&psc=1>  
 
 最后，我推荐 Coursera 上的这个 MOOC:
 
-[](https://www.coursera.org/learn/crash-course-in-causality)  
+<https://www.coursera.org/learn/crash-course-in-causality>  
 
 不会太长，会让你很好的把理论和实践结合起来(用 R)。如果我要从这份清单中只推荐一样东西给你，由于它的实际内容，它可能会是这门课程。
 
 如果你喜欢这篇文章，你可能也会喜欢这些:
 
-[](/hypothesis-testing-a23852264d09)  [](/regularization-for-machine-learning-67c37b132d61)  
+</hypothesis-testing-a23852264d09>  </regularization-for-machine-learning-67c37b132d61>  
 
 > 如果你想进一步讨论，请随时通过 LinkedIn[联系我，这将是我的荣幸(老实说)。](https://www.linkedin.com/in/melloarthur/)

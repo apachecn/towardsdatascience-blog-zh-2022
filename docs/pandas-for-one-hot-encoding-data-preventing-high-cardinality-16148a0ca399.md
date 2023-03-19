@@ -130,11 +130,11 @@ pd.get_dummies(df2)
 
 这篇文章的代码在 GitHub 中:
 
-[](https://github.com/gurezende/Studying/blob/master/Python/Pandas/OHE_Dimensionality.ipynb)  
+<https://github.com/gurezende/Studying/blob/master/Python/Pandas/OHE_Dimensionality.ipynb>  
 
 如果你喜欢这些内容，请关注我的博客或在 LinkedIn 上找到我，在那里我也分享了一些数据科学技巧。如果你正在考虑中等会员，[这是我给你的推荐代码](https://gustavorsantos.medium.com/membership)。
 
-[](http://gustavorsantos.medium.com/)  
+<http://gustavorsantos.medium.com/>  
 
 # 参考
 

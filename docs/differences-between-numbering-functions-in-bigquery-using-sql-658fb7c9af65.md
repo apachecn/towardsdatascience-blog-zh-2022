@@ -27,7 +27,7 @@
 
 我还建议阅读伟大的谷歌文档。
 
-[](https://cloud.google.com/bigquery/docs/reference/standard-sql/numbering_functions)  
+<https://cloud.google.com/bigquery/docs/reference/standard-sql/numbering_functions>  
 
 为了更好地理解这些函数之间的区别，我们将查询以下数据集，该数据集包含来自[谷歌商品商店](https://shop.googlemerchandisestore.com/)的不同国家和产品类别的销售额。
 
@@ -180,4 +180,4 @@ ROW_NUMBER()为每个分区返回一个从 1 开始的连续且唯一的数字�
 
 本文中使用的数据集来自于 [BigQuery 公共数据](https://cloud.google.com/bigquery/public-data)，是在 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 许可下的 Google analytics 数据样本。
 
-[](https://developers.google.com/analytics/bigquery/web-ecommerce-demo-dataset) 
+<https://developers.google.com/analytics/bigquery/web-ecommerce-demo-dataset> 

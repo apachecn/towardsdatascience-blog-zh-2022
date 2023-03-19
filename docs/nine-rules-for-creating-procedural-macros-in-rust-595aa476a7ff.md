@@ -134,7 +134,7 @@ fn hello_universe() {
 }
 ```
 
-*   `[TokenStream](https://docs.rs/proc-macro2/latest/proc_macro2/struct.TokenStream.html)` [](https://docs.rs/proc-macro2/latest/proc_macro2/struct.TokenStream.html)—这代表一个抽象的令牌流。Rust 编译器通过首先将用户的文字代码转换成`TokenStream`来应用宏。编译器接下来将那个`TokenStream` 提供给宏进行处理。最后，宏返回一个编译器编译的新的`TokenStream` 。
+*   `[TokenStream](https://docs.rs/proc-macro2/latest/proc_macro2/struct.TokenStream.html)` <https://docs.rs/proc-macro2/latest/proc_macro2/struct.TokenStream.html>—这代表一个抽象的令牌流。Rust 编译器通过首先将用户的文字代码转换成`TokenStream`来应用宏。编译器接下来将那个`TokenStream` 提供给宏进行处理。最后，宏返回一个编译器编译的新的`TokenStream` 。
 *   语法树—这是表示已分析代码的嵌套 Rust 结构和枚举。结构和枚举在板条箱`[syn](https://docs.rs/syn/latest/syn/)`中定义。例如，`[ItemFn](https://docs.rs/syn/latest/syn/struct.ItemFn.html)`是表示独立函数的结构。`[ItemFn](https://docs.rs/syn/latest/syn/struct.ItemFn.html)`的四个场之一`block`包含`[Stmt](https://docs.rs/syn/latest/syn/enum.Stmt.html)`的矢量。枚举`[Stmt](https://docs.rs/syn/latest/syn/enum.Stmt.html)` 表示 Rust 语句。(规则 4 告诉我们如何了解`syn`定义的结构和枚举。)
 *   代码、语法和标记的字符串——我们可以将前面的项转换成字符串。此外，我们可以将字符串转换为前面的项目。
 

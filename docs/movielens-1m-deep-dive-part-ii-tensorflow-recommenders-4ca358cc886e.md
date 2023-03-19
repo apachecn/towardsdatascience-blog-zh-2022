@@ -10,7 +10,7 @@ Nathan Engel 的照片:[https://www . pexels . com/photo/time-lapse-photography-
 
 对于那些没有读过前一部分的人，这里是链接:
 
-[](/movielens-1m-deep-dive-part-i-8acfeda1ad4)  
+</movielens-1m-deep-dive-part-i-8acfeda1ad4>  
 
 在那篇文章中，我展示了 MovieLens-1M [1]数据集(一个电影推荐数据集，包含不同用户对电影的 100 万个评级)以及一些探索性的数据分析，并尝试了一些经典的推荐系统算法。虽然，那篇文章不是先决条件，你不读它也能理解这里的内容。
 

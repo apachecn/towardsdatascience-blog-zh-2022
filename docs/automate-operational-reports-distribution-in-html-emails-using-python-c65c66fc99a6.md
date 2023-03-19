@@ -76,7 +76,7 @@
 
 > 如果您正在寻找运营管理的应用示例，请观看这个短片
 
-[](http://samirsaci.com)  
+<http://samirsaci.com>  
 
 # 解决办法
 
@@ -187,4 +187,4 @@ HTML 文件的结构—(图片由作者提供)
 
 *如果你对数据分析和供应链感兴趣，可以看看我的网站*
 
-*[](https://samirsaci.com) *
+*<https://samirsaci.com> *

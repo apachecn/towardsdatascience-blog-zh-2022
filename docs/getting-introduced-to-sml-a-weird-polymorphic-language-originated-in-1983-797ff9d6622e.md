@@ -18,11 +18,11 @@
 
 多态只是一个书呆子气的词，意思是我们正在基于类型改变事物。在大多数例子中，这是函数调用。更简单地说，我们的方法附加在我们的类型上。我遇到的第一种利用这种编程概念的语言是 Julia 编程语言。如果你今天看一下我的博客，你可能会发现上面有很多关于朱莉娅的内容，而且很多时候我都在写朱莉娅。虽然 Julia 不仅仅有多态和多重分派，但这是 Julia 的一个重要部分，而且该语言的范例围绕着多重分派的使用。如果您想了解更多，我将在下面的文章中详细介绍 Julia 中多重分派的伟大之处:
 
-[](/how-julia-perfected-multiple-dispatch-16675db772c2)  
+</how-julia-perfected-multiple-dispatch-16675db772c2>  
 
 也就是说，我爱上了朱莉娅，因为她身上所有的优点。在许多方面，朱莉娅在精神上有点像曼梯·里的继承者。ML 最初是通过多分派概念实现参数多态性的，在认识到它对计算世界的贡献后，我想拜访一下这种我最喜欢的语言的精神继承者。这正是我今天要做的，同时将结果与 Julia 进行比较，也许是我所经历过的其他种类的语言。最后一件事，我为向自己介绍这种令人敬畏的语言而写的所有代码都可以在我在 Github 上的 Random_Code 库中找到，这里有一个链接:
 
-[](https://github.com/emmettgb/Random_Code/blob/main/tryingsml/src/trying.sml)  
+<https://github.com/emmettgb/Random_Code/blob/main/tryingsml/src/trying.sml>  
 
 # 第一部分:建立 SML
 

@@ -325,11 +325,11 @@ with table1 as (
 
 不确定接下来要读什么？我为你挑选了另一篇文章:
 
-[](/all-machine-learning-algorithms-you-should-know-in-2022-db5b4ccdf32f)  
+</all-machine-learning-algorithms-you-should-know-in-2022-db5b4ccdf32f>  
 
 **还有一个:**
 
-[](/the-10-best-data-visualizations-of-2021-fec4c5cf6cdb)  
+</the-10-best-data-visualizations-of-2021-fec4c5cf6cdb>  
 
 # -特伦斯·申
 

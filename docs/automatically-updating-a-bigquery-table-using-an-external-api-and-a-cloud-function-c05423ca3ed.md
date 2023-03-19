@@ -273,4 +273,4 @@ Project selection on GCP — Image from Author
 
 请不要犹豫，浏览我在 Medium 上的其他文章:
 
-[](https://pl-bescond.medium.com/pierre-louis-besconds-articles-on-medium-f6632a6895ad) 
+<https://pl-bescond.medium.com/pierre-louis-besconds-articles-on-medium-f6632a6895ad> 

@@ -269,6 +269,6 @@ sqlite3 模块为实践 SQL 提供了一个易于使用的环境，这对于在�
 
 不必安装任何额外的工具或数据库引擎，这使得使用 sqlite3 更加令人鼓舞。此外，将查询结果保存到 Pandas 数据框架中只需要一行代码。我认为这是一个很棒的特性，因为 Pandas 是使用最广泛的数据操作和分析工具。
 
-*你可以成为* [*媒介会员*](https://sonery.medium.com/membership) *解锁我的全部写作权限，外加其余媒介。如果你已经是了，别忘了订阅*[](https://sonery.medium.com/subscribe)**如果你想在我发表新文章时收到电子邮件。**
+*你可以成为* [*媒介会员*](https://sonery.medium.com/membership) *解锁我的全部写作权限，外加其余媒介。如果你已经是了，别忘了订阅*<https://sonery.medium.com/subscribe>**如果你想在我发表新文章时收到电子邮件。**
 
 *感谢您的阅读。如果您有任何反馈，请告诉我。*

@@ -145,8 +145,8 @@ round(mean((test**$**Fertility **-** y_bag)**^**2), 2)
 
 如果你从这篇文章中发现了任何价值，并且还不是一个媒体会员，如果你使用下面的链接注册会员，这对我和这个平台上的其他作者来说意义重大。它鼓励我们继续推出像这样的高质量和信息丰富的内容——提前感谢您！
 
-[](https://chongjason.medium.com/membership)  
+<https://chongjason.medium.com/membership>  
 
 不知道接下来要读什么？这里有一些建议。
 
-[](/battle-of-the-ensemble-random-forest-vs-gradient-boosting-6fbfed14cb7)  [](/what-does-the-career-progression-look-like-for-a-data-scientist-70bdd27f3fab)  [](/feature-selection-dimensionality-reduction-techniques-to-improve-model-accuracy-d9cb3e008624) 
+</battle-of-the-ensemble-random-forest-vs-gradient-boosting-6fbfed14cb7>  </what-does-the-career-progression-look-like-for-a-data-scientist-70bdd27f3fab>  </feature-selection-dimensionality-reduction-techniques-to-improve-model-accuracy-d9cb3e008624> 

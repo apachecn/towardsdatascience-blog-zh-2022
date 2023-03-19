@@ -20,7 +20,7 @@
 
 在之前的文章中，我们已经建立了一个基于**连续审查库存策略的模拟模型，**假设需求的**正态分布**。
 
-[](https://www.samirsaci.com/inventory-management-for-retail-stochastic-demand-2/)  
+<https://www.samirsaci.com/inventory-management-for-retail-stochastic-demand-2/>  
 
 然而，当你处理**一个可能有**不同补货周期长度**的大型项目组合**时，这种政策可能**低效**。
 
@@ -125,7 +125,7 @@ N(2000，50)的持续审查政策
 
 我们将利用**定期审查**来制定补货政策。
 
-[](http://samirsaci.com)  
+<http://samirsaci.com>  
 
 # 二。定期审查政策:订单逐级(R，S)
 
@@ -162,7 +162,7 @@ N(2000，50)的持续审查政策
 
 **代号**
 
-[](http://samirsaci.com)  
+<http://samirsaci.com>  
 
 # 三。补充政策示例
 
@@ -202,6 +202,6 @@ k = 1
 
 如果你对数据分析和供应链感兴趣，可以看看我的网站
 
-[](https://samirsaci.com)  
+<https://samirsaci.com>  
 
 [1] —供应链科学，华莱士·j·霍普

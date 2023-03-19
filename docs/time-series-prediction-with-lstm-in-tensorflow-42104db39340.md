@@ -210,6 +210,6 @@ MAE 和 loss 绘制了。图片作者。
 
 我将收到你投资的一部分，你将能够以无缝的方式访问 Medium 的大量数据科学文章。
 
-[](https://medium.com/@theDrewDag/membership)  
+<https://medium.com/@theDrewDag/membership>  
 
 感谢您的关注，很快再见！👋

@@ -16,7 +16,7 @@
 
 # 波斯特吉斯
 
-[](https://postgis.net/)  
+<https://postgis.net/>  
 
 [PostGIS](https://postgis.net/) 是 [PostgreSQL](https://postgresql.org/) 对象关系数据库的空间数据库扩展器。它增加了对地理对象的支持，允许在 SQL 中运行位置查询。
 
@@ -196,7 +196,7 @@ SELECT **ST_Simplify**(geom,<tolerance>)
 
  [## 匀称的文档
 
-shapely.readthedocs.io](https://shapely.readthedocs.io/en/stable/#) [](https://geopandas.org/en/stable/)  
+shapely.readthedocs.io](https://shapely.readthedocs.io/en/stable/#) <https://geopandas.org/en/stable/>  
 
 # 收场白
 

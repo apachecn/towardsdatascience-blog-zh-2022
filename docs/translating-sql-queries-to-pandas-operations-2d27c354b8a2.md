@@ -168,4 +168,4 @@ Pandas 记录分组语法(作者图片)
 
 如果你喜欢读这篇文章，并且学到了一些新的东西，我相信你也会喜欢我的其他文章，如下所列:
 
-[](/20-of-pandas-functions-that-data-scientists-use-80-of-the-time-a4ff1b694707)  [](/why-i-stopped-dumping-dataframes-to-a-csv-and-why-you-should-too-c0954c410f8f)  [](/pandas-exercise-for-data-scientists-part-1-b601a97ee091) 
+</20-of-pandas-functions-that-data-scientists-use-80-of-the-time-a4ff1b694707>  </why-i-stopped-dumping-dataframes-to-a-csv-and-why-you-should-too-c0954c410f8f>  </pandas-exercise-for-data-scientists-part-1-b601a97ee091> 

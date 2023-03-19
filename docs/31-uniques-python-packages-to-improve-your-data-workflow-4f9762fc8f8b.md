@@ -300,7 +300,7 @@ sp.posthoc_ttest(df, val_col='SepalWidth', group_col='Species', p_adjust='holm')
 
 使用 scikit-posthoc，我们简化了事后检验的成对分析过程，并获得了 P 值。如果你想了解更多的事后测试，你可以在我下面的另一篇文章中读到更多。
 
-[](/multiple-hypothesis-testing-correction-for-data-scientist-46d3a3d1611d)  
+</multiple-hypothesis-testing-correction-for-data-scientist-46d3a3d1611d>  
 
 ## 10.youtube_dl
 

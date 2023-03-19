@@ -4,7 +4,7 @@
 
 ## 医疗保健中的人工智能第三部分
 
-**作者** [](https://sylwia-majchrowska.medium.com/)[**桑德拉·卡拉斯科**](https://medium.com/@sandra.carrasco) **和** [**西尔维亚·马奇罗斯卡**](https://sylwia-majchrowska.medium.com/) **。**
+**作者** <https://sylwia-majchrowska.medium.com/>[**桑德拉·卡拉斯科**](https://medium.com/@sandra.carrasco) **和** [**西尔维亚·马奇罗斯卡**](https://sylwia-majchrowska.medium.com/) **。**
 
 ![](img/1855f3a5f5b146329ff6cd610fef6b9c.png)
 
@@ -153,7 +153,7 @@ PPL 的目的是建立从潜在空间到图像空间的映射是条件良好的�
 
 为了重现所描述的研究，我们鼓励您查看我们的 github 资源库，并在提供的自述文件中阅读更多关于我们研究的内容。
 
-[](https://github.com/aidotse/stylegan2-ada-pytorch)  
+<https://github.com/aidotse/stylegan2-ada-pytorch>  
 
 在另一篇[文章](https://medium.com/p/157301b51c0f)中，我们展示了如何使用 SIIM-ISIC 2020 数据集和 StyleGAN2 为皮肤损伤的合成图像生成准备数据。
 

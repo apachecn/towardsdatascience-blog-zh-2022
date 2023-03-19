@@ -8,7 +8,7 @@
 
 Python decorator 是帮助我们高效编码的非常有用的工具。正如我在上一篇文章中提到的，高效编码是我成为更好的数据科学家所遵循的原则之一:
 
-[](/seven-principals-i-follow-to-be-a-better-data-scientist-25a547d6acfc)  
+</seven-principals-i-follow-to-be-a-better-data-scientist-25a547d6acfc>  
 
 在本文中，我想揭示 Python decorators 的用例，并讨论它们如何对您的日常编程任务有所帮助。
 
@@ -98,16 +98,16 @@ def ensure_ceiling_cache(func):
 
 还有我的文章如果感兴趣的话:
 
-[](https://zzhu17.medium.com/my-blog-posts-gallery-ac6e01fe5cc3)  
+<https://zzhu17.medium.com/my-blog-posts-gallery-ac6e01fe5cc3>  
 
 订阅我的电子邮件列表:
 
-[](https://zzhu17.medium.com/subscribe)  
+<https://zzhu17.medium.com/subscribe>  
 
 注册成为中级会员:
 
-[](https://zzhu17.medium.com/membership)  
+<https://zzhu17.medium.com/membership>  
 
 或者在 YouTube 上关注我:
 
-[](https://youtube.com/channel/UCMs6go1pvY5OOy1DXVtMo5A) 
+<https://youtube.com/channel/UCMs6go1pvY5OOy1DXVtMo5A> 

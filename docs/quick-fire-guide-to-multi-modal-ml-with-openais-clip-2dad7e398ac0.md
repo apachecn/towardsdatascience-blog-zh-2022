@@ -104,4 +104,4 @@ CLIP 是一个惊人的模型，可以以任何顺序或组合应用于语言图
 
 感谢阅读！
 
-[](https://www.pinecone.io/learn/nlp/)  [](https://www.pinecone.io/learn/image-search/) 
+<https://www.pinecone.io/learn/nlp/>  <https://www.pinecone.io/learn/image-search/> 

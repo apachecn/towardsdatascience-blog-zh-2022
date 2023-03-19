@@ -270,7 +270,7 @@ val recommendU = model.recommendUsers(product=inputMovieID, num=10)
 
 Github 回购:[https://github.com/haocai1992/MovieRecommender](https://github.com/haocai1992/MovieRecommender)
 
-[](https://github.com/haocai1992/MovieRecommender)  
+<https://github.com/haocai1992/MovieRecommender>  
 
 # 9.引文
 

@@ -278,4 +278,4 @@ panda  :  0.055552367
 
 ***如果你已经花光了这个月的学习预算，下次请记得我。*** *我的个性化链接加入媒介:*
 
-[](https://solclover.com/membership) 
+<https://solclover.com/membership> 

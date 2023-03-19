@@ -35,7 +35,7 @@ Photo by [愚木混株 cdd20](https://unsplash.com/@cdd20?utm_source=unsplash&ut
 
 如果你想了解更多关于 Python 中切片和索引的知识，你可以参考我以前的一篇文章。
 
-[](/mastering-indexing-and-slicing-in-python-443e23457125)  
+</mastering-indexing-and-slicing-in-python-443e23457125>  
 
 请注意，这种方法看起来更像 Pythonic，但是只有当您想要创建原始列表的副本，以便它包含逆序的元素时，才应该使用这种方法。
 
@@ -109,8 +109,8 @@ Photo by [愚木混株 cdd20](https://unsplash.com/@cdd20?utm_source=unsplash&ut
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership)  
+<https://gmyrianthous.medium.com/membership>  
 
 **相关文章你可能也喜欢**
 
-[](/diagrams-as-code-python-d9cbaa959ed5)  [](/setuptools-python-571e7d5500f2)  [](/augmented-assignments-python-caa4990811a0) 
+</diagrams-as-code-python-d9cbaa959ed5>  </setuptools-python-571e7d5500f2>  </augmented-assignments-python-caa4990811a0> 

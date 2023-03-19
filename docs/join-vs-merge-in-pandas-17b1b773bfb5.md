@@ -130,4 +130,4 @@ df1.merge(df2, left_on='ID', right_on='ID2', how= 'inner', )
 
 如果你喜欢这个内容，请关注我的博客。
 
-[](https://gustavorsantos.medium.com/) 
+<https://gustavorsantos.medium.com/> 

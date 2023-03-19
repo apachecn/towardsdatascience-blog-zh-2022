@@ -20,7 +20,7 @@
 
 为了验证，我们将每章的情感立场与使用 TF-IDF 算法提取的摘要关键词进行比较。这将在下面描述，并被发现可靠地代表了我之前的作品所展示的弗兰肯斯坦的叙事:
 
-[](/using-tf-idf-to-form-descriptive-chapter-summaries-via-keyword-extraction-4e6fd857d190)  
+</using-tf-idf-to-form-descriptive-chapter-summaries-via-keyword-extraction-4e6fd857d190>  
 
 ## 内容
 
@@ -170,6 +170,6 @@ import text2emotion as teemotion = te.get_emotion(chapter)
 
 ## 额外资源
 
-[](https://github.com/wolfiex/SentimentAnalysis-Frankenstein) [## GitHub-wolf iex/sentiment analysis-Frankenstein:比较玛丽的情感过山车…
+<https://github.com/wolfiex/SentimentAnalysis-Frankenstein> [## GitHub-wolf iex/sentiment analysis-Frankenstein:比较玛丽的情感过山车…
 
 github.com](https://github.com/wolfiex/SentimentAnalysis-Frankenstein)

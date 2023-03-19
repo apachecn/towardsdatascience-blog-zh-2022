@@ -93,7 +93,7 @@ Data 8 的一个关键特征是，它的核心理念对一些人来说是有希�
 
 **想擅长 Python？** [**在这里**](https://witty-speaker-6901.ck.page/0977670a91) **获得独家、免费获取我简单易懂的指南。想在介质上无限阅读故事？用我下面的推荐链接注册！**
 
-[](https://murtaza5152-ali.medium.com/?source=entity_driven_subscription-607fa603b7ce---------------------------------------)  
+<https://murtaza5152-ali.medium.com/?source=entity_driven_subscription-607fa603b7ce--------------------------------------->  
 
 *我叫 Murtaza Ali，是华盛顿大学研究人机交互的博士生。我喜欢写关于教育、编程、生活以及偶尔的随想。*
 

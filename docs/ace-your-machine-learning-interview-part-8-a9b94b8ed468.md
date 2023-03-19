@@ -26,7 +26,7 @@
 
 今天，我们通过特别参考**自适应增强或 AdaBoost** 来更详细地讨论一种称为 Boosting 的集成方法。你可能以前听说过这种算法，例如，它经常被用来赢得 Kaggle 比赛。
 
-AdaBoost 的基本思想最早是在罗伯特·e·沙皮雷的论文[](http://rob.schapire.net/papers/strengthofweak.pdf)*中陈述的。*
+AdaBoost 的基本思想最早是在罗伯特·e·沙皮雷的论文<http://rob.schapire.net/papers/strengthofweak.pdf>*中陈述的。*
 
 *这个想法是以一种组合的方式使用各种 ML 算法，这些算法被称为弱学习器，因为它们本身不是很好，它们只能比随机猜测好一点。通过依次使用这些弱学习器，可以获得非常强的结果。*
 

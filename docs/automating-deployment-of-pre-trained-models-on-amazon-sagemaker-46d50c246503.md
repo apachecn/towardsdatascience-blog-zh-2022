@@ -134,7 +134,7 @@ tf_model.deploy_to_sagemaker()
 
 ## 结论
 
-[](https://github.com/aws-samples/sagemaker-migration-toolkit/blob/main/examples/resnet-sm-toolkit.ipynb)  
+<https://github.com/aws-samples/sagemaker-migration-toolkit/blob/main/examples/resnet-sm-toolkit.ipynb>  
 
 您可以在上面的链接中找到这个例子的代码。如果您在使用 API 或您想要请求的任何模型时有任何问题，请在 [Github](https://github.com/aws-samples/sagemaker-migration-toolkit) 上添加 PR 或问题。一如既往，我希望这篇文章是一个有用的指南，尤其是对那些刚接触 SageMaker 上的模型部署的人。敬请关注更多信息，感谢所有反馈。
 

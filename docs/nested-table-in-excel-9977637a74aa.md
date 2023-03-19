@@ -32,7 +32,7 @@
 
 关于 JSON 和无模式的更全面的主题可以在 MongoDB 的这个页面上找到。它是无模式的 NoSQL 数据库软件，采用 JSON 格式作为数据结构。本节将简要介绍内容。
 
-[](https://www.mongodb.com/unstructured-data/schemaless)  
+<https://www.mongodb.com/unstructured-data/schemaless>  
 
 无模式意味着我们不是用表而是用 JSON 格式来组织数据。CSV 格式是表数据结构的一个示例，如下图所示:
 

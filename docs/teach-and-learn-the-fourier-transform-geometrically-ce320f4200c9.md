@@ -70,4 +70,4 @@
 
 感谢您抽出时间阅读！如果您对完整的源代码感兴趣，请查看它！
 
-[](https://github.com/peterbbryan/fourier-sketcher) 
+<https://github.com/peterbbryan/fourier-sketcher> 

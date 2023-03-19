@@ -32,7 +32,7 @@
 
 如果你想更多地了解人工神经网络是如何工作的，我建议你阅读下面的文章。
 
-[](https://www.ibm.com/cloud/learn/neural-networks)  
+<https://www.ibm.com/cloud/learn/neural-networks>  
 
 # 使用 Scikit-Learn 在 Python 中实现人工神经网络
 
@@ -56,7 +56,7 @@
 
 **本教程中使用的数据是 Equinor 在 2018 年发布的 Volve 数据集的子集。数据集的全部细节，包括许可证可以在下面的链接中找到。**
 
-**[](https://www.equinor.com/energy/volve-data-sharing)  
+**<https://www.equinor.com/energy/volve-data-sharing>  
 
 Volve 数据许可证基于 CC BY 4.0 许可证。许可协议的全部细节可以在这里找到:
 
@@ -86,7 +86,7 @@ Volve 数据许可证基于 CC BY 4.0 许可证。许可协议的全部细节可
 
 有关识别和处理缺失数据的更多信息，您应该阅读以下文章:
 
-[](/identifying-and-handling-missing-well-log-data-prior-to-machine-learning-5fa1a3d0eb73)  
+</identifying-and-handling-missing-well-log-data-prior-to-machine-learning-5fa1a3d0eb73>  
 
 对于本教程，我们将删除包含缺失值的行。这被称为列表式删除，是处理缺失值的最快方法。然而，这样做减少了可用数据集的大小，并且在进行机器学习模型之前，应该完全理解丢失值的原因和程度。
 
@@ -237,7 +237,7 @@ test_df.describe()
 
 **如果您想了解该模型与随机森林模型的结果相比如何，请查看下面的文章:**
 
-**[](/random-forest-regression-for-continuous-well-log-prediction-61d3ec1c683a)  
+**</random-forest-regression-for-continuous-well-log-prediction-61d3ec1c683a>  
 
 # 摘要
 

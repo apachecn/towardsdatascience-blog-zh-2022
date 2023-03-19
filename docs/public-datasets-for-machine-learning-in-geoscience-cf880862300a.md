@@ -56,7 +56,7 @@ NLOG 网站上显示如何访问测井数据的示例。作者捕获的图像。
 
 请点击下面的链接查看:
 
-[](https://www.nlog.nl/)  
+<https://www.nlog.nl/>  
 
 # XEEK —强制机器学习预测岩性
 
@@ -74,7 +74,7 @@ XEEK Force 2020 机器学习竞赛。作者捕获的图像。
 
 或者您可以通过以下链接直接访问 github 资源库:
 
-[](https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition)  
+<https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition>  
 
 # 国家海洋石油信息管理系统
 
@@ -88,7 +88,7 @@ XEEK Force 2020 机器学习竞赛。作者捕获的图像。
 
 您可以通过单击下面的链接来访问数据库:
 
-[](http://www.ga.gov.au/nopims)  
+<http://www.ga.gov.au/nopims>  
 
 # COASTA 模型——碳酸盐测井和地震数据
 
@@ -96,7 +96,7 @@ COSTA 模型数据库最近由作者(Costa Gomes J、Geiger S 和 Arnold D)和 H
 
 由于很难找到高质量的碳酸盐数据，这个数据集非常值得点击下面的链接查看。
 
-[](https://researchportal.hw.ac.uk/en/datasets/costa-model-hierarchical-carbonate-reservoir-benchmarking-case-st)  
+<https://researchportal.hw.ac.uk/en/datasets/costa-model-hierarchical-carbonate-reservoir-benchmarking-case-st>  
 
 # 堪萨斯地质调查局
 
@@ -122,7 +122,7 @@ COSTA 模型数据库最近由作者(Costa Gomes J、Geiger S 和 Arnold D)和 H
 
 您可以通过单击下面的链接来访问它:
 
-[](https://zenodo.org/record/4419060#.YiNGFO7P3kp)  
+<https://zenodo.org/record/4419060#.YiNGFO7P3kp>  
 
 # 格罗宁根气田海燕地质模型
 
@@ -160,7 +160,7 @@ nederlandse Aardolie Maatschappij(NAM)开发并发布了荷兰格罗宁根气田
 
 点击下面的链接查看:
 
-[](https://www.iodp.org/resources/access-data-and-samples)  
+<https://www.iodp.org/resources/access-data-and-samples>  
 
 # 勘探地球物理学家协会(SEG)维基开放数据
 
@@ -172,7 +172,7 @@ SEG Wiki 包含地球物理数据集的链接。作者捕获的图像。
 
 您可以通过以下链接访问维基:
 
-[](https://wiki.seg.org/wiki/Open_data)  
+<https://wiki.seg.org/wiki/Open_data>  
 
 # *感谢阅读！*
 
@@ -184,4 +184,4 @@ SEG Wiki 包含地球物理数据集的链接。作者捕获的图像。
 
 *如果你喜欢阅读这些教程，并且想支持我这个作家和创作者，那么请考虑报名成为一名 Medium 会员。一个月 5 美元，你就可以无限制地阅读数千篇各种主题的文章。如果您使用* [***我的链接***](https://andymcdonaldgeo.medium.com/membership)**注册，我将为您赚取一小笔佣金，无需额外费用！**
 
-*[](https://andymcdonaldgeo.medium.com/membership) *
+*<https://andymcdonaldgeo.medium.com/membership> *

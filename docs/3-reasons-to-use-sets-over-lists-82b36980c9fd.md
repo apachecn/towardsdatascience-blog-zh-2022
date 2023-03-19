@@ -54,4 +54,4 @@ Heather McKean 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=
 
 感谢您阅读我的文章。如果你喜欢我的内容，*请考虑关注我*。此外，欢迎所有反馈。我总是渴望学习新的或更好的做事方法。请随时留下您的评论或联系我 katyhagerty19@gmail.com。
 
-[](https://medium.com/@katyhagerty19/membership) 
+<https://medium.com/@katyhagerty19/membership> 

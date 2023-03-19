@@ -275,15 +275,15 @@ Label Model Accuracy:     72%
 
 随意发挥，并在这里叉这篇文章的源代码:
 
-[](https://github.com/khuyentran1401/Data-science/tree/master/feature_engineering/snorkel_example)  
+<https://github.com/khuyentran1401/Data-science/tree/master/feature_engineering/snorkel_example>  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的算法和数据科学工具。你可以在 LinkedIn 和 Twitter 上与我联系。
 
 如果你想查看我写的所有文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/similarity-encoding-for-dirty-categories-using-dirty-cat-d9f0b581a552) [## 使用 dirty_cat 对脏类别进行相似性编码
+</similarity-encoding-for-dirty-categories-using-dirty-cat-d9f0b581a552> [## 使用 dirty_cat 对脏类别进行相似性编码
 
-towardsdatascience.com](/similarity-encoding-for-dirty-categories-using-dirty-cat-d9f0b581a552) [](/kats-a-generalizable-framework-to-analyze-time-series-data-in-python-3c8d21efe057)  [](/supercharge-your-python-string-with-textblob-2d9c08a8da05)  [](/sentiment-analysis-of-linkedin-messages-3bb152307f84)  
+towardsdatascience.com](/similarity-encoding-for-dirty-categories-using-dirty-cat-d9f0b581a552) </kats-a-generalizable-framework-to-analyze-time-series-data-in-python-3c8d21efe057>  </supercharge-your-python-string-with-textblob-2d9c08a8da05>  </sentiment-analysis-of-linkedin-messages-3bb152307f84>  
 
 # 参考
 

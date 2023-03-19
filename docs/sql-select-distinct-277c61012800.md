@@ -92,8 +92,8 @@ SQL 中带有 DISTINCT ON 子句的示例—来源:作者
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership)  
+<https://gmyrianthous.medium.com/membership>  
 
 **相关文章你可能也喜欢**
 
-[](/ddl-dml-e802a25076c6)  [](/star-schema-924b995a9bdf)  [](/standard-vs-legacy-sql-bigquery-6d01fa3046a9) 
+</ddl-dml-e802a25076c6>  </star-schema-924b995a9bdf>  </standard-vs-legacy-sql-bigquery-6d01fa3046a9> 

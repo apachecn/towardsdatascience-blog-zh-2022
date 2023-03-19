@@ -350,4 +350,4 @@ ok   github.com/sausheong/gocookbook/graph 4.109s
 
 这里的所有代码都可以在这个库中找到。
 
-[](https://github.com/sausheong/mst) 
+<https://github.com/sausheong/mst> 

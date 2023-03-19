@@ -62,7 +62,7 @@
 
 # **正规化**
 
-> *正则化是我们对学习算法进行的任何修改，旨在减少其泛化误差，而不是训练误差。*[](https://www.deeplearningbook.org/contents/regularization.html)
+> *正则化是我们对学习算法进行的任何修改，旨在减少其泛化误差，而不是训练误差。*<https://www.deeplearningbook.org/contents/regularization.html>
 
 ## ***重量衰减***
 

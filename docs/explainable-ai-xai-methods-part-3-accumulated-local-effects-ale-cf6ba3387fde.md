@@ -92,7 +92,7 @@ ALE 图可以用 R 和 Python 实现。
 
 这里有一些很好的文档和博客帖子，它们使用了上面的包来实现 ALE 图，所以请查看它们！
 
-[](https://github.com/blent-ai/ALEPython/blob/dev/examples/regression_iris.ipynb)  [](https://www.analyticsvidhya.com/blog/2020/10/accumulated-local-effects-ale-feature-effects-global-interpretability/)  
+<https://github.com/blent-ai/ALEPython/blob/dev/examples/regression_iris.ipynb>  <https://www.analyticsvidhya.com/blog/2020/10/accumulated-local-effects-ale-feature-effects-global-interpretability/>  
 
 ALIBI 包文档
 

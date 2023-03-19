@@ -95,7 +95,7 @@ ROC-AUC 有一个很好的概率解释(在[2]中提到了额外的等价解释�
 
 要重现本文的结果，请参见下面的知识库。您也可以使用参数，并检查它们如何影响结果。
 
-[](https://github.com/1danielr/rocauc-auprc)  
+<https://github.com/1danielr/rocauc-auprc>  
 
 ## 结论
 

@@ -124,7 +124,7 @@
 
 我们通过指定路由的端点，使用最简单的方法来定义路由。我改编了下面这篇优秀文章中的方法和代码。
 
-[](https://max-coding.medium.com/osmnx-part-1-loading-data-from-open-street-maps-and-finding-shortest-route-between-two-points-5bb073b0a27d)  
+<https://max-coding.medium.com/osmnx-part-1-loading-data-from-open-street-maps-and-finding-shortest-route-between-two-points-5bb073b0a27d>  
 
 下面图 9 中的代码说明了从其端点获取路线的过程。我们首先定义地址，将它们地理编码到地理空间位置，将它们映射到最近的图节点，最后获得路线。产生的 route 对象是一个按顺序排列的图节点列表。通过使用顺序节点对查询图形对象，我们很容易得到连接边。
 

@@ -82,13 +82,13 @@ CI/CD 管道的设计使得如果新代码出现问题，我们可以很容易�
 
 您可以使用的模型类型也是可以调整的。这可能会影响您自动化模型开发过程的能力。使用 XGBoost 和 random forests 这样的模型更容易做到这一点。在这里，您可以通过调整超参数来自动化模型选择过程。在保险业或银行业，你可能需要使用回归。为了建立一个好的回归模型，你需要选择 8 到 10 个不相关特征的最佳集合。这个过程更难自动化，我们将在下面的文章中详细讨论。
 
-[](/characteristics-of-a-good-feature-4f1ac7a90a42)  
+</characteristics-of-a-good-feature-4f1ac7a90a42>  
 
 对[可解释性](/interpretability-in-machine-learning-ab0cf2e66e1)的需求通常是模型以这种方式被管理的原因。如果你不彻底解释你的模型，它们可能会产生意想不到的结果。同样，如果你不进行彻底的[算法公平性](/what-is-algorithm-fairness-3182e161cf9f)分析，他们可能会产生有偏见的结果。解释模型和公平性总是需要一些人工干预。对于具有高影响的模型，自动化这些过程的好处被风险超过了。
 
 我希望这篇文章对你有帮助！你可以成为我的 [**推荐会员**](https://conorosullyds.medium.com/membership) **来支持我。你可以访问 Medium 上的所有文章，我可以得到你的部分费用。**
 
-[](https://conorosullyds.medium.com/membership)  
+<https://conorosullyds.medium.com/membership>  
 
 [推特](https://twitter.com/conorosullyDS) | [YouTube](https://www.youtube.com/channel/UChsoWqJbEjBwrn00Zvghi4w) | [时事通讯](https://mailchi.mp/aa82a5ce1dc0/signup) —注册免费参加 [Python SHAP 课程](https://adataodyssey.com/courses/shap-with-python/)
 

@@ -284,7 +284,7 @@ test_ds = test_ds.map(one_hot_encode)***
 
 ***说明水平翻转增强的影响|作者图片***
 
-***[](/top-python-libraries-for-image-augmentation-in-computer-vision-2566bed0533e) *** 
+***</top-python-libraries-for-image-augmentation-in-computer-vision-2566bed0533e> *** 
 
 ## ***(四)批处理和预取***
 
@@ -596,4 +596,4 @@ dict(zip(model.metrics_names, result_2))***
 
 ***欢迎您**加入我的数据科学学习之旅！**点击此[媒体](https://kennethleungty.medium.com/)页面，查看我的 [GitHub](https://github.com/kennethleungty) ，了解更多令人兴奋的实用数据科学内容。同时，享受在 TensorFlow 中实现图像分类迁移学习的乐趣！***
 
-***[](/pytorch-ignite-classifying-tiny-imagenet-with-efficientnet-e5b1768e5e8f)  [](/micro-macro-weighted-averages-of-f1-score-clearly-explained-b603420b292f)  [](/how-to-easily-draw-neural-network-architecture-diagrams-a6b6138ed875) ***
+***</pytorch-ignite-classifying-tiny-imagenet-with-efficientnet-e5b1768e5e8f>  </micro-macro-weighted-averages-of-f1-score-clearly-explained-b603420b292f>  </how-to-easily-draw-neural-network-architecture-diagrams-a6b6138ed875> ***

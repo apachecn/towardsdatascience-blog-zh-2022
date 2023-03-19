@@ -86,6 +86,6 @@ uuid=1.30
 
 如果你喜欢这篇文章，你可能也会喜欢我下面写的其他文章。
 
-[](/recommendation-systems-explained-a42fc60591ed)  [](/bayesian-a-b-testing-explained-344a6df88c1a) [## 贝叶斯 A/B 测试解释
+</recommendation-systems-explained-a42fc60591ed>  </bayesian-a-b-testing-explained-344a6df88c1a> [## 贝叶斯 A/B 测试解释
 
-towardsdatascience.com](/bayesian-a-b-testing-explained-344a6df88c1a) [](/word2vec-explained-49c52b4ccb71)  [](https://pub.towardsai.net/dynamic-time-warping-explained-fbb24c1e079b)  [](/mining-modelling-character-networks-part-i-e37e4878c467)  [](/random-walks-with-restart-explained-77c3fe216bca) 
+towardsdatascience.com](/bayesian-a-b-testing-explained-344a6df88c1a) </word2vec-explained-49c52b4ccb71>  <https://pub.towardsai.net/dynamic-time-warping-explained-fbb24c1e079b>  </mining-modelling-character-networks-part-i-e37e4878c467>  </random-walks-with-restart-explained-77c3fe216bca> 

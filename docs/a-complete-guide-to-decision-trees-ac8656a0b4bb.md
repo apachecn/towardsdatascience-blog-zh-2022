@@ -112,8 +112,8 @@
 *   决策树非常适合生动地表现决策，并使其可以解释。
 *   然而，在训练时，为了获得有意义的模型，必须注意许多细节。
 
-*如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，请不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
+*如果你喜欢我的作品，请在这里订阅*<https://medium.com/subscribe/@niklas_lang>**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，请不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
 
-*[](/learn-coding-13-free-sites-to-help-you-do-it-9b2c1b92e573)  [](/introduction-to-random-forest-algorithm-fed4b8c8e848)  [](/understanding-mapreduce-with-the-help-of-harry-potter-5b0ae89cc88)  [](https://medium.com/@niklas_lang/membership)  
+*</learn-coding-13-free-sites-to-help-you-do-it-9b2c1b92e573>  </introduction-to-random-forest-algorithm-fed4b8c8e848>  </understanding-mapreduce-with-the-help-of-harry-potter-5b0ae89cc88>  <https://medium.com/@niklas_lang/membership>  
 
 *原载于 2022 年 1 月 5 日*[*https://database camp . de*](https://databasecamp.de/en/ml/decision-trees)*。**

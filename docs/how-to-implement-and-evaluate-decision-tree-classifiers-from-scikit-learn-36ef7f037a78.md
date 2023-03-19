@@ -14,7 +14,7 @@
 
 如果您错过了我们之前的任何研讨会，您可以在这里找到:
 
-[](/non-linear-regression-with-decision-trees-and-random-forest-afae406df27d)  [](/an-introduction-lasso-and-ridge-regression-using-scitkit-learn-d3427700679c)  [](/introduction-to-logistic-regression-predicting-diabetes-bc3a88f1e60e)  
+</non-linear-regression-with-decision-trees-and-random-forest-afae406df27d>  </an-introduction-lasso-and-ridge-regression-using-scitkit-learn-d3427700679c>  </introduction-to-logistic-regression-predicting-diabetes-bc3a88f1e60e>  
 
 ## 什么是决策树
 
@@ -185,8 +185,8 @@ insta gram:[https://www.instagram.com/ucl.datasci/](https://www.instagram.com/uc
 
 如果你想了解来自 UCL 数据科学协会和其他优秀作者的最新消息，请随时使用我下面的推荐代码注册 medium。
 
-[](https://philip-wilkinson.medium.com/membership)  
+<https://philip-wilkinson.medium.com/membership>  
 
 我的其他媒体文章可在以下网址找到:
 
-[](/git-and-github-basics-for-data-scientists-b9fd96f8a02a)  [](/easy-grouped-bar-charts-in-python-b6161cdd563d)  [](/an-introduction-to-object-oriented-programming-for-data-scientists-879106d90d89) 
+</git-and-github-basics-for-data-scientists-b9fd96f8a02a>  </easy-grouped-bar-charts-in-python-b6161cdd563d>  </an-introduction-to-object-oriented-programming-for-data-scientists-879106d90d89> 

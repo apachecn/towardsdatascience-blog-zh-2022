@@ -163,4 +163,4 @@ CNN 滤波器的可视化。图像由[可视化和理解卷积网络论文](http
 
 # 参考
 
-[](https://arxiv.org/abs/1311.2901)   
+<https://arxiv.org/abs/1311.2901>   

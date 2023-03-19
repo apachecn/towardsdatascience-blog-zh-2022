@@ -102,4 +102,4 @@
 
 Bánáthy，贝拉·h(1996 年)。在不断变化的世界中设计社会系统。斯普林格我们。第十五页，372。【https://link.springer.com/book/10.1007/978-1-4757-9981-1 号
 
-[](https://en.wikipedia.org/wiki/Double_Diamond_%28design_process_model%29)  [](https://www.designcouncil.org.uk/news-opinion/what-framework-innovation-design-councils-evolved-double-diamond)  [](https://www.techtarget.com/searchbusinessanalytics/feature/How-to-increase-the-success-rate-of-data-science-projects#:~:text=In%202016%2C%20Gartner%20estimated%20that,real%20number%20is%20around%2085%25) 
+<https://en.wikipedia.org/wiki/Double_Diamond_%28design_process_model%29>  <https://www.designcouncil.org.uk/news-opinion/what-framework-innovation-design-councils-evolved-double-diamond>  <https://www.techtarget.com/searchbusinessanalytics/feature/How-to-increase-the-success-rate-of-data-science-projects#:~:text=In%202016%2C%20Gartner%20estimated%20that,real%20number%20is%20around%2085%25> 

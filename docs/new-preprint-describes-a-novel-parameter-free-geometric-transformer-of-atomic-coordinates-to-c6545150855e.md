@@ -10,7 +10,7 @@
 
 现代人工智能最引人注目的应用之一可能是预测蛋白质结构，这始于大约 5-10 年前，并在 2020 年底和 2021 年出现了 AlphaFold 2。我在以前的文章中详细讨论了 AlphaFold 2:
 
-[](/google-colab-notebooks-are-already-running-deepminds-alphafold-v-2-92b4531ec127)  [](/alphafold-based-databases-and-fully-fledged-easy-to-use-alphafold-interfaces-poised-to-baf865c6d75e)  
+</google-colab-notebooks-are-already-running-deepminds-alphafold-v-2-92b4531ec127>  </alphafold-based-databases-and-fully-fledged-easy-to-use-alphafold-interfaces-poised-to-baf865c6d75e>  
 
 从事蛋白质结构预测的科学家首先对 AlphaFold 的影响感到负面情绪，因为它有点扰乱了他们自己的领域，实现了他们长期以来希望的目标。然而，在短暂的哀悼之后，他们接受并真正利用 AlphaFold 进行新的发现和开发新的工具，其中许多我已经讨论过了:
 
@@ -26,7 +26,7 @@
 
 要了解更多关于人工智能在蛋白质结构预测和结构生物学/结构生物信息学方面的未来路线，你可以查看我最近写的这篇文章:
 
-[](/whats-up-after-alphafold-on-ml-for-structural-biology-7bb9758925b8)  
+</whats-up-after-alphafold-on-ml-for-structural-biology-7bb9758925b8>  
 
 # 通过使用无参数几何变换器预测蛋白质将与什么相互作用
 
@@ -44,7 +44,7 @@
 
 让我提几个关于 PeSTo 工作原理的要点。有关更多详细信息，您可以参考预印本:
 
-[](https://www.biorxiv.org/content/10.1101/2022.05.09.491165v1.article-info)  
+<https://www.biorxiv.org/content/10.1101/2022.05.09.491165v1.article-info>  
 
 PeSTo 将蛋白质结构视为点原子云，通过成对距离和保证平移不变性的相对位移向量来表示几何结构。每个点原子仅使用其元素名称来描述，而不使用其他方法使用的数值参数，如半径或电荷。每个原子都通过几何转换器进行编码，该转换器通过标量和矢量状态以及从周围原子以递增的距离计算的距离来考虑其局部邻域。在查询时，该描述符通过网络传播，通过多头注意力操作产生特定于原子的输出。然后，两个额外的模块收集每个蛋白质残基的基于原子的输出，最终预测蛋白质的每个残基是否可能在界面上。
 
@@ -88,18 +88,18 @@ PeSTo 应用于分子动力学模拟非常有用，因为它可以自动检测�
 
 预印本:
 
-[](https://www.biorxiv.org/content/10.1101/2022.05.09.491165v1.article-info)  
+<https://www.biorxiv.org/content/10.1101/2022.05.09.491165v1.article-info>  
 
 一个连接我所有关于 AlphaFold 和蛋白质结构预测的文章的枢纽故事:
 
-[](https://lucianosphere.medium.com/guide-to-my-blog-articles-on-alphafold-39c10a7dad7f)  
+<https://lucianosphere.medium.com/guide-to-my-blog-articles-on-alphafold-39c10a7dad7f>  
 
 Deepmind 还致力于将人工智能应用于其他科学领域:
 
-[](/deepmind-strikes-back-now-tackling-quantum-mechanical-calculations-e1cae792e5d0)  
+</deepmind-strikes-back-now-tackling-quantum-mechanical-calculations-e1cae792e5d0>  
 
 一种预测蛋白质相互作用的方法，但通过表面的几何深度学习:
 
-[](https://www.nature.com/articles/s41592-019-0666-6)  
+<https://www.nature.com/articles/s41592-019-0666-6>  
 
 www.lucianoabriata.com*[***我写作并拍摄我广泛兴趣范围内的一切事物:自然、科学、技术、编程等等。***](https://www.lucianoabriata.com/) **[***成为媒介会员***](https://lucianosphere.medium.com/membership) *访问其所有故事(我免费获得小额收入的平台的附属链接)和* [***订阅获取我的新故事***](https://lucianosphere.medium.com/subscribe) ***通过电子邮件*** *。到* ***咨询关于小职位*** *查看我的* [***服务页面这里***](https://lucianoabriata.altervista.org/services/index.html) *。你可以* [***这里联系我***](https://lucianoabriata.altervista.org/office/contact.html) ***。******

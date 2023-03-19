@@ -68,8 +68,8 @@ SpaceX 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral
 
 如果你喜欢你所读的，并且还不是 medium 会员，请使用下面我的推荐链接注册 Medium，来支持我和这个平台上其他了不起的作家！提前感谢。
 
-[](https://philip-wilkinson.medium.com/membership)  
+<https://philip-wilkinson.medium.com/membership>  
 
 或者随意查看我在 Medium 上的其他文章:
 
-[](/how-i-landed-an-amazon-sde-internship-without-a-computer-science-degree-85596c480d4d)  [](/eight-data-structures-every-data-scientist-should-know-d178159df252)  [](/a-complete-data-science-curriculum-for-beginners-825a39915b54) 
+</how-i-landed-an-amazon-sde-internship-without-a-computer-science-degree-85596c480d4d>  </eight-data-structures-every-data-scientist-should-know-d178159df252>  </a-complete-data-science-curriculum-for-beginners-825a39915b54> 

@@ -12,7 +12,7 @@
 
 这篇文章的结构如下:首先，我将简要描述 PyTorch 时序转换器需要什么输入。然后，我将向您展示当您不知道解码器输入值时，如何使用模型进行推理。最后，我将指出所示方法的一些缺点。
 
-[](/how-to-make-a-pytorch-transformer-for-time-series-forecasting-69e073d4061e)  
+</how-to-make-a-pytorch-transformer-for-time-series-forecasting-69e073d4061e>  
 
 # 时序转换器模型需要什么输入？
 
@@ -30,7 +30,7 @@
 
 因此，如果`tgt`具有形状【72，批量大小，1】，这意味着`tgt`中序列的长度是 72，因此模型也将输出 72 的序列。
 
-[](/multi-step-time-series-forecasting-with-xgboost-65d6820bec39)  
+</multi-step-time-series-forecasting-with-xgboost-65d6820bec39>  
 
 # 如何使用时间序列转换器进行推理
 
@@ -72,7 +72,7 @@
 
 使用时序转换器运行推理的代码以及 PyTorch 转换器实现可以在以下报告中找到:
 
-[](https://github.com/KasperGroesLudvigsen/influenza_transformer)  
+<https://github.com/KasperGroesLudvigsen/influenza_transformer>  
 
 就是这样！我希望你喜欢这篇文章🤞
 

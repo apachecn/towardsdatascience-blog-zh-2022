@@ -79,6 +79,6 @@ PCA 的另一个应用是在聚类分析中，比如 k-means 聚类，我们需�
 *   对驱动因素分析的已知、当前和新的要求。载于:凯勒等人(编辑。):Marktforschung der Zukunft——门还是机器？，威斯巴登，2016 年，第 231–243 页。
 *   电子计算机在因素分析中的应用。载于:教育和心理测量，1960 年第 1 期，第 141-151 页。
 
-*如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
+*如果你喜欢我的作品，请在这里订阅*<https://medium.com/subscribe/@niklas_lang>**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
 
-*[](/learn-coding-13-free-sites-to-help-you-do-it-9b2c1b92e573)  [](/introduction-to-random-forest-algorithm-fed4b8c8e848)  [](/understanding-mapreduce-with-the-help-of-harry-potter-5b0ae89cc88) *
+*</learn-coding-13-free-sites-to-help-you-do-it-9b2c1b92e573>  </introduction-to-random-forest-algorithm-fed4b8c8e848>  </understanding-mapreduce-with-the-help-of-harry-potter-5b0ae89cc88> *

@@ -165,6 +165,6 @@ O 在数据科学和机器学习领域处理新数据的第一步通常是**标�
 
 **如果你喜欢这篇文章，并且觉得它内容丰富， ***请订阅，并查看我的其他文章，它们可能会说服你订阅:)*****
 
-**[](/300-times-faster-resolution-of-finite-difference-method-using-numpy-de28cdade4e1)  [](https://medium.com/analytics-vidhya/deep-dive-into-seaborn-meet-the-datasets-8d08755a320b)  [](/wrapping-numpys-arrays-971e015e14bb)  [](/interactive-plotting-the-well-know-rc-circuit-in-jupyter-d153c0e9d3a)  
+**</300-times-faster-resolution-of-finite-difference-method-using-numpy-de28cdade4e1>  <https://medium.com/analytics-vidhya/deep-dive-into-seaborn-meet-the-datasets-8d08755a320b>  </wrapping-numpys-arrays-971e015e14bb>  </interactive-plotting-the-well-know-rc-circuit-in-jupyter-d153c0e9d3a>  
 
 既然你一直往下读，这里有一个函数来白化你的数据，把它全部包装起来:**

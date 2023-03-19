@@ -145,12 +145,12 @@ R²: 0.424`
 
 *考虑申请正规化？一定不要犯这种常见的错误:*
 
-[](/avoid-this-pitfall-when-using-lasso-and-ridge-regression-f4f4948bfe70)  
+</avoid-this-pitfall-when-using-lasso-and-ridge-regression-f4f4948bfe70>  
 
 *对回归感兴趣？你可能也想阅读多项式回归:*
 
-[](/polynomial-regression-an-alternative-for-neural-networks-c4bd30fa6cf6)  
+</polynomial-regression-an-alternative-for-neural-networks-c4bd30fa6cf6>  
 
 # 参考
 
-  [](https://en.wikipedia.org/wiki/Lasso_%28statistics%29)    [](https://www.engati.com/glossary/ridge-regression)  [](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff#/media/File:Bias_and_variance_contributing_to_total_error.svg)  [](https://en.wikipedia.org/wiki/Linear_regression) 
+  <https://en.wikipedia.org/wiki/Lasso_%28statistics%29>    <https://www.engati.com/glossary/ridge-regression>  <https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff#/media/File:Bias_and_variance_contributing_to_total_error.svg>  <https://en.wikipedia.org/wiki/Linear_regression> 

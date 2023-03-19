@@ -16,7 +16,7 @@
 
 Docker 内容信任(DCT)使您能够验证您正在使用的图像的完整性以及该图像发布者的完整性。因此，DCT 充当反欺骗控制。
 
-[](https://medium.com/geekculture/the-docker-attack-surface-5184a36a23ca)  
+<https://medium.com/geekculture/the-docker-attack-surface-5184a36a23ca>  
 
 > [学习率](https://www.dimpo.me/newsletter?utm_source=medium&utm_medium=article&utm_campaign=docker-notary)是为那些对 AI 和 MLOps 的世界感到好奇的人准备的时事通讯。你会在每个月的第一个星期六收到我关于最新人工智能新闻和文章的更新和想法。在这里订阅！
 

@@ -164,7 +164,7 @@ Excel 公式可能有助于新手更快地理解箱线图计算
 
 调查数据的分布总是与异常值检测密切相关。因为这篇文章的主题不是发现异常值，所以我们不会详细讨论这个问题。你可能想读一下我的先知帖子，在那里我给出了一个例子，关于如何发现不寻常的销售数据点。
 
-[](/prophet-in-a-loop-a875516ef2f9)  ![](img/631c9817d1230e862daab39a169e2fd4.png)
+</prophet-in-a-loop-a875516ef2f9>  ![](img/631c9817d1230e862daab39a169e2fd4.png)
 
 蓝色阴影置信区间外的黑点可视为异常值。
 
@@ -204,7 +204,7 @@ SPC 不是控制收入的最直观的方法。我们的销售同事可能会问�
 
 非常感谢您的阅读！希望这篇文章对你有帮助。请随时在 [LinkedIn](https://de.linkedin.com/in/jesko-rehberg-40653883) 、 [Twitter](https://twitter.com/DAR_Analytics) 或[工作室](https://jesko-rehberg.medium.com/virtual-reality-vr-for-education-a532aa5b6272)与我联系。
 
-[](https://jesko-rehberg.medium.com/membership)  
+<https://jesko-rehberg.medium.com/membership>  
 
 你可以在我的 Github 资源库中找到完整的 [Jupyter 笔记本和 Excel 模板](https://github.com/DAR-DatenanalyseRehberg/SPC)。
 

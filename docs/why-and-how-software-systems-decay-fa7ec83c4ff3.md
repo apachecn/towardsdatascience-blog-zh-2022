@@ -98,7 +98,7 @@
 
 可以在 Github 页面上免费构建一个非常轻量级的文档系统，您可能会发现这篇文章很有帮助:
 
-[](https://itnext.io/create-compelling-documentation-with-github-pages-16e4149efe9e)  
+<https://itnext.io/create-compelling-documentation-with-github-pages-16e4149efe9e>  
 
 永远不要把你的需求管理系统(不管你是用吉拉还是别的什么)当成你的文档系统，问题不是存储文档的可靠工具——仅仅因为它描述了请求是什么，而不一定描述了最终的实现；-)
 

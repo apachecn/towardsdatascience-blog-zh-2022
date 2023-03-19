@@ -12,7 +12,7 @@
 
 在我之前的一篇文章中，我讨论过 [**置信区间**](https://en.wikipedia.org/wiki/Confidence_interval) **的想法。你可以在这里查看这个博客:**
 
-[](/confidence-intervals-simply-explained-58b0b11e985f)  
+</confidence-intervals-simply-explained-58b0b11e985f>  
 
 置信区间基本上是一种给估计参数分配不确定性的方法。置信区间是一种 [**频率主义者**](https://en.wikipedia.org/wiki/Frequentist_inference) 的方法，而 [**可信区间**](https://en.wikipedia.org/wiki/Credible_interval) 是类似的 [**贝叶斯**](https://en.wikipedia.org/wiki/Bayesian_statistics) 版本。
 
@@ -38,7 +38,7 @@
 
 为了更深入地理解后验分布和贝叶斯定理，请查看我以前的帖子:
 
-[](https://pub.towardsai.net/conditional-probability-and-bayes-theorem-simply-explained-788a6361f333)  [](/bayesian-updating-simply-explained-c2ed3e563588)  
+<https://pub.towardsai.net/conditional-probability-and-bayes-theorem-simply-explained-788a6361f333>  </bayesian-updating-simply-explained-c2ed3e563588>  
 
 # 例子
 
@@ -48,7 +48,7 @@
 
 在我之前的文章中，我用 Python 实现了贝叶斯更新。你可以在这里查看帖子:
 
-[](/bayesian-updating-in-python-8bbd0e7e30cc)  
+</bayesian-updating-in-python-8bbd0e7e30cc>  
 
 我解决的问题是:给定一些不同数字范围的骰子，我们随机选择一个骰子，然后掷几次。使用我们从掷骰子中得到的数据，我们可以建立一个后验分布来确定我们最有可能选择哪个骰子。
 
@@ -85,7 +85,7 @@
 
 完整代码可从我的 GitHub 获得，网址是:
 
-[](https://github.com/egorhowell/Medium-Articles/blob/main/Statistics/Bayesian_Updating.ipynb)  
+<https://github.com/egorhowell/Medium-Articles/blob/main/Statistics/Bayesian_Updating.ipynb>  
 
 现在，假设我们有 50 个不同的骰子，其中它们的相关数字是该骰子的最高值。例如，骰子 20 的值从 1 到 20。
 
@@ -158,7 +158,7 @@ plt.show()
 
 生成这些图并计算可信区间的完整代码可从我的 GitHub 获得:
 
-[](https://github.com/egorhowell/Medium-Articles/blob/main/Statistics/Credible_Interval.ipynb)  
+<https://github.com/egorhowell/Medium-Articles/blob/main/Statistics/Credible_Interval.ipynb>  
 
 # 结论
 
@@ -171,6 +171,6 @@ plt.show()
 *   [*LinkedIn*](https://www.linkedin.com/in/egor-howell-092a721b3/)*👔*
 *   *[*碎碎念*](https://twitter.com/EgorHowell) 🖊*
 *   *[*github*](https://github.com/egorhowell)*🖥**
-*   **[](https://www.kaggle.com/egorphysics)**🏅****
+*   **<https://www.kaggle.com/egorphysics>**🏅****
 
 > ***(所有表情符号由 [OpenMoji](https://openmoji.org/) 设计——开源表情符号和图标项目。许可证: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)***

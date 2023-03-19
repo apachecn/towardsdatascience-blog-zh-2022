@@ -124,7 +124,7 @@
 
 **线性模型的训练总结(图片由作者提供)**
 
-**我们将忽略 statsmodels 报告的 R 平方值(或 0.191 的[调整 R 平方值](/the-complete-guide-to-r-squared-adjusted-r-squared-and-pseudo-r-squared-4136650fc06c)，因为我们的兴趣在于估计[](/understanding-partial-effects-main-effects-and-interaction-effects-in-a-regression-model-54e8a127c62d')****【即系数估计值】，它们的标准误差和 95%置信区间，以及系数是否具有统计显著性。让我们放大输出的相关部分:******
+**我们将忽略 statsmodels 报告的 R 平方值(或 0.191 的[调整 R 平方值](/the-complete-guide-to-r-squared-adjusted-r-squared-and-pseudo-r-squared-4136650fc06c)，因为我们的兴趣在于估计</understanding-partial-effects-main-effects-and-interaction-effects-in-a-regression-model-54e8a127c62d'>****【即系数估计值】，它们的标准误差和 95%置信区间，以及系数是否具有统计显著性。让我们放大输出的相关部分:******
 
 ******![](img/3df72a945394d5827ddc6c8547bedaf2.png)******
 

@@ -38,4 +38,4 @@ I .在过滤和连接中使用“where”子句会影响可读性和理解。
 
 分享几个你可能感兴趣的故事:
 
-[](https://anmol3015.medium.com/write-your-sql-queries-the-right-way-9c04dfbb6499)  [](/10-sql-operations-for-80-of-your-data-manipulation-7461c56e25f4) 
+<https://anmol3015.medium.com/write-your-sql-queries-the-right-way-9c04dfbb6499>  </10-sql-operations-for-80-of-your-data-manipulation-7461c56e25f4> 

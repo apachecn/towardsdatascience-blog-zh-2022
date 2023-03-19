@@ -175,7 +175,7 @@ fig.show()
 
 **我还**通过索引/检查输入特征**在集群内的分布来验证输出集群**。****
 
-**[](https://pub.towardsai.net/expectation-maximization-em-clustering-every-data-scientist-should-know-2b47fbd0dbc0)  
+**<https://pub.towardsai.net/expectation-maximization-em-clustering-every-data-scientist-should-know-2b47fbd0dbc0>  
 
 ## 结论
 
@@ -189,4 +189,4 @@ fig.show()
 
 ## ****你可能喜欢的故事！****
 
-**[](https://medium.com/codex/feature-engineering-techniques-every-data-scientist-should-know-e40dc656c71f)  [](https://medium.com/codex/24-powerful-must-know-pandas-functions-for-every-data-analysis-a1a9990d47c8)  [](https://medium.com/codex/know-everything-about-bias-and-variance-7c7b9f9ee0ed) **
+**<https://medium.com/codex/feature-engineering-techniques-every-data-scientist-should-know-e40dc656c71f>  <https://medium.com/codex/24-powerful-must-know-pandas-functions-for-every-data-analysis-a1a9990d47c8>  <https://medium.com/codex/know-everything-about-bias-and-variance-7c7b9f9ee0ed> **

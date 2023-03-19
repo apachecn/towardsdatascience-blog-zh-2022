@@ -64,6 +64,6 @@ callback = tf.keras.callbacks.EarlyStopping(monitor='loss', patience=3)
 *   通常可以通过测试数据集中的误差再次增加，而训练数据集中的误差继续减少这一事实来识别。
 *   其中，可以通过插入早期停止规则或通过提前从数据集中移除与其他特征相关的特征来防止过度拟合。
 
-*如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
+*如果你喜欢我的作品，请在这里订阅*<https://medium.com/subscribe/@niklas_lang>**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
 
-*[](/understanding-the-backpropagation-algorithm-c7a99d43088b)  [](/intuitive-guide-to-artificial-neural-networks-17805150e91a)  [](/exception-handling-in-python-8cc8f69f16ad) *
+*</understanding-the-backpropagation-algorithm-c7a99d43088b>  </intuitive-guide-to-artificial-neural-networks-17805150e91a>  </exception-handling-in-python-8cc8f69f16ad> *

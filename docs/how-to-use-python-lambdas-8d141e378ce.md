@@ -53,6 +53,6 @@ Python lambdas 是所谓的匿名函数，使用它可以快速定义有多个�
 *   如果函数只使用一次，或者如果您希望保持变量和函数的命名空间较小，这将非常有用。
 *   在 Python 中，匿名函数与参数“lambda”一起使用，这就是为什么 Python 中的匿名函数也被称为 Python lambdas。
 
-*如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，请不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
+*如果你喜欢我的作品，请在这里订阅*<https://medium.com/subscribe/@niklas_lang>**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，请不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
 
-*[](/4-basic-sql-commands-every-new-data-scientist-should-know-ba02e40bfc1a)  [](/beginners-introduction-to-python-for-loops-7df0f6bdbcc8)  [](/4-basic-commands-when-working-with-python-dictionaries-1152e0331604) *
+*</4-basic-sql-commands-every-new-data-scientist-should-know-ba02e40bfc1a>  </beginners-introduction-to-python-for-loops-7df0f6bdbcc8>  </4-basic-commands-when-working-with-python-dictionaries-1152e0331604> *

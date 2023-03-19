@@ -117,6 +117,6 @@ NLQ1: *哪个国家的人口数最多？* SQL1: *Select Name，max([人口数])f
 8.  Bahdanau、Dzmitry、Kyunghyun Cho 和 Yoshua Bengio。*通过联合学习对齐和翻译的神经机器翻译*。[https://arxiv.org/pdf/1409.0473.pdf](https://arxiv.org/pdf/1409.0473.pdf)
 9.  W.沙拉比、a .阿兰特斯、T. G .迪亚兹和 c .古普塔。*从大规模特定领域知识库构建聊天机器人:挑战与机遇，* 2020，[https://arxiv.org/pdf/2001.00100.pdf](https://arxiv.org/pdf/2001.00100.pdf)
 10.  常，刘，汤，黄，何，周，等(2020)。*带辅助任务的零触发文本到 SQL 学习*。https://arxiv.org/pdf/1908.11052.pdf[AAAI](https://arxiv.org/pdf/1908.11052.pdf)
-11.  陈，杨，郭，徐，王，邱，齐，王，李，洪(2021)。*利用表格内容，通过元学习实现文本到 SQL 的零转换*。*https://arxiv.org/pdf/2109.05395.pdf*AAAI[](https://arxiv.org/pdf/2109.05395.pdf)
+11.  陈，杨，郭，徐，王，邱，齐，王，李，洪(2021)。*利用表格内容，通过元学习实现文本到 SQL 的零转换*。*https://arxiv.org/pdf/2109.05395.pdf*AAAI<https://arxiv.org/pdf/2109.05395.pdf>
 12.  E.里恰尔代利·比斯瓦斯。*基于强化学习的自我改进聊天机器人*。RLDM 2019，[https://towards data science . com/self-improving-chatbots-based-on-reinforcement-learning-75 CCA 62 debce](/self-improving-chatbots-based-on-reinforcement-learning-75cca62debce)
 13.  南雷迪，陈，曼宁。 *CoQA:会话式问答挑战*。计算语言学协会汇刊 2019，[https://doi.org/10.1162/tacl_a_00266](https://doi.org/10.1162/tacl_a_00266)

@@ -588,4 +588,4 @@ plot_graphs(history, 'loss')
 
 ## 更多阅读
 
-[](/convolutional-neural-network-good-understanding-of-the-layers-and-an-image-classification-example-a280bc02c13e)  [](/developing-a-convolutional-neural-network-model-using-the-unlabeled-image-files-directly-from-the-124180b8f21f)  [](/exploratory-data-analysis-with-some-cool-visualizations-in-pythons-matplotlib-and-seaborn-library-99dde20d98bf)  [](/30-very-useful-pandas-functions-for-everyday-data-analysis-tasks-f1eae16409af)  [](/a-beginners-guide-to-match-any-pattern-using-regular-expressions-in-r-fd477ce4714c) 
+</convolutional-neural-network-good-understanding-of-the-layers-and-an-image-classification-example-a280bc02c13e>  </developing-a-convolutional-neural-network-model-using-the-unlabeled-image-files-directly-from-the-124180b8f21f>  </exploratory-data-analysis-with-some-cool-visualizations-in-pythons-matplotlib-and-seaborn-library-99dde20d98bf>  </30-very-useful-pandas-functions-for-everyday-data-analysis-tasks-f1eae16409af>  </a-beginners-guide-to-match-any-pattern-using-regular-expressions-in-r-fd477ce4714c> 

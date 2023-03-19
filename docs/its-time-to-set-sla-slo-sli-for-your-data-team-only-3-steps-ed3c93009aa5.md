@@ -143,4 +143,4 @@ SLA 不仅定义了数据可靠性的范围，还定义了**错误预算**，这
 
 ## 参考
 
-[](https://www.montecarlodata.com/blog-how-to-make-your-data-pipelines-more-reliable-with-slas/)  [](https://cloud.google.com/architecture/building-production-ready-data-pipelines-using-dataflow-planning)  [](https://cloud.google.com/blog/products/devops-sre/defining-slos-for-services-with-dependencies-cre-life-lessons) 
+<https://www.montecarlodata.com/blog-how-to-make-your-data-pipelines-more-reliable-with-slas/>  <https://cloud.google.com/architecture/building-production-ready-data-pipelines-using-dataflow-planning>  <https://cloud.google.com/blog/products/devops-sre/defining-slos-for-services-with-dependencies-cre-life-lessons> 

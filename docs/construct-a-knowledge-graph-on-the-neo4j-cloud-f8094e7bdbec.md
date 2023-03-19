@@ -20,15 +20,15 @@ CAZy 代表[Carbohydrate-**A**active en**ZY**mes(CAZy)](http://www.cazy.org/)。
 
 这个项目的 Python 代码存放在我的 GitHub 库中。
 
-[](https://github.com/dgg32/cazy_download_for_kg/tree/master)  
+<https://github.com/dgg32/cazy_download_for_kg/tree/master>  
 
 文本提取的 NLP 管道是基于我以前的项目。在这个项目中，我用 CAZy 关系的培训文件更新了存储库。
 
-[](https://github.com/dgg32/huggingface_gpt3)  
+<https://github.com/dgg32/huggingface_gpt3>  
 
 而聊天机器人前端作为一个名为“cazy_kg”的分支托管在我的 doctorai_eli5 资源库下。
 
-[](https://github.com/dgg32/doctorai_eli5/tree/cazy_kg)  
+<https://github.com/dgg32/doctorai_eli5/tree/cazy_kg>  
 
 最后，Aura 的数据导入器的数据模型托管在这里。
 
@@ -120,4 +120,4 @@ neo4j+s://[random_string].databases.neo4j.io
 
 *最重要的是，从你的知识图表中获得乐趣。*
 
-*[](https://dgg32.medium.com/membership) *
+*<https://dgg32.medium.com/membership> *

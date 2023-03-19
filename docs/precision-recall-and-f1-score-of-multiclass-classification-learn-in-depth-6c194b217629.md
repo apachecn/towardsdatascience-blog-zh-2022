@@ -12,7 +12,7 @@
 
 如果这些概念对您来说是全新的，我建议您先阅读这篇文章，其中详细解释了精确度、召回率和 f1 分数的概念。
 
-[](/a-complete-understanding-of-precision-recall-and-f-score-concepts-23dc44defef6)  
+</a-complete-understanding-of-precision-recall-and-f-score-concepts-23dc44defef6>  
 
 本文将关注多类分类模型的精确度、召回率和 f1 值。
 
@@ -191,7 +191,7 @@ print(metrics.classification_report(y_test, y_pred))
 
 您将在此链接中找到分类项目的完整代码以及我是如何获得上表的:
 
-[](https://github.com/rashida048/Few-Machine-Learning-projects/blob/master/image_classification_problems.ipynb)  
+<https://github.com/rashida048/Few-Machine-Learning-projects/blob/master/image_classification_problems.ipynb>  
 
 ## 结论
 
@@ -203,4 +203,4 @@ print(metrics.classification_report(y_test, y_pred))
 
 ## 更多阅读
 
-[](https://pub.towardsai.net/complete-detailed-tutorial-on-linear-regression-in-python-for-beginners-f9fa3f65faca)  [](/simple-explanation-on-how-decision-tree-algorithm-makes-decisions-34f56be344e9)  [](https://pub.towardsai.net/data-analysis-91a38207c92b)  [](/a-complete-guide-for-detecting-and-dealing-with-outliers-bad26b1e92b6)  [](/6-tips-for-dealing-with-null-values-e16d1d1a1b33) 
+<https://pub.towardsai.net/complete-detailed-tutorial-on-linear-regression-in-python-for-beginners-f9fa3f65faca>  </simple-explanation-on-how-decision-tree-algorithm-makes-decisions-34f56be344e9>  <https://pub.towardsai.net/data-analysis-91a38207c92b>  </a-complete-guide-for-detecting-and-dealing-with-outliers-bad26b1e92b6>  </6-tips-for-dealing-with-null-values-e16d1d1a1b33> 

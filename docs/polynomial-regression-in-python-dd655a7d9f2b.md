@@ -176,7 +176,7 @@ fit_polynomials(X2, y2, from_=10, to_=30, step=10)**[OUT]: Results for each (deg
 
 如果你喜欢这个内容，请关注我的博客。
 
-[](http://gustavorsantos.medium.com/)  
+<http://gustavorsantos.medium.com/>  
 
 如果你正在考虑加入 Medium 成为会员，这是我的[推荐代码](https://gustavorsantos.medium.com/membership)，其中部分价值与我分享，所以你也可以激励我。
 
@@ -184,4 +184,4 @@ fit_polynomials(X2, y2, from_=10, to_=30, step=10)**[OUT]: Results for each (deg
 
 # 参考
 
-[](https://en.wikipedia.org/wiki/Polynomial)  [](/polynomial-regression-bbe8b9d97491)  [](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.PolynomialFeatures.html) 
+<https://en.wikipedia.org/wiki/Polynomial>  </polynomial-regression-bbe8b9d97491>  <https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.PolynomialFeatures.html> 

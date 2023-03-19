@@ -41,7 +41,7 @@ from sklearn.metrics import confusion_matrixfrom sklearn.model_selection import 
 
 一些有助于从头开始探索 ANNs & CNNs 更多内容的链接。
 
-[](/convolution-neural-network-for-image-processing-using-keras-dc3429056306)  [](/a-beginners-guide-to-artificial-neural-network-using-tensor-flow-keras-41ccd575a876)  
+</convolution-neural-network-for-image-processing-using-keras-dc3429056306>  </a-beginners-guide-to-artificial-neural-network-using-tensor-flow-keras-41ccd575a876>  
 
 # 4.建立卷积神经网络模型
 

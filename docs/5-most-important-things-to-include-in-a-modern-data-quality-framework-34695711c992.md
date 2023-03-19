@@ -56,7 +56,7 @@
 
 例如:0-10 分可以应用于一个表。如果一个表有多个惟一性问题，但是已经通过了准确性检查，那么可以给它打 5 分。另一方面，如果该表通过了大部分检查，则可以给它打 9 分。数据科学团队可以就下游业务案例可接受的数据分数达成一致。数据管理团队可以设计一个计划来改善得分较低的数据的健康状况。
 
-[](/improve-health-of-your-data-by-using-these-5-scoring-methods-4f3ec1d7c620)  
+</improve-health-of-your-data-by-using-these-5-scoring-methods-4f3ec1d7c620>  
 
 ## 结论
 
@@ -64,7 +64,7 @@
 
 如果你喜欢这类内容，可以看看我的其他帖子:
 
-[](/top-4-data-quality-mistakes-to-avoid-on-your-legacy-data-stack-32d09f5a02c)  
+</top-4-data-quality-mistakes-to-avoid-on-your-legacy-data-stack-32d09f5a02c>  
 
 如果你没有订阅 Medium，可以考虑使用我的推荐链接订阅[。它比网飞便宜，而且客观上能更好地利用你的时间。](https://hanzalaqureshi.medium.com/membership)如果你使用我的链接，我会获得一小笔佣金，而你可以在 Medium 上获得无限的故事，这是双赢的局面。
 

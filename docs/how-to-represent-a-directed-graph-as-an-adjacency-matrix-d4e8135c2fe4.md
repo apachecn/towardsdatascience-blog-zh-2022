@@ -79,4 +79,4 @@ visNetwork(nodes, edgesMessy) %>%
 *   无向图中的每个循环都用 1 表示
 *   邻接矩阵可以解释多条边
 
-*原载于 2022 年 2 月 16 日 https://thatdarndata.com*[](https://thatdarndata.com/how-to-represent-a-directed-graph-as-an-adjacency-matrix/)**。**
+*原载于 2022 年 2 月 16 日 https://thatdarndata.com*<https://thatdarndata.com/how-to-represent-a-directed-graph-as-an-adjacency-matrix/>**。**

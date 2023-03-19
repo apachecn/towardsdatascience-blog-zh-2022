@@ -135,6 +135,6 @@ Arthur Osipyan 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=
 
 感谢你到目前为止的阅读，让我知道你是否对我写的其他文章感兴趣，比如如何准备技术面试，或者如何作为一名自学成才的工程师脱颖而出，或者看看我以前的帖子:
 
-[](/how-i-became-a-software-developer-during-the-pandemic-without-a-degree-or-a-bootcamp-ef7a4184efde)  
+</how-i-became-a-software-developer-during-the-pandemic-without-a-degree-or-a-bootcamp-ef7a4184efde>  
 
 我感谢任何问题、评论和建议，无论是在这里还是在 Linkedin 上。

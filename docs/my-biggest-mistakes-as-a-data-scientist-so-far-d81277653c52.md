@@ -60,7 +60,7 @@
 
 这里的教训是，当你加入一家新公司时，你应该在面试阶段问正确的问题。我写了一篇博文，给了你一些问题，你可以问这些问题来更好地理解这里的风景。
 
-[](/5-questions-you-need-to-ask-employers-at-data-science-interviews-a9ea10c45d6)  
+</5-questions-you-need-to-ask-employers-at-data-science-interviews-a9ea10c45d6>  
 
 # 陷入杂草中
 
@@ -74,4 +74,4 @@
 
 ⭐️ *我喜欢通过分享我在野外的数据科学经验来帮助人们。如果你还不是会员，可以考虑订阅 Medium，从我这里获得更多有用的内容。*
 
-[](https://johnadeojo.medium.com/membership) 
+<https://johnadeojo.medium.com/membership> 

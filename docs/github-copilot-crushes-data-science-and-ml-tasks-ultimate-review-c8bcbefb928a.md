@@ -18,11 +18,11 @@
 
 在摆弄了一下这个工具之后，我没等多久就开始写这篇文章了。所以，开始了。
 
-[](https://ibexorigin.medium.com/membership)  
+<https://ibexorigin.medium.com/membership>  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex)  
+<https://alphasignal.ai/?referrer=Bex>  
 
 ## 日常预处理任务的测试
 
@@ -98,7 +98,7 @@ Copilot 从一行注释中产生了完整的功能，将数据分为训练集、
 
 我也有点觉得好笑，副驾驶用第一人称写了第一条评论。但是，我感到失望的是，副驾驶将两个时间序列列彼此相对放置，而不是在顶部。
 
-最近，我非常喜欢 UMAP 的[](/beginners-guide-to-umap-for-reducing-dimensionality-and-visualizing-100-dimensional-datasets-ff5590fb17be)****以及它如何在不丢失太多底层结构的情况下投射数据两个 2D。我想知道副驾驶是否能产生一个函数，用 UMAP 做 2D 投影，并画出结果。****
+最近，我非常喜欢 UMAP 的</beginners-guide-to-umap-for-reducing-dimensionality-and-visualizing-100-dimensional-datasets-ff5590fb17be>****以及它如何在不丢失太多底层结构的情况下投射数据两个 2D。我想知道副驾驶是否能产生一个函数，用 UMAP 做 2D 投影，并画出结果。****
 
 ****我很惊讶它可以，因为 UMAP 应该是一个非常年轻的图书馆，GitHub 上没有太多关于它的代码:****
 
@@ -182,12 +182,12 @@ Copilot 从一行注释中产生了完整的功能，将数据分为训练集、
 
 ******您可以使用下面的链接成为高级媒体会员，并访问我的所有故事和数以千计的其他故事:******
 
-****[](https://ibexorigin.medium.com/membership)  
+****<https://ibexorigin.medium.com/membership>  
 
 **或者直接订阅我的邮件列表:**
 
-[](https://ibexorigin.medium.com/subscribe)  
+<https://ibexorigin.medium.com/subscribe>  
 
 **你可以在** [**LinkedIn**](https://www.linkedin.com/in/bextuychiev/) **或**[**Twitter**](https://twitter.com/BexTuychiev)**上联系我，友好地聊一聊所有的事情数据。或者你可以读我的另一个故事。这些怎么样:**
 
-[](/good-bye-pandas-meet-terality-its-evil-twin-with-identical-syntax-455b42f33a6d)  [](/8-booming-data-science-libraries-you-must-watch-out-in-2022-cec2dbb42437)  [](/6-pandas-mistakes-that-silently-tell-you-are-a-rookie-b566a252e60d)  [](/7-cool-python-packages-kagglers-are-using-without-telling-you-e83298781cf4)  [](/22-2-built-in-python-libraries-you-didnt-know-existed-p-guarantee-8-275685dbdb99)  [](/how-to-get-started-on-kaggle-in-2022-even-if-you-are-terrified-8e073853ac46) ****
+</good-bye-pandas-meet-terality-its-evil-twin-with-identical-syntax-455b42f33a6d>  </8-booming-data-science-libraries-you-must-watch-out-in-2022-cec2dbb42437>  </6-pandas-mistakes-that-silently-tell-you-are-a-rookie-b566a252e60d>  </7-cool-python-packages-kagglers-are-using-without-telling-you-e83298781cf4>  </22-2-built-in-python-libraries-you-didnt-know-existed-p-guarantee-8-275685dbdb99>  </how-to-get-started-on-kaggle-in-2022-even-if-you-are-terrified-8e073853ac46> ****

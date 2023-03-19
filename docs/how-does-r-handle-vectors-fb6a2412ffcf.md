@@ -20,7 +20,7 @@ r 是一种非常容易掌握的语言。这是它成为数据科学领跑者的
 
 向量对于数据的存储和交互非常重要。如果我们有一组数字，我们可以把它们放在一个向量中，以便于计算。表格数据通常存储在数据框中，其中每一行是一个观察值，每一列是一个包含观察值特定属性的向量。
 
-[](/storing-data-r-data-structures-717245c6bab8)  
+</storing-data-r-data-structures-717245c6bab8>  
 
 # 矢量化运算
 
@@ -65,7 +65,7 @@ library(rbenchmark)benchmark(
 2 Vectorized  100   0.001     1      0.001        0        0
 ```
 
-[](/r-is-slow-and-its-your-fault-2fcedacc7abb)  
+</r-is-slow-and-its-your-fault-2fcedacc7abb>  
 
 # 标量运算
 
@@ -152,4 +152,4 @@ In cars$speed/c(3, 6, 9) :
 
 那么我们学到了什么？向量很快。它们通常允许我们比类似的循环更快地编写性能更好的代码。我们可以用向量和一个数字来计算。有一些函数对整个向量进行运算以得到结果，我们可以对多个向量进行运算，即使向量大小不同。r 对向量的处理也让我们知道什么时候事情看起来不太对，比如我们的向量长度不是彼此的倍数。
 
-[](https://realdrewdata.medium.com/membership) 
+<https://realdrewdata.medium.com/membership> 

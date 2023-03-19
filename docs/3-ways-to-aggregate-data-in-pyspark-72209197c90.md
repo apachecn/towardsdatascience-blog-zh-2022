@@ -33,7 +33,7 @@
 
 原始数据集[已被简化](https://gist.github.com/anbento0490/49313e47d4e56c7aad35f2baaefb1a8e)，如下表所示:
 
-![](img/cfc4a54ccccb232f8f0e3d6f0a85f2ce.png)[](/3-ways-to-create-tables-with-apache-spark-32aed0f355ab)  
+![](img/cfc4a54ccccb232f8f0e3d6f0a85f2ce.png)</3-ways-to-create-tables-with-apache-spark-32aed0f355ab>  
 
 # 在 PySpark 中聚合数据
 
@@ -139,7 +139,7 @@ dataframe.withColumn(‘new_column_name’, functions.sum(‘metric_1’)\
 
 *另一方面，当您处理非常大的数据集并希望执行聚合以获得更小、更易于管理的输出时，您应该避免使用这种方法。*
 
-*[](/3-nanodegrees-you-should-consider-to-advance-your-data-engineering-career-in-2021-baf597debc72)  
+*</3-nanodegrees-you-should-consider-to-advance-your-data-engineering-career-in-2021-baf597debc72>  
 
 # 结论
 

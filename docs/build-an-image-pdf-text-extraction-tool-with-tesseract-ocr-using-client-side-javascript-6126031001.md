@@ -16,7 +16,7 @@
 
 ## 第 1 部分:图像到文本
 
-[](https://javascript.plainenglish.io/build-a-text-to-speech-app-using-client-side-javascript-98cd72df73bb)  
+<https://javascript.plainenglish.io/build-a-text-to-speech-app-using-client-side-javascript-98cd72df73bb>  
 
 ## 第二部分:PDF-to-Text✶
 
@@ -190,4 +190,4 @@ uploadPDF.addEventListener('change', function(evt) {
 
 *— 🌮[请给我买一份玉米卷🎀˶❛◡❛)](https://www.buymeacoffee.com/geekcc)*
 
-*[](https://geek-cc.medium.com/membership) *
+*<https://geek-cc.medium.com/membership> *

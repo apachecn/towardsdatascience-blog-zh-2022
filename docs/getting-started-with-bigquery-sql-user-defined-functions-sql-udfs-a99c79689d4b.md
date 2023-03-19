@@ -22,7 +22,7 @@ BigQuery 中有几个不同种类的“函数”,所以如果没有通过全面�
 
 每一种都有不同的种类，每一种都有自己的特质。下面这篇文章是对开发`Routines`的一个温和的介绍:
 
-[](/getting-started-with-bigquery-scripting-45bdd968010c)  
+</getting-started-with-bigquery-scripting-45bdd968010c>  
 
 为了简单起见，让我们从最简单的开始:SQL 用户定义函数。
 

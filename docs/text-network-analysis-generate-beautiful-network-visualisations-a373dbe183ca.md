@@ -140,7 +140,7 @@ circos 图中的边通常被绘制为*弧*，它们的大小与连接的重要�
 
 *我的 GitHub[GitHub](https://github.com/PetrKorab/Text-Network-Analysis-Generate-Beautiful-Network-Visualisations)上有 Jupyter 笔记本的代码。*
 
-**PS:你可以订阅我的* [*邮件列表*](https://medium.com/subscribe/@petrkorab) *在我每次写新文章的时候得到通知。如果你还不是中等会员，你可以在这里加入*[](https://medium.com/@petrkorab/membership)**。***
+**PS:你可以订阅我的* [*邮件列表*](https://medium.com/subscribe/@petrkorab) *在我每次写新文章的时候得到通知。如果你还不是中等会员，你可以在这里加入*<https://medium.com/@petrkorab/membership>**。***
 
 # **参考**
 
@@ -152,6 +152,6 @@ circos 图中的边通常被绘制为*弧*，它们的大小与连接的重要�
 
 **[4]马，e，塞斯，M. 2022。*简化网络分析:使用 Python 和 NetworkX 介绍网络分析和应用图论*。[精益出版](https://leanpub.com/nams)。2022 年 5 月 16 日。**
 
-**[5]马尔霍特拉，r . s .，2016 年。1960-2000 年亚洲的性别和生育劳动力迁移。[](https://www.tandfonline.com/doi/abs/10.1080/00207659.2016.1163989)*国际社会学杂志第 46 卷第 2 期。***
+**[5]马尔霍特拉，r . s .，2016 年。1960-2000 年亚洲的性别和生育劳动力迁移。<https://www.tandfonline.com/doi/abs/10.1080/00207659.2016.1163989>*国际社会学杂志第 46 卷第 2 期。***
 
 ***[6] Zoabi，y .，Kehat，o .，Lahav，d .，Weiss-Meilik，a .，Adler，a .，Shomron，N. 2021。使用机器学习预测血流感染结果。 [*科学报告*](https://www.nature.com/articles/s41598-021-99105-2) 11(20101)。***

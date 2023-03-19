@@ -56,7 +56,7 @@ ggplot(
 
 iris 数据集示例图—作者提供的图片
 
-使用`ggplot`功能，我们奠定了绘图的基础，并绘制了`x`和`y`轴。**`**ggplot2**`**的一个重要部分是它只适合二维绘图——如果你需要做三维绘图，勾选**[](https://plotly.com/r/)****。******
+使用`ggplot`功能，我们奠定了绘图的基础，并绘制了`x`和`y`轴。**`**ggplot2**`**的一个重要部分是它只适合二维绘图——如果你需要做三维绘图，勾选**<https://plotly.com/r/>****。******
 
 ***在`mapping`参数中，我们传递的变量将代替`x`和`y`轴。请注意，R 已经将两个轴限定为数据中可用的最大值和最小值。例如，如果我们检查`max(iris_df$Petal.Length)`，我们得到`6.9`，这正是我们`x`轴的上限！***
 
@@ -207,4 +207,4 @@ iris 数据集示例图—作者提供的图片
 
 ***绝对初学者的 R 编程课程 —图片由作者提供***
 
-***[](https://medium.com/membership/@ivopbernardo) ***
+***<https://medium.com/membership/@ivopbernardo> ***

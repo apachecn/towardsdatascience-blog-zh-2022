@@ -69,7 +69,7 @@ tsfresh 包还提供了基于假设检验的特征选择实现，可以识别目
 
 > 这里有一篇 Nils Braun 的精彩文章，解释了使用 Dask 实现 ts fresh([文章第 1 部分](https://nils-braun.github.io/tsfresh-on-cluster-1/)，[文章第 2 部分](https://nils-braun.github.io/tsfresh-on-cluster-2/))。
 
-[](https://nils-braun.github.io/tsfresh-on-cluster-1/)  
+<https://nils-braun.github.io/tsfresh-on-cluster-1/>  
 
 # 结论:
 

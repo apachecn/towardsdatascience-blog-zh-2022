@@ -170,7 +170,7 @@ encode_categ = [‘onehot’, [‘column_name’, 2]]
 
 我们现在已经到了想要将所有构建模块放在一起的阶段，这样我们就可以实际开始使用我们的管道了。你可以在我的 **GitHub 库**中找到完整的**自动清理**代码，而不是在这里发布完整的代码:
 
-[](https://github.com/elisemercury/AutoClean)  
+<https://github.com/elisemercury/AutoClean>  
 
 下面我们来看一个 AutoClean 如何处理样本数据集的可视化示例:
 

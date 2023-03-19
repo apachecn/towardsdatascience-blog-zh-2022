@@ -46,7 +46,7 @@
 
 作者图片
 
-[](/why-do-we-use-the-standard-deviation-51d5d1a502a8) [## 为什么我们要用标准差？
+</why-do-we-use-the-standard-deviation-51d5d1a502a8> [## 为什么我们要用标准差？
 
 towardsdatascience.com](/why-do-we-use-the-standard-deviation-51d5d1a502a8) 
 

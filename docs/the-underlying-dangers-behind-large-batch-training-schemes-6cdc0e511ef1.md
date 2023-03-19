@@ -47,7 +47,7 @@ Julian Hochgesang 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medi
 
 *虽然较大的批量被认为给训练带来更多的稳定性，但是小批量训练提供的噪音实际上有利于探索和避免急剧最小化。我们可以有效地利用这一事实来设计一个“批量调度程序”,从小批量开始，以允许探索损失情况。一旦确定了大方向，我们就专注于(希望是)平坦的最小值，并增加批量大小以稳定训练。如何在训练中增加批量以获得更快更好的结果的细节将在下面的文章中描述。*
 
-*[](/why-using-learning-rate-schedulers-in-nns-may-be-a-waste-of-time-8fa20339002b) * 
+*</why-using-learning-rate-schedulers-in-nns-may-be-a-waste-of-time-8fa20339002b> * 
 
 *在 Hoffer 等人(2018 年)在他们的论文“ ***训练更长，推广更好:在神经网络*** 的大批量训练中缩小推广差距”中的一项更近期的研究中，作者扩展了 Keskar 等人先前探索的想法，并提出了一种简单而优雅的解决方案来缩小推广差距。与 Keskar 等人不同，Hoffer 等人从不同的角度攻击泛化差距:权重更新的次数及其与网络损耗的相关性。*
 

@@ -143,10 +143,10 @@ imageio.mimsave('./example.gif',
 
 [View list](https://medium.com/@iamleonie/list/time-series-analysis-and-forecasting-ff223343e5b3?source=post_page-----6bec6c0c952c--------------------------------)6 stories![Hierarchical time series forecasting](img/4bb5c99058251c4c4d0c2dbd429c6a49.png)![GIF created with Matplotlib and imageio](img/abc6639dcdc3f96a50cebc7d09560695.png)![A time series with lines indicating trend and variance for time series analysis. The last three data points are in a contrast color to indicate that they are predicted values from the time series forecasting model](img/ac9f4944cc2d98de3172e5cc0f2daac2.png)
 
-如果你想把我的新故事直接发到你的收件箱，请务必订阅[](https://medium.com/subscribe/@iamleonie)**！**
+如果你想把我的新故事直接发到你的收件箱，请务必订阅<https://medium.com/subscribe/@iamleonie>**！**
 
 **成为媒介会员，阅读更多来自我和其他作家的故事。报名时可以用我的* [*推荐链接*](https://medium.com/@iamleonie/membership) *支持我。我将收取佣金，不需要你额外付费。**
 
-*[](https://medium.com/@iamleonie/membership)  
+*<https://medium.com/@iamleonie/membership>  
 
 *在*[*Twitter*](https://twitter.com/helloiamleonie)*[*LinkedIn*](https://www.linkedin.com/in/804250ab/)*[*Kaggle*](https://www.kaggle.com/iamleonie)*！****

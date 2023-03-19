@@ -209,11 +209,11 @@ visualize_pos("The train leaves here at 9AM.")
 
 # 喜欢这个故事吗？
 
-*如果你想把我的新故事直接发到你的收件箱，请务必订阅*[](https://medium.com/subscribe/@iamleonie)**！**
+*如果你想把我的新故事直接发到你的收件箱，请务必订阅*<https://medium.com/subscribe/@iamleonie>**！**
 
 **成为媒介会员，阅读更多来自我和其他作家的故事。报名时可以用我的* [*推荐链接*](https://medium.com/@iamleonie/membership) *支持我。我将收取佣金，不需要你额外付费。**
 
-*[](https://medium.com/@iamleonie/membership)  
+*<https://medium.com/@iamleonie/membership>  
 
 *在*[*LinkedIn*](https://www.linkedin.com/in/804250ab/)*和* [*上找我 Kaggle*](https://www.kaggle.com/iamleonie) *！*
 

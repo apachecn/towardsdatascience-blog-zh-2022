@@ -72,7 +72,7 @@
 
 这里的主题是，虽然数据科学的某些方面可能会发生变化，例如编码语言和使用的技术，但有效描述代码功能的能力永远不会过时。
 
-[](/how-to-write-good-code-documentation-for-data-scientists-c9940aebb4f0)  
+</how-to-write-good-code-documentation-for-data-scientists-c9940aebb4f0>  
 
 # 关键要点
 

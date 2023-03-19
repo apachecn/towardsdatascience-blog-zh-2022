@@ -30,7 +30,7 @@
 
 [**III-设置网格搜索参数**](#3134)
 
-[](#ea63)**四、建筑及安装管道**
+<#ea63>**四、建筑及安装管道**
 
 **[**V——计算分数**](#190c)**
 
@@ -52,7 +52,7 @@
 *   **处理缺失值的“估算器”(类似于 sklearn 的[简单估算器类](https://scikit-learn.org/stable/modules/generated/sklearn.impute.SimpleImputer.html))**
 *   **处理缺失值的“缩放器”(类似于 sklearn 的[标准缩放器类](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html))**
 *   **【编码器】对(分类的或顺序的)特性进行编码*(受*[*Luvsandorj*](#0195)*，2022***
-*   **“分类器开关”用于在网格搜索步骤中的分类器之间切换。*(灵感来自*[](#0195)**，2021)****
+*   **“分类器开关”用于在网格搜索步骤中的分类器之间切换。*(灵感来自*<#0195>**，2021)****
 
 # *****III-设置网格搜索参数*****
 

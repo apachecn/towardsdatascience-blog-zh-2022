@@ -89,8 +89,8 @@ AssemblyAI API 提供了一个[内容审核功能](https://docs.assemblyai.com/a
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership)  
+<https://gmyrianthous.medium.com/membership>  
 
 **你可能也会喜欢**
 
-[](/speech-recognition-python-assemblyai-bb5024d322d8)  [](/real-time-speech-recognition-python-assemblyai-13d35eeed226)  [](/sentiment-analysis-assemblyai-python-a4686967e0fc) 
+</speech-recognition-python-assemblyai-bb5024d322d8>  </real-time-speech-recognition-python-assemblyai-13d35eeed226>  </sentiment-analysis-assemblyai-python-a4686967e0fc> 

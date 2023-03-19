@@ -18,7 +18,7 @@ W 当开始使用 SQL 代码时，许多数据科学家会根据他们想要完�
 
 对于这篇分析，希腊的地震数据集取自 Kaggle。
 
-[](https://www.kaggle.com/nickdoulos/greeces-earthquakes)  
+<https://www.kaggle.com/nickdoulos/greeces-earthquakes>  
 
 本文中显示的 SQL 代码是使用 Microsoft SQL Server Management Studio 18 的一个实例创建的。
 
@@ -104,10 +104,10 @@ SQL 输出 1.5 两种语言的区别(图片由作者提供)
 
 **您可以使用下面的链接成为高级媒体会员，并访问我的所有故事和数以千计的其他故事:**
 
-[](https://jamesmcneill06.medium.com/membership)  
+<https://jamesmcneill06.medium.com/membership>  
 
 **你可以在** [**LinkedIn**](https://www.linkedin.com/in/james-mc-neill-180a9057/) **上联系我，友好地聊一聊所有的事情数据。我分享过的其他故事:**
 
-[](/advanced-sql-operations-8856084a95a8)  [](/developing-sql-tables-3f9b96bc21e1)  [](/strings-in-sql-part-2-21a467374b84)  [](/strings-in-sql-part-1-122185dd0099)  
+</advanced-sql-operations-8856084a95a8>  </developing-sql-tables-3f9b96bc21e1>  </strings-in-sql-part-2-21a467374b84>  </strings-in-sql-part-1-122185dd0099>  
 
 [1] : Kaggle dataset 许可来自[https://www.kaggle.com/nickdoulos/greeces-earthquakes](https://www.kaggle.com/nickdoulos/greeces-earthquakes)的地震，许可协议来自[https://opendatacommons.org/licenses/dbcl/1-0/](https://creativecommons.org/publicdomain/zero/1.0/)

@@ -14,7 +14,7 @@
 
 前段时间，我的一个同事( *Sofian* ，你可以 [**关注此处**](https://medium.com/@sofian-hamiti) )写了下面这篇文章，讲解如何在 [**亚马逊 SageMaker**](https://aws.amazon.com/sagemaker/) 上部署 Label Studio:
 
-[](https://medium.com/geekculture/labeling-data-with-label-studio-on-sagemaker-e4b2d1b562f7)  
+<https://medium.com/geekculture/labeling-data-with-label-studio-on-sagemaker-e4b2d1b562f7>  
 
 我过去一直在玩弄这个开源包来标记时间序列数据:我认为这是展示我如何将这个标记工具集成到我的机器学习工作流中的完美时机。
 
@@ -74,7 +74,7 @@ Quit the server with CONTROL-C.
 
 我在 repo 中放了一个合成的时间序列数据集:如果你对这个数据集是如何创建的感兴趣，请随意查看这篇文章:
 
-[](/unhappy-about-your-time-series-anomalies-synthesize-them-908495475947)  
+</unhappy-about-your-time-series-anomalies-synthesize-them-908495475947>  
 
 如果你已经准备好了，你当然可以使用你自己的时间序列数据集！您可以将数据集本地存储在实例中，并让 Label Studio 从这里访问它。
 
@@ -209,4 +209,4 @@ Quit the server with CONTROL-C.
 
 我希望你觉得这篇文章很有见地:如果你不想错过我即将发布的帖子，请随时在这里给我留下评论，并不要犹豫订阅我的 [**中型电子邮件订阅源**](https://michoara.medium.com/subscribe) ！想支持我和以后的工作？**通过我的推荐链接加入 Medium** :
 
-[](https://michoara.medium.com/membership) 
+<https://michoara.medium.com/membership> 

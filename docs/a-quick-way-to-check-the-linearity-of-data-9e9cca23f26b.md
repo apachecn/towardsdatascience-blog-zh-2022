@@ -59,4 +59,4 @@
 > 
 > 我写这篇文章是因为许多学生发现很难解释 PCA 的输出。要理解算法或模型的工作原理，最好的方法是从观察简单数据集的输出开始。这将有助于获得更多关于算法的直觉。
 
-【https://www.linkedin.com】最初发表于[](https://www.linkedin.com/pulse/quick-way-check-linearity-data-aditya-dutt/?trackingId=RLORiw4ll4pJjydgYkPpoQ%3D%3D)**。**
+【https://www.linkedin.com】最初发表于<https://www.linkedin.com/pulse/quick-way-check-linearity-data-aditya-dutt/?trackingId=RLORiw4ll4pJjydgYkPpoQ%3D%3D>**。**

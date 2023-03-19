@@ -22,7 +22,7 @@
 
 我经常在我的项目中使用经济数据。我之前的文章关注的是商品报告，但是我们也可以使用美国美联储的 FRED 系统提供的其他数据。如果你愿意的话，这里有一个前一篇文章的链接——不过我要说的是，前一篇文章的一些内容可能会影响到这篇文章:
 
-[](/creating-a-better-dashboard-with-python-dash-and-plotly-80dfb4269882)  
+</creating-a-better-dashboard-with-python-dash-and-plotly-80dfb4269882>  
 
 对我来说，这个项目始于对现有代码的重构。我经常使用这些数据，但当我第一次接触这些数据时，我采用了一种非常简单且不直观的方法。我想把它做好，所以它缺少了很多我想要的功能。我决定从头再来，这也给了我一个受教育的机会。
 
@@ -57,13 +57,13 @@
 *   “requirements.txt”文件中列出的模块
 *   我的知识库中的代码:
 
-[](https://github.com/brad-darksbian/fed_dashboard)  
+<https://github.com/brad-darksbian/fed_dashboard>  
 
 使用 pull_fed_data.py 脚本更新数据的一个 Fed API 键是不错的，但不是特别需要。
 
 过去，我写了一整篇关于获取这些数据的文章。如果感兴趣，请查看:
 
-[](/using-python-to-get-and-store-federal-economic-data-11444317ecfb)  
+</using-python-to-get-and-store-federal-economic-data-11444317ecfb>  
 
 这是我撰写此类文章的风格，我以高度迭代和逻辑的格式编写代码，因此几乎任何技能水平都可以理解。我刻意避免任何微妙的结构或复杂的方法，以保持高度的可接近性。因此，一些代码可能会有点慢，并且会经历额外的步骤，所以有机会自己进行重构，以进行实践和技能开发。
 

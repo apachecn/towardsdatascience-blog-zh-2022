@@ -40,7 +40,7 @@
 
 **如果你想了解 z-test 和 t-test，下面这篇文章也许能帮到你。**
 
-*[](https://medium.datadriveninvestor.com/all-you-need-to-know-about-hypothesis-testing-for-data-science-enthusiasts-30cfe1dce028)  
+*<https://medium.datadriveninvestor.com/all-you-need-to-know-about-hypothesis-testing-for-data-science-enthusiasts-30cfe1dce028>  
 
 ## f 分布
 
@@ -540,4 +540,4 @@ print('Critical value of F is {:.3f}'.format(f_critical))*
 11.  *[*多组间统计比较用 ANOVA (Stat-11)*](/statistical-comparison-among-multiple-groups-with-anova-d4ac27f6e59e?source=your_stories_page-------------------------------------)*
 12.  *[*用卡方检验比较分类变量的相关性(Stat-12)*](/compare-dependency-of-categorical-variables-with-chi-square-test-982baff64e81?source=your_stories_page-------------------------------------)*
 
-*[](https://mzh706.medium.com/membership)  [](https://mzh706.medium.com/subscribe) *
+*<https://mzh706.medium.com/membership>  <https://mzh706.medium.com/subscribe> *

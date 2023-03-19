@@ -40,7 +40,7 @@
 
 随意发挥，并在这里叉这篇文章的源代码:
 
-[](https://github.com/khuyentran1401/Data-science/blob/master/machine-learning/river_streaming/streaming.ipynb)  
+<https://github.com/khuyentran1401/Data-science/blob/master/machine-learning/river_streaming/streaming.ipynb>  
 
 # 什么是河流？
 
@@ -542,7 +542,7 @@ MicroF1: 83.38%
 
 星[这个回购](https://github.com/khuyentran1401/Data-science)如果你想检查我写的所有文章的代码。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/statsannotations-add-statistical-significance-annotations-on-seaborn-plots-6b753346a42a)  [](/texthero-text-preprocessing-representation-and-visualization-for-a-pandas-dataframe-525405af16b6)  [](/shap-explain-any-machine-learning-model-in-python-24207127cad7)  [](/predict-movie-ratings-with-user-based-collaborative-filtering-392304b988af)  
+</statsannotations-add-statistical-significance-annotations-on-seaborn-plots-6b753346a42a>  </texthero-text-preprocessing-representation-and-visualization-for-a-pandas-dataframe-525405af16b6>  </shap-explain-any-machine-learning-model-in-python-24207127cad7>  </predict-movie-ratings-with-user-based-collaborative-filtering-392304b988af>  
 
 # 参考
 

@@ -33,11 +33,11 @@ BigQuery 是众多数据仓库解决方案中的一个，但却是最受欢迎�
 
 您可以在此找到所有 BigQuery 定价详情:
 
-[](https://cloud.google.com/bigquery/pricing)  
+<https://cloud.google.com/bigquery/pricing>  
 
 关于所有谷歌云平台服务(BigQuery 和其他)的免费层和免费层的更多细节可以在这里找到:
 
-[](https://cloud.google.com/free)  
+<https://cloud.google.com/free>  
 
 # 建议 2:理解查询定价
 
@@ -66,7 +66,7 @@ BigQuery 的主要用例是对数据进行查询，以便提取有用的信息�
 
 一般来说，控制查询成本是一个好的做法。你可以通过这个链接来学习。
 
-[](https://cloud.google.com/bigquery/docs/best-practices-costs)  
+<https://cloud.google.com/bigquery/docs/best-practices-costs>  
 
 # 建议 3:探索 BigQuery 免费数据集
 
@@ -115,7 +115,7 @@ BigQuery 的主要用例是对数据进行查询，以便提取有用的信息�
 
 此外，不同的地区和位置有不同的定价和特性，您可以在 Google 文档中找到更多信息。
 
-[](https://cloud.google.com/bigquery/docs/locations)  
+<https://cloud.google.com/bigquery/docs/locations>  
 
 # 建议 5:极限陈述不会降低成本
 
@@ -147,7 +147,7 @@ BigQuery 是一个**面向列的数据库，**简而言之，在大型数据库�
 
 您可以在下面的 BigQuery 中找到关于数据如何存储和表示的更多细节。
 
-[](https://cloud.google.com/bigquery/docs/storage_overview)  
+<https://cloud.google.com/bigquery/docs/storage_overview>  
 
 # 建议 7:在末尾排序，在使用 a `JOIN`之前减少数据
 
@@ -164,11 +164,11 @@ BigQuery 是一个**面向列的数据库，**简而言之，在大型数据库�
 
 一般来说，避免 **SQL 反模式是最佳实践**。SQL 反模式只是开发 SQL 代码时的一个常见错误。
 
-[](https://cloud.google.com/bigquery/docs/best-practices-performance-patterns)  [](https://github.com/boralp/sql-anti-patterns)  
+<https://cloud.google.com/bigquery/docs/best-practices-performance-patterns>  <https://github.com/boralp/sql-anti-patterns>  
 
 您还可以更深入地了解 SQL 查询优化和性能。
 
-[](https://cloud.google.com/bigquery/docs/best-practices-performance-overview)  
+<https://cloud.google.com/bigquery/docs/best-practices-performance-overview>  
 
 # 建议 8:格式化你的查询
 
@@ -190,7 +190,7 @@ BigQuery 是一个**面向列的数据库，**简而言之，在大型数据库�
 
 这些说明包括对 BigQuery、BigQuery ML、BigQuery 数据传输服务和 BigQuery Omni 的更改。
 
-[](https://cloud.google.com/bigquery/docs/release-notes)  
+<https://cloud.google.com/bigquery/docs/release-notes>  
 
 您可以在 BigQuery 中以编程方式访问发布说明，这也将使您能够灵活地通过日期和**以及说明类型**(修复、问题、特性、服务、重大变更等)对**进行排序**
 
@@ -218,17 +218,17 @@ BigQuery 是一个**面向列的数据库，**简而言之，在大型数据库�
 
 一篇很好的帖子讨论了 BQvisualiser，这是一个可以用来评估你的查询哪里可以改进的工具。此工具直接连接到您的项目。
 
-[](https://medium.com/google-cloud/visualising-bigquery-41bf6833b98)  
+<https://medium.com/google-cloud/visualising-bigquery-41bf6833b98>  
 
 有关查询执行的更多信息，请访问:
 
-[](https://cloud.google.com/bigquery/query-plan-explanation?_ga=2.124063242.-1866349659.1650452569)  
+<https://cloud.google.com/bigquery/query-plan-explanation?_ga=2.124063242.-1866349659.1650452569>  
 
 # 建议#12:社区 UDF
 
 尽管 UDF(用户定义函数)已经是一个比较复杂的主题，但是有一些社区资源可以帮助您入门，或者至少在您自己的项目中重用它们！
 
-[](https://github.com/GoogleCloudPlatform/bigquery-utils)  
+<https://github.com/GoogleCloudPlatform/bigquery-utils>  
 
 UDF 是允许您将 Javascript 或 SQL 代码作为函数运行的函数。例如，假设您的表中有一个包含城市名称的字段，并且您希望对它们进行整理，那么您可以使用 Javascript 库编写一个函数，并将它一次性应用到整个表中。
 

@@ -86,7 +86,7 @@
 
 感谢您阅读这篇文章。如果您还不是中级会员，请考虑在此注册，以便充分使用该平台提供的所有功能:
 
-[](https://medium.com/@jashahir?source=entity_driven_subscription-56690d914eaf------------------------------------)  
+<https://medium.com/@jashahir?source=entity_driven_subscription-56690d914eaf------------------------------------>  
 
 ## 参考资料:
 

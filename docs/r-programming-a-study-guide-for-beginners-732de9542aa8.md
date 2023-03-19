@@ -142,4 +142,4 @@ W3 学校包含一个关于他们的[不错的指南](https://www.w3schools.com/
 
 [数据科学训练营:你成为数据科学家的第一步](https://www.udemy.com/course/r-for-data-science-first-step-data-scientist/?couponCode=IVOSTUDENTSJULY) —图片由作者提供
 
-[](https://ivopbernardo.medium.com/membership) 
+<https://ivopbernardo.medium.com/membership> 

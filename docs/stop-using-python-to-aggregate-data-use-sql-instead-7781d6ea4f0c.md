@@ -273,4 +273,4 @@ df_sales_by_year
 *   订阅 [YouTube](https://www.youtube.com/c/BetterDataScience)
 *   在 [LinkedIn](https://www.linkedin.com/in/darioradecic/) 上连接
 
-*原载于 2022 年 2 月 17 日 https://betterdatascience.com*[](https://betterdatascience.com/python-vs-sql-data-aggregation/)**。**
+*原载于 2022 年 2 月 17 日 https://betterdatascience.com*<https://betterdatascience.com/python-vs-sql-data-aggregation/>**。**

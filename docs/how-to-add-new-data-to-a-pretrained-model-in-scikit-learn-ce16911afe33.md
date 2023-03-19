@@ -189,7 +189,7 @@ model.score(X_test, y_test)
 
 # 相关文章
 
-[](/how-to-run-a-data-science-project-in-a-docker-container-2ab1a3baa889)  [](/an-overview-of-the-scikit-learn-clustering-package-d39a0499814)  [](/model-evaluation-in-scikit-learn-abce32ee4a99)  
+</how-to-run-a-data-science-project-in-a-docker-container-2ab1a3baa889>  </an-overview-of-the-scikit-learn-clustering-package-d39a0499814>  </model-evaluation-in-scikit-learn-abce32ee4a99>  
 
 # 保持联系！
 

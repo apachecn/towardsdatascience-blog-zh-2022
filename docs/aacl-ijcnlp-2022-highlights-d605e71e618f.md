@@ -59,7 +59,7 @@ NLP 模型越来越渴求数据。为了避免将私人信息传输到模型中�
 
 标准神经机器翻译(NMT)使用编码器-解码器架构。相比之下，生成式预训练语言模型仅使用自回归解码器，而没有任何单独的编码器，但是仍然能够执行翻译。例如，GPT 3 号可以翻译。
 
-[](/translate-with-gpt-3-9903c4a6f385)  
+</translate-with-gpt-3-9903c4a6f385>  
 
 高等人的这项工作旨在研究机器翻译中编码器和解码器是否冗余。换句话说，难道我们不能通过连接源句子和目标句子来简化 NMT 体系结构，然后用语言建模目标在结果序列上训练模型吗？
 
@@ -77,7 +77,7 @@ NLP 模型越来越渴求数据。为了避免将私人信息传输到模型中�
 
 这项工作的一个局限在于评估。他们只用 BLEU 和 TER 这两个非常有限的指标来得出结论。鉴于这两个指标的评分之间的微小差异以及与人类判断的较差相关性，作者得出的结论在其他翻译任务中可能不成立。
 
-[](/bleu-a-misunderstood-metric-from-another-age-d434e18f1b37)  
+</bleu-a-misunderstood-metric-from-another-age-d434e18f1b37>  
 
 ## [对未知语言的跨语言少量学习](https://aclanthology.org/2022.aacl-main.59/)
 
@@ -199,6 +199,6 @@ NLP 模型越来越渴求数据。为了避免将私人信息传输到模型中�
 
 *如果你喜欢这篇文章，支持我工作的最好方式就是使用我的链接成为一名媒体会员:*
 
-[](https://medium.com/@bnjmn_marie/membership)  
+<https://medium.com/@bnjmn_marie/membership>  
 
 *如果你已经是会员，想要支持这项工作，* [*就在 Medium*](https://medium.com/@bnjmn_marie) *上关注我吧。*

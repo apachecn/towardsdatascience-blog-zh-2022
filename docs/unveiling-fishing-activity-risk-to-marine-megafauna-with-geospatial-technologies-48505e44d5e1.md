@@ -14,7 +14,7 @@
 
 不幸的是，“希望”号并不是最后一条被意外捕获的鲨鱼。之后，2021 年在 GWSP 附近标记的另外三只鲸鲨开始从陆地上发出信号。[野生动物追踪器](https://www.gis4-wildlife.com/galapagos-whale-shark-project)地理框架的警报系统报告了厄瓜多尔和秘鲁海岸的鲸鲨。加拉帕戈斯鲸鲨项目与 [GIS4 野生动物运动分析](https://www.gis4-wildlife.com/)合作，撰写了一份关于这些事件中所涉及的保护工作和捕鱼活动风险的报告。在这里找到索菲亚·格林写的故事。
 
-[](https://medium.com/gis4-wildlife-tracking/application-of-the-wildlife-tracker-to-conservation-efforts-1d3cc572e4cd)  ![](img/c165158b4f3a6b8e2eff7685f51bb223.png)
+<https://medium.com/gis4-wildlife-tracking/application-of-the-wildlife-tracker-to-conservation-efforts-1d3cc572e4cd>  ![](img/c165158b4f3a6b8e2eff7685f51bb223.png)
 
 图片由 [GIS4 野生动物](https://medium.com/gis4-wildlife-tracking/application-of-the-wildlife-tracker-to-conservation-efforts-1d3cc572e4cd)提供。野生动物追踪警报系统报告的在陆地上发现的三个人的轨迹。数据来自[加拉帕戈斯鲸鲨](https://www.gis4-wildlife.com/galapagos-whale-shark-project)项目*DOI:*[*10.5281/Zeno do . 6477840*](https://github.com/gis4-wildlife/gallery-v0.3/tree/main)
 

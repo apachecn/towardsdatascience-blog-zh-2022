@@ -243,13 +243,13 @@ fig.update_layout(plot_bgcolor='rgba(0,0,0,0)')*
 
 ## *更多这样的文章*
 
-*[](/semi-automated-exploratory-data-analysis-eda-in-python-7f96042c9809)  ![Destin Gong](img/dcd4375055f8aa7602b1433a60ad5ca3.png)
+*</semi-automated-exploratory-data-analysis-eda-in-python-7f96042c9809>  ![Destin Gong](img/dcd4375055f8aa7602b1433a60ad5ca3.png)
 
 [德斯坦贡](https://destingong.medium.com/?source=post_page-----8945970f16be--------------------------------)
 
 ## EDA 和特征工程技术
 
-[View list](https://destingong.medium.com/list/eda-and-feature-engineering-techniques-e0696974ed54?source=post_page-----8945970f16be--------------------------------)9 stories![](img/7fc2bdc73b7b052566cf26034941c232.png)![](img/a7c4110e9a854cf9e9eba83dfa46e7d3.png)![](img/3ac6d4f7832c8daa758f71b1e479406c.png)[](/which-chart-to-choose-4b21929539eb)  
+[View list](https://destingong.medium.com/list/eda-and-feature-engineering-techniques-e0696974ed54?source=post_page-----8945970f16be--------------------------------)9 stories![](img/7fc2bdc73b7b052566cf26034941c232.png)![](img/a7c4110e9a854cf9e9eba83dfa46e7d3.png)![](img/3ac6d4f7832c8daa758f71b1e479406c.png)</which-chart-to-choose-4b21929539eb>  
 
 ## 参考
 
@@ -257,4 +257,4 @@ fig.update_layout(plot_bgcolor='rgba(0,0,0,0)')*
 
 [2]卡格尔。(2022).卡塔尔 2022 年足球世界杯【CC0:公有领域】。检索自[https://www . ka ggle . com/datasets/amine teffal/Qatar 2022 world cupschudule？select = historic _ win-loose-draw _ ratios _ Qatar 2022 _ teams . CSV](https://www.kaggle.com/datasets/amineteffal/qatar2022worldcupschudule?select=historical_win-loose-draw_ratios_qatar2022_teams.csv)
 
-*原载于 2022 年 12 月 10 日 https://www.visual-design.net*[](https://www.visual-design.net/post/semi-automated-exploratory-data-analysis-process-in-python)**。***
+*原载于 2022 年 12 月 10 日 https://www.visual-design.net*<https://www.visual-design.net/post/semi-automated-exploratory-data-analysis-process-in-python>**。***

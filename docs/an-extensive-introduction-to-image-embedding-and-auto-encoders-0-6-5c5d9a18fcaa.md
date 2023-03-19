@@ -121,4 +121,4 @@
 
 *如果你喜欢这本书，并且对机器学习和数据科学的新见解感兴趣，注册一个中级会员，可以完全访问我的内容。关注我，以便在我发布新章节或帖子时收到电子邮件。*
 
-[](https://medium.com/@mathiasgronne/membership) 
+<https://medium.com/@mathiasgronne/membership> 

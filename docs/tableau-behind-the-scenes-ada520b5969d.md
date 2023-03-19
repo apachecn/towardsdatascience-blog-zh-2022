@@ -18,9 +18,9 @@ Tableau 是一个令人难以置信的工具，它使每个人都能够看到和
 
 本质上，Tableau 是一个 SQL 接口，这意味着当我们打开其空白画布并开始将维度和度量拖放到视图中时，Tableau 在后台为我们编写查询以提取数据并提供我们所需的分析。
 
-更好地理解这个概念的方法是使用一个名为 **Tableau Log Viewer (TLV)** 的工具，它提供了在我们构建图表时由 Tableau 自动生成的查询的实时视图。如果你有兴趣自己尝试一下，TLV 是一个免费的工具，可以在这里下载[](https://github.com/tableau/tableau-log-viewer)**。此外，如果你对其他强大和隐藏的 Tableau 功能感到好奇，请查看我下面的另一篇文章，并让我知道我还应该添加什么。**
+更好地理解这个概念的方法是使用一个名为 **Tableau Log Viewer (TLV)** 的工具，它提供了在我们构建图表时由 Tableau 自动生成的查询的实时视图。如果你有兴趣自己尝试一下，TLV 是一个免费的工具，可以在这里下载<https://github.com/tableau/tableau-log-viewer>**。此外，如果你对其他强大和隐藏的 Tableau 功能感到好奇，请查看我下面的另一篇文章，并让我知道我还应该添加什么。**
 
-**[](/10-secret-tableau-features-you-should-start-using-right-away-b0f14efa6570) [## 你应该马上开始使用的 10 个秘密场景
+**</10-secret-tableau-features-you-should-start-using-right-away-b0f14efa6570> [## 你应该马上开始使用的 10 个秘密场景
 
 towardsdatascience.com](/10-secret-tableau-features-you-should-start-using-right-away-b0f14efa6570)** 
 
@@ -92,4 +92,4 @@ towardsdatascience.com](/10-secret-tableau-features-you-should-start-using-right
 
 **我正在创建一个与数据科学和分析相关的所有我最喜欢的课程、书籍和用例的列表。点击 [**链接**](https://landing.mailerlite.com/webforms/landing/v3w3s2) 即可在**免费**访问该内容。**
 
-**[](https://medium.com/@loresowhat/membership) **
+**<https://medium.com/@loresowhat/membership> **

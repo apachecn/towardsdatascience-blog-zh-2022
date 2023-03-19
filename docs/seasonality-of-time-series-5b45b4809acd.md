@@ -16,7 +16,7 @@
 
 在本帖中，我们将回顾一个季节性数据的例子，然后展示如何删除它。我们想要删除它的原因是为了使我们的时间序列 [**平稳**](https://www.itl.nist.gov/div898/handbook/pmc/section4/pmc442.htm) ，这是大多数预测模型的要求。如果你想了解更多关于平稳性的知识，请点击这里查看我以前的帖子:
 
-[](/time-series-stationarity-simply-explained-125269968154)  
+</time-series-stationarity-simply-explained-125269968154>  
 
 # 观看季节性
 
@@ -75,7 +75,7 @@ Critical Values:
 
 **稳定方差也是最佳实践，因为这是平稳性的条件之一。为了实现这一点，我们本来可以使用 [**框考克斯变换**](https://en.wikipedia.org/wiki/Power_transform) **。如果你想了解更多关于稳定方差的知识，请查阅我以前的文章:****
 
-**[](/box-cox-transform-for-time-series-cc45f26082c6)  
+**</box-cox-transform-for-time-series-cc45f26082c6>  
 
 # 最后的想法
 
@@ -83,7 +83,7 @@ Critical Values:
 
 本文的完整 Python 脚本可以在我的 GitHub 中找到:
 
-[](https://github.com/egorhowell/Medium-Articles/blob/main/Time%20Series/Time%20Series%20Tools/seasonality.py)  
+<https://github.com/egorhowell/Medium-Articles/blob/main/Time%20Series/Time%20Series%20Tools/seasonality.py>  
 
 # 参考资料和进一步阅读
 
@@ -97,6 +97,6 @@ Critical Values:
 *   [*LinkedIn*](https://www.linkedin.com/in/egor-howell-092a721b3/)*👔*
 *   *[*推特*](https://twitter.com/EgorHowell) 🖊*
 *   *[*github*](https://github.com/egorhowell)*🖥**
-*   **[](https://www.kaggle.com/egorphysics)**🏅****
+*   **<https://www.kaggle.com/egorphysics>**🏅****
 
 > ***(所有表情符号都是由 [OpenMoji](https://openmoji.org/) 设计的——开源的表情符号和图标项目。执照: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)*****

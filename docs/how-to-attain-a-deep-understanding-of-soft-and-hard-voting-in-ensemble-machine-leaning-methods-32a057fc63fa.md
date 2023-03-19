@@ -57,7 +57,7 @@
 
 `cross_val_predict`助手函数提供了实现这一点的代码，完整的解释可以在我关于如何为交叉折叠验证绘制混淆矩阵的文章中找到
 
-[](/how-to-plot-a-confusion-matrix-from-a-k-fold-cross-validation-b607317e9874)  
+</how-to-plot-a-confusion-matrix-from-a-k-fold-cross-validation-b607317e9874>  
 
 请注意，我为本文添加了`predicted_proba`,并引入了对`try, except`块的需求，因为并非所有算法都支持概率，并且没有一致的警告或错误来显式捕获。
 
@@ -300,4 +300,4 @@ Wall time: 4min 46s
 
 如果你想通过订阅来支持作者和全世界 1000 个为文章写作做出贡献的人，请使用下面的链接(注意:如果你使用这个链接免费注册，作者将收到一定比例的费用)。
 
-[](https://grahamharrison-86487.medium.com/membership) 
+<https://grahamharrison-86487.medium.com/membership> 

@@ -39,13 +39,13 @@
 
 本文中使用的代码可以在这里找到:
 
-[](https://github.com/khuyentran1401/prefect-dvc/tree/dvc-pipeline)  
+<https://github.com/khuyentran1401/prefect-dvc/tree/dvc-pipeline>  
 
 # 使用 DVC 管道运行修改后的数据流程
 
 [DVC](https://dvc.org/doc/start) 是数据版本控制系统。它本质上类似于 Git，但用于数据。
 
-[](/introduction-to-dvc-data-version-control-tool-for-machine-learning-projects-7cb49c229fe0)  
+</introduction-to-dvc-data-version-control-tool-for-machine-learning-projects-7cb49c229fe0>  
 
 [DVC 管道](https://dvc.org/doc/start/data-management/data-pipelines)允许你指定产生最终结果的单个数据过程(称为*阶段*)。
 
@@ -154,7 +154,7 @@ dvc push
 
 [GitHub Actions](https://github.com/features/actions) 允许你自动化你的工作流程，从而更快地构建、测试和部署你的代码。
 
-[](https://pub.towardsai.net/github-actions-in-mlops-automatically-check-and-deploy-your-ml-model-9a281d7f3c84)  
+<https://pub.towardsai.net/github-actions-in-mlops-automatically-check-and-deploy-your-ml-model-9a281d7f3c84>  
 
 在向 GitHub 提交更改时，我们将使用 GitHub 操作来运行 DVC 管道。
 
@@ -297,4 +297,4 @@ git push origin dvc-pipeline
 
 如果你想检查我写的文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/create-a-maintainable-data-pipeline-with-prefect-and-dvc-1d691ea5bcea)  [](/4-pre-commit-plugins-to-automate-code-reviewing-and-formatting-in-python-c80c6d2e9f5)  [](/pytest-for-data-scientists-2990319e55e6)  [](/great-expectations-always-know-what-to-expect-from-your-data-51214866c24) 
+</create-a-maintainable-data-pipeline-with-prefect-and-dvc-1d691ea5bcea>  </4-pre-commit-plugins-to-automate-code-reviewing-and-formatting-in-python-c80c6d2e9f5>  </pytest-for-data-scientists-2990319e55e6>  </great-expectations-always-know-what-to-expect-from-your-data-51214866c24> 

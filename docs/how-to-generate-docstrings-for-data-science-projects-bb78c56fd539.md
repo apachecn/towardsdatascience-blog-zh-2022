@@ -226,7 +226,7 @@ def add_two_values(x:int, y:int)->int:
 
 加入 Medium 阅读更多这样的文章！
 
-[](https://medium.com/@edwin.tan/membership)  
+<https://medium.com/@edwin.tan/membership>  
 
 # 参考
 

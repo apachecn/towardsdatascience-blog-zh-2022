@@ -58,4 +58,4 @@ GAN 模型生成与训练集具有相同统计信息的新数据。它由两个�
 
 我希望我说服了您，医学界可以从开发和改进 GAN 方法中受益，以生成高质量的合成医学数据。我不确定我们是否已经到了只能使用合成数据的地步，尤其是不能用于所有领域。但我认为这是一个很好的动机，让我们努力开发医疗数据的 GAN 方法。我会继续在我的地盘上调查此事，并随时通知你。
 
-[](https://openaccess.thecvf.com/content/CVPR2021W/ISIC/html/Bissoto_GAN-Based_Data_Augmentation_and_Anonymization_for_Skin-Lesion_Analysis_A_Critical_CVPRW_2021_paper.html)  [](https://arxiv.org/abs/1911.08716) 
+<https://openaccess.thecvf.com/content/CVPR2021W/ISIC/html/Bissoto_GAN-Based_Data_Augmentation_and_Anonymization_for_Skin-Lesion_Analysis_A_Critical_CVPRW_2021_paper.html>  <https://arxiv.org/abs/1911.08716> 

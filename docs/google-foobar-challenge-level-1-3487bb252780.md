@@ -97,7 +97,7 @@ Google 提供了一个`constraints.txt`文件，但是它不是很详细。例�
 
 巧合的是，我最近开发了一个移位密码的应用程序，这个问题立刻提醒了我。点击此处了解更多关于移位密码的信息:
 
-[](/shift-cipher-in-streamlit-525225667237)  
+</shift-cipher-in-streamlit-525225667237>  
 
 只有小写字符需要被破译。其他字符保持不变。首先，创建一个字典来存储编码的字符和它们被解码的对应字符。接下来，使用 for 循环遍历输入字符串中的每个字符。如果字符是小写的，从字典中取出它的解码值。如果没有，将该字符添加到答案字符串中。
 
@@ -107,4 +107,4 @@ Google 提供了一个`constraints.txt`文件，但是它不是很详细。例�
 
 我计划在以后的文章中继续描述我的 Foobar 之旅，并详细说明我是如何解决这些问题的。关注我，阅读更多关于挑战的信息。此外，欢迎所有反馈。我总是渴望学习新的或更好的做事方法。请随时留下您的评论或联系我 katyhagerty19@gmail.com。
 
-[](https://medium.com/@katyhagerty19/membership) 
+<https://medium.com/@katyhagerty19/membership> 

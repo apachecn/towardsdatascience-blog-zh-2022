@@ -29,7 +29,7 @@
 
 简而言之，SageMaker 管道是一个有向无环图(DAG ),它让我们能够根据自己的需求定义指令集。DAG 中的每个气泡对应于用户指定的指令。由于这些气泡是相互关联的，我们可以映射它们之间的依赖关系，这有助于我们将复杂的指令分成单个部分。此外，它为这些管道提供了更多的可维护性。
 
-[](https://docs.aws.amazon.com/sagemaker/latest/dg/pipelines-sdk.html)  
+<https://docs.aws.amazon.com/sagemaker/latest/dg/pipelines-sdk.html>  
 
 ## 什么是 SageMaker 本地模式，我们为什么要关心它
 

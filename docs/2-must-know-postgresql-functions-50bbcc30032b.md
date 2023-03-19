@@ -107,6 +107,6 @@ from booking
 
 我们已经介绍了 PostgreSQL 的两个重要功能。它们主要用于数据预处理，或者使原始数据更好地适合您随后要做的任务。这些函数实际上表明 SQL 不仅仅是一种查询语言，还是一种高效的数据分析和操作工具。
 
-*你可以成为* [*媒介会员*](https://sonery.medium.com/membership) *解锁我的全部写作权限，外加其余媒介。如果你已经是了，别忘了订阅*[](https://sonery.medium.com/subscribe)**如果你想在我发表新文章时收到电子邮件。**
+*你可以成为* [*媒介会员*](https://sonery.medium.com/membership) *解锁我的全部写作权限，外加其余媒介。如果你已经是了，别忘了订阅*<https://sonery.medium.com/subscribe>**如果你想在我发表新文章时收到电子邮件。**
 
 *感谢您的阅读。如果您有任何反馈，请告诉我。*

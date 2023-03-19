@@ -18,7 +18,7 @@ Git 是所有数据科学家和软件工程师都应该知道如何使用的工�
 
 如果你已经安装了 git 和 gitbash，那太好了！不用担心设置，你应该准备好了。如果没有，请随意查看下面的帖子，其中涵盖了如何安装 git 和开始使用 git 命令。
 
-[](/git-and-github-basics-for-data-scientists-b9fd96f8a02a)  
+</git-and-github-basics-for-data-scientists-b9fd96f8a02a>  
 
 ## 合并
 
@@ -158,8 +158,8 @@ git branch -f master rebase_branch
 
 如果你喜欢你所读的，并且还不是 medium 会员，请使用下面我的推荐链接注册 Medium，来支持我和这个平台上其他了不起的作家！提前感谢。
 
-[](https://philip-wilkinson.medium.com/membership)  
+<https://philip-wilkinson.medium.com/membership>  
 
 或者随意查看我在 Medium 上的其他文章:
 
-[](/eight-data-structures-every-data-scientist-should-know-d178159df252)  [](/a-complete-data-science-curriculum-for-beginners-825a39915b54)  [](https://python.plainenglish.io/a-practical-introduction-to-random-forest-classifiers-from-scikit-learn-536e305d8d87) 
+</eight-data-structures-every-data-scientist-should-know-d178159df252>  </a-complete-data-science-curriculum-for-beginners-825a39915b54>  <https://python.plainenglish.io/a-practical-introduction-to-random-forest-classifiers-from-scikit-learn-536e305d8d87> 

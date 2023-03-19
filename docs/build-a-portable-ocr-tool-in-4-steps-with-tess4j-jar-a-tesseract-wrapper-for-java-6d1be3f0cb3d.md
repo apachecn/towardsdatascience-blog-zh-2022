@@ -16,7 +16,7 @@
 
 随着 [**光学字符识别** ( **OCR** )](https://viso.ai/computer-vision/optical-character-recognition-ocr/) 技术的出现，幸运的是，手动数据提取的开销大大减少了。虽然每个 OCR 引擎在文本提取功能方面都有其优势和劣势，但我在本文中选择的实现应该是 [Tesseract-OCR](https://github.com/tesseract-ocr) ，因为它是开源的，拥有强大的社区支持和丰富的文档。由于我过去的一些与 OCR 相关的创作只利用了 [TesseractJS](https://tesseract.projectnaptha.com/) ，OCR 引擎的一个纯 JavaScript 端口*(完整的实现细节请参考下面的文章)*
 
-[](https://javascript.plainenglish.io/build-a-text-to-speech-app-using-client-side-javascript-98cd72df73bb)  [](/build-an-image-pdf-text-extraction-tool-with-tesseract-ocr-using-client-side-javascript-6126031001)  
+<https://javascript.plainenglish.io/build-a-text-to-speech-app-using-client-side-javascript-98cd72df73bb>  </build-an-image-pdf-text-extraction-tool-with-tesseract-ocr-using-client-side-javascript-6126031001>  
 
 我决定使用[Tess4J](http://tess4j.sourceforge.net/)(Java 中的 Tesseract-OCR)来代替，以便用不同的方法更深入地研究 [Tesseract-OCR](https://github.com/tesseract-ocr) 。
 
@@ -133,4 +133,4 @@
 
 **— 🌮请给我买一份玉米卷🎀˶❛◡❛)**
 
-**[](https://geek-cc.medium.com/membership) **
+**<https://geek-cc.medium.com/membership> **

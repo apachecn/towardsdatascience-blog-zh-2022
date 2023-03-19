@@ -106,4 +106,4 @@ X_new = projector.fit_transform(X)
 
 ## 参考资料:
 
-[](https://en.wikipedia.org/wiki/Random_projection)    [](https://scikit-learn.org/stable/modules/generated/sklearn.random_projection.GaussianRandomProjection.html)  [](https://scikit-learn.org/stable/modules/generated/sklearn.random_projection.SparseRandomProjection.html#sklearn.random_projection.SparseRandomProjection) 
+<https://en.wikipedia.org/wiki/Random_projection>    <https://scikit-learn.org/stable/modules/generated/sklearn.random_projection.GaussianRandomProjection.html>  <https://scikit-learn.org/stable/modules/generated/sklearn.random_projection.SparseRandomProjection.html#sklearn.random_projection.SparseRandomProjection> 

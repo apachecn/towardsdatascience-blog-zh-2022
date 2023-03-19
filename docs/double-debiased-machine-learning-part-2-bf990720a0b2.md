@@ -300,7 +300,7 @@ compare_alphas(alphas, true_alpha=1)***
 
 ***你可以在这里找到 Jupyter 的原始笔记本:***
 
-***[](https://github.com/matteocourthoud/Blog-Posts/blob/main/notebooks/pds.ipynb) *** 
+***<https://github.com/matteocourthoud/Blog-Posts/blob/main/notebooks/pds.ipynb> *** 
 
 ## ***感谢您的阅读！***
 

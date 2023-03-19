@@ -72,7 +72,7 @@
 
 一旦您构建了一个您满意的模型，它就会被部署到生产环境中。虽然您公司的软件开发团队可能会处理大部分部署工作，但这里有一些提示，告诉您如何让这个过程对他们来说更容易:
 
-[](/software-engineering-best-practices-for-data-scientists-4c199ede6e03)  
+</software-engineering-best-practices-for-data-scientists-4c199ede6e03>  
 
 # 最后的想法
 

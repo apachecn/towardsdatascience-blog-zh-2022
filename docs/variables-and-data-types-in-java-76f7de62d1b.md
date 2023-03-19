@@ -126,8 +126,8 @@ Java 是数据科学之外广泛使用的语言，但在数据科学内部，它
 
 如果你喜欢你所读的，并且还不是 medium 会员，请使用下面我的推荐链接注册 Medium，来支持我和这个平台上其他了不起的作家！提前感谢。
 
-[](https://philip-wilkinson.medium.com/membership)  
+<https://philip-wilkinson.medium.com/membership>  
 
 或者随意查看我在 Medium 上的其他文章:
 
-[](/eight-data-structures-every-data-scientist-should-know-d178159df252)  [](/a-complete-data-science-curriculum-for-beginners-825a39915b54)  [](/a-complete-guide-to-git-for-beginners-a31cb1bf7cfc) 
+</eight-data-structures-every-data-scientist-should-know-d178159df252>  </a-complete-data-science-curriculum-for-beginners-825a39915b54>  </a-complete-guide-to-git-for-beginners-a31cb1bf7cfc> 

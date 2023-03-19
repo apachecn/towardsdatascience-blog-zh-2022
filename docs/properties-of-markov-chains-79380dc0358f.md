@@ -10,9 +10,9 @@
 
 # 介绍
 
-在我之前的文章中，我们一直在获得一种 [**马尔可夫链**](https://en.wikipedia.org/wiki/Markov_chain) **的直觉。**简而言之，马尔可夫链是一个**随机过程**，它在**离散状态空间**的**离散时间**中演化，其中**状态间转移的概率仅取决于当前状态。**系统完全[](https://en.wikipedia.org/wiki/Memorylessness)****无记忆。要全面理解前面的句子，请参考我以前的文章:****
+在我之前的文章中，我们一直在获得一种 [**马尔可夫链**](https://en.wikipedia.org/wiki/Markov_chain) **的直觉。**简而言之，马尔可夫链是一个**随机过程**，它在**离散状态空间**的**离散时间**中演化，其中**状态间转移的概率仅取决于当前状态。**系统完全<https://en.wikipedia.org/wiki/Memorylessness>****无记忆。要全面理解前面的句子，请参考我以前的文章:****
 
-**[](/markov-chains-simply-explained-dc77836b47e3)  [](/markov-chains-multi-step-transitions-6772114bcc1d)  [](/markov-chains-stationary-distribution-bedd67140112)  
+**</markov-chains-simply-explained-dc77836b47e3>  </markov-chains-multi-step-transitions-6772114bcc1d>  </markov-chains-stationary-distribution-bedd67140112>  
 
 在本文中，我们将讨论马氏链的一些常见特征和性质！
 
@@ -54,7 +54,7 @@ LaTeX 中生成的方程。
 
 # **瞬态和循环状态**
 
-**一个给定的状态*被认为是[](https://mpaldridge.github.io/math2750/S09-recurrence-transience.html)**如果一旦进入该状态，有**的正概率**该链可能永远不再返回状态*。******
+**一个给定的状态*被认为是<https://mpaldridge.github.io/math2750/S09-recurrence-transience.html>**如果一旦进入该状态，有**的正概率**该链可能永远不再返回状态*。******
 
 *****一个 [**轮回的**](https://mpaldridge.github.io/math2750/S09-recurrence-transience.html) 状态基本上就是一个**不瞬的**。因此，当进入状态 ***i*** 时，存在 1 的**概率，链将**无限次**肯定返回**到给定状态(假设我们采取无限时间步长)。*********
 
@@ -75,10 +75,10 @@ LaTeX 中生成的方程。
 # ****和我联系！****
 
 *   ****要在媒体上阅读无限的故事，请务必在这里注册！ 💜****
-*   ****[](/subscribe/@egorhowell)😀****
+*   ****</subscribe/@egorhowell>😀****
 *   ****[*领英*](https://www.linkedin.com/in/egor-howell-092a721b3/) 👔****
 *   ****[*推特*](https://twitter.com/EgorHowell) 🖊****
 *   ****[*github*](https://github.com/egorhowell)*🖥*****
-*   *****[](https://www.kaggle.com/egorphysics)**🏅*******
+*   *****<https://www.kaggle.com/egorphysics>**🏅*******
 
 > *****(所有表情符号都是由 [OpenMoji](https://openmoji.org/) 设计的——开源的表情符号和图标项目。许可证: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)*******

@@ -353,10 +353,10 @@ Updating lock file 'dvc.lock'
 
 本文的源代码可以在这里找到:
 
-[](https://dagshub.com/khuyentran1401/dagshub-demo)  
+<https://dagshub.com/khuyentran1401/dagshub-demo>  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的数据科学工具。你可以在 LinkedIn 和 Twitter 上与我联系。
 
 Star [这个回购](https://github.com/khuyentran1401/Data-science)如果你想检查我写的所有文章的代码。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/orchestrate-a-data-science-project-in-python-with-prefect-e69c61a49074)  [](/introduction-to-dvc-data-version-control-tool-for-machine-learning-projects-7cb49c229fe0)  [](/introduction-to-weight-biases-track-and-visualize-your-machine-learning-experiments-in-3-lines-9c9553b0f99d)  [](/pytest-for-data-scientists-2990319e55e6) 
+</orchestrate-a-data-science-project-in-python-with-prefect-e69c61a49074>  </introduction-to-dvc-data-version-control-tool-for-machine-learning-projects-7cb49c229fe0>  </introduction-to-weight-biases-track-and-visualize-your-machine-learning-experiments-in-3-lines-9c9553b0f99d>  </pytest-for-data-scientists-2990319e55e6> 

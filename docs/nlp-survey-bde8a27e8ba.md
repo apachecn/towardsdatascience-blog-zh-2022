@@ -64,7 +64,7 @@
 
 一个热编码(作者图片)
 
-*   [](/a-simple-explanation-of-the-bag-of-words-model-b88fc4f4971)****(BoW):**这只是一个一键编码的扩展。它将句子中单词的一键表示相加。**
+*   </a-simple-explanation-of-the-bag-of-words-model-b88fc4f4971>****(BoW):**这只是一个一键编码的扩展。它将句子中单词的一键表示相加。**
 
 **![](img/e52f626e650f8879b12ea02fbbf36746.png)**
 

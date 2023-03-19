@@ -144,4 +144,4 @@ c **=** **(**a**+**b**)** ***** **(**a**-**b**)**
 
 你可能也会喜欢下面的故事:
 
-[](https://medium.com/codex/top-10-python-operations-that-every-aspiring-data-scientist-should-know-92b6f9a98ff9)  [](https://medium.com/codex/every-data-analysis-in-10-steps-960dc7e7f00b) 
+<https://medium.com/codex/top-10-python-operations-that-every-aspiring-data-scientist-should-know-92b6f9a98ff9>  <https://medium.com/codex/every-data-analysis-in-10-steps-960dc7e7f00b> 

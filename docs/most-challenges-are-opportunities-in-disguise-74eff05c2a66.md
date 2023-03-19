@@ -83,7 +83,7 @@
 *   *[**帮助你成为数据科学经理的 5 个技巧**](/5-tips-that-will-help-you-become-a-data-science-manager-bd4b6981c024)(2022 年 5 月，5 分钟)*
 *   *[**数据科学家和数据分析师终极面试准备指南**](/the-ultimate-interview-prep-guide-for-data-scientists-and-data-analysts-18621db1da47)**(2021 年 4 月，8 分钟)***
 *   ***[**作为数据科学家如何处理令人沮丧的利益相关者情况**](/how-to-deal-with-frustrating-stakeholder-situations-as-a-data-scientist-92d48e2c32f7)(2022 年 1 月，6 分钟)***
-*   ***[](/6-essential-steps-to-building-a-great-data-culture-e529d4dcad7e)**(2021 年 2 月，6 分钟)打造卓越数据文化的 6 个基本步骤*****
+*   ***</6-essential-steps-to-building-a-great-data-culture-e529d4dcad7e>**(2021 年 2 月，6 分钟)打造卓越数据文化的 6 个基本步骤*****
 
 *****想和广大观众分享一些你自己的作品吗？我们很乐意收到你的来信。*****
 

@@ -136,7 +136,7 @@
 
 基于 NVIDIA Ampere 和 NVIDIA Turing 架构的新一代 NVIDIA GPUs 支持一系列仅用于推断的精度类型。虽然 FP16 precision type 早在 2016 年就在 NVIDIA Pascal 架构中首次推出，但最新的 NVIDIA Ampere 和基于图灵的 GPU 是真正“硬件-算法协同进化”的例子。我已经在我的博客文章中讨论了 GPU、GPU 架构及其特性的完整历史:
 
-[](/choosing-the-right-gpu-for-deep-learning-on-aws-d69c157d8c86)  
+</choosing-the-right-gpu-for-deep-learning-on-aws-d69c157d8c86>  
 
 在这一节中，我将重点介绍 GPU 上量化的硬件和软件支持。
 
@@ -153,7 +153,7 @@ ML 研究和硬件社区提出了两种方法来利用量化而不损失准确�
 
 有关量化如何在 GPU 上与 NVIDIA TensorRT 一起工作的代码示例，请阅读我的博客文章:
 
-[](/a-complete-guide-to-ai-accelerators-for-deep-learning-inference-gpus-aws-inferentia-and-amazon-7a5d6804ef1c)  
+</a-complete-guide-to-ai-accelerators-for-deep-learning-inference-gpus-aws-inferentia-and-amazon-7a5d6804ef1c>  
 
 ## **用 AWS 推理进行量化**
 

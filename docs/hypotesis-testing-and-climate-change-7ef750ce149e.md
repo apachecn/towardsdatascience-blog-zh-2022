@@ -100,11 +100,11 @@ z 测试(图片由作者提供)
 
 我目前在欧洲航天局工作，我专注于改进这个门户，在那里你可以找到一群工作人员(包括数据)。
 
-[](https://earth.esa.int/eogateway)  
+<https://earth.esa.int/eogateway>  
 
 在这里你可以浏览来自**哥白尼任务的数据。**
 
-[](https://spacedata.copernicus.eu/)  [](https://scihub.copernicus.eu/)  
+<https://spacedata.copernicus.eu/>  <https://scihub.copernicus.eu/>  
 
 ## 最后的想法
 

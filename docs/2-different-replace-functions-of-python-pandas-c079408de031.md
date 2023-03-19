@@ -251,6 +251,6 @@ Name: category, dtype: int64
 
 值得注意的是，这两个函数都支持正则表达式(即 regex)，这使它们更加灵活和强大。如果您传递一个模式并希望它作为正则表达式来处理，只需将 regex 参数的值设置为 True。
 
-*你可以成为* [*媒介会员*](https://sonery.medium.com/membership) *解锁我的全部写作权限，外加其余媒介。如果你已经是了，别忘了订阅*[](https://sonery.medium.com/subscribe)**如果你想在我发表新文章时收到电子邮件。**
+*你可以成为* [*媒介会员*](https://sonery.medium.com/membership) *解锁我的全部写作权限，外加其余媒介。如果你已经是了，别忘了订阅*<https://sonery.medium.com/subscribe>**如果你想在我发表新文章时收到电子邮件。**
 
 *感谢您的阅读。如果您有任何反馈，请告诉我。*

@@ -209,6 +209,6 @@ print(model.summary())**
 
 **-盖伦，奥雷连恩。*使用 Scikit-Learn、Keras 和 TensorFlow 进行动手机器学习:构建智能系统的概念、工具和技术*。第二版。，奥莱利，2019。**
 
-**[](https://www.kaggle.com/datasets/sbhatti/financial-sentiment-analysis)  
+**<https://www.kaggle.com/datasets/sbhatti/financial-sentiment-analysis>  
 
 -该数据集属于首席运营官公共领域，允许公众使用。**

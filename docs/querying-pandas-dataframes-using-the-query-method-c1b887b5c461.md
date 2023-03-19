@@ -228,11 +228,11 @@ df.query('Parch > SibSp')
 
 作者图片
 
-[](https://weimenglee.medium.com/membership)  
+<https://weimenglee.medium.com/membership>  
 
 # 相关文章
 
-[](https://weimenglee.medium.com/performing-exploratory-data-analysis-eda-using-pivot-tables-in-pandas-3f402f95681b)  [](/working-with-multi-index-pandas-dataframes-f64d2e2c3e02)  [](/working-with-multi-index-pandas-dataframes-f64d2e2c3e02)  
+<https://weimenglee.medium.com/performing-exploratory-data-analysis-eda-using-pivot-tables-in-pandas-3f402f95681b>  </working-with-multi-index-pandas-dataframes-f64d2e2c3e02>  </working-with-multi-index-pandas-dataframes-f64d2e2c3e02>  
 
 # 摘要
 

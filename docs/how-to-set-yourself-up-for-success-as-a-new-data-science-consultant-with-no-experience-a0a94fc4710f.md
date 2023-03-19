@@ -34,7 +34,7 @@ Jef Willemyns 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=r
 
 建立你的投资组合将有助于潜在客户更好地了解你能提供给他们的服务类型。你的投资组合应该充满与你计划提供的服务相关的项目——当你计划提供客户保持数据服务时，预测股票市场并不是你技能的一个很好的指标。
 
-[](/how-to-create-a-professional-portfolio-on-github-that-will-help-land-your-first-job-in-data-science-e1fc8bd7a797)  
+</how-to-create-a-professional-portfolio-on-github-that-will-help-land-your-first-job-in-data-science-e1fc8bd7a797>  
 
 建立关系网是你的下一个任务，将涉及到接触你认识的每一个人:过去的同学、老师、朋友和家人。许多人建议给你当地黄页上列出的每一家企业打电话，但我发现与你认识的人联系可以带来更个性化的推荐。当你认识的某个人代表你向潜在客户伸出手时，你和那个潜在客户之间的个人联系就立刻形成了。然后你可以利用这种人际关系来发展付费客户。然而，你必须确保你通过这种方式赢得的每一个客户都获得了你服务的黄金标准——你的个人联系人为你冒了很大的风险，所以你必须回报他们，像他们说的那样为这个客户做得很好。这些是你应该为之付出额外努力的客户，通过建立交互式仪表盘，开发定制报告，并确保额外的客户服务和关注。
 

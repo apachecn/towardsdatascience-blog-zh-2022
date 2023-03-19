@@ -30,25 +30,25 @@ Joachim Schnürle 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medi
 
 **如果你不熟悉贝叶斯定理，我推荐你看看我以前关于这个主题的文章:**
 
-**[](https://pub.towardsai.net/conditional-probability-and-bayes-theorem-simply-explained-788a6361f333)  
+**<https://pub.towardsai.net/conditional-probability-and-bayes-theorem-simply-explained-788a6361f333>  
 
 还有另一种叫做 [**共轭先验**](https://en.wikipedia.org/wiki/Conjugate_prior) 的方法也解决了这个棘手的问题，但是它的可塑性不如 MCMC。如果你想了解更多关于共轭先验的知识，请查看我以前的文章:
 
-[](/bayesian-conjugate-priors-simply-explained-747218be0f70)  
+</bayesian-conjugate-priors-simply-explained-747218be0f70>  
 
 在这篇文章中，我们将介绍如何使用 PyMC3 包实现 [**贝叶斯线性回归**](https://en.wikipedia.org/wiki/Bayesian_linear_regression) ，并快速浏览一下它与普通的 [**线性回归**](https://en.wikipedia.org/wiki/Linear_regression) 有何不同。如果你想知道如何从零开始实现贝叶斯线性回归，那么看看我最近的帖子:
 
-[](/bayesian-regression-from-scratch-a1fe19ff64c)  
+</bayesian-regression-from-scratch-a1fe19ff64c>  
 
 # 概述:贝叶斯与频率主义回归
 
 从本质上来说， [**Frequentist**](https://en.wikipedia.org/wiki/Frequentist_inference) 和 Bayesian 回归方法之间的关键区别在于它们如何处理参数。在频率统计中，线性回归模型的参数是固定的，而在贝叶斯统计中，它们是随机变量。
 
-频率主义者使用[](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation)**的方法来推导线性回归模型的值。MLE 的结果是每个参数的单一固定值。**
+频率主义者使用<https://en.wikipedia.org/wiki/Maximum_likelihood_estimation>**的方法来推导线性回归模型的值。MLE 的结果是每个参数的单一固定值。**
 
 **然而，在贝叶斯世界中，你的参数有一个值的分布，它们可能有一定的概率。然后使用更多的数据更新这个分布，这样我们就可以更加确定参数的取值。这个过程被称为 [**贝叶斯更新**](https://en.wikipedia.org/wiki/Bayesian_inference) ，你可以在这里了解更多信息:**
 
-**[](/bayesian-updating-simply-explained-c2ed3e563588)  
+**</bayesian-updating-simply-explained-c2ed3e563588>  
 
 这是对贝叶斯和频率主义回归之间的主要区别的一瞥。如果你想要更深入的观点，有很多资源可以比我解释得更好！
 
@@ -174,7 +174,7 @@ with model_100:
 
 HDI 代表 [**高密度区间**](https://stats.stackexchange.com/questions/148439/what-is-a-highest-density-region-hdr) ，描述了我们在参数估计中的确定性。如果你想了解更多关于人类发展指数的信息，请查看我在[T21【贝叶斯可信区间 上的博文:](https://en.wikipedia.org/wiki/Credible_interval)
 
-[](/bayesian-credible-intervals-simply-explained-24989c9259a3)  
+</bayesian-credible-intervals-simply-explained-24989c9259a3>  
 
 这个模拟只使用了我们数据中的 100 个样本。与贝叶斯方法一样，我们随着更多的数据变得更加确定。
 
@@ -226,7 +226,7 @@ with model_10_100:
 
 要查看我在这篇文章中使用的全部代码，请点击这里查看 GitHub 上的笔记本:
 
-[](https://github.com/egorhowell/Medium-Articles/blob/main/Statistics/pymc3_tutorial.ipynb)  
+<https://github.com/egorhowell/Medium-Articles/blob/main/Statistics/pymc3_tutorial.ipynb>  
 
 # 结论
 
@@ -239,6 +239,6 @@ with model_10_100:
 *   [*领英*](https://www.linkedin.com/in/egor-howell-092a721b3/) 👔
 *   [*推特*](https://twitter.com/EgorHowell) 🖊
 *   [*github*](https://github.com/egorhowell)*🖥*
-*   *[](https://www.kaggle.com/egorphysics)**🏅***
+*   *<https://www.kaggle.com/egorphysics>**🏅***
 
 > ***(所有表情符号由 [OpenMoji](https://openmoji.org/) 设计——开源表情符号和图标项目。许可证: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)*******

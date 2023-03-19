@@ -46,6 +46,6 @@ OLEDB 也是微软开发的，为数据库提供应用编程接口(简称:API)�
 *   这个接口为程序员提供了以简单和不复杂的方式组合几个数据库及其信息的可能性。
 *   但是，使用它会导致比直接访问更长查询时间。此外，系统必须预先为数据库配备适当的驱动程序。
 
-*如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
+*如果你喜欢我的作品，请在这里订阅*<https://medium.com/subscribe/@niklas_lang>**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
 
-*[](/comprehensive-guide-to-principal-component-analysis-bb4458fff9e2)  [](/why-you-should-know-big-data-3c0c161b9e14)  [](/what-are-deepfakes-and-how-do-you-recognize-them-f9ab1a143456) *
+*</comprehensive-guide-to-principal-component-analysis-bb4458fff9e2>  </why-you-should-know-big-data-3c0c161b9e14>  </what-are-deepfakes-and-how-do-you-recognize-them-f9ab1a143456> *

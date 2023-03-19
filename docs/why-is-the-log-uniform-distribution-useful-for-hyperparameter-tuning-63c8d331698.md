@@ -91,4 +91,4 @@ Number of values between 10 and 100: 1614
 
 您可能还会对以下内容感兴趣:
 
-[](/8-more-useful-pandas-functionalities-for-your-analyses-ef87dcfe5d74)  [](/pur-the-easiest-way-to-keep-your-requirements-file-up-to-date-22d835279348)  [](/a-simple-way-to-turn-your-plots-into-gifs-in-python-f6ea4435ed3c) 
+</8-more-useful-pandas-functionalities-for-your-analyses-ef87dcfe5d74>  </pur-the-easiest-way-to-keep-your-requirements-file-up-to-date-22d835279348>  </a-simple-way-to-turn-your-plots-into-gifs-in-python-f6ea4435ed3c> 

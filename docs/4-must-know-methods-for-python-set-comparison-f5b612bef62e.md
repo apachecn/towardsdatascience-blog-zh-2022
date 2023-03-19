@@ -117,10 +117,10 @@ C = {2, 4, 20, 21} A.union(B, C)
 
 我们已经介绍了用于比较两组或更多组的 4 种不同方法。如果你想了解更多关于集合的知识，这里有一篇我以前写的更详细的文章:
 
-[](/12-examples-to-master-python-sets-71802ea56de3)  
+</12-examples-to-master-python-sets-71802ea56de3>  
 
-*你可以成为* [*媒介会员*](https://sonery.medium.com/membership) *解锁我的全部写作权限，外加其余媒介。如果你已经是了，别忘了订阅*[](https://sonery.medium.com/subscribe)**如果你想在我发表新文章时收到电子邮件。**
+*你可以成为* [*媒介会员*](https://sonery.medium.com/membership) *解锁我的全部写作权限，外加其余媒介。如果你已经是了，别忘了订阅*<https://sonery.medium.com/subscribe>**如果你想在我发表新文章时收到电子邮件。**
 
-*[](https://sonery.medium.com/membership)  
+*<https://sonery.medium.com/membership>  
 
 感谢您的阅读。如果您有任何反馈，请告诉我。*

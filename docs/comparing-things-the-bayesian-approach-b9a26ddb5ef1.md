@@ -143,10 +143,10 @@ ELO 系统的一个方便的数学属性是，基于两个队的评级，我们�
 
 如果你喜欢这篇文章，为什么不订阅电子邮件更新我的新文章呢？并且通过 [**成为媒介会员**](https://michaloleszak.medium.com/membership) ，可以支持我的写作，获得其他作者和我自己的所有故事的无限访问权限。
 
-需要咨询？你可以问我任何事情，也可以在这里为我预约 1:1[](http://hiretheauthor.com/michal)**。**
+需要咨询？你可以问我任何事情，也可以在这里为我预约 1:1<http://hiretheauthor.com/michal>**。**
 
 **你也可以试试我的另一篇文章。不能选择？从这些中选择一个:**
 
-**[](/on-the-importance-of-bayesian-thinking-in-everyday-life-a74475fcceeb)  [](/the-gentlest-of-introductions-to-bayesian-data-analysis-74df448da25) [## 贝叶斯数据分析最温和的介绍
+**</on-the-importance-of-bayesian-thinking-in-everyday-life-a74475fcceeb>  </the-gentlest-of-introductions-to-bayesian-data-analysis-74df448da25> [## 贝叶斯数据分析最温和的介绍
 
-towardsdatascience.com](/the-gentlest-of-introductions-to-bayesian-data-analysis-74df448da25) [](/bayesian-tricks-for-everyday-use-2b51da45f3ec) **
+towardsdatascience.com](/the-gentlest-of-introductions-to-bayesian-data-analysis-74df448da25) </bayesian-tricks-for-everyday-use-2b51da45f3ec> **

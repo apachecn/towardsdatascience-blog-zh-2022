@@ -84,7 +84,7 @@ SRS 是我们教给统计学新手的第一个(有时也是唯一的)抽样程�
 
 那么，专业统计学家的回答会是什么样的呢？要找到答案，请前往[第二部分](https://bit.ly/quaesita_srstrees2)！
 
-[](https://kozyrkov.medium.com/how-to-create-a-sampling-plan-for-your-data-project-3b14bfd81f3a)  
+<https://kozyrkov.medium.com/how-to-create-a-sampling-plan-for-your-data-project-3b14bfd81f3a>  
 
 你有没有试过在 Medium 上不止一次按下拍手按钮，看看会发生什么？ ❤️
 

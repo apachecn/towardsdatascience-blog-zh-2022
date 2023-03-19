@@ -874,4 +874,4 @@ array([[101., 102., 103., 104., 105.],
 
 和任何技能一样，掌握数字所需要的只是耐心、坚持和练习。你可以从 StrataScratch 上的实际数据科学面试中尝试这些和许多其他的[数据科学面试问题](https://www.stratascratch.com/blog/data-science-interview-guide-questions-from-80-different-companies/?utm_source=blog&utm_medium=click&utm_campaign=medium)。加入由 40，000 多名志同道合的数据科学爱好者组成的社区。你可以练习 1000 多个不同难度的编码和非编码问题。今天就加入 StaraScratch，让你在苹果、网飞、微软等顶级科技公司工作的梦想成为现实，或者在 Noom、Doordash 等热门初创公司工作的梦想成为现实。所有的代码示例都可以在 [Github](https://github.com/viveknest/statascratch-solutions/blob/main/NumPy%20for%20Data%20Science%20Part%2002.ipynb) 这里找到。
 
-【https://www.stratascratch.com】最初发表于[](https://www.stratascratch.com/blog/numpy-for-data-science-interviews-part-02/?utm_source=blog&utm_medium=click&utm_campaign=medium)**。**
+【https://www.stratascratch.com】最初发表于<https://www.stratascratch.com/blog/numpy-for-data-science-interviews-part-02/?utm_source=blog&utm_medium=click&utm_campaign=medium>**。**

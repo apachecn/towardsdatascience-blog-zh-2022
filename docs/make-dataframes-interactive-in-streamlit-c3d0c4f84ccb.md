@@ -71,7 +71,7 @@ AgGrid(df)
 
 我已经写了两篇详细的文章，关于如何创建一个带有自定义标记和工具提示的叶子地图，就像上面显示的那样，所以我不会在这篇文章中花时间解释这部分是如何完成的。你可以阅读我的文章[在这里](/folium-map-how-to-create-a-table-style-pop-up-with-html-code-76903706b88a)了解更多关于叶地图。
 
-[](/folium-map-how-to-create-a-table-style-pop-up-with-html-code-76903706b88a)  [](/use-html-in-folium-maps-a-comprehensive-guide-for-data-scientists-3af10baf9190)  
+</folium-map-how-to-create-a-table-style-pop-up-with-html-code-76903706b88a>  </use-html-in-folium-maps-a-comprehensive-guide-for-data-scientists-3af10baf9190>  
 
 正如我前面提到的，`streamlit-aggrid`有更多的特性可以探索。例如，您可以使单元格可编辑，根据最大/最小值突出显示单元格，使列可分组，等等。你可以查看 streamlit-aggrid 的 [GitHub](https://github.com/PablocFonseca/streamlit-aggrid) 页面来获得更多的例子。
 

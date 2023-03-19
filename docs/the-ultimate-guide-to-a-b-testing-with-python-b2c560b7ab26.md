@@ -80,7 +80,7 @@
 
 **虽然我已经包含了在这个故事中执行 A/B 测试的关键代码结构，但是浏览整个笔记本还是有好处的。我宁愿建议你在阅读这个故事的过程中，让它在后台保持打开状态。**
 
-**[](https://github.com/rjrahul24/statistics_with_python/tree/main/A:B%20Testing)  
+**<https://github.com/rjrahul24/statistics_with_python/tree/main/A:B%20Testing>  
 
 # 结论
 
@@ -94,7 +94,7 @@
 
 如果你喜欢这个故事，我经常写关于数据科学、统计学、机器学习和气候变化的文章。这里有一些阅读材料可以帮助你前进。
 
-[](https://medium.com/geekculture/probability-has-nothing-to-do-with-the-likelihood-of-an-events-occurrence-a9475a365ac0)  [](/algorithmic-thinking-for-data-science-ab8c91416d83)  [](/the-ultimate-guide-to-emotion-recognition-from-facial-expressions-using-python-64e58d4324ff)  
+<https://medium.com/geekculture/probability-has-nothing-to-do-with-the-likelihood-of-an-events-occurrence-a9475a365ac0>  </algorithmic-thinking-for-data-science-ab8c91416d83>  </the-ultimate-guide-to-emotion-recognition-from-facial-expressions-using-python-64e58d4324ff>  
 
 # 关于我
 

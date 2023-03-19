@@ -277,6 +277,6 @@ p 值表示哪些协变量对生存期有显著影响。基于这些结果，`fi
 
 如果您熟悉生存分析的方法，但想知道为什么它能在时间-事件数据上胜过其他类型的分析，请查看下面的文章:
 
-[](/survival-analysis-a-brief-introduction-bdba3a275b5f)  
+</survival-analysis-a-brief-introduction-bdba3a275b5f>  
 
 我祝你在数据科学的努力中好运！

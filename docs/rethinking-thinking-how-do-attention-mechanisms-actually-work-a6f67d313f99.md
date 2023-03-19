@@ -272,7 +272,7 @@ RNNSearch 包括一个双向递归神经网络(BiRNN)作为其编码器和一个
 
 **另外，看看这篇关于变形金刚的文章:**
 
-**[](/transformers-in-action-attention-is-all-you-need-ac10338a023a) ** 
+**</transformers-in-action-attention-is-all-you-need-ac10338a023a> ** 
 
 # **5.结论**
 

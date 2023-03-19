@@ -12,7 +12,7 @@
 
 在我最近的一篇关于堆叠的文章中，我通过建立一个可视化的工作流程，探索了什么是堆叠以及它是如何工作的，这个工作流程包含了创建堆叠模型的 4 个主要步骤。
 
-[](/a-deep-dive-into-stacking-ensemble-machine-learning-part-i-10476b2ade3)  
+</a-deep-dive-into-stacking-ensemble-machine-learning-part-i-10476b2ade3>  
 
 然而，要真正理解堆叠模型内部发生了什么(从而理解何时以及如何在机器学习中采用这种方法)，通过编写一些代码来了解算法是必不可少的。
 
@@ -208,4 +208,4 @@ Best stack method:  predict_proba
 
 如果你想通过订阅来支持作者和全世界 1000 个为文章写作做出贡献的人，请使用下面的链接(注意:如果你使用这个链接免费注册，作者将收到一定比例的费用)。
 
-[](https://grahamharrison-86487.medium.com/membership) 
+<https://grahamharrison-86487.medium.com/membership> 

@@ -85,11 +85,11 @@ Select a surrogate model for modeling the objective function and define its prio
 
 如果你有兴趣阅读更多关于贝叶斯优化的内容，我推荐你阅读这篇伟大的文章:
 
-[](https://distill.pub/2020/bayesian-optimization/)  
+<https://distill.pub/2020/bayesian-optimization/>  
 
 几个 Python 包使用贝叶斯优化来获得机器学习模型的最佳超参数。一些例子有:[远视](http://hyperopt.github.io/)；[Optuna](https://optuna.org/)；[贝叶斯优化](https://github.com/fmfn/BayesianOptimization)；[Scikit-optimize(skopt)](https://scikit-optimize.github.io/stable/index.html)；[GPyOpt](https://sheffieldml.github.io/GPyOpt/)； [pyGPGO](https://pygpgo.readthedocs.io/en/latest/) 和 [*芒果*](https://github.com/ARM-software/mango) 。这个列表很长，我没有提到其他库。对于其他软件包的一个很好的总结，你可以阅读这篇博文:
 
-[](/10-hyperparameter-optimization-frameworks-8bc87bc8b7e3)  
+</10-hyperparameter-optimization-frameworks-8bc87bc8b7e3>  
 
 现在，让我们一起深入*芒果*！
 
@@ -119,7 +119,7 @@ Mango 使用聚类方法来扩展贝叶斯优化方法。采集函数上的彩�
 
 如果你有兴趣了解更多关于 *Mango* 的内部运作，你可以阅读[原文](https://arxiv.org/pdf/2005.11394.pdf)或者访问这个由库的作者写的漂亮的博客:
 
-[](https://community.arm.com/arm-research/b/articles/posts/scalable-hyperparameter-tuning-for-automl)  
+<https://community.arm.com/arm-research/b/articles/posts/scalable-hyperparameter-tuning-for-automl>  
 
 ## 简单的例子
 

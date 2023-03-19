@@ -72,7 +72,7 @@ Q 学习算法利用包含状态-动作对的 **Q 表** (2D 矩阵)，使得表/
 
 期望回报、状态价值和行动价值函数的方程式。作者图片
 
-[](https://www.analyticsvidhya.com/blog/2021/02/understanding-the-bellman-optimality-equation-in-reinforcement-learning/)  
+<https://www.analyticsvidhya.com/blog/2021/02/understanding-the-bellman-optimality-equation-in-reinforcement-learning/>  
 
 动作值函数的结果称为 Q 值，如前所述，它是构成 Q 表的每个像元。因此，Q 表为我们提供了从某个状态采取某个动作的预期好处，代理将使用该信息在环境中最优地移动。因此，代理的目标将是找到**最优动作值函数**， **q*(S，A)** ，(最优 Q 值)，使得它遵循任何策略从任何状态-动作对返回最高可能的回报。
 
@@ -125,7 +125,7 @@ q-学习伪代码。摘自萨顿和巴尔托:《强化学习:
 
 为了便于理解和学习，Q-Learning 算法的完整实现，以及受过训练的代理的可视化和评估，可以在我的 GitHub 存储库中找到，作为一个 Jupyter 笔记本。
 
-[](https://github.com/JavierMtz5/ArtificialIntelligence)  
+<https://github.com/JavierMtz5/ArtificialIntelligence>  
 
 然而，我不得不提到，这篇文章仅涉及算法的理论和介绍性概念，并不关注它在代码中的实现。这是因为这个月我将发表另一篇文章，专门关注该算法的实现及其在一个已知的 OpenAI 健身房环境中的实际应用。如果你有兴趣，请跟我来，这样你就不会错过了！
 

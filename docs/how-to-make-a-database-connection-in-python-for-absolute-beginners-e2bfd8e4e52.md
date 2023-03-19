@@ -18,7 +18,7 @@
 
 有许多数据库符合 ODBC 和 pyodbc，在本文中我们将使用 MS SQL。如果您正在使用 PostgreSQL，那么请查看下面的文章，了解更优化的方法。
 
-[](https://mikehuls.medium.com/creating-a-python-postgresql-connection-for-absolute-beginners-501b97f73de1)  
+<https://mikehuls.medium.com/creating-a-python-postgresql-connection-for-absolute-beginners-501b97f73de1>  
 
 ## 生成 SQL 查询
 
@@ -41,7 +41,7 @@
 
 您可以将这种通信协议与 HTTP 协议进行比较，HTTP 协议有助于计算机之间通过 internet 进行通信:客户端知道如何请求资源，服务器知道如何响应，客户端知道响应是什么样的，因此它们可以使用这些信息。同样，**客户端可以使用 *ODBC 协议*与数据库**通信。
 
-[](/docker-for-absolute-beginners-the-difference-between-an-image-and-a-container-7e07d4c0c01d)  
+</docker-for-absolute-beginners-the-difference-between-an-image-and-a-container-7e07d4c0c01d>  
 
 # 连接到数据库—代码部分
 
@@ -55,7 +55,7 @@
 pip install pyodbc
 ```
 
-[](/virtual-environments-for-absolute-beginners-what-is-it-and-how-to-create-one-examples-a48da8982d4b)  
+</virtual-environments-for-absolute-beginners-what-is-it-and-how-to-create-one-examples-a48da8982d4b>  
 
 ## 第一步。收集我们的凭证
 
@@ -74,7 +74,7 @@ database = os.environ.get("SQLSERVER_DB")
 
 通过学习如何应用下面文章中的`env files`来防止您的密码泄露:
 
-[](/keep-your-code-secure-by-using-environment-variables-and-env-files-4688a70ea286)  
+</keep-your-code-secure-by-using-environment-variables-and-env-files-4688a70ea286>  
 
 ## 第二步。创建连接字符串
 
@@ -102,7 +102,7 @@ constring = f"DRIVER={driver};" \
 DRIVER=ODBC Driver 17 for SQL Server;SERVER=my_host;DATABASE=my_database;UID=my_username;PWD={my_}}password};port=my_port;
 ```
 
-[](/getting-started-with-cython-how-to-perform-1-7-billion-calculations-per-second-in-python-b83374cfcf77)  
+</getting-started-with-cython-how-to-perform-1-7-billion-calculations-per-second-in-python-b83374cfcf77>  
 
 ## 第三步。连接
 
@@ -134,7 +134,7 @@ with cnxn.cursor() as cursor:
 
 使用上下文管理器(`with`部分)会使光标自动关闭。此外，它将提交(您必须`commit`插入；看下面的例子)你在`try`块中执行的任何东西。如果它检测到错误，它将回滚所有查询。请注意，这仅适用于使用`autocommit=False`(默认设置)创建连接的情况。
 
-[](https://medium.com/geekculture/understanding-python-context-managers-for-absolute-beginners-4873b6249f16)  
+<https://medium.com/geekculture/understanding-python-context-managers-for-absolute-beginners-4873b6249f16>  
 
 # 额外收获:示例查询
 
@@ -151,7 +151,7 @@ with cnxn.cursor() as cursor:
         print(row)
 ```
 
-[](/sql-understand-how-indices-work-under-the-hood-to-speed-up-your-queries-a7f07eef4080)  
+</sql-understand-how-indices-work-under-the-hood-to-speed-up-your-queries-a7f07eef4080>  
 
 ## **查询 2:选择记录；转换为字典列表，其中每个字典为一行**
 
@@ -177,7 +177,7 @@ with cnxn.cursor() as cursor:
     cursor.execute("INSERT INTO med.mytable (name, age)  VALUES (?,?)", "mike", 32)
 ```
 
-[](/sql-insert-delete-and-update-in-one-statement-sync-your-tables-with-merge-14814215d32c) [## SQL —在一条语句中插入、删除和更新:用 MERGE 同步表
+</sql-insert-delete-and-update-in-one-statement-sync-your-tables-with-merge-14814215d32c> [## SQL —在一条语句中插入、删除和更新:用 MERGE 同步表
 
 towardsdatascience.com](/sql-insert-delete-and-update-in-one-statement-sync-your-tables-with-merge-14814215d32c) 
 
@@ -192,7 +192,7 @@ with cnxn.cursor() as cursor:
     cursor.execute("INSERT INTO med.mytable (name, age)  VALUES (?,?)", "mr. c", 55, "toomany")
 ```
 
-[](/sql-rolling-back-statements-with-transactions-81937811e7a7)  
+</sql-rolling-back-statements-with-transactions-81937811e7a7>  
 
 ## 查询 5:超快速插入
 
@@ -211,7 +211,7 @@ with cnxn.cursor() as cursor:
 
 阅读下面的文章，了解`fast_executemany`的内部工作原理。
 
-[](/dramatically-improve-your-database-inserts-with-a-simple-upgrade-6dfa672f1424)  
+</dramatically-improve-your-database-inserts-with-a-simple-upgrade-6dfa672f1424>  
 
 # 重要的
 
@@ -223,7 +223,7 @@ with cnxn.cursor() as cursor:
 
 请务必查看 [**此链接**](https://mikehuls.com/articles?tags=sql) 以获得许多有用查询的详细概述。最后，下面的文章详细介绍了如何实现数据库迁移。这使得以编程方式设计和版本控制数据库成为可能。
 
-[](/python-database-migrations-for-beginners-getting-started-with-alembic-84e4a73a2cca)  
+</python-database-migrations-for-beginners-getting-started-with-alembic-84e4a73a2cca>  
 
 # 结论
 
@@ -243,4 +243,4 @@ with cnxn.cursor() as cursor:
 
 附注:喜欢我正在做的事吗？ [*跟我来！*](https://mikehuls.medium.com/membership)
 
-[](https://mikehuls.medium.com/membership) 
+<https://mikehuls.medium.com/membership> 

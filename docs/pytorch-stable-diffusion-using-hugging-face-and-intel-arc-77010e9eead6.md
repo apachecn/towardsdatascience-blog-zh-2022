@@ -32,7 +32,7 @@
 
 首先，我们需要安装英特尔 Arc 驱动程序和[英特尔 oneAPI 基础工具包](https://www.intel.com/content/www/us/en/developer/tools/oneapi/base-toolkit.html)，因此我们遵循以下说明:
 
-[](https://www.intel.com/content/www/us/en/develop/documentation/installation-guide-for-intel-oneapi-toolkits-linux/top.html)  
+<https://www.intel.com/content/www/us/en/develop/documentation/installation-guide-for-intel-oneapi-toolkits-linux/top.html>  
 
 具体来说，我正在使用位于[这里](https://www.intel.com/content/www/us/en/develop/documentation/installation-guide-for-intel-oneapi-toolkits-linux/top/installation/install-using-package-managers/apt.html#apt)的 APT 指令，特别注意准确地遵循安装英特尔 GPU 驱动程序(步骤 2)中的指令。我用 Linux 6.0.x 内核中包含的驱动程序尝试了这一点，遇到了一些问题，所以我建议您尝试 DKMS 指令，并在指令中使用内核 5.17.xxx。
 
@@ -71,7 +71,7 @@
 
 如果您没有拥抱脸帐户，您需要在此处创建一个:
 
-[](https://huggingface.co)  
+<https://huggingface.co>  
 
 回到我们的系统，我们设置了 Hugging Face Hub 和一些基本库，并从 Hugging Face 中获取了扩散器和稳定的扩散代码:
 
@@ -137,7 +137,7 @@ AI GPU image for medium post
 
 正如[英特尔 GPU 对 Blender](https://code.blender.org/2022/09/intel-arc-gpu-support-for-cycles/) 的支持令许多人兴奋一样，对流行的人工智能框架的支持只是英特尔 GPU 故事的另一个里程碑。对于我们这些从事渲染、视频编辑、人工智能和其他计算工作负载的人来说，现在是对英特尔 GPU 感到兴奋的时候了。
 
-*如果你想看看我在看什么科技新闻，你可以在 Twitter 上关注我*[](https://twitter.com/tonymongkolsmai)**。此外，一起查看* [*代码*](https://connectedsocialmedia.com/category/code-together/) *，这是我主持的面向开发者的英特尔播客，我们在这里讨论技术。**
+*如果你想看看我在看什么科技新闻，你可以在 Twitter 上关注我*<https://twitter.com/tonymongkolsmai>**。此外，一起查看* [*代码*](https://connectedsocialmedia.com/category/code-together/) *，这是我主持的面向开发者的英特尔播客，我们在这里讨论技术。**
 
 **Tony 是英特尔的一名软件架构师和技术宣传员。他开发过多种软件开发工具，最近领导软件工程团队构建了数据中心平台，实现了 Habana 的可扩展 MLPerf 解决方案。**
 

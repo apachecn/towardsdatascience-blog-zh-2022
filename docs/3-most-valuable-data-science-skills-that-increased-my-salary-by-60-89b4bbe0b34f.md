@@ -65,11 +65,11 @@
 
 不确定接下来要读什么？我为你挑选了另一篇文章:
 
-[](/the-5-best-data-science-books-you-should-read-in-2022-9209616c203f)  
+</the-5-best-data-science-books-you-should-read-in-2022-9209616c203f>  
 
 **还有一个:**
 
-[](/over-100-data-scientist-interview-questions-and-answers-c5a66186769a)  
+</over-100-data-scientist-interview-questions-and-answers-c5a66186769a>  
 
 ## -特伦斯·申
 

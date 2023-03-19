@@ -12,7 +12,7 @@
 
 Elias 专注于研究城市和主动移动性，尤其是自行车共享系统数据的使用。我在一篇关于赫尔辛基地区自行车共享运动聚合的旧文章中提到过他的研究。
 
-[](/visualization-of-bike-sharing-system-movements-in-helsinki-with-an-interactive-flow-map-451d897104fe)  
+</visualization-of-bike-sharing-system-movements-in-helsinki-with-an-interactive-flow-map-451d897104fe>  
 
 但是我发现 Elias 在 30DayMapChallenge 中的可视化很吸引人，它代表了自行车共享系统用户在他们的轨迹中从起点到终点的移动。我记得当他在处理它的时候，由于数据集的大小，他在晚上离开了计算机渲染。运行脚本 12 个小时，希望在处理过程中没有错误，这种体验对于大型数据集来说是常见的。因此，在开始我未来与大规模运动数据集可视化相关的项目之前，Elias 的经历对我来说非常有价值，很高兴与地理空间社区分享它。
 
@@ -28,7 +28,7 @@ Elias 专注于研究城市和主动移动性，尤其是自行车共享系统�
 
 灵感和伟大的想法不仅仅来自埃利亚斯。由[蒂格兰**T2【Khachatryan**](https://www.linkedin.com/in/geometrein/?originalSubdomain=fi)撰写的关于赫尔辛基地区自行车网络的网络分析非常有价值。中型简介包含非常有趣的文章，有许多见解。如果你在 Medium 上，查看他的个人资料，然后关注[蒂格兰·哈恰特良](https://medium.com/u/782bd18bc46d?source=post_page-----c38b4aed6b06--------------------------------)。尤其是他的上一篇文章。
 
-[](https://geometrein.medium.com/wolt-delivery-network-analysis-cccdc4cb50e3)  
+<https://geometrein.medium.com/wolt-delivery-network-analysis-cccdc4cb50e3>  
 
 关于自行车共享系统的许多灵感及其数据集分析的许多可能性。所以，我决定加入我自己的。我可以更像 Elias 那样描述我的可视化，因为我想创建一个地图动画，重点关注自行车共享系统用户在他们的轨迹中的运动。查看我这篇关于爱沙尼亚塔尔图自行车数据地理可视化的文章。
 
@@ -42,7 +42,7 @@ Elias 专注于研究城市和主动移动性，尤其是自行车共享系统�
 
 我将从 OSM 数据中提取的自行车街道网络添加到地理可视化中。获取数据集的代码可以在本文的知识库中找到:
 
-[](/shortest-path-algorithm-used-in-osm-street-network-33e0f864f34b)  
+</shortest-path-algorithm-used-in-osm-street-network-33e0f864f34b>  
 
 ## 关于数据集和许可
 

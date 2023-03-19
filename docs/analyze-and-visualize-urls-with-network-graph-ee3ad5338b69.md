@@ -194,13 +194,13 @@ pip install graphistry
 
 随意发挥，并在这里叉这篇文章的源代码:
 
-[](https://github.com/khuyentran1401/Data-science/blob/master/visualization/analyze_URL/analyze_URL.ipynb)  
+<https://github.com/khuyentran1401/Data-science/blob/master/visualization/analyze_URL/analyze_URL.ipynb>  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的数据科学工具。你可以在 LinkedIn 和 T2 Twitter 上与我联系。
 
 星[这个回购](https://github.com/khuyentran1401/Data-science)如果你想检查我写的所有文章的代码。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/visualize-github-social-network-with-pygraphistry-dfc23a38ec8d)  [](/pyvis-visualize-interactive-network-graphs-in-python-77e059791f01)  [](/observe-the-friend-paradox-in-facebook-data-using-python-314c23fd49e4)  [](https://pub.towardsai.net/visualize-gender-specific-tweets-with-scattertext-5167e4600025)  
+</visualize-github-social-network-with-pygraphistry-dfc23a38ec8d>  </pyvis-visualize-interactive-network-graphs-in-python-77e059791f01>  </observe-the-friend-paradox-in-facebook-data-using-python-314c23fd49e4>  <https://pub.towardsai.net/visualize-gender-specific-tweets-with-scattertext-5167e4600025>  
 
 # 参考
 

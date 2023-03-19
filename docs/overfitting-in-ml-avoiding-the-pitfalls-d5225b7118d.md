@@ -60,7 +60,7 @@
 
 防止过度拟合的一种方法是使用正则化。正则化是一种为模型添加过多参数或参数值较大的惩罚的技术。这种惩罚鼓励模型只学习数据中最重要的模式，这有助于防止过度拟合。
 
-[](/regularization-avoiding-overfitting-in-machine-learning-bb65d993e9cc) [## 正规化——查看这篇文章了解更多细节！
+</regularization-avoiding-overfitting-in-machine-learning-bb65d993e9cc> [## 正规化——查看这篇文章了解更多细节！
 
 towardsdatascience.com](/regularization-avoiding-overfitting-in-machine-learning-bb65d993e9cc) 
 

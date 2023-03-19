@@ -14,7 +14,7 @@
 詹妮弗·博伊尔在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上的照片
 
 *   [**对抗性训练来救援？**](/ganomaly-paper-review-semi-supervised-anomaly-detection-via-adversarial-training-a6f7a64a265f) 异常检测在计算机视觉中尤其困难，在这种情况下，小数据量和通常有限的图像种类使得模型训练成为一种挑战。尤金妮亚·阿内洛(Eugenia Anello)的有益解释者带领我们通过一种新颖的方法 GANomaly，它利用生成对抗网络的力量来解决以前方法的缺点。
-*   [](/dealing-with-outliers-using-three-robust-linear-regression-models-544cfbd00767)**保持线性回归的异常值。要实际演示稳健的线性算法，以及如何使用它们处理数据中潜伏的异常值，你应该看看[埃里克·莱文森](https://medium.com/u/44bc27317e6b?source=post_page-----2673ab0dea85--------------------------------)最近的教程。它涵盖了 Huber 回归、随机样本一致性(RANSAC)回归和 Theil-Sen 回归，并在同一数据集上对它们的性能进行了基准测试。**
+*   </dealing-with-outliers-using-three-robust-linear-regression-models-544cfbd00767>**保持线性回归的异常值。要实际演示稳健的线性算法，以及如何使用它们处理数据中潜伏的异常值，你应该看看[埃里克·莱文森](https://medium.com/u/44bc27317e6b?source=post_page-----2673ab0dea85--------------------------------)最近的教程。它涵盖了 Huber 回归、随机样本一致性(RANSAC)回归和 Theil-Sen 回归，并在同一数据集上对它们的性能进行了基准测试。**
 
 **对于其他主题的顶级文章，我们在下面收集了一些我们最近喜欢的文章。不要害怕:这里没有局外人，只有持续启发性的讨论。**
 

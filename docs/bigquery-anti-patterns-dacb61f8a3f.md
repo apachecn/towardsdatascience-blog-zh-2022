@@ -73,7 +73,7 @@
 
 关于 OLAP 和 OLTP 系统之间的主要区别的更多细节，您可以阅读我最近的一篇文章。
 
-[](/oltp-vs-olap-9ac334baa370)  
+</oltp-vs-olap-9ac334baa370>  
 
 ## 最后的想法
 
@@ -90,8 +90,8 @@
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership)  
+<https://gmyrianthous.medium.com/membership>  
 
 **相关文章您可能也喜欢**
 
-[](/visual-sql-joins-4e3899d9d46c)  [](/2-rules-groupby-sql-6ff20b22fd2c)  [](/sql-select-distinct-277c61012800) 
+</visual-sql-joins-4e3899d9d46c>  </2-rules-groupby-sql-6ff20b22fd2c>  </sql-select-distinct-277c61012800> 

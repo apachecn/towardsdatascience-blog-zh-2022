@@ -34,7 +34,7 @@
 
 一种使算法更有效的技术叫做记忆化。记忆通过将先前计算的结果存储在高速缓存中来加速算法。因此，该函数只需要查找节点的结果，而无需再次运行计算。如果你对斐波那契问题感兴趣，可以用 Real Python 查看这篇文章。
 
-[](https://realpython.com/fibonacci-sequence-python/#generating-the-fibonacci-sequence-recursively-in-python)  
+<https://realpython.com/fibonacci-sequence-python/#generating-the-fibonacci-sequence-recursively-in-python>  
 
 **存储最常请求的数据**
 
@@ -180,4 +180,4 @@ LRU/LFU 缓存的一个问题是，如果数据被反复请求，它将永远不
 
 ## 参考
 
-[](https://aws.amazon.com/caching/)  [](https://kislayverma.com/software-architecture/architecture-patterns-caching-part-1/) 
+<https://aws.amazon.com/caching/>  <https://kislayverma.com/software-architecture/architecture-patterns-caching-part-1/> 

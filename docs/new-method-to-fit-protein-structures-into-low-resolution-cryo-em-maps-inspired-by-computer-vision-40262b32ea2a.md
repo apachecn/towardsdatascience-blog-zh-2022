@@ -56,16 +56,16 @@ MaD 可用于将大型组件的结构重建成 CryoEM 图，这一点并不重�
 
 描述 MaD 和一些示例应用的主要预印本:
 
-[](https://www.biorxiv.org/content/10.1101/2022.06.22.497181v1)  
+<https://www.biorxiv.org/content/10.1101/2022.06.22.497181v1>  
 
 MaD 在我们实验室的网站和 GitHub 上:
 
-[](https://www.epfl.ch/labs/lbm/resources/)  [](https://github.com/LBM-EPFL/MaD)  
+<https://www.epfl.ch/labs/lbm/resources/>  <https://github.com/LBM-EPFL/MaD>  
 
 # 化学和结构生物学中更多的计算机和数据科学
 
 (只是几个亮点……)
 
-[](/google-proposes-new-method-to-derive-analytical-expressions-for-terms-in-quantum-mechanics-d70fff6e1ef2)  [](/new-deep-learned-tool-designs-novel-proteins-with-high-accuracy-41ae2a7d23d8)  [](/molecules-in-augmented-reality-from-ml-powered-recognition-of-everyday-objects-and-hand-drawn-584ef187a7c9)  [](/new-preprint-describes-a-novel-parameter-free-geometric-transformer-of-atomic-coordinates-to-c6545150855e)  [](https://medium.com/advances-in-biological-science/can-we-predict-not-only-static-protein-structures-but-also-their-structural-diversity-fa1d9380fc34)    
+</google-proposes-new-method-to-derive-analytical-expressions-for-terms-in-quantum-mechanics-d70fff6e1ef2>  </new-deep-learned-tool-designs-novel-proteins-with-high-accuracy-41ae2a7d23d8>  </molecules-in-augmented-reality-from-ml-powered-recognition-of-everyday-objects-and-hand-drawn-584ef187a7c9>  </new-preprint-describes-a-novel-parameter-free-geometric-transformer-of-atomic-coordinates-to-c6545150855e>  <https://medium.com/advances-in-biological-science/can-we-predict-not-only-static-protein-structures-but-also-their-structural-diversity-fa1d9380fc34>    
 
 www.lucianoabriata.com*[***我写作并拍摄我广泛兴趣范围内的一切事物:自然、科学、技术、编程等等。***](https://www.lucianoabriata.com/) **[***成为媒介会员***](https://lucianosphere.medium.com/membership) *访问其所有故事(我免费获得小额收入的平台的附属链接)和* [***订阅获取我的新故事***](https://lucianosphere.medium.com/subscribe) ***通过电子邮件*** *。到* ***咨询关于小职位*** *查看我的* [***服务页面这里***](https://lucianoabriata.altervista.org/services/index.html) *。你可以* [***这里联系我***](https://lucianoabriata.altervista.org/office/contact.html) ***。******

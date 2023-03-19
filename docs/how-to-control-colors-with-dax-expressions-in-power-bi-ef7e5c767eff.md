@@ -12,7 +12,7 @@ Firmbee.com 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=ref
 
 几周前，我发表了一篇关于信息设计的文章:
 
-[](https://medium.com/cloud-workers/three-simple-rules-for-information-design-52db54864b47)  
+<https://medium.com/cloud-workers/three-simple-rules-for-information-design-52db54864b47>  
 
 概括一下:
 
@@ -59,7 +59,7 @@ IBCS 帮助我们利用其规则来改进我们的报道。
 
 我在关于 Power BI 和 DAX 的第一篇文章中提到了这些专栏:
 
-[](/3-ways-to-improve-your-reporting-with-an-expanded-date-table-2d983d76cced)  
+</3-ways-to-improve-your-reporting-with-an-expanded-date-table-2d983d76cced>  
 
 此列计算从实际日期开始的周期数。
 
@@ -324,4 +324,4 @@ Contoso 的数据可以在麻省理工学院的许可下自由使用，正如这
 我扩大了数据集，使 DAX 引擎工作更努力。
 在线销售表包含 7100 万行(而不是 1260 万行)，零售表包含 1850 万行(而不是 340 万行)。
 
-[](https://medium.com/@salvatorecagliari/membership) 
+<https://medium.com/@salvatorecagliari/membership> 

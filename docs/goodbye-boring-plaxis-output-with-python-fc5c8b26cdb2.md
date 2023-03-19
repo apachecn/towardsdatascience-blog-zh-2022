@@ -28,7 +28,7 @@
 
 本教程要求读者已经安装了 VS 代码和 PLAXIS 环境。如果您不熟悉这个页面，请按照下面文章中的说明进行操作。我们开始吧！
 
-[](https://medium.com/@philip.studio11/start-using-python-to-automate-plaxis-35a5297321e7)  
+<https://medium.com/@philip.studio11/start-using-python-to-automate-plaxis-35a5297321e7>  
 
 # PLAXIS 示例模型
 
@@ -36,7 +36,7 @@
 
 在链接中，下载来自 V22.01 的命令日志文件。据作者所知，Python 命令从 V21 到 V22 有了显著的变化。因此，请确保安装了 PLAXIS V22 或更高版本(V22.01 和 V22.02)，以确保本教程中的 Python 脚本能够正常工作。
 
-[](https://communities.bentley.com/products/geotech-analysis/w/wiki/45557/plaxis-2d-tutorial-03-submerged-construction-of-an-excavation)  ![](img/2116788e1ed894d3af33101a8bdf205d.png)
+<https://communities.bentley.com/products/geotech-analysis/w/wiki/45557/plaxis-2d-tutorial-03-submerged-construction-of-an-excavation>  ![](img/2116788e1ed894d3af33101a8bdf205d.png)
 
 作者截图
 

@@ -88,12 +88,12 @@ f '(3)= 2(3)-6 = 0
 
 **寻找简单数学函数如何帮助特征工程的另一个例子？** 看看我写得最好的一篇文章，解释“余弦”和“正弦”如何帮助你处理周期性特征:
 
-[](/cyclical-features-encoding-its-about-time-ce23581845ca)  
+</cyclical-features-encoding-its-about-time-ce23581845ca>  
 
 与本文对应的代码存储在这里:
 
-[](https://github.com/pierrelouisbescond/medium_articles/blob/main/medium_gradient.ipynb)  
+<https://github.com/pierrelouisbescond/medium_articles/blob/main/medium_gradient.ipynb>  
 
 请不要犹豫，浏览我在 Medium 上的其他文章:
 
-[](https://pl-bescond.medium.com/pierre-louis-besconds-articles-on-medium-f6632a6895ad) 
+<https://pl-bescond.medium.com/pierre-louis-besconds-articles-on-medium-f6632a6895ad> 

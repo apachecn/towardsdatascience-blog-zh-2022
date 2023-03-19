@@ -68,7 +68,7 @@
 
 有关数据分析、生产力和供应链管理的更多文章，
 
-[](http://samirsaci.com)  
+<http://samirsaci.com>  
 
 # 标签设计
 
@@ -194,7 +194,7 @@
 
 如果你认为制作 PowerPoint 演示很无聊，看看下面的文章，
 
-[](https://www.samirsaci.com/automate-powerpoint-slides-creation-with-python/)  
+<https://www.samirsaci.com/automate-powerpoint-slides-creation-with-python/>  
 
 # 关于我
 
@@ -202,4 +202,4 @@
 
 如果你对数据分析和供应链感兴趣，可以看看我的网站
 
-[](https://samirsaci.com) 
+<https://samirsaci.com> 

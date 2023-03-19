@@ -200,8 +200,8 @@ RNN 模型对未来 365 天的预测。图片由[作者](https://solclover.com/)
 
 ***如果你已经花光了这个月的学习预算，下次请记得我。*** *我的个性化链接加盟媒介:*
 
-[](https://solclover.com/membership)  
+<https://solclover.com/membership>  
 
 您可能感兴趣的其他文章:
 
-[](/feed-forward-neural-networks-how-to-successfully-build-them-in-python-74503409d99a)  [](/deep-feed-forward-neural-networks-and-the-advantage-of-relu-activation-function-ff881e58a635)  [](/lle-locally-linear-embedding-a-nifty-way-to-reduce-dimensionality-in-python-ab5c38336107) 
+</feed-forward-neural-networks-how-to-successfully-build-them-in-python-74503409d99a>  </deep-feed-forward-neural-networks-and-the-advantage-of-relu-activation-function-ff881e58a635>  </lle-locally-linear-embedding-a-nifty-way-to-reduce-dimensionality-in-python-ab5c38336107> 

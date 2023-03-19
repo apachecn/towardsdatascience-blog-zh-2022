@@ -91,7 +91,7 @@ joint_matrix API 不仅仅是为了抽象的可移植性而设计的。最新的
 
 有关 joint_matrix API 启用的其他功能的更多详细信息，请参见 API 文档:
 
-[](https://github.com/intel/llvm/blob/sycl/sycl/doc/extensions/experimental/sycl_ext_oneapi_matrix.asciidoc)  
+<https://github.com/intel/llvm/blob/sycl/sycl/doc/extensions/experimental/sycl_ext_oneapi_matrix.asciidoc>  
 
 # 结论
 

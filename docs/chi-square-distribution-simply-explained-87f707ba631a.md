@@ -12,7 +12,7 @@ micha Parzuchowski 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_med
 
 在我之前的文章中，我们推导并讨论了伽玛分布，你可以在这里查看:
 
-[](/gamma-distribution-simply-explained-d95a9de16278)  
+</gamma-distribution-simply-explained-d95a9de16278>  
 
 在这篇文章中，我们将解释伽玛分布的一个特例，卡方分布。这种分布在统计学中无处不在，甚至有它自己的检验，在数据科学中经常使用，卡方检验。
 
@@ -34,7 +34,7 @@ micha Parzuchowski 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_med
 
 作者用 Python 生成的图像。
 
-***v*** 是[](https://en.wikipedia.org/wiki/Degrees_of_freedom_(statistics))**自由度，是我们从分布中取样的变量的数量。所以，如果我们采样一个变量， ***v = 1*** ，从**标准正态分布:****
+***v*** 是<https://en.wikipedia.org/wiki/Degrees_of_freedom_(statistics>)**自由度，是我们从分布中取样的变量的数量。所以，如果我们采样一个变量， ***v = 1*** ，从**标准正态分布:****
 
 **![](img/6cafdab724bee3fc2feb59db63129274.png)**
 
@@ -66,7 +66,7 @@ micha Parzuchowski 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_med
 
 # **导出**概率密度函数****
 
-**现在我们要推导一个一自由度卡方分布的[](https://en.wikipedia.org/wiki/Probability_density_function)*******v = 1***。******
+**现在我们要推导一个一自由度卡方分布的<https://en.wikipedia.org/wiki/Probability_density_function>*******v = 1***。******
 
 ****让我们从标准正态分布的 PDF 开始:****
 
@@ -144,10 +144,10 @@ micha Parzuchowski 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_med
 # ****和我联系！****
 
 *   ****[*要想在媒体上阅读无限的故事，请务必在这里报名！*](/@egorhowell/membership) 💜****
-*   ****[](/subscribe/@egorhowell)😀****
+*   ****</subscribe/@egorhowell>😀****
 *   ****[*LinkedIn*](https://www.linkedin.com/in/egor-howell-092a721b3/)*👔*****
 *   *****[*推特*](https://twitter.com/EgorHowell) 🖊*****
 *   *****[*github*](https://github.com/egorhowell)*🖥******
-*   ******[](https://www.kaggle.com/egorphysics)**🏅********
+*   ******<https://www.kaggle.com/egorphysics>**🏅********
 
 > *******(所有表情符号都是由 [OpenMoji](https://openmoji.org/) 设计的——开源的表情符号和图标项目。许可证: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)*******

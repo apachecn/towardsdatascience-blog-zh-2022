@@ -138,4 +138,4 @@ library(GGally)ggpairs(EX2.TIPS[c("Tip.Percentage","Bill_in_USD","Tip_in_USD")])
 
 # **参考**
 
-**[](https://r-charts.com/)  [](https://www.r-bloggers.com/) **
+**<https://r-charts.com/>  <https://www.r-bloggers.com/> **

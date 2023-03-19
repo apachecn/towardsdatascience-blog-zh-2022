@@ -164,17 +164,17 @@ pd.DataFrame(confusion_matrix(y_test, result.preds, labels=[0,1]))
 
 这是我的博客，如果你喜欢这个内容，想关注我或者在 [Linkedin](https://www.linkedin.com/in/gurezende/) 找到我。
 
-[](http://gustavorsantos.medium.com/)  
+<http://gustavorsantos.medium.com/>  
 
 如果你想成为中级会员，这个[推荐代码](https://gustavorsantos.medium.com/membership)会激励我加入你的订阅。
 
 # 参考
 
-[](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html)  [](https://scikit-learn.org/stable/modules/svm.html#svm-kernels)  
+<https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html>  <https://scikit-learn.org/stable/modules/svm.html#svm-kernels>  
 
 [https://en.wikipedia.org/wiki/Support_vector_machine](https://en.wikipedia.org/wiki/Support_vector_machine)
 
-[](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=asc_df_1492032646/?tag=hyprod-20&linkCode=df0&hvadid=385599638286&hvpos=&hvnetw=g&hvrand=847972974391386897&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9009674&hvtargid=pla-523968811896&psc=1&tag=&ref=&adgrpid=79288120515&hvpone=&hvptwo=&hvadid=385599638286&hvpos=&hvnetw=g&hvrand=847972974391386897&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9009674&hvtargid=pla-523968811896)  [](https://stats.stackexchange.com/questions/90736/the-difference-of-kernels-in-svm)  
+<https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=asc_df_1492032646/?tag=hyprod-20&linkCode=df0&hvadid=385599638286&hvpos=&hvnetw=g&hvrand=847972974391386897&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9009674&hvtargid=pla-523968811896&psc=1&tag=&ref=&adgrpid=79288120515&hvpone=&hvptwo=&hvadid=385599638286&hvpos=&hvnetw=g&hvrand=847972974391386897&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9009674&hvtargid=pla-523968811896>  <https://stats.stackexchange.com/questions/90736/the-difference-of-kernels-in-svm>  
 
 一个漂亮的 Github 页面，包含每个内核的所有可视化内容:
 

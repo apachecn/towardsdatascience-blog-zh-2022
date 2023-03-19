@@ -90,7 +90,7 @@ docker run --device /dev/device_name0:/dev/device_name0 …
 
 首先，我们将启动 Amazon EC2 实例来演示 Docker 如何与专用硬件一起工作。遵循这个指南[为机器学习](https://docs.aws.amazon.com/dlami/latest/devguide/launch-from-console.html)启动一个 EC2 实例。对于 NVIDIA GPUs，选择任意大小的 P 或 G 系列实例类型。如果你需要帮助在 AWS 上选择正确的深度学习 GPU，请阅读我的博客文章:
 
-[](/choosing-the-right-gpu-for-deep-learning-on-aws-d69c157d8c86)  
+</choosing-the-right-gpu-for-deep-learning-on-aws-d69c157d8c86>  
 
 对于 AWS 推理实例，选择 Inf1 实例类型。在这个例子中，我启动了`inf1.2xlarge` (AWS 推理)和`p3.8xlarge` (4 个 NVIDIA V100 GPUs)。
 

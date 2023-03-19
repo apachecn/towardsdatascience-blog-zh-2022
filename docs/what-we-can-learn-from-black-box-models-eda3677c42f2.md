@@ -79,7 +79,7 @@
 
 我们将在下面的文章中讨论这些以及更多的方法。第一篇更深入地介绍了如何**发现并可视化非线性关系**。第二部分关注 **SHAP 值**和用于应用它们的 **Python 代码**。我们还会查看这些值的不同**聚合**。这些包括上面提到的平均 SHAP 和依赖图。
 
-[](/finding-and-visualising-non-linear-relationships-4ecd63a43e7e)  [](/introduction-to-shap-with-python-d27edc23c454)  
+</finding-and-visualising-non-linear-relationships-4ecd63a43e7e>  </introduction-to-shap-with-python-d27edc23c454>  
 
 ## 相互作用
 
@@ -97,7 +97,7 @@
 
 同样，我们将在下面的文章中更深入地讨论所有这些方法。第一篇深入探讨了如何**发现和可视化交互**。第二种侧重于使用 **SHAP 来分析相互作用。**我们还讨论了用于应用该方法的 **Python 代码**。
 
-[](/finding-and-visualising-interactions-14d54a69da7c)  [](/analysing-interactions-with-shap-8c4a2bc11c2a)  
+</finding-and-visualising-interactions-14d54a69da7c>  </analysing-interactions-with-shap-8c4a2bc11c2a>  
 
 # 我们能用这些知识做什么？
 
@@ -119,7 +119,7 @@ y =β₀+β₁(age)+β₂(age_sqrd)+β₃(age_classic_int)+β₄(classic)
 
 在第一个方程中，Y 由两个特征的非线性方程建模——年龄和经典。现在，它是由四个特征的线性方程模拟的。特征工程甚至可以帮助简单的非线性模型，如决策树。最终，它允许我们用简单的模型捕捉复杂的关系。我们将在下面的文章中更实际地演示这个过程。
 
-[](/the-power-of-feature-engineering-b6f3bb7de39c)  
+</the-power-of-feature-engineering-b6f3bb7de39c>  
 
 问题是我们为什么要这么做？非线性模型同样准确。那么，为什么不使用它们，避免额外的功能工程的麻烦呢？这是因为拥有一个简单的模型会给 T4 带来很多好处。首先，在许多行业中，对你可以使用的模型类型都有规定。也就是说，你可能需要在银行和保险等行业使用线性模型。
 
@@ -133,7 +133,7 @@ y =β₀+β₁(age)+β₂(age_sqrd)+β₃(age_classic_int)+β₄(classic)
 
 我希望这篇文章对你有帮助！如果你想看更多，你可以成为我的 [**推荐会员**](https://conorosullyds.medium.com/membership) **来支持我。你可以访问 medium 上的所有文章，我可以得到你的部分费用。**
 
-[](https://conorosullyds.medium.com/membership)  
+<https://conorosullyds.medium.com/membership>  
 
 你可以在推特上找到我
 

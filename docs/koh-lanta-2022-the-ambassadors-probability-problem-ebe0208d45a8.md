@@ -704,4 +704,4 @@ out$p_b## [1] 0.3333333
 *   [使多元线性回归变得简单](https://statsandr.com/blog/multiple-linear-regression-made-simple/)
 *   [手工假设检验](https://statsandr.com/blog/hypothesis-test-by-hand/)
 
-*原载于 2022 年 5 月 16 日 https://statsandr.com*[](https://statsandr.com/blog/koh-lanta-2022-ambassadors-probability-problem/)**。**
+*原载于 2022 年 5 月 16 日 https://statsandr.com*<https://statsandr.com/blog/koh-lanta-2022-ambassadors-probability-problem/>**。**

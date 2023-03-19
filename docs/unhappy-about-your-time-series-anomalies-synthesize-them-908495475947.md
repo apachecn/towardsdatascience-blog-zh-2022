@@ -21,7 +21,7 @@
 
 因此，我决定尝试使用我在处理工业传感器和制造过程数据时遇到的异常类型来生成自己的多元数据集…
 
-我鼓励你跟随这篇博文，浏览 GitHub 来获得这个系列的 Jupyter 笔记本[](https://github.com/michaelhoarau/smarter-anomaly-detection)**。你可以使用你常用的 Jupyter 环境，或者用 Amazon SageMaker 创建一个。在您克隆了 repo 之后，您可以打开第一个文件(`synthetic_0_data_generation.ipynb`)并按照本文进行操作。**
+我鼓励你跟随这篇博文，浏览 GitHub 来获得这个系列的 Jupyter 笔记本<https://github.com/michaelhoarau/smarter-anomaly-detection>**。你可以使用你常用的 Jupyter 环境，或者用 Amazon SageMaker 创建一个。在您克隆了 repo 之后，您可以打开第一个文件(`synthetic_0_data_generation.ipynb`)并按照本文进行操作。**
 
 # **初始化**
 
@@ -119,7 +119,7 @@
 
 **瞧！如果您想查看在这种类型的数据集上训练和评估异常检测模型的示例，请查看以下文章:**
 
-**[](/your-anomaly-detection-model-is-smarter-than-you-think-c1cade5fcabe)  [](/top-3-ways-your-anomaly-detection-models-can-earn-your-trust-f59072a6199c)  
+**</your-anomaly-detection-model-is-smarter-than-you-think-c1cade5fcabe>  </top-3-ways-your-anomaly-detection-models-can-earn-your-trust-f59072a6199c>  
 
 # 结论
 
@@ -127,4 +127,4 @@
 
 我希望你觉得这篇文章很有见地:如果你不想错过我即将发布的帖子，请随时在这里给我留下评论，并不要犹豫订阅我的 [**中型电子邮件源**](https://michoara.medium.com/subscribe) ！想支持我和以后的工作？**通过我的推荐链接加入 Medium** :
 
-[](https://michoara.medium.com/membership) **
+<https://michoara.medium.com/membership> **

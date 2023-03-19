@@ -19,7 +19,7 @@
 
 这篇文章是我上一篇文章[“NLP 的基本 EDA 技术”](/fundamental-eda-techniques-for-nlp-f81a93696a75)的延续。你可以在这里阅读:
 
-[](/fundamental-eda-techniques-for-nlp-f81a93696a75)  
+</fundamental-eda-techniques-for-nlp-f81a93696a75>  
 
 正如在[上一篇文章](/fundamental-eda-techniques-for-nlp-f81a93696a75)中一样，我们将在本文中再次使用来自 Kaggle 的[女装电子商务服装评论](https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-reviews)数据集。
 
@@ -45,7 +45,7 @@
 
 *如果你对我是如何形象化这句话感到好奇，你可以在这里查看我的教程:*
 
-[](/visualizing-part-of-speech-tags-with-nltk-and-spacy-42056fcd777e)  
+</visualizing-part-of-speech-tags-with-nltk-and-spacy-42056fcd777e>  
 
 为了检查哪些 POS 标签是最常见的，我们将从创建数据框架中所有评论文本的语料库开始:
 
@@ -175,7 +175,7 @@ sns.boxplot(data = df,
 
 *成为媒介会员，阅读更多其他作家和我的故事。报名时可以用我的* [*推荐链接*](https://medium.com/@iamleonie/membership) *支持我。我将收取佣金，不需要你额外付费。*
 
-[](https://medium.com/@iamleonie/membership)  
+<https://medium.com/@iamleonie/membership>  
 
 *在* [*Twitter 上找我*](https://twitter.com/helloiamleonie) *，*[*LinkedIn*](https://www.linkedin.com/in/804250ab/)，*[*Kaggle*](https://www.kaggle.com/iamleonie)*！**
 

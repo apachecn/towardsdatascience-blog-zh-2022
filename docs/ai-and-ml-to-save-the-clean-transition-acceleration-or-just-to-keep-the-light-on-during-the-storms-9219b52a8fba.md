@@ -14,7 +14,7 @@
 
 人工智能先驱之一， [Rana el Kaliouby](https://en.wikipedia.org/wiki/Rana_el_Kaliouby) (一位 AI 思想领袖。机器学习科学家。Smart Eye 的副首席执行官、 [Affectiva](https://www.affectiva.com/) 的前联合创始人兼首席执行官)正确地表示，“人工智能正在社会中扮演许多新角色——成为我们的同事，在我们的家中充当虚拟助理，操作我们的汽车，等等”。
 
-[](https://blog.re-work.co/interview-with-rana-el-kaliouby-ceo-affectiva/)  
+<https://blog.re-work.co/interview-with-rana-el-kaliouby-ceo-affectiva/>  
 
 虽然电网是地球上最复杂的机器之一，但它在不断变化的世界中发展迅速，而各种可再生能源的增加使其更加复杂。值得注意的是，由于众所周知的风能和太阳能固有的可变性，目前的电网在适应可再生能源的多样性方面面临许多挑战。
 
@@ -52,7 +52,7 @@
 
 但在能源领域，它仍有很长的路要走。与许多其他行业相比，在电力行业，我们可以利用增强智能来扩展人类的能力，并完成人类或机器无法独自完成的事情。我们今天面临的一些挑战来自于过量的信息。更快的通信、分布式计算和物联网(IoT)导致了(指数级增长的)海量数据的产生，而物联网本身和社交网络鼓励了大部分数据的非结构化。数据太多，人类专家无法跟上所有的变化和进步。
 
-[](/no-fast-enough-energy-transition-without-intelligent-energy-storage-72cfbd3c096b)  
+</no-fast-enough-energy-transition-without-intelligent-energy-storage-72cfbd3c096b>  
 
 **增强智能**
 
@@ -102,11 +102,11 @@ AI 擅长什么，不擅长什么？答案往往归结于数据。人工智能�
 
 RMI 及其合作伙伴表示，设计良好的金融机制可以支持从煤炭到清洁能源的公平过渡。
 
-[](https://zephyrnet.com/new-initiative-unveiled-to-expedite-transition-of-coal-plants-globally/)  
+<https://zephyrnet.com/new-initiative-unveiled-to-expedite-transition-of-coal-plants-globally/>  
 
 2019 年，马绍尔群岛已经在展示他们通过各种采购途径购买了近 6.5 千兆瓦(GW)的可再生能源。
 
-[](https://rmi.org/press-release/new-facebook-google-gm-and-walmart-led-renewables-group-launched/)  
+<https://rmi.org/press-release/new-facebook-google-gm-and-walmart-led-renewables-group-launched/>  
 
 拯救地球从未如此有利可图；这是该行业成熟的又一标志。因此，对话现在转向人工智能将如何帮助传统能源、可再生能源和储能改善电网，以满足(目前)未来的需求。
 
@@ -124,7 +124,7 @@ RMI 及其合作伙伴表示，设计良好的金融机制可以支持从煤炭�
 
 例如，人工智能驱动的预测分析可以从风力涡轮机传感器收集数据，以监控磨损。该系统将监控设备的整体健康状况，并在需要维护时提醒操作员。
 
-[](/artificial-intelligence-our-best-friend-in-a-stressed-if-not-devasted-power-grid-3e9303d6d9ae)  
+</artificial-intelligence-our-best-friend-in-a-stressed-if-not-devasted-power-grid-3e9303d6d9ae>  
 
 人工智能的集成可以通过引入新的服务模式和鼓励更高的参与度来帮助可再生能源供应商扩大市场。人工智能驱动的系统将能够分析与能源收集相关的数据，并提供对能源消耗的见解。
 
@@ -150,4 +150,4 @@ Josep Castells 在 [Unsplash](https://unsplash.com/s/photos/storms?utm_source=un
 
 您可以在此找到其他文章:
 
-[](/the-combo-effect-against-the-butterfly-effect-bf7dd7a507a0)  [](/artificial-intelligence-in-a-no-choice-but-to-get-it-smart-energy-industry-1bd1396a87f8)  [](/could-cryptocurrencies-initiate-a-new-transition-to-green-energy-f18c033dbff9) 
+</the-combo-effect-against-the-butterfly-effect-bf7dd7a507a0>  </artificial-intelligence-in-a-no-choice-but-to-get-it-smart-energy-industry-1bd1396a87f8>  </could-cryptocurrencies-initiate-a-new-transition-to-green-energy-f18c033dbff9> 

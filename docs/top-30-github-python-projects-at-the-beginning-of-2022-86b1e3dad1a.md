@@ -135,7 +135,7 @@ Shadowsocks 是一个免费的开源加密协议项目，在中国被广泛用�
 
 有一篇我的文章详细介绍了这个库。
 
-[](/get-rich-using-python-af66176ece8f) [## 使用 Python 在控制台中显示富文本
+</get-rich-using-python-af66176ece8f> [## 使用 Python 在控制台中显示富文本
 
 towardsdatascience.com](/get-rich-using-python-af66176ece8f) 
 
@@ -285,6 +285,6 @@ Python 中非常流行的机器学习框架。它提供了许多高级 API，使
 
 由于我定义“受欢迎”的方式仅仅是使用明星的数量，很明显一些教授一些学科和组织信息的 repos 会排名很高。那是因为人们会倾向于添加星星作为“书签”。代码是提供的，所以这取决于你添加一些更多的考虑到这个排名，并满足你的好奇心。
 
-[](https://medium.com/@qiuyujx/membership)  
+<https://medium.com/@qiuyujx/membership>  
 
 如果你觉得我的文章有帮助，请考虑加入 Medium 会员来支持我和成千上万的其他作者！(点击上面的链接)

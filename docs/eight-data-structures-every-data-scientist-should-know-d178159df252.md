@@ -18,7 +18,7 @@
 
 该列表是您在 python 编程之旅中可能遇到的第一批数据结构之一。本质上，它们就像一个现实生活中的列表，您可以在一个结构(在本例中是一个变量)中存储多个数据点。它们是可变的(一旦被定义就可以被改变)、有序的(除非被明确改变，否则它们保持它们的顺序)、可索引的(我们可以通过它们的索引来访问项目)并且它们还可以包含重复的记录。列表的好处是，如果您知道各个数据点的索引，就可以很容易地访问它们，因为顺序是保持的，但是如果您不知道位置，那么查找项目的成本会很高。
 
-[](/a-complete-guide-to-lists-in-python-d049cf3760d4)  
+</a-complete-guide-to-lists-in-python-d049cf3760d4>  
 
 ## 词典
 
@@ -28,19 +28,19 @@
 
 罗布·霍布森在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄的照片
 
-[](/a-complete-guide-to-dictionaries-in-python-5c3f4c132569)  
+</a-complete-guide-to-dictionaries-in-python-5c3f4c132569>  
 
 ## 一组
 
 集合是 Python 中的另一种数据结构，但很少遇到或使用。同样，单个变量可以用来存储多个信息点，但是它们是唯一的，因为它们是无序的，不能存储重复的。这种结构的关键特征是它们是无序的、不可索引的，不能包含重复的值，但是它们仍然是可变的。当您希望只存储唯一值或者希望检查不同数据源之间的重叠时，这样做的好处就显现出来了。当您关心项目顺序或想要重复值时，您不希望使用这些。
 
-[](/a-complete-guide-to-sets-in-python-99dc595b633d)  
+</a-complete-guide-to-sets-in-python-99dc595b633d>  
 
 ## 元组
 
 最后，我们有元组，这也是不太常见或使用。像列表一样，它们是有序的和可索引的，但是主要的区别是它们不能被改变(它们是不可变的)。这意味着，当您希望确保信息不会被意外更改(例如通过用户交互或编程过程)时，它们是有用的，但是您仍然希望以后以某种顺序访问信息。这种用法的一个例子是存储来自模型的输出、起始值或者即使用户可能与它们交互时也要保持的值。
 
-[](/a-complete-guide-to-tuples-in-python-af76241e8b59)  
+</a-complete-guide-to-tuples-in-python-af76241e8b59>  
 
 ## 抽象数据类型
 
@@ -52,7 +52,7 @@
 
 Giphy 的 GIF
 
-[](/a-complete-guide-to-queues-in-python-cd2baf310ad4)  
+</a-complete-guide-to-queues-in-python-cd2baf310ad4>  
 
 ## 堆
 
@@ -60,19 +60,19 @@ Giphy 的 GIF
 
 giphy 的 Gif
 
-[](/a-complete-guide-to-stacks-in-python-ee4e2045a704)  
+</a-complete-guide-to-stacks-in-python-ee4e2045a704>  
 
 ## 链表
 
 链表是一个包含信息的节点集合，以线性方式指向另一个节点(例如 A -> b -> c ->d)。这种情况有两种主要形式，一种是双向链表(链接到上一个和下一个节点)，另一种是单向链表(只指向下一个节点)。这允许容易地从列表中插入或删除项目，因为只需要改变受影响的节点之间的链接。这意味着与传统列表的相同操作相比，它的计算量要小得多。当我们不确定最终项目集合的长度，我们不关心随机访问或者我们想要快速插入时，这可能是有用的。
 
-[](/a-complete-guide-to-linked-lists-in-python-c52b6cb005)  
+</a-complete-guide-to-linked-lists-in-python-c52b6cb005>  
 
 ## 图表
 
 我们所关心的最后一个抽象数据结构是一个可以用来存储项目及其关系的图。这通常用大写字母 G 来表示，它包含顶点(包含信息)和边(顶点之间的关系)。后者可以包含关于是否存在关系的信息以及该关系的潜在权重/强度，例如距离或值。这方面的例子包括道路网络表示棋子可以进行的不同移动，并为社交网络中使用的基于图形的数据库奠定基础。
 
-[](/a-complete-guide-to-graphs-in-python-845a0a3381a1)  
+</a-complete-guide-to-graphs-in-python-845a0a3381a1>  
 
 ## 结论
 
@@ -80,10 +80,10 @@ giphy 的 Gif
 
 如果你喜欢你所读的，并且还不是 medium 会员，请使用下面我的推荐链接注册 Medium，以支持我和其他了不起的作家
 
-[](https://philip-wilkinson.medium.com/membership)  
+<https://philip-wilkinson.medium.com/membership>  
 
 或者随时查看我在 Medium 上的其他文章
 
-[](/introduction-to-decision-tree-classifiers-from-scikit-learn-32cd5d23f4d) [## scikit-learn 决策树分类器简介
+</introduction-to-decision-tree-classifiers-from-scikit-learn-32cd5d23f4d> [## scikit-learn 决策树分类器简介
 
-towardsdatascience.com](/introduction-to-decision-tree-classifiers-from-scikit-learn-32cd5d23f4d) [](/git-and-github-basics-for-data-scientists-b9fd96f8a02a)  [](/easy-grouped-bar-charts-in-python-b6161cdd563d) 
+towardsdatascience.com](/introduction-to-decision-tree-classifiers-from-scikit-learn-32cd5d23f4d) </git-and-github-basics-for-data-scientists-b9fd96f8a02a>  </easy-grouped-bar-charts-in-python-b6161cdd563d> 

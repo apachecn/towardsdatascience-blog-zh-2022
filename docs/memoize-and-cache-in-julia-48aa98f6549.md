@@ -56,7 +56,7 @@ julia> [@btime](http://twitter.com/btime) fibonacci(30)
 
 > 想看看朱莉娅的其他作品吗？别害羞，跟我来😅
 
-[](/build-your-first-neural-network-with-flux-jl-in-julia-10ebdfcf2fa3)  [](https://blog.devgenius.io/make-a-command-line-game-with-julia-a408057adcfe)  [](/jupyter-notebooks-can-be-a-pain-but-i-️-pluto-f47913c5c16d)  
+</build-your-first-neural-network-with-flux-jl-in-julia-10ebdfcf2fa3>  <https://blog.devgenius.io/make-a-command-line-game-with-julia-a408057adcfe>  </jupyter-notebooks-can-be-a-pain-but-i-️-pluto-f47913c5c16d>  
 
 # 保持天真
 
@@ -169,7 +169,7 @@ julia> [@btime](http://twitter.com/btime) fib(30)
 
 想要更多的斐波纳契还是渴望更多的茱莉亚？看看这些:
 
-[](/fibonacci-series-with-user-defined-functions-in-bigquery-f72e3e360ce6)  [](/vectorize-everything-with-julia-ad04a1696944)  
+</fibonacci-series-with-user-defined-functions-in-bigquery-f72e3e360ce6>  </vectorize-everything-with-julia-ad04a1696944>  
 
 # 摘要
 
@@ -177,6 +177,6 @@ julia> [@btime](http://twitter.com/btime) fib(30)
 
 如果你想要一种有意义的、易于使用的、快速的编程语言——即使是 for 循环——就用 Julia 吧！
 
-> *这里用到的所有代码都可以在 GitHub 上【https://github.com/niczky12/medium】[](https://github.com/niczky12/medium/blob/master/julia/memoize.jl)*下找到**
+> *这里用到的所有代码都可以在 GitHub 上【https://github.com/niczky12/medium】<https://github.com/niczky12/medium/blob/master/julia/memoize.jl>*下找到**
 
 > *要获得所有媒体文章的完整访问权限，包括我的文章，请考虑在此订阅。*

@@ -188,16 +188,16 @@ Fernando Paredes Murillo 在 [Unsplash](https://unsplash.com/s/photos/desert?utm
 
 谷歌人工智能的博客文章:
 
-[](https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html)  
+<https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html>  
 
 TensorFlow 教程:
 
-[](https://www.tensorflow.org/tutorials/generative/deepdream)  
+<https://www.tensorflow.org/tutorials/generative/deepdream>  
 
 Keras 深梦:
 
-[](https://keras.io/examples/generative/deep_dream/)  
+<https://keras.io/examples/generative/deep_dream/>  
 
 如果你愿意支持 Thu，你可以考虑注册成为一名中等会员。每月支付 5 美元，你就可以无限制地阅读媒体上的故事。如果你使用他的推荐链接，Thu 也会得到一小笔佣金。
 
-[](https://medium.com/@tdinh15/membership) 
+<https://medium.com/@tdinh15/membership> 

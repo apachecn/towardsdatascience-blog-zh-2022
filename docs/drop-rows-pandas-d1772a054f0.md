@@ -92,12 +92,12 @@ df = df.take(keep_idx)print(df)
 
 请注意，您可能希望选择满足(或不满足)特定条件的记录，而不是删除特定的记录。如果这是你正在寻找的，那么请随意阅读下面的文章，它将带你完成这个过程。
 
-[](/how-to-select-rows-from-pandas-dataframe-based-on-column-values-d3f5da421e93)  
+</how-to-select-rows-from-pandas-dataframe-based-on-column-values-d3f5da421e93>  
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership)  
+<https://gmyrianthous.medium.com/membership>  
 
 **相关文章你可能也喜欢**
 
-[](/how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3)  [](/how-to-merge-pandas-dataframes-221e49c41bec)  [](/data-engineer-tools-c7e68eed28ad) 
+</how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3>  </how-to-merge-pandas-dataframes-221e49c41bec>  </data-engineer-tools-c7e68eed28ad> 

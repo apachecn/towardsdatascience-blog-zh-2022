@@ -176,6 +176,6 @@ Google Vision API 已经检测到十六进制格式的前十种不同颜色，�
 
 > **(注意:Google 云密钥在存储库中不可用，您必须按照上面的步骤自己创建)。**
 
-**Github:**https://github.com/nugrahazikry[](https://github.com/nugrahazikry)
+**Github:**https://github.com/nugrahazikry<https://github.com/nugrahazikry>
 
 【领英:[https://www.linkedin.com/in/zikry-adjie-nugraha/](https://www.linkedin.com/in/zikry-adjie-nugraha/)

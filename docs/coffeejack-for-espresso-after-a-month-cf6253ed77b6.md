@@ -58,7 +58,7 @@ CoffeeJack 应该是一台便携式浓缩咖啡机，这样任何人都可以在
 
 [**最终得分**](https://towardsdatascience.com/@rmckeon/coffee-data-sheet-d95fd241e7f6) 是评分卡上 7 个指标(辛辣、浓郁、糖浆、甜味、酸味、苦味和回味)的平均值。当然，这些分数是主观的，但它们符合我的口味，帮助我提高了我的拍摄水平。分数有一些变化。我的目标是保持每个指标的一致性，但有时粒度很难确定。
 
-[](/improving-coffee-extraction-metrics-intensity-radius-bb31e266ca2a)****强度半径定义为 TDS vs EY 的控制图上从原点开始的半径，所以 IR = sqrt( TDS + EY)。这一指标有助于标准化产量或酿造比的击球性能。****
+</improving-coffee-extraction-metrics-intensity-radius-bb31e266ca2a>****强度半径定义为 TDS vs EY 的控制图上从原点开始的半径，所以 IR = sqrt( TDS + EY)。这一指标有助于标准化产量或酿造比的击球性能。****
 
 ****[在浓缩咖啡过程中，较高的萃取率导致较低的 gTDS 读数。](/grounds-tds-across-the-espresso-puck-1581825ddcac)****
 

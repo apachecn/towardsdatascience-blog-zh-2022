@@ -105,12 +105,12 @@ $ screen -r session_name
 
 就是这样！在远程终端训练一个模型就是这么简单！希望这篇教程对你有用。我知道一些崭露头角的数据科学家更熟悉 Jupyter 笔记本上的培训。但随着经验的积累，你可能会想要建立大型深度学习模型并将其生产出来。因此，有必要住在终点站。关闭 SSH 后，在远程机器上的背景中训练模型的这种做法带来了额外的好处。要了解更多关于 screen 命令的其他用法，您可以查看:
 
-[](https://aditya-kumar130901.medium.com/linux-screen-work-from-home-made-easy-e83fa8575f2d)  [](/a-short-tutorial-on-screen-command-47d70020aa5a)  
+<https://aditya-kumar130901.medium.com/linux-screen-work-from-home-made-easy-e83fa8575f2d>  </a-short-tutorial-on-screen-command-47d70020aa5a>  
 
 如果您对 Linux 终端、bash shell 和其他命令不熟悉，请订阅我的邮件列表，及时阅读我的文章。
 
-> *感谢阅读！如果您喜欢这些内容，请在*[](https://tanpengshi.medium.com/)**上阅读我的其他文章，并在*[*LinkedIn*](https://www.linkedin.com/in/tanpengshi/)*上关注我。**
+> *感谢阅读！如果您喜欢这些内容，请在*<https://tanpengshi.medium.com/>**上阅读我的其他文章，并在*[*LinkedIn*](https://www.linkedin.com/in/tanpengshi/)*上关注我。**
 > 
 > ****支持我！*** —如果你*没有*订阅 Medium，并且喜欢我的内容，请考虑通过我的[推荐链接](https://tanpengshi.medium.com/membership)加入 Medium 来支持我。*
 
-*[](https://tanpengshi.medium.com/membership) *
+*<https://tanpengshi.medium.com/membership> *

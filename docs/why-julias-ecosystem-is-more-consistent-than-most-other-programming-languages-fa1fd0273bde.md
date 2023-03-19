@@ -14,7 +14,7 @@
 
 然而，这些生态系统的另一个经常被低估的特性是一致性。这既体现在实际语法的一致性上，也体现在文档和格式上。方法调用需要以某种方式构造，以某种方式命名，就像构造函数和事物也需要以某种方式构造一样。然而，在 Julia 中，事情更进了一步，方法的实际一致性被带到了整个包的生态系统中。今天我想花一些时间来欣赏 Julia 的这一部分，解释它背后的方法论，以及演示如何制作一个也符合生态系统的包。本文中不会有太多代码，但是如果您想亲自查看或尝试本文中使用的代码，这里有一个链接，指向我在 Github 上用来演示这些内容的笔记本:
 
-[](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/julias%20consistent%20ecosystem%20via%20method%20extension.ipynb)  
+<https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/julias%20consistent%20ecosystem%20via%20method%20extension.ipynb>  
 
 # 朱莉娅生态系统的一致性
 
@@ -24,7 +24,7 @@
 
 你真的不能谈论太多关于 Julia 语言而不谈论多重分派。因此，我写了很多关于多重分派的文章。如果您想了解更多关于多重分派的知识，以及为什么我认为 Julia 是第一种真正完美地使用泛型编程概念作为范例的语言，我有一篇关于这个概念的文章，您可以在这里阅读:
 
-[](/how-julia-perfected-multiple-dispatch-16675db772c2)  
+</how-julia-perfected-multiple-dispatch-16675db772c2>  
 
 在整个 Julia 的生态系统中，例如当使用 DataFrames.jl 包时，您会发现在整个生态系统中都可以找到为 Base 中的核心数据结构和类型创建的相同的 Julia 基本函数。这意味着，在许多情况下，我们可以猜测我们希望对我们的值调用什么方法。需要删除数组中超过特定限制的值？使用过滤器！()方法。需要删除数据帧中超过特定限制的值？使用过滤器！()方法。当事物被设计成具有这样的一致性时，并且假定除了这些类型之外的参数通常是相同的，Julia 很快就开始感觉比当今存在的许多其他语言更加流畅。使用软件包不再需要你学习整个 API 和做大量的研究，现在这一切都很容易，可以浓缩成一点点的学习，然后将常规的 Julian 方法应用于一切。
 
@@ -74,7 +74,7 @@ filter!(x -> x > 6, tas)
 
 对于那些对使用匿名函数作为参数感到困惑的人，这里有一个到另一篇文章的链接，在这篇文章中，我详细介绍了匿名函数是什么:
 
-[](/what-on-earth-is-an-anonymous-function-f8043eb845f3)  
+</what-on-earth-is-an-anonymous-function-f8043eb845f3>  
 
 这段代码运行良好，两个数组中的所有值都大于 6！
 

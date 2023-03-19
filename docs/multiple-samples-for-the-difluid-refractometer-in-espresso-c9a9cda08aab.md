@@ -26,7 +26,7 @@
 
 # 性能指标
 
-我用 TDS 评估了这两个传感器。[](/coffee-solubility-in-espresso-an-initial-study-88f78a432e2c)**总溶解固体(TDS)是用折射仪测量的，这个数字结合弹丸的输出重量和咖啡的输入重量用来确定提取到杯中的咖啡的百分比，称为**提取率(EY)** 。**
+我用 TDS 评估了这两个传感器。</coffee-solubility-in-espresso-an-initial-study-88f78a432e2c>**总溶解固体(TDS)是用折射仪测量的，这个数字结合弹丸的输出重量和咖啡的输入重量用来确定提取到杯中的咖啡的百分比，称为**提取率(EY)** 。**
 
 # **数据**
 

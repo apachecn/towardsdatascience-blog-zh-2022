@@ -35,7 +35,7 @@
 
 Pandera 是一个简单的 Python 库，用于验证熊猫数据帧。
 
-[](/validate-your-pandas-dataframe-with-pandera-2995910e564)  
+</validate-your-pandas-dataframe-with-pandera-2995910e564>  
 
 要安装 Pandera，请键入:
 
@@ -125,10 +125,10 @@ pytest test4.py
 
 随意发挥，并在这里叉这篇文章的源代码:
 
-[](https://github.com/khuyentran1401/Data-science/tree/master/data_science_tools/pandera_hypothesis)  
+<https://github.com/khuyentran1401/Data-science/tree/master/data_science_tools/pandera_hypothesis>  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的数据科学工具。你可以通过 [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1401/) 和 [Twitter](https://twitter.com/KhuyenTran16) 与我联系。
 
 如果你想查看我写的所有文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/detect-defects-in-a-data-pipeline-early-with-validation-and-notifications-83e9b652e65a)  [](/how-to-create-fake-data-with-faker-a835e5b7a9d9)  [](/pytest-for-data-scientists-2990319e55e6)  [](https://pub.towardsai.net/github-actions-in-mlops-automatically-check-and-deploy-your-ml-model-9a281d7f3c84) 
+</detect-defects-in-a-data-pipeline-early-with-validation-and-notifications-83e9b652e65a>  </how-to-create-fake-data-with-faker-a835e5b7a9d9>  </pytest-for-data-scientists-2990319e55e6>  <https://pub.towardsai.net/github-actions-in-mlops-automatically-check-and-deploy-your-ml-model-9a281d7f3c84> 

@@ -4,7 +4,7 @@
 
 *⚠️在本文中，我将依靠赫斯特模式和用法的先验知识进行上位词提取。然而，我将使用专利的数据集，所以我建议检查我在这个周期的前一篇文章。*
 
-[](/improving-the-ner-model-with-patent-texts-spacy-prodigy-and-a-bit-of-magic-44c86282ea99)  [](/implementing-hearst-patterns-with-spacy-216e585f61f8)  
+</improving-the-ner-model-with-patent-texts-spacy-prodigy-and-a-bit-of-magic-44c86282ea99>  </implementing-hearst-patterns-with-spacy-216e585f61f8>  
 
 W 我们为什么要关心单词的相关性？那么，让我们从什么是关联性及其在 NLP 中的应用开始。
 
@@ -144,4 +144,4 @@ WordNet 有用性的例子
 
 完整的代码和解析的数据可以在这里找到:
 
-[](https://github.com/kinivi/patent_ner_linking) 
+<https://github.com/kinivi/patent_ner_linking> 

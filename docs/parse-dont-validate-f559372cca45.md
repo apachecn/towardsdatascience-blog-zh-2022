@@ -76,7 +76,7 @@ class Customer:
 
 *我想在本文中讨论的解决方案是将数据解析成一种类型，这种类型包含了我们作为验证的一部分而生成的信息。这种方法受益于 Python 类型的静态部分，我在上一篇文章中已经提到过。*
 
-*[](/strong-static-typing-to-prevent-illegal-code-states-7a13e122cbab)  
+*</strong-static-typing-to-prevent-illegal-code-states-7a13e122cbab>  
 
 # 解析，不验证
 
@@ -137,7 +137,7 @@ def _contact_customer_by_email(customer):  # this name is irrelevant
 
 使用数据类型的第一步是将应用程序的输入数据转换成这种类型。解析就是这个过程，它检查数据的正确性，然后将它们分配到应用程序中正确的位置。静态检查和动态多态可以帮助开发人员通过为数据本身的控件编写尽可能少的代码来减少错误的数量。
 
-[](/python-polymorphism-with-class-discovery-28908ac6456f)  [](/machine-translation-evaluation-with-cometinho-c89880731409)  [](/tips-for-reading-and-writing-an-ml-research-paper-a505863055cf)  
+</python-polymorphism-with-class-discovery-28908ac6456f>  </machine-translation-evaluation-with-cometinho-c89880731409>  </tips-for-reading-and-writing-an-ml-research-paper-a505863055cf>  
 
 # 中等会员
 

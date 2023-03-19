@@ -11,7 +11,7 @@
 *   [**扩展你的 NLP 工具包**](/sentiment-analysis-intro-and-implementation-ddf648f79327) 。为了获得从文本数据中提取洞察力的宝贵经验，跟随[法扎德·马哈茂德·迪诺巴](https://medium.com/u/3c56b7d4893e?source=post_page-----6d16e38d7f1a--------------------------------)向我们介绍情感分析的本质细节。他的演练展示了使用 NLTK、scikit-learn 和 TextBlob 的完整实现。
 *   [**如何在 PyTorch**](/a-visual-guide-to-learning-rate-schedulers-in-pytorch-24bbb262c863) 中选择合适的学习速率。想在深度学习领域获得一些实用的技能培养吗？ [Leonie Monigatti](https://medium.com/u/3a38da70d8dc?source=post_page-----6d16e38d7f1a--------------------------------) 的新视觉指南解释了如何使用学习率调度器，它允许你调整和优化训练时段之间的节奏。
 *   [**利用您的设备数据和编程知识的全新方式**](https://medium.com/towards-data-science/analysing-strava-data-with-python-b8a5badb019f) 。如果你对公开可用的数据集感到无趣，为什么不充分利用你自己的数据呢？ [Rosie Young](https://medium.com/u/aff8d282e8aa?source=post_page-----6d16e38d7f1a--------------------------------) 展示了如何使用 Python 讨论和探索您的 Strava 数据，以及如何得出关于您的习惯和活动水平的有趣见解。
-*   [](/understanding-probability-distributions-using-python-9eca9c1d9d38)**概率分布终极指南。如果你在假期活动之间有一些空闲时间，比如说 97 分钟，我们希望你能找到一种比[礼萨·巴盖里](https://medium.com/u/da2d000eaa4d?source=post_page-----6d16e38d7f1a--------------------------------)耐心而全面的教程更有启发性的方式来度过这段时间。它将统计和编程结合在一起，涵盖了概率分布的数学基础，并展示了如何用 Python 和 SciPy 库生成概率分布。**
+*   </understanding-probability-distributions-using-python-9eca9c1d9d38>**概率分布终极指南。如果你在假期活动之间有一些空闲时间，比如说 97 分钟，我们希望你能找到一种比[礼萨·巴盖里](https://medium.com/u/da2d000eaa4d?source=post_page-----6d16e38d7f1a--------------------------------)耐心而全面的教程更有启发性的方式来度过这段时间。它将统计和编程结合在一起，涵盖了概率分布的数学基础，并展示了如何用 Python 和 SciPy 库生成概率分布。**
 
 **![](img/cfd216a0d4c7dc8bed21734643d1cdff.png)**
 

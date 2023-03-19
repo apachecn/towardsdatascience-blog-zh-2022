@@ -12,7 +12,7 @@
 
 数据的空间表示非常强大。然而，分析地理空间数据并提取有趣的见解可能是一项具有挑战性的任务，尤其是对于没有接受过地理信息科学培训的数据科学家/分析师而言。幸运的是，有工具可以简化这个过程，这就是我在这篇文章中尝试的。我写了一篇关于地理空间数据争论的基础的文章——请随意查看:
 
-[](/geospatial-data-wrangling-for-pandas-experts-96c130c78bd8)  
+</geospatial-data-wrangling-for-pandas-experts-96c130c78bd8>  
 
 在本文中，我将介绍一系列过程——从下载栅格数据开始，然后将数据传输到 pandas 数据框架中，并设置传统的时间序列分析任务。
 
@@ -163,7 +163,7 @@ df.plot(figsize=(12,3), grid =True);
 
 剧情很美！我过去写过几篇关于如何分析时间序列数据的文章，这里有一篇:
 
-[](/formating-and-visualizing-time-series-data-ba0b2548f27b)  
+</formating-and-visualizing-time-series-data-ba0b2548f27b>  
 
 # 一锤定音
 

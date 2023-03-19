@@ -8,9 +8,9 @@
 
 图 1 —一个人的合成图像，完全由 GAN 生成。图片来源:[https://thispersondoesnotexist.com/](https://thispersondoesnotexist.com/)。许可证:[https://github . com/luci drains/style gan 2-py torch/blob/master/LICENSE](https://github.com/lucidrains/stylegan2-pytorch/blob/master/LICENSE)(麻省理工学院)
 
-如果你在深度学习领域工作，你可能听说过 GANs，或者[](https://arxiv.org/abs/1406.2661)*(good fellow 等人，2014)。在本帖中，我们将解释什么是 gan，并通过真实的例子讨论一些用例。我在这个帖子里加了一个我的 [***甘操场***](https://github.com/tsubu01/MP-GAN) 的链接，叫 ***MP-GAN*** (多用途甘)。我在 github 准备了这个操场作为研究框架，欢迎大家用它来自己训练探索 GANs。在附录中，我介绍并讨论了我在 GAN 训练中使用这个操场所做的一些实验。*
+如果你在深度学习领域工作，你可能听说过 GANs，或者<https://arxiv.org/abs/1406.2661>*(good fellow 等人，2014)。在本帖中，我们将解释什么是 gan，并通过真实的例子讨论一些用例。我在这个帖子里加了一个我的 [***甘操场***](https://github.com/tsubu01/MP-GAN) 的链接，叫 ***MP-GAN*** (多用途甘)。我在 github 准备了这个操场作为研究框架，欢迎大家用它来自己训练探索 GANs。在附录中，我介绍并讨论了我在 GAN 训练中使用这个操场所做的一些实验。*
 
-*[](https://github.com/tsubu01/MP-GAN)  
+*<https://github.com/tsubu01/MP-GAN>  
 
 # 高级解释
 
@@ -104,7 +104,7 @@ GANs，即生成对抗网络，是一种深度学习机制，通过两个模型�
 
 欢迎您从我的 MP-GAN(多用途 GAN)存储库中进行分叉，并尝试不同的 GAN 架构、数据集和训练场景。这个项目支持图像(目前只有单通道)和表格数据。
 
-[](https://github.com/tsubu01/MP-GAN)  
+<https://github.com/tsubu01/MP-GAN>  
 
 **实验 1 —优化器对训练收敛的影响**
 

@@ -125,6 +125,6 @@ augmenter = Augmenter(transformation=my_transformation, transformations_per_exam
 
 *最后一件事:在以下链接中阅读更多类似的文章*
 
-[](https://medium.com/geekculture/how-to-speed-up-model-training-with-snapml-b2e24b546fe5)  [](https://medium.com/geekculture/top-5-cloud-migration-strategies-you-need-to-know-fb1d92ed3c8a)  [](https://medium.com/geekculture/top-5-reasons-why-companies-are-moving-to-the-cloud-c3a609332125)  
+<https://medium.com/geekculture/how-to-speed-up-model-training-with-snapml-b2e24b546fe5>  <https://medium.com/geekculture/top-5-cloud-migration-strategies-you-need-to-know-fb1d92ed3c8a>  <https://medium.com/geekculture/top-5-reasons-why-companies-are-moving-to-the-cloud-c3a609332125>  
 
 *本文首发于* [*此处*](https://hackernoon.com/how-to-perform-data-augmentation-in-nlp-projects) *。*

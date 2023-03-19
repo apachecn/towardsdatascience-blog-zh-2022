@@ -20,7 +20,7 @@
 
 几何分布通常被称为离散版的 [**指数分布**](https://en.wikipedia.org/wiki/Exponential_distribution) **。如果你想了解指数分布，我之前写过一篇关于它的短文，你可以在这里找到:**
 
-[](/exponential-distribution-simply-explained-349d05b1bdb8)  
+</exponential-distribution-simply-explained-349d05b1bdb8>  
 
 实际上有两种不同类型的几何分布:
 
@@ -33,7 +33,7 @@
 
 在本文中，我们将使用移位版本，因为我觉得它更容易用数学和直觉来处理。
 
-几何分布的一个关键性质是它是[](https://en.wikipedia.org/wiki/Memorylessness)**无记忆的。这意味着，仅仅因为上一个结果是失败的，下一个就不太可能成功。这是因为每个伯努利轨迹都是独立的[](https://en.wikipedia.org/wiki/Independence_(probability_theory))**。****
+几何分布的一个关键性质是它是<https://en.wikipedia.org/wiki/Memorylessness>**无记忆的。这意味着，仅仅因为上一个结果是失败的，下一个就不太可能成功。这是因为每个伯努利轨迹都是独立的<https://en.wikipedia.org/wiki/Independence_(probability_theory>)**。****
 
 # ****数学细节****
 
@@ -112,6 +112,6 @@ plt.show()***
 *   *****[*领英*](https://www.linkedin.com/in/egor-howell-092a721b3/) 👔*****
 *   *****[*推特*](https://twitter.com/EgorHowell) 🖊*****
 *   *****[*github*](https://github.com/egorhowell)*🖥******
-*   ******[](https://www.kaggle.com/egorphysics)**🏅********
+*   ******<https://www.kaggle.com/egorphysics>**🏅********
 
 > *******(所有表情符号由 [OpenMoji](https://openmoji.org/) 设计——开源表情符号和图标项目。许可证: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)*******

@@ -70,8 +70,8 @@
 
 查看我最近的一些文章
 
-[](https://medium.com/codex/pointless-automation-dropbox-file-downloads-with-python-e1cb26a41fff)  [](/linear-regression-what-is-the-sum-of-squares-3746db90a05d)  [](/linear-regression-in-data-science-b9a9d2aacc7c)  [](https://python.plainenglish.io/getting-started-with-seq-in-python-4f5fde688364)  [](https://medium.com/codex/javascript-cdns-and-how-to-use-them-offline-e6e6333491a3)  
+<https://medium.com/codex/pointless-automation-dropbox-file-downloads-with-python-e1cb26a41fff>  </linear-regression-what-is-the-sum-of-squares-3746db90a05d>  </linear-regression-in-data-science-b9a9d2aacc7c>  <https://python.plainenglish.io/getting-started-with-seq-in-python-4f5fde688364>  <https://medium.com/codex/javascript-cdns-and-how-to-use-them-offline-e6e6333491a3>  
 
 参考资料:
 
-[](https://www.techtarget.com/searchenterpriseai/definition/reinforcement-learning)  [](https://deepsense.ai/what-is-reinforcement-learning-the-complete-guide/)  [](https://www.geeksforgeeks.org/what-is-reinforcement-learning/)  [](https://www.simplilearn.com/tutorials/machine-learning-tutorial/reinforcement-learning)  [](https://pythonistaplanet.com/pros-and-cons-of-reinforcement-learning/) 
+<https://www.techtarget.com/searchenterpriseai/definition/reinforcement-learning>  <https://deepsense.ai/what-is-reinforcement-learning-the-complete-guide/>  <https://www.geeksforgeeks.org/what-is-reinforcement-learning/>  <https://www.simplilearn.com/tutorials/machine-learning-tutorial/reinforcement-learning>  <https://pythonistaplanet.com/pros-and-cons-of-reinforcement-learning/> 

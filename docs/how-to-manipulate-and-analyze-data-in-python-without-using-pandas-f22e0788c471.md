@@ -94,8 +94,8 @@
 
 **本文使用的数据基于联合国通过*[*【GAPMINDER.ORG*](https://www.gapminder.org/)*、CC-BY LICENSE* 提供的免费资料
 
-[](/why-you-should-vectorize-your-code-in-r-d7df86ebc9b7)  [](/how-to-easily-access-and-download-public-data-from-national-statistical-institutions-dab9f2e6a18f)  [](/5-common-misinterpretations-of-the-p-value-aacaa6dcfddd)  
+</why-you-should-vectorize-your-code-in-r-d7df86ebc9b7>  </how-to-easily-access-and-download-public-data-from-national-statistical-institutions-dab9f2e6a18f>  </5-common-misinterpretations-of-the-p-value-aacaa6dcfddd>  
 
 如果你喜欢阅读这样的故事，并想支持我成为一名作家，可以考虑报名成为一名媒体成员。每月 5 美元，你可以无限制地阅读媒体上的故事。如果你注册使用我的链接，我会赚一小笔佣金。
 
-[](https://medium.com/@andreagustafsen/membership) 
+<https://medium.com/@andreagustafsen/membership> 

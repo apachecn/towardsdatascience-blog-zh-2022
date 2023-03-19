@@ -50,7 +50,7 @@
 
 > 要快速了解基线模型，请查看以下文章:
 
-[](/baseline-models-your-guide-for-model-building-1ec3aa244b8d)  
+</baseline-models-your-guide-for-model-building-1ec3aa244b8d>  
 
 ## 错误 2:使用小范围的超参数
 
@@ -72,7 +72,7 @@
 
 > 如果您有兴趣探索超参数调整的其他替代方法，请查看以下文章:
 
-[](/grid-search-vs-random-search-vs-bayesian-optimization-2e68f57c3c46)  
+</grid-search-vs-random-search-vs-bayesian-optimization-2e68f57c3c46>  
 
 ## 错误 3:使用错误的评估标准
 

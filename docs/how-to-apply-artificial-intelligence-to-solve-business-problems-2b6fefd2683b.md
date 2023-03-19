@@ -137,4 +137,4 @@ ML 培训和评估流程(图片由作者提供)
 
 ⭐️ *我喜欢通过分享我在野外的数据科学经验来帮助人们。如果你还不是会员，可以考虑订阅 Medium，从我这里获得更多有用的内容。*
 
-[](https://johnadeojo.medium.com/membership) 
+<https://johnadeojo.medium.com/membership> 

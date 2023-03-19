@@ -168,15 +168,15 @@ PDP 和 ICE 图是全球解释方法的一个例子。我们可以用它们来�
 
 我们将在下面的文章中更深入地讨论这个过程。作为一个例子，我们走过如何使用 SHAP 特征贡献来给出一个令人信服的解释。
 
-[](/the-art-of-explaining-predictions-22e3584ed7d8)  
+</the-art-of-explaining-predictions-22e3584ed7d8>  
 
 IML 是一个令人兴奋的领域。如果您想了解更多，请查看下面的教程:
 
-[](/introduction-to-shap-with-python-d27edc23c454)  [](/the-ultimate-guide-to-pdps-and-ice-plots-4182885662aa)  
+</introduction-to-shap-with-python-d27edc23c454>  </the-ultimate-guide-to-pdps-and-ice-plots-4182885662aa>  
 
 我希望这篇文章对你有帮助！如果你想看更多，你可以成为我的 [**推荐会员**](https://conorosullyds.medium.com/membership) **来支持我。你可以访问 medium 上的所有文章，我可以得到你的部分费用。**
 
-[](https://conorosullyds.medium.com/membership)  
+<https://conorosullyds.medium.com/membership>  
 
 你可以在|[Twitter](https://twitter.com/conorosullyDS)|[YouTube](https://www.youtube.com/channel/UChsoWqJbEjBwrn00Zvghi4w)|[时事通讯](https://mailchi.mp/aa82a5ce1dc0/signup)上找到我——注册免费参加 [Python SHAP 课程](https://adataodyssey.com/courses/shap-with-python/)
 

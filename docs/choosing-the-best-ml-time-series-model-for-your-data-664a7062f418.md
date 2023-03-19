@@ -90,6 +90,6 @@ ARIMA、先知、LSTMs、CNN、GPVAR、季节分解、DeepAR 等等。当谈到�
 
 如果你觉得指南有用，如果你认为你需要回来参考，一定要保存/书签的故事！如果你喜欢这篇文章，请随意[关注我](https://jerdibattista.medium.com/)，阅读我写的更多内容，或者将我[作为推荐人](https://jerdibattista.medium.com/membership)，这样我就可以继续制作我喜欢的内容。我在数据科学/ML 空间写了很多！
 
-[](/the-best-python-sentiment-analysis-package-1-huge-common-mistake-d6da9ad6cdeb)  [](/the-newest-package-for-instantly-evaluating-ml-models-deepchecks-d478e1c20d04)  
+</the-best-python-sentiment-analysis-package-1-huge-common-mistake-d6da9ad6cdeb>  </the-newest-package-for-instantly-evaluating-ml-models-deepchecks-d478e1c20d04>  
 
 [数据集许可为 CC0 1.0 通用公共领域](https://creativecommons.org/publicdomain/zero/1.0/)

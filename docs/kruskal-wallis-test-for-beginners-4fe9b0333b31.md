@@ -125,7 +125,7 @@ Kruskal Wallis test is instrumental when dealing with particularly skewed sample
 
 # **7。参考**
 
-斯蒂芬妮·格伦。“克鲁斯卡尔·沃利斯 H 检验:定义、例子、假设、SPSS”来自[](https://www.statisticshowto.com/)**:对我们其余人的初步统计！[https://www . statistics show to . com/probability-and-statistics/statistics-definitions/kruskal-Wallis/](https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/kruskal-wallis/)**
+斯蒂芬妮·格伦。“克鲁斯卡尔·沃利斯 H 检验:定义、例子、假设、SPSS”来自<https://www.statisticshowto.com/>**:对我们其余人的初步统计！[https://www . statistics show to . com/probability-and-statistics/statistics-definitions/kruskal-Wallis/](https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/kruskal-wallis/)**
 
 **‌**
 

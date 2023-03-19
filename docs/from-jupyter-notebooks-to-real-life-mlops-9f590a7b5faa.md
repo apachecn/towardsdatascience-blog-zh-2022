@@ -64,8 +64,8 @@ CI 要求您测试和验证代码和组件。在机器学习系统中，你还�
 
 MLOps 是将您的模型转换为 ML 系统的关键。我们在这篇文章中提到的只是这个领域中的亮点。MLOps 中使用了广泛的工具和软件包。我将会写关于这些工具以及如何在实践中使用它们。敬请关注更多 MLOps。
 
-*你可以成为* [*媒介会员*](https://sonery.medium.com/membership) *解锁我的全部写作权限，外加其余媒介。如果你已经是了，别忘了订阅*[](https://sonery.medium.com/subscribe)**如果你想在我发表新文章时收到电子邮件。**
+*你可以成为* [*媒介会员*](https://sonery.medium.com/membership) *解锁我的全部写作权限，外加其余媒介。如果你已经是了，别忘了订阅*<https://sonery.medium.com/subscribe>**如果你想在我发表新文章时收到电子邮件。**
 
-*[](https://sonery.medium.com/membership)  
+*<https://sonery.medium.com/membership>  
 
 感谢您的阅读。如果您有任何反馈，请告诉我。*

@@ -173,4 +173,4 @@ n 上的最小化消失了，因为 w 不依赖于 n。
 
 ## 你可能喜欢的其他文章
 
-[](/kernel-methods-a-simple-introduction-4a26dcbe4ebd)  [](/unsupervised-learning-k-means-clustering-6fd72393573c) 
+</kernel-methods-a-simple-introduction-4a26dcbe4ebd>  </unsupervised-learning-k-means-clustering-6fd72393573c> 

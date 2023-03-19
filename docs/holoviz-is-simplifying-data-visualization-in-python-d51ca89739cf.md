@@ -143,7 +143,7 @@ Pandas 在幕后使用 Matplotlib，这意味着我们可以使用 axis 对象�
 
 > **注意:**如果你喜欢在 Medium 上阅读我和其他人的内容，考虑使用下面的链接订阅，以支持这样的内容创作，并解锁无限的故事！
 
-[](https://medium.com/@willmnorris/membership)  
+<https://medium.com/@willmnorris/membership>  
 
 # 引文
 

@@ -46,6 +46,6 @@ Python 字典最重要的特性是不允许重复的键值对。然而，在 [Py
 *   它用于在单个变量中存储键值对。
 *   字典的值可以有不同的值。除了单个标量，列表、元组或新字典也可以存储为值。
 
-*如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！此外，媒体允许你每月免费阅读* ***3 篇*** *。如果你想让***无限制地访问我的文章和数以千计的精彩文章，不要犹豫，通过点击我的推荐链接:*[https://medium.com/@niklas_lang/membership](https://medium.com/@niklas_lang/membership)获得会员资格，每个月只需支付 ***5*****
+*如果你喜欢我的作品，请在这里订阅*<https://medium.com/subscribe/@niklas_lang>**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！此外，媒体允许你每月免费阅读* ***3 篇*** *。如果你想让***无限制地访问我的文章和数以千计的精彩文章，不要犹豫，通过点击我的推荐链接:*[https://medium.com/@niklas_lang/membership](https://medium.com/@niklas_lang/membership)获得会员资格，每个月只需支付 ***5*****
 
-***[](/6-pandas-dataframe-tasks-anyone-learning-python-should-know-1aadce307d26)  [](/4-basic-commands-when-working-with-python-tuples-8edd3787003f)  [](/an-introduction-to-tensorflow-fa5b17051f6b) ***
+***</6-pandas-dataframe-tasks-anyone-learning-python-should-know-1aadce307d26>  </4-basic-commands-when-working-with-python-tuples-8edd3787003f>  </an-introduction-to-tensorflow-fa5b17051f6b> ***

@@ -16,7 +16,7 @@ Pandas 库具有直观、优雅、初学者友好的 API，是 Python 中最好�
 
 我在下面的博客中谈到了五个令人担忧的局限性:
 
-[](/5-things-i-wish-the-pandas-library-could-do-e9017c127779)  
+</5-things-i-wish-the-pandas-library-could-do-e9017c127779>  
 
 综上所述，**Pandas 几乎所有的限制都源于其单核计算框架**。
 

@@ -28,7 +28,7 @@
 
 值得注意的是，不一定非要做三段。在 BigQuery 中，您通常只能生成训练和测试子集，因为可以在使用`DATA_SPLIT`选项创建模型时处理验证。
 
-[](https://cloud.google.com/bigquery-ml/docs/reference/standard-sql/bigqueryml-syntax-create-glm#data_split_method)  
+<https://cloud.google.com/bigquery-ml/docs/reference/standard-sql/bigqueryml-syntax-create-glm#data_split_method>  
 
 ## 陷阱和注意事项
 

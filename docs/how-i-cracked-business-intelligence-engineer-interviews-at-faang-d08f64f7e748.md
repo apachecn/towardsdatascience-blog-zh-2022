@@ -64,4 +64,4 @@ FAANG 的面试被大肆宣传，因此人们在面试前会感到恐慌。我�
 
 *更新:* *更多 excel 部分面试信息，请点击* [*此处*](/how-to-ace-technical-interviews-excel-for-business-intelligence-engineer-data-analyst-at-faang-8b5b0788e4ea) *或以下链接。*
 
-[](/how-to-ace-technical-interviews-excel-for-business-intelligence-engineer-data-analyst-at-faang-8b5b0788e4ea) 
+</how-to-ace-technical-interviews-excel-for-business-intelligence-engineer-data-analyst-at-faang-8b5b0788e4ea> 

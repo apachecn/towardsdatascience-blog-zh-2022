@@ -112,19 +112,19 @@
 
 *软件技能；轻松处理大量数据；不受数据科学偏见的影响。包含在[第 1 部分](http://bit.ly/quaesita_realanalyst)中。*
 
-*[](/becoming-a-real-data-analyst-dcaf5f48bc34)  
+*</becoming-a-real-data-analyst-dcaf5f48bc34>  
 
 ## 专业数据与业余数据的差异# 4 –# 6
 
 了解职业；拒绝成为数据江湖骗子；对确认偏差的抵抗力。包含在[第 2 部分](http://bit.ly/quaesita_careeranalyst)中。
 
-[](/shifting-your-mindset-from-amateur-to-professional-analyst-61383f913408)  
+</shifting-your-mindset-from-amateur-to-professional-analyst-61383f913408>  
 
 ## 专业数据与业余数据的差异#7
 
 对数据的现实预期。包含在[第 3 部分](http://bit.ly/quaesita_realisticanalyst)中。
 
-[](https://kozyrkov.medium.com/how-to-form-realistic-expectations-about-data-622e85ab62cb)  
+<https://kozyrkov.medium.com/how-to-form-realistic-expectations-about-data-622e85ab62cb>  
 
 # 喜欢作者？与凯西·科兹尔科夫联系
 

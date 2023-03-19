@@ -204,7 +204,7 @@ R 平方的值从 0 到 1，越高越好，而 RMSE 和 MAE 的值与功率输�
 
 什么更有趣？你可以通过我下面的推荐链接订阅 Medium 来获得更多我和其他作者的启发性文章，这也支持我的写作。
 
-[](https://aolaoye.medium.com/membership)  
+<https://aolaoye.medium.com/membership>  
 
 ## 参考
 

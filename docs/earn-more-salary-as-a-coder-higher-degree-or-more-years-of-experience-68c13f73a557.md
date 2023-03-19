@@ -61,7 +61,7 @@
 
 [Bambi](https://bambinos.github.io/bambi/main/index.html) 是用 Python 编写的高级贝叶斯建模接口。它构建在编程框架 PyMC3 之上。因此，Bambi 类似于 PyMC3，但是更容易使用。
 
-[](/bayesian-linear-regression-with-bambi-a5e6570f167b)  
+</bayesian-linear-regression-with-bambi-a5e6570f167b>  
 
 要安装 Bambi，请键入:
 
@@ -184,13 +184,13 @@ pip install bambi
 
 在这里随意发挥和分叉本文的代码:
 
-[](https://github.com/khuyentran1401/Data-science/blob/master/statistics/stackoverflow_survey/analyze_salary.ipynb)  
+<https://github.com/khuyentran1401/Data-science/blob/master/statistics/stackoverflow_survey/analyze_salary.ipynb>  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的数据科学工具。你可以在 LinkedIn 和 T2 Twitter 上与我联系。
 
 星[这个回购](https://github.com/khuyentran1401/Data-science)如果你想检查我写的所有文章的代码。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/detect-change-points-with-bayesian-inference-and-pymc3-3b4f3ae6b9bb)  [](/bayes-theorem-clearly-explained-with-visualization-5083ea5e9b14)  [](/how-to-create-interactive-and-elegant-plot-with-altair-8dd87a890f2a)  [](/pyvis-visualize-interactive-network-graphs-in-python-77e059791f01)  
+</detect-change-points-with-bayesian-inference-and-pymc3-3b4f3ae6b9bb>  </bayes-theorem-clearly-explained-with-visualization-5083ea5e9b14>  </how-to-create-interactive-and-elegant-plot-with-altair-8dd87a890f2a>  </pyvis-visualize-interactive-network-graphs-in-python-77e059791f01>  
 
 # 参考
 

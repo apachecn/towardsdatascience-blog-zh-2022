@@ -88,7 +88,7 @@ git word diff —按作者分类的图像
 
 正如你从上面两个例子中看到的，只要付出足够的努力，你可能会让命令行`git`的体验变得可以忍受，更多类似的技巧请看我以前的文章:
 
-[](https://itnext.io/advanced-git-features-you-didnt-know-you-needed-ed8455c45495)  
+<https://itnext.io/advanced-git-features-you-didnt-know-you-needed-ed8455c45495>  
 
 如果你想完全避免基本的`git` CLI，你可以尝试使用`forgit`——一个交互使用`git`的 TUI:
 
@@ -98,7 +98,7 @@ Forgit —图片来自[文档](https://github.com/wfxr/forgit#-features)
 
 上图截图互动好看`git log`。该工具支持几乎所有的`git`子命令，最重要的是`rebase`、`cherry-pick`、`diff`和`commit`。关于特性的完整列表和更多截图，请参见项目的[资源库](https://github.com/wfxr/forgit#-features)。
 
-除了使用`git`或者你的 IDEs 特性，你还可以使用其他工具来帮助完成复杂的文件区分。一个非常强大的工具就是[](https://github.com/Wilfred/difftastic)*。支持多种语言的区分工具。关于该工具的演示，请参见本视频。*
+除了使用`git`或者你的 IDEs 特性，你还可以使用其他工具来帮助完成复杂的文件区分。一个非常强大的工具就是<https://github.com/Wilfred/difftastic>*。支持多种语言的区分工具。关于该工具的演示，请参见本视频。*
 
 *如果你想要一个专门用于区分结构化语言的工具，比如 JSON，XML，HTML，YAML，那么是一个很好的选择。Graphtage 从语义上比较文档，即使改变元素的顺序，它也能正确地发现差异。*
 
@@ -174,8 +174,8 @@ Forgit —图片来自[文档](https://github.com/wfxr/forgit#-features)
 
 *[成为会员](https://medium.com/@martin.heinz/membership)阅读媒体上的每一个故事。**你的会员费直接支持我和你看的其他作家。你还可以在媒体上看到所有的故事。***
 
-*[](https://medium.com/@martin.heinz/membership) * 
+*<https://medium.com/@martin.heinz/membership> * 
 
 *你可能也喜欢…*
 
-*[](https://betterprogramming.pub/automate-all-the-boring-kubernetes-operations-with-python-7a31bbf7a387)  [](/python-f-strings-are-more-powerful-than-you-might-think-8271d3efbd7d) *
+*<https://betterprogramming.pub/automate-all-the-boring-kubernetes-operations-with-python-7a31bbf7a387>  </python-f-strings-are-more-powerful-than-you-might-think-8271d3efbd7d> *

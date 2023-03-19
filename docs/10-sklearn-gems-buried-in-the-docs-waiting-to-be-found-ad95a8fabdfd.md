@@ -18,7 +18,7 @@
 
 这篇文章将比我上一篇类似的功能汇编实用得多，我的上一篇类似的功能汇编更侧重于边缘情况。尽情享受吧！
 
-[](/19-hidden-sklearn-features-you-were-supposed-to-learn-the-hard-way-5293e6ff149)  
+</19-hidden-sklearn-features-you-were-supposed-to-learn-the-hard-way-5293e6ff149>  
 
 # 1️.功能变压器
 
@@ -32,11 +32,11 @@
 
 **功能变压器** — [链接](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.FunctionTransformer.html#sklearn.preprocessing.FunctionTransformer)
 
-[](https://ibexorigin.medium.com/membership)  
+<https://ibexorigin.medium.com/membership>  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex)  
+<https://alphasignal.ai/?referrer=Bex>  
 
 # 2️.用户定义的变压器
 
@@ -54,7 +54,7 @@
 
 如果您想了解关于这种方法的更多信息，我有一篇关于这种类型的定制转换器的单独文章，包括 FunctionTransformer:
 
-[](/how-to-write-powerful-code-others-admire-with-custom-sklearn-transformers-34bc9087fdd)  
+</how-to-write-powerful-code-others-admire-with-custom-sklearn-transformers-34bc9087fdd>  
 
 ## 📚证明文件
 
@@ -174,7 +174,7 @@ UMAP 在降低数据集的维度并尽可能多地保留信息方面表现出色
 
 如果这个演示不完全可以理解，我有一篇关于这个主题的单独文章来深入讨论它:
 
-[](/tricky-way-of-using-dimensionality-reduction-for-outlier-detection-in-python-4ee7665cdf99)  
+</tricky-way-of-using-dimensionality-reduction-for-outlier-detection-in-python-4ee7665cdf99>  
 
 ## 📚证明文件
 
@@ -238,8 +238,8 @@ UMAP 设法找到了目标类之间的明显区别，并且比 tSNE 快 20 倍�
 
 感谢您的阅读！
 
-[](https://ibexorigin.medium.com/membership)  
+<https://ibexorigin.medium.com/membership>  
 
 ## **我的更多故事……**
 
-[](https://ibexorigin.medium.com/28-weekly-machine-learning-tricks-and-resources-that-are-pure-gems-1-8e5259a93c94)  [](/18-non-cliché-datasets-for-beginner-data-scientists-to-build-a-strong-portfolio-c59743b2a829)  [](/in-depth-spacy-tutorial-for-beginners-in-nlp-2ba4d961328f)  [](https://ibexorigin.medium.com/in-depth-guide-to-building-custom-sklearn-transformers-for-any-data-preprocessing-scenario-33450f8b35ff) 
+<https://ibexorigin.medium.com/28-weekly-machine-learning-tricks-and-resources-that-are-pure-gems-1-8e5259a93c94>  </18-non-cliché-datasets-for-beginner-data-scientists-to-build-a-strong-portfolio-c59743b2a829>  </in-depth-spacy-tutorial-for-beginners-in-nlp-2ba4d961328f>  <https://ibexorigin.medium.com/in-depth-guide-to-building-custom-sklearn-transformers-for-any-data-preprocessing-scenario-33450f8b35ff> 

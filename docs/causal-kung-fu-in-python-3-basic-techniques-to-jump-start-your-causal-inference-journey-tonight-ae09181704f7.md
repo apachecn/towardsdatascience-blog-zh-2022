@@ -72,7 +72,7 @@
 
 > 如何找到一个**因果图**当**不知道**的时候呢？
 
-[](/beyond-the-basics-level-up-your-causal-discovery-skills-in-python-now-2023-cabe0b938715)  
+</beyond-the-basics-level-up-your-causal-discovery-skills-in-python-now-2023-cabe0b938715>  
 
 ## **后门标准**
 
@@ -102,7 +102,7 @@ D[**oWhy**](https://py-why.github.io/dowhy/v0.8/)**(Sharma&ki ciman，2020)是�
 
 > **寻找**推荐**关于**因果关系的书籍**阅读？**
 
-**[](https://aleksander-molak.medium.com/yes-six-causality-books-that-will-get-you-from-zero-to-advanced-2023-f4d08718a2dd) ** 
+**<https://aleksander-molak.medium.com/yes-six-causality-books-that-will-get-you-from-zero-to-advanced-2023-f4d08718a2dd> ** 
 
 # **让我们得到数据**
 
@@ -264,7 +264,7 @@ D[**oWhy**](https://py-why.github.io/dowhy/v0.8/)**(Sharma&ki ciman，2020)是�
 
 > ****本文的**笔记本**和**环境文件**在这里:****
 
-****[](https://github.com/AlxndrMlk/blogs-code/tree/main/Causal%20Python%203%20-%20Simple%20Techniques%20to%20Jump-Start%20Your%20Causal%20Inference%20Journey%20Today)  
+****<https://github.com/AlxndrMlk/blogs-code/tree/main/Causal%20Python%203%20-%20Simple%20Techniques%20to%20Jump-Start%20Your%20Causal%20Inference%20Journey%20Today>  
 
 # 脚注
 
@@ -298,6 +298,6 @@ ________________
 
 ❤️ *对获取更多这样的内容感兴趣吗？使用此链接加入:*
 
-[](https://aleksander-molak.medium.com/membership)  
+<https://aleksander-molak.medium.com/membership>  
 
 > 这篇文章中的一些书籍链接是亚马逊会员链接，通过使用这些链接购买，你将支持作者(或他们的家庭)和我的写作(我将从你的每一笔购买中获得一小笔费用)。谢谢大家！****

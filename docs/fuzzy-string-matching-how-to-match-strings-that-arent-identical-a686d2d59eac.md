@@ -139,4 +139,4 @@ If I’ve inspired you to join medium I would be really grateful if you did it t
 
 这是我写的其他一些东西:
 
-[](/how-to-easily-run-python-scripts-on-website-inputs-d5167bd4eb4b)  [](/how-to-easily-show-your-matplotlib-plots-and-pandas-dataframes-dynamically-on-your-website-a9613eff7ae3)  [](/how-to-easily-automate-your-keyboard-to-do-tasks-in-python-b698e98a5c40) 
+</how-to-easily-run-python-scripts-on-website-inputs-d5167bd4eb4b>  </how-to-easily-show-your-matplotlib-plots-and-pandas-dataframes-dynamically-on-your-website-a9613eff7ae3>  </how-to-easily-automate-your-keyboard-to-do-tasks-in-python-b698e98a5c40> 

@@ -55,7 +55,7 @@
 
 也请看看我的其他文章:
 
-[](/how-to-compare-2-dataframes-easily-b8f6788d5f07)  [](/how-to-create-a-list-of-files-folders-and-subfolders-and-then-export-as-excel-6ce9eaa3867a)  
+</how-to-compare-2-dataframes-easily-b8f6788d5f07>  </how-to-create-a-list-of-files-folders-and-subfolders-and-then-export-as-excel-6ce9eaa3867a>  
 
 ## 警告
 

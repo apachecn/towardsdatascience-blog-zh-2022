@@ -86,11 +86,11 @@ PS:树形图广泛用于做路径分析比如客户行程分析
 
 每当我发布一个新的故事，请订阅保持通知。
 
-[](https://pranay-dave9.medium.com/subscribe)  
+<https://pranay-dave9.medium.com/subscribe>  
 
 你也可以通过我的推荐链接加入 Medium
 
-[](https://pranay-dave9.medium.com/membership)  
+<https://pranay-dave9.medium.com/membership>  
 
 ## Youtube 频道
 

@@ -295,7 +295,7 @@ g.map(sns.boxplot, 'year');
 
 在本文中，您可以找到更多关于 Seaborn 中的箱线图的信息:
 
-[](/creating-boxplots-with-the-seaborn-python-library-f0c20f09bd57)  
+</creating-boxplots-with-the-seaborn-python-library-f0c20f09bd57>  
 
 # 摘要
 

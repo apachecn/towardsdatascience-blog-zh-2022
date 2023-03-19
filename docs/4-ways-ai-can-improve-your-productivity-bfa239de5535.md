@@ -12,7 +12,7 @@
 
 然而，它们使用专用的机器学习算法来执行任务，这使得它们比其他可比工具好得多。这里有一些我最喜欢的工具，可以帮助你们大多数人节省时间。
 
-[](/learn-coding-13-free-sites-to-help-you-do-it-9b2c1b92e573)  
+</learn-coding-13-free-sites-to-help-you-do-it-9b2c1b92e573>  
 
 # 文本摘要
 
@@ -68,6 +68,6 @@ Sassbook AI 作家界面|图片:[截图 Sassbook](https://sassbook.com/ai-writer
 
 享受使用它们的乐趣！
 
-*如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
+*如果你喜欢我的作品，请在这里订阅*<https://medium.com/subscribe/@niklas_lang>**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
 
-*[](https://medium.com/@niklas_lang/what-are-deepfakes-and-how-do-you-recognize-them-f9ab1a143456)  [](https://medium.com/illumination/top-6-big-data-jobs-b5af240e8b44) *
+*<https://medium.com/@niklas_lang/what-are-deepfakes-and-how-do-you-recognize-them-f9ab1a143456>  <https://medium.com/illumination/top-6-big-data-jobs-b5af240e8b44> *

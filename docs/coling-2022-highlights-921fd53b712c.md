@@ -131,6 +131,6 @@ UMT 需要训练源语言和目标语言的两个语料库。两种语言的单�
 
 如果你对机器翻译的最新进展感兴趣，你也可以看看我的 AMTA 2022 亮点:
 
-[](/amta-2022-highlights-4802372b53ed)  
+</amta-2022-highlights-4802372b53ed>  
 
 如果你想支持这项工作，[请在 Medium](https://medium.com/@bnjmn_marie) 上跟随我。

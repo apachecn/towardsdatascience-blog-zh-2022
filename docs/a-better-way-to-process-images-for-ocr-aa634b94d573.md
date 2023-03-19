@@ -40,6 +40,6 @@ OpenCV 的 EAST 文本检测器在扫描的页面上识别边界框。【图文�
 
 ScanTailor 也快得多，处理我的图像批次需要 1 个小时，而我的代码需要 8 个小时。但是软件稍微不稳定，RAM 用多了就死机，所以我建议把每次运行分解成批次，每次保存。
 
-[论坛](https://graphicdesign.stackexchange.com/questions/30948/best-way-to-flatten-a-curled-photographed-book-photograph)提供了几个其他选项， [](https://graphicdesign.stackexchange.com/questions/30948/best-way-to-flatten-a-curled-photographed-book-photograph) 但这是我找到的最直接、最好的解决方案。(我用的是 Windows！)
+[论坛](https://graphicdesign.stackexchange.com/questions/30948/best-way-to-flatten-a-curled-photographed-book-photograph)提供了几个其他选项， <https://graphicdesign.stackexchange.com/questions/30948/best-way-to-flatten-a-curled-photographed-book-photograph> 但这是我找到的最直接、最好的解决方案。(我用的是 Windows！)
 
 这种无代码的解决方案对于那些没有技术技能的人来说绝对是一个很大的优势，所以我希望这篇文章能帮助你为 OCR 准备图像！

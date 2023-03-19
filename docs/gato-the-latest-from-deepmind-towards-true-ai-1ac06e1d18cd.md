@@ -32,7 +32,7 @@
 
 就在 3 年前，我绝对不会说这些，尤其是没有想到人工智能有一天会成为现实。现在，我不太确定，社区的情绪是相似的:他们现在估计，到 2030 年，我们可能会有基于机器的系统，具有与人类相同的通用推理和解决问题的任务。两年前预计的年份是 2200 年左右，并且一直在缓慢下降:
 
-[](https://www.metaculus.com/questions/3479/date-weakly-general-ai-system-is-devised/)  
+<https://www.metaculus.com/questions/3479/date-weakly-general-ai-system-is-devised/>  
 
 虽然这只是盲目的预测，背后没有坚实的模型，但这一趋势确实反映了该领域正在迈出的巨大步伐。我现在不认为一个机器人可以在某一天和你下棋，第二天玩拼字游戏，在你不在家的时候给你的植物浇水，甚至根据天气预报和你的植物看起来如何做出自己的决定，智能地为你总结新闻，为你做饭，甚至为什么不帮助你发展你的想法。多面手 AI 可能比我们想象的更快到达。
 
@@ -40,11 +40,11 @@
 
 Deepmind 在 arXiv 上关于加托的预印本:
 
-[](https://arxiv.org/abs/2205.06175)  
+<https://arxiv.org/abs/2205.06175>  
 
 在 Deepmind 的网站上:
 
-[](https://www.deepmind.com/publications/a-generalist-agent)  
+<https://www.deepmind.com/publications/a-generalist-agent>  
 
 关于机器学习中的多模态:
 
@@ -52,6 +52,6 @@ Deepmind 在 arXiv 上关于加托的预印本:
 
 我写的一些关于使用 GPT-3 和 VQGAN-CLIP 的文章，我用它们做了很多实验，重点是 web 开发:
 
-[](/how-this-artificial-dreaming-program-works-and-how-you-can-create-your-own-artwork-with-it-387e5fb369d9)  [](/web-based-chatbot-project-module-2-gpt-3-generated-responses-assisted-with-a-database-for-1ee2a0f4aad4)  [](/devising-tests-to-measure-gpt-3s-knowledge-of-the-basic-sciences-4bbfcde8286b)  [](/gpt-3-like-models-with-extended-training-could-be-the-future-24-7-tutors-for-biology-students-904d2ae7986a)  
+</how-this-artificial-dreaming-program-works-and-how-you-can-create-your-own-artwork-with-it-387e5fb369d9>  </web-based-chatbot-project-module-2-gpt-3-generated-responses-assisted-with-a-database-for-1ee2a0f4aad4>  </devising-tests-to-measure-gpt-3s-knowledge-of-the-basic-sciences-4bbfcde8286b>  </gpt-3-like-models-with-extended-training-could-be-the-future-24-7-tutors-for-biology-students-904d2ae7986a>  
 
 www.lucianoabriata.com*[***我写作并拍摄我广泛兴趣范围内的一切事物:自然、科学、技术、编程等等。***](https://www.lucianoabriata.com/) **[***成为媒介会员***](https://lucianosphere.medium.com/membership) *访问其所有故事(我免费获得小额收入的平台的附属链接)和* [***订阅获取我的新故事***](https://lucianosphere.medium.com/subscribe) ***通过电子邮件*** *。到* ***咨询关于小职位*** *查看我的* [***服务页面这里***](https://lucianoabriata.altervista.org/services/index.html) *。你可以* [***这里联系我***](https://lucianoabriata.altervista.org/office/contact.html) ***。******

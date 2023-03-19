@@ -74,6 +74,6 @@
 *   弱人工智能和强人工智能是有区别的。前者指的是在单个用例中交付非常好的结果的模型。而强 AI 则是堪比人类的智力。
 *   如今，我们已经在各种应用中遇到了人工智能，如推荐系统、语音识别或计算机视觉。
 
-*如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，媒体允许你每月免费阅读* ***3 篇*** *。如果你想让***无限制地访问我的文章和数以千计的精彩文章，不要犹豫，通过点击我的推荐链接:*[https://medium.com/@niklas_lang/membership](https://medium.com/@niklas_lang/membership)获得会员资格，每个月只需支付 ***5*****
+*如果你喜欢我的作品，请在这里订阅*<https://medium.com/subscribe/@niklas_lang>**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，媒体允许你每月免费阅读* ***3 篇*** *。如果你想让***无限制地访问我的文章和数以千计的精彩文章，不要犹豫，通过点击我的推荐链接:*[https://medium.com/@niklas_lang/membership](https://medium.com/@niklas_lang/membership)获得会员资格，每个月只需支付 ***5*****
 
-***[](/8-machine-learning-algorithms-everyone-new-to-data-science-should-know-772bd0f1eca1)  [](/comprehensive-guide-to-principal-component-analysis-bb4458fff9e2)  [](/introduction-to-random-forest-algorithm-fed4b8c8e848) ***
+***</8-machine-learning-algorithms-everyone-new-to-data-science-should-know-772bd0f1eca1>  </comprehensive-guide-to-principal-component-analysis-bb4458fff9e2>  </introduction-to-random-forest-algorithm-fed4b8c8e848> ***

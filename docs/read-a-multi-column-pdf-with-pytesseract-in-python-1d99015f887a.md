@@ -191,7 +191,7 @@ OCR 引擎模式或“oem”允许您指定是否使用神经网络。
 
 页面分割模式或“psm”允许您指定 OCR 工具应该进行哪种页面分割。例如，我们使用“1”表示“带有 OSD(方向和脚本检测)的自动页面分段”,因为我们的文档是多列的。否则，我将使用“4”来表示“假设一列可变大小的文本”。如需使用哪种“psm”的示例，请阅读来自 [Nanonets](https://nanonets.com/blog/ocr-with-tesseract/) 的本教程:
 
-[](https://nanonets.com/blog/ocr-with-tesseract/)  
+<https://nanonets.com/blog/ocr-with-tesseract/>  
 
 说到底，这就是我们的结果:
 
@@ -207,7 +207,7 @@ OCR 引擎模式或“oem”允许您指定是否使用神经网络。
 
 但是数字化的 pdf 呢？！查看[使用 Python 中的 PyMuPDF 阅读多列 PDF](/read-a-multi-column-pdf-using-pymupdf-in-python-4b48972f82dc)。
 
-[](/read-a-multi-column-pdf-using-pymupdf-in-python-4b48972f82dc)  
+</read-a-multi-column-pdf-using-pymupdf-in-python-4b48972f82dc>  
 
 谢谢你过来看我的帖子。希望 PyMuPDF 能像帮助我一样帮助你！你可以在 [Github](https://github.com/ecdedios) 上这里找到我用[的笔记本。](https://github.com/ecdedios/read-multicolumn-pdf-pymupdf/tree/main/data/in)
 
@@ -215,11 +215,11 @@ OCR 引擎模式或“oem”允许您指定是否使用神经网络。
 
 *如果你想了解更多关于我从懒鬼到数据科学家的旅程，请查看下面的文章:*
 
-[](/from-slacker-to-data-scientist-b4f34aa10ea1)  
+</from-slacker-to-data-scientist-b4f34aa10ea1>  
 
 *如果你正在考虑改变方向，进入数据科学领域，现在就开始考虑重塑品牌:*
 
-[](/the-slackers-guide-to-rebranding-yourself-as-a-data-scientist-b34424d45540)  
+</the-slackers-guide-to-rebranding-yourself-as-a-data-scientist-b34424d45540>  
 
 你可以通过 [Twitter](https://twitter.com/ecdedios) 或 [LinkedIn](https://www.linkedin.com/in/ednalyn-de-dios/) 联系我。
 

@@ -328,4 +328,4 @@ h2o.init()iris.frame <- as.h2o(iris)model <- h2o.deeplearning(
 
 ***我在 Udemy 上建立了一个***[***R***](https://www.udemy.com/course/r-for-absolute-beginners/?referralCode=F839A741D06F0200F312)***入门和一个*** [***学习数据科学的 boot camp***](https://www.udemy.com/course/r-for-data-science-first-step-data-scientist/?referralCode=6D1757B5E619B89FA064)***。这两个课程都是为初学者量身定做的，我希望你能在我身边！***
 
-[](https://ivopbernardo.medium.com/membership) 
+<https://ivopbernardo.medium.com/membership> 

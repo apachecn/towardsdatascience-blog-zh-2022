@@ -60,7 +60,7 @@
 
 它基于我在另一篇文章中介绍的自动编码器。
 
-[](/introduction-to-autoencoders-b6fc3141f072)  
+</introduction-to-autoencoders-b6fc3141f072>  
 
 **提醒:一个好的自动编码器应该能够将数据压缩(编码)成更少的维度，然后再次解压缩(解码)，而不会引入很多错误。**
 

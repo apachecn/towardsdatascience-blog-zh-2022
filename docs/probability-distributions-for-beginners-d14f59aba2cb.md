@@ -148,4 +148,4 @@ CDF 是 PMF 或 PDF 的函数。它使用 PMF 的级数或 pdf 的积分对实�
 
 喜欢这篇文章吗？下面更喜欢！
 
-[](https://www.linkedin.com/in/kate-wall/)  [](/how-to-analyze-continuous-data-from-two-groups-8d101510790f)  [](/professional-venn-diagrams-in-python-638abfff39cc) 
+<https://www.linkedin.com/in/kate-wall/>  </how-to-analyze-continuous-data-from-two-groups-8d101510790f>  </professional-venn-diagrams-in-python-638abfff39cc> 

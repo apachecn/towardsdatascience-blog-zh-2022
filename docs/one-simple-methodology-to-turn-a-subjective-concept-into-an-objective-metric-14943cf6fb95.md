@@ -56,4 +56,4 @@
 
 如果你觉得有趣，可以看看我的其他文章:
 
-[](/7-tips-to-avoid-public-embarrassment-as-a-data-analyst-caec8f701e42)  [](/how-to-choose-which-data-projects-to-work-on-c6b8310ac04e)  [](/how-to-build-a-successful-dashboard-359c8cb0f610) 
+</7-tips-to-avoid-public-embarrassment-as-a-data-analyst-caec8f701e42>  </how-to-choose-which-data-projects-to-work-on-c6b8310ac04e>  </how-to-build-a-successful-dashboard-359c8cb0f610> 

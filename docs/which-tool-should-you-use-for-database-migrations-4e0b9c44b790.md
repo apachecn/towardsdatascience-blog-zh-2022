@@ -4,7 +4,7 @@
 
 根据您的需求选择一个范例。
 
-我所有的数据团队都有一个关系数据库作为我们运营的核心。当你有一个关系数据库，你将不可避免地要改变它！这篇文章将帮助你在三个有用的版本化数据库迁移框架之间做出选择——分别是[](https://sqitch.org/)**[](https://flywaydb.org/)**和 [**liquibase**](https://www.liquibase.com/pricing?utm_term=liquibase&utm_campaign=brandsearch&utm_source=google&utm_medium=ppc&hsa_acc=7217304035&hsa_cam=12808646352&hsa_grp=119923141903&hsa_ad=517707365974&hsa_src=g&hsa_tgt=kwd-370520217004&hsa_kw=liquibase&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQiAxoiQBhCRARIsAPsvo-wjD1EMdIGF00wKitSh_7kJhUUUIsxq6bHntP0Q8DzrpU3yq0iZI7YaAqDIEALw_wcB) 。GitHub 中有一个关联的[存储库](https://github.com/nathansutton/database-migrations)，它遍历 dockerized PostgreSQL 数据库中相同表的每个实现。****
+我所有的数据团队都有一个关系数据库作为我们运营的核心。当你有一个关系数据库，你将不可避免地要改变它！这篇文章将帮助你在三个有用的版本化数据库迁移框架之间做出选择——分别是<https://sqitch.org/>**<https://flywaydb.org/>**和 [**liquibase**](https://www.liquibase.com/pricing?utm_term=liquibase&utm_campaign=brandsearch&utm_source=google&utm_medium=ppc&hsa_acc=7217304035&hsa_cam=12808646352&hsa_grp=119923141903&hsa_ad=517707365974&hsa_src=g&hsa_tgt=kwd-370520217004&hsa_kw=liquibase&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQiAxoiQBhCRARIsAPsvo-wjD1EMdIGF00wKitSh_7kJhUUUIsxq6bHntP0Q8DzrpU3yq0iZI7YaAqDIEALw_wcB) 。GitHub 中有一个关联的[存储库](https://github.com/nathansutton/database-migrations)，它遍历 dockerized PostgreSQL 数据库中相同表的每个实现。****
 
 # ****TL；博士；医生****
 

@@ -33,7 +33,7 @@ Python 中有许多算法，无论是有监督的还是无监督的，都可以�
 
 然而，这些方法具有许多问题，包括减少计算时间所需的小数据集大小和低维度，并且异常在标记的数据中可能是罕见的，导致检测到假阳性。
 
-其中一种无监督的方法叫做**隔离森林。关于该算法如何工作的全部细节可以在刘等人(2008)的原始论文中找到，并且可以在这里免费获得**[](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf)**。******
+其中一种无监督的方法叫做**隔离森林。关于该算法如何工作的全部细节可以在刘等人(2008)的原始论文中找到，并且可以在这里免费获得**<https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf>**。******
 
 # ****隔离林方法****
 
@@ -215,7 +215,7 @@ Python 中有许多算法，无论是有监督的还是无监督的，都可以�
 
 ****如果您有兴趣了解这种方法与其他方法的比较，您可能会喜欢下面的文章:****
 
-****[](/well-log-data-outlier-detection-with-machine-learning-a19cafc5ea37) **** 
+****</well-log-data-outlier-detection-with-machine-learning-a19cafc5ea37> **** 
 
 *****感谢阅读。在你走之前，你一定要订阅我的内容，把我的文章放到你的收件箱里。* [***你可以在这里做！***](https://andymcdonaldgeo.medium.com/subscribe)**或者，您也可以* [***注册我的简讯***](https://fabulous-founder-2965.ck.page/2ca286e572) *免费将更多内容直接发送到您的收件箱。******
 

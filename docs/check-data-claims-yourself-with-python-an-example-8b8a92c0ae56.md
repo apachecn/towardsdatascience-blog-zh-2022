@@ -141,7 +141,7 @@ fitted_params = np.polyfit(np.arange(0, len(y)), y, poly_degree )polynomials = n
 
 # 你可能喜欢的其他文章
 
-[](/how-to-switch-from-excel-to-python-20440824602e)  [](/develop-and-sell-a-python-api-from-start-to-end-tutorial-9a038e433966)  [](/how-i-set-up-my-new-macbook-pro-for-programming-and-data-science-505c69d2142)  
+</how-to-switch-from-excel-to-python-20440824602e>  </develop-and-sell-a-python-api-from-start-to-end-tutorial-9a038e433966>  </how-i-set-up-my-new-macbook-pro-for-programming-and-data-science-505c69d2142>  
 
 # 放弃
 

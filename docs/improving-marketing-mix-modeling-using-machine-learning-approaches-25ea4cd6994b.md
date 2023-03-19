@@ -12,7 +12,7 @@ T 有许多方法可以建立营销组合模型(MMM ),但通常来说，由于�
 
 在我的上一篇文章中，我使用贝叶斯编程建立了一个营销组合模型，并将结果与 Robyn 框架进行了比较。我的主要兴趣是调查这两种方法是否具有可比性，在讲故事时是否一致。由于 Robyn 生成了多个解决方案，我能够找到一个与贝叶斯解决方案一致的解决方案，即两个模型的效果份额始终高于或低于每个渠道的支出份额。百分比差异可归因于方法的差异和模型很好地拟合数据的能力。然而，这两种方法的共同点是都描述了媒体支出和回应之间的线性关系，因此无法捕捉更复杂的变量关系，如互动。
 
-[](/modeling-marketing-mix-using-pymc3-ba18dd9e6e68)  
+</modeling-marketing-mix-using-pymc3-ba18dd9e6e68>  
 
 我能找到的在营销组合建模中使用更复杂算法的第一个商业概念证明之一是由 [H2O.ai](https://h2o.ai/resources/white-paper/the-benefits-of-budget-allocation-with-ai-driven-marketing-mix-models/) 描述的，如梯度推进机(GBM)和 SHAP。
 

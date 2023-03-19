@@ -46,13 +46,13 @@
 
 要了解更多关于 ***聚合解析函数*** ，你可以在这里看看👇🏼
 
-[](https://cloud.google.com/bigquery/docs/reference/standard-sql/aggregate_analytic_functions)  
+<https://cloud.google.com/bigquery/docs/reference/standard-sql/aggregate_analytic_functions>  
 
 对于这个实验，我们使用来自公共 BigQuery 数据集的**新冠肺炎公共数据**。
 
 您可以通过以下链接获得更多信息👇🏼
 
-[](https://cloud.google.com/blog/products/data-analytics/free-public-datasets-for-covid19)  
+<https://cloud.google.com/blog/products/data-analytics/free-public-datasets-for-covid19>  
 
 要找到我们将逐步解释的完整脚本，您可以直接转到**步骤#3、**并在 BigQuery **中运行它。**
 

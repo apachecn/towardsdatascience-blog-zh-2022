@@ -359,4 +359,4 @@ printenv GOOGLE_APPLICATION_CREDENTIALS
 
 # 有用的资源
 
-[](https://github.com/googleapis/python-bigquery/)    [](https://cloud.google.com/bigquery/docs/reference/libraries#client-libraries-install-python)  [](https://codelabs.developers.google.com/codelabs/cloud-bigquery-python#0)  [](https://cloud.google.com/apis/design/errors)   
+<https://github.com/googleapis/python-bigquery/>    <https://cloud.google.com/bigquery/docs/reference/libraries#client-libraries-install-python>  <https://codelabs.developers.google.com/codelabs/cloud-bigquery-python#0>  <https://cloud.google.com/apis/design/errors>   

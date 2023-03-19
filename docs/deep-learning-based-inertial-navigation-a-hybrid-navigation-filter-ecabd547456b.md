@@ -52,7 +52,7 @@ INS/GPS 的混合模型(图片由作者提供)
 
 [【2】](https://ieeexplore.ieee.org/abstract/document/9044358)张、凌毅、David Sidoti、Adam Bienkowski、Krishna R. Pattipati、Yaakov Bar-Shalom 和 David L. Kleinman。"关于噪声协方差和自适应卡尔曼滤波的识别:一个 50 年老问题的新观点."IEEE 访问权限 8(2020):59362–59388。
 
-*如果你想继续阅读关于惯性传感器的深度学习，我推荐我在 Medium* *:* 上的前一篇文章[](http://Deep Learning for Inertial Navigation A short review of cutting edge deep learning-based solutions for inertial navigation.)
+*如果你想继续阅读关于惯性传感器的深度学习，我推荐我在 Medium* *:* 上的前一篇文章<http://Deep Learning for Inertial Navigation A short review of cutting edge deep learning-based solutions for inertial navigation.>
 
 *巴拉或。“惯性导航的深度学习:对惯性导航基于深度学习的前沿解决方案的简短回顾。”2020.*
 

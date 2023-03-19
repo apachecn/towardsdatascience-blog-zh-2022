@@ -45,7 +45,7 @@
 
 在之前的一篇文章中，我讲述了为什么这很难，以及了解 AlphaFold2 的结构和更详细的介绍对于进一步学习的重要性:
 
-[](/speaking-the-language-of-life-how-alphafold2-and-co-are-changing-biology-97cff7496221)  
+</speaking-the-language-of-life-how-alphafold2-and-co-are-changing-biology-97cff7496221>  
 
 # **alpha fold 2 有它的阿奇利之踵吗？**
 
@@ -262,11 +262,11 @@ AlphaFold2 获得的结果令人印象深刻，以至于 CASP 协会取消了一
 
 **这是我的 GitHub 知识库的链接，我计划在这里收集代码和许多与机器学习、人工智能等相关的资源。**
 
-**[](https://github.com/SalvatoreRa/tutorial)  
+**<https://github.com/SalvatoreRa/tutorial>  
 
 或者随意查看我在 Medium 上的其他文章:
 
-[](/machine-unlearning-the-duty-of-forgetting-3666e5b9f6e5)  [](/how-science-contribution-has-become-a-toxic-environment-6beb382cebcd)  [](/a-critical-analysis-of-your-dataset-2b388e7ca01e)  [](/machine-learning-to-tackle-climate-change-7911e004c3a2)  
+</machine-unlearning-the-duty-of-forgetting-3666e5b9f6e5>  </how-science-contribution-has-become-a-toxic-environment-6beb382cebcd>  </a-critical-analysis-of-your-dataset-2b388e7ca01e>  </machine-learning-to-tackle-climate-change-7911e004c3a2>  
 
 **附加资源**
 

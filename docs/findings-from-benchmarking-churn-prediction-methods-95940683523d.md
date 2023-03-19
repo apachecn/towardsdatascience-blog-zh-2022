@@ -60,9 +60,9 @@ T 他的文章展示了我上一篇(技术性更强)文章中的结果和发现�
 在现实生活中，处理接近 50%的类平衡是非常罕见的。特别是在客户流失预测领域，人们通常不得不处理高度不平衡的问题(流失者占少数)。imblearn 包提供了一系列不同的方法来处理这个问题。使用了以下几种(及其组合):
 
 *   **不取样**(`no_sampling`)——我们不采用任何方法
-*   [](https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.SMOTE.html)**(`o_SMOTE`)—过采样**
-*   **[](https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.ADASYN.html)**(`o_ADASYN`)—过采样****
-*   ****[](https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.TomekLinks.html)**(`u_TomekLinks`)—欠采样******
+*   <https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.SMOTE.html>**(`o_SMOTE`)—过采样**
+*   **<https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.ADASYN.html>**(`o_ADASYN`)—过采样****
+*   ****<https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.TomekLinks.html>**(`u_TomekLinks`)—欠采样******
 *   ******[**【NCR】**](https://imbalanced-learn.org/stable/references/generated/imblearn.under_sampling.NeighbourhoodCleaningRule.html)(`u_NCR`)—欠采样******
 *   ******SMOTE 和**[**RND**](https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.RandomOverSampler.html)(`h_SMOTE_RND`)—过采样和欠采样****
 *   ******SMOTE 和 TomekLinks** ( `h_SMOTE_TomekLinks` ) —过采样和欠采样****
@@ -71,7 +71,7 @@ T 他的文章展示了我上一篇(技术性更强)文章中的结果和发现�
 ## ****📦模型****
 
 *   ****[**逻辑回归**](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html) ( `lr`)****
-*   ****[](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)****(`rf`)********
+*   ****<https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html>****(`rf`)********
 *   ******[**XGB 量词**](https://xgboost.readthedocs.io/en/stable/python/python_api.html) ( `xgb`)******
 *   ****[**SVC 分类器**](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html) ( `svc`)****
 *   ****[**高斯朴素贝叶斯**](https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.GaussianNB.html) ( `gnb`)****

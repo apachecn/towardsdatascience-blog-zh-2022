@@ -44,7 +44,7 @@
 
 *对于那些喜欢用行话来对付行话的人，我将在下一节中帮助自己使用更正式的语言。你可以不去想那一点，但是如果你同时对这里的*和*新事物感到好奇，那就走一条[小弯路](http://bit.ly/quaesita_statistics)在短短 8 分钟内浏览所有统计学中最重要的观点:*
 
-*[](/statistics-for-people-in-a-hurry-a9613c0ed0b)  
+*</statistics-for-people-in-a-hurry-a9613c0ed0b>  
 
 我的文章中的大部分链接会将你带到博客文章，在那里我会给你重点主题的更深入的概述，所以你也可以将这篇文章作为选择你自己的冒险[关于](http://bit.ly/quaesita_sministats)[数据科学](http://bit.ly/quaesita_datascim)的迷你课程的发射台。
 
@@ -80,7 +80,7 @@
 
 *这就有点哲学了，所以我需要一篇单独的文章来阐述我对这个问题的看法:*
 
-*[](https://kozyrkov.medium.com/why-do-we-trust-scientists-98c24e3b9f0e)  
+*<https://kozyrkov.medium.com/why-do-we-trust-scientists-98c24e3b9f0e>  
 
 简而言之，我的建议是，把你的一些决策权委托给其他人是没问题的，只要你相信他们是有能力的，并且把你的最大利益放在心上。当他们被说服时，你会借用他们的意见，这样你就不用自己重做他们所有的工作了。
 
@@ -106,7 +106,7 @@
 
 在这里欣赏课程播放列表，它被分成 120 个单独的一口大小的课程视频:[bit.ly/machinefriend](http://bit.ly/machinefriend)
 
-[](https://kozyrkov.medium.com/membership)  
+<https://kozyrkov.medium.com/membership>  
 
 # 喜欢作者？与凯西·科兹尔科夫联系
 

@@ -52,8 +52,8 @@
 
 — 🌮请给我买一份玉米卷🎀˶❛◡❛)
 
-[](https://geek-cc.medium.com/membership)  
+<https://geek-cc.medium.com/membership>  
 
 要了解更多 Tableau 技巧和变通方法，请随意查看下面的文章列表:
 
-[](/how-to-render-mixed-geometry-types-in-tableau-in-2-simple-steps-27b56a2153c4)  [](/leverage-on-d3-js-v4-to-build-a-network-graph-for-tableau-with-ease-cc274cba69ce)  [](/selective-formatting-of-numbers-in-tableau-f5035cc64b68)  [](/5-lesser-known-tableau-tips-tricks-hacks-with-use-case-demo-463f98fbdc7e)  [](/superscript-and-subscript-in-tableau-why-and-how-you-can-implement-it-764caf0cc932)  [](/underrated-combined-functionalities-of-tableau-point-linestring-polygon-mapping-b4c0568a4de2) 
+</how-to-render-mixed-geometry-types-in-tableau-in-2-simple-steps-27b56a2153c4>  </leverage-on-d3-js-v4-to-build-a-network-graph-for-tableau-with-ease-cc274cba69ce>  </selective-formatting-of-numbers-in-tableau-f5035cc64b68>  </5-lesser-known-tableau-tips-tricks-hacks-with-use-case-demo-463f98fbdc7e>  </superscript-and-subscript-in-tableau-why-and-how-you-can-implement-it-764caf0cc932>  </underrated-combined-functionalities-of-tableau-point-linestring-polygon-mapping-b4c0568a4de2> 

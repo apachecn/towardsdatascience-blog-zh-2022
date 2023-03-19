@@ -30,7 +30,7 @@
 
 ## 1.1 来源和可用性
 
-数据集来自[](https://www.kaggle.com/)****，可以从这个[源](https://www.kaggle.com/datasets/vaske93/football-coaches-stats-and-tropheys)下载。
+数据集来自<https://www.kaggle.com/>****，可以从这个[源](https://www.kaggle.com/datasets/vaske93/football-coaches-stats-and-tropheys)下载。
 数据使用不需要版权许可( [CC0 1.0 通用(CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/) )，可以免费下载使用。该数据集相当新(6 个月前更新)，并且可以在几秒钟内下载，因为它非常小(大约 100 行和 13 列)。****
 
 ## ****1.2 概述****

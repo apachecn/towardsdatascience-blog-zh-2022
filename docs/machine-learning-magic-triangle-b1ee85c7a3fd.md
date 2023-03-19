@@ -140,15 +140,15 @@
 
 电信数据集可在此获得。[T5T7**允许商业和非商业使用。**](https://www.ibm.com/community/terms-of-use/download/)
 
-[](https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/11/telco-customer-churn-1113)  
+<https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/11/telco-customer-churn-1113>  
 
 请**订阅**每当我发布一个新的故事时，请保持通知。
 
-[](https://pranay-dave9.medium.com/subscribe)  
+<https://pranay-dave9.medium.com/subscribe>  
 
 你也可以通过我的推荐链接**加入 Medium**
 
-[](https://pranay-dave9.medium.com/membership)  
+<https://pranay-dave9.medium.com/membership>  
 
 # 额外资源
 

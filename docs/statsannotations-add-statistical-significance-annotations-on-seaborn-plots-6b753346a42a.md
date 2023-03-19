@@ -112,12 +112,12 @@ Manhattan vs. Queens: Mann-Whitney-Wilcoxon test two-sided, P_val:2.929e-30 U_st
 
 随意发挥，并在这里叉这篇文章的源代码:
 
-[](https://github.com/khuyentran1401/Data-science/blob/master/visualization/statsannotation_example.ipynb)  
+<https://github.com/khuyentran1401/Data-science/blob/master/visualization/statsannotation_example.ipynb>  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的数据科学工具。你可以在 LinkedIn 和 T2 Twitter 上与我联系。
 
 星[这个回购](https://github.com/khuyentran1401/Data-science)如果你想检查我写的所有文章的代码。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](https://pub.towardsai.net/atoti-build-a-bi-platform-in-python-beea47b92c7b)  [](/how-to-create-interactive-and-elegant-plot-with-altair-8dd87a890f2a)  [](/introduction-to-yellowbrick-a-python-library-to-explain-the-prediction-of-your-machine-learning-d63ecee10ecc)  [](/how-to-sketch-your-data-science-ideas-with-excalidraw-a993d049f55c) [## 如何用 Excalidraw 勾画您的数据科学想法
+<https://pub.towardsai.net/atoti-build-a-bi-platform-in-python-beea47b92c7b>  </how-to-create-interactive-and-elegant-plot-with-altair-8dd87a890f2a>  </introduction-to-yellowbrick-a-python-library-to-explain-the-prediction-of-your-machine-learning-d63ecee10ecc>  </how-to-sketch-your-data-science-ideas-with-excalidraw-a993d049f55c> [## 如何用 Excalidraw 勾画您的数据科学想法
 
 towardsdatascience.com](/how-to-sketch-your-data-science-ideas-with-excalidraw-a993d049f55c)

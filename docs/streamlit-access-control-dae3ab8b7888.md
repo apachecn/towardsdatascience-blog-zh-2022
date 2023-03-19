@@ -16,7 +16,7 @@
 
 在之前的帖子中，我分享了我们如何使用 [Django 的认证框架](https://docs.djangoproject.com/en/dev/topics/auth/default/)来提高 Streamlit 应用的安全性。
 
-[](/secure-your-streamlit-app-with-django-bb0bee2a6519)  
+</secure-your-streamlit-app-with-django-bb0bee2a6519>  
 
 这篇文章延续了上一篇文章，涵盖了针对您的 Streamlit 应用程序的更细粒度的访问控制策略。我建议你在深入研究之前先读第一本书。
 
@@ -26,7 +26,7 @@
 ∘ [在 Django 管理控制台中创建用户。](#8fdc)
 ∘ [查看细流应用](#d007)中的权限
 
-[](/how-to-create-stunning-web-apps-for-your-data-science-projects-c7791102134e)  
+</how-to-create-stunning-web-apps-for-your-data-science-projects-c7791102134e>  
 
 # 为什么我们需要授权控制？
 
@@ -46,7 +46,7 @@
 
 Streamlit 也没有授权选项。让我们继续扩展 Django 认证来处理权限。
 
-[](/github-automated-testing-python-fdfe5aec9446)  
+</github-automated-testing-python-fdfe5aec9446>  
 
 # 用 Django 控制仪表板权限。
 
@@ -60,7 +60,7 @@ Streamlit 也没有授权选项。让我们继续扩展 Django 认证来处理�
 
 但是我们首先不需要群体吗？让我们从那里开始。
 
-[](/python-project-structure-best-practices-d9d0b174ad5d)  
+</python-project-structure-best-practices-d9d0b174ad5d>  
 
 ## 在 Django 管理控制台中创建用户组。
 
@@ -129,7 +129,7 @@ streamlit run quickstart.py
 
 正如我们在之前的帖子中看到的，Streamlit 仍然年轻。开发其认证和授权系统需要时间。在此之前，我们可以使用 Django 更安全地构建生产级应用。
 
-[](/plotly-dashboards-in-python-28a3bb83702c)  
+</plotly-dashboards-in-python-28a3bb83702c>  
 
 > 感谢阅读，朋友！在[**LinkedIn**](https://www.linkedin.com/in/thuwarakesh/)[**Twitter**](https://twitter.com/Thuwarakesh)[**Medium**](https://thuwarakesh.medium.com/)上跟我打招呼。
 > 

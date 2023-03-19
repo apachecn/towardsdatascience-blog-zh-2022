@@ -243,4 +243,4 @@ newdata <- tidyr::[crossing](https://tidyr.tidyverse.org/reference/expand.html)(
 
 贝叶斯推理和广义线性模型代表了一种灵活而强大的组合。但是，正确地指定模型背后的假设(公式集)是我们的责任。从这些发现中学习——所以，不要吸烟。并使用吸烟贝叶斯。
 
-*原载于*[](https://mihagazvoda.com/)**。**
+*原载于*<https://mihagazvoda.com/>**。**

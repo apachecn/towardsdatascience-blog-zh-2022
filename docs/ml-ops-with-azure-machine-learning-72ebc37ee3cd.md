@@ -16,7 +16,7 @@ Azure 机器学习服务(AML)提供端到端的能力来管理 ML 生命周期�
 
 Gerrie van der Walt 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄的照片
 
-[](https://linkedin.com/in/p-jainani)  
+<https://linkedin.com/in/p-jainani>  
 
 # 解决方案框架
 
@@ -76,7 +76,7 @@ Azure DevOps 提供了自动化 ML 操作所需的 CI 和 CD 步骤的能力，�
 
 **Azure 机器学习— MLOps 解决方案架构**(图片由作者提供)
 
-[](https://linkedin.com/in/p-jainani)  
+<https://linkedin.com/in/p-jainani>  
 
 ## 参考
 

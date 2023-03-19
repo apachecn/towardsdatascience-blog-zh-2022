@@ -284,4 +284,4 @@ df.clip(upper=7)
 
 您可能还会对以下内容感兴趣:
 
-[](/9-useful-pandas-methods-you-probably-have-not-heard-about-28ff6c0bceee)  [](/one-thing-you-might-not-have-known-about-linear-regression-634446de7559)  [](/phik-k-get-familiar-with-the-latest-correlation-coefficient-9ba0032b37e7) 
+</9-useful-pandas-methods-you-probably-have-not-heard-about-28ff6c0bceee>  </one-thing-you-might-not-have-known-about-linear-regression-634446de7559>  </phik-k-get-familiar-with-the-latest-correlation-coefficient-9ba0032b37e7> 

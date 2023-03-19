@@ -190,7 +190,7 @@ The mean patient time in the system across all runs was 110.1 minutes
 
 GitHub 回购:
 
-[](https://github.com/hsma5/3a_introduction_to_discrete_event_simulation)  [](https://github.com/hsma5/3b_simpy_part_1)  [](https://github.com/hsma5/3c_simpy_part_2)  
+<https://github.com/hsma5/3a_introduction_to_discrete_event_simulation>  <https://github.com/hsma5/3b_simpy_part_1>  <https://github.com/hsma5/3c_simpy_part_2>  
 
 也有一些 YouTube 视频可用:
 [https://www . YouTube . com/channel/uccy 9 _ gxg 6km-xjk 9 vv0 mziq/videos](https://www.youtube.com/channel/UCCY9_Gxg6kM-xjk9vV0mzIQ/videos)

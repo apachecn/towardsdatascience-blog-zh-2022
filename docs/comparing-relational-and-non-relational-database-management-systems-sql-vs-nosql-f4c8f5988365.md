@@ -34,4 +34,4 @@
 
 *如果你从这些文章中获得了价值，并且还不是 medium 会员，考虑使用下面的链接注册 Medium！👇*
 
-*[](https://medium.com/@riandolphin/membership) *
+*<https://medium.com/@riandolphin/membership> *

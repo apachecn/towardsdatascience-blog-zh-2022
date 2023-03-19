@@ -116,7 +116,7 @@ Shane Aldendorff 摄影:[https://www . pexels . com/photo/shallow-focus-of-photo
 
 如果您不熟悉 BERT，并且希望对它的功能和架构有一个基本的了解，请在这里查看我的另一篇文章。
 
-[](/text-classification-with-bert-in-pytorch-887965e5820f)  
+</text-classification-with-bert-in-pytorch-887965e5820f>  
 
 简而言之，BERT 架构由堆叠在一起的变压器编码器组成，编码器的数量取决于我们使用的 BERT 模型。
 

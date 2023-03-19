@@ -287,8 +287,8 @@ Streamlit Cloud 是您访问时加载应用程序最快的。然而，拥抱脸�
 
 如果你喜欢这篇文章，请随意[关注我](https://medium.com/@bohmian)或者看看我下面的其他文章！:)
 
-[](https://medium.datadriveninvestor.com/build-a-stock-sentiment-web-app-with-flask-and-deploy-it-online-3930e58a236c)  [](https://medium.datadriveninvestor.com/train-and-deploy-an-nlp-news-classifier-web-app-to-the-cloud-for-free-82655b6b32f4)  
+<https://medium.datadriveninvestor.com/build-a-stock-sentiment-web-app-with-flask-and-deploy-it-online-3930e58a236c>  <https://medium.datadriveninvestor.com/train-and-deploy-an-nlp-news-classifier-web-app-to-the-cloud-for-free-82655b6b32f4>  
 
 如果你喜欢这样的文章，并希望支持像我这样的作家，请考虑[注册成为媒体会员](https://medium.com/@bohmian/membership)。每月 5 美元，你就可以无限制地阅读 Medium 上的任何文章。如果你注册使用我的链接，我会赚一小笔佣金，不需要你额外付费。
 
-[](https://medium.com/@bohmian/membership) 
+<https://medium.com/@bohmian/membership> 

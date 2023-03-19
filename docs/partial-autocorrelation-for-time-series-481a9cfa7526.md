@@ -12,7 +12,7 @@
 
 在我之前的文章中，我们讨论了 [**自相关**](https://medium.com/towards-data-science/autocorrelation-for-time-series-analysis-86e68e631f77) 的概念:
 
-[](/autocorrelation-for-time-series-analysis-86e68e631f77)  
+</autocorrelation-for-time-series-analysis-86e68e631f77>  
 
 自相关是随机变量或数据在不同时间点(滞后)的相关性。自相关传递了不同滞后的数据的相似性，使我们能够推断出我们的时间序列的一些有趣的特征，如季节性和趋势。
 
@@ -38,7 +38,7 @@
 
 **与自相关不同，偏相关还没有被我用于时间序列分析。然而，它的主要和非常重要的影响出现在构建预测模型时。**
 
-**当拟合 [**自回归**](https://en.wikipedia.org/wiki/Autoregressive_model) 、 [**ARMA**](https://en.wikipedia.org/wiki/Autoregressive%E2%80%93moving-average_model) 或[](https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average)**模型时，PACF 用于估计 [**自回归**](https://online.stat.psu.edu/stat501/lesson/14/14.1) 分量的数量/阶数，如 [**Box-Jenkins**](https://en.wikipedia.org/wiki/Box%E2%80%93Jenkins_method) 程序所定义。这些模型可能是最常用的，并且在训练预测模型时通常会提供最佳结果。****
+**当拟合 [**自回归**](https://en.wikipedia.org/wiki/Autoregressive_model) 、 [**ARMA**](https://en.wikipedia.org/wiki/Autoregressive%E2%80%93moving-average_model) 或<https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average>**模型时，PACF 用于估计 [**自回归**](https://online.stat.psu.edu/stat501/lesson/14/14.1) 分量的数量/阶数，如 [**Box-Jenkins**](https://en.wikipedia.org/wiki/Box%E2%80%93Jenkins_method) 程序所定义。这些模型可能是最常用的，并且在训练预测模型时通常会提供最佳结果。****
 
 > ****在以后的博客中，我计划解释自回归模型、ARMA 模型和 ARIMA 模型。在此之前，请参考上面的链接来了解这些算法。****
 
@@ -70,7 +70,7 @@
 
 ****然而，从这个图来看，如果我们建立一个预测模型，我们将选择多少个自回归函数是很不清楚的。因此，通常建议使用[***auto ARIMA***](https://alkaline-ml.com/pmdarima/modules/generated/pmdarima.arima.auto_arima.html)等建模软件包对可能的参数进行网格搜索。****
 
-> ****蓝色区域是滞后不再具有统计显著性[](https://en.wikipedia.org/wiki/Statistical_significance)**的地方。我们通常通过查看蓝色区域上方的自回归数来选择自回归数。******
+> ****蓝色区域是滞后不再具有统计显著性<https://en.wikipedia.org/wiki/Statistical_significance>**的地方。我们通常通过查看蓝色区域上方的自回归数来选择自回归数。******
 
 # ******总结和进一步的思考******
 
@@ -78,7 +78,7 @@
 
 ******这篇文章中使用的完整代码可以在我的 GitHub 中找到:******
 
-******[](https://github.com/egorhowell/Medium-Articles/blob/main/Time%20Series/Time%20Series%20Tools/partial_autocorrelation.py)  
+******<https://github.com/egorhowell/Medium-Articles/blob/main/Time%20Series/Time%20Series%20Tools/partial_autocorrelation.py>  
 
 # 参考资料和进一步阅读
 
@@ -91,6 +91,6 @@
 *   [*LinkedIn*](https://www.linkedin.com/in/egor-howell-092a721b3/)*👔*
 *   *[*推特*](https://twitter.com/EgorHowell) 🖊*
 *   *[*github*](https://github.com/egorhowell)*🖥**
-*   **[](https://www.kaggle.com/egorphysics)**🏅****
+*   **<https://www.kaggle.com/egorphysics>**🏅****
 
 > ***(所有表情符号都是由 [OpenMoji](https://openmoji.org/) 设计的——开源的表情符号和图标项目。执照: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)*********

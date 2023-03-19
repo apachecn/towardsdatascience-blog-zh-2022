@@ -179,7 +179,7 @@ print_binary_evaluation(X_train, X_test,y_train, y_test, 'stratified')
 
 还有另一种方法来开发基于业务逻辑的简单基线模型，但是它需要领域知识和业务理解。我在另一篇文章中写过这个话题，你可以参考一下。
 
-[](/how-to-set-technical-metrics-data-science-project-for-business-7e77084448a4)  
+</how-to-set-technical-metrics-data-science-project-for-business-7e77084448a4>  
 
 ## **机器学习基线模型**
 

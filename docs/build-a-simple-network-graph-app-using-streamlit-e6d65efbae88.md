@@ -26,7 +26,7 @@
 
 如果您是 Streamlit 的新手，请阅读下面的[文章](/streamlit-hands-on-from-zero-to-your-first-awesome-web-app-2c28f9f4e214)，并按照说明安装 Streamlit 并学习其基础知识。
 
-[](/streamlit-hands-on-from-zero-to-your-first-awesome-web-app-2c28f9f4e214)  
+</streamlit-hands-on-from-zero-to-your-first-awesome-web-app-2c28f9f4e214>  
 
 您还需要安装以下软件包:
 

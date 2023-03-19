@@ -259,7 +259,7 @@ print(f"10000 runs of mycode is {t1}")
 
 为了方便起见，这是本文中代码的完整 Jupyter 笔记本。
 
-[](https://github.com/jiananlin/what_if_apply_too_slow/blob/main/apply_too_slow.ipynb)  
+<https://github.com/jiananlin/what_if_apply_too_slow/blob/main/apply_too_slow.ipynb>  
 
 这就是我想分享的全部！干杯！
 

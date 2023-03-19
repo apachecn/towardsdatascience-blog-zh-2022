@@ -10,7 +10,7 @@
 
 在 Stat Stories 的前一集中，我讨论了单变量连续分布的变量变换。这种变量变换对于从简单分布生成新的复杂分布是必不可少的。然而，讨论仅限于单个变量。在本文中，我们将讨论二元分布的变换。理解多变量转换的机制是走向最近流行的机器学习方法[标准化流程](https://arxiv.org/pdf/1908.09257.pdf)的第一步。然而，为了简单起见，本文中我们将只讨论二元分布，它可以推广到多元分布。
 
-[](/stat-stories-variable-transformation-to-generate-new-distributions-d4607cb32c30)  
+</stat-stories-variable-transformation-to-generate-new-distributions-d4607cb32c30>  
 
 ## 二元变换
 
@@ -96,7 +96,7 @@
 
 *当我制作关于标准化流程的内容时，请查看以前的 Stat 故事集:*
 
-*[](/stat-stories-variable-transformation-to-generate-new-distributions-d4607cb32c30)  [](/stat-stories-common-families-of-statistical-distributions-part-1-2b704dd6a808)  [](/stat-stories-common-families-of-statistical-distributions-part-2-4bdea86c3132)  [](/stat-stories-why-is-moment-generating-function-important-25bbc17dad68)  
+*</stat-stories-variable-transformation-to-generate-new-distributions-d4607cb32c30>  </stat-stories-common-families-of-statistical-distributions-part-1-2b704dd6a808>  </stat-stories-common-families-of-statistical-distributions-part-2-4bdea86c3132>  </stat-stories-why-is-moment-generating-function-important-25bbc17dad68>  
 
 > 如果你想了解更多关于统计学和数据科学的重要话题，请通过[https://rahulbhadani.medium.com/membership](https://rahulbhadani.medium.com/membership)订阅 Medium。虽然只是 5 美元/月，但对我有很大的帮助，因为 Medium 支付你的订阅费的一部分给作家。
 

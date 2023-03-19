@@ -10,7 +10,7 @@
 
 ## 介绍
 
-在我最近的一篇文章中，我们探讨了针对音频和视频文件的[](/content-moderation-python-assemblyai-4a09ca61d346)****敏感内容检测和调节。另一个密切相关的主题是亵渎检测和过滤。换句话说，*我们如何用星号替换亵渎的话？*****
+在我最近的一篇文章中，我们探讨了针对音频和视频文件的</content-moderation-python-assemblyai-4a09ca61d346>****敏感内容检测和调节。另一个密切相关的主题是亵渎检测和过滤。换句话说，*我们如何用星号替换亵渎的话？*****
 
 ****在今天的教程中，我们将探索如何使用 Python 和 AssemblyAI API 执行语音到文本转换。此外，我们将确保文本转录是免费的亵渎。****
 
@@ -76,12 +76,12 @@
 
 ****在今天的文章中，我们展示了如何使用 Python 和 AssemblyAI API 对音频和视频文件进行脏话过滤。当需要过滤脏话时，您可能通常希望(或需要)执行敏感内容检测。关于如何执行内容审核的分步指南，请阅读下面的文章****
 
-****[](/content-moderation-python-assemblyai-4a09ca61d346) **** 
+****</content-moderation-python-assemblyai-4a09ca61d346> **** 
 
 ****[**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。******
 
-****[](https://gmyrianthous.medium.com/membership) **** 
+****<https://gmyrianthous.medium.com/membership> **** 
 
 ******你可能也会喜欢******
 
-****[](/speech-recognition-python-assemblyai-bb5024d322d8) **** ****[](/sentiment-analysis-assemblyai-python-a4686967e0fc) ****
+****</speech-recognition-python-assemblyai-bb5024d322d8> **** ****</sentiment-analysis-assemblyai-python-a4686967e0fc> ****

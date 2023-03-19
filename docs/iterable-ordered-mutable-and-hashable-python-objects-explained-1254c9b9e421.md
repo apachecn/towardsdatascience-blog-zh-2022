@@ -302,4 +302,4 @@ False
 
 **你会发现这些文章也很有趣:**
 
-[](/16-underrated-pandas-series-methods-and-when-to-use-them-c696e17fbaa4)  [](https://levelup.gitconnected.com/when-a-python-gotcha-leads-to-wrong-results-2447f379fdfe)  [](https://medium.com/geekculture/creating-toyplots-in-python-49de0bb27ec1) 
+</16-underrated-pandas-series-methods-and-when-to-use-them-c696e17fbaa4>  <https://levelup.gitconnected.com/when-a-python-gotcha-leads-to-wrong-results-2447f379fdfe>  <https://medium.com/geekculture/creating-toyplots-in-python-49de0bb27ec1> 

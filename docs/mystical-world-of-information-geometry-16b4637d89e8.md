@@ -140,4 +140,4 @@
 
 ## 一些相关的话题
 
-[](/manifold-alignment-c67fc3fc1a1c)  [](/the-gromov-wasserstein-distance-835c39d4751d) 
+</manifold-alignment-c67fc3fc1a1c>  </the-gromov-wasserstein-distance-835c39d4751d> 

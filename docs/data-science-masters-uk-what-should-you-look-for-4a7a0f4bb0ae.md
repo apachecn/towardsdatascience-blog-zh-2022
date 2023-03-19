@@ -128,4 +128,4 @@
 
 如果你也想在英国攻读数据科学硕士，希望我的想法能给你一些指导。和往常一样，如果你喜欢这篇文章，你可以看看我在 YouTube 上的其他视频。如果你想通过电子邮件了解我在做什么，你可以考虑注册我的[简讯](https://leonlok.co.uk/newsletter/)🙂
 
-*原载于 2022 年 1 月 24 日 https://leonlok.co.uk*[](https://leonlok.co.uk/blog/data-science-masters-uk-what-should-you-look-for/)**。**
+*原载于 2022 年 1 月 24 日 https://leonlok.co.uk*<https://leonlok.co.uk/blog/data-science-masters-uk-what-should-you-look-for/>**。**

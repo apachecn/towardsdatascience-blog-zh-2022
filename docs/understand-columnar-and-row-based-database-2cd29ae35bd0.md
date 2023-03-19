@@ -93,4 +93,4 @@ Unsplash 上[活动创建者](https://unsplash.com/@campaign_creators)的照片
 
 ## 参考
 
-[](https://www.sentinelone.com/blog/understanding-row-vs-column-oriented-databases/) 
+<https://www.sentinelone.com/blog/understanding-row-vs-column-oriented-databases/> 

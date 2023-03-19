@@ -192,4 +192,4 @@
 
 *此外，确保* [***关注***](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2Fa9be78db0c9b&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fwhat-is-image-super-resolution-and-why-do-we-need-it-9c3bd9dc233e&user=Christian+Galea&userId=a9be78db0c9b&source=post_page-a9be78db0c9b--three_column_layout_sidebar-----------------------follow_profile-----------) *me，以确保您在未来文章发表时得到通知。*
 
-*作者目前是马耳他大学*[](https://www.um.edu.mt/)**的博士后研究员*[*Deep-FIR*](https://www.um.edu.mt/projects/deep-fir/)*项目，该项目是与* [*Ascent 软件*](https://www.ascent.io) *合作完成的，由马耳他科学委员会&技术(MCST)资助，代表科学基金会&技术，通过 FUSION: R &**
+*作者目前是马耳他大学*<https://www.um.edu.mt/>**的博士后研究员*[*Deep-FIR*](https://www.um.edu.mt/projects/deep-fir/)*项目，该项目是与* [*Ascent 软件*](https://www.ascent.io) *合作完成的，由马耳他科学委员会&技术(MCST)资助，代表科学基金会&技术，通过 FUSION: R &**

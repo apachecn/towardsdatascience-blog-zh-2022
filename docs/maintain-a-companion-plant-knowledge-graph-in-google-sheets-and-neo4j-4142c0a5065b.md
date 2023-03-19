@@ -28,11 +28,11 @@
 
 **本文的代码存放在我的 GitHub 存储库中。**
 
-**[](https://github.com/dgg32/companion_plants_2)  
+**<https://github.com/dgg32/companion_plants_2>  
 
 这个项目中的数据来自维基百科，受[知识共享署名共享许可](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjhpfWUn-T5AhUcl1YBHU1FC_AQFnoECBkQAw&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FWikipedia%3AReusing_Wikipedia_content&usg=AOvVaw2Ef9JwbupF4y-KQhpl9CUS)保护。谷歌表单在这里。
 
-[](https://docs.google.com/spreadsheets/d/1U4K93EeOU6V4SZ9AgI3wOeV4kgdW9TmKSY_pIypDA-A/edit#gid=0)  
+<https://docs.google.com/spreadsheets/d/1U4K93EeOU6V4SZ9AgI3wOeV4kgdW9TmKSY_pIypDA-A/edit#gid=0>  
 
 # 0.准备
 
@@ -154,4 +154,4 @@
 
 通过将配套的植物表编码成知识图，我已经使这一宝贵的农业知识可供所有人搜索和扩展。但是也有改进的余地。你能提出一个更好的算法来计算土豆的最大无规避支持植物集吗？我鼓励你验证这个知识图表中的信息，甚至制作你自己的版本。
 
-[](https://dgg32.medium.com/membership) **
+<https://dgg32.medium.com/membership> **

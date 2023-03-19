@@ -82,7 +82,7 @@
 
 您可以阅读以下文章，了解使用股票(半累加性)度量时会发生什么:
 
-[](/refinement-of-semi-additive-measures-in-dax-4e148fa83f56)  
+</refinement-of-semi-additive-measures-in-dax-4e148fa83f56>  
 
 现在，查看以下度量，从预聚合数据中获取最新的 YTD 行:
 
@@ -158,4 +158,4 @@ Value = TOTALYTD(SUM(ValueColumn)
 
 Contoso 数据可以在 MIT 许可下自由使用，如这里的[所述](https://github.com/microsoft/Power-BI-Embedded-Contoso-Sales-Demo)。
 
-[](https://medium.com/@salvatorecagliari/membership) 
+<https://medium.com/@salvatorecagliari/membership> 

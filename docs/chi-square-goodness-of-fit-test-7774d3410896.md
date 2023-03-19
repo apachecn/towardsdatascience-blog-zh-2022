@@ -12,7 +12,7 @@ Riho Kroll 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=refe
 
 我们最近探索并推导出了**卡方分布**，您可以在此查看:
 
-[](/chi-square-distribution-simply-explained-87f707ba631a)  
+</chi-square-distribution-simply-explained-87f707ba631a>  
 
 如果您对卡方分布不熟悉，我强烈推荐您阅读这篇文章，否则这篇文章对您来说毫无意义！
 
@@ -56,7 +56,7 @@ Riho Kroll 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=refe
 
 **为了更深入地理解假设检验和临界值，我建议阅读我的关于置信区间和 Z 检验的帖子，它将上述步骤进一步分解:**
 
-**[](/z-test-simply-explained-80b346e0e239)  [](/confidence-intervals-simply-explained-58b0b11e985f)  
+**</z-test-simply-explained-80b346e0e239>  </confidence-intervals-simply-explained-58b0b11e985f>  
 
 也有许多 [youtube 视频](https://www.youtube.com/watch?v=zR2QLacylqQ)和[网站](https://www.statisticshowto.com/probability-and-statistics/hypothesis-testing/)也做了大量假设检验步骤。
 
@@ -122,6 +122,6 @@ Riho Kroll 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=refe
 *   [*领英*](https://www.linkedin.com/in/egor-howell-092a721b3/) 👔
 *   [*碎碎念*](https://twitter.com/EgorHowell) 🖊
 *   [*github*](https://github.com/egorhowell)*🖥*
-*   *[](https://www.kaggle.com/egorphysics)**🏅***
+*   *<https://www.kaggle.com/egorphysics>**🏅***
 
 > ***(所有表情符号都是由 [OpenMoji](https://openmoji.org/) 设计的——开源的表情符号和图标项目。执照: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)*****

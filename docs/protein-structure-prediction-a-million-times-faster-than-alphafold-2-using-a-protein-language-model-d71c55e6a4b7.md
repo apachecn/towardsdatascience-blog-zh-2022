@@ -66,7 +66,7 @@ RGN2 使用的“蛋白质语言”模型称为 AminoBERT，其灵感来自 Rive
 
 笔记本在这里:
 
-[](https://colab.research.google.com/github/aqlaboratory/rgn2/blob/master/rgn2_prediction.ipynb)  
+<https://colab.research.google.com/github/aqlaboratory/rgn2/blob/master/rgn2_prediction.ipynb>  
 
 我刚刚尝试过。
 
@@ -100,18 +100,18 @@ RGN2 使用的“蛋白质语言”模型称为 AminoBERT，其灵感来自 Rive
 
 # 进一步阅读
 
-[](https://github.com/aqlaboratory/rgn2)  
+<https://github.com/aqlaboratory/rgn2>  
 
 《自然生物技术》的同行评议论文
 
-[](https://www.nature.com/articles/s41587-022-01432-w)  
+<https://www.nature.com/articles/s41587-022-01432-w>  
 
 在同一份杂志上，有一篇关于这篇论文的评论:
 
-[](https://www.nature.com/articles/s41587-022-01466-0)  
+<https://www.nature.com/articles/s41587-022-01466-0>  
 
 了解更多 AI 驱动的蛋白质结构预测、CASP 等。：
 
-  [](/whats-up-after-alphafold-on-ml-for-structural-biology-7bb9758925b8)  
+  </whats-up-after-alphafold-on-ml-for-structural-biology-7bb9758925b8>  
 
 www.lucianoabriata.com*我写作并拍摄我广泛兴趣范围内的一切事物:自然、科学、技术、编程等等。* [***成为媒介会员***](https://lucianosphere.medium.com/membership) *访问其所有故事(我免费获得小额收入的平台的附属链接)和* [***订阅获取我的新故事***](https://lucianosphere.medium.com/subscribe) ***通过电子邮件*** *。到* ***咨询关于小职位*** *查看我的* [***服务页面这里***](https://lucianoabriata.altervista.org/services/index.html) *。你可以* [***这里联系我***](https://lucianoabriata.altervista.org/office/contact.html) ***。***

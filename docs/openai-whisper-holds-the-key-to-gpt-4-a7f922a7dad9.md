@@ -10,7 +10,7 @@
 
 > 以下节选自[**The algorithm Bridge**](https://thealgorithmicbridge.substack.com/subscribe?)，这是一份教育通讯，其目的是在算法和人之间架起一座桥梁。它将帮助你理解人工智能对你生活的影响，并开发工具来更好地导航未来。
 
-[](https://thealgorithmicbridge.substack.com/subscribe?)  
+<https://thealgorithmicbridge.substack.com/subscribe?>  
 
 今天，我将覆盖一个我从未想过会写的人工智能子领域——主要是因为它比我通常写的领域(大型语言模型、人工智能艺术)要成熟得多，而且看不到突破。但是我错了。我指的是自动语音识别(ASR)，你肯定已经从标题中推断出来了…请耐心听我说，因为有很好的理由阅读这条新闻。
 

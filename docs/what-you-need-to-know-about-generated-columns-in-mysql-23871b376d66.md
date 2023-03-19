@@ -18,7 +18,7 @@ MySQL 生成的列是一个强大的、易于使用的高级工具，可以帮�
 
 生成的列类似于普通列，但您不能手动更改其值。这是因为表达式定义了如何根据从同一行的其他列中读取的其他值来生成生成列的值。所以，生成的列在表的域内工作，它的定义不能包含`JOIN`语句。
 
-换句话说，您可以将生成的列视为一种视图，但仅限于列。注意，生成的列不同于 SQL 触发器，只有在使用语法如下的`[CREATE TABLE](https://dev.mysql.com/doc/refman/8.0/en/create-table-generated-columns.html)`或 [](https://dev.mysql.com/doc/refman/8.0/en/alter-table-generated-columns.html) `[ALTER TABLE](https://dev.mysql.com/doc/refman/8.0/en/alter-table-generated-columns.html)`语句时才能定义它们:
+换句话说，您可以将生成的列视为一种视图，但仅限于列。注意，生成的列不同于 SQL 触发器，只有在使用语法如下的`[CREATE TABLE](https://dev.mysql.com/doc/refman/8.0/en/create-table-generated-columns.html)`或 <https://dev.mysql.com/doc/refman/8.0/en/alter-table-generated-columns.html> `[ALTER TABLE](https://dev.mysql.com/doc/refman/8.0/en/alter-table-generated-columns.html)`语句时才能定义它们:
 
 ```
 generate_column_name column_type [GENERATED ALWAYS] AS (generation_expression)

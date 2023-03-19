@@ -118,7 +118,7 @@ nbpreview --help
 
 您可能还会对以下内容感兴趣:
 
-[](/pur-the-easiest-way-to-keep-your-requirements-file-up-to-date-22d835279348)  [](/why-is-the-log-uniform-distribution-useful-for-hyperparameter-tuning-63c8d331698)  [](/a-simple-way-to-turn-your-plots-into-gifs-in-python-f6ea4435ed3c)  
+</pur-the-easiest-way-to-keep-your-requirements-file-up-to-date-22d835279348>  </why-is-the-log-uniform-distribution-useful-for-hyperparameter-tuning-63c8d331698>  </a-simple-way-to-turn-your-plots-into-gifs-in-python-f6ea4435ed3c>  
 
 # 参考
 

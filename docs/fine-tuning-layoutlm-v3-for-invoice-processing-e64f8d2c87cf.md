@@ -38,11 +38,11 @@ LayoutLM v3 相对于其前身的主要优势是多模态转换器架构，它�
 
 **训练:**
 
-[](https://colab.research.google.com/drive/1TuPQ1HdhMYjfQI9VRV3FMk7bpPYD4g6w?usp=sharing)  
+<https://colab.research.google.com/drive/1TuPQ1HdhMYjfQI9VRV3FMk7bpPYD4g6w?usp=sharing>  
 
 **推论:**
 
-[](https://colab.research.google.com/drive/1YDTKuIg4mkrCBz1bzqabL27_UzF2Z82F?usp=sharing)  
+<https://colab.research.google.com/drive/1YDTKuIg4mkrCBz1bzqabL27_UzF2Z82F?usp=sharing>  
 
 *   第一步是打开一个 google colab，连接你的 google drive，从 huggingface 安装变形金刚包。请注意，与 layoutLMv2 不同，我们没有使用 detectron 2 包来微调实体提取模型。但是，对于布局检测(超出了本文的范围)，需要 detectorn 2 包:
 

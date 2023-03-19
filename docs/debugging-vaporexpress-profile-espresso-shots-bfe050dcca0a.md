@@ -12,7 +12,7 @@
 
 我查看了一些变量，以便更好地理解概要文件的走向，因为概要文件是新的。没有关于在哪里或如何改进它的其他信息，也没有关于如何解决它的信息。我使用了以下指标:
 
-1.  [](/coffee-solubility-in-espresso-an-initial-study-88f78a432e2c)**用折射仪测量总溶解固体量(TDS)，这个数字结合一杯咖啡的输出重量和输入重量用来确定提取到杯中的咖啡的百分比，称为**提取率(EY)** 。 [**【强度半径(IR)**](/improving-coffee-extraction-metrics-intensity-radius-bb31e266ca2a) 是将 TDS vs EY 控制图转换为极坐标时的半径。**
+1.  </coffee-solubility-in-espresso-an-initial-study-88f78a432e2c>**用折射仪测量总溶解固体量(TDS)，这个数字结合一杯咖啡的输出重量和输入重量用来确定提取到杯中的咖啡的百分比，称为**提取率(EY)** 。 [**【强度半径(IR)**](/improving-coffee-extraction-metrics-intensity-radius-bb31e266ca2a) 是将 TDS vs EY 控制图转换为极坐标时的半径。**
 2.  **[**咖啡渣 TDS (gTDS)**](/grounds-tds-across-the-espresso-puck-1581825ddcac) 的测量方法是将咖啡渣和一些水放在折光仪上，测量咖啡中剩余的可溶物的量。在浓缩咖啡过程中，较高的萃取率导致较低的 gTDS 读数。**
 
 # **数据**
@@ -75,11 +75,11 @@
 
 **第一个视频中的冰球太深，所以水流不畅:**
 
-**[](https://youtube.com/shorts/_qtOc6U5pSA)  
+**<https://youtube.com/shorts/_qtOc6U5pSA>  
 
 然而，我在第二个视频中使用了纸巾，效果好多了。我能够看到蒸汽预注入很快变成低压预注入。
 
-[](https://youtube.com/shorts/c_Itz7MeahY)  
+<https://youtube.com/shorts/c_Itz7MeahY>  
 
 由于这个视频和这些调查，我改变了我的个人资料，做蒸汽预输注 2 秒钟，然后缓慢上升。
 

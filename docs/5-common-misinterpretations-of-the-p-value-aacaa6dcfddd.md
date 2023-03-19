@@ -40,7 +40,7 @@ p 值表示您的数据与统计模型的假设(包括零假设)的符合程度�
 
 你可以在本文的[中找到关于如何估计显著性水平的更详细的解释。](/evaluating-the-performance-of-the-t-test-1c2a4895020c)
 
-[](/evaluating-the-performance-of-the-t-test-1c2a4895020c)  
+</evaluating-the-performance-of-the-t-test-1c2a4895020c>  
 
 我意识到很容易误解 p 值的含义。我还可以看到，有人在解释假设检验的更广泛的概念时，可能会以一种易于理解的方式表述 p 值和显著性，但不幸的是，这是不正确的。上面的例子可能看起来是无关紧要的(双关语)细节，但它实际上对科学结果如何呈现以及观众如何理解它们有影响。
 
@@ -48,8 +48,8 @@ p 值表示您的数据与统计模型的假设(包括零假设)的符合程度�
 
 我希望这篇文章对你有用。如果您能想到其他对 p 值和统计显著性的常见误解，请在评论中告诉我。
 
-[](/the-confusion-matrix-explained-part-1-5513c6f659c1)  
+</the-confusion-matrix-explained-part-1-5513c6f659c1>  
 
 如果你喜欢阅读这样的故事，并想支持我成为一名作家，考虑注册成为一名媒体会员。每月 5 美元，你可以无限制地阅读媒体上的故事。如果你注册使用我的链接，我会赚一小笔佣金。
 
-[](https://medium.com/@andreagustafsen/membership) 
+<https://medium.com/@andreagustafsen/membership> 

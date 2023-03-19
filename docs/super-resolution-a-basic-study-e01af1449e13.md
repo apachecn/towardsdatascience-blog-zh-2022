@@ -206,4 +206,4 @@
 
 **cambridgeincolour.com/tutorials/image-interpolation.htm**
 
- **** **[](http://amroamroamro.github.io/mexopencv/opencv/image_similarity_demo.html) **
+ **** **<http://amroamroamro.github.io/mexopencv/opencv/image_similarity_demo.html> **

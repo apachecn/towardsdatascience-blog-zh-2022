@@ -180,7 +180,7 @@ values = ['Chris', 33, 'Python']my_dict = dict(zip(keys, values))
 
 所以，我们不必重新发明轮子。如果您不太熟悉 Python 中的`zip()`函数，请查看下面的文章。我相信你会理解的。
 
-[](/fasten-python-objects-using-zip-88a1e7a68c7)  
+</fasten-python-objects-using-zip-88a1e7a68c7>  
 
 使用`zip()`功能的好处更多。例如，如果我们有两个不同长度的列表，多余的条目将被忽略。
 
@@ -293,6 +293,6 @@ my_dict['skill'] = my_dict.pop('programming_language')
 
 字典是 Python 中最重要的数据结构之一。所以，知道一些做一些经常性操作的捷径是很重要的。这些技巧不仅可以节省我们重新发明轮子的时间，还可以提供更高的性能。
 
-[](https://medium.com/@qiuyujx/membership)  
+<https://medium.com/@qiuyujx/membership>  
 
 如果你觉得我的文章有帮助，请考虑加入 Medium 会员来支持我和其他成千上万的作者！(点击上面的链接)

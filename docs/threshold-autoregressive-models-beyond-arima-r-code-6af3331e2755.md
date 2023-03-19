@@ -365,4 +365,4 @@ ARIMA RMSE: 0.2479199*
 
 *[链接](https://www.picostat.com/dataset/r-dataset-package-datasets-lynx)到数据(GNU)。*
 
-*[](/nonlinear-time-series-an-intuitive-introduction-7390aae8b446) *
+*</nonlinear-time-series-an-intuitive-introduction-7390aae8b446> *

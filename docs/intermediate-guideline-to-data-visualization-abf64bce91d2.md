@@ -124,8 +124,8 @@
 
 **此处提供了完整的数据可视化指南..**
 
-[](https://medium.datadriveninvestor.com/ultimate-guide-to-data-visualization-for-data-science-90b0b13e72ab)  
+<https://medium.datadriveninvestor.com/ultimate-guide-to-data-visualization-for-data-science-90b0b13e72ab>  
 
 我为你挑选了一些有趣的文章。别忘了朗读。
 
-[](/basic-guide-to-data-visualization-for-data-science-8e7d966bf10a)  [](/11-less-used-but-important-plots-for-data-science-dede3f9b7ebd)  [](/spread-of-covid-19-with-interactive-data-visualization-521ac471226e)  [](/ultimate-guide-to-statistics-for-data-science-a3d8f1fd69a7) 
+</basic-guide-to-data-visualization-for-data-science-8e7d966bf10a>  </11-less-used-but-important-plots-for-data-science-dede3f9b7ebd>  </spread-of-covid-19-with-interactive-data-visualization-521ac471226e>  </ultimate-guide-to-statistics-for-data-science-a3d8f1fd69a7> 

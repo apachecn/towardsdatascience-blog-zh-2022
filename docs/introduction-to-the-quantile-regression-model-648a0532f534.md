@@ -88,7 +88,7 @@
 
 ***![](img/3a267171b220510400c8104ce37d4a7d.png)***
 
-***汽车数据集(来源:[](https://archive-beta.ics.uci.edu/ml/datasets/automobile)[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)下加州大学欧文分校***
+***汽车数据集(来源:<https://archive-beta.ics.uci.edu/ml/datasets/automobile>[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)下加州大学欧文分校***
 
 ***这些数据的子集可以从这里 下载 [**。**](https://gist.github.com/sachinsdate/402daa205e93a389d0f7023439588774)***
 

@@ -135,6 +135,6 @@
 *   ***[*LinkedIn*](https://www.linkedin.com/in/egor-howell-092a721b3/)*👔****
 *   ****[*推特*](https://twitter.com/EgorHowell) 🖊****
 *   ****[*github*](https://github.com/egorhowell)*🖥*****
-*   *****[](https://www.kaggle.com/egorphysics)**🏅*******
+*   *****<https://www.kaggle.com/egorphysics>**🏅*******
 
 > *****(所有表情符号都是由 [OpenMoji](https://openmoji.org/) 设计的——开源的表情符号和图标项目。许可证: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)*****

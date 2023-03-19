@@ -128,4 +128,4 @@ print ("Computation time = " + str(1000 * (toc - tic)) + "ms")
 
 我在这个领域已经工作了十多年了。我认为深度学习现在起飞的三个关键原因是大量数据的可用性、可用的计算能力和算法的创新。矢量化是一项惊人的算法创新。我不相信没有矢量化，深度学习就不会起飞。
 
-[](https://ahmarshah.medium.com/membership) 
+<https://ahmarshah.medium.com/membership> 

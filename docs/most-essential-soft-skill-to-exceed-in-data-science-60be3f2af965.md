@@ -72,4 +72,4 @@
 
 # 更多有趣的文章
 
-[](/best-of-both-worlds-automated-and-dynamic-sql-queries-from-python-5b74a24501b0)  [](/6-sql-tricks-every-data-scientist-should-know-f84be499aea5)  [](https://levelup.gitconnected.com/6-hilarious-programmers-data-scientists-jokes-to-kick-start-2021-187f86dd6a4c) 
+</best-of-both-worlds-automated-and-dynamic-sql-queries-from-python-5b74a24501b0>  </6-sql-tricks-every-data-scientist-should-know-f84be499aea5>  <https://levelup.gitconnected.com/6-hilarious-programmers-data-scientists-jokes-to-kick-start-2021-187f86dd6a4c> 

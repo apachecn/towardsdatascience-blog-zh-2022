@@ -28,7 +28,7 @@ ROC 曲线比较。图片作者。
 
 在接下来的部分中，我会更好地解释它，您也可以在我的 github 上查看代码:
 
-[](https://github.com/vinyluis/Articles/tree/main/ROC%20Curve%20and%20ROC%20AUC)  
+<https://github.com/vinyluis/Articles/tree/main/ROC%20Curve%20and%20ROC%20AUC>  
 
 # OvR 还是 OvO？
 
@@ -193,4 +193,4 @@ OvR 和 OvO 策略可以(并且应该)用于使任何二元分类度量适应多
 
 看看这个很棒的帖子
 
-[](/interpreting-roc-curve-and-roc-auc-for-classification-evaluation-28ec3983f077) 
+</interpreting-roc-curve-and-roc-auc-for-classification-evaluation-28ec3983f077> 

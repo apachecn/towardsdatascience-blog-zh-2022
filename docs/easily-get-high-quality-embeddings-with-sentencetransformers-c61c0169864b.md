@@ -115,7 +115,7 @@ At first glance, you can already see data points with the same category are stic
 
 ## 如果你喜欢这篇博文，请点击下面按钮并鼓掌！[👏🏻也在 Github 上关注我吧！](https://emojipedia.org/clapping-hands-light-skin-tone/)
 
-[](https://github.com/thomas-tf)  
+<https://github.com/thomas-tf>  
 
 # 参考
 

@@ -60,7 +60,7 @@ lower_q, upper_q = np.quantile(
 
 逐点递归一致性分数分布(上图)。递归一致性分数分布的分位数(较低)。[图片由作者提供]
 
-尽管很简单，但是可以使用[](https://github.com/scikit-learn-contrib/MAPIE)**自动计算保形预测间隔。让我们看看它在递归和直接预测中的作用。**
+尽管很简单，但是可以使用<https://github.com/scikit-learn-contrib/MAPIE>**自动计算保形预测间隔。让我们看看它在递归和直接预测中的作用。**
 
 ## **递归预测的共形区间**
 

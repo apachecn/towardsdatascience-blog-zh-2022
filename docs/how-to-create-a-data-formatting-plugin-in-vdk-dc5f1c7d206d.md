@@ -265,4 +265,4 @@ pytest
 
 # 相关文章
 
-[](/handling-missing-values-in-versatile-data-kit-bb4f2a907b9c)  [](/how-to-build-a-web-app-with-data-ingested-through-versatile-data-kit-ddae43b5f62d)  [](/using-versatile-data-kit-to-ingest-and-process-data-from-rest-api-6e3e0660b791)  [](/from-raw-data-to-a-cleaned-database-a-deep-dive-into-versatile-data-kit-ab5fd992a02e) 
+</handling-missing-values-in-versatile-data-kit-bb4f2a907b9c>  </how-to-build-a-web-app-with-data-ingested-through-versatile-data-kit-ddae43b5f62d>  </using-versatile-data-kit-to-ingest-and-process-data-from-rest-api-6e3e0660b791>  </from-raw-data-to-a-cleaned-database-a-deep-dive-into-versatile-data-kit-ab5fd992a02e> 

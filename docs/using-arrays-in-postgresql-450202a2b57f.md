@@ -115,4 +115,4 @@ PostgreSQL 数组能做得更多吗？当然，去 PostgreSQL 文档中寻找更
 
 希望你学到了东西，感谢阅读。
 
-[](https://ms101196.medium.com/membership) 
+<https://ms101196.medium.com/membership> 

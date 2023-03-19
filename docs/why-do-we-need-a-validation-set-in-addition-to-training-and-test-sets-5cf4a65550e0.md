@@ -141,7 +141,7 @@ gs.fit(X_train, y_train)
 
 如果你不熟悉 k 倍交叉验证、网格搜索或随机搜索，请阅读我写的以下文章。
 
-[](/k-fold-cross-validation-explained-in-plain-english-659e33c0bc0)  [](/python-implementation-of-grid-search-and-random-search-for-hyperparameter-optimization-2d6a82ebf75c) [## 超参数优化的网格搜索和随机搜索的 Python 实现
+</k-fold-cross-validation-explained-in-plain-english-659e33c0bc0>  </python-implementation-of-grid-search-and-random-search-for-hyperparameter-optimization-2d6a82ebf75c> [## 超参数优化的网格搜索和随机搜索的 Python 实现
 
 towardsdatascience.com](/python-implementation-of-grid-search-and-random-search-for-hyperparameter-optimization-2d6a82ebf75c) 
 
@@ -189,13 +189,13 @@ Scikit-learn 默认的测试集大小是原始数据的 25%。
 
 如果你愿意的话，你可以注册成为会员，以获得我写的每一个故事的全部信息，我会收到你的一部分会员费。
 
-[](https://rukshanpramoditha.medium.com/membership)  
+<https://rukshanpramoditha.medium.com/membership>  
 
 ## 订阅我的电子邮件列表
 
 订阅我的电子邮件列表，再也不会错过精彩的故事了。我一点击发布按钮，你就会在收件箱里收到每一篇文章。
 
-[](https://rukshanpramoditha.medium.com/subscribe)  
+<https://rukshanpramoditha.medium.com/subscribe>  
 
 拉克山·普拉莫蒂塔
 **2022–04–11**

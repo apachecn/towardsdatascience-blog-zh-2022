@@ -60,7 +60,7 @@ app 在海平面上三种不同身体活动状态下的心率测量重复性结�
 
 这是一个简短的视频，我在海拔 4.5 公里的安塔米纳矿不仅幸存了下来，而且还茁壮成长，这多亏了一点点数据。
 
-[](https://www.linkedin.com/posts/fouadfaraj_awesome-experience-at-antamina-mine-from-activity-6876515224803962881-cipA)  
+<https://www.linkedin.com/posts/fouadfaraj_awesome-experience-at-antamina-mine-from-activity-6876515224803962881-cipA>  
 
 # 简短的笔记
 

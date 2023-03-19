@@ -114,4 +114,4 @@
 
 *另外，请随时通过 LinkedIn 联系我。*
 
-*[](/threshold-autoregressive-models-beyond-arima-r-code-6af3331e2755)  [](https://medium.com/@michacukrowski/lasso-vs-auto-arima-for-time-series-forecasting-out-of-sample-944a8835eae0)  [](https://medium.com/@michacukrowski/ridge-lasso-and-elastic-net-vs-d73e24208057) *
+*</threshold-autoregressive-models-beyond-arima-r-code-6af3331e2755>  <https://medium.com/@michacukrowski/lasso-vs-auto-arima-for-time-series-forecasting-out-of-sample-944a8835eae0>  <https://medium.com/@michacukrowski/ridge-lasso-and-elastic-net-vs-d73e24208057> *

@@ -287,7 +287,7 @@ total_bill 列不再是连续变量。现在它是一个分类变量。
 
 处理异常值的另一种方法是将它们视为空值，并使用填充空值的技术来填充它们。在这里，您可以找到处理空值的提示:
 
-[](/6-tips-for-dealing-with-null-values-e16d1d1a1b33)  
+</6-tips-for-dealing-with-null-values-e16d1d1a1b33>  
 
 ## 结论
 
@@ -295,4 +295,4 @@ total_bill 列不再是连续变量。现在它是一个分类变量。
 
 ## 更多阅读
 
-[](https://pub.towardsai.net/data-analysis-91a38207c92b)  [](/details-of-violinplot-and-relplot-in-seaborn-30c63de23a15)  [](/simple-explanation-on-how-decision-tree-algorithm-makes-decisions-34f56be344e9)  [](/regression-in-tensorflow-using-both-sequential-and-function-apis-314e74b537ca)  [](/20-very-commonly-used-functions-of-pyspark-rdd-90b8271c25b2)  [](/animated-and-racing-bar-plots-tutorial-7967a45c4753) 
+<https://pub.towardsai.net/data-analysis-91a38207c92b>  </details-of-violinplot-and-relplot-in-seaborn-30c63de23a15>  </simple-explanation-on-how-decision-tree-algorithm-makes-decisions-34f56be344e9>  </regression-in-tensorflow-using-both-sequential-and-function-apis-314e74b537ca>  </20-very-commonly-used-functions-of-pyspark-rdd-90b8271c25b2>  </animated-and-racing-bar-plots-tutorial-7967a45c4753> 

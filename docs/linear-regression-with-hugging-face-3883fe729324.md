@@ -96,7 +96,7 @@
 
 # 相关阅读
 
-[](/sbert-vs-data2vec-on-text-classification-e3c35b19c949)  [](/morethansentiments-a-python-library-for-text-quantification-e57ff9d51cd5)  [](/customer-churn-accuracy-a-4-6-increase-with-feature-engineering-29bcb1b1ee8f)  
+</sbert-vs-data2vec-on-text-classification-e3c35b19c949>  </morethansentiments-a-python-library-for-text-quantification-e57ff9d51cd5>  </customer-churn-accuracy-a-4-6-increase-with-feature-engineering-29bcb1b1ee8f>  
 
 # 参考
 

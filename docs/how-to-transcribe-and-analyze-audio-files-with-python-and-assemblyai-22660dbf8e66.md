@@ -201,6 +201,6 @@ pipenv install requests streamlit pytube python-dotenv validators**
 
 # 新到中？您可以每月订阅 5 美元，并解锁各种主题的无限文章(技术、设计、创业……)您可以通过点击我的推荐[链接](https://ahmedbesbes.medium.com/membership)支持我
 
-[](https://ahmedbesbes.medium.com/membership)  ![](img/a9ff73d00f97485a4e68ad868f23ba23.png)
+<https://ahmedbesbes.medium.com/membership>  ![](img/a9ff73d00f97485a4e68ad868f23ba23.png)
 
 照片由[卡斯滕·怀恩吉尔特](https://unsplash.com/@karsten116?utm_source=medium&utm_medium=referral)在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄

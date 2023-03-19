@@ -48,7 +48,7 @@
 
 我们现在可以继续理解我们的模型是如何做出这些预测的。如果你不熟悉 SHAP 或者 python 包，我建议你阅读下面的文章。我们深入探讨如何诠释 SHAP 价值观。我们还探索了本文中使用的一些聚合。
 
-[](/introduction-to-shap-with-python-d27edc23c454)  
+</introduction-to-shap-with-python-d27edc23c454>  
 
 ## 水冷壁图
 
@@ -94,11 +94,11 @@ SHAP 聚合也适用于 CatBoost。例如，我们在下面的代码中使用平
 
 最后，SHAP 和 CatBoost 是分析分类特征的有力工具。这两个包可以无缝地协同工作。缺点是您可能不想使用 CatBoost。如果您正在使用 RandomForest、XGBoost 或神经网络等模型，那么您需要使用替代解决方案。你可以在下面的文章中找到这个。我们还将更详细地介绍如何对 SHAP 值进行后处理。
 
-[](/shap-for-categorical-features-7c63e6a554ea)  
+</shap-for-categorical-features-7c63e6a554ea>  
 
 我希望这篇文章对你有帮助！如果你想看更多，你可以成为我的 [**推荐会员**](https://conorosullyds.medium.com/membership) **来支持我。你可以访问 medium 上的所有文章，我可以得到你的部分费用。**
 
-[](https://conorosullyds.medium.com/membership)  
+<https://conorosullyds.medium.com/membership>  
 
 你可以在|[Twitter](https://twitter.com/conorosullyDS)|[YouTube](https://www.youtube.com/channel/UChsoWqJbEjBwrn00Zvghi4w)|[时事通讯](https://mailchi.mp/aa82a5ce1dc0/signup)上找到我——注册免费参加 [Python SHAP 课程](https://adataodyssey.com/courses/shap-with-python/)
 

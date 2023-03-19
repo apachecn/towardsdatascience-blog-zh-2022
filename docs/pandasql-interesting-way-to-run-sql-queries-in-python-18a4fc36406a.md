@@ -134,7 +134,7 @@ df _ 产品使用 sqldf |图片作者
 
 这里是 Python 中关于 ***的一行程序*** 的趋势之一。
 
-[](/5-most-powerful-one-liners-you-should-know-in-python-programming-c9d49a89b7f3)  
+</5-most-powerful-one-liners-you-should-know-in-python-programming-c9d49a89b7f3>  
 
 接下来，`sqldf`也可以用于有条件地提取或选择数据。
 
@@ -258,7 +258,7 @@ df_group
 
 这里有一篇关于熊猫`groupby`的精彩文章。
 
-[](/4-awesome-pandas-methods-to-quickly-analyze-any-dataset-65d2252af6e8)  
+</4-awesome-pandas-methods-to-quickly-analyze-any-dataset-65d2252af6e8>  
 
 如果你认为这些都是很简单的查询，那么`sqldf`会给你一个惊喜。
 
@@ -298,7 +298,7 @@ df_combined.head()
 
 以下是理解如何在 Python pandas 中组合数据集的推荐读物。
 
-[](/join-the-tables-ab7fd4fac26b)  
+</join-the-tables-ab7fd4fac26b>  
 
 总结一下，
 

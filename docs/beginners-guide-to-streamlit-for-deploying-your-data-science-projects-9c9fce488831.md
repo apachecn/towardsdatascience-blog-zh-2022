@@ -18,7 +18,7 @@
 
 如果观众对数据科学不太熟悉，我建议看看我以前的一篇文章。我提供了下面的链接，其中包含了一个简明指南，介绍了初学者在大约 12 个月内达到数据科学高级水平需要遵循的 12 个步骤。对于数据科学爱好者来说，这应该是一个最佳的起点。
 
-[](/12-steps-for-beginner-to-pro-in-data-science-in-12-months-c6f6ba01f96e)  
+</12-steps-for-beginner-to-pro-in-data-science-in-12-months-c6f6ba01f96e>  
 
 # streamlit 简介:
 
@@ -36,7 +36,7 @@ Streamlit 不仅为您提供了一种部署机器学习模型的方法，还可�
 
 网站部署的其他方法是使用像 Flask 和 Django 这样的库，这允许用户更好地控制他们的项目，但是需要稍微多一点的编程。我推荐有兴趣用 streamlit 进一步探索更多项目的观众通过下面提供的链接查看我以前的一篇关于公司盈利电话情绪分析的文章。
 
-[](/how-to-perform-sentiment-analysis-on-earnings-call-of-companies-122275f47e26)  
+</how-to-perform-sentiment-analysis-on-earnings-call-of-companies-122275f47e26>  
 
 # 开始为数据科学项目部署机器学习模型:
 
@@ -171,12 +171,12 @@ Radek Grzybowski 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_mediu
 
 如果你想在我的文章发表后第一时间得到通知，请点击下面的[链接](https://bharath-k1297.medium.com/subscribe)订阅邮件推荐。如果你希望支持其他作者和我，请订阅下面的链接。
 
-[](https://bharath-k1297.medium.com/membership)  
+<https://bharath-k1297.medium.com/membership>  
 
 如果你对这篇文章中提到的各点有任何疑问，请在下面的评论中告诉我。我会尽快给你回复。
 
 看看我的一些与本文主题相关的文章，你可能也会喜欢阅读！
 
-[](/automate-your-emails-with-python-for-2022-and-beyond-2284054d1012)  [](/the-ultimate-replacements-to-jupyter-notebooks-51da534b559f)  [](/7-best-research-papers-to-read-to-get-started-with-deep-learning-projects-59e11f7b9c32)  [](/visualizing-cpu-memory-and-gpu-utilities-with-python-8028d859c2b0)  
+</automate-your-emails-with-python-for-2022-and-beyond-2284054d1012>  </the-ultimate-replacements-to-jupyter-notebooks-51da534b559f>  </7-best-research-papers-to-read-to-get-started-with-deep-learning-projects-59e11f7b9c32>  </visualizing-cpu-memory-and-gpu-utilities-with-python-8028d859c2b0>  
 
 谢谢你们坚持到最后。我希望你们都喜欢这篇文章。祝大家有美好的一天！

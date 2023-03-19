@@ -80,6 +80,6 @@ Sigmoid 函数|来源:作者图片
 *   网络由三种不同的层类型组成:输入层、隐藏层和输出层。
 *   人工神经网络的目标是最小化损失函数，即预测结果和实际结果之间的差异。
 
-*如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你想让***无限制地访问我的文章和数以千计的精彩文章，请不要犹豫，通过点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格***
+*如果你喜欢我的作品，请在这里订阅*<https://medium.com/subscribe/@niklas_lang>**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你想让***无限制地访问我的文章和数以千计的精彩文章，请不要犹豫，通过点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格***
 
-**[](/beginners-guide-to-gradient-descent-47f8d0f4ce3b)  [](/beginners-guide-extract-transform-load-etl-49104a8f9294)  [](/introducing-nosql-databases-with-mongodb-d46c976da5bf) **
+**</beginners-guide-to-gradient-descent-47f8d0f4ce3b>  </beginners-guide-extract-transform-load-etl-49104a8f9294>  </introducing-nosql-databases-with-mongodb-d46c976da5bf> **

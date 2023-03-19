@@ -81,4 +81,4 @@ PatternRank 是最近开发的一种方法，可用于从文本文档中提取�
 
 # 来源
 
-[](https://arxiv.org/abs/2210.05245)  [](https://github.com/TimSchopf/KeyphraseVectorizers) 
+<https://arxiv.org/abs/2210.05245>  <https://github.com/TimSchopf/KeyphraseVectorizers> 

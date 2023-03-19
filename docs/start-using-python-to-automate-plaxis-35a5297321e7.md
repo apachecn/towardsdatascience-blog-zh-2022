@@ -20,7 +20,7 @@ Python 已经存在很多年了，但是直到最近才得到更大的社区的�
 
 PLAXIS 有一个开发良好的应用编程接口(API ),允许用户通过编程来操作 PLAXIS。更多细节可以在宾利官方网站上看到。
 
-[](https://communities.bentley.com/products/geotech-analysis/w/wiki/45393/api-python-scripting---plaxis)  
+<https://communities.bentley.com/products/geotech-analysis/w/wiki/45393/api-python-scripting---plaxis>  
 
 # 目标
 

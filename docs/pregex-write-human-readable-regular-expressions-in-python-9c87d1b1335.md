@@ -159,12 +159,12 @@ pip install pregex==2.0.1
 
 随意发挥，并在这里叉这篇文章的源代码:
 
-[](https://github.com/khuyentran1401/Data-science/blob/master/productive_tools/pregex.ipynb)  
+<https://github.com/khuyentran1401/Data-science/blob/master/productive_tools/pregex.ipynb>  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的数据科学工具。你可以在 LinkedIn 和 Twitter 上与我联系。
 
 如果你想查看我写的所有文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/write-clean-python-code-using-pipes-1239a0f3abf5)  [](https://medium.com/the-prefect-blog/sending-slack-notifications-in-python-with-prefect-840a895f81c)  [](/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e) [## 3 个跟踪和可视化 Python 代码执行的工具
+</write-clean-python-code-using-pipes-1239a0f3abf5>  <https://medium.com/the-prefect-blog/sending-slack-notifications-in-python-with-prefect-840a895f81c>  </3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e> [## 3 个跟踪和可视化 Python 代码执行的工具
 
-towardsdatascience.com](/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e) [](/validate-your-pandas-dataframe-with-pandera-2995910e564) 
+towardsdatascience.com](/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e) </validate-your-pandas-dataframe-with-pandera-2995910e564> 

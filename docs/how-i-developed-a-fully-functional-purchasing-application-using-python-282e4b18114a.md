@@ -88,7 +88,7 @@ Python 库和应用程序开发框架
 
 如果您想了解更多关于连接 python 应用程序和 Oracle 数据库的信息，请参考下面的文章。
 
-[](/spark-and-oracle-database-6624abd2b632)  
+</spark-and-oracle-database-6624abd2b632>  
 
 下面一行代码创建一个标题为"**采购订单申请**的窗口，并在该窗口上创建三个标签:**采购订单查询**、**采购订单标题**、**采购订单行**
 
@@ -172,6 +172,6 @@ Python 提供 reportlab，用于开发图片完美的专业报表。下面是使
 
 [https://www.reportlab.com/docs/reportlab-userguide.pdf](https://www.reportlab.com/docs/reportlab-userguide.pdf)
 
-[](https://github.com/srssingh/Purchase-Order-Application.git)  
+<https://github.com/srssingh/Purchase-Order-Application.git>  
 
 [Python+SQL+Oracle，无限可能](https://www.udemy.com/course/python-with-oracle-developer-course/?referralCode=6F68B20A8FB16A20BFE1)

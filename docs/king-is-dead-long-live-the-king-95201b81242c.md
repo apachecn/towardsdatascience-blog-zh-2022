@@ -898,4 +898,4 @@ model = bc.load('./my_model.pkl')
 
 > 免责声明:本文中的信息仅用于教育目的。作者对本文内容中的任何错误或遗漏不承担任何责任或义务。本文包含的信息按“原样”提供，不保证完整性、准确性、有用性或及时性。
 
-[](https://medium.com/subscribe/@profsarang)  [](https://medium.com/@profsarang/membership) 
+<https://medium.com/subscribe/@profsarang>  <https://medium.com/@profsarang/membership> 

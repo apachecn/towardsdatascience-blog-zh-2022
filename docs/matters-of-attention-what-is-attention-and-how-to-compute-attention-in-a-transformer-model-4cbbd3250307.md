@@ -88,15 +88,15 @@
 
 ****代码请点击链接:****
 
-**[](https://github.com/azad-academy/transformer-attention)  
+**<https://github.com/azad-academy/transformer-attention>  
 
 **在 Patreon 上支持我:**
 
-[](https://patreon.com/azadlab)  
+<https://patreon.com/azadlab>  
 
 **在子栈上找到我:**
 
-[](https://azadwolf.substack.com)  
+<https://azadwolf.substack.com>  
 
 **订阅更多:**
 

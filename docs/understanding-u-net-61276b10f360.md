@@ -32,7 +32,7 @@ U-Net 是为语义切分任务而开发的。当向神经网络输入图像时�
 
 如果你不熟悉编码器-解码器，我推荐你阅读这篇文章:
 
-[](/understanding-latent-space-in-machine-learning-de5a7c687d8d)  
+</understanding-latent-space-in-machine-learning-de5a7c687d8d>  
 
 编码器-解码器之所以相关，是因为它们产生的输出与我们想要的相似:输出与输入具有相同的维数。我们可以将编码器-解码器的概念应用于图像分割吗？我们可以生成一维二进制掩码，并使用交叉熵损失来训练网络。我们的网络由两部分组成:从图像中提取相关特征的**编码器**，以及提取特征并重建分割掩模的**解码器**部分。
 
@@ -48,7 +48,7 @@ U-Net 是为语义切分任务而开发的。当向神经网络输入图像时�
 
 # 跳过连接
 
-[](/introduction-to-resnets-c0a830a288a4)  
+</introduction-to-resnets-c0a830a288a4>  
 
 因为深度神经网络可以在连续层传递信息时“忘记”某些特征，所以跳过连接可以重新引入它们，使学习更强。在残差网络(ResNet)中引入了跳过连接，并显示了分类改进以及更平滑的学习梯度。受这种机制的启发，我们可以向 U-Net 添加跳过连接，这样每个解码器都可以从其对应的编码器中合并特征映射。这是 **U-Net** 的一个定义特征。
 
@@ -95,7 +95,7 @@ Pavel Neznanov 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=
 
 **反卷积/转置卷积。**许多博客文章都是关于反卷积的。我推荐这篇文章作为一个很好的视觉指南。
 
-[](/types-of-convolutions-in-deep-learning-717013397f4d)  
+</types-of-convolutions-in-deep-learning-717013397f4d>  
 
 去卷积有两个步骤:给原始图像中的每个像素添加填充，然后应用卷积。在原始 U-Net 中，使用步长为 2 的 2x2 转置卷积来改变空间分辨率和通道深度。
 

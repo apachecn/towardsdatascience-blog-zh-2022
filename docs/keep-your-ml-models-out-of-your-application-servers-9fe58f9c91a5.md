@@ -65,7 +65,7 @@ Gradio 和 Streamlit 在这方面做得很好，但提供的前端灵活性有�
 
 阅读这个故事的第二部分:
 
-[](/pull-your-ml-model-out-of-your-server-the-database-solution-a00b212f5e0d)  
+</pull-your-ml-model-out-of-your-server-the-database-solution-a00b212f5e0d>  
 
 # 关于作者
 

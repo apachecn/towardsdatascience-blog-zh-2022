@@ -172,4 +172,4 @@ output = Polynomial.fit(x_data, y_data, deg=3)
 
 **魏尔斯特拉斯，K. (1885)。因此，分析师们将库利尔的工作放在一个更低的位置。*柏林科学研究院院长会议*， *2* ，633–639。**
 
-**[](https://en.wikipedia.org/wiki/Polynomial)  [](https://en.wikipedia.org/wiki/Polynomial_regression)      [](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.PolynomialFeatures.html)   **
+**<https://en.wikipedia.org/wiki/Polynomial>  <https://en.wikipedia.org/wiki/Polynomial_regression>      <https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.PolynomialFeatures.html>   **

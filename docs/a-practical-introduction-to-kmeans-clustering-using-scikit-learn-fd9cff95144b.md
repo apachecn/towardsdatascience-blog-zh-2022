@@ -14,7 +14,7 @@
 
 如果您错过了 UCL 数据科学协会之前举办的任何研讨会，可以在这里找到最后三场研讨会:
 
-[](/a-practical-introduction-to-support-vector-machines-from-scikit-learn-6e678cf1f228)  [](https://python.plainenglish.io/a-practical-introduction-to-random-forest-classifiers-from-scikit-learn-536e305d8d87)  [](/how-to-implement-and-evaluate-decision-tree-classifiers-from-scikit-learn-36ef7f037a78)  
+</a-practical-introduction-to-support-vector-machines-from-scikit-learn-6e678cf1f228>  <https://python.plainenglish.io/a-practical-introduction-to-random-forest-classifiers-from-scikit-learn-536e305d8d87>  </how-to-implement-and-evaluate-decision-tree-classifiers-from-scikit-learn-36ef7f037a78>  
 
 ## 什么是 Kmeans 集群？
 
@@ -402,8 +402,8 @@ insta gram:【https://www.instagram.com/ucl.datasci/
 
 如果你想了解 UCL 数据科学协会和其他优秀作者的最新信息，请使用我下面的推荐代码注册 medium。
 
-[](https://philip-wilkinson.medium.com/membership)  
+<https://philip-wilkinson.medium.com/membership>  
 
 或者看看我的其他商店
 
-[](/maximum-likelihood-estimation-and-ols-regression-36c049c94a48)  [](/an-introduction-to-object-oriented-programming-for-data-scientists-879106d90d89)  [](/the-use-of-list-dictionary-and-set-comprehensions-to-shorten-your-code-66e6dfeaae13) 
+</maximum-likelihood-estimation-and-ols-regression-36c049c94a48>  </an-introduction-to-object-oriented-programming-for-data-scientists-879106d90d89>  </the-use-of-list-dictionary-and-set-comprehensions-to-shorten-your-code-66e6dfeaae13> 

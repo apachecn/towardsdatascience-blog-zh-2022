@@ -64,7 +64,7 @@
 
 如果你觉得“有趣”,可以看看我的其他文章:
 
-[](https://medium.com/@jolecoco/what-training-at-the-gym-teaches-you-about-training-models-931e5878dc14)  [](/how-to-build-a-successful-dashboard-359c8cb0f610)  [](https://medium.com/@jolecoco/how-to-choose-which-data-projects-to-work-on-c6b8310ac04e)  
+<https://medium.com/@jolecoco/what-training-at-the-gym-teaches-you-about-training-models-931e5878dc14>  </how-to-build-a-successful-dashboard-359c8cb0f610>  <https://medium.com/@jolecoco/how-to-choose-which-data-projects-to-work-on-c6b8310ac04e>  
 
 # 接下来
 

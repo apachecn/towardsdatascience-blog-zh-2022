@@ -122,4 +122,4 @@ BYOC 为配置和调整 SageMaker 项目提供了难以置信的灵活性，但�
 
 **资源** 这篇博客文章基于(并借用)以下由[玛利亚·维克斯拉德](https://github.com/m-romanenko)和[拉姆·维吉拉朱](https://github.com/RamVegiraju)写的博客文章——大声喊出来:
 
-[](https://www.sicara.fr/blog-technique/amazon-sagemaker-model-training)  [](/bring-your-own-container-with-amazon-sagemaker-37211d8412f4)  [](https://github.com/smaakage85/shapemaker) 
+<https://www.sicara.fr/blog-technique/amazon-sagemaker-model-training>  </bring-your-own-container-with-amazon-sagemaker-37211d8412f4>  <https://github.com/smaakage85/shapemaker> 

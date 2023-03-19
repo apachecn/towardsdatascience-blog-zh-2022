@@ -160,6 +160,6 @@ max_depth = 9 的值代表“最佳点”，也就是说，没有过度拟合的
 
 如果你想支持我的内容创作活动，请随时关注我下面的推荐链接，并加入 Medium 的会员计划。我将收到你投资的一部分，你将能够以无缝的方式访问 Medium 的大量数据科学文章。
 
-[](https://medium.com/@theDrewDag/membership)  
+<https://medium.com/@theDrewDag/membership>  
 
 祝你愉快。留得安好👋

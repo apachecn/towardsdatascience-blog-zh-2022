@@ -67,7 +67,7 @@
 
 如果你渴望用一些分析职业概念来补充你的实践课程，请前往我的[分析迷你课程](http://bit.ly/quaesita_sminianalytics)。
 
-[](http://bit.ly/quaesita_sminianalytics)  
+<http://bit.ly/quaesita_sminianalytics>  
 
 ## *脚注:我无聊的木地板
 

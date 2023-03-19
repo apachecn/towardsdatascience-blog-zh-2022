@@ -25,7 +25,7 @@
 *   **用法** —解释如何使用项目的文件
 *   **CHANGELOG** —一个跟踪项目变更和发布版本的文件
 
-请注意，最重要的文件是自述文件。贡献和使用信息可以直接添加到自述文件中。可以在生产中发布项目之前添加 changelog 文件。要编辑文件，您可以使用[](https://www.markdownguide.org/)**、简单文本、*或[*重组文本*](https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html) ***。****
+请注意，最重要的文件是自述文件。贡献和使用信息可以直接添加到自述文件中。可以在生产中发布项目之前添加 changelog 文件。要编辑文件，您可以使用<https://www.markdownguide.org/>**、简单文本、*或[*重组文本*](https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html) ***。****
 
 *参见下面我们将要描述的过程的概述。*
 
@@ -300,6 +300,6 @@ sys.path.insert(0, os.path.abspath("../.."))****
 
 *****如果您喜欢阅读我的故事，并希望支持我成为一名作家，请考虑注册成为 Medium 会员，并获得数千篇数据工程和数据科学文章。*****
 
-****[](https://medium.com/@anna.bildea/membership)  
+****<https://medium.com/@anna.bildea/membership>  
 
 *在*[*LinkedIn*](https://www.linkedin.com/in/ana-bildea-phd-2339b728/)*和* [Twitter](https://twitter.com/AnaBildea) 上找我！****

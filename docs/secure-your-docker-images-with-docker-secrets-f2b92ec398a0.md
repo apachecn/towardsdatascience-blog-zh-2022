@@ -132,4 +132,4 @@ Docker secrets 是一种非常安全且易于使用的机密信息，一旦使�
 
 页（page 的缩写）学生:比如我正在做的事情？[跟我来](https://mikehuls.medium.com/membership)！
 
-[](https://mikehuls.medium.com/membership) 
+<https://mikehuls.medium.com/membership> 

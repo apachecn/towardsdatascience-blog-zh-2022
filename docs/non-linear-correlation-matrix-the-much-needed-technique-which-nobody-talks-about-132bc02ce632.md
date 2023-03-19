@@ -100,11 +100,11 @@ Dua d .和 Graff c .(2019 年)。UCI 机器学习知识库[http://archive . ics 
 
 请**订阅**,以便在我发布新故事时随时获得通知。
 
-[](https://pranay-dave9.medium.com/subscribe)  
+<https://pranay-dave9.medium.com/subscribe>  
 
 您也可以通过我的推荐链接**加入 Medium**
 
-[](https://pranay-dave9.medium.com/membership)  
+<https://pranay-dave9.medium.com/membership>  
 
 ## Youtube 频道
 

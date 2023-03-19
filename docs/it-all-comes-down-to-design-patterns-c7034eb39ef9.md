@@ -211,4 +211,4 @@
 
 **我经常在媒体上写关于领导力、技术&的数据——如果你想阅读我未来的帖子，请*[*‘关注’我*](https://medium.com/@semika) *！**
 
-*[](https://semika.medium.com/subscribe) *
+*<https://semika.medium.com/subscribe> *

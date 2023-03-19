@@ -31,13 +31,13 @@
 
 您可以随意使用本文的源代码:
 
-[](https://github.com/khuyentran1401/iris-prefect)  
+<https://github.com/khuyentran1401/iris-prefect>  
 
 # 用提督创建用户界面
 
 perfect 是一个开源库，允许你编排和观察用 Python 定义的数据管道。
 
-[](https://medium.com/the-prefect-blog/orchestrate-your-data-science-project-with-prefect-2-0-4118418fd7ce)  
+<https://medium.com/the-prefect-blog/orchestrate-your-data-science-project-with-prefect-2-0-4118418fd7ce>  
 
 要安装提督，请键入:
 
@@ -360,4 +360,4 @@ def train_model(model_params: SVC_Params = SVC_Params(), X_train, y_train):
 
 星[这个回购](https://github.com/khuyentran1401/Data-science)如果你想检查我写的文章的代码。在 Medium 上关注我，了解我的最新数据科学文章:
 
-[](/validate-your-pandas-dataframe-with-pandera-2995910e564)  [](/create-observable-and-reproducible-notebooks-with-hex-460e75818a09)  [](/dvc-github-actions-automatically-rerun-modified-components-of-a-pipeline-a3632519dc42)  [](/4-pre-commit-plugins-to-automate-code-reviewing-and-formatting-in-python-c80c6d2e9f5) 
+</validate-your-pandas-dataframe-with-pandera-2995910e564>  </create-observable-and-reproducible-notebooks-with-hex-460e75818a09>  </dvc-github-actions-automatically-rerun-modified-components-of-a-pipeline-a3632519dc42>  </4-pre-commit-plugins-to-automate-code-reviewing-and-formatting-in-python-c80c6d2e9f5> 

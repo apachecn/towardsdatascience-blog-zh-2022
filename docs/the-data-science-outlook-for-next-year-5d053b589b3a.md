@@ -166,11 +166,11 @@ AutoML 自 2016 年以来一直存在，自那以来一直在不断发展，因�
 
 你喜欢这篇文章吗？如果是，请考虑订阅我的电子邮件列表，以便在我发布新内容时得到通知。免费的:)
 
-[](https://david-farrugia.medium.com/subscribe)  
+<https://david-farrugia.medium.com/subscribe>  
 
 **也许你也可以考虑成为一名会员来支持我和你其他喜欢的作家。每月 5 美元，你就可以无限制地阅读 Medium 上的每一篇文章。**
 
-[](https://david-farrugia.medium.com/membership)  
+<https://david-farrugia.medium.com/membership>  
 
 # 想联系吗？
 

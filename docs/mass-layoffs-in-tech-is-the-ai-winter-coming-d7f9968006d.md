@@ -112,7 +112,7 @@ Gartner 炒作周期。如果过高的期望得不到满足，这项技术就会
 
 *喜欢这篇文章？你可能也会喜欢下面这些:*
 
-[](/is-small-data-the-next-big-thing-in-data-science-9acc7f24907f)  [](/data-platforms-liberate-data-from-your-legacy-systems-669b643e3124)  [](/zen-and-the-art-of-data-science-how-to-avoid-gumption-traps-a3590deef870)  
+</is-small-data-the-next-big-thing-in-data-science-9acc7f24907f>  </data-platforms-liberate-data-from-your-legacy-systems-669b643e3124>  </zen-and-the-art-of-data-science-how-to-avoid-gumption-traps-a3590deef870>  
 
 # 参考
 

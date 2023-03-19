@@ -244,6 +244,6 @@ print(p2) # Output: ColoredPoint(x=4.0, y=4.0, color='RED')
 
 无需额外费用，您可以通过我的推荐链接订阅 Medium。
 
-[](https://medium.com/@arli94/membership)  
+<https://medium.com/@arli94/membership>  
 
 *或者你可以在收件箱里收到我所有的帖子。**[***在这里做*** *！*](https://arli94.medium.com/subscribe)*

@@ -86,4 +86,4 @@ BigQuery 有一个 [FORMAT_DATE](https://cloud.google.com/bigquery/docs/referenc
 
 ## 你可能也会喜欢…
 
-[](/6-bigquery-sql-functions-every-user-should-know-9ed97b1cf72e)  [](/4-bigquery-sql-shortcuts-that-can-simplify-your-queries-30f94666a046)  [](/how-data-scientists-can-reduce-data-wrangling-time-with-a-data-mart-809eefbe0bc2) 
+</6-bigquery-sql-functions-every-user-should-know-9ed97b1cf72e>  </4-bigquery-sql-shortcuts-that-can-simplify-your-queries-30f94666a046>  </how-data-scientists-can-reduce-data-wrangling-time-with-a-data-mart-809eefbe0bc2> 

@@ -20,7 +20,7 @@
 
 > 注意:我用 Python 和 Kaggle 工作簿写我的代码，你可以在下面自己运行！
 
-[](https://www.kaggle.com/kapastor/wordle-strat)  
+<https://www.kaggle.com/kapastor/wordle-strat>  
 
 我快速搜索后发现的数据集是:
 
@@ -111,4 +111,4 @@ for word, information_value in word_stat_dict.items():
 
 如果你喜欢这样，并想支持我，你可以使用我的推荐链接，如果你加入媒体！
 
-[](https://kapastor.medium.com/membership) 
+<https://kapastor.medium.com/membership> 

@@ -255,4 +255,4 @@ where transaction_id in (
 
 [SQL 绝对初学者教程](http://Udemy) —图片由作者提供
 
-[](https://medium.com/membership/@ivopbernardo) 
+<https://medium.com/membership/@ivopbernardo> 

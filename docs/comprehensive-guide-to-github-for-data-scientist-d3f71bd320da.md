@@ -304,6 +304,6 @@ git pull origin main
 
 如果你喜欢读这篇文章，我写的其他文章你可能也会喜欢。
 
-[](/active-learning-in-machine-learning-explained-777c42bd52fa)  [](/text-similarity-w-levenshtein-distance-in-python-2f7478986e75)  [](/text-summarization-in-python-with-jaro-winkler-and-pagerank-72d693da94e8)  [](/link-prediction-recommendation-engines-with-node2vec-c97c429351a8)  [](/word2vec-explained-49c52b4ccb71)  [](/recommendation-systems-explained-a42fc60591ed)  [](/random-walks-with-restart-explained-77c3fe216bca)  [](/bayesian-a-b-testing-explained-344a6df88c1a) [## 贝叶斯 A/B 测试解释
+</active-learning-in-machine-learning-explained-777c42bd52fa>  </text-similarity-w-levenshtein-distance-in-python-2f7478986e75>  </text-summarization-in-python-with-jaro-winkler-and-pagerank-72d693da94e8>  </link-prediction-recommendation-engines-with-node2vec-c97c429351a8>  </word2vec-explained-49c52b4ccb71>  </recommendation-systems-explained-a42fc60591ed>  </random-walks-with-restart-explained-77c3fe216bca>  </bayesian-a-b-testing-explained-344a6df88c1a> [## 贝叶斯 A/B 测试解释
 
 towardsdatascience.com](/bayesian-a-b-testing-explained-344a6df88c1a)

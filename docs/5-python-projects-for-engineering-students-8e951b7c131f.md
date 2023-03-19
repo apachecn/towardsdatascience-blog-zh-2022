@@ -129,7 +129,7 @@ Python 是一种非常流行的编程语言，在科学和工程领域都有很�
 
 ## Python 中的工程项目
 
-[View list](https://medium.com/@andrewdaviesul/list/engineering-projects-in-python-86dc1df6935e?source=post_page-----8e951b7c131f--------------------------------)8 stories![](img/2fdf655dd3821ff77d65b4447205bb3d.png)![](img/311dff93e49f305c3b95571a61422cec.png)![](img/8b7f655afd70513e8f993eb5c604c0c6.png)[](https://medium.com/@andrewdaviesul/membership)  
+[View list](https://medium.com/@andrewdaviesul/list/engineering-projects-in-python-86dc1df6935e?source=post_page-----8e951b7c131f--------------------------------)8 stories![](img/2fdf655dd3821ff77d65b4447205bb3d.png)![](img/311dff93e49f305c3b95571a61422cec.png)![](img/8b7f655afd70513e8f993eb5c604c0c6.png)<https://medium.com/@andrewdaviesul/membership>  
 
 > 如果您对 Python、工程和数据科学感兴趣，请随时关注和查看我的其他文章。
 

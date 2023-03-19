@@ -12,7 +12,7 @@
 
 当我们从使用训练数据拟合的模型中观察到测试数据中的高方差时，我们知道需要在模型中引入一些偏差。否则，从长期来看，它将始终产生很高的方差，因此被认为是一个弱模型。实现这一点的几种方法之一是套索回归。套索回归与岭回归非常相似，但也有一个非常重要的区别。读者可以查看关于岭回归的文章，因为我将使用相同的例子来实现套索回归。
 
-[](/simple-regularized-linear-and-polynomial-regression-37d0d634ece3)  
+</simple-regularized-linear-and-polynomial-regression-37d0d634ece3>  
 
 > **山脊 vs 拉索**
 
@@ -50,4 +50,4 @@
 
 岭回归和套索回归都是非常有用的工具，可以有效地消除训练数据集的过度拟合。这两种方法都惩罚模型系数，并试图最小化误差平方和加上惩罚项。只有这个罚项在山脊法和套索法之间有所不同。随着我们对高维回归分析的深入研究，我们将会看到，当存在大量不必要的独立变量时，岭方法可以降低不必要变量的系数，而 lasso 可以有效地使它们为零，从而完全消除它们对结果的影响。
 
-[](https://mdsohel-mahmood.medium.com/membership) 
+<https://mdsohel-mahmood.medium.com/membership> 

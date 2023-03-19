@@ -26,7 +26,7 @@
 
 理解这些概念为探索航天器姿态动力学与控制中的[参考系变换](https://python.plainenglish.io/reference-frame-transformations-in-python-with-numpy-and-matplotlib-6adeb901e0b0)等更高级的课题奠定基础。
 
-[](https://python.plainenglish.io/reference-frame-transformations-in-python-with-numpy-and-matplotlib-6adeb901e0b0)  
+<https://python.plainenglish.io/reference-frame-transformations-in-python-with-numpy-and-matplotlib-6adeb901e0b0>  
 
 ## 1)什么是矩阵？
 
@@ -132,11 +132,11 @@ A_transpose_numpy = A.T
 
 了解这些基本概念对工程和计算机科学专业的学生很有价值。然而，这篇文章只是触及了矩阵代数的表面。**第二部分**链接如下，讨论了*追踪*、*逆*等其他项目。
 
-[](/fundamentals-of-matrix-algebra-with-python-part-2-833e447077d5)  
+</fundamentals-of-matrix-algebra-with-python-part-2-833e447077d5>  
 
 如果你对 Python、工程学和数据科学感兴趣，请关注并查看我的其他文章。
 
-[](https://medium.com/@andrewdaviesul/membership)  [](/5-python-projects-for-engineering-students-8e951b7c131f)  
+<https://medium.com/@andrewdaviesul/membership>  </5-python-projects-for-engineering-students-8e951b7c131f>  
 
 *感谢阅读。*
 

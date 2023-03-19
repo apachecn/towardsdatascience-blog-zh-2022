@@ -264,4 +264,4 @@ plot(
 
 我喜欢 Python 语言和像 Seaborn 这样的数据可视化库。也就是说，以我的拙见，牛虻是 Julia 语言中最通用的数据可视化库之一(除此之外，还有其他类似的 [Plots](https://docs.juliaplots.org/stable/) 、 [Makie](https://github.com/JuliaPlots/Makie.jl) 和 [Vega-Lite](https://vega.github.io/vega-lite/) )。希望这篇介绍是有用的，特别是对于那些来自 Python 和使用 Seaborn 的人。如果你对与 [Makie](https://github.com/JuliaPlots/Makie.jl) 包的对比故事感兴趣，请告诉我。
 
-[](/how-to-setup-project-environments-in-julia-ec8ae73afe9c)  [](/getting-started-with-data-analysis-in-julia-421ce0032916)  [](/reactive-data-analysis-with-julia-in-pluto-notebooks-b4652defd03e)  [](https://medium.datadriveninvestor.com/create-thematic-maps-using-shapefiles-in-julia-135ea67e9628) 
+</how-to-setup-project-environments-in-julia-ec8ae73afe9c>  </getting-started-with-data-analysis-in-julia-421ce0032916>  </reactive-data-analysis-with-julia-in-pluto-notebooks-b4652defd03e>  <https://medium.datadriveninvestor.com/create-thematic-maps-using-shapefiles-in-julia-135ea67e9628> 

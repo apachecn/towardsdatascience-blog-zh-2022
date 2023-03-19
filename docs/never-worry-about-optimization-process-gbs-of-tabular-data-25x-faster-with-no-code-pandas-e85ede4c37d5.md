@@ -14,7 +14,7 @@ Pandas 使分析表格数据集的任务变得轻而易举。圆滑的 API 设�
 
 然而，只有当有人向规模化过渡时，他们才会体验到熊猫的深远局限性。我以前在下面的博客中谈到过这个问题:
 
-[](/5-things-i-wish-the-pandas-library-could-do-e9017c127779)  
+</5-things-i-wish-the-pandas-library-could-do-e9017c127779>  
 
 总之，**panda 几乎所有的限制都源于它的单核计算框架**。
 
@@ -29,7 +29,7 @@ Pandas 使分析表格数据集的任务变得轻而易举。圆滑的 API 设�
 
 我在之前的一篇博客中讨论了更多的方法:
 
-[](/seven-killer-memory-optimization-techniques-every-pandas-user-should-know-64707348ab20)  
+</seven-killer-memory-optimization-techniques-every-pandas-user-should-know-64707348ab20>  
 
 不幸的是，如果您需要内存中的整个数据集，但是尽管优化了内存使用，您还是不能加载它，那么您就不走运了。
 
@@ -55,7 +55,7 @@ Pandas 使分析表格数据集的任务变得轻而易举。圆滑的 API 设�
 
 在下面的博客中，我详细介绍了如何使用 Gigasheet 从 Pandas 过渡到“无代码 Pandas”。
 
-[](/the-no-code-pandas-alternative-that-data-scientists-have-been-waiting-for-9e22aaa9cf02)  
+</the-no-code-pandas-alternative-that-data-scientists-have-been-waiting-for-9e22aaa9cf02>  
 
 然而，这篇博客的重点略有不同。
 
@@ -177,7 +177,7 @@ Gigasheet 计算所需的聚合没有任何麻烦。
 
 事实上，即使您正在处理中等大小的数据集，Gigasheet 也可以派上用场。我最近写了一篇关于从熊猫到 Gigasheet 转变的详细文章，你可以在这里阅读:
 
-[](/the-no-code-pandas-alternative-that-data-scientists-have-been-waiting-for-9e22aaa9cf02)  
+</the-no-code-pandas-alternative-that-data-scientists-have-been-waiting-for-9e22aaa9cf02>  
 
 **一如既往感谢阅读**！
 

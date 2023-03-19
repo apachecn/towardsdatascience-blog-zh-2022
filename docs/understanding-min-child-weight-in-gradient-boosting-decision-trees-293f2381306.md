@@ -203,4 +203,4 @@ hessian_positive = sigma ^ 2 * exp(raw_score * sigma) / ((1 + exp(raw_score * si
 3.  …如果在计算中加入重量矢量，情况会更复杂。需要记住的事实是，单个的 hessian 值会乘以权重。
 4.  …仍然是关于树枝和树叶大小的最佳测量方法，没有其他超参数可以让您简单地限制观察次数。看似让您限制观察次数的超参数实际上是基于 hessian 值的估计。
 
-[](https://matepocs.medium.com/membership) 
+<https://matepocs.medium.com/membership> 

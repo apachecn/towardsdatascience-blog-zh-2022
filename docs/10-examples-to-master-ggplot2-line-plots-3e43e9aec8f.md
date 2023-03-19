@@ -14,7 +14,7 @@
 
 在本文中，我们将通过 10 个示例来学习如何使用 ggplot2 创建和定制线图，gg plot 2 是 tidyverse 中的一个数据可视化包，它是数据科学的 R 包集合。
 
-*你可以成为* [*媒介会员*](https://sonery.medium.com/membership) *解锁我的全部写作权限，外加其余媒介。如果你已经是了，别忘了订阅*[](https://sonery.medium.com/subscribe)**如果你想在我发表新文章时收到电子邮件。**
+*你可以成为* [*媒介会员*](https://sonery.medium.com/membership) *解锁我的全部写作权限，外加其余媒介。如果你已经是了，别忘了订阅*<https://sonery.medium.com/subscribe>**如果你想在我发表新文章时收到电子邮件。**
 
 *我们将在示例中使用 3 个不同的数据集。你可以从我的 GitHub 页面上的[数据集](https://github.com/SonerYldrm/datasets)库中下载它们。*
 

@@ -54,7 +54,7 @@
 
 ## 代理人不应该是内生的
 
-在下面显示的模型中，回归其两个代理的学术准备程度，这两个代理不应是[](/what-are-exogenous-and-endogenous-regression-variables-c0ea1ba03ce8)****:****
+在下面显示的模型中，回归其两个代理的学术准备程度，这两个代理不应是</what-are-exogenous-and-endogenous-regression-variables-c0ea1ba03ce8>****:****
 
 **![](img/43199dd8254f23baa5738a793609a01d.png)**
 
@@ -211,7 +211,7 @@ olsr_model_results = olsr_model.**fit**()
 
 **线性模型的训练总结(图片由作者提供)**
 
-**我们将忽略 R 平方的值(或[调整后的 R 平方](/the-complete-guide-to-r-squared-adjusted-r-squared-and-pseudo-r-squared-4136650fc06c))，因为我们的兴趣在于估计观察到的解释变量[](/understanding-partial-effects-main-effects-and-interaction-effects-in-a-regression-model-54e8a127c62d')**对响应变量(即该县的贫困水平)的主要影响。****
+**我们将忽略 R 平方的值(或[调整后的 R 平方](/the-complete-guide-to-r-squared-adjusted-r-squared-and-pseudo-r-squared-4136650fc06c))，因为我们的兴趣在于估计观察到的解释变量</understanding-partial-effects-main-effects-and-interaction-effects-in-a-regression-model-54e8a127c62d'>**对响应变量(即该县的贫困水平)的主要影响。****
 
 ****另外，我们发现所有解释变量的系数在 p < .001 时都是显著的。****
 

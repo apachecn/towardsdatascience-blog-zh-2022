@@ -101,11 +101,11 @@
 
 请**用我的推荐链接加入 Medium** 。
 
-[](https://pranay-dave9.medium.com/membership)  
+<https://pranay-dave9.medium.com/membership>  
 
 请**订阅**每当我发布一个新的故事时，请保持通知。
 
-[](https://pranay-dave9.medium.com/subscribe)  
+<https://pranay-dave9.medium.com/subscribe>  
 
 # 额外资源
 

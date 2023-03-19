@@ -76,7 +76,7 @@ ProteinMPNN 网络通过编码器模块传递 N、CA、C、O 和虚拟 CB 原子
 
 这已经被打包成一个拥抱脸的网络应用程序(由西蒙·杜尔完成，来自 [EPFL 科技 4Impact](https://medium.com/u/7dbe1c70684b?source=post_page-----41ae2a7d23d8--------------------------------) )你现在就可以用它做一个测试:
 
-[](https://huggingface.co/spaces/simonduerr/ProteinMPNN)  
+<https://huggingface.co/spaces/simonduerr/ProteinMPNN>  
 
 下面是一个例子，使用氨基酸概率和 10 个建议的蛋白质序列，在不到 5 秒的时间内获得结果:
 
@@ -88,15 +88,15 @@ ProteinMPNN 网络通过编码器模块传递 N、CA、C、O 和虚拟 CB 原子
 
 *   Dauparas 等人的方法的完整介绍的预印本:
 
-[](https://www.biorxiv.org/content/10.1101/2022.06.03.494563v1)  
+<https://www.biorxiv.org/content/10.1101/2022.06.03.494563v1>  
 
 *   Wicky 等人的《创新蛋白质装配应用预印本》:
 
-[](https://www.biorxiv.org/content/10.1101/2022.06.09.493773v1)  
+<https://www.biorxiv.org/content/10.1101/2022.06.09.493773v1>  
 
 *   另一个最近的预印本，只是理论上的，也展示了一个对蛋白质序列和结构进行采样以适应给定基序的模型——本质上是一项设计任务:
 
-[](https://arxiv.org/abs/2206.04119)  
+<https://arxiv.org/abs/2206.04119>  
 
 (查看[第一作者在推特上发布的预印本摘要](https://twitter.com/brianltrippe/status/1535063427894624256)
 
@@ -106,6 +106,6 @@ ProteinMPNN 网络通过编码器模块传递 N、CA、C、O 和虚拟 CB 原子
 
 *   相关博客条目:
 
-[](/whats-up-after-alphafold-on-ml-for-structural-biology-7bb9758925b8)    
+</whats-up-after-alphafold-on-ml-for-structural-biology-7bb9758925b8>    
 
 www.lucianoabriata.com*我写作并拍摄我广泛兴趣范围内的一切事物:自然、科学、技术、编程等等。* [***成为媒介会员***](https://lucianosphere.medium.com/membership) *访问其所有故事(我免费获得小额收入的平台的附属链接)和* [***订阅获取我的新故事***](https://lucianosphere.medium.com/subscribe) ***通过电子邮件*** *。到* ***咨询关于小职位*** *查看我的* [***服务页面这里***](https://lucianoabriata.altervista.org/services/index.html) *。你可以* [***这里联系我***](https://lucianoabriata.altervista.org/office/contact.html) ***。***

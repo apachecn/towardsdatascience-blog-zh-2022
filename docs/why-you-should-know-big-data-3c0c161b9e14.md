@@ -58,6 +58,6 @@
 *   在许多情况下，数据来源于经典数据库、多媒体源或监控数据(传感器数据)。
 *   随着组织和公司可用数据量的不断增加，数据安全问题变得越来越重要。
 
-*如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
+*如果你喜欢我的作品，请在这里订阅*<https://medium.com/subscribe/@niklas_lang>**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
 
-*[](https://medium.com/nerd-for-tech/what-are-deepfakes-and-how-do-you-recognize-them-f9ab1a143456)  [](https://medium.com/nerd-for-tech/understanding-mapreduce-with-the-help-of-harry-potter-5b0ae89cc88)  [](https://medium.com/codex/explainable-ai-integrated-gradients-for-deep-neural-network-predictions-eb4f96248afb) *
+*<https://medium.com/nerd-for-tech/what-are-deepfakes-and-how-do-you-recognize-them-f9ab1a143456>  <https://medium.com/nerd-for-tech/understanding-mapreduce-with-the-help-of-harry-potter-5b0ae89cc88>  <https://medium.com/codex/explainable-ai-integrated-gradients-for-deep-neural-network-predictions-eb4f96248afb> *

@@ -193,4 +193,4 @@ def grouped_forecast(df):
 
 如果你喜欢这篇文章，你可以看看我写的其他一些与时间序列相关的帖子:
 
-[](/lazyprophet-time-series-forecasting-with-lightgbm-3745bafe5ce5)  [](/handling-trends-in-tree-based-time-series-forecasting-fea5e4c066fb)  [](/online-time-series-forecasting-in-python-12bada43b8bd) 
+</lazyprophet-time-series-forecasting-with-lightgbm-3745bafe5ce5>  </handling-trends-in-tree-based-time-series-forecasting-fea5e4c066fb>  </online-time-series-forecasting-in-python-12bada43b8bd> 

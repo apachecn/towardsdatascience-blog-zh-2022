@@ -58,4 +58,4 @@ rdd 是容错的元素集合，通过分布在集群中的多个节点上，可�
 
 如果你从这些文章中获得了价值，考虑使用下面的链接注册 medium！👇
 
-[](https://medium.com/@riandolphin/membership) 
+<https://medium.com/@riandolphin/membership> 

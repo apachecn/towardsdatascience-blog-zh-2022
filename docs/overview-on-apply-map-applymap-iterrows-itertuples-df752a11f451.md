@@ -6,7 +6,7 @@
 
 数据清理和特征工程在处理数据时是必不可少的。我最近回顾了一些过去的个人项目，并对它们进行了重构或继续构建。其中之一是 iaito 订单细节的可视化。合气道是模仿武士刀来学习合气道的。iaito 的制造属于高混合小批量制造类别，因为在我们的情况下，每个 iaito 都是为所有者定制的(即按订单生产)。
 
-[](/data-visualization-using-matplotlib-seaborn-97f788f18084) [## 使用 Matplotlib 和 Seaborn 实现数据可视化
+</data-visualization-using-matplotlib-seaborn-97f788f18084> [## 使用 Matplotlib 和 Seaborn 实现数据可视化
 
 towardsdatascience.com](/data-visualization-using-matplotlib-seaborn-97f788f18084) 
 

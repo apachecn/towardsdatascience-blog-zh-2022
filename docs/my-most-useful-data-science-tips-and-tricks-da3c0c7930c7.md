@@ -12,7 +12,7 @@
 
 对于局外人来说，数据科学可能是一个令人困惑的隧道，夹在一个全是计算和假设检验的领域和一个全是计算机编程的领域之间。我们明白这一点，不要担心——我们也害怕。说到这里，对于那些可能对数据科学或计算机编程完全陌生的人，我在这里有一点阅读，可能会在 2021 年开始使用数据科学时提供一些更准确的信息(去年没有太大变化。)
 
-[](/how-to-break-into-data-science-in-2021-8-steps-87cb02a4a1f4) [## 2021 年如何闯入数据科学(8 步)
+</how-to-break-into-data-science-in-2021-8-steps-87cb02a4a1f4> [## 2021 年如何闯入数据科学(8 步)
 
 towardsdatascience.com](/how-to-break-into-data-science-in-2021-8-steps-87cb02a4a1f4) 
 
@@ -44,7 +44,7 @@ eltype.(eachcol(df))
 
 如果你使用的是动态类型的语言，如果你从事数据科学，你很可能就是这样，那么你可能需要关注那些类型特别弱的语言中的数据。当类型是弱类型而不是强类型时，如果您想了解更多关于弱类型或隐式类型的信息，我这里有一整篇文章:
 
-[](/all-about-typing-explicit-vs-implicit-and-static-vs-dynamic-980da4387c2f)  
+</all-about-typing-explicit-vs-implicit-and-static-vs-dynamic-980da4387c2f>  
 
 所有这些弱/强或隐式/显式意味着编译器将基于其编译或解释算法显式或隐式地控制类型。换句话说，有些数据可能会在您不知道的情况下改变类型。
 
@@ -68,7 +68,7 @@ eltype.(eachcol(df))
 
 总的来说，拥有太多的要素而没有足够的数据来正确连接权重会导致过度拟合现象。许多建模都归结于平衡偏差，这样模型才适合于适量的数据，而不会使模型过拟合或欠拟合。为了更好地完成这项工作，通常会使用分解，但是在大多数情况下，抛弃无关紧要的特性可能比进一步处理它更好。如果您想阅读更多关于分解的内容，我有一篇关于奇异值分解的文章，这可能是对分解及其用途的很好的介绍:
 
-[](/deep-in-singular-value-decomposition-98cfd9532241) [## 深入奇异值分解
+</deep-in-singular-value-decomposition-98cfd9532241> [## 深入奇异值分解
 
 towardsdatascience.com](/deep-in-singular-value-decomposition-98cfd9532241) 
 

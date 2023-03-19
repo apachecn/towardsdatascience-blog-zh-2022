@@ -334,10 +334,10 @@ Example fails:
 
 随意发挥，并在这里叉这篇文章的源代码:
 
-[](https://github.com/khuyentran1401/Data-science/blob/master/nlp/checklist/checklist_examples.ipynb)  
+<https://github.com/khuyentran1401/Data-science/blob/master/nlp/checklist/checklist_examples.ipynb>  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的数据科学工具。你可以在 LinkedIn 和 Twitter 上与我联系。
 
 如果你想查看我写的所有文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/pytest-for-data-scientists-2990319e55e6)  [](/introduction-to-schema-a-python-libary-to-validate-your-data-c6d99e06d56a)  [](/deepdiff-recursively-find-and-ignore-trivial-differences-using-python-231a5524f41d)  [](/great-expectations-always-know-what-to-expect-from-your-data-51214866c24) 
+</pytest-for-data-scientists-2990319e55e6>  </introduction-to-schema-a-python-libary-to-validate-your-data-c6d99e06d56a>  </deepdiff-recursively-find-and-ignore-trivial-differences-using-python-231a5524f41d>  </great-expectations-always-know-what-to-expect-from-your-data-51214866c24> 

@@ -152,7 +152,7 @@ df.sales.plot(figsize=(25,8), legend=True, linestyle='--', color='darkgray')df.r
 
 如果你喜欢这些数据，请关注我。
 
-[](http://gustavorsantos.medium.com/)  
+<http://gustavorsantos.medium.com/>  
 
 如果你想成为中等会员，[这里有一个介绍链接](https://gustavorsantos.medium.com/membership)。
 

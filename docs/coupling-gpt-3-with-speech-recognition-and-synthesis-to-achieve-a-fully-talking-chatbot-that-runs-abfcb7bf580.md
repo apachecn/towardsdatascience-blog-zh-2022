@@ -20,7 +20,7 @@
 
 (或者你可以直接使用 Web Speech API 的 SpeechRecognition 服务)
 
-[](https://www.talater.com/annyang/)  
+<https://www.talater.com/annyang/>  
 
 Annyang 是一个小型的语音识别 JavaScript 库，它允许程序员轻松地将语音命令和语音听写集成到他们的 web 应用程序中。它没有依赖性，非常轻，在 MIT 许可下可以自由使用和修改。
 
@@ -54,7 +54,7 @@ GPT-3 是一个最先进的语言处理模型，这是一个深度神经网络�
 
 我已经写了几篇关于 GPT-3 的文章来说明上述特征。以下是最重要的几个:
 
-[](/custom-informed-gpt-3-models-for-your-website-with-very-simple-code-47134b25620b)  [](/web-based-chatbot-project-module-2-gpt-3-generated-responses-assisted-with-a-database-for-1ee2a0f4aad4)  [](/gpt-3-like-models-with-extended-training-could-be-the-future-24-7-tutors-for-biology-students-904d2ae7986a)  
+</custom-informed-gpt-3-models-for-your-website-with-very-simple-code-47134b25620b>  </web-based-chatbot-project-module-2-gpt-3-generated-responses-assisted-with-a-database-for-1ee2a0f4aad4>  </gpt-3-like-models-with-extended-training-could-be-the-future-24-7-tutors-for-biology-students-904d2ae7986a>  
 
 与本文最相关的是，注意我使用了对 OpenAI 的 API 的基于 PHP 的调用。我在上面列出的三篇文章的第一篇中解释了如何实现这一点。
 
@@ -146,6 +146,6 @@ $.ajax({ url: “TDSgpt3withyourapikey.php?prompt=” + theprompt + “&apikey=�
 
 # 如果你觉得这很有趣或者喜欢为网络编程很酷的东西
 
-  [](https://medium.com/technology-hits/a-web-tool-to-view-and-analyze-cryptocurrency-data-in-full-detail-free-access-in-this-article-73e4c1dea911)  [](https://medium.com/age-of-awareness/metaverse-not-sure-but-webxr-hell-yes-12af5b302e08)  [](/exquisite-hand-and-finger-tracking-in-web-browsers-with-mediapipes-machine-learning-models-2c4c2beee5df)  
+  <https://medium.com/technology-hits/a-web-tool-to-view-and-analyze-cryptocurrency-data-in-full-detail-free-access-in-this-article-73e4c1dea911>  <https://medium.com/age-of-awareness/metaverse-not-sure-but-webxr-hell-yes-12af5b302e08>  </exquisite-hand-and-finger-tracking-in-web-browsers-with-mediapipes-machine-learning-models-2c4c2beee5df>  
 
 www.lucianoabriata.com*我写作并拍摄我广泛兴趣范围内的一切事物:自然、科学、技术、编程等等。* [***成为媒介会员***](https://lucianosphere.medium.com/membership) *访问其所有故事(我免费获得小额收入的平台的附属链接)和* [***订阅获取我的新故事***](https://lucianosphere.medium.com/subscribe) ***通过电子邮件*** *。到* ***咨询关于小职位*** *查看我的* [***服务页面这里***](https://lucianoabriata.altervista.org/services/index.html) *。你可以* [***这里联系我***](https://lucianoabriata.altervista.org/office/contact.html) ***。***

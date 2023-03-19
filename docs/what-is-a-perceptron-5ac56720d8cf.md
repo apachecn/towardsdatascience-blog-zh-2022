@@ -10,7 +10,7 @@
 
 感知器是来自[监督学习](https://databasecamp.de/en/ml/supervised-learning-models)领域的算法，代表了[神经网络](https://databasecamp.de/en/ml/artificial-neural-networks)的基本构建模块。在其最简单的形式中，它由一个使用加权输入值计算输出值的单个神经元组成。
 
-[](https://medium.com/nerd-for-tech/basics-of-ai-supervised-learning-8505219f07cf)  
+<https://medium.com/nerd-for-tech/basics-of-ai-supervised-learning-8505219f07cf>  
 
 # 感知器是如何工作的？
 
@@ -42,7 +42,7 @@ Sigmoid 函数曲线|来源:作者
 
 这个简单的模型已经可以用于许多应用程序，但在理解和学习更复杂的关系时很快就达到了极限。因此，在实践中，重点主要是几层感知器，然后将它们组装起来，形成所谓的[人工神经网络](https://databasecamp.de/en/ml/artificial-neural-networks)。
 
-[](https://medium.com/illumination/intuitive-guide-to-artificial-neural-networks-5a2925ea3fa2)  
+<https://medium.com/illumination/intuitive-guide-to-artificial-neural-networks-5a2925ea3fa2>  
 
 这些所谓的多层感知器以这样一种方式相互连接，即只有第一层神经元接收来自网络外部的输入。另一方面，在后续层中，先前层的输出充当当前层的输入。只有[神经网络](https://databasecamp.de/en/ml/artificial-neural-networks)最后一层的神经元是输出，然后被用作实际结果。
 
@@ -64,7 +64,7 @@ Sigmoid 函数曲线|来源:作者
 
 *   [**图像中的物体识别**](https://databasecamp.de/en/use-case/cnn-in-tensorflow) : [人工神经网络](https://databasecamp.de/en/ml/artificial-neural-networks)可以识别图像中的物体或将图像归入某一类。例如，公司在自动驾驶中使用这一属性来识别汽车应该做出反应的对象。另一个应用领域是在医学中，例如，当检查 X 射线图像以检测癌症的早期阶段时。
 
-[](/using-convolutional-neural-network-for-image-classification-5997bfd0ede4)  
+</using-convolutional-neural-network-for-image-classification-5997bfd0ede4>  
 
 *   [**顾客情感分析**](https://databasecamp.de/en/use-case/bert-sentiment-analysis) :通过互联网，顾客有很多渠道公开对品牌或产品的评价。因此，公司需要跟踪客户是否大部分满意。有了一些被分类为好或坏的评论，可以训练高效的模型，然后这些模型可以自动对大量评论进行分类。
 *   **垃圾邮件检测**:在许多邮件程序中，有可能将具体的电子邮件标记为垃圾邮件。这些数据用于训练机器学习模型，这些模型直接将未来的电子邮件标记为垃圾邮件，这样最终用户甚至不会看到它们。
@@ -93,6 +93,6 @@ Sigmoid 函数曲线|来源:作者
 *   感知器由输入、权重、激活函数和输出组成。
 *   它可以用来学习数据中的复杂关系，并将它们应用到新的、以前看不到的数据中。
 
-*如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！此外，媒体允许你每月免费阅读三篇文章***。如果你想让***无限制地访问我的文章和数以千计的精彩文章，不要犹豫，通过点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$ ***5*** 获得会员资格***
+*如果你喜欢我的作品，请在这里订阅*<https://medium.com/subscribe/@niklas_lang>**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！此外，媒体允许你每月免费阅读三篇文章***。如果你想让***无限制地访问我的文章和数以千计的精彩文章，不要犹豫，通过点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$ ***5*** 获得会员资格***
 
-**[](/introducing-nosql-databases-with-mongodb-d46c976da5bf)  [](https://medium.com/codex/understanding-the-backpropagation-algorithm-7a2e3cb4a69c)  [](/beginners-guide-to-gradient-descent-47f8d0f4ce3b) **
+**</introducing-nosql-databases-with-mongodb-d46c976da5bf>  <https://medium.com/codex/understanding-the-backpropagation-algorithm-7a2e3cb4a69c>  </beginners-guide-to-gradient-descent-47f8d0f4ce3b> **

@@ -10,11 +10,11 @@
 
 在本文中，您将找到使用 TensorFlow/Keras 构建神经网络的完整备忘单。我在准备 [TensorFlow 开发者认证考试](https://www.tensorflow.org/certificate)时准备了这张小抄，它给了我很大的帮助。阅读以下文章，了解更多我的考试经历。
 
-[](https://medium.com/@andimid/dont-be-afraid-to-take-the-tensorflow-developer-exam-by-google-e083fb26eecf)  
+<https://medium.com/@andimid/dont-be-afraid-to-take-the-tensorflow-developer-exam-by-google-e083fb26eecf>  
 
 您可以在下面的 [GitLab 资源库](https://gitlab.com/Winston-90/tf_cheat_sheet)中访问该备忘单。
 
-[](https://gitlab.com/Winston-90/tf_cheat_sheet)  
+<https://gitlab.com/Winston-90/tf_cheat_sheet>  
 
 事不宜迟，我们开始工作吧。
 
@@ -147,4 +147,4 @@ model check point 的官方文档在这里是。
 
 # *****参考文献*****
 
-***[](https://keras.io/api/)  [](https://www.tensorflow.org/api_docs/python/tf) ***
+***<https://keras.io/api/>  <https://www.tensorflow.org/api_docs/python/tf> ***

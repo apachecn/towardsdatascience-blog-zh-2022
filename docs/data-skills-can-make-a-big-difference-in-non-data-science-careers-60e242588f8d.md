@@ -64,7 +64,7 @@
 
 要了解更多关于喜马拉雅的工作和探索她的最新文章，请关注他的 [Medium](https://medium.com/@himalaya.birshrestha) 。为了快速介绍他在 TDS 方面的工作，下面是我们档案中的一些亮点:
 
-*   [](/4-key-figures-to-understand-the-climate-crisis-f92b9a99abbe)****(2021 年 10 月，7 分钟)****
+*   </4-key-figures-to-understand-the-climate-crisis-f92b9a99abbe>****(2021 年 10 月，7 分钟)****
 *   ****[**欧洲发电排放强度**](/geoplotting-emissions-intensity-of-electricity-generation-in-europe-90c22b378858)(2021 年 3 月，10 分钟)****
 *   ****[**用 Python 中的 NetworkX 解决德国旅行商问题**](/solving-the-travelling-salesman-problem-for-germany-using-networkx-in-python-2b181efd7b07)(2022 年 6 月，12 分钟)****
 *   ****[**Python 地图中的网络与互联**](/network-and-interconnection-in-python-maps-6c797580b3b1)(2022 年 3 月，8 分钟)****

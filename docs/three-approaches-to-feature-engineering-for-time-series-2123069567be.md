@@ -173,7 +173,7 @@ TRAIN_END = 3 * 365
 
 您可能还会对以下内容感兴趣:
 
-[](https://medium.com/geekculture/investigating-the-effects-of-resampling-imbalanced-datasets-with-data-validation-techniques-f4ca3c8b2b94)  [](/time-series-diy-seasonal-decomposition-f0b469afed44)  [](/a-step-by-step-guide-to-calculating-autocorrelation-and-partial-autocorrelation-8c4342b784e8)  
+<https://medium.com/geekculture/investigating-the-effects-of-resampling-imbalanced-datasets-with-data-validation-techniques-f4ca3c8b2b94>  </time-series-diy-seasonal-decomposition-f0b469afed44>  </a-step-by-step-guide-to-calculating-autocorrelation-and-partial-autocorrelation-8c4342b784e8>  
 
 # 参考
 

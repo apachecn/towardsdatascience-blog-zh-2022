@@ -18,7 +18,7 @@ HoliHo 的照片:[https://www . pexels . com/photo/pathway-in-trees-between-dayt
 
 如果你想知道随机森林是如何应用于分类问题的，可以看看下面的文章。
 
-[](/random-forest-for-lithology-classification-from-well-log-data-4a1380ef025b)  
+</random-forest-for-lithology-classification-from-well-log-data-4a1380ef025b>  
 
 在分类的情况下，我们试图使用决策将我们的数据分开，并将它们放入类中。当它们应用于回归时，我们试图做类似的事情，但我们预测的不是一个类，而是一个值。
 
@@ -44,7 +44,7 @@ HoliHo 的照片:[https://www . pexels . com/photo/pathway-in-trees-between-dayt
 
 本教程中使用的数据是 Equinor 在 2018 年发布的 Volve 数据集的子集。数据集的全部细节，包括许可证可以在下面的链接中找到。
 
-[](https://www.equinor.com/energy/volve-data-sharing)  
+<https://www.equinor.com/energy/volve-data-sharing>  
 
 Volve 数据许可证基于 CC BY 4.0 许可证。许可协议的全部细节可以在这里找到:
 

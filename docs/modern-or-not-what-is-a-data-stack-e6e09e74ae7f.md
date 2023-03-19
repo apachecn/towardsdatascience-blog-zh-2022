@@ -119,4 +119,4 @@
 
 你喜欢读这篇文章吗？ [*成为会员*](https://marie-lefevre.medium.com/membership) *加入一个不断成长的充满好奇心的社区吧！*
 
-[](https://marie-lefevre.medium.com/membership) 
+<https://marie-lefevre.medium.com/membership> 

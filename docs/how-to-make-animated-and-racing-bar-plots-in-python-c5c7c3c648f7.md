@@ -97,7 +97,7 @@ anim.save("bar2.gif", writer="imagemagick")
 
 在接下来的图中，我将使用这个超市数据集。请随意从这里下载数据集:
 
-[](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)  
+<https://www.kaggle.com/datasets/vivek468/superstore-dataset-final>  
 
 ***作者在页面描述中提到，仅允许将该数据集用于教育目的。***
 
@@ -271,4 +271,4 @@ def func(values, ranks):
 
 ## 更多阅读
 
-[](/30-very-useful-pandas-functions-for-everyday-data-analysis-tasks-f1eae16409af)  [](/regression-in-tensorflow-using-both-sequential-and-function-apis-314e74b537ca)  [](/20-very-commonly-used-functions-of-pyspark-rdd-90b8271c25b2)  [](https://pub.towardsai.net/an-overview-of-the-major-sql-query-clauses-and-most-commonly-used-functions-60720e2a20d7)  [](/details-of-violinplot-and-relplot-in-seaborn-30c63de23a15)  [](/what-is-a-recurrent-neural-network-and-implementation-of-simplernn-gru-and-lstm-models-in-keras-f7247e97c405) 
+</30-very-useful-pandas-functions-for-everyday-data-analysis-tasks-f1eae16409af>  </regression-in-tensorflow-using-both-sequential-and-function-apis-314e74b537ca>  </20-very-commonly-used-functions-of-pyspark-rdd-90b8271c25b2>  <https://pub.towardsai.net/an-overview-of-the-major-sql-query-clauses-and-most-commonly-used-functions-60720e2a20d7>  </details-of-violinplot-and-relplot-in-seaborn-30c63de23a15>  </what-is-a-recurrent-neural-network-and-implementation-of-simplernn-gru-and-lstm-models-in-keras-f7247e97c405> 

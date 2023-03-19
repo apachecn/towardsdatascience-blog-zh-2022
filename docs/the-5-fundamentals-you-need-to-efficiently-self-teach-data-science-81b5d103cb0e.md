@@ -32,7 +32,7 @@
 
 我发现，当你很好地掌握了将要使用的编程语言时，剩下的学习过程就会变得非常容易，因为编程是你需要考虑的一件事情。这就是为什么许多数据科学学习计划鼓励学生首先学习编程部分——包括我创建的那些。
 
-[](/the-complete-roadmap-to-becoming-a-data-analyst-with-no-previous-experience-952c5b3a7cbc)  [](/the-fully-updated-guide-you-can-use-to-learn-data-science-in-2022-without-getting-a-degree-8e73e416c21b)  
+</the-complete-roadmap-to-becoming-a-data-analyst-with-no-previous-experience-952c5b3a7cbc>  </the-fully-updated-guide-you-can-use-to-learn-data-science-in-2022-without-getting-a-degree-8e73e416c21b>  
 
 通过首先学习如何正确编码，您可以开始通过用代码思考来解决您的数据科学问题。当你的大脑在后台编写代码时，你的大部分脑力可以用来解决数据分析问题或整合机器学习模型背后的逻辑。
 
@@ -66,7 +66,7 @@
 
 我发现，自学时你能为自己做的最好的事情就是找到一个发泄的渠道，让你的大脑得到休息。对我来说，那就是带着狗在大自然中散步，在媒体上写作或者为我的时事通讯写作，做志愿者，以及阅读小说。这些事情都与数据科学无关(甚至我在 Medium 上的文章也不是关于数据科学的本质技术方面的)，而这正是我的大脑经常需要的。
 
-[](/unorthodox-reasons-why-data-scientists-should-start-a-blog-7529cdcf777)  
+</unorthodox-reasons-why-data-scientists-should-start-a-blog-7529cdcf777>  
 
 尽管你可能每天都有学习的压力，尤其是如果你想快速改变职业生涯，记住休息是至关重要的。作为一个曾经连续工作 180 天没有休息的人，我明白持续的工作或学习是不可持续的。不仅如此，在这一点上，你实际上并没有有效地学习。你的大脑处理信息的时间会比你在做了一天你喜欢的事情后处理信息的时间长得多。因此，在一头扎进自学数据科学之前，让大脑休息一下对你的学习成功至关重要。
 

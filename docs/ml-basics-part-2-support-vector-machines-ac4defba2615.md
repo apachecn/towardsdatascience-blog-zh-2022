@@ -10,7 +10,7 @@
 
 在[之前的帖子](/ml-basics-part-1-regression-a-gateway-method-to-machine-learning-36d54d233907)中，我们学习了回归方法。在本文中，我们将介绍一种类似但稍微先进的机器学习方法，称为“*(SVM)*”。除非你已经很熟悉了，否则建议你在阅读这篇文章之前先看看之前的文章。
 
-[](/ml-basics-part-1-regression-a-gateway-method-to-machine-learning-36d54d233907)  
+</ml-basics-part-1-regression-a-gateway-method-to-machine-learning-36d54d233907>  
 
 **简介**
 
@@ -134,11 +134,11 @@ SVM 方法通过找到数据中最重要的点(或从原点画出的向量)来�
 
 ***在 Patreon 上支持我:***
 
-*[](https://www.patreon.com/azadacademy)  
+*<https://www.patreon.com/azadacademy>  
 
 **在子栈上找到我:**
 
-[](https://azadwolf.substack.com)  
+<https://azadwolf.substack.com>  
 
 **关注 Twitter 更新:**
 

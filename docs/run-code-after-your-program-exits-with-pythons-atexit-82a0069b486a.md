@@ -29,7 +29,7 @@ exiting now, goodbye
 
 轻松点。让我们把它变得复杂一点。
 
-[](/why-is-python-so-slow-and-how-to-speed-it-up-485b5a84154e)  
+</why-is-python-so-slow-and-how-to-speed-it-up-485b5a84154e>  
 
 ## 简单的例子——退出循环
 
@@ -48,7 +48,7 @@ exiting now, goodbye
 
 所以在进入无限循环之前，我们注册了`say_goodbye`函数。该函数将在解释器终止时执行。
 
-[](https://medium.com/geekculture/applying-python-multiprocessing-in-2-lines-of-code-3ced521bac8f)  
+<https://medium.com/geekculture/applying-python-multiprocessing-in-2-lines-of-code-3ced521bac8f>  
 
 # 2.更简单的多次注册
 
@@ -64,7 +64,7 @@ exiting now, goodbye
 
 另一个好处是你的代码更干净；`simpel_example()`函数没有被 atexit 注册“污染”。如果您想了解更多关于装饰器如何工作以及如何创建自己的装饰器，请查看本文。
 
-[](/how-to-make-a-database-connection-in-python-for-absolute-beginners-e2bfd8e4e52)  
+</how-to-make-a-database-connection-in-python-for-absolute-beginners-e2bfd8e4e52>  
 
 ## 注册多个功能
 
@@ -80,7 +80,7 @@ still running..
 # 3 says goodbye
 ```
 
-[](/understanding-python-context-managers-for-absolute-beginners-4873b6249f16)  
+</understanding-python-context-managers-for-absolute-beginners-4873b6249f16>  
 
 ## 注销函数
 
@@ -96,7 +96,7 @@ Function exit
 
 您也可以使用`atexit._clear()`清除所有已注册的功能。
 
-[](/cython-for-absolute-beginners-30x-faster-code-in-two-simple-steps-bbb6c10d06ad)  
+</cython-for-absolute-beginners-30x-faster-code-in-two-simple-steps-bbb6c10d06ad>  
 
 ## 注册带有参数的函数
 
@@ -114,7 +114,7 @@ Function exit
  -mike says gutentag after 0:00:01.755111
 ```
 
-[](/docker-for-absolute-beginners-the-difference-between-an-image-and-a-container-7e07d4c0c01d)  
+</docker-for-absolute-beginners-the-difference-between-an-image-and-a-container-7e07d4c0c01d>  
 
 ## 手动触发所有注册的出口功能
 
@@ -130,7 +130,7 @@ exiting now, goodbye
 continue with code
 ```
 
-[](/image-analysis-for-beginners-creating-a-motion-detector-with-opencv-4ca6faba4b42)  
+</image-analysis-for-beginners-creating-a-motion-detector-with-opencv-4ca6faba4b42>  
 
 # atexit 什么时候运行注册的函数？
 
@@ -147,7 +147,7 @@ exiting now, goodbye
 
 用`os._exit(0)`替换`sys.exit(0)`的方向盘不会运行`say_goodbye`功能。
 
-[](/create-a-fast-auto-documented-maintainable-and-easy-to-use-python-api-in-5-lines-of-code-with-4e574c00f70e)  
+</create-a-fast-auto-documented-maintainable-and-easy-to-use-python-api-in-5-lines-of-code-with-4e574c00f70e>  
 
 # 结论
 
@@ -165,4 +165,4 @@ exiting now, goodbye
 
 *又及:喜欢我正在做的事吗？* [*跟我来！*](https://mikehuls.medium.com/membership)
 
-[](https://mikehuls.medium.com/membership) 
+<https://mikehuls.medium.com/membership> 

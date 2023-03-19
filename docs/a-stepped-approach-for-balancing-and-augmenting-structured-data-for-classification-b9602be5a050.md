@@ -174,7 +174,7 @@ o.classBalancers()
 
 我将使用`SMOTE`对少数类进行过采样。我推荐阅读，
 
-[](/handling-imbalanced-datasets-in-machine-learning-7a0e84220f28)  
+</handling-imbalanced-datasets-in-machine-learning-7a0e84220f28>  
 
 了解更多关于如何平衡类不平衡数据集的详细信息。
 
@@ -257,7 +257,7 @@ learner.evaluate(X_test, y_test)
 
 用我的推荐链接加入媒体。
 
-[](https://dr-bruce-cottman.medium.com/membership)  
+<https://dr-bruce-cottman.medium.com/membership>  
 
 作为一个媒体会员，你的会员费的一部分给了你阅读的作家，你可以完全接触到每一个故事。
 

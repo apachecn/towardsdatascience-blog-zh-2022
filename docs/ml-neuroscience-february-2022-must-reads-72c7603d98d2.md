@@ -10,7 +10,7 @@
 
 *通过我的推荐链接加入 Medium 来支持我的写作和项目:*
 
-[](https://stefanobosisio1.medium.com/membership)  
+<https://stefanobosisio1.medium.com/membership>  
 
 我最近关于 ML 和神经科学的报道:
 

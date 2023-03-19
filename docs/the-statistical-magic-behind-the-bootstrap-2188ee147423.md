@@ -125,4 +125,4 @@ Bootstrap 允许确定统计数据 **T** 的分布——例如 A/B 测试中的�
 
 *如果你喜欢这篇文章，请在 [Linkedin](https://www.linkedin.com/in/dr-christian-leschinski-491577101/) 上关注我，我经常在那里发布关于统计学、数据科学和机器学习的帖子。另外，看看我在 Medium 上的其他一些帖子:*
 
-*[](/are-you-interpreting-your-logistic-regression-correctly-d041f7acf8c7)  [](https://pub.towardsai.net/how-to-choose-your-loss-function-where-i-disagree-with-cassie-kozyrkov-2038d19b5e0a) *
+*</are-you-interpreting-your-logistic-regression-correctly-d041f7acf8c7>  <https://pub.towardsai.net/how-to-choose-your-loss-function-where-i-disagree-with-cassie-kozyrkov-2038d19b5e0a> *

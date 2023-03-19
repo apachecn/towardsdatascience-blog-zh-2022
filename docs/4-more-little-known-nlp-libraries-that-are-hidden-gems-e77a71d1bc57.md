@@ -188,7 +188,7 @@ symspell_corrector(text)*
 
 *关于我如何使用这个库来评估定制的 LSTM 分类模型的完整项目示例，请查看本文。它还包括一个完整的代码脚本。*
 
-*[](/nlp-project-with-augmentation-attacks-aspect-based-sentiment-analysis-3342510c90e7)  
+*</nlp-project-with-augmentation-attacks-aspect-based-sentiment-analysis-3342510c90e7>  
 
 [**文献**](https://textattack.readthedocs.io/en/latest/index.html)
 
@@ -198,6 +198,6 @@ symspell_corrector(text)*
 
 这是我最近写的一篇类似文章的延续。因此，如果你没有听说过有用的 Python 库，如*缩写库*、*蒸馏标点符号库*或*文本统计库*，那么也去看看吧！
 
-[](/5-lesser-known-python-libraries-for-your-next-nlp-project-ff13fc652553)  
+</5-lesser-known-python-libraries-for-your-next-nlp-project-ff13fc652553>  
 
 感谢阅读！*

@@ -31,11 +31,11 @@
 
 **如果想了解更多关于过程语言(类似于脚本语言)的知识，可以参考 BigQuery 文档。**
 
-**[](https://cloud.google.com/bigquery/docs/reference/standard-sql/procedural-language)  
+**<https://cloud.google.com/bigquery/docs/reference/standard-sql/procedural-language>  
 
 作为一个相关主题(但不完全与本文相关)，您可能也对使用存储过程感兴趣，它也可以利用过程语言。
 
-[](https://cloud.google.com/bigquery/docs/procedures)  
+<https://cloud.google.com/bigquery/docs/procedures>  
 
 # 使用 WITH 子句的变量
 

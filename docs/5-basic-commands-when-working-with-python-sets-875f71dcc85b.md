@@ -44,6 +44,6 @@ Python 集合是通过在花括号中用逗号分隔各个值来定义的。这�
 *   它用于在单个变量中存储几个唯一的元素。元素的顺序暂时不重要。
 *   Python 集合与数学集合相当，因此可以用它执行相同的函数，比如 union。
 
-*如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
+*如果你喜欢我的作品，请在这里订阅*<https://medium.com/subscribe/@niklas_lang>**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
 
-*[](/6-pandas-dataframe-tasks-anyone-learning-python-should-know-1aadce307d26)  [](/4-basic-commands-when-working-with-python-tuples-8edd3787003f)  [](/an-introduction-to-tensorflow-fa5b17051f6b) *
+*</6-pandas-dataframe-tasks-anyone-learning-python-should-know-1aadce307d26>  </4-basic-commands-when-working-with-python-tuples-8edd3787003f>  </an-introduction-to-tensorflow-fa5b17051f6b> *

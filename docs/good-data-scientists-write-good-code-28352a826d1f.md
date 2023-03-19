@@ -259,4 +259,4 @@
 
 ## *****您可能还喜欢:*****
 
-*****[](/good-data-scientists-dont-gather-project-requirements-they-dig-for-them-c1585ac2ae2d)  [](https://medium.com/curious/twelve-books-that-made-me-a-better-data-scientist-842d115ef52a)  [](/so-your-stakeholders-want-an-interpretable-machine-learning-model-6b13928892de) *****
+*****</good-data-scientists-dont-gather-project-requirements-they-dig-for-them-c1585ac2ae2d>  <https://medium.com/curious/twelve-books-that-made-me-a-better-data-scientist-842d115ef52a>  </so-your-stakeholders-want-an-interpretable-machine-learning-model-6b13928892de> *****

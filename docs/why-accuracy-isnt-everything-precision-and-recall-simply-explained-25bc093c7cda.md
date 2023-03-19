@@ -48,7 +48,7 @@
 
 用于生成上述图的完整代码可以在我的 GitHub 上找到，如下所示:
 
-[](https://github.com/egorhowell/Medium-Articles/blob/main/Data%20Science%20Basics/Precision_Recall.ipynb)  
+<https://github.com/egorhowell/Medium-Articles/blob/main/Data%20Science%20Basics/Precision_Recall.ipynb>  
 
 # 精确
 
@@ -106,7 +106,7 @@
 
 生成上述图形的完整代码可以在我的 GitHub 中找到:
 
-[](https://github.com/egorhowell/Medium-Articles/blob/main/Data%20Science%20Basics/Precision_Recall.ipynb)  
+<https://github.com/egorhowell/Medium-Articles/blob/main/Data%20Science%20Basics/Precision_Recall.ipynb>  
 
 在上图中，我们看到当阈值较低时，召回率为 1，而当阈值较高时，精确度为 1。此外，请注意当回忆开始减少时，F1 分数如何显著下降，这表明调和平均值如何惩罚极值。
 
@@ -121,6 +121,6 @@
 *   [*领英*](https://www.linkedin.com/in/egor-howell-092a721b3/) 👔
 *   [*推特*](https://twitter.com/EgorHowell) 🖊
 *   [*github*](https://github.com/egorhowell)*🖥*
-*   *[](https://www.kaggle.com/egorphysics)**🏅***
+*   *<https://www.kaggle.com/egorphysics>**🏅***
 
 > ***(所有表情符号由 [OpenMoji](https://openmoji.org/) 设计——开源表情符号和图标项目。许可证: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)***

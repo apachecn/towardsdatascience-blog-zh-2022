@@ -12,7 +12,7 @@
 
 在我以前的文章中，我们从条件概率中推导出了贝叶斯定理。如果您不熟悉贝叶斯定理，我强烈建议您在阅读本文之前先阅读那篇文章:
 
-[](https://pub.towardsai.net/conditional-probability-and-bayes-theorem-simply-explained-788a6361f333)  
+<https://pub.towardsai.net/conditional-probability-and-bayes-theorem-simply-explained-788a6361f333>  
 
 在本文中，我们将使用贝叶斯定理来更新我们的信念，并展示如何随着更多的数据，我们变得更加确定我们的假设。
 
@@ -24,9 +24,9 @@
 
 作者在 LaTeX 中生成的方程。
 
-*   ***P(H)*** 是我们假设的概率，即[](https://en.wikipedia.org/wiki/Prior_probability)****。**这是在我们看到证据/数据之前，我们假设的可能性有多大。**
+*   ***P(H)*** 是我们假设的概率，即<https://en.wikipedia.org/wiki/Prior_probability>****。**这是在我们看到证据/数据之前，我们假设的可能性有多大。**
 *   *****P(D|H)*** 是 [**可能性**](https://en.wikipedia.org/wiki/Likelihood_function) **，**是给定我们的假设，我们的证据/数据正确的概率。**
-*   *****P(H|D)*** 是从我们的数据/证据来看，我们的假设是正确的概率。这就是俗称的[](https://en.wikipedia.org/wiki/Posterior_probability)**。****
+*   *****P(H|D)*** 是从我们的数据/证据来看，我们的假设是正确的概率。这就是俗称的<https://en.wikipedia.org/wiki/Posterior_probability>**。****
 *   *******P(D)*** 是我们证据/数据的概率。这被称为 [**归一化常数**](https://en.wikipedia.org/wiki/Normalizing_constant#Bayes'_theorem) **，**，它是可能性和先验的乘积之和:****
 
 ****![](img/94e7b2033ce34bf81d65ba638d8b364d.png)****
@@ -124,7 +124,7 @@
 *   *****[*LinkedIn*](https://www.linkedin.com/in/egor-howell-092a721b3/)*👔******
 *   ******[*推特*](https://twitter.com/EgorHowell) 🖊******
 *   ******[*github*](https://github.com/egorhowell)*🖥*******
-*   *******[](https://www.kaggle.com/egorphysics)**🏅*********
+*   *******<https://www.kaggle.com/egorphysics>**🏅*********
 
 > *******(所有表情符号都是由 [OpenMoji](https://openmoji.org/) 设计的——开源的表情符号和图标项目。许可证: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)*******
 

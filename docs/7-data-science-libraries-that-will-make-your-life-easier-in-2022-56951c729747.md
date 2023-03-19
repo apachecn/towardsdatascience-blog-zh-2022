@@ -148,6 +148,6 @@ Gradio 允许您通过设置输入类型(文本、复选框等)来创建简单�
 
 如果你喜欢这篇文章，你可能也会喜欢这些:
 
-[](/the-one-data-science-tool-you-should-master-in-2022-c088bb4371b2)  [](https://medium.datadriveninvestor.com/why-machine-learning-engineers-are-replacing-data-scientists-769d81735553)  [](/8-data-science-side-projects-for-2022-3da85d3251f9)  
+</the-one-data-science-tool-you-should-master-in-2022-c088bb4371b2>  <https://medium.datadriveninvestor.com/why-machine-learning-engineers-are-replacing-data-scientists-769d81735553>  </8-data-science-side-projects-for-2022-3da85d3251f9>  
 
 > 如果你想进一步讨论，请随时通过 LinkedIn 联系我，这将是我的荣幸(老实说)。

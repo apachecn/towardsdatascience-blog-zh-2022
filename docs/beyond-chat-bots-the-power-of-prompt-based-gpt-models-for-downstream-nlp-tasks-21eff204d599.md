@@ -143,7 +143,7 @@ GPT 模型家族包括能够预测记号序列中的下一个记号的生成语�
 
 我希望这篇文章能让你更清楚地了解如何使用创造性的提示工程来使用 GPT 模型完成下游的 NLP 任务！为了帮助您开始，我还编写了一个 Jupyter 笔记本，它将带您完成设计提示、微调模型以及使用 OpenAI API 进行预测的所有步骤。您可以在这里找到[存储库](https://github.com/TiesdeKok/gpt-prompt-example)，下面是笔记本的快速链接:
 
-[](https://nbviewer.org/github/TiesdeKok/gpt-prompt-example/blob/main/prompt_based_gpt_example.ipynb)  
+<https://nbviewer.org/github/TiesdeKok/gpt-prompt-example/blob/main/prompt_based_gpt_example.ipynb>  
 
 我需要你的帮助！👋我正在考虑写一篇研究论文，更详细地介绍在研究项目中使用基于提示的 GPT 的承诺和注意事项。**你有兴趣看这样的论文吗？如果你是，如果你能通过下面的表格表达你的兴趣，那将非常有帮助。你也可以选择注册一个通知。非常感谢！🙏**
 

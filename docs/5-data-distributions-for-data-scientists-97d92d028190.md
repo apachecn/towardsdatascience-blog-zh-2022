@@ -298,4 +298,4 @@ sns.histplot(bernoulli, stat='probability').set_title('Bernoulli Trials')
 
 *[数据科学训练营:你成为数据科学家的第一步](https://www.udemy.com/course/r-for-data-science-first-step-data-scientist/?referralCode=6D1757B5E619B89FA064) —作者图片*
 
-*[](https://ivopbernardo.medium.com/membership) *
+*<https://ivopbernardo.medium.com/membership> *

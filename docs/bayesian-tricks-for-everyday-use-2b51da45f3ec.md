@@ -22,7 +22,7 @@
 
 如果您对贝叶斯定理还不太熟悉，请随意阅读我关于贝叶斯思维的文章，这篇文章对它进行了更详细的解释，并提供了许多实际例子:
 
-[](/on-the-importance-of-bayesian-thinking-in-everyday-life-a74475fcceeb)  
+</on-the-importance-of-bayesian-thinking-in-everyday-life-a74475fcceeb>  
 
 当我们在本文的剩余部分学习各种贝叶斯技巧时，我将假设您直观地掌握了先验和似然性的概念，以及我们如何将两者相乘并缩放以得到后验概率。阅读上面的文章将足以让你开始。
 
@@ -138,7 +138,7 @@ array([0.5  , 0.505, 0.51 , 0.515, 0.52 , 0.525, 0.53 , 0.535, 0.54,
 
 感谢阅读！如果您对如何更严格地将贝叶斯思维应用于统计数据分析感兴趣，请查看我关于该主题的介绍性文章:
 
-[](/the-gentlest-of-introductions-to-bayesian-data-analysis-74df448da25) 
+</the-gentlest-of-introductions-to-bayesian-data-analysis-74df448da25> 
 
 如果你喜欢这篇文章，为什么不在我的新文章上 [**订阅电子邮件更新**](https://michaloleszak.medium.com/subscribe) ？通过 [**成为媒介会员**](https://michaloleszak.medium.com/membership) ，你可以支持我的写作，并无限制地访问其他作者和我自己的所有故事。
 
@@ -146,4 +146,4 @@ array([0.5  , 0.505, 0.51 , 0.515, 0.52 , 0.525, 0.53 , 0.535, 0.54,
 
 你也可以试试我的其他文章。不能选择？从这些中选择一个:
 
-[](/on-the-importance-of-bayesian-thinking-in-everyday-life-a74475fcceeb)  [](/6-useful-probability-distributions-with-applications-to-data-science-problems-2c0bee7cef28)  [](/confidence-intervals-vs-prediction-intervals-7b296ae58745) 
+</on-the-importance-of-bayesian-thinking-in-everyday-life-a74475fcceeb>  </6-useful-probability-distributions-with-applications-to-data-science-problems-2c0bee7cef28>  </confidence-intervals-vs-prediction-intervals-7b296ae58745> 

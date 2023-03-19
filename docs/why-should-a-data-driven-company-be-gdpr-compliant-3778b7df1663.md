@@ -73,7 +73,7 @@ Mailchimp 的退订表格
 
 因此，在 GDPR，即使是大公司也会失败。这是因为确保数据隐私并不容易。特别是，从文档、数据库和多媒体文件中识别和删除敏感数据是一个需要手动操作的复杂问题。幸运的是，这不再是真的了！
 
-得益于机器学习和自然语言处理服务和技术，你可以 [](https://www.private-ai.com/asr/) 自动从文本文档和多媒体文件中删除个人数据。具体来说，如果你[在谷歌学术](https://scholar.google.it/scholar?q=machine+learning+for+gdpr&hl=it&as_sdt=0&as_vis=1&oi=scholart)找“gdpr 的机器学习”，你会找到超过 37k 的结果。所有这些方法都有助于您自动实现 GDPR 合规性。
+得益于机器学习和自然语言处理服务和技术，你可以 <https://www.private-ai.com/asr/> 自动从文本文档和多媒体文件中删除个人数据。具体来说，如果你[在谷歌学术](https://scholar.google.it/scholar?q=machine+learning+for+gdpr&hl=it&as_sdt=0&as_vis=1&oi=scholart)找“gdpr 的机器学习”，你会找到超过 37k 的结果。所有这些方法都有助于您自动实现 GDPR 合规性。
 
 # 结论
 

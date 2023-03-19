@@ -74,4 +74,4 @@ hexs 变量将返回一个非常简单的列表，其中包含与所提供区域
 
 *如果你还不是一个媒体成员，并且想支持像我这样的作家，请随时通过我的推荐链接注册:*
 
-[](https://guilhermeiablonovski.medium.com/membership) 
+<https://guilhermeiablonovski.medium.com/membership> 

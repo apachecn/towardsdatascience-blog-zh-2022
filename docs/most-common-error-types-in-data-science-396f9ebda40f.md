@@ -201,10 +201,10 @@ model.fit(X, y)-----------------------------------------------------------------
 
 ## 参考
 
-[](https://www.tutorialsteacher.com/python/error-types-in-python)    [](https://github.com/gurezende/Studying/tree/master/Python/errors)  
+<https://www.tutorialsteacher.com/python/error-types-in-python>    <https://github.com/gurezende/Studying/tree/master/Python/errors>  
 
 如果这个内容有意思就关注我吧。
 
-[](https://gustavorsantos.medium.com/)  
+<https://gustavorsantos.medium.com/>  
 
 如果你想订阅 Medium，这里有[我的推荐链接](https://gustavorsantos.medium.com/membership)。

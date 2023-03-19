@@ -16,7 +16,7 @@ ello 世界！在这篇文章中，我将介绍一个简单的指南，如何将
 
 我不会关注用脚本编写代码的好处，也不会试图比较这两种方法，因为笔记本和脚本各有利弊。如果你想知道为什么你应该作出改变，这篇文章可能会提供更多的清晰度。
 
-[](/5-reasons-why-you-should-switch-from-jupyter-notebook-to-scripts-cb3535ba9c95)  
+</5-reasons-why-you-should-switch-from-jupyter-notebook-to-scripts-cb3535ba9c95>  
 
 我已经创建了一个演示库来对从 [Kaggle](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata) 获得的信用卡数据集执行聚类分析。我将在整篇文章中使用这个存储库来分享示例片段。
 
@@ -72,7 +72,7 @@ $ tree.
 
 下面的文章提供了一个如何重构你的笔记本的惊人总结。
 
-[](https://www.thoughtworks.com/en-sg/insights/blog/coding-habits-data-scientists)  
+<https://www.thoughtworks.com/en-sg/insights/blog/coding-habits-data-scientists>  
 
 **预处理**
 
@@ -96,7 +96,7 @@ kmeans = kmeans_model(df) # instantiate kmeans modelkmeans_models = kmeans.kmean
 
 由 Sadrach Pierre 撰写的这篇文章对如何在构建模型时利用类进行了广泛的阐述。
 
-[](/using-classes-for-machine-learning-2ed6c0713305)  
+</using-classes-for-machine-learning-2ed6c0713305>  
 
 ## 执行管道
 
@@ -129,4 +129,4 @@ python3 main.py another_config.yml --model=dbscan
 
 ## 参考
 
-[](/from-jupyter-notebook-to-sc-582978d3c0c)  [](/from-jupyter-notebook-to-deployment-a-straightforward-example-1838c203a437) 
+</from-jupyter-notebook-to-sc-582978d3c0c>  </from-jupyter-notebook-to-deployment-a-straightforward-example-1838c203a437> 

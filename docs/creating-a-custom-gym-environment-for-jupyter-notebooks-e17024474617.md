@@ -172,7 +172,7 @@ self.action_space **=** gym.spaces.Discrete(5)
 
 健身房界面定义了几个不同的' [***空格***](https://gymnasium.farama.org/api/spaces/#spaces) '可以用来指定我们的坐标。例如，如果我们的坐标在连续的地方，浮点值我们可以用 [*框空格*](https://gymnasium.farama.org/api/spaces/fundamental/#box) *。*这也将让我们对可用于“ *x* ”和“ *y* ”坐标的值的可能范围进行限制。此外，我们可以使用 [*Gym 的字典空间*](https://gymnasium.farama.org/api/spaces/composite/#dict) 将这些组合起来，形成环境观察空间的单一表达。
 
-然而，由于我们只允许从一个方块整体移动到下一个方块(而不是在两个方块之间移动一半)，我们将用整数指定网格坐标。因此，与动作空间一样，我们将使用一组离散的值。但是现在，不是只有一个离散值，而是有两个:分别对应“ *x* 和“ *y* ”坐标。幸运的是，Gym 界面正好有这个东西，即[](https://gymnasium.farama.org/api/spaces/fundamental/#multidiscrete)*。*
+然而，由于我们只允许从一个方块整体移动到下一个方块(而不是在两个方块之间移动一半)，我们将用整数指定网格坐标。因此，与动作空间一样，我们将使用一组离散的值。但是现在，不是只有一个离散值，而是有两个:分别对应“ *x* 和“ *y* ”坐标。幸运的是，Gym 界面正好有这个东西，即<https://gymnasium.farama.org/api/spaces/fundamental/#multidiscrete>*。*
 
 *在水平方向上，最大' *x* '位置由网格的宽度限定，在垂直' *y* '方向上由网格的高度限定。因此，观察空间可以定义如下:*
 
@@ -375,14 +375,14 @@ cd BabyRobotGym**
 
 *在我们的例子中，我们想要创建一个婴儿机器人可以探索的网格世界环境。此外，我们希望能够图形化地查看这个环境，并观察机器人宝宝在周围移动。在第二部分 中，我们将看到这是如何实现的。*
 
-*[](/creating-a-custom-gym-environment-for-jupyter-notebooks-e8718f36547b) * *![](img/5b3a6c07fb3fc34b11b265f9ccf4e249.png)*
+*</creating-a-custom-gym-environment-for-jupyter-notebooks-e8718f36547b> * *![](img/5b3a6c07fb3fc34b11b265f9ccf4e249.png)*
 
 # *参考资料:*
 
 1.  *体育馆图书馆:*
 
-*[](https://gymnasium.farama.org/)  
+*<https://gymnasium.farama.org/>  
 
 而完整系列的婴儿机器人强化学习指南可以在 [***这里***](https://towardsdatascience.com/tagged/baby-robot-guide) …
 
-[](/state-values-and-policy-evaluation-ceefdd8c2369) *
+</state-values-and-policy-evaluation-ceefdd8c2369> *

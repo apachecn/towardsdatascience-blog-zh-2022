@@ -187,7 +187,7 @@ type3      29  5058  3.426289      type3      1
 
 # **如果你喜欢这篇文章，这里有一些你可能喜欢的其他文章:**
 
-**[](/how-to-crack-spotify-data-science-technical-screen-interview-23f0f7205928)  [](/fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7)  [](/simple-and-complet-guide-to-a-b-testing-c34154d0ce5a)  [](/monte-carlo-simulation-and-variants-with-python-43e3e7c59e1f)  [](https://tatev-aslanyan.medium.com/bias-variance-trade-off-in-machine-learning-7f885355e847)  [](https://tatev-aslanyan.medium.com/data-sampling-methods-in-python-a4400628ea1b)  [](https://medium.com/analytics-vidhya/pyspark-cheat-sheet-big-data-analytics-161a8e1f6185)  
+**</how-to-crack-spotify-data-science-technical-screen-interview-23f0f7205928>  </fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7>  </simple-and-complet-guide-to-a-b-testing-c34154d0ce5a>  </monte-carlo-simulation-and-variants-with-python-43e3e7c59e1f>  <https://tatev-aslanyan.medium.com/bias-variance-trade-off-in-machine-learning-7f885355e847>  <https://tatev-aslanyan.medium.com/data-sampling-methods-in-python-a4400628ea1b>  <https://medium.com/analytics-vidhya/pyspark-cheat-sheet-big-data-analytics-161a8e1f6185>  
 
 ***感谢阅读***
 

@@ -60,7 +60,7 @@
 
 威布尔分布的 PDF 可以使用变量转换方法从指数分布中导出，如我以前的文章[中所述](/stat-stories-variable-transformation-to-generate-new-distributions-d4607cb32c30)
 
-[](/stat-stories-variable-transformation-to-generate-new-distributions-d4607cb32c30)  
+</stat-stories-variable-transformation-to-generate-new-distributions-d4607cb32c30>  
 
 备注:威布尔分布和伽马分布的区别在于，在伽马分布中， *y* 在指数中有一个线性项，而在威布尔分布中，有 y 的幂 *γ。*
 
@@ -104,4 +104,4 @@
 
 在本文中，我讨论了连续分布族。本文的第 1 部分可以在 https://towards data science . com/stat-stories-common-families-of-statistical-distributions-part-1-2b 704 DD 6a 808 上找到。理解这种分布的用例超出了对统计学的理论理解，可以用于合成数据生成、拟合给定数据的分布，甚至估计一些感兴趣的参数。当我们不得不使用混合建模时，经常会出现这样的情况:可以使用分段函数将分布的组合用于数据建模。一个这样的例子是高斯混合建模。请继续关注，在未来的文章中了解更多这方面的内容。
 
-> 如果你喜欢我的作品，并想支持我创作高质量的内容，我请求你通过 https://rahulbhadani.medium.com/membership 的[](https://rahulbhadani.medium.com/membership)**订阅 Medium。虽然只是 5 美元/月，但对我有很大的帮助，因为 Medium 支付你的订阅费的一部分给作家。**
+> 如果你喜欢我的作品，并想支持我创作高质量的内容，我请求你通过 https://rahulbhadani.medium.com/membership 的<https://rahulbhadani.medium.com/membership>**订阅 Medium。虽然只是 5 美元/月，但对我有很大的帮助，因为 Medium 支付你的订阅费的一部分给作家。**

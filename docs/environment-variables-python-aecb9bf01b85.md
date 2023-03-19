@@ -153,8 +153,8 @@ os.environ.pop('ENV', None)
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读媒介上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership)  
+<https://gmyrianthous.medium.com/membership>  
 
 **相关文章你可能也喜欢**
 
-[](/16-must-know-bash-commands-for-data-scientists-d8263e990e0e)  [](/setuptools-python-571e7d5500f2)  [](https://betterprogramming.pub/kafka-cli-commands-1a135a4ae1bd) 
+</16-must-know-bash-commands-for-data-scientists-d8263e990e0e>  </setuptools-python-571e7d5500f2>  <https://betterprogramming.pub/kafka-cli-commands-1a135a4ae1bd> 

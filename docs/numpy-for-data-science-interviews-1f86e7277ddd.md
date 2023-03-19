@@ -507,4 +507,4 @@ list01 + list02
 
 和其他技能一样，耐心、坚持和练习是提高的关键。如果你想在实际的数据科学面试中实践这些以及更多现实生活中的问题，请立即加入 StrataScratch。您将发现一个由 20，000 多名志同道合的数据科学爱好者组成的社区，并在解决 500 多个不同难度的编码和非编码问题的同时进行学习。今天就注册，让你在微软、谷歌、亚马逊等顶级科技公司或优步、Doordash 等热门初创公司工作的梦想成为现实。所有的代码示例都可以在 [Github 这里](https://github.com/viveknest/statascratch-solutions/blob/main/NumPy%20for%20Data%20Science%20Part%2001.ipynb)找到。
 
-【https://www.stratascratch.com】最初发表于[](https://www.stratascratch.com/blog/numpy-for-data-science-interviews/?utm_source=blog&utm_medium=click&utm_campaign=medium)**。**
+【https://www.stratascratch.com】最初发表于<https://www.stratascratch.com/blog/numpy-for-data-science-interviews/?utm_source=blog&utm_medium=click&utm_campaign=medium>**。**

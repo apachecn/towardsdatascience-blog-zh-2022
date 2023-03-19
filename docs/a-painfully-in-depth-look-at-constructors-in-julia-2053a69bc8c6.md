@@ -14,7 +14,7 @@
 
 类型当然需要构造函数来创建，掌握构造函数与掌握构造函数概念同等重要，甚至更重要。Julia 也有一个相当健壮的类型系统，人们肯定会想利用它，有了它，构造函数也是健壮的，这是一件很棒的事情。今天，我想认真研究一下构造函数，并详细说明人们需要了解的关于它们的所有信息。Julia 中的构造函数可能与人们可能习惯的构造函数有很大不同，可以理解的是，它们的工作方式可能有点难以想象。幸运的是，我已经为您做好了准备，如果这篇文章还有一些不足之处，我的代码也可以在笔记本上找到，您可以在这里查看:
 
-[](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/All%20about%20constructors.ipynb)  
+<https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/All%20about%20constructors.ipynb>  
 
 此外，如果你更愿意以视频的形式来看这个(尽管细节不多)，这里有一个我去年制作的视频，它讲述了一些概念:
 
@@ -38,7 +38,7 @@ fieldnames(IsMutable)(:x,) w = IsMutable(5)w.x5
 
 这属于 Julia 中运行时自省的范畴，如果您想了解更多，我有一整篇关于这个主题的文章，因为它非常有用:
 
-[](/runtime-introspection-julias-most-powerful-best-kept-secret-bf845e282367)  
+</runtime-introspection-julias-most-powerful-best-kept-secret-bf845e282367>  
 
 ```
 mutable struct IsMutable

@@ -92,7 +92,7 @@ f 检验提供了一种检查所有自变量的方法，如果其中任何一个
 
 AIC(代表由日本统计学家 Hirotugo Akaike 开发的 Akaike 信息标准)和 BIC(代表贝叶斯信息标准)也被用作模型稳健性的标准。目标是最小化这些值以获得更好的模型。我在另一篇文章中讨论了这些话题。
 
-[](/simple-stepwise-and-weighted-regression-model-53a31d9e4746)  
+</simple-stepwise-and-weighted-regression-model-53a31d9e4746>  
 
 > **综合与 Prob(综合)**
 
@@ -124,4 +124,4 @@ Jarque-Bera (JB)和 Prob(JB)类似于测量残差正态性的 Omni 测试。
 
 [Youtube 频道](https://www.youtube.com/watch?v=9RzmWGtIdwY)
 
-[](https://mdsohel-mahmood.medium.com/membership) 
+<https://mdsohel-mahmood.medium.com/membership> 

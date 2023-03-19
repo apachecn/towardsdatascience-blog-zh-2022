@@ -252,4 +252,4 @@ plt.show()
 
 # 相关文章
 
-[](https://pub.towardsai.net/are-data-journalism-and-data-science-the-same-thing-77ba7ec794d4)  [](https://alod83.medium.com/how-to-design-a-data-journalism-story-b2e421673b6e)  [](/why-a-data-scientist-needs-to-also-be-a-storyteller-89b4636cb83) 
+<https://pub.towardsai.net/are-data-journalism-and-data-science-the-same-thing-77ba7ec794d4>  <https://alod83.medium.com/how-to-design-a-data-journalism-story-b2e421673b6e>  </why-a-data-scientist-needs-to-also-be-a-storyteller-89b4636cb83> 

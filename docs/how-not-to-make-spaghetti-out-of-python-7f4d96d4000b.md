@@ -45,7 +45,7 @@ def hello(x, y, anexample, anotherargument, anothername,   anothername, anothern
 
 如果您想更深入地分析和演示如何在代码中使用抽取技术来改进代码，我实际上有一整篇文章专门讨论这个主题。如果你想了解更多，你可以在这里阅读:
 
-[](/more-methods-means-better-code-1d3b237f6cf2) [## 更多的方法意味着更好的代码
+</more-methods-means-better-code-1d3b237f6cf2> [## 更多的方法意味着更好的代码
 
 towardsdatascience.com](/more-methods-means-better-code-1d3b237f6cf2) 
 

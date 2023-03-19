@@ -8,7 +8,7 @@
 
 本文跟随“*Python 矩阵代数基础|第 1 部分*”。它引入了更多的***矩阵代数**的基本概念*，并用一些 Python 代码来演示结果。
 
-[](/fundamentals-of-matrix-algebra-with-python-part-1-85aaa17e3632)  ![](img/25376d9c631c7114852188e7336d44ba.png)
+</fundamentals-of-matrix-algebra-with-python-part-1-85aaa17e3632>  ![](img/25376d9c631c7114852188e7336d44ba.png)
 
 照片由 [Dan Schiumarini](https://unsplash.com/@dan_schiumarini?utm_source=medium&utm_medium=referral) 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄
 
@@ -22,7 +22,7 @@
 
 这份关于矩阵的初步材料有助于探索更高级的主题，例如使用**状态空间**模型模拟动态系统。
 
-[](/modelling-dynamic-systems-in-python-92c14d4b35d3)  
+</modelling-dynamic-systems-in-python-92c14d4b35d3>  
 
 ## 1)跟踪
 
@@ -142,7 +142,7 @@ Gist 4 给出了执行这些操作所需的 Python 代码。
 
 建议*的下一个主题是*使用 Python 中的**高斯消去算法**求解线性方程组* 。*
 
-[](https://levelup.gitconnected.com/gaussian-elimination-algorithm-in-python-4e90cb3a0fd9)  [](https://medium.com/@andrewdaviesul/membership)  
+<https://levelup.gitconnected.com/gaussian-elimination-algorithm-in-python-4e90cb3a0fd9>  <https://medium.com/@andrewdaviesul/membership>  
 
 感谢阅读。
 

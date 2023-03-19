@@ -18,7 +18,7 @@
 
 让我们继续使用我以前的文章“[假设检验的交互式指南](/an-interactive-guide-to-hypothesis-testing-in-python-979f4d62d85)”中的 t-test 例子来说明这些概念。
 
-[](/an-interactive-guide-to-hypothesis-testing-in-python-979f4d62d85)  
+</an-interactive-guide-to-hypothesis-testing-in-python-979f4d62d85>  
 
 *总结:我们使用了单尾双样本 t 检验来比较两个客户样本——接受活动优惠的客户和拒绝活动优惠的客户。*
 
@@ -116,7 +116,7 @@ recency_d = (m2 - m1)/pooled_sd
 
 ## 更多这样的文章
 
-[](/an-interactive-guide-to-hypothesis-testing-in-python-979f4d62d85)  ![Destin Gong](img/dcd4375055f8aa7602b1433a60ad5ca3.png)
+</an-interactive-guide-to-hypothesis-testing-in-python-979f4d62d85>  ![Destin Gong](img/dcd4375055f8aa7602b1433a60ad5ca3.png)
 
 [德斯坦贡](https://destingong.medium.com/?source=post_page-----1576968b587e--------------------------------)
 
@@ -130,4 +130,4 @@ recency_d = (m2 - m1)/pooled_sd
 
 [View list](https://destingong.medium.com/list/practical-guides-to-machine-learning-a877c2a39884?source=post_page-----1576968b587e--------------------------------)10 stories![Principal Component Analysis for ML](img/1edea120a42bd7dc8ab4a4fcdd5b822d.png)![Time Series Analysis](img/fda8795039b423777fc8e9d8c0dc0d07.png)![deep learning cheatsheet for beginner](img/b2a4e3806c454a795ddfae0b02828b30.png)
 
-*原载于 2022 年 5 月 8 日 https://www.visual-design.net*[](https://www.visual-design.net/post/statistical-power-in-hypothesis-testing)**。**
+*原载于 2022 年 5 月 8 日 https://www.visual-design.net*<https://www.visual-design.net/post/statistical-power-in-hypothesis-testing>**。**

@@ -201,6 +201,6 @@ TypeError: can only concatenate list (not "int") to list
 
 列表是 Python 中最常用的数据结构之一。因此，学习与列表交互的方法来创建健壮的程序是很重要的。在本文中，我们学习了如何通过添加新项目来修改列表。
 
-*你可以成为* [*媒介会员*](https://sonery.medium.com/membership) *解锁我的全部写作权限，外加其余媒介。如果你已经是了，别忘了订阅*[](https://sonery.medium.com/subscribe)**如果你想在我发表新文章时收到电子邮件。**
+*你可以成为* [*媒介会员*](https://sonery.medium.com/membership) *解锁我的全部写作权限，外加其余媒介。如果你已经是了，别忘了订阅*<https://sonery.medium.com/subscribe>**如果你想在我发表新文章时收到电子邮件。**
 
 *感谢您的阅读。如果您有任何反馈，请告诉我。*

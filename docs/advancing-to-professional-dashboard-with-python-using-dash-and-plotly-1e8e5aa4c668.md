@@ -158,7 +158,7 @@ def display_page(pathname):
 
 你可以使用元标签来执行 SEO，一些重要的标签包括标题标签、元描述标签和社交媒体元标签。这些标签不仅能与搜索引擎交流，还能让你的网络应用程序的 URL 更易于共享！我的 web 应用程序就是一个例子，如下所示
 
-[](https://kayjan.fly.dev)  
+<https://kayjan.fly.dev>  
 
 下面的代码示例展示了如何将 meta 标签添加到 Dash 应用程序中。请注意，必须为谷歌(以`og:`开头的标签)和 Twitter(以`twitter:`开头的标签)分别添加重复的标签。
 

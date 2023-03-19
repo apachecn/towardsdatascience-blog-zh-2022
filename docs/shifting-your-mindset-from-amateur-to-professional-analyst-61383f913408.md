@@ -69,7 +69,7 @@
 
 > 确认偏差意味着我们都可以看到同一个数字，并对它有不同的理解。事实不再仅仅是事实。
 
-[](http://bit.ly/quaesita_confirmation)****确认偏见是一个微妙的怪物:即使你接触到与你的观点不一致的信息，你也可能不会接受。你可能会记错。你可能会找到忽略它的理由。你将继续挖掘，直到你看到的数字是你想看到的。头脑就是那样滑稽。****
+<http://bit.ly/quaesita_confirmation>****确认偏见是一个微妙的怪物:即使你接触到与你的观点不一致的信息，你也可能不会接受。你可能会记错。你可能会找到忽略它的理由。你将继续挖掘，直到你看到的数字是你想看到的。头脑就是那样滑稽。****
 
 ****![](img/17715c5856d19d7521e6f22d383e9a8a.png)****
 
@@ -130,11 +130,11 @@
 
 # *****本系列的前几篇文章*****
 
-*****[](/thinking-of-becoming-a-data-analyst-youre-already-one-5773b63ae83b)  [](/becoming-a-real-data-analyst-dcaf5f48bc34)  
+*****</thinking-of-becoming-a-data-analyst-youre-already-one-5773b63ae83b>  </becoming-a-real-data-analyst-dcaf5f48bc34>  
 
 # 本系列的下一篇文章
 
-[](https://kozyrkov.medium.com/how-to-form-realistic-expectations-about-data-622e85ab62cb)  
+<https://kozyrkov.medium.com/how-to-form-realistic-expectations-about-data-622e85ab62cb>  
 
 *附言:你有没有试过在 Medium 上不止一次点击这里的鼓掌按钮，看看会发生什么？* ❤️
 

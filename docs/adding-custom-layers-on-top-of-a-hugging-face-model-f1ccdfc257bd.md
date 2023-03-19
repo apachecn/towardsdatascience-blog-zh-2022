@@ -41,7 +41,7 @@
 
 # 跳入代码！
 
-**我们的任务很简单，讥讽检测来自 Kaggle 的**[](https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection)****数据集。****
+**我们的任务很简单，讥讽检测来自 Kaggle 的**<https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection>****数据集。****
 
 ****你可以在这里** **查看完整代码** [**。出于时间的考虑，我没有包括下面的预处理和一些训练细节，所以请确保查看笔记本以获得完整的代码。**](https://jovian.ai/rajbsangani/emotion-tuned-sarcasm)**
 
@@ -83,7 +83,7 @@
 
 **如果你喜欢这个，这里还有一些！**
 
-**[](/interpreting-an-lstm-through-lime-e294e6ed3a03)  [](/locality-sensitive-hashing-in-nlp-1fb3d4a7ba9f)  [](/dealing-with-features-that-have-high-cardinality-1c9212d7ff1b)  [](/powerful-text-augmentation-using-nlpaug-5851099b4e97)  [](/regex-essential-for-nlp-ee0336ef988d)  
+**</interpreting-an-lstm-through-lime-e294e6ed3a03>  </locality-sensitive-hashing-in-nlp-1fb3d4a7ba9f>  </dealing-with-features-that-have-high-cardinality-1c9212d7ff1b>  </powerful-text-augmentation-using-nlpaug-5851099b4e97>  </regex-essential-for-nlp-ee0336ef988d>  
 
 # 参考
 

@@ -134,4 +134,4 @@ If I’ve inspired you to join medium I would be really grateful if you did it t
 
 以下是我写的其他一些东西:
 
-[](/econometrics-is-the-original-data-science-6725d3f0d843)  [](/how-to-easily-show-your-matplotlib-plots-and-pandas-dataframes-dynamically-on-your-website-a9613eff7ae3)  [](/how-to-easily-run-python-scripts-on-website-inputs-d5167bd4eb4b) 
+</econometrics-is-the-original-data-science-6725d3f0d843>  </how-to-easily-show-your-matplotlib-plots-and-pandas-dataframes-dynamically-on-your-website-a9613eff7ae3>  </how-to-easily-run-python-scripts-on-website-inputs-d5167bd4eb4b> 

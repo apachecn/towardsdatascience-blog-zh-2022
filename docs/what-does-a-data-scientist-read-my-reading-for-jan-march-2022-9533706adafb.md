@@ -112,7 +112,7 @@
 
 至少在更多的地方。
 
-[](https://www.bbc.co.uk/news/technology-61155735)  
+<https://www.bbc.co.uk/news/technology-61155735>  
 
 BBC 的这篇新闻报道了高速公路法规正在被修改的事实，这样自动驾驶汽车的司机就可以看电视了。尽管如此，使用手机仍然是非法的。
 

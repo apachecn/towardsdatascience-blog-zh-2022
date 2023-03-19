@@ -54,6 +54,6 @@
 
 ***有兴趣阅读更多关于数据科学的职业？这里有一些你可能会感兴趣的文章:***
 
-[](/why-i-joined-mckinsey-as-a-data-scientist-2fb3b586fd0d)  [](/5-lessons-mckinsey-taught-me-that-will-make-you-a-better-data-scientist-66cd9cc16aba) [## 麦肯锡教给我的 5 条经验将使你成为更好的数据科学家
+</why-i-joined-mckinsey-as-a-data-scientist-2fb3b586fd0d>  </5-lessons-mckinsey-taught-me-that-will-make-you-a-better-data-scientist-66cd9cc16aba> [## 麦肯锡教给我的 5 条经验将使你成为更好的数据科学家
 
-towardsdatascience.com](/5-lessons-mckinsey-taught-me-that-will-make-you-a-better-data-scientist-66cd9cc16aba) [](/5-mistakes-i-wish-i-had-avoided-in-my-data-science-career-6c22a44304a1) 
+towardsdatascience.com](/5-lessons-mckinsey-taught-me-that-will-make-you-a-better-data-scientist-66cd9cc16aba) </5-mistakes-i-wish-i-had-avoided-in-my-data-science-career-6c22a44304a1> 

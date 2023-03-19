@@ -16,11 +16,11 @@
 
 因此，我决定列出最重要的几个，并简要地解释它们，这样您就可以在一篇文章中极大地扩展您的 Sklearn 工具集。尽情享受吧！
 
-[](https://ibexorigin.medium.com/membership)  
+<https://ibexorigin.medium.com/membership>  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex)  
+<https://alphasignal.ai/?referrer=Bex>  
 
 ## 1️⃣.[协方差。椭圆包络线](https://scikit-learn.org/stable/modules/generated/sklearn.covariance.EllipticEnvelope.html#sklearn.covariance.EllipticEnvelope)
 
@@ -38,7 +38,7 @@
 
 我已经写了一整篇关于这种算法的文章，涵盖了它如何与现实世界的数据集一起工作的基本细节:
 
-[](/powerful-feature-selection-with-recursive-feature-elimination-rfe-of-sklearn-23efb2cdb54e)  
+</powerful-feature-selection-with-recursive-feature-elimination-rfe-of-sklearn-23efb2cdb54e>  
 
 ## 3️⃣.[合奏。树外](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.ExtraTreesRegressor.html)
 
@@ -64,7 +64,7 @@
 
 您可以在我的另一篇文章中了解更多关于这两种插补技术的信息:
 
-[](/going-beyond-the-simpleimputer-for-missing-data-imputation-dd8ba168d505)  
+</going-beyond-the-simpleimputer-for-missing-data-imputation-dd8ba168d505>  
 
 ## 5️⃣.[线性 _ 模型。休伯回归量](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.HuberRegressor.html)
 
@@ -126,7 +126,7 @@ Sklearn 中另一个基于模型的特征选择估计器是`SelectFromModel`。�
 
 您可以从这篇文章中了解关于分类和混淆矩阵的所有内容:
 
-[](/how-to-tune-models-like-a-puppet-master-based-on-confusion-matrix-fd488f9b5e65)  
+</how-to-tune-models-like-a-puppet-master-based-on-confusion-matrix-fd488f9b5e65>  
 
 ## 🔟。[广义线性模型](https://scikit-learn.org/stable/modules/linear_model.html#generalized-linear-regression)
 
@@ -168,7 +168,7 @@ Sklearn 中另一个基于模型的特征选择估计器是`SelectFromModel`。�
 
 偏斜没了！您可以在此阅读有关不同类型的要素变换的更多信息:
 
-[](/how-to-differentiate-between-scaling-normalization-and-log-transformations-69873d365a94)  
+</how-to-differentiate-between-scaling-normalization-and-log-transformations-69873d365a94>  
 
 ## 1️⃣3️⃣.[预处理。鲁棒定标器](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.RobustScaler.html)
 
@@ -212,7 +212,7 @@ Sklearn 内置了 50 多个指标，在`sklearn.metrics.SCORERS.keys`中可以�
 
 快了多少？在我做过的实验中，HalvingGridSearch 比常规 GridSearch 快 11 倍，HalvingRandomSearch 甚至比 HalvingGridSearch 快 10 倍。你可以从这里阅读我对连续减半的详细概述和我的实验:
 
-[](/11-times-faster-hyperparameter-tuning-with-halvinggridsearch-232ed0160155)  
+</11-times-faster-hyperparameter-tuning-with-halvinggridsearch-232ed0160155>  
 
 ## 1️⃣9️⃣. [sklearn.utils](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.utils)
 
@@ -228,4 +228,4 @@ Sklearn 内置了 50 多个指标，在`sklearn.metrics.SCORERS.keys`中可以�
 
 感谢阅读！
 
-[](https://ibexorigin.medium.com/membership)  [](/complete-guide-to-experiment-tracking-with-mlflow-and-dagshub-a0439479e0b9)  [](/6-grievous-sklearn-mistakes-that-give-no-error-messages-dc8748fbc37d) 
+<https://ibexorigin.medium.com/membership>  </complete-guide-to-experiment-tracking-with-mlflow-and-dagshub-a0439479e0b9>  </6-grievous-sklearn-mistakes-that-give-no-error-messages-dc8748fbc37d> 

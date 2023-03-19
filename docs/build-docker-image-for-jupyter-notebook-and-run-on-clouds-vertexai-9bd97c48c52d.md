@@ -49,7 +49,7 @@ df.to_csv('output.csv')
 
 如果还没有，您需要在开始构建 Docker 映像之前下载 Docker Desktop:
 
-[](https://www.docker.com/products/docker-desktop/)  
+<https://www.docker.com/products/docker-desktop/>  
 
 一旦下载了(在本例中是 Windows)版本，您只需打开应用程序即可启动 Docker Desktop:
 

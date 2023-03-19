@@ -153,7 +153,7 @@ SParC 是一个首字母缩写词，在⁴.代表[**s**emantic**par**sing](https
 
 感谢阅读！
 
-[](https://medium.com/@andreasmartinson/membership)  
+<https://medium.com/@andreasmartinson/membership>  
 
 **附加推荐阅读/资源:**
 

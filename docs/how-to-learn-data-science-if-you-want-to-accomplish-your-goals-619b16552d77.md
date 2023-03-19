@@ -118,7 +118,7 @@
 
 *   (付费)365 数据科学(年优惠 57%；这是一个附属链接):【https://365datascience.pxf.io/P0jbBY】T4
 *   (免费)[https://www.learnpython.org/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbF94ejhfTXVmSzZNLVA3SEpzd2RTa004cGxBZ3xBQ3Jtc0ttWkVVNUh0aGhoU0Z0Nk9iVERfejJLQTZTeUp3RF9EckpHYlJFSUtJWE51c21OcklKd0cxd3Q0elBPSi1WNHpMaEY5azg4TW5ycG8xTmVSNGYxS0pIT3RyUGhNbzMyUkYyZHg4ZWZPNEVKQVI3bUZDVQ&q=https%3A%2F%2Fwww.learnpython.org%2F)
-*   [](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFBFa1FJbGtab3g3cXlWVWxvbXdNcFhBLVRNd3xBQ3Jtc0tsVVlUOC1MUUdta3ZnTzRUOGt5QU0xSjY0Z1k1UHVXb3hHM25BVHFGT25RN0Qya3lDNjI3ZXNXRTZ4Znh4MnFMb0xBRzhRU2lHOXNzU1hObnprNll3M0o4Y1RlS2dRRUl1QXdsWFhldzhiSWtiWHRrVQ&q=https%3A%2F%2Fwww.python.org%2Fabout%2Fgettingstarted%2F)[(免费)](https://www.python.org/about/gettingstarted/)
+*   <https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFBFa1FJbGtab3g3cXlWVWxvbXdNcFhBLVRNd3xBQ3Jtc0tsVVlUOC1MUUdta3ZnTzRUOGt5QU0xSjY0Z1k1UHVXb3hHM25BVHFGT25RN0Qya3lDNjI3ZXNXRTZ4Znh4MnFMb0xBRzhRU2lHOXNzU1hObnprNll3M0o4Y1RlS2dRRUl1QXdsWFhldzhiSWtiWHRrVQ&q=https%3A%2F%2Fwww.python.org%2Fabout%2Fgettingstarted%2F>[(免费)](https://www.python.org/about/gettingstarted/)
 
 熊猫文献:[https://pandas.pydata.org/docs/](https://pandas.pydata.org/docs/)
 

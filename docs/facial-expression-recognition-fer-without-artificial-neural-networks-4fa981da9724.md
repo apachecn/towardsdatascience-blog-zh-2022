@@ -184,7 +184,7 @@ ROC AUC 和 ROC 曲线的形状显示了良好的预测模型。
 
 # 贮藏室ˌ仓库
 
-[](https://github.com/isaacarroyov/fer_without_ann)  
+<https://github.com/isaacarroyov/fer_without_ann>  
 
 # 关于我
 

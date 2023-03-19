@@ -321,4 +321,4 @@ Heroku 是一个云平台即服务。我们可以将应用程序部署到 heroku
 
 我很乐意在我写的其他博客上欢迎你，或者在 linkedin 或 twitter 上收到你的消息。
 
-[](/node-embeddings-for-beginners-554ab1625d98)  [](/testing-mock-requests-for-api-wrapper-752359807ad7)  [](/learn-git-branches-with-your-ml-project-7f58bdf1ae80) 
+</node-embeddings-for-beginners-554ab1625d98>  </testing-mock-requests-for-api-wrapper-752359807ad7>  </learn-git-branches-with-your-ml-project-7f58bdf1ae80> 

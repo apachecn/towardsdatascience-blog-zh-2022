@@ -157,11 +157,11 @@ PS:如果你喜欢数据可视化并愿意联系，我可以在 [LinkedIn](https
 
 **支持我！**
 
-[](https://nathanthandoko.medium.com/membership)  
+<https://nathanthandoko.medium.com/membership>  
 
 加入我的电子邮件列表，每当我发布新帖子时都会收到通知！
 https://nathanthandoko.medium.com/subscribe
 
 **查看我的其他文章:**
 
-[](/data-science-career-switch-is-masters-degree-worth-it-part-2-1110c3440e4b) 
+</data-science-career-switch-is-masters-degree-worth-it-part-2-1110c3440e4b> 

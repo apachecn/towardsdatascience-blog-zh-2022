@@ -14,7 +14,7 @@
 
 很明显，答案是使用 MLOps 平台，以及像特性库这样的工具。然而，当一个还没有到位时，建立一个需要时间，甚至更糟的是，从零开始建立它。在这种情况下，我们在等待的同时有什么可以做的吗？
 
-[](https://www.featurestore.org/what-is-a-feature-store)  
+<https://www.featurestore.org/what-is-a-feature-store>  
 
 任何事情都比花大量时间运行来自公司的所有请求的流程，而不是进一步开发您的数据处理或新功能/项目要好。
 
@@ -53,7 +53,7 @@ $ inotifywait -m /path/to/target/folder -e close_write -r |
 
 让我们假设我们有一个新工具，它运行一些文本规范化规则，然后用附加信息(如词性标记)注释文本。这些转换对于团队中的其他人或者其他团队执行的一些下游任务是必需的。
 
-[](/implementing-part-of-speech-tagging-for-english-words-using-viterbi-algorithm-from-scratch-9ded56b29133)  
+</implementing-part-of-speech-tagging-for-english-words-using-viterbi-algorithm-from-scratch-9ded56b29133>  
 
 然后，我们可以要求有新文本数据的人将它们添加到受监控的目录中，这个简单的脚本会在它们被添加到文件夹后立即处理它们。
 
@@ -71,4 +71,4 @@ $ inotifywait -m /path/to/target/folder -e close_write -r |
 
 # 更多来自我
 
-[](/3-common-bug-sources-and-how-to-avoid-them-182f9974d2ab)  [](/parse-dont-validate-f559372cca45)  [](/machine-translation-evaluation-with-cometinho-c89880731409) 
+</3-common-bug-sources-and-how-to-avoid-them-182f9974d2ab>  </parse-dont-validate-f559372cca45>  </machine-translation-evaluation-with-cometinho-c89880731409> 

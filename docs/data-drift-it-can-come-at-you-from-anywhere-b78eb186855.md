@@ -20,7 +20,7 @@
 
 *数据漂移监控模块在端到端 MLops 周期中的确切位置*在以下文章中有很好的描述。
 
-[](/essential-guide-to-machine-learning-model-monitoring-in-production-2fbb36985108)  
+</essential-guide-to-machine-learning-model-monitoring-in-production-2fbb36985108>  
 
 关于这个主题的许多文章讨论了输入分布的形状和统计特性。在本文中，我们将以(一个或多个)数据流为例，这些数据流以时间序列的形式进入 ML 模型，并可视化这些变化以清楚地理解这个概念。此外，我们还将讨论工业环境中一些不太明显的数据漂移来源。
 
@@ -106,8 +106,8 @@
 
 *缓解措施是什么？没有一个答案，这完全取决于行业和具体的应用领域。本文系统地介绍了其中的一些。读一读。*
 
-*[](/my-data-drifted-whats-next-how-to-handle-ml-model-drift-in-production-78719ef007b1) * 
+*</my-data-drifted-whats-next-how-to-handle-ml-model-drift-in-production-78719ef007b1> * 
 
 **喜欢这篇文章吗？成为* [***中等成员***](https://medium.com/@tirthajyoti/membership) *继续* ***无限制学习*** *。如果你使用下面的链接，我会收到你的一部分会员费，* ***而不需要你额外付费*** *。**
 
-*[](https://medium.com/@tirthajyoti/membership) *
+*<https://medium.com/@tirthajyoti/membership> *

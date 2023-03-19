@@ -33,7 +33,7 @@ Jupiter 笔记本是数据和 ml 从业者学习的第一批工具之一，用�
 
 在我攻读机器翻译博士学位期间，这也是我最喜欢的解决方案，也是我所知道的唯一解决方案。我用的是 [Nematus](https://github.com/EdinburghNLP/nematus) (当时还是基于 Theano！)、 [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py) 和 [Fairseq](https://github.com/pytorch/fairseq) ，以此顺序，在[分叉](https://github.com/mattiadg/FBK-Fairseq-ST) Fairseq 之前进行语音翻译支持。
 
-[](/getting-started-with-end-to-end-speech-translation-3634c35a6561)  
+</getting-started-with-end-to-end-speech-translation-3634c35a6561>  
 
 对我来说，主要的优势是使用基于社区的工具，快速实现最新的研究成果，从而更快地产生研究成果。
 
@@ -44,7 +44,7 @@ Jupiter 笔记本是数据和 ml 从业者学习的第一批工具之一，用�
 
 不幸的是，快速变化的框架问题的唯一解决方案是自己编写所有的深度学习操作。Marian-nmt 是我所知道的唯一一个这样做的工具，它的结果非常好，因为它可以优化代码的任何方面。缺点是它需要 C++技能，这在科学家中也不是很常见，并且可能需要更高的开发工作，而该工具是特定于一个应用领域(机器翻译)的。
 
-[](/how-fast-is-c-compared-to-python-978f18f474c7)  
+</how-fast-is-c-compared-to-python-978f18f474c7>  
 
 第二个问题:**所有权。**小型研究小组可以选择实用的方法，使用最适合他们需求的开源工具。我在读博士期间就是这么做的，这让我可以专注于我的研究，而不是软件开发。另一方面，无法控制主要工作工具的开发会隐藏巨大的成本。
 
@@ -78,7 +78,7 @@ Jupiter 笔记本是数据和 ml 从业者学习的第一批工具之一，用�
 
 最后，需要将它与 Keras 这样的高级工具进行比较。Keras 为整个深度学习生命周期提供了许多功能，也包括 Returnn 的优点。它们的设计是不同的，因为 Returnn 是一个独立的软件，而 Keras 是一个开发深度学习工具的框架。然后，Keras 将被用于构建特定任务的工具，回到我们上面提到的同样的问题，但是维护工作要少得多，因为它是由 Google 支持的开源软件。
 
-[](/getting-started-with-end-to-end-speech-translation-3634c35a6561)  
+</getting-started-with-end-to-end-speech-translation-3634c35a6561>  
 
 # 综合
 
@@ -102,7 +102,7 @@ Jupiter 笔记本是数据和 ml 从业者学习的第一批工具之一，用�
 
 在这篇文章中，我想分享另一种构建深度学习工具的选择，使用 Returnn 的例子，这是我所知道的唯一一个深度学习引擎。它展示了开发深度学习工具的另一种方式，这种方式在多个团队从事不同任务但在同一代码库上协作的环境中更有意义。
 
-[](/tips-for-reading-and-writing-an-ml-research-paper-a505863055cf)  
+</tips-for-reading-and-writing-an-ml-research-paper-a505863055cf>  
 
 # 中等会员
 

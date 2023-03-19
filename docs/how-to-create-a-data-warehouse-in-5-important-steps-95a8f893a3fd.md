@@ -84,7 +84,7 @@ H 作为众多复杂数据转换项目的一部分，我可以确认 85%的数�
 
 ****如果这些概念对你来说是陌生的——考虑阅读这篇文章:****
 
-****[](https://medium.com/geekculture/50-data-engineering-jargon-d94d07596a5a)  
+****<https://medium.com/geekculture/50-data-engineering-jargon-d94d07596a5a>  
 
 对于我们的例子，我们将创建一个简单的维度模型，包含事实(定量)和维度(定性)。
 
@@ -142,7 +142,7 @@ H 作为众多复杂数据转换项目的一部分，我可以确认 85%的数�
 
 ****如果你觉得这篇文章有帮助，请在下面留言告诉我。查看我在 Medium 上的其他帖子:****
 
-****[](https://medium.com/geekculture/25-terms-to-help-you-in-your-career-in-data-science-14ca681b0699)  
+****<https://medium.com/geekculture/25-terms-to-help-you-in-your-career-in-data-science-14ca681b0699>  
 
 如果您没有订阅 Medium，请考虑使用我的推荐链接订阅[。它比网飞便宜，而且客观上能更好地利用你的时间。](https://hanzalaqureshi.medium.com/membership)如果你使用我的链接，我会获得一小笔佣金，而你可以在 Medium 上获得无限的故事。
 

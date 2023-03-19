@@ -200,7 +200,7 @@
 
 ****此解决方案的完整源代码可在** [**此处**](https://github.com/AdroitAnandAI/ADAS-Collision-Avoidance-System-on-Indian-Roads) 获得**
 
-*****如有任何疑问或建议，可在此*** 联系我[](https://www.linkedin.com/in/ananduthaman/)**
+*****如有任何疑问或建议，可在此*** 联系我<https://www.linkedin.com/in/ananduthaman/>**
 
 # ***参考***
 

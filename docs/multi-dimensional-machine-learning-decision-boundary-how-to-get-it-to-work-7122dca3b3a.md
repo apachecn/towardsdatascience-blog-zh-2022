@@ -179,11 +179,11 @@ PCA vs TSNE(图片由作者提供)
 
 **每当我发布一个新的故事，请订阅保持通知。**
 
-**[](https://pranay-dave9.medium.com/subscribe)  
+**<https://pranay-dave9.medium.com/subscribe>  
 
 你也可以通过我的推荐链接加入 Medium
 
-[](https://pranay-dave9.medium.com/membership)  
+<https://pranay-dave9.medium.com/membership>  
 
 ## Youtube 频道
 

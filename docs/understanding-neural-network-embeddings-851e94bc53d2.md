@@ -151,4 +151,4 @@ Towhee 为`timm`和`transformers`维护包装器:
 
 如果这篇文章对你有帮助，请考虑在 Twitter 上关注我。在接下来的文章中，我将简要介绍相似性搜索和向量索引算法。敬请期待！
 
-*原载于 2022 年 4 月 30 日 https://frankzliu.com*[](https://frankzliu.com/blog/understanding-neural-network-embeddings)**。**
+*原载于 2022 年 4 月 30 日 https://frankzliu.com*<https://frankzliu.com/blog/understanding-neural-network-embeddings>**。**

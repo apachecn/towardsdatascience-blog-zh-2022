@@ -47,7 +47,7 @@
 
 由于您每个月需要执行这项任务超过 100 次，因此您正在寻找一个自动化流程的解决方案。
 
-[](http://samirsaci.com)  
+<http://samirsaci.com>  
 
 # 解决方法
 
@@ -69,7 +69,7 @@
 
 有关如何构建该解决方案的更多信息，
 
-[](https://www.samirsaci.com/build-excel-automation-tools-with-python/)  
+<https://www.samirsaci.com/build-excel-automation-tools-with-python/>  
 
 ## 用户接受度的问题
 
@@ -141,4 +141,4 @@ pip install xlsxwriter
 
 如果你对数据分析和供应链感兴趣，可以看看我的网站
 
-[](https://samirsaci.com) 
+<https://samirsaci.com> 

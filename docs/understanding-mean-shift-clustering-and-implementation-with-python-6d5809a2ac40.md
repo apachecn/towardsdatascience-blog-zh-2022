@@ -155,4 +155,4 @@ labels = ms.labels_
 
 ## 参考资料:
 
-[](https://scikit-learn.org/stable/auto_examples/cluster/plot_mean_shift.html#sphx-glr-auto-examples-cluster-plot-mean-shift-py)  [](https://en.wikipedia.org/wiki/Mean_shift) 
+<https://scikit-learn.org/stable/auto_examples/cluster/plot_mean_shift.html#sphx-glr-auto-examples-cluster-plot-mean-shift-py>  <https://en.wikipedia.org/wiki/Mean_shift> 

@@ -12,7 +12,7 @@
 
 在我以前的文章中，我们介绍了 [**马尔可夫属性**](https://en.wikipedia.org/wiki/Markov_property) 的概念，并将其发展为解释一个 [**马尔可夫链**](https://en.wikipedia.org/wiki/Markov_chain) **。**我建议现在的读者在阅读这篇文章之前先浏览一下那篇文章:
 
-[](/markov-chains-simply-explained-dc77836b47e3)  
+</markov-chains-simply-explained-dc77836b47e3>  
 
 然而，在坚果壳中，马尔可夫性质是当转移到下一个状态**的概率仅取决于当前状态**时。系统是 [**无记忆**](https://en.wikipedia.org/wiki/Memorylessness) **。**马尔可夫链是有限状态空间下马尔可夫性质下的时间离散变迁的**序列。**
 
@@ -93,6 +93,6 @@ LaTeX 中生成的方程。
 *   ***[*领英*](https://www.linkedin.com/in/egor-howell-092a721b3/) 👔***
 *   ***[*推特*](https://twitter.com/EgorHowell) 🖊***
 *   ***[*github*](https://github.com/egorhowell)*🖥****
-*   ****[](https://www.kaggle.com/egorphysics)**🏅******
+*   ****<https://www.kaggle.com/egorphysics>**🏅******
 
 > *****(所有表情符号都是由 [OpenMoji](https://openmoji.org/) 设计的——开源的表情符号和图标项目。许可证: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)*****

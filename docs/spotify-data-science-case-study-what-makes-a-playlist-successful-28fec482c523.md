@@ -51,17 +51,17 @@ Spotify 最终面试阶段的一个主要部分是要求应聘者为虚拟演示
 
 *如果你想学习或更新基本的统计学概念，你可以看看这篇文章:*
 
-[](/fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7)  
+</fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7>  
 
 **提示:**准备回答 **A/B 测试**相关问题。
 
 要解决这个问题，你需要知道的关于 A/B 测试的一切都可以在这里找到:
 
-[](/simple-and-complet-guide-to-a-b-testing-c34154d0ce5a)  
+</simple-and-complet-guide-to-a-b-testing-c34154d0ce5a>  
 
 如果你正处于面试过程的早期阶段，以下是我之前的博客，它将帮助你**破解 Spotify 数据科学的技术屏障**。
 
-[](/how-to-crack-spotify-data-science-technical-screen-interview-23f0f7205928)  
+</how-to-crack-spotify-data-science-technical-screen-interview-23f0f7205928>  
 
 > 关于这个话题的更多内容，你可以在 Glassdoor.com[阅读](https://www.glassdoor.nl/Sollicitatiegesprek/Spotify-Data-Scientist-Sollicitatievragen-EI_IE408251.0,7_KO8,22.htm)
 
@@ -582,7 +582,7 @@ plt.show()
 
 # 如果你喜欢这篇文章，这里有一些你可能喜欢的其他文章:
 
-[](/how-to-crack-spotify-data-science-technical-screen-interview-23f0f7205928)  [](/bias-variance-trade-off-overfitting-regularization-in-machine-learning-d79c6d8f20b4)  [](https://tatev-aslanyan.medium.com/data-sampling-methods-in-python-a4400628ea1b)  [](/monte-carlo-simulation-and-variants-with-python-43e3e7c59e1f)  [](https://levelup.gitconnected.com/predicting-bitcoins-price-with-recurrent-neural-networks-a27b4d2d839)  
+</how-to-crack-spotify-data-science-technical-screen-interview-23f0f7205928>  </bias-variance-trade-off-overfitting-regularization-in-machine-learning-d79c6d8f20b4>  <https://tatev-aslanyan.medium.com/data-sampling-methods-in-python-a4400628ea1b>  </monte-carlo-simulation-and-variants-with-python-43e3e7c59e1f>  <https://levelup.gitconnected.com/predicting-bitcoins-price-with-recurrent-neural-networks-a27b4d2d839>  
 
 ***感谢阅读***
 

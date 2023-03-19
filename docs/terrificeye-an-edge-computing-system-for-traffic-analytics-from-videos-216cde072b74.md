@@ -84,13 +84,13 @@ fallocate -l 4G /mnt/sd-card/swapfilechmod 600 /mnt/sd-card/swapfilemkswap /mnt/
 
 Wifi 适配器没有预建的驱动程序，所以我必须从源代码中构建它。我从下面的链接下载了源代码，然后编译了内核模块和 linux 内核源代码，然后将驱动程序加载到正在运行的内核中。
 
-[](https://www.tp-link.com/us/support/download/tl-wn725n/)  
+<https://www.tp-link.com/us/support/download/tl-wn725n/>  
 
 **检测&跟踪**
 
 驱动和库编译成功后，真正有趣的远景部分来了。一个好的分析系统的支柱是对象检测和跟踪系统。在这篇文章中，我选择了最新版本的 YOLOv4(你只看一次)来检测对象。经典的 YOLO 网络在 Jetson TK1 上不是实时的，所以我用 YOLO·泰尼来做这项工作。它给出了令人满意的 15fps 检测，这意味着我可以实时运行系统来生成分析。我从以下来源编译了 YOLO 实现:
 
-[](https://github.com/AlexeyAB/darknet)  
+<https://github.com/AlexeyAB/darknet>  
 
 > 注:由于与 CUDA 6.5 和 *gcc* 版本不兼容，在编译过程中出现了一些问题。为了编译成功，需要对暗网的源代码做一些改动。
 
@@ -106,7 +106,7 @@ Wifi 适配器没有预建的驱动程序，所以我必须从源代码中构建
 
 在成功检测和跟踪道路场景中的有趣/相关对象后，是时候生成分析了。为了简单起见，我计算了所选感兴趣对象的*入站流量计数*、*出站流量计数*和*类别计数*。通过检测图像中指定位置的线交叉来计算流入和流出。这些统计数据对于初始演示应该足够了，更复杂的分析可以在系统更新时进行计算。除了自己收集的交通场景视频，我还使用了*麻省理工学院的交通数据集*进行评估。
 
-[](https://mmlab.ie.cuhk.edu.hk/datasets/mit_traffic/index.html)  
+<https://mmlab.ie.cuhk.edu.hk/datasets/mit_traffic/index.html>  
 
 **结论**
 

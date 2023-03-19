@@ -62,6 +62,6 @@
 *   为此，训练所谓的条件随机场，其根据序列执行分类。
 *   一个好的 NER 模型的特点是对变量的识别和对实体的良好划分。
 
-*如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
+*如果你喜欢我的作品，请在这里订阅*<https://medium.com/subscribe/@niklas_lang>**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
 
-*[](/introduction-to-apache-hadoop-distributed-file-system-99cb98d175c)  [](/stemming-vs-lemmatization-in-nlp-dea008600a0)  [](/why-you-should-know-big-data-3c0c161b9e14) *
+*</introduction-to-apache-hadoop-distributed-file-system-99cb98d175c>  </stemming-vs-lemmatization-in-nlp-dea008600a0>  </why-you-should-know-big-data-3c0c161b9e14> *

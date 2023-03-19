@@ -44,7 +44,7 @@
 
 *如有必要，复习这篇[介值定理](https://medium.com/@andrewdaviesul/checking-if-a-solution-exists-intermediate-value-theorem-53d85890350)文章。*
 
-*[](https://medium.com/@andrewdaviesul/checking-if-a-solution-exists-intermediate-value-theorem-53d85890350)  
+*<https://medium.com/@andrewdaviesul/checking-if-a-solution-exists-intermediate-value-theorem-53d85890350>  
 
 设 *x₀* 和 *x₁* 为估计区间的起点和终点。然后，用等式 2 计算出*【x₀，x₁】*之间的中点( *x₂* )。
 
@@ -76,7 +76,7 @@
 
 **x₀* 和 *x₁* 是区间起点和终点，例如*【1，2】。**
 
-*[](https://scicomp.stackexchange.com/questions/16458/deriving-the-error-bound-for-bisection-method)  
+*<https://scicomp.stackexchange.com/questions/16458/deriving-the-error-bound-for-bisection-method>  
 
 使用 Gist 3 中的 Python 代码实现该等式。
 
@@ -142,7 +142,7 @@
 
 *如果你对 *Python* 、*工程学*和*数据科学*感兴趣，请关注并查看我的其他文章。*
 
-*[](https://medium.com/@andrewdaviesul/membership)  [](/fundamentals-of-matrix-algebra-with-python-part-1-85aaa17e3632)  
+*<https://medium.com/@andrewdaviesul/membership>  </fundamentals-of-matrix-algebra-with-python-part-1-85aaa17e3632>  
 
 ## 参考
 

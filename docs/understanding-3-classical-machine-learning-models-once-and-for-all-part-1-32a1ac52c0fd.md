@@ -219,7 +219,7 @@ w = [-0.2630  -2.1721  40.4175  27.8334]
 
 训练数据被映射到一个 3 维空间，在那里可以容易地找到一个分离的判定边界。|图片出自[纪——自己的作品](https://commons.wikimedia.org/w/index.php?curid=60458994)
 
-但是我们还有另一个问题。SVM 和许多其他机器学习模型可以用点积来表示，在高维映射数据中求解点积是非常昂贵的。幸运的是，我们有锦囊妙计:内核技巧[](https://en.wikipedia.org/wiki/Kernel_method)*。*
+但是我们还有另一个问题。SVM 和许多其他机器学习模型可以用点积来表示，在高维映射数据中求解点积是非常昂贵的。幸运的是，我们有锦囊妙计:内核技巧<https://en.wikipedia.org/wiki/Kernel_method>*。*
 
 *![](img/3e843760c089ae20d1edadbfc883feb0.png)*
 

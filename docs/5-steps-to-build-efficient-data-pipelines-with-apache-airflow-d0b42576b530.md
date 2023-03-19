@@ -160,7 +160,7 @@ BashOperator 使用的 bash 脚本如下:
 
 # 参考
 
-[](https://airflow.apache.org/)    
+<https://airflow.apache.org/>    
 
 # 阅读其他数据博客
 
@@ -168,4 +168,4 @@ BashOperator 使用的 bash 脚本如下:
 
 # 在 Linkedin 上连接:
 
-[](https://www.linkedin.com/in/vachan-anand-26bb76b7/) 
+<https://www.linkedin.com/in/vachan-anand-26bb76b7/> 

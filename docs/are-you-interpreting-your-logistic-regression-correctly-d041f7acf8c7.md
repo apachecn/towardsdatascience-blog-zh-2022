@@ -68,4 +68,4 @@ W.H. Greene (2012 年):计量经济学分析，第 7 版，皮尔森教育。
 
 T.Hastie，R. Tibshirani 和 J. Friedman (2009):统计学习的要素，第二版，Springer Science+Business Media。
 
-[](https://pub.towardsai.net/how-to-choose-your-loss-function-where-i-disagree-with-cassie-kozyrkov-2038d19b5e0a)  [](https://medium.com/@christian_leschinski/why-you-should-not-try-to-predict-stock-markets-3f7d291b1a29) 
+<https://pub.towardsai.net/how-to-choose-your-loss-function-where-i-disagree-with-cassie-kozyrkov-2038d19b5e0a>  <https://medium.com/@christian_leschinski/why-you-should-not-try-to-predict-stock-markets-3f7d291b1a29> 

@@ -83,7 +83,7 @@ df_multi_level_1.stack(**-1**)
 
 如果您想了解更多关于 MultiIndex 的内容，可以查看这篇文章:
 
-[](/accessing-data-in-a-multiindex-dataframe-in-pandas-569e8767201d) [## 在熊猫的多索引数据框架中访问数据
+</accessing-data-in-a-multiindex-dataframe-in-pandas-569e8767201d> [## 在熊猫的多索引数据框架中访问数据
 
 towardsdatascience.com](/accessing-data-in-a-multiindex-dataframe-in-pandas-569e8767201d) 
 
@@ -221,7 +221,7 @@ df**.unstack([2,1,0])**
 
 如果您想了解更多关于方法链接的知识，可以查看这篇文章:
 
-[](/using-pandas-method-chaining-to-improve-code-readability-d8517c5626ac)  
+</using-pandas-method-chaining-to-improve-code-readability-d8517c5626ac>  
 
 # 结论
 

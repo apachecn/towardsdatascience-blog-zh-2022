@@ -85,7 +85,7 @@ tsla_df = df[["Adj Close"]].resample("M").last()
 
 您可能还会对以下内容感兴趣:
 
-[](/8-more-useful-pandas-functionalities-for-your-analyses-ef87dcfe5d74)  [](https://medium.com/geekculture/top-4-python-libraries-for-technical-analysis-db4f1ea87e09)  [](/use-annotations-to-tell-better-stories-with-your-plots-410cb1752bee)  
+</8-more-useful-pandas-functionalities-for-your-analyses-ef87dcfe5d74>  <https://medium.com/geekculture/top-4-python-libraries-for-technical-analysis-db4f1ea87e09>  </use-annotations-to-tell-better-stories-with-your-plots-410cb1752bee>  
 
 # 参考
 

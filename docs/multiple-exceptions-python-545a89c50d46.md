@@ -88,7 +88,7 @@ except* (KeyError, AttributeError) as e:
 
 此外，要更全面地阅读 Python 3.11 中的新增内容和更新，包括我们之前讨论的内容，您可以参考我最近在下面分享的一篇文章。
 
-[](/python-3-11-f62708eed569)  
+</python-3-11-f62708eed569>  
 
 ## 最后的想法
 
@@ -98,8 +98,8 @@ except* (KeyError, AttributeError) as e:
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership)  
+<https://gmyrianthous.medium.com/membership>  
 
 **相关文章你可能也喜欢**
 
-[](/switch-statements-python-e99ea364fde5)  [](/how-to-merge-pandas-dataframes-221e49c41bec)  [](/requirements-vs-setuptools-python-ae3ee66e28af) 
+</switch-statements-python-e99ea364fde5>  </how-to-merge-pandas-dataframes-221e49c41bec>  </requirements-vs-setuptools-python-ae3ee66e28af> 

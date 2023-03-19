@@ -22,11 +22,11 @@ Matplotlib 从 2003 年开始被大量使用，而 Plotly 在 2014 年才刚刚�
 
 **自定义函数来绘制分数。完整的功能体可以在我创建的**[**GitHub gist**](https://gist.github.com/ibexorigin/44d47dfd30f083b27d041f6b1a6a3bd8)**上看到。**
 
-![](img/2c6c39bb9c0bdfffc27be960af7d9036.png)[](https://ibexorigin.medium.com/membership)  
+![](img/2c6c39bb9c0bdfffc27be960af7d9036.png)<https://ibexorigin.medium.com/membership>  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex)  
+<https://alphasignal.ai/?referrer=Bex>  
 
 # 1.API 可用性
 
@@ -328,8 +328,8 @@ plot_scores(7, 7)
 
 *感谢您的阅读！*
 
-*[](https://ibexorigin.medium.com/membership)  [](https://ibexorigin.medium.com/subscribe)  
+*<https://ibexorigin.medium.com/membership>  <https://ibexorigin.medium.com/subscribe>  
 
 **我的更多故事:**
 
-[](https://ibexorigin.medium.com/yes-these-unbelievable-masterpieces-are-created-with-matplotlib-b62e0ff2d1a8)  [](/an-in-depth-tutorial-to-python-decorators-that-you-can-actually-use-1e34d3d2d305)  [](https://ibexorigin.medium.com/how-to-use-matplotlib-annotations-like-you-know-what-you-are-doing-da61e397cce3)  [](/the-easiest-way-to-deploy-your-ml-dl-models-in-2022-streamlit-bentoml-dagshub-ccf29c901dac) *
+<https://ibexorigin.medium.com/yes-these-unbelievable-masterpieces-are-created-with-matplotlib-b62e0ff2d1a8>  </an-in-depth-tutorial-to-python-decorators-that-you-can-actually-use-1e34d3d2d305>  <https://ibexorigin.medium.com/how-to-use-matplotlib-annotations-like-you-know-what-you-are-doing-da61e397cce3>  </the-easiest-way-to-deploy-your-ml-dl-models-in-2022-streamlit-bentoml-dagshub-ccf29c901dac> *

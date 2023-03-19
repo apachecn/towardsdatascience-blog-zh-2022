@@ -168,4 +168,4 @@ Scipy 文档 [boxcox](https://docs.scipy.org/doc/scipy/reference/reference/gener
 
 如果这些内容有用，请关注我。
 
-[](https://gustavorsantos.medium.com/) 
+<https://gustavorsantos.medium.com/> 

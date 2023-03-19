@@ -121,7 +121,7 @@ MersenneTwister(42)julia> estimate = pi_estimator(10_000_000)
 
 这是结局，但我这里有更多的朱莉娅内容:
 
-[](/vectorize-everything-with-julia-ad04a1696944)  [](/index-sort-and-aggregate-your-dataframes-in-julia-38646daf6214)  
+</vectorize-everything-with-julia-ad04a1696944>  </index-sort-and-aggregate-your-dataframes-in-julia-38646daf6214>  
 
 # 摘要🎉
 

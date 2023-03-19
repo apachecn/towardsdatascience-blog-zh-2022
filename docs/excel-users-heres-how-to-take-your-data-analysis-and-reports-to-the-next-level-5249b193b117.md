@@ -88,7 +88,7 @@ mitosheet.sheet()
 
 在下面的指南中，我分享了用 Python 做这件事的代码。
 
-[](/5-common-excel-tasks-simplified-with-python-feff966e73a4)  
+</5-common-excel-tasks-simplified-with-python-feff966e73a4>  
 
 但这还不是全部！您可以使用一个名为 openpyxl 的库来实现更复杂的自动化，比如生成 Excel 报表。这个库允许我们加载工作簿并操作它们，就像我们使用 Microsoft Excel 一样(但是使用了 Python 的强大功能)。
 
@@ -104,4 +104,4 @@ mitosheet.sheet()
 
 如果你喜欢阅读这样的故事，并想支持我成为一名作家，可以考虑报名成为一名媒体成员。每月 5 美元，让您可以无限制地访问数以千计的 Python 指南和数据科学文章。如果你使用[我的链接](https://frank-andrade.medium.com/membership)注册，我会赚一小笔佣金，不需要你额外付费。
 
-[](https://frank-andrade.medium.com/membership) 
+<https://frank-andrade.medium.com/membership> 

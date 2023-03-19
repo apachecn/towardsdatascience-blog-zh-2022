@@ -18,7 +18,7 @@
 
 在我之前的一篇文章中，我介绍了一些顶级的运行时优化技术，您可以在常规的数据科学项目中使用这些技术。
 
-[](/five-killer-optimization-techniques-every-pandas-user-should-know-266662bd1163)  
+</five-killer-optimization-techniques-every-pandas-user-should-know-266662bd1163>  
 
 在这篇文章中，我们将探索优化的另一个领域，我将向你介绍一些令人难以置信的技术来优化你的熊猫数据帧的**内存使用**。
 
@@ -58,7 +58,7 @@
 
 你可以在下面阅读我关于就地分配操作的详细帖子:
 
-[](/a-simple-guide-to-inplace-operations-in-pandas-7a1d97ecce24)  
+</a-simple-guide-to-inplace-operations-in-pandas-7a1d97ecce24>  
 
 ## 关键要点/最终想法:
 

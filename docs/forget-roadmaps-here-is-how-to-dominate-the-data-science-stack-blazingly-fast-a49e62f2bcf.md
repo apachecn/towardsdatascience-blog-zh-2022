@@ -24,11 +24,11 @@
 
 在整篇文章中，我将详细概述框架的每个步骤。最后，您将有一个强大的公式来深入学习任何新的包，这样您就很少需要回到文档中。
 
-[](https://ibexorigin.medium.com/membership)  
+<https://ibexorigin.medium.com/membership>  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex)  
+<https://alphasignal.ai/?referrer=Bex>  
 
 # 飘飘欲仙
 

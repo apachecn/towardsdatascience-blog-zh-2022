@@ -49,7 +49,7 @@ TL；DR——考虑到高中生在教育水平和时间方面的常见障碍(包
 
 如果你和我一样，在参加了 AP 计算机科学 A 考试或暑期社区大学(T2)Java I 课程(T3)后才知道 ML，那就太好了！对类、函数、数组和基本编程有了很好的了解，**你已经为这个先决条件设置好了**，可以直接跳到第 2 步了！
 
-即使你没有，也不要担心；考虑到许多学生在大二就完成了 APCS，这并不是一个很大的挑战。如果你需要从某个地方开始，艾萨克·莱曼有趣地写了**[**当你读完这本书，你将学会如何编码**](https://medium.com/@isaaclyman/when-you-finish-reading-this-youll-know-how-to-code-721339942b51)**是一个很好的切入点。从那里，在网上找一个简单的 Python 课程[](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)**或者在你当地的社区大学注册一个学期来打下基础。******
+即使你没有，也不要担心；考虑到许多学生在大二就完成了 APCS，这并不是一个很大的挑战。如果你需要从某个地方开始，艾萨克·莱曼有趣地写了**[**当你读完这本书，你将学会如何编码**](https://medium.com/@isaaclyman/when-you-finish-reading-this-youll-know-how-to-code-721339942b51)**是一个很好的切入点。从那里，在网上找一个简单的 Python 课程<https://www.edx.org/course/introduction-to-computer-science-and-programming-7>**或者在你当地的社区大学注册一个学期来打下基础。******
 
 ******我将继续假设你在高中时已经学过《计算机科学导论》或《APCS》中的 Java，这是学生们非常普遍的基础。******
 
@@ -132,7 +132,7 @@ TL；DR——考虑到高中生在教育水平和时间方面的常见障碍(包
 
 ## ********3。更多 ML 导轨********
 
-******如果你在#2 之后仍然渴望另一种味道，这里的[](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)**[**这里的**](https://data-flair.training/blogs/machine-learning-project-ideas/)**和 [**这里的**](https://www.simplilearn.com/machine-learning-projects-for-beginners-article) 是一些额外的指南和资源，在那里你可以用开放库中可用的数据集来处理一些项目。网上也有很多，所以尽一切办法去寻宝吧！让你想起一个重复出现的主题？**********
+******如果你在#2 之后仍然渴望另一种味道，这里的<https://machinelearningmastery.com/machine-learning-in-python-step-by-step/>**[**这里的**](https://data-flair.training/blogs/machine-learning-project-ideas/)**和 [**这里的**](https://www.simplilearn.com/machine-learning-projects-for-beginners-article) 是一些额外的指南和资源，在那里你可以用开放库中可用的数据集来处理一些项目。网上也有很多，所以尽一切办法去寻宝吧！让你想起一个重复出现的主题？**********
 
 > ******可以说，从现在开始最重要的先决条件是一种好奇的心态；没有什么比愿意去挖掘和学习更重要的了。******
 
@@ -165,7 +165,7 @@ TL；DR——考虑到高中生在教育水平和时间方面的常见障碍(包
 
 ******我在自己尝试自己的项目以及与圣克鲁斯大学科学实习项目(UCSC SIP，强烈推荐)相结合的过程中，在网上找到了上述所有资源。)因为我喜欢探索和挖掘，它把我带到了难以想象的令人敬畏的地方。从 YouTube 行业深度挖掘到其他高中生创建的关于如何学习的惊人资源，可能性是无穷无尽的——对于十几岁的青少年来说，这是完全可以实现的！(看到那里的头韵了吗？)******
 
-******你还在等什么？去探索一下，让我知道进展如何！如果你想更多地了解我是谁，请在这里阅读一些关于我的信息[](https://goofyseal.medium.com/hey-there-welcome-to-my-blog-ae3eb5de2324)**或者在这里联系我[](https://www.carolynwang.co/)**。最后，如果你有任何反馈或建议，我希望在评论中听到它们！❤**********
+******你还在等什么？去探索一下，让我知道进展如何！如果你想更多地了解我是谁，请在这里阅读一些关于我的信息<https://goofyseal.medium.com/hey-there-welcome-to-my-blog-ae3eb5de2324>**或者在这里联系我<https://www.carolynwang.co/>**。最后，如果你有任何反馈或建议，我希望在评论中听到它们！❤**********
 
 ********最后一件事:我在本指南中提供的资源都是开源的，可以在网上找到，对我帮助很大。我与他们中的任何人都没有关系，也没有声称对他们的工作居功。继续探索！********
 

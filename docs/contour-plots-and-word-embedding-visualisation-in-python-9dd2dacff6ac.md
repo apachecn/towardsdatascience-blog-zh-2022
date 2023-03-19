@@ -70,7 +70,7 @@
 
 完整的代码，包括所有的例子，都在我的 GitHub 上。
 
-*PS:你可以订阅我的* [*邮箱列表*](https://medium.com/subscribe/@petrkorab) *在我每次写新文章的时候得到通知。如果你还不是中等会员，你可以在这里加入*[](https://medium.com/@petrkorab/membership)**。**
+*PS:你可以订阅我的* [*邮箱列表*](https://medium.com/subscribe/@petrkorab) *在我每次写新文章的时候得到通知。如果你还不是中等会员，你可以在这里加入*<https://medium.com/@petrkorab/membership>**。**
 
 # *参考*
 

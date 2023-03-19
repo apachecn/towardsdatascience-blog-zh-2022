@@ -78,10 +78,10 @@ grid minor
 
 这就是使用 MATLAB 对常微分方程进行数值积分所需的全部代码。一旦你知道如何做，MATLAB 中强大的 ODE 解算器库使这个过程变得相对容易。如果您对 Python 中的数值积分感兴趣，我鼓励您阅读这篇文章:
 
-[](/how-to-numerically-integrate-dynamics-problems-w-python-85d9783aa088)  
+</how-to-numerically-integrate-dynamics-problems-w-python-85d9783aa088>  
 
 您还可以学习使用 MATLAB 中的 Runge Kutta 方法创建自己的数值积分器:
 
-[](/how-to-solve-odes-in-matlab-without-built-in-functions-9eaa01c9fe10)  
+</how-to-solve-odes-in-matlab-without-built-in-functions-9eaa01c9fe10>  
 
 感谢您的阅读！如果你需要帮助实现这一点，请留下评论。我很乐意帮忙。如果您对其他编码、工程或空间相关的文章感兴趣，请给我一个关注！

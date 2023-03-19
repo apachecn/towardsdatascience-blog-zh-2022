@@ -18,11 +18,11 @@
 
 在本文中，您将了解核心语言，即使没有额外的模块，它也包含了令人敬畏的特性。
 
-[](https://ibexorigin.medium.com/membership)  
+<https://ibexorigin.medium.com/membership>  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex)  
+<https://alphasignal.ai/?referrer=Bex>  
 
 ## 安装和设置
 
@@ -277,12 +277,12 @@ haskey(dict1, "missing")false
 
 **您可以使用下面的链接成为高级媒体会员，并访问我的所有故事和数以千计的其他故事:**
 
-[](https://ibexorigin.medium.com/membership)  
+<https://ibexorigin.medium.com/membership>  
 
 **或者订阅我的邮件列表:**
 
-[](https://ibexorigin.medium.com/subscribe)  
+<https://ibexorigin.medium.com/subscribe>  
 
 **你可以在**[**LinkedIn**](https://www.linkedin.com/in/bextuychiev/)**或**[**Twitter**](https://twitter.com/BexTuychiev)**上联系我，友好地聊一聊所有的事情数据。或者你可以读我的另一个故事。这些怎么样:**
 
-[](/good-bye-pandas-meet-terality-its-evil-twin-with-identical-syntax-455b42f33a6d)  [](/github-copilot-crushes-data-science-and-ml-tasks-ultimate-review-c8bcbefb928a)  [](/6-pandas-mistakes-that-silently-tell-you-are-a-rookie-b566a252e60d)  [](/8-booming-data-science-libraries-you-must-watch-out-in-2022-cec2dbb42437)  [](/7-cool-python-packages-kagglers-are-using-without-telling-you-e83298781cf4)  [](/22-2-built-in-python-libraries-you-didnt-know-existed-p-guarantee-8-275685dbdb99) 
+</good-bye-pandas-meet-terality-its-evil-twin-with-identical-syntax-455b42f33a6d>  </github-copilot-crushes-data-science-and-ml-tasks-ultimate-review-c8bcbefb928a>  </6-pandas-mistakes-that-silently-tell-you-are-a-rookie-b566a252e60d>  </8-booming-data-science-libraries-you-must-watch-out-in-2022-cec2dbb42437>  </7-cool-python-packages-kagglers-are-using-without-telling-you-e83298781cf4>  </22-2-built-in-python-libraries-you-didnt-know-existed-p-guarantee-8-275685dbdb99> 

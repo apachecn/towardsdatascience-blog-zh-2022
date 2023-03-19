@@ -23,7 +23,7 @@
 
 如果你对非线性优化不熟悉，建议阅读我之前的文章 [*非线性规划:理论与应用*](/nonlinear-programming-theory-and-applications-cfe127b6060c) 。
 
-[](/nonlinear-programming-theory-and-applications-cfe127b6060c)  
+</nonlinear-programming-theory-and-applications-cfe127b6060c>  
 
 下坡过程在当时是一个很好的类比…然而，搜索空间在本文中可能会变得更加混乱。
 
@@ -316,7 +316,7 @@ Real x: [ 1.125       0.625      58.29011889 43.69286662]**
 
 *此外，在本文中，我们已经看到了差分进化算法在单目标问题中的一些应用。但是如果我们追求多个相互冲突的目标呢？DE 有几个扩展来处理*多目标*优化，在这些情况下非常有用。感兴趣的人会发现 python 库 *pymoode* 非常有用。在另一篇媒体文章中有一个概述:*
 
-*[](/pymoode-differential-evolution-in-python-78e4221e5cbe) * 
+*</pymoode-differential-evolution-in-python-78e4221e5cbe> * 
 
 # *结论*
 

@@ -77,7 +77,7 @@ usage: git add [<options>] [--] <pathspec>...
 
 假设你正在用 Python 为你的数据科学工作编写一个 cli 工具，也许你正在用深度学习编写一个工具来解决你领域中的问题
 
-[](/pick-your-deep-learning-tool-d01fcfb86845)  
+</pick-your-deep-learning-tool-d01fcfb86845>  
 
 然后你很可能用标准库中的 *argparse* 编写你的 cli，因为它可能不是最好的，但它肯定是你学习的第一个。
 
@@ -295,7 +295,7 @@ def load_model_args(parser, model):
 
 *这里缺少的是可用模型的列表。如果给定一个随机的模型名，我们的代码就会失败，因为它找不到相应的模块。另一种方法是预先将所有模型的所有 add_arguments()函数和它们相应的名称添加到注册表中。然后，我们可以在— model 参数中提供这些选项作为“[选择](https://docs.python.org/3/library/argparse.html#the-add-argument-method)”。使用 Register 模式可以很容易地做到这一点，我在上一篇文章中描述过:*
 
-*[](/python-polymorphism-with-class-discovery-28908ac6456f)  
+*</python-polymorphism-with-class-discovery-28908ac6456f>  
 
 为什么我们要使用这种似乎会增加代码复杂性的模式呢？答案是，这里的代码非常简单，但是当您有几个模型时，它会变得越来越复杂，并且还希望为不同的优化器、数据加载器、搜索算法和代码中需要参数化的任何东西提供特定的参数。然后，代码变得固有地复杂，最好通过为每个类别设置一个单一的入口点(注册表)来隔离更改，并使特定的代码只与通用代码接口。此外，主函数将只与通用代码(load_model_args、load_optimizer_args 等)通信，代码库变得更容易推理。
 

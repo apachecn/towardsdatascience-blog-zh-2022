@@ -30,7 +30,7 @@
 
 ## 第二部分
 
-[](/critical-facts-that-every-data-scientist-should-know-part-2-c9c06cde6e21)  
+</critical-facts-that-every-data-scientist-should-know-part-2-c9c06cde6e21>  
 
 1.  数据泄漏，当你的结果好得令人难以置信
 2.  可解释性与辛普森悖论
@@ -125,7 +125,7 @@ LogisticRegression accuracy: 77.82%
 
 使用这种类型的平均值还有更深层的原因，要了解更多，我推荐这篇优秀的文章:
 
-[](/on-average-youre-using-the-wrong-average-geometric-harmonic-means-in-data-analysis-2a703e21ea0)  
+</on-average-youre-using-the-wrong-average-geometric-harmonic-means-in-data-analysis-2a703e21ea0>  
 
 让我们看看我们的新指标在前面的场景中给出了什么指示:
 
@@ -263,6 +263,6 @@ G-Mean: 75.65% ± 2.08% (mean ± std. dev. of 100 runs)
 
 最后，如果您还不是中等会员，您可以使用我的推荐链接成为中等会员:
 
-[](https://mnslarcher.medium.com/membership)  
+<https://mnslarcher.medium.com/membership>  
 
 想保持联系吗？在 [LinkedIn](https://www.linkedin.com/in/mnslarcher/) 或 [Twitter](https://twitter.com/mnslarcher) 上关注我！

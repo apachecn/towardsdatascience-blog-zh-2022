@@ -14,7 +14,7 @@
 
 **加载库和数据**
 
-我们将探索来自 Kaggle 的[车辆数据集](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho?ref=hackernoon.com&select=Car+details+v3.csv) [](#45d1)。还要注意，在本文中，单词“变量”、“特性”和“列”的意思都是一样的。
+我们将探索来自 Kaggle 的[车辆数据集](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho?ref=hackernoon.com&select=Car+details+v3.csv) <#45d1>。还要注意，在本文中，单词“变量”、“特性”和“列”的意思都是一样的。
 
 打开一个新的 Jupyter 笔记本并导入所需的库。`Seaborn`依赖于`matplotlib`,我们将同时导入它们。另外，设置`style`和`font`。
 
@@ -340,4 +340,4 @@ plt.pie(df, labels=df.index, autopct="%.0f%%");
 
 **参考文献**
 
-1.  [](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho?ref=hackernoon.com&select=Car+details+v3.csv)[尼哈尔·比拉](https://www.kaggle.com/nehalbirla)[尼尚特·维尔马](https://www.kaggle.com/nishantverma02)和[尼基尔·库什瓦哈](https://www.kaggle.com/kushbun27)的车辆数据集在[【DbCL】](https://opendatacommons.org/licenses/dbcl/1-0/)下获得许可
+1.  <https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho?ref=hackernoon.com&select=Car+details+v3.csv>[尼哈尔·比拉](https://www.kaggle.com/nehalbirla)[尼尚特·维尔马](https://www.kaggle.com/nishantverma02)和[尼基尔·库什瓦哈](https://www.kaggle.com/kushbun27)的车辆数据集在[【DbCL】](https://opendatacommons.org/licenses/dbcl/1-0/)下获得许可

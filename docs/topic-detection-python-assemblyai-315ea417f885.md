@@ -69,8 +69,8 @@
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership)  
+<https://gmyrianthous.medium.com/membership>  
 
 **你可能也会喜欢**
 
-[](/real-time-speech-recognition-python-assemblyai-13d35eeed226)  [](/summarize-audio-video-files-assemblyai-c9126918870c) 
+</real-time-speech-recognition-python-assemblyai-13d35eeed226>  </summarize-audio-video-files-assemblyai-c9126918870c> 

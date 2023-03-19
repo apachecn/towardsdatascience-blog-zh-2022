@@ -54,7 +54,7 @@
 
 所以，我个人对这个问题的回答是**慢慢来**(对，几个月！)，这样你就**开始热爱学习的道路**，你开始明白你喜欢做什么。如果你想阅读我关于如何以及为什么要学习数据科学的建议，你可以阅读下面的文章:
 
-[](https://medium.com/mlearning-ai/why-and-how-enjoying-the-learning-path-in-data-science-fe98642cb512)  
+<https://medium.com/mlearning-ai/why-and-how-enjoying-the-learning-path-in-data-science-fe98642cb512>  
 
 我知道，有很多东西要学，你需要大量练习，你会感到不知所措。我理解你的挣扎，这就是为什么我的建议如下:
 
@@ -79,7 +79,7 @@
 
 还有，如果你全职工作，想转行进入数据领域，你可能会发现很难一边全职工作一边学习。让我告诉你，我真实而深刻地理解你:我在全职工作、成家立业的同时，完成了数据科学的硕士学位。所以，如果你想知道我对如何学习 Dat 科学的建议，即使你是全职工作，请阅读我的文章:
 
-[](/how-to-study-data-science-even-if-you-work-or-study-full-time-b52ace31edac)  
+</how-to-study-data-science-even-if-you-work-or-study-full-time-b52ace31edac>  
 
 # 3.奖金:如何加速你的职业生涯进入数据领域
 

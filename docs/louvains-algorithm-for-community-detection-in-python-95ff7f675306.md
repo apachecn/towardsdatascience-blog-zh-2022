@@ -137,6 +137,6 @@ matplotlib=3.3.4
 
 如果你喜欢这篇文章，还有很多关于网络分析、nlp、推荐系统等的文章。我也写过这方面的文章。下面来看看吧。
 
-[](/text-similarity-w-levenshtein-distance-in-python-2f7478986e75)  [](/node-classification-with-node2vec-58892845697b)  [](/text-summarization-in-python-with-jaro-winkler-and-pagerank-72d693da94e8)  [](/link-prediction-recommendation-engines-with-node2vec-c97c429351a8)  [](/mining-modelling-character-networks-part-ii-a3d77de89638)  [](/word2vec-explained-49c52b4ccb71)  [](/recommendation-systems-explained-a42fc60591ed)  [](/node2vec-explained-db86a319e9ab)  [](/bayesian-a-b-testing-explained-344a6df88c1a) [## 贝叶斯 A/B 测试解释
+</text-similarity-w-levenshtein-distance-in-python-2f7478986e75>  </node-classification-with-node2vec-58892845697b>  </text-summarization-in-python-with-jaro-winkler-and-pagerank-72d693da94e8>  </link-prediction-recommendation-engines-with-node2vec-c97c429351a8>  </mining-modelling-character-networks-part-ii-a3d77de89638>  </word2vec-explained-49c52b4ccb71>  </recommendation-systems-explained-a42fc60591ed>  </node2vec-explained-db86a319e9ab>  </bayesian-a-b-testing-explained-344a6df88c1a> [## 贝叶斯 A/B 测试解释
 
 towardsdatascience.com](/bayesian-a-b-testing-explained-344a6df88c1a)

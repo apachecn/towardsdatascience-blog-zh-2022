@@ -86,4 +86,4 @@
 
 A/B 测试是初创企业成长的标准方法。他们真的能够让一家初创公司迅速扩大规模，因为他们能够快速、成功地验证任何可能的想法。然而，为了从 A/B 测试中提取最大值，您必须始终使用正确的统计数据。
 
-*原载于 2022 年 5 月 20 日 https://www.yourdatateacher.com*[](https://www.yourdatateacher.com/2022/05/20/how-to-run-a-b-tests/)**。**
+*原载于 2022 年 5 月 20 日 https://www.yourdatateacher.com*<https://www.yourdatateacher.com/2022/05/20/how-to-run-a-b-tests/>**。**

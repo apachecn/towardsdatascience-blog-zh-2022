@@ -103,7 +103,7 @@ smf.ols('revenue ~ group + mobile', data=df).fit().summary().tables[1]
 
 # 单一治疗臂
 
-假设我们对治疗对结果的影响感兴趣。首先，让我们考虑一个**单治疗臂**的标准情况，这样治疗变量是二元的， *D∈{0，1}* 。同样，考虑单个**二元控制变量** *X∈{0，1}* 。我们还假设治疗分配与随机分配一样好，有条件地取决于 *X* 。这种假设被称为[](https://en.wikipedia.org/wiki/Ignorability)**，它意味着治疗组和对照组之间可能存在系统性差异，然而，这些差异被 *X* 完全解释。我们正式写作**
+假设我们对治疗对结果的影响感兴趣。首先，让我们考虑一个**单治疗臂**的标准情况，这样治疗变量是二元的， *D∈{0，1}* 。同样，考虑单个**二元控制变量** *X∈{0，1}* 。我们还假设治疗分配与随机分配一样好，有条件地取决于 *X* 。这种假设被称为<https://en.wikipedia.org/wiki/Ignorability>**，它意味着治疗组和对照组之间可能存在系统性差异，然而，这些差异被 *X* 完全解释。我们正式写作**
 
 **![](img/f3775a8111caa3cc4f6be63bc686d103.png)**
 
@@ -301,7 +301,7 @@ new_results = simulate(dgp, new_estimator)plot_results(new_results)
 
 **你可以在这里找到 Jupyter 的原始笔记本:**
 
-**[](https://github.com/matteocourthoud/Blog-Posts/blob/main/notebooks/cbias.ipynb) ** 
+**<https://github.com/matteocourthoud/Blog-Posts/blob/main/notebooks/cbias.ipynb> ** 
 
 ## **感谢您的阅读！**
 

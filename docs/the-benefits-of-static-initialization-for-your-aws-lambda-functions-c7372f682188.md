@@ -49,7 +49,7 @@
 
 下面是详细介绍教程的文章。你有空的时候可以去看看。
 
-[](https://medium.com/codex/improving-ocr-recognition-through-human-review-via-amazon-augmented-ai-a9c5f6d51c04)  
+<https://medium.com/codex/improving-ocr-recognition-through-human-review-via-amazon-augmented-ai-a9c5f6d51c04>  
 
 > 等一下。你提到无服务器应该是轻量级的。但是在你的 *send_from_s3_to_textract* 函数中，你使用的是 python 包 *boto3。*那不是超过 50 MB，会大幅度影响冷启动吗？
 
@@ -81,4 +81,4 @@
 
 **参考文献:**
 
-[](https://lumigo.io/blog/provisioned-concurrency-the-end-of-cold-starts/)  [](https://aws.amazon.com/blogs/compute/operating-lambda-performance-optimization-part-1/)  [](https://aws.amazon.com/blogs/compute/operating-lambda-performance-optimization-part-2/) 
+<https://lumigo.io/blog/provisioned-concurrency-the-end-of-cold-starts/>  <https://aws.amazon.com/blogs/compute/operating-lambda-performance-optimization-part-1/>  <https://aws.amazon.com/blogs/compute/operating-lambda-performance-optimization-part-2/> 

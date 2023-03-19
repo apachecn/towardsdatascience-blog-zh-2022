@@ -48,7 +48,7 @@
 
 [**贝叶斯统计**](http://bit.ly/quaesita_freqvsbayes)
 
-一个统计学派研究信念的数学模型。你从你所相信的东西的数学描述开始，然后(通过 [**贝叶斯法则**](http://bit.ly/mfml_part4) )在添加一些 [**数据**](http://bit.ly/quaesita_hist) 之后，发现你合理地应该相信什么。结果是高度个人化的，因为它们是关于*合理地*更新信念的主观模型——不同的开始信念(称为“**先验**”)应该给出不同的结果(称为“**后验**”)。在贝叶斯**统计**， [**参数**](http://bit.ly/quaesita_vocab) 有 [**概率**](http://bit.ly/quaesita_bday) 附加在它们上面，就你的典型([](http://bit.ly/quaesita_fvsb)**)stat 101 类而言，这是十恶不赦的亵渎。一个**参数**是否应该有一个 [**概率分布**](http://bit.ly/quaesita_distribution) 的问题[贝叶斯与频率主义者之争](http://bit.ly/quaesita_fvsb)是怎么一回事。**
+一个统计学派研究信念的数学模型。你从你所相信的东西的数学描述开始，然后(通过 [**贝叶斯法则**](http://bit.ly/mfml_part4) )在添加一些 [**数据**](http://bit.ly/quaesita_hist) 之后，发现你合理地应该相信什么。结果是高度个人化的，因为它们是关于*合理地*更新信念的主观模型——不同的开始信念(称为“**先验**”)应该给出不同的结果(称为“**后验**”)。在贝叶斯**统计**， [**参数**](http://bit.ly/quaesita_vocab) 有 [**概率**](http://bit.ly/quaesita_bday) 附加在它们上面，就你的典型(<http://bit.ly/quaesita_fvsb>**)stat 101 类而言，这是十恶不赦的亵渎。一个**参数**是否应该有一个 [**概率分布**](http://bit.ly/quaesita_distribution) 的问题[贝叶斯与频率主义者之争](http://bit.ly/quaesita_fvsb)是怎么一回事。**
 
 **[**贝叶斯法则**](http://bit.ly/mfml_part4)**
 
@@ -148,7 +148,7 @@
 
 **用电子形式记录某人的东西。或者，稍微恭敬一点的解释，读一下[这个](http://bit.ly/quaesita_hist)。**
 
-**[](http://bit.ly/quaesita_datasci)**
+**<http://bit.ly/quaesita_datasci>**
 
 ******分析**的同义词。在你的 [**数据**](http://bit.ly/quaesita_hist) 中寻找模式以形成**假设**或产生想法的行为。****
 
@@ -198,7 +198,7 @@
 
 ******经验法则******
 
-****如果你的数据是[](http://bit.ly/quaesita_distributions)**，(68%)-(95%)-(几乎全部)会在**的 1–2–3[**标准差**内找到](http://bit.ly/quaesita_lemur)** 。******
+****如果你的数据是<http://bit.ly/quaesita_distributions>**，(68%)-(95%)-(几乎全部)会在**的 1–2–3[**标准差**内找到](http://bit.ly/quaesita_lemur)** 。******
 
 ****排气数据****
 
@@ -242,7 +242,7 @@
 
 ****广义线性模型(GLM)****
 
-**广义线性模型(GLMs)将[](http://bit.ly/mfml_006)**扩展到 [**误差**](http://bit.ly/mfml_006) 分布不 [**正态**](http://bit.ly/quaesita_distributions) 的情况。如果您试图预测**分类响应**(例如点击/不点击)，您可能希望了解更多相关信息。****
+**广义线性模型(GLMs)将<http://bit.ly/mfml_006>**扩展到 [**误差**](http://bit.ly/mfml_006) 分布不 [**正态**](http://bit.ly/quaesita_distributions) 的情况。如果您试图预测**分类响应**(例如点击/不点击)，您可能希望了解更多相关信息。****
 
 ****[**直方图**](http://bit.ly/quaesita_hist)****
 
@@ -312,11 +312,11 @@
 
 ****[**均方差**](http://bit.ly/quaesita_babymse)****
 
-****均方差(MSE)是众多[](http://bit.ly/quaesita_opera)**指标之一，你可以用它来衡量你的 [**模型**](http://bit.ly/quaesita_emperorm)**的表现。如果你参加了一个 [**机器学习**](http://bit.ly/quaesita_simplest) 的课程，你很可能会在教学大纲中很早就遇到它——它通常是婴儿的第一个 [**损失函数**](http://bit.ly/quaesita_emperorm) 对于 [**连续的**](http://bit.ly/quaesita_datatypes) 数据。********
+****均方差(MSE)是众多<http://bit.ly/quaesita_opera>**指标之一，你可以用它来衡量你的 [**模型**](http://bit.ly/quaesita_emperorm)**的表现。如果你参加了一个 [**机器学习**](http://bit.ly/quaesita_simplest) 的课程，你很可能会在教学大纲中很早就遇到它——它通常是婴儿的第一个 [**损失函数**](http://bit.ly/quaesita_emperorm) 对于 [**连续的**](http://bit.ly/quaesita_datatypes) 数据。********
 
 ****[**中位数**](http://bit.ly/quaesita_lemur)****
 
-****中间的东西。从最小到最大排列你的数据，取中间的一个——这就是中位数。中值对异常值**稳健，而均值[](http://bit.ly/quaesita_lemur)**则不稳健。********
+****中间的东西。从最小到最大排列你的数据，取中间的一个——这就是中位数。中值对异常值**稳健，而均值<http://bit.ly/quaesita_lemur>**则不稳健。********
 
 ****[**模式**](http://bit.ly/quaesita_lemur)****
 
@@ -448,7 +448,7 @@
 
 **[**【概率密度函数(PDF)**](http://bit.ly/quaesita_distributions)**
 
-**描述观察一个 [**随机变量**](http://bit.ly/quaesita_lemur) 特定值的相对**概率**的数学公式。如果**随机变量**不是[](http://bit.ly/quaesita_datatypes)**，技术上这应该叫做[概率质量函数](http://bit.ly/quaesita_lemur)，它不应该存在于**随机变量**取不到的值。****
+**描述观察一个 [**随机变量**](http://bit.ly/quaesita_lemur) 特定值的相对**概率**的数学公式。如果**随机变量**不是<http://bit.ly/quaesita_datatypes>**，技术上这应该叫做[概率质量函数](http://bit.ly/quaesita_lemur)，它不应该存在于**随机变量**取不到的值。****
 
 ******Q-Q 剧情******
 
@@ -456,7 +456,7 @@
 
 ******R 平方******
 
-****由 X 解释的 Y 中可变性的比例。在**简单线性回归**中，这是 X 和 Y 之间的 [**相关性**](http://bit.ly/quaesita_corr) 的平方。这里有一个有趣的技巧:你可能很不擅长直觉[](http://bit.ly/quaesita_corr)**相关性，但你很擅长直觉 R 平方作为表现等级…所以你可以在你的朋友面前像变魔术一样使用它。在[guessthecorrelation.com](http://guessthecorrelation.com/)上试试吧——不要猜测**相关性**本身，而是猜测 R 的平方，通过分配一个“百分比等级”(就像一个老师给学生评分)到你所说的 X“捕捉”Y 的程度，然后求平方根。(如果点云向右下方移动，不要忘记插入一个减号。)******
+****由 X 解释的 Y 中可变性的比例。在**简单线性回归**中，这是 X 和 Y 之间的 [**相关性**](http://bit.ly/quaesita_corr) 的平方。这里有一个有趣的技巧:你可能很不擅长直觉<http://bit.ly/quaesita_corr>**相关性，但你很擅长直觉 R 平方作为表现等级…所以你可以在你的朋友面前像变魔术一样使用它。在[guessthecorrelation.com](http://guessthecorrelation.com/)上试试吧——不要猜测**相关性**本身，而是猜测 R 的平方，通过分配一个“百分比等级”(就像一个老师给学生评分)到你所说的 X“捕捉”Y 的程度，然后求平方根。(如果点云向右下方移动，不要忘记插入一个减号。)******
 
 ****[**随机变量**](http://bit.ly/quaesita_distributions)****
 
@@ -570,7 +570,7 @@
 
 ****[**结构化数据**](http://bit.ly/quaesita_provenance)****
 
-****结构化数据被整齐地格式化以供分析。你在[](http://bit.ly/quaesita_statistics)**类中使用的大部分**数据集**都是结构化的，然而在野外，有大量的**非结构化数据** ( **数据**需要*你*在上面放置结构)。******
+****结构化数据被整齐地格式化以供分析。你在<http://bit.ly/quaesita_statistics>**类中使用的大部分**数据集**都是结构化的，然而在野外，有大量的**非结构化数据** ( **数据**需要*你*在上面放置结构)。******
 
 ****[**非结构化数据**](http://bit.ly/quaesita_provenance)****
 
@@ -620,7 +620,7 @@
 
 **[**方差 Var(X)**](http://bit.ly/quaesita_distributions)**
 
-**这是[的平方**标准差**的平方](http://bit.ly/quaesita_distributions)。用在谈论 [**样本**](http://bit.ly/quaesita_vocab) 【样本方差】[](http://bit.ly/quaesita_vocab)**【总体方差】的上下文中。这是一个重要的 [**时刻**](http://bit.ly/quaesita_distributions) (描述形状的 [**分布的**](http://bit.ly/quaesita_distributions) )，这也是为什么你看到它经常被谈论的原因。****
+**这是[的平方**标准差**的平方](http://bit.ly/quaesita_distributions)。用在谈论 [**样本**](http://bit.ly/quaesita_vocab) 【样本方差】<http://bit.ly/quaesita_vocab>**【总体方差】的上下文中。这是一个重要的 [**时刻**](http://bit.ly/quaesita_distributions) (描述形状的 [**分布的**](http://bit.ly/quaesita_distributions) )，这也是为什么你看到它经常被谈论的原因。****
 
 ******变量******
 

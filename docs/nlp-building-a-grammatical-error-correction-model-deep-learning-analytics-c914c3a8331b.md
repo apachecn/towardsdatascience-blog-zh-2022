@@ -103,4 +103,4 @@ GEC 任务可以被认为是一个序列对序列的任务，其中一个转换�
 
 **在[深度学习分析](https://deeplearninganalytics.org/)，我们专门为各种用例构建定制的机器学习模型。我们与世界各地的客户合作，为他们的特定需求构建解决方案。我们的专家团队拥有文本分类、翻译、摘要、神经搜索等方面的经验。如果你看到合作的机会，请发邮件到 info@deeplearninganalytics.org 给我们。**
 
-***原载于 2022 年 4 月 1 日 https://deeplearninganalytics.org*[](https://deeplearninganalytics.org/nlp-building-a-grammatical-error-correction-model/)**。****
+***原载于 2022 年 4 月 1 日 https://deeplearninganalytics.org*<https://deeplearninganalytics.org/nlp-building-a-grammatical-error-correction-model/>**。****

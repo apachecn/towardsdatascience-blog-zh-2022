@@ -94,7 +94,7 @@ Google Trends (GT)是一个公众可用的数据库，提供跨不同地区和�
 
 *TrendsEcon* 增强了执行时间序列调查的研究人员和为公司建立重要指标报告的分析师使用 GT 数据的可能性。[这里的](https://trendecon.github.io/trendecon/reference/index.html)是它提供的处理数据的所有函数的列表。为了进一步阅读**，你可以查看[我的关于用 python 构建 GT 数据集的文章](https://medium.com/analytics-vidhya/build-your-google-trends-app-in-python-be8e6fb0324b)。**
 
-*PS:你可以订阅我的* [*邮件列表*](https://medium.com/subscribe/@petrkorab) *在我每次写新文章的时候得到通知。如果你还不是中等会员，你可以在这里加入*[](https://medium.com/@petrkorab/membership)**。**
+*PS:你可以订阅我的* [*邮件列表*](https://medium.com/subscribe/@petrkorab) *在我每次写新文章的时候得到通知。如果你还不是中等会员，你可以在这里加入*<https://medium.com/@petrkorab/membership>**。**
 
 ## *参考*
 

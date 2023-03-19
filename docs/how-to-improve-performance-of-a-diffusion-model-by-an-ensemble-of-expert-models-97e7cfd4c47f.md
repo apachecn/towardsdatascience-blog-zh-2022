@@ -80,7 +80,7 @@
 
 **成为 Patreon 会员:**
 
-[](https://www.patreon.com/azadlab)  
+<https://www.patreon.com/azadlab>  
 
 **关注推特更新:**
 
@@ -88,7 +88,7 @@
 
 **在子栈上找到我:**
 
-[](https://azadwolf.substack.com)  
+<https://azadwolf.substack.com>  
 
 **参考文献:**
 

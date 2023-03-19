@@ -253,15 +253,15 @@ model.compile(**optimizer=RMSprop(learning_rate=0.005)**,...)**
 
 *   ****Keras 优化器中的学习率计划和衰减****
 
-**[](https://rukshanpramoditha.medium.com/learning-rate-schedules-and-decay-in-keras-optimizers-f68bf91de57d)  
+**<https://rukshanpramoditha.medium.com/learning-rate-schedules-and-decay-in-keras-optimizers-f68bf91de57d>  
 
 *   **神经网络超参数分类**
 
-[](/classification-of-neural-network-hyperparameters-c7991b6937c3)  
+</classification-of-neural-network-hyperparameters-c7991b6937c3>  
 
 *   **参数 Vs 超参数:有什么区别？**
 
-[](https://rukshanpramoditha.medium.com/parameters-vs-hyperparameters-what-is-the-difference-5f40e16e2e82)  
+<https://rukshanpramoditha.medium.com/parameters-vs-hyperparameters-what-is-the-difference-5f40e16e2e82>  
 
 *   **全集我的** [**神经网络与深度学习教程**](https://rukshanpramoditha.medium.com/list/neural-networks-and-deep-learning-course-a2779b9c3f75)
 
@@ -273,7 +273,7 @@ model.compile(**optimizer=RMSprop(learning_rate=0.005)**,...)**
 
 **我希望你喜欢阅读这篇文章。如果你愿意支持我成为一名作家，请考虑 [***注册会员***](https://rukshanpramoditha.medium.com/membership) *以获得无限制的媒体访问权限。它只需要每月 5 美元，我会收到你的会员费的一部分。***
 
-**[](https://rukshanpramoditha.medium.com/membership)  
+**<https://rukshanpramoditha.medium.com/membership>  
 
 非常感谢你一直以来的支持！下一篇文章再见。祝大家学习愉快！** 
 

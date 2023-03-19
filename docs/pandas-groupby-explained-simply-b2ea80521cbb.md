@@ -171,7 +171,7 @@ df_density.dropna()
 
 以下是我的一些其他帖子，请随意查看:
 
-[](/broadcasting-in-numpy-a-powerful-technique-you-should-know-7dc1dde619fa)  [](/vectorization-must-know-technique-to-speed-up-operations-100x-faster-50b6e89ddd45)  [](https://medium.datadriveninvestor.com/top-20-masters-programs-in-ai-data-science-2021-98aadb7db409)  [](/semantic-similarity-using-transformers-8f3cb5bf66d6)  [](/bert-text-classification-using-pytorch-723dfb8b6b5b)  
+</broadcasting-in-numpy-a-powerful-technique-you-should-know-7dc1dde619fa>  </vectorization-must-know-technique-to-speed-up-operations-100x-faster-50b6e89ddd45>  <https://medium.datadriveninvestor.com/top-20-masters-programs-in-ai-data-science-2021-98aadb7db409>  </semantic-similarity-using-transformers-8f3cb5bf66d6>  </bert-text-classification-using-pytorch-723dfb8b6b5b>  
 
 # 参考
 

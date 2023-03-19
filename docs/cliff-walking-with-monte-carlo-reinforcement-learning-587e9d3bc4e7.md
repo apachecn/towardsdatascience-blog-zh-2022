@@ -104,19 +104,19 @@ SARSA 和蒙特卡罗 RL 的比较。SARSA 通常收敛得更快，并且经常�
 
 ***-Q-learning****:*
 
-[](/walking-off-the-cliff-with-off-policy-reinforcement-learning-7fdbcdfe31ff)  
+</walking-off-the-cliff-with-off-policy-reinforcement-learning-7fdbcdfe31ff>  
 
 ***离散政策梯度*** *:*
 
-[](/cliff-walking-problem-with-the-discrete-policy-gradient-algorithm-59d1900d80d8)  
+</cliff-walking-problem-with-the-discrete-policy-gradient-algorithm-59d1900d80d8>  
 
 ***深度政策梯度*** *:*
 
-[](/deep-policy-gradient-for-cliff-walking-37d5014fd4bc)  
+</deep-policy-gradient-for-cliff-walking-37d5014fd4bc>  
 
 ***深度 Q-学习*** *:*
 
-[](/a-minimal-working-example-for-deep-q-learning-in-tensorflow-2-0-e0ca8a944d5e)  
+</a-minimal-working-example-for-deep-q-learning-in-tensorflow-2-0-e0ca8a944d5e>  
 
 # 参考
 

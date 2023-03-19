@@ -62,4 +62,4 @@
 
 ## 你可能也会喜欢…
 
-[](/4-bigquery-sql-shortcuts-that-can-simplify-your-queries-30f94666a046)  [](/6-bigquery-sql-functions-every-user-should-know-9ed97b1cf72e)  [](/how-data-scientists-can-reduce-data-wrangling-time-with-a-data-mart-809eefbe0bc2) 
+</4-bigquery-sql-shortcuts-that-can-simplify-your-queries-30f94666a046>  </6-bigquery-sql-functions-every-user-should-know-9ed97b1cf72e>  </how-data-scientists-can-reduce-data-wrangling-time-with-a-data-mart-809eefbe0bc2> 

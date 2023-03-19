@@ -8,7 +8,7 @@
 
 > **更新**:发现我关于渐变提升的新书，[实用渐变提升](https://www.amazon.fr/dp/B0BJ82S916)。这是用 python 中的许多例子对渐变增强的深入探究。
 
-[](https://www.amazon.com/dp/B0BJ82S916)  
+<https://www.amazon.com/dp/B0BJ82S916>  
 
 在处理超参数调整时，大多数注意力都集中在过度拟合和使用正确的正则化参数上，以确保模型不会过度学习。
 

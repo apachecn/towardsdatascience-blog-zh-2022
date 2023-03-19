@@ -28,7 +28,7 @@
 
 注意，最右边的两个因果模型不是马尔可夫的。中间的一个有一个不可测量的噪声项，同时引起两个变量，最右边的一个有一个周期。**虽然这些模型不是马尔可夫模型，但是 X 对 Y 的因果关系确实是可以识别的**(稍后会详细介绍)。
 
-[](/causal-effects-via-the-do-operator-5415aefc834a)  
+</causal-effects-via-the-do-operator-5415aefc834a>  
 
 # **微积分 3 法则**
 
@@ -103,7 +103,7 @@ Do-Calculus 的 3 个规则[ [4](http://arxiv.org/abs/1210.4852) ]。图片作�
 
 虽然有人可能(天真地)认为 PS 模型中使用的变量越多越好，但这可能会适得其反。在某些情况下，如上述 DAG 中的变量 Z3，包含特定变量可能会增加倾向得分匹配偏差[ [2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2836213/pdf/ijb1203.pdf) ]。
 
-[](/propensity-score-5c29c480130c)  
+</propensity-score-5c29c480130c>  
 
 ## **2)前门标准**
 
@@ -177,7 +177,7 @@ We can see that all **这些路径被阻塞**因为它们包含一个碰撞器 Y
 
 ## 下一步是什么？
 
-[](/causal-effects-via-regression-28cb58a2fffc)  [](https://shawhin.medium.com/membership)  
+</causal-effects-via-regression-28cb58a2fffc>  <https://shawhin.medium.com/membership>  
 
 # 资源
 

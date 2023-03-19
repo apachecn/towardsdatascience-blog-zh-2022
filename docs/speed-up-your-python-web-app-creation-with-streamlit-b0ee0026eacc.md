@@ -193,4 +193,4 @@ Streamlit 的问题是，每次收到输入时，它都会运行所有代码。�
 
 *学习机是一系列关于我所学到的，并且认为足够有趣可以分享的事情的故事。有时也是关于机器学习的基础。* [*定期更新*](https://chandraseta.medium.com/subscribe) *新故事和* [*成为中等会员*](https://chandraseta.medium.com/membership) *阅读无限故事。*
 
-[](https://chandraseta.medium.com/membership) 
+<https://chandraseta.medium.com/membership> 

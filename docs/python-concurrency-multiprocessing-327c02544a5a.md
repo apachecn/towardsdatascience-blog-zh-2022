@@ -12,11 +12,11 @@
 
 *上一篇:*
 
-[](/python-concurrency-threading-and-the-gil-db940596e325)  
+</python-concurrency-threading-and-the-gil-db940596e325>  
 
 *接下来的故事:*
 
-[](/python-concurrency-concurrent-futures-15b56dc9a14d)  
+</python-concurrency-concurrent-futures-15b56dc9a14d>  
 
 多处理宣传多核心使用。是不是很多 Python 用户祈祷的答案？是最终绕过 [GIL](/python-concurrency-threading-and-the-gil-db940596e325) 的方法吗？
 
@@ -294,4 +294,4 @@ main 函数启动一个线程(在主进程中)，然后启动一个子进程。�
 
 *喜欢这个故事？通过我下面的推荐链接成为一个媒体成员来支持我的写作。无限制地访问我的故事和许多其他内容。*
 
-[](https://medium.com/@diego-barba/membership) 
+<https://medium.com/@diego-barba/membership> 

@@ -209,4 +209,4 @@ NoisyNet 是一种简单的方法，其中网络的权重用于驱动探索。�
 
 ## 有关系的
 
-[](/solving-multi-armed-bandit-problems-53c73940244a)  [](/why-you-should-add-reinforcement-learning-to-your-data-science-toolbox-f6d4728afe66)  [](/snake-played-by-a-deep-reinforcement-learning-agent-53f2c4331d36) 
+</solving-multi-armed-bandit-problems-53c73940244a>  </why-you-should-add-reinforcement-learning-to-your-data-science-toolbox-f6d4728afe66>  </snake-played-by-a-deep-reinforcement-learning-agent-53f2c4331d36> 

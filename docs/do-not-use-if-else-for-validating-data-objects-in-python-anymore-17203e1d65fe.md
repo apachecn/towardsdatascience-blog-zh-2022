@@ -418,7 +418,7 @@ my_validator.validate({'my_number': 10})
 
 在本文中，我介绍了 Python 中的第三方库 Cerberus。它为我们验证字典提供了一个非常好的解决方案。它非常灵活，这可以从处理未知字段和定义必填字段的例子中看出。此外，它支持大约 30 个现成的规则，以及我们自己定制的验证规则。
 
-[](https://medium.com/@qiuyujx/membership)  
+<https://medium.com/@qiuyujx/membership>  
 
 如果你觉得我的文章有帮助，请考虑加入 Medium 会员来支持我和成千上万的其他作者！(点击上面的链接)
 

@@ -306,6 +306,6 @@ C Beckett，*Rfviz:R 中随机森林的交互式可视化包*，2018，[https://
 
 费希尔河..(1988).艾瑞斯。UCI 机器学习知识库。
 
-奥尔德福德和沃德尔出版社(2018 年)。Cran/Loon:这是 cran R 软件包仓库的只读镜像。loon——交互式统计数据可视化。首页:[](http://Https://great-northern-diver.github.io/loon/)**报告此包的 bug:*[*Https://github.com/great-northern-diver/loon/issues*。](http://Https://github.com/great-northern-diver/loon/issues.) GitHub。检索于 2022 年 2 月 23 日，来自[https://github.com/cran/loon](https://github.com/cran/loon)*
+奥尔德福德和沃德尔出版社(2018 年)。Cran/Loon:这是 cran R 软件包仓库的只读镜像。loon——交互式统计数据可视化。首页:<http://Https://great-northern-diver.github.io/loon/>**报告此包的 bug:*[*Https://github.com/great-northern-diver/loon/issues*。](http://Https://github.com/great-northern-diver/loon/issues.) GitHub。检索于 2022 年 2 月 23 日，来自[https://github.com/cran/loon](https://github.com/cran/loon)*
 
 *Pyae，A. (2019 年 6 月 13 日)。*鱼市场*。卡格尔。检索于 2022 年 2 月 21 日，来自[https://www.kaggle.com/aungpyaeap/fish-market](https://www.kaggle.com/aungpyaeap/fish-market)*

@@ -190,4 +190,4 @@ y=df[['MaxTemp']]for i in ranges:
 
 # 相关文章
 
-[](/why-you-should-not-trust-the-train-test-split-function-47cb9d353ad2)  [](/hypothesis-testing-made-easy-through-the-easy-ht-python-package-2ee395b95fe2)  [](/three-tricks-on-python-functions-that-you-should-know-e6badb26aac2) 
+</why-you-should-not-trust-the-train-test-split-function-47cb9d353ad2>  </hypothesis-testing-made-easy-through-the-easy-ht-python-package-2ee395b95fe2>  </three-tricks-on-python-functions-that-you-should-know-e6badb26aac2> 

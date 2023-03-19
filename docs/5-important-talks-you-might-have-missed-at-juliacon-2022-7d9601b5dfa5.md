@@ -23,7 +23,7 @@ VS Code 是 Julia 编程社区官方支持的 IDE。每年在 JuliaCon，从事 
 
 编辑:我和我的合著者很高兴地告诉大家，我们的新书《朱丽亚速成教程》已经开始预售了:
 
-[](https://logankilpatrick.gumroad.com/l/juliacrashcourse)  
+<https://logankilpatrick.gumroad.com/l/juliacrashcourse>  
 
 # 是什么让编程语言成功？(和杰瑞米·霍华德一起)🤔
 

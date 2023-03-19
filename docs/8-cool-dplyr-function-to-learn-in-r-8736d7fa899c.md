@@ -362,6 +362,6 @@ library(dplyr)**
 
 ****绝对初学者的 R 编程 —图片作者****
 
-****[](https://ivopbernardo.medium.com/membership)  
+****<https://ivopbernardo.medium.com/membership>  
 
 下面是这篇文章中例子的一个小要点:****

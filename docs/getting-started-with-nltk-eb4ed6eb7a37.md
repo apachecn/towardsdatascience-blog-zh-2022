@@ -392,6 +392,6 @@ print(pos_tags[0:10])*
 
 *[Python 中的自然语言处理基础](https://www.udemy.com/course/nlp_natural_language_processing_python_beginners/?referralCode=MEDIUMREADERS) —图片作者*
 
-*[](https://ivopbernardo.medium.com/membership)  
+*<https://ivopbernardo.medium.com/membership>  
 
 这篇文章的代码有一个小要点:*

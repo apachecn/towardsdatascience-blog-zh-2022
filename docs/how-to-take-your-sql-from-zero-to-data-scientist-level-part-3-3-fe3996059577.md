@@ -21,7 +21,7 @@
 
 ## 👇链接到第 1 和第 2 部分
 
-[](/how-to-take-your-sql-from-zero-to-data-scientist-level-part-1-3-d7225d2d89ad)  [](/how-to-take-your-sql-from-zero-to-data-scientist-level-part-2-3-bc1cbb48299e)  
+</how-to-take-your-sql-from-zero-to-data-scientist-level-part-1-3-d7225d2d89ad>  </how-to-take-your-sql-from-zero-to-data-scientist-level-part-2-3-bc1cbb48299e>  
 
 # 1.QA 测试您的 SQL 查询
 
@@ -180,8 +180,8 @@ SSMS 直播查询统计[图片由作者提供]
 
 # 保持联系
 
-如果你喜欢阅读这篇文章并想了解更多，别忘了订阅[](https://medium.com/@alex.vamvakaris.ds/subscribe)**将我的故事直接发送到你的收件箱。**
+如果你喜欢阅读这篇文章并想了解更多，别忘了订阅<https://medium.com/@alex.vamvakaris.ds/subscribe>**将我的故事直接发送到你的收件箱。**
 
 **在下面的链接中，您还可以找到一个免费的 PDF 演示，介绍如何使用 r。**
 
-**[](https://www.aspiringdatascientist.net/community) **
+**<https://www.aspiringdatascientist.net/community> **

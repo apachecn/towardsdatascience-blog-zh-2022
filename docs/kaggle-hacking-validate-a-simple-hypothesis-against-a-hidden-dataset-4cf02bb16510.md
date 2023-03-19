@@ -47,7 +47,7 @@ Andrea Piacquadio 摄于 [Pexels](https://www.pexels.com/photo/photo-of-a-woman-
 
 我准备了一个虚拟内核，在执行结束时，它会将这个`sample_submission.csv`复制为`submission.csv`，给出 0 分，但是它通过了所有检查！此外，我必须区分在公共模式和评估模式下运行——在公共模式下,`sample_submission.csv`是一个空表，所以添加`if not df.empty`会导致流程只在评估阶段被调用。
 
-[](https://www.kaggle.com/code/jirkaborovec/tract-segm-fake-predictions)  
+<https://www.kaggle.com/code/jirkaborovec/tract-segm-fake-predictions>  
 
 虽然内核通常几乎是空的，但我可以将一个或多个资产注入到真实测试数据集存在时执行的评估子过程中。瞧啊。当`assert` 不正确时的简单信号——内核在提交给竞争对手后会出错。
 

@@ -419,4 +419,4 @@ df.plot('GR', 'DEPTH')
 
 *如果你喜欢阅读这些教程，并且想支持我这个作家和创作者，那么请考虑报名成为一名 Medium 会员。一个月 5 美元，你就可以无限制地阅读数千篇各种主题的文章。如果您使用* [***我的链接***](https://andymcdonaldgeo.medium.com/membership) ***，*** *注册，我将为您赚取一小笔佣金，无需额外费用！*
 
-[](https://andymcdonaldgeo.medium.com/membership) 
+<https://andymcdonaldgeo.medium.com/membership> 

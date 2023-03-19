@@ -225,11 +225,11 @@ pip install binclass-tools
 
 有关如何使用软件包中包含的功能的更多详细信息，请参考 GitHub 页面:
 
-[](https://github.com/lucazav/binclass-tools)  
+<https://github.com/lucazav/binclass-tools>  
 
 还添加了交互式 ROC 和精确回忆图，您可以在本文中读到:
 
-[](/roc-and-pr-curves-probabilities-distribution-and-density-plots-now-in-binclass-tools-python-9351681a3803) [## 走向数据科学
+</roc-and-pr-curves-probabilities-distribution-and-density-plots-now-in-binclass-tools-python-9351681a3803> [## 走向数据科学
 
 ### binclass-tools Python 包中的 ROC 和 PR 曲线、概率分布和密度图](/roc-and-pr-curves-probabilities-distribution-and-density-plots-now-in-binclass-tools-python-9351681a3803) 
 

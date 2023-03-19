@@ -142,7 +142,7 @@ k-means 聚类算法综述。数字代表步骤的顺序。图片由作者提供
 
 K-means 聚类易于实现、理解，并且可以很好地扩展到大型数据集，但是，该算法要求您选择聚类的数量，并且可能不适用于所有数据集。
 
-[](/how-to-use-unsupervised-learning-to-cluster-well-log-data-using-python-a552713748b5) [## 如何使用 Python 使用无监督学习对测井数据进行聚类
+</how-to-use-unsupervised-learning-to-cluster-well-log-data-using-python-a552713748b5> [## 如何使用 Python 使用无监督学习对测井数据进行聚类
 
 towardsdatascience.com](/how-to-use-unsupervised-learning-to-cluster-well-log-data-using-python-a552713748b5) 
 

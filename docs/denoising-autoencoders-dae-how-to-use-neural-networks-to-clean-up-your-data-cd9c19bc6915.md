@@ -192,4 +192,4 @@ T3【索尔·多比拉斯】T4
 
 ***通过以下我的个性化链接加入 Medium，继续您的数据科学之旅****:*
 
-[](https://bit.ly/3J6StZI) 
+<https://bit.ly/3J6StZI> 

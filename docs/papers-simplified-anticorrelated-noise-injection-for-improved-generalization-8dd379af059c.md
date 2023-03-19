@@ -28,7 +28,7 @@
 
 为了理解**反 PGD(反扰动梯度下降)**是什么，让我们简单回顾一下 GD 和衍生算法如 SGD 和 PGD 是如何工作的。我在本文的先决条件部分解释了关于 GD 和 SGD 的重要内容
 
-[](/papers-simplified-gradients-without-backpropagation-96e8533943fc)  
+</papers-simplified-gradients-without-backpropagation-96e8533943fc>  
 
 但是让我给你一个简略的版本。
 

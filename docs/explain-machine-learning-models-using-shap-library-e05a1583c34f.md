@@ -227,10 +227,10 @@ Test1 和 Test4 的高值对 SHAP 有负面影响，将分类推到 0 类。图�
 
 **如果你喜欢这个内容，关注我的博客或者考虑使用这个[推荐链接](https://gustavorsantos.medium.com/membership)加入 Medium(部分资源归作者所有)。**
 
-**[](http://gustavorsantos.medium.com/)  
+**<http://gustavorsantos.medium.com/>  
 
 上 [Linkedin](https://www.linkedin.com/in/gurezende/) 找我。
 
 # 参考
 
-[](/mixing-art-into-the-science-of-model-explainability-312b8216fa95)  [](https://medium.com/dataman-in-ai/explain-your-model-with-the-shap-values-bc36aac4de3d)  [](/explain-any-models-with-the-shap-values-use-the-kernelexplainer-79de9464897a)  [](https://www.kaggle.com/code/vikumsw/explaining-random-forest-model-with-shapely-values)  [](https://shap.readthedocs.io/en/latest/api.html#explainers)   **
+</mixing-art-into-the-science-of-model-explainability-312b8216fa95>  <https://medium.com/dataman-in-ai/explain-your-model-with-the-shap-values-bc36aac4de3d>  </explain-any-models-with-the-shap-values-use-the-kernelexplainer-79de9464897a>  <https://www.kaggle.com/code/vikumsw/explaining-random-forest-model-with-shapely-values>  <https://shap.readthedocs.io/en/latest/api.html#explainers>   **

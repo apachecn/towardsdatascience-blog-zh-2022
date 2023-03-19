@@ -2,7 +2,7 @@
 
 > 原文：<https://towardsdatascience.com/whats-behind-word2vec-95e3326a833a>
 
-## [](https://towardsdatascience.com/tagged/word-embeddings-primer)
+## <https://towardsdatascience.com/tagged/word-embeddings-primer>
 
 ## **单词嵌入的概念和方程概述**
 

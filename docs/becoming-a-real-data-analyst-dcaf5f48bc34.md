@@ -110,11 +110,11 @@
 
 # 本系列的前一篇文章
 
-[](/thinking-of-becoming-a-data-analyst-youre-already-one-5773b63ae83b)  
+</thinking-of-becoming-a-data-analyst-youre-already-one-5773b63ae83b>  
 
 # 本系列的下一篇文章
 
-[](/shifting-your-mindset-from-amateur-to-professional-analyst-61383f913408)  
+</shifting-your-mindset-from-amateur-to-professional-analyst-61383f913408>  
 
 *又及:你有没有试过在 Medium 上不止一次点击这里的拍手按钮，看看会发生什么？* ❤️
 

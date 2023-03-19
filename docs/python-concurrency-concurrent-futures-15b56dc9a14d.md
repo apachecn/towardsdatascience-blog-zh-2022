@@ -12,7 +12,7 @@
 
 *以前的故事:*
 
-[](/python-concurrency-threading-and-the-gil-db940596e325)  [](/python-concurrency-multiprocessing-327c02544a5a)  
+</python-concurrency-threading-and-the-gil-db940596e325>  </python-concurrency-multiprocessing-327c02544a5a>  
 
 在连续头疼处理[多线程](/python-concurrency-threading-and-the-gil-db940596e325)和[多进程](/python-concurrency-multiprocessing-327c02544a5a)代码之后，一个梦想开始成形:有没有一种更简单的方法来实现它？有办法隐藏线程、进程、队列和管道的创建吗？有没有一种方法可以将计算转移到其他地方，并获得结果？
 
@@ -152,4 +152,4 @@
 
 *喜欢这个故事吗？通过我下面的推荐链接成为一个媒体成员来支持我的写作。无限制地访问我的故事和许多其他内容。*
 
-[](https://medium.com/@diego-barba/membership) 
+<https://medium.com/@diego-barba/membership> 

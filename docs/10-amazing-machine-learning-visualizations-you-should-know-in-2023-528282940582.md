@@ -416,25 +416,25 @@ PCA 可视化工具最重要的参数包括:
 
 *   ****黄砖，使用单行代码可视化特性的重要性****
 
-**[](https://rukshanpramoditha.medium.com/yellowbrick-for-visualizing-features-importances-using-a-single-line-of-code-33c87572eada)  
+**<https://rukshanpramoditha.medium.com/yellowbrick-for-visualizing-features-importances-using-a-single-line-of-code-33c87572eada>  
 
 *   **解释验证曲线——绘制单个超参数的影响**
 
-[](/validation-curve-explained-plot-the-influence-of-a-single-hyperparameter-1ac4864deaf8)  
+</validation-curve-explained-plot-the-influence-of-a-single-hyperparameter-1ac4864deaf8>  
 
 *   **绘制学习曲线以分析神经网络的训练性能**
 
-[](https://rukshanpramoditha.medium.com/plotting-the-learning-curve-to-analyze-the-training-performance-of-a-neural-network-4a35818d01f2)  
+<https://rukshanpramoditha.medium.com/plotting-the-learning-curve-to-analyze-the-training-performance-of-a-neural-network-4a35818d01f2>  
 
 *   **动手 K 均值聚类**
 
-[](https://medium.com/mlearning-ai/k-means-clustering-with-scikit-learn-e2af706450e4)  
+<https://medium.com/mlearning-ai/k-means-clustering-with-scikit-learn-e2af706450e4>  
 
 ## 支持我当作家
 
 *我希望你喜欢阅读这篇文章。如果你愿意支持我成为一名作家，请考虑* [***注册会员***](https://rukshanpramoditha.medium.com/membership) *以获得无限制的媒体访问权限。它只需要每月 5 美元，我会收到你的会员费的一部分。*
 
-[](https://medium.com/membership/@rukshanpramoditha)  
+<https://medium.com/membership/@rukshanpramoditha>  
 
 非常感谢你一直以来的支持！下一篇文章再见。祝大家学习愉快！
 

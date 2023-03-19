@@ -241,6 +241,6 @@ Follow the steps used in =PROPER()to apply the =LOWER()and =UPPER()functions.Ref
 
 *干杯！*
 
-[](/practical-guide-to-data-visualization-83e375b0037) [## 数据可视化实用指南
+</practical-guide-to-data-visualization-83e375b0037> [## 数据可视化实用指南
 
 towardsdatascience.com](/practical-guide-to-data-visualization-83e375b0037)

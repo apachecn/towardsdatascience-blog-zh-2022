@@ -48,7 +48,7 @@
 
 你可以通过下面的链接了解更多关于交叉熵损失函数的信息。
 
-[](/cross-entropy-loss-function-f38c4ec8643e)  
+</cross-entropy-loss-function-f38c4ec8643e>  
 
 既然我们现在理解了神经网络结构和我们将使用的成本函数，我们可以直接讨论反向传播的步骤。
 
@@ -249,7 +249,7 @@
 
 在本文中，我们通过一个例子讨论了反向传播。我们已经看到如何使用微分链规则来获得不同方程的梯度——损失函数、激活函数、加权方程和层输出方程。我们还讨论了如何使用损失函数的导数来更新每一层的参数。在下一篇文章(附后)中，我们用 Python 实现了这里学到的概念。
 
-[](/how-back-propagation-works-a-python-implementation-21004d3b47c6)  
+</how-back-propagation-works-a-python-implementation-21004d3b47c6>  
 
 请以每月 5 美元的价格注册成为 medium 会员，以便能够阅读我和其他作者在 Medium 上的所有文章。
 

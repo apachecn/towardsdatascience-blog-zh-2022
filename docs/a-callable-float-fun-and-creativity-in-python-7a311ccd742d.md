@@ -187,4 +187,4 @@ True
 
 感谢阅读。如果你喜欢这篇文章，你也可以喜欢我写的其他文章；你会在这里看到他们。如果你想加入 Medium，请使用我下面的推荐链接:
 
-[](https://medium.com/@nyggus/membership) 
+<https://medium.com/@nyggus/membership> 

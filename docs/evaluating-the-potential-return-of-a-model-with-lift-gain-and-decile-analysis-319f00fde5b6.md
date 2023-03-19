@@ -16,7 +16,7 @@
 
 本文中使用的所有示例都可以在我的 github 资源库中找到:
 
-[](https://github.com/vinyluis/Articles/tree/main/Decile%20Gain%20Lift)  
+<https://github.com/vinyluis/Articles/tree/main/Decile%20Gain%20Lift>  
 
 # 十分位数分析
 
@@ -133,4 +133,4 @@ sns.barplot(x = "decile", y = "profit_percent", data = grp_product_profit, order
 
 看看这个很棒的帖子
 
-[](/comparing-sample-distributions-with-the-kolmogorov-smirnov-ks-test-a2292ad6fee5) 
+</comparing-sample-distributions-with-the-kolmogorov-smirnov-ks-test-a2292ad6fee5> 

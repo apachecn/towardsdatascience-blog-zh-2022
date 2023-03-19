@@ -343,4 +343,4 @@ Johannes Plenio 在 [Unsplash](https://unsplash.com/s/photos/lightbulb?utm_sourc
 
 ***Wooldridge，Jeffrey M .计量经济学导论:现代方法。Cengage learning，2015。***
 
-***原载于 2022 年 3 月 31 日 https://sarem-seitz.com*[](https://sarem-seitz.com/blog/if-your-models-are-underperforming-build-better-datasets/)**。****
+***原载于 2022 年 3 月 31 日 https://sarem-seitz.com*<https://sarem-seitz.com/blog/if-your-models-are-underperforming-build-better-datasets/>**。****

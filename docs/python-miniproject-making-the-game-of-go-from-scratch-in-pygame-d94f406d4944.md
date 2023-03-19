@@ -34,7 +34,7 @@
 
 下面的 GitHub 库包含了围棋游戏的完整代码。请注意，这只是一个基本的、最基本的实现，缺少许多你可以在 Go 应用程序和网站中找到的功能，但我选择保持项目简单，专注于本质。您可以看一下代码，然后继续阅读我对一些代码亮点的解释。请随意在 GitHub 上分叉代码，摆弄它，并留下任何评论或问题。
 
-[](https://github.com/thomashikaru/gogame/blob/master/gogame.py)  
+<https://github.com/thomashikaru/gogame/blob/master/gogame.py>  
 
 ## 用 PyGame 创建一个基本游戏
 

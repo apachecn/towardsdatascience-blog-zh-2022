@@ -146,6 +146,6 @@ DB = metrics.davies_bouldin_score(X, labels)
 
 ## 参考资料:
 
-[](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.silhouette_score.html)  [](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.davies_bouldin_score.html)  [](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.calinski_harabasz_score.html)      ![](img/393251d224ddbcfc451923d315ada9bf.png)
+<https://scikit-learn.org/stable/modules/generated/sklearn.metrics.silhouette_score.html>  <https://scikit-learn.org/stable/modules/generated/sklearn.metrics.davies_bouldin_score.html>  <https://scikit-learn.org/stable/modules/generated/sklearn.metrics.calinski_harabasz_score.html>      ![](img/393251d224ddbcfc451923d315ada9bf.png)
 
 Artem Kniaz 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄的照片

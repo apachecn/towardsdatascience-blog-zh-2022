@@ -92,4 +92,4 @@ YOLO 自动锚定算法中使用的度量是棘手的，也许你不需要知道
 
 同时，我鼓励你看看我的其他一些帖子:
 
-[](/learn-to-reproduce-papers-beginners-guide-2b4bff8fcca0)  [](/explainable-defect-detection-using-convolutional-neural-networks-case-study-284e57337b59)  [](/word2vec-with-pytorch-implementing-original-paper-2cd7040120b0) 
+</learn-to-reproduce-papers-beginners-guide-2b4bff8fcca0>  </explainable-defect-detection-using-convolutional-neural-networks-case-study-284e57337b59>  </word2vec-with-pytorch-implementing-original-paper-2cd7040120b0> 

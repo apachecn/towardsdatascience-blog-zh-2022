@@ -66,8 +66,8 @@
 
 即使你是这个领域的初级学生，也有一些你已经知道的东西，你可以和比你落后一步的人分享这些经验。如果你在网上分享你的作品，随着时间的推移，更多正式的机会将会到来！
 
-*PS:我正在 Medium 和*[](https://www.aboutdatablog.com/)**上撰写深入浅出地解释基本数据科学概念的文章。你可以订阅我的* [***邮件列表***](https://medium.com/subscribe/@konkiewicz.m) *每次我写新文章都会收到通知。如果你还不是中等会员，你可以在这里加入*[](https://medium.com/@konkiewicz.m/membership)**。***
+*PS:我正在 Medium 和*<https://www.aboutdatablog.com/>**上撰写深入浅出地解释基本数据科学概念的文章。你可以订阅我的* [***邮件列表***](https://medium.com/subscribe/@konkiewicz.m) *每次我写新文章都会收到通知。如果你还不是中等会员，你可以在这里加入*<https://medium.com/@konkiewicz.m/membership>**。***
 
 **下面是一些你可能会喜欢的帖子**
 
-**[](/3-great-slack-data-science-communities-to-join-this-year-9d1bb1f51682)  [](/categorizing-customer-support-requests-7c285a9cf974)  [](/human-in-the-loop-in-machine-translation-systems-bdf3fe82bfa3)  [](/how-to-successfully-add-large-data-sets-to-google-drive-130beb320f1a) **
+**</3-great-slack-data-science-communities-to-join-this-year-9d1bb1f51682>  </categorizing-customer-support-requests-7c285a9cf974>  </human-in-the-loop-in-machine-translation-systems-bdf3fe82bfa3>  </how-to-successfully-add-large-data-sets-to-google-drive-130beb320f1a> **

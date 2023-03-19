@@ -40,8 +40,8 @@ PyScript 目前还缺乏某些功能，例如，您可能会发现您必须使�
 
 *更新:*[*PyScript 新特性*](https://alan-jones.medium.com/whats-new-in-pyscript-dfdf25538281) *查看截至 2023 年初对 PyScript 进行的一些重大更改。*
 
-[](/create-an-interactive-web-app-with-pyscript-and-pandas-3918ad2dada1)  
+</create-an-interactive-web-app-with-pyscript-and-pandas-3918ad2dada1>  
 
 你可以在我的[网页](http://alanjones2.github.io)上找到更多我的工作和工作代码的链接。
 
-[](https://alanjones2.github.io) 
+<https://alanjones2.github.io> 

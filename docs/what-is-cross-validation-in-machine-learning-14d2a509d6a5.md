@@ -125,4 +125,4 @@ k 的值通常是 5 或 10，但是**斯特奇斯法则**可以用来建立更�
 
 如果你想支持我的内容创作活动，请随时关注我下面的推荐链接，并加入 Medium 的会员计划。我将收到你投资的一部分，你将能够以无缝的方式访问 Medium 的大量数据科学文章。
 
-[](https://medium.com/@theDrewDag/membership) 
+<https://medium.com/@theDrewDag/membership> 

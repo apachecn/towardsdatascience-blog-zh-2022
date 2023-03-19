@@ -146,7 +146,7 @@ for j in range(len(files_in_bioarve)):
 
 # 阅读默罕默德·马苏姆博士(以及媒体上成千上万的其他作家)的每一个故事。
 
-你的会员费将直接支持和激励穆罕默德·马苏曼德和你所阅读的成千上万的其他作家。你还可以在媒体上看到所有的故事—[](https://masum-math8065.medium.com/membership)
+你的会员费将直接支持和激励穆罕默德·马苏曼德和你所阅读的成千上万的其他作家。你还可以在媒体上看到所有的故事—<https://masum-math8065.medium.com/membership>
 
 ****快乐阅读！****
 
@@ -162,7 +162,7 @@ for j in range(len(files_in_bioarve)):
 
 **[5]黄，杨，涂，米，王，陈，周，周，陈，陈…&黄，秦(2020)。中国武汉地区新型冠状病毒感染实验室确诊阳性病例的临床特征:回顾性单中心分析。旅行医学和传染病。**
 
-**【https://www.worldometers.info/coronavirus/】[](https://www.worldometers.info/coronavirus/)**
+**【https://www.worldometers.info/coronavirus/】<https://www.worldometers.info/coronavirus/>**
 
 ****【7】崔，h，文，林君如，聂，林君宜，&马文友(2002 年 5 月)。使用查询日志的概率查询扩展。《第 11 届万维网国际会议论文集》(第 325-332 页)。****
 

@@ -175,4 +175,4 @@ RV =随机变量。
 
 喜欢这篇文章吗？更像下面的。
 
-[](https://www.linkedin.com/in/kate-wall/)  [](/probability-for-data-scientists-the-great-geometric-distribution-586ce424c26b)  [](/probability-distributions-for-beginners-d14f59aba2cb) 
+<https://www.linkedin.com/in/kate-wall/>  </probability-for-data-scientists-the-great-geometric-distribution-586ce424c26b>  </probability-distributions-for-beginners-d14f59aba2cb> 

@@ -128,4 +128,4 @@ A/B 测试可能有 3 种结果:
 *   [A/B 测试中的统计显著性(以及人们如何曲解概率)](https://data36.com/statistical-significance-in-ab-testing/)
 *   [运行 A/B 测试的 8 个常见陷阱](https://medium.com/towards-data-science/online-controlled-experiment-8-common-pitfalls-and-solutions-ea4488e5a82e)
 
-[](/the-statistics-of-the-improbable-cec9a754e0ff)  [](/is-my-model-really-better-560e729f81d2)  [](/machine-learning-science-or-alchemy-655bea25b227) 
+</the-statistics-of-the-improbable-cec9a754e0ff>  </is-my-model-really-better-560e729f81d2>  </machine-learning-science-or-alchemy-655bea25b227> 

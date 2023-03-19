@@ -14,7 +14,7 @@
 
 f 分布与**卡方分布**密切相关。如果您不熟悉卡方分布，我强烈推荐您阅读我以前的一篇文章，其中详细介绍了这种特殊分布的复杂性:
 
-[](/chi-square-distribution-simply-explained-87f707ba631a)  
+</chi-square-distribution-simply-explained-87f707ba631a>  
 
 # 起源
 
@@ -106,6 +106,6 @@ plt.show()
 *   [*领英*](https://www.linkedin.com/in/egor-howell-092a721b3/) 👔
 *   [*碎碎念*](https://twitter.com/EgorHowell) 🖊
 *   [*github*](https://github.com/egorhowell)*🖥*
-*   *[](https://www.kaggle.com/egorphysics)**🏅***
+*   *<https://www.kaggle.com/egorphysics>**🏅***
 
 > ***(所有表情符号都是由 [OpenMoji](https://openmoji.org/) 设计的——开源的表情符号和图标项目。执照: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)***

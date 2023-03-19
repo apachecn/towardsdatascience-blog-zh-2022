@@ -24,7 +24,7 @@
 
 然而，这一体系并非没有缺陷，如新冠肺炎论文的撤回、掠夺性期刊和会议的出现等等。这是一个简短的介绍，如果你对我概述的关于如何改进同行评审的好处、问题和建议感兴趣的话(链接如下)。
 
-[](/how-science-contribution-has-become-a-toxic-environment-6beb382cebcd)  
+</how-science-contribution-has-become-a-toxic-environment-6beb382cebcd>  
 
 一方面，关于如何判断一篇文章的质量，或者是否有可能使用一种算法来评估提交的手稿，还有几个问题没有解决。另一方面如何评价高质量同行评议的决定因素和特点。安娜·塞弗林最近试图用人工智能来回答后一个问题
 
@@ -93,8 +93,8 @@
 
 **这是我的 GitHub 知识库的链接，我计划在这里收集代码和许多与机器学习、人工智能等相关的资源。**
 
-**[](https://github.com/SalvatoreRa/tutorial)  
+**<https://github.com/SalvatoreRa/tutorial>  
 
 或者随意查看我在 Medium 上的其他文章:
 
-[](/a-critical-analysis-of-your-dataset-2b388e7ca01e)  [](/machine-learning-to-tackle-climate-change-7911e004c3a2)  [](/machine-unlearning-the-duty-of-forgetting-3666e5b9f6e5)  [](https://pub.towardsai.net/a-new-bloom-in-ai-why-the-bloom-model-can-be-a-gamechanger-380a15b1fba7) **
+</a-critical-analysis-of-your-dataset-2b388e7ca01e>  </machine-learning-to-tackle-climate-change-7911e004c3a2>  </machine-unlearning-the-duty-of-forgetting-3666e5b9f6e5>  <https://pub.towardsai.net/a-new-bloom-in-ai-why-the-bloom-model-can-be-a-gamechanger-380a15b1fba7> **

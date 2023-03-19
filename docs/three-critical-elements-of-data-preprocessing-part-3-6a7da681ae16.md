@@ -20,11 +20,11 @@
 
 在本系列的第 1 部分中，我们讨论了数据集成，将不同来源的数据组合起来，获得一个包含所有可用相关特性和示例(如沙拉碗)的数据集😊。详情如下:
 
-[](/three-critical-elements-of-data-preprocessing-part-1-3c16f46f8ced)  
+</three-critical-elements-of-data-preprocessing-part-1-3c16f46f8ced>  
 
 随后，我们探讨了数据清理，即在收集的数据集中查找和修复重复、损坏和丢失的数据的过程。详情可在此处找到:
 
-[](/three-critical-elements-of-data-preprocessing-part-2-2078110ae8e7)  
+</three-critical-elements-of-data-preprocessing-part-2-2078110ae8e7>  
 
 在这里，我将从数据科学中建模的角度介绍数据预处理难题的最后一部分，即数据转换。
 
@@ -102,4 +102,4 @@
 
 什么更有趣？你可以通过下面我的推荐链接订阅 Medium 来获得更多我和其他作者的启发性文章，这也支持我的写作。
 
-[](https://aolaoye.medium.com/membership) 
+<https://aolaoye.medium.com/membership> 

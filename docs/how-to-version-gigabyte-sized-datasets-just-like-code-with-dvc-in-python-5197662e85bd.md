@@ -279,11 +279,11 @@ $ mv .dvc/cache/* path/to/shared_cache
 
 文章的第二部分:
 
-[](https://pub.towardsai.net/how-to-track-ml-experiments-with-dvc-inside-vscode-to-boost-your-productivity-a654ace60bab)  
+<https://pub.towardsai.net/how-to-track-ml-experiments-with-dvc-inside-vscode-to-boost-your-productivity-a654ace60bab>  
 
 第三部分:
 
-[](https://pub.towardsai.net/how-to-create-highly-organized-ml-projects-anyone-can-reproduce-with-dvc-pipelines-fc3ac7867d16)  [](https://ibexorigin.medium.com/membership)  [](https://ibexorigin.medium.com/subscribe)  
+<https://pub.towardsai.net/how-to-create-highly-organized-ml-projects-anyone-can-reproduce-with-dvc-pipelines-fc3ac7867d16>  <https://ibexorigin.medium.com/membership>  <https://ibexorigin.medium.com/subscribe>  
 
 ## 数据集的引用:
 
@@ -291,4 +291,4 @@ J.Stallkamp、M. Schlipsing、J. Salmen 和 C. Igel。德国交通标志识别�
 
 以下是我的一些故事:
 
-[](/how-to-create-perfect-machine-learning-development-environment-with-wsl2-on-windows-10-11-2c80f8ea1f31)  [](/how-to-boost-pandas-speed-and-process-10m-row-datasets-in-milliseconds-48d5468e269)  [](/a-complete-shap-tutorial-how-to-explain-any-black-box-ml-model-in-python-7538d11fae94)  [](/3-step-feature-selection-guide-in-sklearn-to-superchage-your-models-e994aa50c6d2) 
+</how-to-create-perfect-machine-learning-development-environment-with-wsl2-on-windows-10-11-2c80f8ea1f31>  </how-to-boost-pandas-speed-and-process-10m-row-datasets-in-milliseconds-48d5468e269>  </a-complete-shap-tutorial-how-to-explain-any-black-box-ml-model-in-python-7538d11fae94>  </3-step-feature-selection-guide-in-sklearn-to-superchage-your-models-e994aa50c6d2> 

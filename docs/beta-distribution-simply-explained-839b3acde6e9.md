@@ -14,7 +14,7 @@
 
 当我们有一些关于成功和失败的数量的信息时，它被用来推断一个事件的概率。
 
-贝塔分布的主要用途是作为贝叶斯统计中的[](https://en.wikipedia.org/wiki/Conjugate_prior)**与 [**二项式**](https://en.wikipedia.org/wiki/Binomial_distribution) 和 [**伯努利**](https://en.wikipedia.org/wiki/Bernoulli_distribution) 分布的共轭先验。在我的下一篇文章中，我们将深入探讨这到底意味着什么，然而在这里，我们将只是获得 Beta 分布背后的一些直觉。**
+贝塔分布的主要用途是作为贝叶斯统计中的<https://en.wikipedia.org/wiki/Conjugate_prior>**与 [**二项式**](https://en.wikipedia.org/wiki/Binomial_distribution) 和 [**伯努利**](https://en.wikipedia.org/wiki/Bernoulli_distribution) 分布的共轭先验。在我的下一篇文章中，我们将深入探讨这到底意味着什么，然而在这里，我们将只是获得 Beta 分布背后的一些直觉。**
 
 # **数学定义**
 
@@ -44,7 +44,7 @@
 
 **你可以在我之前的帖子中读到更多关于伽马函数和 [**伽马分布的信息:**](https://en.wikipedia.org/wiki/Gamma_distribution)**
 
-**[](/gamma-distribution-simply-explained-d95a9de16278)  
+**</gamma-distribution-simply-explained-d95a9de16278>  
 
 # 直觉
 
@@ -134,7 +134,7 @@ plt.show()*
 
 *情节的完整代码可以在我的 GitHub 这里获得:*
 
-*[](https://github.com/egorhowell/Medium-Articles/blob/main/Statistics/Beta_Distribution.ipynb)  
+*<https://github.com/egorhowell/Medium-Articles/blob/main/Statistics/Beta_Distribution.ipynb>  
 
 # 结论
 
@@ -149,6 +149,6 @@ plt.show()*
 *   [*LinkedIn*](https://www.linkedin.com/in/egor-howell-092a721b3/)*👔*
 *   *[*推特*](https://twitter.com/EgorHowell) 🖊*
 *   *[*GitHub*](https://github.com/egorhowell) 🖥*
-*   *[](https://www.kaggle.com/egorphysics)**🏅***
+*   *<https://www.kaggle.com/egorphysics>**🏅***
 
 > ***(所有表情符号都是由 [OpenMoji](https://openmoji.org/) 设计的——开源的表情符号和图标项目。许可证: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)******

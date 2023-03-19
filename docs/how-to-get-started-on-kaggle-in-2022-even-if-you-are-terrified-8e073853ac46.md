@@ -24,11 +24,11 @@
 
 今天，我将向你展示你应该如何分阶段迈出这第一步，这将使你在 Kaggle 上很快获得成功。
 
-[](https://ibexorigin.medium.com/membership)  
+<https://ibexorigin.medium.com/membership>  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex)  
+<https://alphasignal.ai/?referrer=Bex>  
 
 ## 步骤 1:我必须提到的繁琐的设置
 
@@ -195,8 +195,8 @@ FE 在表格和[时间序列比赛](/top-4-time-series-feature-engineering-lesso
 
 但是 Kaggle 最好的地方总是它的社区。它不仅是最突出的在线数据平台，而且其他行业的程序员也尚未形成如此惊人的社区，拥有如此多的熟练专家。不管你的排名如何，成为其中的一部分会比课程和书本更能拓展你的知识和人脉。
 
-[](https://ibexorigin.medium.com/membership)  [](https://ibexorigin.medium.com/subscribe)  
+<https://ibexorigin.medium.com/membership>  <https://ibexorigin.medium.com/subscribe>  
 
 ## 在 LinkedIn(领英)或 Twitter(T2)上与我进行友好的交谈。或者你可以读我的另一个故事。这些怎么样:
 
-[](/22-2-built-in-python-libraries-you-didnt-know-existed-p-guarantee-8-275685dbdb99)  [](/8-booming-data-science-libraries-you-must-watch-out-in-2022-cec2dbb42437)  [](/6-pandas-mistakes-that-silently-tell-you-are-a-rookie-b566a252e60d)  [](/7-cool-python-packages-kagglers-are-using-without-telling-you-e83298781cf4)  [](/25-pandas-functions-you-didnt-know-existed-p-guarantee-0-8-1a05dcaad5d0) 
+</22-2-built-in-python-libraries-you-didnt-know-existed-p-guarantee-8-275685dbdb99>  </8-booming-data-science-libraries-you-must-watch-out-in-2022-cec2dbb42437>  </6-pandas-mistakes-that-silently-tell-you-are-a-rookie-b566a252e60d>  </7-cool-python-packages-kagglers-are-using-without-telling-you-e83298781cf4>  </25-pandas-functions-you-didnt-know-existed-p-guarantee-0-8-1a05dcaad5d0> 

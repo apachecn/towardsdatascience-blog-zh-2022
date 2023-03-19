@@ -165,6 +165,6 @@ sklearn=0.24.1
 
 如果你喜欢这篇文章，这里有一些我写的其他文章，你可能也会感兴趣。
 
-[](/text-summarization-in-python-with-jaro-winkler-and-pagerank-72d693da94e8)  [](/link-prediction-recommendation-engines-with-node2vec-c97c429351a8)  [](/recommendation-systems-explained-a42fc60591ed)  [](/text-similarity-w-levenshtein-distance-in-python-2f7478986e75)  [](/bayesian-a-b-testing-explained-344a6df88c1a) [## 贝叶斯 A/B 测试解释
+</text-summarization-in-python-with-jaro-winkler-and-pagerank-72d693da94e8>  </link-prediction-recommendation-engines-with-node2vec-c97c429351a8>  </recommendation-systems-explained-a42fc60591ed>  </text-similarity-w-levenshtein-distance-in-python-2f7478986e75>  </bayesian-a-b-testing-explained-344a6df88c1a> [## 贝叶斯 A/B 测试解释
 
-towardsdatascience.com](/bayesian-a-b-testing-explained-344a6df88c1a) [](/word2vec-explained-49c52b4ccb71)  [](/louvains-algorithm-for-community-detection-in-python-95ff7f675306) 
+towardsdatascience.com](/bayesian-a-b-testing-explained-344a6df88c1a) </word2vec-explained-49c52b4ccb71>  </louvains-algorithm-for-community-detection-in-python-95ff7f675306> 

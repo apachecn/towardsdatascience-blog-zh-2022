@@ -110,7 +110,7 @@ conda install swig
 
 还需要 Microsoft Visual C++ 14.0 或更高版本。如果没有安装，Box2d 安装会失败。因此，请到这里下载最新的 microsoft C++构建工具。
 
-[](https://visualstudio.microsoft.com/visual-cpp-build-tools/)  
+<https://visualstudio.microsoft.com/visual-cpp-build-tools/>  
 
 您可以在这里安装构建工具。
 
@@ -199,12 +199,12 @@ Twitter
 [https://medium.com/@Vincent.Mueller](https://medium.com/@Vincent.Mueller)
 成为中型会员并支持我(你的部分会员费直接归我)
 
-[](https://medium.com/@Vincent.Mueller/membership)  
+<https://medium.com/@Vincent.Mueller/membership>  
 
 # 相关故事
 
-[](/deep-q-learning-is-no-rocket-science-e34912f1864)  [](/snake-with-policy-gradients-deep-reinforcement-learning-5e6e921db054)  [](/backpropagation-in-neural-networks-6561e1268da8)  
+</deep-q-learning-is-no-rocket-science-e34912f1864>  </snake-with-policy-gradients-deep-reinforcement-learning-5e6e921db054>  </backpropagation-in-neural-networks-6561e1268da8>  
 
 # 其他故事
 
-[](/how-you-can-use-gpt-j-9c4299dd8526)  [](/eigenvalues-and-eigenvectors-378e851bf372)  [](/support-vector-machines-illustrated-b48a32c56388) 
+</how-you-can-use-gpt-j-9c4299dd8526>  </eigenvalues-and-eigenvectors-378e851bf372>  </support-vector-machines-illustrated-b48a32c56388> 

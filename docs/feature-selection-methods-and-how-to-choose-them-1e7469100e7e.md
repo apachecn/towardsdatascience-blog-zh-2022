@@ -432,4 +432,4 @@ ML 的规则是谷歌机器学习最佳实践的便利汇编。在其中，谷�
 
 你也可以试试我的其他文章。不能选择？从这些中选择一个:
 
-[](/reducing-pipeline-debt-with-great-expectations-f1afddbfdc0b)  [](/on-the-importance-of-bayesian-thinking-in-everyday-life-a74475fcceeb)  [](/8-tips-for-object-oriented-programming-in-python-3e98b767ae79) 
+</reducing-pipeline-debt-with-great-expectations-f1afddbfdc0b>  </on-the-importance-of-bayesian-thinking-in-everyday-life-a74475fcceeb>  </8-tips-for-object-oriented-programming-in-python-3e98b767ae79> 

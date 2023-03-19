@@ -48,6 +48,6 @@ DCGAN 的训练与普通 GAN 的训练相同。本质上，我们试图玩一个
 
 完整的实现可以在下面的 Github 资源库中找到:
 
-[](https://github.com/ttchengab/MnistGAN)  
+<https://github.com/ttchengab/MnistGAN>  
 
 *感谢您坚持到现在*🙏*！* *我会在计算机视觉/深度学习的不同领域发布更多内容，所以* [*加入并订阅*](https://taying-cheng.medium.com/membership) *如果你有兴趣了解更多！*

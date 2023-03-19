@@ -72,4 +72,4 @@
 
 如果你喜欢这篇文章，一定要看看我页面上的其他文章！
 
-[](https://medium.com/codex/how-do-i-land-a-data-science-internship-in-the-us-82997d59f18d)  [](https://medium.com/@selfStarter/4-ways-to-get-the-most-out-of-graduate-school-from-a-cmu-grad-7f3d70e51e37)  [](/every-statistical-test-to-check-feature-dependence-773a21cd6722)  [](/rise-of-spark-for-big-data-analytics-e794ca75855d) 
+<https://medium.com/codex/how-do-i-land-a-data-science-internship-in-the-us-82997d59f18d>  <https://medium.com/@selfStarter/4-ways-to-get-the-most-out-of-graduate-school-from-a-cmu-grad-7f3d70e51e37>  </every-statistical-test-to-check-feature-dependence-773a21cd6722>  </rise-of-spark-for-big-data-analytics-e794ca75855d> 

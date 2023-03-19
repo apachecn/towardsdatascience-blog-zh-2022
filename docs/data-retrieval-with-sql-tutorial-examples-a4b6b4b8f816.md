@@ -16,7 +16,7 @@
 
 我们开始吧！
 
-[](https://medium.com/@fmnobar/membership)  
+<https://medium.com/@fmnobar/membership>  
 
 # 先决条件
 

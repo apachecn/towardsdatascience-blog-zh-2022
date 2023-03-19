@@ -85,7 +85,7 @@
 
 在我们深入了解细节之前，这里有一个示例 Google Colab 笔记本供您参考。
 
-[](https://colab.research.google.com/drive/1CV69el6lrIHGDx-e9FDT-RWvahWW_7sS?usp=sharing) [## 谷歌联合实验室
+<https://colab.research.google.com/drive/1CV69el6lrIHGDx-e9FDT-RWvahWW_7sS?usp=sharing> [## 谷歌联合实验室
 
 ### 内存数据质量检查——充满期待的教程](https://colab.research.google.com/drive/1CV69el6lrIHGDx-e9FDT-RWvahWW_7sS?usp=sharing) 
 

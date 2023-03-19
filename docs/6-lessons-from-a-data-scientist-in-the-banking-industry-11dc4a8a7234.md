@@ -93,8 +93,8 @@
 
 最后，所有的工作都有不利的一面。我对我的第一次经历很满意。我完成了有趣的项目。我的工作确实对爱尔兰经济产生了重大影响。要是我有更好的工具来做这项工作就好了。
 
-我希望这篇文章对你有帮助！如果你想看更多，你可以成为我的[](https://conorosullyds.medium.com/membership)****推荐会员来支持我。你可以访问 medium 上的所有文章，我可以得到你的部分费用。****
+我希望这篇文章对你有帮助！如果你想看更多，你可以成为我的<https://conorosullyds.medium.com/membership>****推荐会员来支持我。你可以访问 medium 上的所有文章，我可以得到你的部分费用。****
 
-**[](https://conorosullyds.medium.com/membership)  
+**<https://conorosullyds.medium.com/membership>  
 
 你可以在|[Twitter](https://twitter.com/conorosullyDS)|[YouTube](https://www.youtube.com/channel/UChsoWqJbEjBwrn00Zvghi4w)|[时事通讯](https://mailchi.mp/aa82a5ce1dc0/signup)上找到我——注册免费参加 [Python SHAP 课程](https://adataodyssey.com/courses/shap-with-python/)**

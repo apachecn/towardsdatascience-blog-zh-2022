@@ -86,4 +86,4 @@ gif 在很短的时间内显示大量数据，在某些情况下比静态图更�
 
 如果你喜欢我的写作，请考虑关注我。你也可以通过订阅 Medium 来支持我和其他作家。通过订阅我下面的推荐链接，我收到了部分费用。不过， ***没有额外的费用给你*** 。谢谢你。
 
-[](https://medium.com/@katyhagerty19/membership) 
+<https://medium.com/@katyhagerty19/membership> 

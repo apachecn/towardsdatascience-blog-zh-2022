@@ -18,7 +18,7 @@
 
 在开始这个项目之前，我建议阅读我以前的一篇文章，其中涵盖了七个基本的编程技巧，可以遵循这些技巧来提高 Python 编程语言的生产率。下面提供了到以下文章的链接，包括如何修复一些常见的低效编程实践的简要指南。
 
-[](/7-python-programming-tips-to-improve-your-productivity-a57802f225b6)  
+</7-python-programming-tips-to-improve-your-productivity-a57802f225b6>  
 
 # 用 Python 开发 GIF creator 项目:
 
@@ -155,12 +155,12 @@ print("The GIF file is successfully created!")
 
 如果你想在我的文章发表后第一时间得到通知，请点击下面的[链接](https://bharath-k1297.medium.com/subscribe)订阅邮件推荐。如果你希望支持其他作者和我，请订阅下面的链接。
 
-[](https://bharath-k1297.medium.com/membership)  
+<https://bharath-k1297.medium.com/membership>  
 
 如果你对这篇文章中提到的各点有任何疑问，请在下面的评论中告诉我。我会尽快给你回复。
 
 看看我的一些与本文主题相关的文章，你可能也会喜欢阅读！
 
-[](/the-ultimate-replacements-to-jupyter-notebooks-51da534b559f)  [](/7-best-research-papers-to-read-to-get-started-with-deep-learning-projects-59e11f7b9c32)  [](/visualizing-cpu-memory-and-gpu-utilities-with-python-8028d859c2b0)  
+</the-ultimate-replacements-to-jupyter-notebooks-51da534b559f>  </7-best-research-papers-to-read-to-get-started-with-deep-learning-projects-59e11f7b9c32>  </visualizing-cpu-memory-and-gpu-utilities-with-python-8028d859c2b0>  
 
 谢谢你们坚持到最后。我希望你们都喜欢这篇文章。祝大家有美好的一天！

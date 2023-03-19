@@ -171,7 +171,7 @@ LIMIT 20
 )
 ```
 
-您可以在此了解更多关于使用[](/5-advanced-sql-concepts-you-should-know-in-2022-b50efe6c99)****的信息。****
+您可以在此了解更多关于使用</5-advanced-sql-concepts-you-should-know-in-2022-b50efe6c99>****的信息。****
 
 ****现在，假设您想根据列*数量*和*运输成本*中的值将*订单*表中的记录分类为“*高优先级*”、“*中优先级*”和“*低优先级*”。****
 
@@ -339,7 +339,7 @@ ORDER BY **CASE
 
 > ****💡 [**成为媒介会员**](https://medium.com/@17.rsuraj/membership) 到**无限制访问**媒介上的故事和每日有趣的媒介文摘。我会得到你的费用的一小部分，没有额外的费用给你。****
 
-****[](https://medium.com/@17.rsuraj/membership)  
+****<https://medium.com/@17.rsuraj/membership>  
 
 💡此外， [**注册我的电子邮件列表**](https://medium.com/subscribe/@17.rsuraj) 永远不要错过另一篇关于数据科学指南、技巧和提示、SQL 和 Python 的文章。
 

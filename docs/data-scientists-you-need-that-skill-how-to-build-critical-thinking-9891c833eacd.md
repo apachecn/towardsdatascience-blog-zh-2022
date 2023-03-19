@@ -72,7 +72,7 @@ Benoit Beaumatin 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_mediu
 
 我喜欢冥想，给自己空间和时间。有些人喜欢锻炼身体或写日记。但也可以是一些简单的事情，比如从你的日历中清理掉所有不重要的会议和事件，或者坐 30 分钟喝杯咖啡。对你有用的就行！
 
-[](https://www.huffpost.com/entry/how-to-give-yourself-more_b_519513)  
+<https://www.huffpost.com/entry/how-to-give-yourself-more_b_519513>  
 
 ## 让你的周围充满不同的思想。
 
@@ -119,8 +119,8 @@ Benoit Beaumatin 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_mediu
 
 一如既往的给我留下你的评论和[留言](https://www.linkedin.com/in/aureliegiraud9000/)；我将很高兴收到您的来信，并改进这篇文章。在 Medium 上关注我，了解更多关于数据科学的内容。
 
-[](https://agiraud.medium.com/membership)  
+<https://agiraud.medium.com/membership>  
 
 这篇文章的灵感来自 J [奥登·莫罗](https://www.linkedin.com/in/jordanmorrow/)的一篇帖子，以及专家和同行的评论:[古平顺、](https://www.linkedin.com/in/koopingshung/) [苏珊·沃什、](https://www.linkedin.com/in/susanewalsh/) [唐·甘农-琼斯](https://www.linkedin.com/in/concentrateddon/)、[伊万娜·尤尔基夫](https://www.linkedin.com/in/ivanna-jurkiv-9168b5a5/)、[布莱恩·威利特](https://www.linkedin.com/in/brian-willett-3a72393/)、[乔尔·夏皮罗、](https://www.linkedin.com/in/joelkshapiro/) [梅根·s .](https://www.linkedin.com/in/megan-stanley-seattle/)、[安波·托罗-基奇](https://www.linkedin.com/in/amber-toro-keech/)、
 
-[](https://www.linkedin.com/posts/jordanmorrow_dataliteracy-leadership-data-activity-6827952158655307776-ZZmL?utm_source=share&utm_medium=member_desktop) 
+<https://www.linkedin.com/posts/jordanmorrow_dataliteracy-leadership-data-activity-6827952158655307776-ZZmL?utm_source=share&utm_medium=member_desktop> 

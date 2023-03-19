@@ -23,7 +23,7 @@ AWS Trainium 上的训练由 [AWS Neuron SDK](https://aws.amazon.com/machine-lea
 
 ## TRN1 实例类型产品
 
-AWS 提供了两种 TRN1 实例类型，带有单个 Trainium 芯片的 trn1.2xlarge 和带有 16 个 Trainium 芯片的 trn1.32xlarge。(每个 Trainium 芯片由两个内核组成，称为[](https://awsdocs-neuron.readthedocs-hosted.com/en/latest/general/arch/neuron-hardware/neuroncores-arch.html)*。)这种双重提供并不是理所当然的，因为基于其他核心架构的实例类型有时仅提供单个多芯片选项。例如，在撰写本文时，[亚马逊 EC2 p4d](https://aws.amazon.com/ec2/instance-types/p4/) 家族只包括带有八个[NVIDIA A100](https://www.nvidia.com/en-us/data-center/a100/)GPU 的实例。单芯片 trn1.2xlarge 设计的可用性有两个主要影响。最明显的一点是它适用于较小的培训工作量，对于这些工作量，32 核解决方案是不必要或不可取的。第二，同样重要的含义与我们的讨论有关:较小的 trn1.2xlarge 实例是评估、调整和调整我们的 Trainium 芯片模型的完美环境。当我们调整我们的模型在 NVIDIA A100 GPUs 上运行时，我们别无选择，只能在一个昂贵的八 GPU 实例上这样做，即使单个 GPU 已经足够了。相比之下，使用 Trainium，我们可以在迁移到一个或多个更大的实例进行全面培训之前，在更便宜的单芯片实例上进行大量的分析、实验和探索。*
+AWS 提供了两种 TRN1 实例类型，带有单个 Trainium 芯片的 trn1.2xlarge 和带有 16 个 Trainium 芯片的 trn1.32xlarge。(每个 Trainium 芯片由两个内核组成，称为<https://awsdocs-neuron.readthedocs-hosted.com/en/latest/general/arch/neuron-hardware/neuroncores-arch.html>*。)这种双重提供并不是理所当然的，因为基于其他核心架构的实例类型有时仅提供单个多芯片选项。例如，在撰写本文时，[亚马逊 EC2 p4d](https://aws.amazon.com/ec2/instance-types/p4/) 家族只包括带有八个[NVIDIA A100](https://www.nvidia.com/en-us/data-center/a100/)GPU 的实例。单芯片 trn1.2xlarge 设计的可用性有两个主要影响。最明显的一点是它适用于较小的培训工作量，对于这些工作量，32 核解决方案是不必要或不可取的。第二，同样重要的含义与我们的讨论有关:较小的 trn1.2xlarge 实例是评估、调整和调整我们的 Trainium 芯片模型的完美环境。当我们调整我们的模型在 NVIDIA A100 GPUs 上运行时，我们别无选择，只能在一个昂贵的八 GPU 实例上这样做，即使单个 GPU 已经足够了。相比之下，使用 Trainium，我们可以在迁移到一个或多个更大的实例进行全面培训之前，在更便宜的单芯片实例上进行大量的分析、实验和探索。*
 
 # *1.高级兼容性评估*
 

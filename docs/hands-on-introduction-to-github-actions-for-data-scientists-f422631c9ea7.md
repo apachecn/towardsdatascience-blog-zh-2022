@@ -16,7 +16,7 @@
 
 虽然你当然可以自己从头开始编写所有这些 Github 动作，但我建议不要重新发明轮子。相反，为您的特定用例搜索可用操作的好地方是[市场](https://github.com/marketplace?type=actions)。让我们看看如何在行动中使用它们。
 
-[](https://github.com/V-Sher/Github-Actions-PlayGround)  
+<https://github.com/V-Sher/Github-Actions-PlayGround>  
 
 *注意:尽管运行随心所欲的操作可能很诱人，但私人回购每月只有有限的免费分钟数(约 2000 分钟)和存储空间(约 500MB)(分钟数每月重置，但存储空间不会)。然而，公开回购对 Github 操作的使用没有这样的限制。更多关于计费的细节可以在* [*这里找到*](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions) *。*
 
@@ -165,7 +165,7 @@ jobs:
 
 要使用这个动作，我们只需要使用`with`定义一个`TRIGGER_PHRASE`。它可以是任何字符串，但在我们的例子中是`/get-runs`。
 
-*注意:您会注意到该操作还需要使用* `*env*` *设置一个名为* `*GITHUB_TOKEN*` *的环境变量，但是，GitHub 会自动创建一个唯一的* `*GITHUB_TOKEN*` *秘密以在您的工作流中使用——这意味着您不需要做任何事情！你可以在这里阅读更多关于*[](https://docs.github.com/en/actions/security-guides/automatic-token-authentication#about-the-github_token-secret)**。**
+*注意:您会注意到该操作还需要使用* `*env*` *设置一个名为* `*GITHUB_TOKEN*` *的环境变量，但是，GitHub 会自动创建一个唯一的* `*GITHUB_TOKEN*` *秘密以在您的工作流中使用——这意味着您不需要做任何事情！你可以在这里阅读更多关于*<https://docs.github.com/en/actions/security-guides/automatic-token-authentication#about-the-github_token-secret>**。**
 
 *因为我想检查该步骤返回的所有内容，所以我将用它指定一个`id`。现在，我们可以使用这个带点符号的`id`(例如，`steps.chatops`)将所有内容转储到第 3 步中使用的`toJSON()`的标准输出中。*
 
@@ -273,4 +273,4 @@ result = requests.post(url=url, headers=headers, json=data)**
 
 **我喜欢写循序渐进的初学者指南、操作指南、面试问题、ML/AI 中使用的解码术语等。如果你想完全访问我的所有文章(和其他媒体上的文章)，那么你可以注册使用 [***我的链接***](https://varshitasher.medium.com/membership)**这里* ***。******
 
-**[](/understanding-python-imports-init-py-and-pythonpath-once-and-for-all-4c5249ab6355)  [](/how-to-make-most-of-your-python-debugger-in-vscode-9e05dfce533f)  [](/step-by-step-guide-to-explaining-your-ml-project-during-a-data-science-interview-81dfaaa408bf) **
+**</understanding-python-imports-init-py-and-pythonpath-once-and-for-all-4c5249ab6355>  </how-to-make-most-of-your-python-debugger-in-vscode-9e05dfce533f>  </step-by-step-guide-to-explaining-your-ml-project-during-a-data-science-interview-81dfaaa408bf> **

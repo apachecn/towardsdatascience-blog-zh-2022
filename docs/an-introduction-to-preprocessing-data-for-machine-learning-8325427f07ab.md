@@ -132,10 +132,10 @@ Scikit-learn 有一个被称为[管道](https://medium.com/vickdata/a-simple-gui
 
 关于 Scikit-learn 的更多文章，请参见我之前的帖子。
 
-[](/a-beginners-guide-to-scikit-learn-14b7e51d71a4)  [](/10-things-you-didnt-know-about-scikit-learn-cccc94c50e4f)  
+</a-beginners-guide-to-scikit-learn-14b7e51d71a4>  </10-things-you-didnt-know-about-scikit-learn-cccc94c50e4f>  
 
 感谢阅读！
 
 ## 引用
 
-***Autos 数据集:*** *Jeffrey，C. Schlimmer。https://archive.ics.uci.edu/ml/datasets/Automobile 网络数据仓库[*[](https://archive.ics.uci.edu/ml/datasets/Automobile)**]。在开放科学许可证下使用。**
+***Autos 数据集:*** *Jeffrey，C. Schlimmer。https://archive.ics.uci.edu/ml/datasets/Automobile 网络数据仓库[*<https://archive.ics.uci.edu/ml/datasets/Automobile>**]。在开放科学许可证下使用。**

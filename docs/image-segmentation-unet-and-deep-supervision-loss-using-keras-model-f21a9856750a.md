@@ -411,6 +411,6 @@ best_val = np.inf
 
 [https://arxiv.org/abs/1505.04597](https://arxiv.org/abs/1505.04597)
 
-[](https://arxiv.org/abs/2110.03352v2)  [](https://www.jeremyjordan.me/semantic-segmentation/)  [](https://github.com/shashank14k/Medical-Imaging/tree/main/BrainMRI_Image%20Segmentation)  [](https://ieeexplore.ieee.org/document/9144185)  
+<https://arxiv.org/abs/2110.03352v2>  <https://www.jeremyjordan.me/semantic-segmentation/>  <https://github.com/shashank14k/Medical-Imaging/tree/main/BrainMRI_Image%20Segmentation>  <https://ieeexplore.ieee.org/document/9144185>  
 
 [https://linking hub . Elsevier . com/retrieve/pii/s 001048252100113 x](https://linkinghub.elsevier.com/retrieve/pii/S001048252100113X)

@@ -169,4 +169,4 @@ Correct spelling of "checkk": "check" (with 0.8636363636363636 confidence).
 
 如果你有任何问题或对编辑有任何建议，请随时在下面留下评论，并查看我的更多 [Python 编程](https://pyshark.com/category/python-programming/)教程。
 
-*原载于 2022 年 2 月 25 日 https://pyshark.com*[](https://pyshark.com/spelling-checker-program-in-python/)**。**
+*原载于 2022 年 2 月 25 日 https://pyshark.com*<https://pyshark.com/spelling-checker-program-in-python/>**。**

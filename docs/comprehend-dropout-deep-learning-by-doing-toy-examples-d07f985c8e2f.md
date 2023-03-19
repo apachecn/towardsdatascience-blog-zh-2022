@@ -87,4 +87,4 @@ Dropout 技术通过选择隐藏层中的一些神经元，从原始神经网络
 
 这个故事有助于你理解辍学技巧。我计划在机器学习和深度学习中增加更多这样的玩具例子。因此，如果你喜欢阅读更多，请继续关注😊。
 
-[](https://sciencenotes.medium.com/membership) 
+<https://sciencenotes.medium.com/membership> 

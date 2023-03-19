@@ -20,7 +20,7 @@
 
 尝试不同的逻辑将花费大量的时间来重新编码😦。此外，我需要编写专门的文档来理解我的验证逻辑。
 
-[](/stop-firefighting-data-quality-issues-4c064bcbbb53)  
+</stop-firefighting-data-quality-issues-4c064bcbbb53>  
 
 但是我最近发现了一个 Python 库，它去掉了大部分样板文件。有了它，您可以为模式中的 Pandas 数据帧编写更直观的验证逻辑。
 
@@ -81,7 +81,7 @@ Pandera 引发的验证错误。图片由[作者提供。](https://thuwarakesh.m
 
 在复杂的管道中，您需要在不同的点测试您的数据帧。通常，我们需要在转换前后检查数据完整性。
 
-[](/the-prefect-way-to-automate-orchestrate-data-pipelines-d4465638bac2)  
+</the-prefect-way-to-automate-orchestrate-data-pipelines-d4465638bac2>  
 
 您可以像以前一样使用已加载模式的验证方法。但是，Pandera 有一个更好的方法，使用函数注释。
 
@@ -131,7 +131,7 @@ pip install hypothesis scipy pandera[strategies,hypothesis]
 
 我曾经为我需要执行的每个检查编写专用代码。当你在许多数据集上工作时，这是一件棘手的事情。当您在数据管道上工作时，经常会遇到这种情况。
 
-[](/how-to-speed-up-python-data-pipelines-up-to-91x-80d7accfe7ec)  
+</how-to-speed-up-python-data-pipelines-up-to-91x-80d7accfe7ec>  
 
 您需要在每个数据集上编写类似的代码。通常我的代码分布在几个笔记本上。
 

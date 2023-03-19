@@ -72,7 +72,7 @@ Be 在幕后，*维特根斯坦 2022* 正在使用 OpenAI 的[微调](https://be
 
 那么，GPT-3 真的“理解”了“T8”的逻辑吗？有时候确实是这样。我不是一个哲学家(虽然我年轻的时候经常和一些人在一起)，机器是否能够“理解”或“意识”的问题对我来说似乎从来没有什么建设性。有一次，我甚至有幸让约翰·塞尔试图说服我们几个谷歌工程师相信他著名的论点。它进行得不顺利。顺便提一下，我的同事布莱斯在他最近关于这个主题的文章中说得很有道理。
 
-[](https://medium.com/@blaisea/do-large-language-models-understand-us-6f881d6d8e75)  
+<https://medium.com/@blaisea/do-large-language-models-understand-us-6f881d6d8e75>  
 
 在写这个故事的时候，我用 OpenAI 的[游乐场](https://beta.openai.com/playground)产生了一些标题创意。(可笑的是，GPT 3 号在这项任务上比我强多了。)其中一个建议似乎是在取笑这个问题:
 

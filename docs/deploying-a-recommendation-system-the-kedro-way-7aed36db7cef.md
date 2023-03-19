@@ -207,4 +207,4 @@ First user likes vintage movies, second likes animation
 
 感谢您的阅读，祝您在 MLOps 之旅中好运！
 
-*原载于 2022 年 3 月 28 日【http://itstherealdyl.com】[](https://itstherealdyl.com/2022/03/29/deploying-a-recommendation-system-the-kedro-way/)**。***
+*原载于 2022 年 3 月 28 日【http://itstherealdyl.com】<https://itstherealdyl.com/2022/03/29/deploying-a-recommendation-system-the-kedro-way/>**。***

@@ -16,7 +16,7 @@
 
 要全面了解 Streamlit 的功能，请务必点击下面的链接查看其全面的文档。
 
-[](https://docs.streamlit.io/library/get-started)  
+<https://docs.streamlit.io/library/get-started>  
 
 在本文中，我们将了解开始使用 Streamlit 必不可少的 5 个功能。使用下面的目录跳转到您感兴趣的部分。
 
@@ -207,7 +207,7 @@ Streamlit 应用程序中的侧边栏。图片由作者提供。
 
 如果你想知道如何使用侧边栏来创建导航菜单，那么看看我几个月前分享的下面这篇文章:
 
-[](/creating-true-multi-page-streamlit-apps-the-new-way-2022-b859b3ea2a15)  
+</creating-true-multi-page-streamlit-apps-the-new-way-2022-b859b3ea2a15>  
 
 # 使用 st.file_uploader()上传文件
 

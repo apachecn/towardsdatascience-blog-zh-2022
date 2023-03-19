@@ -24,7 +24,7 @@
 
 在接下来的几节中，我将向您展示如何使用 EER 从部分带注释的数据集中训练模型。为此，我将使用 [spacy-partial-tagger](https://github.com/doccano/spacy-partial-tagger/) ，这是一个使用 EER 实现模型的 Python 库。如果你想详细了解 EER，请看报纸。
 
-[](https://github.com/doccano/spacy-partial-tagger)  
+<https://github.com/doccano/spacy-partial-tagger>  
 
 让我们开始实施。
 

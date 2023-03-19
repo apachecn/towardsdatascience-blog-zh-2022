@@ -118,4 +118,4 @@ the input>0, output=input
 
 > 通过在 python 环境中使用上面的代码块尝试各种版本并观察维度，可以探索更多。
 
-[](https://ibrahimkovan.medium.com/machine-learning-guideline-959da5c6f73d) 
+<https://ibrahimkovan.medium.com/machine-learning-guideline-959da5c6f73d> 

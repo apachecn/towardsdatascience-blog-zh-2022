@@ -92,7 +92,7 @@ DDoS 攻击是一个值得优先考虑的问题，原因有很多。它们是最
 
 我第一次尝试在我的 Macbook 上把这些数据读入 Pandas，结果崩溃了，所以我转到了我的 PC 上。它有 32 GB 的内存，16 核英特尔 9900K CPU 和 NVIDIA 2080ti GPU。当我试图加载这个数据集时，它蓝屏了。
 
-接下来是一个漫长而有启发性的兔子洞之旅，讲述了熊猫对单个 CPU 内核的限制，以及如何解决这个问题。输入[](https://dask.org/)****。** Dask 允许您在多个 CPU 内核上并行化流行的 Python 库，如 NumPy、Pandas 和 scikit-learn。它将工作负载“分块”成更小的块，将它们传递给不同的 CPU 内核并行执行工作，重新组合结果，并以预期的格式返回。下面是我如何使用 Dask 将这个数据集读入熊猫:**
+接下来是一个漫长而有启发性的兔子洞之旅，讲述了熊猫对单个 CPU 内核的限制，以及如何解决这个问题。输入<https://dask.org/>****。** Dask 允许您在多个 CPU 内核上并行化流行的 Python 库，如 NumPy、Pandas 和 scikit-learn。它将工作负载“分块”成更小的块，将它们传递给不同的 CPU 内核并行执行工作，重新组合结果，并以预期的格式返回。下面是我如何使用 Dask 将这个数据集读入熊猫:**
 
 ```
 **from** dask **import** dataframe **as** ddddf **=** dd**.**read_csv(r"FILEPATH", dtype**=**{'SimillarHTTP': 'object'},blocksize**=**'64MB')df **=** ddf**.**compute()

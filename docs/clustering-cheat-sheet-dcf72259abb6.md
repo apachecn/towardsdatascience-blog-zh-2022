@@ -68,7 +68,7 @@ iris 数据集上的层次聚类树状图示例。改编自[公共领域](https:
 
 要了解更多关于测量聚类之间距离的不同方法，请阅读本文:
 
-[](https://dataaspirant.com/hierarchical-clustering-algorithm/#:~:text=creates%20meaningful%20clusters.-,Difference%20ways%20to%20measure%20the%20distance%20between%20two%20clusters,-There%20are%20several)  
+<https://dataaspirant.com/hierarchical-clustering-algorithm/#:~:text=creates%20meaningful%20clusters.-,Difference%20ways%20to%20measure%20the%20distance%20between%20two%20clusters,-There%20are%20several>  
 
 **优点**:
 
@@ -248,11 +248,11 @@ GMM 的例子。[图像来源](https://scikit-learn.org/stable/auto_examples/mix
 
 本文是以下内容的一部分:
 
-[](/unsupervised-learning-algorithms-cheat-sheet-d391a39de44a)  
+</unsupervised-learning-algorithms-cheat-sheet-d391a39de44a>  
 
 您可能还对以下内容感兴趣:
 
-[](/supervised-learning-algorithms-cheat-sheet-40009e7f29f5)  
+</supervised-learning-algorithms-cheat-sheet-40009e7f29f5>  
 
 # 感谢您的阅读！
 

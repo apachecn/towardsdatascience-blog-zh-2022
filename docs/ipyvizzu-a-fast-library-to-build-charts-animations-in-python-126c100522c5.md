@@ -209,7 +209,7 @@ chart.animate(
 
 # 相关文章
 
-[](/an-overview-of-visual-techniques-for-exploratory-data-analysis-in-python-d35703d43faf)  [](/data-visualisation-principles-part-2-layout-and-emphasis-d682bbc38217)  [](/data-visualisation-principles-part-1-a-practical-example-in-altair-b6e16f665fc6)  
+</an-overview-of-visual-techniques-for-exploratory-data-analysis-in-python-d35703d43faf>  </data-visualisation-principles-part-2-layout-and-emphasis-d682bbc38217>  </data-visualisation-principles-part-1-a-practical-example-in-altair-b6e16f665fc6>  
 
 ## 您知道上下文分析对于构建有效的可视化非常重要吗？
 

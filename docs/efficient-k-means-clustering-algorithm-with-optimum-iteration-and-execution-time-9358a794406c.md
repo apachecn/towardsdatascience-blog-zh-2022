@@ -164,8 +164,8 @@
 
 *`***Full notebook is available here.***`*
 
-*[](https://deepnote.com/@md-zubair/Efficient-K-means-Clustering-for-data-driven-modelling-a6ca9f6e-5f62-4914-a16d-6ead5c57ae36)  
+*<https://deepnote.com/@md-zubair/Efficient-K-means-Clustering-for-data-driven-modelling-a6ca9f6e-5f62-4914-a16d-6ead5c57ae36>  
 
 ## 参考
 
-1.  祖拜尔，m .，伊克巴尔，M.A .，希尔，A. *等*一种面向高效数据驱动建模的改进 K 均值聚类算法。*安。数据。Sci。* (2022)。[https://doi.org/10.1007/s40745-022-00428-2](https://doi.org/10.1007/s40745-022-00428-2)* *[](https://mzh706.medium.com/subscribe)  [](https://mzh706.medium.com/membership) *
+1.  祖拜尔，m .，伊克巴尔，M.A .，希尔，A. *等*一种面向高效数据驱动建模的改进 K 均值聚类算法。*安。数据。Sci。* (2022)。[https://doi.org/10.1007/s40745-022-00428-2](https://doi.org/10.1007/s40745-022-00428-2)* *<https://mzh706.medium.com/subscribe>  <https://mzh706.medium.com/membership> *

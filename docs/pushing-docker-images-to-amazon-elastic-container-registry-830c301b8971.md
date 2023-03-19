@@ -87,7 +87,7 @@ hello-world 知识库已创建(作者截图)
 
 ## 其他资源和结论
 
-[](https://github.com/RamVegiraju/AWS-CLI-Cheatsheet/blob/master/ecr.sh)  
+<https://github.com/RamVegiraju/AWS-CLI-Cheatsheet/blob/master/ecr.sh>  
 
 您可以通过上面的链接访问所有 ECR AWS CLI 命令，还有用于 Lambda 等其他流行 AWS 服务的 CLI 命令。当您熟悉 Docker 和 CLI 时，使用 ECR 相当简单。如果你对 Docker with AWS 更感兴趣，请点击这里查看你在[上运行 Docker 的其他服务。](https://aws.amazon.com/docker/)
 

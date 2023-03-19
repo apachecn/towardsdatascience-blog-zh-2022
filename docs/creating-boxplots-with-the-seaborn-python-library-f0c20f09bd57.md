@@ -52,7 +52,7 @@
 
 此外，您可以从 GitHub 资源库下载本教程中使用的数据子集:
 
-[](https://github.com/andymcdgeo/Petrophysics-Python-Series)  
+<https://github.com/andymcdgeo/Petrophysics-Python-Series>  
 
 # 锡伯恩图书馆
 

@@ -205,4 +205,4 @@ for visual in delete_visuals:
 
 提到数据目录在元数据工作中的作用是很重要的。虽然大多数[现代数据目录](https://sarahsnewsletter.substack.com/p/choosing-a-data-catalog)连接到 BI 工具并为您收集元数据，但它们(还)没有完全建立为主动和删除视觉效果。然而，中间的一个折中方案是直接从一个集中的数据目录中导出 BI 元数据，然后自己编写弃用逻辑。这种方法仍然需要处理 API 之类的东西。
 
-【sarahsnewsletter.substack.com】原载于[](https://sarahsnewsletter.substack.com/p/the-thrill-of-deprecating-dashboards)**。**
+【sarahsnewsletter.substack.com】原载于<https://sarahsnewsletter.substack.com/p/the-thrill-of-deprecating-dashboards>**。**

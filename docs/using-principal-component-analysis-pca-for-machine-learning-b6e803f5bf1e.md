@@ -275,7 +275,7 @@ from sklearn.linear_model import LinearRegressiondef calculate_vif(df, features)
     return pd.DataFrame({'VIF': vif, 'Tolerance': tolerance})calculate_vif(df,features)
 ```
 
-[](/statistics-in-python-collinearity-and-multicollinearity-4cc4dcd82b3f)  
+</statistics-in-python-collinearity-and-multicollinearity-4cc4dcd82b3f>  
 
 您应该会看到以下输出:
 
@@ -642,4 +642,4 @@ log_regress_model.score(X_test,y_test)
 
 ## 如果你喜欢阅读我的文章，并且认为它对你的职业/学习有所帮助，请考虑注册成为一名灵媒会员。每月 5 美元，你可以无限制地访问 Medium 上的所有文章(包括我的)。如果你使用下面的链接注册，我会赚一小笔佣金(不需要你额外付费)。你的支持意味着我将能够投入更多的时间来写这样的文章。
 
-[](https://weimenglee.medium.com/membership) 
+<https://weimenglee.medium.com/membership> 

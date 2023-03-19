@@ -195,7 +195,7 @@ plot(roc_curve, col="red", lwd=3)
 
 # 相关文章
 
-[](https://medium.com/geekculture/moving-from-python-to-r-how-to-build-a-simple-regression-model-7d0f8ff79625)  [](/how-to-run-r-scripts-in-jupyter-15527148d2a)  [](/how-to-spend-your-time-when-you-are-waiting-for-a-data-analysis-output-e71b383f43cb)  
+<https://medium.com/geekculture/moving-from-python-to-r-how-to-build-a-simple-regression-model-7d0f8ff79625>  </how-to-run-r-scripts-in-jupyter-15527148d2a>  </how-to-spend-your-time-when-you-are-waiting-for-a-data-analysis-output-e71b383f43cb>  
 
 # 来自社区
 

@@ -184,7 +184,7 @@ Att Loss [1]。
 
 我希望你喜欢 CFA 的这篇评论。正如我不厌其烦地重复的那样，异常检测是一个需要解决的具有挑战性的问题，需要对这些方法进行概述，以了解哪种方法最适合特定的环境。
 
-在上一篇文章中，我建议你看一下解释 [**Skip-GANomaly**](https://arxiv.org/abs/1901.08954) 和 [**AnoGAN**](https://arxiv.org/abs/1703.05921) 的论文。在这篇文章中，我建议你阅读关于[](https://arxiv.org/pdf/2005.02357v3.pdf)**[**PaDiM**](https://arxiv.org/abs/2011.08785)[**cf flow**](https://arxiv.org/abs/2107.12571)和 [**FastFlow**](https://arxiv.org/abs/2111.07677) 的论文。所有这些方法的共同点在于，它们利用预先训练的 CNN 来检测和定位异常。如果你有其他关于阅读的建议，请告诉我，分享知识是提高的最好方法。感谢阅读。祝您愉快！**
+在上一篇文章中，我建议你看一下解释 [**Skip-GANomaly**](https://arxiv.org/abs/1901.08954) 和 [**AnoGAN**](https://arxiv.org/abs/1703.05921) 的论文。在这篇文章中，我建议你阅读关于<https://arxiv.org/pdf/2005.02357v3.pdf>**[**PaDiM**](https://arxiv.org/abs/2011.08785)[**cf flow**](https://arxiv.org/abs/2107.12571)和 [**FastFlow**](https://arxiv.org/abs/2111.07677) 的论文。所有这些方法的共同点在于，它们利用预先训练的 CNN 来检测和定位异常。如果你有其他关于阅读的建议，请告诉我，分享知识是提高的最好方法。感谢阅读。祝您愉快！**
 
 ## **参考资料:**
 
@@ -196,6 +196,6 @@ Att Loss [1]。
 
 ## **GitHub 知识库**
 
-**[](https://github.com/sungwool/CFA_for_anomaly_localization) ** 
+**<https://github.com/sungwool/CFA_for_anomaly_localization> ** 
 
 **你喜欢我的文章吗？ [*成为会员*](https://eugenia-anello.medium.com/membership) *每天无限获取数据科学新帖！这是一种间接的支持我的方式，不会给你带来任何额外的费用。如果您已经是会员，* [*订阅*](https://eugenia-anello.medium.com/subscribe) *每当我发布新的数据科学和 python 指南时，您都会收到电子邮件！***

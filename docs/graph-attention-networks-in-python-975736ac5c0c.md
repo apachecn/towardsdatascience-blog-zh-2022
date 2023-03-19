@@ -238,4 +238,4 @@ Wall time: **55.9 s**
 
 # 相关文章
 
-[](/introduction-to-graphsage-in-python-a9e7f9ecf9d7)  [](/how-to-design-the-most-powerful-graph-neural-network-3d18b07a6e66) 
+</introduction-to-graphsage-in-python-a9e7f9ecf9d7>  </how-to-design-the-most-powerful-graph-neural-network-3d18b07a6e66> 

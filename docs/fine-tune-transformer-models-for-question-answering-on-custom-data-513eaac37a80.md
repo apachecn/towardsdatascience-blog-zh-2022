@@ -20,7 +20,7 @@
 
 例如，让我们使用 SubjQA 数据集的数据—包含来自 6 个不同领域的评论的 10，000 个问题:书籍、电影、杂货、电子产品、猫途鹰(即酒店)和餐馆。
 
-[](https://github.com/megagonlabs/SubjQA)  
+<https://github.com/megagonlabs/SubjQA>  
 
 特别是因为我正在说明微调的力量，我将从电影评论中产生的问题和答案。这些可以方便地分为两个 csv 文件，分别用于培训(train.csv)和测试(test.csv)。
 
@@ -74,7 +74,7 @@
 
 现在是激动人心的部分——将模型部署到 huggingfacehub 后，您就可以从浏览器访问它了！
 
-[](https://huggingface.co/skandavivek2/roberta-finetuned-subjqa-movies_2)  
+<https://huggingface.co/skandavivek2/roberta-finetuned-subjqa-movies_2>  
 
 也可以在笔记本中调用如下:
 
@@ -104,7 +104,7 @@ question_answerer = pipeline(“question-answering”, model=model_checkpoint2)
 
 您可以在这个 GitHub repo 中找到代码:
 
-[](https://github.com/skandavivek/transformerQA-finetuning)  
+<https://github.com/skandavivek/transformerQA-finetuning>  
 
 ***更新:***[***https://www.answerchatai.com/***](https://www.answerchatai.com/)***—我们使用生成式 AI 回答问题并从自定义文本中提取关键知识的 QA 引擎现已上线！回答特定领域的问题 3 个简单的步骤！***
 

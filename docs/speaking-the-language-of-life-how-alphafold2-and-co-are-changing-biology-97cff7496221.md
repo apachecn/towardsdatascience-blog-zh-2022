@@ -36,7 +36,7 @@
 
 图片来源:[此处](https://en.wikipedia.org/wiki/Protein_folding)。蛋白质折叠是一种生物学过程，其中蛋白质链(氨基酸结合的序列)在二级结构中自我组装，然后达到其最终构象或结构(也称为三级结构)。
 
-蛋白质的结构决定了其功能，这对于设计治疗药物非常重要。传统上，研究人员依赖于实验方法，如[](https://en.wikipedia.org/wiki/X-ray_crystallography)**或 [**冷冻电子显微镜** ( **cryo-EM)**](https://en.wikipedia.org/wiki/Cryogenic_electron_microscopy) 。然而，虽然 X 射线晶体学正在返回详细的结构，但它既费力又昂贵(在某些情况下，蛋白质甚至需要 10 万美元)。因此，许多研究小组试图开发算法来预测序列的结构。**
+蛋白质的结构决定了其功能，这对于设计治疗药物非常重要。传统上，研究人员依赖于实验方法，如<https://en.wikipedia.org/wiki/X-ray_crystallography>**或 [**冷冻电子显微镜** ( **cryo-EM)**](https://en.wikipedia.org/wiki/Cryogenic_electron_microscopy) 。然而，虽然 X 射线晶体学正在返回详细的结构，但它既费力又昂贵(在某些情况下，蛋白质甚至需要 10 万美元)。因此，许多研究小组试图开发算法来预测序列的结构。**
 
 **尽管事实上一个序列一对一地映射到一个 3D 结构，但是从序列中预测一个结构是非常困难的。一个单一的突变可以改变结构，两个非常不同的序列可以交出一个相似的结构。此外，该肽非常灵活，可以以多种方式旋转(此外，氨基酸也具有可以旋转的侧链)。此外，我们已经通过实验确定了大约 100，000 个蛋白质结构([蛋白质数据库](https://www.rcsb.org/))，我们还有数百万个结构未知的序列。**
 
@@ -146,4 +146,4 @@
 
 ****这里是我的 Github 资源库的链接，我计划在那里收集代码，以及许多与机器学习、人工智能等相关的资源。****
 
-****[](https://github.com/SalvatoreRa/tutorial) ****
+****<https://github.com/SalvatoreRa/tutorial> ****

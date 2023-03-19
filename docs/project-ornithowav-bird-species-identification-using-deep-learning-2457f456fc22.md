@@ -59,7 +59,7 @@
 
 **阶段 3:模型训练&使用 ai8x 的 C 代码合成——训练&ai8x——合成库**
 
-[](https://github.com/MaximIntegratedAI/ai8x-training)  
+<https://github.com/MaximIntegratedAI/ai8x-training>  
 
 一旦数据准备好了，只需要对训练脚本做一些修改来训练新数据，步骤如下:
 -用新数据更新数据文件夹
@@ -116,4 +116,4 @@
 
 ## Github 链接
 
-[](https://github.com/Kenneth-Joel/Ornithowav) 
+<https://github.com/Kenneth-Joel/Ornithowav> 

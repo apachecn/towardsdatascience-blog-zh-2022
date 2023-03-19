@@ -105,8 +105,8 @@ map2 = folium.Map(location = loc_center, tiles='Stamen Terrain', zoom_start = 5,
 
 我在本文中使用的整个笔记本和数据都在下面我的 Github 存储库中。
 
-[](https://github.com/catris25/Indonesian-Volcanoes-in-Folium)  
+<https://github.com/catris25/Indonesian-Volcanoes-in-Folium>  
 
 # **参考文献**:
 
-[](https://magma.esdm.go.id/v1/edukasi/tipe-gunung-api-di-indonesia-a-b-dan-c)   
+<https://magma.esdm.go.id/v1/edukasi/tipe-gunung-api-di-indonesia-a-b-dan-c>   

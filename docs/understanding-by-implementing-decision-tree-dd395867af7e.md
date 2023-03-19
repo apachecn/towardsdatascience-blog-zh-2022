@@ -210,7 +210,7 @@ class Node:
 
 现在，让我们做实际的决策树实现。我让它兼容 scikit-learn，因此我使用了一些来自`sklearn.base`的类。如果您对此不熟悉，请查看我关于如何构建 scikit-learn 兼容模型的文章:
 
-[](/build-your-own-custom-scikit-learn-regression-5d0d718f289)  
+</build-your-own-custom-scikit-learn-regression-5d0d718f289>  
 
 来实施吧！
 
@@ -363,7 +363,7 @@ print(dt.root)
 
 此外，检查我的基本机器学习算法的其他实现！
 
-[](/understanding-by-implementing-k-nearest-neighbors-469d6f84b8a9)  [](/learning-by-implementing-gaussian-naive-bayes-3f0e3d2c01b2)  
+</understanding-by-implementing-k-nearest-neighbors-469d6f84b8a9>  </learning-by-implementing-gaussian-naive-bayes-3f0e3d2c01b2>  
 
 我希望你今天学到了新的、有趣的、有用的东西。感谢阅读！
 

@@ -24,7 +24,7 @@
 
 在本教程中，我将展示如何使用 OCR 进行文档解析。我将展示一些有用的 Python 代码，这些代码可以很容易地用于其他类似的情况(只需复制、粘贴、运行)，并通过注释遍历每一行代码，这样您就可以很容易地复制这个示例(下面是完整代码的链接)。
 
-[](https://github.com/mdipietro09/DataScience_ArtificialIntelligence_Utils/blob/master/computer_vision/example_ocr_parsing.ipynb)  
+<https://github.com/mdipietro09/DataScience_ArtificialIntelligence_Utils/blob/master/computer_vision/example_ocr_parsing.ipynb>  
 
 我将用一家上市公司的 *PDF* 格式的财务报表作为例子(下面的链接)。
 
@@ -254,4 +254,4 @@ tables[0]**
 
 > **本文是 Python 系列 **CV 的一部分，参见:****
 
-**[](/how-to-detect-objects-with-your-webcam-82693c47bd8)  [](https://pub.towardsai.net/image-classification-with-python-cnn-vs-transformers-fe509cbbc2d0) **
+**</how-to-detect-objects-with-your-webcam-82693c47bd8>  <https://pub.towardsai.net/image-classification-with-python-cnn-vs-transformers-fe509cbbc2d0> **

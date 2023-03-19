@@ -88,7 +88,7 @@
 
 如果你还没有阅读，请不要忘记阅读我的人人图像分析系列的第一篇博客。
 
-[](/image-analytics-for-everyone-image-embeddings-with-orange-7f0b91fa2ca2)  
+</image-analytics-for-everyone-image-embeddings-with-orange-7f0b91fa2ca2>  
 
 ## 文学
 
@@ -100,4 +100,4 @@
 
 ## 我的其他文章
 
-[](/keyword-extraction-methods-the-overview-35557350f8bb)  [](/documents-embeddings-and-text-classification-without-coding-e274b4e191e9)  [](/graph-embeddings-the-summary-cc6075aba007) 
+</keyword-extraction-methods-the-overview-35557350f8bb>  </documents-embeddings-and-text-classification-without-coding-e274b4e191e9>  </graph-embeddings-the-summary-cc6075aba007> 

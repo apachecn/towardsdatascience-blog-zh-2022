@@ -34,7 +34,7 @@
 
 # 婴儿的第一损失函数
 
-均方差(MSE)是众多*指标*[](http://bit.ly/quaesita_opera)**中的一个，你可以用它来衡量你的 [**型号**](http://bit.ly/quaesita_emperorm)**的性能。如果你上了一堂 [**机器学习**](http://bit.ly/quaesita_simplest) 课，你很可能会在教学大纲中很早就遇到它——它通常是婴儿的第一个 [**损失函数**](http://bit.ly/quaesita_emperorm)*[**连续**](http://bit.ly/quaesita_datatypes) 数据。****
+均方差(MSE)是众多*指标*<http://bit.ly/quaesita_opera>**中的一个，你可以用它来衡量你的 [**型号**](http://bit.ly/quaesita_emperorm)**的性能。如果你上了一堂 [**机器学习**](http://bit.ly/quaesita_simplest) 课，你很可能会在教学大纲中很早就遇到它——它通常是婴儿的第一个 [**损失函数**](http://bit.ly/quaesita_emperorm)*[**连续**](http://bit.ly/quaesita_datatypes) 数据。****
 
 *****(如果你对任何一个加粗的***单词的意思不清楚，你可能会想通过链接对每个概念做一个温和的介绍。)******
 

@@ -350,7 +350,7 @@ st.text(text)
 
 我的 [Github 页面](/alanjones2.github.io)包含其他文章和代码的链接。
 
-[](https://alan-jones.medium.com/membership)  
+<https://alan-jones.medium.com/membership>  
 
 为了跟上我正在做的事情，你也可以订阅我偶尔的免费时事通讯 [Technofile](/technofile.substack.com) 。
 

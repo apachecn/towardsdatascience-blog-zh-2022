@@ -16,7 +16,7 @@
 
 随意发挥，并在这里叉这篇文章的源代码:
 
-[](https://github.com/khuyentran1401/customer_segmentation/tree/bentoml_demo)  
+<https://github.com/khuyentran1401/customer_segmentation/tree/bentoml_demo>  
 
 # BentoML 是什么？
 
@@ -282,7 +282,7 @@ $ streamlit run src/streamlit_app.py
 
 如果你想查看我写的所有文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/orchestrate-a-data-science-project-in-python-with-prefect-e69c61a49074)  [](/introduction-to-dvc-data-version-control-tool-for-machine-learning-projects-7cb49c229fe0)  [](/pytest-for-data-scientists-2990319e55e6)  [](/introduction-to-schema-a-python-libary-to-validate-your-data-c6d99e06d56a)  
+</orchestrate-a-data-science-project-in-python-with-prefect-e69c61a49074>  </introduction-to-dvc-data-version-control-tool-for-machine-learning-projects-7cb49c229fe0>  </pytest-for-data-scientists-2990319e55e6>  </introduction-to-schema-a-python-libary-to-validate-your-data-c6d99e06d56a>  
 
 # 参考
 

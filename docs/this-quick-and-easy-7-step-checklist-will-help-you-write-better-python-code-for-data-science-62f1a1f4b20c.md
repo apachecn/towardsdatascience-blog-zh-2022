@@ -88,7 +88,7 @@ Python 因允许用户灵活地编写混乱的代码而臭名昭著，这些代�
 *   外部支持文档的有用链接。
 *   如果需要其他信息或帮助，请提供您的联系信息。
 
-[](/how-to-write-good-code-documentation-for-data-scientists-c9940aebb4f0)  
+</how-to-write-good-code-documentation-for-data-scientists-c9940aebb4f0>  
 
 # 5.您的代码是否针对生产环境进行了优化？
 

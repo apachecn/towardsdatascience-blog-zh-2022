@@ -101,4 +101,4 @@ Raghunathan、Aditi、Sang Michael Xie、、John C Duchi 和 Percy Liang。2019.
 
 安德鲁·戈登·威尔逊。2020.“贝叶斯深度学习的案例。”arXiv 预印本 arXiv:2001.10995 。
 
-*原载于 2022 年 2 月 18 日 https://www.paltmeyer.com*[](https://www.paltmeyer.com/blog/posts/effortsless-bayesian-dl/)**。**
+*原载于 2022 年 2 月 18 日 https://www.paltmeyer.com*<https://www.paltmeyer.com/blog/posts/effortsless-bayesian-dl/>**。**

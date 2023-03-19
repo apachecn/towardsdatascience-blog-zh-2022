@@ -54,8 +54,8 @@ NeurIPS 推出了一个名为数据集和基准的新赛道，以反映以数据
 
 看起来 2022 年将在以数据为中心的方法中带来更多新闻。我推测，我们可能会看到一个或多个新的指标，这将有助于我们评估数据集的质量。也许用我们现在测量模型质量的方式来测量数据质量会成为主流。
 
-*PS:我正在 Medium 和*[](https://www.aboutdatablog.com/)**上撰写深入浅出地解释基本数据科学概念的文章。你可以订阅我的* [***邮件列表***](https://medium.com/subscribe/@konkiewicz.m) *每次我写新文章都会收到通知。如果你还不是中等会员，你可以在这里加入*[](https://medium.com/@konkiewicz.m/membership)**。***
+*PS:我正在 Medium 和*<https://www.aboutdatablog.com/>**上撰写深入浅出地解释基本数据科学概念的文章。你可以订阅我的* [***邮件列表***](https://medium.com/subscribe/@konkiewicz.m) *每次我写新文章都会收到通知。如果你还不是中等会员，你可以在这里加入*<https://medium.com/@konkiewicz.m/membership>**。***
 
 **下面是一些你可能会喜欢的帖子**
 
-**[](/ai-assisted-annotation-with-multimodal-neural-networks-1c69f5a4017c)  [](/jupyter-notebook-autocompletion-f291008c66c)  [](/human-in-the-loop-in-machine-translation-systems-bdf3fe82bfa3)  [](/9-things-you-did-not-know-about-jupyter-notebook-d0d995a8efb3) **
+**</ai-assisted-annotation-with-multimodal-neural-networks-1c69f5a4017c>  </jupyter-notebook-autocompletion-f291008c66c>  </human-in-the-loop-in-machine-translation-systems-bdf3fe82bfa3>  </9-things-you-did-not-know-about-jupyter-notebook-d0d995a8efb3> **

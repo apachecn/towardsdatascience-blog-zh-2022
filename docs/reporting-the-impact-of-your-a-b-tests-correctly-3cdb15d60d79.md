@@ -61,4 +61,4 @@ P 实验中的阳性结果是分析师日常工作中的亮点之一(对产品�
 
 那么你可能也会喜欢我的另一个关于 AB 测试的帖子:
 
-[](/how-to-set-the-minimum-detectable-effect-in-ab-tests-fe07f8002d6d)  [](/finding-the-right-significance-level-for-an-ab-test-26d907ca91c9) 
+</how-to-set-the-minimum-detectable-effect-in-ab-tests-fe07f8002d6d>  </finding-the-right-significance-level-for-an-ab-test-26d907ca91c9> 

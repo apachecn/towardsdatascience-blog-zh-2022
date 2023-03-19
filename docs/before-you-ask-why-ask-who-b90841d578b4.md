@@ -64,7 +64,7 @@
 
 # 感谢阅读！
 
-[](https://kozyrkov.medium.com/membership)  
+<https://kozyrkov.medium.com/membership>  
 
 *附:你有没有试过在 Medium 上不止一次地点击拍手按钮，看看会发生什么？* ❤️
 

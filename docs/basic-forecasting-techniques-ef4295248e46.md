@@ -48,7 +48,7 @@
 
 这也是误差度量 [**平均绝对标度误差【MASE】**](https://en.wikipedia.org/wiki/Mean_absolute_scaled_error)**背后的基础。这是许多专业预测者选择的准确性标准:独立于尺度、可解释和对称。你可以在我之前的文章中读到更多的 MASE:**
 
-[](/an-overview-of-forecasting-performance-metrics-ef548dad0134)  
+</an-overview-of-forecasting-performance-metrics-ef548dad0134>  
 
 下面用 Python 展示了一个绘制和执行简单预测方法的示例:
 
@@ -84,7 +84,7 @@
 
 如果你想了解更多关于季节性和趋势的信息，请查看我以前的帖子:
 
-[](/seasonality-of-time-series-5b45b4809acd)  [](/time-series-decomposition-8f39432f78f9)  
+</seasonality-of-time-series-5b45b4809acd>  </time-series-decomposition-8f39432f78f9>  
 
 # 漂移模型
 
@@ -116,7 +116,7 @@
 
 *这篇文章中使用的全部代码可以从我的 GitHub 获得:*
 
-*[](https://github.com/egorhowell/Medium-Articles/blob/main/Time%20Series/Time%20Series%20Tools/basic_forecasting.py)  
+*<https://github.com/egorhowell/Medium-Articles/blob/main/Time%20Series/Time%20Series%20Tools/basic_forecasting.py>  
 
 # 参考资料和进一步阅读
 
@@ -129,6 +129,6 @@
 *   [*LinkedIn*](https://www.linkedin.com/in/egor-howell-092a721b3/)*👔*
 *   *[*碎碎念*](https://twitter.com/EgorHowell) 🖊*
 *   *[*github*](https://github.com/egorhowell)*🖥**
-*   **[](https://www.kaggle.com/egorphysics)**🏅****
+*   **<https://www.kaggle.com/egorphysics>**🏅****
 
 > ***(所有表情符号都是由 [OpenMoji](https://openmoji.org/) 设计的——开源的表情符号和图标项目。执照: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)****

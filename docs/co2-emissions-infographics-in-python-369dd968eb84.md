@@ -276,10 +276,10 @@ ax**.**text(5,80, text1,
 
 如果你想看更多的文章，请在媒体上关注我或者订阅我偶尔发的[子栈简讯](http://technofile.substack.com)。
 
-[](https://medium.com/membership/@alan-jones)  
+<https://medium.com/membership/@alan-jones>  
 
 ## 笔记
 
 通过下面的链接，你可以在“数据世界”和美国宇航局的图片中找到原始数据。
 
-[](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions)  [](https://github.com/owid/co2-data)  [](https://climate.nasa.gov/climate_resources/24/graphic-the-relentless-rise-of-carbon-dioxide/)  [](https://www.nasa.gov/mission_pages/station/images/index.html) 
+<https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions>  <https://github.com/owid/co2-data>  <https://climate.nasa.gov/climate_resources/24/graphic-the-relentless-rise-of-carbon-dioxide/>  <https://www.nasa.gov/mission_pages/station/images/index.html> 

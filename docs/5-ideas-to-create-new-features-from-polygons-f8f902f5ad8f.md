@@ -189,7 +189,7 @@ WKT 格式是描述多边形的一种简单方式。借助 Shapely 包，您可�
 
 *要阅读更多来自我和其他作家的故事，请在 Medium 上注册。报名时可以使用我的* [*推荐链接*](https://medium.com/@iamleonie/membership) *支持我。我将收取佣金，不需要你额外付费。*
 
-[](https://medium.com/@iamleonie/membership)  
+<https://medium.com/@iamleonie/membership>  
 
 *在*[*LinkedIn*](https://www.linkedin.com/in/804250ab/)*和*[*ka ggle*](https://www.kaggle.com/iamleonie)*！*
 

@@ -32,7 +32,7 @@ k 倍交叉验证是一种需要将训练数据分成 k 个子集的技术。模
 
 对于那些不熟悉这个概念的人，可以看看下面的文章:
 
-[](/an-introduction-to-data-leakage-f1c58f7c1d64)  
+</an-introduction-to-data-leakage-f1c58f7c1d64>  
 
 不幸的是，在执行 k 重交叉验证时，很容易导致数据泄漏，下面将对此进行解释。
 
@@ -62,7 +62,7 @@ k 倍交叉验证仅在模型仅使用它们应该能够访问的数据进行训
 
 通俗地说，管道可以创建将工作流的每一步链接在一起的对象。不熟悉 Scikit-Learn 管道的人可以在此了解更多信息:
 
-[](/why-you-should-use-scikit-learn-pipelines-8754b4d1e375)  
+</why-you-should-use-scikit-learn-pipelines-8754b4d1e375>  
 
 我是这个工具的主要支持者，只要有机会，我就会反复使用它。用户可以将所有的转换器和估算器输入到一个管道对象中，然后对该对象执行 k-fold 交叉验证。
 

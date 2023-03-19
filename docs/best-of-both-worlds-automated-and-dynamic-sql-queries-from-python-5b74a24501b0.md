@@ -75,4 +75,4 @@ Python 连接关系数据库有两种方式:(1)使用 [ODBC(开放式数据库�
 
 # *进一步阅读*
 
-*[](/6-sql-tricks-every-data-scientist-should-know-f84be499aea5)  [](/data-reshaping-in-sql-r-and-python-d44ca19e71b8)  [](https://levelup.gitconnected.com/6-hilarious-programmers-data-scientists-jokes-to-kick-start-2021-187f86dd6a4c) *
+*</6-sql-tricks-every-data-scientist-should-know-f84be499aea5>  </data-reshaping-in-sql-r-and-python-d44ca19e71b8>  <https://levelup.gitconnected.com/6-hilarious-programmers-data-scientists-jokes-to-kick-start-2021-187f86dd6a4c> *

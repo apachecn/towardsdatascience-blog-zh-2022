@@ -301,7 +301,7 @@ T13**CLIP**如何进行零次分类的过程如图**图 3:*****
 3.  **亚历克·拉德福德等 [*从自然语言监督中学习可转移的视觉模型*](https://arxiv.org/pdf/2103.00020.pdf)*(2021 年 2 月)***
 4.  **亚历克·拉德福德等人 [*语言模型是无监督的多任务学习器*](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf) ( *2019* )**
 5.  **Dosovitskiy 等人 [*一幅图像抵得上 16x16 个字:变形金刚在尺度上的图像识别*](https://arxiv.org/abs/2010.11929) *(2020)***
-6.  **张宇豪等[](https://arxiv.org/pdf/2010.00747.pdf)*【2020】从成对的图像和文本中对比学习医学视觉表征***
+6.  **张宇豪等<https://arxiv.org/pdf/2010.00747.pdf>*【2020】从成对的图像和文本中对比学习医学视觉表征***
 7.  ***田，杨等 [*反思少镜头图像分类:一个好的嵌入就够了？*](https://arxiv.org/pdf/2003.11539.pdf)*【2020】****
 8.  **饶永明等[*DenseCLIP:带上下文感知提示的语言引导密集预测*](https://arxiv.org/abs/2112.01518)**
 9.  **周开阳等[*视觉语言模型的条件提示学习*](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Conditional_Prompt_Learning_for_Vision-Language_Models_CVPR_2022_paper.pdf)(*2022 年 3 月)***

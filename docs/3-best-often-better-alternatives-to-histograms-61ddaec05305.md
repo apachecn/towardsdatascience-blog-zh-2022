@@ -38,11 +38,11 @@
 
 在后面的章节中，我们将看到三种直方图选择，它们避免了宁滨偏差，并给出了比较分布的更好结果。
 
-[](https://ibexorigin.medium.com/membership)  
+<https://ibexorigin.medium.com/membership>  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex)  
+<https://alphasignal.ai/?referrer=Bex>  
 
 ## 离散和连续数据复习
 
@@ -233,10 +233,10 @@ dist = [1, 2, 3, 4, 5, 6, 7]
 
 感谢您的阅读！
 
-[](https://ibexorigin.medium.com/membership)  [](https://ibexorigin.medium.com/subscribe)  
+<https://ibexorigin.medium.com/membership>  <https://ibexorigin.medium.com/subscribe>  
 
 ## 您可能也会感兴趣…
 
-[](/open-source-ml-project-with-dagshub-improve-pet-adoption-with-machine-learning-1-e9403f8f7711)  [](/complete-guide-to-experiment-tracking-with-mlflow-and-dagshub-a0439479e0b9)  [](https://ibexorigin.medium.com/6-sklearn-mistakes-that-silently-tell-you-are-rookie-f1fe44779a4d)  
+</open-source-ml-project-with-dagshub-improve-pet-adoption-with-machine-learning-1-e9403f8f7711>  </complete-guide-to-experiment-tracking-with-mlflow-and-dagshub-a0439479e0b9>  <https://ibexorigin.medium.com/6-sklearn-mistakes-that-silently-tell-you-are-rookie-f1fe44779a4d>  
 
 [https://towards data science . com/19-hidden-sk learn-features-you-should-to-learn-the-d-way-5293 e6ff 149](/19-hidden-sklearn-features-you-were-supposed-to-learn-the-hard-way-5293e6ff149)

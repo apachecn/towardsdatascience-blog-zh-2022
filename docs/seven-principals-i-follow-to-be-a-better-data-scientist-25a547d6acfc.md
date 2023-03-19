@@ -88,16 +88,16 @@
 
 感谢您的阅读！如果感兴趣，请查看我的其他文章:
 
-[](https://zzhu17.medium.com/my-blog-posts-gallery-ac6e01fe5cc3)  
+<https://zzhu17.medium.com/my-blog-posts-gallery-ac6e01fe5cc3>  
 
 订阅我的电子邮件列表:
 
-[](https://zzhu17.medium.com/subscribe)  
+<https://zzhu17.medium.com/subscribe>  
 
 注册成为中级会员:
 
-[](https://zzhu17.medium.com/membership)  
+<https://zzhu17.medium.com/membership>  
 
 或者在 YouTube 上关注我:
 
-[](https://youtube.com/channel/UCMs6go1pvY5OOy1DXVtMo5A) 
+<https://youtube.com/channel/UCMs6go1pvY5OOy1DXVtMo5A> 

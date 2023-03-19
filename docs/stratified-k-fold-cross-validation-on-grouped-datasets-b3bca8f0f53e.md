@@ -24,7 +24,7 @@
 
 这篇文章是[上一篇](/stratified-splitting-of-grouped-datasets-using-optimization-bdc12fb6e691)的后续，在那篇文章中，我设计了一种方法，使用离散优化将*分组的*数据集分层划分为训练和验证数据集。我邀请你把它作为对这里介绍的材料的介绍来阅读，在这里我把这个概念扩展到了 [K 倍交叉验证](https://en.wikipedia.org/wiki/Cross-validation_%28statistics%29)。
 
-[](/stratified-splitting-of-grouped-datasets-using-optimization-bdc12fb6e691)  
+</stratified-splitting-of-grouped-datasets-using-optimization-bdc12fb6e691>  
 
 # 分组数据集
 

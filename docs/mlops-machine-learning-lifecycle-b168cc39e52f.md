@@ -311,4 +311,4 @@ Data、ML、Data-ML 和 DevOps 循环可以不同的节奏运行。我总是试�
 
 [![](img/c0b3ff1cd100b0d083b64ab62d80415e.png)](https://www.ml4devs.com/newsletter/)[![](img/bac2c0b02e577402bc596ec11cb947ad.png)](https://twitter.com/intent/follow?user_id=29633907)[![](img/e264d4e0ccfd62b7b649f4ddbf47cc11.png)](https://www.linkedin.com/in/scgupta/)
 
-*原载于*[](https://www.ml4devs.com/articles/mlops-survey-of-machine-learning-life-cycle/)**。**
+*原载于*<https://www.ml4devs.com/articles/mlops-survey-of-machine-learning-life-cycle/>**。**

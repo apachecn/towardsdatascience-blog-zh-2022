@@ -182,14 +182,14 @@ params = {"batch_size": 32, "hidden_size1": 128, "hidden_size2": 256, "lr": 0.04
 
 如果你想了解更多关于应用数据科学的知识，这里是我的新 YouTube 频道— [AI Academy with Friends](https://www.youtube.com/channel/UCvlF0PPaQ2GAuqYKJT4UpJQ)
 
-[](https://www.youtube.com/channel/UCvlF0PPaQ2GAuqYKJT4UpJQ)  
+<https://www.youtube.com/channel/UCvlF0PPaQ2GAuqYKJT4UpJQ>  
 
 > 感谢您的阅读。我希望这篇文章对你有帮助。
 > 
 > 如果你想看我即将发布的关于**黑盒模型解释**和更多内容的帖子，*你可以关注我的* [*中的*](https://medium.com/@gkeretchashvili) *来保持更新。*
 
-[](https://medium.com/@gkeretchashvili)  
+<https://medium.com/@gkeretchashvili>  
 
 > 我以前的文章:
 
-[](/fish-weight-prediction-regression-analysis-for-beginners-part-1-8e43b0cb07e)  [](/regression-analysis-for-beginners-using-tree-based-methods-2b65bd193a7) 
+</fish-weight-prediction-regression-analysis-for-beginners-part-1-8e43b0cb07e>  </regression-analysis-for-beginners-using-tree-based-methods-2b65bd193a7> 

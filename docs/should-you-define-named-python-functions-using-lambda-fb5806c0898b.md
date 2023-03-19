@@ -257,4 +257,4 @@ multiply = lambda x, m: x * m
 
 # 资源
 
-  [](https://betterprogramming.pub/pythons-type-hinting-friend-foe-or-just-a-headache-73c7849039c7)  [](/lambda-functions-with-practical-examples-in-python-45934f3653a8)    [](https://medium.com/@nyggus/membership) 
+  <https://betterprogramming.pub/pythons-type-hinting-friend-foe-or-just-a-headache-73c7849039c7>  </lambda-functions-with-practical-examples-in-python-45934f3653a8>    <https://medium.com/@nyggus/membership> 

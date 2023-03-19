@@ -43,7 +43,7 @@ LookBook 数据集一览[图片由作者提供，数据集由 [PixelDTGAN[1]](ht
 
 我不会讨论如何训练模型的具体步骤，因为我之前已经就这个主题写了一篇文章。只需对所选数据集执行相同的步骤。
 
-[](/how-to-train-stylegan2-ada-with-custom-dataset-dc268ff70544)  
+</how-to-train-stylegan2-ada-with-custom-dataset-dc268ff70544>  
 
 这是训练后的结果。
 
@@ -231,11 +231,11 @@ https://HF_USERNAME:PASSWORD@huggingface.co/spaces/mfrashad/Test
 
 如果你喜欢阅读这样的教程，并希望支持我成为一名作家，可以考虑注册成为一名媒体会员。每月 5 美元，你可以无限制地阅读媒体上的故事。如果你注册使用我的链接，我会赚一小笔佣金。
 
-[](https://medium.com/@mfrashad/membership)  
+<https://medium.com/@mfrashad/membership>  
 
 另外，看看我的其他故事。
 
-[](/how-i-built-an-ai-text-to-art-generator-a0c0f6d6f59f)  [](/animating-yourself-as-a-disney-character-with-ai-78af337d4081)  
+</how-i-built-an-ai-text-to-art-generator-a0c0f6d6f59f>  </animating-yourself-as-a-disney-character-with-ai-78af337d4081>  
 
 # 参考
 

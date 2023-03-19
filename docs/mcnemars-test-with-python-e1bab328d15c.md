@@ -77,7 +77,7 @@ h₁:π₁≠π₂
 
 ## 推荐阅读
 
-[](/chi-square-test-with-python-d8ba98117626)  [](/anova-test-with-python-cfbf4013328b)  [](/two-way-anova-test-with-python-a112e2396d78)  [](https://levelup.gitconnected.com/how-to-perform-one-sample-hypothesis-tests-with-python-308eae8789fc)  [](https://levelup.gitconnected.com/two-sample-hypothesis-tests-with-python-43e1b8c52306)  
+</chi-square-test-with-python-d8ba98117626>  </anova-test-with-python-cfbf4013328b>  </two-way-anova-test-with-python-a112e2396d78>  <https://levelup.gitconnected.com/how-to-perform-one-sample-hypothesis-tests-with-python-308eae8789fc>  <https://levelup.gitconnected.com/two-sample-hypothesis-tests-with-python-43e1b8c52306>  
 
 ## 参考
 

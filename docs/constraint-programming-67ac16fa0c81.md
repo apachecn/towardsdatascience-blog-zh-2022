@@ -145,7 +145,7 @@ Food:
 
 我们找到了容量为 19 的 121 个解决方案。但是这个数字很快就增加了:容量为 1000，就有**8080104**个可能的解决方案！然而，CP-SAT 在不到一秒的时间内就找到了最优解。怎么可能呢？
 
-CP 求解器不会用穷举搜索来强力解决问题，而是结合**试探法和组合搜索。更具体地说，约束满足问题最流行的三种技术是[](https://en.wikipedia.org/wiki/Backtracking)**[**约束传播**](https://en.wikipedia.org/wiki/Local_consistency)[**局部搜索**](https://en.wikipedia.org/wiki/Local_search_(optimization)) 。****
+CP 求解器不会用穷举搜索来强力解决问题，而是结合**试探法和组合搜索。更具体地说，约束满足问题最流行的三种技术是<https://en.wikipedia.org/wiki/Backtracking>**[**约束传播**](https://en.wikipedia.org/wiki/Local_consistency)[**局部搜索**](https://en.wikipedia.org/wiki/Local_search_(optimization)) 。****
 
 **CP-SAT 很特别，因为它结合了 CP 和 SAT:它是合并 CP、LP、SAT 和元启发式的更广泛趋势的一部分。**
 
@@ -183,4 +183,4 @@ CP 求解器不会用穷举搜索来强力解决问题，而是结合**试探法
 
 # **相关文章**
 
-**[](/introduction-to-linear-programming-in-python-9261e7eb44b)  [](/integer-programming-vs-linear-programming-in-python-f1be5bb4e60e) **
+**</introduction-to-linear-programming-in-python-9261e7eb44b>  </integer-programming-vs-linear-programming-in-python-f1be5bb4e60e> **

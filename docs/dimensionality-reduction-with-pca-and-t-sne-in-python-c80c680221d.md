@@ -14,7 +14,7 @@
 
 如果你错过了我们最近三次研讨会中的任何一次，你可以在这里找到这些
 
-[](/a-practical-introduction-to-hierarchical-clustering-from-scikit-learn-ffaf8ee2670c)  [](/a-practical-introduction-to-kmeans-clustering-using-scikit-learn-fd9cff95144b)  [](/a-practical-introduction-to-support-vector-machines-from-scikit-learn-6e678cf1f228)  
+</a-practical-introduction-to-hierarchical-clustering-from-scikit-learn-ffaf8ee2670c>  </a-practical-introduction-to-kmeans-clustering-using-scikit-learn-fd9cff95144b>  </a-practical-introduction-to-support-vector-machines-from-scikit-learn-6e678cf1f228>  
 
 ## 什么是降维？
 
@@ -213,8 +213,8 @@ insta gram:[https://www.instagram.com/ucl.datasci/](https://www.instagram.com/uc
 
 如果你想了解 UCL 数据科学协会和其他优秀作者的最新信息，请使用我下面的推荐代码注册 medium。
 
-[](https://philip-wilkinson.medium.com/membership)  
+<https://philip-wilkinson.medium.com/membership>  
 
 或者查看我在 Medium 上的其他文章
 
-[](/introduction-to-hierarchical-clustering-part-1-theory-linkage-and-affinity-e3b6a4817702)  [](/maximum-likelihood-estimation-and-poisson-regression-in-the-gravity-model-5f0de29e3464)  [](/an-introduction-to-object-oriented-programming-for-data-scientists-879106d90d89) 
+</introduction-to-hierarchical-clustering-part-1-theory-linkage-and-affinity-e3b6a4817702>  </maximum-likelihood-estimation-and-poisson-regression-in-the-gravity-model-5f0de29e3464>  </an-introduction-to-object-oriented-programming-for-data-scientists-879106d90d89> 

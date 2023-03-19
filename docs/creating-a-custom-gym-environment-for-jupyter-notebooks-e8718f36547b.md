@@ -280,4 +280,4 @@ print(f”{Actions(action): <5}: ({self.x},{self.y}) reward = {reward}”)
 
 现在，我们可以为机器人宝宝创造一系列具有挑战性的世界来探索，剩下要做的就是学习如何解决这些问题。关于如何做到这一点的系列文章的第一部分可以在这里找到:
 
-[](/state-values-and-policy-evaluation-ceefdd8c2369)  ![](img/5b3a6c07fb3fc34b11b265f9ccf4e249.png)
+</state-values-and-policy-evaluation-ceefdd8c2369>  ![](img/5b3a6c07fb3fc34b11b265f9ccf4e249.png)

@@ -48,7 +48,7 @@
 
 在这个例子中，瓶子旁边有一本书，我们看到网络变得混乱，并将它的一部分包含到标签的形状中。即使这是一个非常健壮的方法，仍然有一些改进的空间。对于这个项目，我将使用这种方法来检测标签，并尽可能避免这样的错误，我会给出摄影指南(中心标签/无旋转/良好的照明/良好的背景对比度)，以尽量减少网络的错误。
 
-这就是第 2 部分的全部内容。如果你想了解更多关于 U-net 是如何设置的，并探索代码，你可以查看位于 https://github.com/AntoninLeroy/wine_label_reader_toolkit[](https://github.com/AntoninLeroy/wine_label_reader_toolkit)**的 GitHub 项目资源库**
+这就是第 2 部分的全部内容。如果你想了解更多关于 U-net 是如何设置的，并探索代码，你可以查看位于 https://github.com/AntoninLeroy/wine_label_reader_toolkit<https://github.com/AntoninLeroy/wine_label_reader_toolkit>**的 GitHub 项目资源库**
 
 **在下一篇文章中，我们将尝试找到一种方法来使我们的标签圆柱体变平，以便能够用 OCR 库读取它，敬请关注！**
 

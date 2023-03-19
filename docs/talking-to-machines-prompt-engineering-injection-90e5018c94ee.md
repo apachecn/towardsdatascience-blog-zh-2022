@@ -387,4 +387,4 @@ LLM 创建有效代码的能力也可以用来提高它们解决任务的效率�
 
 *通过在 Twitter 上关注我*[*@ Christoph mark _*](https://twitter.com/christophmark_)*或订阅我们在神器研究的* [*简讯*](https://artifact-research.com/newsletter) *来获得关于新博文和免费内容的通知！*
 
-*原载于 2022 年 10 月 3 日 https://artifact-research.com*[](https://artifact-research.com/artificial-intelligence/talking-to-machines-prompt-engineering-injection/)**。**
+*原载于 2022 年 10 月 3 日 https://artifact-research.com*<https://artifact-research.com/artificial-intelligence/talking-to-machines-prompt-engineering-injection/>**。**

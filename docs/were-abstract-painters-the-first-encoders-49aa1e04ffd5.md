@@ -112,8 +112,8 @@
 
 ***喜欢这篇文章吗？你可能也会喜欢以下几个:***
 
-**[](/is-small-data-the-next-big-thing-in-data-science-9acc7f24907f)  [](/zen-and-the-art-of-data-science-how-to-avoid-gumption-traps-a3590deef870)  
+**</is-small-data-the-next-big-thing-in-data-science-9acc7f24907f>  </zen-and-the-art-of-data-science-how-to-avoid-gumption-traps-a3590deef870>  
 
 # 参考
 
-[](https://fr.wikipedia.org/wiki/Composition_avec_grand_plan_rouge,_jaune,_noir,_gris_et_bleu)  [](https://en.wikipedia.org/wiki/De_Stijl)  [](https://en.wikipedia.org/wiki/Impressionism)  [](https://en.wikipedia.org/wiki/Image_segmentation) **
+<https://fr.wikipedia.org/wiki/Composition_avec_grand_plan_rouge,_jaune,_noir,_gris_et_bleu>  <https://en.wikipedia.org/wiki/De_Stijl>  <https://en.wikipedia.org/wiki/Impressionism>  <https://en.wikipedia.org/wiki/Image_segmentation> **

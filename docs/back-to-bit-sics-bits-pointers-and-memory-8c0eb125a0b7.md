@@ -10,7 +10,7 @@
 
 我是物理学出身，没有接受过任何正规的计算机科学教育。然而，作为一名数据科学家，我觉得有必要更好地掌握这个学科，同时也是出于好奇，想学习一些新的东西。
 
-所以，没有比世界上最好的 CS 大学，**斯坦福更好的学习地方了。他们免费开放了很多课程，你可以在这里[](https://online.stanford.edu/free-courses)**查看。我最近一直在研究他们的 [**CS107 计算机组织&系统**](https://web.stanford.edu/class/archive/cs/cs107/cs107.1222/) **。**这深入到编程语言 ***如何真正*** 在幕后工作，以及它们如何与硬件交互。这门课是用 C 语言讲授的，这也是我正在努力学习的东西，因为它被认为是一种“低级”语言，所以它能让你更好地理解计算机是如何工作的。****
+所以，没有比世界上最好的 CS 大学，**斯坦福更好的学习地方了。他们免费开放了很多课程，你可以在这里<https://online.stanford.edu/free-courses>**查看。我最近一直在研究他们的 [**CS107 计算机组织&系统**](https://web.stanford.edu/class/archive/cs/cs107/cs107.1222/) **。**这深入到编程语言 ***如何真正*** 在幕后工作，以及它们如何与硬件交互。这门课是用 C 语言讲授的，这也是我正在努力学习的东西，因为它被认为是一种“低级”语言，所以它能让你更好地理解计算机是如何工作的。****
 
 **在这篇文章中，我解释了我觉得有趣的课程的第一部分，也巩固了我的理解。这些也是数据科学家应该了解的概念。**
 
@@ -111,6 +111,6 @@ int main(){ int x = 2; /* variable declaration */
 *   **[*领英*](https://www.linkedin.com/in/egor-howell-092a721b3/) 👔**
 *   **[*碎碎念*](https://twitter.com/EgorHowell) 🖊**
 *   **[*github*](https://github.com/egorhowell)*🖥***
-*   ***[](https://www.kaggle.com/egorphysics)**🏅*****
+*   ***<https://www.kaggle.com/egorphysics>**🏅*****
 
 > *****(所有表情符号都是由 [OpenMoji](https://openmoji.org/) 设计的——开源的表情符号和图标项目。执照: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)*****

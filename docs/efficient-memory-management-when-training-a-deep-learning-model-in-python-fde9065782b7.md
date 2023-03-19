@@ -16,7 +16,7 @@
 
 所有的代码和例子都可以在我的回购中找到:
 
-[](https://github.com/Eligijus112/big-data-ml)  
+<https://github.com/Eligijus112/big-data-ml>  
 
 我们将尝试解决的目标是创建一个模型，使用以下功能预测纽约市出租车司机的车费金额
 
@@ -48,13 +48,13 @@
 
 要了解更多关于周期性特征的信息，请访问以下资源:
 
-[](https://feature-engine.readthedocs.io/en/1.3.x/user_guide/creation/CyclicalFeatures.html)  
+<https://feature-engine.readthedocs.io/en/1.3.x/user_guide/creation/CyclicalFeatures.html>  
 
 模型中共有 **18** 个特征。
 
 顺便说一句，要更好地理解数据并向伟大的数据科学家社区致敬，请访问本笔记本:
 
-[](https://www.kaggle.com/code/breemen/nyc-taxi-fare-data-exploration)  
+<https://www.kaggle.com/code/breemen/nyc-taxi-fare-data-exploration>  
 
 在这篇文章的标题中，有一个术语叫做*内存管理*。当谈到内存和深度学习时，人们要么指图形处理单元的内存( **GPU)** ，要么指随机存取存储器( **RAM)** 。我将探索 RAM 部分，以及如何使用大数据不堵塞计算机内存。
 

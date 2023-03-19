@@ -137,7 +137,7 @@ TyDiQA-GoldP 很难，因为它的创建方式，也因为语言的选择(例如
 
 如果您对这一行感兴趣，请考虑通过我的推荐链接获得中级会员资格来支持我:
 
-[](https://namiyousef96.medium.com/membership)  
+<https://namiyousef96.medium.com/membership>  
 
 这对我很有帮助，因为你的一部分会员费会归我(别担心，这对你没有额外的费用！)同时让您完全访问 Medium 上的所有文章！
 
@@ -147,21 +147,21 @@ TyDiQA-GoldP 很难，因为它的创建方式，也因为语言的选择(例如
 
 **TyDiQA**
 
-[](https://github.com/google-research-datasets/tydiqa)  
+<https://github.com/google-research-datasets/tydiqa>  
 
 **极限**
 
-[](https://github.com/google-research/xtreme)  
+<https://github.com/google-research/xtreme>  
 
 ## 拥抱面孔储存库
 
 **泰迪卡**
 
-[](https://huggingface.co/datasets/tydiqa)  
+<https://huggingface.co/datasets/tydiqa>  
 
 **Xtreme**
 
-[](https://huggingface.co/datasets/xtreme#licensing-information)  
+<https://huggingface.co/datasets/xtreme#licensing-information>  
 
 ## 引用表
 

@@ -12,7 +12,7 @@
 
 这是散景互动图系列的第三篇也是最后一篇文章。第 3 部分建立在第 1 部分和第 2 部分的基础上。在继续之前，我建议阅读第 1 部分和第 2 部分。
 
-[](https://medium.com/@katyhagerty19/bokeh-stock-comparison-tool-part-1-81afb176a14e)  [](https://medium.com/@katyhagerty19/bokeh-interactive-plotting-part-2-316f8d58f476)  
+<https://medium.com/@katyhagerty19/bokeh-stock-comparison-tool-part-1-81afb176a14e>  <https://medium.com/@katyhagerty19/bokeh-interactive-plotting-part-2-316f8d58f476>  
 
 第 1 部分创建了应用程序的基础，并将管理基金与指数进行了比较。第 2 部分通过将可交易资产与指数进行比较，拓宽了应用的范围。如下所示，第 3 部分添加了一个新的选项卡和图表，让用户可以比较任意两种证券。 ***为清晰起见，本文将顶部“股票代码”小部件中的资产称为主要投资。***“Stock 2 Ticker Symbol”小部件中的资产是相对于主要投资的资产。
 
@@ -54,4 +54,4 @@
 
 欢迎所有反馈。我总是渴望学习新的或更好的做事方法。请随时留下您的评论或联系我 katyhagerty19@gmail.com。
 
-[](https://medium.com/@katyhagerty19/membership) 
+<https://medium.com/@katyhagerty19/membership> 

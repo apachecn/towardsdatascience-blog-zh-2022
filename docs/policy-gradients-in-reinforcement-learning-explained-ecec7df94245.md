@@ -37,7 +37,7 @@ RL 的目标是学习一个好的决策政策π，使回报随时间最大化。
 
 *想了解更多关于 RL 各种类的内容？看看这篇文章:*
 
-[](/the-four-policy-classes-of-reinforcement-learning-38185daa6c8a) [## 强化学习的四个策略类别
+</the-four-policy-classes-of-reinforcement-learning-38185daa6c8a> [## 强化学习的四个策略类别
 
 towardsdatascience.com](/the-four-policy-classes-of-reinforcement-learning-38185daa6c8a) 
 
@@ -312,11 +312,11 @@ softmax 策略的梯度
 
 **Python 实现**(例如，使用 TensorFlow 定义的策略网络)也不需要太多代码——查看我下面的文章中关于连续和离散变体的例子。
 
-[](/a-minimal-working-example-for-discrete-policy-gradients-in-tensorflow-2-0-d6a0d6b1a6d7)  [](/a-minimal-working-example-for-continuous-policy-gradients-in-tensorflow-2-0-d3413ec38c6b)  [](/cliff-walking-problem-with-the-discrete-policy-gradient-algorithm-59d1900d80d8)  
+</a-minimal-working-example-for-discrete-policy-gradients-in-tensorflow-2-0-d6a0d6b1a6d7>  </a-minimal-working-example-for-continuous-policy-gradients-in-tensorflow-2-0-d3413ec38c6b>  </cliff-walking-problem-with-the-discrete-policy-gradient-algorithm-59d1900d80d8>  
 
 如果你想更进一步，也可以阅读我关于自然梯度和 TRPO 的文章，它们构成了当代政策梯度算法的基础:
 
-[](/natural-policy-gradients-in-reinforcement-learning-explained-2265864cf43c)  [](/trust-region-policy-optimization-trpo-explained-4b56bd206fc2)  
+</natural-policy-gradients-in-reinforcement-learning-explained-2265864cf43c>  </trust-region-policy-optimization-trpo-explained-4b56bd206fc2>  
 
 如果你成功了，恭喜你！掌握策略梯度算法需要一些时间，但一旦掌握，它们就为混合方法(如行动者-批评家方法)以及更高级的方法(如近似策略优化)打开了大门。因此，他们的理解对任何 RL 从业者都是至关重要的。
 

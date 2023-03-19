@@ -132,7 +132,7 @@ package GoSamplePackage
 
 使用解决方案设置，我创建了一个到/echo 端点的查询。TigerGraph 内置端点的完整文档可以在[这里](https://docs.tigergraph.com/tigergraph-server/current/api/built-in-endpoints)找到。
 
-[](https://docs.tigergraph.com/tigergraph-server/current/api/built-in-endpoints)  
+<https://docs.tigergraph.com/tigergraph-server/current/api/built-in-endpoints>  
 
 我创建的 Go 函数接受两个参数，子域(主机)和令牌。
 
@@ -163,7 +163,7 @@ go mod tidy
 
 在这里找到完整的代码。
 
-[](https://github.com/GenericP3rson/GoSamplePackage/blob/master/GoSamplePackage.go)  
+<https://github.com/GenericP3rson/GoSamplePackage/blob/master/GoSamplePackage.go>  
 
 这是您可以创建的函数的一个例子，但是天空是创建包的极限。一旦您满意了，您就可以继续部署代码了。
 
@@ -301,14 +301,14 @@ go run .
 
 Go 和 DigitalOcean 为围棋初学者提供了几个方便的资源，对学习这门语言非常有帮助。
 
-[](https://go.dev/learn/)  [](https://go.dev/doc/tutorial/getting-started)  [](https://www.digitalocean.com/community/tutorials/how-to-write-packages-in-go)  
+<https://go.dev/learn/>  <https://go.dev/doc/tutorial/getting-started>  <https://www.digitalocean.com/community/tutorials/how-to-write-packages-in-go>  
 
 最后，如果您对该图感兴趣，请随时加入 TigerGraph 社区，参与令人惊叹的项目并与其他开发人员聊天。
 
-[](https://discord.gg/DMHabbX3BA)  
+<https://discord.gg/DMHabbX3BA>  
 
 如果你想了解这个项目的完整代码，请点击这里查看。
 
-[](https://github.com/GenericP3rson/GoSamplePackage)  
+<https://github.com/GenericP3rson/GoSamplePackage>  
 
 > 注:除特别注明外，所有图片均由作者创作。

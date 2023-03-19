@@ -42,7 +42,7 @@
 
 我们不会详细介绍我们是如何创建这个 PDP 的。如果你感兴趣，下面的文章会很有用。它带你一步一步地了解情节是如何创建的。我们还讨论了其他全局模型不可知的方法。那就是互信息和特征重要性。
 
-[](/finding-and-visualising-non-linear-relationships-4ecd63a43e7e)  
+</finding-and-visualising-non-linear-relationships-4ecd63a43e7e>  
 
 对于 ***局部*** 的诠释，SHAP 是一种常见的方法。在图 3 中，您可以看到单个预测的 SHAP 瀑布图。这是一个用来预测鲍鱼壳年轮数量的模型。这里我们将模型的预测值 f(x)与平均预测值 E[f(x)]进行比较。我们可以看到每个特征是如何影响预测的。例如， ***剥壳重量*** 的值使预测的环数增加了 1.81。
 
@@ -84,7 +84,7 @@
 
 这方面的一个例子可以在下面的文章中找到。在这里，我们建立了一个模型来预测推文的情绪。这是使用单词袋方法和支持向量机(SVM)完成的。通过训练 SVM 的过程，训练集中的每个 N 元语法被赋予一个权重。我们通过查看这些权重来解释 SVM，从而结束本文。
 
-[](/introduction-to-sentiment-analysis-f623f7d40bfa)  
+</introduction-to-sentiment-analysis-f623f7d40bfa>  
 
 您可以在图 6 中看到这些权重的一些示例。具有正权重的 n-gram 与积极情绪相关联。换句话说，如果一条推文包含这些词中的一个，我们更有可能预测到积极的情绪。同样，那些负权重的人与消极情绪有关。也有单词没有关联情感的情况。
 
@@ -98,7 +98,7 @@
 
 我希望这篇文章对你有帮助！你可以成为我的 [**推荐会员**](https://conorosullyds.medium.com/membership) **来支持我。你可以访问 Medium 上的所有文章，我可以得到你的部分费用。**
 
-[](https://conorosullyds.medium.com/membership)  
+<https://conorosullyds.medium.com/membership>  
 
 你可以在|[Twitter](https://twitter.com/conorosullyDS)|[YouTube](https://www.youtube.com/channel/UChsoWqJbEjBwrn00Zvghi4w)|[时事通讯](https://mailchi.mp/aa82a5ce1dc0/signup)上找到我——注册免费参加 [Python SHAP 课程](https://adataodyssey.com/courses/shap-with-python/)
 

@@ -111,12 +111,12 @@ Class GenericClass:.
 
 如果你喜欢这篇文章，你可能也会喜欢我其他类似主题的文章。
 
-[](https://sidbannet.medium.com/membership)  
+<https://sidbannet.medium.com/membership>  
 
 和 [*关注我*](https://medium.com/@sidbannet) 即将发布的关于随机建模、数据科学和 python 技巧的每周文章。
 
 ## 我以前的故事:
 
-[](/how-to-analyze-time-series-data-with-pandas-4dea936fe012)  [](/how-to-build-plotly-choropleth-map-with-covid-data-using-pandas-in-google-colab-45951040b8e4)  
+</how-to-analyze-time-series-data-with-pandas-4dea936fe012>  </how-to-build-plotly-choropleth-map-with-covid-data-using-pandas-in-google-colab-45951040b8e4>  
 
 A 关于我——我开发**高性能计算模型**来理解*湍流*、*多相流、*和*燃烧火焰*。我应用**数据科学**来加速*推进*装置的设计创新。我于 2011 年获得了威斯康辛大学麦迪逊分校的博士学位，主修*机械和化学工程*，辅修*数学*、*统计学*和*计算机科学*。请随意查看我的 GitHub 资源库，并在[*Linkedin*](https://www.linkedin.com/in/sidban)*上关注我。*

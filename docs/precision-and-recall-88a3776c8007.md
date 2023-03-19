@@ -142,15 +142,15 @@ neptune.ai 的这篇博客文章对何时使用这些不同的指标进行了很
 
 维基百科使用圆形、方形和颜色进行了很好的可视化(注意本文中特异性和精确性的区别):
 
-[](https://en.wikipedia.org/wiki/Sensitivity_and_specificity)  
+<https://en.wikipedia.org/wiki/Sensitivity_and_specificity>  
 
 这篇中型文章也有一些非常好的文氏图:
 
-[](https://medium.com/@klintcho/explaining-precision-and-recall-c770eb9c69e9)  
+<https://medium.com/@klintcho/explaining-precision-and-recall-c770eb9c69e9>  
 
 这也是一个很好的例子和解释
 
-[](https://jamesmccaffrey.wordpress.com/2016/10/24/precision-and-recall-in-information-retrieval/)  
+<https://jamesmccaffrey.wordpress.com/2016/10/24/precision-and-recall-in-information-retrieval/>  
 
 # 结论
 
@@ -160,4 +160,4 @@ neptune.ai 的这篇博客文章对何时使用这些不同的指标进行了很
 
 ## 了解更多信息
 
-[](/simple-logistic-regression-a9735ed23abd)  [](/random-forest-29cf337c68d4) 
+</simple-logistic-regression-a9735ed23abd>  </random-forest-29cf337c68d4> 

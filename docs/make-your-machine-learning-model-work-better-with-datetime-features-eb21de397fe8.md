@@ -300,4 +300,4 @@ accuracy_score(y_test, y_pred)
 
 # 相关文章
 
-[](/a-machine-learning-model-is-no-longer-a-black-box-thanks-to-shap-9f6ae3adaedc)  [](https://medium.com/geekculture/why-overfitting-makes-machine-learning-algorithms-perform-worse-7414ce71031a)  [](/getting-started-with-comet-ml-549d44aff0c9) 
+</a-machine-learning-model-is-no-longer-a-black-box-thanks-to-shap-9f6ae3adaedc>  <https://medium.com/geekculture/why-overfitting-makes-machine-learning-algorithms-perform-worse-7414ce71031a>  </getting-started-with-comet-ml-549d44aff0c9> 

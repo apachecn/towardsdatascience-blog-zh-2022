@@ -28,7 +28,7 @@ KNN 分类器是如何工作的？图片作者。
 
 如果你对更多的技术细节和如何在 R 中实现算法感兴趣，请查看我早先的帖子。如果没有，继续读下去，因为这个简单的解释是我们理解 KNN 算法如何与人相关所需要知道的。
 
-[](https://medium.com/@zvonimir.boban.mef/birds-of-a-feather-flock-together-the-story-of-the-knn-classifier-d62b31eb58fa)  
+<https://medium.com/@zvonimir.boban.mef/birds-of-a-feather-flock-together-the-story-of-the-knn-classifier-d62b31eb58fa>  
 
 ## 培训、验证、测试、开始！
 

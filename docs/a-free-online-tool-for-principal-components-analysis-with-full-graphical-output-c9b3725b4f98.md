@@ -24,7 +24,7 @@ PCA 是一种用于减少数据集中的维数同时保留最重要信息的技�
 
 如果你关注我，你已经知道我是客户端 web 编程的强烈拥护者。从数字数据分析和模拟到数据废弃、文本分析和合成、加密、甚至增强和虚拟现实，我喜欢为网络浏览器编写所有这些代码。几个例子项目和阅读:
 
-[](/websites-for-statistics-and-data-analysis-on-every-device-ebf92bec3e53)  [](https://pub.towardsai.net/interactive-augmented-reality-web-apps-to-enable-immersive-experiences-for-science-education-dce51889473f)  [](/exquisite-hand-and-finger-tracking-in-web-browsers-with-mediapipes-machine-learning-models-2c4c2beee5df)  [](https://medium.com/age-of-awareness/metaverse-not-sure-but-webxr-hell-yes-12af5b302e08)  [](/live-display-of-cryptocurrency-data-in-a-vr-environment-on-the-web-af476376d018)  
+</websites-for-statistics-and-data-analysis-on-every-device-ebf92bec3e53>  <https://pub.towardsai.net/interactive-augmented-reality-web-apps-to-enable-immersive-experiences-for-science-education-dce51889473f>  </exquisite-hand-and-finger-tracking-in-web-browsers-with-mediapipes-machine-learning-models-2c4c2beee5df>  <https://medium.com/age-of-awareness/metaverse-not-sure-but-webxr-hell-yes-12af5b302e08>  </live-display-of-cryptocurrency-data-in-a-vr-environment-on-the-web-af476376d018>  
 
 # 在线免费 PCA 的网络应用程序
 
@@ -104,6 +104,6 @@ PCA 是一种用于减少数据集中的维数同时保留最重要信息的技�
 
 这里有一些其他资源。对我来说，没有一个足够清楚地涵盖了整个事情，但是您至少可以获得一些步骤的编写良好的部分:
 
-[](https://en.wikipedia.org/wiki/Principal_component_analysis#Computing_PCA_using_the_covariance_method)    [](/the-mathematics-behind-principal-component-analysis-fff2d7f4b643)  
+<https://en.wikipedia.org/wiki/Principal_component_analysis#Computing_PCA_using_the_covariance_method>    </the-mathematics-behind-principal-component-analysis-fff2d7f4b643>  
 
 www.lucianoabriata.com*我写作并拍摄我广泛兴趣范围内的一切事物:自然、科学、技术、编程等等。* [***成为中级会员***](https://lucianosphere.medium.com/membership) *访问其所有故事和* [***订阅获取我的新故事***](https://lucianosphere.medium.com/subscribe) ***通过电子邮件*** *(平台的附属链接，我可以免费获得小额收入)。到* ***咨询关于小职位*** *查看我的* [***服务页面这里***](https://lucianoabriata.altervista.org/services/index.html) *。或者* [***联系我这里***](https://lucianoabriata.altervista.org/office/contact.html) ***。***
