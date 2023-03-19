@@ -117,18 +117,6 @@
 
 如果你喜欢这篇文章，试着读一下:
 
-[](https://medium.com/general_knowledge/how-to-become-a-music-sommelier-2966903da766) [## 如何成为一名音乐侍酒师
-
-### 给人们的品尝体验添加一些声波调料
-
-medium.com](https://medium.com/general_knowledge/how-to-become-a-music-sommelier-2966903da766) [](https://medium.datadriveninvestor.com/when-fans-become-investors-the-use-of-nfts-in-the-music-industry-59bf3172d041) [## 当粉丝成为投资者 NFTs 在音乐行业的应用
-
-### 用户也是歌曲的所有者
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/when-fans-become-investors-the-use-of-nfts-in-the-music-industry-59bf3172d041) [](https://medium.com/predict/were-entering-into-a-post-screen-future-sound-is-the-way-7795db0ee022) [## 我们正在进入后屏幕时代——声音是一种方式
-
-### 向音频驱动的技术交互过渡
-
-medium.com](https://medium.com/predict/were-entering-into-a-post-screen-future-sound-is-the-way-7795db0ee022) 
+[](https://medium.com/general_knowledge/how-to-become-a-music-sommelier-2966903da766)  [](https://medium.datadriveninvestor.com/when-fans-become-investors-the-use-of-nfts-in-the-music-industry-59bf3172d041)  [](https://medium.com/predict/were-entering-into-a-post-screen-future-sound-is-the-way-7795db0ee022)  
 
 *如果你喜欢阅读这样的故事，并愿意支持 Medium 上的作家，考虑* [*注册成为 Medium 会员。每月只需 5 美元，你就可以无限制地阅读世界各地优秀作家的文章。*](https://pmarinko.medium.com/membership)

@@ -12,19 +12,11 @@
 
 *请看下面的链接，链接到一篇关于为什么需要回归的早期文章。*
 
-[](/linear-regression-the-basic-building-blocks-part-1-abd605c39f) [## 线性回归——基本构件！(第一部分)
-
-### 介绍最广泛使用的数据科学技术之一的需求和基本概念。
-
-towardsdatascience.com](/linear-regression-the-basic-building-blocks-part-1-abd605c39f) 
+[](/linear-regression-the-basic-building-blocks-part-1-abd605c39f)  
 
 *..一个解释线性回归背后的科学/数学。*
 
-[](/linear-regression-the-behind-the-scenes-data-science-part-2-efdb9bf5437c) [## 线性回归—幕后数据科学！(第二部分)
-
-### 深入探究最广泛使用的数据科学之一背后的数据科学/数学…
-
-towardsdatascience.com](/linear-regression-the-behind-the-scenes-data-science-part-2-efdb9bf5437c) 
+[](/linear-regression-the-behind-the-scenes-data-science-part-2-efdb9bf5437c)  
 
 任何模型或任何程序都带有一堆**假设**，这些是**必须为真**的条件，模型才能被视为**成功匹配**。*将这些视为“如果 a，b，c 为真，则 x，y，z 成立”一类的陈述，当其为真时，意味着我们可以应用这种统计技术(即拟合我们的线性回归模型)。*
 

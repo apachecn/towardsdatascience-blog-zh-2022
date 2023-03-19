@@ -145,44 +145,12 @@ R²: 0.424`
 
 *考虑申请正规化？一定不要犯这种常见的错误:*
 
-[](/avoid-this-pitfall-when-using-lasso-and-ridge-regression-f4f4948bfe70) [## 使用套索和脊回归时避免这个陷阱
-
-### 你的监管处罚可能针对错误的变量
-
-towardsdatascience.com](/avoid-this-pitfall-when-using-lasso-and-ridge-regression-f4f4948bfe70) 
+[](/avoid-this-pitfall-when-using-lasso-and-ridge-regression-f4f4948bfe70)  
 
 *对回归感兴趣？你可能也想阅读多项式回归:*
 
-[](/polynomial-regression-an-alternative-for-neural-networks-c4bd30fa6cf6) [## 多项式回归——神经网络的替代方案？
-
-### 讨论多项式和神经网络，理论上都能够近似连续函数…
-
-towardsdatascience.com](/polynomial-regression-an-alternative-for-neural-networks-c4bd30fa6cf6) 
+[](/polynomial-regression-an-alternative-for-neural-networks-c4bd30fa6cf6)  
 
 # 参考
 
- [## 弹性网正则化-维基百科
-
-### 在统计学中，特别是在线性或逻辑回归模型的拟合中，弹性网是一种有效的方法
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Elastic_net_regularization) [](https://en.wikipedia.org/wiki/Lasso_%28statistics%29) [## 拉索(统计)-维基百科
-
-### 在统计学和机器学习中，lasso(最小绝对收缩和选择算子；也作 LASSO 或 Lasso)是一个…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Lasso_%28statistics%29)  [## 岭回归-维基百科
-
-### 岭回归是一种估计多元回归模型系数的方法，在这种情况下，线性回归模型的系数…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Ridge_regression) [](https://www.engati.com/glossary/ridge-regression) [## 里脊回归
-
-### 岭回归是一种专门的技术，用于分析多重回归数据是多重共线性的…
-
-www.engati.com](https://www.engati.com/glossary/ridge-regression) [](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff#/media/File:Bias_and_variance_contributing_to_total_error.svg) [## 偏差-方差权衡—维基百科
-
-### 在统计学和机器学习中，偏差-方差权衡是模型的属性，即模型的方差…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff#/media/File:Bias_and_variance_contributing_to_total_error.svg) [](https://en.wikipedia.org/wiki/Linear_regression) [## 线性回归-维基百科
-
-### 在统计学中，线性回归是一种线性方法，用于模拟标量响应和单变量响应之间的关系。
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Linear_regression)
+  [](https://en.wikipedia.org/wiki/Lasso_%28statistics%29)    [](https://www.engati.com/glossary/ridge-regression)  [](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff#/media/File:Bias_and_variance_contributing_to_total_error.svg)  [](https://en.wikipedia.org/wiki/Linear_regression) 

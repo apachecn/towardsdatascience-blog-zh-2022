@@ -12,11 +12,7 @@
 
 如果这些概念对您来说是全新的，我建议您先阅读这篇文章，其中详细解释了精确度、召回率和 f1 分数的概念。
 
-[](/a-complete-understanding-of-precision-recall-and-f-score-concepts-23dc44defef6) [## 完全理解精确度、召回率和 F 分数的概念
-
-### 机器学习中如何处理倾斜数据集
-
-towardsdatascience.com](/a-complete-understanding-of-precision-recall-and-f-score-concepts-23dc44defef6) 
+[](/a-complete-understanding-of-precision-recall-and-f-score-concepts-23dc44defef6)  
 
 本文将关注多类分类模型的精确度、召回率和 f1 值。
 
@@ -195,11 +191,7 @@ print(metrics.classification_report(y_test, y_pred))
 
 您将在此链接中找到分类项目的完整代码以及我是如何获得上表的:
 
-[](https://github.com/rashida048/Few-Machine-Learning-projects/blob/master/image_classification_problems.ipynb) [## 少数机器学习项目/image _ class ification _ problems . ipynb at master…
-
-### 这些项目使用 pandas，matplotlib，numpy，scipy 和 scikitlearn …
-
-github.com](https://github.com/rashida048/Few-Machine-Learning-projects/blob/master/image_classification_problems.ipynb) 
+[](https://github.com/rashida048/Few-Machine-Learning-projects/blob/master/image_classification_problems.ipynb)  
 
 ## 结论
 
@@ -211,24 +203,4 @@ github.com](https://github.com/rashida048/Few-Machine-Learning-projects/blob/mas
 
 ## 更多阅读
 
-[](https://pub.towardsai.net/complete-detailed-tutorial-on-linear-regression-in-python-for-beginners-f9fa3f65faca) [## 针对初学者的 Python 线性回归完整详细教程
-
-### 线性回归 Scikit-Learn 中的基本、简单和多元线性回归实现
-
-pub.towardsai.net](https://pub.towardsai.net/complete-detailed-tutorial-on-linear-regression-in-python-for-beginners-f9fa3f65faca) [](/simple-explanation-on-how-decision-tree-algorithm-makes-decisions-34f56be344e9) [## 浅谈决策树算法如何决策
-
-### 决策树算法背后的直觉
-
-towardsdatascience.com](/simple-explanation-on-how-decision-tree-algorithm-makes-decisions-34f56be344e9) [](https://pub.towardsai.net/data-analysis-91a38207c92b) [## 数据分析
-
-### Python 中数据科学家/分析师日常工作中的常见数据清理任务
-
-pub.towardsai.net](https://pub.towardsai.net/data-analysis-91a38207c92b) [](/a-complete-guide-for-detecting-and-dealing-with-outliers-bad26b1e92b6) [## 检测和处理异常值的完整指南
-
-### 6 种检测异常值的方法和 4 种处理异常值的方法
-
-towardsdatascience.com](/a-complete-guide-for-detecting-and-dealing-with-outliers-bad26b1e92b6) [](/6-tips-for-dealing-with-null-values-e16d1d1a1b33) [## 处理空值的 6 个技巧
-
-### 包括迭代方法、平均值和中值填充以及分组依据、平均值和中值填充
-
-towardsdatascience.com](/6-tips-for-dealing-with-null-values-e16d1d1a1b33)
+[](https://pub.towardsai.net/complete-detailed-tutorial-on-linear-regression-in-python-for-beginners-f9fa3f65faca)  [](/simple-explanation-on-how-decision-tree-algorithm-makes-decisions-34f56be344e9)  [](https://pub.towardsai.net/data-analysis-91a38207c92b)  [](/a-complete-guide-for-detecting-and-dealing-with-outliers-bad26b1e92b6)  [](/6-tips-for-dealing-with-null-values-e16d1d1a1b33) 

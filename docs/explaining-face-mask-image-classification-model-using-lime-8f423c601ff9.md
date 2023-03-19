@@ -12,11 +12,7 @@ Rinke Dohmen 在 [Unsplash](https://unsplash.com/s/photos/facemask?utm_source=un
 
 为此，可以使用 LIME(局部可解释模型不可知解释)来解释图像分类模型的行为方式。它可以提供关于负责进行某种预测的超像素(或特征)的清晰想法。在这篇文章中，我将一步一步地分享如何使用`lime`来解释图像分类模型所做的预测。要了解不同可解释性工具的工作机制，请阅读本文
 
-[](/explainable-ai-an-illuminator-in-the-field-of-black-box-machine-learning-62d805d54a7a) [## 可解释的人工智能:黑盒机器学习领域的一个亮点
-
-### 不同的机器学习可解释性工具如何用于解释的概述
-
-towardsdatascience.com](/explainable-ai-an-illuminator-in-the-field-of-black-box-machine-learning-62d805d54a7a) 
+[](/explainable-ai-an-illuminator-in-the-field-of-black-box-machine-learning-62d805d54a7a)  
 
 **数据描述**
 

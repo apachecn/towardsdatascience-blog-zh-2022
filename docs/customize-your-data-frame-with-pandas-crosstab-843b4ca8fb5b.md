@@ -105,12 +105,4 @@ df.head()
 
 ## 其他人
 
- [## pandas.crosstab - pandas 1.4.0 文档
-
-### 编辑描述
-
-pandas.pydata.org](https://pandas.pydata.org/docs/reference/api/pandas.crosstab.html) [](https://datagy.io/pandas-crosstab/) [## 熊猫交叉表-完整指南(带示例)*数据
-
-### Pandas 交叉表功能是 Pandas 允许您定制数据的众多方式之一。从表面上看，它…
-
-datagy.io](https://datagy.io/pandas-crosstab/)
+  [](https://datagy.io/pandas-crosstab/) 

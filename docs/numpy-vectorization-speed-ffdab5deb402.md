@@ -16,11 +16,7 @@
 
 这篇文章解释了 NumPy 操作与 for 循环相比有多快。
 
-[](/how-to-speed-up-python-data-pipelines-up-to-91x-80d7accfe7ec) [## 如何将 Python 数据管道加速到 91X？
-
-### 一个 5 分钟的教程可以为您的大数据项目节省数月时间。
-
-towardsdatascience.com](/how-to-speed-up-python-data-pipelines-up-to-91x-80d7accfe7ec) 
+[](/how-to-speed-up-python-data-pipelines-up-to-91x-80d7accfe7ec)  
 
 # 用 NumPy 比较 For 循环
 
@@ -30,11 +26,7 @@ sum 是 Python 中的一个内置操作，可以在一系列数字上使用。�
 
 任何程序员都会选择遍历列表并将数字添加到变量中。但是有经验的开发人员知道它的局限性，会选择优化的版本。
 
-[](/how-to-detect-memory-leakage-in-your-python-application-f83ae1ad897d) [## 如何检测 Python 应用程序中的内存泄漏
-
-### 标准的 Python 库，可以显示每一行的内存使用和执行时间
-
-towardsdatascience.com](/how-to-detect-memory-leakage-in-your-python-application-f83ae1ad897d) 
+[](/how-to-detect-memory-leakage-in-your-python-application-f83ae1ad897d)  
 
 这是我们总结的列表和数字版本。在这个例子中，我们创建了一个包含 100 万个 0 到 100 之间的随机数的数组。然后我们使用这两种方法并记录执行时间。
 
@@ -102,11 +94,7 @@ NumPy 数组只允许**同类数据类型**。因此，NumPy 操作在算法的�
 
 此外，NumPy 操作(主要是)**是用 C** 实现的，而不是用 Python 本身。
 
-[](/challenging-cython-the-python-module-for-high-performance-computing-2e0f874311c0) [## 挑战 cy thon——高性能计算的 Python 模块。
-
-### 现代的替代方案看起来很有希望，Python 可以以闪电般的速度运行。
-
-towardsdatascience.com](/challenging-cython-the-python-module-for-high-performance-computing-2e0f874311c0) 
+[](/challenging-cython-the-python-module-for-high-performance-computing-2e0f874311c0)  
 
 Python 中的列表只不过是一个对象存储。单个对象占用空间，你很快就需要更多的内存来处理它们。此外，列表可以容纳不同类型的对象。但是不利的一面是，您必须对每个操作进行元素类型检查。这使得成本很高。
 
@@ -120,11 +108,7 @@ For 循环在编程中也有它们的位置。经验法则是当你的数据结�
 
 没有 NumPy 的几百个数相加可能更好。此外，如果在每次迭代中你必须做比数值计算更多的工作，NumPy 不是你的选择。
 
-[](/how-to-serve-massive-computations-using-python-web-apps-590e51624bc6) [## 如何使用 Python Web 应用服务于大规模计算？
-
-### 克服 Python 的局限性，并通过 web 请求将其用于繁重的数据分析和机器学习。
-
-towardsdatascience.com](/how-to-serve-massive-computations-using-python-web-apps-590e51624bc6) 
+[](/how-to-serve-massive-computations-using-python-web-apps-590e51624bc6)  
 
 > 感谢阅读，朋友！在[**LinkedIn**](https://www.linkedin.com/in/thuwarakesh/)[**Twitter**](https://twitter.com/Thuwarakesh)[**Medium**](https://thuwarakesh.medium.com/)上跟我打招呼。
 > 

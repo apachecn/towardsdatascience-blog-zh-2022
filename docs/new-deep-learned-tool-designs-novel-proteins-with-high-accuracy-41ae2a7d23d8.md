@@ -32,11 +32,7 @@
 
 顾名思义，ProteinMPNN 是围绕一个信息传递神经网络(MPNN)建立的。本作品中使用的核心 MPNN 建立在之前的作品之上，甚至是 AlphaFold2 之前的作品！
 
- [## 基于图的蛋白质设计的生成模型
-
-### 基于图形的蛋白质设计的生成模型——神经信息处理系统进展部分 32
-
-proceedings.neurips.cc](https://proceedings.neurips.cc/paper/2019/hash/f3a4ff4839c56a5f460c88cce3666a2b-Abstract.html) 
+  
 
 起始网络由 3 个编码器和 3 个解码器层以及 128 个隐藏维度组成，并且使用从 CA 位置(CA 是氨基酸的中心碳原子)构建的蛋白质骨架几何特征以自回归方式从 N 到 C 末端预测蛋白质序列。这项新工作通过引入 N、C 和 O 主链原子加上一个虚拟 CB 原子的位置对此进行了改进，并改进了网络的传播方式。
 
@@ -76,19 +72,11 @@ ProteinMPNN 网络通过编码器模块传递 N、CA、C、O 和虚拟 CB 原子
 
 该工具以“快速演示”笔记本的形式提供，但很快会有更多笔记本问世:
 
- [## protein mpnn/quick demo . ipynb at main dau paras/protein mpnn
-
-### 蛋白质神经网络论文的代码。在 GitHub 上创建一个帐户，为 dauparas/ProteinMPNN 的开发做出贡献。
-
-github.com](https://github.com/dauparas/ProteinMPNN/blob/main/colab_notebooks/quickdemo.ipynb) 
+  
 
 这已经被打包成一个拥抱脸的网络应用程序(由西蒙·杜尔完成，来自 [EPFL 科技 4Impact](https://medium.com/u/7dbe1c70684b?source=post_page-----41ae2a7d23d8--------------------------------) )你现在就可以用它做一个测试:
 
-[](https://huggingface.co/spaces/simonduerr/ProteinMPNN) [## simonduerr 的拥抱脸空间
-
-### 发现由社区制作的令人惊叹的 ML 应用程序
-
-huggingface.co](https://huggingface.co/spaces/simonduerr/ProteinMPNN) 
+[](https://huggingface.co/spaces/simonduerr/ProteinMPNN)  
 
 下面是一个例子，使用氨基酸概率和 10 个建议的蛋白质序列，在不到 5 秒的时间内获得结果:
 
@@ -100,48 +88,24 @@ huggingface.co](https://huggingface.co/spaces/simonduerr/ProteinMPNN)
 
 *   Dauparas 等人的方法的完整介绍的预印本:
 
-[](https://www.biorxiv.org/content/10.1101/2022.06.03.494563v1) [## 基于鲁棒深度学习的蛋白质序列设计
-
-### 虽然深度学习已经彻底改变了蛋白质结构预测，但几乎所有的实验都从头表征…
-
-www.biorxiv.org](https://www.biorxiv.org/content/10.1101/2022.06.03.494563v1) 
+[](https://www.biorxiv.org/content/10.1101/2022.06.03.494563v1)  
 
 *   Wicky 等人的《创新蛋白质装配应用预印本》:
 
-[](https://www.biorxiv.org/content/10.1101/2022.06.09.493773v1) [## 幻觉蛋白质集合
-
-### 深度学习生成方法提供了一个机会，广泛探索蛋白质结构空间以外的…
-
-www.biorxiv.org](https://www.biorxiv.org/content/10.1101/2022.06.09.493773v1) 
+[](https://www.biorxiv.org/content/10.1101/2022.06.09.493773v1)  
 
 *   另一个最近的预印本，只是理论上的，也展示了一个对蛋白质序列和结构进行采样以适应给定基序的模型——本质上是一项设计任务:
 
-[](https://arxiv.org/abs/2206.04119) [## 基于模体支架问题的蛋白质骨架三维扩散概率模型
-
-### 构建一个支持所需基序的支架结构，赋予蛋白质功能，显示了在基因工程中的应用前景。
-
-arxiv.org](https://arxiv.org/abs/2206.04119) 
+[](https://arxiv.org/abs/2206.04119)  
 
 (查看[第一作者在推特上发布的预印本摘要](https://twitter.com/brianltrippe/status/1535063427894624256)
 
 *   华盛顿大学的贝克实验室:
 
- [## 梅恩-贝克实验室
-
-### 欢迎光临！我们试图理解蛋白质结构和功能的基本原理，对这些原理进行编码…
-
-www.bakerlab.org](https://www.bakerlab.org/) 
+  
 
 *   相关博客条目:
 
-[](/whats-up-after-alphafold-on-ml-for-structural-biology-7bb9758925b8) [## 蛋白质结构预测的 ML 上的 AlphaFold 之后是什么？
-
-### 人工智能驱动的生物学革命会持续下去吗？我们能期待新的突破吗？现在正在发生什么事情…
-
-towardsdatascience.com](/whats-up-after-alphafold-on-ml-for-structural-biology-7bb9758925b8)  [## 这里是我所有关于蛋白质建模、CASP 和 AlphaFold 2 的同行评论和博客文章
-
-### 我在这里整理了我所有的同行评议文章(一些论文，一些评论，一个观点)和博客文章，关于…
-
-lucianosphere.medium.com](https://lucianosphere.medium.com/here-are-all-my-peer-reviewed-and-blog-articles-on-protein-modeling-casp-and-alphafold-2-d78f0a9feb61) 
+[](/whats-up-after-alphafold-on-ml-for-structural-biology-7bb9758925b8)    
 
 www.lucianoabriata.com*我写作并拍摄我广泛兴趣范围内的一切事物:自然、科学、技术、编程等等。* [***成为媒介会员***](https://lucianosphere.medium.com/membership) *访问其所有故事(我免费获得小额收入的平台的附属链接)和* [***订阅获取我的新故事***](https://lucianosphere.medium.com/subscribe) ***通过电子邮件*** *。到* ***咨询关于小职位*** *查看我的* [***服务页面这里***](https://lucianoabriata.altervista.org/services/index.html) *。你可以* [***这里联系我***](https://lucianoabriata.altervista.org/office/contact.html) ***。***

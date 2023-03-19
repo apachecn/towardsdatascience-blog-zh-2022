@@ -16,11 +16,7 @@ ello 世界！在这篇文章中，我将介绍一个简单的指南，如何将
 
 我不会关注用脚本编写代码的好处，也不会试图比较这两种方法，因为笔记本和脚本各有利弊。如果你想知道为什么你应该作出改变，这篇文章可能会提供更多的清晰度。
 
-[](/5-reasons-why-you-should-switch-from-jupyter-notebook-to-scripts-cb3535ba9c95) [## 你应该从 Jupyter 笔记本转向脚本的 5 个理由
-
-### 使用脚本帮助我认识到 Jupyter 笔记本的缺点
-
-towardsdatascience.com](/5-reasons-why-you-should-switch-from-jupyter-notebook-to-scripts-cb3535ba9c95) 
+[](/5-reasons-why-you-should-switch-from-jupyter-notebook-to-scripts-cb3535ba9c95)  
 
 我已经创建了一个演示库来对从 [Kaggle](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata) 获得的信用卡数据集执行聚类分析。我将在整篇文章中使用这个存储库来分享示例片段。
 
@@ -76,11 +72,7 @@ $ tree.
 
 下面的文章提供了一个如何重构你的笔记本的惊人总结。
 
-[](https://www.thoughtworks.com/en-sg/insights/blog/coding-habits-data-scientists) [## 数据科学家的编码习惯
-
-### 如果你尝试过机器学习或数据科学，你就会知道代码会很快变得混乱。通常情况下…
-
-www.thoughtworks.com](https://www.thoughtworks.com/en-sg/insights/blog/coding-habits-data-scientists) 
+[](https://www.thoughtworks.com/en-sg/insights/blog/coding-habits-data-scientists)  
 
 **预处理**
 
@@ -104,11 +96,7 @@ kmeans = kmeans_model(df) # instantiate kmeans modelkmeans_models = kmeans.kmean
 
 由 Sadrach Pierre 撰写的这篇文章对如何在构建模型时利用类进行了广泛的阐述。
 
-[](/using-classes-for-machine-learning-2ed6c0713305) [## 使用类进行机器学习
-
-### 使用面向对象编程来构建模型
-
-towardsdatascience.com](/using-classes-for-machine-learning-2ed6c0713305) 
+[](/using-classes-for-machine-learning-2ed6c0713305)  
 
 ## 执行管道
 
@@ -141,12 +129,4 @@ python3 main.py another_config.yml --model=dbscan
 
 ## 参考
 
-[](/from-jupyter-notebook-to-sc-582978d3c0c) [## 从朱庇特笔记本到剧本
-
-### 不要玩玩具模型；准备好生产你的作品吧！
-
-towardsdatascience.com](/from-jupyter-notebook-to-sc-582978d3c0c) [](/from-jupyter-notebook-to-deployment-a-straightforward-example-1838c203a437) [## 从 Jupyter 笔记本到部署—一个简单的例子
-
-### 一步一步的例子，采用典型的机器学习研究代码，构建一个生产就绪的微服务。
-
-towardsdatascience.com](/from-jupyter-notebook-to-deployment-a-straightforward-example-1838c203a437)
+[](/from-jupyter-notebook-to-sc-582978d3c0c)  [](/from-jupyter-notebook-to-deployment-a-straightforward-example-1838c203a437) 

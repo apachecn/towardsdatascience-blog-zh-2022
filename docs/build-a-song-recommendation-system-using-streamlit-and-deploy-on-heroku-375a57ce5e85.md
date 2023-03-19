@@ -377,19 +377,11 @@ git push -u origin main
 
 在收集了必要的文件和 Github repo 之后，我们现在可以创建一个 Heroku 帐户了。导航到 Heroku 的主要网站创建帐户。
 
-[](https://www.heroku.com/) [## 云应用平台| Heroku
-
-### 无论您是在构建简单的原型还是关键业务产品，Heroku 的全托管平台都能为您提供…
-
-www.heroku.com](https://www.heroku.com/) 
+[](https://www.heroku.com/)  
 
 创建帐户后，安装 Heroku CLI:
 
-[](https://devcenter.heroku.com/articles/heroku-cli) [## Heroku CLI
-
-### Heroku 命令行界面(CLI)使得直接从终端创建和管理您的 Heroku 应用程序变得非常容易…
-
-devcenter.heroku.com](https://devcenter.heroku.com/articles/heroku-cli) 
+[](https://devcenter.heroku.com/articles/heroku-cli)  
 
 ## 部署到 Heroku
 
@@ -415,27 +407,7 @@ git push heroku main
 
 另外，请随意查看我的其他一些有趣的帖子:
 
-[](https://medium.datadriveninvestor.com/beginners-guide-to-web-scraping-using-beautifulsoup-and-python-999a927f20e6) [## 使用 BeautifulSoup 和 Python 的 Web 抓取初学者指南
-
-### 简单的教程涵盖了美丽的基础知识，并举例说明了如何抓取维基百科的文章
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/beginners-guide-to-web-scraping-using-beautifulsoup-and-python-999a927f20e6) [](/beginners-guide-to-regular-expressions-in-python-d16d2fa31587) [## Python 正则表达式初学者指南
-
-### 关于正则表达式的简单教程，涵盖了你需要知道的所有基础知识
-
-towardsdatascience.com](/beginners-guide-to-regular-expressions-in-python-d16d2fa31587) [](/top-nlp-books-to-read-2020-12012ef41dc1) [## 2020 年最佳 NLP 读物
-
-### 这是我个人为自然语言处理推荐的书籍列表，供实践者和理论家参考
-
-towardsdatascience.com](/top-nlp-books-to-read-2020-12012ef41dc1) [](/top-nlp-libraries-to-use-2020-4f700cdb841f) [## 2020 年将使用的顶级 NLP 库
-
-### AllenNLP，Fast.ai，Spacy，NLTK，TorchText，Huggingface，Gensim，OpenNMT，ParlAI，DeepPavlov
-
-towardsdatascience.com](/top-nlp-libraries-to-use-2020-4f700cdb841f) [](/deepstyle-f8557ab9e7b) [## DeepStyle(第 1 部分):使用最先进的深度学习生成高级时尚服装和…
-
-### 附带论文和 Github 代码提供！
-
-towardsdatascience.com](/deepstyle-f8557ab9e7b) 
+[](https://medium.datadriveninvestor.com/beginners-guide-to-web-scraping-using-beautifulsoup-and-python-999a927f20e6)  [](/beginners-guide-to-regular-expressions-in-python-d16d2fa31587)  [](/top-nlp-books-to-read-2020-12012ef41dc1)  [](/top-nlp-libraries-to-use-2020-4f700cdb841f)  [](/deepstyle-f8557ab9e7b)  
 
 # 参考
 

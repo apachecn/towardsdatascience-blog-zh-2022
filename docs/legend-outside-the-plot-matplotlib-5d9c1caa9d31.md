@@ -140,24 +140,8 @@ plt.show()
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读媒体上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership) 
+[](https://gmyrianthous.medium.com/membership)  
 
 **相关文章你可能也喜欢**
 
-[](/save-plots-matplotlib-1a16b3432d8a) [## 如何使用 Matplotlib 将绘图保存到图像文件
-
-### 了解如何将 matplotlib 图形和绘图保存到图像文件
-
-towardsdatascience.com](/save-plots-matplotlib-1a16b3432d8a) [](/change-font-size-matplolib-480630e300b4) [## 如何更改 Matplotlib 图中的字体大小
-
-### 了解如何更改使用 matplotlib 生成的 Python 图中的字体大小
-
-towardsdatascience.com](/change-font-size-matplolib-480630e300b4) [](/change-figure-size-matplotlib-11a409f39584) [## 如何在 Matplotlib 中改变图形的大小
-
-### 讨论如何在 Python 中调整用 matplotlib 创建的图形的大小
-
-towardsdatascience.com](/change-figure-size-matplotlib-11a409f39584)
+[](/save-plots-matplotlib-1a16b3432d8a)  [](/change-font-size-matplolib-480630e300b4)  [](/change-figure-size-matplotlib-11a409f39584) 

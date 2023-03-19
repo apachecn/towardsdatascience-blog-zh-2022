@@ -117,24 +117,8 @@ dtype: int64
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership) 
+[](https://gmyrianthous.medium.com/membership)  
 
 **你可能也会喜欢**
 
-[](/how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3) [## 加快 PySpark 和 Pandas 数据帧之间的转换
-
-### 将大火花数据帧转换为熊猫时节省时间
-
-towardsdatascience.com](/how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3) [](/dynamic-typing-in-python-307f7c22b24e) [## Python 中的动态类型
-
-### 探索 Python 中对象引用的工作方式
-
-towardsdatascience.com](/dynamic-typing-in-python-307f7c22b24e) [](/mastering-indexing-and-slicing-in-python-443e23457125) [## 掌握 Python 中的索引和切片
-
-### 深入研究有序集合的索引和切片
-
-towardsdatascience.com](/mastering-indexing-and-slicing-in-python-443e23457125)
+[](/how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3)  [](/dynamic-typing-in-python-307f7c22b24e)  [](/mastering-indexing-and-slicing-in-python-443e23457125) 

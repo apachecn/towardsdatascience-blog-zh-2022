@@ -111,11 +111,7 @@
 
 现在让我们更深入地了解一下`lambda`。你可能已经注意到，或者已经知道，如果你已经读过我以前的文章:
 
-[](/diy-xgboost-library-in-less-than-200-lines-of-python-69b6bf25e7d9) [## 用不到 200 行 python 代码 DIY XGBoost 库
-
-### XGBoost 解释了梯度推进方法和惠普调整，通过建立自己的梯度推进库…
-
-towardsdatascience.com](/diy-xgboost-library-in-less-than-200-lines-of-python-69b6bf25e7d9) 
+[](/diy-xgboost-library-in-less-than-200-lines-of-python-69b6bf25e7d9)  
 
 `lambda`缩放平方权重的和`w_j`，因此在相对于`w_j`求导时仍然出现。
 

@@ -72,11 +72,7 @@
 
 这里的主题是，虽然数据科学的某些方面可能会发生变化，例如编码语言和使用的技术，但有效描述代码功能的能力永远不会过时。
 
-[](/how-to-write-good-code-documentation-for-data-scientists-c9940aebb4f0) [## 如何为数据科学家编写好的代码文档
-
-### 关于最佳实践的速成课程，你需要确保每个人都理解你写的代码。
-
-towardsdatascience.com](/how-to-write-good-code-documentation-for-data-scientists-c9940aebb4f0) 
+[](/how-to-write-good-code-documentation-for-data-scientists-c9940aebb4f0)  
 
 # 关键要点
 

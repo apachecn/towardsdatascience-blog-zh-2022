@@ -166,12 +166,4 @@ Largest item and it's fraction to total (from variable):  {20: 0.909090909090909
 
 如果你喜欢这篇文章，试试 Python 系列中以前关于 OOP 的文章:
 
-[](/oop-in-python-understanding-a-class-bcc088e595c6) [## Python 中的 OOP 理解一个类
-
-### 理解 Python 类的基本组件。
-
-towardsdatascience.com](/oop-in-python-understanding-a-class-bcc088e595c6) [](/oop-in-python-understanding-a-class-bcc088e595c6) [## Python 中的 OOP 理解一个类
-
-### 理解 Python 类的基本组件。
-
-towardsdatascience.com](/oop-in-python-understanding-a-class-bcc088e595c6)
+[](/oop-in-python-understanding-a-class-bcc088e595c6)  [](/oop-in-python-understanding-a-class-bcc088e595c6) 

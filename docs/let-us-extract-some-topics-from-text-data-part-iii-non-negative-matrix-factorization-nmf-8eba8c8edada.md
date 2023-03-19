@@ -14,15 +14,7 @@
 
 有各种各样的算法被广泛用于主题建模。在我之前的两篇文章中，我向您介绍了用于主题建模的两种算法，LDA 和 GSM。
 
-[](/let-us-extract-some-topics-from-text-data-part-i-latent-dirichlet-allocation-lda-e335ee3e5fa4) [## 让我们从文本数据中提取一些主题——第一部分:潜在狄利克雷分配(LDA)
-
-### 了解使用 Python 的 nltk、gensim、sklearn 和 pyLDAvis 包进行主题建模需要什么及其实现
-
-towardsdatascience.com](/let-us-extract-some-topics-from-text-data-part-i-latent-dirichlet-allocation-lda-e335ee3e5fa4) [](https://medium.com/geekculture/let-us-extract-some-topics-from-text-data-part-ii-gibbs-sampling-dirichlet-multinomial-mixture-9e82d51b0fab) [## 让我们从文本数据中提取一些话题——第二部分:吉布斯抽样狄利克雷多项式混合…
-
-### 了解如何将 GSM 用于主题建模，以及如何将其与 LDA 进行比较
-
-medium.com](https://medium.com/geekculture/let-us-extract-some-topics-from-text-data-part-ii-gibbs-sampling-dirichlet-multinomial-mixture-9e82d51b0fab) 
+[](/let-us-extract-some-topics-from-text-data-part-i-latent-dirichlet-allocation-lda-e335ee3e5fa4)  [](https://medium.com/geekculture/let-us-extract-some-topics-from-text-data-part-ii-gibbs-sampling-dirichlet-multinomial-mixture-9e82d51b0fab)  
 
 在本文中，我们将研究非负矩阵分解(NMF)，一种源于线性代数的无监督算法。Python 中的代码实现也将被引入。
 

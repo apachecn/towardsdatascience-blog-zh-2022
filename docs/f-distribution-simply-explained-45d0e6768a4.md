@@ -14,11 +14,7 @@
 
 f 分布与**卡方分布**密切相关。如果您不熟悉卡方分布，我强烈推荐您阅读我以前的一篇文章，其中详细介绍了这种特殊分布的复杂性:
 
-[](/chi-square-distribution-simply-explained-87f707ba631a) [## 卡方分布简单解释
-
-### 卡方分布及其起源的简单解释
-
-towardsdatascience.com](/chi-square-distribution-simply-explained-87f707ba631a) 
+[](/chi-square-distribution-simply-explained-87f707ba631a)  
 
 # 起源
 

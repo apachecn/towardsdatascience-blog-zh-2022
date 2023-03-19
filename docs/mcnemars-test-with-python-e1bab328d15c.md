@@ -77,27 +77,7 @@ h₁:π₁≠π₂
 
 ## 推荐阅读
 
-[](/chi-square-test-with-python-d8ba98117626) [## 卡方检验，用 Python
-
-### 执行卡方检验的完全初学者指南(带代码！)
-
-towardsdatascience.com](/chi-square-test-with-python-d8ba98117626) [](/anova-test-with-python-cfbf4013328b) [## 用 Python 进行 ANOVA 测试
-
-### 执行 ANOVA 测试的完全初学者指南(带代码！)
-
-towardsdatascience.com](/anova-test-with-python-cfbf4013328b) [](/two-way-anova-test-with-python-a112e2396d78) [## 使用 Python 进行双向 ANOVA 测试
-
-### 执行双向 ANOVA 检验的完全初学者指南(带代码！)
-
-towardsdatascience.com](/two-way-anova-test-with-python-a112e2396d78) [](https://levelup.gitconnected.com/how-to-perform-one-sample-hypothesis-tests-with-python-308eae8789fc) [## 使用 Python 进行单样本假设检验
-
-### 执行单样本假设检验的完全初学者指南(带代码！)
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/how-to-perform-one-sample-hypothesis-tests-with-python-308eae8789fc) [](https://levelup.gitconnected.com/two-sample-hypothesis-tests-with-python-43e1b8c52306) [## 使用 Python 进行双样本假设检验
-
-### 执行双样本假设检验的完全初学者指南(带代码！)
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/two-sample-hypothesis-tests-with-python-43e1b8c52306) 
+[](/chi-square-test-with-python-d8ba98117626)  [](/anova-test-with-python-cfbf4013328b)  [](/two-way-anova-test-with-python-a112e2396d78)  [](https://levelup.gitconnected.com/how-to-perform-one-sample-hypothesis-tests-with-python-308eae8789fc)  [](https://levelup.gitconnected.com/two-sample-hypothesis-tests-with-python-43e1b8c52306)  
 
 ## 参考
 

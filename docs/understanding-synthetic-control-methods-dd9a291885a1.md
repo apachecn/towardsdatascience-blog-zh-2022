@@ -413,11 +413,7 @@ ax.add_artist(AnnotationBbox(OffsetImage(plt.imread('fig/miami.png'), zoom=0.25)
 
 **你可以在这里找到 Jupyter 的原始笔记本:**
 
-**[](https://github.com/matteocourthoud/Blog-Posts/blob/main/notebooks/synth.ipynb) [## 在 main matter courthoud/Blog-Posts/synth . ipynb
-
-### 我的中型博客文章的代码和笔记本。为 matteocourthoud/Blog-Posts 的发展作出贡献
-
-github.com](https://github.com/matteocourthoud/Blog-Posts/blob/main/notebooks/synth.ipynb)** 
+**[](https://github.com/matteocourthoud/Blog-Posts/blob/main/notebooks/synth.ipynb) ** 
 
 ## **感谢您的阅读！**
 

@@ -20,11 +20,7 @@ Streamlit 提供了一个简洁的 [API](https://docs.streamlit.io/library/api-r
 
 让我们看一看🔍
 
-[](https://medium.com/membership/@ahmedbesbes) [## 加入我的介绍链接媒体-艾哈迈德贝斯
-
-### 阅读 Ahmed Besbes 的每一个故事(以及媒体上成千上万的其他作家)。您的会员费直接支持…
-
-medium.com](https://medium.com/membership/@ahmedbesbes) 
+[](https://medium.com/membership/@ahmedbesbes)  
 
 # 快速提醒
 
@@ -125,23 +121,7 @@ Streamlit 宣布推出新的 st.tabs 功能
 
 如果你是 Streamlit 及其生态系统的新手，你可以看看我以前的一些帖子:
 
-[](/7-reasons-why-you-should-use-the-streamlit-aggrid-component-2d9a2b6e32f0) [## 您应该使用 Streamlit AgGrid 组件的 7 个原因
-
-### 用最好的 JavaScript 数据网格改进数据帧的显示
-
-towardsdatascience.com](/7-reasons-why-you-should-use-the-streamlit-aggrid-component-2d9a2b6e32f0) [](/5-streamlit-components-to-build-better-applications-71e0195c82d4) [## 5 简化组件以构建更好的应用
-
-### 2 号是我最喜欢的
-
-towardsdatascience.com](/5-streamlit-components-to-build-better-applications-71e0195c82d4) [](/how-to-build-a-streamlit-app-to-extract-topics-from-youtube-videos-9c7aebbfab8e) [## 如何构建一个 Streamlit App 从 YouTube 视频中提取话题？
-
-### AssemblyAI 的主题检测功能概述
-
-towardsdatascience.com](/how-to-build-a-streamlit-app-to-extract-topics-from-youtube-videos-9c7aebbfab8e) [](/how-i-built-a-machine-learning-playground-with-streamlit-3cddb7368ba9) [## 我如何用 Streamlit 建立一个机器学习平台
-
-### 从浏览器中修改模型
-
-towardsdatascience.com](/how-i-built-a-machine-learning-playground-with-streamlit-3cddb7368ba9) 
+[](/7-reasons-why-you-should-use-the-streamlit-aggrid-component-2d9a2b6e32f0)  [](/5-streamlit-components-to-build-better-applications-71e0195c82d4)  [](/how-to-build-a-streamlit-app-to-extract-topics-from-youtube-videos-9c7aebbfab8e)  [](/how-i-built-a-machine-learning-playground-with-streamlit-3cddb7368ba9)  
 
 或者查看以下链接:
 
@@ -152,8 +132,4 @@ towardsdatascience.com](/how-i-built-a-machine-learning-playground-with-streamli
 
 ## 新到中？你可以每月订阅 5 美元，并解锁各种主题的无限文章(技术、设计、创业……)你可以通过点击我的推荐链接[来支持我](https://ahmedbesbes.medium.com/membership)
 
-[](https://ahmedbesbes.medium.com/membership) [## 加入我的介绍链接媒体-艾哈迈德贝斯
-
-### 阅读 Ahmed Besbes 的每一个故事(以及媒体上成千上万的其他作家)。您的会员费直接支持…
-
-ahmedbesbes.medium.com](https://ahmedbesbes.medium.com/membership)
+[](https://ahmedbesbes.medium.com/membership) 

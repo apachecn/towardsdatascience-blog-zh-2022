@@ -21,15 +21,7 @@
 
 ## 👇链接到第 1 和第 2 部分
 
-[](/how-to-take-your-sql-from-zero-to-data-scientist-level-part-1-3-d7225d2d89ad) [## 如何将您的 SQL 从零提高到数据科学家级别—第 1/3 部分
-
-### 设置 SQL 并执行您的第一个选择查询
-
-towardsdatascience.com](/how-to-take-your-sql-from-zero-to-data-scientist-level-part-1-3-d7225d2d89ad) [](/how-to-take-your-sql-from-zero-to-data-scientist-level-part-2-3-bc1cbb48299e) [## 如何将您的 SQL 从零提高到数据科学家级别—第 2/3 部分
-
-### SQL 列表的终极指南:了解数据科学家经常使用的基本和高级 SQL 查询
-
-towardsdatascience.com](/how-to-take-your-sql-from-zero-to-data-scientist-level-part-2-3-bc1cbb48299e) 
+[](/how-to-take-your-sql-from-zero-to-data-scientist-level-part-1-3-d7225d2d89ad)  [](/how-to-take-your-sql-from-zero-to-data-scientist-level-part-2-3-bc1cbb48299e)  
 
 # 1.QA 测试您的 SQL 查询
 
@@ -192,8 +184,4 @@ SSMS 直播查询统计[图片由作者提供]
 
 **在下面的链接中，您还可以找到一个免费的 PDF 演示，介绍如何使用 r。**
 
-**[](https://www.aspiringdatascientist.net/community) [## 数据科学项目清单-有抱负的数据科学家
-
-### 我是一名拥有 7 年以上分析经验的数据科学家，目前在英国伦敦的一家游戏公司工作。我的…
-
-www.aspiringdatascientist.net](https://www.aspiringdatascientist.net/community)**
+**[](https://www.aspiringdatascientist.net/community) **

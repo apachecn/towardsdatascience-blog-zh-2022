@@ -68,11 +68,7 @@ iris 数据集上的层次聚类树状图示例。改编自[公共领域](https:
 
 要了解更多关于测量聚类之间距离的不同方法，请阅读本文:
 
-[](https://dataaspirant.com/hierarchical-clustering-algorithm/#:~:text=creates%20meaningful%20clusters.-,Difference%20ways%20to%20measure%20the%20distance%20between%20two%20clusters,-There%20are%20several) [## 分层聚类算法的工作原理
-
-### 层次聚类是一种无监督的学习算法，这是最流行的聚类…
-
-dataaspirant.com](https://dataaspirant.com/hierarchical-clustering-algorithm/#:~:text=creates%20meaningful%20clusters.-,Difference%20ways%20to%20measure%20the%20distance%20between%20two%20clusters,-There%20are%20several) 
+[](https://dataaspirant.com/hierarchical-clustering-algorithm/#:~:text=creates%20meaningful%20clusters.-,Difference%20ways%20to%20measure%20the%20distance%20between%20two%20clusters,-There%20are%20several)  
 
 **优点**:
 
@@ -161,11 +157,7 @@ Scikit Learn 的仿射传播聚类。[图像来源](https://scikit-learn.org/sta
 
 您可以在这里看到均值漂移算法的可视化效果:
 
- [## 均值漂移聚类- PRIMO.ai
-
-### Youtube 搜索......谷歌搜索均值漂移聚类是一个基于滑动窗口的算法，试图找到…
-
-primo.ai](http://primo.ai/index.php?title=Mean-Shift_Clustering) 
+  
 
 均值漂移收敛到密度最大的局部区域。然后所有彼此足够接近的圆形成一个集群。因此，同时解决了*密度估计*任务，并计算出聚类质心。
 
@@ -256,19 +248,11 @@ GMM 的例子。[图像来源](https://scikit-learn.org/stable/auto_examples/mix
 
 本文是以下内容的一部分:
 
-[](/unsupervised-learning-algorithms-cheat-sheet-d391a39de44a) [## 无监督学习算法备忘单
-
-### 你应该知道的所有无监督机器学习算法的完整备忘单
-
-towardsdatascience.com](/unsupervised-learning-algorithms-cheat-sheet-d391a39de44a) 
+[](/unsupervised-learning-algorithms-cheat-sheet-d391a39de44a)  
 
 您可能还对以下内容感兴趣:
 
-[](/supervised-learning-algorithms-cheat-sheet-40009e7f29f5) [## 监督学习算法备忘单
-
-### 你应该知道的所有监督机器学习算法的完整备忘单，包括优点、缺点和…
-
-towardsdatascience.com](/supervised-learning-algorithms-cheat-sheet-40009e7f29f5) 
+[](/supervised-learning-algorithms-cheat-sheet-40009e7f29f5)  
 
 # 感谢您的阅读！
 

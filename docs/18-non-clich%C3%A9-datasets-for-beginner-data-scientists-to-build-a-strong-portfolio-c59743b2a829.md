@@ -16,19 +16,11 @@
 
 今天，我决定分享一份我在帖子中使用的精选数据集的列表，作为我学习的一部分。尽情享受吧！
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-BEXGBoost
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。支持我的工作，给我买一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+[](https://ibexorigin.medium.com/membership)  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex) [## 阿尔法信号|机器学习的极品。艾总结的。
-
-### 留在循环中，不用花无数时间浏览下一个突破；我们的算法识别…
-
-alphasignal.ai](https://alphasignal.ai/?referrer=Bex) 
+[](https://alphasignal.ai/?referrer=Bex)  
 
 # 回归数据集
 
@@ -244,11 +236,7 @@ alphasignal.ai](https://alphasignal.ai/?referrer=Bex)
 
 ******⚙Missing 值:否******
 
-****[](/comprehensive-guide-to-multiclass-classification-with-sklearn-127cc500f362) [## Sklearn 多类分类综合指南
-
-### 编辑描述
-
-towardsdatascience.com](/comprehensive-guide-to-multiclass-classification-with-sklearn-127cc500f362)**** 
+****[](/comprehensive-guide-to-multiclass-classification-with-sklearn-127cc500f362) **** 
 
 ## ****1️6️.ka ggle TPS 2021 年 5 月****
 
@@ -264,11 +252,7 @@ towardsdatascience.com](/comprehensive-guide-to-multiclass-classification-with-s
 
 ****[📚入门笔记本](https://www.kaggle.com/subinium/tps-may-categorical-eda)****
 
-****[](/comprehensive-guide-on-multiclass-classification-metrics-af94cfb83fbd) [## 多类分类指标综合指南
-
-### 编辑描述
-
-towardsdatascience.com](/comprehensive-guide-on-multiclass-classification-metrics-af94cfb83fbd)**** 
+****[](/comprehensive-guide-on-multiclass-classification-metrics-af94cfb83fbd) **** 
 
 ## ****1️7️.卡格尔 TPS 2021 年 6 月****
 
@@ -300,36 +284,8 @@ towardsdatascience.com](/comprehensive-guide-on-multiclass-classification-metric
 
 ****找到一个好的、新颖的数据集很难，尤其是如果你是初学者的话。我希望我简化了这个过程，并能列出一个你可以收藏的清单。感谢阅读。****
 
-****[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium。
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) [](https://ibexorigin.medium.com/subscribe) [## 每当 Bex T .发布时收到电子邮件。
-
-### 每当 Bex T .发布时收到电子邮件。注册后，如果您还没有中型帐户，您将创建一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/subscribe) 
+****[](https://ibexorigin.medium.com/membership)  [](https://ibexorigin.medium.com/subscribe)  
 
 **我的更多故事……**
 
-[](https://ibexorigin.medium.com/python-became-the-language-of-the-year-3-times-in-4-years-it-wont-be-this-year-e5c724758ef) [## Python 在 4 年内 3 次成为“年度语言”。今年不会了
-
-### 猜猜会是哪种语言。
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/python-became-the-language-of-the-year-3-times-in-4-years-it-wont-be-this-year-e5c724758ef) [](/in-depth-spacy-tutorial-for-beginners-in-nlp-2ba4d961328f) [## NLP 初学者的深入空间教程
-
-### 学习 Scikit-学习自然语言处理
-
-towardsdatascience.com](/in-depth-spacy-tutorial-for-beginners-in-nlp-2ba4d961328f) [](https://ibexorigin.medium.com/in-depth-guide-to-building-custom-sklearn-transformers-for-any-data-preprocessing-scenario-33450f8b35ff) [## 为任何数据预处理场景构建定制 Sklearn 转换器的深入指南
-
-### 在 Sklearn 做好每一件事，大家都会开心
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/in-depth-guide-to-building-custom-sklearn-transformers-for-any-data-preprocessing-scenario-33450f8b35ff) [](/advanced-missing-data-imputation-methods-with-sklearn-d9875cbcc6eb) [## Sklearn 高级缺失数据插补方法的深入教程
-
-### 学会利用强大的基于模型的插补技术。
-
-towardsdatascience.com](/advanced-missing-data-imputation-methods-with-sklearn-d9875cbcc6eb) [](/10-minute-effortless-sql-tutorial-for-die-hard-pandas-lovers-a64c36733fd0) [## 10 分钟轻松的 SQL 教程，适合铁杆熊猫爱好者
-
-### 曾几何时，情况正好相反
-
-towardsdatascience.com](/10-minute-effortless-sql-tutorial-for-die-hard-pandas-lovers-a64c36733fd0)****
+[](https://ibexorigin.medium.com/python-became-the-language-of-the-year-3-times-in-4-years-it-wont-be-this-year-e5c724758ef)  [](/in-depth-spacy-tutorial-for-beginners-in-nlp-2ba4d961328f)  [](https://ibexorigin.medium.com/in-depth-guide-to-building-custom-sklearn-transformers-for-any-data-preprocessing-scenario-33450f8b35ff)  [](/advanced-missing-data-imputation-methods-with-sklearn-d9875cbcc6eb)  [](/10-minute-effortless-sql-tutorial-for-die-hard-pandas-lovers-a64c36733fd0) ****

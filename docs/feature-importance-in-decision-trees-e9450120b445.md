@@ -16,19 +16,7 @@
 
 在深入研究特性重要性计算之前，我强烈建议您复习一下什么是树，以及我们如何使用这些文章将它们组合成随机森林的知识:
 
-[](/decision-tree-algorithm-in-python-from-scratch-8c43f0e40173) [## Python 中的决策树算法从零开始
-
-### 用 Python 编写只使用 NumPy 和 Pandas 的流行算法，并解释其中的内容
-
-towardsdatascience.com](/decision-tree-algorithm-in-python-from-scratch-8c43f0e40173) [](/regression-tree-in-python-from-scratch-9b7b64c815e3) [## Python 中的回归树从头开始
-
-### 用 Python 编写流行的回归树算法，并解释其本质
-
-towardsdatascience.com](/regression-tree-in-python-from-scratch-9b7b64c815e3) [](/random-forest-algorithm-in-python-from-scratch-487b314048a8) [## Python 中的随机森林算法
-
-### 使用(主要)数组和循环在 python 中编写强大的算法
-
-towardsdatascience.com](/random-forest-algorithm-in-python-from-scratch-487b314048a8) 
+[](/decision-tree-algorithm-in-python-from-scratch-8c43f0e40173)  [](/regression-tree-in-python-from-scratch-9b7b64c815e3)  [](/random-forest-algorithm-in-python-from-scratch-487b314048a8)  
 
 我们将使用决策树模型，使用各种回归变量( **X** )来创建加利福尼亚州中值房价( **Y** )之间的关系。可以使用 scikit-learn 包加载数据集:
 

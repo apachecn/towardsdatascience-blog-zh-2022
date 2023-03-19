@@ -153,11 +153,7 @@ PPL 的目的是建立从潜在空间到图像空间的映射是条件良好的�
 
 为了重现所描述的研究，我们鼓励您查看我们的 github 资源库，并在提供的自述文件中阅读更多关于我们研究的内容。
 
-[](https://github.com/aidotse/stylegan2-ada-pytorch) [## GitHub-aido tse/style gan 2-ADA-py torch:style gan 2-ADA 用于生成合成皮肤损伤
-
-### 医疗保健数据在人工智能(AI)模型开发中的使用与以下问题相关联…
-
-github.com](https://github.com/aidotse/stylegan2-ada-pytorch) 
+[](https://github.com/aidotse/stylegan2-ada-pytorch)  
 
 在另一篇[文章](https://medium.com/p/157301b51c0f)中，我们展示了如何使用 SIIM-ISIC 2020 数据集和 StyleGAN2 为皮肤损伤的合成图像生成准备数据。
 

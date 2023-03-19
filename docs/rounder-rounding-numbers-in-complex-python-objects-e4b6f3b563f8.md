@@ -120,20 +120,4 @@ rounder:在 Python 中舍入数字从未如此简单。照片由[米卡·鲍梅�
 
 # *资源*
 
-*[](https://github.com/nyggus/rounder) [## GitHub - nyggus/rounder:在复杂的 Python 中舍入浮点数和复数的 Python 包…
-
-### rounder 是一个轻量级的包，用于在复杂的 Python 对象中舍入数字，例如字典、列表、元组…
-
-github.com](https://github.com/nyggus/rounder)  [## 复制-浅层和深层复制操作- Python 3.11.0 文档
-
-### Python 中的赋值语句不复制对象，它们在目标和对象之间创建绑定。对于…
-
-docs.python.org](https://docs.python.org/3/library/copy.html) [](https://realpython.com/copying-python-objects/) [## Python 对象的浅层与深层复制——真正的 Python
-
-### 注意:本教程是在考虑 Python 3 的情况下编写的，但是 Python 2 和 Python 3 之间的区别很小，当它…
-
-realpython.com](https://realpython.com/copying-python-objects/) [](/does-python-still-need-the-map-function-96787ea1fb05) [## Python 还需要 map()函数吗？
-
-### 有了各种备选方案，Python 的 map()似乎就显得多余了。那么，Python 到底需不需要呢？
-
-towardsdatascience.com](/does-python-still-need-the-map-function-96787ea1fb05)*
+*[](https://github.com/nyggus/rounder)    [](https://realpython.com/copying-python-objects/)  [](/does-python-still-need-the-map-function-96787ea1fb05) *

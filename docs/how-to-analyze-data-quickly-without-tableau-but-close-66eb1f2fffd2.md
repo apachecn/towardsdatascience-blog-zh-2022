@@ -135,10 +135,6 @@ Esquisse 提供了几种常用的图形类型。这些包括线图和点图、�
 谢谢你，
 格雷果
 
-[](https://gscheithauer.medium.com/membership) [## 通过我的推荐链接加入 Medium-Gregor scheit hauer
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gscheithauer.medium.com](https://gscheithauer.medium.com/membership) ![](img/8845f9128617a62649ccac6f80de6d78.png)
+[](https://gscheithauer.medium.com/membership)  ![](img/8845f9128617a62649ccac6f80de6d78.png)
 
 凯西·霍纳在 [Unsplash](https://unsplash.com/s/photos/background?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 上拍摄的照片以及作者提供的其他图片

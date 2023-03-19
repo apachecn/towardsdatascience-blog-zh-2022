@@ -131,24 +131,8 @@ Google 云平台上的消息收集图—来源:[文档](https://diagrams.mingram
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership) 
+[](https://gmyrianthous.medium.com/membership)  
 
 **相关文章您可能也喜欢**
 
-[](/apache-airflow-architecture-496b9cb28288) [## 阿帕奇气流架构
-
-### 深入探讨 Apache Airflow 架构及其如何编排工作流
-
-towardsdatascience.com](/apache-airflow-architecture-496b9cb28288) [](/parallel-computing-92c4f818c) [## 什么是并行计算？
-
-### 理解并行计算在数据工程环境中的重要性
-
-towardsdatascience.com](/parallel-computing-92c4f818c) [](/big-o-notation-32fb458e5260) [## 大 O 符号
-
-### 用 Big-O 符号计算算法的时间和空间复杂度
-
-towardsdatascience.com](/big-o-notation-32fb458e5260)
+[](/apache-airflow-architecture-496b9cb28288)  [](/parallel-computing-92c4f818c)  [](/big-o-notation-32fb458e5260) 

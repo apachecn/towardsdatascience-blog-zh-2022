@@ -75,11 +75,7 @@
 *   在**路径或**和**路径初始化**中你有 2D 坐标的继承
 *   在**距离或**和**距离初始化**中，你有总距离
 
-[](https://www.samirsaci.com/improve-warehouse-productivity-using-pathfinding-algorithm-with-python/) [## 通过 Python |使用寻路算法提高仓库生产率
-
-### 仓储业务实现了基于旅行商问题的寻路算法
-
-www.samirsaci.com](https://www.samirsaci.com/improve-warehouse-productivity-using-pathfinding-algorithm-with-python/) 
+[](https://www.samirsaci.com/improve-warehouse-productivity-using-pathfinding-algorithm-with-python/)  
 
 ## 情节
 
@@ -114,11 +110,7 @@ www.samirsaci.com](https://www.samirsaci.com/improve-warehouse-productivity-usin
 
 目标是**生成这些部分路径的 GIF 图**以显示两个解决方案的连续位置。
 
-[](http://samirsaci.com) [## 萨米尔·萨奇
-
-### 数据科学博客，专注于仓储，运输，数据可视化和机器人流程自动化…
-
-samirsaci.com](http://samirsaci.com) 
+[](http://samirsaci.com)  
 
 # 用 Python Pillow 创建 GIF
 
@@ -176,11 +168,7 @@ samirsaci.com](http://samirsaci.com)
 
 交通路线—(图片由作者提供)
 
-[](https://www.samirsaci.com/road-transportation-network-visualization/) [## 道路交通网络可视化| Samir Saci
-
-### 运输运营为您的 FTL 网络性能建立可视化:交付/路线、每吨成本和…
-
-www.samirsaci.com](https://www.samirsaci.com/road-transportation-network-visualization/) 
+[](https://www.samirsaci.com/road-transportation-network-visualization/)  
 
 # 关于我
 
@@ -188,8 +176,4 @@ www.samirsaci.com](https://www.samirsaci.com/road-transportation-network-visuali
 
 如果你对数据分析和供应链感兴趣，可以看看我的网站
 
-[](https://samirsaci.com) [## Samir Saci |数据科学与生产力
-
-### 专注于数据科学、个人生产力、自动化、运筹学和可持续发展的技术博客
-
-samirsaci.com](https://samirsaci.com)
+[](https://samirsaci.com) 

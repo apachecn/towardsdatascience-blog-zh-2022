@@ -24,11 +24,7 @@
 
 我们邀请您在使用 Google Colab 运行随附笔记本的同时阅读这一系列文章，随附笔记本可从我的 GitHub 的“[随附笔记本](https://github.com/dvgodoy/AccompanyingNotebooks)”存储库中获得:
 
-[](https://colab.research.google.com/github/dvgodoy/AccompanyingNotebooks/blob/main/Understanding%20AutoEncoders.ipynb) [## 谷歌联合实验室——了解自动编码器
-
-### 随附笔记本
-
-colab.research.google.com](https://colab.research.google.com/github/dvgodoy/AccompanyingNotebooks/blob/main/Understanding%20AutoEncoders.ipynb) 
+[](https://colab.research.google.com/github/dvgodoy/AccompanyingNotebooks/blob/main/Understanding%20AutoEncoders.ipynb)  
 
 此外，我建立了一个*目录*来帮助你浏览两篇文章的主题，如果你把它作为一个**迷你课程**并且一次一个主题地浏览内容的话。
 
@@ -369,11 +365,7 @@ Epoch 030 | Loss >> 257.9317/182.5780/75.3537****
 
 ****然而**解码器是完全不同的**，因为它是使用**转置卷积**构建的。要快速了解这些“逆卷积”，请查看我的博文:****
 
-****[](/what-are-transposed-convolutions-2d43ac1a0771) [## 什么是转置卷积？
-
-### 了解“反向”卷积的工作原理
-
-towardsdatascience.com](/what-are-transposed-convolutions-2d43ac1a0771) 
+****[](/what-are-transposed-convolutions-2d43ac1a0771)  
 
 转置卷积用于将图像从 7x7 像素一直放大到原始大小 28x28:
 

@@ -159,11 +159,7 @@
 
 *喜欢这篇文章吗？成为* [*中级会员*](https://medium.com/@marvinlanhenke/membership) *继续无限学习。如果你使用下面的链接，我会收到你的一部分会员费，你没有额外的费用*
 
-[](https://medium.com/@marvinlanhenke/membership) [## 通过我的推荐链接加入 Medium-Marvin Lanhenke
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@marvinlanhenke/membership) 
+[](https://medium.com/@marvinlanhenke/membership)  
 
 **参考资料/更多资料:**
 

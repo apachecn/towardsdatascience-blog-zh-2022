@@ -84,11 +84,7 @@ H 作为众多复杂数据转换项目的一部分，我可以确认 85%的数�
 
 ****如果这些概念对你来说是陌生的——考虑阅读这篇文章:****
 
-****[](https://medium.com/geekculture/50-data-engineering-jargon-d94d07596a5a) [## 50 个数据工程术语
-
-### 您是否从事数据工程工作，但厌倦了所有的术语和首字母缩写？不多说了，下面是 50 个要得到的清单…
-
-medium.com](https://medium.com/geekculture/50-data-engineering-jargon-d94d07596a5a) 
+****[](https://medium.com/geekculture/50-data-engineering-jargon-d94d07596a5a)  
 
 对于我们的例子，我们将创建一个简单的维度模型，包含事实(定量)和维度(定性)。
 
@@ -146,11 +142,7 @@ medium.com](https://medium.com/geekculture/50-data-engineering-jargon-d94d07596a
 
 ****如果你觉得这篇文章有帮助，请在下面留言告诉我。查看我在 Medium 上的其他帖子:****
 
-****[](https://medium.com/geekculture/25-terms-to-help-you-in-your-career-in-data-science-14ca681b0699) [## 25 个术语对你的数据科学职业生涯有所帮助
-
-### 厌倦了所有的行话和缩写，这里有 25 个让你开始
-
-medium.com](https://medium.com/geekculture/25-terms-to-help-you-in-your-career-in-data-science-14ca681b0699) 
+****[](https://medium.com/geekculture/25-terms-to-help-you-in-your-career-in-data-science-14ca681b0699)  
 
 如果您没有订阅 Medium，请考虑使用我的推荐链接订阅[。它比网飞便宜，而且客观上能更好地利用你的时间。](https://hanzalaqureshi.medium.com/membership)如果你使用我的链接，我会获得一小笔佣金，而你可以在 Medium 上获得无限的故事。
 

@@ -117,11 +117,7 @@ Word2Vec 同时解决了单词包表示的两个限制:
 
 > 注意:在继续之前，最好知道什么是密集神经网络和激活函数。这里有一个故事。
 
-[](/5-most-well-known-cnn-architectures-visualized-af76f1f0065e) [## 理解和可视化 5 种卷积神经网络架构
-
-### 为什么盗梦空间看起来像三叉戟？！
-
-towardsdatascience.com](/5-most-well-known-cnn-architectures-visualized-af76f1f0065e) 
+[](/5-most-well-known-cnn-architectures-visualized-af76f1f0065e)  
 
 Word2Vec 采用了具有单个隐藏层的 [**密集神经网络**](/5-most-well-known-cnn-architectures-visualized-af76f1f0065e#c7c5) 的使用，该隐藏层没有激活函数，在给定另一个独热码编码令牌的情况下预测一个独热码编码令牌。
 

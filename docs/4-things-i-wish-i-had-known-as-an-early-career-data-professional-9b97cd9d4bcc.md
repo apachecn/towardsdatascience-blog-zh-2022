@@ -34,11 +34,7 @@
 
 如果你不确定你想做什么，蒂姆·厄本有一个很好的练习。这将极大地有助于回答一些关于你自己和你下一步想做什么的深层问题。
 
-[](https://waitbutwhy.com/2018/04/picking-career.html) [## 如何选择一个职业(实际上适合你)——等等，但是为什么
-
-### 嘿读者们！在我们开始之前，请注意:这是一篇关于我一直想写的东西的帖子…
-
-waitbutwhy.com](https://waitbutwhy.com/2018/04/picking-career.html) 
+[](https://waitbutwhy.com/2018/04/picking-career.html)  
 
 关于这个话题，我要说的最后一件事是，如果你对目前的工作不满意，如果你只是想“做些不同的事情”，那么你也不太可能对下一份工作满意努力思考你想要走向什么，而不是你想要远离什么。
 
@@ -54,12 +50,4 @@ waitbutwhy.com](https://waitbutwhy.com/2018/04/picking-career.html)
 
 [1]如果您想阅读一些不是专门针对数据科学但仍然非常有帮助的观点，我发现这两篇文章非常有帮助:
 
-[](https://hbr.org/2021/02/promotions-arent-just-about-your-skills-theyre-about-your-relationships) [## 晋升不仅仅关乎你的技能，还关乎你的人际关系
-
-### 他们可能过于关注自己的技能，而不是工作中的人际关系。这五条建议适用于…
-
-hbr.org](https://hbr.org/2021/02/promotions-arent-just-about-your-skills-theyre-about-your-relationships) [](https://hbr.org/2007/01/how-leaders-create-and-use-networks) [## 领导者如何创建和使用网络
-
-### 简单来说，成功的领导者与众不同的地方是什么？网络:创造一个组织…
-
-hbr.org](https://hbr.org/2007/01/how-leaders-create-and-use-networks)
+[](https://hbr.org/2021/02/promotions-arent-just-about-your-skills-theyre-about-your-relationships)  [](https://hbr.org/2007/01/how-leaders-create-and-use-networks) 

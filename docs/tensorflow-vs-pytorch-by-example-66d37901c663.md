@@ -104,11 +104,7 @@ MNIST 数据驻留在`tensorflow_datasets`中。
 
 希望这篇教程对你有所帮助。两个模型(非常相似)都达到了大约 99%的精确度。通过下面的链接，你可以在 Jupyter 笔记本上看到这两个例子的完整代码。从那里，你可以在谷歌联合实验室里发布任何一款笔记本。
 
-[](https://github.com/mikhailklassen/CNN_MNIST) [## GitHub-mikhailklassen/CNN _ MNIST:在两个平台上实现相同 CNN 架构的练习…
-
-### 在 PyTorch 和 Tensorflow 中实现相同 CNN 架构的练习。我试着保持…
-
-github.com](https://github.com/mikhailklassen/CNN_MNIST) 
+[](https://github.com/mikhailklassen/CNN_MNIST)  
 
 ## 感谢
 

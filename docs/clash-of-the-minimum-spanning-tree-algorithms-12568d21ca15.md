@@ -350,8 +350,4 @@ ok   github.com/sausheong/gocookbook/graph 4.109s
 
 这里的所有代码都可以在这个库中找到。
 
-[](https://github.com/sausheong/mst) [## GitHub - sausheong/mst:最小生成树算法的代码库
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/sausheong/mst)
+[](https://github.com/sausheong/mst) 

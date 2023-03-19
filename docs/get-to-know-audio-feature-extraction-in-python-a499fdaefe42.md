@@ -231,19 +231,7 @@ tempo = librosa.beat.tempo(onset_envelope=oenv, sr=sr,
 
 要了解有关音频/音乐特征提取的更多信息，您可以浏览下面的资源。
 
-[](https://link.springer.com/book/10.1007/978-3-540-74048-3) [## 音乐和动作的信息检索
-
-### “现代信息社会正在经历数字内容的爆炸，包括文本、语音、视频和…
-
-link.springer.com](https://link.springer.com/book/10.1007/978-3-540-74048-3)  [## 指数
-
-### 关于 CCRMA 音乐信息检索研讨会
-
-musicinformationretrieval.com](https://musicinformationretrieval.com/index.html) [](https://www.kdnuggets.com/2020/02/audio-data-analysis-deep-learning-python-part-1.html) [## 使用 Python 深度学习的音频数据分析(第 1 部分)- KDnuggets
-
-### 虽然许多关于深度学习的文献和讨论都与计算机视觉和自然语言处理(NLP)有关…
-
-www.kdnuggets.com](https://www.kdnuggets.com/2020/02/audio-data-analysis-deep-learning-python-part-1.html) 
+[](https://link.springer.com/book/10.1007/978-3-540-74048-3)    [](https://www.kdnuggets.com/2020/02/audio-data-analysis-deep-learning-python-part-1.html)  
 
 **使用的音频参考**
 

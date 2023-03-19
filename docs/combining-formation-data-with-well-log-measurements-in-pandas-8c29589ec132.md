@@ -26,11 +26,7 @@
 
 本教程中使用的数据是 Equinor 在 2018 年发布的 Volve 数据集的子集。数据集的全部细节，包括许可证，可以在下面的链接中找到。
 
-[](https://www.equinor.com/energy/volve-data-sharing) [## Volve 现场数据集
-
-### Equinor 已经正式发布了一套完整的北海油田数据，供研究、学习和应用
-
-www.equinor.com](https://www.equinor.com/energy/volve-data-sharing) 
+[](https://www.equinor.com/energy/volve-data-sharing)  
 
 Volve 数据许可证基于 CC BY 4.0 许可证。许可协议的全部细节可以在这里找到:
 
@@ -135,11 +131,7 @@ df_19SR.loc[(df_19SR['DEPT'] >= 4339) & (df_19SR['DEPT'] <= 4341)]
 
 如果您想了解如何将地层顶部与测井测量结果结合起来进行可视化，请查看这篇文章:
 
-[](/adding-formation-data-to-a-well-log-plot-3897b96a3967) [## 将地层数据添加到测井曲线中
-
-### 使用 Python 和 matplotlib 进一步绘制测井曲线
-
-towardsdatascience.com](/adding-formation-data-to-a-well-log-plot-3897b96a3967) 
+[](/adding-formation-data-to-a-well-log-plot-3897b96a3967)  
 
 *感谢阅读。在你走之前，你一定要订阅我的内容，把我的文章放到你的收件箱里。* [***你可以在这里做！***](https://andymcdonaldgeo.medium.com/subscribe)**或者，您也可以* [***注册我的简讯***](https://fabulous-founder-2965.ck.page/2ca286e572) *免费将更多内容直接发送到您的收件箱。**
 

@@ -187,35 +187,7 @@ type3      29  5058  3.426289      type3      1
 
 # **如果你喜欢这篇文章，这里有一些你可能喜欢的其他文章:**
 
-**[](/how-to-crack-spotify-data-science-technical-screen-interview-23f0f7205928) [## 如何破解 Spotify 数据科学技术屏面试
-
-### 要了解 Spotify 技术屏幕，您应该知道的确切 Python/SQL 命令和实验主题列表
-
-towardsdatascience.com](/how-to-crack-spotify-data-science-technical-screen-interview-23f0f7205928) [](/fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7) [## 数据科学家和数据分析师的统计学基础
-
-### 数据科学或数据分析之旅的关键统计概念
-
-towardsdatascience.com](/fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7) [](/simple-and-complet-guide-to-a-b-testing-c34154d0ce5a) [## 简单完整的 A/B 测试指南
-
-### 为您的数据科学实验进行端到端 A/B 测试，面向非技术和技术专家，提供示例和…
-
-towardsdatascience.com](/simple-and-complet-guide-to-a-b-testing-c34154d0ce5a) [](/monte-carlo-simulation-and-variants-with-python-43e3e7c59e1f) [## 蒙特卡罗模拟和 Python 变种
-
-### 蒙特卡洛模拟指南，必须了解 Python 实现的统计抽样技术
-
-towardsdatascience.com](/monte-carlo-simulation-and-variants-with-python-43e3e7c59e1f) [](https://tatev-aslanyan.medium.com/bias-variance-trade-off-in-machine-learning-7f885355e847) [## 机器学习中的偏差-方差权衡
-
-### 机器学习和统计模型中偏差-方差权衡的介绍
-
-tatev-aslanyan.medium.com](https://tatev-aslanyan.medium.com/bias-variance-trade-off-in-machine-learning-7f885355e847) [](https://tatev-aslanyan.medium.com/data-sampling-methods-in-python-a4400628ea1b) [## Python 中的数据采样方法
-
-### 使用不同的数据采样技术创建 Python 中的随机样本的现成代码
-
-tatev-aslanyan.medium.com](https://tatev-aslanyan.medium.com/data-sampling-methods-in-python-a4400628ea1b) [](https://medium.com/analytics-vidhya/pyspark-cheat-sheet-big-data-analytics-161a8e1f6185) [## PySpark 备忘单:大数据分析
-
-### 这里是基本 PySpark 命令和函数的备忘单。在 PySpark 中开始您的大数据分析。
-
-medium.com](https://medium.com/analytics-vidhya/pyspark-cheat-sheet-big-data-analytics-161a8e1f6185) 
+**[](/how-to-crack-spotify-data-science-technical-screen-interview-23f0f7205928)  [](/fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7)  [](/simple-and-complet-guide-to-a-b-testing-c34154d0ce5a)  [](/monte-carlo-simulation-and-variants-with-python-43e3e7c59e1f)  [](https://tatev-aslanyan.medium.com/bias-variance-trade-off-in-machine-learning-7f885355e847)  [](https://tatev-aslanyan.medium.com/data-sampling-methods-in-python-a4400628ea1b)  [](https://medium.com/analytics-vidhya/pyspark-cheat-sheet-big-data-analytics-161a8e1f6185)  
 
 ***感谢阅读***
 

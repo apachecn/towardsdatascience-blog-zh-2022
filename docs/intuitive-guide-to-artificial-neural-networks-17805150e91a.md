@@ -82,16 +82,4 @@ Sigmoid 函数|来源:作者图片
 
 *如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你想让***无限制地访问我的文章和数以千计的精彩文章，请不要犹豫，通过点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格***
 
-**[](/beginners-guide-to-gradient-descent-47f8d0f4ce3b) [## 梯度下降初学者指南
-
-### 关于梯度下降法你需要知道的一切
-
-towardsdatascience.com](/beginners-guide-to-gradient-descent-47f8d0f4ce3b) [](/beginners-guide-extract-transform-load-etl-49104a8f9294) [## 初学者指南:提取、转换、加载(ETL)
-
-### 了解数据分析中的大数据原理
-
-towardsdatascience.com](/beginners-guide-extract-transform-load-etl-49104a8f9294) [](/introducing-nosql-databases-with-mongodb-d46c976da5bf) [## 使用 MongoDB 介绍 NoSQL 数据库
-
-### NoSQL 数据库实用指南
-
-towardsdatascience.com](/introducing-nosql-databases-with-mongodb-d46c976da5bf)**
+**[](/beginners-guide-to-gradient-descent-47f8d0f4ce3b)  [](/beginners-guide-extract-transform-load-etl-49104a8f9294)  [](/introducing-nosql-databases-with-mongodb-d46c976da5bf) **

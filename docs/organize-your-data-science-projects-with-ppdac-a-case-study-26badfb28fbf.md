@@ -164,11 +164,7 @@ px.scatter(sons, x='Father', y='Height',
 
 *您也可以自己动手，使用 SciPy 计算回归线，并将其绘制在散点图的顶部。完成这项工作的代码在下载中，我将很快在这里复制它，但我不打算详细介绍。如果您想了解更多关于使用 SciPy 创建回归图的信息，请参阅下面的文章。*
 
-*[](/adding-regression-lines-to-pandas-plots-with-scipy-2e23fd524adb) [## 熊猫和 SciPy 的回归图
-
-### 回归可用于预测未来或识别数据中的趋势和关系
-
-towardsdatascience.com](/adding-regression-lines-to-pandas-plots-with-scipy-2e23fd524adb) 
+*[](/adding-regression-lines-to-pandas-plots-with-scipy-2e23fd524adb)  
 
 ```
 from scipy import stats
@@ -244,8 +240,4 @@ sons.plot.line(x='Father',y='Trend', color='red', ax=ax, figsize = (12,6))
 
 *[1] [统计学的艺术:如何从数据中学习](https://www.amazon.com/Art-Statistics-How-Learn-Data/dp/1541675703/ref=sr_1_1?_encoding=UTF8&amp;camp=1789&amp;creative=9325&amp;crid=1PPXO3JG9UPDR&amp;keywords=the+art+of+statistics&amp;linkCode=ur2&amp;linkId=b71669deca0a471424d5bc6fccbba1b3&amp;qid=1648295722&amp;sprefix=the+art+of+statistics%25252Caps%25252C177&amp;sr=8-1&_encoding=UTF8&tag=alanjones01-20&linkCode=ur2&linkId=fdf08c9a6a07285fa2432673497c25ec&camp=1789&creative=9325)，大卫·斯皮格尔哈特，2021 ( *附属链接*)*
 
-*[](https://medium.com/membership/@alan-jones) [## 通过我的推荐链接-阿兰·琼斯加入媒体
-
-### 阅读阿兰·琼斯的每一个故事(以及媒体上成千上万的其他作家)。你的会员费直接支持艾伦…
-
-medium.com](https://medium.com/membership/@alan-jones)*
+*[](https://medium.com/membership/@alan-jones) *

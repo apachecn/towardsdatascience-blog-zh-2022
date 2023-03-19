@@ -71,44 +71,8 @@
 
 查看我最近的一些文章
 
-[](https://miketechgame.medium.com/getting-started-with-seq-in-python-4f5fde688364) [## Python 中的 Seq 入门
-
-### 向脚本中快速添加日志记录的简单方法。
-
-miketechgame.medium.com](https://miketechgame.medium.com/getting-started-with-seq-in-python-4f5fde688364) [](https://medium.com/codex/javascript-cdns-and-how-to-use-them-offline-e6e6333491a3) [## Javascript CDNs 以及如何离线使用它们
-
-### 它们是什么？它们如何帮助我们？
-
-medium.com](https://medium.com/codex/javascript-cdns-and-how-to-use-them-offline-e6e6333491a3) [](https://medium.com/codex/something-i-learned-this-week-vue-js-in-asp-net-core-mvc-7b7540a38343) [## 这周学到的东西:ASP.NET 核心 MVC 中的 Vue.js
-
-### 这听起来有点奇怪，但实际上真的很酷…
-
-medium.com](https://medium.com/codex/something-i-learned-this-week-vue-js-in-asp-net-core-mvc-7b7540a38343) [](https://python.plainenglish.io/5-python-libraries-to-use-everyday-d32a9de13269) [## 你可以每天使用的 5 个 Python 库
-
-### 网站、机器学习、自动化——Python 可以做很多事情。
-
-python .平原英语. io](https://python.plainenglish.io/5-python-libraries-to-use-everyday-d32a9de13269) [](https://blog.devgenius.io/automate-kubernetes-with-python-2150c290afe7) [## 用 Python 自动化 Kubernetes
-
-### 摆脱手动运行命令的简单方法…
-
-blog.devgenius.io](https://blog.devgenius.io/automate-kubernetes-with-python-2150c290afe7) 
+[](https://miketechgame.medium.com/getting-started-with-seq-in-python-4f5fde688364)  [](https://medium.com/codex/javascript-cdns-and-how-to-use-them-offline-e6e6333491a3)  [](https://medium.com/codex/something-i-learned-this-week-vue-js-in-asp-net-core-mvc-7b7540a38343)  [](https://python.plainenglish.io/5-python-libraries-to-use-everyday-d32a9de13269)  [](https://blog.devgenius.io/automate-kubernetes-with-python-2150c290afe7)  
 
 参考资料:
 
-[](https://brilliant.org/wiki/linear-regression/) [## 线性回归|精彩的数学和科学维基
-
-### 线性回归是一种用于模拟观察变量之间关系的技术。简单背后的理念…
-
-brilliant.org](https://brilliant.org/wiki/linear-regression/) [](https://www.analyticsvidhya.com/blog/2021/05/all-you-need-to-know-about-your-first-machine-learning-model-linear-regression/) [## 线性回归|数据科学线性回归简介
-
-### 如果您正在阅读这篇文章，我假设您已经进入了数据科学世界，并且对…
-
-www.analyticsvidhya.com](https://www.analyticsvidhya.com/blog/2021/05/all-you-need-to-know-about-your-first-machine-learning-model-linear-regression/) [](https://www.ibm.com/topics/linear-regression) [## 关于线性回归| IBM
-
-### 什么是线性回归？了解此分析程序如何生成预测，使用一个易于解释的…
-
-www.ibm.com](https://www.ibm.com/topics/linear-regression)  [## 线性还是非线性回归？这是个问题。
-
-### 你可能已经注意到，统计领域是一个奇怪的领域。需要更多证据吗？线性回归可以产生…
-
-blog.minitab.com](https://blog.minitab.com/en/adventures-in-statistics-2/linear-or-nonlinear-regression-that-is-the-question)
+[](https://brilliant.org/wiki/linear-regression/)  [](https://www.analyticsvidhya.com/blog/2021/05/all-you-need-to-know-about-your-first-machine-learning-model-linear-regression/)  [](https://www.ibm.com/topics/linear-regression)   

@@ -126,11 +126,7 @@ LSTM 细胞的表现|图片作者:Christopher Olah
 
 *如果你有兴趣详细了解 LSTM 的内幕，请点击以下链接:*
 
- *[## 了解 LSTM 网络
-
-### 2015 年 8 月 27 日发布人类不是每秒钟都从零开始思考。当你读这篇文章时，你…
-
-colah.github.io](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)* 
+ ** 
 
 # *这个故事的寓意！*
 

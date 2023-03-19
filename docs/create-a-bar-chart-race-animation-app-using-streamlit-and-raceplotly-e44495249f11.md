@@ -30,11 +30,7 @@
 
 可以参考下面的[文章](/streamlit-hands-on-from-zero-to-your-first-awesome-web-app-2c28f9f4e214)，按照说明安装 Streamlit，学习基础知识。
 
-[](/streamlit-hands-on-from-zero-to-your-first-awesome-web-app-2c28f9f4e214) [## 简化实践:从零到你的第一个优秀的网络应用
-
-### 学习核心概念并使用 Streamlit 创建您的第一个 Web 应用程序的分步指南
-
-towardsdatascience.com](/streamlit-hands-on-from-zero-to-your-first-awesome-web-app-2c28f9f4e214) 
+[](/streamlit-hands-on-from-zero-to-your-first-awesome-web-app-2c28f9f4e214)  
 
 ## 安装以下软件包:
 
@@ -48,11 +44,7 @@ pip install raceplotlypip install streamlit-aggridpip install streamlit-option-m
 
 先简单说一下 app 的整体布局和设计。在我之前的[文章](https://medium.com/codex/create-a-multi-page-app-with-the-new-streamlit-option-menu-component-3e3edaf7e7ad)中，我们谈到了如何使用`streamlit-option-menu`来创建一个漂亮的、专业外观的导航菜单。
 
-[](https://medium.com/codex/create-a-multi-page-app-with-the-new-streamlit-option-menu-component-3e3edaf7e7ad) [## 使用新的简化选项菜单组件创建一个多页面应用程序
-
-### 还用 st.radio()创建菜单？是时候尝试在 Github 中提供完整代码的 Streamlit-Option-Menu 了
-
-medium.com](https://medium.com/codex/create-a-multi-page-app-with-the-new-streamlit-option-menu-component-3e3edaf7e7ad) 
+[](https://medium.com/codex/create-a-multi-page-app-with-the-new-streamlit-option-menu-component-3e3edaf7e7ad)  
 
 我们可以对这个应用程序做同样的事情。我们将创建一个多页应用程序，包括:
 
@@ -158,11 +150,7 @@ raceplot.plot(item_label = 'Top 10 Countries', value_label = 'GDP ($)', frame_du
 
 你也可以给这个应用程序添加更多的功能，比如让用户能够将条形图比赛动画导出到 HTML，并与他人分享。我已经在另一篇关于如何在 Streamlit 中创建一个“导出”按钮的文章中介绍了这种技术，该按钮允许用户将`plotly`图表导出到 HTML。如果你有兴趣，你可以在这里阅读文章。
 
-[](https://medium.com/codex/create-a-simple-project-planning-app-using-streamlit-and-gantt-chart-6c6adf8f46dd) [## 使用 Streamlit 和甘特图创建简单的项目规划应用程序
-
-### 了解 Streamlit 的文件上传/下载、可编辑表格、交互式图表等特性和功能
-
-medium.com](https://medium.com/codex/create-a-simple-project-planning-app-using-streamlit-and-gantt-chart-6c6adf8f46dd) 
+[](https://medium.com/codex/create-a-simple-project-planning-app-using-streamlit-and-gantt-chart-6c6adf8f46dd)  
 
 # 创建“联系人”页面
 

@@ -22,11 +22,7 @@
 
 嗯，一开始可能会让人害怕和困惑。Medium 上有很多关于 HMM 的文章( [1](https://medium.com/towards-data-science/how-to-build-a-poisson-hidden-markov-model-using-python-and-statsmodels-f7aa3f46f847) 、 [2](https://medium.com/@kangeugine/hidden-markov-model-7681c22f5b9) 、 [3](https://jonathan-hui.medium.com/machine-learning-hidden-markov-model-hmm-31660d217a61) 等等)。他们用迭代的例子解释了 HMM 中的数学细节。这意味着有很多数学。他们的插图是静态的。但是我们都想要互动材料，因为它们可以让事情变得更清楚。所以在本文中，我想在交互式 Neo4j 中演示 HMM。我想特别演示一下维特比算法。只有两个简单的步骤，你可以很容易地遵循。我将使用你可以在许多其他 HMM 教程中看到的虚构的天气情绪虚拟数据。这个项目的代码存放在我的 GitHub 仓库中:
 
-[](https://github.com/dgg32/markov_neo4j) [## GitHub — dgg32/markov_neo4j
-
-### 在 GitHub 上创建一个帐户，为 dgg32/markov_neo4j 开发做贡献。
-
-github.com](https://github.com/dgg32/markov_neo4j) 
+[](https://github.com/dgg32/markov_neo4j)  
 
 # 1.天气猜谜游戏
 
@@ -100,8 +96,4 @@ github.com](https://github.com/dgg32/markov_neo4j)
 
 *更新:* [*我的第二篇文章在 Neo4j*](https://dgg32.medium.com/train-a-hidden-markov-model-with-neo4j-a5547c9eb0d4) *演示了用 Baum-Welch 算法训练 HMM。*
 
-[](https://dgg32.medium.com/membership) [## 通过我的推荐链接加入媒体—黄思兴
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-dgg32.medium.com](https://dgg32.medium.com/membership)
+[](https://dgg32.medium.com/membership) 

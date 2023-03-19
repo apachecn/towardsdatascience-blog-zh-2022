@@ -32,11 +32,7 @@
 
 *如果你愿意了解移动定位数据的分析结果及其应用，我建议你阅读这个故事:*
 
-*[](/interactive-flow-map-with-an-od-matrix-of-regular-movements-in-tartu-estonia-3ac6b7738397) [## 爱沙尼亚塔尔图市常规运动 OD 矩阵互动流程图
-
-### 从呼叫详细记录(CDR)获得传单中的家庭-工作通勤的交互式可视化
-
-towardsdatascience.com](/interactive-flow-map-with-an-od-matrix-of-regular-movements-in-tartu-estonia-3ac6b7738397) 
+*[](/interactive-flow-map-with-an-od-matrix-of-regular-movements-in-tartu-estonia-3ac6b7738397)  
 
 # **目标**
 

@@ -61,10 +61,6 @@ git_access_token_json_path = os.path.join(drive_path, PATH_TO_JSON)# install usi
 *   这种方法的一个缺点是访问令牌的路径在笔记本中是可见的。这意味着，如果攻击者能够访问您的驱动器，他们将能够很容易地找到您的访问令牌 json。因此，每次将笔记本推送到 Github 时，删除路径可能是个好主意。
 *   这个包还有其他工具在使用 Colab 时很有用，比如测量 GPU 利用率，向 GPU 发送对象等…
 
-[](https://github.com/namiyousef/colab-utils) [## GitHub - namiyousef/colab-utils:使用 colab 和 drive 的辅助函数
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/namiyousef/colab-utils) 
+[](https://github.com/namiyousef/colab-utils)  
 
 *所有图片均由作者提供，除非另有说明*

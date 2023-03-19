@@ -556,24 +556,8 @@ lines(predictions.with.trend, col**=**"red")
 
 如果你从这篇文章中发现了任何价值，并且还不是一个媒体会员，如果你使用下面的链接注册会员，这对我和这个平台上的其他作者来说意义重大。它鼓励我们继续推出像这样的高质量和信息丰富的内容——提前感谢您！
 
-[](https://chongjason.medium.com/membership) [## 通过我的推荐链接-杰森·庄加入媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-chongjason.medium.com](https://chongjason.medium.com/membership) 
+[](https://chongjason.medium.com/membership)  
 
 不知道接下来要读什么？这里有一些建议。
 
-[](/want-to-stand-out-as-a-data-scientist-start-practicing-these-non-technical-skills-9e38ed86703e) [## 想成为一名杰出的数据科学家吗？开始练习这些非技术性技能
-
-### 仅仅擅长编码是不够的
-
-towardsdatascience.com](/want-to-stand-out-as-a-data-scientist-start-practicing-these-non-technical-skills-9e38ed86703e) [](/battle-of-the-ensemble-random-forest-vs-gradient-boosting-6fbfed14cb7) [## 整体之战——随机森林 vs 梯度推进
-
-### 机器学习领域最流行的两种算法，谁会赢？
-
-towardsdatascience.com](/battle-of-the-ensemble-random-forest-vs-gradient-boosting-6fbfed14cb7) [](/lets-end-the-debate-actuary-vs-data-scientist-83abe51a4845) [## 让我们结束这场辩论——精算师 vs 数据科学家
-
-### 哪个职业更好，为什么我选择两个都做
-
-towardsdatascience.com](/lets-end-the-debate-actuary-vs-data-scientist-83abe51a4845)
+[](/want-to-stand-out-as-a-data-scientist-start-practicing-these-non-technical-skills-9e38ed86703e)  [](/battle-of-the-ensemble-random-forest-vs-gradient-boosting-6fbfed14cb7)  [](/lets-end-the-debate-actuary-vs-data-scientist-83abe51a4845) 

@@ -478,17 +478,9 @@ Python 中的多重处理是加速代码的强大工具。**通过在多个处�
 
 在过去的关于智能指针的三部分系列文章中介绍了内存管理:
 
-[](https://betterprogramming.pub/smart-pointers-in-cpp-708486276526) [## 理解 C++中的智能指针
+[](https://betterprogramming.pub/smart-pointers-in-cpp-708486276526)  [](https://betterprogramming.pub/understanding-smart-pointers-in-cpp-6c3854593503) [## 现代 C++:智能指针的近距离观察
 
-### 更聪明地工作，而不是更努力
-
-better 编程. pub](https://betterprogramming.pub/smart-pointers-in-cpp-708486276526) [](https://betterprogramming.pub/understanding-smart-pointers-in-cpp-6c3854593503) [## 现代 C++:智能指针的近距离观察
-
-### 《理解智能指针》续集 betterprogramming.pub](https://betterprogramming.pub/understanding-smart-pointers-in-cpp-6c3854593503) [](https://betterprogramming.pub/understanding-smart-pointer-iii-909512a5eb05) [## 通过直观的视觉效果解释 C++智能指针
-
-### 我的 C++指针系列的第 3 部分
-
-better 编程. pub](https://betterprogramming.pub/understanding-smart-pointer-iii-909512a5eb05) 
+### 《理解智能指针》续集 betterprogramming.pub](https://betterprogramming.pub/understanding-smart-pointers-in-cpp-6c3854593503) [](https://betterprogramming.pub/understanding-smart-pointer-iii-909512a5eb05)  
 
 # 接触
 
@@ -496,8 +488,4 @@ better 编程. pub](https://betterprogramming.pub/understanding-smart-pointer-ii
 **Want to Connect?** Follow Dr. Robinson on [LinkedIn](https://www.linkedin.com/in/jrobby/), [Twitter](https://twitter.com/jrobvision), [Facebook](https://www.facebook.com/joe.robinson.39750), and [Instagram](https://www.instagram.com/doctor__jjj/). Visit my homepage for papers, blogs, email signups, and more!
 ```
 
-[](https://www.jrobs-vision.com/) [## 人工智能研究工程师和企业家|约瑟夫·p·罗宾逊
-
-### 研究员和企业家问候！作为一名研究人员，罗宾逊博士提出并采用先进的人工智能来理解…
-
-www.jrobs-vision.com。](https://www.jrobs-vision.com/)
+[](https://www.jrobs-vision.com/) 

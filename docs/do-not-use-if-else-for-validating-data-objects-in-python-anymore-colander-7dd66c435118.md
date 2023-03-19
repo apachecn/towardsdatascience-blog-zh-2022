@@ -10,19 +10,11 @@
 
 几周前，我介绍了一个名为 Cerberus 的 Python 库。它可以让我们编写一个“模式”,以简洁易读的方式验证我们的数据对象(JSON/Dictionary ),而不是使用无尽的 if-else 条件。
 
-[](/do-not-use-if-else-for-validating-data-objects-in-python-anymore-17203e1d65fe) [## 不要再使用 If-Else 来验证 Python 中的数据对象
-
-### Cerberus——一种简洁易读的验证字典属性的方式。
-
-towardsdatascience.com](/do-not-use-if-else-for-validating-data-objects-in-python-anymore-17203e1d65fe) 
+[](/do-not-use-if-else-for-validating-data-objects-in-python-anymore-17203e1d65fe)  
 
 在本文中，我将介绍另一个令人惊叹的第三方库— Colander。然而，它做了一件非常相似的事情，只是方式非常不同。它使用类，而不是在字典中定义验证规则。这听起来有点庞大，但是如果我们有一个非常复杂的数据结构需要验证，这可能会更有组织性。此外，当我们在类中编写所有的验证规则时，有一个显著的好处。也就是说，我们可以将它导出为一个可以导入的独立模块。换句话说，它在另一个层面上提供了灵活性和可重用性。
 
- [## 漏勺-漏勺 1.8.3 文件
-
-### Colander 是一个非常有用的系统，可以用来验证和反序列化通过 XML、JSON、HTML 表单 post 或任何其他方式获得的数据
-
-docs.pylonsproject.org](https://docs.pylonsproject.org/projects/colander/en/latest/index.html) 
+  
 
 # 1.基础
 
@@ -345,11 +337,7 @@ person_schema.get_value(my_json, 'skills.0.name')
 
 总的来说，我认为 Colander 更适合需要非常复杂的验证和特殊需求的用例。它使我们能够编写更可读的代码。然而，Colander 中的所有东西都必须被定义为一个类。所以，如果用例不是那么复杂，这就有点过度设计了。
 
-[](https://medium.com/@qiuyujx/membership) [## 通过我的推荐链接加入灵媒-陶
-
-### 谢谢你看我的文章！如果你不介意，请给我买杯咖啡:)你的会员费支持几千…
-
-medium.com](https://medium.com/@qiuyujx/membership) 
+[](https://medium.com/@qiuyujx/membership)  
 
 如果你觉得我的文章有帮助，请考虑加入 Medium 会员来支持我和成千上万的其他作者！(点击上面的链接)
 

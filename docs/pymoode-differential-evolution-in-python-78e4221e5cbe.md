@@ -37,15 +37,7 @@ pip install pymoode
 
 *如果您不熟悉非线性编程或差分进化，我建议您阅读我以前的文章，以便更好地理解这里介绍的概念。*
 
-*[](/nonlinear-programming-theory-and-applications-cfe127b6060c) [## 非线性规划:理论与应用
-
-### 详细解释了基于梯度的线搜索优化算法，并用 Python 从头开始实现
-
-towardsdatascience.com](/nonlinear-programming-theory-and-applications-cfe127b6060c) [](/differential-evolution-an-alternative-to-nonlinear-convex-optimization-690a123f3413) [## 差分进化:非线性凸优化的替代方案
-
-### 了解差分进化的基础知识及其在 Python 中的应用
-
-towardsdatascience.com](/differential-evolution-an-alternative-to-nonlinear-convex-optimization-690a123f3413) 
+*[](/nonlinear-programming-theory-and-applications-cfe127b6060c)  [](/differential-evolution-an-alternative-to-nonlinear-convex-optimization-690a123f3413)  
 
 虽然以前我们追求的是一个单一的目标，但在这篇文章中，我们有许多方向可以同时遵循！
 

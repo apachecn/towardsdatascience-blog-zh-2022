@@ -106,16 +106,4 @@ Yandex research 发表了一篇很棒的文章，介绍了他们解决数据集�
 Igor 联合创始人
 [Lightly.ai](https://lightly.ai/)
 
-[](https://medium.datadriveninvestor.com/the-advantage-of-self-supervised-learning-bd6fddc8f345) [## 自我监督学习的优势
-
-### 关于为什么自我监督学习会对 AI 产生强烈影响的几点个人想法。从最近的 NLP 到计算机…
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/the-advantage-of-self-supervised-learning-bd6fddc8f345) [](/few-shot-learning-with-fast-ai-81c66064e372) [## 用 fast.ai 进行少拍学习
-
-### 在少镜头学习中，我们只使用几个带标签的例子来训练模型。了解如何使用…训练您的分类器
-
-towardsdatascience.com](/few-shot-learning-with-fast-ai-81c66064e372) [](/how-to-keep-up-with-the-latest-research-and-trends-in-ml-a45a356b1001) [## 如何跟上 ML 的最新研究和趋势
-
-### 对 ML 的大肆宣传导致该领域的研究和兴趣急剧增加。在这篇文章中，我分享了我的…
-
-towardsdatascience.com](/how-to-keep-up-with-the-latest-research-and-trends-in-ml-a45a356b1001)
+[](https://medium.datadriveninvestor.com/the-advantage-of-self-supervised-learning-bd6fddc8f345)  [](/few-shot-learning-with-fast-ai-81c66064e372)  [](/how-to-keep-up-with-the-latest-research-and-trends-in-ml-a45a356b1001) 

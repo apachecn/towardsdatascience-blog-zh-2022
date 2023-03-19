@@ -16,11 +16,7 @@ by [sebo106](https://pixabay.com/pl/photos/zabytek-czechy-czech-praga-rathaus-92
 
 如果你对非线性时间序列完全陌生，我强烈建议你从对整个主题的直观介绍开始:
 
-[](/nonlinear-time-series-an-intuitive-introduction-7390aae8b446) [## 非线性时间序列——直观介绍
-
-### 为什么你的标准时间序列分析程序有时会失败？
-
-towardsdatascience.com](/nonlinear-time-series-an-intuitive-introduction-7390aae8b446) 
+[](/nonlinear-time-series-an-intuitive-introduction-7390aae8b446)  
 
 # 多项式回归
 
@@ -196,11 +192,7 @@ Polynomial AR: 5.119633
 
 有人会认为这是撒旦的创造。其中一个可能是对的。即使一开始看起来无法解决，但还是有模型可以处理这种非线性。如果你对此感到好奇，请查看:
 
-[](/threshold-autoregressive-models-beyond-arima-r-code-6af3331e2755) [## 门限自回归模型——超越 ARIMA + R 码
-
-### 满足 TAR——自回归模型的非线性扩展。
-
-towardsdatascience.com](/threshold-autoregressive-models-beyond-arima-r-code-6af3331e2755) 
+[](/threshold-autoregressive-models-beyond-arima-r-code-6af3331e2755)  
 
 如果你有任何问题，请在评论中提问！你也可以通过 LinkedIn 联系我。
 

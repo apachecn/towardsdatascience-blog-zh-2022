@@ -176,11 +176,7 @@ GMM 球形结果。图片由作者提供。
 
 如果你愿意，不要忘记关注我的博客或者使用我的推荐链接订阅 Medium。
 
-[](https://gustavorsantos.medium.com/) [## 古斯塔沃·桑托斯-中等
-
-### 阅读古斯塔夫·桑托斯在媒介上的作品。数据科学家。我从数据中提取见解，以帮助个人和公司…
-
-gustavorsantos.medium.com](https://gustavorsantos.medium.com/) 
+[](https://gustavorsantos.medium.com/)  
 
 ## 参考
 
@@ -188,20 +184,4 @@ gustavorsantos.medium.com](https://gustavorsantos.medium.com/)
 
 [解释堆栈交换的协方差类型](https://stats.stackexchange.com/questions/326671/different-covariance-types-for-gaussian-mixture-models)
 
-[](/gaussian-mixture-models-explained-6986aaf5a95) [## 高斯混合模型解释
-
-### 在机器学习领域，我们可以区分两个主要领域:监督学习和非监督学习。主要的…
-
-towardsdatascience.com](/gaussian-mixture-models-explained-6986aaf5a95) [](/how-to-code-gaussian-mixture-models-from-scratch-in-python-9e7975df5252) [## 如何用 Python 从头开始编写高斯混合模型
-
-### 使用 NumPy 的 GMMs 和最大似然优化
-
-towardsdatascience.com](/how-to-code-gaussian-mixture-models-from-scratch-in-python-9e7975df5252) [](/gaussian-mixture-modelling-gmm-833c88587c7f) [## 高斯混合模型(GMM)
-
-### 使用无监督学习理解文本数据
-
-towardsdatascience.com](/gaussian-mixture-modelling-gmm-833c88587c7f) [](/gaussian-mixture-models-d13a5e915c8e) [## 高斯混合模型聚类算法讲解
-
-### 高斯混合模型可以像 k-means 一样用于聚类未标记的数据。
-
-towardsdatascience.com](/gaussian-mixture-models-d13a5e915c8e)
+[](/gaussian-mixture-models-explained-6986aaf5a95)  [](/how-to-code-gaussian-mixture-models-from-scratch-in-python-9e7975df5252)  [](/gaussian-mixture-modelling-gmm-833c88587c7f)  [](/gaussian-mixture-models-d13a5e915c8e) 

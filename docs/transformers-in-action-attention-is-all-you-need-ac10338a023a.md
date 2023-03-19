@@ -69,11 +69,7 @@
 
 > **如果你觉得注意力机制处于未知领域，我推荐你阅读下面这篇文章:**
 
-**[](/rethinking-thinking-how-do-attention-mechanisms-actually-work-a6f67d313f99) [## 反思思维:注意力机制实际上是如何工作的？
-
-### 大脑、数学和 DL——2022 年的研究前沿
-
-towardsdatascience.com](/rethinking-thinking-how-do-attention-mechanisms-actually-work-a6f67d313f99)** 
+**[](/rethinking-thinking-how-do-attention-mechanisms-actually-work-a6f67d313f99) ** 
 
 # **3.变压器架构**
 
@@ -327,11 +323,7 @@ towardsdatascience.com](/rethinking-thinking-how-do-attention-mechanisms-actuall
 
 *****你也可以在 [TransformerX Discord 服务器](https://discord.gg/7BF9KUnBNT)和 [Twitter](https://twitter.com/tensorops) 上加入我们，我们会保持联系。*****
 
-*****[](https://www.linkedin.com/in/soran-ghaderi/) [## Soran Ghaderi -自雇-自雇| LinkedIn
-
-### 寻找一个非常适合的机器学习研究职位，我打算扩展我在机器学习方面的技能…
-
-www.linkedin.com](https://www.linkedin.com/in/soran-ghaderi/)***** 
+*****[](https://www.linkedin.com/in/soran-ghaderi/) ***** 
 
 # *****9.参考*****
 

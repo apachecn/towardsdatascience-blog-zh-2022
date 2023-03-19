@@ -20,11 +20,7 @@
 
 作为参考，下面是用于微调甜甜圈模型的 google colab 脚本:
 
-[](https://colab.research.google.com/drive/16iPnVD68oMnCqxHcLaq9qn9zkRaIGeab?usp=sharing#scrollTo=h072rVoFMNYb) [## 谷歌联合实验室
-
-### 编辑描述
-
-colab.research.google.com](https://colab.research.google.com/drive/16iPnVD68oMnCqxHcLaq9qn9zkRaIGeab?usp=sharing#scrollTo=h072rVoFMNYb) 
+[](https://colab.research.google.com/drive/16iPnVD68oMnCqxHcLaq9qn9zkRaIGeab?usp=sharing#scrollTo=h072rVoFMNYb)  
 
 # 环形建筑
 

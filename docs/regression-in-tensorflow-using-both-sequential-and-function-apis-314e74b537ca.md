@@ -16,11 +16,7 @@ Tensorflow 可以说是深度学习和神经网络领域中最受欢迎的包。
 
 可从以下链接下载干净并可用于模型数据集中的产品:
 
-[](https://github.com/rashida048/Tensorflow/blob/main/auto_price.csv) [## tensor flow/auto _ price . CSV at main rashida 048/tensor flow
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/rashida048/Tensorflow/blob/main/auto_price.csv) 
+[](https://github.com/rashida048/Tensorflow/blob/main/auto_price.csv)  
 
 [原始数据集](https://archive.ics.uci.edu/ml/datasets/Automobile)取自 UCI 机器学习知识库。
 
@@ -393,28 +389,4 @@ model6.evaluate([X_test1, X_test2], y_test)
 
 ## 更多阅读
 
-[](/simple-explanation-on-how-decision-tree-algorithm-makes-decisions-34f56be344e9) [## 浅谈决策树算法如何决策
-
-### 决策树算法背后的直觉
-
-towardsdatascience.com](/simple-explanation-on-how-decision-tree-algorithm-makes-decisions-34f56be344e9) [](/what-is-a-recurrent-neural-network-and-implementation-of-simplernn-gru-and-lstm-models-in-keras-f7247e97c405) [## 在 Keras 中实现 SimpleRNN、GRU 和 LSTM 模型
-
-### 什么是递归神经网络以及三种递归神经网络在 Tensorflow 和
-
-towardsdatascience.com](/what-is-a-recurrent-neural-network-and-implementation-of-simplernn-gru-and-lstm-models-in-keras-f7247e97c405) [](/developing-a-convolutional-neural-network-model-using-the-unlabeled-image-files-directly-from-the-124180b8f21f) [## 开发一个卷积神经网络模型使用未标记的图像文件直接从…
-
-### 使用图像生成器将图像自动标记为子目录
-
-towardsdatascience.com](/developing-a-convolutional-neural-network-model-using-the-unlabeled-image-files-directly-from-the-124180b8f21f) [](/chi-square-test-for-correlation-test-in-details-manual-and-python-implementation-472ae5c4b15f) [## 详细相关性检验的卡方检验:手动和 Python 实现
-
-### 检查两个变量是否相互独立
-
-towardsdatascience.com](/chi-square-test-for-correlation-test-in-details-manual-and-python-implementation-472ae5c4b15f) [](/understanding-regularization-in-plain-language-l1-and-l2-regularization-2991b9c54e9a) [## 用通俗的语言理解正则化:L1 和 L2 正则化
-
-### 在数据科学访谈中经常被问到
-
-towardsdatascience.com](/understanding-regularization-in-plain-language-l1-and-l2-regularization-2991b9c54e9a) [](https://pub.towardsai.net/data-analysis-91a38207c92b) [## 数据分析
-
-### Python 中数据科学家/分析师日常工作中的常见数据清理任务
-
-pub.towardsai.net](https://pub.towardsai.net/data-analysis-91a38207c92b)
+[](/simple-explanation-on-how-decision-tree-algorithm-makes-decisions-34f56be344e9)  [](/what-is-a-recurrent-neural-network-and-implementation-of-simplernn-gru-and-lstm-models-in-keras-f7247e97c405)  [](/developing-a-convolutional-neural-network-model-using-the-unlabeled-image-files-directly-from-the-124180b8f21f)  [](/chi-square-test-for-correlation-test-in-details-manual-and-python-implementation-472ae5c4b15f)  [](/understanding-regularization-in-plain-language-l1-and-l2-regularization-2991b9c54e9a)  [](https://pub.towardsai.net/data-analysis-91a38207c92b) 

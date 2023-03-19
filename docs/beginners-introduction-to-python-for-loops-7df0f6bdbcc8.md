@@ -68,16 +68,4 @@ Python for 循环不应该总是运行到循环的末尾。在某些情况下，
 
 *如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
 
-*[](/3short-introduction-to-numpy-3a65ec23eaba) [## NumPy 简介
-
-### 数字图书馆和 ufuncs 的一些基本知识
-
-towardsdatascience.com](/3short-introduction-to-numpy-3a65ec23eaba) [](/5-basic-commands-when-working-with-python-sets-875f71dcc85b) [## 使用 Python 集合时的 5 个基本命令
-
-### 让您了解 Python 列表的特征以及如何处理它们
-
-towardsdatascience.com](/5-basic-commands-when-working-with-python-sets-875f71dcc85b) [](/exception-handling-in-python-8cc8f69f16ad) [## Python 中的异常处理
-
-### 了解如何使用 Python Try Except
-
-towardsdatascience.com](/exception-handling-in-python-8cc8f69f16ad)*
+*[](/3short-introduction-to-numpy-3a65ec23eaba)  [](/5-basic-commands-when-working-with-python-sets-875f71dcc85b)  [](/exception-handling-in-python-8cc8f69f16ad) *

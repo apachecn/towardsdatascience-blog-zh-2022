@@ -83,19 +83,11 @@ Table of Contents[3D Scene Perception](#bba3)
 
 如果你还在那里，那么你已经通过了 mumble bumble 3D charabia，并准备好抓住它的单角任务。🦄我们希望提取语义信息，并将其以点云的形式注入到我们的 3D 数据中。为此，我们将深化一种策略，帮助我们从传感器中获取此类信息。我们将专注于一个算法家族，监督学习方法——与下面显示的非监督方法相反。
 
-[](/fundamentals-to-clustering-high-dimensional-data-3d-point-clouds-3196ee56f5da) [## 高维数据聚类的基础(3D 点云)
-
-### 为什么无监督分割和聚类是“人工智能的主体”？图解概念，以掌握微妙之处和应用…
-
-towardsdatascience.com](/fundamentals-to-clustering-high-dimensional-data-3d-point-clouds-3196ee56f5da) 
+[](/fundamentals-to-clustering-high-dimensional-data-3d-point-clouds-3196ee56f5da)  
 
 使用监督学习方法，我们本质上向过去的系统显示特定的分类示例。这意味着我们需要给这些例子贴上标签。为此，您有以下教程:
 
-[](/3d-point-cloud-clustering-tutorial-with-k-means-and-python-c870089f3af8) [## 基于 K-means 和 Python 的三维点云聚类教程
-
-### 创建 3D 语义分割数据集的完整 python 实践指南。了解如何转换未标记的…
-
-towardsdatascience.com](/3d-point-cloud-clustering-tutorial-with-k-means-and-python-c870089f3af8) 
+[](/3d-point-cloud-clustering-tutorial-with-k-means-and-python-c870089f3af8)  
 
 然后，我们使用场景中每个被考虑元素的标签来预测未来数据的标签。因此，目标是能够推断出尚未看到的数据，如下图所示。
 
@@ -115,11 +107,7 @@ towardsdatascience.com](/3d-point-cloud-clustering-tutorial-with-k-means-and-pyt
 
 你知道规矩吗？我们做的第一步是潜入网络，寻找一些有趣的 3D 数据！这一次，我想深挖一个法国人(抱歉我这么势利😆)找到冷冻激光雷达数据集的地方:法国国家地理研究所(IGN)。随着 LiDAR HD 活动的开展，法国开始了开放式数据采集，您可以获得法国一些地区清晰的 3D 点云！在最上面，一些有标签，使它很容易不从头开始，你会在下面的链接中找到。
 
-[](https://geoservices.ign.fr/lidarhd#telechargementclassifiees) [## 激光雷达高清
-
-### 激光雷达高清节目框架中的 3D 采集点的年度报告
-
-地理服务公司](https://geoservices.ign.fr/lidarhd#telechargementclassifiees) 
+[](https://geoservices.ign.fr/lidarhd#telechargementclassifiees)  
 
 但是为了使教程简单明了，我上了上面的门户，选择了覆盖洛汉斯城(71)部分的数据，删除了地理参考信息，计算了一些额外的属性(我将在另一个教程中解释)😜)，然后在我的[打开数据驱动文件夹](https://drive.google.com/drive/folders/1Ih_Zz9a6UcbUlaA-puEB_is7DYvXrb4w?usp=sharing)中提供。你感兴趣的数据是`3DML_urban_point_cloud.xyz`和`3DML_validation.xyz`。如果你想在网上可视化，你可以跳转到 [Flyvast WebGL 摘录](https://www.flyvast.com/flyvast/app/page-snapshot-viewer.html#/524/ff813c90-346f-5d7e-3633-b0fed0973a9d)。
 
@@ -578,11 +566,7 @@ print(classification_report(y_test, loaded_predictions, target_names=['ground','
 
 那是一次疯狂的旅行！完整的 201 课程，带 3D 机器学习动手教程！😁您学到了很多东西，尤其是如何导入具有特征的点云，选择、训练和调整受监督的 3D 机器学习模型，并将其导出以检测户外课程，从而出色地概括到大型航空点云数据集！热烈祝贺！但这只是 3D 机器学习等式的一部分。为了扩展学习之旅的成果，未来的文章将深入探讨语义和实例分割[2–4]，动画和深度学习[1]。我们将研究如何管理大点云数据，如下文所述。
 
-[](/the-future-of-3d-point-clouds-a-new-perspective-125b35b558b9) [## 三维点云的未来:一个新的视角
-
-### 被称为点云的离散空间数据集通常为决策应用奠定基础。但是他们能不能…
-
-towardsdatascience.com](/the-future-of-3d-point-clouds-a-new-perspective-125b35b558b9) 
+[](/the-future-of-3d-point-clouds-a-new-perspective-125b35b558b9)  
 
 我的贡献旨在浓缩可操作的信息，以便您可以从零开始为您的项目构建 3D 自动化系统。你可以从参加[地理数据学院](https://learngeodata.eu/)的课程开始。
 

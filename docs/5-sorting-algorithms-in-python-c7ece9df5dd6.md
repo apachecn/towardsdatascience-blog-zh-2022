@@ -168,15 +168,7 @@
 
 ***如果你对 Python、工程学和数据科学感兴趣，可以看看我的其他文章。***
 
-***[](https://medium.com/codex/python-project-idea-graph-traversal-and-pathfinding-algorithm-visualisations-99595c414293) [## Python 中的广度优先搜索、深度优先搜索、Dijakras 和 A*寻路算法
-
-### Python 中的图遍历和寻路算法可视化
-
-medium.com](https://medium.com/codex/python-project-idea-graph-traversal-and-pathfinding-algorithm-visualisations-99595c414293) [](https://medium.com/@andrewdaviesul/membership) [## 通过我的推荐链接加入媒体-安德鲁·约瑟夫·戴维斯
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@andrewdaviesul/membership) 
+***[](https://medium.com/codex/python-project-idea-graph-traversal-and-pathfinding-algorithm-visualisations-99595c414293)  [](https://medium.com/@andrewdaviesul/membership)  
 
 ## 参考
 

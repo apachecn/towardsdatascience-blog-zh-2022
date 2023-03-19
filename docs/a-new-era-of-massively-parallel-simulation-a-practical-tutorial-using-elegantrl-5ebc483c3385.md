@@ -12,11 +12,7 @@
 
 Steven Li 和的这篇文章解释了大规模并行模拟的最新突破。它还通过使用云原生开源强化学习(RL)库 *ElegantRL* 的实用教程，讲述了**如何训练机器人在 10 分钟内解决 Isaac Gym 基准任务**和**如何从头开始构建自己的并行模拟器**。
 
-[](https://github.com/AI4Finance-Foundation/ElegantRL) [## GitHub-ai 4 finance-Foundation/ElegantRL:Cloud-native 深度强化学习。🔥
-
-### ElegantRL(网站)是为从业者开发的，具有以下优势:云原生:遵循云原生…
-
-github.com](https://github.com/AI4Finance-Foundation/ElegantRL) 
+[](https://github.com/AI4Finance-Foundation/ElegantRL)  
 
 # 什么是 GPU 加速模拟？
 

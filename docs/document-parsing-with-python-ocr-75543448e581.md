@@ -24,11 +24,7 @@
 
 在本教程中，我将展示如何使用 OCR 进行文档解析。我将展示一些有用的 Python 代码，这些代码可以很容易地用于其他类似的情况(只需复制、粘贴、运行)，并通过注释遍历每一行代码，这样您就可以很容易地复制这个示例(下面是完整代码的链接)。
 
-[](https://github.com/mdipietro09/DataScience_ArtificialIntelligence_Utils/blob/master/computer_vision/example_ocr_parsing.ipynb) [## data science _ artificial intelligence _ Utils/example _ ocr _ parsing . ipynb at master…
-
-### 数据科学项目和人工智能用例的示例…
-
-github.com](https://github.com/mdipietro09/DataScience_ArtificialIntelligence_Utils/blob/master/computer_vision/example_ocr_parsing.ipynb) 
+[](https://github.com/mdipietro09/DataScience_ArtificialIntelligence_Utils/blob/master/computer_vision/example_ocr_parsing.ipynb)  
 
 我将用一家上市公司的 *PDF* 格式的财务报表作为例子(下面的链接)。
 
@@ -258,12 +254,4 @@ tables[0]**
 
 > **本文是 Python 系列 **CV 的一部分，参见:****
 
-**[](/how-to-detect-objects-with-your-webcam-82693c47bd8) [## 用 Python 和 YOLO 进行对象检测
-
-### 使用网络摄像头的计算机视觉
-
-towardsdatascience.com](/how-to-detect-objects-with-your-webcam-82693c47bd8) [](https://pub.towardsai.net/image-classification-with-python-cnn-vs-transformers-fe509cbbc2d0) [## 用 Python 进行图像分类:CNN 与变形金刚
-
-### 计算机视觉&用卷积神经网络、迁移学习、ViT、TensorFlow 和 HuggingFace 进行解释
-
-pub.towardsai.net](https://pub.towardsai.net/image-classification-with-python-cnn-vs-transformers-fe509cbbc2d0)**
+**[](/how-to-detect-objects-with-your-webcam-82693c47bd8)  [](https://pub.towardsai.net/image-classification-with-python-cnn-vs-transformers-fe509cbbc2d0) **

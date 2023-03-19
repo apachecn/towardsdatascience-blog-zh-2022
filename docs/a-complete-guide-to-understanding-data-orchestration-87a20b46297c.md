@@ -138,19 +138,11 @@ DAG 的每个节点代表流程中任务的一个步骤。它通常由 Python �
 
 ****不确定接下来要读什么？我为你挑选了另一篇文章:****
 
-****[](/the-5-best-data-science-books-you-should-read-in-2022-9209616c203f) [## 2022 年你应该阅读的 5 本最佳数据科学书籍
-
-### 以下是我喜欢的最好的数据科学书籍
-
-towardsdatascience.com](/the-5-best-data-science-books-you-should-read-in-2022-9209616c203f) 
+****[](/the-5-best-data-science-books-you-should-read-in-2022-9209616c203f)  
 
 **还有一个:**
 
-[](/8-best-practices-for-writing-top-tier-sql-code-e1023996e459) [## 编写优秀 SQL 代码的最佳实践
-
-### 介绍
-
-towardsdatascience.com](/8-best-practices-for-writing-top-tier-sql-code-e1023996e459) 
+[](/8-best-practices-for-writing-top-tier-sql-code-e1023996e459)  
 
 ## -特伦斯·申
 
@@ -161,8 +153,4 @@ towardsdatascience.com](/8-best-practices-for-writing-top-tier-sql-code-e1023996
 
 > 这最初由 Allie Beazell 发布在[人口普查博客](https://blog.getcensus.com/) *上。如果您有兴趣阅读更多类似的文章并了解更多关于运营分析的知识，请随时查看！*
 
-[](https://blog.getcensus.com/) [## 关于数据和运营|普查的博客
-
-### 来了解创业行业最佳运营团队的技巧和最佳实践。等待可操作的…
-
-blog.getcensus.com](https://blog.getcensus.com/)****
+[](https://blog.getcensus.com/) ****

@@ -203,11 +203,7 @@ new_dict = **{key: value for key, value in zip(fields, details)}**# Output
 
 请注意，免费媒体会员只能阅读 3 篇会员专用的文章。在媒体上阅读无限故事 [**今天用我下面的推荐链接成为媒体会员**](https://medium.com/@17.rsuraj/membership) 。当你这么做的时候，我会从你的费用中得到一小部分。
 
-[](https://medium.com/@17.rsuraj/membership) [## 加入我的推荐链接- Suraj Gurav 媒体
-
-### 今天就成为中等会员吧！！！每月只需 5 美元，您就可以无限制地访问数以千计的 Python 指南和…
-
-medium.com](https://medium.com/@17.rsuraj/membership) 
+[](https://medium.com/@17.rsuraj/membership)  
 
 还有，别忘了 [**订阅我的邮件列表**](https://medium.com/subscribe/@17.rsuraj) 。
 

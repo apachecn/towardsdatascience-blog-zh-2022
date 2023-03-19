@@ -208,16 +208,8 @@
 
 **如果你对我以前的文章感兴趣，并且想在新内容发表时得到通知，你也可以注册下面的邮件列表**
 
-**[](https://medium.com/subscribe/@vflovik) [## 每当 Vegard Flovik 发表文章时，都会收到电子邮件。
-
-### 每当 Vegard Flovik 发表文章时，都会收到电子邮件。通过注册，您将创建一个中型帐户，如果您还没有…
-
-medium.com](https://medium.com/subscribe/@vflovik) 
+**[](https://medium.com/subscribe/@vflovik)  
 
 而且，如果你想成为一个媒体会员，免费访问平台上的所有资料，你可以使用下面我的推荐链接。(注意:如果您使用此链接注册，我也会收到一部分会员费)
 
-[](https://medium.com/@vflovik/membership) [## 通过我的推荐链接加入媒体- Vegard Flovik
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@vflovik/membership)**
+[](https://medium.com/@vflovik/membership) **

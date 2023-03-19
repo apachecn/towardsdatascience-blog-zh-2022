@@ -61,11 +61,7 @@ RTX3060Ti 在 OpenCL 基准测试中的得分比苹果 M1 芯片高出约 6.3 �
 
 有关如何组织和预处理它的详细说明，请参考以下文章:
 
-[](https://betterdatascience.com/top-3-prerequisites-for-deep-learning-projects/) [## 用于图像分类的 TensorFlow 深度学习项目的三大先决条件|更好的数据…
-
-### 想训练一个用于图像分类的神经网络？确保做到这一点首先识别图像中的对象是一个…
-
-betterdatascience.com](https://betterdatascience.com/top-3-prerequisites-for-deep-learning-projects/) 
+[](https://betterdatascience.com/top-3-prerequisites-for-deep-learning-projects/)  
 
 我们今天会做两个测试:
 
@@ -308,10 +304,6 @@ NVIDIA 的 RTX3060Ti 是一款中间层 GPU，非常适合初级到中级深度�
 
 *喜欢这篇文章吗？成为* [*中等会员*](https://medium.com/@radecicdario/membership) *继续无限制学习。如果你使用下面的链接，我会收到你的一部分会员费，不需要你额外付费。*
 
-[](https://medium.com/@radecicdario/membership) [## 通过我的推荐链接加入 Medium-Dario rade ci
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@radecicdario/membership) 
+[](https://medium.com/@radecicdario/membership)  
 
 *原载于 2022 年 1 月 27 日*[*https://betterdatascience.com*](https://betterdatascience.com/macbook-m1-vs-rtx3060ti/)*。*

@@ -22,15 +22,7 @@ W 当我们建立一个机器学习模型时，我们通常以这样的方式设
 
 图片由作者提供。
 
-[](/a-gentle-introduction-to-bayesian-inference-6a7552e313cb) [## 贝叶斯推理的简明介绍
-
-### 了解频率主义者和贝叶斯推理方法之间的区别
-
-towardsdatascience.com](/a-gentle-introduction-to-bayesian-inference-6a7552e313cb) [](/bayesian-linear-regression-in-python-via-pymc3-ab8c2c498211) [## 通过 PyMC3 在 Python 中实现贝叶斯线性回归
-
-### 了解如何推断模型参数并对新数据进行预测，包括不确定性估计！
-
-towardsdatascience.com](/bayesian-linear-regression-in-python-via-pymc3-ab8c2c498211) 
+[](/a-gentle-introduction-to-bayesian-inference-6a7552e313cb)  [](/bayesian-linear-regression-in-python-via-pymc3-ab8c2c498211)  
 
 正因为如此，我们可以通过观察预测的分布或一些导出的数字(如标准差)来了解模型何时不确定。分布越窄(标准差越小)，模型越确定。
 
@@ -136,11 +128,7 @@ towardsdatascience.com](/bayesian-linear-regression-in-python-via-pymc3-ab8c2c49
 
 *****在你选择的任何深度学习框架中实现这两件事应该都很容易。我们将在 Tensorflow 中进行，因为上次我已经选择了 PyTorch 来解释可解释的神经网络。😎*****
 
-*****[](/interpretable-neural-networks-with-pytorch-76f1c31260fe) [## PyTorch 可解释神经网络
-
-### 了解如何使用 PyTorch 构建可通过设计解释的前馈神经网络
-
-towardsdatascience.com](/interpretable-neural-networks-with-pytorch-76f1c31260fe) 
+*****[](/interpretable-neural-networks-with-pytorch-76f1c31260fe)  
 
 让我们从一个简单的例子开始。
 

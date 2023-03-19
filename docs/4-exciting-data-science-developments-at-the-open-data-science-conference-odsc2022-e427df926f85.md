@@ -56,11 +56,7 @@ Robert 接着描述了与 TFX 合作开发和利用 ML 管道的许多细节，�
 
 最后一点，罗伯特建议使用[深度学习。艾·TFX 在 Coursera](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) (他是该网站的讲师)上为那些对这一领域的培训感兴趣的人服务。
 
-[](https://www.tensorflow.org/tfx) [## TensorFlow Extended (TFX) | ML 生产管道
-
-### 本指南训练一个神经网络模型来分类服装图像，如运动鞋和衬衫，保存训练过的…
-
-www.tensorflow.org](https://www.tensorflow.org/tfx) 
+[](https://www.tensorflow.org/tfx)  
 
 # 3.数据科学家对沟通感兴趣，以最大化他们在组织中的价值
 

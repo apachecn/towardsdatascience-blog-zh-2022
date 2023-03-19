@@ -61,16 +61,4 @@
 
 ***如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！此外，媒体允许你每月免费阅读* ***3 篇*** *。如果你想让***无限制地访问我的文章和数以千计的精彩文章，不要犹豫，通过点击我的推荐链接:*[https://medium.com/@niklas_lang/membership](https://medium.com/@niklas_lang/membership)获得会员资格，每个月只需支付 ***5*******
 
-*****[](/8-machine-learning-algorithms-everyone-new-to-data-science-should-know-772bd0f1eca1) [## 数据科学新手应该知道的 8 种机器学习算法
-
-### 简要解释机器学习背后的算法
-
-towardsdatascience.com](/8-machine-learning-algorithms-everyone-new-to-data-science-should-know-772bd0f1eca1) [](/an-introduction-to-long-short-term-memory-networks-lstm-27af36dde85d) [## 长短期记忆网络导论(LSTM)
-
-### 理解长短期记忆的概念和问题
-
-towardsdatascience.com](/an-introduction-to-long-short-term-memory-networks-lstm-27af36dde85d) [](/an-introduction-to-databases-for-data-scientists-d6eb686b0dc) [## 面向数据科学家的数据库介绍
-
-### 您需要了解的关于数据库的一切都在一篇文章中
-
-towardsdatascience.com](/an-introduction-to-databases-for-data-scientists-d6eb686b0dc)*****
+*****[](/8-machine-learning-algorithms-everyone-new-to-data-science-should-know-772bd0f1eca1)  [](/an-introduction-to-long-short-term-memory-networks-lstm-27af36dde85d)  [](/an-introduction-to-databases-for-data-scientists-d6eb686b0dc) *****

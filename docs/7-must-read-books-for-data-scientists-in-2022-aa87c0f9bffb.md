@@ -137,10 +137,6 @@ PyTorch 是脸书 AI 研究(FAIR)团队在[sou Smith chint ala](https://soumith.
 
 在本文中，我谈到了一些帮助我成为更好的数据科学从业者的书籍，我希望这些书籍也能帮助其他数据科学家。显然还有很多书我想提及，所以我可能会写另一篇类似的文章。我也总是乐于接触新书，所以如果你有任何建议，请在回复中提出。
 
-[](/a-novel-approach-to-feature-importance-shapley-additive-explanations-d18af30fc21b) [## 特征重要性的一种新方法——Shapley 附加解释
-
-### 最先进的功能重要性
-
-towardsdatascience.com](/a-novel-approach-to-feature-importance-shapley-additive-explanations-d18af30fc21b) [](/creating-multipage-applications-using-streamlit-efficiently-b58a58134030) [## 使用 Streamlit 创建多页面应用程序(高效！)
+[](/a-novel-approach-to-feature-importance-shapley-additive-explanations-d18af30fc21b)  [](/creating-multipage-applications-using-streamlit-efficiently-b58a58134030) [## 使用 Streamlit 创建多页面应用程序(高效！)
 
 towardsdatascience.com](/creating-multipage-applications-using-streamlit-efficiently-b58a58134030)

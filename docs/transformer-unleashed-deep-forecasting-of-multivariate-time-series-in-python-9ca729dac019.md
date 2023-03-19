@@ -60,11 +60,7 @@
 
 你可以在上周关于时间融合转换器的文章中找到关于概率预测的其他解释:
 
-[](/temporal-fusion-transformer-a-primer-on-deep-forecasting-in-python-4eb37f3f3594) [## 时态融合转换器:Python 深度预测入门
-
-### 端到端的例子:概率时间序列预测使用 TFT，一个基于注意力的神经网络
-
-towardsdatascience.com](/temporal-fusion-transformer-a-primer-on-deep-forecasting-in-python-4eb37f3f3594) 
+[](/temporal-fusion-transformer-a-primer-on-deep-forecasting-in-python-4eb37f3f3594)  
 
 # 2.属国
 
@@ -72,11 +68,7 @@ towardsdatascience.com](/temporal-fusion-transformer-a-primer-on-deep-forecastin
 
 早期的一篇文章提供了安装 Darts 包的指导:
 
-[](/temporal-loops-intro-to-recurrent-neural-networks-for-time-series-forecasting-in-python-b0398963dc1f) [## 时间循环:Python 中用于时间序列预测的递归神经网络简介
-
-### 一个关于 LSTM，GRU 和香草 RNNs 的教程-由 Darts 多方法预测库包装
-
-towardsdatascience.com](/temporal-loops-intro-to-recurrent-neural-networks-for-time-series-forecasting-in-python-b0398963dc1f) 
+[](/temporal-loops-intro-to-recurrent-neural-networks-for-time-series-forecasting-in-python-b0398963dc1f)  
 
 我还导入了小而有用的 *missingno* 包来可视化任何可能影响源数据的空值。它是一个可选工具:您可以选择删除它的导入行和使用它的 Juypter 单元格，而不会影响脚本的其余部分。
 
@@ -584,16 +576,4 @@ TransformerModel 接受我们在顶部的笔记本单元格中定义的超参数
 
 数据集元数据:[每小时能源需求生成和天气| Kaggle](https://www.kaggle.com/nicholasjhana/energy-consumption-generation-prices-and-weather/metadata)
 
-[](https://medium.com/subscribe/@h3ik0.th) [## 每当 Heiko Onnen 发表文章时，都会收到一封电子邮件。
-
-### 每当 Heiko Onnen 发表文章时，都会收到一封电子邮件。通过注册，您将创建一个中型帐户，如果您还没有…
-
-medium.com](https://medium.com/subscribe/@h3ik0.th) [](https://medium.com/@h3ik0.th/temporal-fusion-transformer-unleashed-deep-forecasting-of-multivariate-time-series-in-python-674fa393821b) [## 释放时间融合变压器:Python 中多元时间序列的深度预测
-
-### 端到端示例:具有外生变量和复杂季节性的时间序列的概率预测
-
-medium.com](https://medium.com/@h3ik0.th/temporal-fusion-transformer-unleashed-deep-forecasting-of-multivariate-time-series-in-python-674fa393821b) [](/n-beats-unleashed-deep-forecasting-using-neural-basis-expansion-analysis-in-python-343dd6307010) [## N-BEATS Unleashed:使用 Python 中的神经基础扩展分析进行深度预测
-
-### 端到端示例:具有复杂季节性的多变量时间序列的神经预测
-
-towardsdatascience.com](/n-beats-unleashed-deep-forecasting-using-neural-basis-expansion-analysis-in-python-343dd6307010)
+[](https://medium.com/subscribe/@h3ik0.th)  [](https://medium.com/@h3ik0.th/temporal-fusion-transformer-unleashed-deep-forecasting-of-multivariate-time-series-in-python-674fa393821b)  [](/n-beats-unleashed-deep-forecasting-using-neural-basis-expansion-analysis-in-python-343dd6307010) 

@@ -14,11 +14,7 @@
 
 由于这是一项无服务器服务，我们不必担心设置或管理服务器或任何基础设施。这种产品也被称为功能即服务(FaaS)。查看以下文章，了解更多信息，并了解如何在生产中使用它:
 
-[](/machine-learning-model-as-a-serverless-endpoint-using-google-cloud-function-a5ad1080a59e) [## 使用谷歌云功能作为无服务器端点的机器学习模型
-
-### 因此，你已经建立了一个模型，并希望将其生产为谷歌云平台(GCP)上的无服务器解决方案。让我…
-
-towardsdatascience.com](/machine-learning-model-as-a-serverless-endpoint-using-google-cloud-function-a5ad1080a59e) 
+[](/machine-learning-model-as-a-serverless-endpoint-using-google-cloud-function-a5ad1080a59e)  
 
 绕远路之后，让我们回到我们为什么在这里。
 
@@ -125,20 +121,4 @@ towardsdatascience.com](/machine-learning-model-as-a-serverless-endpoint-using-g
 
 *您可能喜欢的其他文章:*
 
-[](/how-to-extract-and-convert-tables-from-pdf-files-to-pandas-dataframe-cb2e4c596fa8) [## 如何从 PDF 文件中提取表格并转换成 Pandas Dataframe？
-
-### 因此，您有一些包含表格的 pdf 文件，并希望将它们读入熊猫数据框。让我告诉你怎么做。
-
-towardsdatascience.com](/how-to-extract-and-convert-tables-from-pdf-files-to-pandas-dataframe-cb2e4c596fa8) [](/machine-learning-model-as-a-serverless-endpoint-using-google-cloud-function-a5ad1080a59e) [## 使用谷歌云功能作为无服务器端点的机器学习模型
-
-### 因此，你已经建立了一个模型，并希望将其生产为谷歌云平台(GCP)上的无服务器解决方案。让我…
-
-towardsdatascience.com](/machine-learning-model-as-a-serverless-endpoint-using-google-cloud-function-a5ad1080a59e) [](/machine-learning-model-as-a-serverless-app-using-google-app-engine-b760de59156) [## 使用谷歌应用引擎的无服务器应用的机器学习模型
-
-### 因此，您构建了一个模型，并希望将其部署为一个无服务器应用程序。让我告诉你如何使用 Docker 来做这件事…
-
-towardsdatascience.com](/machine-learning-model-as-a-serverless-app-using-google-app-engine-b760de59156) [](/documenting-your-python-code-9e69671f046a) [## 记录您的 Python 代码
-
-### 正确记录 python 代码需要练习的 3 件事
-
-towardsdatascience.com](/documenting-your-python-code-9e69671f046a)
+[](/how-to-extract-and-convert-tables-from-pdf-files-to-pandas-dataframe-cb2e4c596fa8)  [](/machine-learning-model-as-a-serverless-endpoint-using-google-cloud-function-a5ad1080a59e)  [](/machine-learning-model-as-a-serverless-app-using-google-app-engine-b760de59156)  [](/documenting-your-python-code-9e69671f046a) 

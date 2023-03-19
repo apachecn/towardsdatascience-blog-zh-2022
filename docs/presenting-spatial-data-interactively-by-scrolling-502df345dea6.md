@@ -27,21 +27,13 @@
 
 然后遇到了[库斯伯特·周](https://medium.com/u/bff07afa23c2?source=post_page-----502df345dea6--------------------------------)关于 D3.js 的文章，D3.js 是一个 javascript 库，用来操作 DOM(文档对象模型)中的元素和 svg。人们使用 D3.js 来呈现数据，其中 Chow 做了精彩的演示，扩展了 Jim Vallandingham 的文章。看他下面的文章。
 
-[](/how-i-created-an-interactive-scrolling-visualisation-with-d3-js-and-how-you-can-too-e116372e2c73) [## 我如何用 D3.js 创建了一个交互式的滚动可视化，你也可以
-
-### 通过交互式和可滚动的可视化，让您的数据故事栩栩如生，这一切都因出色的 D3…而成为可能
-
-towardsdatascience.com](/how-i-created-an-interactive-scrolling-visualisation-with-d3-js-and-how-you-can-too-e116372e2c73) 
+[](/how-i-created-an-interactive-scrolling-visualisation-with-d3-js-and-how-you-can-too-e116372e2c73)  
 
 然后我想到:我们也可以用地图来制作这个！使用 javascript 可以实现滚动和交互显示数据的想法。这篇文章讲述了我是如何做到的。
 
 您可以在此处找到现场演示:
 
- [## 在伦敦
-
-### 伦敦有 5 个国际机场，尽管它们实际上不在伦敦。尽管如此，接近…
-
-ceritapeta.co.uk](https://ceritapeta.co.uk/london/) ![](img/863292a07a5243fe23720e8ea6da74c4.png)
+  ![](img/863292a07a5243fe23720e8ea6da74c4.png)
 
 该项目(作者，2022)
 
@@ -56,11 +48,7 @@ ceritapeta.co.uk](https://ceritapeta.co.uk/london/) ![](img/863292a07a5243fe2372
 
 我写的是空间数据科学，在接下来的文章中我写了一篇关于表示空间数据的文章。本文就是论证。
 
-[](/spatial-data-science-javascript-python-60464cbe908d) [## 空间数据科学:Javascript 和 Python
-
-### 从数据工程到全栈应用，你需要的语言。开始学习和策划学习…
-
-towardsdatascience.com](/spatial-data-science-javascript-python-60464cbe908d) 
+[](/spatial-data-science-javascript-python-60464cbe908d)  
 
 基本上它的工作原理是:
 
@@ -82,11 +70,7 @@ towardsdatascience.com](/spatial-data-science-javascript-python-60464cbe908d)
 
 大部分代码来自 Jim 关于 javascript scroller 的文章。基于这段代码的演示是[这里有](http://vallandingham.me/scroll_demo/)。
 
-[](https://vallandingham.me/scroller.html) [## 所以你想建立一个滚动器
-
-### 成功的交互式可视化的一个重要组成部分是将用户导向他们正在看的东西。在…
-
-vallandingham.me](https://vallandingham.me/scroller.html) 
+[](https://vallandingham.me/scroller.html)  
 
 但是在这篇文章中，我讨论的是我的演示。我将根据这些组件对其进行分解:
 
@@ -245,11 +229,7 @@ const positionMap = (sectionIndex) =>{
 
 在无模式数据结构中，基本上是一个包含 JSON 对象的数组，我们可以添加任意属性。我在数据结构文章中演示了这一点。
 
-[](/spatial-data-science-data-structures-a00c484b8a00) [## 空间数据科学:数据结构
-
-### 表达空间数据的指南
-
-towardsdatascience.com](/spatial-data-science-data-structures-a00c484b8a00) 
+[](/spatial-data-science-data-structures-a00c484b8a00)  
 
 我们可以这样定义一个最小的空间数据:
 

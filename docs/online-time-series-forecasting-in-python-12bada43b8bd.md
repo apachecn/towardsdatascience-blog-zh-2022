@@ -39,11 +39,7 @@ plt.show()
 
 有了我们的系列，让我们用百里香按正常方式安装它。如果你以前没有接触过百里香，我推荐你看看这篇文章，它给出了一个很好的概述:
 
-[](/thymeboost-a0529353bf34) [## 用百里香增强进行时间序列预测
-
-### 一种梯度增强的时间序列分解方法
-
-towardsdatascience.com](/thymeboost-a0529353bf34) 
+[](/thymeboost-a0529353bf34)  
 
 并确保从 pip 获得最新版本！
 
@@ -175,14 +171,6 @@ boosted_model.plot_components(output, predicted_output)
 
 如果你喜欢这篇文章，你可能会喜欢其他一些关于百里香的文章:
 
-[](/gradient-boosted-arima-for-time-series-forecasting-e093f80772f6) [## 时间序列预测的梯度增强 ARIMA
-
-### 提升 PmdArima 的 Auto-Arima 性能
-
-towardsdatascience.com](/gradient-boosted-arima-for-time-series-forecasting-e093f80772f6) [](/time-series-outlier-detection-with-thymeboost-ec2046e17458) [## 基于 ThymeBoost 的时间序列异常检测
-
-### 用增压缩小极端点的影响
-
-towardsdatascience.com](/time-series-outlier-detection-with-thymeboost-ec2046e17458) 
+[](/gradient-boosted-arima-for-time-series-forecasting-e093f80772f6)  [](/time-series-outlier-detection-with-thymeboost-ec2046e17458)  
 
 感谢阅读！

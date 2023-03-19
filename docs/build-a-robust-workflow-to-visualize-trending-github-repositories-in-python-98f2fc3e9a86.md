@@ -36,11 +36,7 @@ GitHub feed 是一个很好的方式，可以让你跟踪社区的趋势。你�
 
 如果您想跳过解释，直接创建自己的仪表板，请查看这个 GitHub 资源库:
 
-[](https://github.com/khuyentran1401/analyze_github_feed) [## GitHub-khuyentran 1401/analyze _ GitHub _ feed:创建一个本地仪表板来可视化和过滤您的…
-
-### GitHub feed 是您了解社区最新动态的好方法。你可以发现一些有用的…
-
-github.com](https://github.com/khuyentran1401/analyze_github_feed) 
+[](https://github.com/khuyentran1401/analyze_github_feed)  
 
 # 从 GitHub 提取数据
 
@@ -72,11 +68,7 @@ github.com](https://github.com/khuyentran1401/analyze_github_feed)
 
 [perfect](https://www.prefect.io/)是一个开源库，使您能够用 Python 编排数据工作流。
 
-[](https://medium.com/the-prefect-blog/orchestrate-your-data-science-project-with-prefect-2-0-4118418fd7ce) [## 使用 Prefect 2.0 协调您的数据科学项目
-
-### 让您的数据科学管道能够抵御故障
-
-medium.com](https://medium.com/the-prefect-blog/orchestrate-your-data-science-project-with-prefect-2-0-4118418fd7ce) 
+[](https://medium.com/the-prefect-blog/orchestrate-your-data-science-project-with-prefect-2-0-4118418fd7ce)  
 
 ## 添加可观察性
 
@@ -335,20 +327,4 @@ prefect deployment create development.py
 
 如果你想查看我写的所有文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/bentoml-create-an-ml-powered-prediction-service-in-minutes-23d135d6ca76) [## BentoML:在几分钟内创建一个 ML 驱动的预测服务
-
-### 用 Python 封装和部署您的 ML 模型
-
-towardsdatascience.com](/bentoml-create-an-ml-powered-prediction-service-in-minutes-23d135d6ca76) [](/how-to-structure-a-data-science-project-for-readability-and-transparency-360c6716800) [## 如何构建可读性和透明度的数据科学项目
-
-### 以及如何用一行代码创建一个
-
-towardsdatascience.com](/how-to-structure-a-data-science-project-for-readability-and-transparency-360c6716800) [](/introduction-to-weight-biases-track-and-visualize-your-machine-learning-experiments-in-3-lines-9c9553b0f99d) [## 权重和偏差介绍:用 3 条线跟踪和可视化你的机器学习实验…
-
-### 无缝比较不同的实验，并使用 Python 重现您的机器学习实验
-
-towardsdatascience.com](/introduction-to-weight-biases-track-and-visualize-your-machine-learning-experiments-in-3-lines-9c9553b0f99d) [](/pytest-for-data-scientists-2990319e55e6) [## 数据科学家 Pytest
-
-### 适用于您的数据科学项目的 Pytest 综合指南
-
-towardsdatascience.com](/pytest-for-data-scientists-2990319e55e6)
+[](/bentoml-create-an-ml-powered-prediction-service-in-minutes-23d135d6ca76)  [](/how-to-structure-a-data-science-project-for-readability-and-transparency-360c6716800)  [](/introduction-to-weight-biases-track-and-visualize-your-machine-learning-experiments-in-3-lines-9c9553b0f99d)  [](/pytest-for-data-scientists-2990319e55e6) 

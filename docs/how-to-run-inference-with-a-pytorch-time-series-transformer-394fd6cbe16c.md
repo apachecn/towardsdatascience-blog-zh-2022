@@ -12,11 +12,7 @@
 
 这篇文章的结构如下:首先，我将简要描述 PyTorch 时序转换器需要什么输入。然后，我将向您展示当您不知道解码器输入值时，如何使用模型进行推理。最后，我将指出所示方法的一些缺点。
 
-[](/how-to-make-a-pytorch-transformer-for-time-series-forecasting-69e073d4061e) [## 如何制作用于时间序列预测的 PyTorch 转换器
-
-### 这篇文章将向你展示如何一步一步地将时序转换器架构图转换成 PyTorch 代码。
-
-towardsdatascience.com](/how-to-make-a-pytorch-transformer-for-time-series-forecasting-69e073d4061e) 
+[](/how-to-make-a-pytorch-transformer-for-time-series-forecasting-69e073d4061e)  
 
 # 时序转换器模型需要什么输入？
 
@@ -34,11 +30,7 @@ towardsdatascience.com](/how-to-make-a-pytorch-transformer-for-time-series-forec
 
 因此，如果`tgt`具有形状【72，批量大小，1】，这意味着`tgt`中序列的长度是 72，因此模型也将输出 72 的序列。
 
-[](/multi-step-time-series-forecasting-with-xgboost-65d6820bec39) [## XGBoost 多步时间序列预测
-
-### 本文展示了如何使用 XGBoost 生成多步时间序列预测和 24 小时电价预测…
-
-towardsdatascience.com](/multi-step-time-series-forecasting-with-xgboost-65d6820bec39) 
+[](/multi-step-time-series-forecasting-with-xgboost-65d6820bec39)  
 
 # 如何使用时间序列转换器进行推理
 
@@ -80,11 +72,7 @@ towardsdatascience.com](/multi-step-time-series-forecasting-with-xgboost-65d6820
 
 使用时序转换器运行推理的代码以及 PyTorch 转换器实现可以在以下报告中找到:
 
-[](https://github.com/KasperGroesLudvigsen/influenza_transformer) [## GitHub-KasperGroesLudvigsen/influence _ Transformer:py torch 实现的变压器模型…
-
-### PyTorch 实现的变压器模型用于“时间序列预测的深度变压器模型:流感…
-
-github.com](https://github.com/KasperGroesLudvigsen/influenza_transformer) 
+[](https://github.com/KasperGroesLudvigsen/influenza_transformer)  
 
 就是这样！我希望你喜欢这篇文章🤞
 

@@ -82,16 +82,4 @@
 
 **本文原帖*[*martinheinz . dev*](https://martinheinz.dev/blog/68?utm_source=medium&utm_medium=referral&utm_campaign=blog_post_68)*
 
-*[](/profiling-and-analyzing-performance-of-python-programs-3bf3b41acd16) [## 剖析和分析 Python 程序的性能
-
-### 快速找到 Python 程序中的所有瓶颈并修复它们的工具和技术
-
-towardsdatascience.com](/profiling-and-analyzing-performance-of-python-programs-3bf3b41acd16) [](/exploring-google-analytics-realtime-data-with-python-8625849c7d7a) [## 用 Python 探索 Google Analytics 实时数据
-
-### 使用 REST API 和 Python 充分利用所有 Google Analytics 特性和数据
-
-towardsdatascience.com](/exploring-google-analytics-realtime-data-with-python-8625849c7d7a) [](/all-the-ways-to-compress-and-archive-files-in-python-e8076ccedb4b) [## Python 中压缩和归档文件的所有方法
-
-### 用 Python 压缩、解压缩和管理你可能需要的所有格式的档案和文件
-
-towardsdatascience.com](/all-the-ways-to-compress-and-archive-files-in-python-e8076ccedb4b)*
+*[](/profiling-and-analyzing-performance-of-python-programs-3bf3b41acd16)  [](/exploring-google-analytics-realtime-data-with-python-8625849c7d7a)  [](/all-the-ways-to-compress-and-archive-files-in-python-e8076ccedb4b) *

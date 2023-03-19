@@ -88,11 +88,7 @@
 
 如果你还没有阅读，请不要忘记阅读我的人人图像分析系列的第一篇博客。
 
-[](/image-analytics-for-everyone-image-embeddings-with-orange-7f0b91fa2ca2) [## 面向所有人的图像分析:用 Orange 嵌入图像
-
-### 什么是图像嵌入，如何在不编码的情况下用机器学习分析图像？
-
-towardsdatascience.com](/image-analytics-for-everyone-image-embeddings-with-orange-7f0b91fa2ca2) 
+[](/image-analytics-for-everyone-image-embeddings-with-orange-7f0b91fa2ca2)  
 
 ## 文学
 
@@ -104,16 +100,4 @@ towardsdatascience.com](/image-analytics-for-everyone-image-embeddings-with-oran
 
 ## 我的其他文章
 
-[](/keyword-extraction-methods-the-overview-35557350f8bb) [## 关键词提取方法—概述
-
-### 关键词提取方法在文档中查找相关关键词。这篇文章总结了最常见的方法…
-
-towardsdatascience.com](/keyword-extraction-methods-the-overview-35557350f8bb) [](/documents-embeddings-and-text-classification-without-coding-e274b4e191e9) [## 无需编码的文档嵌入和文本分类
-
-### 什么是文档嵌入，如何在没有一行代码的情况下对文本进行分类？
-
-towardsdatascience.com](/documents-embeddings-and-text-classification-without-coding-e274b4e191e9) [](/graph-embeddings-the-summary-cc6075aba007) [## 图形嵌入——综述
-
-### 本文介绍了什么是图嵌入，它们的用途，以及最常用的图嵌入的比较。
-
-towardsdatascience.com](/graph-embeddings-the-summary-cc6075aba007)
+[](/keyword-extraction-methods-the-overview-35557350f8bb)  [](/documents-embeddings-and-text-classification-without-coding-e274b4e191e9)  [](/graph-embeddings-the-summary-cc6075aba007) 

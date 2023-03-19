@@ -54,11 +54,7 @@ CenterTrack 的检测。雷尼尔·里道在 [Unsplash](https://unsplash.com?utm
 
 这是一个简单的教程。将来，我可能会写更多关于跟踪以及它如何帮助创建容错系统的内容。与此同时，我刚刚发表了一篇关于组合人工智能模型如何显著恶化您的性能的文章。在处理视频和流时，您可以减轻这些问题的方法之一是通过跟踪。
 
-[](/the-pitfalls-of-using-ai-as-the-input-of-another-ai-e0a3f0f485e4) [## 使用人工智能作为另一个人工智能的输入的陷阱
-
-### 为什么 AI 模型链在一起会失败。
-
-towardsdatascience.com](/the-pitfalls-of-using-ai-as-the-input-of-another-ai-e0a3f0f485e4) 
+[](/the-pitfalls-of-using-ai-as-the-input-of-another-ai-e0a3f0f485e4)  
 
 他的一切都是为了现在。如果你对这篇文章有任何问题，请随时评论或与我联系。你也可以订阅我的收件箱，以便在我发表文章的时候得到通知[。](https://ygorserpa.medium.com/subscribe)
 

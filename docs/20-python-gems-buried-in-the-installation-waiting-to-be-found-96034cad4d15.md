@@ -16,19 +16,11 @@
 
 我提请您注意 Python 安装中内置的 20 个轻量级包，它们离被释放只有一步之遥。
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-BEXGBoost
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。支持我的工作，给我买一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+[](https://ibexorigin.medium.com/membership)  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex) [## 阿尔法信号|机器学习的极品。艾总结的。
-
-### 留在循环中，不用花无数时间浏览下一个突破；我们的算法识别…
-
-alphasignal.ai](https://alphasignal.ai/?referrer=Bex) 
+[](https://alphasignal.ai/?referrer=Bex)  
 
 ## 1️.上下文库
 
@@ -242,20 +234,8 @@ Python 很重视时间。
 
 没必要把事情过分复杂化。如果您不需要它们，就没有必要让您的虚拟环境充满沉重的软件包。有几个内置的包可能就足够了。记住，“简单胜于复杂”Python 的禅宗。
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-Bex t。
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+[](https://ibexorigin.medium.com/membership)  
 
 在 LinkedIn(领英)或 Twitter(T2)上与我进行友好的交谈。或者你可以读我的另一个故事。这些怎么样:
 
-[](/comprehensive-tutorial-on-using-confusion-matrix-in-classification-92be4d70ea18) [## 关于在分类中使用混淆矩阵的综合教程
-
-### 学习使用混淆矩阵，根据问题的重要性来控制模型输出
-
-towardsdatascience.com](/comprehensive-tutorial-on-using-confusion-matrix-in-classification-92be4d70ea18) [](/advanced-tutorial-how-to-master-matplotlib-like-an-absolute-boss-aae2d4936734) [## 进阶教程:如何像绝对 Boss 一样掌握 Matplotlib
-
-### 以前所未有的方式使用 Matplotlib
-
-towardsdatascience.com](/advanced-tutorial-how-to-master-matplotlib-like-an-absolute-boss-aae2d4936734)
+[](/comprehensive-tutorial-on-using-confusion-matrix-in-classification-92be4d70ea18)  [](/advanced-tutorial-how-to-master-matplotlib-like-an-absolute-boss-aae2d4936734) 

@@ -104,18 +104,10 @@ KNN vs 对数转换回归。图片由作者提供。
 
 另外，我的博客有更多的内容。
 
-[](https://gustavorsantos.medium.com/) [## 古斯塔沃·桑托斯-中等
-
-### 阅读古斯塔夫·桑托斯在媒介上的作品。数据科学家。我从数据中提取见解，以帮助个人和公司…
-
-gustavorsantos.medium.com](https://gustavorsantos.medium.com/) 
+[](https://gustavorsantos.medium.com/)  
 
 Git Hub 代码:完整的代码[可以在这里找到](https://github.com/gurezende/Studying/blob/master/Python/Linear%20Regression/KNN_Regression.ipynb)。
 
 ## 参考
 
-[](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsRegressor.html) [## sk learn . neighbors . kneighborsregressor
-
-### 基于 k 近邻的回归。通过对与目标相关联的目标进行局部插值来预测目标
-
-scikit-learn.org](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsRegressor.html)
+[](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsRegressor.html) 

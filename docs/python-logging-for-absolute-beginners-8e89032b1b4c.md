@@ -52,11 +52,7 @@
 
 使用 HTTP 处理程序将您的日志发送到一个 API 让您的日志立即到达需要它们的地方。您可以创建一个 API 来监视所有传入的日志(来自各种应用程序),并在需要时通知您。这也是在你的应用上收集用户统计数据的好方法。
 
-[](/create-a-fast-auto-documented-maintainable-and-easy-to-use-python-api-in-5-lines-of-code-with-4e574c00f70e) [## 用 5 行代码创建一个快速、自动记录、可维护且易于使用的 Python API
-
-### 非常适合只需要一个完整、有效、快速和安全的 API 的(没有经验的)开发人员
-
-towardsdatascience.com](/create-a-fast-auto-documented-maintainable-and-easy-to-use-python-api-in-5-lines-of-code-with-4e574c00f70e) 
+[](/create-a-fast-auto-documented-maintainable-and-easy-to-use-python-api-in-5-lines-of-code-with-4e574c00f70e)  
 
 # 实例—代码部分
 
@@ -96,11 +92,7 @@ towardsdatascience.com](/create-a-fast-auto-documented-maintainable-and-easy-to-
 
 *设置 logging.basicConfig 的级别后，您可以使用`logger.setLevel(level=logging.ERROR)`动态设置您的记录器的级别。*
 
-*[](/cython-for-absolute-beginners-30x-faster-code-in-two-simple-steps-bbb6c10d06ad) [## 面向绝对初学者的 Cython:通过简单的两步将代码速度提高 30 倍
-
-### 为速度惊人的应用程序轻松编译 Python 代码
-
-towardsdatascience.com](/cython-for-absolute-beginners-30x-faster-code-in-two-simple-steps-bbb6c10d06ad)* 
+*[](/cython-for-absolute-beginners-30x-faster-code-in-two-simple-steps-bbb6c10d06ad) * 
 
 ## *设置字段*
 
@@ -134,11 +126,7 @@ towardsdatascience.com](/cython-for-absolute-beginners-30x-faster-code-in-two-si
 
 *添加`exc_info=True`会将堆栈跟踪放入我们的日志消息中，并为我们提供更多关于导致我们错误的原因的信息。在下面的文章中，我们将看到，我们可以将这个堆栈跟踪写到一个文件中，甚至可以将它发送到一个 API，以便将它存储在一个数据库中，或者对它做任何事情。*
 
-*[](/a-complete-guide-to-using-environment-variables-and-files-with-docker-and-compose-4549c21dc6af) [## 在 Docker 和 Compose 中使用环境变量和文件的完整指南
-
-### 通过这个简单的教程，保持你的容器的安全性和灵活性
-
-towardsdatascience.com](/a-complete-guide-to-using-environment-variables-and-files-with-docker-and-compose-4549c21dc6af)* 
+*[](/a-complete-guide-to-using-environment-variables-and-files-with-docker-and-compose-4549c21dc6af) * 
 
 # *结论*
 
@@ -162,8 +150,4 @@ towardsdatascience.com](/a-complete-guide-to-using-environment-variables-and-fil
 
 *附注:喜欢我正在做的事吗？ [*跟我来！*](https://mikehuls.medium.com/membership)*
 
-*[](https://mikehuls.medium.com/membership) [## 通过我的推荐链接加入媒体-迈克·赫斯
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-mikehuls.medium.com](https://mikehuls.medium.com/membership)*
+*[](https://mikehuls.medium.com/membership) *

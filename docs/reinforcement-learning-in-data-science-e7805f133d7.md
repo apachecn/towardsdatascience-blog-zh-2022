@@ -70,48 +70,8 @@
 
 查看我最近的一些文章
 
-[](https://medium.com/codex/pointless-automation-dropbox-file-downloads-with-python-e1cb26a41fff) [## 无意义的自动化:用 Python 下载 Dropbox 文件
-
-### 即使是简单的东西也可以自动化。
-
-medium.com](https://medium.com/codex/pointless-automation-dropbox-file-downloads-with-python-e1cb26a41fff) [](/linear-regression-what-is-the-sum-of-squares-3746db90a05d) [## 线性回归:平方和是多少？
-
-### 深入了解平方和对数据科学的重要性
-
-towardsdatascience.com](/linear-regression-what-is-the-sum-of-squares-3746db90a05d) [](/linear-regression-in-data-science-b9a9d2aacc7c) [## 数据科学中的线性回归
-
-### 机器学习的数学技术
-
-towardsdatascience.com](/linear-regression-in-data-science-b9a9d2aacc7c) [](https://python.plainenglish.io/getting-started-with-seq-in-python-4f5fde688364) [## Python 中的 Seq 入门
-
-### 向脚本中快速添加日志记录的简单方法。
-
-python .平原英语. io](https://python.plainenglish.io/getting-started-with-seq-in-python-4f5fde688364) [](https://medium.com/codex/javascript-cdns-and-how-to-use-them-offline-e6e6333491a3) [## Javascript CDNs 以及如何离线使用它们
-
-### 它们是什么？它们如何帮助我们？
-
-medium.com](https://medium.com/codex/javascript-cdns-and-how-to-use-them-offline-e6e6333491a3) 
+[](https://medium.com/codex/pointless-automation-dropbox-file-downloads-with-python-e1cb26a41fff)  [](/linear-regression-what-is-the-sum-of-squares-3746db90a05d)  [](/linear-regression-in-data-science-b9a9d2aacc7c)  [](https://python.plainenglish.io/getting-started-with-seq-in-python-4f5fde688364)  [](https://medium.com/codex/javascript-cdns-and-how-to-use-them-offline-e6e6333491a3)  
 
 参考资料:
 
-[](https://www.techtarget.com/searchenterpriseai/definition/reinforcement-learning) [## 什么是强化学习？全面的概述
-
-### 强化学习是一种基于奖励期望行为和/或惩罚的机器学习训练方法
-
-www.techtarget.com](https://www.techtarget.com/searchenterpriseai/definition/reinforcement-learning) [](https://deepsense.ai/what-is-reinforcement-learning-the-complete-guide/) [## 什么是强化学习？完全指南- deepsense.ai
-
-### 人工智能预计市场规模为 73.5 亿美元，正在突飞猛进地发展…
-
-deepsense.ai](https://deepsense.ai/what-is-reinforcement-learning-the-complete-guide/) [](https://www.geeksforgeeks.org/what-is-reinforcement-learning/) [## 强化学习-极客论坛
-
-### 强化学习是机器学习的一个领域。这是关于采取适当的行动，以最大限度地提高回报…
-
-www.geeksforgeeks.org](https://www.geeksforgeeks.org/what-is-reinforcement-learning/) [](https://www.simplilearn.com/tutorials/machine-learning-tutorial/reinforcement-learning) [## 什么是强化学习？
-
-### 训练你的狗的最好方法是使用奖励系统。当狗表现好的时候，你给它一点奖励，你…
-
-www.simplilearn.com](https://www.simplilearn.com/tutorials/machine-learning-tutorial/reinforcement-learning) [](https://pythonistaplanet.com/pros-and-cons-of-reinforcement-learning/) [## 强化学习的利与弊|皮托尼斯塔星球
-
-### 我们可以使用许多机器学习策略，每一种都有优点和缺点…
-
-pythonistaplanet.com](https://pythonistaplanet.com/pros-and-cons-of-reinforcement-learning/)
+[](https://www.techtarget.com/searchenterpriseai/definition/reinforcement-learning)  [](https://deepsense.ai/what-is-reinforcement-learning-the-complete-guide/)  [](https://www.geeksforgeeks.org/what-is-reinforcement-learning/)  [](https://www.simplilearn.com/tutorials/machine-learning-tutorial/reinforcement-learning)  [](https://pythonistaplanet.com/pros-and-cons-of-reinforcement-learning/) 

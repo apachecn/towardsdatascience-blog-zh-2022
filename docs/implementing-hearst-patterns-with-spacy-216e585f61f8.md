@@ -6,11 +6,7 @@
 
 > ⚠️在这篇文章中，我将主要集中在赫斯特模式，实现和上位词提取的用法。然而，我将使用命名实体识别(NER)和专利数据集；所以我建议查看我在这个周期的前一篇帖子。
 
-[](/improving-the-ner-model-with-patent-texts-spacy-prodigy-and-a-bit-of-magic-44c86282ea99) [## 用专利文本改进 NER 模型| SpaCy、Prodigy 和一点魔法🪄
-
-### 本文提出了一种利用专利文本训练特定领域 NER 模型的方法。
-
-towardsdatascience.com](/improving-the-ner-model-with-patent-texts-spacy-prodigy-and-a-bit-of-magic-44c86282ea99) 
+[](/improving-the-ner-model-with-patent-texts-spacy-prodigy-and-a-bit-of-magic-44c86282ea99)  
 
 > 模式…模式无处不在…
 
@@ -120,11 +116,7 @@ Python 上的实现非常简单。我们读取文本，初始化`matcher`，从 
 
 您可以在此处找到完整的代码以及详细的笔记本和数据集:
 
-[](https://github.com/kinivi/patent_ner_linking/blob/main/project.ipynb) [## main kini VI/patent _ ner _ linking/project . ipynb
-
-### 📰专利数据集上的命名实体识别(NER)和实体链接(EL)
-
-github.com\](https://github.com/kinivi/patent_ner_linking/blob/main/project.ipynb) 
+[](https://github.com/kinivi/patent_ner_linking/blob/main/project.ipynb)  
 
 即使我们已经有了结果，验证它们也是很好的。在这个“专利”系列的下一篇也是最后一篇文章中，我将展示如何使用 Wiki API 在任何自定义数据集上自动验证提取的上位词关系。敬请关注😉
 

@@ -28,11 +28,7 @@
 
 例如，字典是 Python 中最有用的数据结构之一。我发现自己一直在使用它们进行映射。它们也是许多 ***MAANG 面试问题*** 的核心，以至于前段时间，我已经写了一篇关于如何使用循环迭代 Python 字典的教程。
 
-[](/3-ways-to-iterate-over-python-dictionaries-using-for-loops-14e789992ce5) [## 使用 For 循环迭代 Python 字典的 3 种方法
-
-### …以及 Python 字典上最流行的堆栈溢出问题的其他答案。
-
-towardsdatascience.com](/3-ways-to-iterate-over-python-dictionaries-using-for-loops-14e789992ce5) 
+[](/3-ways-to-iterate-over-python-dictionaries-using-for-loops-14e789992ce5)  
 
 相反，在本文中，我想从这个知识库开始，演示如何使用字典来构建计数器。
 

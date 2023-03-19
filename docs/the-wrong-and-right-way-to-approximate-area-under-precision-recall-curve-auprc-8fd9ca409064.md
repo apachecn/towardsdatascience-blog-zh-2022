@@ -75,12 +75,4 @@ AP 和工作点下的梯形面积都是概括精度-召回曲线的常用方法�
 
 **如果你喜欢这篇文章，你可能也会喜欢:**
 
-[](/precision-recall-curve-is-more-informative-than-roc-in-imbalanced-data-4c95250242f6) [## 在不平衡数据中，精确召回曲线比 ROC 更能提供信息
-
-### 当负类更普遍，真-负预测值低时，精确-回忆曲线…
-
-towardsdatascience.com](/precision-recall-curve-is-more-informative-than-roc-in-imbalanced-data-4c95250242f6) [](/performance-curve-more-intuitive-than-roc-prc-and-less-assumptive-than-threshold-metrics-391e777da566) [## 性能曲线:比 ROC/PRC 更直观，比阈值指标更少假设
-
-### 一种结合两者优点的二元分类器评价方法
-
-towardsdatascience.com](/performance-curve-more-intuitive-than-roc-prc-and-less-assumptive-than-threshold-metrics-391e777da566)
+[](/precision-recall-curve-is-more-informative-than-roc-in-imbalanced-data-4c95250242f6)  [](/performance-curve-more-intuitive-than-roc-prc-and-less-assumptive-than-threshold-metrics-391e777da566) 

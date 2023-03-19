@@ -75,40 +75,8 @@
 
 *看看我最近的一些文章:*
 
-[](/linear-regression-in-data-science-b9a9d2aacc7c) [## 数据科学中的线性回归
-
-### 机器学习的数学技术
-
-towardsdatascience.com](/linear-regression-in-data-science-b9a9d2aacc7c) [](https://python.plainenglish.io/getting-started-with-seq-in-python-4f5fde688364) [## Python 中的 Seq 入门
-
-### 向脚本中快速添加日志记录的简单方法。
-
-python .平原英语. io](https://python.plainenglish.io/getting-started-with-seq-in-python-4f5fde688364) [](https://medium.com/codex/javascript-cdns-and-how-to-use-them-offline-e6e6333491a3) [## Javascript CDNs 以及如何离线使用它们
-
-### 它们是什么？它们如何帮助我们？
-
-medium.com](https://medium.com/codex/javascript-cdns-and-how-to-use-them-offline-e6e6333491a3) [](https://medium.com/codex/something-i-learned-this-week-vue-js-in-asp-net-core-mvc-7b7540a38343) [## 这周学到的东西:ASP.NET 核心 MVC 中的 Vue.js
-
-### 这听起来有点奇怪，但实际上真的很酷…
-
-medium.com](https://medium.com/codex/something-i-learned-this-week-vue-js-in-asp-net-core-mvc-7b7540a38343) [](https://python.plainenglish.io/5-python-libraries-to-use-everyday-d32a9de13269) [## 你可以每天使用的 5 个 Python 库
-
-### 网站、机器学习、自动化——Python 可以做很多事情。
-
-python .平原英语. io](https://python.plainenglish.io/5-python-libraries-to-use-everyday-d32a9de13269) 
+[](/linear-regression-in-data-science-b9a9d2aacc7c)  [](https://python.plainenglish.io/getting-started-with-seq-in-python-4f5fde688364)  [](https://medium.com/codex/javascript-cdns-and-how-to-use-them-offline-e6e6333491a3)  [](https://medium.com/codex/something-i-learned-this-week-vue-js-in-asp-net-core-mvc-7b7540a38343)  [](https://python.plainenglish.io/5-python-libraries-to-use-everyday-d32a9de13269)  
 
 参考资料:
 
-[](https://corporatefinanceinstitute.com/resources/knowledge/other/sum-of-squares/) [## 平方和
-
-### 平方和(SS)是一种统计工具，用于确定数据的离差，以及数据的好坏程度
-
-corporatefinanceinstitute.com](https://corporatefinanceinstitute.com/resources/knowledge/other/sum-of-squares/) [](https://365datascience.com/tutorials/statistics-tutorials/sum-squares/) [## 平方和:SST，SSR，SSE | 365 数据科学
-
-### 你可能想知道这些平方和是怎么回事。也许这就是你最初来到这里的原因…
-
-365datascience.com](https://365datascience.com/tutorials/statistics-tutorials/sum-squares/) [](https://365datascience.com/tutorials/statistics-tutorials/correlation-regression/) [## 相关性与回归| 365 数据科学
-
-### 当你第一次听说回归时，你可能会认为相关和回归是同义词，或者至少它们…
-
-365datascience.com](https://365datascience.com/tutorials/statistics-tutorials/correlation-regression/)
+[](https://corporatefinanceinstitute.com/resources/knowledge/other/sum-of-squares/)  [](https://365datascience.com/tutorials/statistics-tutorials/sum-squares/)  [](https://365datascience.com/tutorials/statistics-tutorials/correlation-regression/) 

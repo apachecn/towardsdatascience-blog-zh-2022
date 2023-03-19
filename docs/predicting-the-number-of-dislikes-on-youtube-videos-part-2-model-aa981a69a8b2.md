@@ -113,11 +113,7 @@
 
 您可以从下面的链接下载 40 多种语言的免费预训练单词嵌入。
 
- [## NLPL 单词嵌入知识库
-
-### 204 300 2 俄罗斯国家语料库俄语维基百科转储 2018 年 12 月俄语新闻来自对话评测 2020…
-
-vectors.nlpl.eu](http://vectors.nlpl.eu/repository/) 
+  
 
 # 建筑模型
 
@@ -189,11 +185,7 @@ vectors.nlpl.eu](http://vectors.nlpl.eu/repository/)
 
 # 参考
 
-[](https://keras.io/examples/nlp/pretrained_word_embeddings/) [## Keras 文档:使用预先训练的单词嵌入
-
-### 作者:fchollet 创建日期:2020/05/05 最近修改时间:2020/05/05 描述:新闻组上的文本分类 20…
-
-keras.io](https://keras.io/examples/nlp/pretrained_word_embeddings/) 
+[](https://keras.io/examples/nlp/pretrained_word_embeddings/)  
 
 # 感谢您的阅读！
 

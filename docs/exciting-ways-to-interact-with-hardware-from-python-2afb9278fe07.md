@@ -78,11 +78,7 @@ NameError: name 'x' is not defined
 
 虽然 Python 最初在设计时从未考虑过数值计算或并行计算，但由于该语言在机器学习中的突出使用，我们现在有了大量不同的 GPU 包。我个人最喜欢的是 Numba。Numba 非常棒，因为它不仅提供了 GPU 加速，还提供了 JIT 编译——它本质上是最快的 Python 解释器，无需将 Python 转换成 c。更好的是，它使用一个简单的装饰器来完成这一点。我正好有一篇关于 Numba 的文章(写于 2020 年的黑暗时期)，所以如果你想读更多关于 Numba 的文章，这里有一个链接:
 
-[](/numba-jit-compilation-but-for-python-373fc2f848d6) [## Numba: JIT 编译，但是用于 Python
-
-### 快速浏览一下 2020 年让 Python 变得更好的神奇工具。
-
-towardsdatascience.com](/numba-jit-compilation-but-for-python-373fc2f848d6) 
+[](/numba-jit-compilation-but-for-python-373fc2f848d6)  
 
 另一个很好的选择是 Dask 模块。Dask 在很多方面与 JIT 相似，但是侧重点有所不同。Dask 不仅有助于解决并行计算的速度问题，还有助于在机器集群之间分配工作负载。此外，它有自己的数组对象和接口，最后甚至有这些数组的惰性/代数形式。
 

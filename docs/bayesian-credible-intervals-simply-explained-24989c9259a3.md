@@ -12,11 +12,7 @@
 
 在我之前的一篇文章中，我讨论过 [**置信区间**](https://en.wikipedia.org/wiki/Confidence_interval) **的想法。你可以在这里查看这个博客:**
 
-[](/confidence-intervals-simply-explained-58b0b11e985f) [## 简单解释了置信区间
-
-### 置信区间的简明解释。
-
-towardsdatascience.com](/confidence-intervals-simply-explained-58b0b11e985f) 
+[](/confidence-intervals-simply-explained-58b0b11e985f)  
 
 置信区间基本上是一种给估计参数分配不确定性的方法。置信区间是一种 [**频率主义者**](https://en.wikipedia.org/wiki/Frequentist_inference) 的方法，而 [**可信区间**](https://en.wikipedia.org/wiki/Credible_interval) 是类似的 [**贝叶斯**](https://en.wikipedia.org/wiki/Bayesian_statistics) 版本。
 
@@ -42,15 +38,7 @@ towardsdatascience.com](/confidence-intervals-simply-explained-58b0b11e985f)
 
 为了更深入地理解后验分布和贝叶斯定理，请查看我以前的帖子:
 
-[](https://pub.towardsai.net/conditional-probability-and-bayes-theorem-simply-explained-788a6361f333) [## 条件概率和贝叶斯定理浅释
-
-### 条件概率和贝叶斯定理的简单直观的解释。
-
-pub.towardsai.net](https://pub.towardsai.net/conditional-probability-and-bayes-theorem-simply-explained-788a6361f333) [](/bayesian-updating-simply-explained-c2ed3e563588) [## 贝叶斯更新简单解释
-
-### 用贝叶斯定理更新信念的直观解释
-
-towardsdatascience.com](/bayesian-updating-simply-explained-c2ed3e563588) 
+[](https://pub.towardsai.net/conditional-probability-and-bayes-theorem-simply-explained-788a6361f333)  [](/bayesian-updating-simply-explained-c2ed3e563588)  
 
 # 例子
 
@@ -60,11 +48,7 @@ towardsdatascience.com](/bayesian-updating-simply-explained-c2ed3e563588)
 
 在我之前的文章中，我用 Python 实现了贝叶斯更新。你可以在这里查看帖子:
 
-[](/bayesian-updating-in-python-8bbd0e7e30cc) [## Python 中的贝叶斯更新
-
-### 简单介绍如何使用 Numpy 在 Python 中执行贝叶斯更新。
-
-towardsdatascience.com](/bayesian-updating-in-python-8bbd0e7e30cc) 
+[](/bayesian-updating-in-python-8bbd0e7e30cc)  
 
 我解决的问题是:给定一些不同数字范围的骰子，我们随机选择一个骰子，然后掷几次。使用我们从掷骰子中得到的数据，我们可以建立一个后验分布来确定我们最有可能选择哪个骰子。
 
@@ -101,11 +85,7 @@ towardsdatascience.com](/bayesian-updating-in-python-8bbd0e7e30cc)
 
 完整代码可从我的 GitHub 获得，网址是:
 
-[](https://github.com/egorhowell/Medium-Articles/blob/main/Statistics/Bayesian_Updating.ipynb) [## Medium-Articles/Bayesian _ updating . ipynb at main egorhowell/Medium-Articles
-
-### 我在我的媒体博客/文章中使用的代码。通过创建一个关于…的帐户，为 egorhowell/Medium-Articles 的开发做出贡献
-
-github.com](https://github.com/egorhowell/Medium-Articles/blob/main/Statistics/Bayesian_Updating.ipynb) 
+[](https://github.com/egorhowell/Medium-Articles/blob/main/Statistics/Bayesian_Updating.ipynb)  
 
 现在，假设我们有 50 个不同的骰子，其中它们的相关数字是该骰子的最高值。例如，骰子 20 的值从 1 到 20。
 
@@ -178,11 +158,7 @@ plt.show()
 
 生成这些图并计算可信区间的完整代码可从我的 GitHub 获得:
 
-[](https://github.com/egorhowell/Medium-Articles/blob/main/Statistics/Credible_Interval.ipynb) [## Medium-Articles/credential _ interval . ipynb at main egorhowell/Medium-Articles
-
-### 我在我的媒体博客/文章中使用的代码。通过创建一个关于…的帐户，为 egorhowell/Medium-Articles 的开发做出贡献
-
-github.com](https://github.com/egorhowell/Medium-Articles/blob/main/Statistics/Credible_Interval.ipynb) 
+[](https://github.com/egorhowell/Medium-Articles/blob/main/Statistics/Credible_Interval.ipynb)  
 
 # 结论
 

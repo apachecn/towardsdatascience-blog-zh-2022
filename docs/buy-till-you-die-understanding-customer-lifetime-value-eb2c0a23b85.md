@@ -257,16 +257,4 @@ frequency             0.072322   1.000000
 
 你也可以试试我的其他文章。不能选择？从这些中选择一个:
 
-[](/comparing-things-the-bayesian-approach-b9a26ddb5ef1) [## 比较事物:贝叶斯方法
-
-### 如何进行包含不确定性的概率比较
-
-towardsdatascience.com](/comparing-things-the-bayesian-approach-b9a26ddb5ef1) [](/on-the-importance-of-bayesian-thinking-in-everyday-life-a74475fcceeb) [## 贝叶斯思维在日常生活中的重要性
-
-### 这个简单的思维转变将帮助你更好地理解你周围不确定的世界
-
-towardsdatascience.com](/on-the-importance-of-bayesian-thinking-in-everyday-life-a74475fcceeb) [](/confidence-intervals-vs-prediction-intervals-7b296ae58745) [## 置信区间与预测区间
-
-### 混淆这两者可能代价高昂。了解它们的不同之处以及何时使用它们！
-
-towardsdatascience.com](/confidence-intervals-vs-prediction-intervals-7b296ae58745)
+[](/comparing-things-the-bayesian-approach-b9a26ddb5ef1)  [](/on-the-importance-of-bayesian-thinking-in-everyday-life-a74475fcceeb)  [](/confidence-intervals-vs-prediction-intervals-7b296ae58745) 

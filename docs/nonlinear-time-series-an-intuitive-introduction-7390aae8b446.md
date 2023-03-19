@@ -114,16 +114,4 @@
 
 *另外，请随时通过 LinkedIn 联系我。*
 
-*[](/threshold-autoregressive-models-beyond-arima-r-code-6af3331e2755) [## 门限自回归模型——超越 ARIMA + R 码
-
-### 满足 TAR——自回归模型的非线性扩展。
-
-towardsdatascience.com](/threshold-autoregressive-models-beyond-arima-r-code-6af3331e2755) [](https://medium.com/@michacukrowski/lasso-vs-auto-arima-for-time-series-forecasting-out-of-sample-944a8835eae0) [## Lasso 与 auto-arima 在时间序列预测中的比较(样本外)
-
-### lasso 和 auto-arima 在样本外预测中的比较——一个实验。
-
-medium.com](https://medium.com/@michacukrowski/lasso-vs-auto-arima-for-time-series-forecasting-out-of-sample-944a8835eae0) [](https://medium.com/@michacukrowski/ridge-lasso-and-elastic-net-vs-d73e24208057) [## 时间序列预测的正则化与自动 Arima(样本外)[实验]
-
-### 岭、套索、弹性网和 auto-arima 用于样本外时间序列预测的比较。
-
-medium.com](https://medium.com/@michacukrowski/ridge-lasso-and-elastic-net-vs-d73e24208057)*
+*[](/threshold-autoregressive-models-beyond-arima-r-code-6af3331e2755)  [](https://medium.com/@michacukrowski/lasso-vs-auto-arima-for-time-series-forecasting-out-of-sample-944a8835eae0)  [](https://medium.com/@michacukrowski/ridge-lasso-and-elastic-net-vs-d73e24208057) *

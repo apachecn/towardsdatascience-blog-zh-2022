@@ -148,14 +148,6 @@ Name: , dtype: float64
 
 你也可以试试我的其他文章。不能选择？从这些中选择一个:
 
-[](/on-the-importance-of-bayesian-thinking-in-everyday-life-a74475fcceeb) [## 贝叶斯思维在日常生活中的重要性
-
-### 这个简单的思维转变将帮助你更好地理解你周围不确定的世界
-
-towardsdatascience.com](/on-the-importance-of-bayesian-thinking-in-everyday-life-a74475fcceeb) [](/comparing-things-the-bayesian-approach-b9a26ddb5ef1) [## 比较事物:贝叶斯方法
-
-### 如何进行包含不确定性的概率比较
-
-towardsdatascience.com](/comparing-things-the-bayesian-approach-b9a26ddb5ef1) [](/the-gentlest-of-introductions-to-bayesian-data-analysis-74df448da25) [## 贝叶斯数据分析最温和的介绍
+[](/on-the-importance-of-bayesian-thinking-in-everyday-life-a74475fcceeb)  [](/comparing-things-the-bayesian-approach-b9a26ddb5ef1)  [](/the-gentlest-of-introductions-to-bayesian-data-analysis-74df448da25) [## 贝叶斯数据分析最温和的介绍
 
 towardsdatascience.com](/the-gentlest-of-introductions-to-bayesian-data-analysis-74df448da25)

@@ -151,32 +151,4 @@ Accepting the null hypothesis means that features do not have a dependence betwe
 
 # 参考
 
-[](https://www.scribbr.com/statistics/correlation-coefficient/#spearmans-rho) [## 相关系数|类型、公式和示例
-
-### 相关系数是介于-1 和 1 之间的数字，它告诉你一种关系的强度和方向…
-
-www.scribbr.com](https://www.scribbr.com/statistics/correlation-coefficient/#spearmans-rho) [](http://www.biostathandbook.com/spearman.html#:~:text=When%20to%20use%20it,tends%20to%20increase%20or%20decrease) [## 生物统计手册
-
-### 使用 Spearman 等级相关来测试两个等级变量之间的关联，或者一个等级变量和一个等级变量之间的关联
-
-www.biostathandbook.com](http://www.biostathandbook.com/spearman.html#:~:text=When%20to%20use%20it,tends%20to%20increase%20or%20decrease) [](/kendall-rank-correlation-explained-dee01d99c535) [## 肯德尔等级相关解释。
-
-### 肯德尔秩相关(也称为肯德尔的 tau-b)怎么样？这是什么？我如何开始？我什么时候使用…
-
-towardsdatascience.com](/kendall-rank-correlation-explained-dee01d99c535) [](https://www.reneshbedre.com/blog/anova.html) [## 使用 Python 进行方差分析(带示例)
-
-### ANOVA 检验用于比较 2 个以上组的平均值(t 检验可用于比较 2 个组)
-
-www.reneshbedre.com](https://www.reneshbedre.com/blog/anova.html) [](https://www.reneshbedre.com/blog/kruskal-wallis-test.html) [## R 中的 Kruskal-Wallis 检验[带有示例和代码]
-
-### 克鲁斯卡尔-沃利斯检验(也称为克鲁斯卡尔-沃利斯 H 检验或克鲁斯卡尔-沃利斯方差分析)是非参数(分布…
-
-www.reneshbedre.com](https://www.reneshbedre.com/blog/kruskal-wallis-test.html) [](https://en.wikipedia.org/wiki/Chi-squared_test) [## 卡方检验-维基百科
-
-### 卡方检验(也称为卡方检验)是一种统计假设检验，当检验…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Chi-squared_test) [](https://www.statology.org/chi-square-test-assumptions/) [## 卡方检验的四个假设-统计学
-
-### 独立性的卡方检验用于确定两个变量之间是否有显著的相关性。
-
-www.statology.org](https://www.statology.org/chi-square-test-assumptions/)
+[](https://www.scribbr.com/statistics/correlation-coefficient/#spearmans-rho)  [](http://www.biostathandbook.com/spearman.html#:~:text=When%20to%20use%20it,tends%20to%20increase%20or%20decrease)  [](/kendall-rank-correlation-explained-dee01d99c535)  [](https://www.reneshbedre.com/blog/anova.html)  [](https://www.reneshbedre.com/blog/kruskal-wallis-test.html)  [](https://en.wikipedia.org/wiki/Chi-squared_test)  [](https://www.statology.org/chi-square-test-assumptions/) 

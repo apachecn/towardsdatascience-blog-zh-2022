@@ -164,20 +164,8 @@
 
 *`***Full notebook is available here.***`*
 
-*[](https://deepnote.com/@md-zubair/Efficient-K-means-Clustering-for-data-driven-modelling-a6ca9f6e-5f62-4914-a16d-6ead5c57ae36) [## 用于数据驱动建模的高效 K-均值聚类
-
-### 用于数据驱动建模的高效 K-means 聚类。在这里，品牌栏包含…
-
-deepnote.com](https://deepnote.com/@md-zubair/Efficient-K-means-Clustering-for-data-driven-modelling-a6ca9f6e-5f62-4914-a16d-6ead5c57ae36) 
+*[](https://deepnote.com/@md-zubair/Efficient-K-means-Clustering-for-data-driven-modelling-a6ca9f6e-5f62-4914-a16d-6ead5c57ae36)  
 
 ## 参考
 
-1.  祖拜尔，m .，伊克巴尔，M.A .，希尔，A. *等*一种面向高效数据驱动建模的改进 K 均值聚类算法。*安。数据。Sci。* (2022)。[https://doi.org/10.1007/s40745-022-00428-2](https://doi.org/10.1007/s40745-022-00428-2)* *[](https://mzh706.medium.com/subscribe) [## 每当 Md. Zubair 发表文章时，就收到一封电子邮件。
-
-### 每当 Md. Zubair 发表文章时，就收到一封电子邮件。通过注册，您将创建一个中型帐户，如果您还没有…
-
-mzh706.medium.com](https://mzh706.medium.com/subscribe) [](https://mzh706.medium.com/membership) [## 通过我的推荐链接加入 Medium-MD . Zubair
-
-### 阅读 Md. Zubair 的每一个故事你的会员费直接支持 Md. Zubair 和你阅读的其他作家。你会…
-
-mzh706.medium.com](https://mzh706.medium.com/membership)*
+1.  祖拜尔，m .，伊克巴尔，M.A .，希尔，A. *等*一种面向高效数据驱动建模的改进 K 均值聚类算法。*安。数据。Sci。* (2022)。[https://doi.org/10.1007/s40745-022-00428-2](https://doi.org/10.1007/s40745-022-00428-2)* *[](https://mzh706.medium.com/subscribe)  [](https://mzh706.medium.com/membership) *

@@ -88,28 +88,8 @@
 
 # 来源
 
-[](https://paperswithcode.com/paper/the-alberta-plan-for-ai-research) [## 论文与代码-阿尔伯塔省人工智能研究计划
-
-### 在这里，我们描述了我们的人工智能研究方法，我们称之为阿尔伯塔计划。阿尔伯塔计划…
-
-paperswithcode.com](https://paperswithcode.com/paper/the-alberta-plan-for-ai-research) 
+[](https://paperswithcode.com/paper/the-alberta-plan-for-ai-research)  
 
 *喜欢这篇文章吗？你可能也会喜欢以下几个:*
 
-[](/is-small-data-the-next-big-thing-in-data-science-9acc7f24907f) [## “小数据”是数据科学的下一个大事件吗？
-
-### 人工智能先驱吴恩达预测，未来十年将围绕以数据为中心的人工智能。我们可能不会…
-
-towardsdatascience.com](/is-small-data-the-next-big-thing-in-data-science-9acc7f24907f) [](/five-things-to-consider-for-reinforcement-learning-in-business-environments-23647a32f01f) [## 商业环境中强化学习需要考虑的五件事
-
-### 强化学习不仅仅可以用于走迷宫和玩棋盘游戏。现实生活中的实施…
-
-towardsdatascience.com](/five-things-to-consider-for-reinforcement-learning-in-business-environments-23647a32f01f) [](/why-hasnt-reinforcement-learning-conquered-the-world-yet-459ae99982c6) [## 为什么强化学习还没有征服世界(至今)？
-
-### 优化已经存在了几十年，机器学习实现了一个又一个突破。结合两者…
-
-towardsdatascience.com](/why-hasnt-reinforcement-learning-conquered-the-world-yet-459ae99982c6) [](https://medium.com/mlearning-ai/top-data-science-trends-for-2022-what-do-ceos-have-to-say-86d3d3ea6e9f) [## 2022 年顶级数据科学趋势—首席执行官们有什么要说的？
-
-### 回顾 Gartner 在进入新的一年时值得关注的 12 大技术趋势
-
-medium.com](https://medium.com/mlearning-ai/top-data-science-trends-for-2022-what-do-ceos-have-to-say-86d3d3ea6e9f)
+[](/is-small-data-the-next-big-thing-in-data-science-9acc7f24907f)  [](/five-things-to-consider-for-reinforcement-learning-in-business-environments-23647a32f01f)  [](/why-hasnt-reinforcement-learning-conquered-the-world-yet-459ae99982c6)  [](https://medium.com/mlearning-ai/top-data-science-trends-for-2022-what-do-ceos-have-to-say-86d3d3ea6e9f) 

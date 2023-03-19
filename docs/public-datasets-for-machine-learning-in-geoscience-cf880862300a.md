@@ -30,11 +30,7 @@ Equinor Volve 数据集网站。作者捕获的图像。
 
 请点击下面的链接查看:
 
- [## 沃尔沃现场数据村下载—2008–2016 年数据—equinor.com
-
-### Equinor 发布了 2008-2016 年 Volve 油田的完整数据。点击这里下载学习…
-
-www.equinor.com](https://www.equinor.com/en/how-and-why/digitalisation-in-our-dna/volve-field-data-village-download.html) 
+  
 
 # NLOG —荷兰石油和天然气门户网站
 
@@ -60,11 +56,7 @@ NLOG 网站上显示如何访问测井数据的示例。作者捕获的图像。
 
 请点击下面的链接查看:
 
-[](https://www.nlog.nl/) [## Welkom bij NLOG
-
-### 关于荷兰的能源信息，请访问我们的网站。
-
-www.nlog.nl](https://www.nlog.nl/) 
+[](https://www.nlog.nl/)  
 
 # XEEK —强制机器学习预测岩性
 
@@ -78,19 +70,11 @@ XEEK Force 2020 机器学习竞赛。作者捕获的图像。
 
 点击以下链接访问:
 
- [## Xeek
-
-### 探索中的数据驱动创新
-
-xeek.ai](https://xeek.ai/challenges/force-well-logs/overview) 
+  
 
 或者您可以通过以下链接直接访问 github 资源库:
 
-[](https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition) [## GitHub-bolgebrygg/Force-2020-机器学习-竞赛:结果、代码和数据
-
-### Force 2020 机器学习竞赛完成后的成绩、代码和数据…
-
-github.com](https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition) 
+[](https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition)  
 
 # 国家海洋石油信息管理系统
 
@@ -104,11 +88,7 @@ github.com](https://github.com/bolgebrygg/Force-2020-Machine-Learning-competitio
 
 您可以通过单击下面的链接来访问数据库:
 
-[](http://www.ga.gov.au/nopims) [## 国家海洋石油信息管理系统
-
-### 澳大利亚地球科学已经开发了国家近海石油信息管理系统(NOPIMS)作为在线…
-
-www.ga.gov.au](http://www.ga.gov.au/nopims) 
+[](http://www.ga.gov.au/nopims)  
 
 # COASTA 模型——碳酸盐测井和地震数据
 
@@ -116,11 +96,7 @@ COSTA 模型数据库最近由作者(Costa Gomes J、Geiger S 和 Arnold D)和 H
 
 由于很难找到高质量的碳酸盐数据，这个数据集非常值得点击下面的链接查看。
 
-[](https://researchportal.hw.ac.uk/en/datasets/costa-model-hierarchical-carbonate-reservoir-benchmarking-case-st) [## COSTA 模型:分级碳酸盐岩储层基准案例研究
-
-### 针对储层特征、不确定性量化和预测的分级碳酸盐岩储层基准案例研究
-
-researchportal.hw.ac .英国](https://researchportal.hw.ac.uk/en/datasets/costa-model-hierarchical-carbonate-reservoir-benchmarking-case-st) 
+[](https://researchportal.hw.ac.uk/en/datasets/costa-model-hierarchical-carbonate-reservoir-benchmarking-case-st)  
 
 # 堪萨斯地质调查局
 
@@ -134,11 +110,7 @@ researchportal.hw.ac .英国](https://researchportal.hw.ac.uk/en/datasets/costa-
 
 你可以点击下面的链接查看:
 
- [## KGS -能源资源-石油和天然气数据库
-
-### 截至 2021 年 11 月的生产数据增加至 2022 年 2 月 28 日。这些后续搜索是主列表的子集…
-
-www.kgs.ku.edu](http://www.kgs.ku.edu/PRS/petroDB.html) 
+  
 
 # 1240 口挪威油井的孔隙度、渗透率、岩石类型岩心数据
 
@@ -150,11 +122,7 @@ www.kgs.ku.edu](http://www.kgs.ku.edu/PRS/petroDB.html)
 
 您可以通过单击下面的链接来访问它:
 
-[](https://zenodo.org/record/4419060#.YiNGFO7P3kp) [## 1240 年挪威勘探、评估和开发的孔隙度、渗透率、岩石类型数据…
-
-### 该数据包含所有孔隙度渗透率测量值和已发布的挪威石油公司的岩心描述…
-
-zenodo.org](https://zenodo.org/record/4419060#.YiNGFO7P3kp) 
+[](https://zenodo.org/record/4419060#.YiNGFO7P3kp)  
 
 # 格罗宁根气田海燕地质模型
 
@@ -168,11 +136,7 @@ nederlandse Aardolie Maatschappij(NAM)开发并发布了荷兰格罗宁根气田
 
 请点击下面的链接查看:
 
- [## 荷兰格罗宁根气田的 Petrel 地质模型-数据发布平台
-
-### 荷兰格罗宁根气田的地质模型和数据，由 Nederlandse Aardolie 开发…
-
-public . Yoda . uu . n1](https://public.yoda.uu.nl/geo/UU01/1QH0MW.html) 
+  
 
 # 地下数据
 
@@ -184,11 +148,7 @@ public . Yoda . uu . n1](https://public.yoda.uu.nl/geo/UU01/1QH0MW.html)
 
 请点击下面的链接查看:
 
- [## 欢迎-地下数据
-
-### 数字地球科学家需要数据。有大量的公开数据，但可发现性很差。文档是…
-
-dataunderground.org](https://dataunderground.org/) 
+  
 
 # 国际海洋钻探计划
 
@@ -200,11 +160,7 @@ dataunderground.org](https://dataunderground.org/)
 
 点击下面的链接查看:
 
-[](https://www.iodp.org/resources/access-data-and-samples) [## 访问数据和样本|资源| IODP
-
-### IODP 探险队的数据可以通过探险队的科学操作员访问:物理样本存档在…
-
-www.iodp.org](https://www.iodp.org/resources/access-data-and-samples) 
+[](https://www.iodp.org/resources/access-data-and-samples)  
 
 # 勘探地球物理学家协会(SEG)维基开放数据
 
@@ -216,11 +172,7 @@ SEG Wiki 包含地球物理数据集的链接。作者捕获的图像。
 
 您可以通过以下链接访问维基:
 
-[](https://wiki.seg.org/wiki/Open_data) [## 开放数据
-
-### SEG Wiki 上的开放数据是一个在线开放地球物理数据的目录。SEG 不拥有或维护这些数据…
-
-wiki.seg.org](https://wiki.seg.org/wiki/Open_data) 
+[](https://wiki.seg.org/wiki/Open_data)  
 
 # *感谢阅读！*
 
@@ -232,8 +184,4 @@ wiki.seg.org](https://wiki.seg.org/wiki/Open_data)
 
 *如果你喜欢阅读这些教程，并且想支持我这个作家和创作者，那么请考虑报名成为一名 Medium 会员。一个月 5 美元，你就可以无限制地阅读数千篇各种主题的文章。如果您使用* [***我的链接***](https://andymcdonaldgeo.medium.com/membership)**注册，我将为您赚取一小笔佣金，无需额外费用！**
 
-*[](https://andymcdonaldgeo.medium.com/membership) [## 通过我的推荐链接加入 Medium-Andy McDonald
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-andymcdonaldgeo.medium.com](https://andymcdonaldgeo.medium.com/membership)*
+*[](https://andymcdonaldgeo.medium.com/membership) *

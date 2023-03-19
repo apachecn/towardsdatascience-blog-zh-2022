@@ -243,8 +243,4 @@ performance_ensemble <- perf@y.values[[1]]
 
 **数据集许可:本文中使用的数据集可以在*[https://www.openml.org/d/40945](https://www.openml.org/d/40945)公开使用*
 
-*[](https://ivopbernardo.medium.com/membership) [## 通过我的推荐链接加入 Medium-Ivo Bernardo
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-ivopbernardo.medium.com](https://ivopbernardo.medium.com/membership)*
+*[](https://ivopbernardo.medium.com/membership) *

@@ -125,14 +125,6 @@ x2 <= M*x2_dummy
 
 ## 有关系的
 
-[](/why-every-data-scientist-should-learn-mathematical-optimization-3ac102663456) [## 为什么每个数据科学家都应该学习数学优化
-
-### 数据科学课程的重点是数据可视化，特征工程，数据处理，(非)监督学习…
-
-towardsdatascience.com](/why-every-data-scientist-should-learn-mathematical-optimization-3ac102663456) [](/how-to-handle-optimization-problems-daf97b3c248c) [## 如何处理优化问题？
-
-### 带有解决方案和代码的简单示例。
-
-towardsdatascience.com](/how-to-handle-optimization-problems-daf97b3c248c) 
+[](/why-every-data-scientist-should-learn-mathematical-optimization-3ac102663456)  [](/how-to-handle-optimization-problems-daf97b3c248c)  
 
 如果你想在我发表新文章时收到电子邮件，别忘了订阅。

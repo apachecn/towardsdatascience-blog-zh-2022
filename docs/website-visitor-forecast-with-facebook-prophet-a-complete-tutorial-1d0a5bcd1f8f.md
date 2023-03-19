@@ -205,24 +205,8 @@ future_optuna_df = m.make_future_dataframe(periods=60,freq=’W’)predict_optun
 
 ## 参考:
 
-[](https://facebook.github.io/prophet/) [## 先知
-
-### Prophet 是一个用 R 和 Python 实现的预测程序。它速度很快，并提供完全自动化的预测…
-
-facebook.github.io](https://facebook.github.io/prophet/) 
+[](https://facebook.github.io/prophet/)  
 
 ## 您可能还喜欢:
 
-[](https://medium.com/analytics-vidhya/sales-analytics-churn-analysis-and-prediction-with-pyspark-98fffc169f36) [## 销售分析:使用 PySpark 进行流失分析和预测
-
-### 最后用保存的模型和管道进行基础数据可视化和预测
-
-medium.com](https://medium.com/analytics-vidhya/sales-analytics-churn-analysis-and-prediction-with-pyspark-98fffc169f36) [](/pandas-data-wrangling-cheat-sheet-2021-cf70f577bcdd) [## 熊猫数据争论备忘单 2021
-
-### 要在 Python 中 excel 数据分析/数据科学/机器学习，熊猫是你需要掌握的库。这里有一个骗局…
-
-towardsdatascience.com](/pandas-data-wrangling-cheat-sheet-2021-cf70f577bcdd) [](/fundamental-marketing-analytics-f875018391d5) [## 基础营销分析
-
-### 通过最近-频率-货币模型和使用 Python 的管理细分
-
-towardsdatascience.com](/fundamental-marketing-analytics-f875018391d5)
+[](https://medium.com/analytics-vidhya/sales-analytics-churn-analysis-and-prediction-with-pyspark-98fffc169f36)  [](/pandas-data-wrangling-cheat-sheet-2021-cf70f577bcdd)  [](/fundamental-marketing-analytics-f875018391d5) 

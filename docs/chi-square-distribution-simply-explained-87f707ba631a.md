@@ -12,11 +12,7 @@ micha Parzuchowski 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_med
 
 在我之前的文章中，我们推导并讨论了伽玛分布，你可以在这里查看:
 
-[](/gamma-distribution-simply-explained-d95a9de16278) [## 伽马分布简单解释
-
-### 伽马分布及其起源的解释
-
-towardsdatascience.com](/gamma-distribution-simply-explained-d95a9de16278) 
+[](/gamma-distribution-simply-explained-d95a9de16278)  
 
 在这篇文章中，我们将解释伽玛分布的一个特例，卡方分布。这种分布在统计学中无处不在，甚至有它自己的检验，在数据科学中经常使用，卡方检验。
 

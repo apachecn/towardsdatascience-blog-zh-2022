@@ -123,10 +123,6 @@ Python 是一种多用途的开源编程语言，可以与数据科学和机器�
 
 https://www.reportlab.com/opensource/
 
- [## xml.dom.minidom -最小 dom 实现- Python 3.10.5 文档
-
-### 源代码:Lib/xml/dom/minidom.py 是文档对象模型接口的最小实现，带有 API…
-
-docs.python.org](https://docs.python.org/3/library/xml.dom.minidom.html) 
+  
 
 【https://www.reportlab.com/docs/reportlab-userguide.pdf 

@@ -21,11 +21,7 @@
 
 如果您想阅读更多关于 OWL API 的内容，请查看下面的文章。
 
-[](/how-to-compute-word-similarity-a-comparative-analysis-e9d9d3cb3080) [## 如何计算词语相似度——比较分析
-
-### Owl API 是一个强大的单词相似性服务，使用高级文本聚类技术和各种 word2vec 模型
-
-towardsdatascience.com](/how-to-compute-word-similarity-a-comparative-analysis-e9d9d3cb3080) 
+[](/how-to-compute-word-similarity-a-comparative-analysis-e9d9d3cb3080)  
 
 ## 步骤 1 —创建 app.py
 
@@ -71,19 +67,11 @@ EXPOSE 80**CMD ["python3", "app/app.py"]**
 
 在这种情况下，`PORT`没有预先设置。因此，我必须确保在 docker 文件中打开端口 8080。我通过 Dockerfile 文件中的`EXPOSE 8080`做到了这一点。如果`PORT`先前在环境中被设置为除 8080 之外的任何值，您必须通过添加`EXPOSE XXXX`在 docker 文件中打开该端口。
 
-[](/how-to-create-an-ubuntu-server-to-build-an-ai-product-using-docker-a2414aa09f59) [## 如何创建一个 Ubuntu 服务器来使用 Docker 构建一个 AI 产品
-
-### 构建 Ubuntu 服务器的代码片段集合，该服务器可用于开发简单的人工智能产品。
-
-towardsdatascience.com](/how-to-create-an-ubuntu-server-to-build-an-ai-product-using-docker-a2414aa09f59) 
+[](/how-to-create-an-ubuntu-server-to-build-an-ai-product-using-docker-a2414aa09f59)  
 
 注意，我在名为`nlp-essentials`的 Docker 映像创建的环境中运行`CMD ["python3", "app/app.py"]`。这是我之前通过安装所有需要的库构建的 Docker 映像。这张 Docker 图片保存在我的 Dockerhub 账户`pdrm83`中，需要时使用。每当我想更新 API 服务时，就会拉出`nlp-essentials`映像。这有助于在我每次想要更新 API 时不安装所有需要的库。最后，但同样重要的是，由于我将`app.py`存储在`ROOT/src/app/.`中，所以我将`WORKDIR /project/src/.`添加到 Dockerfile 中。你不能复制这一行。你只需要根据你的代码库的文件结构在 Dockerfile 中正确地配置它。
 
-[](/how-to-build-an-automated-development-pipeline-d0b9820a2f3d) [## 如何构建自动化开发管道
-
-### 用最小的挫折开发软件的剧本
-
-towardsdatascience.com](/how-to-build-an-automated-development-pipeline-d0b9820a2f3d) 
+[](/how-to-build-an-automated-development-pipeline-d0b9820a2f3d)  
 
 ## 步骤 3 —启动服务器
 
@@ -103,11 +91,7 @@ towardsdatascience.com](/how-to-build-an-automated-development-pipeline-d0b9820a
 
 你的服务现在在互联网上对每个人都是可利用的。你不需要任何花哨的云服务就能把你的 API 服务推向市场。这不是很神奇吗？你可以在下面的文章中读到为什么我认为 ngrok 对你向社区提供 API 服务非常有用。
 
-[](/how-to-avoid-cloud-bill-shock-in-data-science-services-e2ade5fae2a8) [## 如何避免数据科学服务中的云账单冲击
-
-### 使用 ngrok 在不到 30 秒的时间内构建互联网服务器的方法
-
-towardsdatascience.com](/how-to-avoid-cloud-bill-shock-in-data-science-services-e2ade5fae2a8) 
+[](/how-to-avoid-cloud-bill-shock-in-data-science-services-e2ade5fae2a8)  
 
 ## 遗言
 
@@ -123,8 +107,4 @@ towardsdatascience.com](/how-to-avoid-cloud-bill-shock-in-data-science-services-
 *   *连接上*[*Linkedin*](https://www.linkedin.com/in/pedrama/)*！*
 *   *关注我* [*推特*](https://twitter.com/pedram_ataee) *！*
 
-[](https://pedram-ataee.medium.com/membership) [## 通过我的推荐链接加入 Medium—Pedram Ataee 博士
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-pedram-ataee.medium.com](https://pedram-ataee.medium.com/membership)
+[](https://pedram-ataee.medium.com/membership) 

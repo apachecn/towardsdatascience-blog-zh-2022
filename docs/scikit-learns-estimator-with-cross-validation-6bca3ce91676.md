@@ -127,26 +127,10 @@ model_cv.score(X_test, y_test)**[OUT]:
 
 如果你喜欢这篇文章，请随时关注我
 
-[](http://gustavorsantos.medium.com/) [## 古斯塔沃·桑托斯-中等
-
-### 阅读古斯塔夫·桑托斯在媒介上的作品。数据科学家。我从数据中提取见解，以帮助个人和公司…
-
-gustavorsantos.medium.com](http://gustavorsantos.medium.com/) 
+[](http://gustavorsantos.medium.com/)  
 
 如果你正在考虑中等会员资格，[这里有一个推荐代码](https://gustavorsantos.medium.com/membership)给你。它帮助并激励着我！
 
 # 参考
 
-[](https://en.wikipedia.org/wiki/Cross-validation_%28statistics%29) [## 交叉验证(统计)-维基百科
-
-### 交叉验证，有时被称为旋转估计或样本外测试，是各种类似的模型…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Cross-validation_%28statistics%29) [](https://stats.stackexchange.com/questions/320154/when-not-to-use-cross-validation) [## 何时不使用交叉验证？
-
-### begingroup$ Take-home-messages:不幸的是，你引用的文本在方法 1 和方法 2 之间改变了两件事:方法…
-
-stats.stackexchange.com](https://stats.stackexchange.com/questions/320154/when-not-to-use-cross-validation) [](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegressionCV.html#sklearn.linear_model.LogisticRegressionCV) [## sklearn.linear_model。物流注册
-
-### 逻辑回归 CV(又名 logit，MaxEnt)分类器。交叉验证估计量见术语表条目。这堂课…
-
-scikit-learn.org](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegressionCV.html#sklearn.linear_model.LogisticRegressionCV)
+[](https://en.wikipedia.org/wiki/Cross-validation_%28statistics%29)  [](https://stats.stackexchange.com/questions/320154/when-not-to-use-cross-validation)  [](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegressionCV.html#sklearn.linear_model.LogisticRegressionCV) 

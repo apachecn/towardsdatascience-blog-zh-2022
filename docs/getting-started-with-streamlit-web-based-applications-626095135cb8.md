@@ -16,11 +16,7 @@ Streamlit 由前谷歌工程师于 2018 年创立，他们在开发和部署机�
 
 如果您想深入了解 Streamlit 的全部功能，请务必通过下面的链接查看他们的优秀文档。
 
-[](https://docs.streamlit.io/) [## 简化文档
-
-### Streamlit 是一个开源的 Python 库，可以轻松地创建和共享漂亮的自定义 web 应用程序，用于…
-
-docs.streamlit.io](https://docs.streamlit.io/) 
+[](https://docs.streamlit.io/)  
 
 # 数据
 
@@ -30,11 +26,7 @@ docs.streamlit.io](https://docs.streamlit.io/)
 
 [https://www.kaggle.com/datasets/usgs/earthquake-database?select=database.csv](https://www.kaggle.com/datasets/usgs/earthquake-database?select=database.csv)
 
-[](https://github.com/andymcdgeo/streamlit_tutorial_series) [## GitHub-andymcdgeo/streamlit _ tutorial _ series
-
-### 你好👋，欢迎来到 Streamlit 教程系列。在这里，您可以找到我的细流上讨论的 python 文件…
-
-github.com](https://github.com/andymcdgeo/streamlit_tutorial_series) 
+[](https://github.com/andymcdgeo/streamlit_tutorial_series)  
 
 我为这篇文章发布了一个附带的视频教程，可以在下面访问:
 

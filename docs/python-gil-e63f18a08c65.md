@@ -82,11 +82,7 @@ Python 中的线程(并发)——来源:作者
 
 **要更全面地了解 Python 中的**多处理和线程**，请务必阅读下面分享的相关文章，该文章本质上是对 Python 中的**并发**和**并行**的深入探究。**
 
-**[](/multithreading-multiprocessing-python-180d0975ab29) [## Python 中的多线程和多处理
-
-### 深入探讨 Python 中的多线程和多处理，以及它们与并发性和
-
-towardsdatascience.com](/multithreading-multiprocessing-python-180d0975ab29)** 
+**[](/multithreading-multiprocessing-python-180d0975ab29) ** 
 
 ## **在 Python 中避开 GIL**
 
@@ -110,20 +106,8 @@ towardsdatascience.com](/multithreading-multiprocessing-python-180d0975ab29)**
 
 **[**成为会员**](https://gmyrianthous.medium.com/membership) **阅读媒体上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。****
 
-**[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership)** 
+**[](https://gmyrianthous.medium.com/membership) ** 
 
 ****你可能也会喜欢****
 
-**[](/augmented-assignments-python-caa4990811a0) [## Python 中的扩充赋值
-
-### 了解增强赋值表达式在 Python 中的工作方式，以及为什么在使用它们时要小心…
-
-towardsdatascience.com](/augmented-assignments-python-caa4990811a0)** **[](/dynamic-typing-in-python-307f7c22b24e) [## Python 中的动态类型
-
-### 探索 Python 中对象引用的工作方式
-
-towardsdatascience.com](/dynamic-typing-in-python-307f7c22b24e)**
+**[](/augmented-assignments-python-caa4990811a0) ** **[](/dynamic-typing-in-python-307f7c22b24e) **

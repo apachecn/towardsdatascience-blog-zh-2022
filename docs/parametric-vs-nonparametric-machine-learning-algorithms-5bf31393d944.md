@@ -48,12 +48,4 @@
 
 其他一些你可能感兴趣的文章！
 
-[](/data-scientist-the-dirtiest-job-of-the-21st-century-7f0c8215e845) [## 数据科学家:21 世纪最肮脏的工作
-
-### 40%的吸尘器，40%的看门人，20%的算命师。
-
-towardsdatascience.com](/data-scientist-the-dirtiest-job-of-the-21st-century-7f0c8215e845) [](/7-essential-ai-youtube-channels-d545ab401c4) [## 7 个必不可少的人工智能 YouTube 频道
-
-### 如何跟上最新最酷的机器学习进展
-
-towardsdatascience.com](/7-essential-ai-youtube-channels-d545ab401c4)
+[](/data-scientist-the-dirtiest-job-of-the-21st-century-7f0c8215e845)  [](/7-essential-ai-youtube-channels-d545ab401c4) 

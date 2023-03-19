@@ -76,10 +76,6 @@ Python 中的注释是*在程序* **执行过程中被编译器忽略的代码�
 
 💡如果你喜欢阅读这样的故事，并想支持我和其他作家，考虑注册成为一个媒体成员。每月只需 5 美元，你就可以无限制地阅读媒体上的文章。如果你注册使用我下面的链接，我会得到一小笔佣金！💡
 
-[](https://medium.com/@17.rsuraj/membership) [## 加入我的推荐链接- Suraj Gurav 媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@17.rsuraj/membership) 
+[](https://medium.com/@17.rsuraj/membership)  
 
 **感谢阅读！**

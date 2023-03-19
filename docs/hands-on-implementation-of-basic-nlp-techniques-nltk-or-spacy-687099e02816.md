@@ -363,19 +363,7 @@ print(found_matches)*
 
 ***NLP 是现代计算中令人惊叹的技术之一，通过它，计算机可以识别我们的自然语言。有一些计算机处理自然语言的技术，因为人类和机器的学习过程是不同的。spaCy、NLTK 等不同的库使这个过程变得简单。不可能在一篇文章中包含所有必要的技术。因此，请关注即将发布的文章，了解更多令人惊叹的 NLP 实现技术和项目。你也可以读一下我写的关于 NLP 的文章。***
 
-***[](/a-complete-guide-to-natural-language-processing-nlp-c91f1cfd3b0c) [## 自然语言处理(NLP)完全指南
-
-### 机器如何识别人类语言并据此行动
-
-towardsdatascience.com](/a-complete-guide-to-natural-language-processing-nlp-c91f1cfd3b0c) [](/tips-and-tricks-to-work-with-text-files-in-python-89f14a755315) [## 使用 Python 处理文本文件的技巧和诀窍
-
-### 使用文本文件并熟悉 Python 中令人惊叹的技术
-
-towardsdatascience.com](/tips-and-tricks-to-work-with-text-files-in-python-89f14a755315) [](/manipulate-pdf-files-extract-information-with-pypdf2-and-regular-expression-39ff697db0ca) [## 操作 PDF 文件，用 PyPDF2 和正则表达式提取信息
-
-### 使用 PyPDF2 和正则表达式简化 PDF 操作任务
-
-towardsdatascience.com](/manipulate-pdf-files-extract-information-with-pypdf2-and-regular-expression-39ff697db0ca) 
+***[](/a-complete-guide-to-natural-language-processing-nlp-c91f1cfd3b0c)  [](/tips-and-tricks-to-work-with-text-files-in-python-89f14a755315)  [](/manipulate-pdf-files-extract-information-with-pypdf2-and-regular-expression-39ff697db0ca)  
 
 ## 参考
 

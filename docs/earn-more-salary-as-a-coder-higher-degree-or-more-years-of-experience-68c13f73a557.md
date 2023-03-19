@@ -61,11 +61,7 @@
 
 [Bambi](https://bambinos.github.io/bambi/main/index.html) 是用 Python 编写的高级贝叶斯建模接口。它构建在编程框架 PyMC3 之上。因此，Bambi 类似于 PyMC3，但是更容易使用。
 
-[](/bayesian-linear-regression-with-bambi-a5e6570f167b) [## Bambi 贝叶斯线性回归
-
-### 利用贝叶斯推理得到你的预测分布
-
-towardsdatascience.com](/bayesian-linear-regression-with-bambi-a5e6570f167b) 
+[](/bayesian-linear-regression-with-bambi-a5e6570f167b)  
 
 要安装 Bambi，请键入:
 
@@ -188,33 +184,13 @@ pip install bambi
 
 在这里随意发挥和分叉本文的代码:
 
-[](https://github.com/khuyentran1401/Data-science/blob/master/statistics/stackoverflow_survey/analyze_salary.ipynb) [## 数据科学/analyze _ salary . ipynb at master khuyentran 1401/数据科学
-
-### 收集有用的数据科学主题以及代码和文章-Data-science/analyze _ salary . ipynb at master…
-
-github.com](https://github.com/khuyentran1401/Data-science/blob/master/statistics/stackoverflow_survey/analyze_salary.ipynb) 
+[](https://github.com/khuyentran1401/Data-science/blob/master/statistics/stackoverflow_survey/analyze_salary.ipynb)  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的数据科学工具。你可以在 LinkedIn 和 T2 Twitter 上与我联系。
 
 星[这个回购](https://github.com/khuyentran1401/Data-science)如果你想检查我写的所有文章的代码。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/detect-change-points-with-bayesian-inference-and-pymc3-3b4f3ae6b9bb) [## 用贝叶斯推理和 PyMC3 检测变化点
-
-### 用观察到的数据更新你的信念
-
-towardsdatascience.com](/detect-change-points-with-bayesian-inference-and-pymc3-3b4f3ae6b9bb) [](/bayes-theorem-clearly-explained-with-visualization-5083ea5e9b14) [## 贝叶斯定理，用可视化清晰地解释
-
-### 如果您的 COVID 检测呈阳性，那么您实际上患有 COVID 的几率有多大？
-
-towardsdatascience.com](/bayes-theorem-clearly-explained-with-visualization-5083ea5e9b14) [](/how-to-create-interactive-and-elegant-plot-with-altair-8dd87a890f2a) [## 如何用 Altair 创建交互式剧情
-
-### 在 5 行简单的 Python 代码中利用您的数据分析
-
-towardsdatascience.com](/how-to-create-interactive-and-elegant-plot-with-altair-8dd87a890f2a) [](/pyvis-visualize-interactive-network-graphs-in-python-77e059791f01) [## Pyvis:用 Python 可视化交互式网络图
-
-### 只需要几行代码
-
-towardsdatascience.com](/pyvis-visualize-interactive-network-graphs-in-python-77e059791f01) 
+[](/detect-change-points-with-bayesian-inference-and-pymc3-3b4f3ae6b9bb)  [](/bayes-theorem-clearly-explained-with-visualization-5083ea5e9b14)  [](/how-to-create-interactive-and-elegant-plot-with-altair-8dd87a890f2a)  [](/pyvis-visualize-interactive-network-graphs-in-python-77e059791f01)  
 
 # 参考
 

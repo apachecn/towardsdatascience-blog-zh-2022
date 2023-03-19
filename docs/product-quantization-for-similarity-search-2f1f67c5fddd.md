@@ -148,11 +148,7 @@ PQ 码，向量的压缩表示
 
 由于产品量化本身并不是非常大规模搜索的最有效方法，我们将在下一篇文章中看到如何实现更快的非穷举搜索方法。点击下面的链接了解更多信息。
 
-[](/similarity-search-with-ivfpq-9c6348fd4db3) [## 使用 IVFPQ 进行相似性搜索
-
-### 了解如何实现倒排文件索引(IVF)以及产品量化(PQ ),以实现快速有效的…
-
-towardsdatascience.com](/similarity-search-with-ivfpq-9c6348fd4db3) 
+[](/similarity-search-with-ivfpq-9c6348fd4db3)  
 
 # 参考
 
@@ -170,23 +166,7 @@ towardsdatascience.com](/similarity-search-with-ivfpq-9c6348fd4db3)
 
 有兴趣阅读我的其他数据科学文章吗？查看以下内容:
 
-[](/transformers-can-you-rate-the-complexity-of-reading-passages-17c76da3403) [## 变形金刚，你能评价阅读段落的复杂程度吗？
-
-### 用 PyTorch 微调 RoBERTa 以预测文本摘录的阅读难易程度
-
-towardsdatascience.com](/transformers-can-you-rate-the-complexity-of-reading-passages-17c76da3403) [](/advanced-techniques-for-fine-tuning-transformers-82e4e61e16e) [## 微调变压器的先进技术
-
-### 学习这些先进的技术，看看它们如何帮助改善结果
-
-towardsdatascience.com](/advanced-techniques-for-fine-tuning-transformers-82e4e61e16e) [](https://pub.towardsai.net/building-a-product-recommendation-engine-with-aws-sagemaker-321a0e7c7f7b) [## 用 AWS SageMaker 构建产品推荐引擎
-
-### 了解如何使用 Amazon SageMaker 因式分解机构建和训练个性化推荐引擎
-
-pub.towardsai.net](https://pub.towardsai.net/building-a-product-recommendation-engine-with-aws-sagemaker-321a0e7c7f7b) [](/aws-certified-machine-learning-specialty-97eacbd1a0fe) [## AWS 认证机器学习—专业
-
-### 关于如何准备和通过考试的提示和建议
-
-towardsdatascience.com](/aws-certified-machine-learning-specialty-97eacbd1a0fe) ![Peggy Chang](img/9e4c26496eb3cca6b350330838259487.png)
+[](/transformers-can-you-rate-the-complexity-of-reading-passages-17c76da3403)  [](/advanced-techniques-for-fine-tuning-transformers-82e4e61e16e)  [](https://pub.towardsai.net/building-a-product-recommendation-engine-with-aws-sagemaker-321a0e7c7f7b)  [](/aws-certified-machine-learning-specialty-97eacbd1a0fe)  ![Peggy Chang](img/9e4c26496eb3cca6b350330838259487.png)
 
 [张佩琦](https://peggy1502.medium.com/?source=post_page-----2f1f67c5fddd--------------------------------)
 

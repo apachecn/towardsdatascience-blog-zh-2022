@@ -120,16 +120,4 @@ pip install data-science-types
 
 # 我的其他一些帖子你可能会感兴趣
 
-[](/building-machine-learning-pipelines-using-snowflake-and-dask-10ae5e7fff0f) [## 使用雪花和 Dask 构建机器学习管道
-
-### 介绍
-
-towardsdatascience.com](/building-machine-learning-pipelines-using-snowflake-and-dask-10ae5e7fff0f) [](/lets-build-a-streaming-data-pipeline-e873d671fc57) [## 让我们建立一个流数据管道
-
-### 用于实时数据管道的 Apache Beam 和数据流
-
-towardsdatascience.com](/lets-build-a-streaming-data-pipeline-e873d671fc57) [](/a-bayesian-approach-to-time-series-forecasting-d97dd4168cb7) [## 时间序列预测的贝叶斯方法
-
-### 今天，我们将从头开始在 R 中实现贝叶斯线性回归，并使用它来预测美国的 GDP 增长…
-
-towardsdatascience.com](/a-bayesian-approach-to-time-series-forecasting-d97dd4168cb7)
+[](/building-machine-learning-pipelines-using-snowflake-and-dask-10ae5e7fff0f)  [](/lets-build-a-streaming-data-pipeline-e873d671fc57)  [](/a-bayesian-approach-to-time-series-forecasting-d97dd4168cb7) 

@@ -1061,27 +1061,7 @@ def process_texts(input_paths: List[pathlib.Path]) -> None:
 
 # *资源*
 
-*[](/does-python-still-need-the-map-function-96787ea1fb05) [## Python 还需要 map()函数吗？
-
-### 有了各种备选方案，Python 的 map()似乎就显得多余了。那么，Python 到底需不需要呢？
-
-towardsdatascience.com](/does-python-still-need-the-map-function-96787ea1fb05) [](/building-generator-pipelines-in-python-8931535792ff) [## 用 Python 构建生成器管道
-
-### 本文提出了一种构建生成器管道的优雅方法
-
-towardsdatascience.com](/building-generator-pipelines-in-python-8931535792ff)  [## timeit —测量小代码片段的执行时间— Python 3.11.0 文档
-
-### 源代码:Lib/timeit.py 这个模块提供了一种简单的方法来为小部分 Python 代码计时。它既有…
-
-docs.python.org](https://docs.python.org/3/library/timeit.html) [](/benchmarking-python-code-with-timeit-80827e131e48) [## 用 timeit 对 Python 代码进行基准测试
-
-### 作为 Python 代码时间基准测试最流行的工具，内置的 timeit 模块提供了比大多数…
-
-towardsdatascience.com](/benchmarking-python-code-with-timeit-80827e131e48) [](/the-walrus-operator-in-python-a315e4f84583) [## Python 中的海象算子
-
-### 了解什么是 walrus 操作符以及如何在 Python 中使用它
-
-towardsdatascience.com](/the-walrus-operator-in-python-a315e4f84583) 
+*[](/does-python-still-need-the-map-function-96787ea1fb05)  [](/building-generator-pipelines-in-python-8931535792ff)    [](/benchmarking-python-code-with-timeit-80827e131e48)  [](/the-walrus-operator-in-python-a315e4f84583)  
 
 # 脚注
 
@@ -1138,8 +1118,4 @@ towardsdatascience.com](/the-walrus-operator-in-python-a315e4f84583)
 
 如果你懂围棋，你可能已经注意到了两者的相似之处，因为这就是作用域在围棋中的工作方式。
 
-[](https://medium.com/@nyggus/membership) [## 加入我的介绍链接媒体-马尔钦科萨克
-
-### 阅读马尔钦·科萨克(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-medium.com](https://medium.com/@nyggus/membership)*
+[](https://medium.com/@nyggus/membership) *

@@ -122,19 +122,11 @@ github.com](https://github.com/MartimChaves/glcm_sat_img)
 
 *   **要计算 GLCM:**
 
-**[](https://scikit-image.org/docs/0.7.0/api/skimage.feature.texture.html#skimage.feature.texture.greycomatrix) [## 模块:feature . texture-skim age v 0 . 7 . 0 docs
-
-### 表征图像纹理的方法。skim age . feature . texture . greycorops(P，prop='contrast ')计算纹理…
-
-scikit-image.org](https://scikit-image.org/docs/0.7.0/api/skimage.feature.texture.html#skimage.feature.texture.greycomatrix) 
+**[](https://scikit-image.org/docs/0.7.0/api/skimage.feature.texture.html#skimage.feature.texture.greycomatrix)  
 
 *   要计算 GLCM 的属性(图像特征):
 
-[](https://scikit-image.org/docs/0.7.0/api/skimage.feature.texture.html#skimage.feature.texture.greycoprops) [## 模块:feature . texture-skim age v 0 . 7 . 0 docs
-
-### 表征图像纹理的方法。skim age . feature . texture . greycorops(P，prop='contrast ')计算纹理…
-
-scikit-image.org](https://scikit-image.org/docs/0.7.0/api/skimage.feature.texture.html#skimage.feature.texture.greycoprops) 
+[](https://scikit-image.org/docs/0.7.0/api/skimage.feature.texture.html#skimage.feature.texture.greycoprops)  
 
 请注意，它们使用不同系统的**钻头——位置操作符**由角度**和距离**决定，但基本原理如前所述。****
 
@@ -154,11 +146,7 @@ Kate Palitava 的左图，在作者的左图的右日志(GLCM)上；b)左图为 
 
 我认为卫星图像将很好地展示 GLCMs 可以做什么。毕竟，比如山和海洋的**图像**的**纹理**之间的**差异**就是**明显的**。经过一番搜索，我在 Kaggle 上找到了这个数据集，上面有油棕榈种植园的**卫星图像**。这与 2019 年数据科学(WiDS)妇女(Women in Data Science，WiDS)数据大会有关，我决定试一试。如果你感兴趣，这里有链接:
 
-[](https://www.kaggle.com/c/widsdatathon2019/data) [## WiDS Datathon 2019
-
-### 参加 2019 年数据科学女性(WiDS)数据大会
-
-www.kaggle.com](https://www.kaggle.com/c/widsdatathon2019/data) 
+[](https://www.kaggle.com/c/widsdatathon2019/data)  
 
 我从一点点**探索性数据分析** (EDA)开始。为此，我查看了属于**每个职业**的**随机图像**，以了解主要区别。油棕种植园的图像似乎清晰地包含了**明显的黄色线条**。我猜想，这些可能是通往不同地块的道路。
 

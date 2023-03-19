@@ -173,11 +173,7 @@ mape = np.mean(
 
 theta 模型是时间序列分析师的强大工具，概念简单，易于调整，易于评估。希望你觉得这个教程有用！如果是的话，请考虑以后使用 scalecast，为其成长做点贡献！
 
-[](https://github.com/mikekeith52/scalecast) [## GitHub - mikekeith52/scalecast:从业者的预测库
-
-### Scalecast 是一个轻量级的建模过程、包装器和结果容器，旨在为那些正在寻找…
-
-github.com](https://github.com/mikekeith52/scalecast) 
+[](https://github.com/mikekeith52/scalecast)  
 
 # 参考
 

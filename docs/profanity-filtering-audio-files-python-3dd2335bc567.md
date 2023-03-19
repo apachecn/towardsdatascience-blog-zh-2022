@@ -76,28 +76,12 @@
 
 ****在今天的文章中，我们展示了如何使用 Python 和 AssemblyAI API 对音频和视频文件进行脏话过滤。当需要过滤脏话时，您可能通常希望(或需要)执行敏感内容检测。关于如何执行内容审核的分步指南，请阅读下面的文章****
 
-****[](/content-moderation-python-assemblyai-4a09ca61d346) [## 如何使用 Python 对音频文件进行内容审核
-
-### 用 Python 和 AssemblyAI API 检测音频文件中的敏感内容
-
-towardsdatascience.com](/content-moderation-python-assemblyai-4a09ca61d346)**** 
+****[](/content-moderation-python-assemblyai-4a09ca61d346) **** 
 
 ****[**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。******
 
-****[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership)**** 
+****[](https://gmyrianthous.medium.com/membership) **** 
 
 ******你可能也会喜欢******
 
-****[](/speech-recognition-python-assemblyai-bb5024d322d8) [## 如何使用 Python 执行语音识别
-
-### 用 Python 中的 AssemblyAI API 执行语音转文本
-
-towardsdatascience.com](/speech-recognition-python-assemblyai-bb5024d322d8)**** ****[](/sentiment-analysis-assemblyai-python-a4686967e0fc) [## 如何用 Python 对音频文件进行情感分析
-
-### 探索如何使用 AssemblyAI API 提取语音中的情感
-
-towardsdatascience.com](/sentiment-analysis-assemblyai-python-a4686967e0fc)****
+****[](/speech-recognition-python-assemblyai-bb5024d322d8) **** ****[](/sentiment-analysis-assemblyai-python-a4686967e0fc) ****

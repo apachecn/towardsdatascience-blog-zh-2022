@@ -187,8 +187,4 @@ Streamlit 现在似乎正在“烘烤”您的应用:
 
 如果你还不是一个媒体订阅者，那就注册吧，这样你就可以每月花 5 美元阅读尽可能多的文章。在这里注册，我将赚取一小笔佣金。
 
-[](https://alanjones2.github.io) [## AlanJones:编码、科学和技术
-
-### 我为数据可视化和类似的主题撰写文章、实践教程和应用程序——大部分是用 Python 写的(参见一些……
-
-alanjones2.github.io](https://alanjones2.github.io)
+[](https://alanjones2.github.io) 

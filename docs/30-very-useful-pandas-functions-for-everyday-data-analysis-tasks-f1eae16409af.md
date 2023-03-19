@@ -18,11 +18,7 @@ Python 的 Pandas 库是 Python 中使用最广泛的库。因为这是数据分
 
 *请随意从这里下载数据集:*
 
-*[](https://github.com/rashida048/Datasets/blob/master/fifa.csv) [## master rashida048/Datasets 上的 Datasets/fifa.csv
-
-### 在 GitHub 上创建一个帐户，为 rashida048/Datasets 开发做出贡献。
-
-github.com](https://github.com/rashida048/Datasets/blob/master/fifa.csv) 
+*[](https://github.com/rashida048/Datasets/blob/master/fifa.csv)  
 
 好戏开始了！
 
@@ -46,11 +42,7 @@ df = pd.read_csv("fifa.csv")
 
 我有一个关于 read_csv 函数的详细视频。它有几个很好的参数，可以帮助您在读取数据集时稍微清理一下数据集。我这里有一篇详细的文章:
 
-[](/import-csv-files-as-pandas-dataframe-with-skiprows-skipfooter-usecols-index-col-and-header-fbf67a2f92a) [## 导入 CSV 文件为 Pandas DataFrame，带有 skiprows、skipfooter、usecols、index_col 和 header…
-
-### 学习使用 read_csv 函数及其提供的一些非常有用的参数
-
-towardsdatascience.com](/import-csv-files-as-pandas-dataframe-with-skiprows-skipfooter-usecols-index-col-and-header-fbf67a2f92a) 
+[](/import-csv-files-as-pandas-dataframe-with-skiprows-skipfooter-usecols-index-col-and-header-fbf67a2f92a)  
 
 答。txt 文件也可以使用。read_csv()函数使用以下语法:
 
@@ -538,11 +530,7 @@ df.groupby(['nationality', 'league_rank'])['value_eur', 'wage_eur'].agg([np.mean
 
 使用“分组依据”功能，您可以做更多的事情。我这里有一篇详细的文章:
 
-[](/efficient-data-summarizing-and-analysis-using-pandas-groupby-function-7b2cc9eff186) [## 使用 Pandas 的 Groupby 功能进行有效的数据汇总和分析
-
-### 学习使用聚合函数，数据转换，过滤，映射，在数据框架中应用
-
-towardsdatascience.com](/efficient-data-summarizing-and-analysis-using-pandas-groupby-function-7b2cc9eff186) 
+[](/efficient-data-summarizing-and-analysis-using-pandas-groupby-function-7b2cc9eff186)  
 
 ## 22.。pct_change()
 
@@ -760,11 +748,7 @@ Name: value_eur, dtype: int64
 
 我有一篇关于使用 cut 和 qcut 方法的数据宁滨的详细文章。请随意看一看:
 
-[](/sort-and-segment-your-data-into-bins-to-get-sorted-ranges-pandas-cut-and-qcut-7785931bbfde) [## 数据宁滨与熊猫削减或 Qcut 方法
-
-### 当你在寻找一个范围而不是一个确切的数值，一个等级而不是一个分数
-
-towardsdatascience.com](/sort-and-segment-your-data-into-bins-to-get-sorted-ranges-pandas-cut-and-qcut-7785931bbfde) 
+[](/sort-and-segment-your-data-into-bins-to-get-sorted-ranges-pandas-cut-and-qcut-7785931bbfde)  
 
 ## 28.df['']。描述()
 
@@ -845,11 +829,7 @@ df1.explode(jupyter notebook
 
 Python 的熊猫库好大。功能那么多。我选择一些日常生活中的重要功能。如果您非常了解这些，您将能够成功地执行大多数分析任务。熊猫还有一个非常有用的功能，我在这里没有提到。plot()函数。你只能用熊猫来绘图。熊猫在后端使用 Matplotlib，为你返回剧情。我这里有一个详细的教程:
 
-[](/an-ultimate-cheat-sheet-for-data-visualization-in-pandas-f7bc239c9937) [## 熊猫数据可视化的终极备忘单
-
-### 熊猫所有的基本视觉类型和一些非常高级的视觉…
-
-towardsdatascience.com](/an-ultimate-cheat-sheet-for-data-visualization-in-pandas-f7bc239c9937) 
+[](/an-ultimate-cheat-sheet-for-data-visualization-in-pandas-f7bc239c9937)  
 
 希望这篇文章是有帮助的。
 
@@ -857,20 +837,4 @@ towardsdatascience.com](/an-ultimate-cheat-sheet-for-data-visualization-in-panda
 
 ## 更多阅读
 
-[](/exploratory-data-analysis-with-some-cool-visualizations-in-pythons-matplotlib-and-seaborn-library-99dde20d98bf) [## 利用 Python 的 Matplotlib 和 Seaborn 库中一些很酷的可视化工具进行探索性的数据分析
-
-### 探索国际足联数据集
-
-towardsdatascience.com](/exploratory-data-analysis-with-some-cool-visualizations-in-pythons-matplotlib-and-seaborn-library-99dde20d98bf) [](/a-complete-anomaly-detection-algorithm-from-scratch-in-python-step-by-step-guide-4c115e65d54e) [## Python 中从头开始的完整异常检测算法:分步指南
-
-### 基于概率的异常检测算法
-
-towardsdatascience.com](/a-complete-anomaly-detection-algorithm-from-scratch-in-python-step-by-step-guide-4c115e65d54e) [](/all-the-datasets-you-need-to-practice-data-science-skills-and-make-a-great-portfolio-74f2eb53b38a) [## 练习数据科学技能和制作优秀投资组合所需的所有数据集
-
-### 大量不同种类的数据集
-
-towardsdatascience.com](/all-the-datasets-you-need-to-practice-data-science-skills-and-make-a-great-portfolio-74f2eb53b38a) [](https://pub.towardsai.net/a-complete-guide-to-confidence-interval-t-test-and-z-test-in-r-for-data-scientists-cd16dd2d0eec) [## 数据科学家置信区间、t 检验和 z 检验完全指南
-
-### 大量的实践练习
-
-pub.towardsai.net](https://pub.towardsai.net/a-complete-guide-to-confidence-interval-t-test-and-z-test-in-r-for-data-scientists-cd16dd2d0eec)*
+[](/exploratory-data-analysis-with-some-cool-visualizations-in-pythons-matplotlib-and-seaborn-library-99dde20d98bf)  [](/a-complete-anomaly-detection-algorithm-from-scratch-in-python-step-by-step-guide-4c115e65d54e)  [](/all-the-datasets-you-need-to-practice-data-science-skills-and-make-a-great-portfolio-74f2eb53b38a)  [](https://pub.towardsai.net/a-complete-guide-to-confidence-interval-t-test-and-z-test-in-r-for-data-scientists-cd16dd2d0eec) *

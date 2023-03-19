@@ -12,11 +12,7 @@
 
 该项目是关于使用无监督学习来区分 8 种不同类型的组织。这听起来可能不太难，但在组织病理学领域，组织和载玻片之间的差异有时甚至对于专业病理学家来说也很难区分。你可以在这里找到更多关于我的项目的信息:
 
-[](/unsupervised-pathology-whole-slide-image-slides-segmentation-34cd7a50ba6c) [## 无监督病理学整片图像切片分割
-
-### 一个解决繁琐的数字病理标记问题的 UCL 项目
-
-towardsdatascience.com](/unsupervised-pathology-whole-slide-image-slides-segmentation-34cd7a50ba6c) 
+[](/unsupervised-pathology-whole-slide-image-slides-segmentation-34cd7a50ba6c)  
 
 无论如何，本文的主要目的是强调我作为一名数据科学家初学者在实验过程中所犯的错误。在阅读了几个博客并与其他初级数据科学家交谈后，我开始注意到一个很容易避免的模式，我认为这非常值得分享。请注意，这是一个成熟的项目，需要 400 多个小时的工作，所以我犯了很多错误，也学到了很多东西！我也注意到很多人在 Kaggle 比赛中重复这些错误。事不宜迟，让我们开始吧:
 

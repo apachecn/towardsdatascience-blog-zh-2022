@@ -79,11 +79,7 @@
 
 并不是所有的问题都会受益于量子计算机，正如我在之前的帖子中所讨论的，机器学习与传统软件开发相比，并不是所有的问题都能得到更好的解决。
 
-[](https://ajay-shrestha.medium.com/machine-learning-vs-software-development-4b23cc182742) [## 机器学习 Vs 软件开发
-
-### 软件开发(SD)和机器学习(ML)的目标是提供特性和能力来满足…
-
-ajay-shrestha.medium.com](https://ajay-shrestha.medium.com/machine-learning-vs-software-development-4b23cc182742) 
+[](https://ajay-shrestha.medium.com/machine-learning-vs-software-development-4b23cc182742)  
 
 值得注意的是，目前量子计算机的使用仅限于特定的问题，包括一些 NP 难题，这需要在大的搜索空间中筛选。量子计算机已经在一些领域有所作为:
 

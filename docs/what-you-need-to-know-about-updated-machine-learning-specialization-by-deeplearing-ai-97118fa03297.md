@@ -22,11 +22,7 @@
 
 既然我已经采用了两个版本——原始版本和更新版本，在我的进一步推理中，我将依赖于本文中表达的论点(主要是在**与原始课程**部分的比较中)。所以，如果你想熟悉我最初的想法，我在下面分享我之前文章的链接。
 
-[](/what-you-need-to-know-before-taking-the-machine-learning-course-by-stanford-84fd7bf94628) [## 参加斯坦福大学的机器学习课程之前需要知道的事情
-
-### 机器学习课程由吴恩达&史丹福评论
-
-towardsdatascience.com](/what-you-need-to-know-before-taking-the-machine-learning-course-by-stanford-84fd7bf94628) 
+[](/what-you-need-to-know-before-taking-the-machine-learning-course-by-stanford-84fd7bf94628)  
 
 # 与原始课程的比较
 
@@ -156,11 +152,7 @@ towardsdatascience.com](/what-you-need-to-know-before-taking-the-machine-learnin
 
 # *参考*
 
-*[](https://www.coursera.org/specializations/machine-learning-introduction) [## 机器学习
-
-### 用机器学习专业化来突破 AI。掌握基本的人工智能概念并开发实用的机器学习…
-
-www.coursera.org](https://www.coursera.org/specializations/machine-learning-introduction)* 
+*[](https://www.coursera.org/specializations/machine-learning-introduction) * 
 
 # *感谢您的阅读！*
 

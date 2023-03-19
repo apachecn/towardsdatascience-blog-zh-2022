@@ -228,11 +228,7 @@ Shapley 值是博弈论中的一个概念，用于测量预测中某个要素实
 
 要访问使用 Xgboost 进行收入预测的完整代码并使用 SHAP 进行解释，请参考 GitHub [链接](https://github.com/charumakhijani/explainable-ai-shap)。
 
-[](https://github.com/charumakhijani/explainable-ai-shap) [## GitHub-charumakhijani/explable-ai-shap
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/charumakhijani/explainable-ai-shap) 
+[](https://github.com/charumakhijani/explainable-ai-shap)  
 
 谢谢你的阅读。如果你喜欢这个故事，请喜欢，分享和关注更多这样的内容。如往常一样，请联系我们以获得任何问题/评论/反馈。
 

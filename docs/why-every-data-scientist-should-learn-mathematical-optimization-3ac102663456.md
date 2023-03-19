@@ -61,14 +61,6 @@
 
 ## 有关系的
 
-[](/how-to-handle-optimization-problems-daf97b3c248c) [## 如何处理优化问题？
-
-### 带有解决方案和代码的简单示例。
-
-towardsdatascience.com](/how-to-handle-optimization-problems-daf97b3c248c) [](/taking-your-optimization-skills-to-the-next-level-de47a9c51167) [## 让您的优化技能更上一层楼
-
-### 软约束、线性化、多目标等等
-
-towardsdatascience.com](/taking-your-optimization-skills-to-the-next-level-de47a9c51167) 
+[](/how-to-handle-optimization-problems-daf97b3c248c)  [](/taking-your-optimization-skills-to-the-next-level-de47a9c51167)  
 
 *别忘了* [*订阅*](https://hennie-de-harder.medium.com/subscribe) *如果你想在我发表新文章时收到电子邮件。*

@@ -132,8 +132,4 @@ Docker secrets 是一种非常安全且易于使用的机密信息，一旦使�
 
 页（page 的缩写）学生:比如我正在做的事情？[跟我来](https://mikehuls.medium.com/membership)！
 
-[](https://mikehuls.medium.com/membership) [## 通过我的推荐链接加入 Medium—Mike Huls
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-mikehuls.medium.com](https://mikehuls.medium.com/membership)
+[](https://mikehuls.medium.com/membership) 

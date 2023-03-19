@@ -24,11 +24,7 @@
 
 以下代码在 Google Collab 中工作，用于加载模型和生成数据集。
 
-[](https://github.com/dcshapiro/seriously-a-repo-just-to-upload-one-file-for-an-article/blob/main/Moral_ML.ipynb) [## 严重的-一个回购-只是-上传-一个文件一篇文章/道德 _ML.ipynb 在主…
-
-github.com](https://github.com/dcshapiro/seriously-a-repo-just-to-upload-one-file-for-an-article/blob/main/Moral_ML.ipynb) 
-
-跨 3 个 LLM 生成的 180 个句子的数据集在这里保存到 [CSV。我很快地对数据集进行了注释，判断每一行生成的句子是有争议的、无意义的、真的还是假的。抱歉，如果我在这里或那里犯了错误。请记住，有些句子令人毛骨悚然，因为主题是道德推理。对于注释中的任何愚蠢的错误，我深表歉意。](https://github.com/dcshapiro/seriously-a-repo-just-to-upload-one-file-for-an-article/blob/main/morality-dataset-3.csv)
+[](https://github.com/dcshapiro/seriously-a-repo-just-to-upload-one-file-for-an-article/blob/main/Moral_ML.ipynb) 
 
 以下是为每个标签生成的句子示例，包括生成句子的模型:
 

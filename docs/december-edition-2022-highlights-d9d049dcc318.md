@@ -30,19 +30,7 @@ Francesco Bellelli 的一个灵感来自自然的帖子关注的是 T2 的沃罗
 
 我立刻对听图像的想法产生了兴趣，这也是[这篇关于 Pavle Marinkovic](https://medium.com/r?url=https%3A%2F%2Ftowardsdatascience.com%2Fsonification-when-you-go-beyond-the-visual-representation-of-data-cf6c7229a557) 的发音的文章的重点。它让我伸手去拿我最喜欢的照片来试一试。
 
-[](/do-neural-networks-dream-of-falling-snow-89b5036ae324) [## 神经网络会梦到落雪吗？
-
-### 发展基于深度学习雷达的降水反演
-
-towardsdatascience.com](/do-neural-networks-dream-of-falling-snow-89b5036ae324) [](/the-fascinating-world-of-voronoi-diagrams-da8fc700fa1b) [## Voronoi 图的迷人世界
-
-### 简单介绍这种普遍存在的模式及其应用
-
-towardsdatascience.com](/the-fascinating-world-of-voronoi-diagrams-da8fc700fa1b) [](/sonification-when-you-go-beyond-the-visual-representation-of-data-cf6c7229a557) [## 发音——当你超越了数据的视觉表现
-
-### 以声音为指导，交流和寻找模式
-
-towardsdatascience.com](/sonification-when-you-go-beyond-the-visual-representation-of-data-cf6c7229a557) 
+[](/do-neural-networks-dream-of-falling-snow-89b5036ae324)  [](/the-fascinating-world-of-voronoi-diagrams-da8fc700fa1b)  [](/sonification-when-you-go-beyond-the-visual-representation-of-data-cf6c7229a557)  
 
 ## 编辑凯特琳·金迪格
 
@@ -52,19 +40,7 @@ towardsdatascience.com](/sonification-when-you-go-beyond-the-visual-representati
 
 同样关于数据表示的主题是 [Monica P.](https://medium.com/u/5c19510969d1?source=post_page-----d9d049dcc318--------------------------------) 关于机器学习的成功和失败的帖子，特别是计算机视觉，以及拥有大型和多样化数据集的必要性[以便解决每天使用技术的人的肤色](/computer-vision-and-melanin-a-dei-case-study-df4a6f304a01)。莫妮卡给读者留下了我至今仍在思考的问题:除了增加训练数据，我们如何才能确保我们生活中使用的算法是合乎道德和负责任的？即使这项技术是可行的，我们还应该利用它吗？使用或不使用它的含义是什么？
 
-[](/garbage-route-optimization-using-computer-vision-object-detection-17a217d5582d) [## 使用计算机视觉目标检测的垃圾路线优化
-
-### 由我 10 岁的女儿伊莎贝拉合著，她的科学展项目变成了她的第一台动手机器…
-
-towardsdatascience.com](/garbage-route-optimization-using-computer-vision-object-detection-17a217d5582d) [](/the-inequality-in-the-data-science-industry-937992032851) [## 数据科学行业的不平等
-
-### 过去，数据科学作为一门学科在公众意识中受到了越来越多的关注…
-
-towardsdatascience.com](/the-inequality-in-the-data-science-industry-937992032851) [](/computer-vision-and-melanin-a-dei-case-study-df4a6f304a01) [## 计算机视觉和黑色素，DEI 案例研究
-
-### 为了纪念黑人历史月，我想写一写机器学习中的进步和错误，特别是计算机…
-
-towardsdatascience.com](/computer-vision-and-melanin-a-dei-case-study-df4a6f304a01) 
+[](/garbage-route-optimization-using-computer-vision-object-detection-17a217d5582d)  [](/the-inequality-in-the-data-science-industry-937992032851)  [](/computer-vision-and-melanin-a-dei-case-study-df4a6f304a01)  
 
 ## [卢多维克·贝尼斯坦特](https://medium.com/u/895063a310f4?source=post_page-----d9d049dcc318--------------------------------)，编辑
 
@@ -72,39 +48,19 @@ towardsdatascience.com](/computer-vision-and-melanin-a-dei-case-study-df4a6f304a
 
 [在本文](/is-my-model-really-better-560e729f81d2)，[中，塞缪尔·弗莱德](https://medium.com/u/ce56d9dcd568?source=post_page-----d9d049dcc318--------------------------------)探讨了为什么理论上看起来不错的模型一旦投入生产就不一定表现良好。致力于为新闻分类建立机器学习模型， [Ria Cheruvu](https://medium.com/u/bf5f2e19aa9a?source=post_page-----d9d049dcc318--------------------------------) 写了关于[复合人工智能系统](/the-case-for-composite-systems-11632220ffa8)的文章。最后，[高](https://medium.com/u/2adc5a07e772?source=post_page-----d9d049dcc318--------------------------------)分享了她在[两年时间里撰写的关于 Medium 和 TDS 的技术文章](/my-technical-writing-journey-14ea1ca18e79)的见解。
 
-[](/is-my-model-really-better-560e729f81d2) [## 我的模型真的更好吗？
-
-### 为什么理论上看起来不错的 ML 模型不能保证在生产中很好地工作
-
-towardsdatascience.com](/is-my-model-really-better-560e729f81d2) [](/the-case-for-composite-systems-11632220ffa8) [## 复合系统的案例
-
-### AI 系统一起更强吗？
-
-towardsdatascience.com](/the-case-for-composite-systems-11632220ffa8) [](/my-technical-writing-journey-14ea1ca18e79) [## 我的技术写作之旅
-
-### 一切都从问自己一个问题开始
-
-towardsdatascience.com](/my-technical-writing-journey-14ea1ca18e79) 
+[](/is-my-model-really-better-560e729f81d2)  [](/the-case-for-composite-systems-11632220ffa8)  [](/my-technical-writing-journey-14ea1ca18e79)  
 
 ## Sara A. Metwalli ，志愿编辑助理
 
 教育是建设美好未来的一个重要方面。让教育更上一层楼的方法之一是利用我们今天拥有的技术。这篇文章由 [Sanjay Adhikesaven](https://medium.com/u/4d6b4b817b73?source=post_page-----d9d049dcc318--------------------------------) 、 [Abyan Das](https://medium.com/u/fb1577cb212b?source=post_page-----d9d049dcc318--------------------------------) 和 [Monish Muralicharan](https://medium.com/u/3ea3355bd7dc?source=post_page-----d9d049dcc318--------------------------------) 合著，以一种极好的方式[解释了人工智能如何被用来改变我们今天对教育的看法](/artificial-intelligence-is-transforming-modern-education-d95bf8d19acd)，以及它如何在未来带来更好、更容易获得的学习方法。
 
-[](/artificial-intelligence-is-transforming-modern-education-d95bf8d19acd) [## 人工智能正在改变现代教育
-
-### 一篇关于人工智能如何在今天的课堂上使用的评论文章，以及关于前进道路的讨论。
-
-towardsdatascience.com](/artificial-intelligence-is-transforming-modern-education-d95bf8d19acd) 
+[](/artificial-intelligence-is-transforming-modern-education-d95bf8d19acd)  
 
 ## 志愿者编辑助理卡洛斯·穆根
 
 我真的很喜欢[玛格丽特·米歇尔 TDS 播客](/practical-ai-ethics-639013a782a3)那一集，由[杰瑞米·哈里斯](https://medium.com/u/59564831d1eb?source=post_page-----d9d049dcc318--------------------------------)主持，在那里她介绍了一个伦理人工智能的新概念，“分形公平”:人工智能歧视/不平等在人口和亚人口的每一级分辨率中都不断浮出水面。这为我们的研究提供了一个新的视角，关于编码分类保护属性的公平含义(即将出现在 TDS 中！).
 
-[](/practical-ai-ethics-639013a782a3) [## (实用)人工智能伦理
-
-### 玛格丽特·米歇尔谈人工智能最大的挑战公平和偏见
-
-towardsdatascience.com](/practical-ai-ethics-639013a782a3) 
+[](/practical-ai-ethics-639013a782a3)  
 
 ## [本·胡伯尔曼](https://medium.com/u/e6ad8abedec9?source=post_page-----d9d049dcc318--------------------------------)，主编
 
@@ -116,27 +72,7 @@ towardsdatascience.com](/practical-ai-ethics-639013a782a3)
 
 除了崇高的人工智能问题，我总是对关注我们日常生活中一些怪异或古怪方面的文章情有独钟。作为一个额外的选择，我也衷心推荐 [LeAnne Chan](https://medium.com/u/3984a193c444?source=post_page-----d9d049dcc318--------------------------------) 关于[博弈论的有趣帖子，以及它可能如何塑造我们选择的超市队列](/the-game-theory-of-queuing-bd1095998c42)。
 
-[](/computational-creativity-6a5d77b3ed12) [## 计算创造力
-
-### 在建筑计算工具中集成横向思维的人工智能实验管道
-
-towardsdatascience.com](/computational-creativity-6a5d77b3ed12) [](/lessons-learned-from-making-an-ai-opera-6b188c3094cf) [## 制作人工智能歌剧的经验教训
-
-### 在开始你的下一个歌唱声音合成项目之前，请阅读这篇文章
-
-towardsdatascience.com](/lessons-learned-from-making-an-ai-opera-6b188c3094cf) [](/attribution-425f7ade46b0) [## 生成人工智能的归因问题
-
-### 因为人类的文字/艺术也有来源，所以任何公开的文字/艺术数据对商业模式来说都是公平的游戏吗？
-
-towardsdatascience.com](/attribution-425f7ade46b0) [](/towards-sustainable-generative-ai-revolution-a9786de586cb) [## 走向可持续的生成人工智能革命
-
-### 直面成长的烦恼|如何驾驭超级潜意识的狂野新时代
-
-towardsdatascience.com](/towards-sustainable-generative-ai-revolution-a9786de586cb) [](/the-game-theory-of-queuing-bd1095998c42) [## 超市排队的博弈论
-
-### 我们如何最大限度地减少排队时间？博弈论与我们日常生活中的决策。
-
-towardsdatascience.com](/the-game-theory-of-queuing-bd1095998c42) 
+[](/computational-creativity-6a5d77b3ed12)  [](/lessons-learned-from-making-an-ai-opera-6b188c3094cf)  [](/attribution-425f7ade46b0)  [](/towards-sustainable-generative-ai-revolution-a9786de586cb)  [](/the-game-theory-of-queuing-bd1095998c42)  
 
 当我们庆祝 2022 年的伟大文章时，让我们最后看一下过去一个月的亮点。
 

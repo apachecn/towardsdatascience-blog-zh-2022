@@ -54,11 +54,7 @@
 
 让我们想当然地认为，我们有这样一个 PRNG，它产生这些随机数，这些随机数来自均匀分布。如果你对这些数字究竟是如何产生的感到好奇，那么我已经在这里写了一个解释器，但是对于这篇文章来说，说这样一个过程存在就足够了。
 
-[](/where-does-python-get-its-random-numbers-from-81dece23b712) [## python 的随机数是从哪里来的？
-
-towardsdatascience.com](/where-does-python-get-its-random-numbers-from-81dece23b712) 
-
-一旦我们有了这些均匀分布的数字，我们就需要一种方法来*将*转换成符合我们指定的 pdf 的数字(上面的蓝线)。为此，我们可以利用[以下定理](https://en.wikipedia.org/wiki/Probability_integral_transform)。事实证明，如果我们:
+[](/where-does-python-get-its-random-numbers-from-81dece23b712) 。事实证明，如果我们:
 
 *   从连续的概率分布中抽取一批数字
 *   获取所有这些样本的 cdf 值

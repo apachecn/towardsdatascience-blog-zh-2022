@@ -108,32 +108,4 @@ pip freeze > requirements.txt
 
 [](/python-best-practices-for-writing-industry-standard-code-66b848783e0b) [## 编写行业标准代码的 Python 最佳实践
 
-towardsdatascience.com](/python-best-practices-for-writing-industry-standard-code-66b848783e0b) [](https://www.tutorialsteacher.com/python/public-private-protected-modifiers) [## Python 中的公共、受保护、私有成员
-
-### 经典的面向对象语言，如 C++和 Java，通过公共的、私有的…
-
-www.tutorialsteacher.com](https://www.tutorialsteacher.com/python/public-private-protected-modifiers) [](https://stackoverflow.com/questions/9916878/importing-modules-in-python-best-practice) [## 在 Python 中导入模块-最佳实践
-
-### 我是 Python 的新手，因为我想扩展我用 R 学到的技能。
-
-stackoverflow.com](https://stackoverflow.com/questions/9916878/importing-modules-in-python-best-practice) [](https://github.com/psf/black) [## GitHub - psf/black:不妥协的 Python 代码格式化程序
-
-### “任何你喜欢的颜色。”Black 是不折不扣的 Python 代码格式化程序。使用它，您同意放弃对…的控制权
-
-github.com](https://github.com/psf/black) [](https://pypi.org/project/pylint/) [## 皮林特
-
-### Pylint 是 Python 2 或 3 的静态代码分析器。最新版本支持 Python 3.7.2 及以上版本。皮林特分析…
-
-pypi.org](https://pypi.org/project/pylint/)  [## 单元测试-单元测试框架- Python 3.10.5 文档
-
-### 源代码:Lib/unittest/__init__。py(如果你已经熟悉了测试的基本概念，你可能想…
-
-docs.python.org](https://docs.python.org/3/library/unittest.html)  [## 日志记录-Python-Python 3 . 10 . 5 文档的日志记录工具
-
-### 源代码:Lib/logging/__init__。py 这个模块定义了实现灵活事件记录的函数和类…
-
-docs.python.org](https://docs.python.org/3/library/logging.html) [](https://learnpython.com/blog/python-requirements-file/) [## Python 需求文件以及如何创建它
-
-### Python 需求文件是跟踪 Python 模块的好方法。这是一个简单的文本文件，保存一个…
-
-learnpython.com](https://learnpython.com/blog/python-requirements-file/)
+towardsdatascience.com](/python-best-practices-for-writing-industry-standard-code-66b848783e0b) [](https://www.tutorialsteacher.com/python/public-private-protected-modifiers)  [](https://stackoverflow.com/questions/9916878/importing-modules-in-python-best-practice)  [](https://github.com/psf/black)  [](https://pypi.org/project/pylint/)      [](https://learnpython.com/blog/python-requirements-file/) 

@@ -109,11 +109,7 @@ new_df = (                          # Wrap everything in ()'s
 
 *如果您想了解最新的数据科学趋势、技术和软件包，请考虑成为中级会员。你将可以无限制地访问像《走向数据科学》这样的文章和博客，并且你会支持我的写作。(每个会员我赚一小笔佣金)。*
 
-[](https://medium.com/@mary.newhauser/membership) [## 通过我的推荐链接加入媒体-玛丽·纽豪斯
-
-### 阅读玛丽·纽豪斯(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-medium.com](https://medium.com/@mary.newhauser/membership) 
+[](https://medium.com/@mary.newhauser/membership)  
 
 # 想要连接吗？
 

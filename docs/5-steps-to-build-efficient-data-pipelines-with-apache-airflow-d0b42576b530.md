@@ -160,28 +160,12 @@ BashOperator 使用的 bash 脚本如下:
 
 # 参考
 
-[](https://airflow.apache.org/) [## 主页
-
-### 没有更多的命令行或 XML 魔术！使用标准 Python 功能创建工作流，包括日期时间…
-
-airflow.apache.org](https://airflow.apache.org/)  [## 阿帕奇-气流-供应商-亚马逊-阿帕奇-气流-供应商-亚马逊文档
-
-### 这是提供者的提供者套件。此提供程序包的所有类都在 airflow.providers.amazon python 中…
-
-airflow.apache.org](https://airflow.apache.org/docs/apache-airflow-providers-amazon/stable/index.html) 
+[](https://airflow.apache.org/)    
 
 # 阅读其他数据博客
 
- [## 索引—链接到我的所有博客
-
-### 这篇文章只是为了方便访问我过去写的博客。不同领域的博客会…
-
-vachan15.medium.com](https://vachan15.medium.com/index-link-to-all-my-blogs-98efca323fa8) 
+  
 
 # 在 Linkedin 上连接:
 
-[](https://www.linkedin.com/in/vachan-anand-26bb76b7/) [## Vachan Anand -顾问- Servian | LinkedIn
-
-### 一家非盈利机构的创始人，具有金融服务行业的工作经历。熟练 HTML…
-
-www.linkedin.com](https://www.linkedin.com/in/vachan-anand-26bb76b7/)
+[](https://www.linkedin.com/in/vachan-anand-26bb76b7/) 

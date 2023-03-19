@@ -190,19 +190,7 @@ The mean patient time in the system across all runs was 110.1 minutes
 
 GitHub 回购:
 
-[](https://github.com/hsma5/3a_introduction_to_discrete_event_simulation) [## GitHub-hsma 5/3a _ 简介 _ 离散 _ 事件 _ 模拟
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/hsma5/3a_introduction_to_discrete_event_simulation) [](https://github.com/hsma5/3b_simpy_part_1) [## GitHub - hsma5/3b_simpy_part_1
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/hsma5/3b_simpy_part_1) [](https://github.com/hsma5/3c_simpy_part_2) [## GitHub - hsma5/3c_simpy_part_2
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/hsma5/3c_simpy_part_2) 
+[](https://github.com/hsma5/3a_introduction_to_discrete_event_simulation)  [](https://github.com/hsma5/3b_simpy_part_1)  [](https://github.com/hsma5/3c_simpy_part_2)  
 
 也有一些 YouTube 视频可用:
 [https://www . YouTube . com/channel/uccy 9 _ gxg 6km-xjk 9 vv0 mziq/videos](https://www.youtube.com/channel/UCCY9_Gxg6kM-xjk9vV0mzIQ/videos)

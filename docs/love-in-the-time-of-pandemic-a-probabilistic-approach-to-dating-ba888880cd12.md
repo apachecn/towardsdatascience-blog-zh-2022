@@ -10,11 +10,7 @@
 
 回到 2019 年，我写了一篇关于最优停止理论及其在约会中的应用的文章。
 
-[](/probability-theory-and-the-optimal-dating-strategy-for-2018-2b75b26fb0b) [## 用概率论寻找 2019 年的最佳约会策略
-
-### 了解一些统计理论如何让找到如意郎君变得稍微容易一点？
-
-towardsdatascience.com](/probability-theory-and-the-optimal-dating-strategy-for-2018-2b75b26fb0b) 
+[](/probability-theory-and-the-optimal-dating-strategy-for-2018-2b75b26fb0b)  
 
 对于充满希望的浪漫主义者来说，这个教训很简单:为了最大化你找到最佳伴侣的机会，你应该*去了解但不要把自己托付给你将遇到的第一批* 37%的人(你认为)中的任何一个，然后立即满足于第一个比你之前见过的人更好的**人。这样做将保证你有 37%的机会找到数学上命中注定的那一个。**
 

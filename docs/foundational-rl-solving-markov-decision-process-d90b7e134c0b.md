@@ -10,11 +10,7 @@
 
 在[的第一部分](/foundational-rl-markov-states-markov-chain-and-markov-decision-process-be8ccc341005)中，我讨论了一些基本概念来为强化学习(RL)建立基础，如马尔可夫状态、马尔可夫链和马尔可夫决策过程(MDP)。强化学习问题是建立在 MDP 之上的。
 
-[](/foundational-rl-markov-states-markov-chain-and-markov-decision-process-be8ccc341005) [## 基础 RL:马尔可夫状态、马尔可夫链和马尔可夫决策过程
-
-### 强化学习之路
-
-towardsdatascience.com](/foundational-rl-markov-states-markov-chain-and-markov-decision-process-be8ccc341005) 
+[](/foundational-rl-markov-states-markov-chain-and-markov-decision-process-be8ccc341005)  
 
 MDP 是一个 4 元组模型(𝓢、𝓐、𝓟、𝓡)，其中 *s* ∈ 𝓢是一个状态， *a* ∈ 𝓐是当代理是一个状态 *s* 时采取的一个动作，𝓟*(s“| s，a)* 是在动作 *a* 的影响下从 *s* 转移到状态*s’*的转移概率矩阵(或者
 

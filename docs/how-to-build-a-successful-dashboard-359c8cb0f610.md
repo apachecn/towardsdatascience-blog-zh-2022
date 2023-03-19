@@ -86,16 +86,4 @@
 
 如果你觉得“有趣”,可以看看我的其他文章:
 
-[](/one-simple-methodology-to-turn-a-subjective-concept-into-an-objective-metric-14943cf6fb95) [## 一种将主观概念转化为客观指标的简单方法
-
-### 利用组织中的专家来创造一个真实的来源，并针对它训练一个模型
-
-towardsdatascience.com](/one-simple-methodology-to-turn-a-subjective-concept-into-an-objective-metric-14943cf6fb95) [](/7-tips-to-avoid-public-embarrassment-as-a-data-analyst-caec8f701e42) [## 让您的数据分析更加稳健的 7 个技巧
-
-### 增强对结果的信心，建立更强大的个人品牌
-
-towardsdatascience.com](/7-tips-to-avoid-public-embarrassment-as-a-data-analyst-caec8f701e42) [](/how-to-choose-which-data-projects-to-work-on-c6b8310ac04e) [## 如何选择要处理的数据项目
-
-### 如果你有一个合理利用时间的方法，你可以优化你创造的价值
-
-towardsdatascience.com](/how-to-choose-which-data-projects-to-work-on-c6b8310ac04e)
+[](/one-simple-methodology-to-turn-a-subjective-concept-into-an-objective-metric-14943cf6fb95)  [](/7-tips-to-avoid-public-embarrassment-as-a-data-analyst-caec8f701e42)  [](/how-to-choose-which-data-projects-to-work-on-c6b8310ac04e) 

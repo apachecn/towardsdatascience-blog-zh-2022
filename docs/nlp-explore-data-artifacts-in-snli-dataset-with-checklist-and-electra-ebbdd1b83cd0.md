@@ -180,11 +180,7 @@ python3 run_hypothesis_premise.py --do_eval --task nli --dataset snli --model ./
 
 请随意使用本文的源代码:
 
-[](https://github.com/cmphan/SNLI_ELECTRA_CheckList) [## GitHub-cm phan/SNLI _ ELECTRA _ 清单
-
-### CS388 中的项目:德州大学奥斯汀分校 Greg Durrett 教授的自然语言处理课程你需要 Python >= 3.6 才能运行…
-
-github.com](https://github.com/cmphan/SNLI_ELECTRA_CheckList) 
+[](https://github.com/cmphan/SNLI_ELECTRA_CheckList)  
 
 参考文章/研究论文:
 

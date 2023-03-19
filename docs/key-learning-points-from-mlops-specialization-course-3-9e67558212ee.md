@@ -253,23 +253,11 @@
 
 **准备好了吗？点击此处查看下一期课程总结:**
 
-**[](/key-learning-points-from-mlops-specialization-course-4-ee39bbd2864b) [## MLOps 专业化认证的关键学习点—课程 4
-
-### 来自面向生产的机器学习工程(MLOps)课程的主要见解(附课堂讲稿)
-
-towardsdatascience.com](/key-learning-points-from-mlops-specialization-course-4-ee39bbd2864b) 
+**[](/key-learning-points-from-mlops-specialization-course-4-ee39bbd2864b)  
 
 您可以在此处找到前两个课程的总结:
 
-[](/key-learning-points-from-mlops-specialization-course-deeplearning-ai-andrew-ng-5d0746605752) [## MLOps 专业化认证的关键学习点—课程 1
-
-### 面向生产的机器学习工程课程 1 的主要内容
-
-towardsdatascience.com](/key-learning-points-from-mlops-specialization-course-deeplearning-ai-andrew-ng-5d0746605752) [](/key-learning-points-from-mlops-specialization-course-2-13af51e22d90) [## MLOps 专业化认证的关键学习点—课程 2
-
-### 面向生产的机器学习工程课程的见解摘要
-
-towardsdatascience.com](/key-learning-points-from-mlops-specialization-course-2-13af51e22d90) 
+[](/key-learning-points-from-mlops-specialization-course-deeplearning-ai-andrew-ng-5d0746605752)  [](/key-learning-points-from-mlops-specialization-course-2-13af51e22d90)  
 
 # 在你走之前
 

@@ -32,19 +32,7 @@
 
 …如果你对因果推理感兴趣，这是本系列的其他文章-
 
-[](/how-to-generate-synthetic-data-for-any-causal-inference-project-in-less-than-10-lines-of-code-158688a89349) [## 如何用不到 10 行代码为任何因果推理项目生成合成数据
-
-### 如果 99%的人接种了疫苗，1%的人出现反应，2%的人得病，你如何生成有代表性的合成数据？
-
-towardsdatascience.com](/how-to-generate-synthetic-data-for-any-causal-inference-project-in-less-than-10-lines-of-code-158688a89349) [](/a-simple-explanation-of-causal-inference-in-python-357509506f31) [## Python 中因果推理的简单解释
-
-### 关于如何用 Python 构建端到端因果推理模型的直白解释
-
-towardsdatascience.com](/a-simple-explanation-of-causal-inference-in-python-357509506f31) [](/how-to-visualise-causal-inference-models-with-interactive-directed-acyclic-graphs-8dd648a64915) [## 如何用交互式有向无环图可视化因果推理模型
-
-### 如何生成交互式有向无环图，以可视化和理解因果推理模型在一行…
-
-towardsdatascience.com](/how-to-visualise-causal-inference-models-with-interactive-directed-acyclic-graphs-8dd648a64915) 
+[](/how-to-generate-synthetic-data-for-any-causal-inference-project-in-less-than-10-lines-of-code-158688a89349)  [](/a-simple-explanation-of-causal-inference-in-python-357509506f31)  [](/how-to-visualise-causal-inference-models-with-interactive-directed-acyclic-graphs-8dd648a64915)  
 
 # 因果推理模型的快速复习
 
@@ -138,11 +126,7 @@ towardsdatascience.com](/how-to-visualise-causal-inference-models-with-interacti
 
 作者图片
 
-[](https://www.amazon.co.uk/Book-Why-Science-Cause-Effect/dp/0141982411) [## 为什么之书:因果的新科学(企鹅科学)
-
-### 购买由珀尔，朱迪亚，麦肯齐，达纳(ISBN…
-
-www.amazon.co.uk](https://www.amazon.co.uk/Book-Why-Science-Cause-Effect/dp/0141982411) 
+[](https://www.amazon.co.uk/Book-Why-Science-Cause-Effect/dp/0141982411)  
 
 ## 一个更好的解决方案…
 
@@ -196,11 +180,7 @@ www.amazon.co.uk](https://www.amazon.co.uk/Book-Why-Science-Cause-Effect/dp/0141
 
 [通过我的推荐链接](https://grahamharrison-86487.medium.com/membership)加入 Medium(如果你使用此链接注册，我将收取一定比例的费用)。
 
-[](https://grahamharrison-86487.medium.com/membership) [## 通过我的推荐链接加入媒体-格雷厄姆哈里森
-
-### 阅读格雷厄姆·哈里森(以及媒体上成千上万的其他作家)的每一个故事。增强您的数据知识…
-
-grahamharrison-86487.medium.com](https://grahamharrison-86487.medium.com/membership) 
+[](https://grahamharrison-86487.medium.com/membership)  
 
 [每当我发表新故事](https://grahamharrison-86487.medium.com/subscribe)时，订阅一封免费电子邮件。
 

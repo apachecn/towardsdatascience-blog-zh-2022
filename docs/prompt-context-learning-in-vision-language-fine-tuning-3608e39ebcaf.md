@@ -16,11 +16,7 @@
 
 视觉语言模型已经在计算机视觉领域产生了影响。通过图像-文本对之间的对齐学习，训练的图像编码器能够具有少量/零镜头学习能力，这可以以数据有效的方式实现快速模型适应。感兴趣的读者可以参考我以前的文章，了解视觉语言模型和剪辑的一般介绍:
 
-[](/contrastive-pre-training-of-visual-language-models-848dd94c881b) [## 视觉语言模型的对比预训练
-
-### 对比视角下充分利用监督信号
-
-towardsdatascience.com](/contrastive-pre-training-of-visual-language-models-848dd94c881b) 
+[](/contrastive-pre-training-of-visual-language-models-848dd94c881b)  
 
 在下游视觉任务中仅利用图像编码器的缺点是来自文本编码器的提示信息被放弃。文本编码器提供即时嵌入，这有助于下游视觉任务的性能。因此，通过在下游任务的微调中协作两个编码器，我们可以研究图像-文本嵌入之间的交互，并理解它们在有效的模型适应中的有效性。
 
@@ -76,11 +72,7 @@ CoOp 是最早的即时上下文学习架构。CoOp 和 CLIP 之间唯一区别�
 
 **要学习的参数是 transformer 解码器中的提示上下文向量和交叉注意模块。与(Co)CoOp 和 CLIP 中文本嵌入与图像级嵌入对齐不同，DenseCLIP 中的文本嵌入与像素级嵌入交叉参与。通过这种细粒度的调节，DenseCLIP 学习到的**提示上下文涉及像素级的关联性信息和相应的 2D 图像嵌入**，这有助于提高下游密集任务的性能。这种密集对齐学习也在另一个分支工作中进行研究，称为*视觉语言模型的对象级预训练*，这种训练更加复杂和棘手。我还有一篇文章详细阐述了这个话题:**
 
-**[](https://ai.plainenglish.io/object-level-vision-language-contrastive-pre-training-8f0552b4b109) [## 目标级视觉语言对比预训练
-
-### 用于在没有人工注释的情况下对齐对象级视觉和语言特征的显式和隐式方法
-
-ai .平原英语. io](https://ai.plainenglish.io/object-level-vision-language-contrastive-pre-training-8f0552b4b109) 
+**[](https://ai.plainenglish.io/object-level-vision-language-contrastive-pre-training-8f0552b4b109)  
 
 由于在文本编码之后，文本嵌入与嵌入空间中的图像嵌入是交叉参与的，所以在推断期间，文本嵌入可以被保留，而无需从文本编码器进行推断。这不同于 CoCoOp，在 CoCoOp 中，提示标记在文本编码器之前与图像嵌入相加，因此在推断期间不能省略计算。
 
@@ -138,8 +130,4 @@ V-VL 是 I-VL 的一个高效和轻量级的适应，特别是对于视频中的
 
 [促进高效视频理解的视觉语言模型，2022 年](https://arxiv.org/pdf/2112.04478.pdf)
 
-[](https://dushuchen.medium.com/membership) [## 加入我的介绍链接-陈数杜媒体
-
-### 阅读陈数·杜(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-dushuchen.medium.com](https://dushuchen.medium.com/membership)**
+[](https://dushuchen.medium.com/membership) **

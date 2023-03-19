@@ -24,23 +24,7 @@
 
 我将很快进入我的聊天机器人的 GPT-3 模块，而在这里我将开发通过问题/答案匹配工作的模块。如果你非常好奇，迫不及待地想看我描述该机器人的 GPT-3 模块的文章，让我在这里与你分享我写的一些关于 GPT-3 的文章，你会发现一些消极和积极的观点，加上相当多的代码和说明，让你用这项技术进行自己的测试:
 
-[](/custom-informed-gpt-3-models-for-your-website-with-very-simple-code-47134b25620b) [## 用非常简单的代码为你的网站构建定制的基于 GPT 3 的聊天机器人
-
-### 了解 GPT-3，PHP 和 JavaScript，因为你建立了一个在线 GPT-3 为基础的聊天机器人专门在一个给定的主题，你…
-
-towardsdatascience.com](/custom-informed-gpt-3-models-for-your-website-with-very-simple-code-47134b25620b) [](/devising-tests-to-measure-gpt-3s-knowledge-of-the-basic-sciences-4bbfcde8286b) [## 设计测试来衡量 GPT-3 的基础科学知识
-
-### 学生可以从 OpenAI 的最新语言模型中学习并将其用作全天候顾问吗？学生可以用它来…
-
-towardsdatascience.com](/devising-tests-to-measure-gpt-3s-knowledge-of-the-basic-sciences-4bbfcde8286b) [](/testing-gpt-3-on-elementary-physics-unveils-some-important-problems-9d2a2e120280) [## 在基础物理上测试 GPT-3 揭示了一些重要的问题
-
-### 该软件似乎是可靠的咨询理论概念，但不是他们的应用，与潜在的…
-
-towardsdatascience.com](/testing-gpt-3-on-elementary-physics-unveils-some-important-problems-9d2a2e120280) [](/gpt-3-like-models-with-extended-training-could-be-the-future-24-7-tutors-for-biology-students-904d2ae7986a) [## 经过长期训练的类似 GPT 3 的模特可能成为未来生物学生的全天候导师
-
-### 尽管其他科目的成绩相当令人沮丧，但 GPT-3 在生物方面表现相当好，如果它…
-
-towardsdatascience.com](/gpt-3-like-models-with-extended-training-could-be-the-future-24-7-tutors-for-biology-students-904d2ae7986a) 
+[](/custom-informed-gpt-3-models-for-your-website-with-very-simple-code-47134b25620b)  [](/devising-tests-to-measure-gpt-3s-knowledge-of-the-basic-sciences-4bbfcde8286b)  [](/testing-gpt-3-on-elementary-physics-unveils-some-important-problems-9d2a2e120280)  [](/gpt-3-like-models-with-extended-training-could-be-the-future-24-7-tutors-for-biology-students-904d2ae7986a)  
 
 请相信，我会很快回到 GPT 3 号，因为它为我网站的聊天机器人大脑的第二个轨道供电。
 
@@ -80,11 +64,7 @@ towardsdatascience.com](/gpt-3-like-models-with-extended-training-could-be-the-f
 
 这是我用的微软的数据库。如您所见，支持不同的语言和个性风格:
 
-[](https://github.com/microsoft/botframework-cli/tree/main/packages/qnamaker/docs/qnaFormat) [## 主 microsoft/botframework-cli 上的 bot framework-CLI/packages/qna maker/docs/qna format
-
-### Microsoft Bot 框架的 CLI 工具。通过创建帐户，为 microsoft/botframework-cli 开发做出贡献…
-
-github.com](https://github.com/microsoft/botframework-cli/tree/main/packages/qnamaker/docs/qnaFormat) 
+[](https://github.com/microsoft/botframework-cli/tree/main/packages/qnamaker/docs/qnaFormat)  
 
 我实际上改变了这个文件的形状，在同一行中有问答对，这使得添加更多条目更加容易。对于许多问题，我会给出多个可能的答案，这样当访问者重复一个问题或问两个非常相似的问题时，机器人不会总是重复自己。
 
@@ -132,11 +112,7 @@ hello||good morning||good evening||good night||whats up||wasup||whasup##***##***
 
 我从[苏曼·库瓦尔](https://medium.com/u/441ad3d43398?source=post_page-----65df0d8c999d--------------------------------)的这篇优秀文章中提取了这些函数，这篇文章已经用 JavaScript 提供了它们:
 
-[](https://sumn2u.medium.com/string-similarity-comparision-in-js-with-examples-4bae35f13968) [## JS 中字符串相似度的比较及实例
-
-### 在本文中，我们将讨论字符串匹配中使用的不同类型的算法，并确定如何…
-
-sumn2u.medium.com](https://sumn2u.medium.com/string-similarity-comparision-in-js-with-examples-4bae35f13968) 
+[](https://sumn2u.medium.com/string-similarity-comparision-in-js-with-examples-4bae35f13968)  
 
 事实上，本文描述了 4 个字符串比较函数(并给出了代码)。但是由于上面给出的原因，我只选择了 Jaro-Wrinkler 和文本余弦。事实证明，它们对我来说效果很好——尽管不，它们不是绝对正确的。
 

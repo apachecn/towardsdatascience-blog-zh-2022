@@ -120,11 +120,7 @@ tree.search({
 
 **该项目的代码可在 `(__main__.py)`找到:**
 
-**[](https://github.com/wolfiex/ONSAreaFinder) [## GitHub-wolf iex/onsaraefinder:点击一个位置，获取相关的区号。
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/wolfiex/ONSAreaFinder) 
+**[](https://github.com/wolfiex/ONSAreaFinder)  
 
 “docs”目录下的 web 应用程序`(index.js).`
 

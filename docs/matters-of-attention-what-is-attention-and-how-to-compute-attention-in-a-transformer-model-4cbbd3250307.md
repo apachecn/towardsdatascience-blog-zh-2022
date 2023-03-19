@@ -88,27 +88,15 @@
 
 ****代码请点击链接:****
 
-**[](https://github.com/azad-academy/transformer-attention) [## GitHub-Azad-academy/transformer-attention:A…
-
-### 在 Google Colab 或本地 jupyter 服务器上打开笔记本，安装要求，必要时重启内核…
-
-github.com](https://github.com/azad-academy/transformer-attention) 
+**[](https://github.com/azad-academy/transformer-attention)  
 
 **在 Patreon 上支持我:**
 
-[](https://patreon.com/azadlab) [## J. Rafid Siddiqui 博士正在创建关于 AI/ML/DL(Medium/Substack/Youtube)|…
-
-### 今天就成为 J. Rafid Siddiqui 博士的赞助人:在世界上最大的…
-
-patreon.com](https://patreon.com/azadlab) 
+[](https://patreon.com/azadlab)  
 
 **在子栈上找到我:**
 
-[](https://azadwolf.substack.com) [## Azad 学院
-
-### 深度学习、机器学习、计算机视觉和人工智能领域的学习场所…
-
-azadwolf.substack.com](https://azadwolf.substack.com) 
+[](https://azadwolf.substack.com)  
 
 **订阅更多:**
 

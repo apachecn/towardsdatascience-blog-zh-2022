@@ -95,10 +95,6 @@
 
 我希望这篇文章对你有帮助！如果你想看更多，你可以成为我的[](https://conorosullyds.medium.com/membership)****推荐会员来支持我。你可以访问 medium 上的所有文章，我可以得到你的部分费用。****
 
-**[](https://conorosullyds.medium.com/membership) [## 通过我的推荐链接加入 Medium 康纳·奥沙利文
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-conorosullyds.medium.com](https://conorosullyds.medium.com/membership) 
+**[](https://conorosullyds.medium.com/membership)  
 
 你可以在|[Twitter](https://twitter.com/conorosullyDS)|[YouTube](https://www.youtube.com/channel/UChsoWqJbEjBwrn00Zvghi4w)|[时事通讯](https://mailchi.mp/aa82a5ce1dc0/signup)上找到我——注册免费参加 [Python SHAP 课程](https://adataodyssey.com/courses/shap-with-python/)**

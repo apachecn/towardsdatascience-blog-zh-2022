@@ -18,11 +18,7 @@
 
 在过去，我曾经写过关于 Streamlit 的文章，这是一个非常好的工具。这部电影以格拉迪欧为特色。一个同样神奇的工具，为 ML 模型提供了一个非常酷的选择。
 
-[](/how-to-create-stunning-web-apps-for-your-data-science-projects-c7791102134e) [## 如何为您的数据科学项目创建出色的 Web 应用程序
-
-### 数据科学家不必学习 HTML、CSS 和 JavaScript 来构建网页。
-
-towardsdatascience.com](/how-to-create-stunning-web-apps-for-your-data-science-projects-c7791102134e) 
+[](/how-to-create-stunning-web-apps-for-your-data-science-projects-c7791102134e)  
 
 这篇文章讨论了:
 
@@ -35,11 +31,7 @@ towardsdatascience.com](/how-to-create-stunning-web-apps-for-your-data-science-p
 
 Gradio 帮助我们在熟悉的 Python 环境中开发 UI 组件。它的声明式小部件库会让你有宾至如归的感觉。你也可以在笔记本上做。然而，首先，它非常简单。
 
-[](/5-python-gui-frameworks-to-create-desktop-web-and-even-mobile-apps-c25f1bcfb561) [## 5 Python GUI 框架来创建桌面、Web 甚至移动应用程序。
-
-### 你可以纯粹用 Python 来构建漂亮的应用程序。
-
-towardsdatascience.com](/5-python-gui-frameworks-to-create-desktop-web-and-even-mobile-apps-c25f1bcfb561) 
+[](/5-python-gui-frameworks-to-create-desktop-web-and-even-mobile-apps-c25f1bcfb561)  
 
 您可以从 PyPI 存储库中安装 Gradio。以下命令将带您开始。
 
@@ -138,11 +130,7 @@ Huggingface 中托管的 Gradio 应用程序—作者截图[。](https://thuwara
 
 有经验的 ML 工程师知道，构建和部署机器学习模型是一个迭代的过程。改进模型的核心是反馈回路。
 
-[](https://levelup.gitconnected.com/concept-drift-in-machine-learning-1fc7a4396b10) [## 为什么机器学习模型会无声无息地死去？
-
-### 那你怎么拯救它呢？
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/concept-drift-in-machine-learning-1fc7a4396b10) 
+[](https://levelup.gitconnected.com/concept-drift-in-machine-learning-1fc7a4396b10)  
 
 Gradio 的创建者在设计时就考虑到了反馈收集。除了输出，您还会看到一个 Flag 按钮。如果那些测试你的应用的人觉得预测是错误的，他们可以标记它。
 

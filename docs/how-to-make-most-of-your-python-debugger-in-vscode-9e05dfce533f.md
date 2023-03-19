@@ -20,11 +20,7 @@
 
 我们将进行一个虚拟项目。目前，它包含一个`hello.py`脚本和一个包含 5 个音频文件的小型虚拟`audio_data` 数据集。你可以在 Github 的这里找到[。](https://github.com/V-Sher/medium_debugger)
 
-[](https://github.com/V-Sher/medium_debugger) [## GitHub - V-Sher/medium_debugger:如何充分利用 VSCode 调试器
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/V-Sher/medium_debugger) 
+[](https://github.com/V-Sher/medium_debugger)  
 
 作为健全性检查，运行脚本以查看终端中的输出。
 
@@ -278,20 +274,4 @@ hello.py
 
 我喜欢写循序渐进的初学者指南、操作指南、面试问题、ML/AI 中使用的解码术语等。如果你想完全访问我的所有文章(以及其他媒体上的文章)，那么你可以注册使用 [***我的链接***](https://varshitasher.medium.com/membership)**这里* ***。****
 
-*[](/fine-tuning-hubert-for-emotion-recognition-in-custom-audio-data-using-huggingface-c2d516b41cd8) [## 使用 Huggingface 微调 HuBERT 用于定制音频数据中的情感识别
-
-### 构建自定义数据加载器、实验日志、改进指标的技巧和 GitHub repo，如果您想了解…
-
-towardsdatascience.com](/fine-tuning-hubert-for-emotion-recognition-in-custom-audio-data-using-huggingface-c2d516b41cd8) [](/time-series-modeling-using-scikit-pandas-and-numpy-682e3b8db8d1) [## 使用 Scikit、Pandas 和 Numpy 进行时间序列建模
-
-### 直观地利用季节性来提高模型准确性。
-
-towardsdatascience.com](/time-series-modeling-using-scikit-pandas-and-numpy-682e3b8db8d1) [](/end-to-end-deep-learning-project-part-1-930af1e1e191) [## 端到端深度学习项目:第 1 部分
-
-### 用 Keras 实现迁移学习的高效网络图像分类模型
-
-towardsdatascience.com](/end-to-end-deep-learning-project-part-1-930af1e1e191) [](/step-by-step-guide-to-explaining-your-ml-project-during-a-data-science-interview-81dfaaa408bf) [## 在数据科学面试中解释你的 ML 项目的逐步指南。
-
-### 在结尾有一个额外的样本脚本，让你谨慎地展示你的技术技能！
-
-towardsdatascience.com](/step-by-step-guide-to-explaining-your-ml-project-during-a-data-science-interview-81dfaaa408bf)*
+*[](/fine-tuning-hubert-for-emotion-recognition-in-custom-audio-data-using-huggingface-c2d516b41cd8)  [](/time-series-modeling-using-scikit-pandas-and-numpy-682e3b8db8d1)  [](/end-to-end-deep-learning-project-part-1-930af1e1e191)  [](/step-by-step-guide-to-explaining-your-ml-project-during-a-data-science-interview-81dfaaa408bf) *

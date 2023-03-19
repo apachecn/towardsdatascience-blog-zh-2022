@@ -10,11 +10,7 @@
 
 在我之前的文章中，我谈到了在 sklearn 中使用管道:
 
-[](/using-sklearn-pipelines-to-streamline-your-machine-learning-process-a27721fdff1b) [## 使用 Sklearn 管道简化您的机器学习过程
-
-### 了解 Pipeline 类如何简化和自动化您的机器学习工作流
-
-towardsdatascience.com](/using-sklearn-pipelines-to-streamline-your-machine-learning-process-a27721fdff1b) 
+[](/using-sklearn-pipelines-to-streamline-your-machine-learning-process-a27721fdff1b)  
 
 在那篇文章中，您学习了如何在 sklearn 中使用管道来简化您的机器学习工作流。您还了解了如何使用`GridSearchCV()`和管道来为您的数据集寻找最佳估计器。
 
@@ -81,11 +77,7 @@ class FeatureSelector(BaseEstimator, TransformerMixin):
 
 如果您不熟悉自定义变压器，请参考本文:
 
-[](/creating-custom-transformers-for-sklearn-pipelines-d3d51852ecc1) [## 为 sklearn 管道创建自定义转换器
-
-### 了解如何创建适合并转换数据的自定义转换器
-
-towardsdatascience.com](/creating-custom-transformers-for-sklearn-pipelines-d3d51852ecc1) 
+[](/creating-custom-transformers-for-sklearn-pipelines-d3d51852ecc1)  
 
 ## 转换列
 
@@ -331,8 +323,4 @@ test_data = {
 
 这篇短文解释了集成学习是如何工作的。特别是，我将它与 pipelines 和`GridSearchCV()`结合起来，使你的机器学习工作流程正式化。如果你在你的机器学习项目中使用集成学习，请在评论中告诉我。
 
-[](https://weimenglee.medium.com/membership) [## 加入媒介与我的介绍链接-李伟孟
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-weimenglee.medium.com](https://weimenglee.medium.com/membership)
+[](https://weimenglee.medium.com/membership) 

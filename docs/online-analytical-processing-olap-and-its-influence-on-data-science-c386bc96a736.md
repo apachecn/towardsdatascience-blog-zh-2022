@@ -19,11 +19,7 @@
 1.  [**数据仓库**](https://databasecamp.de/daten/data-warehouse) :这里存储的是来自源系统的原始表和行。如果需要详细访问特定的行，可以查询数据仓库。例如，数据仓库中的一个表包含所有订单的详细信息。这里的每一行恰好对应一个订单，甚至一个订单项目。
 2.  **OLAP —数据库**:这些数据库试图聚集经常使用的列(维度)并将它们保存在内存中。这对于计算聚合关键数字的商业智能应用程序尤其重要。例如，对于管理层来说，每月的营业额是决定性的，所以不是每一单订单都必须保持连续。
 
-[](/comprehensive-guide-to-data-warehouses-6374617f45d5) [## 数据仓库综合指南
-
-### 您需要知道的一切，包括与数据湖的比较
-
-towardsdatascience.com](/comprehensive-guide-to-data-warehouses-6374617f45d5) 
+[](/comprehensive-guide-to-data-warehouses-6374617f45d5)  
 
 # 什么是 OLAP 立方体？
 
@@ -77,11 +73,7 @@ OLAP 的使用使得频繁查询比传统的关系表更加灵活和高效，而
 2.  **关系在线分析处理(ROLAP)** :这种类型去掉了立方体，而是直接在关系表上工作。在 [ETL](https://databasecamp.de/en/data/etl-en) 过程中，数据仓库被提供了聚集表。这些可以使用 SQL 查询。
 3.  **混合在线分析处理(HOLAP)** :这是前两种类型的结合。部分数据存储在传统的 MOLAP 多维数据集中，其余部分存储在 ROLAP 存储中。
 
-[](/beginners-guide-extract-transform-load-etl-49104a8f9294) [## 初学者指南:提取、转换、加载(ETL)
-
-### 了解数据分析中的大数据原理
-
-towardsdatascience.com](/beginners-guide-extract-transform-load-etl-49104a8f9294) 
+[](/beginners-guide-extract-transform-load-etl-49104a8f9294)  
 
 # OLTP 和 OLAP 的比较
 
@@ -106,16 +98,4 @@ OLAP(表示联机分析处理)和 OLTP(表示联机事务处理)这两个缩写�
 
 *如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
 
-*[](/getting-to-know-microservices-da5a836a7abd) [## 了解微服务
-
-### 将复杂的软件拆分或不拆分成独立服务的原因
-
-towardsdatascience.com](/getting-to-know-microservices-da5a836a7abd) [](/software-as-a-service-the-game-changer-for-small-it-departments-f841b292b02a) [## 软件即服务:小型 IT 部门的游戏规则改变者
-
-### 软件即服务简介，与内部解决方案进行比较
-
-towardsdatascience.com](/software-as-a-service-the-game-changer-for-small-it-departments-f841b292b02a) [](/introduction-to-apache-hadoop-distributed-file-system-99cb98d175c) [## Apache Hadoop 分布式文件系统简介
-
-### 关于这个 Hadoop 组件，您需要了解的一切
-
-towardsdatascience.com](/introduction-to-apache-hadoop-distributed-file-system-99cb98d175c)*
+*[](/getting-to-know-microservices-da5a836a7abd)  [](/software-as-a-service-the-game-changer-for-small-it-departments-f841b292b02a)  [](/introduction-to-apache-hadoop-distributed-file-system-99cb98d175c) *

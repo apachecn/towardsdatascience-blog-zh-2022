@@ -248,11 +248,7 @@ Keras 嵌入层通常用于使用深度学习的文本建模任务。它简单�
 
 ******有兴趣阅读更多关于提高该数据集模型性能的信息吗？******
 
-****[](/how-i-improved-the-performance-of-a-multiclass-text-classifier-using-kerastune-and-other-basic-data-161a22625009) [## 使用 KerasTuner 和其他基本数据提高多类文本分类器的性能…
-
-### 探索如何通过整合简单数据和/或 NLP 技术来提高基于文本的模型的性能…
-
-towardsdatascience.com](/how-i-improved-the-performance-of-a-multiclass-text-classifier-using-kerastune-and-other-basic-data-161a22625009)**** 
+****[](/how-i-improved-the-performance-of-a-multiclass-text-classifier-using-kerastune-and-other-basic-data-161a22625009) **** 
 
 *******感谢光临！*******
 

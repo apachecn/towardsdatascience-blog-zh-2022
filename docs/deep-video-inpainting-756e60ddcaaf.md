@@ -224,16 +224,4 @@
 
 ****我错过了什么吗？不要犹豫，直接在 [LinkedIn](https://www.linkedin.com/in/aliakseimikhailiuk/) 或 [Twitter](https://twitter.com/mikhailiuka) 上给我留言、评论或发消息吧！****
 
-****[](/deep-image-quality-assessment-30ad71641fac) [## 深度图像质量评估
-
-### 深入研究全参考图像质量评估。从主观画质实验到深层客观…
-
-towardsdatascience.com](/deep-image-quality-assessment-30ad71641fac) [](/perceptual-losses-for-image-restoration-dd3c9de4113) [## 深度图像恢复的感知损失
-
-### 从均方误差到 GANs——什么是好的感知损失函数？
-
-towardsdatascience.com](/perceptual-losses-for-image-restoration-dd3c9de4113) [](/cnn-cheat-sheet-the-essential-summary-for-a-quick-start-58820a14d3b4) [## 卷积神经网络——概要
-
-### 如何使用、何时使用以及提高性能的有用技巧
-
-towardsdatascience.com](/cnn-cheat-sheet-the-essential-summary-for-a-quick-start-58820a14d3b4)****
+****[](/deep-image-quality-assessment-30ad71641fac)  [](/perceptual-losses-for-image-restoration-dd3c9de4113)  [](/cnn-cheat-sheet-the-essential-summary-for-a-quick-start-58820a14d3b4) ****

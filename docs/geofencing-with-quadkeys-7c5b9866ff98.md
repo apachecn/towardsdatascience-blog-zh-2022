@@ -26,15 +26,7 @@
 
 在其他文章中，我探索了优步的 H3(T1)的潜力，这是一种分层的六边形空间索引。这个空间索引系统是强大而轻便的，因为它是用 C 语言实现的，允许在边缘设备上使用。
 
-[](/geospatial-indexing-with-ubers-h3-766399b690c) [## 优步 H3 的地理空间索引
-
-### 六边形动力！
-
-towardsdatascience.com](/geospatial-indexing-with-ubers-h3-766399b690c) [](/fast-geospatial-indexing-with-h3-90e862482585) [## H3 的快速地理空间索引
-
-### H3 六角电力重装上阵！
-
-towardsdatascience.com](/fast-geospatial-indexing-with-h3-90e862482585) 
+[](/geospatial-indexing-with-ubers-h3-766399b690c)  [](/fast-geospatial-indexing-with-h3-90e862482585)  
 
 由于其哈希特性，我们还可以使用 H3 来实现高速地理围栏查询。正如我在另一篇文章中所展示的，我们可以将地理围栏设想为一组 H3 指数，每个指数都有一个相关的空间六边形。下图显示了这个概念，其中我们用一组相连的 H3 指数来定义地理围栏。包含测试只是将位置转换为相关的 H3 指数，然后运行集合包含测试。
 
@@ -72,11 +64,7 @@ towardsdatascience.com](/fast-geospatial-indexing-with-h3-90e862482585)
 
 四键的几何结构确实解决了间隙问题。正如你从开始的图像中看到的，正如四键数学所暗示的，正方形的层次在不同层次的四键之间提供了紧密的配合。你可以从它的来源、[微软在线文档](https://docs.microsoft.com/en-us/bingmaps/articles/bing-maps-tile-system)和下面的文章中读到更多关于这个主题的内容。
 
-[](/geospatial-indexing-with-quadkeys-d933dff01496) [## 使用四键的地理空间索引
-
-### 给地球正方
-
-towardsdatascience.com](/geospatial-indexing-with-quadkeys-d933dff01496) 
+[](/geospatial-indexing-with-quadkeys-d933dff01496)  
 
 如下图所示，与 H3 不同，四键层次结构允许你紧密地适应不同层次的方块，没有重叠或死区。请注意，方形图块的固定位置意味着我们只能在层次结构中从较低到较高的级别(较低的缩放比例)合并特定的图块集。
 
@@ -92,11 +80,7 @@ towardsdatascience.com](/geospatial-indexing-with-quadkeys-d933dff01496)
 
 通过认识到每个数字只需要两位来编码，我们也可以将这种表示转换成二进制整数。如果我们保持在线地图通常可用的最大 23 个缩放级别，我们需要 48 位来存储完整的四键哈希。有足够的空间来保存缩放级别，只需要五位。这是一个可能的编码的公开提议:
 
-[](https://github.com/joekarl/binary-quadkey) [## GitHub-Joe Karl/binary-quad key:quad key 很棒，但是字符串很烂，所以我们把它们存成…
-
-### 根据微软文档(https://msdn . Microsoft . com/en-us/library/bb 259689 . aspx)，四键通常是…
-
-github.com](https://github.com/joekarl/binary-quadkey) 
+[](https://github.com/joekarl/binary-quadkey)  
 
 就个人而言，我会颠倒编码设计，在低位保留散列，在高位保留缩放级别。这种方法会使下面需要的一些数学运算变得更容易。
 
@@ -234,11 +218,7 @@ github.com](https://github.com/joekarl/binary-quadkey)
 
 ## Git 储存库
 
-[](https://github.com/joaofig/quadkey-geofence) [## GitHub-joaofig/quad key-geo fence:一种基于 QuadKeys 的地理围栏算法。
-
-### 该项目使用四键实现 Python 代码来创建 geofences。从创建支持 SQLite 开始…
-
-github.com](https://github.com/joaofig/quadkey-geofence) 
+[](https://github.com/joaofig/quadkey-geofence)  
 
 ## 地理空间哈希
 
@@ -260,11 +240,7 @@ github.com](https://github.com/joaofig/quadkey-geofence)
 
 ## 国界
 
-[](https://github.com/datasets/geo-countries) [## GitHub - datasets/geo-countries:数据包中 GeoJSON 形式的国家多边形
-
-### 地理数据数据包，提供世界所有国家的 geojson 多边形。非常适合在应用程序和…
-
-github.com](https://github.com/datasets/geo-countries) 
+[](https://github.com/datasets/geo-countries)  
 
 [国家多边形作为 GeoJSON —数据集—数据中心—无摩擦数据](https://datahub.io/core/geo-countries)
 

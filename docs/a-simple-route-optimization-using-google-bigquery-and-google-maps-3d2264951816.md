@@ -14,11 +14,7 @@
 
 在本文中，我想向您展示一些很酷的东西，通过利用 BigQuery，您可以使用一个简单的解决方案来实现这些东西。您只需要熟悉一些可用的 BigQuery 分析函数。如果你还没有检查我的其他职位。
 
-[](/useful-big-query-analytic-functions-that-you-should-learn-19270e866a37) [## 你应该学习的有用的大查询分析函数
-
-### 熟悉它们，对你的数据探索和准备任务会有很大帮助。
-
-towardsdatascience.com](/useful-big-query-analytic-functions-that-you-should-learn-19270e866a37) 
+[](/useful-big-query-analytic-functions-that-you-should-learn-19270e866a37)  
 
 我们将使用公共数据集，但问题陈述在类似的企业中应该相对相同。记住这一点，我希望你能有另一个灵感来解决你的组织正面临的类似问题。让我们直接开始吧！
 

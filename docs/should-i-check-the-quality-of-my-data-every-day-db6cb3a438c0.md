@@ -34,11 +34,7 @@
 
 如果您不熟悉数据质量维度，我建议您首先阅读本文的第 7 条:
 
-[](https://medium.com/geekculture/25-terms-to-help-you-in-your-career-in-data-science-14ca681b0699) [## 25 个术语对你的数据科学职业生涯有所帮助
-
-### 厌倦了所有的行话和缩写，这里有 25 个让你开始
-
-medium.com](https://medium.com/geekculture/25-terms-to-help-you-in-your-career-in-data-science-14ca681b0699) 
+[](https://medium.com/geekculture/25-terms-to-help-you-in-your-career-in-data-science-14ca681b0699)  
 
 ## **技术 DQ 检查**
 
@@ -72,11 +68,7 @@ medium.com](https://medium.com/geekculture/25-terms-to-help-you-in-your-career-i
 
 如果你觉得这篇文章有帮助，请在下面留言告诉我。看看我在 Medium 上的另一篇文章:
 
-[](/apply-data-quality-checks-at-these-5-points-in-your-data-journey-b80c59fd7758) [## 在数据之旅的这 5 个点上应用数据质量检查
-
-### 通过在旅程中应用这些检查来提高数据质量
-
-towardsdatascience.com](/apply-data-quality-checks-at-these-5-points-in-your-data-journey-b80c59fd7758) 
+[](/apply-data-quality-checks-at-these-5-points-in-your-data-journey-b80c59fd7758)  
 
 如果您没有订阅 Medium，请考虑使用我的推荐链接订阅[。它比网飞便宜，而且客观上能更好地利用你的时间。](https://hanzalaqureshi.medium.com/membership)如果你使用我的链接，我会获得一小笔佣金，而你可以在 Medium 上获得无限的故事。
 

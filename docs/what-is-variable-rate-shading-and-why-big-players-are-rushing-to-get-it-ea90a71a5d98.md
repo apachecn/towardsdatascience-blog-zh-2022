@@ -189,16 +189,4 @@ ALSaRR 管道。[图片由阿克谢·金达尔拍摄。](https://www.cl.cam.ac.u
 
 我错过了什么吗？不要犹豫，直接在 [LinkedIn](https://www.linkedin.com/in/aliakseimikhailiuk/) 或 [Twitter](https://twitter.com/mikhailiuka) 上给我留言、评论或发消息吧！
 
-[](/scientific-computing-lessons-learned-the-hard-way-db651f8f643a) [## 科学计算——惨痛的教训
-
-### 深入介绍科学计算—从 CPU、GPU 和 HPC 集群到最常用的框架— OpenMP、MPI 和…
-
-towardsdatascience.com](/scientific-computing-lessons-learned-the-hard-way-db651f8f643a) [](/on-the-edge-deploying-deep-applications-on-constrained-devices-f2dac997dd4d) [## 在边缘——在移动设备上部署深度学习应用
-
-### 在受限设备上实现深度神经网络的效率-精度折衷的技术
-
-towardsdatascience.com](/on-the-edge-deploying-deep-applications-on-constrained-devices-f2dac997dd4d) [](/deep-image-quality-assessment-30ad71641fac) [## 深度图像质量评估
-
-### 深入研究全参考图像质量评估。从主观画质实验到深层客观…
-
-towardsdatascience.com](/deep-image-quality-assessment-30ad71641fac)
+[](/scientific-computing-lessons-learned-the-hard-way-db651f8f643a)  [](/on-the-edge-deploying-deep-applications-on-constrained-devices-f2dac997dd4d)  [](/deep-image-quality-assessment-30ad71641fac) 

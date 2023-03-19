@@ -149,16 +149,8 @@ DynamicPerson(年龄=33 岁，姓名='Diego ')
 
 我希望这个故事对你有用。如果你想知道更多类似的故事，请订阅。
 
-[](https://medium.com/subscribe/@diego-barba) [## 每当迭戈·巴尔巴出版时，就收到一封电子邮件。
-
-### 每当迭戈·巴尔巴发表作品时，就收到一封电子邮件。注册后，如果您还没有，您将创建一个中型帐户…
-
-medium.com](https://medium.com/subscribe/@diego-barba) 
+[](https://medium.com/subscribe/@diego-barba)  
 
 喜欢这个故事吗？通过我下面的推荐链接成为一个媒体成员来支持我的写作。无限制地访问我的故事和许多其他内容。
 
-[](https://medium.com/@diego-barba/membership) [## 通过我的推荐链接加入 Medium-Diego Barba
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@diego-barba/membership)
+[](https://medium.com/@diego-barba/membership) 

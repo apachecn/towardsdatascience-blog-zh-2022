@@ -78,15 +78,7 @@
 
 注意:除非另有说明，本文中的图片都是我的原创作品。
 
-[](https://www.kaggle.com/code/purswaninuri/association-analysis) [## 关联 _ 分析
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用来自销售产品数据的数据
-
-www.kaggle.com](https://www.kaggle.com/code/purswaninuri/association-analysis) [](https://www.kaggle.com/datasets/knightbearr/sales-product-data) [## 销售产品数据
-
-### 销售产品数据集
-
-www.kaggle.com](https://www.kaggle.com/datasets/knightbearr/sales-product-data) 
+[](https://www.kaggle.com/code/purswaninuri/association-analysis)  [](https://www.kaggle.com/datasets/knightbearr/sales-product-data)  
 
 # 粘贴在下面的完整代码:
 

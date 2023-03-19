@@ -323,14 +323,6 @@ Precision = 0.7467532467532467
 
 **如果你做到了这一步，这里有一些你可能感兴趣的我的其他故事…**
 
-**[](/predicting-strava-kudos-1a4ce7a02053) [## 预测 Strava Kudos
-
-### 一个端到端的数据科学项目，从数据收集到模型部署，旨在预测用户在…
-
-towardsdatascience.com](/predicting-strava-kudos-1a4ce7a02053) [](/building-a-recipe-recommendation-system-297c229dda7b) [## 建立食谱推荐系统
-
-### 使用 Word2Vec、Scikit-Learn 和 Streamlit
-
-towardsdatascience.com](/building-a-recipe-recommendation-system-297c229dda7b) 
+**[](/predicting-strava-kudos-1a4ce7a02053)  [](/building-a-recipe-recommendation-system-297c229dda7b)  
 
 [1] Kaggle 练习数据集。(2020;4 月)2020 年客户流失预测，1。2022 年 01 月 04 日检索自[https://www . ka ggle . com/c/customer-churn-prediction-2020/data](https://www.kaggle.com/c/customer-churn-prediction-2020/data)。**

@@ -14,15 +14,7 @@
 
 也就是说，虽然文档非常重要，但它并不总是导航或编写的最显而易见的东西。这适用于许多语言，但特别是一种语言——我最喜欢的语言，它有一个相当健壮的文档系统，功能齐全，非常好用，但也有一些细微差别，可能会使普通程序员对另一种编程语言感到困惑或产生无法回答的问题。我以前写过文章，讨论 Julia 的文档，它的缺点，甚至为什么我认为 Julia 有很棒的文档字符串。如果您想对我将在本文中讨论的主题有所了解，它们可能值得一读，您可以在这里找到它们:
 
-[](/why-julia-code-is-so-hard-to-document-properly-abccec3a42a) [## 为什么 Julia 代码如此难以正确记录
-
-### Julia 包没有被很好地记录的真正原因。
-
-towardsdatascience.com](/why-julia-code-is-so-hard-to-document-properly-abccec3a42a) [](/julias-doc-string-system-is-awesome-and-here-is-why-197ba6a0236b) [## Julia 的文档字符串系统非常棒，原因如下
-
-### 概述为什么我认为 Julian 文档优于大多数其他语言的方法
-
-towardsdatascience.com](/julias-doc-string-system-is-awesome-and-here-is-why-197ba6a0236b) 
+[](/why-julia-code-is-so-hard-to-document-properly-abccec3a42a)  [](/julias-doc-string-system-is-awesome-and-here-is-why-197ba6a0236b)  
 
 我认为像这样的概念
 
@@ -32,11 +24,7 @@ towardsdatascience.com](/julias-doc-string-system-is-awesome-and-here-is-why-197
 
 为了证明这种说法是正确的，让我们试着在谷歌上快速搜索一下……通过查询“Julia documentation documentation ”,我们得到了常规的 Julia 文档。我想这是有道理的，因为我们有两次列出的文档，谷歌搜索查询并不完全像我们的英语一样工作，但在我们进一步深入之前，让我们深入了解基本的文档。此外，为了演示这种语言的文档系统，有一个笔记本，记录了我编写和记录的一些代码，所以如果您想查看实际运行的代码，可以看看这里的笔记本:
 
-[](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/documenting%20Julia.ipynb) [## Emmetts-DS-NoteBooks/documenting Julia . ipynb at master emmett GB/Emmetts-DS-NoteBooks
-
-### 各种项目的随机笔记本。通过创建帐户，为 emmettgb/Emmetts-DS 笔记本电脑的开发做出贡献…
-
-github.com](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/documenting%20Julia.ipynb) 
+[](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/documenting%20Julia.ipynb)  
 
 # 基本文件
 
@@ -46,11 +34,7 @@ github.com](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/d
 
 文件部分存放在基地。文档模块。既然我们意识到了这一点，质疑“朱丽亚基地。Google 上的“文档”文档仍然很少或没有显示关于 Julia 的文档字符串或文档系统的文档或信息..我能找到的最好的文档不是在正规的 Julia 文档网站上，而是在*阅读文档*:
 
- [## 证明文件
-
-### Julia 使包开发者和用户能够通过一个内置的…
-
-julia-doc.readthedocs.io](https://julia-doc.readthedocs.io/en/latest/manual/documentation/) 
+  
 
 让我们从最基本的开始。来自大多数其他语言的人可能会熟悉在他们的代码上添加一个多行字符串来记录它:
 
@@ -76,11 +60,7 @@ end
 
 首先，虽然这个 doc-string 解释了函数的输入，但它是以一种非常冗长的方式解释的。这对 Julia 来说也很奇怪，因为通常类型是用::，而且任何 Julia 程序员都应该能够通过函数头识别函数名和每个多态调用传递的参数。这个文档的另一个问题是没有输出的概要，我们不知道这个函数的返回是什么。我有一个简短的技术列表，我用它来提供 Julia 和其他地方的文档的基本要素，如果人们希望学习更多关于编写好的文档的知识，他们可以研究一下，所以如果你想提高这方面的技能，研究一下那篇文章中讨论的一些主题可能是有意义的。你可以在这里找到这篇文章:
 
-[](/5-incredibly-useful-tips-for-writing-pristine-documentation-803155ae4f45) [## 编写原始文档的 5 个非常有用的技巧
-
-### 我用来改进软件文档的一些技术
-
-towardsdatascience.com](/5-incredibly-useful-tips-for-writing-pristine-documentation-803155ae4f45) 
+[](/5-incredibly-useful-tips-for-writing-pristine-documentation-803155ae4f45)  
 
 关于 Julia 的文档，需要记住的一件重要事情是，它也可以用 markdown 编写。此外，这种降价是普遍的，并转移到 REPL 真的很好，只要看看这个例子从基地。推！()在 REPL:
 

@@ -108,11 +108,7 @@ SageMaker 模型创建
 
 ## 额外资源
 
-[](https://github.com/RamVegiraju/SM-Model-Registry) [## GitHub-RamVegiraju/SM-Model-Registry:使用 SageMaker 模型注册表和 XGBoost…
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/RamVegiraju/SM-Model-Registry) 
+[](https://github.com/RamVegiraju/SM-Model-Registry)  
 
 关于示例的完整代码，请查看上面的资源库。我在下面附上了额外的例子和资源。
 

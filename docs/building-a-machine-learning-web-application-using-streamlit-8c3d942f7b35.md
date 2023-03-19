@@ -12,11 +12,7 @@
 
 在我之前的教程中，我演示了使用 Flask 创建 ML 应用程序，Flask 是 Python 中常用的 web 框架。
 
-[](/building-a-machine-learning-web-application-using-flask-29fa9ea11dac) [## 使用 Flask 构建机器学习 Web 应用程序
-
-### 使用 Python 和 Flask 实现机器学习 API 的简单教程
-
-towardsdatascience.com](/building-a-machine-learning-web-application-using-flask-29fa9ea11dac) 
+[](/building-a-machine-learning-web-application-using-flask-29fa9ea11dac)  
 
 不幸的是，我意识到许多数据科学家缺乏必要的网页设计和工程知识来完成这样的项目。本文将介绍一种更友好的替代方法，使用 Streamlit 创建 ML 应用程序。
 

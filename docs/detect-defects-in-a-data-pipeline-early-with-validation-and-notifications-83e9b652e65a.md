@@ -195,11 +195,7 @@ pip install prefect==2.0.2
 
 查看这篇文章，了解如何使用提督发送时差通知:
 
-[](https://medium.com/the-prefect-blog/sending-slack-notifications-in-python-with-prefect-840a895f81c) [## 使用提督在 Python 中发送松弛通知
-
-### 通过松弛通知了解 Python 代码的进度
-
-medium.com](https://medium.com/the-prefect-blog/sending-slack-notifications-in-python-with-prefect-840a895f81c) 
+[](https://medium.com/the-prefect-blog/sending-slack-notifications-in-python-with-prefect-840a895f81c)  
 
 设置通知后，当流失败时，您应该会在 Slack 通道中收到一条消息:
 
@@ -213,30 +209,10 @@ medium.com](https://medium.com/the-prefect-blog/sending-slack-notifications-in-p
 
 随意发挥，并在这里叉这篇文章的源代码:
 
-[](https://github.com/khuyentran1401/prefect2-mlops-demo/tree/deepchecks) [## GitHub-khuyentran 1401/prefect 2-mlops-在深度检查时演示
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/khuyentran1401/prefect2-mlops-demo/tree/deepchecks) 
+[](https://github.com/khuyentran1401/prefect2-mlops-demo/tree/deepchecks)  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的数据科学工具。你可以在 LinkedIn 和 Twitter 上与我联系。
 
 如果你想查看我写的所有文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](https://medium.com/the-prefect-blog/orchestrate-your-data-science-project-with-prefect-2-0-4118418fd7ce) [## 使用 Prefect 2.0 协调您的数据科学项目
-
-### 让您的数据科学管道能够抵御故障
-
-medium.com](https://medium.com/the-prefect-blog/orchestrate-your-data-science-project-with-prefect-2-0-4118418fd7ce) [](https://pub.towardsai.net/github-actions-in-mlops-automatically-check-and-deploy-your-ml-model-9a281d7f3c84) [## MLOps 中的 GitHub 动作:自动检查和部署您的 ML 模型
-
-### 使用 GitHub 动作自动化您的 ML 管道
-
-pub.towardsai.net](https://pub.towardsai.net/github-actions-in-mlops-automatically-check-and-deploy-your-ml-model-9a281d7f3c84) [](/how-to-structure-a-data-science-project-for-readability-and-transparency-360c6716800) [## 如何构建可读性和透明度的数据科学项目
-
-### 以及如何用一行代码创建一个
-
-towardsdatascience.com](/how-to-structure-a-data-science-project-for-readability-and-transparency-360c6716800) [](/bentoml-create-an-ml-powered-prediction-service-in-minutes-23d135d6ca76) [## BentoML:在几分钟内创建一个 ML 驱动的预测服务
-
-### 用 Python 封装和部署您的 ML 模型
-
-towardsdatascience.com](/bentoml-create-an-ml-powered-prediction-service-in-minutes-23d135d6ca76)
+[](https://medium.com/the-prefect-blog/orchestrate-your-data-science-project-with-prefect-2-0-4118418fd7ce)  [](https://pub.towardsai.net/github-actions-in-mlops-automatically-check-and-deploy-your-ml-model-9a281d7f3c84)  [](/how-to-structure-a-data-science-project-for-readability-and-transparency-360c6716800)  [](/bentoml-create-an-ml-powered-prediction-service-in-minutes-23d135d6ca76) 

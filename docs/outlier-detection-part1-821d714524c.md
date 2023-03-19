@@ -114,11 +114,7 @@ Z-score 易受极端数据点的影响。如果有一个极值，对应于该点
 
 [代码演练](https://www.youtube.com/watch?v=F4s6H_EDwFc)
 
-[](https://mdsohel-mahmood.medium.com/membership) [## 用我的推荐链接加入媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-mdsohel-mahmood.medium.com](https://mdsohel-mahmood.medium.com/membership) 
+[](https://mdsohel-mahmood.medium.com/membership)  
 
 > **参考**
 

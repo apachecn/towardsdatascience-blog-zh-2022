@@ -54,11 +54,7 @@
 
 由于这是一个非常大的题目，我将省去你阅读五段为什么数学如此重要的麻烦。相反，你会在这本[指南](/mathematics-for-data-science-e53939ee8306)中找到一些令人惊叹的人工智能数学资源。
 
-[](/mathematics-for-data-science-e53939ee8306) [## 数据科学数学
-
-### 被寻找资源来理解数据科学和机器学习的数学知识所淹没？我们掩护你。
-
-towardsdatascience.com](/mathematics-for-data-science-e53939ee8306) 
+[](/mathematics-for-data-science-e53939ee8306)  
 
 顺便说一句，我完全赞同他用自上而下的方式来认识数学对于人工智能的必要性。
 

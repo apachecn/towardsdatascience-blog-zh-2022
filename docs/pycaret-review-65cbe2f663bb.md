@@ -168,12 +168,4 @@ PyCaret 支持许多不同的模型，这很好，但不幸的是，其中一些
 
 > 感谢您花时间阅读本文！我主要写的是数据科学工具和 Julia，所以如果你喜欢这篇文章，请随意订阅！
 
-[](/end-to-end-bigquery-machine-learning-e7e6e2e83b34) [## 端到端 BigQuery 机器学习
-
-### 使用 Google Cloud BigQuery 参加 Kaggle 竞赛
-
-towardsdatascience.com](/end-to-end-bigquery-machine-learning-e7e6e2e83b34) [](/reading-csv-files-with-julia-e2623fb62938) [## 与 Julia 一起阅读 CSV 文件
-
-### 了解如何使用 CSV.jl 读取各种逗号分隔的文件
-
-towardsdatascience.com](/reading-csv-files-with-julia-e2623fb62938)
+[](/end-to-end-bigquery-machine-learning-e7e6e2e83b34)  [](/reading-csv-files-with-julia-e2623fb62938) 

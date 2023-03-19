@@ -20,11 +20,7 @@
 
 > 注意:我用 Python 和 Kaggle 工作簿写我的代码，你可以在下面自己运行！
 
-[](https://www.kaggle.com/kapastor/wordle-strat) [## 沃尔得战略
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用来自无附加数据源的数据
-
-www.kaggle.com](https://www.kaggle.com/kapastor/wordle-strat) 
+[](https://www.kaggle.com/kapastor/wordle-strat)  
 
 我快速搜索后发现的数据集是:
 
@@ -115,8 +111,4 @@ for word, information_value in word_stat_dict.items():
 
 如果你喜欢这样，并想支持我，你可以使用我的推荐链接，如果你加入媒体！
 
-[](https://kapastor.medium.com/membership) [## 加入我的介绍链接-凯尔牧师媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-kapastor.medium.com](https://kapastor.medium.com/membership)
+[](https://kapastor.medium.com/membership) 

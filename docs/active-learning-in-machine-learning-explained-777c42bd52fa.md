@@ -165,30 +165,6 @@ sklearn=0.24.1
 
 如果你喜欢这篇文章，这里有一些我写的其他文章，你可能也会感兴趣。
 
-[](/text-summarization-in-python-with-jaro-winkler-and-pagerank-72d693da94e8) [## 用 Jaro-Winkler 和 PageRank 实现 Python 中的文本摘要
+[](/text-summarization-in-python-with-jaro-winkler-and-pagerank-72d693da94e8)  [](/link-prediction-recommendation-engines-with-node2vec-c97c429351a8)  [](/recommendation-systems-explained-a42fc60591ed)  [](/text-similarity-w-levenshtein-distance-in-python-2f7478986e75)  [](/bayesian-a-b-testing-explained-344a6df88c1a) [## 贝叶斯 A/B 测试解释
 
-### 用 Jaro-Winkler 和 PageRank 构建一个文本摘要器
-
-towardsdatascience.com](/text-summarization-in-python-with-jaro-winkler-and-pagerank-72d693da94e8) [](/link-prediction-recommendation-engines-with-node2vec-c97c429351a8) [## 使用 Node2Vec 的链接预测推荐引擎
-
-### 在 Python 中使用节点嵌入进行链接预测
-
-towardsdatascience.com](/link-prediction-recommendation-engines-with-node2vec-c97c429351a8) [](/recommendation-systems-explained-a42fc60591ed) [## 推荐系统解释
-
-### 用 Python 解释和实现基于内容的协同过滤和混合推荐系统
-
-towardsdatascience.com](/recommendation-systems-explained-a42fc60591ed) [](/text-similarity-w-levenshtein-distance-in-python-2f7478986e75) [## Python 中带 Levenshtein 距离的文本相似度
-
-### 用 Python 构建抄袭检测管道
-
-towardsdatascience.com](/text-similarity-w-levenshtein-distance-in-python-2f7478986e75) [](/bayesian-a-b-testing-explained-344a6df88c1a) [## 贝叶斯 A/B 测试解释
-
-towardsdatascience.com](/bayesian-a-b-testing-explained-344a6df88c1a) [](/word2vec-explained-49c52b4ccb71) [## Word2Vec 解释道
-
-### 解释 Word2Vec 的直观性&用 Python 实现它
-
-towardsdatascience.com](/word2vec-explained-49c52b4ccb71) [](/louvains-algorithm-for-community-detection-in-python-95ff7f675306) [## Python 中社区发现的 Louvain 算法
-
-### 在 Python 中应用 Louvain 算法进行社区发现
-
-towardsdatascience.com](/louvains-algorithm-for-community-detection-in-python-95ff7f675306)
+towardsdatascience.com](/bayesian-a-b-testing-explained-344a6df88c1a) [](/word2vec-explained-49c52b4ccb71)  [](/louvains-algorithm-for-community-detection-in-python-95ff7f675306) 

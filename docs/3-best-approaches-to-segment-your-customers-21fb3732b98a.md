@@ -26,11 +26,7 @@ Avinash Kumar 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=r
 
 > 根据维基百科，层次聚类是一种聚类分析方法，旨在建立聚类的层次结构。
 
-[](https://en.wikipedia.org/wiki/Hierarchical_clustering) [## 分层聚类-维基百科
-
-### 在数据挖掘和统计中，层次聚类(也称为层次聚类分析或 HCA)是一种方法…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Hierarchical_clustering) 
+[](https://en.wikipedia.org/wiki/Hierarchical_clustering)  
 
 在层次聚类中，成对样本基于相似性被分组在一起，然后它们被合并以形成下一层次。最后形成一个树状图(一个树形结构)。要形成的簇的数量由专家分析师基于该树状图来确定。
 
@@ -46,11 +42,7 @@ K-means 聚类是一种无监督聚类算法。它试图根据最接近的平均
 4.  计算修改后的质心。
 5.  只要质心保持变化，重复步骤`3`和`4`
 
-[](https://en.wikipedia.org/wiki/K-means_clustering) [## k 均值聚类-维基百科
-
-### k-means 聚类是一种矢量量化的方法，它起源于信号处理，目的是划分 n。
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/K-means_clustering) 
+[](https://en.wikipedia.org/wiki/K-means_clustering)  
 
 一旦我们知道了最佳的集群数量，我们就可以通过`n_clusters`参数对我们的客户进行细分。
 
@@ -74,8 +66,4 @@ RFM 细分的关键要素是将静态管理权重分配给客户的 3 个因素�
 
 **请通过此* [*推荐链接*](https://analyticsoul.medium.com/membership) *加入 Medium，免费支持我。**
 
-*[](https://analyticsoul.medium.com/membership) [## 通过我的推荐链接加入 Medium—Asish bis was
-
-### 阅读阿西什·比斯瓦斯(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-analyticsoul.medium.com](https://analyticsoul.medium.com/membership)*
+*[](https://analyticsoul.medium.com/membership) *

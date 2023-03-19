@@ -46,11 +46,7 @@ Mint 应用程序中的饼状图和条形图不会显示现金流如何，而是
 
 我也写过一篇关于*为什么 ggplot2 对数据可视化这么好*的文章？
 
-[](/why-is-ggplot2-so-good-for-data-visualization-b38705f43f85) [## 为什么 ggplot2 对数据可视化这么好？
-
-### 探索 ggplot2 中的图形语法
-
-towardsdatascience.com](/why-is-ggplot2-so-good-for-data-visualization-b38705f43f85) 
+[](/why-is-ggplot2-so-good-for-data-visualization-b38705f43f85)  
 
 下面是从 mint 下载的 CSV 中提取数据、执行一些基本转换并使用 ggplot 可视化为 Sankey 图的代码。
 

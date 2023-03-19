@@ -94,28 +94,4 @@
 
 ## 与会话助手相关的其他文章
 
-[](/conversational-ai-trends-and-predictions-for-2022-8be05e15e713) [## 对话式人工智能:2022 年的趋势和预测
-
-### 在这篇文章中，我提出了 2022 年市场发展的 6 个趋势和预测。
-
-towardsdatascience.com](/conversational-ai-trends-and-predictions-for-2022-8be05e15e713) [](/is-your-chatbot-sensitive-575ad0217707) [## 你的聊天机器人敏感吗？
-
-### 对话辅助解决方案越来越多地包括情感分析功能。这是什么意思？是不是…
-
-towardsdatascience.com](/is-your-chatbot-sensitive-575ad0217707) [](https://ai.plainenglish.io/is-your-chatbot-accessible-6b89a5e300f1) [## 你的聊天机器人可以访问吗？
-
-### 世界上有 6 . 5 亿人受到残疾的影响。似乎有必要帮助他们获得…
-
-ai .平原英语. io](https://ai.plainenglish.io/is-your-chatbot-accessible-6b89a5e300f1) [](/14-criteria-for-well-choosing-a-chatbots-solution-2e788aace3b8) [## 选择聊天机器人解决方案的 14 个标准
-
-### 选择自然语言会话辅助解决方案时，首先要考虑的标准是什么？
-
-towardsdatascience.com](/14-criteria-for-well-choosing-a-chatbots-solution-2e788aace3b8) [](/an-overview-of-the-global-market-for-chatbot-solutions-in-2020-820aa9366efc) [## 2020 年全球聊天机器人解决方案市场概述
-
-### 根据我对会话助手市场的积极观察，我给你一些关于……的统计数据和信息
-
-towardsdatascience.com](/an-overview-of-the-global-market-for-chatbot-solutions-in-2020-820aa9366efc) [](https://ai.plainenglish.io/conversational-ai-for-builders-the-4-levels-of-complexity-scale-4eb482a862d9) [## 建造者的对话式人工智能:4 个复杂等级
-
-### 当你想建立一个对话式人工智能解决方案时，重要的是要记住对话通常遵循…
-
-ai .平原英语. io](https://ai.plainenglish.io/conversational-ai-for-builders-the-4-levels-of-complexity-scale-4eb482a862d9)
+[](/conversational-ai-trends-and-predictions-for-2022-8be05e15e713)  [](/is-your-chatbot-sensitive-575ad0217707)  [](https://ai.plainenglish.io/is-your-chatbot-accessible-6b89a5e300f1)  [](/14-criteria-for-well-choosing-a-chatbots-solution-2e788aace3b8)  [](/an-overview-of-the-global-market-for-chatbot-solutions-in-2020-820aa9366efc)  [](https://ai.plainenglish.io/conversational-ai-for-builders-the-4-levels-of-complexity-scale-4eb482a862d9) 

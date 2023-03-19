@@ -32,11 +32,7 @@ Docker 映像不是虚拟机，而是软件的自包含单元，该自包含单�
 
 通过访问他们的下载网站下载并安装 docker 引擎。Docker-desktop 现在可用于所有平台，可以作为学习和维护 Docker 引擎的一个非常好的途径。
 
-[](https://docs.docker.com/engine/install/) [## 安装 Docker 引擎
-
-### Docker Desktop for Linux Docker Desktop 帮助您在 Mac 和 Windows 上轻松构建、共享和运行容器，就像您做…
-
-docs.docker.com](https://docs.docker.com/engine/install/) 
+[](https://docs.docker.com/engine/install/)  
 
 如果您使用的是 Linux，不要忘记运行
 
@@ -554,11 +550,7 @@ docker build --target builder -t singlestaged .
 
 推荐学习 Kubernetes，如果你想入门，我有一篇文章你可以看看。
 
- [## 中等
-
-### 编辑描述
-
-medium.com](https://medium.com/@programmingpercy/learn-kubernetes-the-easy-way-d1cfa460c013) 
+  
 
 ## 结论
 

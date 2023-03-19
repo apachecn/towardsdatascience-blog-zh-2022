@@ -16,11 +16,7 @@
 
 当然，在处理视频流时，可能会涉及到数据。始终考虑处理清晰可见人物图像的潜在风险。查看以下文章，了解如何降低处理此类数据的潜在风险:
 
-[](https://mikehuls.medium.com/image-analysis-for-beginners-detect-and-blur-faces-with-a-simple-function-60ba60753487) [## 用一个简单的功能检测和模糊人脸——适合初学者的图像分析
-
-### 自动匿名化您的图像、视频或视频流
-
-mikehuls.medium.com](https://mikehuls.medium.com/image-analysis-for-beginners-detect-and-blur-faces-with-a-simple-function-60ba60753487) 
+[](https://mikehuls.medium.com/image-analysis-for-beginners-detect-and-blur-faces-with-a-simple-function-60ba60753487)  
 
 ## 结果呢
 
@@ -32,11 +28,7 @@ mikehuls.medium.com](https://mikehuls.medium.com/image-analysis-for-beginners-de
 
 如您所见，我们能够检测视频中是否检测到运动，甚至隔离运动(绿色矩形)。请注意，像改变灯光或摇摆草地这样非常小的动作会被忽略。在接下来的部分中，我们将探索这是如何实现的。
 
-[](/why-is-python-so-slow-and-how-to-speed-it-up-485b5a84154e) [## Python 为什么这么慢，如何加速
-
-### 看看 Python 的瓶颈在哪里
-
-towardsdatascience.com](/why-is-python-so-slow-and-how-to-speed-it-up-485b5a84154e) 
+[](/why-is-python-so-slow-and-how-to-speed-it-up-485b5a84154e)  
 
 # 战略
 
@@ -51,11 +43,7 @@ towardsdatascience.com](/why-is-python-so-slow-and-how-to-speed-it-up-485b5a8415
 5.  在差异周围画绿色矩形
 6.  搞定了。
 
-[](/applying-python-multiprocessing-in-2-lines-of-code-3ced521bac8f) [## 在两行代码中应用 Python 多重处理
-
-### 何时以及如何使用多个内核来加快执行速度
-
-towardsdatascience.com](/applying-python-multiprocessing-in-2-lines-of-code-3ced521bac8f) 
+[](/applying-python-multiprocessing-in-2-lines-of-code-3ced521bac8f)  
 
 ## 第一步。阅读视频
 
@@ -67,21 +55,13 @@ pip install opencv-python pillow
 
 现在让我们设置一些允许我们读取帧的代码。因为我想创建一个好看的例子，所以我选择录制我的屏幕的一部分，显示一个 Youtube 视频，显示入侵者如何进入某人的后院。如果你想使用你的网络摄像头或其他摄像头，我会给你介绍下面的文章。
 
-[](/image-analysis-for-beginners-how-to-read-images-video-webcam-and-screen-3778e26760e2) [## 如何在 OpenCV 中读取图像、视频、网络摄像头和屏幕——初学者图像分析
-
-### 如何读取 OpenCV 要处理的图像的分步指南
-
-towardsdatascience.com](/image-analysis-for-beginners-how-to-read-images-video-webcam-and-screen-3778e26760e2) 
+[](/image-analysis-for-beginners-how-to-read-images-video-webcam-and-screen-3778e26760e2)  
 
 因为我只录制我的屏幕的一部分，所以我需要屏幕顶部，屏幕机器人等。参数，以便我可以很好地“抓取”(截图)它们:
 
 我们将跳到 X 行，在那里我们读取帧。前面的代码将在接下来的部分中变得清晰。我们启动一个无限 while 循环，并使用 ImageGrab 创建一个屏幕截图，我们将把它转换成一个 Numpy-array。这是一个保存截图中每个像素的 RGB 值的数组。
 
-[](/keep-your-code-secure-by-using-environment-variables-and-env-files-4688a70ea286) [## 通过使用环境变量和 env 文件来保证代码的安全
-
-### 安全地加载一个文件，其中包含我们的应用程序所需的所有机密数据，如密码、令牌等
-
-towardsdatascience.com](/keep-your-code-secure-by-using-environment-variables-and-env-files-4688a70ea286) 
+[](/keep-your-code-secure-by-using-environment-variables-and-env-files-4688a70ea286)  
 
 ## 第 2 部分:预处理
 
@@ -89,11 +69,7 @@ towardsdatascience.com](/keep-your-code-secure-by-using-environment-variables-an
 
 OpenCV 默认支持 BGR(查看上面的文章)，所以我们需要将 BGR 转换成 RGB。我们稍后将需要`img_rgb`，因为我们想要显示它。接下来的两行涉及到将 RGB 图像转换成黑白图像。这是因为像素阵列现在只需要“保持”一个值(黑度),而不是三个值(红、绿和蓝)。最后，我们将图像模糊一点，这样非常小的差异就不那么明显了。
 
-[](/create-a-fast-auto-documented-maintainable-and-easy-to-use-python-api-in-5-lines-of-code-with-4e574c00f70e) [## 用 5 行代码创建一个快速、自动记录、可维护且易于使用的 Python API
-
-### 非常适合只需要一个完整、有效、快速和安全的 API 的(没有经验的)开发人员
-
-towardsdatascience.com](/create-a-fast-auto-documented-maintainable-and-easy-to-use-python-api-in-5-lines-of-code-with-4e574c00f70e) 
+[](/create-a-fast-auto-documented-maintainable-and-easy-to-use-python-api-in-5-lines-of-code-with-4e574c00f70e)  
 
 ## 第三部分。比较图像
 
@@ -113,11 +89,7 @@ towardsdatascience.com](/create-a-fast-auto-documented-maintainable-and-easy-to-
 
 在这个代码中，确定了每个像素的色差必须至少为 20(255 分)。满足该阈值的每个像素将变成 100%白色，其余的将变成 100%黑色。
 
-[](/image-analysis-for-beginners-destroying-duck-hunt-with-opencv-e19a27fd8b6) [## 用 OpenCV 破坏猎鸭——初学者的图像分析
-
-### 编写代码，将击败每一个鸭子狩猎高分
-
-towardsdatascience.com](/image-analysis-for-beginners-destroying-duck-hunt-with-opencv-e19a27fd8b6) 
+[](/image-analysis-for-beginners-destroying-duck-hunt-with-opencv-e19a27fd8b6)  
 
 ## 第五部分。视觉反馈
 
@@ -149,8 +121,4 @@ towardsdatascience.com](/image-analysis-for-beginners-destroying-duck-hunt-with-
 
 喜欢我正在做的事情吗？ [*跟我来！*](https://mikehuls.medium.com/membership)
 
-[](https://mikehuls.medium.com/membership) [## 通过我的推荐链接加入媒体-迈克·赫斯
-
-### 阅读迈克·赫斯(以及媒体上成千上万的其他作家)的每一个故事。你的会员费直接支持麦克…
-
-mikehuls.medium.com](https://mikehuls.medium.com/membership)
+[](https://mikehuls.medium.com/membership) 

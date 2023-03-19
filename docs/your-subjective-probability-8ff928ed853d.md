@@ -22,11 +22,7 @@
 
 *参见我上一篇文章中关于概率解释的简介:*
 
-[](/interpretations-of-probability-b254ad33fe50) [## 概率的解释
-
-### 在这个“数据驱动”的世界里，我们自由地使用“概率”这个词，但是当我们谈论…
-
-towardsdatascience.com](/interpretations-of-probability-b254ad33fe50) 
+[](/interpretations-of-probability-b254ad33fe50)  
 
 # 信仰程度
 

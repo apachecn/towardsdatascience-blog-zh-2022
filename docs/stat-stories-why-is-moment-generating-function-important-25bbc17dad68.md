@@ -62,11 +62,7 @@ r 阶中心矩是有用的，因为矩被计算为与平均值的偏差，而不
 
 MGF 可以被用来唯一地确定一个概率分布，这不是真的，只是通过使用我们在上面看到的矩。在这种情况下，可以有把握地说两个随机变量 *X* 和 *V* 具有相同的 CDF 当且仅当 *Mₓ(t) = M* ᵥ *(t)* 对于任意 *t* 。
 
-[](/stat-stories-variable-transformation-to-generate-new-distributions-d4607cb32c30) [## 统计故事:生成新分布的变量转换
-
-### 统计分布的变换
-
-towardsdatascience.com](/stat-stories-variable-transformation-to-generate-new-distributions-d4607cb32c30) 
+[](/stat-stories-variable-transformation-to-generate-new-distributions-d4607cb32c30)  
 
 ## **举例**
 

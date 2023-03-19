@@ -16,11 +16,7 @@
 
 虽然你当然可以自己从头开始编写所有这些 Github 动作，但我建议不要重新发明轮子。相反，为您的特定用例搜索可用操作的好地方是[市场](https://github.com/marketplace?type=actions)。让我们看看如何在行动中使用它们。
 
-[](https://github.com/V-Sher/Github-Actions-PlayGround) [## GitHub-V-Sher/GitHub-Actions-PlayGround:理解对数据科学家有用的 GitHub 操作
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/V-Sher/Github-Actions-PlayGround) 
+[](https://github.com/V-Sher/Github-Actions-PlayGround)  
 
 *注意:尽管运行随心所欲的操作可能很诱人，但私人回购每月只有有限的免费分钟数(约 2000 分钟)和存储空间(约 500MB)(分钟数每月重置，但存储空间不会)。然而，公开回购对 Github 操作的使用没有这样的限制。更多关于计费的细节可以在* [*这里找到*](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions) *。*
 
@@ -277,16 +273,4 @@ result = requests.post(url=url, headers=headers, json=data)**
 
 **我喜欢写循序渐进的初学者指南、操作指南、面试问题、ML/AI 中使用的解码术语等。如果你想完全访问我的所有文章(和其他媒体上的文章)，那么你可以注册使用 [***我的链接***](https://varshitasher.medium.com/membership)**这里* ***。******
 
-**[](/understanding-python-imports-init-py-and-pythonpath-once-and-for-all-4c5249ab6355) [## 了解 Python 导入，__init__。py 和 pythonpath —一劳永逸
-
-### 了解如何导入包和模块(以及两者之间的区别)
-
-towardsdatascience.com](/understanding-python-imports-init-py-and-pythonpath-once-and-for-all-4c5249ab6355) [](/how-to-make-most-of-your-python-debugger-in-vscode-9e05dfce533f) [## 如何在 VSCode 中充分利用你的 python 调试器？
-
-### 观察变量，使用条件断点，调用堆栈，异常断点等——当在大型项目中工作时
-
-towardsdatascience.com](/how-to-make-most-of-your-python-debugger-in-vscode-9e05dfce533f) [](/step-by-step-guide-to-explaining-your-ml-project-during-a-data-science-interview-81dfaaa408bf) [## 在数据科学面试中解释你的 ML 项目的逐步指南。
-
-### 在结尾有一个额外的样本脚本，让你谨慎地展示你的技术技能！
-
-towardsdatascience.com](/step-by-step-guide-to-explaining-your-ml-project-during-a-data-science-interview-81dfaaa408bf)**
+**[](/understanding-python-imports-init-py-and-pythonpath-once-and-for-all-4c5249ab6355)  [](/how-to-make-most-of-your-python-debugger-in-vscode-9e05dfce533f)  [](/step-by-step-guide-to-explaining-your-ml-project-during-a-data-science-interview-81dfaaa408bf) **

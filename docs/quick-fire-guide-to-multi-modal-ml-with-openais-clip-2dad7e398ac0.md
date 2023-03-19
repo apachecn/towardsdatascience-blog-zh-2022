@@ -104,12 +104,4 @@ CLIP 是一个惊人的模型，可以以任何顺序或组合应用于语言图
 
 感谢阅读！
 
-[](https://www.pinecone.io/learn/nlp/) [## 用于语义搜索的自然语言处理(NLP)
-
-### 语义搜索长期以来一直是谷歌、亚马逊和谷歌等巨头的技术栈中的关键组件。
-
-www.pinecone.io](https://www.pinecone.io/learn/nlp/) [](https://www.pinecone.io/learn/image-search/) [## 图像搜索的嵌入方法|松果
-
-### 了解如何让机器像人一样理解图像。这个免费课程涵盖了你需要的一切…
-
-www.pinecone.io](https://www.pinecone.io/learn/image-search/)
+[](https://www.pinecone.io/learn/nlp/)  [](https://www.pinecone.io/learn/image-search/) 

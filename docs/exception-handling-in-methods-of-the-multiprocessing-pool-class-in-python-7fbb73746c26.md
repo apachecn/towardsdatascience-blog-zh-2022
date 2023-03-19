@@ -301,11 +301,7 @@ time took: 8.2
 
 您可以在我的文章中了解更多关于 **parallelbar** 的信息:
 
-[](https://medium.com/pythoneers/visualize-your-multiprocessing-calculations-in-python-with-parallelbar-5395651f35aa) [## 使用 parallelbar 模块在 python 中可视化您的多处理计算
-
-### 也许每个数据科学家迟早都会面临使用多处理器数据处理的需要。在本文中，我们…
-
-medium.com](https://medium.com/pythoneers/visualize-your-multiprocessing-calculations-in-python-with-parallelbar-5395651f35aa) 
+[](https://medium.com/pythoneers/visualize-your-multiprocessing-calculations-in-python-with-parallelbar-5395651f35aa)  
 
 或者您可以查看[文档](http://or you can check the documentation)
 

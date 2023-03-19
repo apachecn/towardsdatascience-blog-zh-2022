@@ -39,21 +39,13 @@
 
 本文中使用的代码可以在这里找到:
 
-[](https://github.com/khuyentran1401/prefect-dvc/tree/dvc-pipeline) [## GitHub-khuyentran 1401/prefect-dvc 管道处的 DVC
-
-### 一个关于如何使用 DVC·DVC 的提督演示:数据版本控制提督:编排和观察数据流
-
-github.com](https://github.com/khuyentran1401/prefect-dvc/tree/dvc-pipeline) 
+[](https://github.com/khuyentran1401/prefect-dvc/tree/dvc-pipeline)  
 
 # 使用 DVC 管道运行修改后的数据流程
 
 [DVC](https://dvc.org/doc/start) 是数据版本控制系统。它本质上类似于 Git，但用于数据。
 
-[](/introduction-to-dvc-data-version-control-tool-for-machine-learning-projects-7cb49c229fe0) [## DVC 介绍:机器学习项目的数据版本控制工具
-
-### 就像 Git 一样，但是有数据！
-
-towardsdatascience.com](/introduction-to-dvc-data-version-control-tool-for-machine-learning-projects-7cb49c229fe0) 
+[](/introduction-to-dvc-data-version-control-tool-for-machine-learning-projects-7cb49c229fe0)  
 
 [DVC 管道](https://dvc.org/doc/start/data-management/data-pipelines)允许你指定产生最终结果的单个数据过程(称为*阶段*)。
 
@@ -162,11 +154,7 @@ dvc push
 
 [GitHub Actions](https://github.com/features/actions) 允许你自动化你的工作流程，从而更快地构建、测试和部署你的代码。
 
-[](https://pub.towardsai.net/github-actions-in-mlops-automatically-check-and-deploy-your-ml-model-9a281d7f3c84) [## MLOps 中的 GitHub 动作:自动检查和部署您的 ML 模型
-
-### 使用 GitHub 动作自动化您的 ML 管道
-
-pub.towardsai.net](https://pub.towardsai.net/github-actions-in-mlops-automatically-check-and-deploy-your-ml-model-9a281d7f3c84) 
+[](https://pub.towardsai.net/github-actions-in-mlops-automatically-check-and-deploy-your-ml-model-9a281d7f3c84)  
 
 在向 GitHub 提交更改时，我们将使用 GitHub 操作来运行 DVC 管道。
 
@@ -309,20 +297,4 @@ git push origin dvc-pipeline
 
 如果你想检查我写的文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/create-a-maintainable-data-pipeline-with-prefect-and-dvc-1d691ea5bcea) [## 用提督和 DVC 创建一个可维护的数据管道
-
-### 使您的管道更易于支持和维护
-
-towardsdatascience.com](/create-a-maintainable-data-pipeline-with-prefect-and-dvc-1d691ea5bcea) [](/4-pre-commit-plugins-to-automate-code-reviewing-and-formatting-in-python-c80c6d2e9f5) [## 4 个预提交插件，用于在 Python 中自动检查和格式化代码
-
-### 使用 black、flake8、isort 和 interrogate 编写高质量的代码
-
-towardsdatascience.com](/4-pre-commit-plugins-to-automate-code-reviewing-and-formatting-in-python-c80c6d2e9f5) [](/pytest-for-data-scientists-2990319e55e6) [## 数据科学家 Pytest
-
-### 适用于您的数据科学项目的 Pytest 综合指南
-
-towardsdatascience.com](/pytest-for-data-scientists-2990319e55e6) [](/great-expectations-always-know-what-to-expect-from-your-data-51214866c24) [## 远大的期望:永远知道从你的数据中可以期待什么
-
-### 使用 Python 确保数据按预期工作
-
-towardsdatascience.com](/great-expectations-always-know-what-to-expect-from-your-data-51214866c24)
+[](/create-a-maintainable-data-pipeline-with-prefect-and-dvc-1d691ea5bcea)  [](/4-pre-commit-plugins-to-automate-code-reviewing-and-formatting-in-python-c80c6d2e9f5)  [](/pytest-for-data-scientists-2990319e55e6)  [](/great-expectations-always-know-what-to-expect-from-your-data-51214866c24) 

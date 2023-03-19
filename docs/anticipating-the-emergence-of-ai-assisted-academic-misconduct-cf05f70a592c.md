@@ -18,19 +18,7 @@ GPT-3 是一种由旧金山研究公司 OpenAI 开发的语言模型。GPT-3 接
 
 生成原始文本并不是 GPT 3 号唯一能做的事情。这里是一些其他媒体的文章，有更多关于这个模型的例子和细节。
 
-[](/gpt-3-demos-use-cases-implications-77f86e540dc1) [## GPT-3:演示、用例、含义
-
-### OpenAI 最新的 wunder 模型 GPT 3 的使用和含义。
-
-towardsdatascience.com](/gpt-3-demos-use-cases-implications-77f86e540dc1) [](/will-gpt-3-kill-coding-630e4518c04d) [## GPT-3 会杀死编码吗？
-
-### 人工智能现在可以用任何语言编码，无需额外训练。
-
-towardsdatascience.com](/will-gpt-3-kill-coding-630e4518c04d) [](/gpt-3-creative-potential-of-nlp-d5ccae16c1ab) [## GPT-3:自然语言处理的创造潜力
-
-### OpenAI 的新 ML 里程碑—在行动中
-
-towardsdatascience.com](/gpt-3-creative-potential-of-nlp-d5ccae16c1ab) 
+[](/gpt-3-demos-use-cases-implications-77f86e540dc1)  [](/will-gpt-3-kill-coding-630e4518c04d)  [](/gpt-3-creative-potential-of-nlp-d5ccae16c1ab)  
 
 # **访问并试驾 GPT 三号**
 

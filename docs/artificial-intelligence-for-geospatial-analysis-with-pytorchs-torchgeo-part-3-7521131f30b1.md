@@ -235,23 +235,11 @@ Epoch 5: Train Loss=0.21393 - Accs=[0.956, 0.748]
 
 *如果你喜欢这篇文章，想支持我当作家，可以考虑成为* [*中等会员*](https://cordmaur.medium.com/membership) *。每月只需 5 美元，我会从你的会员费中收取一小笔佣金，不需要你额外付费。或者你可以随时给我买杯咖啡。*
 
-[](https://cordmaur.medium.com/membership) [## 通过我的推荐链接加入媒体-毛里西奥·科代罗
-
-### 阅读毛里西奥·科代罗的每一个故事(以及媒体上成千上万的其他作家)。您的会员费直接…
-
-cordmaur.medium.com](https://cordmaur.medium.com/membership) 
+[](https://cordmaur.medium.com/membership)  
 
 # 以前的零件
 
-[](/artificial-intelligence-for-geospatial-analysis-with-pytorchs-torchgeo-part-1-52d17e409f09) [## 使用 Pytorch 的 TorchGeo 进行地理空间分析的人工智能(第 1 部分)
-
-### 使用 Pytorch 和 TorchGeo 包的端到端深度学习地理空间分割项目
-
-towardsdatascience.com](/artificial-intelligence-for-geospatial-analysis-with-pytorchs-torchgeo-part-1-52d17e409f09) [](/artificial-intelligence-for-geospatial-analysis-with-pytorchs-torchgeo-part-2-ec3785fae284) [## 使用 Pytorch 的 TorchGeo 进行地理空间分析的人工智能(第 2 部分)
-
-### 使用 Pytorch 和 TorchGeo 包的端到端深度学习地理空间分割项目
-
-towardsdatascience.com](/artificial-intelligence-for-geospatial-analysis-with-pytorchs-torchgeo-part-2-ec3785fae284) 
+[](/artificial-intelligence-for-geospatial-analysis-with-pytorchs-torchgeo-part-1-52d17e409f09)  [](/artificial-intelligence-for-geospatial-analysis-with-pytorchs-torchgeo-part-2-ec3785fae284)  
 
 # 参考资料:
 

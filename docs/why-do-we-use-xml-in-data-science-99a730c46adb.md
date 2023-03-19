@@ -78,16 +78,4 @@ XML 使用相同的结构，不同之处在于标记的数量不受限制，它�
 
 *如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
 
-*[](/getting-started-with-json-4c94bb4df113) [## JSON 入门
-
-### 介绍用于数据交换的文件格式
-
-towardsdatascience.com](/getting-started-with-json-4c94bb4df113) [](/what-is-an-api-easily-explained-d153a736a55f) [## 什么是 API？容易解释
-
-### 应用程序编程接口介绍
-
-towardsdatascience.com](/what-is-an-api-easily-explained-d153a736a55f) [](/the-difference-between-correlation-and-causation-51d44c102789) [## 相关性和因果关系的区别
-
-### 你需要知道的关于偶然推断的一切
-
-towardsdatascience.com](/the-difference-between-correlation-and-causation-51d44c102789)*
+*[](/getting-started-with-json-4c94bb4df113)  [](/what-is-an-api-easily-explained-d153a736a55f)  [](/the-difference-between-correlation-and-causation-51d44c102789) *

@@ -142,12 +142,4 @@
 
 # *资源*
 
-*[](https://learn.microsoft.com/en-us/windows/wsl/about) [## 什么是 Linux 的 Windows 子系统
-
-### Linux 的 Windows 子系统允许开发人员运行 GNU/Linux 环境——包括大多数命令行工具…
-
-learn.microsoft.com](https://learn.microsoft.com/en-us/windows/wsl/about) [](https://code.visualstudio.com/docs/devcontainers/containers) [## 使用 Visual Studio 代码远程开发在容器内开发
-
-### Visual Studio 代码开发容器扩展允许您将 Docker 容器用作全功能开发…
-
-code.visualstudio.com](https://code.visualstudio.com/docs/devcontainers/containers)*
+*[](https://learn.microsoft.com/en-us/windows/wsl/about)  [](https://code.visualstudio.com/docs/devcontainers/containers) *

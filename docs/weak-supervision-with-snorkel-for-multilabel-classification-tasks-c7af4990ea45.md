@@ -34,11 +34,7 @@
 
 我们使用一个名为`problems_preprocessed.json`的数据集，它有三个键:`text`键包含 LaTeX 格式的数学问题，`tags`键包含代数、组合学、几何或数论中的一两个标签，以及`token`键。原始数据集与我在[之前的故事](/active-learning-a-practical-approach-to-improve-your-data-labeling-experience-26da83983393)中使用的数据集相同。
 
-[](/active-learning-a-practical-approach-to-improve-your-data-labeling-experience-26da83983393) [## 主动学习:改善数据标注体验的实用方法
-
-### 一种更智能的人类标记方式
-
-towardsdatascience.com](/active-learning-a-practical-approach-to-improve-your-data-labeling-experience-26da83983393) 
+[](/active-learning-a-practical-approach-to-improve-your-data-labeling-experience-26da83983393)  
 
 回想一下，通过几个步骤对`text`进行预处理(只是现在没有去词干)以获得干净的`token`。我们不做词干分析，因为我们需要原始单词来构建关键字标签函数。预处理细节请访问[上一个故事](/active-learning-a-practical-approach-to-improve-your-data-labeling-experience-26da83983393)。
 

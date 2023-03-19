@@ -188,32 +188,16 @@ Fernando Paredes Murillo 在 [Unsplash](https://unsplash.com/s/photos/desert?utm
 
 谷歌人工智能的博客文章:
 
-[](https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html) [## 概念主义:深入神经网络
-
-### 更新- 13/07/2015 本文中的图片由谷歌公司根据知识共享署名 4.0 进行许可…
-
-ai.googleblog.com](https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html) 
+[](https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html)  
 
 TensorFlow 教程:
 
-[](https://www.tensorflow.org/tutorials/generative/deepdream) [## DeepDream | TensorFlow 核心
-
-### 本教程包含了 DeepDream 的一个最小实现，正如 Alexander Mordvintsev 在这篇博文中所描述的…
-
-www.tensorflow.org](https://www.tensorflow.org/tutorials/generative/deepdream) 
+[](https://www.tensorflow.org/tutorials/generative/deepdream)  
 
 Keras 深梦:
 
-[](https://keras.io/examples/generative/deep_dream/) [## Keras 文档:深梦
-
-### 作者:fchollet 创建日期:2016/01/13 最近修改时间:2020/05/02 描述:用 Keras 生成深度梦境…
-
-keras.io](https://keras.io/examples/generative/deep_dream/) 
+[](https://keras.io/examples/generative/deep_dream/)  
 
 如果你愿意支持 Thu，你可以考虑注册成为一名中等会员。每月支付 5 美元，你就可以无限制地阅读媒体上的故事。如果你使用他的推荐链接，Thu 也会得到一小笔佣金。
 
-[](https://medium.com/@tdinh15/membership) [## 通过我的推荐链接加入媒体- Thu Dinh
-
-### 阅读 Thu Dinh 的每一个故事(以及媒体上成千上万的其他作家)。你的会员费直接支持周四…
-
-medium.com](https://medium.com/@tdinh15/membership)
+[](https://medium.com/@tdinh15/membership) 

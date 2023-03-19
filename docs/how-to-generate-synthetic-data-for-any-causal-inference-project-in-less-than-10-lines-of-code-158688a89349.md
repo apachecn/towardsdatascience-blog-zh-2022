@@ -12,11 +12,7 @@
 
 在“原因之书”中，Judea Pearl 使用了一个疫苗接种、反应、天花和死亡的例子来描述和解释“因果关系的阶梯”,这促使我用 Python 实现这个例子，但我无法找到一种方法来生成我需要开始使用的测试数据。
 
-[](https://www.amazon.co.uk/Book-Why-Science-Cause-Effect/dp/0241242630) [## 为什么之书:因果的新科学
-
-### 购买由珀尔，朱迪亚，麦肯齐，达纳(ISBN: 9780241242636)所著的《为什么:因果的新科学》一书
-
-www.amazon.co.uk](https://www.amazon.co.uk/Book-Why-Science-Cause-Effect/dp/0241242630) 
+[](https://www.amazon.co.uk/Book-Why-Science-Cause-Effect/dp/0241242630)  
 
 在我们深入研究合成数据生成之前，请考虑…
 
@@ -128,11 +124,7 @@ dtype: int64
 
 [通过我的推荐链接](https://grahamharrison-86487.medium.com/membership)加入媒体(如果你使用这个链接注册，我将收取一定比例的费用)。
 
-[](https://grahamharrison-86487.medium.com/membership) [## 通过我的推荐链接加入媒体-格雷厄姆哈里森
-
-### 阅读格雷厄姆·哈里森(以及媒体上成千上万的其他作家)的每一个故事。增强您的数据知识…
-
-grahamharrison-86487.medium.com](https://grahamharrison-86487.medium.com/membership) 
+[](https://grahamharrison-86487.medium.com/membership)  
 
 [每当我发表一个新故事时，订阅一封免费电子邮件](https://grahamharrison-86487.medium.com/subscribe)。
 

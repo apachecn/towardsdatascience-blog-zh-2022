@@ -49,11 +49,7 @@
 
 下面是详细介绍教程的文章。你有空的时候可以去看看。
 
-[](https://medium.com/codex/improving-ocr-recognition-through-human-review-via-amazon-augmented-ai-a9c5f6d51c04) [## 通过亚马逊增强人工智能的人工审查来改善 OCR 识别
-
-### 创建一个管道，在 13 分钟内通过 OCR 和人工审查从 PDF 文档中提取数据
-
-medium.com](https://medium.com/codex/improving-ocr-recognition-through-human-review-via-amazon-augmented-ai-a9c5f6d51c04) 
+[](https://medium.com/codex/improving-ocr-recognition-through-human-review-via-amazon-augmented-ai-a9c5f6d51c04)  
 
 > 等一下。你提到无服务器应该是轻量级的。但是在你的 *send_from_s3_to_textract* 函数中，你使用的是 python 包 *boto3。*那不是超过 50 MB，会大幅度影响冷启动吗？
 
@@ -85,16 +81,4 @@ medium.com](https://medium.com/codex/improving-ocr-recognition-through-human-rev
 
 **参考文献:**
 
-[](https://lumigo.io/blog/provisioned-concurrency-the-end-of-cold-starts/) [## AWS Lambda 提供的并发性:冷启动的终结
-
-### 了解如何使用 AWS Lambda 调配的并发性来防止无服务器冷启动-了解调配的…
-
-lumigo.io](https://lumigo.io/blog/provisioned-concurrency-the-end-of-cold-starts/) [](https://aws.amazon.com/blogs/compute/operating-lambda-performance-optimization-part-1/) [## 运行 Lambda:性能优化-第 1 部分| Amazon Web Services
-
-### 在操作 Lambda 系列中，我为开发人员、架构师和系统管理员介绍了一些重要的主题，他们是…
-
-aws.amazon.com](https://aws.amazon.com/blogs/compute/operating-lambda-performance-optimization-part-1/) [](https://aws.amazon.com/blogs/compute/operating-lambda-performance-optimization-part-2/) [## 运行 Lambda:性能优化-第 2 部分| Amazon Web Services
-
-### 这篇文章是关于 Lambda 性能优化的 3 部分系列文章的第二部分。它解释了记忆的作用…
-
-aws.amazon.com](https://aws.amazon.com/blogs/compute/operating-lambda-performance-optimization-part-2/)
+[](https://lumigo.io/blog/provisioned-concurrency-the-end-of-cold-starts/)  [](https://aws.amazon.com/blogs/compute/operating-lambda-performance-optimization-part-1/)  [](https://aws.amazon.com/blogs/compute/operating-lambda-performance-optimization-part-2/) 

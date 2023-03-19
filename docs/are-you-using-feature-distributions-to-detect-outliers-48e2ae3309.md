@@ -122,11 +122,7 @@ DBSCAN 检测到橙色中的异常值。图片作者。
 
 您可以在下面的文章中找到关于处理异常值的提示:
 
-[](https://hennie-de-harder.medium.com/dont-throw-away-your-outliers-c37e1ab0ce19) [## 不要扔掉你的离群值！
-
-### 在你尝试这些技术之前。
-
-hennie-de-harder.medium.com](https://hennie-de-harder.medium.com/dont-throw-away-your-outliers-c37e1ab0ce19) 
+[](https://hennie-de-harder.medium.com/dont-throw-away-your-outliers-c37e1ab0ce19)  
 
 # 参考
 

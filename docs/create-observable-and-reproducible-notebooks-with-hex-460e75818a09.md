@@ -145,21 +145,13 @@ Hex 还允许你通过一个漂亮的 GUI 创建一个简单的图表。
 
 您可以在此处找到此数据管道的代码:
 
-[](https://github.com/khuyentran1401/customer_segmentation/tree/prefect2) [## GitHub-khuyentran 1401/prefect 2 处的客户 _ 分段
-
-### 关于客户细分的端到端项目。通过以下方式为 khuyentran 1401/客户细分发展做出贡献…
-
-github.com](https://github.com/khuyentran1401/customer_segmentation/tree/prefect2) 
+[](https://github.com/khuyentran1401/customer_segmentation/tree/prefect2)  
 
 ## 概观
 
 我们将使用[perfect](https://www.prefect.io/)来观察和编排我们的数据管道。Prefect 是一个开源库，允许您编排和观察 Python 中定义的数据管道。
 
-[](https://medium.com/the-prefect-blog/orchestrate-your-data-science-project-with-prefect-2-0-4118418fd7ce) [## 使用 Prefect 2.0 协调您的数据科学项目
-
-### 让您的数据科学管道能够抵御故障
-
-medium.com](https://medium.com/the-prefect-blog/orchestrate-your-data-science-project-with-prefect-2-0-4118418fd7ce) 
+[](https://medium.com/the-prefect-blog/orchestrate-your-data-science-project-with-prefect-2-0-4118418fd7ce)  
 
 管道中有四种流量:`process_data`、`segment`和`run_notebook`。这些流程的详细信息:
 
@@ -227,20 +219,4 @@ if __name__ == "__main__":
 
 如果你想查看我写的所有文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/dvc-github-actions-automatically-rerun-modified-components-of-a-pipeline-a3632519dc42) [## DVC + GitHub 动作:自动重新运行修改过的管道组件
-
-### 快速迭代 DS 项目的完美组合
-
-towardsdatascience.com](/dvc-github-actions-automatically-rerun-modified-components-of-a-pipeline-a3632519dc42) [](/create-robust-data-pipelines-with-prefect-docker-and-github-12b231ca6ed2) [## 使用 Prefect、Docker 和 GitHub 创建强大的数据管道
-
-### 将您的工作流存储在 GitHub 中，并在 Docker 容器中执行它
-
-towardsdatascience.com](/create-robust-data-pipelines-with-prefect-docker-and-github-12b231ca6ed2) [](/how-to-structure-a-data-science-project-for-readability-and-transparency-360c6716800) [## 如何构建可读性和透明度的数据科学项目
-
-### 以及如何用一行代码创建一个
-
-towardsdatascience.com](/how-to-structure-a-data-science-project-for-readability-and-transparency-360c6716800) [](/hypothesis-and-pandera-generate-synthesis-pandas-dataframe-for-testing-e5673c7bec2e) [## 假设和潘德拉:生成用于测试的综合熊猫数据框架
-
-### 用基于属性的测试创建干净和健壮的测试
-
-towardsdatascience.com](/hypothesis-and-pandera-generate-synthesis-pandas-dataframe-for-testing-e5673c7bec2e)
+[](/dvc-github-actions-automatically-rerun-modified-components-of-a-pipeline-a3632519dc42)  [](/create-robust-data-pipelines-with-prefect-docker-and-github-12b231ca6ed2)  [](/how-to-structure-a-data-science-project-for-readability-and-transparency-360c6716800)  [](/hypothesis-and-pandera-generate-synthesis-pandas-dataframe-for-testing-e5673c7bec2e) 

@@ -14,11 +14,7 @@
 
 你可以阅读下面的帖子，并访问这个 [GitHub repo](https://github.com/ThuwarakeshM/Streamlit-Intro) 的源代码。
 
-[](/how-to-create-stunning-web-apps-for-your-data-science-projects-c7791102134e) [## 如何为您的数据科学项目创建出色的 Web 应用程序
-
-### 数据科学家不必学习 HTML、CSS 和 JavaScript 来构建网页。
-
-towardsdatascience.com](/how-to-create-stunning-web-apps-for-your-data-science-projects-c7791102134e) 
+[](/how-to-create-stunning-web-apps-for-your-data-science-projects-c7791102134e)  
 
 在这篇文章和以后的几篇文章中，我想分享一些令人兴奋的方法，我已经解决了一些关于 Stramlit 的挑战性问题。这篇文章解释了如何围绕你的 Stramlit 应用建立一个认证系统。
 
@@ -42,11 +38,7 @@ Streamlit 还年轻，还在进步。它有一个使用`secrets.toml`文件认�
 
 Django 有一个默认的管理界面来管理用户。它有一个[认证机制](https://docs.djangoproject.com/en/4.0/topics/auth/)，通过密码哈希将用户存储在数据库中。所以，让我们利用它。
 
-[](/plotly-dashboards-in-python-28a3bb83702c) [## 这就是我如何纯粹用 Python 创建令人眼花缭乱的仪表盘。
-
-### Plotly dash 应用程序是用 python 构建生产级仪表板的最快方式。
-
-towardsdatascience.com](/plotly-dashboards-in-python-28a3bb83702c) 
+[](/plotly-dashboards-in-python-28a3bb83702c)  
 
 # 让我们为 Streamlit 构建一个 Django 验证器。
 
@@ -156,8 +148,4 @@ Streamlit 是数据科学家的绝佳解决方案。它允许围绕他们的机�
 
 还不是中等会员？请使用此链接 [**成为会员**](https://thuwarakesh.medium.com/membership) 因为，在没有额外费用的情况下，我为你引荐赚取一小笔佣金。
 
-[](/advanced-pandas-plots-e2347a33d576) [## 在一行代码中创建令人惊叹的可视化熊猫数据框架
-
-### 一个简单的技巧，使您的图表具有交互性和视觉吸引力
-
-towardsdatascience.com](/advanced-pandas-plots-e2347a33d576)
+[](/advanced-pandas-plots-e2347a33d576) 

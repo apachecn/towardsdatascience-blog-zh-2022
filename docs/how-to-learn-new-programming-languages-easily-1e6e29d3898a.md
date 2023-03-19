@@ -274,11 +274,7 @@
 
 *最后，除了经常练习编程语言，我认为编码是一种“思维方式”。例如，给定一个大项目，适当地组织你的代码而不是从上到下顺序运行它或者硬编码组件是很重要的。幸运的是，这种“思维方式”可以通过遵循编码最佳实践来加以利用(您可以将其视为一组推荐的规则)。遵循编码最佳实践可以使您的代码更加优雅、模块化和易于理解。有需求的话可以出续集；)*
 
-*[](/3-tips-for-writing-clean-codes-beyond-coding-best-practices-c53b04120c3) [## 除了编码最佳实践之外，编写干净代码的 3 个技巧
-
-### 编写优雅的、模块化的、可理解的和可维护的代码
-
-towardsdatascience.com](/3-tips-for-writing-clean-codes-beyond-coding-best-practices-c53b04120c3)* 
+*[](/3-tips-for-writing-clean-codes-beyond-coding-best-practices-c53b04120c3) * 
 
 # *相关链接*
 

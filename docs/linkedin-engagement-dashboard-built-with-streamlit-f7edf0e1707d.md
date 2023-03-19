@@ -307,11 +307,7 @@ page2()的代码继续尝试将 Excel 文件作为熊猫数据帧 df 读取。�
 
 此代码的 GitHub repo 可以在下面的链接中找到。
 
-[](https://github.com/christianwanser/LinkedIn-Engagements-Dash.git) [## GitHub-Christian wanser/LinkedIn-订婚-Dash
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/christianwanser/LinkedIn-Engagements-Dash.git) 
+[](https://github.com/christianwanser/LinkedIn-Engagements-Dash.git)  
 
 # 摘要
 
@@ -325,8 +321,4 @@ github.com](https://github.com/christianwanser/LinkedIn-Engagements-Dash.git)
 
 如果你对数据专业人员的生活有任何疑问，请随时在 [LinkedIn](https://www.linkedin.com/in/christian-wanser/) 或 [Twitter](https://twitter.com/ChrisWritesData) 上联系我！
 
-[](https://medium.com/@ChristianWritesData/membership) [## 加入我的推荐链接-基督教万瑟媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@ChristianWritesData/membership)
+[](https://medium.com/@ChristianWritesData/membership) 

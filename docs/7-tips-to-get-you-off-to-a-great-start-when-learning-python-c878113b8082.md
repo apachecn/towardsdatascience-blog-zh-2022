@@ -68,11 +68,7 @@ GitHub 概要文件是展示您的项目和编码能力的好方法。图片由�
 
 如果你喜欢通过视频分享，那么 YouTube 是一个很好的起点。去年，我在 YouTube 上开设了一个频道，专注于 Python 和机器学习在地球科学领域的应用。这是我走出舒适区的一大步，但迄今为止这是一个伟大的旅程。你可以看看下面我的 YouTube 频道，看看我过去一年的进步。
 
-[](https://www.youtube.com/channel/UCn1O_4_ApzbYwrsUdRoMmOg) [## 安迪·麦克唐纳
-
-### 岩石物理学# python # matplotlib #地球科学
-
-www.youtube.com](https://www.youtube.com/channel/UCn1O_4_ApzbYwrsUdRoMmOg) 
+[](https://www.youtube.com/channel/UCn1O_4_ApzbYwrsUdRoMmOg)  
 
 # 5.从事一个项目
 
@@ -120,11 +116,7 @@ matplotlib 中更改刻度标签的 Google 搜索示例。图片由作者提供�
 
 如果您想了解如何记录您的代码，请查看下面的这篇文章。
 
-[](/5-essential-tips-to-improve-the-readability-of-your-python-code-a1d5e62a4bf0) [## 提高 Python 代码可读性的 5 个基本技巧
-
-### 通过文档、类型提示和正确的变量名改进您的 Python 代码
-
-towardsdatascience.com](/5-essential-tips-to-improve-the-readability-of-your-python-code-a1d5e62a4bf0) 
+[](/5-essential-tips-to-improve-the-readability-of-your-python-code-a1d5e62a4bf0)  
 
 *感谢阅读。在你走之前，你一定要订阅我的内容，把我的文章放到你的收件箱里。* [***你可以在这里做！***](https://andymcdonaldgeo.medium.com/subscribe)**或者，您可以* [***注册我的简讯***](https://fabulous-founder-2965.ck.page/2ca286e572) *免费获取更多内容直接发送到您的收件箱。**
 

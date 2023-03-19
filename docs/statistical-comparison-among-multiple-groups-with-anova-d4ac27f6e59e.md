@@ -40,11 +40,7 @@
 
 **如果你想了解 z-test 和 t-test，下面这篇文章也许能帮到你。**
 
-*[](https://medium.datadriveninvestor.com/all-you-need-to-know-about-hypothesis-testing-for-data-science-enthusiasts-30cfe1dce028) [## 对于数据科学爱好者来说，关于假设检验，您需要知道的就是
-
-### 从样本数据中对总体参数进行假设检验并得出结论
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/all-you-need-to-know-about-hypothesis-testing-for-data-science-enthusiasts-30cfe1dce028) 
+*[](https://medium.datadriveninvestor.com/all-you-need-to-know-about-hypothesis-testing-for-data-science-enthusiasts-30cfe1dce028)  
 
 ## f 分布
 
@@ -544,12 +540,4 @@ print('Critical value of F is {:.3f}'.format(f_critical))*
 11.  *[*多组间统计比较用 ANOVA (Stat-11)*](/statistical-comparison-among-multiple-groups-with-anova-d4ac27f6e59e?source=your_stories_page-------------------------------------)*
 12.  *[*用卡方检验比较分类变量的相关性(Stat-12)*](/compare-dependency-of-categorical-variables-with-chi-square-test-982baff64e81?source=your_stories_page-------------------------------------)*
 
-*[](https://mzh706.medium.com/membership) [## 通过我的推荐链接加入 Medium-MD . Zubair
-
-### 阅读 Md. Zubair 的每一个故事你的会员费直接支持 Md. Zubair 和你阅读的其他作家。你会…
-
-mzh706.medium.com](https://mzh706.medium.com/membership) [](https://mzh706.medium.com/subscribe) [## 每当 Md. Zubair 发表文章时，就收到一封电子邮件。
-
-### 每当 Md. Zubair 发表文章时，就收到一封电子邮件。通过注册，您将创建一个中型帐户，如果您还没有…
-
-mzh706.medium.com](https://mzh706.medium.com/subscribe)*
+*[](https://mzh706.medium.com/membership)  [](https://mzh706.medium.com/subscribe) *

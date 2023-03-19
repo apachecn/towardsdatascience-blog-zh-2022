@@ -23,11 +23,7 @@ ORM 代表对象关系映射。这是一种在 Python 代码和 SQL 表之间充
 
 现在我们知道使用 ORM 是个好主意，让我们来看看如何使用。
 
-[](/keep-your-code-secure-by-using-environment-variables-and-env-files-4688a70ea286) [## 通过使用环境变量和 env 文件来保证代码的安全
-
-### 安全地加载一个文件，其中包含我们的应用程序所需的所有机密数据，如密码、令牌等
-
-towardsdatascience.com](/keep-your-code-secure-by-using-environment-variables-and-env-files-4688a70ea286) 
+[](/keep-your-code-secure-by-using-environment-variables-and-env-files-4688a70ea286)  
 
 # 使用 ORM
 
@@ -41,11 +37,7 @@ towardsdatascience.com](/keep-your-code-secure-by-using-environment-variables-an
 
 **注意** : SQLALchemy 需要一个允许 Python 从我们的数据库中读取数据的数据库引擎。看看下面这篇关于如何创建一个的短文。
 
-[](/sqlalchemy-for-absolute-beginners-22227a287ef3) [## 绝对初学者的 SQLAlchemy
-
-### 创建数据库引擎并从 Python 执行 SQL
-
-towardsdatascience.com](/sqlalchemy-for-absolute-beginners-22227a287ef3) 
+[](/sqlalchemy-for-absolute-beginners-22227a287ef3)  
 
 ## 1.创建表格
 
@@ -71,11 +63,7 @@ towardsdatascience.com](/sql-insert-delete-and-update-in-one-statement-sync-your
 
 我们通过创建以前的 student 类的新实例来创建一个新的学生。然后，我们使用导入的 sessionmaker 添加并提交到我们的表中。这不仅非常容易；请注意，我们没有编写一行 SQL！
 
-[](/applying-python-multiprocessing-in-2-lines-of-code-3ced521bac8f) [## 在两行代码中应用 Python 多重处理
-
-### 何时以及如何使用多个内核来加快执行速度
-
-towardsdatascience.com](/applying-python-multiprocessing-in-2-lines-of-code-3ced521bac8f) 
+[](/applying-python-multiprocessing-in-2-lines-of-code-3ced521bac8f)  
 
 ## 3.使用 ORM 选择记录
 
@@ -92,11 +80,7 @@ towardsdatascience.com](/applying-python-multiprocessing-in-2-lines-of-code-3ced
 *Student mike is 33 years old*
 ```
 
-*[](/dramatically-improve-your-database-inserts-with-a-simple-upgrade-6dfa672f1424) [## 通过简单的升级，显著提高数据库插入速度
-
-### 用 Python 创建速度惊人的数据库连接的 4 个层次
-
-towardsdatascience.com](/dramatically-improve-your-database-inserts-with-a-simple-upgrade-6dfa672f1424)* 
+*[](/dramatically-improve-your-database-inserts-with-a-simple-upgrade-6dfa672f1424) * 
 
 ## *4.删除记录*
 
@@ -106,11 +90,7 @@ towardsdatascience.com](/dramatically-improve-your-database-inserts-with-a-simpl
 
 *请注意，我们对 delete 语句应用了一些过滤。我们当然可以在前一部分的 select 语句中做同样的事情。*
 
-*[](/getting-started-with-cython-how-to-perform-1-7-billion-calculations-per-second-in-python-b83374cfcf77) [## Cython 入门:如何在 Python 中每秒执行超过 17 亿次计算
-
-### 结合 Python 的易用性和 C 的速度
-
-towardsdatascience.com](/getting-started-with-cython-how-to-perform-1-7-billion-calculations-per-second-in-python-b83374cfcf77)* 
+*[](/getting-started-with-cython-how-to-perform-1-7-billion-calculations-per-second-in-python-b83374cfcf77) * 
 
 ## *5.更新记录*
 
@@ -120,11 +100,7 @@ towardsdatascience.com](/getting-started-with-cython-how-to-perform-1-7-billion-
 
 *与`delete`和`select`语句的不同之处在于，我们还添加了用来更新所选记录的新值。这些在 6 号线上整齐的传递。*
 
-*[](/git-for-absolute-beginners-understanding-git-with-the-help-of-a-video-game-88826054459a) [## 绝对初学者的 Git:借助视频游戏理解 Git
-
-### 以一个经典的 RPG 作为类比，获得如何使用 git 的直觉
-
-towardsdatascience.com](/git-for-absolute-beginners-understanding-git-with-the-help-of-a-video-game-88826054459a)* 
+*[](/git-for-absolute-beginners-understanding-git-with-the-help-of-a-video-game-88826054459a) * 
 
 # *ORM 的更多优势:验证*
 
@@ -132,11 +108,7 @@ towardsdatascience.com](/git-for-absolute-beginners-understanding-git-with-the-h
 
 *如你所见，我们检查提供的年龄是否大于 110，如果是，则抛出一个错误。这将防止该记录被插入我们的数据库。*
 
-*[](/docker-for-absolute-beginners-the-difference-between-an-image-and-a-container-7e07d4c0c01d) [## 面向绝对初学者的 Docker:图像和容器的区别
-
-### 了解 Docker 图像和容器的区别容器和图像是不同的+实用代码示例
-
-towardsdatascience.com](/docker-for-absolute-beginners-the-difference-between-an-image-and-a-container-7e07d4c0c01d)* 
+*[](/docker-for-absolute-beginners-the-difference-between-an-image-and-a-container-7e07d4c0c01d) * 
 
 # *关系呢？*
 
@@ -144,11 +116,7 @@ towardsdatascience.com](/docker-for-absolute-beginners-the-difference-between-an
 
 *SQLAlchemy ORM 允许您在一条语句中轻松地查询相关的表:选择一个学生还将返回与该学生相关的所有班级、课程和教师。请关注我的下一篇文章[](https://mikehuls.medium.com/membership)**！***
 
-***[](/image-analysis-for-beginners-destroying-duck-hunt-with-opencv-e19a27fd8b6) [## 用 OpenCV 破坏猎鸭——初学者的图像分析
-
-### 编写代码，将击败每一个鸭子狩猎高分
-
-towardsdatascience.com](/image-analysis-for-beginners-destroying-duck-hunt-with-opencv-e19a27fd8b6)*** 
+***[](/image-analysis-for-beginners-destroying-duck-hunt-with-opencv-e19a27fd8b6) *** 
 
 # ***后续步骤:***
 
@@ -163,11 +131,7 @@ towardsdatascience.com](/image-analysis-for-beginners-destroying-duck-hunt-with-
 
 ***在以后的文章中，我们将探索如何在 ORM 中动态生成模型，以及如何使用通过外键相关的表，所以请确保 [**跟随我**](http://mikehuls.medium.com/membership) 。***
 
-***[](/virtual-environments-for-absolute-beginners-what-is-it-and-how-to-create-one-examples-a48da8982d4b) [## 绝对初学者的虚拟环境——什么是虚拟环境，如何创建虚拟环境(+例子)
-
-### 深入探究 Python 虚拟环境、pip 和避免纠缠依赖
-
-towardsdatascience.com](/virtual-environments-for-absolute-beginners-what-is-it-and-how-to-create-one-examples-a48da8982d4b)*** 
+***[](/virtual-environments-for-absolute-beginners-what-is-it-and-how-to-create-one-examples-a48da8982d4b) *** 
 
 # ***结论***
 
@@ -186,8 +150,4 @@ towardsdatascience.com](/virtual-environments-for-absolute-beginners-what-is-it-
 
 ***附注:喜欢我正在做的事吗？ [*跟我来！*](https://mikehuls.medium.com/membership)***
 
-***[](https://mikehuls.medium.com/membership) [## 通过我的推荐链接加入媒体-迈克·赫斯
-
-### 阅读迈克·赫斯(以及媒体上成千上万的其他作家)的每一个故事。你的会员费直接支持麦克…
-
-mikehuls.medium.com](https://mikehuls.medium.com/membership)***
+***[](https://mikehuls.medium.com/membership) ***

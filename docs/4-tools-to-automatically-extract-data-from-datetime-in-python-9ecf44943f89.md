@@ -145,11 +145,7 @@ pip install workalendar
 
 随意发挥，并在这里叉这篇文章的源代码:
 
-[](https://github.com/khuyentran1401/Data-science/blob/master/time_series/extract_date_features.ipynb) [## 数据科学/extract _ date _ features . ipynb at master khuyentran 1401/数据科学
-
-### 收集有用的数据科学主题以及代码和文章-Data-science/extract _ date _ features . ipynb，网址为…
-
-github.com](https://github.com/khuyentran1401/Data-science/blob/master/time_series/extract_date_features.ipynb) 
+[](https://github.com/khuyentran1401/Data-science/blob/master/time_series/extract_date_features.ipynb)  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的数据科学工具。你可以在 LinkedIn 和 T2 Twitter 上与我联系。
 
@@ -157,14 +153,6 @@ github.com](https://github.com/khuyentran1401/Data-science/blob/master/time_seri
 
 [](/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e) [## 3 个跟踪和可视化 Python 代码执行的工具
 
-towardsdatascience.com](/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e) [](/kats-a-generalizable-framework-to-analyze-time-series-data-in-python-3c8d21efe057) [## kats:Python 中分析时间序列数据的通用框架
+towardsdatascience.com](/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e) [](/kats-a-generalizable-framework-to-analyze-time-series-data-in-python-3c8d21efe057)  [](/similarity-encoding-for-dirty-categories-using-dirty-cat-d9f0b581a552) [## 使用 dirty_cat 对脏类别进行相似性编码
 
-### 预测、检测变化点、异常，并获得时间序列中的关键统计数据
-
-towardsdatascience.com](/kats-a-generalizable-framework-to-analyze-time-series-data-in-python-3c8d21efe057) [](/similarity-encoding-for-dirty-categories-using-dirty-cat-d9f0b581a552) [## 使用 dirty_cat 对脏类别进行相似性编码
-
-towardsdatascience.com](/similarity-encoding-for-dirty-categories-using-dirty-cat-d9f0b581a552) [](/introduction-to-yellowbrick-a-python-library-to-explain-the-prediction-of-your-machine-learning-d63ecee10ecc) [## Yellowbrick 简介:可视化机器学习预测的 Python 库…
-
-### 您将 f1 分数提高到了 98%！但这是否意味着你的模型表现更好呢？
-
-towardsdatascience.com](/introduction-to-yellowbrick-a-python-library-to-explain-the-prediction-of-your-machine-learning-d63ecee10ecc)
+towardsdatascience.com](/similarity-encoding-for-dirty-categories-using-dirty-cat-d9f0b581a552) [](/introduction-to-yellowbrick-a-python-library-to-explain-the-prediction-of-your-machine-learning-d63ecee10ecc) 

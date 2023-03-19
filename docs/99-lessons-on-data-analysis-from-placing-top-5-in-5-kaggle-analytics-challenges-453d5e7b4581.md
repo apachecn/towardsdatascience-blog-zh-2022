@@ -144,11 +144,7 @@ df["lon"] = df["coord"].map(lambda x: x.split(", ")[1]))*
 
 *22.合并两个数据帧时，不要丢失有价值的数据点。此外，确保键列的**拼写**在两个数据帧中匹配。通过使用`len(df)`检查结果数据帧的长度，再次检查您的工作。*
 
-*[](/how-to-merge-pandas-dataframes-35afe8b1497c) [## 如何合并熊猫数据帧
-
-### 如何避免丢失有价值的数据点(包括备忘单)
-
-towardsdatascience.com](/how-to-merge-pandas-dataframes-35afe8b1497c) 
+*[](/how-to-merge-pandas-dataframes-35afe8b1497c)  
 
 23.查看评估标准。
 
@@ -326,11 +322,7 @@ sns.barplot(data = df,
 
 59.请记住，单个数字和表格也可以是数据可视化。
 
-[](/essential-techniques-to-style-pandas-dataframes-8796c74c9ff3) [## 设计熊猫数据框的基本技巧
-
-### 如何有效地用表格(包括备忘单)交流数据
-
-towardsdatascience.com](/essential-techniques-to-style-pandas-dataframes-8796c74c9ff3) 
+[](/essential-techniques-to-style-pandas-dataframes-8796c74c9ff3)  
 
 60.请不要使用饼图。另外，请不要使用环形图。**如果你的剧情是以一个甜点命名的，那就不要用**(还有[做](https://www.kaggle.com/code/iamleonie/head-in-the-clouds)的时候，知道不应该)**。**
 
@@ -360,11 +352,7 @@ plt.cm.register_cmap("custom_palette", custom_palette)
 
 67.确保你的颜色是色盲和影印安全。
 
-[](/is-your-color-palette-stopping-you-from-reaching-your-goals-bf3b32d2ac49) [## 为什么你的数据可视化应该是色盲友好的
-
-### 尤其是当你试图说服男人
-
-towardsdatascience.com](/is-your-color-palette-stopping-you-from-reaching-your-goals-bf3b32d2ac49) 
+[](/is-your-color-palette-stopping-you-from-reaching-your-goals-bf3b32d2ac49)  
 
 68.像成年人一样想象:给你的图添加一个标题和标签。
 
@@ -456,11 +444,7 @@ warnings.filterwarnings("ignore")
 
 *成为一名媒体会员，阅读更多来自我和其他作家的故事。报名时可以使用我的 [*推荐链接*](https://medium.com/@iamleonie/membership) *支持我。我将收取佣金，不需要你额外付费。**
 
-*[](https://medium.com/@iamleonie/membership) [## 通过我的推荐链接加入 Medium—Leonie Monigatti
-
-### 阅读 Leonie Monigatti(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接…
-
-medium.com](https://medium.com/@iamleonie/membership) 
+*[](https://medium.com/@iamleonie/membership)  
 
 *在*[*LinkedIn*](https://www.linkedin.com/in/804250ab/)*和*[*ka ggle*](https://www.kaggle.com/iamleonie)*！*
 

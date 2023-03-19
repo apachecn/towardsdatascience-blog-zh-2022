@@ -260,8 +260,4 @@ fig, ax = plt.subplots(figsize=(150,10))seaborn.boxplot(
 
 **这是一个如何为时间相关的数据创建时间序列箱线图的快速概述。尝试各种组合来创建您需要的图表！**
 
-**[](https://weimenglee.medium.com/membership) [## 加入媒介与我的介绍链接-李伟孟
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-weimenglee.medium.com](https://weimenglee.medium.com/membership)**
+**[](https://weimenglee.medium.com/membership) **

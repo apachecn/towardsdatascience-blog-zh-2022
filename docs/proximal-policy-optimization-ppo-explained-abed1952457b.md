@@ -18,11 +18,7 @@
 
 *要理解这篇文章，很好地理解政策梯度方法是必要的。如果还没有，你可能想先看看这篇文章:*
 
-[](/policy-gradients-in-reinforcement-learning-explained-ecec7df94245) [## 强化学习中的策略梯度解释
-
-### 了解所有关于基于似然比的政策梯度算法(加强):直觉，推导，和…
-
-towardsdatascience.com](/policy-gradients-in-reinforcement-learning-explained-ecec7df94245) 
+[](/policy-gradients-in-reinforcement-learning-explained-ecec7df94245)  
 
 在 RL 的上下文中，策略 *π* 只是一个函数，它返回给定状态 *s* 的可行动作。在基于策略的方法中，函数(如神经网络)由一组可调参数*θ**定义。***我们可以调整这些参数，观察所得奖励的差异，并朝着产生更高奖励的方向更新 *θ* 。这一机制是所有政策梯度方法概念的基础。
 
@@ -56,11 +52,7 @@ towardsdatascience.com](/policy-gradients-in-reinforcement-learning-explained-ec
 
 *不熟悉自然政策梯度？先看这篇文章:*
 
-[](/natural-policy-gradients-in-reinforcement-learning-explained-2265864cf43c) [## 解释强化学习中的自然策略梯度
-
-### 传统的政策梯度方法存在固有的缺陷。自然梯度收敛得更快更好，形成…
-
-towardsdatascience.com](/natural-policy-gradients-in-reinforcement-learning-explained-2265864cf43c) 
+[](/natural-policy-gradients-in-reinforcement-learning-explained-2265864cf43c)  
 
 Amari (1998)和 Kakade，S. M. (2001)提出的自然政策梯度解决了选择适当学习率的问题。为此，该方法嵌入了**二阶导数**，量化了更新权重时梯度的敏感度。
 
@@ -94,11 +86,7 @@ KL-divergence，量化权重更新前后政策之间的距离。
 
 ***作为 PPO 的直接前身，补上 TRPO 可能会不错:***
 
-**[](/trust-region-policy-optimization-trpo-explained-4b56bd206fc2) [## 解释了信任区域策略优化(TRPO)
-
-### 强化学习算法 TRPO 建立在自然策略梯度算法的基础上，确保更新保持…
-
-towardsdatascience.com](/trust-region-policy-optimization-trpo-explained-4b56bd206fc2) 
+**[](/trust-region-policy-optimization-trpo-explained-4b56bd206fc2)  
 
 自 1990 年代后期自然政策梯度出现以来，已经取得了一些进展。这些最佳实践已经被结合在流行的 **TRPO 算法**中，由舒尔曼*等人*于 2015 年推出。
 
@@ -216,19 +204,7 @@ PPO，剪切的客观变体。新旧政策之间的最大差异被缩小了。�
 
 ***今天的强化学习还没做完吗？看看下面的文章吧！***
 
-**[](/why-reinforcement-learning-doesnt-need-bellman-s-equation-c9c2e51a0b7) [## 为什么强化学习不需要贝尔曼方程
-
-### 强化学习中著名的贝尔曼方程和 MDP 公式的再评价
-
-towardsdatascience.com](/why-reinforcement-learning-doesnt-need-bellman-s-equation-c9c2e51a0b7) [](/a-minimal-working-example-for-discrete-policy-gradients-in-tensorflow-2-0-d6a0d6b1a6d7) [## TensorFlow 2.0 中离散策略梯度的最小工作示例
-
-### 一个训练离散演员网络的多兵种土匪例子。在梯度胶带功能的帮助下…
-
-towardsdatascience.com](/a-minimal-working-example-for-discrete-policy-gradients-in-tensorflow-2-0-d6a0d6b1a6d7) [](/a-minimal-working-example-for-continuous-policy-gradients-in-tensorflow-2-0-d3413ec38c6b) [## TensorFlow 2.0 中连续策略梯度的最小工作示例
-
-### 一个简单的训练高斯演员网络的例子。定义自定义损失函数并应用梯度胶带…
-
-towardsdatascience.com](/a-minimal-working-example-for-continuous-policy-gradients-in-tensorflow-2-0-d3413ec38c6b) 
+**[](/why-reinforcement-learning-doesnt-need-bellman-s-equation-c9c2e51a0b7)  [](/a-minimal-working-example-for-discrete-policy-gradients-in-tensorflow-2-0-d6a0d6b1a6d7)  [](/a-minimal-working-example-for-continuous-policy-gradients-in-tensorflow-2-0-d3413ec38c6b)  
 
 # 进一步阅读
 

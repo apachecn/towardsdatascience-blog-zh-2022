@@ -20,11 +20,7 @@
 
 如果您经常使用 matplotlib，那么我建议您查看我以前的文章:
 
-[](/7-simple-ways-to-enhance-your-matplotlib-charts-a232823efed9) [## 增强 Matplotlib 图表的 7 种简单方法
-
-### 用这些简单的步骤改善你的 matplotlib 图形
-
-towardsdatascience.com](/7-simple-ways-to-enhance-your-matplotlib-charts-a232823efed9) 
+[](/7-simple-ways-to-enhance-your-matplotlib-charts-a232823efed9)  
 
 # 数据源
 

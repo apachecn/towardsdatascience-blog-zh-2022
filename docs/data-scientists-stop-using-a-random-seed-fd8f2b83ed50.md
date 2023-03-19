@@ -39,11 +39,7 @@
 
 下面这篇文章很好地解释了这一点。
 
-[](https://laurenoakdenrayner.com/2019/09/19/ai-competitions-dont-produce-useful-models/) [## 人工智能竞赛不会产生有用的模型
-
-### 今天发布了一个巨大的新 CT 大脑数据集，目标是训练模型来检测颅内出血。所以…
-
-laurenoakdenrayner.com](https://laurenoakdenrayner.com/2019/09/19/ai-competitions-dont-produce-useful-models/) 
+[](https://laurenoakdenrayner.com/2019/09/19/ai-competitions-dont-produce-useful-models/)  
 
 ## 安全性
 

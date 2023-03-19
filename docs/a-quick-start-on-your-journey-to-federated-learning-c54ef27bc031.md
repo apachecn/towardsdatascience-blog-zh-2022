@@ -151,8 +151,4 @@ final_fl_model = fx.run_experiment(collaborators,override_config={‘aggregator.
 
 [Jagdish](https://www.linkedin.com/in/jagdish-kharatmol-5abb06190/) Kharatmol(代码开发)
 
-[](https://medium.com/@profsarang/membership) [## 通过我的推荐链接加入 Medium
-
-### 阅读 Poornachandra Sarang(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接…
-
-medium.com](https://medium.com/@profsarang/membership)
+[](https://medium.com/@profsarang/membership) 

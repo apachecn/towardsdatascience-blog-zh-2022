@@ -364,16 +364,4 @@ great_expectations checkpoint new feb_28_checkpoint
 
 你也可以试试我的其他文章。不能选择？从这些中选择一个:
 
-[](/dont-let-your-model-s-quality-drift-away-53d2f7899c09) [## 不要让你的模型质量渐行渐远
-
-### 解决生产 ML 系统中的数据漂移和概念漂移
-
-towardsdatascience.com](/dont-let-your-model-s-quality-drift-away-53d2f7899c09) [](/8-hazards-menacing-machine-learning-systems-in-production-5c470baa0163) [## 生产中威胁机器学习系统的 8 种危险
-
-### 维护 ML 系统时需要注意什么
-
-towardsdatascience.com](/8-hazards-menacing-machine-learning-systems-in-production-5c470baa0163) [](/8-tips-for-object-oriented-programming-in-python-3e98b767ae79) [## Python 中面向对象编程的 8 个技巧
-
-### 按照以下步骤让您的 Python 类防弹
-
-towardsdatascience.com](/8-tips-for-object-oriented-programming-in-python-3e98b767ae79)
+[](/dont-let-your-model-s-quality-drift-away-53d2f7899c09)  [](/8-hazards-menacing-machine-learning-systems-in-production-5c470baa0163)  [](/8-tips-for-object-oriented-programming-in-python-3e98b767ae79) 

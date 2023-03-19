@@ -94,11 +94,7 @@ mpg ~体重；按作者分类的图表
 
 在深入研究所有这三个想法是如何相互联系的之前，我们需要选择一个基础较弱的学习者来完成提升部分。一个非常流行的选择是回归决策树。要了解关于回归决策树的更多信息，请查看我的文章:
 
-[](/regression-tree-in-python-from-scratch-9b7b64c815e3) [## Python 中的回归树从头开始
-
-### 用 Python 编写流行的回归树算法，并解释其本质
-
-towardsdatascience.com](/regression-tree-in-python-from-scratch-9b7b64c815e3) 
+[](/regression-tree-in-python-from-scratch-9b7b64c815e3)  
 
 快速回顾一下:
 
@@ -268,11 +264,7 @@ reg.print_tree()
 
 生成梯度增强训练可视化的代码可在此处找到:
 
-[](https://github.com/Eligijus112/gradient-boosting/blob/master/regression/boosting.py) [## 主 Eligijus112 的梯度增强/boosting . py/梯度增强
-
-### 此文件包含双向 Unicode 文本，其解释或编译可能与下面显示的不同…
-
-github.com](https://github.com/Eligijus112/gradient-boosting/blob/master/regression/boosting.py) ![](img/23970511718c808b6fad7dd7baedc92b.png)
+[](https://github.com/Eligijus112/gradient-boosting/blob/master/regression/boosting.py)  ![](img/23970511718c808b6fad7dd7baedc92b.png)
 
 学习率= 0.1，最大深度= 2；作者 GIF
 

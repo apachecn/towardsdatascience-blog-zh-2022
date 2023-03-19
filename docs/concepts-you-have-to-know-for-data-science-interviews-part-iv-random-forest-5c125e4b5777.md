@@ -38,11 +38,7 @@
 
 我已经在[之前的帖子](/concepts-you-have-to-know-for-data-science-interviews-part-iii-basic-supervised-learning-models-5115673f57)中讲述了如何测试 ML 概念，以及在回答 ML 建模问题时需要记住的最重要的事情。如果你想了解更多，请点击下面的链接。
 
-[](/concepts-you-have-to-know-for-data-science-interviews-part-iii-basic-supervised-learning-models-5115673f57) [## 数据科学面试中你必须知道的概念——第三部分。基本监督学习模型
-
-### 数据科学家建模访谈中最常见的问题
-
-towardsdatascience.com](/concepts-you-have-to-know-for-data-science-interviews-part-iii-basic-supervised-learning-models-5115673f57) 
+[](/concepts-you-have-to-know-for-data-science-interviews-part-iii-basic-supervised-learning-models-5115673f57)  
 
 关于随机森林或者任何复杂的最大似然算法，唯一要补充的是，能够用通俗的语言解释算法是很重要的。我的意思是，面试官通常感兴趣的是测试你对算法的理解，而不是 T2 寻找的维基百科页面的记忆版本。
 
@@ -52,12 +48,4 @@ towardsdatascience.com](/concepts-you-have-to-know-for-data-science-interviews-p
 
 [](/5-lessons-mckinsey-taught-me-that-will-make-you-a-better-data-scientist-66cd9cc16aba) [## 麦肯锡教给我的 5 条经验将使你成为更好的数据科学家
 
-towardsdatascience.com](/5-lessons-mckinsey-taught-me-that-will-make-you-a-better-data-scientist-66cd9cc16aba) [](/why-i-left-mckinsey-as-a-data-scientist-30eec01504e5) [## 我离开麦肯锡成为数据科学家的原因
-
-### 开始成为数据科学顾问之前应该考虑的事情
-
-towardsdatascience.com](/why-i-left-mckinsey-as-a-data-scientist-30eec01504e5) [](/the-ultimate-interview-prep-guide-for-data-scientists-and-data-analysts-18621db1da47) [## 数据科学家和数据分析师的终极面试准备指南
-
-### 是什么帮助我成功采访到方和独角兽
-
-towardsdatascience.com](/the-ultimate-interview-prep-guide-for-data-scientists-and-data-analysts-18621db1da47)
+towardsdatascience.com](/5-lessons-mckinsey-taught-me-that-will-make-you-a-better-data-scientist-66cd9cc16aba) [](/why-i-left-mckinsey-as-a-data-scientist-30eec01504e5)  [](/the-ultimate-interview-prep-guide-for-data-scientists-and-data-analysts-18621db1da47) 

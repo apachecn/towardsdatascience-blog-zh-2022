@@ -196,10 +196,6 @@
 
 ## ****Github 知识库****
 
- ****[## GitHub-samet-akcay/gano maly:gano maly:通过对抗训练的半监督异常检测
-
-### 此回购不再维护。GANomaly 实现已经被添加到 anomalib 中，它是…
-
-github.com](https://github.com/samet-akcay/ganomaly)**** 
+ ******** 
 
 ****你喜欢我的文章吗？ [*成为会员*](https://eugenia-anello.medium.com/membership) *每天无限获取数据科学新帖！这是一种间接的支持我的方式，不会给你带来任何额外的费用。如果您已经是会员，* [*订阅*](https://eugenia-anello.medium.com/subscribe) *每当我发布新的数据科学和 python 指南时，您都会收到电子邮件！*****

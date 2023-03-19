@@ -297,8 +297,4 @@ docker run -it --rm -p 3000:3000 iris_classifier:jclapisz2s6qyhqa serve --produc
 
 # **新到中？你可以每月订阅 5 美元，并解锁各种主题的无限文章(技术、设计、创业……)你可以通过点击我的推荐链接[来支持我](https://ahmedbesbes.medium.com/membership)**
 
-**[](https://ahmedbesbes.medium.com/membership) [## 加入我的介绍链接媒体-艾哈迈德贝斯
-
-### 阅读 Ahmed Besbes 的每一个故事(以及媒体上成千上万的其他作家)。您的会员费直接支持…
-
-ahmedbesbes.medium.com](https://ahmedbesbes.medium.com/membership)**
+**[](https://ahmedbesbes.medium.com/membership) **

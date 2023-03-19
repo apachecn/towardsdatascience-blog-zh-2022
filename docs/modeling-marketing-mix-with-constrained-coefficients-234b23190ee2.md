@@ -20,19 +20,11 @@ T 营销组合建模(MMM)中最常用的方法是使用多元线性回归，该�
 
 在我的上一篇文章中，我使用了基于树的算法，而不是线性回归，所以根本不存在系数的问题
 
-[](/improving-marketing-mix-modeling-using-machine-learning-approaches-25ea4cd6994b) [## 使用机器学习方法改进营销组合建模
-
-### 使用基于树的集合构建 MMM 模型，并使用 SHAP 解释媒体通道性能
-
-towardsdatascience.com](/improving-marketing-mix-modeling-using-machine-learning-approaches-25ea4cd6994b) 
+[](/improving-marketing-mix-modeling-using-machine-learning-approaches-25ea4cd6994b)  
 
 正如我在下一篇文章中所做的，我们可以在贝叶斯环境中定义媒体通道系数的正先验
 
-[](/modeling-marketing-mix-using-pymc3-ba18dd9e6e68) [## 使用 PyMC3 建模营销组合
-
-### 实验先验，数据规范化，并比较贝叶斯建模与罗宾，脸书的开源 MMM…
-
-towardsdatascience.com](/modeling-marketing-mix-using-pymc3-ba18dd9e6e68) 
+[](/modeling-marketing-mix-using-pymc3-ba18dd9e6e68)  
 
 在本文中，我展示了约束系数的两种方法:
 

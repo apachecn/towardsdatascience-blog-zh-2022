@@ -88,24 +88,12 @@ f '(3)= 2(3)-6 = 0
 
 **寻找简单数学函数如何帮助特征工程的另一个例子？** 看看我写得最好的一篇文章，解释“余弦”和“正弦”如何帮助你处理周期性特征:
 
-[](/cyclical-features-encoding-its-about-time-ce23581845ca) [## 周期性特征编码，是时候了！
-
-### 发现一个简单的技术来转换的特点，如时间，周，月或季节，并仍然保持其…
-
-towardsdatascience.com](/cyclical-features-encoding-its-about-time-ce23581845ca) 
+[](/cyclical-features-encoding-its-about-time-ce23581845ca)  
 
 与本文对应的代码存储在这里:
 
-[](https://github.com/pierrelouisbescond/medium_articles/blob/main/medium_gradient.ipynb) [## medium _ articles/medium _ gradient . ipynb at main pierrelouisscond/medium _ articles
-
-### 一个 repo 来存储我在我的 Medium articles-Medium _ articles/Medium _ gradient . ipynb 中共享的代码在 main …
-
-github.com](https://github.com/pierrelouisbescond/medium_articles/blob/main/medium_gradient.ipynb) 
+[](https://github.com/pierrelouisbescond/medium_articles/blob/main/medium_gradient.ipynb)  
 
 请不要犹豫，浏览我在 Medium 上的其他文章:
 
-[](https://pl-bescond.medium.com/pierre-louis-besconds-articles-on-medium-f6632a6895ad) [## 皮埃尔-路易·贝斯康德关于媒介的文章
-
-### 数据科学、机器学习和创新
-
-pl-bescond.medium.com](https://pl-bescond.medium.com/pierre-louis-besconds-articles-on-medium-f6632a6895ad)
+[](https://pl-bescond.medium.com/pierre-louis-besconds-articles-on-medium-f6632a6895ad) 

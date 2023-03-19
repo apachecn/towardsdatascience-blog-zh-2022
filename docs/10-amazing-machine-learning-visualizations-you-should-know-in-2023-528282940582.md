@@ -416,45 +416,25 @@ PCA 可视化工具最重要的参数包括:
 
 *   ****黄砖，使用单行代码可视化特性的重要性****
 
-**[](https://rukshanpramoditha.medium.com/yellowbrick-for-visualizing-features-importances-using-a-single-line-of-code-33c87572eada) [## 使用单行代码可视化特性重要性的黄砖
-
-### 选择最具预测能力的最佳特性
-
-rukshanpramoditha.medium.com](https://rukshanpramoditha.medium.com/yellowbrick-for-visualizing-features-importances-using-a-single-line-of-code-33c87572eada) 
+**[](https://rukshanpramoditha.medium.com/yellowbrick-for-visualizing-features-importances-using-a-single-line-of-code-33c87572eada)  
 
 *   **解释验证曲线——绘制单个超参数的影响**
 
-[](/validation-curve-explained-plot-the-influence-of-a-single-hyperparameter-1ac4864deaf8) [## 解释验证曲线—绘制单个超参数的影响
-
-### 少代码出图！省点时间解读吧！
-
-towardsdatascience.com](/validation-curve-explained-plot-the-influence-of-a-single-hyperparameter-1ac4864deaf8) 
+[](/validation-curve-explained-plot-the-influence-of-a-single-hyperparameter-1ac4864deaf8)  
 
 *   **绘制学习曲线以分析神经网络的训练性能**
 
-[](https://rukshanpramoditha.medium.com/plotting-the-learning-curve-to-analyze-the-training-performance-of-a-neural-network-4a35818d01f2) [## 绘制学习曲线以分析神经网络的训练性能
-
-### 检测过拟合和欠拟合以及缓慢收敛、振荡、发散振荡
-
-rukshanpramoditha.medium.com](https://rukshanpramoditha.medium.com/plotting-the-learning-curve-to-analyze-the-training-performance-of-a-neural-network-4a35818d01f2) 
+[](https://rukshanpramoditha.medium.com/plotting-the-learning-curve-to-analyze-the-training-performance-of-a-neural-network-4a35818d01f2)  
 
 *   **动手 K 均值聚类**
 
-[](https://medium.com/mlearning-ai/k-means-clustering-with-scikit-learn-e2af706450e4) [## 动手 K-均值聚类
-
-### 使用 Python、Scikit-learn 和 Yellowbrick
-
-medium.com](https://medium.com/mlearning-ai/k-means-clustering-with-scikit-learn-e2af706450e4) 
+[](https://medium.com/mlearning-ai/k-means-clustering-with-scikit-learn-e2af706450e4)  
 
 ## 支持我当作家
 
 *我希望你喜欢阅读这篇文章。如果你愿意支持我成为一名作家，请考虑* [***注册会员***](https://rukshanpramoditha.medium.com/membership) *以获得无限制的媒体访问权限。它只需要每月 5 美元，我会收到你的会员费的一部分。*
 
-[](https://medium.com/membership/@rukshanpramoditha) [## 通过我的推荐链接加入 Medium
-
-### 阅读 Rukshan Pramoditha(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接…
-
-medium.com](https://medium.com/membership/@rukshanpramoditha) 
+[](https://medium.com/membership/@rukshanpramoditha)  
 
 非常感谢你一直以来的支持！下一篇文章再见。祝大家学习愉快！
 

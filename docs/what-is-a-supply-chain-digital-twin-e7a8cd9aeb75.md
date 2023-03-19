@@ -210,11 +210,7 @@
 
 使用数据分析来模拟商店补货频率的变化，并衡量对整体环境影响的影响。
 
-[](https://www.samirsaci.com/green-inventory-management-case-study/) [## 绿色库存管理-案例研究
-
-### 可持续发展如何减少时尚零售物流运作的二氧化碳排放量？
-
-www.samirsaci.com](https://www.samirsaci.com/green-inventory-management-case-study/) 
+[](https://www.samirsaci.com/green-inventory-management-case-study/)  
 
 ## 数字孪生 x 可持续发展:时尚循环经济
 
@@ -234,11 +230,7 @@ www.samirsaci.com](https://www.samirsaci.com/green-inventory-management-case-stu
 
 使用数据分析来模拟循环订阅模式的几种情况对快速时尚零售商的减排和用水的影响。
 
-[](https://www.samirsaci.com/how-sustainable-is-your-circular-economy/) [## 你的循环经济有多可持续？
-
-### 可持续性使用数据分析来模拟一个循环模型对二氧化碳排放量和用水量的影响…
-
-www.samirsaci.com](https://www.samirsaci.com/how-sustainable-is-your-circular-economy/) 
+[](https://www.samirsaci.com/how-sustainable-is-your-circular-economy/)  
 
 ## 供应链分析
 
@@ -279,8 +271,4 @@ www.samirsaci.com](https://www.samirsaci.com/how-sustainable-is-your-circular-ec
 
 如果你对数据分析和供应链感兴趣，可以看看我的网站
 
-[](https://samirsaci.com) [## Samir Saci |数据科学与生产力
-
-### 专注于数据科学、个人生产力、自动化、运筹学和可持续发展的技术博客
-
-samirsaci.com](https://samirsaci.com)
+[](https://samirsaci.com) 

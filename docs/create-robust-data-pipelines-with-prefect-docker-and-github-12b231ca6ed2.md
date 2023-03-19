@@ -302,30 +302,10 @@ prefect agent start -q 'test'
 
 随意发挥，并在这里叉这篇文章的源代码:
 
-[](https://github.com/khuyentran1401/prefect-docker) [## GitHub-khuyentran 1401/prefect-docker:演示如何在 Docker 中使用 Prefect
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/khuyentran1401/prefect-docker) 
+[](https://github.com/khuyentran1401/prefect-docker)  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的数据科学工具。你可以在 LinkedIn 和 Twitter 上与我联系。
 
 如果你想查看我写的所有文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](https://medium.com/the-prefect-blog/orchestrate-your-data-science-project-with-prefect-2-0-4118418fd7ce) [## 使用 Prefect 2.0 协调您的数据科学项目
-
-### 让您的数据科学管道能够抵御故障
-
-medium.com](https://medium.com/the-prefect-blog/orchestrate-your-data-science-project-with-prefect-2-0-4118418fd7ce) [](/4-pre-commit-plugins-to-automate-code-reviewing-and-formatting-in-python-c80c6d2e9f5) [## 4 个预提交插件，用于在 Python 中自动检查和格式化代码
-
-### 使用 black、flake8、isort 和 interrogate 编写高质量的代码
-
-towardsdatascience.com](/4-pre-commit-plugins-to-automate-code-reviewing-and-formatting-in-python-c80c6d2e9f5) [](/how-to-structure-a-data-science-project-for-readability-and-transparency-360c6716800) [## 如何构建可读性和透明度的数据科学项目
-
-### 以及如何用一行代码创建一个
-
-towardsdatascience.com](/how-to-structure-a-data-science-project-for-readability-and-transparency-360c6716800) [](/pytest-for-data-scientists-2990319e55e6) [## 数据科学家 Pytest
-
-### 适用于您的数据科学项目的 Pytest 综合指南
-
-towardsdatascience.com](/pytest-for-data-scientists-2990319e55e6)
+[](https://medium.com/the-prefect-blog/orchestrate-your-data-science-project-with-prefect-2-0-4118418fd7ce)  [](/4-pre-commit-plugins-to-automate-code-reviewing-and-formatting-in-python-c80c6d2e9f5)  [](/how-to-structure-a-data-science-project-for-readability-and-transparency-360c6716800)  [](/pytest-for-data-scientists-2990319e55e6) 

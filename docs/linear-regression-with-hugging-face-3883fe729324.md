@@ -96,19 +96,7 @@
 
 # 相关阅读
 
-[](/sbert-vs-data2vec-on-text-classification-e3c35b19c949) [## SBERT 与 Data2vec 在文本分类上的比较
-
-### 使用两个流行的预训练拥抱脸模型进行文本分类的代码演示
-
-towardsdatascience.com](/sbert-vs-data2vec-on-text-classification-e3c35b19c949) [](/morethansentiments-a-python-library-for-text-quantification-e57ff9d51cd5) [## 用于文本量化的 Python 库
-
-### 帮助研究人员计算样本、冗余、特异性、相对流行率的函数集合…
-
-towardsdatascience.com](/morethansentiments-a-python-library-for-text-quantification-e57ff9d51cd5) [](/customer-churn-accuracy-a-4-6-increase-with-feature-engineering-29bcb1b1ee8f) [## 客户流失准确度:通过 TextBlob & SBERT 提高了 4.6%
-
-### 关于分类问题中的特征工程如何将其预测精度限制提高 4.6%的演练。
-
-towardsdatascience.com](/customer-churn-accuracy-a-4-6-increase-with-feature-engineering-29bcb1b1ee8f) 
+[](/sbert-vs-data2vec-on-text-classification-e3c35b19c949)  [](/morethansentiments-a-python-library-for-text-quantification-e57ff9d51cd5)  [](/customer-churn-accuracy-a-4-6-increase-with-feature-engineering-29bcb1b1ee8f)  
 
 # 参考
 

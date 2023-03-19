@@ -91,16 +91,4 @@ JD
 
 参考:
 
-[](https://stackoverflow.com/questions/54615195/spark-dataframe-limit-function-takes-too-much-time-to-show) [## 火花数据帧限制功能显示时间过长
-
-### 从 pyspark.sql 导入 pyspark 从 pyspark.conf 导入 SparkConf 导入 findspark 从…
-
-stackoverflow.com](https://stackoverflow.com/questions/54615195/spark-dataframe-limit-function-takes-too-much-time-to-show) [](https://stackoverflow.com/questions/56301329/understanding-spark-explain-collect-vs-global-vs-local-limit) [## 了解 Spark 解释:收集与全局和局部限制
-
-### 我正在尝试了解 Spark/AWS Glue 中执行限制的区别，我尝试使用 Spark SQL spark.sql("SELECT *…
-
-stackoverflow.com](https://stackoverflow.com/questions/56301329/understanding-spark-explain-collect-vs-global-vs-local-limit)  [## 配置属性
-
-### import org . Apache . spark . SQL . spark session val spark:spark session = spark session . builder。主(" local[*]")…
-
-jaceklaskowski.gitbooks.io](https://jaceklaskowski.gitbooks.io/mastering-spark-sql/content/spark-sql-properties.html)
+[](https://stackoverflow.com/questions/54615195/spark-dataframe-limit-function-takes-too-much-time-to-show)  [](https://stackoverflow.com/questions/56301329/understanding-spark-explain-collect-vs-global-vs-local-limit)   

@@ -112,11 +112,7 @@
 
 至少在更多的地方。
 
-[](https://www.bbc.co.uk/news/technology-61155735) [## 高速公路法规:允许在自动驾驶汽车里看电视
-
-### 根据……的拟议更新，使用无人驾驶汽车的人将被允许在内置屏幕上观看电视
-
-www.bbc.co.uk](https://www.bbc.co.uk/news/technology-61155735) 
+[](https://www.bbc.co.uk/news/technology-61155735)  
 
 BBC 的这篇新闻报道了高速公路法规正在被修改的事实，这样自动驾驶汽车的司机就可以看电视了。尽管如此，使用手机仍然是非法的。
 

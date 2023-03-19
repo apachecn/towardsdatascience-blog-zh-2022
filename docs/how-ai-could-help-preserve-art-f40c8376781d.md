@@ -210,28 +210,8 @@ x 射线曝光能够显示绘制不足或进展中的变化。例如，这表明
 
 **这是我的 GitHub 知识库的链接，我计划在这里收集代码和许多与机器学习、人工智能等相关的资源。**
 
-**[](https://github.com/SalvatoreRa/tutorial) [## GitHub - SalvatoreRa/tutorial:关于机器学习、人工智能、数据科学的教程…
-
-### 关于机器学习、人工智能、数据科学的教程，包括数学解释和可重复使用的代码(python…
-
-github.com](https://github.com/SalvatoreRa/tutorial) 
+**[](https://github.com/SalvatoreRa/tutorial)  
 
 或者随意查看我在 Medium 上的其他文章:
 
-[](/how-artificial-intelligence-could-save-the-amazon-rainforest-688fa505c455) [## 人工智能如何拯救亚马逊雨林
-
-### 亚马逊正处于危险之中，人工智能可以帮助保护它
-
-towardsdatascience.com](/how-artificial-intelligence-could-save-the-amazon-rainforest-688fa505c455) [](https://medium.com/mlearning-ai/reimagining-the-little-prince-with-ai-7e9f68ed8b3c) [## 用艾重新想象小王子
-
-### 艾如何从《小王子》中的人物描写中重构人物形象
-
-medium.com](https://medium.com/mlearning-ai/reimagining-the-little-prince-with-ai-7e9f68ed8b3c) [](/speaking-the-language-of-life-how-alphafold2-and-co-are-changing-biology-97cff7496221) [## 说生命的语言:AlphaFold2 和公司如何改变生物学
-
-### 人工智能正在重塑生物学研究，并开辟治疗的新领域
-
-towardsdatascience.com](/speaking-the-language-of-life-how-alphafold2-and-co-are-changing-biology-97cff7496221) [](/blending-the-power-of-ai-with-the-delicacy-of-poetry-3671f82d2e1) [## 融合人工智能的力量和诗歌的细腻
-
-### 人工智能现在能够从文本中生成图像，如果我们给它们提供伟大诗人的话语会怎么样？梦幻之旅…
-
-towardsdatascience.com](/blending-the-power-of-ai-with-the-delicacy-of-poetry-3671f82d2e1)**
+[](/how-artificial-intelligence-could-save-the-amazon-rainforest-688fa505c455)  [](https://medium.com/mlearning-ai/reimagining-the-little-prince-with-ai-7e9f68ed8b3c)  [](/speaking-the-language-of-life-how-alphafold2-and-co-are-changing-biology-97cff7496221)  [](/blending-the-power-of-ai-with-the-delicacy-of-poetry-3671f82d2e1) **

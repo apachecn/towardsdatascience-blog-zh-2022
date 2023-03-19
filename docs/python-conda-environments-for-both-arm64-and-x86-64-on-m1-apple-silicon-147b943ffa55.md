@@ -45,11 +45,7 @@ xcode-select --install
 
 **确保选择 arm64(苹果芯片)架构。**
 
-[](https://github.com/conda-forge/miniforge) [## GitHub-conda-forge/mini forge:conda-forge 发行版。
-
-### 这个库包含了一个针对 conda-forge 的 Conda 最小安装程序。迷你锻造允许您安装康达…
-
-github.com](https://github.com/conda-forge/miniforge) 
+[](https://github.com/conda-forge/miniforge)  
 
 下载完 shell 脚本后，您可能需要使用以下命令来启用 shell 脚本的执行:
 

@@ -86,16 +86,4 @@ BigQuery 有一个 [FORMAT_DATE](https://cloud.google.com/bigquery/docs/referenc
 
 ## 你可能也会喜欢…
 
-[](/6-bigquery-sql-functions-every-user-should-know-9ed97b1cf72e) [## 每个用户都应该知道的 6 个大查询 SQL 函数
-
-### 检查您的数据库是否也有它们
-
-towardsdatascience.com](/6-bigquery-sql-functions-every-user-should-know-9ed97b1cf72e) [](/4-bigquery-sql-shortcuts-that-can-simplify-your-queries-30f94666a046) [## 4 个可以简化查询的 BigQuery SQL 快捷方式
-
-### 检查您的数据库是否也有它们
-
-towardsdatascience.com](/4-bigquery-sql-shortcuts-that-can-simplify-your-queries-30f94666a046) [](/how-data-scientists-can-reduce-data-wrangling-time-with-a-data-mart-809eefbe0bc2) [## 数据科学家如何通过数据集市减少数据争论的时间
-
-### 什么是数据集市，为什么数据科学家应该使用数据集市
-
-towardsdatascience.com](/how-data-scientists-can-reduce-data-wrangling-time-with-a-data-mart-809eefbe0bc2)
+[](/6-bigquery-sql-functions-every-user-should-know-9ed97b1cf72e)  [](/4-bigquery-sql-shortcuts-that-can-simplify-your-queries-30f94666a046)  [](/how-data-scientists-can-reduce-data-wrangling-time-with-a-data-mart-809eefbe0bc2) 

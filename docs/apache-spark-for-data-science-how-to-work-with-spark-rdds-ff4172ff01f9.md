@@ -16,11 +16,7 @@ rdd，或*弹性分布式数据集*是 Apache Spark 中的核心对象。它们�
 
 如果您需要在 Python 中安装 Apache Spark 的参考资料，请不要犹豫:
 
-[](/apache-spark-for-data-science-how-to-install-and-get-started-with-pyspark-6367a1ea3de8) [## Apache Spark for Data Science —如何安装和使用 PySpark
-
-### 在本地安装 PySpark 并加载您的第一个数据集—只需要 5 分钟。
-
-towardsdatascience.com](/apache-spark-for-data-science-how-to-install-and-get-started-with-pyspark-6367a1ea3de8) 
+[](/apache-spark-for-data-science-how-to-install-and-get-started-with-pyspark-6367a1ea3de8)  
 
 和往常一样，我以视频格式讲述了相同的主题，如果你喜欢的话:
 
@@ -209,11 +205,7 @@ spark-submit iris_sl_means.py
 
 *喜欢这篇文章吗？成为* [*中等会员*](https://medium.com/@radecicdario/membership) *继续无限制学习。如果你使用下面的链接，我会收到你的一部分会员费，不需要你额外付费。*
 
-[](https://medium.com/@radecicdario/membership) [## 通过我的推荐链接加入 Medium-Dario rade ci
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@radecicdario/membership) 
+[](https://medium.com/@radecicdario/membership)  
 
 ## 推荐阅读
 

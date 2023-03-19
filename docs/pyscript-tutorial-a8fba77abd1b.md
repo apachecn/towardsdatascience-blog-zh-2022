@@ -20,11 +20,7 @@ Python 是一门美丽的语言。超级简单易学；工作起来超级给力�
 
 您可以使用 Pandas 开始构建复杂的数据操作，构建机器学习模型，进行数据可视化，以及在 HTML 页面中进行更多操作。
 
-[](/advanced-pandas-plots-e2347a33d576) [## 在一行代码中创建令人惊叹的可视化熊猫数据框架
-
-### 一个简单的技巧，使您的图表具有交互性和视觉吸引力
-
-towardsdatascience.com](/advanced-pandas-plots-e2347a33d576) 
+[](/advanced-pandas-plots-e2347a33d576)  
 
 在本帖中，我们将讨论:
 
@@ -93,11 +89,7 @@ python -m 'http.server' 8080
 
 但是 Python 的真正威力并没有在简单的 HTML 操作中显露出来。让我们进入稍微高级的工作。
 
-[](/running-election-campaigns-with-k-means-clustering-ecc40a91135a) [## 用 K-均值聚类进行竞选活动。
-
-### K-均值聚类实用介绍。
-
-towardsdatascience.com](/running-election-campaigns-with-k-means-clustering-ecc40a91135a) 
+[](/running-election-campaigns-with-k-means-clustering-ecc40a91135a)  
 
 让我们构建一个 K-Means 算法，完全在浏览器中对数据点进行聚类。
 
@@ -127,15 +119,7 @@ PyScript 是 Python 发展过程中令人印象深刻的一步。然而，我不
 
 此时，如果我想用 Python 开发 web 应用程序，我会使用 Dash 或 Streamlit。
 
-[](/plotly-dashboards-in-python-28a3bb83702c) [## 这就是我如何纯粹用 Python 创建令人眼花缭乱的仪表盘。
-
-### Plotly dash 应用程序是用 python 构建生产级仪表板的最快方式。
-
-towardsdatascience.com](/plotly-dashboards-in-python-28a3bb83702c) [](/how-to-create-stunning-web-apps-for-your-data-science-projects-c7791102134e) [## 如何为您的数据科学项目创建出色的 Web 应用程序
-
-### 数据科学家不必学习 HTML、CSS 和 JavaScript 来构建网页。
-
-towardsdatascience.com](/how-to-create-stunning-web-apps-for-your-data-science-projects-c7791102134e) 
+[](/plotly-dashboards-in-python-28a3bb83702c)  [](/how-to-create-stunning-web-apps-for-your-data-science-projects-c7791102134e)  
 
 这并不意味着我不喜欢这种事情发生。我不打算切断它，因为它开始跳跃。但是，我期待很快会有更多的进展。
 

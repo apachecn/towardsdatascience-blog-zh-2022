@@ -12,11 +12,7 @@
 
 在 ML 模型的可解释性领域，SHAP 和莱姆是两种值得信赖的方法。然而，它们中的每一个都有一些限制。在我的上一篇文章中，我讨论了 SHAP 的一些惊人的局限性。如果您想参考，以下是快速参考:
 
-[](/using-shap-for-explainability-understand-these-limitations-first-1bed91c9d21) [## 使用 SHAP 解释——首先理解这些限制！！
-
-### 可解释性做对了。
-
-towardsdatascience.com](/using-shap-for-explainability-understand-these-limitations-first-1bed91c9d21) 
+[](/using-shap-for-explainability-understand-these-limitations-first-1bed91c9d21)  
 
 在所有的 SHAP 局限性中，我认为两个(尽管有些关联)最令人担忧的是:
 
@@ -60,11 +56,7 @@ towardsdatascience.com](/using-shap-for-explainability-understand-these-limitati
 
 如果你不熟悉 SHAP 使用的合作博弈理论，请参考以下文章:
 
-[](/can-shap-trigger-a-paradigm-shift-in-risk-analytics-c01278e4dd77) [## SHAP 能引发风险分析的范式转变吗？
-
-### 由 Chandan Durgia 和 Prasun Biswas 撰写
-
-towardsdatascience.com](/can-shap-trigger-a-paradigm-shift-in-risk-analytics-c01278e4dd77) 
+[](/can-shap-trigger-a-paradigm-shift-in-risk-analytics-c01278e4dd77)  
 
 在解决 SHAP 带来的两个关键限制方面，QII 无疑已经向前迈出了一大步。此外，QII 据称比 SHAP 计算量少。
 

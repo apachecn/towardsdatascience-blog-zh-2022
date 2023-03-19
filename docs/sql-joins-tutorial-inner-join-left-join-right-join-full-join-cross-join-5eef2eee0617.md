@@ -211,11 +211,7 @@ SQL 连接是数据分析和数据科学中的常见操作。您了解了内连�
 
 要了解包括列仓库在内的各种数据库的更多信息:
 
-[](/datastore-choices-sql-vs-nosql-database-ebec24d56106) [## SQL 与 NoSQL 数据库:何时使用，如何选择
-
-### SQL 和 NoSQL 数据库的区别。深入分析、决策树和备忘单，为您的数据选择最佳选择…
-
-towardsdatascience.com](/datastore-choices-sql-vs-nosql-database-ebec24d56106) 
+[](/datastore-choices-sql-vs-nosql-database-ebec24d56106)  
 
 **如果您喜欢，请:**
 

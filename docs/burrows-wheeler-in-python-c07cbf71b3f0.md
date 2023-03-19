@@ -99,20 +99,4 @@ find("ape", 'apple', mismatches=1)
 
 这篇文章的代码可以在我的个人[**GitHub**](https://github.com/glickmac/Burrows_Wheeler_in_Python) 上找到。将小的基因序列映射成一个巨大的基因组串的速度是 BWT 搜索在生物信息学工具中流行的原因，如[蝴蝶结](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2009-10-3-r25#:~:text=Abstract%20Bowtie%20is%20an%20ultrafast%2C%20memory-efficient%20alignment%20program,with%20a%20memory%20footprint%20of%20approximately%201.3%20gigabytes.)和 [BWA](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2705234/) 。我的名字是[科迪·格利克曼](https://codyglickman.com/)，可以在 [LinkedIn](https://www.linkedin.com/in/codyglickman/) 上找到我。一定要看看我的其他一些文章！
 
-[](https://glickmancody.medium.com/membership) [## 通过我的推荐链接加入 Medium-Cody Glickman 博士
-
-### 阅读科迪·格利克曼博士(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接…
-
-glickmancody.medium.com](https://glickmancody.medium.com/membership) [](/data-augmentation-in-medical-images-95c774e6eaae) [## 医学图像中的数据增强
-
-### 如何通过重塑和重采样数据来提高视觉模型的性能
-
-towardsdatascience.com](/data-augmentation-in-medical-images-95c774e6eaae) [](/building-a-beautiful-static-webpage-using-github-f0f92c6e1f02) [## 使用 GitHub 创建漂亮的静态网页
-
-### 查找模板和为静态网页创建表单的位置
-
-towardsdatascience.com](/building-a-beautiful-static-webpage-using-github-f0f92c6e1f02) [](/pfam-database-filtering-using-python-164c3131c897) [## 使用 Python 进行 Pfam 数据库过滤
-
-### 通过字符串搜索选择隐马尔可夫模型(HMM)
-
-towardsdatascience.com](/pfam-database-filtering-using-python-164c3131c897)
+[](https://glickmancody.medium.com/membership)  [](/data-augmentation-in-medical-images-95c774e6eaae)  [](/building-a-beautiful-static-webpage-using-github-f0f92c6e1f02)  [](/pfam-database-filtering-using-python-164c3131c897) 

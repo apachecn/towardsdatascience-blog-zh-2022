@@ -99,12 +99,4 @@ result = (x / y / z) * (a / b / c)
 
 **你可能会觉得鼓舞人心的其他博客，**
 
-[](https://levelup.gitconnected.com/3-small-sql-errors-that-cost-a-data-science-job-offer-7ee920084aed) [## 3 个小小的 SQL 错误让一份数据科学工作付出了代价
-
-### 其中一个让我失去了一份 21.2 万美元的工作
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/3-small-sql-errors-that-cost-a-data-science-job-offer-7ee920084aed) [](/6-sql-tricks-every-data-scientist-should-know-f84be499aea5) [## 每个数据科学家都应该知道的 6 个 SQL 技巧
-
-### 提高分析效率的 SQL 技巧
-
-towardsdatascience.com](/6-sql-tricks-every-data-scientist-should-know-f84be499aea5)
+[](https://levelup.gitconnected.com/3-small-sql-errors-that-cost-a-data-science-job-offer-7ee920084aed)  [](/6-sql-tricks-every-data-scientist-should-know-f84be499aea5) 

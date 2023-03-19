@@ -24,11 +24,7 @@
 
 上表中显示的两个变量来自一个大型数据集。请随意从以下链接下载数据集:
 
-[](https://www.kaggle.com/aljarah/xAPI-Edu-Data) [## 学生的学业成绩数据集
-
-### xAPI-教育挖掘数据集
-
-www.kaggle.com](https://www.kaggle.com/aljarah/xAPI-Edu-Data) 
+[](https://www.kaggle.com/aljarah/xAPI-Edu-Data)  
 
 使用这个数据集的权限就是这里所说的。
 
@@ -218,28 +214,4 @@ p_value
 
 ## 更多阅读
 
-[](/understanding-regularization-in-plain-language-l1-and-l2-regularization-2991b9c54e9a) [## 用通俗的语言理解正则化:L1 和 L2 正则化
-
-### 在数据科学访谈中经常被问到
-
-towardsdatascience.com](/understanding-regularization-in-plain-language-l1-and-l2-regularization-2991b9c54e9a) [](/a-complete-guide-to-confidence-interval-and-examples-in-python-ff417c5cb593) [## 置信区间的完整指南，以及 Python 中的示例
-
-### 对统计学中一个非常流行的参数——置信区间及其计算的深入理解
-
-towardsdatascience.com](/a-complete-guide-to-confidence-interval-and-examples-in-python-ff417c5cb593) [](https://pub.towardsai.net/data-analysis-91a38207c92b) [## 数据分析
-
-### Python 中数据科学家/分析师日常工作中的常见数据清理任务
-
-pub.towardsai.net](https://pub.towardsai.net/data-analysis-91a38207c92b) [](/what-is-a-recurrent-neural-network-and-implementation-of-simplernn-gru-and-lstm-models-in-keras-f7247e97c405) [## 在 Keras 中实现 SimpleRNN、GRU 和 LSTM 模型
-
-### 什么是递归神经网络以及三种递归神经网络在 Tensorflow 和
-
-towardsdatascience.com](/what-is-a-recurrent-neural-network-and-implementation-of-simplernn-gru-and-lstm-models-in-keras-f7247e97c405) [](/30-very-useful-pandas-functions-for-everyday-data-analysis-tasks-f1eae16409af) [## 30 个非常有用的熊猫函数，用于日常数据分析任务
-
-### 熊猫小型张
-
-towardsdatascience.com](/30-very-useful-pandas-functions-for-everyday-data-analysis-tasks-f1eae16409af) [](/exploratory-data-analysis-with-some-cool-visualizations-in-pythons-matplotlib-and-seaborn-library-99dde20d98bf) [## 利用 Python 的 Matplotlib 和 Seaborn 中的高级可视化进行探索性数据分析…
-
-### 探索国际足联数据集
-
-towardsdatascience.com](/exploratory-data-analysis-with-some-cool-visualizations-in-pythons-matplotlib-and-seaborn-library-99dde20d98bf)
+[](/understanding-regularization-in-plain-language-l1-and-l2-regularization-2991b9c54e9a)  [](/a-complete-guide-to-confidence-interval-and-examples-in-python-ff417c5cb593)  [](https://pub.towardsai.net/data-analysis-91a38207c92b)  [](/what-is-a-recurrent-neural-network-and-implementation-of-simplernn-gru-and-lstm-models-in-keras-f7247e97c405)  [](/30-very-useful-pandas-functions-for-everyday-data-analysis-tasks-f1eae16409af)  [](/exploratory-data-analysis-with-some-cool-visualizations-in-pythons-matplotlib-and-seaborn-library-99dde20d98bf) 

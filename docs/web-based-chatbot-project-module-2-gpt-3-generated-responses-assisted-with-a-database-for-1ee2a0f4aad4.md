@@ -11,11 +11,7 @@
 
 我还向您详细展示了第一个模块如何与字符串匹配函数、数据库编译等几个细节一起工作。：
 
-[](/web-based-database-powered-chatbot-project-module-1-approximate-string-matching-65df0d8c999d) [## 基于网络的数据库聊天机器人项目—模块 1:近似字符串匹配
-
-### 一个跨越 web 编程、数学、人工智能等的项目。
-
-towardsdatascience.com](/web-based-database-powered-chatbot-project-module-1-approximate-string-matching-65df0d8c999d) 
+[](/web-based-database-powered-chatbot-project-module-1-approximate-string-matching-65df0d8c999d)  
 
 现在，这是这个聊天机器人大脑的另一半:一个通过 OpenAI 的 GPT-3 语言模型生成用户问题答案的模块，该模型通过对文本的少量学习进行扩展，这些文本首先通过字符串匹配进行检索。
 
@@ -27,37 +23,17 @@ towardsdatascience.com](/web-based-database-powered-chatbot-project-module-1-app
 
 聊天机器人这一半大脑的核心是 GPT-3，这是由 OpenAI 开发的用于文本处理和生成的模型。我在很大程度上介绍并测试了 GPT-3，特别是它准确回答事实问题和获得定制数据的能力:
 
-[](/devising-tests-to-measure-gpt-3s-knowledge-of-the-basic-sciences-4bbfcde8286b) [## 设计测试来衡量 GPT-3 的基础科学知识
-
-### 学生可以从 OpenAI 的最新语言模型中学习并将其用作全天候顾问吗？学生可以用它来…
-
-towardsdatascience.com](/devising-tests-to-measure-gpt-3s-knowledge-of-the-basic-sciences-4bbfcde8286b) [](/gpt-3-like-models-with-extended-training-could-be-the-future-24-7-tutors-for-biology-students-904d2ae7986a) [## 经过长期训练的类似 GPT 3 的模特可能成为未来生物学生的全天候导师
-
-### 尽管其他科目的成绩相当令人沮丧，但 GPT-3 在生物方面表现相当好，如果它…
-
-towardsdatascience.com](/gpt-3-like-models-with-extended-training-could-be-the-future-24-7-tutors-for-biology-students-904d2ae7986a)  [## 关于 GPT-3 及其(显然无效的)“思考”能力的说明
-
-### 在我最近的文章中，有一些关于 GPT-3 的能力的说明，尽管令人印象深刻，但并不…
-
-towardsdatascience.com](/a-note-on-gpt-3-and-its-obviously-null-thinking-capabilities-de84a26ac0f3) 
+[](/devising-tests-to-measure-gpt-3s-knowledge-of-the-basic-sciences-4bbfcde8286b)  [](/gpt-3-like-models-with-extended-training-could-be-the-future-24-7-tutors-for-biology-students-904d2ae7986a)    
 
 ## 为什么 GPT-3 在这个项目中？
 
 GPT-3 是当今最大的型号之一，但不是最大的，也可能不是最好的。但是它在前 3-5 名中，对我来说它是最容易使用的。为什么？因为您只需调用 OpenAI 提供的 API 对于 web 应用程序，您可以通过简单的 PHP 实现这一点:
 
-[](/custom-informed-gpt-3-models-for-your-website-with-very-simple-code-47134b25620b) [## 用非常简单的代码为你的网站构建定制的基于 GPT 3 的聊天机器人
-
-### 了解 GPT-3，PHP 和 JavaScript，因为你建立了一个在线 GPT-3 为基础的聊天机器人专门在一个给定的主题，你…
-
-towardsdatascience.com](/custom-informed-gpt-3-models-for-your-website-with-very-simple-code-47134b25620b) 
+[](/custom-informed-gpt-3-models-for-your-website-with-very-simple-code-47134b25620b)  
 
 顺便说一下，我在我的免费 Altervista 驱动的网站上运行 PHP。这个提供商提供了丰富的功能(我没有因为推广它而获得任何东西…我只是喜欢它！):
 
-[](https://medium.com/geekculture/to-me-simply-the-best-free-web-hosting-out-there-honest-review-not-paid-advertisement-4829689913a) [## 对我来说，最好的免费虚拟主机是诚实的评论，而不是付费广告！
-
-### 在使用这项服务超过 10 年后，我想把它作为最好的免费虚拟主机服务…
-
-medium.com](https://medium.com/geekculture/to-me-simply-the-best-free-web-hosting-out-there-honest-review-not-paid-advertisement-4829689913a) 
+[](https://medium.com/geekculture/to-me-simply-the-best-free-web-hosting-out-there-honest-review-not-paid-advertisement-4829689913a)  
 
 我更喜欢 GPT-3 的另一个重要原因是，它很容易用自然检索的信息来扩展它。有两种方法可以做到这一点:
 
@@ -74,11 +50,7 @@ GPT-3 最酷的特点之一是，你可以很容易地模拟你教它，而不�
 
 我用这个基于少量学习的精确策略来指导 GPT-3 回答关于生物学的问题。问题简单的时候，它不需要额外学习就能正确回复；但是随着话题变得越来越专业，它开始出错或者没有产生任何答案。如果你在问题前加上文本，甚至是复杂的论文摘要，它就能很好地检索出答案，即使没有被问到它们在文本中是如何编码的。您可以在下面的文章中看到一些这样的例子:
 
-[](/gpt-3-like-models-with-extended-training-could-be-the-future-24-7-tutors-for-biology-students-904d2ae7986a) [## 经过长期训练的类似 GPT 3 的模特可能成为未来生物学生的全天候导师
-
-### 尽管其他科目的成绩相当令人沮丧，但 GPT-3 在生物方面表现相当好，如果它…
-
-towardsdatascience.com](/gpt-3-like-models-with-extended-training-could-be-the-future-24-7-tutors-for-biology-students-904d2ae7986a) 
+[](/gpt-3-like-models-with-extended-training-could-be-the-future-24-7-tutors-for-biology-students-904d2ae7986a)  
 
 现在让我们看看如何用字符串匹配包装这些内容，以便在 chabot 中进行少量学习。
 
@@ -198,11 +170,7 @@ OpenAI 的官方文档解释说 2000 个代币相当于 8000 个字符，或者 
 
 根据从我的博客中的一篇文章中获取的信息，这篇文章包含在“少量学习”的文章列表中:
 
-[](https://medium.com/illumination/the-history-of-switzerlands-wild-daffodils-dea42e8a4df4) [## 瑞士野生水仙花的故事
-
-### 这种芳香的花生长在瑞士沃州的特定地点。保护他们的协会和邻居…
-
-medium.com](https://medium.com/illumination/the-history-of-switzerlands-wild-daffodils-dea42e8a4df4) 
+[](https://medium.com/illumination/the-history-of-switzerlands-wild-daffodils-dea42e8a4df4)  
 
 我问“*水仙花需要什么土壤才能生长？*”。我知道这个信息就在那里。它可以找到它:
 

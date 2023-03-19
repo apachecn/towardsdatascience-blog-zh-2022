@@ -44,11 +44,7 @@
 
 *如有必要，复习这篇[介值定理](https://medium.com/@andrewdaviesul/checking-if-a-solution-exists-intermediate-value-theorem-53d85890350)文章。*
 
-*[](https://medium.com/@andrewdaviesul/checking-if-a-solution-exists-intermediate-value-theorem-53d85890350) [## Python 中的介值定理
-
-### 用介值定理检验函数的解是否存在
-
-medium.com](https://medium.com/@andrewdaviesul/checking-if-a-solution-exists-intermediate-value-theorem-53d85890350) 
+*[](https://medium.com/@andrewdaviesul/checking-if-a-solution-exists-intermediate-value-theorem-53d85890350)  
 
 设 *x₀* 和 *x₁* 为估计区间的起点和终点。然后，用等式 2 计算出*【x₀，x₁】*之间的中点( *x₂* )。
 
@@ -80,11 +76,7 @@ medium.com](https://medium.com/@andrewdaviesul/checking-if-a-solution-exists-int
 
 **x₀* 和 *x₁* 是区间起点和终点，例如*【1，2】。**
 
-*[](https://scicomp.stackexchange.com/questions/16458/deriving-the-error-bound-for-bisection-method) [## 二分法误差界限的推导
-
-### 这是一个家庭作业问题，我想知道是否有人可以解释一下。设$x_n = \frac{a_n + b_n}{2}…
-
-scicomp.stackexchange.com](https://scicomp.stackexchange.com/questions/16458/deriving-the-error-bound-for-bisection-method) 
+*[](https://scicomp.stackexchange.com/questions/16458/deriving-the-error-bound-for-bisection-method)  
 
 使用 Gist 3 中的 Python 代码实现该等式。
 
@@ -150,15 +142,7 @@ scicomp.stackexchange.com](https://scicomp.stackexchange.com/questions/16458/der
 
 *如果你对 *Python* 、*工程学*和*数据科学*感兴趣，请关注并查看我的其他文章。*
 
-*[](https://medium.com/@andrewdaviesul/membership) [## 通过我的推荐链接加入媒体-安德鲁·约瑟夫·戴维斯
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@andrewdaviesul/membership) [](/fundamentals-of-matrix-algebra-with-python-part-1-85aaa17e3632) [## Python 的矩阵代数基础|第 1 部分
-
-### 使用 Python 理解和实现基本矩阵代数概念和运算
-
-towardsdatascience.com](/fundamentals-of-matrix-algebra-with-python-part-1-85aaa17e3632) 
+*[](https://medium.com/@andrewdaviesul/membership)  [](/fundamentals-of-matrix-algebra-with-python-part-1-85aaa17e3632)  
 
 ## 参考
 

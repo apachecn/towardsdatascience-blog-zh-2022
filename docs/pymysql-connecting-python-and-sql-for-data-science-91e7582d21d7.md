@@ -61,11 +61,7 @@ MySQL Workbench 中的 *customers* 表截图|作者图片
 
 如果您想了解更多关于为这样的实验生成模拟数据的免费资源，请查看以下参考资料:
 
-[](/free-resources-for-generating-realistic-fake-data-da63836be1a8) [## 用于生成真实假数据的免费资源
-
-### 零成本地为您的数据科学项目生成模拟和虚拟数据
-
-towardsdatascience.com](/free-resources-for-generating-realistic-fake-data-da63836be1a8) 
+[](/free-resources-for-generating-realistic-fake-data-da63836be1a8)  
 
 ## ㈢进口包装
 
@@ -122,11 +118,7 @@ PyMySQL 库建立在两个关键的 Python 对象之上:**连接**对象和**光
 
 dataframe | Image 的“频率应用程序访问”列的直方图(按作者)
 
-[](https://kennethleungty.medium.com/membership) [## 通过我的推荐链接加入 Medium—Kenneth
-
-### 以一杯咖啡的价格访问我所有的内容(和所有的媒体文章)!
-
-kennethleungty.medium.com](https://kennethleungty.medium.com/membership) 
+[](https://kennethleungty.medium.com/membership)  
 
 # (6)其他 CRUD 功能
 
@@ -150,26 +142,10 @@ kennethleungty.medium.com](https://kennethleungty.medium.com/membership)
 
 如果您想了解 PyMySQL 是如何用于云数据库(而不是本演示中所示的本地数据库)的，请查看以下内容:
 
-[](/definitive-guide-to-create-an-sql-database-on-cloud-with-aws-and-python-c818c7270af2) [## 使用 AWS 和 Python 在云上创建 SQL 数据库的权威指南
-
-### 关于使用 Amazon RDS、MySQL Workbench 和 PyMySQL 构建和部署云的简单易懂的综合指南…
-
-towardsdatascience.com](/definitive-guide-to-create-an-sql-database-on-cloud-with-aws-and-python-c818c7270af2) 
+[](/definitive-guide-to-create-an-sql-database-on-cloud-with-aws-and-python-c818c7270af2)  
 
 # 在你走之前
 
 欢迎您**加入我的数据科学学习之旅！**点击此[媒体](https://kennethleungty.medium.com/)页面，查看我的 [GitHub](https://github.com/kennethleungty) ，了解更多令人兴奋的实用数据科学内容。同时，祝您在使用 PyMySQL 的过程中愉快！
 
-[](/how-to-dockerize-machine-learning-applications-built-with-h2o-mlflow-fastapi-and-streamlit-a56221035eb5) [## 如何对接用 H2O、MLflow、FastAPI 和 Streamlit 构建的机器学习应用
-
-### 用 Docker 容器化多服务 ML 应用的简单指南
-
-towardsdatascience.com](/how-to-dockerize-machine-learning-applications-built-with-h2o-mlflow-fastapi-and-streamlit-a56221035eb5) [](/top-tips-to-google-search-like-a-data-science-pro-897599f4d9ae) [## 像经验丰富的数据科学家一样使用谷歌搜索的顶级技巧
-
-### 了解高级 Google 搜索功能，提高您查找数据科学解决方案的效率
-
-towardsdatascience.com](/top-tips-to-google-search-like-a-data-science-pro-897599f4d9ae) [](/imputation-of-missing-data-in-tables-with-datawig-2d7ab327ece2) [## 用 DataWig 对表中缺失数据的插补
-
-### 用 Python 实现 Amazon 的 DataWig 来估算表格数据中的缺失值
-
-towardsdatascience.com](/imputation-of-missing-data-in-tables-with-datawig-2d7ab327ece2)
+[](/how-to-dockerize-machine-learning-applications-built-with-h2o-mlflow-fastapi-and-streamlit-a56221035eb5)  [](/top-tips-to-google-search-like-a-data-science-pro-897599f4d9ae)  [](/imputation-of-missing-data-in-tables-with-datawig-2d7ab327ece2) 

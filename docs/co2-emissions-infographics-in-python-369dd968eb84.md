@@ -276,30 +276,10 @@ ax**.**text(5,80, text1,
 
 如果你想看更多的文章，请在媒体上关注我或者订阅我偶尔发的[子栈简讯](http://technofile.substack.com)。
 
-[](https://medium.com/membership/@alan-jones) [## 通过我的推荐链接-阿兰·琼斯加入媒体
-
-### 阅读阿兰·琼斯的每一个故事(以及媒体上成千上万的其他作家)。你的会员费直接支持艾伦…
-
-medium.com](https://medium.com/membership/@alan-jones) 
+[](https://medium.com/membership/@alan-jones)  
 
 ## 笔记
 
 通过下面的链接，你可以在“数据世界”和美国宇航局的图片中找到原始数据。
 
-[](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions) [## CO₂和温室气体排放
-
-### 你可以下载我们完整的二氧化碳和温室气体排放数据库。排放是如何变化的…
-
-ourworldindata.org](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions) [](https://github.com/owid/co2-data) [## GitHub - owid/co2-data: Data 中关于我们世界的 co2 和温室气体排放的数据
-
-### 我们完整的二氧化碳和温室气体排放数据集是我们的世界在数据中维护的关键指标的集合…
-
-github.com](https://github.com/owid/co2-data) [](https://climate.nasa.gov/climate_resources/24/graphic-the-relentless-rise-of-carbon-dioxide/) [## 图表:二氧化碳的无情增加-气候变化:地球的生命迹象
-
-### 被困在冰中的古老气泡让我们能够回到过去，看看地球的大气和气候是怎样的…
-
-climate.nasa.gov](https://climate.nasa.gov/climate_resources/24/graphic-the-relentless-rise-of-carbon-dioxide/) [](https://www.nasa.gov/mission_pages/station/images/index.html) [## 空间站图像
-
-### NASA.gov 为您带来来自美国航天局的最新图像、视频和新闻。获取 NASA 的最新动态…
-
-www.nasa.gov](https://www.nasa.gov/mission_pages/station/images/index.html)
+[](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions)  [](https://github.com/owid/co2-data)  [](https://climate.nasa.gov/climate_resources/24/graphic-the-relentless-rise-of-carbon-dioxide/)  [](https://www.nasa.gov/mission_pages/station/images/index.html) 

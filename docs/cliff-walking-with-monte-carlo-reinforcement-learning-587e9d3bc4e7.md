@@ -104,35 +104,19 @@ SARSA 和蒙特卡罗 RL 的比较。SARSA 通常收敛得更快，并且经常�
 
 ***-Q-learning****:*
 
-[](/walking-off-the-cliff-with-off-policy-reinforcement-learning-7fdbcdfe31ff) [## 用非策略强化学习走下悬崖
-
-### 政策外强化学习和政策内强化学习的深入比较
-
-towardsdatascience.com](/walking-off-the-cliff-with-off-policy-reinforcement-learning-7fdbcdfe31ff) 
+[](/walking-off-the-cliff-with-off-policy-reinforcement-learning-7fdbcdfe31ff)  
 
 ***离散政策梯度*** *:*
 
-[](/cliff-walking-problem-with-the-discrete-policy-gradient-algorithm-59d1900d80d8) [## 基于离散策略梯度算法的悬崖行走问题
-
-### 用 Python 实现了一个完整的增强算法。手动执行这些步骤来说明内部…
-
-towardsdatascience.com](/cliff-walking-problem-with-the-discrete-policy-gradient-algorithm-59d1900d80d8) 
+[](/cliff-walking-problem-with-the-discrete-policy-gradient-algorithm-59d1900d80d8)  
 
 ***深度政策梯度*** *:*
 
-[](/deep-policy-gradient-for-cliff-walking-37d5014fd4bc) [## 悬崖漫步的深度政策梯度
-
-### 用 Python 实现 TensorFlow 2.0。在这个解决方案中，参与者由一个神经网络来表示，它是…
-
-towardsdatascience.com](/deep-policy-gradient-for-cliff-walking-37d5014fd4bc) 
+[](/deep-policy-gradient-for-cliff-walking-37d5014fd4bc)  
 
 ***深度 Q-学习*** *:*
 
-[](/a-minimal-working-example-for-deep-q-learning-in-tensorflow-2-0-e0ca8a944d5e) [## TensorFlow 2.0 中深度 Q 学习的最小工作示例
-
-### 一个多臂土匪的例子来训练一个 Q 网络。使用 TensorFlow，更新过程只需要几行代码
-
-towardsdatascience.com](/a-minimal-working-example-for-deep-q-learning-in-tensorflow-2-0-e0ca8a944d5e) 
+[](/a-minimal-working-example-for-deep-q-learning-in-tensorflow-2-0-e0ca8a944d5e)  
 
 # 参考
 

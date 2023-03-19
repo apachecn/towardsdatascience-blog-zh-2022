@@ -235,8 +235,4 @@ Patrick Lewis、Ethan Perez、Aleksandra Piktus、Fabio Petroni、Vladimir Karpu
 
 **Morris Alper** 是以色列特拉维夫的一名数据科学家。他是[以色列技术挑战赛](https://www.itc.tech/)的数据科学负责人和讲师，目前是[特拉维夫大学](https://english.tau.ac.il/)计算机科学专业的硕士学生。咨询可以通过电子邮件([morrisalp@gmail.com](mailto:morrisalp@gmail.com))或 LinkedIn 进行:
 
- [## Morris Alper -以色列科技挑战赛数据科学负责人兼讲师| LinkedIn
-
-### 查看莫里斯阿尔珀在全球最大的职业社区 LinkedIn 上的个人资料。莫里斯有 7 份工作列在他们的…
-
-www.linkedin.com](https://www.linkedin.com/in/morris-alper/)
+ 

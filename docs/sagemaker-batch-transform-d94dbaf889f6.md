@@ -93,11 +93,7 @@ Sklearn 估计量
 
 ## 其他资源和结论
 
-[](https://github.com/RamVegiraju/SageMaker-Deployment/tree/master/BatchTransform/BYOM-Sklearn) [## sage maker-Deployment/batch transform/BYOM-sk learn at master RamVegiraju/sage maker-Deployment
-
-### SageMaker 推理选项和其他功能的例子汇编。…
-
-github.com](https://github.com/RamVegiraju/SageMaker-Deployment/tree/master/BatchTransform/BYOM-Sklearn) 
+[](https://github.com/RamVegiraju/SageMaker-Deployment/tree/master/BatchTransform/BYOM-Sklearn)  
 
 关于示例的整个**代码**，请访问上方的链接**。批处理推理有大量的用例，我希望这篇文章可以作为一个很好的入门和参考，让您用自己的模型和工作负载来尝试这个推理选项。在下面的[链接](https://github.com/huggingface/notebooks/blob/main/sagemaker/12_batch_transform_inference/sagemaker-notebook.ipynb)查看另一个很酷的批量推理例子。如果你更喜欢视频教程，下面的[课程](https://www.coursera.org/lecture/ml-models-human-in-the-loop-pipelines/amazon-sagemaker-batch-transform-batch-inference-svDGb)中有一个很棒的批量转换部分。**
 

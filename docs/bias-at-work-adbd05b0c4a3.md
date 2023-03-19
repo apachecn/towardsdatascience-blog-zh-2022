@@ -126,11 +126,7 @@
 
 > 化学工程师负责设计、建造和操作生产化学品的工厂。他们必须确保工厂安全高效地运行，同时符合环境法规。
 
-[](https://pub.towardsai.net/six-months-later-what-data-science-hopefully-learned-from-facebooks-whistleblower-fe8049e5cac3) [## 六个月后:数据科学(希望)从脸书的告密者那里学到了什么
-
-### 去年 10 月，一名数据科学家揭发了脸书涉嫌有害和不道德的做法…
-
-pub.towardsai.net](https://pub.towardsai.net/six-months-later-what-data-science-hopefully-learned-from-facebooks-whistleblower-fe8049e5cac3) 
+[](https://pub.towardsai.net/six-months-later-what-data-science-hopefully-learned-from-facebooks-whistleblower-fe8049e5cac3)  
 
 # 数学老师
 
@@ -154,11 +150,7 @@ pub.towardsai.net](https://pub.towardsai.net/six-months-later-what-data-science-
 
 然而，这种人工智能的实现，与其他人工智能的实现不同，似乎有可能受到社会系统性偏见和成见的影响。
 
-[](https://medium.com/the-faculty/reading-list-on-bias-in-ai-ml-data-science-4ccdc93f6219) [## 人工智能、人工智能和数据科学中偏见的阅读清单
-
-### 关于人工智能中的偏见、成见和压迫的重要读物清单，机器…
-
-medium.com](https://medium.com/the-faculty/reading-list-on-bias-in-ai-ml-data-science-4ccdc93f6219) 
+[](https://medium.com/the-faculty/reading-list-on-bias-in-ai-ml-data-science-4ccdc93f6219)  
 
 # 感谢阅读
 

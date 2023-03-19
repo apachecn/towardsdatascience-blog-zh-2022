@@ -145,30 +145,6 @@ Levenshtein 距离是一种词汇相似性度量，它标识一对字符串之�
 
 如果你喜欢这篇文章，这里还有一些你可能也会喜欢的:
 
-[](/text-summarization-in-python-with-jaro-winkler-and-pagerank-72d693da94e8) [## 用 Jaro-Winkler 和 PageRank 实现 Python 中的文本摘要
+[](/text-summarization-in-python-with-jaro-winkler-and-pagerank-72d693da94e8)  [](/word2vec-explained-49c52b4ccb71)  [](/link-prediction-recommendation-engines-with-node2vec-c97c429351a8)  [](/bayesian-a-b-testing-explained-344a6df88c1a) [## 贝叶斯 A/B 测试解释
 
-### 用 Jaro-Winkler 和 PageRank 构建一个文本摘要器
-
-towardsdatascience.com](/text-summarization-in-python-with-jaro-winkler-and-pagerank-72d693da94e8) [](/word2vec-explained-49c52b4ccb71) [## Word2Vec 解释道
-
-### 解释 Word2Vec 的直观性&用 Python 实现它
-
-towardsdatascience.com](/word2vec-explained-49c52b4ccb71) [](/link-prediction-recommendation-engines-with-node2vec-c97c429351a8) [## 使用 Node2Vec 的链接预测推荐引擎
-
-### 在 Python 中使用节点嵌入进行链接预测
-
-towardsdatascience.com](/link-prediction-recommendation-engines-with-node2vec-c97c429351a8) [](/bayesian-a-b-testing-explained-344a6df88c1a) [## 贝叶斯 A/B 测试解释
-
-towardsdatascience.com](/bayesian-a-b-testing-explained-344a6df88c1a) [](/mining-modelling-character-networks-part-ii-a3d77de89638) [## 挖掘和模拟字符网络—第二部分
-
-### 本文将介绍挖掘和建模字符网络的 Python 实现
-
-towardsdatascience.com](/mining-modelling-character-networks-part-ii-a3d77de89638) [](/optimize-training-predicting-sk-learn-models-in-python-with-sparse-matrices-1612072a025d) [## 使用稀疏矩阵优化 Python 中 SK-Learn 模型的训练和预测
-
-### 使用稀疏矩阵训练 SK-Learn 模型的速度提高了 40 倍
-
-towardsdatascience.com](/optimize-training-predicting-sk-learn-models-in-python-with-sparse-matrices-1612072a025d) [](/identifying-tweet-sentiment-in-python-7c37162c186b) [## 在 Python 中识别推文情感
-
-### 如何使用 Tweepy 和 Textblob 识别推文情感
-
-towardsdatascience.com](/identifying-tweet-sentiment-in-python-7c37162c186b)
+towardsdatascience.com](/bayesian-a-b-testing-explained-344a6df88c1a) [](/mining-modelling-character-networks-part-ii-a3d77de89638)  [](/optimize-training-predicting-sk-learn-models-in-python-with-sparse-matrices-1612072a025d)  [](/identifying-tweet-sentiment-in-python-7c37162c186b) 

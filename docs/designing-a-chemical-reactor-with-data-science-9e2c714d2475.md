@@ -60,11 +60,7 @@ Streamlit 通过易于编程的滑块来改变模拟中的不同参数，从而�
 
 > 看看我关于这个话题的博客吧！
 
-[](/leveling-up-your-machine-learning-projects-317da9c787fe) [## 提升你的机器学习项目
-
-### 如何构建机器学习项目的实用指南
-
-towardsdatascience.com](/leveling-up-your-machine-learning-projects-317da9c787fe) 
+[](/leveling-up-your-machine-learning-projects-317da9c787fe)  
 
 在我的 FYP 的上下文中，这意味着为反应器中许多不同的组件编写类和抽象。`Reaction`将是一个具有特定参数和函数的基类，然后我们可以在其上定义`EquilibriumReaction`，重用相同的方法。一个现实的反应堆`RealPFR` 只是一个更简单的理想化的`IdealPFR`的子类，它可以进一步被建模为从基类`Reactor`继承的类。
 
@@ -106,15 +102,7 @@ towardsdatascience.com](/leveling-up-your-machine-learning-projects-317da9c787fe
 
 ## **查看代码:**
 
-[](https://github.com/reoneo97/reactor-sim) [## GitHub - reoneo97/reactor-sim:最后一年设计项目 python 模拟库
-
-### 最后一年设计项目 python 模拟演示库:设计棕榈酸酯化反应器…
-
-github.com](https://github.com/reoneo97/reactor-sim) [](https://reoneo.medium.com/membership) [## 通过我的推荐链接加入媒体- Reo Neo
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-reoneo.medium.com](https://reoneo.medium.com/membership) 
+[](https://github.com/reoneo97/reactor-sim)  [](https://reoneo.medium.com/membership)  
 
 ## **参考文献**
 

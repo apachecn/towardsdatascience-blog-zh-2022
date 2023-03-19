@@ -62,11 +62,7 @@ def extend(x: list, n: int) -> list:
 
 如您所见，我添加了一个带有 doctests 的 docstring。如果你想了解这个有用的测试框架，你可以阅读下面的*走向数据科学*文章:
 
-[](/python-documentation-testing-with-doctest-the-easy-way-c024556313ca) [## 用 doctest 测试 Python 文档:简单的方法
-
-### doctest 允许文档、单元和集成测试，以及测试驱动的开发。
-
-towardsdatascience.com](/python-documentation-testing-with-doctest-the-easy-way-c024556313ca) 
+[](/python-documentation-testing-with-doctest-the-easy-way-c024556313ca)  
 
 要运行测试，使用下面的 shell 命令，它假设您将上面的文件保存为`extender.py`，并且您就在 shell 中的这个文件夹中。
 
@@ -107,11 +103,7 @@ if __name__ == "__main__":
 
 `[rounder](https://github.com/nyggus/rounder)`[包](https://github.com/nyggus/rounder)使你能够以一种非常简单的方式对任何 Python 对象中的数字进行舍入。如果你感兴趣，你可以阅读下面的文章:
 
-[](/rounder-rounding-numbers-in-complex-python-objects-e4b6f3b563f8) [## 舍入器:对复杂 Python 对象中的数字进行舍入
-
-### rounder 包使您能够四舍五入任何对象中的所有数字，只需一个命令。
-
-towardsdatascience.com](/rounder-rounding-numbers-in-complex-python-objects-e4b6f3b563f8) 
+[](/rounder-rounding-numbers-in-complex-python-objects-e4b6f3b563f8)  
 
 我们来看看`perftester.pp()`用上面的字典做了什么。这是我们的`main.py`模块的代码:
 
@@ -150,11 +142,7 @@ if __name__ == "__main__":
 
 我想你们中的许多人认为我在编写这个函数的时候可以做得更好…你是对的！这并不是我一生中编写的最好的函数。创建列表的`for`循环？当然，列表理解应该做得更好，在性能方面也是如此；点击此处查看更多信息:
 
-[](/a-guide-to-python-comprehensions-4d16af68c97e) [## Python 理解指南
-
-### 学习复杂的列表理解(listcomps)，集合理解(setcomps)，字典理解…
-
-towardsdatascience.com](/a-guide-to-python-comprehensions-4d16af68c97e) 
+[](/a-guide-to-python-comprehensions-4d16af68c97e)  
 
 那么，让我们改进一下`extend()`函数。但是因为我们想检查我们的更改是否提高了性能，我们将更改函数名，以便我们的`extender`模块有两个版本。下面是我们新函数`extend_2()`的代码:
 
@@ -271,11 +259,7 @@ perftester.config.benchmark_function = foo
 
 您可以从下面来自`perftester`仓库的文档文件中了解更多关于这个主题的信息:
 
-[](https://github.com/nyggus/perftester/blob/implement-profiling-decorator/docs/benchmarking_against_another_function.md) [## perf tester/benchmark _ again _ function . MD at implement-profiling-decorator…
-
-### 在基本使用中，当你选择一个相对基准时，你将你的函数的性能与一个…
-
-github.com](https://github.com/nyggus/perftester/blob/implement-profiling-decorator/docs/benchmarking_against_another_function.md) 
+[](https://github.com/nyggus/perftester/blob/implement-profiling-decorator/docs/benchmarking_against_another_function.md)  
 
 # 结论
 
@@ -336,11 +320,7 @@ import perftester as pt
 
 在此期间，您可以将其用于基准时间。如果你想了解更多关于这个包及其用途的信息，你可以在`perftester`的 GitHub 仓库中找到:
 
-[](https://github.com/nyggus/perftester) [## GitHub - nyggus/perftester:一个轻量级 Python 包，用于 Python 的性能测试…
-
-### 使用 pip 安装:perftester 仍在大量测试中。如果您发现任何不符合预期的情况，请…
-
-github.com](https://github.com/nyggus/perftester) 
+[](https://github.com/nyggus/perftester)  
 
 # 附录
 
@@ -352,11 +332,7 @@ github.com](https://github.com/nyggus/perftester)
 
 然而，如果一个函数有一个参数`Func`、`Number`或`Repeat`，有一个解决方案。您可以定义一个`functools.partial()`函数并测试这个函数。你可以在这里阅读更多关于`functools.partial()`的信息:
 
-[](https://docs.python.org/3/library/functools.html#functools.partial) [## functools —对可调用对象的高阶函数和操作
-
-### 源代码:Lib/functools.py 该模块用于高阶函数:作用于或返回其他函数的函数…
-
-docs.python.org](https://docs.python.org/3/library/functools.html#functools.partial) 
+[](https://docs.python.org/3/library/functools.html#functools.partial)  
 
 下面，你会发现一个例子。假设你有一个函数`foo()`，它的参数是`Number`和`Repeat`。要使用`perftester.time_benchmark()`，您需要执行以下操作:
 
@@ -376,28 +352,4 @@ perftester.time_benchmark(foo_partial, Number=1000, Repeat=10)
 
 # 资源
 
-[](/benchmarking-python-code-with-timeit-80827e131e48) [## 用 timeit 对 Python 代码进行基准测试
-
-### 作为 Python 代码时间基准测试最流行的工具，内置的 timeit 模块提供了比大多数…
-
-towardsdatascience.com](/benchmarking-python-code-with-timeit-80827e131e48) [](https://docs.python.org/3/library/functools.html#functools.partial) [## functools——对可调用对象的高阶函数和操作
-
-### 源代码:Lib/functools.py 该模块用于高阶函数:作用于或返回其他函数的函数…
-
-docs.python.org](https://docs.python.org/3/library/functools.html#functools.partial) [](https://github.com/nyggus/perftester) [## GitHub - nyggus/perftester:一个轻量级 Python 包，用于 Python 的性能测试…
-
-### 使用 pip 安装:perftester 仍在大量测试中。如果您发现任何不符合预期的情况，请…
-
-github.com](https://github.com/nyggus/perftester) [](https://github.com/nyggus/rounder) [## GitHub - nyggus/rounder:在复杂的 Python 中舍入浮点数和复数的 Python 包…
-
-### rounder 是一个轻量级的包，用于在复杂的 Python 对象中舍入数字，例如字典、列表、元组…
-
-github.com](https://github.com/nyggus/rounder) [](/rounder-rounding-numbers-in-complex-python-objects-e4b6f3b563f8) [## 舍入器:对复杂 Python 对象中的数字进行舍入
-
-### rounder 包使您能够四舍五入任何对象中的所有数字，只需一个命令。
-
-towardsdatascience.com](/rounder-rounding-numbers-in-complex-python-objects-e4b6f3b563f8) [](/a-guide-to-python-comprehensions-4d16af68c97e) [## Python 理解指南
-
-### 学习复杂的列表理解(listcomps)，集合理解(setcomps)，字典理解…
-
-towardsdatascience.com](/a-guide-to-python-comprehensions-4d16af68c97e)
+[](/benchmarking-python-code-with-timeit-80827e131e48)  [](https://docs.python.org/3/library/functools.html#functools.partial)  [](https://github.com/nyggus/perftester)  [](https://github.com/nyggus/rounder)  [](/rounder-rounding-numbers-in-complex-python-objects-e4b6f3b563f8)  [](/a-guide-to-python-comprehensions-4d16af68c97e) 

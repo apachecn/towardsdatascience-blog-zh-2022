@@ -34,11 +34,7 @@
 
 这个博客的代码和数据可以在这里找到:
 
-[](https://github.com/BruceYanghy/End-to-End-Guide-to-Building-a-Credit-Scorecard-Using-Machine-Learning) [## GitHub-BruceYanghy/端到端-使用机器学习构建信用记分卡指南…
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/BruceYanghy/End-to-End-Guide-to-Building-a-Credit-Scorecard-Using-Machine-Learning) 
+[](https://github.com/BruceYanghy/End-to-End-Guide-to-Building-a-Credit-Scorecard-Using-Machine-Learning)  
 
 **开源工具:** [**Toad**](https://github.com/amphibian-dev/toad)
 

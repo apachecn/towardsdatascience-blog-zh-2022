@@ -92,15 +92,7 @@ ALE 图可以用 R 和 Python 实现。
 
 这里有一些很好的文档和博客帖子，它们使用了上面的包来实现 ALE 图，所以请查看它们！
 
-[](https://github.com/blent-ai/ALEPython/blob/dev/examples/regression_iris.ipynb) [## ALEPython/regression _ iris . ipynb at dev blent-ai/ALEPython
-
-### Python 累积的局部效果包。通过在…上创建帐户，为 blent-ai/ALEPython 开发做出贡献
-
-github.com](https://github.com/blent-ai/ALEPython/blob/dev/examples/regression_iris.ipynb) [](https://www.analyticsvidhya.com/blog/2020/10/accumulated-local-effects-ale-feature-effects-global-interpretability/) [## 累积局部效应(ALE)-特征重要性技术
-
-### 这篇文章恰好是我上一篇文章“Black…的全局模型可解释性技术”的延续
-
-www.analyticsvidhya.com](https://www.analyticsvidhya.com/blog/2020/10/accumulated-local-effects-ale-feature-effects-global-interpretability/) 
+[](https://github.com/blent-ai/ALEPython/blob/dev/examples/regression_iris.ipynb)  [](https://www.analyticsvidhya.com/blog/2020/10/accumulated-local-effects-ale-feature-effects-global-interpretability/)  
 
 ALIBI 包文档
 

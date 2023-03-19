@@ -20,19 +20,11 @@ ANSYS [最近宣布](https://www.ansys.com/blog/ansys-gets-into-open-source-with
 
 虽然自首次亮相以来它已经发展了很多，但你可以阅读 2017 年的公告文章，以了解 Dash 的更多背景信息:
 
-[](https://medium.com/plotly/introducing-dash-5ecf7191b503) [## 🌟引入破折号🌟
-
-### 用纯 Python 创建反应式 Web 应用程序
-
-medium.com](https://medium.com/plotly/introducing-dash-5ecf7191b503) 
+[](https://medium.com/plotly/introducing-dash-5ecf7191b503)  
 
 几年前，我开发了几个基于 VTK 的桌面应用程序，用于有限元分析结果的后处理。因此，当我了解到 Dash-VTK 时，我很兴奋地尝试将其中一些移植到网络应用程序中。我把一个例子和一篇文章放在一起，你可以在这里查看:
 
-[](/3d-mesh-models-in-the-browser-using-python-dash-vtk-e15cbf36a132) [## 使用 python & dash_vtk 在浏览器中创建三维网格模型
-
-### 使用 python 和 Dash、pyvista 和 dash_vtk 库导入和查看非结构化网格的快速示例…
-
-towardsdatascience.com](/3d-mesh-models-in-the-browser-using-python-dash-vtk-e15cbf36a132) 
+[](/3d-mesh-models-in-the-browser-using-python-dash-vtk-e15cbf36a132)  
 
 借助 Dash，我们能够构建一个具有简单、简洁用户界面的应用程序，这要归功于 Dash-VTK 视图 3D 网格和相关结果。如果你使用 Ansys 来解决你的分析问题，你需要将结果从 Ansys 中导出为某种固定的(可能是文本)格式，这样它们就可以被 web 应用程序读取。您必须导出模型(网格)以及 Ansys 的结果，并处理所有的映射。这可能是脆弱的，并且将限于您(作为开发人员)编码阅读的任何结果。这就是 PyDPF 帮助消除模型和网格步骤导出并从完整的结果文件直接进入数据处理和绘图的地方。
 

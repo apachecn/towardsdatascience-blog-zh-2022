@@ -10,11 +10,7 @@
 
 我最近宣布了一个 Python 包的发布，这个包对于二进制分类的分析非常有用。特别是，开发这一软件包的需要源于分析不平衡的二进制分类的困难。使用交互式绘图进行混淆矩阵和成本分析被证明对研究模型性能至关重要，因此创建了 Python[**bin class-tools**](https://github.com/lucazav/binclass-tools)包，正如我在下面的文章中强调的:
 
-[](/finding-the-best-classification-threshold-for-imbalanced-classifications-with-interactive-plots-7d65828dda38) [## 使用交互式图为不平衡分类寻找最佳分类阈值
-
-### 使用 binclass-tools 惊人的 Python 包将您对二进制分类问题的分析提升到一个新的水平！
-
-towardsdatascience.com](/finding-the-best-classification-threshold-for-imbalanced-classifications-with-interactive-plots-7d65828dda38) 
+[](/finding-the-best-classification-threshold-for-imbalanced-classifications-with-interactive-plots-7d65828dda38)  
 
 由于该 Python 包的目标是为最终用户提供一组用于二进制分类模型的有用工具，因此添加了基本图，以及混淆矩阵和成本图，用于测量模型性能。
 
@@ -101,21 +97,13 @@ curve_type = curve_type)
 
 您可以在 Github 上找到 binclass-tools 存储库:
 
-[](https://github.com/lucazav/binclass-tools) [## GitHub-Luca zav/bin class-tools:bin class-tools 包包含一组 Python 包装器和…
-
-### binclass-tools 包包含一组 Python 包装器和交互式绘图，有助于分析…
-
-github.com](https://github.com/lucazav/binclass-tools) 
+[](https://github.com/lucazav/binclass-tools)  
 
 # 信用
 
 你可以在精确召回曲线和概率分布图中找到的一些细节受到了 *Yohann Lereclus* 和 *Pi Esposito* 的 *plot-metric* 包的启发:
 
-[](https://github.com/yohann84L/plot_metric) [## GitHub-yohann 84 l/plot _ metric:Python 包简化了 ROC 曲线等指标的绘制…
-
-### Librairie 简化了 ROC 曲线、混淆矩阵等度量标准的绘制..使用 pip:让我们加载一个简单的数据集…
-
-github.com](https://github.com/yohann84L/plot_metric) 
+[](https://github.com/yohann84L/plot_metric)  
 
 # 参考
 

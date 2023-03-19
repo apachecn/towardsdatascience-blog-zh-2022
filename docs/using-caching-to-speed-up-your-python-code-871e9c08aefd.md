@@ -34,11 +34,7 @@
 
 一种使算法更有效的技术叫做记忆化。记忆通过将先前计算的结果存储在高速缓存中来加速算法。因此，该函数只需要查找节点的结果，而无需再次运行计算。如果你对斐波那契问题感兴趣，可以用 Real Python 查看这篇文章。
 
-[](https://realpython.com/fibonacci-sequence-python/#generating-the-fibonacci-sequence-recursively-in-python) [## 斐波纳契数列的 Python 指南-真正的 Python
-
-### 让我们开始吧！列奥纳多·斐波那契是一位意大利数学家，他能够很快给出这个问题的答案…
-
-realpython.com](https://realpython.com/fibonacci-sequence-python/#generating-the-fibonacci-sequence-recursively-in-python) 
+[](https://realpython.com/fibonacci-sequence-python/#generating-the-fibonacci-sequence-recursively-in-python)  
 
 **存储最常请求的数据**
 
@@ -184,12 +180,4 @@ LRU/LFU 缓存的一个问题是，如果数据被反复请求，它将永远不
 
 ## 参考
 
-[](https://aws.amazon.com/caching/) [## 什么是缓存及其工作原理| AWS
-
-### 缓存是一个高速数据存储层，它存储数据的一个子集，通常是短暂的，以便将来…
-
-aws.amazon.com](https://aws.amazon.com/caching/) [](https://kislayverma.com/software-architecture/architecture-patterns-caching-part-1/) [## 架构模式:缓存(第 1 部分)|基斯利·维尔马
-
-### 性能一直是技术系统的关键特征。今天在互联网上，亚秒级的延迟是…
-
-kislayverma.com](https://kislayverma.com/software-architecture/architecture-patterns-caching-part-1/)
+[](https://aws.amazon.com/caching/)  [](https://kislayverma.com/software-architecture/architecture-patterns-caching-part-1/) 

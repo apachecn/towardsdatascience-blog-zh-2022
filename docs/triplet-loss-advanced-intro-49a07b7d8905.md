@@ -97,10 +97,6 @@
 
 我提到过，三元组损失与对比损失不仅在数学上不同，而且在样本选择策略上也不同，在这篇文章中，我通过使用几个技巧有效地实现了在线三元组挖掘的批量策略。还有其他更复杂的策略，比如批量硬挖掘和批量半硬挖掘，但是它们的实现，以及我在这篇文章中使用的提高效率的技巧的讨论，值得单独发表。未来的帖子将涵盖这些主题，并对一些技巧进行额外的讨论，以避免向量折叠并控制类内和类间的差异。同时，您可以加入 Qdrant 的 Discord 服务器，讨论、了解更多信息，并就公制学习提出问题。
 
-[](https://discord.com/invite/tdtYvXjC4h) [## 加入 qdrant Discord 服务器！
-
-### 在 Discord 上查看 qdrant 社区-与 111 名其他成员一起闲逛，享受免费语音和文本聊天。
-
-discord.com](https://discord.com/invite/tdtYvXjC4h) 
+[](https://discord.com/invite/tdtYvXjC4h)  
 
 最初发布于[https://qdrant.tech/articles/triplet-loss/](https://qdrant.tech/articles/triplet-loss/)

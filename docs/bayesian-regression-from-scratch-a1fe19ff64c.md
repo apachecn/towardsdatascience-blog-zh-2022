@@ -37,11 +37,7 @@
 
 ****如果你不熟悉贝叶斯定理，我强烈推荐你看看我以前关于这个主题的文章:****
 
-****[](https://pub.towardsai.net/conditional-probability-and-bayes-theorem-simply-explained-788a6361f333) [## 条件概率和贝叶斯定理浅释
-
-### 条件概率和贝叶斯定理的简单直观的解释。
-
-pub.towardsai.net](https://pub.towardsai.net/conditional-probability-and-bayes-theorem-simply-explained-788a6361f333) 
+****[](https://pub.towardsai.net/conditional-probability-and-bayes-theorem-simply-explained-788a6361f333)  
 
 ## 贝叶斯更新
 
@@ -55,11 +51,7 @@ pub.towardsai.net](https://pub.towardsai.net/conditional-probability-and-bayes-t
 
 你可以在我最近的一篇文章中读到更多关于贝叶斯更新的内容:
 
-[](/bayesian-updating-simply-explained-c2ed3e563588) [## 贝叶斯更新简单解释
-
-### 用贝叶斯定理更新信念的直观解释
-
-towardsdatascience.com](/bayesian-updating-simply-explained-c2ed3e563588) 
+[](/bayesian-updating-simply-explained-c2ed3e563588)  
 
 # 回归理论
 
@@ -306,11 +298,7 @@ for slope in prior_slope['slope']:
 
 *****这部分可能需要一段时间来运行，这是在大规模模型中使用贝叶斯方法的问题之一。要知道为什么会这样，查看一下我之前关于贝叶斯共轭先验的文章，这篇文章告诉你实施贝叶斯定理的一些缺点:*****
 
-*****[](/bayesian-conjugate-priors-simply-explained-747218be0f70) [## 贝叶斯共轭先验简单解释
-
-### 执行贝叶斯统计的一种计算有效的方法
-
-towardsdatascience.com](/bayesian-conjugate-priors-simply-explained-747218be0f70) 
+*****[](/bayesian-conjugate-priors-simply-explained-747218be0f70)  
 
 我们的数据框架现在看起来像这样:
 
@@ -401,11 +389,7 @@ OLS 估计值是这些参数最可能的值，但不是唯一的值。我们可�
 
 这个计算并不是那么直接，写这篇博客最终让我理解了整个贝叶斯回归过程。我建议读者在我的 GitHub 上查看完整的笔记本，并在上面玩一玩:
 
-[](https://github.com/egorhowell/Medium-Articles/blob/main/Statistics/Bayesian_Regression.ipynb) [## Medium-Articles/Bayesian _ regression . ipynb at main egorhowell/Medium-Articles
-
-### 我在我的媒体博客/文章中使用的代码。通过创建一个关于…的帐户，为 egorhowell/Medium-Articles 的开发做出贡献
-
-github.com](https://github.com/egorhowell/Medium-Articles/blob/main/Statistics/Bayesian_Regression.ipynb) 
+[](https://github.com/egorhowell/Medium-Articles/blob/main/Statistics/Bayesian_Regression.ipynb)  
 
 # 结论
 

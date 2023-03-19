@@ -43,19 +43,7 @@
 
 *******要了解更多关于季节性、趋势和平稳性的知识，请查看我以前关于这些主题的文章:*******
 
-*******[](/seasonality-of-time-series-5b45b4809acd) [## 时间序列的季节性
-
-### 对季节性如何影响时间序列分析的直觉
-
-towardsdatascience.com](/seasonality-of-time-series-5b45b4809acd) [](/time-series-decomposition-8f39432f78f9) [## 时间序列分解
-
-### 将时间序列分解成基本的构建块
-
-towardsdatascience.com](/time-series-decomposition-8f39432f78f9) [](/time-series-stationarity-simply-explained-125269968154) [## 时间序列平稳性的简单解释
-
-### 时间序列建模中平稳性需求的简单而直观的解释。
-
-towardsdatascience.com](/time-series-stationarity-simply-explained-125269968154) 
+*******[](/seasonality-of-time-series-5b45b4809acd)  [](/time-series-decomposition-8f39432f78f9)  [](/time-series-stationarity-simply-explained-125269968154)  
 
 现在让我们通过 Python 中的一个例子来使这个理论更加具体！
 
@@ -96,11 +84,7 @@ towardsdatascience.com](/time-series-stationarity-simply-explained-125269968154)
 
 本文中使用的完整代码脚本可以在我的 GitHub 中找到:
 
-[](https://github.com/egorhowell/Medium-Articles/blob/main/Time%20Series/Time%20Series%20Tools/autocorrelation.py) [## 中型文章/auto correlation . py at main egorhowell/中型文章
-
-### 我在我的媒体博客/文章中使用的代码。通过创建一个关于…的帐户，为 egorhowell/Medium-Articles 的开发做出贡献
-
-github.com](https://github.com/egorhowell/Medium-Articles/blob/main/Time%20Series/Time%20Series%20Tools/autocorrelation.py) 
+[](https://github.com/egorhowell/Medium-Articles/blob/main/Time%20Series/Time%20Series%20Tools/autocorrelation.py)  
 
 # 参考资料和进一步阅读
 

@@ -40,11 +40,7 @@
 
 随意发挥，并在这里叉这篇文章的源代码:
 
-[](https://github.com/khuyentran1401/Data-science/blob/master/machine-learning/river_streaming/streaming.ipynb) [## 数据科学/streaming . ipynb at master khuyentran 1401/数据科学
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/khuyentran1401/Data-science/blob/master/machine-learning/river_streaming/streaming.ipynb) 
+[](https://github.com/khuyentran1401/Data-science/blob/master/machine-learning/river_streaming/streaming.ipynb)  
 
 # 什么是河流？
 
@@ -546,23 +542,7 @@ MicroF1: 83.38%
 
 星[这个回购](https://github.com/khuyentran1401/Data-science)如果你想检查我写的所有文章的代码。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/statsannotations-add-statistical-significance-annotations-on-seaborn-plots-6b753346a42a) [## statan 注释:在 Seaborn 图上添加统计显著性注释
-
-### 从三行代码的比较中获得洞察力
-
-towardsdatascience.com](/statsannotations-add-statistical-significance-annotations-on-seaborn-plots-6b753346a42a) [](/texthero-text-preprocessing-representation-and-visualization-for-a-pandas-dataframe-525405af16b6) [## Texthero:熊猫数据帧的文本预处理、表示和可视化
-
-### 用一行 Python 代码处理您的文本
-
-towardsdatascience.com](/texthero-text-preprocessing-representation-and-visualization-for-a-pandas-dataframe-525405af16b6) [](/shap-explain-any-machine-learning-model-in-python-24207127cad7) [## SHAP:用 Python 解释任何机器学习模型
-
-### SHAP 和沙普利价值观综合指南
-
-towardsdatascience.com](/shap-explain-any-machine-learning-model-in-python-24207127cad7) [](/predict-movie-ratings-with-user-based-collaborative-filtering-392304b988af) [## 通过基于用户的协作过滤预测电影分级
-
-### Python 中协作过滤的全面介绍
-
-towardsdatascience.com](/predict-movie-ratings-with-user-based-collaborative-filtering-392304b988af) 
+[](/statsannotations-add-statistical-significance-annotations-on-seaborn-plots-6b753346a42a)  [](/texthero-text-preprocessing-representation-and-visualization-for-a-pandas-dataframe-525405af16b6)  [](/shap-explain-any-machine-learning-model-in-python-24207127cad7)  [](/predict-movie-ratings-with-user-based-collaborative-filtering-392304b988af)  
 
 # 参考
 

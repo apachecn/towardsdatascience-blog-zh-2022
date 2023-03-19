@@ -60,11 +60,7 @@ Step 5\. Point Cloud Binary SegmentationPerspectives & Conclusion
 
 为了确保您的选择，您可以使用 [Flyvast WebGL 应用程序](https://app.flyvast.com/flyvast/app/page-snapshot-viewer.html#/566/8f32e130-d775-8989-b574-d1d7cd08d5d0)在线玩它们，然后在这里([研究员工作台)下载它们。](https://drive.google.com/file/d/1OBgYx5c0-m4DGY1Lz2nl4NR56atvwU1e/view?usp=sharing)，【xyz】，[车子(。【xyz】，](https://drive.google.com/file/d/12dAMGQmET2NIdRCXQxWnhLDf2mZkngEC/view?usp=sharing)[操场(。xyz)](https://drive.google.com/file/d/1rakvffprfchT_KmEUNw35GLY5OKC-67W/view?usp=sharing) )。
 
-[](https://medium.com/@florentpoux/membership) [## 通过我的推荐链接加入 Medium-Florent Poux 博士
-
-### 阅读弗洛伦特·普克斯博士的每一个故事(以及媒体上成千上万的其他作家)。您的会员费直接…
-
-medium.com](https://medium.com/@florentpoux/membership) 
+[](https://medium.com/@florentpoux/membership)  
 
 # 第二步。选择几何模型
 
@@ -377,17 +373,9 @@ np.savetxt(result_folder+dataset.split(“.”)[0]+”_outliers.xyz”, outliers
 
 *🥳万岁！您从头开始实现了一个完整的 RANSAC 模型拟合算法，用于平面检测和 3D 点云分割。最重要的是，您现在可以自动设置 RANSAC 参数，这样您就不会有 99%的自动解决方案，而是 100%的自动化。这是重要的一步！如果您想更深入地了解如何在您的项目中包含这项新技能，下面是下一步教程，它将允许您迭代 RANSAC 方法并使用聚类方法来检测点云中的实例:*
 
-*[](/how-to-automate-3d-point-cloud-segmentation-and-clustering-with-python-343c9039e4f5) [## 如何使用 Python 实现 3D 点云分割和聚类的自动化
+*[](/how-to-automate-3d-point-cloud-segmentation-and-clustering-with-python-343c9039e4f5) 的课程开始。
 
-towardsdatascience.com](/how-to-automate-3d-point-cloud-segmentation-and-clustering-with-python-343c9039e4f5) 
-
-我的贡献旨在浓缩可操作的信息，以便您可以从零开始为您的项目构建 3D 自动化系统。你可以从参加[地理数据学院](https://learngeodata.eu/)的课程开始。
-
-[](https://learngeodata.eu/) [## 3D 学院-点云在线课程
-
-### 教师、研究人员、开发人员和工程师的最佳 3D 在线课程。掌握三维点云处理和…
-
-learngeodata.eu](https://learngeodata.eu/) 
+[](https://learngeodata.eu/)  
 
 # 更进一步
 

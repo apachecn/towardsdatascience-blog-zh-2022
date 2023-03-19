@@ -10,11 +10,7 @@
 
 这是我的 r 中 apply 系列指南的第二部分。请查看[第 1 部分](https://medium.com/@andreagustafsen/a-guide-to-the-apply-family-in-r-part-1-a4073c0dad3e)了解每个 apply 函数的演练。在本文中，我给出了两个在一些常见的数据工作流中使用 apply-function 的实例。
 
-[](https://medium.com/@andreagustafsen/a-guide-to-the-apply-family-in-r-part-1-a4073c0dad3e) [## R 系列应用指南第 1 部分
-
-### lapply、sapply、apply 和 tapply 函数。
-
-medium.com](https://medium.com/@andreagustafsen/a-guide-to-the-apply-family-in-r-part-1-a4073c0dad3e) 
+[](https://medium.com/@andreagustafsen/a-guide-to-the-apply-family-in-r-part-1-a4073c0dad3e)  
 
 本指南还以 jupyter 笔记本和 pdf 文件的形式出现在本 [GitHub repo](https://github.com/TalkingDataScience/apply-family) 中。
 

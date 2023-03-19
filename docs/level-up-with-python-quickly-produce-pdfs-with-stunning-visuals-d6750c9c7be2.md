@@ -153,16 +153,4 @@ Disclaimer: I make no claims that the PDF is the most **effective** means of com
 
 喜欢这篇文章？更像下面的。
 
-[](https://www.linkedin.com/in/kate-wall/) [## 凯特·沃尔-休斯敦德克萨斯大学健康科学中心研究生助理…
-
-### 在全球最大的职业社区 LinkedIn 上查看凯特·沃尔的个人资料。凯特有一份工作列在他们的…
-
-www.linkedin.com](https://www.linkedin.com/in/kate-wall/) [](/professional-treemaps-in-python-how-to-customize-matplotlib-squarify-efd5dc4c8755) [## Python 中的专业树形图:如何定制 Matplotlib & Squarify
-
-### 理解 rcParams & Matplotlib 色彩映射表
-
-towardsdatascience.com](/professional-treemaps-in-python-how-to-customize-matplotlib-squarify-efd5dc4c8755) [](/professional-venn-diagrams-in-python-638abfff39cc) [## python 中的专业维恩图
-
-### 从熊猫数据帧生成带有定制标签和图例的 3 向 Venns
-
-towardsdatascience.com](/professional-venn-diagrams-in-python-638abfff39cc)
+[](https://www.linkedin.com/in/kate-wall/)  [](/professional-treemaps-in-python-how-to-customize-matplotlib-squarify-efd5dc4c8755)  [](/professional-venn-diagrams-in-python-638abfff39cc) 

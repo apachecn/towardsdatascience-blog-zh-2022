@@ -6,11 +6,7 @@
 
 在我之前的文章中，我们学习了神经网络的基础知识
 
-[](/neural-networks-fundamentals-80aa045504bd) [## 神经网络基础
-
-### 神经网络的快速介绍，无监督和监督学习，回归和…
-
-towardsdatascience.com](/neural-networks-fundamentals-80aa045504bd) 
+[](/neural-networks-fundamentals-80aa045504bd)  
 
 是时候了解卷积神经网络及其在图像分类中的用途了。
 
@@ -76,11 +72,7 @@ towardsdatascience.com](/neural-networks-fundamentals-80aa045504bd)
 
 ****要了解更多关于应用**边缘检测**的不同卷积滤波器的信息，请参考本文 **:******
 
-****[](/image-processing-part-2-1fb84931364a) [## 图像处理第二部分
-
-### 2.1:非线性空间滤波、最小值、最大值和中值滤波器，从头开始用 Python 实现 2.2:线性…
-
-towardsdatascience.com](/image-processing-part-2-1fb84931364a) 
+****[](/image-processing-part-2-1fb84931364a)  
 
 所以卷积层承担了提取重要特征的责任，最后要有一个完整的图像分类模型，我们只需要一些**全连通的输出节点**就可以根据它们的权重决定图像的正确类别！
 
@@ -316,11 +308,7 @@ ResNet152 对于测试数据集实现了%3.57 的误差，并且它具有 58M �
 
 ****下一篇文章再见，我们将讨论✋ ✋物体识别的神经网络架构****
 
-****[](/object-detection-with-convolutional-neural-networks-c9d729eedc18) [## 基于卷积神经网络的目标检测
-
-### 多级(RCNN，快速 RCNN，更快 RCNN)和单级(SSD，YOLO)结构的对象检测和他们的…
-
-towardsdatascience.com](/object-detection-with-convolutional-neural-networks-c9d729eedc18)**** 
+****[](/object-detection-with-convolutional-neural-networks-c9d729eedc18) **** 
 
 ****AlexNet 论文:[https://arxiv.org/ftp/arxiv/papers/1803/1803.01164.pdf](https://arxiv.org/ftp/arxiv/papers/1803/1803.01164.pdf)****
 

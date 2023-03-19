@@ -269,8 +269,4 @@
 
 喜欢我的写作吗？**用我的 [**推荐链接**](https://benedictxneo.medium.com/membership) 加入 Medium** ，你将直接支持我🤗
 
-[](https://benedictxneo.medium.com/membership) [## 立即获取无限的故事
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-benedictxneo.medium.com](https://benedictxneo.medium.com/membership)
+[](https://benedictxneo.medium.com/membership) 

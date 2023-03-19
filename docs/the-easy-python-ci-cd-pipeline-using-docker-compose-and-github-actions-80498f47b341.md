@@ -287,16 +287,4 @@ jobs:
 
 另外几个故事引起了你的兴趣:
 
-[](https://betterprogramming.pub/the-easy-python-auto-code-formatting-guide-e8300c82797b) [## 简单的 Python 自动代码格式化指南
-
-### 只需设置一次，在提交时编写并自动格式化您的代码——使用这些工具没有任何麻烦。
-
-better 编程. pub](https://betterprogramming.pub/the-easy-python-auto-code-formatting-guide-e8300c82797b) [](/26-github-repositories-to-inspire-your-next-data-science-project-3023c24f4c3c) [## 26 个 GitHub 存储库，激发您的下一个数据科学项目
-
-### 用这个有趣的代码列表开始新的一年，包括库、路线图和项目书签
-
-towardsdatascience.com](/26-github-repositories-to-inspire-your-next-data-science-project-3023c24f4c3c) [](https://medium.com/geekculture/21-vscode-keyboard-shortcuts-you-should-know-1b96a65e9428) [## 你应该知道的 21 个 VSCode 键盘快捷键
-
-### 使用您最喜欢的代码编辑器提高编码效率
-
-medium.com](https://medium.com/geekculture/21-vscode-keyboard-shortcuts-you-should-know-1b96a65e9428)
+[](https://betterprogramming.pub/the-easy-python-auto-code-formatting-guide-e8300c82797b)  [](/26-github-repositories-to-inspire-your-next-data-science-project-3023c24f4c3c)  [](https://medium.com/geekculture/21-vscode-keyboard-shortcuts-you-should-know-1b96a65e9428) 

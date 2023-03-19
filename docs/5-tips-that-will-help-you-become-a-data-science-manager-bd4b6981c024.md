@@ -58,16 +58,4 @@
 
 **想了解更多关于数据科学职业的信息？这里有一些很棒的文章给你。**
 
-[](/productivity-tips-for-data-scientists-eb66242fde27) [## 数据科学家的生产力提示
-
-### 作为一名数据科学家，如何更好、更聪明但不一定更努力地工作
-
-towardsdatascience.com](/productivity-tips-for-data-scientists-eb66242fde27) [](/5-mistakes-i-wish-i-had-avoided-in-my-data-science-career-6c22a44304a1) [## 我希望在我的数据科学职业生涯中避免的 5 个错误
-
-### 我得到了这些教训，所以你不必这样做
-
-towardsdatascience.com](/5-mistakes-i-wish-i-had-avoided-in-my-data-science-career-6c22a44304a1) [](/how-to-pick-the-right-career-in-the-data-world-1cec8a084767) [## 如何在数据世界中选择合适的职业
-
-### 数据科学家，数据分析师，还是数据工程师？你怎么知道哪个适合你呢？
-
-towardsdatascience.com](/how-to-pick-the-right-career-in-the-data-world-1cec8a084767)
+[](/productivity-tips-for-data-scientists-eb66242fde27)  [](/5-mistakes-i-wish-i-had-avoided-in-my-data-science-career-6c22a44304a1)  [](/how-to-pick-the-right-career-in-the-data-world-1cec8a084767) 

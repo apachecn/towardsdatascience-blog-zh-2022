@@ -14,21 +14,13 @@
 
 代码可从以下链接获得:
 
-[](https://github.com/unaiLopez/towards-data-science-posts-notebooks/blob/master/time%20series/Bike%20Sharing%20Demand%20Prediction.ipynb) [## 朝向-数据-科学-帖子-笔记本/自行车共享需求预测. ipynb at master …
-
-### 通过在 GitHub 上创建一个帐户，为 unaiLopez/forward-data-science-posts-notebooks 的开发做出贡献。
-
-github.com](https://github.com/unaiLopez/towards-data-science-posts-notebooks/blob/master/time%20series/Bike%20Sharing%20Demand%20Prediction.ipynb) 
+[](https://github.com/unaiLopez/towards-data-science-posts-notebooks/blob/master/time%20series/Bike%20Sharing%20Demand%20Prediction.ipynb)  
 
 # 资料组
 
 我们将使用 Kaggle 的自行车共享需求竞争数据集，因为它非常适合本教程。您可以下载并阅读以下链接中的数据:
 
-[](https://www.kaggle.com/c/bike-sharing-demand/data) [## 自行车共享需求
-
-### 城市自行车共享系统的使用预测
-
-www.kaggle.com](https://www.kaggle.com/c/bike-sharing-demand/data) 
+[](https://www.kaggle.com/c/bike-sharing-demand/data)  
 
 # 时间序列分析
 
@@ -140,32 +132,8 @@ www.kaggle.com](https://www.kaggle.com/c/bike-sharing-demand/data)
 
 如果你喜欢我的内容，你也可以看看我的其他帖子:
 
-[](/unleash-the-power-of-scikit-learns-pipelines-b5f03f9196de) [## 释放 Scikit-learn 管道的力量
-
-### scikit-learn 管道中级指南
-
-towardsdatascience.com](/unleash-the-power-of-scikit-learns-pipelines-b5f03f9196de) [](/introduction-to-scikit-learns-pipelines-565cc549754a) [## Scikit-learn 管道介绍
-
-### 使用 scikit-learn 构建端到端的机器学习管道
-
-towardsdatascience.com](/introduction-to-scikit-learns-pipelines-565cc549754a) [](/how-to-detect-handle-and-visualize-outliers-ad0b74af4af7) [## 如何检测、处理和可视化异常值
-
-### 当我第一次开始开发数据科学项目时，我既不关心数据可视化，也不关心离群点检测，我…
-
-towardsdatascience.com](/how-to-detect-handle-and-visualize-outliers-ad0b74af4af7) 
+[](/unleash-the-power-of-scikit-learns-pipelines-b5f03f9196de)  [](/introduction-to-scikit-learns-pipelines-565cc549754a)  [](/how-to-detect-handle-and-visualize-outliers-ad0b74af4af7)  
 
 # 参考
 
- [## 欢迎阅读 LightGBM 的文档！-light GBM 3.3.1.99 文档
-
-### 编辑描述
-
-lightgbm.readthedocs.io](https://lightgbm.readthedocs.io/en/latest/) [](https://www.geeksforgeeks.org/python-pandas-dataframe-shift/) [## python | Pandas data frame . shift()-GeeksforGeeks
-
-### Python 是一种很好的数据分析语言，主要是因为以数据为中心的 python 有着奇妙的生态系统…
-
-www.geeksforgeeks.org](https://www.geeksforgeeks.org/python-pandas-dataframe-shift/) [](https://www.kaggle.com/) [## Kaggle:你的机器学习和数据科学社区
-
-### Kaggle 是世界上最大的数据科学社区，拥有强大的工具和资源来帮助您实现您的数据…
-
-www.kaggle.com](https://www.kaggle.com/)
+  [](https://www.geeksforgeeks.org/python-pandas-dataframe-shift/)  [](https://www.kaggle.com/) 

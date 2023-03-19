@@ -164,12 +164,4 @@
 *   *连接上* [*Linkedin*](https://www.linkedin.com/in/emmading001/) *！*
 *   前往[emmading.com/resources](https://www.emmading.com/resources)获取更多关于数据科学面试技巧和策略的免费资源！
 
-[](/how-to-choose-the-right-data-science-position-in-2022-f940efd0a10a) [## 2022 年如何选择合适的数据科学岗位
-
-### 选择毕业生、职业改变者或当前数据科学家的职位
-
-towardsdatascience.com](/how-to-choose-the-right-data-science-position-in-2022-f940efd0a10a) [](/how-to-get-data-science-interviews-finding-jobs-reaching-gatekeepers-and-getting-referrals-63a51c0078af) [## 如何获得数据科学面试:找工作、联系看门人和获得推荐
-
-### 对于许多工作来说，获得面试机会自然是必不可少的，数据科学工作也不例外。虽然资源在…
-
-towardsdatascience.com](/how-to-get-data-science-interviews-finding-jobs-reaching-gatekeepers-and-getting-referrals-63a51c0078af)
+[](/how-to-choose-the-right-data-science-position-in-2022-f940efd0a10a)  [](/how-to-get-data-science-interviews-finding-jobs-reaching-gatekeepers-and-getting-referrals-63a51c0078af) 

@@ -148,18 +148,10 @@ BLEU 仍然在 AI 的很多领域使用，只是习惯使然。它现在在很�
 
 如果你计划在你的下一个工作中使用 BLEU，不要忽视测试你的结果的统计学意义的需要。
 
-[](https://pub.towardsai.net/yes-we-need-statistical-significance-testing-927a8d21f9f0) [## 是的，我们需要统计显著性检验
-
-### 经验法则可能会产生正确的结果，但在科学上是不可信的
-
-pub.towardsai.net](https://pub.towardsai.net/yes-we-need-statistical-significance-testing-927a8d21f9f0) 
+[](https://pub.towardsai.net/yes-we-need-statistical-significance-testing-927a8d21f9f0)  
 
 *支持我工作的最好方式是使用我的链接成为一名普通会员:*
 
-[](https://medium.com/@bnjmn_marie/membership) [## 通过我的推荐链接加入媒体-本杰明·玛丽
-
-### 阅读本杰明·玛丽(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-medium.com](https://medium.com/@bnjmn_marie/membership) 
+[](https://medium.com/@bnjmn_marie/membership)  
 
 *如果你已经是会员，想支持这项工作，就* [*关注我上媒*](https://medium.com/@bnjmn_marie) *。*

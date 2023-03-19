@@ -168,8 +168,4 @@ Scipy 文档 [boxcox](https://docs.scipy.org/doc/scipy/reference/reference/gener
 
 如果这些内容有用，请关注我。
 
-[](https://gustavorsantos.medium.com/) [## 古斯塔沃·桑托斯-中等
-
-### 生成词云，快速分析文本中最常用的词。词云是一个众所周知的工具使用的数据…
-
-gustavorsantos.medium.com](https://gustavorsantos.medium.com/)
+[](https://gustavorsantos.medium.com/) 

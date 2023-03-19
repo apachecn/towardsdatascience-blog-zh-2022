@@ -60,11 +60,7 @@ MedInc 变量在其值较高时具有非常高的正贡献，而在低值时具�
 
 我在 github 上提供了这一部分的代码。看看这个:
 
-[](https://github.com/vinyluis/Articles/tree/main/Boruta%20SHAP) [## 文章/博鲁塔 SHAP 在主要乙烯/文章
-
-### 第 1 篇:用 SHAP 价值观解释你的机器学习模型是如何工作的(TBD) [EN]什么是 SHAP 价值观，如何…
-
-github.com](https://github.com/vinyluis/Articles/tree/main/Boruta%20SHAP) 
+[](https://github.com/vinyluis/Articles/tree/main/Boruta%20SHAP)  
 
 要在 Python 中使用 SHAP，我们需要安装 SHAP 模块:
 
@@ -200,11 +196,7 @@ shap.plots.force(shap_test[0])
 
 记得查看这篇文章的笔记本:
 
-[](https://github.com/vinyluis/Articles/tree/main/Boruta%20SHAP) [## 文章/博鲁塔 SHAP 在主要乙烯/文章
-
-### 第一篇:用 SHAP 价值观解释你的机器学习模型是如何工作的(TBD) [EN]什么是 SHAP 价值观，如何…
-
-github.com](https://github.com/vinyluis/Articles/tree/main/Boruta%20SHAP) 
+[](https://github.com/vinyluis/Articles/tree/main/Boruta%20SHAP)  
 
 # 如果你喜欢这个帖子…
 
@@ -216,11 +208,7 @@ github.com](https://github.com/vinyluis/Articles/tree/main/Boruta%20SHAP)
 
 看看这个很棒的帖子
 
-[](/boruta-shap-an-amazing-tool-for-feature-selection-every-data-scientist-should-know-33a5f01285c0) [## 博鲁塔·SHAP:每个数据科学家都应该知道的惊人的特征选择工具
-
-### 我们如何使用博鲁塔和 SHAP 构建一个惊人的特征选择过程——以 python 为例
-
-towardsdatascience.com](/boruta-shap-an-amazing-tool-for-feature-selection-every-data-scientist-should-know-33a5f01285c0) 
+[](/boruta-shap-an-amazing-tool-for-feature-selection-every-data-scientist-should-know-33a5f01285c0)  
 
 # 参考资料:
 

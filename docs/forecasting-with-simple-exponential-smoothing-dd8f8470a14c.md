@@ -16,11 +16,7 @@
 
 您可以将它看作是简单预测模型和平均预测模型之间的中间值，在简单预测模型中，我们将预测值设置为等于最近的观测值，在平均预测模型中，我们将预测值设置为等于所有历史观测值的平均值。如果你想了解更多关于天真和平均预测模型的内容，请点击这里查看我以前的帖子:
 
-[](/basic-forecasting-techniques-ef4295248e46) [## 基本预测技术
-
-### 一些非常简单的预测模型概述
-
-towardsdatascience.com](/basic-forecasting-techniques-ef4295248e46) 
+[](/basic-forecasting-techniques-ef4295248e46)  
 
 在本文中，我想介绍最基本的指数平滑模型，以及如何用 Python 实现它。
 
@@ -30,27 +26,11 @@ towardsdatascience.com](/basic-forecasting-techniques-ef4295248e46)
 
 如上所述，这篇文章是关于指数平滑家族中最基本的模型，*简单指数平滑*。这个模型简单的原因是因为它没有考虑趋势或季节性。然而，这是一个很好的起点，可以在以后添加进一步的复杂性。如果你想了解更多的趋势和季节性，请参考我以前的文章:
 
-[](/seasonality-of-time-series-5b45b4809acd) [## 时间序列的季节性
-
-### 对季节性如何影响时间序列分析的直觉
-
-towardsdatascience.com](/seasonality-of-time-series-5b45b4809acd) [](/time-series-decomposition-8f39432f78f9) [## 时间序列分解
-
-### 将时间序列分解成基本的构建块
-
-towardsdatascience.com](/time-series-decomposition-8f39432f78f9) 
+[](/seasonality-of-time-series-5b45b4809acd)  [](/time-series-decomposition-8f39432f78f9)  
 
 一般来说，当您的数据没有任何趋势或季节性时，这个简单的模型是最好的。或者，您可以通过执行差分和 Box-Cox 变换来转换数据，使其保持平稳，从而消除其趋势和季节性。要了解更多关于这些转换的信息，请点击这里查看我以前的帖子:
 
-[](/time-series-stationarity-simply-explained-125269968154) [## 时间序列平稳性的简单解释
-
-### 时间序列建模中平稳性需求的简单而直观的解释。
-
-towardsdatascience.com](/time-series-stationarity-simply-explained-125269968154) [](/box-cox-transform-for-time-series-cc45f26082c6) [## 时间序列的 Box-Cox 变换
-
-### 如何使用 Box-Cox 变换创建平稳时间序列？
-
-towardsdatascience.com](/box-cox-transform-for-time-series-cc45f26082c6) 
+[](/time-series-stationarity-simply-explained-125269968154)  [](/box-cox-transform-for-time-series-cc45f26082c6)  
 
 ## 理论
 
@@ -116,11 +96,7 @@ towardsdatascience.com](/box-cox-transform-for-time-series-cc45f26082c6)
 
 *****本文使用的完整代码可以在我的 GitHub 中找到:*****
 
-*****[](https://github.com/egorhowell/Medium-Articles/blob/main/Time%20Series/Exponential%20Smoothing/simple_exp_smoothing.py) [## Medium-Articles/simple _ exp _ smoothing . py at main egorhowell/Medium-Articles
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/egorhowell/Medium-Articles/blob/main/Time%20Series/Exponential%20Smoothing/simple_exp_smoothing.py) 
+*****[](https://github.com/egorhowell/Medium-Articles/blob/main/Time%20Series/Exponential%20Smoothing/simple_exp_smoothing.py)  
 
 # 参考资料和进一步阅读
 

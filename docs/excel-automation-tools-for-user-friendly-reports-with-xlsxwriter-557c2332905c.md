@@ -47,11 +47,7 @@
 
 由于您每个月需要执行这项任务超过 100 次，因此您正在寻找一个自动化流程的解决方案。
 
-[](http://samirsaci.com) [## 萨米尔·萨奇
-
-### 数据科学博客，专注于仓储，运输，数据可视化和机器人流程自动化…
-
-samirsaci.com](http://samirsaci.com) 
+[](http://samirsaci.com)  
 
 # 解决方法
 
@@ -73,11 +69,7 @@ samirsaci.com](http://samirsaci.com)
 
 有关如何构建该解决方案的更多信息，
 
-[](https://www.samirsaci.com/build-excel-automation-tools-with-python/) [## 使用 Python | Samir Saci 构建 Excel 自动化工具
-
-### 用于销售分析的 Excel 自动化工具的自动化和报告设计可供您的同事使用，无需…
-
-www.samirsaci.com](https://www.samirsaci.com/build-excel-automation-tools-with-python/) 
+[](https://www.samirsaci.com/build-excel-automation-tools-with-python/)  
 
 ## 用户接受度的问题
 
@@ -149,8 +141,4 @@ pip install xlsxwriter
 
 如果你对数据分析和供应链感兴趣，可以看看我的网站
 
-[](https://samirsaci.com) [## Samir Saci |数据科学与生产力
-
-### 专注于数据科学、个人生产力、自动化、运筹学和可持续发展的技术博客
-
-samirsaci.com](https://samirsaci.com)
+[](https://samirsaci.com) 

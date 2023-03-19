@@ -227,11 +227,7 @@ def __repr__(self) -> str:
 
 尽管使用下划线很常见，但是不要使用双下划线来定义属性，也不要定义自己的神奇方法。它不是 Pythonic 式的，只会让你的同行感到困惑。我写了一篇关于这个话题的文章。你可以在这里查看。
 
-[](/5-different-meanings-of-underscore-in-python-3fafa6cd0379) [## Python 中下划线的 5 种不同含义
-
-### 确保使用正确的语法
-
-towardsdatascience.com](/5-different-meanings-of-underscore-in-python-3fafa6cd0379) 
+[](/5-different-meanings-of-underscore-in-python-3fafa6cd0379)  
 
 ## 上下文管理器
 
@@ -339,11 +335,7 @@ def calculate(size):
 
 生成器也是懒惰求值背后的秘密，对此我写了另一篇文章。请随意检查。
 
-[](/what-is-lazy-evaluation-in-python-9efb1d3bfed0) [## Python 中的懒求值是什么？
-
-### 你不知道 Python 为你优化了多少代码
-
-towardsdatascience.com](/what-is-lazy-evaluation-in-python-9efb1d3bfed0) 
+[](/what-is-lazy-evaluation-in-python-9efb1d3bfed0)  
 
 ## 命名空间和范围
 

@@ -225,11 +225,7 @@ n 种注意力机制的多头注意力工作图|图片由[作者](http://dwiuzil
 
 > 要了解更多关于残差连接和图层规范化的信息，您可以进入这个故事:
 
-[](/5-most-well-known-cnn-architectures-visualized-af76f1f0065e) [## 5 种流行的 CNN 架构得到清晰的解释和可视化
-
-### 为什么盗梦空间看起来像三叉戟？！
-
-towardsdatascience.com](/5-most-well-known-cnn-architectures-visualized-af76f1f0065e) 
+[](/5-most-well-known-cnn-architectures-visualized-af76f1f0065e)  
 
 编码器内部的计算到此结束。输出可以被馈送到另一个编码器或最后一个编码器之后的每个解码器的特定部分。
 

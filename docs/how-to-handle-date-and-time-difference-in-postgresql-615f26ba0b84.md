@@ -102,8 +102,4 @@
 
 你喜欢读这篇文章吗？ [*成为会员*](https://marie-lefevre.medium.com/membership) *加入一个不断成长的充满好奇心的社区吧！*
 
-[](https://marie-lefevre.medium.com/membership) [## 通过我的推荐链接加入媒体-玛丽·勒菲弗尔
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-marie-lefevre.medium.com](https://marie-lefevre.medium.com/membership)
+[](https://marie-lefevre.medium.com/membership) 

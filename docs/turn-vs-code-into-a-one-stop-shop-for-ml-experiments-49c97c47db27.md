@@ -304,19 +304,7 @@ train:
 
 您可能还会对以下内容感兴趣:
 
-[](/dealing-with-outliers-using-three-robust-linear-regression-models-544cfbd00767) [## 使用三种稳健线性回归模型处理异常值
-
-### 通过使用 Huber、RANSAC 和 Theil-Sen 回归算法的实际例子
-
-towardsdatascience.com](/dealing-with-outliers-using-three-robust-linear-regression-models-544cfbd00767) [](https://medium.com/geekculture/investigating-the-effects-of-resampling-imbalanced-datasets-with-data-validation-techniques-f4ca3c8b2b94) [## 利用数据验证技术研究不平衡数据集重采样的效果
-
-### 了解流行的重采样方法对处理类别不平衡的影响
-
-medium.com](https://medium.com/geekculture/investigating-the-effects-of-resampling-imbalanced-datasets-with-data-validation-techniques-f4ca3c8b2b94) [](/estimating-the-performance-of-an-ml-model-in-the-absence-of-ground-truth-cc87dbf6e57) [## 在缺乏基本事实的情况下估计最大似然模型的性能
-
-### 这可能吗？你应该如何接近它？
-
-towardsdatascience.com](/estimating-the-performance-of-an-ml-model-in-the-absence-of-ground-truth-cc87dbf6e57) 
+[](/dealing-with-outliers-using-three-robust-linear-regression-models-544cfbd00767)  [](https://medium.com/geekculture/investigating-the-effects-of-resampling-imbalanced-datasets-with-data-validation-techniques-f4ca3c8b2b94)  [](/estimating-the-performance-of-an-ml-model-in-the-absence-of-ground-truth-cc87dbf6e57)  
 
 # 参考
 

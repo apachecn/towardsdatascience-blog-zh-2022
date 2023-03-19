@@ -116,31 +116,11 @@
 
 **这是我的 GitHub 知识库的链接，我计划在这里收集代码和许多与机器学习、人工智能等相关的资源。**
 
-**[](https://github.com/SalvatoreRa/tutorial) [## GitHub - SalvatoreRa/tutorial:关于机器学习、人工智能、数据科学的教程…
-
-### 关于机器学习、人工智能、数据科学的教程，包括数学解释和可重复使用的代码(python…
-
-github.com](https://github.com/SalvatoreRa/tutorial) 
+**[](https://github.com/SalvatoreRa/tutorial)  
 
 或者随意查看我在 Medium 上的其他文章:
 
-[](/how-science-contribution-has-become-a-toxic-environment-6beb382cebcd) [## 科学贡献如何变成一个有毒的环境
-
-### 计算机科学是如何继承了其他学科同样的错误的
-
-towardsdatascience.com](/how-science-contribution-has-become-a-toxic-environment-6beb382cebcd) [](/how-ai-could-fuel-global-warming-8f6e1dda6711) [## 人工智能如何加剧全球变暖
-
-### 新的大型模型是能源密集型的。他们的训练需要多少二氧化碳？
-
-towardsdatascience.com](/how-ai-could-fuel-global-warming-8f6e1dda6711) [](/speaking-the-language-of-life-how-alphafold2-and-co-are-changing-biology-97cff7496221) [## 说生命的语言:AlphaFold2 和公司如何改变生物学
-
-### 人工智能正在重塑生物学研究，并开辟治疗的新领域
-
-towardsdatascience.com](/speaking-the-language-of-life-how-alphafold2-and-co-are-changing-biology-97cff7496221) [](https://pub.towardsai.net/a-new-bloom-in-ai-why-the-bloom-model-can-be-a-gamechanger-380a15b1fba7) [## AI 新绽放？为什么布鲁姆模式可以改变游戏规则
-
-### 我们现在已经习惯了大型语言模型，为什么这个如此特别呢？
-
-pub.towardsai.net](https://pub.towardsai.net/a-new-bloom-in-ai-why-the-bloom-model-can-be-a-gamechanger-380a15b1fba7) 
+[](/how-science-contribution-has-become-a-toxic-environment-6beb382cebcd)  [](/how-ai-could-fuel-global-warming-8f6e1dda6711)  [](/speaking-the-language-of-life-how-alphafold2-and-co-are-changing-biology-97cff7496221)  [](https://pub.towardsai.net/a-new-bloom-in-ai-why-the-bloom-model-can-be-a-gamechanger-380a15b1fba7)  
 
 **附加资源**
 

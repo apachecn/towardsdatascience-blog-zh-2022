@@ -183,20 +183,8 @@ np.sqrt( mean_squared_error(y_test, preds_rand) )**[OUT]:
 
 如果你喜欢这篇文章，关注我的博客或者在 [Linkedin](https://www.linkedin.com/in/gurezende/) 上找到我。
 
-[](http://gustavorsantos.medium.com/) [## 古斯塔沃·桑托斯-中等
-
-### 阅读古斯塔夫·桑托斯在媒介上的作品。数据科学家。我从数据中提取见解，以帮助个人和公司…
-
-gustavorsantos.medium.com](http://gustavorsantos.medium.com/) 
+[](http://gustavorsantos.medium.com/)  
 
 # 参考
 
-[](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html#sklearn.model_selection.GridSearchCV) [## sklearn.model_selection。GridSearchCV
-
-### 对估计量的特定参数值进行穷举搜索。重要成员是适合的，预测。GridSearchCV…
-
-scikit-learn.org](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html#sklearn.model_selection.GridSearchCV) [](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html#sklearn.model_selection.RandomizedSearchCV) [## sklearn.model_selection。随机搜索
-
-### 超参数随机搜索。RandomizedSearchCV 实现了一个“fit”和一个“score”方法。它还实现了…
-
-scikit-learn.org](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html#sklearn.model_selection.RandomizedSearchCV)
+[](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html#sklearn.model_selection.GridSearchCV)  [](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html#sklearn.model_selection.RandomizedSearchCV) 

@@ -168,34 +168,14 @@ class Graph: def __init__(self):
 
 这是探索数据结构及其在 Python 中的使用和实现系列的第 8 篇文章。如果您错过了前三篇关于 Python 中的队列、链表和堆栈的文章，您可以在以下链接中找到它们:
 
-[](/a-complete-guide-to-queues-in-python-cd2baf310ad4) [## Python 中队列的完整指南
-
-### 什么是队列以及如何用 Python 实现队列
-
-towardsdatascience.com](/a-complete-guide-to-queues-in-python-cd2baf310ad4) [](/a-complete-guide-to-linked-lists-in-python-c52b6cb005) [## Python 中链表的完整指南
-
-### 什么是链表，如何在 Python 中实现它们
-
-towardsdatascience.com](/a-complete-guide-to-linked-lists-in-python-c52b6cb005) [](/a-complete-guide-to-stacks-in-python-ee4e2045a704) [## Python 中堆栈的完整指南
-
-### 在 Python 中构造和使用堆栈数据结构
-
-towardsdatascience.com](/a-complete-guide-to-stacks-in-python-ee4e2045a704) 
+[](/a-complete-guide-to-queues-in-python-cd2baf310ad4)  [](/a-complete-guide-to-linked-lists-in-python-c52b6cb005)  [](/a-complete-guide-to-stacks-in-python-ee4e2045a704)  
 
 本系列的后续文章将涉及链表、队列和图形。为了确保您不会错过任何内容，请注册以便在发布时收到电子邮件通知:
 
-[](https://philip-wilkinson.medium.com/subscribe) [## 每当菲利普·威尔金森发表文章时，就收到一封电子邮件。
-
-### 每当菲利普·威尔金森发表文章时，就收到一封电子邮件。通过注册，您将创建一个中型帐户，如果您还没有…
-
-philip-wilkinson.medium.com](https://philip-wilkinson.medium.com/subscribe) 
+[](https://philip-wilkinson.medium.com/subscribe)  
 
 如果你喜欢你所读的，但还不是一个中等会员，那么考虑使用我下面的推荐代码注册，在这个平台上支持我自己和其他了不起的作者:
 
-[](https://philip-wilkinson.medium.com/membership) [## 通过我的推荐链接加入 Medium—Philip Wilkinson
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-philip-wilkinson.medium.com](https://philip-wilkinson.medium.com/membership) 
+[](https://philip-wilkinson.medium.com/membership)  
 
 感谢您的阅读！

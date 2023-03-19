@@ -10,11 +10,7 @@
 
 在上一篇文章中，我们看到了您希望使用 Streamlit 和 Gradio 等工具来快速部署和部署许多版本的机器学习(ML)应用程序的一个极好的理由。
 
-[](/keep-your-ml-models-out-of-your-application-servers-9fe58f9c91a5) [## 让您的 ML 模型远离您的应用服务器
-
-### 如何将一个有前途的 ML 模型变成一个有用的 ML 驱动的产品
-
-towardsdatascience.com](/keep-your-ml-models-out-of-your-application-servers-9fe58f9c91a5) 
+[](/keep-your-ml-models-out-of-your-application-servers-9fe58f9c91a5)  
 
 我们看到了服务器模型架构的优势，以及为什么您在构建原型时一定要走这条路。这是从信任的测试人员的私人圈子中获得快速反馈和评估你的产品想法的市场可行性的最简单的方法。
 

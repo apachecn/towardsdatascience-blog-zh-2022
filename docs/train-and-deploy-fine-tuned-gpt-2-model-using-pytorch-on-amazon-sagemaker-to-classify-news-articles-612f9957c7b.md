@@ -149,11 +149,7 @@ docker container run -p 8501:8501 -d streamlit:gpt2-news-classifier-app
 
 所有的源代码都可以在这个 Github 回购中找到:[https://github.com/haocai1992/GPT2-News-Classifier](https://github.com/haocai1992/GPT2-News-Classifier)
 
-[](https://github.com/haocai1992/GPT2-News-Classifier) [## GitHub-haokai 1992/gp T2-News-Classifier:一个运行 GPT-2 语言模型的 Streamlit 应用程序，用于文本…
-
-### 一个 Streamlit 应用程序，运行用于文本分类的 GPT-2 语言模型，用 Pytorch、Transformers 和 AWS 构建…
-
-github.com](https://github.com/haocai1992/GPT2-News-Classifier) 
+[](https://github.com/haocai1992/GPT2-News-Classifier)  
 
 # 9.参考
 

@@ -14,11 +14,7 @@
 
 在之前的帖子中，我们学习了如何使用 Pyautogui 构建 RPA 来自动化重复性任务:
 
-[](/let-the-bot-automate-your-data-processing-e6ef26959d65) [## 让机器人自动处理你的数据
-
-### 使用 RPA、PyAutoGui 和 Pandas 来避免在 SAP 和您的数据仓库中进行重复的手动工作
-
-towardsdatascience.com](/let-the-bot-automate-your-data-processing-e6ef26959d65) 
+[](/let-the-bot-automate-your-data-processing-e6ef26959d65)  
 
 我们将对上面的代码做一个改进。不设置静态计时:
 
@@ -44,11 +40,7 @@ Squir 必须键入表格的名称，例如 MARC
 
 现在我们已经编写了一个 Python 机器人来为我们完成这项工作。下一步，我们将使用 Pyinstaller 将我们的脚本转换为可执行文件:
 
-[](/excel-python-app-for-non-pythonists-68b4fec0fabf) [## 面向非 Python 爱好者的 Excel-Python 应用程序
-
-### 让您的非编码同事预测 Python 在 Excel 中的威力(使用 Xlwings 和……
-
-towardsdatascience.com](/excel-python-app-for-non-pythonists-68b4fec0fabf) ![](img/02fc4bfa82462c1c72b9fc758c53b807.png)
+[](/excel-python-app-for-non-pythonists-68b4fec0fabf)  ![](img/02fc4bfa82462c1c72b9fc758c53b807.png)
 
 由于 Pyinstaller，Python 文件转换为可执行文件
 

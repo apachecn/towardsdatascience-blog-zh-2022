@@ -178,29 +178,17 @@ b_ub_p4 = np.append(b_ub_p1, -np.ceil(sol_p1.x[1]))
 
 很可能，为了描述现实世界的问题，应该使用某种代数建模语言(AML)。Pyomo (Bynum et al .，2021)是一个有趣的 Python 替代品，因为它是开源的，并且与几个解算器兼容。你可以在我之前的一篇关于多维背包问题的文章中看到一个简单的例子。
 
-[](/an-introduction-to-mixed-integer-linear-programming-the-knapsack-problem-1445452a9fe9) [## 混合整数线性规划导论:背包问题
-
-### 了解如何使用 scipy 和 pyomo 解决 Python 中的优化问题
-
-towardsdatascience.com](/an-introduction-to-mixed-integer-linear-programming-the-knapsack-problem-1445452a9fe9) 
+[](/an-introduction-to-mixed-integer-linear-programming-the-knapsack-problem-1445452a9fe9)  
 
 其他问题无法用线性表达式描述，比如工程设计、金融建模、曲线拟合等。与线性优化问题相比，它们导致非常不同的解决技术。解决它们最常用的替代方法是使用一些经典的凸非线性规划算法，我在另一篇文章中介绍过。
 
-[](/nonlinear-programming-theory-and-applications-cfe127b6060c) [## 非线性规划:理论与应用
-
-### 详细解释了基于梯度的线搜索优化算法，并用 Python 从头开始实现
-
-towardsdatascience.com](/nonlinear-programming-theory-and-applications-cfe127b6060c) 
+[](/nonlinear-programming-theory-and-applications-cfe127b6060c)  
 
 然而，有时这是不够的，因为人们可能会追求多个目标，或者问题违反了一些凸算法的假设。然后，人们应该求助于其他的解决技术，其中元试探法非常有用。Pymoo (Blank & Deb，2020)是这样做的一个令人惊讶的替代方案，因为那里有几个这样的算法。
 
 最近我发表了 Python 库 [*pymoode*](https://github.com/mooscaliaproject/pymoode) ，这是我在整个苯乙烯[反应器优化项目](https://doi.org/10.1016/j.ces.2022.118196) (Leite et al .，2022)中开发的 *pymoo、*的扩展。你可以在另一篇文章中找到完整的教程。
 
-[](/pymoode-differential-evolution-in-python-78e4221e5cbe) [## pymoode:Python 中的差异进化
-
-### 用差分进化算法求解单目标和多目标优化问题
-
-towardsdatascience.com](/pymoode-differential-evolution-in-python-78e4221e5cbe) 
+[](/pymoode-differential-evolution-in-python-78e4221e5cbe)  
 
 我打算很快将 *pymoode* 算法完全整合到 *pymoo* 中，但是现在，它们是作为一个单独的包提供的。
 

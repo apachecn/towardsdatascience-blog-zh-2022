@@ -27,11 +27,7 @@
 
 彼得·温特沃斯、杰弗里·埃尔克纳、艾伦·b·唐尼和克里斯·梅耶斯
 
-[](https://learnpythontherightway.com/#about) [## 用正确的方法学习 Python
-
-### 《如何像计算机科学家一样思考》已经是现有的最好的 Python 入门书籍，但是我们有…
-
-learnpythontherightway.com](https://learnpythontherightway.com/#about) 
+[](https://learnpythontherightway.com/#about)  
 
 [**在这里免费阅读**](https://learnpythontherightway.com/#read) **。**
 
@@ -117,18 +113,6 @@ amazon.co.uk[的形象礼仪](https://www.amazon.co.uk/Deep-Learning-Coders-fast
 
 我以前写过几篇文章，涵盖了学习这些主题的各种免费资源。如果你想超越这些介绍性的概念，或者正在寻找教科书以外的资源，下面的链接将帮助你开始。
 
-[](/how-to-learn-data-science-for-free-eda10f04d083) [## 如何免费学习数据科学
-
-### 一个完整的学习路径，包括不花你一分钱的资源
-
-towardsdatascience.com](/how-to-learn-data-science-for-free-eda10f04d083) [](/10-free-resources-for-learning-natural-language-processing-81a380540cd1) [## 学习自然语言处理的 10 个免费资源
-
-### 使用这些神奇的资源免费学习 NLP
-
-towardsdatascience.com](/10-free-resources-for-learning-natural-language-processing-81a380540cd1) [](https://rebecca-vickery.medium.com/data-science-learning-resources-ef034c8f2713) [## 数据科学学习资源
-
-### 介绍学习数据科学的免费资源精选列表
-
-rebecca-vickery.medium.com](https://rebecca-vickery.medium.com/data-science-learning-resources-ef034c8f2713) 
+[](/how-to-learn-data-science-for-free-eda10f04d083)  [](/10-free-resources-for-learning-natural-language-processing-81a380540cd1)  [](https://rebecca-vickery.medium.com/data-science-learning-resources-ef034c8f2713)  
 
 感谢阅读！

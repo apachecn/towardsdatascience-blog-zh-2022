@@ -186,53 +186,29 @@ plt.savefig("kernel_PCA_1_component.png")*
 
 *   ***2021 年你应该知道的 11 种降维技术***
 
-*[](/11-dimensionality-reduction-techniques-you-should-know-in-2021-dcb9500d388b) [## 2021 年你应该知道的 11 种降维技术
-
-### 减少数据集的大小，同时尽可能保留变化
-
-towardsdatascience.com](/11-dimensionality-reduction-techniques-you-should-know-in-2021-dcb9500d388b) 
+*[](/11-dimensionality-reduction-techniques-you-should-know-in-2021-dcb9500d388b)  
 
 *   **降维的 11 种不同用途**
 
-[](/11-different-uses-of-dimensionality-reduction-4325d62b4fa6) [## 降维的 11 种不同用途
-
-### 整个 ML 都是降维及其应用。让我们看看他们的行动吧！
-
-towardsdatascience.com](/11-different-uses-of-dimensionality-reduction-4325d62b4fa6) 
+[](/11-different-uses-of-dimensionality-reduction-4325d62b4fa6)  
 
 *   **为数据集选择最佳数量的主成分**
 
-[](/how-to-select-the-best-number-of-principal-components-for-the-dataset-287e64b14c6d) [## 如何为数据集选择最佳数量的主成分
-
-### 你应该遵循的六种方法
-
-towardsdatascience.com](/how-to-select-the-best-number-of-principal-components-for-the-dataset-287e64b14c6d) 
+[](/how-to-select-the-best-number-of-principal-components-for-the-dataset-287e64b14c6d)  
 
 *   **用 Scikit 学习主成分分析(PCA)**
 
-[](/principal-component-analysis-pca-with-scikit-learn-1e84a0c731b0) [## 使用 Scikit-learn 的主成分分析(PCA)
-
-### 无监督机器学习降维算法
-
-towardsdatascience.com](/principal-component-analysis-pca-with-scikit-learn-1e84a0c731b0) 
+[](/principal-component-analysis-pca-with-scikit-learn-1e84a0c731b0)  
 
 *   **主成分分析—回答了 18 个问题**
 
-[](https://rukshanpramoditha.medium.com/principal-component-analysis-18-questions-answered-4abd72041ccd) [## 主成分分析—回答了 18 个问题
-
-### 一站式解决关于 PCA 的大部分问题
-
-rukshanpramoditha.medium.com](https://rukshanpramoditha.medium.com/principal-component-analysis-18-questions-answered-4abd72041ccd) 
+[](https://rukshanpramoditha.medium.com/principal-component-analysis-18-questions-answered-4abd72041ccd)  
 
 ## 支持我当作家
 
 我希望你喜欢阅读这篇文章。如果你愿意支持我成为一名作家，请考虑 [***注册会员***](https://rukshanpramoditha.medium.com/membership) *以获得无限制的媒体访问权限。它只需要每月 5 美元，我会收到你的会员费的一部分。*
 
-[](https://rukshanpramoditha.medium.com/membership) [## 通过我的推荐链接加入 Medium
-
-### 阅读 Rukshan Pramoditha(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接…
-
-rukshanpramoditha.medium.com](https://rukshanpramoditha.medium.com/membership) 
+[](https://rukshanpramoditha.medium.com/membership)  
 
 非常感谢你一直以来的支持！下一篇文章再见。祝大家学习愉快！
 

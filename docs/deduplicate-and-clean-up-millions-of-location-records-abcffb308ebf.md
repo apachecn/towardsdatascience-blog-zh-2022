@@ -29,11 +29,7 @@
 
 首先，我们将国家标准化。对于索引阻塞来说，这是一个简单而重要的步骤，稍后将介绍。第二，我们使用了 RecordLinkage 的默认清理方法(全部小写，没有标点符号，编码等。).通过借鉴 NLP 社区的想法(和代码),我们可以做得更多。如果您想了解更多信息，请从 TextHero 开始:
 
-[](/texthero-text-preprocessing-representation-and-visualization-for-a-pandas-dataframe-525405af16b6) [## Texthero:熊猫数据帧的文本预处理、表示和可视化
-
-### 用一行 Python 代码处理您的文本
-
-towardsdatascience.com](/texthero-text-preprocessing-representation-and-visualization-for-a-pandas-dataframe-525405af16b6) 
+[](/texthero-text-preprocessing-representation-and-visualization-for-a-pandas-dataframe-525405af16b6)  
 
 例如，所谓的“停用词移除”，在我们的示例中，这可以翻译成移除诸如荷兰语“N.V .”的合法形式或诸如“酒店”的其他常用词(假设我们有许多酒店作为客户)。
 

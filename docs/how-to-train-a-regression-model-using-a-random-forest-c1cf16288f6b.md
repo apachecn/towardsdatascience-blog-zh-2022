@@ -22,11 +22,7 @@
 
 我不打算解释随机森林的工作原理。今天，将更多地强调随机森林在建立回归模型中的实际应用。您将获得 Python 代码的实践经验。然而，如果你也想了解随机森林是如何在幕后工作的，你可以看看我写的下面这篇文章。也是今天帖子的先决条件。
 
-[](/random-forests-an-ensemble-of-decision-trees-37a003084c6c) [## 随机森林——决策树的集合
-
-### 这就是决策树组合成随机森林的方式
-
-towardsdatascience.com](/random-forests-an-ensemble-of-decision-trees-37a003084c6c) 
+[](/random-forests-an-ensemble-of-decision-trees-37a003084c6c)  
 
 # 关于我们使用的数据
 
@@ -210,21 +206,13 @@ rf.estimators_[0] #First tree
 
 订阅我的电子邮件列表，再也不会错过精彩的故事了。我一点击发布按钮，你就会在收件箱里收到每一篇文章。
 
-[](https://rukshanpramoditha.medium.com/subscribe) [## 每当鲁克山·普拉莫迪塔发表文章时，就收到一封电子邮件。
-
-### 每当鲁克山·普拉莫迪塔发表文章时，就收到一封电子邮件。通过注册，您将创建一个中等帐户，如果您没有…
-
-rukshanpramoditha.medium.com](https://rukshanpramoditha.medium.com/subscribe) 
+[](https://rukshanpramoditha.medium.com/subscribe)  
 
 ## 成为会员
 
 如果你愿意的话，你可以注册成为会员，以获得我写的每一个故事的全部信息，我会收到你的一部分会员费。
 
-[](https://rukshanpramoditha.medium.com/membership) [## 通过我的推荐链接加入 Medium
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-rukshanpramoditha.medium.com](https://rukshanpramoditha.medium.com/membership) 
+[](https://rukshanpramoditha.medium.com/membership)  
 
 下一篇文章再见！一如既往，祝大家学习愉快！
 

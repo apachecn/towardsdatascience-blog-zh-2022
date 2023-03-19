@@ -60,11 +60,7 @@ PCR 分三步进行:
 
 你可以参考这个 [GitHub repo](https://github.com/kennethleungty/Principal-Component-Regression) 的 [**Jupyter 笔记本**](https://github.com/kennethleungty/Principal-Component-Regression/blob/main/notebooks/Principal_Component_Regression_Wine_Quality.ipynb) 中的代码跟随。
 
-[](https://kennethleungty.medium.com/membership) [## 通过我的推荐链接加入媒体-梁建华
-
-### 以一杯咖啡的价格访问我所有的内容(和所有的媒体文章)!
-
-kennethleungty.medium.com](https://kennethleungty.medium.com/membership) 
+[](https://kennethleungty.medium.com/membership)  
 
 ## 步骤 1 —初始设置
 
@@ -166,18 +162,6 @@ kennethleungty.medium.com](https://kennethleungty.medium.com/membership)
 
 ***欢迎您加入**我的数据科学学习之旅**。跟随此[媒体](https://kennethleungty.medium.com/)页面并查看我的 [GitHub](https://github.com/kennethleungty) 以了解实用和教育数据科学内容。同时，享受应用主成分回归的乐趣！***
 
-***[](/micro-macro-weighted-averages-of-f1-score-clearly-explained-b603420b292f) [## F1 分数的微观、宏观和加权平均值，解释清楚
-
-### 理解微观平均、宏观平均和多级 F1 分数加权平均背后的概念…
-
-towardsdatascience.com](/micro-macro-weighted-averages-of-f1-score-clearly-explained-b603420b292f) [](/assumptions-of-logistic-regression-clearly-explained-44d85a22b290) [## 逻辑回归的假设，解释清楚
-
-### 理解并实现基本数据科学建模技术之一的假设检查(用 Python)
-
-towardsdatascience.com](/assumptions-of-logistic-regression-clearly-explained-44d85a22b290) [](/why-bootstrapping-actually-works-1e75640cf172) [## 为什么自举真的有效
-
-### 一个简单的门外汉解释为什么这种流行的技术在数据科学中有意义
-
-towardsdatascience.com](/why-bootstrapping-actually-works-1e75640cf172) [](https://kennethleungty.medium.com/membership) [## 通过我的推荐链接加入媒体-梁建华
+***[](/micro-macro-weighted-averages-of-f1-score-clearly-explained-b603420b292f)  [](/assumptions-of-logistic-regression-clearly-explained-44d85a22b290)  [](/why-bootstrapping-actually-works-1e75640cf172)  [](https://kennethleungty.medium.com/membership) [## 通过我的推荐链接加入媒体-梁建华
 
 ### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…](https://kennethleungty.medium.com/membership)***

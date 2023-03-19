@@ -286,11 +286,7 @@ T2 离群值的定义并不总是一成不变的。这些年来它已经改变�
 
 ****如果你想看我做的过程，你可以去这个项目的 GitHub 库****
 
-****[](https://github.com/isaacarroyov/spotify_anomalies_kmeans-lof) [## GitHub-isaacarroyov/Spotify _ anomalies _ k means-lof:我探索自己的数据科学项目…
-
-### 数据科学项目，我探索我自己的 Spotify 数据，特别是我在大学期间听的歌曲…
-
-github.com](https://github.com/isaacarroyov/spotify_anomalies_kmeans-lof) 
+****[](https://github.com/isaacarroyov/spotify_anomalies_kmeans-lof)  
 
 # 参考
 

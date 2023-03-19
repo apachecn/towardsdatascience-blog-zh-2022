@@ -146,11 +146,7 @@ qc.h(0)
 
 量子算符惊人的直观——如果你恰当地看待它们的话。当然，这种用简单英语的解释缺乏数学等式的精确性和简明性。然而，我真的相信这个解释比所有方程捆绑在一起更有助于开始量子计算。
 
-[](https://pyqml.medium.com/membership) [## 通过我的推荐链接加入 Medium 弗兰克齐克特|量子机器学习
-
-### 开始使用量子机器学习(并完全访问媒体上的每个故事)完全访问所有…
-
-pyqml.medium.com](https://pyqml.medium.com/membership) 
+[](https://pyqml.medium.com/membership)  
 
 不要错过下一集，订阅我的[子栈频道](https://pyqml.substack.com/)。
 

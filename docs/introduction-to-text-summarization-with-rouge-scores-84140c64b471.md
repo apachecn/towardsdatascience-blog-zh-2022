@@ -159,11 +159,7 @@ pip install rouge
 
 感谢阅读！我希望这篇文章对自动文本摘要的工作原理有所帮助。摘要是自然语言处理中一个令人兴奋的研究领域，有许多潜在的下游应用，如自动标题生成、报告摘要等，也可能产生商业价值。为了进行实验，可以在这里看到一个有趣的总结一段文字的 web 应用程序:
 
- [## 文本摘要生成器
-
-### 文本摘要器是一个在线工具，它将文本打包成指定的短长度。它把一篇长文浓缩成…
-
-www.paraphraser.io](https://www.paraphraser.io/text-summarizer) 
+  
 
 我会写一些关于 NLP 的其他话题。在接下来的相关文章中，我将讨论其他的自然语言处理任务，比如共指消解(即将文章中相互共指的词实体进行聚类)。一定要保持警惕！
 
@@ -171,30 +167,14 @@ www.paraphraser.io](https://www.paraphraser.io/text-summarizer)
 
 我还介绍了 NLP 中的一些其他主题。如果你有兴趣，可以看看我下面的一些文章:
 
-[](https://medium.com/mlearning-ai/introduction-to-hidden-markov-model-hmm-with-simple-ner-d1353ff35842) [## 简单 NER 隐马尔可夫模型简介
-
-### 隐马尔可夫模型在命名实体识别中的简单应用
-
-medium.com](https://medium.com/mlearning-ai/introduction-to-hidden-markov-model-hmm-with-simple-ner-d1353ff35842) [](/dynamic-word-tokenization-with-regex-tokenizer-801ae839d1cd) [## 使用正则表达式分词器进行动态单词分词
-
-### 关于用正则表达式单步预处理文本的简短教程
-
-towardsdatascience.com](/dynamic-word-tokenization-with-regex-tokenizer-801ae839d1cd) 
+[](https://medium.com/mlearning-ai/introduction-to-hidden-markov-model-hmm-with-simple-ner-d1353ff35842)  [](/dynamic-word-tokenization-with-regex-tokenizer-801ae839d1cd)  
 
 *附:如果你对* ***加速你的数据科学学习*** *感兴趣，这里还有一篇关于养成良好学习习惯的极其有用的文章:*
 
-[](/a-brief-guide-to-effective-learning-in-data-science-637de316da0e) [## 数据科学有效学习完全指南
-
-### 让你在数据科学(或任何学科)领域飞速发展的基本指南
-
-towardsdatascience.com](/a-brief-guide-to-effective-learning-in-data-science-637de316da0e) 
+[](/a-brief-guide-to-effective-learning-in-data-science-637de316da0e)  
 
 > *感谢阅读！如果您喜欢这些内容，请在* [*中的*](https://tanpengshi.medium.com/) *上阅读我的其他文章，并在*[*LinkedIn*](https://www.linkedin.com/in/tanpengshi/)*上关注我。*
 > 
 > ***支持我！*** —如果你没有*订阅 Medium，并且喜欢我的内容，请考虑通过我的[推荐链接](https://tanpengshi.medium.com/membership)加入 Medium 来支持我。*
 
-[](https://tanpengshi.medium.com/membership) [## 加入我的介绍链接媒体-谭师鹏阿尔文
-
-### 阅读谭·师鹏·阿尔文(以及媒体上成千上万其他作家)的每一个故事。您的会员费直接…
-
-tanpengshi.medium.com](https://tanpengshi.medium.com/membership)
+[](https://tanpengshi.medium.com/membership) 

@@ -106,8 +106,4 @@
 
 [带区域对比的自举语义分割，2022](https://arxiv.org/pdf/2104.04465.pdf)
 
-[](https://dushuchen.medium.com/membership) [## 加入我的介绍链接-陈数杜媒体
-
-### 阅读陈数·杜(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-dushuchen.medium.com](https://dushuchen.medium.com/membership)
+[](https://dushuchen.medium.com/membership) 

@@ -349,12 +349,4 @@ a 我们在前一小节中描述过，我们的目标是学习这个正向扩散
 
 用[巴蒂斯特·罗卡](https://medium.com/u/20ad1309823a?source=post_page-----1940329d6048--------------------------------)写的其他文章:
 
-[](/understanding-variational-autoencoders-vaes-f70510919f73) [## 了解变分自动编码器(VAEs)
-
-### 逐步建立导致 VAEs 的推理。
-
-towardsdatascience.com](/understanding-variational-autoencoders-vaes-f70510919f73) [](/understanding-generative-adversarial-networks-gans-cd6e4651a29) [## 理解生成敌对网络(GANs)
-
-### 一步一步地建立导致 GANs 的推理。
-
-towardsdatascience.com](/understanding-generative-adversarial-networks-gans-cd6e4651a29)
+[](/understanding-variational-autoencoders-vaes-f70510919f73)  [](/understanding-generative-adversarial-networks-gans-cd6e4651a29) 

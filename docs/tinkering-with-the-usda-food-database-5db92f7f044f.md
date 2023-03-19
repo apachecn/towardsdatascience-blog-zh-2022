@@ -454,8 +454,4 @@
 
 *喜欢这个故事吗？通过我下面的推荐链接成为一个媒体成员来支持我的写作。无限制地访问我的故事和许多其他内容。*
 
-[](https://medium.com/@diego-barba/membership) [## 通过我的推荐链接加入 Medium-Diego Barba
-
-### 阅读迭戈·巴尔巴(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-medium.com](https://medium.com/@diego-barba/membership)
+[](https://medium.com/@diego-barba/membership) 

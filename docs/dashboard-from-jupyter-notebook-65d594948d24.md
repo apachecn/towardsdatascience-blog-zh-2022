@@ -20,15 +20,7 @@ Jupyter 笔记本与数据科学家的日常工作密不可分。此外，大多
 
 通常，开发仪表板需要 HTML、JavaScript 和 CSS 知识。但是像 Streamlit 和 Dash 这样的工具已经使得在没有它们的情况下创建仪表板成为可能。
 
-[](/how-to-create-stunning-web-apps-for-your-data-science-projects-c7791102134e) [## 如何为您的数据科学项目创建出色的 Web 应用程序
-
-### 数据科学家不必学习 HTML、CSS 和 JavaScript 来构建网页。
-
-towardsdatascience.com](/how-to-create-stunning-web-apps-for-your-data-science-projects-c7791102134e) [](/plotly-dashboards-in-python-28a3bb83702c) [## 这就是我如何纯粹用 Python 创建令人眼花缭乱的仪表盘。
-
-### Plotly dash 应用程序是用 python 构建生产级仪表板的最快方式。
-
-towardsdatascience.com](/plotly-dashboards-in-python-28a3bb83702c) 
+[](/how-to-create-stunning-web-apps-for-your-data-science-projects-c7791102134e)  [](/plotly-dashboards-in-python-28a3bb83702c)  
 
 然而，您仍然需要手动将笔记本电脑转换为功能性应用程序。这涉及到大量的复制和粘贴。
 

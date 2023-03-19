@@ -10,19 +10,7 @@
 
 自监督预训练是提高传统监督学习性能的一种主要方法，其中大量的标记数据是必要的和昂贵的。在自我监督学习方法中，对比学习因其简单有效而广受欢迎。然而，大多数对比学习方法使用全局向量，其中像素级信息的细节丢失，这在转移到下游密集任务时留下了改进的空间。我向感兴趣的读者推荐我以前的关于对比学习方法的文章。
 
-[](https://medium.com/geekculture/understanding-contrastive-learning-and-moco-efe491e4eed9) [## 理解对比学习和 MoCo
-
-### 在对比学习中什么是重要的，它能有什么帮助
-
-medium.com](https://medium.com/geekculture/understanding-contrastive-learning-and-moco-efe491e4eed9) [](/pixel-level-dense-contrastive-learning-6558691eeb67) [## 像素级密集对比学习
-
-### 基于主动采样策略的密集对比学习
-
-towardsdatascience.com](/pixel-level-dense-contrastive-learning-6558691eeb67) [](/contrastive-pre-training-of-visual-language-models-848dd94c881b) [## 视觉语言模型的对比预训练
-
-### 对比视角下充分利用监督信号
-
-towardsdatascience.com](/contrastive-pre-training-of-visual-language-models-848dd94c881b) 
+[](https://medium.com/geekculture/understanding-contrastive-learning-and-moco-efe491e4eed9)  [](/pixel-level-dense-contrastive-learning-6558691eeb67)  [](/contrastive-pre-training-of-visual-language-models-848dd94c881b)  
 
 对于密集下游任务的迁移学习，我们需要一些自我监督的预训练方法，可以恢复整个特征图的细节，而不仅仅是合并的全局向量。只有通过这个才能了解到整个特征地图分布的细节，更重要的是，不需要标注。
 
@@ -82,8 +70,4 @@ towardsdatascience.com](/contrastive-pre-training-of-visual-language-models-848d
 
 [11] [MultiMAE:多模态多任务屏蔽自动编码器，2022](https://arxiv.org/pdf/2204.01678v1.pdf)
 
-[](https://dushuchen.medium.com/membership) [## 加入我的介绍链接-陈数杜媒体
-
-### 阅读陈数·杜(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-dushuchen.medium.com](https://dushuchen.medium.com/membership)
+[](https://dushuchen.medium.com/membership) 

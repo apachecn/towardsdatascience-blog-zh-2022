@@ -103,11 +103,7 @@ HOG 描述符是一种特征描述符，它通过计算图像中亮度梯度的�
 
 我建议阅读以下文章，以便更好地理解 PCA 及其局限性:
 
-[](/an-intuitive-guide-to-pca-1174055fc800) [## PCA 直观指南
-
-### 主成分分析背后的思想
-
-towardsdatascience.com](/an-intuitive-guide-to-pca-1174055fc800) 
+[](/an-intuitive-guide-to-pca-1174055fc800)  
 
 # 流形学习
 
@@ -151,11 +147,7 @@ towardsdatascience.com](/an-intuitive-guide-to-pca-1174055fc800)
 
 我希望这篇文章对你有帮助！如果您对如何构建 k-NN 图有任何疑问，我建议您阅读以下文章:
 
-[](/how-to-explore-a-dataset-of-images-with-graph-theory-fd339c696d99) [## 如何用图论探索图像数据集
-
-### 组合特征提取、相似性度量和最近邻图
-
-towardsdatascience.com](/how-to-explore-a-dataset-of-images-with-graph-theory-fd339c696d99) 
+[](/how-to-explore-a-dataset-of-images-with-graph-theory-fd339c696d99)  
 
 好奇想了解更多关于 Anthony 的工作和项目吗？在[媒体](https://medium.com/@anthonycvn)、 [LinkedIn](https://www.linkedin.com/in/anthonycavin/) 、 [Twitter](https://twitter.com/Anthony66333223) 上关注他。
 

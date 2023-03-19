@@ -142,8 +142,4 @@ st.plotly_chart(fig)
 
 您可以在[我的网站](https://alanjones2.github.io/)上找到关于 Streamlit 和其他主题的其他文章:
 
-[](https://alanjones2.github.io/) [## AlanJones:编码、科学和技术
-
-### 使用 Streamlit、Plotly、Python 和 Flask 为 web 构建数据可视化应用程序。适用于…的文章、教程和应用程序
-
-alanjones2.github.io](https://alanjones2.github.io/)
+[](https://alanjones2.github.io/) 

@@ -198,10 +198,6 @@ tts.save("IsaacReadsYourSudokuSolution.mp3")
 
 非常感谢您的阅读！希望这篇文章对你有帮助。请随时在 [LinkedIn](https://de.linkedin.com/in/jesko-rehberg-40653883) 、 [Twitter](https://twitter.com/DAR_Analytics) 或[工作室](https://jesko-rehberg.medium.com/virtual-reality-vr-for-education-a532aa5b6272)与我联系。
 
-[](https://jesko-rehberg.medium.com/membership) [## 通过我的推荐链接加入 Medium-Jesko Rehberg
-
-### 阅读杰斯科·雷伯格(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-jesko-rehberg.medium.com](https://jesko-rehberg.medium.com/membership) 
+[](https://jesko-rehberg.medium.com/membership)  
 
 你可以在我的 [Github 库](https://github.com/DAR-DatenanalyseRehberg/Sudoku)中找到完整的代码。请随时在 [LinkedIn](https://de.linkedin.com/in/jesko-rehberg-40653883) 、 [Twitter](https://twitter.com/DAR_Analytics) 或[工作室(有或没有虚拟现实)](https://jesko-rehberg.medium.com/virtual-reality-vr-for-education-a532aa5b6272)与我联系。

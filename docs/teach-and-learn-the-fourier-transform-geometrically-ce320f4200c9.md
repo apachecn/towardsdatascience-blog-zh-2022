@@ -70,8 +70,4 @@
 
 感谢您抽出时间阅读！如果您对完整的源代码感兴趣，请查看它！
 
-[](https://github.com/peterbbryan/fourier-sketcher) [## GitHub-peterbryan/Fourier-sketcher:基于傅立叶的绘图脚本
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/peterbbryan/fourier-sketcher)
+[](https://github.com/peterbbryan/fourier-sketcher) 

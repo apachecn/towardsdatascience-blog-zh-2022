@@ -78,11 +78,7 @@ GIF 作者|聊天机器人的前端部分
 
 完整的实施和运行说明，你可以在这个回购。因此，你可以使用简单的键盘来聊天。和 Mx 的愉快对话。苹果！😎
 
-[](https://github.com/kinivi/art-science-saclay) [## GitHub-kini VI/Art-Science-saclay:[艺术与科学🎨]模仿苹果的基于 GPT 3 的聊天机器人…
-
-### 艺术与科学🎨]基于 GPT 3 的聊天机器人，模仿苹果的个性。每个响应都由输入传感器触发…
-
-github.com](https://github.com/kinivi/art-science-saclay) 
+[](https://github.com/kinivi/art-science-saclay)  
 
 # 确认
 

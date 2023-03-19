@@ -114,11 +114,7 @@ Powell 认为状态变量可以分为三类:(i) **信念** , (ii) **信息**,( i
 
 对马尔可夫决策过程的其他模型组件也感兴趣吗？看看下面这篇文章:
 
-[](/the-five-building-blocks-of-markov-decision-processes-997dc1ab48a7) [## 马尔可夫决策过程的五个组成部分
-
-### 通过掌握马尔可夫决策的基本原则来定义和交流您的强化学习模型…
-
-towardsdatascience.com](/the-five-building-blocks-of-markov-decision-processes-997dc1ab48a7) 
+[](/the-five-building-blocks-of-markov-decision-processes-997dc1ab48a7)  
 
 # 参考
 

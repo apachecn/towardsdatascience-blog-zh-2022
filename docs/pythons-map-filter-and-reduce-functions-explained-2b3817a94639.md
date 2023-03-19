@@ -161,28 +161,4 @@ my_list_squared = list(map(lambda i: i**2, my_list))
 
 # ***延伸阅读***
 
-*[](https://www.analyticsvidhya.com/blog/2021/07/python-most-powerful-functions-map-filter-and-reduce-in-5-minutes/) [## Python 最强大的函数:map()，filter()，reduce()5 分钟-
-
-### 这篇文章是作为数据科学博客的一部分发表的。这些功能不仅使…
-
-www.analyticsvidhya.com](https://www.analyticsvidhya.com/blog/2021/07/python-most-powerful-functions-map-filter-and-reduce-in-5-minutes/) [](https://developers.slashdot.org/story/13/08/25/2115204/interviews-guido-van-rossum-answers-your-questions) [## 采访:吉多·范·罗苏姆回答你的问题
-
-### 上周你有机会问吉多·范·罗苏姆，Python 的 BDFL(仁慈的终身独裁者)，关于所有的事情…
-
-developers.slashdot.org](https://developers.slashdot.org/story/13/08/25/2115204/interviews-guido-van-rossum-answers-your-questions) [](https://www.learnpython.org/en/Map%2C_Filter%2C_Reduce#:~:text=Map%2C%20Filter%2C%20and%20Reduce%20are,intricacies%20like%20loops%20and%20branching) [## 地图、过滤、归约-学习 Python -免费的交互式 Python 教程
-
-### 映射、过滤和归约是函数式编程的范例。它们允许程序员(你)写得更简单…
-
-www.learnpython.org](https://www.learnpython.org/en/Map%2C_Filter%2C_Reduce#:~:text=Map%2C%20Filter%2C%20and%20Reduce%20are,intricacies%20like%20loops%20and%20branching) [](https://www.educba.com/functional-programming-vs-oop/) [## 函数式编程与面向对象编程|需要了解的 8 大有用差异
-
-### 函数式编程是一种编程技术，它强调了创建和修改
-
-www.educba.com](https://www.educba.com/functional-programming-vs-oop/) [](https://www.knowledgehut.com/blog/programming/python-map-list-comprehension) [## Python 地图 vs 列表理解哪个更好？
-
-### 有许多内置的方法、数据结构和模块来获得想要的输出。当我们编写一个巨大的代码时…
-
-www.knowledgehut.com](https://www.knowledgehut.com/blog/programming/python-map-list-comprehension)  [## 函数式编程指南- Python 3.10.6 文档
-
-### 在本文档中，我们将浏览 Python 适合以函数式风格实现程序的特性…
-
-docs.python.org](https://docs.python.org/3/howto/functional.html)*
+*[](https://www.analyticsvidhya.com/blog/2021/07/python-most-powerful-functions-map-filter-and-reduce-in-5-minutes/)  [](https://developers.slashdot.org/story/13/08/25/2115204/interviews-guido-van-rossum-answers-your-questions)  [](https://www.learnpython.org/en/Map%2C_Filter%2C_Reduce#:~:text=Map%2C%20Filter%2C%20and%20Reduce%20are,intricacies%20like%20loops%20and%20branching)  [](https://www.educba.com/functional-programming-vs-oop/)  [](https://www.knowledgehut.com/blog/programming/python-map-list-comprehension)   *

@@ -153,16 +153,4 @@
 
 # 相关文章
 
-[](https://medium.com/bigdatarepublic/detecting-data-drift-with-machine-learning-adb177544312) [## 利用机器学习检测数据漂移
-
-### 通过简单的自动化流程了解您的 ML 模型的性能下降情况。
-
-medium.com](https://medium.com/bigdatarepublic/detecting-data-drift-with-machine-learning-adb177544312) [](/are-you-using-feature-distributions-to-detect-outliers-48e2ae3309) [## 您是否使用特征分布来检测异常值？
-
-### 这里有三种更好的方法。
-
-towardsdatascience.com](/are-you-using-feature-distributions-to-detect-outliers-48e2ae3309) [](/model-agnostic-methods-for-interpreting-any-machine-learning-model-4f10787ef504) [## 解释任何机器学习模型的模型不可知方法
-
-### 解释方法概述:排列特征重要性，部分依赖图，石灰，SHAP 等。
-
-towardsdatascience.com](/model-agnostic-methods-for-interpreting-any-machine-learning-model-4f10787ef504)
+[](https://medium.com/bigdatarepublic/detecting-data-drift-with-machine-learning-adb177544312)  [](/are-you-using-feature-distributions-to-detect-outliers-48e2ae3309)  [](/model-agnostic-methods-for-interpreting-any-machine-learning-model-4f10787ef504) 

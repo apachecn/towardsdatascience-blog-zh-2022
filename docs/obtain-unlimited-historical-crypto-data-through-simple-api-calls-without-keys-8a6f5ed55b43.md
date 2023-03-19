@@ -10,11 +10,7 @@
 
 早在 2021 年 8 月，我就对加密货币、加密艺术、NFT 等产生了兴趣。我想自己玩加密货币数据。我在网站、新闻、app 上到处看到剧情；但是，我怎样才能得到实际的数据来玩它，做我自己的计划和调查呢？尤其是，我如何确保每次我请求它时它都是最新的？通过研究，我发现通过编写连接到 API 的小网页，我可以很容易地从 CryptoCompare.com 获得数据。在本文中，我描述了这个 API 的基础知识以及使用它所需的 HTML+JavaScript 代码，还包括一些现成的例子:
 
-[](/obtaining-historical-and-real-time-crypto-data-with-very-simple-web-programming-7b481f153630) [## 通过非常简单的 web 编程获得历史和实时加密数据
-
-### 在学习加密货币的过程中，我迫切需要数据来操纵我自己去做我自己的阴谋和…
-
-towardsdatascience.com](/obtaining-historical-and-real-time-crypto-data-with-very-simple-web-programming-7b481f153630) 
+[](/obtaining-historical-and-real-time-crypto-data-with-very-simple-web-programming-7b481f153630)  
 
 ## CryptoCompare 的 API 的一个小问题，以及为什么有些问题我更喜欢 CoinGecko
 
@@ -82,29 +78,17 @@ fetch("[https://api.coingecko.com/api/v3/coins/ethereum/market_chart?vs_currency
 
 该示例显示了基本注意力令牌(BAT)的价格，这是一种有趣的加密货币，与我之前提到的勇敢浏览器相关联:
 
-[](https://medium.com/technology-hits/i-like-the-principles-behind-brave-browser-but-the-surf-to-earn-leitmotif-is-pure-deception-c5f0caf05755) [## 我喜欢 Brave browser 背后的原则，但我不认为用户会真正“靠…赚钱”
-
-### Brave 是一款免费的网络浏览器，通过自动屏蔽广告和…
-
-medium.com](https://medium.com/technology-hits/i-like-the-principles-behind-brave-browser-but-the-surf-to-earn-leitmotif-is-pure-deception-c5f0caf05755) 
+[](https://medium.com/technology-hits/i-like-the-principles-behind-brave-browser-but-the-surf-to-earn-leitmotif-is-pure-deception-c5f0caf05755)  
 
 ## 想要更多灵感？
 
 鉴于您在我之前关于检索加密数据的文章中有更多的想法:
 
-[](/obtaining-historical-and-real-time-crypto-data-with-very-simple-web-programming-7b481f153630) [## 通过非常简单的 web 编程获得历史和实时加密数据
-
-### 在学习加密货币的过程中，我迫切需要数据来操纵我自己去做我自己的阴谋和…
-
-towardsdatascience.com](/obtaining-historical-and-real-time-crypto-data-with-very-simple-web-programming-7b481f153630) 
+[](/obtaining-historical-and-real-time-crypto-data-with-very-simple-web-programming-7b481f153630)  
 
 我向您推荐这篇文章，在这篇文章中，我将基于网络的虚拟现实与基于网络的加密货币数据检索相结合:
 
-[](/live-display-of-cryptocurrency-data-in-a-vr-environment-on-the-web-af476376d018) [## 网上虚拟现实环境中加密货币数据的实时显示
-
-### 一种“虚拟股票交易中心”
-
-towardsdatascience.com](/live-display-of-cryptocurrency-data-in-a-vr-environment-on-the-web-af476376d018) 
+[](/live-display-of-cryptocurrency-data-in-a-vr-environment-on-the-web-af476376d018)  
 
 喜欢这篇文章，想给我提示？【[](https://www.paypal.me/LAbriata)**】-谢谢！**
 

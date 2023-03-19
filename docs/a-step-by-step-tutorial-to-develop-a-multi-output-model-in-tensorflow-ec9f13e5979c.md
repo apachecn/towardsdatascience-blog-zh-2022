@@ -12,11 +12,7 @@ Pavel Neznanov 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=
 
 如果你已经知道函数式 API 是如何工作的，对你来说应该很简单。如果您需要关于函数式 API 的教程或复习，这篇文章应该会有所帮助:
 
-[](https://regenerativetoday.com/regression-in-tensorflow-using-both-sequential-and-function-apis/) [## TensorFlow 中使用顺序 API 和函数 API 的回归
-
-### Tensorflow 可以说是深度学习和神经网络领域中最受欢迎的包。我写了一些不同的…
-
-regenerativetoday.com](https://regenerativetoday.com/regression-in-tensorflow-using-both-sequential-and-function-apis/) 
+[](https://regenerativetoday.com/regression-in-tensorflow-using-both-sequential-and-function-apis/)  
 
 让我们深入教程。首先导入必要的包:
 
@@ -33,11 +29,7 @@ import itertools
 
 我使用一个名为 auto_clean 的公共数据集。请随意从该链接下载数据集。**这是一个免费的公共数据集。**
 
-[](https://datahub.io/machine-learning/autos#resource-autos) [## 汽车
-
-### DataHub.io by -我们构建能够释放数据潜力的解决方案，让我们从您的解决方案开始吧！了解更多关于我们的信息“现在…
-
-数据中心. io](https://datahub.io/machine-learning/autos#resource-autos) 
+[](https://datahub.io/machine-learning/autos#resource-autos)  
 
 首先，用 auto_clean.csv 数据创建一个 pandas 数据框架:
 
@@ -311,20 +303,4 @@ plt.show()
 
 ## 更多阅读
 
-[](/a-complete-guide-for-detecting-and-dealing-with-outliers-bad26b1e92b6) [## 检测和处理异常值的完整指南
-
-### 6 种检测异常值的方法和 4 种处理异常值的方法
-
-towardsdatascience.com](/a-complete-guide-for-detecting-and-dealing-with-outliers-bad26b1e92b6) [](/what-is-a-recurrent-neural-network-and-implementation-of-simplernn-gru-and-lstm-models-in-keras-f7247e97c405) [## 在 Keras 中实现简单网络、GRU 和 LSTM 模型…
-
-### 什么是递归神经网络以及三种递归神经网络在 Tensorflow 和
-
-towardsdatascience.com](/what-is-a-recurrent-neural-network-and-implementation-of-simplernn-gru-and-lstm-models-in-keras-f7247e97c405) [](/developing-a-convolutional-neural-network-model-using-the-unlabeled-image-files-directly-from-the-124180b8f21f) [## 开发一个卷积神经网络模型使用未标记的图像文件直接从…
-
-### 使用图像生成器将图像自动标记为子目录
-
-towardsdatascience.com](/developing-a-convolutional-neural-network-model-using-the-unlabeled-image-files-directly-from-the-124180b8f21f) [](/20-very-commonly-used-functions-of-pyspark-rdd-90b8271c25b2) [## PySpark RDD 的 20 个非常常用的功能
-
-### 每个功能都用清晰的例子演示
-
-towardsdatascience.com](/20-very-commonly-used-functions-of-pyspark-rdd-90b8271c25b2)
+[](/a-complete-guide-for-detecting-and-dealing-with-outliers-bad26b1e92b6)  [](/what-is-a-recurrent-neural-network-and-implementation-of-simplernn-gru-and-lstm-models-in-keras-f7247e97c405)  [](/developing-a-convolutional-neural-network-model-using-the-unlabeled-image-files-directly-from-the-124180b8f21f)  [](/20-very-commonly-used-functions-of-pyspark-rdd-90b8271c25b2) 

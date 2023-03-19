@@ -12,11 +12,7 @@ Pierre chtel-Innocenti 在 [Unsplash](https://unsplash.com?utm_source=medium&utm
 
 本文旨在提供良好编码标准、编码最佳实践、不同代码味道和设计模式的速成课程和总结，并以编写干净代码的 3 个实用技巧结束。在我以前的一篇文章中，我写了一些学习新编程语言的方法，这篇文章是对那篇文章的扩展，因为这篇文章假设了一些代码理解。请随意查看我以前的文章，
 
-[](/how-to-learn-new-programming-languages-easily-1e6e29d3898a) [## 如何轻松学习新的编程语言
-
-### 学习任何新的编程语言——例如 Python、Java 和 Go
-
-towardsdatascience.com](/how-to-learn-new-programming-languages-easily-1e6e29d3898a) 
+[](/how-to-learn-new-programming-languages-easily-1e6e29d3898a)  
 
 # 目录
 
@@ -150,15 +146,7 @@ towardsdatascience.com](/how-to-learn-new-programming-languages-easily-1e6e29d38
 
 例如，如果您正在安排作业，请使用 Apache Airflow。如果你在做实验，用 MLFlow 跟踪你的实验。利用开源工具并将其集成到项目中，因为它们通常由自己的开发人员更好地开发和维护，这样您就少了一份担心。
 
-[](/job-scheduling-with-apache-airflow-2-0-in-10-minutes-16d19f548a46) [## 使用 Apache AirFlow 2.0 在 10 分钟内完成作业调度
-
-### 简化工作流管理系统——用 Python 示例解释
-
-towardsdatascience.com](/job-scheduling-with-apache-airflow-2-0-in-10-minutes-16d19f548a46) [](/experiment-tracking-with-mlflow-in-10-minutes-f7c2128b8f2c) [## 10 分钟内使用 MLflow 进行实验跟踪
-
-### 轻松管理机器学习生命周期——用 Python 示例解释
-
-towardsdatascience.com](/experiment-tracking-with-mlflow-in-10-minutes-f7c2128b8f2c) 
+[](/job-scheduling-with-apache-airflow-2-0-in-10-minutes-16d19f548a46)  [](/experiment-tracking-with-mlflow-in-10-minutes-f7c2128b8f2c)  
 
 # 结论
 

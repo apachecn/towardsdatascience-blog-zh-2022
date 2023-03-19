@@ -60,11 +60,7 @@ KS 分布。图片作者。
 
 `scipy.stats`库有一个 ks_1samp 函数可以为我们完成这项工作，但是出于学习的目的，我将从头开始构建一个测试。这方面的代码可以在 [my github](https://github.com/vinyluis/Articles/tree/main/Kolmogorov-Smirnov) 上找到，所以可以跳过这一部分。
 
-[](https://github.com/vinyluis/Articles/tree/main/Kolmogorov-Smirnov) [## 文章/Kolmogorov-Smirnov 在主要乙烯/文章
-
-### 第 1 篇:用 Kolmogorov-Smirnov 检验比较样本分布(TBD)
-
-github.com](https://github.com/vinyluis/Articles/tree/main/Kolmogorov-Smirnov) 
+[](https://github.com/vinyluis/Articles/tree/main/Kolmogorov-Smirnov)  
 
 为了构建评估 KS 1 样本正态性检验的`ks_norm(sample)`函数，我们首先需要计算 KS 统计量，将样本的 CDF 与正态分布的 CDF 进行比较(均值= 0，方差= 1)。然后我们可以通过使用 KS 分布的生存函数`scipy.stats.kstwo.sf`【3】来计算`n = len(sample)`的 KS 分布的 p 值:
 
@@ -170,11 +166,7 @@ KS 测试对于评估分类模型也是相当有用的，我将在以后的文�
 
 看看这个很棒的帖子
 
-[](/evaluating-classification-models-with-kolmogorov-smirnov-ks-test-e211025f5573) [## 用 Kolmogorov-Smirnov (KS)检验评估分类模型
-
-### 使用 KS 检验评估类分布之间的分离
-
-towardsdatascience.com](/evaluating-classification-models-with-kolmogorov-smirnov-ks-test-e211025f5573) 
+[](/evaluating-classification-models-with-kolmogorov-smirnov-ks-test-e211025f5573)  
 
 # 参考
 

@@ -58,8 +58,4 @@
 
 感谢您阅读我的文章。如果你喜欢我的内容，请考虑关注我。此外，欢迎所有反馈。我总是渴望学习新的或更好的做事方法。请随时留下您的评论或联系我 katyhagerty19@gmail.com。
 
-[](https://medium.com/@katyhagerty19/membership) [## 加入我的介绍链接媒体-凯蒂哈格蒂
-
-### 阅读凯蒂·哈格蒂(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-medium.com](https://medium.com/@katyhagerty19/membership)
+[](https://medium.com/@katyhagerty19/membership) 

@@ -17,11 +17,7 @@
 
 # 什么是简化
 
-[](https://streamlit.io/) [## Streamlit *构建和共享数据应用的最快方式
-
-### Streamlit 可以在几分钟内将数据脚本转化为可共享的 web 应用程序。全是纯 Python。不需要前端经验…
-
-streamlit.io](https://streamlit.io/) 
+[](https://streamlit.io/)  
 
 > [Streamlit](https://www.streamlit.io/) 是一个开源的 Python 库，可以轻松创建和共享漂亮的、定制的机器学习和数据科学 web 应用。只需几分钟，您就可以构建和部署强大的数据应用程序。
 
@@ -37,11 +33,7 @@ CAD 到 STL 转换器 streamlit 应用程序—图片由作者提供
 
 **您可以在下面找到该应用程序的完整代码:**
 
-**[](https://github.com/GitMarco27/DeepCadConverter) [## GitHub-git Marco 27/DeepCadConverter:这个 streamlit 应用程序将各种 cad 格式转换成…
-
-### 这个 streamlit 应用程序将各种 cad 格式转换为 STL，可用于各种应用程序，使用…
-
-github.com](https://github.com/GitMarco27/DeepCadConverter) 
+**[](https://github.com/GitMarco27/DeepCadConverter)  
 
 可以随意复制，叉或者改进！
 

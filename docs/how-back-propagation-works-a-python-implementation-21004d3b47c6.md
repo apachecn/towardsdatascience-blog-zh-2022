@@ -4,11 +4,7 @@
 
 本文主要关注 Python 中反向传播的实现。我们已经在下面链接的前一篇文章中讨论了反向传播的数学基础。在这篇文章的最后，你会明白如何从头开始构建神经网络。
 
-[](/how-does-back-propagation-work-in-neural-networks-with-worked-example-bc59dfb97f48) [## 反向传播在神经网络中是如何工作的？
-
-### 用一个例子演示背景如何在神经网络中工作。
-
-towardsdatascience.com](/how-does-back-propagation-work-in-neural-networks-with-worked-example-bc59dfb97f48) 
+[](/how-does-back-propagation-work-in-neural-networks-with-worked-example-bc59dfb97f48)  
 
 # 数据、神经网络结构和初始参数
 

@@ -6,11 +6,7 @@
 
 ## 在一行代码中快速加载数据集，用于训练深度学习模型
 
-[](https://github.com/V-Sher/HF-Loading-Script) [## GitHub-V-Sher/HF-Loading-Script:如何为 HuggingFace 数据集编写自定义加载脚本
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/V-Sher/HF-Loading-Script) 
+[](https://github.com/V-Sher/HF-Loading-Script)  
 
 # 什么是拥抱脸🤗数据集？
 

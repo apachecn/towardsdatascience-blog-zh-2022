@@ -432,16 +432,4 @@ ML 的规则是谷歌机器学习最佳实践的便利汇编。在其中，谷�
 
 你也可以试试我的其他文章。不能选择？从这些中选择一个:
 
-[](/reducing-pipeline-debt-with-great-expectations-f1afddbfdc0b) [## 满怀期望地减少管道债务
-
-### 总是知道从你的数据中可以期待什么
-
-towardsdatascience.com](/reducing-pipeline-debt-with-great-expectations-f1afddbfdc0b) [](/on-the-importance-of-bayesian-thinking-in-everyday-life-a74475fcceeb) [## 贝叶斯思维在日常生活中的重要性
-
-### 这个简单的思维转变将帮助你更好地理解你周围不确定的世界
-
-towardsdatascience.com](/on-the-importance-of-bayesian-thinking-in-everyday-life-a74475fcceeb) [](/8-tips-for-object-oriented-programming-in-python-3e98b767ae79) [## Python 中面向对象编程的 8 个技巧
-
-### 按照以下步骤让您的 Python 类防弹
-
-towardsdatascience.com](/8-tips-for-object-oriented-programming-in-python-3e98b767ae79)
+[](/reducing-pipeline-debt-with-great-expectations-f1afddbfdc0b)  [](/on-the-importance-of-bayesian-thinking-in-everyday-life-a74475fcceeb)  [](/8-tips-for-object-oriented-programming-in-python-3e98b767ae79) 

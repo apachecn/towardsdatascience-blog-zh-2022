@@ -71,19 +71,7 @@ fi}
 
 亲爱的读者，非常感谢你花时间和精力阅读我的文章。
 
-[](/build-a-django-crud-app-by-using-class-based-views-12bc69d36ab6) [## 使用基于类的视图构建 Django CRUD 应用程序
-
-### 是的，对姜戈来说就是这么简单和快速
-
-towardsdatascience.com](/build-a-django-crud-app-by-using-class-based-views-12bc69d36ab6) [](/django-first-steps-for-the-total-beginners-a-quick-tutorial-5f1e5e7e9a8c) [## Django 初学者的第一步:快速教程
-
-### 了解如何在 Django 应用程序中嵌入 Plotly 图形，以及其他主题
-
-towardsdatascience.com](/django-first-steps-for-the-total-beginners-a-quick-tutorial-5f1e5e7e9a8c) [](https://medium.com/analytics-vidhya/python-and-openpyxl-gather-thousands-of-excel-workbooks-into-a-single-file-eff4e8c9b514) [## Python 和 Openpyxl:将数千个 Excel 工作簿收集到一个文件中
-
-### 使用 Python 成为电子表格向导！
-
-medium.com](https://medium.com/analytics-vidhya/python-and-openpyxl-gather-thousands-of-excel-workbooks-into-a-single-file-eff4e8c9b514) 
+[](/build-a-django-crud-app-by-using-class-based-views-12bc69d36ab6)  [](/django-first-steps-for-the-total-beginners-a-quick-tutorial-5f1e5e7e9a8c)  [](https://medium.com/analytics-vidhya/python-and-openpyxl-gather-thousands-of-excel-workbooks-into-a-single-file-eff4e8c9b514)  
 
 我有很多关于 Python 和 Django 的文章。如果你喜欢这篇文章，[可以考虑在媒体](https://fabriciusbr.medium.com/)上关注我，并在我发表新文章后订阅接收媒体通知。
 

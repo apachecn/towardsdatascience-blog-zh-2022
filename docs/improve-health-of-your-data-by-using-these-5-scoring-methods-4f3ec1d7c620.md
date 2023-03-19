@@ -34,11 +34,7 @@ DQ 无疑是数据的一个重要方面；然而，除了简单地提高其质�
 
 这些都是 DQ 常见的问题，在自助式数据服务成为现实之前，应该先解决这些问题。关于这一点，我已经写了很多；参见下面的文章。
 
-[](/apply-data-quality-checks-at-these-5-points-in-your-data-journey-b80c59fd7758) [## 在数据之旅的这 5 个点上应用数据质量检查
-
-### 通过在旅程中应用这些检查来提高数据质量
-
-towardsdatascience.com](/apply-data-quality-checks-at-these-5-points-in-your-data-journey-b80c59fd7758) 
+[](/apply-data-quality-checks-at-these-5-points-in-your-data-journey-b80c59fd7758)  
 
 ## 4.数据保护得如何？
 
@@ -66,11 +62,7 @@ towardsdatascience.com](/apply-data-quality-checks-at-these-5-points-in-your-dat
 
 如果您想在您的数据之旅中了解更多关于 DQ 的信息，请查看这篇文章:
 
-[](/top-15-most-common-data-quality-issues-and-how-to-fix-them-c1ef0854dca6) [## 15 个最常见的数据质量问题(以及如何解决它们)
-
-### 处理常见数据质量问题的提示和技巧
-
-towardsdatascience.com](/top-15-most-common-data-quality-issues-and-how-to-fix-them-c1ef0854dca6) 
+[](/top-15-most-common-data-quality-issues-and-how-to-fix-them-c1ef0854dca6)  
 
 如果你没有订阅 Medium，可以考虑使用我的推荐链接订阅[。它比网飞便宜，而且客观上能更好地利用你的时间。](https://hanzalaqureshi.medium.com/membership)如果你使用我的链接，我会获得一小笔佣金，而你可以在 Medium 上获得无限的故事。
 

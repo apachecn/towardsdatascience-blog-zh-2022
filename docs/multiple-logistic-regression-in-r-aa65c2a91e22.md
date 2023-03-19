@@ -30,11 +30,7 @@ MADEG 数据[图片由作者提供]
 
 在之前的多元逻辑回归文章中(链接如下)，
 
-[](/simple-logistic-regression-for-dichotomous-variables-in-r-8befbe3e95b4) [## R 中二分变量的简单 Logistic 回归
-
-### R 系列中的统计
-
-towardsdatascience.com](/simple-logistic-regression-for-dichotomous-variables-in-r-8befbe3e95b4) 
+[](/simple-logistic-regression-for-dichotomous-variables-in-r-8befbe3e95b4)  
 
 我们试图回答以下问题。
 
@@ -97,12 +93,4 @@ R 中的输出窗口[图片由作者提供]
 
 感谢阅读。
 
-[](https://mdsohel-mahmood.medium.com/membership) [## 用我的推荐链接加入媒体
-
-### 阅读 Md Sohel Mahmood(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接…
-
-mdsohel-mahmood.medium.com](https://mdsohel-mahmood.medium.com/membership) [](https://mdsohel-mahmood.medium.com/subscribe) [## 每当 Md Sohel Mahmood 发表文章时，都会收到一封电子邮件。
-
-### 每当 Md Sohel Mahmood 发表文章时，都会收到一封电子邮件。通过注册，您将创建一个中型帐户，如果您还没有…
-
-mdsohel-mahmood.medium.com](https://mdsohel-mahmood.medium.com/subscribe)
+[](https://mdsohel-mahmood.medium.com/membership)  [](https://mdsohel-mahmood.medium.com/subscribe) 

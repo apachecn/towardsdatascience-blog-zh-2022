@@ -16,19 +16,11 @@
 
 今天，我们将学习 SHAP 是如何工作的，以及如何在实践中使用它来完成经典的 ML 任务。
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-BEXGBoost
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。支持我的工作，给我买一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+[](https://ibexorigin.medium.com/membership)  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex) [## 阿尔法信号|机器学习的极品。艾总结的。
-
-### 留在循环中，不用花无数时间浏览下一个突破；我们的算法识别…
-
-alphasignal.ai](https://alphasignal.ai/?referrer=Bex) 
+[](https://alphasignal.ai/?referrer=Bex)  
 
 # 什么是 SHAP 和沙普利值？
 
@@ -144,11 +136,7 @@ SHAP(SHapley Additive exPlanations)是一个 Python 包，基于 2016 年 NIPS �
 
 我们看到，随着克拉的增加，它对模型的影响越来越积极。对于`y`特性也是如此。`x`和`z`的特征有点复杂，中心周围有一簇混合的点。
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-bex boost
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。你可以给我买一个 coffee☕，用你的…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+[](https://ibexorigin.medium.com/membership)  
 
 # 用依赖图探索每个特性
 
@@ -266,30 +254,10 @@ SHAP 值和沙普利值最奇妙的属性之一是它们能够准确地找到特
 
 现在，你可以走到你的老板面前说:“这是我最好的模型，这是为什么它是最好的以及它是如何工作的解释！”希望你得到的回应会积极得多。感谢您的阅读！
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-bex boost
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。你可以给我买一个 coffee☕，用你的…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) [](https://ibexorigin.medium.com/subscribe) [## 每当 BEXBoost 发布时收到电子邮件。
-
-### 每当 BEXBoost 发布时收到电子邮件。通过注册，您将创建一个中型帐户，如果您还没有…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/subscribe) 
+[](https://ibexorigin.medium.com/membership)  [](https://ibexorigin.medium.com/subscribe)  
 
 # 您可能也会对…感兴趣
 
-[](/3-step-feature-selection-guide-in-sklearn-to-superchage-your-models-e994aa50c6d2) [## Sklearn 中的 3 步功能选择指南，让您的模型焕然一新
+[](/3-step-feature-selection-guide-in-sklearn-to-superchage-your-models-e994aa50c6d2)  [](/how-to-use-umap-for-much-faster-and-effective-outlier-detection-e4608f336915)  [](/comprehensive-guide-to-deploying-any-ml-model-as-apis-with-python-and-aws-lambda-b441d257f1ec) [## 使用 Python 和 AWS Lambda 将任何 ML 模型部署为 API 的综合指南
 
-### 为任何受监督的问题开发一个健壮的特征选择工作流
-
-towardsdatascience.com](/3-step-feature-selection-guide-in-sklearn-to-superchage-your-models-e994aa50c6d2) [](/how-to-use-umap-for-much-faster-and-effective-outlier-detection-e4608f336915) [## 如何使用 UMAP 进行更快更有效的异常检测
-
-### 让我们抓住那些高维离群值
-
-towardsdatascience.com](/how-to-use-umap-for-much-faster-and-effective-outlier-detection-e4608f336915) [](/comprehensive-guide-to-deploying-any-ml-model-as-apis-with-python-and-aws-lambda-b441d257f1ec) [## 使用 Python 和 AWS Lambda 将任何 ML 模型部署为 API 的综合指南
-
-towardsdatascience.com](/comprehensive-guide-to-deploying-any-ml-model-as-apis-with-python-and-aws-lambda-b441d257f1ec) [](/25-advanced-pandas-functions-people-are-using-without-telling-you-b65fa442f0f4) [## 人们在不告诉你的情况下使用的 25 种先进的熊猫功能
-
-### ExcelWriter，因式分解，分解，挤压，T，遮罩，idxmax，剪辑，…
-
-towardsdatascience.com](/25-advanced-pandas-functions-people-are-using-without-telling-you-b65fa442f0f4)
+towardsdatascience.com](/comprehensive-guide-to-deploying-any-ml-model-as-apis-with-python-and-aws-lambda-b441d257f1ec) [](/25-advanced-pandas-functions-people-are-using-without-telling-you-b65fa442f0f4) 

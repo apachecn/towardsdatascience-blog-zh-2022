@@ -54,16 +54,4 @@ Python 的 Try Except 功能通过定义一个精确描述如何处理异常的�
 
 *如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！另外，媒体允许你每月免费阅读* ***3 篇文章*** *。如果你想让***无限制地访问我的文章和数以千计的精彩文章，请不要犹豫，通过点击我的推荐链接:*[https://medium.com/@niklas_lang/membership](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格***
 
-**[](/5-basic-commands-for-working-with-python-lists-3088e57bace6) [## 使用 Python 列表的 5 个基本命令
-
-### 让您了解 Python 列表的特征以及如何处理它们
-
-towardsdatascience.com](/5-basic-commands-for-working-with-python-lists-3088e57bace6) [](/6-fundamental-questions-when-working-with-a-pandas-series-1d142b5fba4e) [## 使用熊猫系列时的 6 个基本问题
-
-### 了解熊猫系列的特点
-
-towardsdatascience.com](/6-fundamental-questions-when-working-with-a-pandas-series-1d142b5fba4e) [](/6-pandas-dataframe-tasks-anyone-learning-python-should-know-1aadce307d26) [## 6 熊猫数据框架任务任何学习 Python 的人都应该知道
-
-### 确保你能够在 Pandas 中完成以下任务
-
-towardsdatascience.com](/6-pandas-dataframe-tasks-anyone-learning-python-should-know-1aadce307d26)**
+**[](/5-basic-commands-for-working-with-python-lists-3088e57bace6)  [](/6-fundamental-questions-when-working-with-a-pandas-series-1d142b5fba4e)  [](/6-pandas-dataframe-tasks-anyone-learning-python-should-know-1aadce307d26) **

@@ -16,11 +16,7 @@ Fuzzing 是作为 Go 1.18 中标准库的一部分发布的。这是一种很酷
 
 在我们开始之前，你需要确保你运行的至少是 Go 1.18，你可以在我对 1.18 的修改中看到如何安装它。
 
-[](https://medium.com/@percybolmer/go-1-18-comes-with-many-amazing-changes-d33ac0afd6ee) [## Go 1.18 带来了许多惊人的变化
-
-### 期待已久的 Go 1.18 即将到来，它可能是很长一段时间以来讨论最多的 Go 更新…
-
-medium.com](https://medium.com/@percybolmer/go-1-18-comes-with-many-amazing-changes-d33ac0afd6ee) 
+[](https://medium.com/@percybolmer/go-1-18-comes-with-many-amazing-changes-d33ac0afd6ee)  
 
 这篇关于编程的文章的视频格式是 Youtube
 
@@ -176,8 +172,4 @@ go test fuzz v1[]byte("{\"vAlues\":[50]}")
 
 如果你想了解更多关于 Go 1.18 的变化，你可以在我的另一篇文章中阅读如何使用新的泛型。
 
-[](https://medium.com/@percybolmer/learning-generics-in-go-318f53752ccd) [## 在围棋中学习泛型
-
-### 泛型在更新 1.18(将于 2022 年 2 月发布)中推出，带有一系列其他闪亮的新功能。你可以…
-
-medium.com](https://medium.com/@percybolmer/learning-generics-in-go-318f53752ccd)
+[](https://medium.com/@percybolmer/learning-generics-in-go-318f53752ccd) 

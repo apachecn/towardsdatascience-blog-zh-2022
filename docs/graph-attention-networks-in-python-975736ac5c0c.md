@@ -238,12 +238,4 @@ Wall time: **55.9 s**
 
 # 相关文章
 
-[](/introduction-to-graphsage-in-python-a9e7f9ecf9d7) [## Python 中的 GraphSAGE 简介
-
-### 将图形神经网络扩展到数十亿个连接
-
-towardsdatascience.com](/introduction-to-graphsage-in-python-a9e7f9ecf9d7) [](/how-to-design-the-most-powerful-graph-neural-network-3d18b07a6e66) [## 如何设计最强大的图形神经网络
-
-### 基于图同构网络的图分类
-
-towardsdatascience.com](/how-to-design-the-most-powerful-graph-neural-network-3d18b07a6e66)
+[](/introduction-to-graphsage-in-python-a9e7f9ecf9d7)  [](/how-to-design-the-most-powerful-graph-neural-network-3d18b07a6e66) 

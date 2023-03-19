@@ -116,24 +116,8 @@ sudo hostname -s 127.0.0.1
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读媒体上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership) 
+[](https://gmyrianthous.medium.com/membership)  
 
 **相关文章你可能也喜欢**
 
-[](/how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3) [## 加快 PySpark 和 Pandas 数据帧之间的转换
-
-### 将大火花数据帧转换为熊猫时节省时间
-
-towardsdatascience.com](/how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3) [](/sparksession-vs-sparkcontext-vs-sqlcontext-vs-hivecontext-741d50c9486a) [## spark session vs spark context vs SQLContext vs hive context
-
-### SparkSession、SparkContext HiveContext 和 SQLContext 有什么区别？
-
-towardsdatascience.com](/sparksession-vs-sparkcontext-vs-sqlcontext-vs-hivecontext-741d50c9486a) [](/apache-spark-3-0-the-five-most-exciting-new-features-99c771a1f512) [## Apache Spark 3.0:5 个最激动人心的新特性
-
-### Apache Spark 3.0 新版本中最激动人心的 5 个特性
-
-towardsdatascience.com](/apache-spark-3-0-the-five-most-exciting-new-features-99c771a1f512)
+[](/how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3)  [](/sparksession-vs-sparkcontext-vs-sqlcontext-vs-hivecontext-741d50c9486a)  [](/apache-spark-3-0-the-five-most-exciting-new-features-99c771a1f512) 

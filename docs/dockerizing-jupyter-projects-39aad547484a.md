@@ -22,11 +22,7 @@ Docker 是一个虚拟化工具，比[虚拟机](https://www.youtube.com/watch?v
 
 如果您对 Docker 完全陌生，请按照这里的说明安装它
 
-[](https://docs.docker.com/get-docker/) [## 获取码头工人
-
-### 更新 Docker 桌面术语 Docker 桌面在大型组织中的专业使用(超过 250 名员工…
-
-docs.docker.com](https://docs.docker.com/get-docker/) 
+[](https://docs.docker.com/get-docker/)  
 
 # 基本图像
 
@@ -377,11 +373,7 @@ localhost:8888/lab?token=docker
 
 首先，在 Docker Hub 上创建一个帐户
 
- [## Docker Hub 容器图像库|应用容器化
-
-### 编辑描述
-
-hub.docker.com](https://hub.docker.com/) 
+  
 
 当您构建映像时，它必须符合以下命名约定，以便推送至 docker hub:
 
@@ -421,8 +413,4 @@ docker push docker_ID/image_name:tag
 
 感谢您阅读和支持媒体作家
 
-[](https://lukegloege.medium.com/membership) [## 通过我的推荐链接加入 Medium-Luke Gloege 博士
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-lukegloege.medium.com](https://lukegloege.medium.com/membership)
+[](https://lukegloege.medium.com/membership) 

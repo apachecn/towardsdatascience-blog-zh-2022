@@ -99,36 +99,4 @@
 
 # **进一步阅读**
 
-**[](https://amplify.nabshow.com/articles/ic-smaller-smarter-data-needed-to-train-and-scale-ai/) [## 训练和扩展 AI - NAB Amplify 所需的数据更小、更智能
-
-### 目前训练成功的人工智能模型的方法是向它投掷大量数据集，但这在视频方面遇到了障碍。的…
-
-amplify.nabshow.com](https://amplify.nabshow.com/articles/ic-smaller-smarter-data-needed-to-train-and-scale-ai/)  [## NeurIPS 以数据为中心的人工智能研讨会
-
-### ML 社区在为 AI 系统构建和使用数据集方面有着良好的记录。但是这种努力通常…
-
-datacentricai.org](https://datacentricai.org/neurips21/) [](https://www.forbes.com/sites/gilpress/2021/06/16/andrew-ng-launches-a-campaign-for-data-centric-ai/?sh=69763abc74f5) [## 吴恩达发起以数据为中心的人工智能运动
-
-### 数据正在吞噬世界，因此吴恩达希望确保我们从根本上提高数据质量。“数据是人工智能的食物，”说…
-
-www.forbes.com](https://www.forbes.com/sites/gilpress/2021/06/16/andrew-ng-launches-a-campaign-for-data-centric-ai/?sh=69763abc74f5) [](https://fortune.com/2022/06/21/andrew-ng-data-centric-ai/) [## 深度学习先驱 ng 说，这是关于更好的数据，而不是大数据
-
-### 吴恩达是深度学习的先驱之一——在人工智能中使用大型神经网络。他也是最…
-
-fortune.com](https://fortune.com/2022/06/21/andrew-ng-data-centric-ai/) [](https://mitsloan.mit.edu/ideas-made-to-matter/why-its-time-data-centric-artificial-intelligence) [## 为什么是“以数据为中心的人工智能”的时候了
-
-### 在过去的 10 年里，人工智能取得了巨大的发展。消费互联网公司聚集了…
-
-mitsloan.mit.edu](https://mitsloan.mit.edu/ideas-made-to-matter/why-its-time-data-centric-artificial-intelligence) [](https://spectrum.ieee.org/andrew-ng-data-centric-ai) [## 吴恩达:告别了，大数据
-
-### 谷歌大脑联合创始人和落地人工智能创始人吴恩达已经成为他所谓的以数据为中心的人工智能的传播者
-
-spectrum.ieee.org](https://spectrum.ieee.org/andrew-ng-data-centric-ai) [](https://www.techopedia.com/what-is-data-centric-ai-and-why-do-we-need-it/2/34756) [## 以数据为中心与以模型为中心的人工智能:改进算法的关键
-
-### 如今，无论我们想要构建什么样的人工智能(AI)项目，我们都需要两个主要因素:大量的…
-
-www.techopedia.com](https://www.techopedia.com/what-is-data-centric-ai-and-why-do-we-need-it/2/34756)  [## 小数据-维基百科
-
-### 小数据是“小”到足以让人理解的数据。正是数据的容量和格式使其…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Small_data)**
+**[](https://amplify.nabshow.com/articles/ic-smaller-smarter-data-needed-to-train-and-scale-ai/)    [](https://www.forbes.com/sites/gilpress/2021/06/16/andrew-ng-launches-a-campaign-for-data-centric-ai/?sh=69763abc74f5)  [](https://fortune.com/2022/06/21/andrew-ng-data-centric-ai/)  [](https://mitsloan.mit.edu/ideas-made-to-matter/why-its-time-data-centric-artificial-intelligence)  [](https://spectrum.ieee.org/andrew-ng-data-centric-ai)  [](https://www.techopedia.com/what-is-data-centric-ai-and-why-do-we-need-it/2/34756)   **

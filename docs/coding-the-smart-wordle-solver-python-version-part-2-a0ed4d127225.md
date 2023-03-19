@@ -197,8 +197,4 @@ HashMap<String, Integer> mapVariable = new HashMap<String, Integer>();***
 
 *你可以在下面的 [***资源***](https://github.com/cardstdani/practica-java) 中看到整个 Google Colab 笔记本:*
 
-*[](https://github.com/cardstdani/practica-java) [## GitHub-cardstani/practica-Java
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/cardstdani/practica-java)*
+*[](https://github.com/cardstdani/practica-java) *

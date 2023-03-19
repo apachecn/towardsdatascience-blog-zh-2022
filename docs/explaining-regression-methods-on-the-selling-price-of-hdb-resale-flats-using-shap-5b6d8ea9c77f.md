@@ -14,11 +14,7 @@
 
 在我的上一篇文章中，我使用线性回归预测了从 1990 年 1 月到 2021 年 4 月 HDB 转售公寓的销售价格。如果你还没有看完，请在继续这篇文章之前看完，因为他们是同一个宇宙的一部分(*抱歉释放了我内心的 MCU 粉丝灵魂*)。
 
-[](/predict-the-selling-price-of-hdb-resale-flats-50530391a845) [## 预测 HDB 转售公寓的售价
-
-### 进行线性回归以预测 1990 年 1 月至 2021 年 4 月 HDB 转售单位的售价
-
-towardsdatascience.com](/predict-the-selling-price-of-hdb-resale-flats-50530391a845) 
+[](/predict-the-selling-price-of-hdb-resale-flats-50530391a845)  
 
 这一次，我使用 SHAP 来测试和解释不同的回归模型——**虚拟回归变量**(基线回归模型)**线性回归**和**随机森林回归变量**——根据以下标准预测 1990 年 1 月至 2022 年 1 月 HDB 转售公寓的销售价格:
 

@@ -166,16 +166,4 @@ Take away 4。如果`target`在`array`中不存在，那么`lo`显示的是**目
 
 以下是一些训练问题:
 
-[](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) [## 查找大于目标的最小字母- LeetCode
-
-### 给定一个按非降序排序的字符数组字母和一个字符目标，返回最小的…
-
-leetcode.com](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) [](https://leetcode.com/problems/sqrtx/) [## Sqrt(x) - LeetCode
-
-### 给定一个非负整数 x，计算并返回 x 的平方根。因为返回类型是整数，所以…
-
-leetcode.com](https://leetcode.com/problems/sqrtx/) [](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) [## 在旋转排序数组中查找最小值- LeetCode
-
-### 假设按升序排序的长度为 n 的数组被旋转 1 到 n 次。例如，数组 nums =…
-
-leetcode.com](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+[](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)  [](https://leetcode.com/problems/sqrtx/)  [](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) 

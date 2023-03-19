@@ -132,15 +132,7 @@ Scikit-learn 有一个被称为[管道](https://medium.com/vickdata/a-simple-gui
 
 关于 Scikit-learn 的更多文章，请参见我之前的帖子。
 
-[](/a-beginners-guide-to-scikit-learn-14b7e51d71a4) [## Scikit 初学者指南-学习
-
-### 开始使用排名第一的 python 机器学习库
-
-towardsdatascience.com](/a-beginners-guide-to-scikit-learn-14b7e51d71a4) [](/10-things-you-didnt-know-about-scikit-learn-cccc94c50e4f) [## 关于 Scikit 你不知道的 10 件事-了解
-
-### …直到现在
-
-towardsdatascience.com](/10-things-you-didnt-know-about-scikit-learn-cccc94c50e4f) 
+[](/a-beginners-guide-to-scikit-learn-14b7e51d71a4)  [](/10-things-you-didnt-know-about-scikit-learn-cccc94c50e4f)  
 
 感谢阅读！
 

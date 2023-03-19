@@ -146,12 +146,4 @@ fund_2.on_change('value', update)
 
 感谢您阅读我的文章。欢迎所有反馈。我总是渴望学习新的或更好的做事方法。请随时留下您的评论或联系我 katyhagerty19@gmail.com。
 
-[](https://medium.com/@katyhagerty19/bokeh-interactive-plotting-part-2-316f8d58f476) [## 散景互动图:第二部分
-
-### 如何构建自定义交互式散景应用程序
-
-medium.com](https://medium.com/@katyhagerty19/bokeh-interactive-plotting-part-2-316f8d58f476) [](https://medium.com/@katyhagerty19/membership) [## 加入我的介绍链接媒体-凯蒂哈格蒂
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@katyhagerty19/membership)
+[](https://medium.com/@katyhagerty19/bokeh-interactive-plotting-part-2-316f8d58f476)  [](https://medium.com/@katyhagerty19/membership) 

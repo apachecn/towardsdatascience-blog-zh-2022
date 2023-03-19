@@ -65,19 +65,11 @@
 
 他们将足以跟随。
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-BEXGBoost
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。支持我的工作，给我买一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+[](https://ibexorigin.medium.com/membership)  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex) [## 阿尔法信号|机器学习的极品。艾总结的。
-
-### 留在循环中，不用花无数时间浏览下一个突破；我们的算法识别…
-
-alphasignal.ai](https://alphasignal.ai/?referrer=Bex) 
+[](https://alphasignal.ai/?referrer=Bex)  
 
 ## MLflow 测井实验基础
 
@@ -231,16 +223,8 @@ MLflow 确实记录了提交散列，但是所有 MLflow 运行都将自己附�
 
 **您可以使用下面的链接成为高级媒体会员，并访问我的所有故事和数以千计的其他故事:**
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium。
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+[](https://ibexorigin.medium.com/membership)  
 
 **或者订阅我的邮件列表:**
 
-[](https://ibexorigin.medium.com/subscribe) [## 每当 Bex T .发布时收到电子邮件。
-
-### 每当 Bex T .发布时收到电子邮件。注册后，如果您还没有中型帐户，您将创建一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/subscribe)
+[](https://ibexorigin.medium.com/subscribe) 

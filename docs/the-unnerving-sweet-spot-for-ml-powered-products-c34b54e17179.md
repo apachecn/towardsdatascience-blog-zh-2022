@@ -14,21 +14,13 @@
 
 将您的模型与您的核心业务逻辑放在一起是必须的，因为您尝试不同的想法，并且希望从一个信任的测试人员圈子中获得快速反馈，但是当在生产中部署时，这是不够的。
 
-[](/keep-your-ml-models-out-of-your-application-servers-9fe58f9c91a5) [## 让您的 ML 模型远离您的应用服务器
-
-### 如何将一个有前途的 ML 模型变成一个有用的 ML 驱动的产品
-
-towardsdatascience.com](/keep-your-ml-models-out-of-your-application-servers-9fe58f9c91a5) 
+[](/keep-your-ml-models-out-of-your-application-servers-9fe58f9c91a5)  
 
 我们讨论的第一个解决方案是一个非常简单的技术，它允许我们将模型从 web 服务器中分离出来。我们仔细研究了数据库中的模型解决方案，适合这种方法的用例，以及它的优缺点。
 
 数据库中的模型方法实现起来很简单，但是它的范围有限。它也导致陈旧的模型，并不总是为我们的用户提供有价值的服务。
 
-[](/pull-your-ml-model-out-of-your-server-the-database-solution-a00b212f5e0d) [## 将您的 ML 模型从服务器中拉出:数据库解决方案
-
-### 何时将模型放入数据库，如何放置，为什么
-
-towardsdatascience.com](/pull-your-ml-model-out-of-your-server-the-database-solution-a00b212f5e0d) 
+[](/pull-your-ml-model-out-of-your-server-the-database-solution-a00b212f5e0d)  
 
 那么，我们如何解决前面两种方法所面临的问题呢？这个故事研究了最常见的架构设计:如何将您的模型放在它自己的推理服务器中。
 

@@ -136,11 +136,7 @@ pip install pandas
 
 请登录查看
 
-[](https://pycaret.org/) [## 主页- PyCaret
-
-### 有了 PyCaret，你就不用离开笔记本了。训练你的模型，分析它，以前所未有的速度迭代，并且…
-
-pycaret.org](https://pycaret.org/) 
+[](https://pycaret.org/)  
 
 # *敬请期待！*
 

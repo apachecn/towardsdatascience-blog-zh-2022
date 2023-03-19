@@ -150,11 +150,7 @@ Flask 服务器(作者截图)
 
 ## 其他资源和结论
 
-[](https://github.com/RamVegiraju/ML-FlaskApp-Docker) [## GitHub-RamVegiraju/ML-FlaskApp-Docker:托管 ML 模型的 Dockerize Flask 应用程序
-
-### 托管您的 ML 模型的 Dockerize Flask 应用程序。为 RamVegiraju/ML-FlaskApp-Docker 开发做出贡献，创建…
-
-github.com](https://github.com/RamVegiraju/ML-FlaskApp-Docker) 
+[](https://github.com/RamVegiraju/ML-FlaskApp-Docker)  
 
 您可以通过上面的链接访问示例的完整代码。我希望通过这篇文章，您对在生产类型环境中部署模型有了更深的理解。关于了解 ML 模型托管的更多内容，请查看我的 [MLFlow](/mlflow-model-serving-bcd936d59052) 和 [SageMaker](https://ram-vegiraju.medium.com/list/amazon-sagemaker-f1b06f720fba) 系列。如果你有兴趣学习更多关于容器的知识，Stephen Grider 在 Udemy 上有一个很棒的课程，可以帮助你从头开始。
 

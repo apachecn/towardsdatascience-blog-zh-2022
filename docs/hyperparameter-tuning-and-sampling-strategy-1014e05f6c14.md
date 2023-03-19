@@ -14,19 +14,11 @@
 
 选择[欺诈检测数据集](https://www.openml.org/search?type=data&sort=runs&id=1597&status=active)进行实验，该数据集 [CC 许可](https://creativecommons.org/licenses/by/4.0/)并可从 [OpenML 平台](https://www.openml.org/)访问。数据集有 31 个特征:其中 28 个特征(V1 到 V28)是数字特征，使用 PCA 进行转换以保持机密性；“时间”描述了每个事务经过的秒数；“金额”表示交易金额；“类别”表示交易是否是欺诈性的。数据非常不平衡，因为所有交易中只有 0.172%是欺诈性的。
 
- [## OpenML
-
-### OpenML 是一个共享数据集、算法和实验的开放平台——一起学习如何更好地学习。
-
-www.openml.org](https://www.openml.org/search?type=data&sort=runs&id=1597&status=active) 
+  
 
 为了确定最佳采样率，我们需要建立一个机器学习管道。许多数据爱好者更喜欢 scikit-learn 的管道，因为它提供了一种建立机器学习管道的简单方法。然而，欠采样和过采样不能使用常规 sklearn 流水线来完成，因为采样将在*拟合*和*变换*方法期间发生。这可以通过不平衡学习(imblearn)库实现的[管道类来弥补。imblearn 的流水线确保重采样只发生在*拟合*方法期间。](https://imbalanced-learn.org/stable/references/generated/imblearn.pipeline.Pipeline.html)
 
-[](https://imbalanced-learn.org/stable/references/generated/imblearn.pipeline.Pipeline.html) [## 管道-版本 0.9.1
-
-### 编辑描述
-
-imbalanced-learn.org](https://imbalanced-learn.org/stable/references/generated/imblearn.pipeline.Pipeline.html) 
+[](https://imbalanced-learn.org/stable/references/generated/imblearn.pipeline.Pipeline.html)  
 
 首先，我们将加载数据。然后，从数据中获取特征和标签，并创建训练测试分割，因此测试分割可用于评估使用训练分割训练的模型的性能。
 

@@ -78,11 +78,7 @@ SageMaker 端点已创建(作者截图)
 
 ## 其他资源和结论
 
-[](https://github.com/RamVegiraju/cloudformation-sagemaker-ep) [## GitHub-RamVegiraju/cloudformation-sage maker-EP:使用 cloud formation 部署 SM 端点
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/RamVegiraju/cloudformation-sagemaker-ep) 
+[](https://github.com/RamVegiraju/cloudformation-sagemaker-ep)  
 
 您可以在上面的链接中找到示例的完整代码。AWS CloudFormation 是一个非常强大的工具，它使得在一个中央模板中捕获您的 AWS 资源变得非常容易。没有作为代码的基础设施，在软件生命周期中迭代变得非常困难，这也适用于 ML 服务，如 SageMaker。我希望这篇文章对那些对 SageMaker、CloudFormation 和 AWS 感兴趣的人有用。
 

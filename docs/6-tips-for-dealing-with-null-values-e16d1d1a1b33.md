@@ -321,28 +321,4 @@ dtype: int64
 
 ## 更多阅读
 
-[](https://pub.towardsai.net/how-to-create-and-use-multi-index-dataframe-to-scale-up-your-data-analysis-fa80ed025d42) [## 如何创建和使用多索引数据框架来扩展您的数据分析
-
-### 多索引数据帧的详细信息:创建、切片、索引和分析
-
-pub.towardsai.net](https://pub.towardsai.net/how-to-create-and-use-multi-index-dataframe-to-scale-up-your-data-analysis-fa80ed025d42) [](/animated-and-racing-bar-plots-tutorial-7967a45c4753) [## 动画和赛车酒吧情节教程
-
-### 完整的工作代码
-
-towardsdatascience.com](/animated-and-racing-bar-plots-tutorial-7967a45c4753) [](https://pub.towardsai.net/an-overview-of-the-major-sql-query-clauses-and-most-commonly-used-functions-60720e2a20d7) [## SQL 查询子句和函数概述
-
-### 可以用作 SQL 的备忘单
-
-pub.towardsai.net](https://pub.towardsai.net/an-overview-of-the-major-sql-query-clauses-and-most-commonly-used-functions-60720e2a20d7) [](/regression-in-tensorflow-using-both-sequential-and-function-apis-314e74b537ca) [## TensorFlow 中使用顺序 API 和函数 API 的回归
-
-### 演示几种不同类型的模型结构
-
-towardsdatascience.com](/regression-in-tensorflow-using-both-sequential-and-function-apis-314e74b537ca) [](https://pub.towardsai.net/data-analysis-91a38207c92b) [## 数据分析
-
-### Python 中数据科学家/分析师日常工作中的常见数据清理任务
-
-pub.towardsai.net](https://pub.towardsai.net/data-analysis-91a38207c92b) [](/simple-explanation-on-how-decision-tree-algorithm-makes-decisions-34f56be344e9) [## 浅谈决策树算法如何决策
-
-### 决策树算法背后的直觉
-
-towardsdatascience.com](/simple-explanation-on-how-decision-tree-algorithm-makes-decisions-34f56be344e9)
+[](https://pub.towardsai.net/how-to-create-and-use-multi-index-dataframe-to-scale-up-your-data-analysis-fa80ed025d42)  [](/animated-and-racing-bar-plots-tutorial-7967a45c4753)  [](https://pub.towardsai.net/an-overview-of-the-major-sql-query-clauses-and-most-commonly-used-functions-60720e2a20d7)  [](/regression-in-tensorflow-using-both-sequential-and-function-apis-314e74b537ca)  [](https://pub.towardsai.net/data-analysis-91a38207c92b)  [](/simple-explanation-on-how-decision-tree-algorithm-makes-decisions-34f56be344e9) 

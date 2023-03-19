@@ -28,11 +28,7 @@
 
 此外，您可以从 GitHub 资源库下载本教程中使用的数据子集以及笔记本:
 
-[](https://github.com/andymcdgeo/Andys_YouTube_Notebooks) [## GitHub-andymcdgeo/Andys _ YouTube _ Notebooks
-
-### 你在这里看到的所有笔记本都在我的 YouTube 频道上展示过，可以通过下面的链接查看…
-
-github.com](https://github.com/andymcdgeo/Andys_YouTube_Notebooks) 
+[](https://github.com/andymcdgeo/Andys_YouTube_Notebooks)  
 
 # Seaborn Pairplot 视频教程
 

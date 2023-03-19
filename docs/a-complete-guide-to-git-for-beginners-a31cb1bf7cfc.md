@@ -286,24 +286,4 @@ Git 是一个非常有用的工具，所有数据科学家和软件工程师都�
 
 这是一篇高度概括的文章，总结了在《走向数据科学》中已经发表的其他几篇文章。有关这些主题的详细解释，请访问以下链接:
 
-[](/mastering-git-merge-and-rebase-f2a7c5c348a9) [## 掌握 Git:合并和重建基础
-
-### 它们是什么，如何使用它们？
-
-towardsdatascience.com](/mastering-git-merge-and-rebase-f2a7c5c348a9) [](/mastering-git-reset-v-revert-12701108a451) [## 掌握 Git:重置 v 还原
-
-### 你应该使用哪一个，为什么？
-
-towardsdatascience.com](/mastering-git-reset-v-revert-12701108a451) [](/mastering-git-git-cherry-pick-fbeb23eea04d) [## 掌握 Git: Git 精选
-
-### 如何将单个提交精选到您当前的分支
-
-towardsdatascience.com](/mastering-git-git-cherry-pick-fbeb23eea04d) [](/mastering-git-amending-commits-f46c2afc9508) [## 掌握 Git:修改提交
-
-### 如何使用 git amend 更改您之前的提交
-
-towardsdatascience.com](/mastering-git-amending-commits-f46c2afc9508) [](/mastering-git-git-stash-cf4042dca068) [## 掌握 Git:“Git stash”
-
-### 如何使用 git stash 来存储您不准备提交的更改
-
-towardsdatascience.com](/mastering-git-git-stash-cf4042dca068)
+[](/mastering-git-merge-and-rebase-f2a7c5c348a9)  [](/mastering-git-reset-v-revert-12701108a451)  [](/mastering-git-git-cherry-pick-fbeb23eea04d)  [](/mastering-git-amending-commits-f46c2afc9508)  [](/mastering-git-git-stash-cf4042dca068) 

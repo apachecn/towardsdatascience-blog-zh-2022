@@ -10,11 +10,7 @@
 
 如果您还没有，我建议您阅读本系列的第一部分。这是一篇研究论文的文献综述，我们将在本文中尝试用代码实现它。下面的文章我已经链接了。
 
-[](/mining-modelling-character-networks-part-i-e37e4878c467) [## 挖掘和模拟字符网络——第一部分
-
-### 图论研究论文讨论
-
-towardsdatascience.com](/mining-modelling-character-networks-part-i-e37e4878c467) 
+[](/mining-modelling-character-networks-part-i-e37e4878c467)  
 
 我深入研究了挖掘字符的文本数据的 Python 实现，创建了基于字符交互的字符网络，并通过 Chung-Lu 模型对这些字符网络建模。所有这些概念之前都在 Bonato 等人的“*挖掘和建模人物网络*”和“*提取和分析虚构人物网络:调查*”、Labatut 和 Bost [2]中讨论过。
 
@@ -149,20 +145,4 @@ known_dct = {
 
 *如果你喜欢这篇文章，这里还有一些你可能会喜欢的:*
 
-*[](/recommendation-systems-explained-a42fc60591ed) [## 推荐系统解释
-
-### 用 Python 解释和实现基于内容的协同过滤和混合推荐系统
-
-towardsdatascience.com](/recommendation-systems-explained-a42fc60591ed) [](/dimensionality-reduction-explained-5ae45ae3058e) [## 解释了降维
-
-### 用 Python 解释和实现 PCA
-
-towardsdatascience.com](/dimensionality-reduction-explained-5ae45ae3058e) [](/random-walks-with-restart-explained-77c3fe216bca) [## 带重启的随机漫步解释
-
-### 理解带重启的随机游走算法及其在 Python 中的相关实现
-
-towardsdatascience.com](/random-walks-with-restart-explained-77c3fe216bca) [](/frequentist-a-b-testing-explained-90b9ce8c28b9) [## Frequentist A/B 测试说明
-
-### 本文将解释 A/B 测试的 frequentist 方法，并提供一个何时以及如何…
-
-towardsdatascience.com](/frequentist-a-b-testing-explained-90b9ce8c28b9)*
+*[](/recommendation-systems-explained-a42fc60591ed)  [](/dimensionality-reduction-explained-5ae45ae3058e)  [](/random-walks-with-restart-explained-77c3fe216bca)  [](/frequentist-a-b-testing-explained-90b9ce8c28b9) *

@@ -68,12 +68,4 @@ W.H. Greene (2012 年):计量经济学分析，第 7 版，皮尔森教育。
 
 T.Hastie，R. Tibshirani 和 J. Friedman (2009):统计学习的要素，第二版，Springer Science+Business Media。
 
-[](https://pub.towardsai.net/how-to-choose-your-loss-function-where-i-disagree-with-cassie-kozyrkov-2038d19b5e0a) [## 如何选择你的损失函数——我不同意凯西·科兹尔科夫的观点
-
-### 选择正确的损失函数和评估指标对于数据科学项目的成功至关重要。但是…
-
-pub.towardsai.net](https://pub.towardsai.net/how-to-choose-your-loss-function-where-i-disagree-with-cassie-kozyrkov-2038d19b5e0a) [](https://medium.com/@christian_leschinski/why-you-should-not-try-to-predict-stock-markets-3f7d291b1a29) [## 为什么你不应该试图预测股票市场
-
-### 我遇到过数量惊人的人，他们试图在某个时候建立一个交易算法。这就是为什么…
-
-中等。](https://medium.com/@christian_leschinski/why-you-should-not-try-to-predict-stock-markets-3f7d291b1a29)
+[](https://pub.towardsai.net/how-to-choose-your-loss-function-where-i-disagree-with-cassie-kozyrkov-2038d19b5e0a)  [](https://medium.com/@christian_leschinski/why-you-should-not-try-to-predict-stock-markets-3f7d291b1a29) 

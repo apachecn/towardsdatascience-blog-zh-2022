@@ -148,8 +148,4 @@
 
 我希望你也能从中汲取一些价值，把它们放在你的书架上，对你的职业成长之旅会像它们对我一样有价值。有其他推荐补充吗？写在评论里吧！
 
-[](https://medium.com/membership/@ivopbernardo) [## 通过我的推荐链接加入 Medium-Ivo Bernardo
-
-### 阅读我在 Medium 上的所有故事，了解更多关于数据科学和分析的信息。加入中级会员，您将…
-
-medium.com](https://medium.com/membership/@ivopbernardo)
+[](https://medium.com/membership/@ivopbernardo) 

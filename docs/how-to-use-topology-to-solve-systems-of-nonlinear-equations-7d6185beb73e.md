@@ -47,11 +47,7 @@
 
 仅满足 *x₂ = 0* 或 *x₂ = 1* 。既然从第二个等式我们不能得到 *x₂ = 0* ，那么 *x₂* 一定是 *1* 。反过来，我们也得到了 *x₁* 是 *1* 。所以，我们要的解是 *x** = [ *1，1* ]。
 
-[](/an-efficient-hybrid-algorithm-to-solve-nonlinear-least-squares-problems-262801bcfe25) [## 将两个优化器结合起来，形成一个训练模型的强大方法
-
-### 当 Levenberg-Marquardt 遇到准牛顿。是的，我们用 Python 从头开始构建它！
-
-towardsdatascience.com](/an-efficient-hybrid-algorithm-to-solve-nonlinear-least-squares-problems-262801bcfe25) 
+[](/an-efficient-hybrid-algorithm-to-solve-nonlinear-least-squares-problems-262801bcfe25)  
 
 # 同伦方法
 

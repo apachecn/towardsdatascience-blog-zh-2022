@@ -193,19 +193,7 @@ boosting_params = {
 
 如果你觉得这很有趣，我鼓励你看看我用另一种土生土长的方法对 M4 比赛的另一种看法:[百里香增强。](https://github.com/tblume1992/ThymeBoost)
 
-[](/the-m4-time-series-forecasting-competition-with-thymeboost-b31196fc319) [## 用百里香增强软件进行 M4 时间序列预测竞赛
-
-### 第 1 部分:每周数据集
-
-towardsdatascience.com](/the-m4-time-series-forecasting-competition-with-thymeboost-b31196fc319) [](/thymeboost-a0529353bf34) [## 用百里香增强进行时间序列预测
-
-### 一种梯度增强的时间序列分解方法
-
-towardsdatascience.com](/thymeboost-a0529353bf34) [](/gradient-boosted-arima-for-time-series-forecasting-e093f80772f6) [## 时间序列预测的梯度增强 ARIMA
-
-### 提升 PmdArima 的 Auto-Arima 性能
-
-towardsdatascience.com](/gradient-boosted-arima-for-time-series-forecasting-e093f80772f6) 
+[](/the-m4-time-series-forecasting-competition-with-thymeboost-b31196fc319)  [](/thymeboost-a0529353bf34)  [](/gradient-boosted-arima-for-time-series-forecasting-e093f80772f6)  
 
 **参考文献:**
 

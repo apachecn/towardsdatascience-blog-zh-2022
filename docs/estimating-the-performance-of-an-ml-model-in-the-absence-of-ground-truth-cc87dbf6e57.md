@@ -204,19 +204,7 @@ FN    0.60
 
 您可能还会对以下内容感兴趣:
 
-[](/pyscript-unleash-the-power-of-python-in-your-browser-6e0123c6dc3f) [## PyScript——在浏览器中释放 Python 的威力
-
-### 如何从 HTML 代码中运行 Python
-
-towardsdatascience.com](/pyscript-unleash-the-power-of-python-in-your-browser-6e0123c6dc3f) [](/pandas-is-not-enough-a-comprehensive-guide-to-alternative-data-wrangling-solutions-a4730ba8d0e4) [## 熊猫还不够？替代数据争论解决方案的全面指南
-
-### 包括达斯克、摩丁、polars、Vaex、Terality 等 6 人
-
-towardsdatascience.com](/pandas-is-not-enough-a-comprehensive-guide-to-alternative-data-wrangling-solutions-a4730ba8d0e4) [](/explaining-feature-importance-by-example-of-a-random-forest-d9166011959e) [## 以随机森林为例解释特征的重要性
-
-### 了解 Python 中最流行的确定要素重要性的方法
-
-towardsdatascience.com](/explaining-feature-importance-by-example-of-a-random-forest-d9166011959e) 
+[](/pyscript-unleash-the-power-of-python-in-your-browser-6e0123c6dc3f)  [](/pandas-is-not-enough-a-comprehensive-guide-to-alternative-data-wrangling-solutions-a4730ba8d0e4)  [](/explaining-feature-importance-by-example-of-a-random-forest-d9166011959e)  
 
 # 参考
 

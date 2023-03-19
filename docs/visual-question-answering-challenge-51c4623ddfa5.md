@@ -60,16 +60,4 @@ VQA 数据集中包含的所有图像都来自经许可在 CC 下发布的 [MS C
 
 **下面是一些你可能会喜欢的帖子**
 
-**[](/how-to-do-data-labeling-versioning-and-management-for-ml-ba0345e7988) [## 如何为 ML 做数据标记、版本控制和管理
-
-### 丰富食品数据集的案例研究
-
-towardsdatascience.com](/how-to-do-data-labeling-versioning-and-management-for-ml-ba0345e7988) [](/adapting-a-sentiment-analysis-model-to-a-custom-domain-62ec386516bc) [## 使情感分析模型适应定制领域
-
-### 我们的实验发现和你尝试模型的机会
-
-towardsdatascience.com](/adapting-a-sentiment-analysis-model-to-a-custom-domain-62ec386516bc) [](/jupyter-notebook-autocompletion-f291008c66c) [## Jupyter 笔记本自动完成
-
-### 数据科学家的最佳生产力工具，如果您还没有使用它，您应该使用它…
-
-towardsdatascience.com](/jupyter-notebook-autocompletion-f291008c66c)**
+**[](/how-to-do-data-labeling-versioning-and-management-for-ml-ba0345e7988)  [](/adapting-a-sentiment-analysis-model-to-a-custom-domain-62ec386516bc)  [](/jupyter-notebook-autocompletion-f291008c66c) **

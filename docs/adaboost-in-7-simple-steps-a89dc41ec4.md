@@ -63,19 +63,11 @@ AdaBoost 可以与几种机器学习算法结合使用。在这种情况下，�
 
 我在这里描述了用于回归任务的决策树和随机森林的工作原理:
 
-[](/7-of-the-most-commonly-used-regression-algorithms-and-how-to-choose-the-right-one-fc3c8890f9e3) [## 7 种最常用的回归算法以及如何选择正确的算法
-
-### 线性和多项式回归、RANSAC、决策树、随机森林、高斯过程和支持向量回归
-
-towardsdatascience.com](/7-of-the-most-commonly-used-regression-algorithms-and-how-to-choose-the-right-one-fc3c8890f9e3) 
+[](/7-of-the-most-commonly-used-regression-algorithms-and-how-to-choose-the-right-one-fc3c8890f9e3)  
 
 如果您对如何使用决策树执行异常检测任务感兴趣，您可以在此处找到对 ***隔离林*** 的介绍:
 
-[](/a-comprehensive-beginners-guide-to-the-diverse-field-of-anomaly-detection-8c818d153995) [## 异常检测多样化领域的初学者综合指南
-
-### 隔离森林，局部异常因子，一类 SVM，自动编码器，稳健协方差估计和时间序列…
-
-towardsdatascience.com](/a-comprehensive-beginners-guide-to-the-diverse-field-of-anomaly-detection-8c818d153995) 
+[](/a-comprehensive-beginners-guide-to-the-diverse-field-of-anomaly-detection-8c818d153995)  
 
 现在，我们试图找到在预测输出变量方面表现最佳的第一个决策树桩。为此，我们遵循与学习决策树相同的过程。第一步，我们确定数据集中最有可能区分高于和低于 50k 收入的特征。
 

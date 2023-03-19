@@ -165,16 +165,4 @@ import random fake=Faker()*
 
 # ***你可能也会喜欢***
 
-*[](/3-nanodegrees-you-should-consider-to-advance-your-data-engineering-career-in-2021-baf597debc72) [## 3 门数据工程课程，在 2022 年推进您的职业发展
-
-### 加入数据行业，改变角色或通过注册数据工程简单地学习前沿技术…
-
-towardsdatascience.com](/3-nanodegrees-you-should-consider-to-advance-your-data-engineering-career-in-2021-baf597debc72) [](/pyflink-how-to-create-a-table-from-a-csv-source-ca4851a71d0c) [## 如何从一个 CSV 源文件创建一个表格
-
-### 在关于 Apache Flink 的第一篇教程中，学习如何使用 Python 表将数据从 CSV 源导入到表中…
-
-towardsdatascience.com](/pyflink-how-to-create-a-table-from-a-csv-source-ca4851a71d0c) [](/3-ways-to-create-tables-with-apache-spark-32aed0f355ab) [## 用 Apache Spark 创建表格的 3 种方法
-
-### 学习如何用 PySpark 构建托管和非托管表，以及如何在您的项目中有效地使用它们
-
-towardsdatascience.com](/3-ways-to-create-tables-with-apache-spark-32aed0f355ab)*
+*[](/3-nanodegrees-you-should-consider-to-advance-your-data-engineering-career-in-2021-baf597debc72)  [](/pyflink-how-to-create-a-table-from-a-csv-source-ca4851a71d0c)  [](/3-ways-to-create-tables-with-apache-spark-32aed0f355ab) *

@@ -48,11 +48,7 @@
 
 用于生成上述图的完整代码可以在我的 GitHub 上找到，如下所示:
 
-[](https://github.com/egorhowell/Medium-Articles/blob/main/Data%20Science%20Basics/Precision_Recall.ipynb) [## Medium-Articles/Precision _ recall . ipynb at main egorhowell/Medium-Articles
-
-### 我在我的媒体博客/文章中使用的代码。通过创建一个关于…的帐户，为 egorhowell/Medium-Articles 的开发做出贡献
-
-github.com](https://github.com/egorhowell/Medium-Articles/blob/main/Data%20Science%20Basics/Precision_Recall.ipynb) 
+[](https://github.com/egorhowell/Medium-Articles/blob/main/Data%20Science%20Basics/Precision_Recall.ipynb)  
 
 # 精确
 
@@ -110,11 +106,7 @@ github.com](https://github.com/egorhowell/Medium-Articles/blob/main/Data%20Scien
 
 生成上述图形的完整代码可以在我的 GitHub 中找到:
 
-[](https://github.com/egorhowell/Medium-Articles/blob/main/Data%20Science%20Basics/Precision_Recall.ipynb) [## Medium-Articles/Precision _ recall . ipynb at main egorhowell/Medium-Articles
-
-### 我在我的媒体博客/文章中使用的代码。通过创建一个关于…的帐户，为 egorhowell/Medium-Articles 的开发做出贡献
-
-github.com](https://github.com/egorhowell/Medium-Articles/blob/main/Data%20Science%20Basics/Precision_Recall.ipynb) 
+[](https://github.com/egorhowell/Medium-Articles/blob/main/Data%20Science%20Basics/Precision_Recall.ipynb)  
 
 在上图中，我们看到当阈值较低时，召回率为 1，而当阈值较高时，精确度为 1。此外，请注意当回忆开始减少时，F1 分数如何显著下降，这表明调和平均值如何惩罚极值。
 

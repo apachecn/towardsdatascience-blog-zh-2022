@@ -195,16 +195,8 @@ Solution vector: [8.0829203 4.2638071]
 
 相应的代码存储在这里:
 
-[](https://github.com/pierrelouisbescond/medium_articles/blob/main/medium_optimize.ipynb) [## medium _ articles/medium _ optimize . ipynb 位于 main pierrelouisscond/medium _ articles
-
-### 一个 repo 来存储我在我的 Medium articles-Medium _ articles/Medium _ optimize . ipynb 中共享的代码，位于 main …
-
-github.com](https://github.com/pierrelouisbescond/medium_articles/blob/main/medium_optimize.ipynb) 
+[](https://github.com/pierrelouisbescond/medium_articles/blob/main/medium_optimize.ipynb)  
 
 请不要犹豫，浏览我在 Medium 上的其他文章:
 
-[](https://pl-bescond.medium.com/pierre-louis-besconds-articles-on-medium-f6632a6895ad) [## 皮埃尔-路易·贝斯康德关于媒介的文章
-
-### 数据科学、机器学习和创新
-
-pl-bescond.medium.com](https://pl-bescond.medium.com/pierre-louis-besconds-articles-on-medium-f6632a6895ad)
+[](https://pl-bescond.medium.com/pierre-louis-besconds-articles-on-medium-f6632a6895ad) 

@@ -30,11 +30,7 @@ LinkedIn 几乎花了一整天来准备你的摘录。值得等待。一旦您�
 
 我之前使用这个数据来显示`pd.crosstab()`和`pd.pivot_table()`之间的差异。
 
-[](/crosstab-or-pivot-table-in-pandas-deciding-when-to-use-which-a8ee3a9adfd0) [## 交叉表或数据透视表(在 Pandas 中)决定何时使用哪个
-
-### 交叉制表和数据透视表之间的选择可能会令人困惑
-
-towardsdatascience.com](/crosstab-or-pivot-table-in-pandas-deciding-when-to-use-which-a8ee3a9adfd0) 
+[](/crosstab-or-pivot-table-in-pandas-deciding-when-to-use-which-a8ee3a9adfd0)  
 
 # LinkedIn 的数据
 

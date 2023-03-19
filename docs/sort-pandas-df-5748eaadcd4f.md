@@ -167,22 +167,10 @@ import pandas as pd df = pd.DataFrame(
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership) 
+[](https://gmyrianthous.medium.com/membership)  
 
 **相关文章您可能也喜欢**
 
-[](/how-to-merge-pandas-dataframes-221e49c41bec) [## 如何合并熊猫数据帧
+[](/how-to-merge-pandas-dataframes-221e49c41bec)  [](/loc-vs-iloc-in-pandas-92fc125ed8eb) [## 熊猫中的 loc 与 iloc
 
-### 对熊猫数据帧执行左、右、内和反连接
-
-towardsdatascience.com](/how-to-merge-pandas-dataframes-221e49c41bec) [](/loc-vs-iloc-in-pandas-92fc125ed8eb) [## 熊猫中的 loc 与 iloc
-
-towardsdatascience.com](/loc-vs-iloc-in-pandas-92fc125ed8eb) [](/how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3) [## 加快 PySpark 和 Pandas 数据帧之间的转换
-
-### 将大型 Spark 数据帧转换为熊猫时节省时间
-
-towardsdatascience.com](/how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3)
+towardsdatascience.com](/loc-vs-iloc-in-pandas-92fc125ed8eb) [](/how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3) 

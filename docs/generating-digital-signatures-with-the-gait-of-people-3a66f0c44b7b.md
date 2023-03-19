@@ -132,16 +132,8 @@
 
 如果你想看看这个实验中使用的代码，你可以在这个 GitHub 库中找到它。
 
-[](https://github.com/Prasad9/GaitDetection) [## GitHub-Prasad 9/gait 检测:
-
-### 代码存储库通过人们的行走方式来识别他们…
-
-github.com](https://github.com/Prasad9/GaitDetection) 
+[](https://github.com/Prasad9/GaitDetection)  
 
 你也可以看看我们以前的文章，解释高斯混合模型和期望最大化的算法。
 
-[](/demystifying-gaussian-mixture-models-and-expectation-maximization-a66575deaea6) [## 揭秘高斯混合模型和期望最大化
-
-### 以简化的方式解释高斯混合模型及其期望最大化的基本算法
-
-towardsdatascience.com](/demystifying-gaussian-mixture-models-and-expectation-maximization-a66575deaea6)
+[](/demystifying-gaussian-mixture-models-and-expectation-maximization-a66575deaea6) 

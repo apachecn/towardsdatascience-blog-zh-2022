@@ -56,19 +56,7 @@ julia> [@btime](http://twitter.com/btime) fibonacci(30)
 
 > 想看看朱莉娅的其他作品吗？别害羞，跟我来😅
 
-[](/build-your-first-neural-network-with-flux-jl-in-julia-10ebdfcf2fa3) [## 在 Julia 中用 Flux.jl 构建你的第一个神经网络
-
-### 没有任何外部数据的初学者教程
-
-towardsdatascience.com](/build-your-first-neural-network-with-flux-jl-in-julia-10ebdfcf2fa3) [](https://blog.devgenius.io/make-a-command-line-game-with-julia-a408057adcfe) [## 和 Julia 一起做一个命令行游戏
-
-### 没有图形用户界面的 2048 游戏
-
-blog.devgenius.io](https://blog.devgenius.io/make-a-command-line-game-with-julia-a408057adcfe) [](/jupyter-notebooks-can-be-a-pain-but-i-️-pluto-f47913c5c16d) [## 朱庇特笔记本可能是一种痛苦，但我❤️布鲁托
-
-### 朱莉娅的 Pluto.jl 将使教育变得更好
-
-towardsdatascience.com](/jupyter-notebooks-can-be-a-pain-but-i-️-pluto-f47913c5c16d) 
+[](/build-your-first-neural-network-with-flux-jl-in-julia-10ebdfcf2fa3)  [](https://blog.devgenius.io/make-a-command-line-game-with-julia-a408057adcfe)  [](/jupyter-notebooks-can-be-a-pain-but-i-️-pluto-f47913c5c16d)  
 
 # 保持天真
 
@@ -181,15 +169,7 @@ julia> [@btime](http://twitter.com/btime) fib(30)
 
 想要更多的斐波纳契还是渴望更多的茱莉亚？看看这些:
 
-[](/fibonacci-series-with-user-defined-functions-in-bigquery-f72e3e360ce6) [## BigQuery 中的斐波那契数列
-
-### 在 BigQuery 中使用用户定义的 JavaScript 函数来计算 Fibonacci
-
-towardsdatascience.com](/fibonacci-series-with-user-defined-functions-in-bigquery-f72e3e360ce6) [](/vectorize-everything-with-julia-ad04a1696944) [## 向量化朱莉娅的一切
-
-### 告别 for loops，广播所有的东西
-
-towardsdatascience.com](/vectorize-everything-with-julia-ad04a1696944) 
+[](/fibonacci-series-with-user-defined-functions-in-bigquery-f72e3e360ce6)  [](/vectorize-everything-with-julia-ad04a1696944)  
 
 # 摘要
 

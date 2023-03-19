@@ -173,12 +173,4 @@ n 上的最小化消失了，因为 w 不依赖于 n。
 
 ## 你可能喜欢的其他文章
 
-[](/kernel-methods-a-simple-introduction-4a26dcbe4ebd) [## 内核方法:简单介绍
-
-### 核方法和径向基函数的基础
-
-towardsdatascience.com](/kernel-methods-a-simple-introduction-4a26dcbe4ebd) [](/unsupervised-learning-k-means-clustering-6fd72393573c) [## 无监督学习:K-均值聚类
-
-### k-均值聚类直观解释
-
-towardsdatascience.com](/unsupervised-learning-k-means-clustering-6fd72393573c)
+[](/kernel-methods-a-simple-introduction-4a26dcbe4ebd)  [](/unsupervised-learning-k-means-clustering-6fd72393573c) 

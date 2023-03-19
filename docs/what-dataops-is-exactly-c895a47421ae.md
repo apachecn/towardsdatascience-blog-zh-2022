@@ -117,19 +117,7 @@ DataOps 方法对任何公司来说都是一个强大的工具，值得花时间
 
 # 相关文章
 
-[](/how-to-run-a-data-science-project-in-a-docker-container-2ab1a3baa889) [## 如何在 Docker 容器中运行数据科学项目
-
-### 关于如何将数据科学项目包装在 Docker 映像中并在 Docker 中运行的一些技巧和实际例子…
-
-towardsdatascience.com](/how-to-run-a-data-science-project-in-a-docker-container-2ab1a3baa889) [](/model-evaluation-in-scikit-learn-abce32ee4a99) [## Scikit-learn 中的模型评估
-
-### 关于如何使用 scikit-learn 计算最常见的回归和分类指标的教程。
-
-towardsdatascience.com](/model-evaluation-in-scikit-learn-abce32ee4a99) [](/how-to-build-a-web-app-with-data-ingested-through-versatile-data-kit-ddae43b5f62d) [## 如何使用通过多功能数据工具包获取的数据构建 Web 应用程序
-
-### 关于如何构建 Web 应用程序的分步教程，结合了 Streamlit Python 库和通用数据…
-
-towardsdatascience.com](/how-to-build-a-web-app-with-data-ingested-through-versatile-data-kit-ddae43b5f62d) 
+[](/how-to-run-a-data-science-project-in-a-docker-container-2ab1a3baa889)  [](/model-evaluation-in-scikit-learn-abce32ee4a99)  [](/how-to-build-a-web-app-with-data-ingested-through-versatile-data-kit-ddae43b5f62d)  
 
 # DevOps 和 MLOps 是一回事吗？
 

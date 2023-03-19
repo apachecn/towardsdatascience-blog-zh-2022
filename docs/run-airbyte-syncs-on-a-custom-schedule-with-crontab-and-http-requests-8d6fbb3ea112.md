@@ -48,10 +48,6 @@ Airbyte 中的每个工作区都有多个源、多个目的地和多个连接，
 
 也可以在 [**GitHub**](https://github.com/isaacharrisholt/) 上找我或者在 [**LinkedIn**](https://www.linkedin.com/in/isaac-harris-holt/) 上联系我！我喜欢写我的项目，所以你可能也想在 [**Medium**](https://isaacharrisholt.medium.com/) 上关注我。
 
-[](/parsing-qif-files-to-retrieve-financial-data-with-python-f599cc0d8c03) [## 使用 Python 解析 QIF 文件以检索金融数据
-
-### Quiffen 包的基本概述以及它如此有用的原因
-
-towardsdatascience.com](/parsing-qif-files-to-retrieve-financial-data-with-python-f599cc0d8c03) 
+[](/parsing-qif-files-to-retrieve-financial-data-with-python-f599cc0d8c03)  
 
 ***这一条就这么多了！我希望你喜欢它，任何反馈都非常感谢！***

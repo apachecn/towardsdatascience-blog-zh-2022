@@ -278,16 +278,8 @@ Spearman 等级相关系数和本帖中介绍的各种方法的实际与预测�
 
 要了解如何比较图像之间的相似性，请阅读下面的帖子。
 
-[](/powering-semantic-similarity-search-in-computer-vision-with-state-of-the-art-embeddings-f6c183fff134) [## 用最先进的嵌入技术支持计算机视觉中的语义相似性搜索
-
-### 执行图像到图像和文本到图像相似性搜索的最简单方法
-
-towardsdatascience.com](/powering-semantic-similarity-search-in-computer-vision-with-state-of-the-art-embeddings-f6c183fff134) 
+[](/powering-semantic-similarity-search-in-computer-vision-with-state-of-the-art-embeddings-f6c183fff134)  
 
 请阅读下面的帖子，了解如何在产品中部署文本图像多模态搜索引擎。
 
-[](https://blog.milvus.io/supercharged-semantic-similarity-search-in-production-f2a3c35c4e00) [## 生产中的超级语义相似性搜索
-
-### 利用剪辑嵌入和 Milvus 实现超高速、高度可扩展的文本到图像搜索
-
-blog.milvus.io](https://blog.milvus.io/supercharged-semantic-similarity-search-in-production-f2a3c35c4e00)
+[](https://blog.milvus.io/supercharged-semantic-similarity-search-in-production-f2a3c35c4e00) 

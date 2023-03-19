@@ -51,16 +51,4 @@ Python 中的四种基本数据类型是:
 
 *如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！此外，媒体允许你每月免费阅读三篇文章***。如果你想让***无限制地访问我的文章和数以千计的精彩文章，不要犹豫，通过点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$ ***5*** 获得会员资格***
 
-**[](/an-introduction-to-tensorflow-fa5b17051f6b) [## 张量流简介
-
-### 了解机器学习框架、其架构以及与 PyTorch 的比较
-
-towardsdatascience.com](/an-introduction-to-tensorflow-fa5b17051f6b) [](/why-do-we-use-xml-in-data-science-99a730c46adb) [## 为什么我们在数据科学中使用 XML？
-
-### 学习 XML 的基础知识以及如何在 Python 中处理它
-
-towardsdatascience.com](/why-do-we-use-xml-in-data-science-99a730c46adb) [](/redis-in-memory-data-store-easily-explained-3b92457be424) [## Redis:内存数据存储很容易解释
-
-### 了解基于键值的 NoSQL 数据存储
-
-towardsdatascience.com](/redis-in-memory-data-store-easily-explained-3b92457be424)**
+**[](/an-introduction-to-tensorflow-fa5b17051f6b)  [](/why-do-we-use-xml-in-data-science-99a730c46adb)  [](/redis-in-memory-data-store-easily-explained-3b92457be424) **

@@ -46,11 +46,7 @@ z-检验是医学和数据科学等领域中最常见的统计检验，因此是
 
 > 这个临界值基于**置信区间**，你可以在我之前的文章中读到:
 
-[](/confidence-intervals-simply-explained-58b0b11e985f) [## 简单解释了置信区间
-
-### 置信区间的简明解释。
-
-towardsdatascience.com](/confidence-intervals-simply-explained-58b0b11e985f) 
+[](/confidence-intervals-simply-explained-58b0b11e985f)  
 
 *   使用样本平均值、 ***μ_1*** 、总体平均值、 ***μ_0*** 、样本中的数据点数、 ***n*** 和总体的标准差、***【σ***计算 **Z 检验统计量:**
 

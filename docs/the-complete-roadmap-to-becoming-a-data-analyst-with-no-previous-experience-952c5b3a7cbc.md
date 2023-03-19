@@ -54,19 +54,7 @@
 
 **你可以用来更新数学技能的资源:**
 
-[](https://www.khanacademy.org/math/algebra) [## 代数 1 |数学|可汗学院
-
-### 代数 1 课程通常在九年级讲授，包括线性方程、不等式、函数和图形…
-
-www.khanacademy.org](https://www.khanacademy.org/math/algebra) [](https://www.khanacademy.org/math/algebra2) [## 代数 2 |数学|可汗学院
-
-### 通常在 11 年级讲授的代数 2 课程涵盖了多项式；复数；有理指数…
-
-www.khanacademy.org](https://www.khanacademy.org/math/algebra2) [](https://www.khanacademy.org/math/ap-statistics) [## 美联社︎统计|学院统计|可汗学院
-
-### 如果您看到此消息，这意味着我们在网站上加载外部资源时遇到了问题。如果你是…
-
-www.khanacademy.org](https://www.khanacademy.org/math/ap-statistics) 
+[](https://www.khanacademy.org/math/algebra)  [](https://www.khanacademy.org/math/algebra2)  [](https://www.khanacademy.org/math/ap-statistics)  
 
 **阶段目标结束:**
 
@@ -128,15 +116,7 @@ Tableau 是数据分析师创建可视化最常用的工具之一，学习它的
 
 **帮助您开始构建数据分析组合的资源:**
 
-[](https://careerfoundry.com/en/blog/data-analytics/data-analytics-portfolio-project-ideas/) [## 数据分析产品组合的 9 个项目创意[2022]
-
-### 为您的数据分析组合寻找项目可能会很棘手，尤其是当您是该领域的新手时。你可能会…
-
-careerfoundry.com](https://careerfoundry.com/en/blog/data-analytics/data-analytics-portfolio-project-ideas/)  [## 查找开放数据集和机器学习项目| Kaggle
-
-### 下载数千个项目的开放数据集+在一个平台上共享项目。探索热门话题，如政府…
-
-www.kaggle.com](https://www.kaggle.com/datasets) 
+[](https://careerfoundry.com/en/blog/data-analytics/data-analytics-portfolio-project-ideas/)    
 
 **阶段目标结束:**
 
@@ -158,23 +138,7 @@ www.kaggle.com](https://www.kaggle.com/datasets)
 
 **让你为社交、求职和技术面试做好准备的资源:**
 
-[](https://www.anaconda.com/blog/networking-in-tech-find-your-dream-data-science-job) [## 科技网络:找到你梦想的数据科学工作
-
-### 这篇博客是基于我们的高级数据科学家 Sophia Yang 和她在技术网络方面的个人经验而写的…
-
-www.anaconda.com](https://www.anaconda.com/blog/networking-in-tech-find-your-dream-data-science-job) [](https://www.indeed.com/career-advice/finding-a-job/completing-job-application-to-get-an-interview) [## 完成求职申请以获得面试的 10 个技巧
-
-### 由 Indeed 编辑团队更新 2021 年 2 月 11 日发布 2019 年 12 月 12 日相关:在线工作申请:什么…
-
-www.indeed.com](https://www.indeed.com/career-advice/finding-a-job/completing-job-application-to-get-an-interview) [](https://www.simplilearn.com/tutorials/data-analytics-tutorial/data-analyst-interview-questions) [## 60 强数据分析师面试问答[2022]
-
-### 以下是 60 大数据分析师面试问题和答案，将帮助您准备下一次面试…
-
-www.simplilearn.com](https://www.simplilearn.com/tutorials/data-analytics-tutorial/data-analyst-interview-questions) [](https://www.hackerrank.com/interview/preparation-kits) [## 准备套件| HackerRank
-
-### 使用面试准备套件为即将到来的编程面试做准备
-
-www.hackerrank.com](https://www.hackerrank.com/interview/preparation-kits) 
+[](https://www.anaconda.com/blog/networking-in-tech-find-your-dream-data-science-job)  [](https://www.indeed.com/career-advice/finding-a-job/completing-job-application-to-get-an-interview)  [](https://www.simplilearn.com/tutorials/data-analytics-tutorial/data-analyst-interview-questions)  [](https://www.hackerrank.com/interview/preparation-kits)  
 
 **阶段目标结束:**
 

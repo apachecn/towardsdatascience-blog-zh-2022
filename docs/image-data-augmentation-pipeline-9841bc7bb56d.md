@@ -27,11 +27,7 @@
 
 在许多情况下，收集数据是一项昂贵的任务。你可能需要为设备、权限付费，更不用说在收集后给它们贴标签了。
 
-[](/is-deep-learning-right-for-you-b59a2219c457) [## 如何评价深度学习是否适合自己？
-
-### 可能不会！在浪费时间之前，这里是你需要知道的
-
-towardsdatascience.com](/is-deep-learning-right-for-you-b59a2219c457) 
+[](/is-deep-learning-right-for-you-b59a2219c457)  
 
 以医学图像分类问题为例。对于如何收集医疗保健数据，T4 有法律限制。而在收集之后，要给它们贴上标签，就需要医生等熟练专业人士的专业知识。
 
@@ -55,11 +51,7 @@ pip install -U albumentations
 
 我们用不同的技术转换了基础图像。在许多照片中，我们结合使用了不止一种技术。通过继续这个过程，我们可以生成大量的数据点。
 
-[](/transfer-learning-in-deep-learning-641089950f5d) [## 迁移学习:你能学到的最有效的深度学习技能。
-
-### 迁移学习是一种加速深度学习训练的惊人方法。它有助于解决复杂的问题…
-
-towardsdatascience.com](/transfer-learning-in-deep-learning-641089950f5d) 
+[](/transfer-learning-in-deep-learning-641089950f5d)  
 
 # 使用白蛋白创建图像增强管道。
 
@@ -85,11 +77,7 @@ towardsdatascience.com](/transfer-learning-in-deep-learning-641089950f5d)
 
 蛋白沉积有几十个这样的转变。你可以从他们的 [API 文档](https://albumentations.ai/docs/getting_started/transforms_and_targets/)中了解更多细节。
 
-[](/the-prefect-way-to-automate-orchestrate-data-pipelines-d4465638bac2) [## 自动化和编排数据管道的完美方式
-
-### 我正在将我所有的 ETL 工作从 Airflow 迁移到这个超级酷的框架中
-
-towardsdatascience.com](/the-prefect-way-to-automate-orchestrate-data-pipelines-d4465638bac2) 
+[](/the-prefect-way-to-automate-orchestrate-data-pipelines-d4465638bac2)  
 
 # 如何创建带注释的扩充数据？
 
@@ -115,11 +103,7 @@ towardsdatascience.com](/the-prefect-way-to-automate-orchestrate-data-pipelines-
 
 变换后，对象的位置发生了变化。然而，管道已经正确地找到了它的新位置。
 
-[](/how-to-speed-up-python-data-pipelines-up-to-91x-80d7accfe7ec) [## 如何将 Python 数据管道加速到 91X？
-
-### 一个 5 分钟的教程可以为您的大数据项目节省数月时间。
-
-towardsdatascience.com](/how-to-speed-up-python-data-pipelines-up-to-91x-80d7accfe7ec) 
+[](/how-to-speed-up-python-data-pipelines-up-to-91x-80d7accfe7ec)  
 
 # 最终想法
 
@@ -129,15 +113,7 @@ towardsdatascience.com](/how-to-speed-up-python-data-pipelines-up-to-91x-80d7acc
 
 这篇文章简要介绍了我们可以用这个 Python 库做什么。我希望下次你训练机器学习模型时，你会用它来提高准确性，而不用考虑进一步的数据收集。
 
-[](/3-ways-to-deploy-machine-learning-models-in-production-cdba15b00e) [## 在生产中部署机器学习模型的 3 种方式
-
-### 部署 ML 模型，并使它们对用户或项目的其他组件可用。
-
-towardsdatascience.com](/3-ways-to-deploy-machine-learning-models-in-production-cdba15b00e) [](/5-python-gui-frameworks-to-create-desktop-web-and-even-mobile-apps-c25f1bcfb561) [## 5 Python GUI 框架来创建桌面、Web 甚至移动应用程序。
-
-### 你可以纯粹用 Python 来构建漂亮的应用程序。
-
-towardsdatascience.com](/5-python-gui-frameworks-to-create-desktop-web-and-even-mobile-apps-c25f1bcfb561) 
+[](/3-ways-to-deploy-machine-learning-models-in-production-cdba15b00e)  [](/5-python-gui-frameworks-to-create-desktop-web-and-even-mobile-apps-c25f1bcfb561)  
 
 > 感谢阅读，朋友！在[**LinkedIn**](https://www.linkedin.com/in/thuwarakesh/)[**Twitter**](https://twitter.com/Thuwarakesh)[**Medium**](https://thuwarakesh.medium.com/)上跟我打招呼。
 > 

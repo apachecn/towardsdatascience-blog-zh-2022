@@ -12,11 +12,7 @@
 
 我最近写了一篇关于如何使用 HTML 将动态文本、图像、网络链接或表格插入到叶子弹出窗口中的文章。在我看来，允许用户将 HTML 网页和可视化作为标记在地图上传递，是 leav 最大的优势之一，并为使地图更具交互性和信息量开辟了无限的可能性。
 
-[](/use-html-in-folium-maps-a-comprehensive-guide-for-data-scientists-3af10baf9190) [## 在树叶地图中使用 HTML:数据科学家综合指南
-
-### 逐步了解如何使用 HTML 将动态图像、链接、文本和表格添加到叶子地图弹出窗口
-
-towardsdatascience.com](/use-html-in-folium-maps-a-comprehensive-guide-for-data-scientists-3af10baf9190) 
+[](/use-html-in-folium-maps-a-comprehensive-guide-for-data-scientists-3af10baf9190)  
 
 在前面提到的[文章](/use-html-in-folium-maps-a-comprehensive-guide-for-data-scientists-3af10baf9190)的最后，我们谈到了将交互式 Plotly 图表作为 HTML 传递给 leav map markers 的可能性。在这篇文章中，我将向您展示如何使用 for-loop 和 HTML iframe 在 follow 地图弹出窗口中嵌入交互式 Plotly 图表。这是一个非常实用的编码和数据可视化项目，可以提升您的 Python、Plotly 和 Folium 技能。
 
@@ -66,11 +62,7 @@ towardsdatascience.com](/use-html-in-folium-maps-a-comprehensive-guide-for-data-
 
 如果你是 Plotly 的新手，你可以阅读下面这篇[文章](/leap-from-matplotlib-to-plotly-a-hands-on-tutorial-for-beginners-d208cd9e6522)来学习 Plotly 和 Plotly Graph_Objects 的基础知识。通过这样做，你将有更容易的时间跟踪和理解接下来的代码！
 
-[](/leap-from-matplotlib-to-plotly-a-hands-on-tutorial-for-beginners-d208cd9e6522) [## 从 Matplotlib 到 Plotly 的飞跃:初学者实践教程
-
-### 如何使用 Plotly 创建带有自定义工具提示和范围滑块的交互式组合图
-
-towardsdatascience.com](/leap-from-matplotlib-to-plotly-a-hands-on-tutorial-for-beginners-d208cd9e6522) 
+[](/leap-from-matplotlib-to-plotly-a-hands-on-tutorial-for-beginners-d208cd9e6522)  
 
 为了便于演示，我将展示整个代码，然后我将对代码的各个部分进行注释，这样您就可以很好地理解它是如何工作的。
 

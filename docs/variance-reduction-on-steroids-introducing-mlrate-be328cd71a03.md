@@ -118,28 +118,4 @@
 
 # *参考资料和进一步阅读:*
 
-*[](/robust-experiment-design-244f835c6874) [## 稳健实验设计
-
-### 实验很容易，对吗？这篇文章将实验设计中的常见陷阱与基本的统计…
-
-towardsdatascience.com](/robust-experiment-design-244f835c6874) [](https://arxiv.org/abs/2106.07263) [## 在线实验中减少方差的机器学习
-
-### 我们考虑在随机对照试验中，通过使用相关的协变量来减少方差的问题
-
-arxiv.org](https://arxiv.org/abs/2106.07263) [](https://www.semanticscholar.org/paper/Improving-the-sensitivity-of-online-controlled-by-Deng-Xu/c65d71c42dedb3329c2b81499950bf12786a3e8e) [## [PDF]利用预实验数据提高在线控制实验的灵敏度
-
-### 这项工作提出了一种方法(CUPED ),利用实验前期的数据来减少度量变异…
-
-www.semanticscholar.org](https://www.semanticscholar.org/paper/Improving-the-sensitivity-of-online-controlled-by-Deng-Xu/c65d71c42dedb3329c2b81499950bf12786a3e8e)  [## 迭代比例拟合-维基百科
-
-### 迭代比例拟合程序(或 IPFP，也称为双比例拟合或双比例在…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Iterative_proportional_fitting) [](https://www.jstatsoft.org/article/view/v009i08) [## 复杂调查样本的分析
-
-### 我介绍了用于分析 r 中复杂调查样本的软件
-
-www.jstatsoft.org](https://www.jstatsoft.org/article/view/v009i08)  [## 提高在线控制实验的灵敏度:网飞的案例研究
-
-### 摘要受控实验被广泛认为是建立真正因果关系的最科学的方法…
-
-www.kdd.org](https://www.kdd.org/kdd2016/subtopic/view/improving-the-sensitivity-of-online-controlled-experiments-case-studies-at-)*
+*[](/robust-experiment-design-244f835c6874)  [](https://arxiv.org/abs/2106.07263)  [](https://www.semanticscholar.org/paper/Improving-the-sensitivity-of-online-controlled-by-Deng-Xu/c65d71c42dedb3329c2b81499950bf12786a3e8e)    [](https://www.jstatsoft.org/article/view/v009i08)   *

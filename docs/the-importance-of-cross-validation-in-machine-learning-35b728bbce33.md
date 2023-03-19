@@ -104,20 +104,4 @@ for train, test in kf.split(X):
 *   如果没有交叉验证，可能会发生所谓的过度拟合，即模型过度学习训练数据。
 *   最常用的交叉验证方法是保留法和 k 折叠法。
 
-[](/an-introduction-to-long-short-term-memory-networks-lstm-27af36dde85d) [## 长短期记忆网络导论(LSTM)
-
-### 理解长短期记忆的概念和问题
-
-towardsdatascience.com](/an-introduction-to-long-short-term-memory-networks-lstm-27af36dde85d) [](/understanding-mapreduce-with-the-help-of-harry-potter-5b0ae89cc88) [## 借助《哈利·波特》理解 MapReduce
-
-### MapReduce 是一种允许并行处理大型数据集的算法，例如，在多台计算机上…
-
-towardsdatascience.com](/understanding-mapreduce-with-the-help-of-harry-potter-5b0ae89cc88) [](/a-complete-guide-to-decision-trees-ac8656a0b4bb) [## 决策树完全指南
-
-### 学习关于决策树的所有知识，包括 Python 示例
-
-towardsdatascience.com](/a-complete-guide-to-decision-trees-ac8656a0b4bb) [](https://medium.com/@niklas_lang/membership) [## 通过我的推荐链接加入 Medium—Niklas Lang
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@niklas_lang/membership)
+[](/an-introduction-to-long-short-term-memory-networks-lstm-27af36dde85d)  [](/understanding-mapreduce-with-the-help-of-harry-potter-5b0ae89cc88)  [](/a-complete-guide-to-decision-trees-ac8656a0b4bb)  [](https://medium.com/@niklas_lang/membership) 

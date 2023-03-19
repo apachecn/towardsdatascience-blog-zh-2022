@@ -163,11 +163,7 @@ cron 工具，也称为 [cronjob](https://en.wikipedia.org/wiki/Cron) ，基本�
 
 *👉*如果你喜欢阅读这样的故事(以及媒体上的其他故事)，也想直接支持我和数千名其他作家，可以考虑注册*[*https://medium.ealizadeh.com/membership*](https://medium.ealizadeh.com/membership)*来获得所有故事的全部访问权限(免责声明:如果你使用我的链接注册，我会为你赚取一小笔佣金，不需要额外费用。)**
 
-*[](https://medium.ealizadeh.com/membership) [## 通过我的推荐链接加入 Medium—Esmaeil Alizadeh
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.ealizadeh.com](https://medium.ealizadeh.com/membership) 
+*[](https://medium.ealizadeh.com/membership)  
 
 # 参考
 
@@ -177,28 +173,8 @@ medium.ealizadeh.com](https://medium.ealizadeh.com/membership)
 
 # *有用的链接*
 
-*[](https://www.hostinger.com/tutorials/cron-job) [## Cron Job:初学者综合指南 2022
-
-### 一遍又一遍地做同样的任务可能是件苦差事。调度 cron 作业可以让用户在 VPS 上自动完成任务…
-
-www.hostinger.com](https://www.hostinger.com/tutorials/cron-job) [](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions) [## 了解 GitHub 操作— GitHub 文档
-
-### GitHub Actions 是一个连续集成和连续交付(CI/CD)平台，允许您自动化您的……
-
-docs.github.com](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions) 
+*[](https://www.hostinger.com/tutorials/cron-job)  [](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions)  
 
 ## 您可能感兴趣的其他帖子:
 
-[](/deploy-free-postgresql-database-in-heroku-and-ingest-data-8002c574a57d) [## 免费 PostgreSQL 数据库的逐步部署和数据接收
-
-### 在 Heroku 免费部署 PostgreSQL 数据库，并使用 panasus 和 SQLAlchemy 摄取数据
-
-towardsdatascience.com](/deploy-free-postgresql-database-in-heroku-and-ingest-data-8002c574a57d) [](/a-guide-to-python-environment-dependency-and-package-management-conda-poetry-f5a6c48d795) [## Python 环境、依赖和包管理指南:Conda +诗意
-
-### 如何将包自动添加到您的环境文件中，而不必担心依赖关系
-
-towardsdatascience.com](/a-guide-to-python-environment-dependency-and-package-management-conda-poetry-f5a6c48d795) [](/visualize-data-transformation-using-pandastutor-6126627dd225) [## 使用 PandasTutor 可视化您的熊猫数据转换
-
-### 在浏览器中可视化您的 Python 熊猫代码，并查看您的数据如何一步一步地转换
-
-towardsdatascience.com](/visualize-data-transformation-using-pandastutor-6126627dd225)*
+[](/deploy-free-postgresql-database-in-heroku-and-ingest-data-8002c574a57d)  [](/a-guide-to-python-environment-dependency-and-package-management-conda-poetry-f5a6c48d795)  [](/visualize-data-transformation-using-pandastutor-6126627dd225) *

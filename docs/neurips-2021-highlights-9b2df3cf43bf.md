@@ -58,20 +58,4 @@ NeurIPS 推出了一个名为数据集和基准的新赛道，以反映以数据
 
 **下面是一些你可能会喜欢的帖子**
 
-**[](/ai-assisted-annotation-with-multimodal-neural-networks-1c69f5a4017c) [## 基于多模态神经网络的人工智能辅助标注
-
-### 反垃圾邮件人脸检测项目的真实数据验证示例
-
-towardsdatascience.com](/ai-assisted-annotation-with-multimodal-neural-networks-1c69f5a4017c) [](/jupyter-notebook-autocompletion-f291008c66c) [## Jupyter 笔记本自动完成
-
-### 数据科学家的最佳生产力工具，如果您还没有使用它，您应该使用它…
-
-towardsdatascience.com](/jupyter-notebook-autocompletion-f291008c66c) [](/human-in-the-loop-in-machine-translation-systems-bdf3fe82bfa3) [## 机器翻译系统中的人在回路
-
-### 使用众包评估机器翻译质量
-
-towardsdatascience.com](/human-in-the-loop-in-machine-translation-systems-bdf3fe82bfa3) [](/9-things-you-did-not-know-about-jupyter-notebook-d0d995a8efb3) [## 关于 jupyter 笔记本你不知道的 9 件事
-
-### 用这些建议提高你的工作效率
-
-towardsdatascience.com](/9-things-you-did-not-know-about-jupyter-notebook-d0d995a8efb3)**
+**[](/ai-assisted-annotation-with-multimodal-neural-networks-1c69f5a4017c)  [](/jupyter-notebook-autocompletion-f291008c66c)  [](/human-in-the-loop-in-machine-translation-systems-bdf3fe82bfa3)  [](/9-things-you-did-not-know-about-jupyter-notebook-d0d995a8efb3) **

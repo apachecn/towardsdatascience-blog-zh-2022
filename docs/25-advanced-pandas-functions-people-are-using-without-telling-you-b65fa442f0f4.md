@@ -18,19 +18,11 @@ Pandas 是如此的庞大和深入，它使您能够执行几乎任何您能想�
 
 这篇文章旨在重新发现这些特征，并向你展示熊猫比你所知道的更令人敬畏。
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-BEXGBoost
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。支持我的工作，给我买一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+[](https://ibexorigin.medium.com/membership)  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex) [## 阿尔法信号|机器学习的极品。艾总结的。
-
-### 留在循环中，不用花无数时间浏览下一个突破；我们的算法识别…
-
-alphasignal.ai](https://alphasignal.ai/?referrer=Bex) 
+[](https://alphasignal.ai/?referrer=Bex)  
 
 # 1.`ExcelWriter`
 
@@ -362,32 +354,8 @@ Pandas 还有一个特殊的`category`数据类型用于分类变量，如下所
 
 感谢您的阅读！
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium。
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。你可以给我买一个 coffee☕，用你的…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) [](https://ibexorigin.medium.com/subscribe) [## 每当 Bex T .发布时收到电子邮件。
-
-### 每当 Bex T .发布时收到电子邮件。注册后，如果您还没有中型帐户，您将创建一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/subscribe) 
+[](https://ibexorigin.medium.com/membership)  [](https://ibexorigin.medium.com/subscribe)  
 
 更多来自我的故事…
 
-[](/forget-roadmaps-here-is-how-to-dominate-the-data-science-stack-blazingly-fast-a49e62f2bcf) [## 别管路线图了！以下是如何快速掌控数据科学堆栈的方法
-
-### 以前所未有的方式学习新软件包
-
-towardsdatascience.com](/forget-roadmaps-here-is-how-to-dominate-the-data-science-stack-blazingly-fast-a49e62f2bcf) [](https://ibexorigin.medium.com/28-weekly-machine-learning-tricks-and-resources-that-are-pure-gems-1-8e5259a93c94) [## 28 个每周机器学习技巧和资源，它们是纯粹的珍宝#1
-
-### 一次学习一个片段的机器学习
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/28-weekly-machine-learning-tricks-and-resources-that-are-pure-gems-1-8e5259a93c94) [](/18-non-cliché-datasets-for-beginner-data-scientists-to-build-a-strong-portfolio-c59743b2a829) [## 18 个非陈词滥调数据集，供初学数据科学家构建强大的投资组合
-
-### 从微生物学到体育的独特数据集
-
-towardsdatascience.com](/18-non-cliché-datasets-for-beginner-data-scientists-to-build-a-strong-portfolio-c59743b2a829) [](/advanced-tutorial-how-to-master-matplotlib-like-an-absolute-boss-aae2d4936734) [## 进阶教程:如何像绝对 Boss 一样掌握 Matplotlib
-
-### 以前所未有的方式使用 Matplotlib
-
-towardsdatascience.com](/advanced-tutorial-how-to-master-matplotlib-like-an-absolute-boss-aae2d4936734)
+[](/forget-roadmaps-here-is-how-to-dominate-the-data-science-stack-blazingly-fast-a49e62f2bcf)  [](https://ibexorigin.medium.com/28-weekly-machine-learning-tricks-and-resources-that-are-pure-gems-1-8e5259a93c94)  [](/18-non-cliché-datasets-for-beginner-data-scientists-to-build-a-strong-portfolio-c59743b2a829)  [](/advanced-tutorial-how-to-master-matplotlib-like-an-absolute-boss-aae2d4936734) 

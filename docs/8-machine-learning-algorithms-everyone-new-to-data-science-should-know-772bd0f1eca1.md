@@ -34,11 +34,7 @@
 *   y:变量，在线性回归的帮助下，你想预测哪个变量，在我们的例子中是期末考试成绩。
 *   x:变量，用作预测的基础，并对 y 有影响，在本例中，为考试学习的小时数。
 
-[](https://databasecamp.de/en/ml/linear-regression-basics) [## 线性回归-基础|数据库
-
-### 回归是用来建立两个变量 x 和 y 之间的数学关系。统计和…
-
-数据库营](https://databasecamp.de/en/ml/linear-regression-basics) 
+[](https://databasecamp.de/en/ml/linear-regression-basics)  
 
 # 2.逻辑回归
 
@@ -76,11 +72,7 @@ Sigmoid 函数曲线|图片:作者
 
 在现实生活中，函数符号与您在本文中看到的符号大部分不同。在那里，你重新安排它，使它具有类似于[线性回归](https://databasecamp.de/en/ml/linear-regression-basics)的形式:
 
-![](img/ab881cc09eb99aa83566bdb8ad8fa2a4.png)[](https://databasecamp.de/en/ml/logistic-regression) [## 什么是逻辑回归？数据大本营
-
-### 逻辑回归是回归分析的一种特殊形式，当因变量(即变量)是变量时使用。
-
-数据库营](https://databasecamp.de/en/ml/logistic-regression) 
+![](img/ab881cc09eb99aa83566bdb8ad8fa2a4.png)[](https://databasecamp.de/en/ml/logistic-regression)  
 
 # 3.支持向量机
 
@@ -102,11 +94,7 @@ Sigmoid 函数曲线|图片:作者
 
 [SVM](https://databasecamp.de/en/ml/svm-explained) 使用不同的训练跑来尽可能最佳地适应飞机。目标是最大化间隙，间隙是从每个组的最近点到超平面的距离，意味着平面应该完美地位于中间。
 
-[](https://databasecamp.de/en/ml/svm-explained) [## 支持向量机(SVM) -很容易解释！数据大本营
-
-### 支持向量机(SVMs)是在机器学习领域中用于分类的数学算法
-
-数据库营](https://databasecamp.de/en/ml/svm-explained) 
+[](https://databasecamp.de/en/ml/svm-explained)  
 
 # 4.决策图表
 
@@ -126,11 +114,7 @@ Sigmoid 函数曲线|图片:作者
 
 在雨天，还有一个重要的决策分支。在这种情况下，风在决策中变得更加重要。由此，我们可以推断出两条规律。如果天气下雨，风很大，就不应该在外面做运动。然而，在雨天和微风的情况下，人们可以到户外做一些运动。
 
-[](/a-complete-guide-to-decision-trees-ac8656a0b4bb) [## 决策树完全指南
-
-### 学习关于决策树的所有知识，包括 Python 示例
-
-towardsdatascience.com](/a-complete-guide-to-decision-trees-ac8656a0b4bb) 
+[](/a-complete-guide-to-decision-trees-ac8656a0b4bb)  
 
 # 5.随机森林
 
@@ -152,11 +136,7 @@ towardsdatascience.com](/a-complete-guide-to-decision-trees-ac8656a0b4bb)
 
 在我们的重量估算例子中，这意味着所有的估算都应该单独进行，而不需要事先讨论。否则，一个人可能会受到另一个参与者的估计的影响，因此他们的误差是相关的。然后，群众的智慧不再出现。
 
-[](/introduction-to-random-forest-algorithm-fed4b8c8e848) [## 随机森林算法简介
-
-### 算法是如何工作的，我们可以用它来做什么
-
-towardsdatascience.com](/introduction-to-random-forest-algorithm-fed4b8c8e848) 
+[](/introduction-to-random-forest-algorithm-fed4b8c8e848)  
 
 # 6.朴素贝叶斯
 
@@ -182,11 +162,7 @@ towardsdatascience.com](/introduction-to-random-forest-algorithm-fed4b8c8e848)
 
 对于具有多个特征的数据集，算法保持不变，我们为特征 x 和类 k 之间的每个组合计算条件概率。之后，将一个特征的所有类概率相乘。具有最高总体概率的类是预测。
 
-[](https://databasecamp.de/en/ml/naive-bayes-algorithm) [## 什么是朴素贝叶斯算法？数据大本营
-
-### 朴素贝叶斯算法是基于所谓的贝叶斯定理的分类方法。本质上，它假设…
-
-数据库营](https://databasecamp.de/en/ml/naive-bayes-algorithm) 
+[](https://databasecamp.de/en/ml/naive-bayes-algorithm)  
 
 # 7.感知器
 
@@ -204,11 +180,7 @@ towardsdatascience.com](/introduction-to-random-forest-algorithm-fed4b8c8e848)
 
 在大多数情况下，所谓的 Sigmoid 函数被用作激活函数，因为它的范围从 0 到 1，并且在 x = 0 时急剧增加。这就是为什么它是二元分类的好方法。
 
-[](/what-is-a-perceptron-5ac56720d8cf) [## 什么是感知器？
-
-### 了解神经网络的构建模块
-
-towardsdatascience.com](/what-is-a-perceptron-5ac56720d8cf) 
+[](/what-is-a-perceptron-5ac56720d8cf)  
 
 # 8.人工神经网络
 
@@ -241,19 +213,11 @@ towardsdatascience.com](/what-is-a-perceptron-5ac56720d8cf)
 
 该架构然后被给予训练，这使得网络学习如何为特定的用例产生完美的结果。一种使用具有特定数据点和相应结果的训练数据集。对于每个数据点，网络计算其结果，并将其与数据集的正确结果进行比较。
 
-[](https://medium.com/codex/understanding-the-backpropagation-algorithm-7a2e3cb4a69c) [## 了解反向传播算法
-
-### 了解人工智能的支柱
-
-medium.com](https://medium.com/codex/understanding-the-backpropagation-algorithm-7a2e3cb4a69c) 
+[](https://medium.com/codex/understanding-the-backpropagation-algorithm-7a2e3cb4a69c)  
 
 如果计算结果不正确，则使用反向传播算法改变单个神经元的权重。通过对整个数据集反复重复这一过程，神经网络的性能正在提高。
 
-[](https://medium.com/illumination/intuitive-guide-to-artificial-neural-networks-5a2925ea3fa2) [## 人工神经网络直观指南
-
-### 人工神经网络(ANN)是人工智能和人工智能领域最常用的术语
-
-medium.com](https://medium.com/illumination/intuitive-guide-to-artificial-neural-networks-5a2925ea3fa2) 
+[](https://medium.com/illumination/intuitive-guide-to-artificial-neural-networks-5a2925ea3fa2)  
 
 # 这是你应该带走的东西
 
@@ -263,16 +227,4 @@ medium.com](https://medium.com/illumination/intuitive-guide-to-artificial-neural
 
 *如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！此外，媒体允许你每月免费阅读三篇文章***。如果你想让***无限制地访问我的文章和数以千计的精彩文章，不要犹豫，通过点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$ ***5*** 获得会员资格***
 
-**[](/beginners-guide-to-gradient-descent-47f8d0f4ce3b) [## 梯度下降初学者指南
-
-### 关于梯度下降法你需要知道的一切
-
-towardsdatascience.com](/beginners-guide-to-gradient-descent-47f8d0f4ce3b) [](/beginners-guide-extract-transform-load-etl-49104a8f9294) [## 初学者指南:提取、转换、加载(ETL)
-
-### 了解数据分析中的大数据原理
-
-towardsdatascience.com](/beginners-guide-extract-transform-load-etl-49104a8f9294) [](/introducing-nosql-databases-with-mongodb-d46c976da5bf) [## 使用 MongoDB 介绍 NoSQL 数据库
-
-### NoSQL 数据库实用指南
-
-towardsdatascience.com](/introducing-nosql-databases-with-mongodb-d46c976da5bf)**
+**[](/beginners-guide-to-gradient-descent-47f8d0f4ce3b)  [](/beginners-guide-extract-transform-load-etl-49104a8f9294)  [](/introducing-nosql-databases-with-mongodb-d46c976da5bf) **

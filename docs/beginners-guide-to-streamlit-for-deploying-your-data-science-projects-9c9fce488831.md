@@ -18,11 +18,7 @@
 
 如果观众对数据科学不太熟悉，我建议看看我以前的一篇文章。我提供了下面的链接，其中包含了一个简明指南，介绍了初学者在大约 12 个月内达到数据科学高级水平需要遵循的 12 个步骤。对于数据科学爱好者来说，这应该是一个最佳的起点。
 
-[](/12-steps-for-beginner-to-pro-in-data-science-in-12-months-c6f6ba01f96e) [## 12 个月内数据科学从初学者到专业人士的 12 个步骤！
-
-### 每月遵循一步，到第二年年底掌握数据科学！
-
-towardsdatascience.com](/12-steps-for-beginner-to-pro-in-data-science-in-12-months-c6f6ba01f96e) 
+[](/12-steps-for-beginner-to-pro-in-data-science-in-12-months-c6f6ba01f96e)  
 
 # streamlit 简介:
 
@@ -40,11 +36,7 @@ Streamlit 不仅为您提供了一种部署机器学习模型的方法，还可�
 
 网站部署的其他方法是使用像 Flask 和 Django 这样的库，这允许用户更好地控制他们的项目，但是需要稍微多一点的编程。我推荐有兴趣用 streamlit 进一步探索更多项目的观众通过下面提供的链接查看我以前的一篇关于公司盈利电话情绪分析的文章。
 
-[](/how-to-perform-sentiment-analysis-on-earnings-call-of-companies-122275f47e26) [## 如何对公司财报电话会议进行情感分析
-
-### 利用 Python 和人工智能部署情感分析来分析公司的收益电话
-
-towardsdatascience.com](/how-to-perform-sentiment-analysis-on-earnings-call-of-companies-122275f47e26) 
+[](/how-to-perform-sentiment-analysis-on-earnings-call-of-companies-122275f47e26)  
 
 # 开始为数据科学项目部署机器学习模型:
 
@@ -179,32 +171,12 @@ Radek Grzybowski 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_mediu
 
 如果你想在我的文章发表后第一时间得到通知，请点击下面的[链接](https://bharath-k1297.medium.com/subscribe)订阅邮件推荐。如果你希望支持其他作者和我，请订阅下面的链接。
 
-[](https://bharath-k1297.medium.com/membership) [## 通过我的推荐链接加入媒体
-
-### 阅读 Bharath K(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-bharath-k1297.medium.com](https://bharath-k1297.medium.com/membership) 
+[](https://bharath-k1297.medium.com/membership)  
 
 如果你对这篇文章中提到的各点有任何疑问，请在下面的评论中告诉我。我会尽快给你回复。
 
 看看我的一些与本文主题相关的文章，你可能也会喜欢阅读！
 
-[](/automate-your-emails-with-python-for-2022-and-beyond-2284054d1012) [## 2022 年及以后，使用 Python 自动处理您的电子邮件
-
-### 如何在最新的 2022 更新和安全变更中使用 Python 实现电子邮件自动化
-
-towardsdatascience.com](/automate-your-emails-with-python-for-2022-and-beyond-2284054d1012) [](/the-ultimate-replacements-to-jupyter-notebooks-51da534b559f) [## Jupyter 笔记本的终极替代品
-
-### 讨论 Jupyter 笔记本电脑的最佳替代方案，用于解释数据科学项目
-
-towardsdatascience.com](/the-ultimate-replacements-to-jupyter-notebooks-51da534b559f) [](/7-best-research-papers-to-read-to-get-started-with-deep-learning-projects-59e11f7b9c32) [## 开始深度学习项目的 7 篇最佳研究论文
-
-### 七篇最好的研究论文经受住了时间的考验，将帮助你创造惊人的项目
-
-towardsdatascience.com](/7-best-research-papers-to-read-to-get-started-with-deep-learning-projects-59e11f7b9c32) [](/visualizing-cpu-memory-and-gpu-utilities-with-python-8028d859c2b0) [## 用 Python 可视化 CPU、内存和 GPU 工具
-
-### 分析 CPU、内存使用和 GPU 组件，以监控您的 PC 和深度学习项目
-
-towardsdatascience.com](/visualizing-cpu-memory-and-gpu-utilities-with-python-8028d859c2b0) 
+[](/automate-your-emails-with-python-for-2022-and-beyond-2284054d1012)  [](/the-ultimate-replacements-to-jupyter-notebooks-51da534b559f)  [](/7-best-research-papers-to-read-to-get-started-with-deep-learning-projects-59e11f7b9c32)  [](/visualizing-cpu-memory-and-gpu-utilities-with-python-8028d859c2b0)  
 
 谢谢你们坚持到最后。我希望你们都喜欢这篇文章。祝大家有美好的一天！

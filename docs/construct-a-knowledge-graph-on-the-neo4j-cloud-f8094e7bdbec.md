@@ -20,27 +20,15 @@ CAZy 代表[Carbohydrate-**A**active en**ZY**mes(CAZy)](http://www.cazy.org/)。
 
 这个项目的 Python 代码存放在我的 GitHub 库中。
 
-[](https://github.com/dgg32/cazy_download_for_kg/tree/master) [## GitHub-dgg 32/cazy _ download _ for _ kg
-
-### 这个存储库包含我的文章“在 Neo4j 云上构建知识图”的代码和数据。脚本…
-
-github.com](https://github.com/dgg32/cazy_download_for_kg/tree/master) 
+[](https://github.com/dgg32/cazy_download_for_kg/tree/master)  
 
 文本提取的 NLP 管道是基于我以前的项目。在这个项目中，我用 CAZy 关系的培训文件更新了存储库。
 
-[](https://github.com/dgg32/huggingface_gpt3) [## GitHub - dgg32/huggingface_gpt3
-
-### 这个 repo 托管了我的文章“使用跨语言共指、空间、拥抱脸和 GPT-3 提取…
-
-github.com](https://github.com/dgg32/huggingface_gpt3) 
+[](https://github.com/dgg32/huggingface_gpt3)  
 
 而聊天机器人前端作为一个名为“cazy_kg”的分支托管在我的 doctorai_eli5 资源库下。
 
-[](https://github.com/dgg32/doctorai_eli5/tree/cazy_kg) [## GitHub-dgg 32/doctor ai _ Eli 5 at cazy _ kg
-
-### 这是面向 Doctor.ai 和 Alan 的 React 前端应用程序，将 Alan 语音转文本集成到 Doctor.ai。在中运行该应用程序…
-
-github.com](https://github.com/dgg32/doctorai_eli5/tree/cazy_kg) 
+[](https://github.com/dgg32/doctorai_eli5/tree/cazy_kg)  
 
 最后，Aura 的数据导入器的数据模型托管在这里。
 
@@ -132,8 +120,4 @@ neo4j+s://[random_string].databases.neo4j.io
 
 *最重要的是，从你的知识图表中获得乐趣。*
 
-*[](https://dgg32.medium.com/membership) [## 加入媒介与我的介绍链接-黄思兴
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-dgg32.medium.com](https://dgg32.medium.com/membership)*
+*[](https://dgg32.medium.com/membership) *

@@ -174,19 +174,7 @@ EVED 包含了从 2017 年 11 月到 2018 年 11 月一整年期间在密歇根�
 
 # *相关文章*
 
-*[](/travel-time-estimation-using-quadkeys-ecf6d54823b4) [## 使用四键的旅行时间估计
-
-### 本文解释了如何使用由四键索引的已知速度向量来估计旅行时间。
-
-towardsdatascience.com](/travel-time-estimation-using-quadkeys-ecf6d54823b4) [](/geospatial-indexing-with-quadkeys-d933dff01496) [## 使用四键的地理空间索引
-
-### 给地球正方
-
-towardsdatascience.com](/geospatial-indexing-with-quadkeys-d933dff01496) [](/clustering-moving-object-trajectories-216c372d37e2) [## 聚类移动对象轨迹
-
-### 两个端点之间有多少不同的轨迹？
-
-towardsdatascience.com](/clustering-moving-object-trajectories-216c372d37e2) 
+*[](/travel-time-estimation-using-quadkeys-ecf6d54823b4)  [](/geospatial-indexing-with-quadkeys-d933dff01496)  [](/clustering-moving-object-trajectories-216c372d37e2)  
 
 # 参考
 

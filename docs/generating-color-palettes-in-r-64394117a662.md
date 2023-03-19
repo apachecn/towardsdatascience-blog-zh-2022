@@ -8,11 +8,7 @@
 
 安德鲁·雷德利在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上的照片
 
-[](https://abhinav-malasi.medium.com/membership) [## 加入我的介绍链接媒体-阿比纳夫马拉斯
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-abhinav-malasi.medium.com](https://abhinav-malasi.medium.com/membership) 
+[](https://abhinav-malasi.medium.com/membership)  
 
 在过去的几个月里，我一直在尝试生成艺术，但我的大部分艺术作品都以灰色为结尾。我从来没有办法让我的作品看起来像你在网上看到的其他艺术家的作品一样漂亮。
 
@@ -106,11 +102,7 @@ Magick 是 r 中用于图像处理的 goto 包。该包有一个名为`image_qua
 
 这些是我发现在 r 中生成个性化调色板非常有用的一些包，我希望这对你们有些人有帮助。
 
-[](https://abhinav-malasi.medium.com/subscribe) [## 每当阿比纳夫·马拉斯发表文章时，就收到一封电子邮件。
-
-### 每当阿比纳夫·马拉斯发表文章时，就收到一封电子邮件。通过注册，您将创建一个中型帐户，如果您还没有…
-
-abhinav-malasi.medium.com](https://abhinav-malasi.medium.com/subscribe) 
+[](https://abhinav-malasi.medium.com/subscribe)  
 
 ## 参考
 

@@ -18,19 +18,11 @@
 
 *即使熊猫看起来是更好的选择，SQL 仍然在数据科学家的日常工作中扮演着重要角色。事实上，SQL 是数据科学第二大需求和第三大增长的编程语言(见[这里](/the-most-in-demand-skills-for-data-scientists-in-2021-4b2a808f4005))。所以，如果你想在这个领域找到一份工作，在你的简历中加入 SQL 是必须的。了解熊猫，学习 SQL 应该轻而易举，正如您将在本文中看到的。*
 
-*[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-BEXGBoost
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。支持我的工作，给我买一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+*<https://ibexorigin.medium.com/membership>  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex) [## 阿尔法信号|机器学习的极品。艾总结的。
-
-### 留在循环中，不用花无数时间浏览下一个突破；我们的算法识别…
-
-alphasignal.ai](https://alphasignal.ai/?referrer=Bex) 
+<https://alphasignal.ai/?referrer=Bex>  
 
 ## 连接到数据库
 
@@ -280,36 +272,8 @@ HAVING 子句通常与 GROUP BY 连用。每当您想使用集合函数过滤行
 
 到目前为止，您应该已经意识到 SQL 有多强大。尽管我们学到了很多，但我们仅仅触及了皮毛。对于更高级的话题，你可以阅读 W3Schools 上的[优秀指南，并通过在](https://www.w3schools.com/sql/default.Asp) [Hackerrank](https://www.hackerrank.com/) 或 [LeetCode](https://leetcode.com/) 上解决真实世界的 SQL 问题来练习你的查询技巧。感谢您的阅读！
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium。
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) [](https://ibexorigin.medium.com/subscribe) [## 每当 Bex T .发布时收到电子邮件。
-
-### 每当 Bex T .发布时收到电子邮件。注册后，如果您还没有中型帐户，您将创建一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/subscribe) 
+<https://ibexorigin.medium.com/membership>  <https://ibexorigin.medium.com/subscribe>  
 
 ## 更多来自我的故事…
 
-[](/how-to-create-slick-math-animations-like-3blue1brown-in-python-457f74701f68) [## 如何用 Python 创建像 3Blue1Brown 这样流畅的数学动画
-
-### 学习将你对数学和编程的热爱结合起来的最佳方式
-
-towardsdatascience.com](/how-to-create-slick-math-animations-like-3blue1brown-in-python-457f74701f68) [](/matplotlib-vs-plotly-lets-decide-once-and-for-all-dc3eca9aa011) [## Matplotlib vs. Plotly:让我们决定一劳永逸
-
-### 从 7 个关键方面进行深入快速的比较
-
-towardsdatascience.com](/matplotlib-vs-plotly-lets-decide-once-and-for-all-dc3eca9aa011) [](https://ibexorigin.medium.com/yes-these-unbelievable-masterpieces-are-created-with-matplotlib-b62e0ff2d1a8) [## 是的，这些令人难以置信的杰作是用 Matplotlib 创作的
-
-### 它们让我的作品看起来像孩子画的树
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/yes-these-unbelievable-masterpieces-are-created-with-matplotlib-b62e0ff2d1a8) [](/an-in-depth-tutorial-to-python-decorators-that-you-can-actually-use-1e34d3d2d305) [## 一个深入的 Python 装饰者教程，你可以实际使用
-
-### 深入 Python 的内部
-
-towardsdatascience.com](/an-in-depth-tutorial-to-python-decorators-that-you-can-actually-use-1e34d3d2d305) [](https://ibexorigin.medium.com/how-to-use-matplotlib-annotations-like-you-know-what-you-are-doing-da61e397cce3) [## 如何像知道自己在做什么一样使用 Matplotlib 注释
-
-### 了解如何将文本放置在绘图上的任意位置并绘制箭头
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/how-to-use-matplotlib-annotations-like-you-know-what-you-are-doing-da61e397cce3)*
+</how-to-create-slick-math-animations-like-3blue1brown-in-python-457f74701f68>  </matplotlib-vs-plotly-lets-decide-once-and-for-all-dc3eca9aa011>  <https://ibexorigin.medium.com/yes-these-unbelievable-masterpieces-are-created-with-matplotlib-b62e0ff2d1a8>  </an-in-depth-tutorial-to-python-decorators-that-you-can-actually-use-1e34d3d2d305>  <https://ibexorigin.medium.com/how-to-use-matplotlib-annotations-like-you-know-what-you-are-doing-da61e397cce3> *

@@ -88,11 +88,7 @@ Python 库和应用程序开发框架
 
 如果您想了解更多关于连接 python 应用程序和 Oracle 数据库的信息，请参考下面的文章。
 
-[](/spark-and-oracle-database-6624abd2b632) [## Spark 和 Oracle 数据库
-
-### 结构化数据的易用性和 Spark 的效率。
-
-towardsdatascience.com](/spark-and-oracle-database-6624abd2b632) 
+[](/spark-and-oracle-database-6624abd2b632)  
 
 下面一行代码创建一个标题为"**采购订单申请**的窗口，并在该窗口上创建三个标签:**采购订单查询**、**采购订单标题**、**采购订单行**
 
@@ -172,18 +168,10 @@ Python 提供 reportlab，用于开发图片完美的专业报表。下面是使
 
 ## 参考
 
- [## Tcl/Tk - Python 3.10.2 文档的 tkinter - Python 接口
-
-### 源代码:Lib/tkinter/__init__。py 包(“Tk 接口”)是 Tcl/Tk GUI 的标准 Python 接口…
-
-docs.python.org](https://docs.python.org/3/library/tkinter.html) 
+  
 
 [https://www.reportlab.com/docs/reportlab-userguide.pdf](https://www.reportlab.com/docs/reportlab-userguide.pdf)
 
-[](https://github.com/srssingh/Purchase-Order-Application.git) [## GitHub-SRS Singh/采购订单-应用程序
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/srssingh/Purchase-Order-Application.git) 
+[](https://github.com/srssingh/Purchase-Order-Application.git)  
 
 [Python+SQL+Oracle，无限可能](https://www.udemy.com/course/python-with-oracle-developer-course/?referralCode=6F68B20A8FB16A20BFE1)

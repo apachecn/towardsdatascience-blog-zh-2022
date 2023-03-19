@@ -340,16 +340,4 @@ from vdk.api.job_input import IJobInputdef **run**(job_input: IJobInput): # Read
 
 # 相关文章
 
-[](/an-overview-of-versatile-data-kit-a812cfb26de7) [## 多功能数据工具包概述
-
-### 开始使用多功能数据工具包，这是一个使数据工程师工作更高效的框架
-
-towardsdatascience.com](/an-overview-of-versatile-data-kit-a812cfb26de7) [](/getting-started-with-trino-query-engine-dc6a2d027d5) [## Trino 查询引擎入门
-
-### 一步一步的教程，介绍如何安装 Trino，将其连接到 SQL server 并编写一个简单的 Python 客户端。
-
-towardsdatascience.com](/getting-started-with-trino-query-engine-dc6a2d027d5) [](https://alod83.medium.com/how-to-represent-and-query-hierarchical-data-in-sql-69b6b77577e8) [## 如何在 SQL 中表示和查询层次数据
-
-### 关于如何使用关系数据库构建和查询分层表的教程。
-
-alod83.medium.com](https://alod83.medium.com/how-to-represent-and-query-hierarchical-data-in-sql-69b6b77577e8)
+[](/an-overview-of-versatile-data-kit-a812cfb26de7)  [](/getting-started-with-trino-query-engine-dc6a2d027d5)  [](https://alod83.medium.com/how-to-represent-and-query-hierarchical-data-in-sql-69b6b77577e8) 

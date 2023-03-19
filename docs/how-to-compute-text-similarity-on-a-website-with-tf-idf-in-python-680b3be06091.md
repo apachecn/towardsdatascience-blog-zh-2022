@@ -151,11 +151,7 @@ m 可以很容易地转换成熊猫的数据帧，这使我们能够用 Seaborn 
 
 **如果你想支持我的内容创作活动，欢迎点击我下面的推荐链接，加入 Medium 的会员计划**。我将收到你投资的一部分，你将能够以无缝的方式访问 Medium 的大量数据科学文章。
 
-[](https://medium.com/@theDrewDag/membership) [## 通过我的推荐链接加入 Medium-Andrew D # data science
-
-### 阅读 Andrew D #datascience(以及媒体上成千上万的其他作者)的每一个故事。您的会员费直接…
-
-medium.com](https://medium.com/@theDrewDag/membership) 
+[](https://medium.com/@theDrewDag/membership)  
 
 你的数据挖掘方法是什么？一般怎么发现内容相似等异常？用评论分享你的想法👇
 

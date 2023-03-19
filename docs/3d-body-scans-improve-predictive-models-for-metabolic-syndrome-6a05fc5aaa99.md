@@ -65,36 +65,12 @@
 
 ## 关于 AUC、IDI 和 NRI 的教程和更多信息
 
-[](/area-under-the-curve-and-beyond-f87a8ec6937b) [## 曲线下和曲线外的区域
-
-### 医生和数据科学家，这里有一个用 Python 编码的例子来介绍 IDI 和 NRI。AUC 可能并不总是足够的…
-
-towardsdatascience.com](/area-under-the-curve-and-beyond-f87a8ec6937b) [](https://www.lambertleong.com/thoughts/AUC-IDI-NRI#idi_plot) [## 曲线下和曲线外的区域，具有综合的区分改善和净重新分类
-
-### 在比较两个模型的性能时，AUC 是一个很好的开始指标，但它并不总是能说明全部情况…
-
-www.lambertleong.com](https://www.lambertleong.com/thoughts/AUC-IDI-NRI#idi_plot) [](https://github.com/LambertLeong/AUC_NRI_IDI_python_functions) [## GitHub-Lambert leong/AUC _ NRI _ IDI _ python _ functions:自定义 python 函数来帮助您进一步…
-
-### 自定义 python 函数可帮助您进一步分析机器学习模型和诊断测试运行…
-
-github.com](https://github.com/LambertLeong/AUC_NRI_IDI_python_functions) 
+[](/area-under-the-curve-and-beyond-f87a8ec6937b)  [](https://www.lambertleong.com/thoughts/AUC-IDI-NRI#idi_plot)  [](https://github.com/LambertLeong/AUC_NRI_IDI_python_functions)  
 
 ## **发表 IDI 的例子**
 
-[](https://www.nature.com/articles/s43856-021-00024-0#Fig3) [## 用于成分生物标记物的双能三室乳腺成像，以改善对乳腺癌的检测
-
-### 虽然乳房成像如全视野数字乳房 x 线照相术和数字乳房断层合成术有助于减少…
-
-www.nature.com](https://www.nature.com/articles/s43856-021-00024-0#Fig3) [](/compositional-breast-imaging-with-artificial-intelligence-to-improve-cancer-detection-c5f8f38f2266) [## 使用人工智能的组合乳腺成像以改进癌症检测
-
-### 我们使用具有人工智能和深度学习的双能 X 射线成分乳腺成像来改善癌症…
-
-towardsdatascience.com](/compositional-breast-imaging-with-artificial-intelligence-to-improve-cancer-detection-c5f8f38f2266) 
+[](https://www.nature.com/articles/s43856-021-00024-0#Fig3)  [](/compositional-breast-imaging-with-artificial-intelligence-to-improve-cancer-detection-c5f8f38f2266)  
 
 ## **资助和研究数据请求**
 
-[](https://shapeup.shepherdresearchlab.org/) [## 振作起来！研究
-
-### 形状起来了！研究使用的技术提供了人体的全貌，包括我们的肌肉和骨骼…
-
-shapeup.shepherdresearchlab.org](https://shapeup.shepherdresearchlab.org/)
+[](https://shapeup.shepherdresearchlab.org/) 

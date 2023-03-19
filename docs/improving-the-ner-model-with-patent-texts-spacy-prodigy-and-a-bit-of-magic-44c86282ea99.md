@@ -32,11 +32,7 @@
 
 例如，其中一个来源是谷歌专利，它提供对国际专利分类数据库的访问:
 
- [## 专利网站地图
-
-### 按国际专利分类的专利(61，837，450)
-
-www.google.com](https://www.google.com/patents/sitemap/en/Sitemap.html) 
+  
 
 但更重要的是**版权免费。根据** [**USPTO**](http://www.uspto.gov/news/media/ccpubguide.jsp)
 
@@ -46,11 +42,7 @@ www.google.com](https://www.google.com/patents/sitemap/en/Sitemap.html)
 
 对于实验，我选择了专利的**【G06K】***(数据识别/数据呈现)* 小节，而**G06**——是*计算/计算*小节。这样的文本应该有助于训练对特定于数据分析领域的技术实体的识别，例如计算机视觉、信号处理等。
 
- [## G06K -数据的识别；数据的呈现；记录载体；处理记录载体…
-
-### 更多主题在“G06K -数据的识别；数据的呈现；记录载体；处理记录载体”…
-
-www.google.com](https://www.google.com/patents/sitemap/en/Sitemap/G06/G06K.html) 
+  
 
 # 提取术语
 
@@ -136,11 +128,7 @@ www.google.com](https://www.google.com/patents/sitemap/en/Sitemap/G06/G06K.html)
 
 *完整的代码和解析的数据可以在这里找到:*
 
-*[](https://github.com/kinivi/patent_ner_linking) [## GitHub-kini VI/patent _ ner _ linking:📰命名实体识别(NER)和实体链接(EL)
-
-### 📰专利数据库上的命名实体识别(NER)和实体链接(EL)
-
-github.com](https://github.com/kinivi/patent_ner_linking) 
+*[](https://github.com/kinivi/patent_ner_linking)  
 
 ## 附言
 

@@ -28,19 +28,11 @@ WSL2 使您能够在 Windows 中运行完整的 Linux 环境。它有一个专�
 
 让我们开始吧！
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-BEXGBoost
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。支持我的工作，给我买一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+[](https://ibexorigin.medium.com/membership)  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex) [## 阿尔法信号|机器学习的极品。艾总结的。
-
-### 留在循环中，不用花无数时间浏览下一个突破；我们的算法识别…
-
-alphasignal.ai](https://alphasignal.ai/?referrer=Bex) 
+[](https://alphasignal.ai/?referrer=Bex)  
 
 ## 1.卸载现有安装(可选)
 
@@ -174,11 +166,7 @@ git config --global credential.helper "/mnt/c/Program\ Files/Git/mingw64/bin/git
 
 之后，您应该可以在 WSL2 终端上成功运行`docker --version`。
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-BEXGBoost
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。支持我的工作，给我买一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+[](https://ibexorigin.medium.com/membership)  
 
 ## 11.如何在 WSL2 上安装 Anaconda
 
@@ -330,11 +318,7 @@ pip install black isort
 
 如果你不能在 Windows 上运行带 GPU 的 TensorFlow，首先，按照我写的这篇文章安装带 GPU 支持的 TensorFlow:
 
-[](/how-to-finally-install-tensorflow-gpu-on-windows-10-63527910f255) [## 如何在 2022 年最终在 Windows 10 上安装 TensorFlow 2 GPU
-
-### 编辑描述
-
-towardsdatascience.com](/how-to-finally-install-tensorflow-gpu-on-windows-10-63527910f255) 
+[](/how-to-finally-install-tensorflow-gpu-on-windows-10-63527910f255)  
 
 该指南将教您在 Windows 系统上安装 CUDA 11.2 和 cuDNN 8.1 驱动程序/库。我们为 CUDA 和 cuDNN 选择 11.2 和 8.1 版本，因为 TensorFlow v. 2.6+需要这些版本。按照教程操作后，打开 Ubuntu 终端并更新/升级:
 
@@ -377,11 +361,7 @@ $ python -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU
 
 感谢您的阅读！
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-BEXGBoost
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。支持我的工作，给我买一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+[](https://ibexorigin.medium.com/membership)  
 
 有用的资源:
 
@@ -391,16 +371,4 @@ ibexorigin.medium.com](https://ibexorigin.medium.com/membership)
 
 ## 我的更多故事
 
-[](/how-to-boost-pandas-speed-and-process-10m-row-datasets-in-milliseconds-48d5468e269) [## 如何提高熊猫的速度，在几毫秒内处理 1000 万行数据集
-
-### 按照预期的方式使用熊猫
-
-towardsdatascience.com](/how-to-boost-pandas-speed-and-process-10m-row-datasets-in-milliseconds-48d5468e269) [](/a-complete-shap-tutorial-how-to-explain-any-black-box-ml-model-in-python-7538d11fae94) [## 完整的 SHAP 教程:如何用 Python 解释任何黑盒 ML 模型
-
-### 向非技术人员解释任何黑盒模型
-
-towardsdatascience.com](/a-complete-shap-tutorial-how-to-explain-any-black-box-ml-model-in-python-7538d11fae94) [](/3-step-feature-selection-guide-in-sklearn-to-superchage-your-models-e994aa50c6d2) [## Sklearn 中的 3 步功能选择指南，让您的模型焕然一新
-
-### 为任何受监督的问题开发一个健壮的特征选择工作流
-
-towardsdatascience.com](/3-step-feature-selection-guide-in-sklearn-to-superchage-your-models-e994aa50c6d2)
+[](/how-to-boost-pandas-speed-and-process-10m-row-datasets-in-milliseconds-48d5468e269)  [](/a-complete-shap-tutorial-how-to-explain-any-black-box-ml-model-in-python-7538d11fae94)  [](/3-step-feature-selection-guide-in-sklearn-to-superchage-your-models-e994aa50c6d2) 

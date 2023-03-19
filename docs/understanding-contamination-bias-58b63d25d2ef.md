@@ -301,11 +301,7 @@ new_results = simulate(dgp, new_estimator)plot_results(new_results)
 
 **你可以在这里找到 Jupyter 的原始笔记本:**
 
-**[](https://github.com/matteocourthoud/Blog-Posts/blob/main/notebooks/cbias.ipynb) [## main matter courthoud/Blog-Posts/CBI as . ipynb
-
-### 我博客文章的代码和笔记本。通过在…上创建帐户，为 matteocourthoud/Blog-Posts 的发展做出贡献
-
-github.com](https://github.com/matteocourthoud/Blog-Posts/blob/main/notebooks/cbias.ipynb)** 
+**[](https://github.com/matteocourthoud/Blog-Posts/blob/main/notebooks/cbias.ipynb) ** 
 
 ## **感谢您的阅读！**
 

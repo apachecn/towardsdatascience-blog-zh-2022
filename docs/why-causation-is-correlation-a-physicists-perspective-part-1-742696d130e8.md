@@ -169,16 +169,4 @@
 
 如果你喜欢这篇文章，你可能会对我下面列出的其他见解感兴趣。如果你想从物理学家的角度看一个不同的话题，不要犹豫给我发信息，因为我很乐意与你分享更多的想法。👋
 
-[](/a-physicists-view-of-machine-learning-the-thermodynamics-of-machine-learning-6a3ab00e46f1) [## 物理学家对机器学习的看法:机器学习的热力学
-
-### 利用热力学可以成功地研究自然界中的复杂系统。机器学习呢？
-
-towardsdatascience.com](/a-physicists-view-of-machine-learning-the-thermodynamics-of-machine-learning-6a3ab00e46f1) [](https://medium.com/intuition/why-we-dont-live-in-a-simulation-a-physicist-s-perspective-1811d65f502d) [## 为什么我们不生活在模拟中:物理学家的视角
-
-### 将现实描述为模拟大大低估了我们世界的复杂性。这就是为什么模拟…
-
-medium.com](https://medium.com/intuition/why-we-dont-live-in-a-simulation-a-physicist-s-perspective-1811d65f502d) [](https://medium.com/swlh/entropy-is-not-disorder-a-physicists-perspective-c0dccfea67f1) [## 熵不是无序:物理学家的观点
-
-### 熵通常被视为混沌的同义词。但它到底是什么呢？在这篇文章中，我们探索熵是如何更…
-
-medium.com](https://medium.com/swlh/entropy-is-not-disorder-a-physicists-perspective-c0dccfea67f1)
+[](/a-physicists-view-of-machine-learning-the-thermodynamics-of-machine-learning-6a3ab00e46f1)  [](https://medium.com/intuition/why-we-dont-live-in-a-simulation-a-physicist-s-perspective-1811d65f502d)  [](https://medium.com/swlh/entropy-is-not-disorder-a-physicists-perspective-c0dccfea67f1) 

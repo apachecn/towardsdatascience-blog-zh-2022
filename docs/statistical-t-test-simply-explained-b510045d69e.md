@@ -12,11 +12,7 @@ micha Parzuchowski 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_med
 
 在我之前的文章中，我们讨论了最不可靠的统计测试，即 **Z 测试**，你可以在这里阅读:
 
-[](/z-test-simply-explained-80b346e0e239) [## 简单解释了 z 测试
-
-### 统计假设检验的 Z 检验的直观解释
-
-towardsdatascience.com](/z-test-simply-explained-80b346e0e239) 
+[](/z-test-simply-explained-80b346e0e239)  
 
 在本文中，我们将讨论 **T-Test** ，它也非常受欢迎，与 Z-Test 非常相似。
 

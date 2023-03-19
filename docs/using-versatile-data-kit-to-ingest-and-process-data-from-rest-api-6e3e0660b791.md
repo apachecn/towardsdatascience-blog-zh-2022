@@ -263,20 +263,4 @@ CREATE TABLE cleaned_assets AS (SELECT
 
 # 相关文章
 
-[](/an-overview-of-versatile-data-kit-a812cfb26de7) [## 多功能数据工具包概述
-
-### 开始使用多功能数据工具包，这是一个使数据工程师工作更高效的框架
-
-towardsdatascience.com](/an-overview-of-versatile-data-kit-a812cfb26de7) [](/from-raw-data-to-a-cleaned-database-a-deep-dive-into-versatile-data-kit-ab5fd992a02e) [## 从原始数据到干净的数据库:对多功能数据工具包的深入研究
-
-### 使用通用数据工具包(VMware 最近发布的一个框架)和 Trino DB 的完整示例
-
-towardsdatascience.com](/from-raw-data-to-a-cleaned-database-a-deep-dive-into-versatile-data-kit-ab5fd992a02e) [](/is-a-small-dataset-risky-b664b8569a21) [## 小数据集有风险吗？
-
-### 关于在数据科学项目中使用小数据集的一些思考和测试。
-
-towardsdatascience.com](/is-a-small-dataset-risky-b664b8569a21) [](/how-to-convert-a-shapefile-to-a-dataframe-in-python-a6ca9a893504) [## 如何在 Python 中将 Shapefile 转换为 DataFrame
-
-### GeoPandas Python 库概述，附带一个分步示例
-
-towardsdatascience.com](/how-to-convert-a-shapefile-to-a-dataframe-in-python-a6ca9a893504)
+[](/an-overview-of-versatile-data-kit-a812cfb26de7)  [](/from-raw-data-to-a-cleaned-database-a-deep-dive-into-versatile-data-kit-ab5fd992a02e)  [](/is-a-small-dataset-risky-b664b8569a21)  [](/how-to-convert-a-shapefile-to-a-dataframe-in-python-a6ca9a893504) 

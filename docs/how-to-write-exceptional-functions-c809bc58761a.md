@@ -18,11 +18,7 @@ T 他们是编程世界中的一股巨大力量，也是数学和高级计算的
 
 尽管在试图创建一个函数时很容易迷失方向，但是有一些有用的方法可以使编写函数变得更容易。虽然函数一开始可能令人生畏，但它们通常只是输入和输出的基本操作。我使用了一些很棒的技术来编写看起来很棒、功能也很棒的函数。这些通常伴随着更多的经验，但我认为分享其中的一些可能是有意义的，因为它们在我编写函数的过程中经常会派上用场。如果您想查看我在本文中为演示这些内容而编写的函数的代码，笔记本在这里:
 
-[](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/Better%20functions.ipynb) [## Emmetts-DS-笔记本/更好的功能。ipynb at master emmett GB/Emmetts-DS-笔记本
-
-### 各种项目的随机笔记本。通过创建帐户，为 emmettgb/Emmetts-DS 笔记本电脑的开发做出贡献…
-
-github.com](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/Better%20functions.ipynb) 
+[](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/Better%20functions.ipynb)  
 
 # 开始一项功能
 
@@ -43,11 +39,7 @@ function r2(x, y)end
 
 因为我使用的是 Julia，所以我还会确保传递每个参数的类型，这样这个方法在不同的上下文中都是可扩展和可用的。顺便说一下，这些好处是在文档和方法错误的好处之上的。如果这些听起来都不熟悉，但您希望如此，我有一整篇文章讨论 MethodError 及其各种功能，因此您可以在这里了解更多信息:
 
-[](/the-beauty-of-the-methoderror-e5bb2f3e2678) [## 方法的妙处错误
-
-### 方法错误的概述，以及为什么它在 Julia 中如此有用
-
-towardsdatascience.com](/the-beauty-of-the-methoderror-e5bb2f3e2678) 
+[](/the-beauty-of-the-methoderror-e5bb2f3e2678)  
 
 ```
 function r2(x::Array, y::Array)end

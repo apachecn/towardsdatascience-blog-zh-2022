@@ -118,12 +118,4 @@ min_periods = 1 时窗口大小为 6 的移动平均结果(图片由作者提供
 
 一如既往，感谢阅读。下面是我的一些其他文章，你可能会喜欢读:)
 
-[](/20-of-numpy-functions-that-data-scientists-use-80-of-the-time-d8bd9c7d144b) [## 数据科学家 80%的时间使用 20%的 NumPy 函数
-
-### 谁说你应该知道一切？
-
-towardsdatascience.com](/20-of-numpy-functions-that-data-scientists-use-80-of-the-time-d8bd9c7d144b) [](/five-killer-optimization-techniques-every-pandas-user-should-know-266662bd1163) [## 每个熊猫用户应该知道的五个黑仔优化技术
-
-### 数据分析运行时优化的一步
-
-towardsdatascience.com](/five-killer-optimization-techniques-every-pandas-user-should-know-266662bd1163)
+[](/20-of-numpy-functions-that-data-scientists-use-80-of-the-time-d8bd9c7d144b)  [](/five-killer-optimization-techniques-every-pandas-user-should-know-266662bd1163) 

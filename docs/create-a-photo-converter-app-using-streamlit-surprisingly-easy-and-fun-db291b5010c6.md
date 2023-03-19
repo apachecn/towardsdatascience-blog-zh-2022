@@ -30,11 +30,7 @@
 
 可以参考下面的[文章](/streamlit-hands-on-from-zero-to-your-first-awesome-web-app-2c28f9f4e214)，按照说明安装 Streamlit，学习基础知识。
 
-[](/streamlit-hands-on-from-zero-to-your-first-awesome-web-app-2c28f9f4e214) [## 简化实践:从零到你的第一个优秀的网络应用
-
-### 学习核心概念并使用 Streamlit 创建您的第一个 Web 应用程序的分步指南
-
-towardsdatascience.com](/streamlit-hands-on-from-zero-to-your-first-awesome-web-app-2c28f9f4e214) 
+[](/streamlit-hands-on-from-zero-to-your-first-awesome-web-app-2c28f9f4e214)  
 
 **#安装 OpenCV:**
 

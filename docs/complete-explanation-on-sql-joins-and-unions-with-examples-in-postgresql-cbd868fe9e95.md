@@ -382,28 +382,4 @@ where g.country = m.country;
 
 ## 更多阅读
 
-[](https://pub.towardsai.net/an-overview-of-the-major-sql-query-clauses-and-most-commonly-used-functions-60720e2a20d7) [## SQL 查询子句和函数概述
-
-### 可以用作 SQL 的备忘单
-
-pub.towardsai.net](https://pub.towardsai.net/an-overview-of-the-major-sql-query-clauses-and-most-commonly-used-functions-60720e2a20d7) [](/a-complete-guide-for-detecting-and-dealing-with-outliers-bad26b1e92b6) [## 检测和处理异常值的完整指南
-
-### 6 种检测异常值的方法和 4 种处理异常值的方法
-
-towardsdatascience.com](/a-complete-guide-for-detecting-and-dealing-with-outliers-bad26b1e92b6) [](/30-very-useful-pandas-functions-for-everyday-data-analysis-tasks-f1eae16409af) [## 30 个非常有用的熊猫函数，用于日常数据分析任务
-
-### 熊猫小型张
-
-towardsdatascience.com](/30-very-useful-pandas-functions-for-everyday-data-analysis-tasks-f1eae16409af) [](/animated-and-racing-bar-plots-tutorial-7967a45c4753) [## 动画和赛车酒吧情节教程
-
-### 完整的工作代码
-
-towardsdatascience.com](/animated-and-racing-bar-plots-tutorial-7967a45c4753) [](/regression-in-tensorflow-using-both-sequential-and-function-apis-314e74b537ca) [## TensorFlow 中使用顺序 API 和函数 API 的回归
-
-### 演示几种不同类型的模型结构
-
-towardsdatascience.com](/regression-in-tensorflow-using-both-sequential-and-function-apis-314e74b537ca) [](/what-is-a-recurrent-neural-network-and-implementation-of-simplernn-gru-and-lstm-models-in-keras-f7247e97c405) [## 在 Keras 中实现简单网络、GRU 和 LSTM 模型…
-
-### 什么是递归神经网络以及三种递归神经网络在 Tensorflow 和
-
-towardsdatascience.com](/what-is-a-recurrent-neural-network-and-implementation-of-simplernn-gru-and-lstm-models-in-keras-f7247e97c405)
+[](https://pub.towardsai.net/an-overview-of-the-major-sql-query-clauses-and-most-commonly-used-functions-60720e2a20d7)  [](/a-complete-guide-for-detecting-and-dealing-with-outliers-bad26b1e92b6)  [](/30-very-useful-pandas-functions-for-everyday-data-analysis-tasks-f1eae16409af)  [](/animated-and-racing-bar-plots-tutorial-7967a45c4753)  [](/regression-in-tensorflow-using-both-sequential-and-function-apis-314e74b537ca)  [](/what-is-a-recurrent-neural-network-and-implementation-of-simplernn-gru-and-lstm-models-in-keras-f7247e97c405) 

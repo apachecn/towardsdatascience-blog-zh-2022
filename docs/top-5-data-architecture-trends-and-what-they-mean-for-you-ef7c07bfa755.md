@@ -28,11 +28,7 @@
 
 如果您正在进行战略性数据转换计划，请查看您的现任供应商/销售商/内部团队是否正在整合数据可观察性检查(可能使用不同的名称)。如果不是，考虑提议对数据完整性、唯一性和准确性进行基本检查。还提出了一些自动化的解决方案，如分类，自愈管道等。
 
-[](https://medium.com/geekculture/how-data-quality-is-being-subsumed-by-data-observability-ea7e17b4e46a) [## 数据质量如何被数据可观察性所包含
-
-### 旧的数据质量实践为数据的可观察性铺平了道路
-
-medium.com](https://medium.com/geekculture/how-data-quality-is-being-subsumed-by-data-observability-ea7e17b4e46a) 
+[](https://medium.com/geekculture/how-data-quality-is-being-subsumed-by-data-observability-ea7e17b4e46a)  
 
 ## 2.数据产品&作为产品的数据
 
@@ -88,11 +84,7 @@ medium.com](https://medium.com/geekculture/how-data-quality-is-being-subsumed-by
 
 如果这引起了你的共鸣，请在下面留下评论来分享你的想法。想了解如何改善数据的健康状况吗？查看这篇文章:
 
-[](/improve-health-of-your-data-by-using-these-5-scoring-methods-4f3ec1d7c620) [## 通过使用这 5 种评分方法来改善数据的健康状况
-
-### 最终帮助您改善数据健康状况的步骤
-
-towardsdatascience.com](/improve-health-of-your-data-by-using-these-5-scoring-methods-4f3ec1d7c620) 
+[](/improve-health-of-your-data-by-using-these-5-scoring-methods-4f3ec1d7c620)  
 
 如果您没有订阅 Medium，请考虑使用我的推荐链接订阅[。它比网飞便宜，而且客观上能更好地利用你的时间。](https://hanzalaqureshi.medium.com/membership)如果你使用我的链接，我会获得一小笔佣金，而你可以在 Medium 上获得无限的故事。
 

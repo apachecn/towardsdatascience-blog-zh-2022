@@ -392,10 +392,6 @@ print(pos_tags[0:10])*
 
 *[Python 中的自然语言处理基础](https://www.udemy.com/course/nlp_natural_language_processing_python_beginners/?referralCode=MEDIUMREADERS) —图片作者*
 
-*[](https://ivopbernardo.medium.com/membership) [## 通过我的推荐链接加入 Medium-Ivo Bernardo
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-ivopbernardo.medium.com](https://ivopbernardo.medium.com/membership) 
+*[](https://ivopbernardo.medium.com/membership)  
 
 这篇文章的代码有一个小要点:*

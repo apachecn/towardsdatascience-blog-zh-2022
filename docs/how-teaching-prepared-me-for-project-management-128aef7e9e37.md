@@ -74,19 +74,7 @@
 
 另外，如果你喜欢这篇文章，可以看看下面类似的文章:
 
-[](/written-communication-the-other-data-science-skill-you-need-f89b2063923c) [## 书面交流:你需要的另一项数据科学技能
-
-### 我的数据科学生涯中有 12 个例子
-
-towardsdatascience.com](/written-communication-the-other-data-science-skill-you-need-f89b2063923c) [](/7-reasons-you-should-blog-during-your-data-science-journey-4f542b05dab1) [## 在数据科学之旅中，你应该写博客的 7 个理由
-
-### 给你一些建议让你开始
-
-towardsdatascience.com](/7-reasons-you-should-blog-during-your-data-science-journey-4f542b05dab1) [](/why-focus-is-key-for-your-data-science-journey-b62715b2a1c) [## 为什么专注对您的数据科学之旅至关重要
-
-### 以及它将如何节省您进入该领域的时间
-
-towardsdatascience.com](/why-focus-is-key-for-your-data-science-journey-b62715b2a1c) 
+[](/written-communication-the-other-data-science-skill-you-need-f89b2063923c)  [](/7-reasons-you-should-blog-during-your-data-science-journey-4f542b05dab1)  [](/why-focus-is-key-for-your-data-science-journey-b62715b2a1c)  
 
 如果你有任何问题，请随时在 Linkedin 和 Twitter 上发表评论或联系我们。对 Twitter 上的 DM 开放。
 

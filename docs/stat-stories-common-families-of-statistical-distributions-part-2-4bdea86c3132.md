@@ -60,11 +60,7 @@
 
 威布尔分布的 PDF 可以使用变量转换方法从指数分布中导出，如我以前的文章[中所述](/stat-stories-variable-transformation-to-generate-new-distributions-d4607cb32c30)
 
-[](/stat-stories-variable-transformation-to-generate-new-distributions-d4607cb32c30) [## 统计故事:生成新分布的变量转换
-
-### 统计分布的变换
-
-towardsdatascience.com](/stat-stories-variable-transformation-to-generate-new-distributions-d4607cb32c30) 
+[](/stat-stories-variable-transformation-to-generate-new-distributions-d4607cb32c30)  
 
 备注:威布尔分布和伽马分布的区别在于，在伽马分布中， *y* 在指数中有一个线性项，而在威布尔分布中，有 y 的幂 *γ。*
 

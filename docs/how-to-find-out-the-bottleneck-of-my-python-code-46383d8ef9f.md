@@ -259,12 +259,4 @@ python -m plop.viewer --datadir=profiles/
 
 ## 参考
 
-[](https://granulate.io/introduction-to-continuous-profiling/) [## 粒状博客——连续应用程序剖析:概述
-
-### 通常，开发人员需要调查生产应用程序中的性能瓶颈，并…
-
-grate . io](https://granulate.io/introduction-to-continuous-profiling/) [](https://pythonspeed.com/articles/do-you-need-cluster-or-multiprocessing/) [## 优化代码不同于并行化代码
-
-### 你正在用 Python 处理大量的数据，这种处理似乎很容易并行化——而且速度很慢…
-
-pythonspeed.com](https://pythonspeed.com/articles/do-you-need-cluster-or-multiprocessing/)
+[](https://granulate.io/introduction-to-continuous-profiling/)  [](https://pythonspeed.com/articles/do-you-need-cluster-or-multiprocessing/) 

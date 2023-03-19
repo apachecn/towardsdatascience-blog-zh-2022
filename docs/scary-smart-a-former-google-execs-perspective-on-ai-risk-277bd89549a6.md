@@ -14,11 +14,7 @@
 
 如果你在 2021 年 9 月下旬浏览你的新闻提要，你可能会看到伦敦《泰晤士报》的这个引人注目的标题，上面写道:“这个人能从人工智能中拯救世界吗？”
 
-[](https://www.thetimes.co.uk/article/can-this-man-save-the-world-from-artificial-intelligence-329dd6zvd) [## 这个人能从人工智能中拯救世界吗？
-
-### 莫·格达特在一只机器手臂上瞥见了天启。或者更确切地说，在一堆机器人手臂中，所有的都被一起开发。安…
-
-www.thetimes.co.uk](https://www.thetimes.co.uk/article/can-this-man-save-the-world-from-artificial-intelligence-329dd6zvd) 
+[](https://www.thetimes.co.uk/article/can-this-man-save-the-world-from-artificial-intelligence-329dd6zvd)  
 
 这名男子名叫莫·格达特(Mo Gawdat)，是一名企业家和高级技术高管，在谷歌的半秘密研究机构 GoogleX(现名为 X Development)担任了几年的首席商务官，该公司对无人驾驶汽车、飞行器和地热能等登月项目进行了实验。在 X，莫接触到了许多领域的绝对前沿——人工智能就是其中之一。他看到人工智能系统学习并与世界互动的经历给他敲响了警钟——如果我们现在不采取行动，人工智能系统可能会以灾难性的失败模式告终。
 

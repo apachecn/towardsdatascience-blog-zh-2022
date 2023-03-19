@@ -107,11 +107,7 @@ Sigmoid 函数(f(x))及其导数(f'(x))。sigmoid f(x)将任何实数值 x 推�
 
 我希望这篇文章为神经网络系列的其他部分打下良好的基础。下面是系列文章的下一篇文章。继续读。让我们继续学习**。**
 
-[](/feed-forward-neural-network-with-example-neural-network-series-part-2-eeca7a081ef5) [## 神经网络如何工作—实例(神经网络系列)—第 2 部分
-
-### 本文将涵盖前馈神经网络(FF-NN)，重点讨论在神经网络内完成的计算
-
-towardsdatascience.com](/feed-forward-neural-network-with-example-neural-network-series-part-2-eeca7a081ef5) 
+[](/feed-forward-neural-network-with-example-neural-network-series-part-2-eeca7a081ef5)  
 
 请[以每月 5 美元的价格注册成为 medium 会员](https://medium.com/@kiprono_65591/membership)，这样就可以在 medium 上阅读我和其他作者的所有文章。
 

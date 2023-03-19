@@ -118,12 +118,4 @@ b)该性能指标可以应用于几乎任何模型的拟合值，因此它与为
 
 凯特·沃尔报道:
 
-[](/level-up-with-python-quickly-produce-pdfs-with-stunning-visuals-d6750c9c7be2) [## 使用 Python 升级:快速生成具有惊人视觉效果的 pdf
-
-### 使用 Matplotlib 制作业务分发手册/电子邮件/传单
-
-towardsdatascience.com](/level-up-with-python-quickly-produce-pdfs-with-stunning-visuals-d6750c9c7be2) [](/probability-for-data-scientists-the-capable-chi-squared-distribution-abced58fa157) [## 数据科学家的概率:有效卡方分布
-
-### 分布函数的交互式可视化
-
-towardsdatascience.com](/probability-for-data-scientists-the-capable-chi-squared-distribution-abced58fa157)
+[](/level-up-with-python-quickly-produce-pdfs-with-stunning-visuals-d6750c9c7be2)  [](/probability-for-data-scientists-the-capable-chi-squared-distribution-abced58fa157) 

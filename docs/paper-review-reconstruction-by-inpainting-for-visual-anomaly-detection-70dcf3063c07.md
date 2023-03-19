@@ -178,10 +178,6 @@ U-net 的训练[1]。
 
 ## 其他相关文章:
 
-[](/ganomaly-paper-review-semi-supervised-anomaly-detection-via-adversarial-training-a6f7a64a265f) [## GANomaly 论文综述:通过对抗训练的半监督异常检测
-
-### 一种结合自动编码器和生成式对抗网络的异常检测模型
-
-towardsdatascience.com](/ganomaly-paper-review-semi-supervised-anomaly-detection-via-adversarial-training-a6f7a64a265f) 
+[](/ganomaly-paper-review-semi-supervised-anomaly-detection-via-adversarial-training-a6f7a64a265f)  
 
 你喜欢我的文章吗？ [*成为会员*](https://eugenia-anello.medium.com/membership) *每天无限获取数据科学新帖！这是一种间接的支持我的方式，不会给你带来任何额外的费用。如果您已经是会员，* [*订阅*](https://eugenia-anello.medium.com/subscribe) *每当我发布新的数据科学和 python 指南时，您都可以收到电子邮件！*

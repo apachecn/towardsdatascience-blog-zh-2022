@@ -190,16 +190,4 @@ y=df[['MaxTemp']]for i in ranges:
 
 # 相关文章
 
-[](/why-you-should-not-trust-the-train-test-split-function-47cb9d353ad2) [## 为什么不应该信任 train_test_split()函数
-
-### 对使用 train_test_split()函数如何导致错误结果的思考，以及一个实际的…
-
-towardsdatascience.com](/why-you-should-not-trust-the-train-test-split-function-47cb9d353ad2) [](/hypothesis-testing-made-easy-through-the-easy-ht-python-package-2ee395b95fe2) [## 通过 easy-ht Python 包简化了假设检验
-
-### 你应该使用哪种假设检验？皮尔逊还是斯皮尔曼？t 检验还是 Z 检验？卡方？easy-ht 没问题。
-
-towardsdatascience.com](/hypothesis-testing-made-easy-through-the-easy-ht-python-package-2ee395b95fe2) [](/three-tricks-on-python-functions-that-you-should-know-e6badb26aac2) [## 你应该知道的关于 Python 函数的三个技巧
-
-### 快速概述一些可以提高你编程技能的技巧:嵌套函数、可变参数和…
-
-towardsdatascience.com](/three-tricks-on-python-functions-that-you-should-know-e6badb26aac2)
+[](/why-you-should-not-trust-the-train-test-split-function-47cb9d353ad2)  [](/hypothesis-testing-made-easy-through-the-easy-ht-python-package-2ee395b95fe2)  [](/three-tricks-on-python-functions-that-you-should-know-e6badb26aac2) 

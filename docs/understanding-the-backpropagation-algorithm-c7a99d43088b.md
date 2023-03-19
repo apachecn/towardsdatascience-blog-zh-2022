@@ -50,16 +50,4 @@
 
 *如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
 
-*[](/beginners-guide-to-gradient-descent-47f8d0f4ce3b) [## 梯度下降初学者指南
-
-### 关于梯度下降法你需要知道的一切
-
-towardsdatascience.com](/beginners-guide-to-gradient-descent-47f8d0f4ce3b) [](/beginners-guide-extract-transform-load-etl-49104a8f9294) [## 初学者指南:提取、转换、加载(ETL)
-
-### 了解数据分析中的大数据原理
-
-towardsdatascience.com](/beginners-guide-extract-transform-load-etl-49104a8f9294) [](/8-machine-learning-algorithms-everyone-new-to-data-science-should-know-772bd0f1eca1) [## 数据科学新手应该知道的 8 种机器学习算法
-
-### 简要解释机器学习背后的算法
-
-towardsdatascience.com](/8-machine-learning-algorithms-everyone-new-to-data-science-should-know-772bd0f1eca1)*
+*[](/beginners-guide-to-gradient-descent-47f8d0f4ce3b)  [](/beginners-guide-extract-transform-load-etl-49104a8f9294)  [](/8-machine-learning-algorithms-everyone-new-to-data-science-should-know-772bd0f1eca1) *

@@ -44,11 +44,7 @@
 
 **你可以在我之前的帖子中读到更多关于伽马函数和 [**伽马分布的信息:**](https://en.wikipedia.org/wiki/Gamma_distribution)**
 
-**[](/gamma-distribution-simply-explained-d95a9de16278) [## 伽马分布简单解释
-
-### 伽马分布及其起源的解释
-
-towardsdatascience.com](/gamma-distribution-simply-explained-d95a9de16278) 
+**[](/gamma-distribution-simply-explained-d95a9de16278)  
 
 # 直觉
 
@@ -138,11 +134,7 @@ plt.show()*
 
 *情节的完整代码可以在我的 GitHub 这里获得:*
 
-*[](https://github.com/egorhowell/Medium-Articles/blob/main/Statistics/Beta_Distribution.ipynb) [## Medium-Articles/Beta _ distribution . ipynb at main egorhowell/Medium-Articles
-
-### 我在我的媒体博客/文章中使用的代码。通过创建一个关于…的帐户，为 egorhowell/Medium-Articles 的开发做出贡献
-
-github.com](https://github.com/egorhowell/Medium-Articles/blob/main/Statistics/Beta_Distribution.ipynb) 
+*[](https://github.com/egorhowell/Medium-Articles/blob/main/Statistics/Beta_Distribution.ipynb)  
 
 # 结论
 

@@ -232,11 +232,7 @@ SCS 方法比基于 MAE 和 MAPE 的 NC 方法分别提高了 2%和 8%。但是�
 
 什么更有趣？你可以通过我下面的推荐链接订阅 Medium 来获得更多我和其他作者的启发性文章，这也支持我的写作。
 
-[](https://aolaoye.medium.com/membership) [## 通过我的推荐链接加入媒体
-
-### 阅读 Abiodun Olaoye(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-aolaoye.medium.com](https://aolaoye.medium.com/membership) 
+[](https://aolaoye.medium.com/membership)  
 
 *不要忘了查看在可再生能源领域应用最新数据科学原理的其他故事。*
 

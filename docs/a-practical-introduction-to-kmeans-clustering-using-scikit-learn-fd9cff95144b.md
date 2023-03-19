@@ -14,19 +14,7 @@
 
 如果您错过了 UCL 数据科学协会之前举办的任何研讨会，可以在这里找到最后三场研讨会:
 
-[](/a-practical-introduction-to-support-vector-machines-from-scikit-learn-6e678cf1f228) [## 来自 scikit-learn 的支持向量机实用介绍
-
-### UCL 数据科学学会研讨会 15:什么是支持向量机，如何实现它们，以及如何评估它们
-
-towardsdatascience.com](/a-practical-introduction-to-support-vector-machines-from-scikit-learn-6e678cf1f228) [](https://python.plainenglish.io/a-practical-introduction-to-random-forest-classifiers-from-scikit-learn-536e305d8d87) [## scikit-learn 中随机森林分类器的实用介绍
-
-### UCL 数据科学学会研讨会 14:什么是随机森林分类器、实现、评估和改进
-
-python .平原英语. io](https://python.plainenglish.io/a-practical-introduction-to-random-forest-classifiers-from-scikit-learn-536e305d8d87) [](/how-to-implement-and-evaluate-decision-tree-classifiers-from-scikit-learn-36ef7f037a78) [## 如何实现和评估来自 scikit-learn 的决策树分类器
-
-### UCL 数据科学学会研讨会 13:什么是决策树，决策树的实现，可视化和…
-
-towardsdatascience.com](/how-to-implement-and-evaluate-decision-tree-classifiers-from-scikit-learn-36ef7f037a78) 
+[](/a-practical-introduction-to-support-vector-machines-from-scikit-learn-6e678cf1f228)  [](https://python.plainenglish.io/a-practical-introduction-to-random-forest-classifiers-from-scikit-learn-536e305d8d87)  [](/how-to-implement-and-evaluate-decision-tree-classifiers-from-scikit-learn-36ef7f037a78)  
 
 ## 什么是 Kmeans 集群？
 
@@ -414,24 +402,8 @@ insta gram:【https://www.instagram.com/ucl.datasci/
 
 如果你想了解 UCL 数据科学协会和其他优秀作者的最新信息，请使用我下面的推荐代码注册 medium。
 
-[](https://philip-wilkinson.medium.com/membership) [## 通过我的推荐链接加入媒体-菲利普·威尔金森
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-philip-wilkinson.medium.com](https://philip-wilkinson.medium.com/membership) 
+[](https://philip-wilkinson.medium.com/membership)  
 
 或者看看我的其他商店
 
-[](/maximum-likelihood-estimation-and-ols-regression-36c049c94a48) [## 最大似然估计和 OLS 回归
-
-### 介绍他们的关系和工作方式
-
-towardsdatascience.com](/maximum-likelihood-estimation-and-ols-regression-36c049c94a48) [](/an-introduction-to-object-oriented-programming-for-data-scientists-879106d90d89) [## 面向数据科学家的面向对象编程介绍
-
-### 面向对象的基础知识，适合那些以前可能没有接触过这个概念或者想知道更多的人
-
-towardsdatascience.com](/an-introduction-to-object-oriented-programming-for-data-scientists-879106d90d89) [](/the-use-of-list-dictionary-and-set-comprehensions-to-shorten-your-code-66e6dfeaae13) [## 使用列表、字典和集合理解来缩短代码
-
-### 在使用 Python 将近一年的时间里，我经常遇到“理解”这个词，但不一定…
-
-towardsdatascience.com](/the-use-of-list-dictionary-and-set-comprehensions-to-shorten-your-code-66e6dfeaae13)
+[](/maximum-likelihood-estimation-and-ols-regression-36c049c94a48)  [](/an-introduction-to-object-oriented-programming-for-data-scientists-879106d90d89)  [](/the-use-of-list-dictionary-and-set-comprehensions-to-shorten-your-code-66e6dfeaae13) 

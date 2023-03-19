@@ -18,11 +18,7 @@
 
 在这篇文章中，我将向您介绍我使用 Github 动作自动化 Python 测试的步骤。
 
-[](/python-automl-sklearn-fd85d3b3c5e) [## 让脚本找出优于您的 ML 模型
-
-### 这个自动 ML Python 库让每个人都成为数据科学向导
-
-towardsdatascience.com](/python-automl-sklearn-fd85d3b3c5e) 
+[](/python-automl-sklearn-fd85d3b3c5e)  
 
 # Python 测试如何在 GitHub 动作上工作
 
@@ -98,11 +94,7 @@ GitHub 操作工作流运行中的所有测试通过—作者截图。
 
 大多数 [python 项目都包含环境变量。](/python-project-structure-best-practices-d9d0b174ad5d)这些是每个部署所特有的特定变量。这个文件通常不放在远程存储库中。
 
-[](/python-project-structure-best-practices-d9d0b174ad5d) [## 让您的 Python 项目结构更优雅的 7 种方法
-
-### 以下是易于管理、可伸缩且易于理解的 python 项目结构的最佳实践。
-
-towardsdatascience.com](/python-project-structure-best-practices-d9d0b174ad5d) 
+[](/python-project-structure-best-practices-d9d0b174ad5d)  
 
 例如，您可以在. env 文件中定义启动基于 Python 的 web 应用程序的端口。但是不需要将它提交给远程存储库，因为其他用户可能会使用不同的端口。
 

@@ -60,16 +60,4 @@
 
 *如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
 
-*[](https://medium.com/nerd-for-tech/what-are-deepfakes-and-how-do-you-recognize-them-f9ab1a143456) [## 什么是 deepfakes，怎么识别？
-
-### Deepfakes 是使用深度学习模型人工创建的视频、图像或音频文件。比如说…
-
-medium.com](https://medium.com/nerd-for-tech/what-are-deepfakes-and-how-do-you-recognize-them-f9ab1a143456) [](https://medium.com/nerd-for-tech/understanding-mapreduce-with-the-help-of-harry-potter-5b0ae89cc88) [## 借助《哈利·波特》理解 MapReduce
-
-### MapReduce 是一种允许并行处理大型数据集的算法，例如，在多台计算机上…
-
-medium.com](https://medium.com/nerd-for-tech/understanding-mapreduce-with-the-help-of-harry-potter-5b0ae89cc88) [](https://medium.com/codex/explainable-ai-integrated-gradients-for-deep-neural-network-predictions-eb4f96248afb) [## 可解释的人工智能:深度神经网络预测的集成梯度
-
-### 集成梯度使得检查深度学习模型的输入对学习者的重要性成为可能
-
-medium.com](https://medium.com/codex/explainable-ai-integrated-gradients-for-deep-neural-network-predictions-eb4f96248afb)*
+*[](https://medium.com/nerd-for-tech/what-are-deepfakes-and-how-do-you-recognize-them-f9ab1a143456)  [](https://medium.com/nerd-for-tech/understanding-mapreduce-with-the-help-of-harry-potter-5b0ae89cc88)  [](https://medium.com/codex/explainable-ai-integrated-gradients-for-deep-neural-network-predictions-eb4f96248afb) *

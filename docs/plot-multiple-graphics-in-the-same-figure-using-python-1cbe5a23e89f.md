@@ -97,16 +97,8 @@ g4.set_title('Histogram of the travels beginning in Bronx');
 
 记得关注我了解更多。
 
-[](https://gustavorsantos.medium.com/) [## 古斯塔沃·桑托斯-中等
-
-### 阅读古斯塔夫·桑托斯在媒介上的作品。数据科学家。我从数据中提取见解，以帮助个人和公司…
-
-gustavorsantos.medium.com](https://gustavorsantos.medium.com/) 
+[](https://gustavorsantos.medium.com/)  
 
 如果你想订阅 Medium，这是我的推荐链接。
 
-[](https://gustavorsantos.medium.com/membership) [## 通过我的推荐链接加入媒体-古斯塔沃桑托斯
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gustavorsantos.medium.com](https://gustavorsantos.medium.com/membership)
+[](https://gustavorsantos.medium.com/membership) 

@@ -72,24 +72,4 @@ L1 和 L2 正规化各有利弊。根据项目的不同，您可以选择自己�
 
 **更多阅读**
 
-[](https://pub.towardsai.net/data-analysis-91a38207c92b) [## 数据分析
-
-### Python 中数据科学家/分析师日常工作中的常见数据清理任务
-
-pub.towardsai.net](https://pub.towardsai.net/data-analysis-91a38207c92b) [](/a-complete-sentiment-analysis-project-using-pythons-scikit-learn-b9ccbb0405c2) [## 使用 Python 的 Scikit-Learn 的完整情感分析项目
-
-### 比较 Python 中情感分析项目的两种不同矢量器和三种机器学习模型
-
-towardsdatascience.com](/a-complete-sentiment-analysis-project-using-pythons-scikit-learn-b9ccbb0405c2) [](/30-very-useful-pandas-functions-for-everyday-data-analysis-tasks-f1eae16409af) [## 30 个非常有用的熊猫函数，用于日常数据分析任务
-
-### 熊猫小型张
-
-towardsdatascience.com](/30-very-useful-pandas-functions-for-everyday-data-analysis-tasks-f1eae16409af) [](/a-data-storytelling-project-with-some-advanced-visualization-in-ggplot2-fb60dfc56dde) [## 在 ggplot2 中使用一些高级可视化的数据讲述项目
-
-### ggplot2 中一些实用的数据准备和有用的绘图技巧
-
-towardsdatascience.com](/a-data-storytelling-project-with-some-advanced-visualization-in-ggplot2-fb60dfc56dde) [](/convolutional-neural-network-good-understanding-of-the-layers-and-an-image-classification-example-a280bc02c13e) [## 卷积神经网络:对层的良好理解和图像分类示例
-
-### 包含了大量的信息
-
-towardsdatascience.com](/convolutional-neural-network-good-understanding-of-the-layers-and-an-image-classification-example-a280bc02c13e)
+[](https://pub.towardsai.net/data-analysis-91a38207c92b)  [](/a-complete-sentiment-analysis-project-using-pythons-scikit-learn-b9ccbb0405c2)  [](/30-very-useful-pandas-functions-for-everyday-data-analysis-tasks-f1eae16409af)  [](/a-data-storytelling-project-with-some-advanced-visualization-in-ggplot2-fb60dfc56dde)  [](/convolutional-neural-network-good-understanding-of-the-layers-and-an-image-classification-example-a280bc02c13e) 

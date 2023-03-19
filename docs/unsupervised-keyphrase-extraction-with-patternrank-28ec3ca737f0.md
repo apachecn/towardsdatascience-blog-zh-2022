@@ -81,12 +81,4 @@ PatternRank 是最近开发的一种方法，可用于从文本文档中提取�
 
 # 来源
 
-[](https://arxiv.org/abs/2210.05245) [## PatternRank:利用预训练的语言模型和无监督关键短语的词性…
-
-### 关键短语提取是从给定文本中自动选择一小组最相关短语的过程…
-
-arxiv.org](https://arxiv.org/abs/2210.05245) [](https://github.com/TimSchopf/KeyphraseVectorizers) [## GitHub——TimSchopf/keyphrasevectorizer:一组向量器，使用…
-
-### 一组向量器，从一组文本文档中提取带有词性模式的关键短语，并转换…
-
-github.com](https://github.com/TimSchopf/KeyphraseVectorizers)
+[](https://arxiv.org/abs/2210.05245)  [](https://github.com/TimSchopf/KeyphraseVectorizers) 

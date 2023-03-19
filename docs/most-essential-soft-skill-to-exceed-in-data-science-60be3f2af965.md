@@ -72,16 +72,4 @@
 
 # 更多有趣的文章
 
-[](/best-of-both-worlds-automated-and-dynamic-sql-queries-from-python-5b74a24501b0) [## 两全其美:来自 Python 的自动化和动态 SQL 查询
-
-### 通过 SQL 和 Python 集成将自动化带到新的高度
-
-towardsdatascience.com](/best-of-both-worlds-automated-and-dynamic-sql-queries-from-python-5b74a24501b0) [](/6-sql-tricks-every-data-scientist-should-know-f84be499aea5) [## 每个数据科学家都应该知道的 6 个 SQL 技巧
-
-### 提高分析效率的 SQL 技巧
-
-towardsdatascience.com](/6-sql-tricks-every-data-scientist-should-know-f84be499aea5) [](https://levelup.gitconnected.com/6-hilarious-programmers-data-scientists-jokes-to-kick-start-2021-187f86dd6a4c) [## 6 个令人捧腹的程序员/数据科学家笑话开启 2021 年
-
-### 做好准备:这些愚蠢的老笑话会让你捧腹大笑😁
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/6-hilarious-programmers-data-scientists-jokes-to-kick-start-2021-187f86dd6a4c)
+[](/best-of-both-worlds-automated-and-dynamic-sql-queries-from-python-5b74a24501b0)  [](/6-sql-tricks-every-data-scientist-should-know-f84be499aea5)  [](https://levelup.gitconnected.com/6-hilarious-programmers-data-scientists-jokes-to-kick-start-2021-187f86dd6a4c) 

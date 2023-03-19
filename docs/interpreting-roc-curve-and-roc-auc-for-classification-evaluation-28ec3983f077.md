@@ -117,11 +117,7 @@ ROC AUC: 0.9271
 
 您可以在我的 github 存储库中找到可用的代码，所以可以跳过这一部分。
 
-[](https://github.com/vinyluis/Articles/tree/main/ROC%20Curve%20and%20ROC%20AUC) [## 主要乙烯基/物品的物品/ROC 曲线和 ROC AUC
-
-### 第一篇:解读 ROC 曲线和 ROC AUC 用于分类评价(TBD) [EN]什么是 ROC 曲线，如何…
-
-github.com](https://github.com/vinyluis/Articles/tree/main/ROC%20Curve%20and%20ROC%20AUC) 
+[](https://github.com/vinyluis/Articles/tree/main/ROC%20Curve%20and%20ROC%20AUC)  
 
 首先，我们需要在数据集中训练一个分类器模型:
 
@@ -241,8 +237,4 @@ plot_sklearn_roc_curve(y_test, y_pred)
 
 如果你喜欢这个主题，可以看看我解释 ROC 曲线用于多类分类的文章:
 
-[](/multiclass-classification-evaluation-with-roc-curves-and-roc-auc-294fd4617e3a) [## 用 ROC 曲线和 ROC AUC 进行多类分类评价
-
-### 将最常用的分类评估度量用于具有 OvR 和 OvO 的多类分类问题…
-
-towardsdatascience.com](/multiclass-classification-evaluation-with-roc-curves-and-roc-auc-294fd4617e3a)
+[](/multiclass-classification-evaluation-with-roc-curves-and-roc-auc-294fd4617e3a) 

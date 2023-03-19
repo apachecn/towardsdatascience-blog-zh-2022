@@ -94,11 +94,7 @@
 
 即使新数据丰富且易于收集，我也不会过分强调组织通过良好的数据访问策略建立健康的数据文化的重要性，因此改善数据科学实践的最佳和最快的快速解决方案之一是让团队中的每个人都了解[数据拆分](http://bit.ly/quaesita_sydd)的重要性。
 
-[](/the-most-powerful-idea-in-data-science-78b9cd451e72) [## 数据科学中最强大的想法
-
-### 从有用的模式中分离出不必要信息的快速解决方案
-
-towardsdatascience.com](/the-most-powerful-idea-in-data-science-78b9cd451e72) 
+[](/the-most-powerful-idea-in-data-science-78b9cd451e72)  
 
 数据领导者不是要求每个新手做正确的事情，而是通过将[数据分割](http://bit.ly/quaesita_sydd)设计到您的数据访问策略中，或者更好的是，如果您已经运行了一个具有定制基础架构的大型团队，则设计到您的数据科学工具中，从而使他们不可能做错误的事情。
 
@@ -106,11 +102,7 @@ towardsdatascience.com](/the-most-powerful-idea-in-data-science-78b9cd451e72)
 
 现在我们已经讨论了新手的错误，我们已经准备好处理专家的错误，你可以在本系列的[第 2 部分](http://bit.ly/quaesita_testmistake2)中找到:
 
-[](https://kozyrkov.medium.com/the-mistake-every-data-scientist-has-made-at-least-once-3479002211b4) [## 每个数据科学家都至少犯过一次的错误
-
-### …以及如何增加避免这种情况的机会
-
-kozyrkov.medium.com](https://kozyrkov.medium.com/the-mistake-every-data-scientist-has-made-at-least-once-3479002211b4) 
+[](https://kozyrkov.medium.com/the-mistake-every-data-scientist-has-made-at-least-once-3479002211b4)  
 
 # 感谢阅读！YouTube 课程怎么样？
 
@@ -126,8 +118,4 @@ kozyrkov.medium.com](https://kozyrkov.medium.com/the-mistake-every-data-scientis
 
 从这里开始使用 Google Cloud Vision API 和 AutoML Vision:
 
-[](https://bit.ly/googlecloudvision) [## 视觉人工智能|通过 ML 获得图像洞察力|云视觉 API |谷歌云
-
-### 今天见面，明天见面。加入我们 10 月 11 日至 13 日的 Google Cloud Next。立即注册使用 AutoML……
-
-bit.ly](https://bit.ly/googlecloudvision)
+[](https://bit.ly/googlecloudvision) 

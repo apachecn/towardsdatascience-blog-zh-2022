@@ -14,11 +14,7 @@
 
 本文建立在[第 1 部分](/translating-sql-into-python-part-1-92bf385d08f1#ca3b)的基础上，第 1 部分涵盖了“选择”、“哪里”、“更新”、“连接”和“排序”，可以通过下面的链接。
 
-[](/translating-sql-into-python-part-1-92bf385d08f1) [## 将 SQL 翻译成 Python-第 1 部分
-
-### 有点像谷歌翻译，但对于数据的语言。
-
-towardsdatascience.com](/translating-sql-into-python-part-1-92bf385d08f1) 
+[](/translating-sql-into-python-part-1-92bf385d08f1)  
 
 对于这一期，使用下面的内容跳到感兴趣的部分或 ctrl+f 记住这个函数。
 
@@ -242,8 +238,4 @@ table['col1'] = pd.to_datetime(table['col1'])**
 
 ****这些不会涵盖所有的用例，但是应该提供一些不错的模板。更多详细信息，请参考[熊猫](https://pandas.pydata.org/docs/)、 [numpy](https://numpy.org/doc/) 和 [datetime](https://docs.python.org/3/library/datetime.html) 文档，这些文档也涵盖了输入参数，让您的代码更加高效。****
 
-****[](https://medium.com/@hollydalligan/membership) [## 通过我的推荐链接加入 Medium-Holly Dalligan
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@hollydalligan/membership)****
+****[](https://medium.com/@hollydalligan/membership) ****

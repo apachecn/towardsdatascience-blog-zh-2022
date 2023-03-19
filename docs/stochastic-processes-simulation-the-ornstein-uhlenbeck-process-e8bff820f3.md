@@ -133,44 +133,20 @@ SDE 的解决方案是:
 
 请继续关注本系列的后续报道。在[媒体](https://medium.com/@diego-barba)上关注我，订阅以便在接下来的故事一出来就能得到更新。
 
-[](https://medium.com/subscribe/@diego-barba) [## 每当迭戈·巴尔巴出版时，就收到一封电子邮件。
-
-### 每当迭戈·巴尔巴出版时，就收到一封电子邮件。通过注册，您将创建一个中型帐户，如果您还没有…
-
-medium.com](https://medium.com/subscribe/@diego-barba) 
+[](https://medium.com/subscribe/@diego-barba)  
 
 我希望这个故事对你有用。如果我错过了什么，请让我知道。
 
 喜欢这个故事吗？通过我的推荐链接成为媒体会员，可以无限制地访问我的故事和许多其他内容。
 
-[](https://medium.com/@diego-barba/membership) [## 通过我的推荐链接加入 Medium-Diego Barba
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@diego-barba/membership) 
+[](https://medium.com/@diego-barba/membership)  
 
 ## 浏览随机过程模拟系列
 
 本系列的前一篇报道:
 
-[](/stochastic-processes-simulation-brownian-motion-the-basics-c1d71585d9f9) [## 随机过程模拟—布朗运动，基础
-
-### 随机过程模拟系列的第 1 部分。从头开始用 Python 模拟相关布朗运动。
-
-towardsdatascience.com](/stochastic-processes-simulation-brownian-motion-the-basics-c1d71585d9f9) 
+[](/stochastic-processes-simulation-brownian-motion-the-basics-c1d71585d9f9)  
 
 该系列的下一个故事:
 
-[](/stochastic-processes-simulation-the-cox-ingersoll-ross-process-c45b5d206b2b) [## 随机过程模拟——考克斯-英格索尔-罗斯过程
-
-### 随机过程模拟系列的第 3 部分。从头开始用 Python 模拟 Cox-Ingersoll-Ross 过程。
-
-towardsdatascience.com](/stochastic-processes-simulation-the-cox-ingersoll-ross-process-c45b5d206b2b) [](/stochastic-processes-simulation-geometric-brownian-motion-31ec734d68d6) [## 随机过程模拟——几何布朗运动
-
-### 随机过程模拟系列的第 4 部分。用 Python 从头开始模拟几何布朗运动。
-
-towardsdatascience.com](/stochastic-processes-simulation-geometric-brownian-motion-31ec734d68d6) [](/stochastic-processes-simulation-generalized-geometric-brownian-motion-a327c0fa6226) [## 随机过程模拟——广义几何布朗运动
-
-### 随机过程模拟系列的第 5 部分。用 Python 模拟广义布朗运动。
-
-towardsdatascience.com](/stochastic-processes-simulation-generalized-geometric-brownian-motion-a327c0fa6226)
+[](/stochastic-processes-simulation-the-cox-ingersoll-ross-process-c45b5d206b2b)  [](/stochastic-processes-simulation-geometric-brownian-motion-31ec734d68d6)  [](/stochastic-processes-simulation-generalized-geometric-brownian-motion-a327c0fa6226) 

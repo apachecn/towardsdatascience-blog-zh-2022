@@ -171,11 +171,7 @@
 
 这是一篇原型文章的扩展，在这篇文章中，我创建了一个合成数据集，并在表示正常情况和故障前时间片作为警告状态的图像上训练了一个 CNN 图像分类模型。
 
-[](/cnns-to-predict-process-failures-28c17e5fd6c2) [## 美国有线电视新闻网预测过程故障
-
-### 原型——在单个图像中堆叠多个时间片并分类:正常、警告或故障
-
-towardsdatascience.com](/cnns-to-predict-process-failures-28c17e5fd6c2) 
+[](/cnns-to-predict-process-failures-28c17e5fd6c2)  
 
 **参考**
 

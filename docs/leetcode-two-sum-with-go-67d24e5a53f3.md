@@ -26,11 +26,7 @@ answer: [0,1] or [1,0]
 
 下面是 LeetCode 上问题的链接:
 
-[](https://leetcode.com/problems/two-sum) [## 两个总和代码
-
-### 给定一个整数 num 数组和一个整数 target，返回这两个数字的索引，使它们加起来等于…
-
-leetcode.com](https://leetcode.com/problems/two-sum) 
+[](https://leetcode.com/problems/two-sum)  
 
 ## 该算法
 

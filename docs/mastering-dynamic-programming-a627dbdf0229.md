@@ -362,28 +362,8 @@ r1 + c1 = r2 + c2Derive r2 as:
 
 准备好深入潜水了吗？跳上 [**掌握动态编程 II**](https://peggy1502.medium.com/mastering-dynamic-programming-ii-73149d26b16d)
 
-[](https://peggy1502.medium.com/mastering-dynamic-programming-ii-73149d26b16d) [## 掌握动态编程 2
-
-### 手动制表和锻炼是一个伟大的方式开始搜索，分析，发现模式，以及…
-
-peggy1502.medium.com](https://peggy1502.medium.com/mastering-dynamic-programming-ii-73149d26b16d) 
+[](https://peggy1502.medium.com/mastering-dynamic-programming-ii-73149d26b16d)  
 
 有兴趣阅读我的其他数据科学文章吗？查看以下内容:
 
-[](/transformers-can-you-rate-the-complexity-of-reading-passages-17c76da3403) [## 变形金刚，你能评价阅读段落的复杂程度吗？
-
-### 用 PyTorch 微调 RoBERTa 以预测文本摘录的阅读难易程度
-
-towardsdatascience.com](/transformers-can-you-rate-the-complexity-of-reading-passages-17c76da3403) [](/advanced-techniques-for-fine-tuning-transformers-82e4e61e16e) [## 微调变压器的先进技术
-
-### 学习这些先进的技术，看看它们如何帮助改善结果
-
-towardsdatascience.com](/advanced-techniques-for-fine-tuning-transformers-82e4e61e16e) [](/aws-certified-machine-learning-specialty-97eacbd1a0fe) [## AWS 认证机器学习—专业
-
-### 关于如何准备和通过考试的提示和建议
-
-towardsdatascience.com](/aws-certified-machine-learning-specialty-97eacbd1a0fe) [](https://pub.towardsai.net/building-a-product-recommendation-engine-with-aws-sagemaker-321a0e7c7f7b) [## 用 AWS SageMaker 构建产品推荐引擎
-
-### 了解如何使用 Amazon SageMaker 因式分解机构建和训练个性化推荐引擎
-
-pub.towardsai.net](https://pub.towardsai.net/building-a-product-recommendation-engine-with-aws-sagemaker-321a0e7c7f7b)
+[](/transformers-can-you-rate-the-complexity-of-reading-passages-17c76da3403)  [](/advanced-techniques-for-fine-tuning-transformers-82e4e61e16e)  [](/aws-certified-machine-learning-specialty-97eacbd1a0fe)  [](https://pub.towardsai.net/building-a-product-recommendation-engine-with-aws-sagemaker-321a0e7c7f7b) 

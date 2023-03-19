@@ -130,32 +130,12 @@ pd.get_dummies(df2)
 
 这篇文章的代码在 GitHub 中:
 
-[](https://github.com/gurezende/Studying/blob/master/Python/Pandas/OHE_Dimensionality.ipynb) [## 学习/OHE_Dimensionality.ipynb 在 gurezende 硕士/学习
-
-### 这是一个存储库，里面有我对新包的测试和研究——Studying/OHE 维度
-
-github.com](https://github.com/gurezende/Studying/blob/master/Python/Pandas/OHE_Dimensionality.ipynb) 
+[](https://github.com/gurezende/Studying/blob/master/Python/Pandas/OHE_Dimensionality.ipynb)  
 
 如果你喜欢这些内容，请关注我的博客或在 LinkedIn 上找到我，在那里我也分享了一些数据科学技巧。如果你正在考虑中等会员，[这是我给你的推荐代码](https://gustavorsantos.medium.com/membership)。
 
-[](http://gustavorsantos.medium.com/) [## 古斯塔沃·桑托斯-中等
-
-### 阅读古斯塔夫·桑托斯在媒介上的作品。数据科学家。我从数据中提取见解，以帮助个人和公司…
-
-gustavorsantos.medium.com](http://gustavorsantos.medium.com/) 
+[](http://gustavorsantos.medium.com/)  
 
 # 参考
 
- [## 维度的诅咒-维基百科
-
-### 维数灾难指的是在分析和组织数据时出现的各种现象
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Curse_of_dimensionality)  [## 熊猫。DataFrame.where - pandas 1.5.1 文档
-
-### 替换条件为假的值。参数 condbool 系列/数据框架，类似数组，或在 cond…
-
-pandas.pydata.org](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.where.html)  [## 熊猫。DataFrame.nlargest - pandas 1.5.1 文档
-
-### 返回按列降序排序的前 n 行。返回中值最大的前 n 行…
-
-pandas.pydata.org](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.nlargest.html)
+     

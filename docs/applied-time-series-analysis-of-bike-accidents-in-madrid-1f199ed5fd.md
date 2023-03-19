@@ -12,11 +12,7 @@
 
 更准确地说，这些数据形成了一个**时间序列**，范围从 2010 年到 2018 年，由警方按时间顺序登记的事故，并由马德里市在下面的链接中公开提供。几个变量也是可用的，如位置、天气或道路条件，但我们将把它们留在其他类型的分析中，并专注于时间序列。
 
-[](https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=20f4a87ebb65b510VgnVCM1000001d4a900aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default) [## 事故与暗示的自行车-门户网站数据 abiertos del Ayuntamiento 德…
-
-### 可用于商业用途的数据集。
-
-datos .马德里. es](https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=20f4a87ebb65b510VgnVCM1000001d4a900aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default) 
+[](https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=20f4a87ebb65b510VgnVCM1000001d4a900aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default)  
 
 > 通过分析该数据集，我们可以为马德里市提供见解，以了解自行车使用者面临的危险，并最终使其成为一个对他们来说更安全的城市。
 
@@ -118,11 +114,7 @@ STL 分解为趋势、季节和残差
 
 感谢您的阅读，您可以在下面的资源库中找到本文背后的所有代码。
 
-[](https://github.com/antonioramos1/time-series-analysis-bikes-madrid) [## GitHub-antonioramos 1/时间序列-分析-自行车-马德里
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/antonioramos1/time-series-analysis-bikes-madrid) 
+[](https://github.com/antonioramos1/time-series-analysis-bikes-madrid)  
 
 *   [1] Rob J. Hyndman 和 George Athanasopoulos，[预测:原则与实践，第二版](https://otexts.com/fpp2/)(2018)
 *   [2] Croston，J. D .，[间歇需求的预测和库存控制](https://www.jstor.org/stable/3007885)。(1972)

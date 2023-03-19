@@ -16,21 +16,13 @@
 
 它们易于实现，更重要的是，易于遵循和解释。**而且，可交代性越来越重要**。
 
-[](https://blog.fiddler.ai/2021/10/the-key-role-of-explainable-ai-in-the-next-decade/) [## 可解释人工智能在未来十年的关键角色-博客
-
-### Fiddler 的首席执行官和创始人 Krishna Gade 最近出现在 InsightFinder 关于人工智能和人工智能的流行播客中
-
-blog.fiddler.ai](https://blog.fiddler.ai/2021/10/the-key-role-of-explainable-ai-in-the-next-decade/) 
+[](https://blog.fiddler.ai/2021/10/the-key-role-of-explainable-ai-in-the-next-decade/)  
 
 然而，**一个线性回归模型的成功还取决于一些关于基础数据性质的基本假设**。验证这些假设是否“合理地”得到满足是多么重要，怎么强调都不为过。这种检查是确保线性回归模型质量的唯一保证。
 
 我在之前的一篇文章中探讨了这些问题，
 
-[](/how-do-you-check-the-quality-of-your-regression-model-in-python-fa61759ff685) [## 如何在 Python 中检查你的回归模型的质量？
-
-### 线性回归在统计学习中根深蒂固，因此必须检查模型的“良好性”
-
-towardsdatascience.com](/how-do-you-check-the-quality-of-your-regression-model-in-python-fa61759ff685) 
+[](/how-do-you-check-the-quality-of-your-regression-model-in-python-fa61759ff685)  
 
 对于我们所有使用 Python 作为数据科学语言的人来说，机器学习的首选包是 Scikit-learn。尽管 Scikit-learn 的估计器经过了高度优化和精心设计，但它们并没有为回归任务提供许多统计见解或检查。例如，他们可以给你 *R* 分数和回归系数，除此之外别无其他。
 
@@ -290,8 +282,4 @@ for i in range(1,6):
 
 *喜欢这篇文章吗？成为* [***中等会员***](https://medium.com/@tirthajyoti/membership) *继续* ***无限制学习*** *。如果您使用下面的链接，* ***，我将收取您的一部分会员费，而无需您支付额外费用*** *。*
 
-[](https://medium.com/@tirthajyoti/membership) [## 通过我的推荐链接加入媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@tirthajyoti/membership)
+[](https://medium.com/@tirthajyoti/membership) 

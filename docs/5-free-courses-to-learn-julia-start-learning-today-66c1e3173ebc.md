@@ -10,11 +10,7 @@
 
 *编辑:我和我的合著者很高兴地告诉大家，我们的新书《茱莉亚速成班》已经开始预售了:*
 
-[](https://logankilpatrick.gumroad.com/l/juliacrashcourse) [## 朱莉娅速成班(电子书预购)
-
-### Julia 速成课程是使用 Julia 编程语言的实践指南，是为初学者编写的。我们接受…
-
-logankilpatrick.gumroad.com](https://logankilpatrick.gumroad.com/l/juliacrashcourse) 
+[](https://logankilpatrick.gumroad.com/l/juliacrashcourse)  
 
 随着 Julia 编程语言越来越受欢迎，越来越多的人寻求学习这门语言的课程。在本帖中，我们将重点介绍 5 门可以免费在线学习的课程。鉴于我在 Julia 社区中的角色，我一直在寻找推荐新用户的最佳资源，这些是我在过去三年中找到的一些最佳资源。
 

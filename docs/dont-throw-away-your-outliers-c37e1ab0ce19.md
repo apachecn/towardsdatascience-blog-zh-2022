@@ -68,8 +68,4 @@
 
 ## **有关系的**
 
-**[](https://hennie-de-harder.medium.com/are-you-using-feature-distributions-to-detect-outliers-48e2ae3309) [## 您是否使用特征分布来检测异常值？
-
-### 这里有三种更好的方法。
-
-hennie-de-harder.medium.com](https://hennie-de-harder.medium.com/are-you-using-feature-distributions-to-detect-outliers-48e2ae3309)**
+**[](https://hennie-de-harder.medium.com/are-you-using-feature-distributions-to-detect-outliers-48e2ae3309) **

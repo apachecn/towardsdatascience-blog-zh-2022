@@ -141,19 +141,7 @@ fitted_params = np.polyfit(np.arange(0, len(y)), y, poly_degree )polynomials = n
 
 # 你可能喜欢的其他文章
 
-[](/how-to-switch-from-excel-to-python-20440824602e) [## 如何从 Excel 切换到 Python
-
-### 在数据分析领域工作时，经常会遇到一个问题。那就是人们知道 Excel，但是…
-
-towardsdatascience.com](/how-to-switch-from-excel-to-python-20440824602e) [](/develop-and-sell-a-python-api-from-start-to-end-tutorial-9a038e433966) [## 开发和销售 Python API —从头到尾教程
-
-### 本文从头到尾描述了开发 Python API 的过程，并在更困难的领域提供了帮助。
-
-towardsdatascience.com](/develop-and-sell-a-python-api-from-start-to-end-tutorial-9a038e433966) [](/how-i-set-up-my-new-macbook-pro-for-programming-and-data-science-505c69d2142) [## 我如何为编程和数据科学设置我的新 Macbook Pro
-
-### 每次你买新的苹果电脑时，你都必须安装某些软件。在这里，我列出了我最喜欢做的数据科学
-
-towardsdatascience.com](/how-i-set-up-my-new-macbook-pro-for-programming-and-data-science-505c69d2142) 
+[](/how-to-switch-from-excel-to-python-20440824602e)  [](/develop-and-sell-a-python-api-from-start-to-end-tutorial-9a038e433966)  [](/how-i-set-up-my-new-macbook-pro-for-programming-and-data-science-505c69d2142)  
 
 # 放弃
 

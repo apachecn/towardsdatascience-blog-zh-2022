@@ -196,24 +196,8 @@ NA 表示由于未知原因丢失数据，而 NAN 表示有一个结果，但不
 
 如果你在这篇文章中发现了任何价值，并且还不是一个媒体会员，如果你使用下面的链接注册会员，这对我和这个平台上的其他作者来说意义重大。它鼓励我们继续推出像这样的高质量和信息丰富的内容——提前感谢您！
 
-[](https://chongjason.medium.com/membership) [## 通过我的推荐链接-杰森·庄加入媒体
-
-### 阅读杰森·庄的每一个故事(以及媒体上成千上万的其他作家)。您的会员费直接支持…
-
-chongjason.medium.com](https://chongjason.medium.com/membership) 
+[](https://chongjason.medium.com/membership)  
 
 不知道接下来要读什么？这里有一些建议。
 
-[](/stop-wasting-useful-information-when-imputing-missing-values-d6ef91ef4c21) [## 输入缺失值时不要浪费有用的信息
-
-### 有比只取平均值更好的方法来估算缺失值
-
-towardsdatascience.com](/stop-wasting-useful-information-when-imputing-missing-values-d6ef91ef4c21) [](/feature-selection-dimensionality-reduction-techniques-to-improve-model-accuracy-d9cb3e008624) [## 提高模型精度的特征选择和降维技术
-
-### 选择任何数据集中最重要要素的综合指南
-
-towardsdatascience.com](/feature-selection-dimensionality-reduction-techniques-to-improve-model-accuracy-d9cb3e008624) [](/guide-to-encoding-categorical-features-using-scikit-learn-for-machine-learning-5048997a5c79) [## 使用 Scikit-Learn 为机器学习编码分类特征指南
-
-### 以及为什么你应该停止使用熊猫假人
-
-towardsdatascience.com](/guide-to-encoding-categorical-features-using-scikit-learn-for-machine-learning-5048997a5c79)
+[](/stop-wasting-useful-information-when-imputing-missing-values-d6ef91ef4c21)  [](/feature-selection-dimensionality-reduction-techniques-to-improve-model-accuracy-d9cb3e008624)  [](/guide-to-encoding-categorical-features-using-scikit-learn-for-machine-learning-5048997a5c79) 

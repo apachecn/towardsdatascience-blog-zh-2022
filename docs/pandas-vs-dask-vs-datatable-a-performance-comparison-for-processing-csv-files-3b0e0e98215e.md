@@ -82,8 +82,4 @@ Pandas 将使用新模式作为目标模式，**新列将被回填为旧数据**
 
 ## 参考
 
-[](https://coiled.io/blog/speed-up-pandas-query-10x-with-dask/#:~:text=Dask%20runs%20faster%20than%20pandas,cores%20to%20run%20the%20computation) [## 用这 6 个 Dask 数据帧技巧将熊猫的查询速度提高 10 倍——盘绕
-
-### 这篇文章演示了如何使用六种性能的 Dask 将 pandas 的查询速度提高 10 倍…
-
-coiled.io](https://coiled.io/blog/speed-up-pandas-query-10x-with-dask/#:~:text=Dask%20runs%20faster%20than%20pandas,cores%20to%20run%20the%20computation)
+[](https://coiled.io/blog/speed-up-pandas-query-10x-with-dask/#:~:text=Dask%20runs%20faster%20than%20pandas,cores%20to%20run%20the%20computation) 

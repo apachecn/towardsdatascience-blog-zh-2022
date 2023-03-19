@@ -99,35 +99,11 @@
 
 *****使用 FastAPI** :最初，我想使用 FastAPI 应用程序提供静态和 JSON 内容(API 端点响应)。然而，那对我不起作用。所以，我决定使用 Nginx 提供静态内容，这意味着 index.html 和所有 vue.js 块都由 Nginx 直接提供。流量通过到套接字的 Nginx 反向代理流向 FastAPI 应用程序。在 Gunicorn 进程的控制下，Uvicorn 工人监控套接字，并对来自客户端的 API 调用做出必要的响应。应用程序由管理员监控和运行，这保证了服务器上应用程序的弹性。我用了一个教程帮我，很高明！***
 
-***[](https://blog.askjarvis.io/fastapi-with-nginx-gunicorn-and-supervisor-on-ec2-2e0258441d7c) [## 带有 Nginx、gunicorn 和 EC2 上的 supervisor 的 FastAPI
-
-### FastAPI 是一个新的 Python web 框架，用于使用 Python 3.6+构建 API，支持并发和类型系统输出…
-
-blog.askjarvis.io](https://blog.askjarvis.io/fastapi-with-nginx-gunicorn-and-supervisor-on-ec2-2e0258441d7c) 
+***[](https://blog.askjarvis.io/fastapi-with-nginx-gunicorn-and-supervisor-on-ec2-2e0258441d7c)  
 
 **Nginx 配置:**设计有几个步骤。我用了教程来帮助我，这些都很有帮助。当我们谈论个人或敏感的个人数据时，安全性至关重要。
 
-[](https://ubiq.co/tech-blog/nginx-ssl-configuration-step-step-details/) [## NGINX SSL 配置步骤详细信息- Ubiq BI
-
-### NGINX SSL 配置允许您在您的网站上启用 HTTPS，并保护它们免受恶意攻击。这里有一个…
-
-ubiq.co](https://ubiq.co/tech-blog/nginx-ssl-configuration-step-step-details/) [](https://www.tecmint.com/nginx-web-server-security-hardening-and-performance-tips/) [## 保护、强化和提高 Nginx Web 服务器性能的终极指南
-
-### 在本指南中，我们将介绍 12 个技巧来提高 Nginx 服务器的安全性和性能…
-
-www.tecmint.com](https://www.tecmint.com/nginx-web-server-security-hardening-and-performance-tips/) [](https://www.cloudsavvyit.com/3782/how-to-configure-cache-control-headers-in-nginx/) [## 如何在 NGINX 中配置缓存控制头
-
-### 安东尼·赫丁斯作者安东尼·赫丁斯是 LifeSavvy Media 的常驻云工程师，是一名技术作家…
-
-www.cloudsavvyit.com](https://www.cloudsavvyit.com/3782/how-to-configure-cache-control-headers-in-nginx/)  [## nginx——如何服务一个静态 HTML 页面
-
-### Nginx 是一个强大的反向代理，可以将你的域名从互联网路由到你的应用程序。本教程向您展示了…
-
-futurestud.io](https://futurestud.io/tutorials/nginx-how-to-serve-a-static-html-page)  [## 陷阱和常见错误
-
-### 新老用户都可能遇到陷阱。下面我们概述了我们经常看到的问题，并解释了如何…
-
-www.nginx.com](https://www.nginx.com/resources/wiki/start/topics/tutorials/config_pitfalls/) 
+[](https://ubiq.co/tech-blog/nginx-ssl-configuration-step-step-details/)  [](https://www.tecmint.com/nginx-web-server-security-hardening-and-performance-tips/)  [](https://www.cloudsavvyit.com/3782/how-to-configure-cache-control-headers-in-nginx/)      
 
 CORS: 我犯了 CORS 错误！所以我不得不使用 CORSMiddleware 来解决这个问题，我不认为这是一个好主意！
 
@@ -152,11 +128,7 @@ app = FastAPI(openapi_url=None)
 
 **发送电子邮件:**两难的选择是在后台还是在前台发送。我选择从客户端在 vue.js 中做。到目前为止，我不确定这个决定是否明智。
 
-[](https://www.freecodecamp.org/news/send-emails-from-your-vue-application/) [## 如何使用 EmailJS 从 Vue.js 应用程序发送电子邮件
-
-### 几天前，我决定做一个简单的 Vue 项目，需要通过一个联系人发送电子邮件，我刚刚…
-
-www.freecodecamp.org](https://www.freecodecamp.org/news/send-emails-from-your-vue-application/) 
+[](https://www.freecodecamp.org/news/send-emails-from-your-vue-application/)  
 
 **认证:**我使用了 Auth0
 
@@ -195,8 +167,4 @@ Auth0 再次提供了前端视图安全性，这里有一个 vue.js 组件作为
 
 Erik Mclean 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄的照片
 
-[](https://cognitivedave.medium.com/membership) [## 通过我的推荐链接-大卫·摩尔加入媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-cognitivedave.medium.com](https://cognitivedave.medium.com/membership)***
+[](https://cognitivedave.medium.com/membership) ***

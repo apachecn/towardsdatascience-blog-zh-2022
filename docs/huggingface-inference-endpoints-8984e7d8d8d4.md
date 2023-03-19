@@ -132,11 +132,7 @@ while time.time() < end_time:
 
 ## 其他资源和结论
 
-[](https://github.com/RamVegiraju/HuggingFace-Examples) [## GitHub-RamVegiraju/hugging face-Examples:hugging face 示例/特性库/
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/RamVegiraju/HuggingFace-Examples) 
+[](https://github.com/RamVegiraju/HuggingFace-Examples)  
 
 有关示例的代码，请单击上面的链接。如需进一步了解与 HuggingFace 相关的内容，请点击此处的列表。要开始使用 HuggingFace 推断端点，请遵循[官方文档](https://huggingface.co/docs/inference-endpoints/index)。我希望这篇文章对那些开始接触 HuggingFace 推断端点的人来说是一个有用的指南，请继续关注这个领域的更多内容。
 

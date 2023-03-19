@@ -68,19 +68,11 @@ K-均值算法的收敛性。[公共领域](https://en.wikipedia.org/wiki/K-mean
 
 如果您想了解关于如何使用聚类从图像中提取颜色的更多详细信息，可以查看以下文章:
 
-[](https://medium.com/analytics-vidhya/color-separation-in-an-image-using-kmeans-clustering-using-python-f994fa398454) [## 使用 Python 使用 KMeans 聚类在图像中进行颜色分离
-
-### 图像中的颜色分离是分离图像中的颜色的过程。这个过程是通过 KMeans 完成的…
-
-medium.com](https://medium.com/analytics-vidhya/color-separation-in-an-image-using-kmeans-clustering-using-python-f994fa398454) 
+[](https://medium.com/analytics-vidhya/color-separation-in-an-image-using-kmeans-clustering-using-python-f994fa398454)  
 
 如果您想从总体上了解更多关于聚类算法的知识，请查看我的聚类备忘单文章，它将为您提供关于聚类算法动物园和聚类分析的总体情况:
 
-[](/clustering-cheat-sheet-dcf72259abb6) [## 聚类备忘单
-
-### 在 11 分钟内你应该知道的关于聚类的所有事情
-
-towardsdatascience.com](/clustering-cheat-sheet-dcf72259abb6) 
+[](/clustering-cheat-sheet-dcf72259abb6)  
 
 ## 回到实践中
 
@@ -134,11 +126,7 @@ towardsdatascience.com](/clustering-cheat-sheet-dcf72259abb6)
 
 让我们来谈谈如何使用这个程序。您可以在下面的资源库中找到代码:
 
-[](https://gitlab.com/Winston-90/movie_color_scheme) [## dmytro Nikolai ev/movie _ color _ scheme git lab
-
-### GitLab.com
-
-gitlab.com](https://gitlab.com/Winston-90/movie_color_scheme) 
+[](https://gitlab.com/Winston-90/movie_color_scheme)  
 
 在设置好环境并安装了所需的库之后，就可以像我们通常在 Python 脚本中所做的那样，通过设置参数来使用程序:`python main.py --parameter1 value --parameter2 value`。让我们回顾一下程序参数。
 

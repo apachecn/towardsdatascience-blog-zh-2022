@@ -10,11 +10,7 @@
 
 Pandas 对 CSV 的输入输出操作是串行的，这使得它们非常低效和耗时。当我看到这里有足够的并行化空间时，我感到很沮丧，但不幸的是，Pandas 还没有提供这种功能。虽然我从来不赞成首先用熊猫创建 CSV(阅读我下面的帖子就知道为什么)，但我知道可能会有除了使用 CSV 别无选择的情况。
 
-[](/why-i-stopped-dumping-dataframes-to-a-csv-and-why-you-should-too-c0954c410f8f) [## 为什么我停止向 CSV 转储数据帧，为什么您也应该这样做
-
-### 是时候告别 pd.to_csv()和 pd.read_csv()了
-
-towardsdatascience.com](/why-i-stopped-dumping-dataframes-to-a-csv-and-why-you-should-too-c0954c410f8f) 
+[](/why-i-stopped-dumping-dataframes-to-a-csv-and-why-you-should-too-c0954c410f8f)  
 
 因此，在本帖中，我们将探索 **Dask** 和 **DataTable** ，这是数据科学家最喜欢的两个类似熊猫的库。我们将根据 Pandas、Dask 和 Datatable 在以下参数上的表现进行排名:
 

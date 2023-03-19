@@ -66,16 +66,8 @@ PyTorch Hub 包括使用每一个已发布模型的代码，甚至给你在 Goog
 
 *   如果您仍然想从头开始训练您的 ML 模型，那么您将需要一个好的数据集来完成这项工作。我用不同的数据集资源写了这篇文章，你可能会觉得有用。
 
-[](/10-free-resources-to-download-datasets-for-machine-learning-2acfff33822) [## 10 多种免费资源，用于下载机器学习数据集
-
-### 为您的机器学习和人工智能项目搜索和下载数据集的在线资源列表
-
-towardsdatascience.com](/10-free-resources-to-download-datasets-for-machine-learning-2acfff33822) 
+[](/10-free-resources-to-download-datasets-for-machine-learning-2acfff33822)  
 
 *   [用 Python 进行深度学习](https://amzn.to/3oKx4OQ):如果你想用 Python 学习更多关于 ML 应用和模型的知识，这本书就是为你准备的！由 Keras 的创建者编写，它以实用的方式教授如何开发和部署 ML 模型。
 
-[](https://www.amazon.com/gp/product/1617294438/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1617294438&linkCode=as2&tag=maufadel01-20&linkId=d59ef4f3727a9fa715dbac0fe6693b5e) [## 使用 Python 进行深度学习
-
-### 在 Amazon.com 用 Python 进行深度学习。*符合条件的优惠可享受免费*运输。深度学习与…
-
-www.amazon.com](https://www.amazon.com/gp/product/1617294438/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1617294438&linkCode=as2&tag=maufadel01-20&linkId=d59ef4f3727a9fa715dbac0fe6693b5e)
+[](https://www.amazon.com/gp/product/1617294438/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1617294438&linkCode=as2&tag=maufadel01-20&linkId=d59ef4f3727a9fa715dbac0fe6693b5e) 

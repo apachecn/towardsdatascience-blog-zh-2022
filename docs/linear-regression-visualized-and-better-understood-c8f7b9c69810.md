@@ -183,18 +183,10 @@ ggplot(data,aes(x1, y,color=as.factor(x2)))+
 
 如果你想在 Excel 中从头实现线性回归，可以阅读这篇文章:
 
-[](/linear-regression-from-scratch-in-excel-3d8192214752) [## 在 Excel 中从头开始线性回归
-
-### 这样你就能更好地理解线性回归是如何工作的
-
-towardsdatascience.com](/linear-regression-from-scratch-in-excel-3d8192214752) 
+[](/linear-regression-from-scratch-in-excel-3d8192214752)  
 
 如果您对其他算法的同类可视化感兴趣，请发表评论。
 
 线性回归是一个非常基本的算法，正如你可以看到的所有可视化，如果数据不是线性的，它不会执行得很好。为了更好地模拟非线性数据，我们可以用几种方法来增强线性回归。你可以通过这篇文章了解更多关于**无监督机器学习算法**。
 
-[](/overview-of-supervised-machine-learning-algorithms-a5107d036296) [## 监督机器学习算法综述
-
-### 大图如何通过连接点给我们洞察力和对 ML 的更好理解
-
-towardsdatascience.com](/overview-of-supervised-machine-learning-algorithms-a5107d036296)
+[](/overview-of-supervised-machine-learning-algorithms-a5107d036296) 

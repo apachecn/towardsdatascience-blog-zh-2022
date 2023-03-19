@@ -38,25 +38,13 @@
 
 一个网站的例子，提供不同行业的 AOV 基准。
 
-[](https://marketing.dynamicyield.com/benchmarks/average-order-value/) [## 电子商务的平均订单价值基准
-
-### 4 月份的平均订单价值统计显示，奢侈品和珠宝的 AOV 最高，为 207 美元，下降了 8%
-
-marketing.dynamicyield.com](https://marketing.dynamicyield.com/benchmarks/average-order-value/) 
+[](https://marketing.dynamicyield.com/benchmarks/average-order-value/)  
 
 ## 增加订单价值的策略
 
 当我们在这里关注 SQL 时，我推荐阅读这些不同文章中关于你可以使用什么策略来增加你的平均订单价值的内容。
 
-[](https://www.shopify.com/blog/average-order-value) [## 提高网上商店平均订单价值的五种方法
-
-### 你网站的流量很高。转化率很好。但是，当你阅读小字时:你的订单价值…
-
-www.shopify.com](https://www.shopify.com/blog/average-order-value) [](https://medium.com/@Bold_Commerce/9-upselling-techniques-to-explode-your-average-order-value-99b727585b77) [## 9 种追加销售技巧，让您的平均订单价值激增
-
-### 您希望将您的在线销售额提高 10–30%吗？
-
-medium.com](https://medium.com/@Bold_Commerce/9-upselling-techniques-to-explode-your-average-order-value-99b727585b77) 
+[](https://www.shopify.com/blog/average-order-value)  [](https://medium.com/@Bold_Commerce/9-upselling-techniques-to-explode-your-average-order-value-99b727585b77)  
 
 # 让我们计算和分析我们的指标
 
@@ -142,11 +130,7 @@ percentile 函数将遍历我们数据集的每一行，并返回`order_value`�
 
 因为这个函数是一个导航函数，所以我们应用一个`LIMIT 1`来只返回 1 行。
 
-[](https://cloud.google.com/bigquery/docs/reference/standard-sql/navigation_functions#percentile_cont) [## 导航功能|大查询|谷歌云
-
-### 无论您的企业正处于数字化转型的早期阶段，谷歌云都可以帮助您…
-
-cloud.google.com](https://cloud.google.com/bigquery/docs/reference/standard-sql/navigation_functions#percentile_cont) 
+[](https://cloud.google.com/bigquery/docs/reference/standard-sql/navigation_functions#percentile_cont)  
 
 **模式顺序值**
 
@@ -164,11 +148,7 @@ cloud.google.com](https://cloud.google.com/bigquery/docs/reference/standard-sql/
 
 模式阶数值(紫色垂直线)绘制在我们的直方图上。(图片由[作者](https://romaingranger.medium.com/)提供)
 
-[](https://cloud.google.com/bigquery/docs/reference/standard-sql/approximate_aggregate_functions#approx_top_count) [## 近似聚合函数| BigQuery | Google Cloud
-
-### 无论您的企业正处于数字化转型的早期阶段，谷歌云都可以帮助您…
-
-cloud.google.com](https://cloud.google.com/bigquery/docs/reference/standard-sql/approximate_aggregate_functions#approx_top_count) 
+[](https://cloud.google.com/bigquery/docs/reference/standard-sql/approximate_aggregate_functions#approx_top_count)  
 
 **标准偏差**
 
@@ -188,11 +168,7 @@ cloud.google.com](https://cloud.google.com/bigquery/docs/reference/standard-sql/
 
 此外，来自 **0 至 205 欧元**的订单占**订单**的 85%。这意味着这是我们观察到的范围，也是我们可以预期的范围。
 
-[](https://cloud.google.com/bigquery/docs/reference/standard-sql/statistical_aggregate_functions#stddev) [## 统计聚合函数| BigQuery | Google Cloud
-
-### 以下统计聚合函数在 Google 标准 SQL 中可用。了解…的语法
-
-cloud.google.com](https://cloud.google.com/bigquery/docs/reference/standard-sql/statistical_aggregate_functions#stddev) 
+[](https://cloud.google.com/bigquery/docs/reference/standard-sql/statistical_aggregate_functions#stddev)  
 
 **结论**
 

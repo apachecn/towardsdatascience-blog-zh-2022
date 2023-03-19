@@ -20,21 +20,13 @@ Timur Saglambilek 以[像素](https://www.pexels.com/photo/analytics-text-185576
 
 > **和我在一起……**
 
-[](https://medium.com/data4fashion/fashion-and-big-data-application-cb946dd76844) [## 时尚和大数据
-
-### 将 Zara 作为在时装供应链和库存管理中采用高级分析的案例研究
-
-medium.com](https://medium.com/data4fashion/fashion-and-big-data-application-cb946dd76844) 
+[](https://medium.com/data4fashion/fashion-and-big-data-application-cb946dd76844)  
 
 虽然许多时尚品牌尚未利用数据的力量，但一些品牌正在探索员工技能提升选项和人才搜寻，一些品牌甚至愿意培训新的数据专业人员，如数据工程师、数据分析师、数据科学家、云工程师等。
 
 换句话说，无论你是核心设计师、插画师、跟单员、技术设计师等，你都需要知道如何从你公司的数据中解读见解- **掌握数据分析。**
 
-[](/re-imagine-the-business-of-fashion-part-1-cc8037cbef6d) [## 重新想象时尚行业-第一部分
-
-### 时尚品牌和零售商如何通过高级分析重新想象时尚？
-
-towardsdatascience.com](/re-imagine-the-business-of-fashion-part-1-cc8037cbef6d) 
+[](/re-imagine-the-business-of-fashion-part-1-cc8037cbef6d)  
 
 也就是说，本文将重点关注数据分析的关键步骤之一，即**“数据清理”、**，但在探索这一步骤之前，让我带您了解一下数据分析生命周期的各个阶段。
 

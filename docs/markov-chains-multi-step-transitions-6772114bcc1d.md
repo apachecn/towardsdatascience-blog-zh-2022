@@ -12,11 +12,7 @@
 
 在我以前的文章中，我们介绍了 [**马尔可夫属性**](https://en.wikipedia.org/wiki/Markov_property) 的概念，并将其发展为解释一个 [**马尔可夫链**](https://en.wikipedia.org/wiki/Markov_chain) **。**我建议现在的读者在阅读这篇文章之前先浏览一下那篇文章:
 
-[](/markov-chains-simply-explained-dc77836b47e3) [## 马尔可夫链简单地解释了
-
-### 马尔可夫性和马尔可夫链的直观而简单的解释
-
-towardsdatascience.com](/markov-chains-simply-explained-dc77836b47e3) 
+[](/markov-chains-simply-explained-dc77836b47e3)  
 
 然而，在坚果壳中，马尔可夫性质是当转移到下一个状态**的概率仅取决于当前状态**时。系统是 [**无记忆**](https://en.wikipedia.org/wiki/Memorylessness) **。**马尔可夫链是有限状态空间下马尔可夫性质下的时间离散变迁的**序列。**
 

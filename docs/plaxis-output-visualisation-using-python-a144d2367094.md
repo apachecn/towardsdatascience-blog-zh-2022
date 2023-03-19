@@ -27,21 +27,13 @@ PLAXIS 输出应用程序提供了使用内置绘图工具比较不同阶段输�
 
 和以前一样，本教程要求读者已经安装了 VS 代码和 PLAXIS 环境。如果您不熟悉这个页面，请按照下面文章中的说明进行操作。我们开始吧！
 
-[](https://medium.com/@philip.studio11/start-using-python-to-automate-plaxis-35a5297321e7) [## 开始使用 Python 来自动化 PLAXIS
-
-### PLAXIS 是一个有限元建模软件，岩土工程师在某个特定的时候肯定会碰到它
-
-medium.com](https://medium.com/@philip.studio11/start-using-python-to-automate-plaxis-35a5297321e7) 
+[](https://medium.com/@philip.studio11/start-using-python-to-automate-plaxis-35a5297321e7)  
 
 # PLAXIS 示例模型
 
 我们将使用第二节课中相同的 PLAXIS 2D 模型。如果您还没有这样做，请按照下面的说明来设置和计算模型。
 
-[](https://medium.com/@philip.studio11/goodbye-boring-plaxis-output-with-python-fc5c8b26cdb2) [## 用 Python 告别枯燥的 PLAXIS 输出
-
-### 如果你像我一样经常使用 PLAXIS，你一定会问这个问题:我到底为什么需要不断重复…
-
-medium.com](https://medium.com/@philip.studio11/goodbye-boring-plaxis-output-with-python-fc5c8b26cdb2) 
+[](https://medium.com/@philip.studio11/goodbye-boring-plaxis-output-with-python-fc5c8b26cdb2)  
 
 与上一个教程类似，我们将使用“open_output.py”打开 PLAXIS 文件，这样就可以启用 API 服务器。
 
@@ -324,11 +316,7 @@ def get_combined_plot(filename,sheetname):
 
 *   以下代码主要用于设置绘图样式的格式，如高度、刻度框和图例位置等(类似于典型的 excel 绘图设置)。官方文档中概述了更多的格式细节:
 
- [## 图表- openpyxl 3.0.10 文档
-
-### 默认情况下，图表的左上角锚定到单元格 E15，大小为 15 x 7.5 厘米(大约 5 列…
-
-openpyxl.readthedocs.io](https://openpyxl.readthedocs.io/en/stable/charts/introduction.html) 
+  
 
 ```
  charts='chart1'

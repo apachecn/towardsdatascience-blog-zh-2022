@@ -29,11 +29,7 @@
 *   Armorway(现在的 Avata Intelligence)数据科学家[开发了一种算法，以提高美国海岸警卫队巡逻队](https://www.rand.org/content/dam/rand/pubs/perspectives/PEA100/PEA150-1/RAND_PEA150-1.pdf)实时事件的效率。因此，美国海岸警卫队将巡逻效率提高了 60%。
 *   内特·西尔弗运用博弈论和数据科学来预测选举结果，最著名的是奥巴马竞选
 
-[](https://www.theguardian.com/world/2012/nov/17/nate-silver-interview-election-data-statistics) [## 内特·西尔弗:是数字，笨蛋
-
-### 阿特·西尔弗是一种新型的政治超级明星。一个真正知道自己在说什么的人。在美国，权威人士…
-
-www.theguardian.com](https://www.theguardian.com/world/2012/nov/17/nate-silver-interview-election-data-statistics) 
+[](https://www.theguardian.com/world/2012/nov/17/nate-silver-interview-election-data-statistics)  
 
 # 什么是博弈论？
 

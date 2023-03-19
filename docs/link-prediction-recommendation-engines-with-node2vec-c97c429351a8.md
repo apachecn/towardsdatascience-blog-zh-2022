@@ -14,11 +14,7 @@
 
 本文的重点是向读者展示如何使用 node2vec 嵌入和余弦相似性或 node2vec 嵌入和基于建模的方法来实现解决链路预测问题的算法方法。如果你对 node2vec 不熟悉，我以前写过一篇关于它的文章，你可以在下面看看。
 
-[](/node2vec-explained-db86a319e9ab) [## Node2Vec 解释
-
-### 用 Python 解释和实现 Node2Vec 白皮书
-
-towardsdatascience.com](/node2vec-explained-db86a319e9ab) 
+[](/node2vec-explained-db86a319e9ab)  
 
 推荐系统环境中的 Node2Vec 可用于基于邻居的应用。这是因为 node2vec 保留了网络的初始结构，来自 node2vec 的嵌入是量化是否应该有连接一对节点的边的好方法。
 
@@ -177,11 +173,7 @@ sklearn=0.24.1
 
 关于如何在推荐系统中实现更简单的解决方案，您可以参考我写的另一篇文章。
 
-[](/recommendation-systems-explained-a42fc60591ed) [## 推荐系统解释
-
-### 用 Python 解释和实现基于内容的协同过滤和混合推荐系统
-
-towardsdatascience.com](/recommendation-systems-explained-a42fc60591ed) 
+[](/recommendation-systems-explained-a42fc60591ed)  
 
 此外，如果你想在与这个项目相关的 jupyter 笔记本中进行跟进，你可以参考我的 [GitHub](https://github.com/vatsal220/medium_articles/blob/main/link_prediction/link_prediction.ipynb) 。
 
@@ -193,30 +185,6 @@ towardsdatascience.com](/recommendation-systems-explained-a42fc60591ed)
 
 如果你喜欢这篇文章，这里有一些我写的其他文章，你可能也会喜欢。
 
-[](/word2vec-explained-49c52b4ccb71) [## Word2Vec 解释道
+[](/word2vec-explained-49c52b4ccb71)  [](/linear-algebra-explained-through-graph-theory-1c79711e9a20)  [](/mining-modelling-character-networks-part-i-e37e4878c467)  [](https://vatsal12-p.medium.com/mining-modelling-character-networks-part-ii-a3d77de89638)  [](/bayesian-a-b-testing-explained-344a6df88c1a) [## 贝叶斯 A/B 测试解释
 
-### 解释 Word2Vec 的直观性&用 Python 实现它
-
-towardsdatascience.com](/word2vec-explained-49c52b4ccb71) [](/linear-algebra-explained-through-graph-theory-1c79711e9a20) [## 图论解释的线性代数
-
-### 用图论直观地解释线性代数的基础
-
-towardsdatascience.com](/linear-algebra-explained-through-graph-theory-1c79711e9a20) [](/mining-modelling-character-networks-part-i-e37e4878c467) [## 挖掘和模拟字符网络——第一部分
-
-### 图论研究论文讨论
-
-towardsdatascience.com](/mining-modelling-character-networks-part-i-e37e4878c467) [](https://vatsal12-p.medium.com/mining-modelling-character-networks-part-ii-a3d77de89638) [## 挖掘和模拟字符网络—第二部分
-
-### 本文将介绍挖掘和建模字符网络的 Python 实现
-
-vatsal12-p.medium.com](https://vatsal12-p.medium.com/mining-modelling-character-networks-part-ii-a3d77de89638) [](/bayesian-a-b-testing-explained-344a6df88c1a) [## 贝叶斯 A/B 测试解释
-
-towardsdatascience.com](/bayesian-a-b-testing-explained-344a6df88c1a) [](/markov-chain-explained-210581d7a4a9) [## 马尔可夫链解释道
-
-### 在本文中，我将解释并提供马尔可夫链的 python 实现。这篇文章不会是一篇深刻的…
-
-towardsdatascience.com](/markov-chain-explained-210581d7a4a9) [](https://pub.towardsai.net/dynamic-time-warping-explained-fbb24c1e079b) [## 动态时间扭曲解释
-
-### 动态时间扭曲背后的直觉&股票数据的 Python 实现
-
-pub.towardsai.net](https://pub.towardsai.net/dynamic-time-warping-explained-fbb24c1e079b)
+towardsdatascience.com](/bayesian-a-b-testing-explained-344a6df88c1a) [](/markov-chain-explained-210581d7a4a9)  [](https://pub.towardsai.net/dynamic-time-warping-explained-fbb24c1e079b) 

@@ -162,27 +162,7 @@ xmax = np.max(ts_ita.index)
 
 # 相关文章
 
-[](https://pub.towardsai.net/are-data-journalism-and-data-science-the-same-thing-77ba7ec794d4) [## 数据新闻和数据科学是一回事吗？
-
-### 答案是否定的，我会解释原因
-
-pub.towardsai.net](https://pub.towardsai.net/are-data-journalism-and-data-science-the-same-thing-77ba7ec794d4) [](/why-a-data-scientist-needs-to-also-be-a-storyteller-89b4636cb83) [## 为什么数据科学家也需要讲故事
-
-### 作为一名数据科学家是一份非常棒的工作:你可以收集数据，通过奇妙的抓取机制或网络…
-
-towardsdatascience.com](/why-a-data-scientist-needs-to-also-be-a-storyteller-89b4636cb83) [](https://alod83.medium.com/how-to-design-a-data-journalism-story-b2e421673b6e) [## 如何设计一个数据新闻故事
-
-### 如何设计一个数据新闻故事
-
-如何设计一个数据新闻 Storyalod83.medium.com](https://alod83.medium.com/how-to-design-a-data-journalism-story-b2e421673b6e) [](/data-visualisation-principles-part-1-a-practical-example-in-altair-b6e16f665fc6) [## 数据可视化原理第 1 部分 Altair 中的一个实际例子
-
-### 关于如何在 Python Altair 中构建、定制和添加注释到简单条形图的实用教程
-
-towardsdatascience.com](/data-visualisation-principles-part-1-a-practical-example-in-altair-b6e16f665fc6) [](/data-visualisation-principles-part-2-layout-and-emphasis-d682bbc38217) [## 数据可视化原理第 2 部分:布局和重点
-
-### 基本图形设计原则入门。
-
-towardsdatascience.com](/data-visualisation-principles-part-2-layout-and-emphasis-d682bbc38217) 
+[](https://pub.towardsai.net/are-data-journalism-and-data-science-the-same-thing-77ba7ec794d4)  [](/why-a-data-scientist-needs-to-also-be-a-storyteller-89b4636cb83)  [](https://alod83.medium.com/how-to-design-a-data-journalism-story-b2e421673b6e)  [](/data-visualisation-principles-part-1-a-practical-example-in-altair-b6e16f665fc6)  [](/data-visualisation-principles-part-2-layout-and-emphasis-d682bbc38217)  
 
 有上下文和无上下文的示例
 

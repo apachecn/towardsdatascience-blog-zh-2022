@@ -172,28 +172,4 @@ output = Polynomial.fit(x_data, y_data, deg=3)
 
 **魏尔斯特拉斯，K. (1885)。因此，分析师们将库利尔的工作放在一个更低的位置。*柏林科学研究院院长会议*， *2* ，633–639。**
 
-**[](https://en.wikipedia.org/wiki/Polynomial) [## 多项式-维基百科
-
-### 在数学中，多项式是由不定项(也称为变量)和系数组成的表达式
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Polynomial) [](https://en.wikipedia.org/wiki/Polynomial_regression) [## 多项式回归-维基百科
-
-### 在统计学中，多项式回归是回归分析的一种形式，其中独立变量之间的关系…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Polynomial_regression)  [## 方差膨胀因子—维基百科
-
-### 在统计学中，方差膨胀因子(VIF)是估计某个变量的方差的比率(商)
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Variance_inflation_factor)  [## 通用逼近定理—维基百科
-
-### 在人工神经网络的数学理论中，通用逼近定理是建立…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Universal_approximation_theorem) [](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.PolynomialFeatures.html) [## sklearn.preprocessing .多项式功能
-
-### 使用 sk learn . preprocessing . polynomial features 的示例:scikit 的发布亮点-learn 0.24 发布亮点…
-
-scikit-learn.org](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.PolynomialFeatures.html)  [## 便利类-NumPy 1.22 版手册
-
-### 一个有效处理多项式的子程序包。在该子包的文档中,“有限功率……
-
-numpy.org](https://numpy.org/doc/stable/reference/routines.polynomials.package.html#module-numpy.polynomial)**
+**[](https://en.wikipedia.org/wiki/Polynomial)  [](https://en.wikipedia.org/wiki/Polynomial_regression)      [](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.PolynomialFeatures.html)   **

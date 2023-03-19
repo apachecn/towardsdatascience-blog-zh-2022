@@ -234,11 +234,7 @@ N 天后，我们查看模型预测，以及如果我们使用模型采取行动
 
 👉🏽今天使用我的 [**推荐链接**](https://pau-labarta-bajo.medium.com/membership) 成为会员。
 
-[](https://pau-labarta-bajo.medium.com/membership) [## 成为一个媒体成员来阅读我在媒体上分享的一切。
-
-### 你的会员费的一部分给了所有你喜欢阅读的作家。希望是我。
-
-pau-labarta-bajo.medium.com](https://pau-labarta-bajo.medium.com/membership) 
+[](https://pau-labarta-bajo.medium.com/membership)  
 
 👉🏽订阅 [***datamachines* 简讯**](https://datamachines.xyz/subscribe/) **。**
 

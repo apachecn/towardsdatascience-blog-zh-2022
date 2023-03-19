@@ -142,11 +142,7 @@ figure 3–7–3 是一个动画 gif，显示了 SOM 从第一步到最大 75，
 
 最后，本文没有涉及批量学习算法。如果问题的数据有限，使用批处理算法是一个不错的选择。事实上，Kohonen 指出，批处理算法是有效的，对于实际应用是值得推荐的[5]。我们想通过留下链接到 Kohonen 的文章“自组织地图的本质”来结束这篇文章，以供进一步阅读。
 
-[](https://www.sciencedirect.com/science/article/pii/S0893608012002596?via%3Dihub) [## 自组织映射的本质
-
-### 自组织映射(SOM)是一种自动数据分析方法。它被广泛应用于聚类问题和数据挖掘
-
-www.sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S0893608012002596?via%3Dihub) 
+[](https://www.sciencedirect.com/science/article/pii/S0893608012002596?via%3Dihub)  
 
 # 参考
 

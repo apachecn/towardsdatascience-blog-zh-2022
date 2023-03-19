@@ -12,11 +12,7 @@
 
 因此，为了扩展您的专业知识，挑战您现有的知识，并向您介绍数据科学家中众多受欢迎的 Pandas 功能，我将介绍 Pandas 练习的第二部分**。你可以在这里找到熊猫练习的第一部分:**
 
-[](/pandas-exercise-for-data-scientists-part-1-b601a97ee091) [## 数据科学家的熊猫练习—第一部分
-
-### 一组具有挑战性的熊猫问题。
-
-towardsdatascience.com](/pandas-exercise-for-data-scientists-part-1-b601a97ee091) 
+[](/pandas-exercise-for-data-scientists-part-1-b601a97ee091)  
 
 目标是增强您的逻辑能力，并帮助您用一个最好的 Python 包进行数据分析，将数据操作内在化。
 

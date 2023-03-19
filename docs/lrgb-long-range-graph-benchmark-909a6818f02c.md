@@ -143,11 +143,7 @@
 
 ***最后，**我们希望 LRGB 能够促进[可扩展的远程建模架构](/graphgps-navigating-graph-transformers-c2cc223a051c)的开发，因为许多琐碎的二次变换器[*o(n^2】*]在 LRGB 上扩展可能计算效率低下，lrgb 的平均容量高达 479.40。数据集中的节点、5879 万个节点和总共 3.3209 亿条边。*
 
-*[](/graphgps-navigating-graph-transformers-c2cc223a051c) [## GraphGPS:导航图形转换器
-
-### 烹饪最佳图形转换器的食谱
-
-towardsdatascience.com](/graphgps-navigating-graph-transformers-c2cc223a051c) 
+*[](/graphgps-navigating-graph-transformers-c2cc223a051c)  
 
 我们[**开源**](https://github.com/vijaydwivedi75/lrgb)****远程图形基准**与数据集加载器，准备以及基线实验的代码，这些都是基于用 [PyG](https://www.pyg.org/) 和 [GraphGym](https://pytorch-geometric.readthedocs.io/en/2.0.0/notes/graphgym.html) 构建的 [GraphGPS](https://github.com/rampasek/GraphGPS) 包。**
 

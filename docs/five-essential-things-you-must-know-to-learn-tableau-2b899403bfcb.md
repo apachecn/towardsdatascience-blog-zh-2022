@@ -12,11 +12,7 @@ Tableau 是可视化数据的优秀工具。然而，这不是你可以通过发
 
 本文基于我最近的一篇文章，其中包含了学习 Tableau 的免费资源。
 
-[](/the-best-free-resources-for-learning-tableau-skills-5f0e5bfaa87e) [## 学习 Tableau 的最佳免费资源
-
-### 不用花一分钱就能最大限度地学习
-
-towardsdatascience.com](/the-best-free-resources-for-learning-tableau-skills-5f0e5bfaa87e) 
+[](/the-best-free-resources-for-learning-tableau-skills-5f0e5bfaa87e)  
 
 在这里，我通过总结学习者在学习场景之前*必须知道的五件重要事情来帮助你最大限度地利用这些和其他资源。我的建议是基于我自己教授新学员数据分析和可视化的经验。*
 
@@ -92,11 +88,7 @@ Tableau 是一个可视化数据的工具。不管你对画面的技术熟练程
 
 还是那句话，记住 Tableau 只是一个工具，学习 Tableau 并不等同于学习数据可视化。我可以教你如何使用锤子，但这并不意味着你可以*设计*和*建造*房子。出于这个原因，我将冒昧地向您推荐我的一篇早期文章，这篇文章强调了在进行数据可视化时软件和设计角色之间的重要区别。
 
-[](/less-software-more-design-449175a34e59) [## 减少软件，增加设计
-
-### 提高可视化效果的基本设计策略
-
-towardsdatascience.com](/less-software-more-design-449175a34e59) 
+[](/less-software-more-design-449175a34e59)  
 
 # 后续步骤
 

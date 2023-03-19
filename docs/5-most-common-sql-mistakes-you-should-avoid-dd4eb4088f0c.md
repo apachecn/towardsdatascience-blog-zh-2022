@@ -38,12 +38,4 @@ I .在过滤和连接中使用“where”子句会影响可读性和理解。
 
 分享几个你可能感兴趣的故事:
 
-[](https://anmol3015.medium.com/write-your-sql-queries-the-right-way-9c04dfbb6499) [## 以正确的方式编写您的 SQL 查询！
-
-### 去掉你所有的语法错误！
-
-anmol3015.medium.com](https://anmol3015.medium.com/write-your-sql-queries-the-right-way-9c04dfbb6499) [](/10-sql-operations-for-80-of-your-data-manipulation-7461c56e25f4) [## 80%的数据操作需要 10 次 SQL 操作
-
-### 关系数据库(表格数据)是最常用的数据库之一，它约占全部数据的 70%
-
-towardsdatascience.com](/10-sql-operations-for-80-of-your-data-manipulation-7461c56e25f4)
+[](https://anmol3015.medium.com/write-your-sql-queries-the-right-way-9c04dfbb6499)  [](/10-sql-operations-for-80-of-your-data-manipulation-7461c56e25f4) 

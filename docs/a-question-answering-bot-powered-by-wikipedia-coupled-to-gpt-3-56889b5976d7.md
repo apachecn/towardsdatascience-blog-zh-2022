@@ -14,11 +14,7 @@
 
 GPT 3 号为许多项目提供动力，这些项目在一年前还是不可想象的。只要看看我写的介绍各种示例应用程序的文章就知道了——它们都是基于网络并运行在客户端上的，因此很容易实现像与计算机进行自然对话一样具有未来感的东西:
 
- [## 截至 2022 年 10 月我所有关于 GPT 3 的文章
-
-### 我最喜欢的语言模型以及如何在纯 JavaScript 和…
-
-lucianosphere.medium.com](https://lucianosphere.medium.com/all-my-articles-on-gpt-3-as-of-october-2022-10e95dcae199) 
+  
 
 ## 需要更准确的信息
 
@@ -116,11 +112,7 @@ lucianosphere.medium.com](https://lucianosphere.medium.com/all-my-articles-on-gp
 
 要了解更多关于 Quillbot 的信息，请查看:
 
-[](https://medium.com/technology-hits/could-this-automatic-summarization-tool-revolutionize-writing-c042908c170d) [## 这个自动摘要工具会给写作带来革命吗？
-
-### 我刚刚发现这个新工具，看起来很有希望帮助作家，至少对我来说，我的文章旨在…
-
-medium.com](https://medium.com/technology-hits/could-this-automatic-summarization-tool-revolutionize-writing-c042908c170d) 
+[](https://medium.com/technology-hits/could-this-automatic-summarization-tool-revolutionize-writing-c042908c170d)  
 
 # 这个机器人到底是怎么工作的？
 
@@ -192,11 +184,7 @@ function stripHTML(html){
 
 还有一件非常酷的事情:你会看到这个机器人也在听并大声读出答案。正如我在这里展示的那样:
 
-[](/coupling-gpt-3-with-speech-recognition-and-synthesis-to-achieve-a-fully-talking-chatbot-that-runs-abfcb7bf580) [## 耦合 GPT-3 与语音识别和合成，以实现一个完整的聊天机器人，运行…
-
-### 我是如何创建这个网络应用程序的，通过它你可以和 GPT-3 自然地谈论任何你想谈论的话题，所有这些都是基于网络的
-
-towardsdatascience.com](/coupling-gpt-3-with-speech-recognition-and-synthesis-to-achieve-a-fully-talking-chatbot-that-runs-abfcb7bf580) 
+[](/coupling-gpt-3-with-speech-recognition-and-synthesis-to-achieve-a-fully-talking-chatbot-that-runs-abfcb7bf580)  
 
 # 再举一个例子
 
@@ -256,27 +244,7 @@ towardsdatascience.com](/coupling-gpt-3-with-speech-recognition-and-synthesis-to
 
 # 相关阅读资料、资源和项目
 
-[](https://arxiv.org/abs/2005.14165) [## 语言模型是一次性学习者
-
-### 最近的工作已经证明了在许多自然语言处理任务和基准上的巨大收益。
-
-arxiv.org](https://arxiv.org/abs/2005.14165) [](https://freshman.tech/wikipedia-javascript/) [## 如何用 JavaScript 构建维基百科搜索应用
-
-### 本教程将带您完成构建一个搜索维基百科并显示其内容的 web 应用程序的过程
-
-新生科技](https://freshman.tech/wikipedia-javascript/) [](/control-web-apps-via-natural-language-by-casting-speech-to-commands-with-gpt-3-113177f4eab1) [## 通过自然语言控制网络应用程序，使用 GPT 3 将语音转换为命令
-
-### 最后一篇文章展示了 GPT3 的实际应用，详细解释了工作流程和…
-
-towardsdatascience.com](/control-web-apps-via-natural-language-by-casting-speech-to-commands-with-gpt-3-113177f4eab1) [](/gpt-3-like-models-with-extended-training-could-be-the-future-24-7-tutors-for-biology-students-904d2ae7986a) [## 经过长期训练的类似 GPT 3 的模特可能成为未来生物学生的全天候导师
-
-### 尽管其他科目的成绩相当令人沮丧，但 GPT-3 在生物方面表现相当好，如果它…
-
-towardsdatascience.com](/gpt-3-like-models-with-extended-training-could-be-the-future-24-7-tutors-for-biology-students-904d2ae7986a) [](/coupling-gpt-3-with-speech-recognition-and-synthesis-to-achieve-a-fully-talking-chatbot-that-runs-abfcb7bf580) [## 耦合 GPT-3 与语音识别和合成，以实现一个完整的聊天机器人，运行…
-
-### 我是如何创建这个网络应用程序的，通过它你可以和 GPT-3 自然地谈论任何你想谈论的话题，所有这些都是基于网络的
-
-towardsdatascience.com](/coupling-gpt-3-with-speech-recognition-and-synthesis-to-achieve-a-fully-talking-chatbot-that-runs-abfcb7bf580) ![](img/83ed4eb57ee6df1e8c789539fa442dc2.png)
+[](https://arxiv.org/abs/2005.14165)  [](https://freshman.tech/wikipedia-javascript/)  [](/control-web-apps-via-natural-language-by-casting-speech-to-commands-with-gpt-3-113177f4eab1)  [](/gpt-3-like-models-with-extended-training-could-be-the-future-24-7-tutors-for-biology-students-904d2ae7986a)  [](/coupling-gpt-3-with-speech-recognition-and-synthesis-to-achieve-a-fully-talking-chatbot-that-runs-abfcb7bf580)  ![](img/83ed4eb57ee6df1e8c789539fa442dc2.png)
 
 图由作者来自公开图片。
 

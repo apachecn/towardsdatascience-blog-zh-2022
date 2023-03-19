@@ -222,16 +222,8 @@ Sigmoid 函数的导数
 
 如果您喜欢您所阅读的内容，那么如果您能支持我，使用我下面的推荐链接注册 Medium，我将不胜感激:
 
-[](https://jacobtoftgaardrasmussen.medium.com/membership) [## 通过我的推荐链接加入 Medium 雅各布·托弗加德·拉斯姆森
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-jacobtoftgaardrasmussen.medium.com](https://jacobtoftgaardrasmussen.medium.com/membership) 
+[](https://jacobtoftgaardrasmussen.medium.com/membership)  
 
 如果你对我在介绍中提到的展示如何从零开始制作神经网络的帖子感到好奇，那么你可以使用下面的下一个链接来查看:
 
-[](/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6) [## 如何用 Python 从零开始构建自己的神经网络
-
-### 理解深度学习内部运作的初学者指南
-
-towardsdatascience.com](/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6)
+[](/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6) 

@@ -253,10 +253,6 @@ Twitter API 的一个有趣的功能是能够传输实时推文的样本。这�
 
 # 新到中？你可以每月订阅 5 美元，并解锁各种主题的无限文章(技术、设计、创业……)你可以通过点击我的推荐[链接](https://ahmedbesbes.medium.com/membership)来支持我
 
-[](https://ahmedbesbes.medium.com/membership) [## 加入我的介绍链接媒体-艾哈迈德贝斯
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-ahmedbesbes.medium.com](https://ahmedbesbes.medium.com/membership) ![](img/14bd7070eaa05ad12f243aa9d5199fb4.png)
+[](https://ahmedbesbes.medium.com/membership)  ![](img/14bd7070eaa05ad12f243aa9d5199fb4.png)
 
 照片由 [charlesdeluvio](https://unsplash.com/@charlesdeluvio?utm_source=medium&utm_medium=referral) 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄

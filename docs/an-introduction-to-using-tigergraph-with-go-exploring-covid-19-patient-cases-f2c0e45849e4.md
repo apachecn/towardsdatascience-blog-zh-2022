@@ -199,26 +199,14 @@ github.com](https://github.com/GenericP3rson/TigerGo)
 
 对围棋感兴趣？我之前写了一篇关于进入 Go 和创建一个包的博客，你可以看看！
 
-[](https://shreya-chaudhary.medium.com/creating-and-deploying-your-first-go-package-eae220905745) [## 创建和部署您的第一个 Go 包
-
-### 创建 TigerGraph 包装器 Go 库的分步指南
-
-shreya-chaudhary.medium.com](https://shreya-chaudhary.medium.com/creating-and-deploying-your-first-go-package-eae220905745) 
+[](https://shreya-chaudhary.medium.com/creating-and-deploying-your-first-go-package-eae220905745)  
 
 有兴趣创建自己的 TigerGraph 包装器吗？点击查看官方端点[的完整文档。](https://docs.tigergraph.com/tigergraph-server/current/api/built-in-endpoints)
 
-[](https://docs.tigergraph.com/tigergraph-server/current/api/built-in-endpoints) [## 内置端点- TigerGraph 服务器
-
-### 这些端点是简单的诊断实用程序，如果 RESTPP 服务器启动，它们会响应以下消息…
-
-docs.tigergraph.com](https://docs.tigergraph.com/tigergraph-server/current/api/built-in-endpoints) 
+[](https://docs.tigergraph.com/tigergraph-server/current/api/built-in-endpoints)  
 
 最后，如果您在开发项目时有任何问题或想与 TigerGraph 开发人员聊天，请加入 [the Discord](https://discord.gg/DMHabbX3BA) ！
 
-[](https://discord.gg/DMHabbX3BA) [## 加入 TigerGraph Discord 服务器！
-
-### 查看 Discord 上的 TigerGraph 社区-与 1，280 名其他成员一起玩，享受免费的语音和文本聊天。
-
-不和谐. gg](https://discord.gg/DMHabbX3BA) 
+[](https://discord.gg/DMHabbX3BA)  
 
 > 注:除特别注明外，所有图片均由作者创作。

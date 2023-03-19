@@ -12,11 +12,7 @@
 
 如果您是强化学习的新手，请查看 [**课程简介**](/hands-on-reinforcement-learning-course-part-1-269b50e39d08) 以了解基础知识和术语。
 
-[](/hands-on-reinforcement-learning-course-part-1-269b50e39d08) [## 实践强化学习课程—第 1 部分
-
-### 从零到英雄。循序渐进。
-
-towardsdatascience.com](/hands-on-reinforcement-learning-course-part-1-269b50e39d08) 
+[](/hands-on-reinforcement-learning-course-part-1-269b50e39d08)  
 
 同样，你可以在 [**这个资源库**](https://github.com/Paulescu/hands-on-rl) 中找到今天课程的所有代码👇🏽
 
@@ -383,11 +379,7 @@ Succes rate = 99.00%
 
 **👉🏽今天使用我的 [**推荐链接**](https://pau-labarta-bajo.medium.com/membership) 成为会员。**
 
-**[](https://pau-labarta-bajo.medium.com/membership) [## 成为一个媒体成员来阅读我在媒体上分享的一切。
-
-### 你的会员费的一部分给了所有你喜欢阅读的作家。希望是我。
-
-pau-labarta-bajo.medium.com](https://pau-labarta-bajo.medium.com/membership) 
+**[](https://pau-labarta-bajo.medium.com/membership)  
 
 👉🏽订阅 [***datamachines* 简讯**](https://datamachines.xyz/subscribe/) **。**
 

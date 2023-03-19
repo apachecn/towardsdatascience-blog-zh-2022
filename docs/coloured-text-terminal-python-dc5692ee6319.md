@@ -142,24 +142,8 @@ Python 和 Colorama 标准输出上的彩色文本—来源:作者
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership) 
+[](https://gmyrianthous.medium.com/membership)  
 
 **相关文章你可能也喜欢**
 
-[](/requirements-vs-setuptools-python-ae3ee66e28af) [## Python 中的 requirements.txt 与 setup.py
-
-### 了解 Python 中 requirements.txt、setup.py 和 setup.cfg 在开发和分发时的用途…
-
-towardsdatascience.com](/requirements-vs-setuptools-python-ae3ee66e28af) [](/args-kwargs-python-d9c71b220970) [## * Python 中的 args 和**kwargs
-
-### 讨论位置参数和关键字参数之间的区别，以及如何在 Python 中使用*args 和**kwargs
-
-towardsdatascience.com](/args-kwargs-python-d9c71b220970) [](/how-to-merge-pandas-dataframes-221e49c41bec) [## 如何合并熊猫数据帧
-
-### 对熊猫数据帧执行左、右、内和反连接
-
-towardsdatascience.com](/how-to-merge-pandas-dataframes-221e49c41bec)
+[](/requirements-vs-setuptools-python-ae3ee66e28af)  [](/args-kwargs-python-d9c71b220970)  [](/how-to-merge-pandas-dataframes-221e49c41bec) 

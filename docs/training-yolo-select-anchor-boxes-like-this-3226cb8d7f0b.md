@@ -92,16 +92,4 @@ YOLO 自动锚定算法中使用的度量是棘手的，也许你不需要知道
 
 同时，我鼓励你看看我的其他一些帖子:
 
-[](/learn-to-reproduce-papers-beginners-guide-2b4bff8fcca0) [## 学习复制论文:初学者指南
-
-### 关于如何理解深度学习论文和实现所描述的方法的分步指导。用一个…
-
-towardsdatascience.com](/learn-to-reproduce-papers-beginners-guide-2b4bff8fcca0) [](/explainable-defect-detection-using-convolutional-neural-networks-case-study-284e57337b59) [## 使用卷积神经网络的可解释缺陷检测:案例研究
-
-### 没有任何包围盒标签的训练对象检测模型。这篇文章展示了可解释人工智能的力量。
-
-towardsdatascience.com](/explainable-defect-detection-using-convolutional-neural-networks-case-study-284e57337b59) [](/word2vec-with-pytorch-implementing-original-paper-2cd7040120b0) [## 使用 PyTorch 的 Word2vec:实现原始论文
-
-### 涵盖所有实现细节，跳过高级概述。代码附后。
-
-towardsdatascience.com](/word2vec-with-pytorch-implementing-original-paper-2cd7040120b0)
+[](/learn-to-reproduce-papers-beginners-guide-2b4bff8fcca0)  [](/explainable-defect-detection-using-convolutional-neural-networks-case-study-284e57337b59)  [](/word2vec-with-pytorch-implementing-original-paper-2cd7040120b0) 

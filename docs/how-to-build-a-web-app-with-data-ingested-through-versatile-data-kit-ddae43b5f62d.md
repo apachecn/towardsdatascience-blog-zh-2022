@@ -245,16 +245,4 @@ streamlit run dashboard.py
 
 # 相关文章
 
-[](/an-overview-of-versatile-data-kit-a812cfb26de7) [## 多功能数据工具包概述
-
-### 开始使用多功能数据工具包，这是一个使数据工程师工作更高效的框架
-
-towardsdatascience.com](/an-overview-of-versatile-data-kit-a812cfb26de7) [](/using-versatile-data-kit-to-ingest-and-process-data-from-rest-api-6e3e0660b791) [## 使用通用数据工具包从 REST API 获取和处理数据
-
-### 关于如何使用通用数据工具包(VDK)从 REST API 获取数据的教程，以及一些关于如何安装…
-
-towardsdatascience.com](/using-versatile-data-kit-to-ingest-and-process-data-from-rest-api-6e3e0660b791) [](/from-raw-data-to-a-cleaned-database-a-deep-dive-into-versatile-data-kit-ab5fd992a02e) [## 从原始数据到干净的数据库:对多功能数据工具包的深入研究
-
-### 使用通用数据工具包(VMware 最近发布的一个框架)和 Trino DB 的完整示例
-
-towardsdatascience.com](/from-raw-data-to-a-cleaned-database-a-deep-dive-into-versatile-data-kit-ab5fd992a02e)
+[](/an-overview-of-versatile-data-kit-a812cfb26de7)  [](/using-versatile-data-kit-to-ingest-and-process-data-from-rest-api-6e3e0660b791)  [](/from-raw-data-to-a-cleaned-database-a-deep-dive-into-versatile-data-kit-ab5fd992a02e) 

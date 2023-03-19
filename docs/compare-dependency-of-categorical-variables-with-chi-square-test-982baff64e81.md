@@ -180,16 +180,8 @@ Expected table value is
 
 **您可以通过以下链接订阅媒体上的每一篇文章。**
 
-*[](https://mzh706.medium.com/membership) [## 通过我的推荐链接加入 Medium-MD . Zubair
-
-### 阅读 Md. Zubair 的每一个故事你的会员费直接支持 Md. Zubair 和你阅读的其他作家。你会…
-
-mzh706.medium.com](https://mzh706.medium.com/membership) 
+*[](https://mzh706.medium.com/membership)  
 
 *订阅以下链接，获取我的文章通知。*
 
-[](https://mzh706.medium.com/subscribe) [## 每当 Md. Zubair 发表文章时，就收到一封电子邮件。
-
-### 每当 Md. Zubair 发表文章时，就收到一封电子邮件。通过注册，您将创建一个中型帐户，如果您还没有…
-
-mzh706.medium.com](https://mzh706.medium.com/subscribe)*
+[](https://mzh706.medium.com/subscribe) *

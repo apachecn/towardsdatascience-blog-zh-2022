@@ -63,24 +63,4 @@ ICP 从初始对准开始，并在两个步骤之间迭代
 
 这是我在这篇文章中使用的论文列表。您可以阅读它们以了解更多信息。
 
-[](https://ieeexplore.ieee.org/abstract/document/8490968) [## [1]迭代全局相似点:用于成对 3D 的稳健的粗到细整合解决方案…
-
-### 在本文中，我们提出了一种由粗到细的积分方法，该方法受经典 ICP 算法的启发，用于两两三维物体的积分
-
-ieeexplore.ieee.org](https://ieeexplore.ieee.org/abstract/document/8490968) [](https://ieeexplore.ieee.org/abstract/document/9336308) [## [2]快速和稳健的迭代最近点
-
-### 迭代最近点(ICP)算法和它的变种是一个基本的技术之间的严格注册…
-
-ieeexplore.ieee.org](https://ieeexplore.ieee.org/abstract/document/9336308) [](https://ieeexplore.ieee.org/abstract/document/5432191) [## [3]点集配准:相干点漂移
-
-### 点集配准是许多计算机视觉任务中的关键组成部分。点集配准的目标是…
-
-ieeexplore.ieee.org](https://ieeexplore.ieee.org/abstract/document/5432191) [](https://link.springer.com/article/10.1007/s11432-011-4465-7) [## [4]一种用于点集配准的精细相干点漂移(CPD)算法-科学中国…
-
-### 相干点漂移(CPD)算法是一种强有力的点集配准方法。然而，它有一个缺点…
-
-link.springer.com](https://link.springer.com/article/10.1007/s11432-011-4465-7) [](https://ieeexplore.ieee.org/abstract/document/8897021) [## [5]基于相干点漂移的 TLS 点云的密度自适应和几何感知配准
-
-### 概率配准算法[例如，相干点漂移(CPD)]为点云提供了有效的解决方案
-
-ieeexplore.ieee.org](https://ieeexplore.ieee.org/abstract/document/8897021)
+[](https://ieeexplore.ieee.org/abstract/document/8490968)  [](https://ieeexplore.ieee.org/abstract/document/9336308)  [](https://ieeexplore.ieee.org/abstract/document/5432191)  [](https://link.springer.com/article/10.1007/s11432-011-4465-7)  [](https://ieeexplore.ieee.org/abstract/document/8897021) 

@@ -78,16 +78,4 @@
 
 不知道接下来要读什么？以下是一些建议:
 
-[](/why-i-joined-mckinsey-as-a-data-scientist-2fb3b586fd0d) [## 我加入麦肯锡成为数据科学家的原因
-
-### 尽管每周工作 80 小时，你应该成为数据科学顾问吗？
-
-towardsdatascience.com](/why-i-joined-mckinsey-as-a-data-scientist-2fb3b586fd0d) [](/productivity-tips-for-data-scientists-eb66242fde27) [## 数据科学家的生产力提示
-
-### 作为一名数据科学家，如何更好、更聪明但不一定更努力地工作
-
-towardsdatascience.com](/productivity-tips-for-data-scientists-eb66242fde27) [](/top-qualities-hiring-managers-look-for-in-data-scientist-candidates-2e2cd52444c2) [## 招聘经理对数据科学家候选人的最高要求
-
-### 其中一些可以说比编写高效的代码更重要
-
-towardsdatascience.com](/top-qualities-hiring-managers-look-for-in-data-scientist-candidates-2e2cd52444c2)
+[](/why-i-joined-mckinsey-as-a-data-scientist-2fb3b586fd0d)  [](/productivity-tips-for-data-scientists-eb66242fde27)  [](/top-qualities-hiring-managers-look-for-in-data-scientist-candidates-2e2cd52444c2) 

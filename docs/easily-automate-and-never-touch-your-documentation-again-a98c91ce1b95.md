@@ -41,11 +41,7 @@ automate _ mkdocs . py——这个脚本受 Louis de Brujin 的[工作的启发�
 
 花点时间填写 mkgendocs.yaml 和 mkdocs.yaml 的顶部，让它们成为您的项目所独有的！
 
-[](/why-is-thunderbolt-3-such-a-huge-deal-and-why-apple-loves-them-614542d32dc2) [## 为什么雷电 3 如此重要？(以及苹果为什么喜欢它们)
-
-### 无论您是将它用于 eGPU 和机器学习、游戏，还是用于外部显示器…没有它的生活可能…
-
-towardsdatascience.com](/why-is-thunderbolt-3-such-a-huge-deal-and-why-apple-loves-them-614542d32dc2) 
+[](/why-is-thunderbolt-3-such-a-huge-deal-and-why-apple-loves-them-614542d32dc2)  
 
 ## 第 4 步—立即创建文档！
 
@@ -166,8 +162,4 @@ mkdocs gh-deploy
 
 我希望这篇文章对您的文档之旅有所帮助！这篇文章是我最喜欢写的文章之一。如果您认为需要回来参考，请务必保存/标记该故事！如果你喜欢这篇文章，请随意[关注我](https://jerdibattista.medium.com/)，阅读我写的更多内容，或者将我[作为推荐人](https://jerdibattista.medium.com/membership)，这样我就可以继续制作我喜欢的内容。
 
-[](/the-best-python-sentiment-analysis-package-1-huge-common-mistake-d6da9ad6cdeb) [## 最好的 Python 情绪分析包(+1 个巨大的常见错误)
-
-### 如何在不训练自己模型的情况下获得近乎完美的性能
-
-towardsdatascience.com](/the-best-python-sentiment-analysis-package-1-huge-common-mistake-d6da9ad6cdeb)
+[](/the-best-python-sentiment-analysis-package-1-huge-common-mistake-d6da9ad6cdeb) 

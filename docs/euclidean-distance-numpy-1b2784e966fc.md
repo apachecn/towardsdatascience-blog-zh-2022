@@ -85,24 +85,8 @@ euclidean_distance = compute_euclidean_distance(a, b)print(euclidean_distance)
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读媒介上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership) 
+[](https://gmyrianthous.medium.com/membership)  
 
 **相关文章你可能也喜欢**
 
-[](/how-to-merge-pandas-dataframes-221e49c41bec) [## 如何合并熊猫数据帧
-
-### 对熊猫数据帧执行左、右、内和反连接
-
-towardsdatascience.com](/how-to-merge-pandas-dataframes-221e49c41bec) [](/random-seed-numpy-786cf7876a5f) [## random.seed 在 NumPy 中做什么
-
-### 理解在 Python 中使用 NumPy 生成伪随机结构时如何创建可再现的结果
-
-towardsdatascience.com](/random-seed-numpy-786cf7876a5f) [](/normalise-numpy-unit-vector-f9f086134507) [## 如何将 NumPy 数组规范化为单位向量
-
-### 用 Python 将 numpy 数组归一化为单位向量
-
-towardsdatascience.com](/normalise-numpy-unit-vector-f9f086134507)
+[](/how-to-merge-pandas-dataframes-221e49c41bec)  [](/random-seed-numpy-786cf7876a5f)  [](/normalise-numpy-unit-vector-f9f086134507) 

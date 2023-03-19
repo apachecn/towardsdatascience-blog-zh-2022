@@ -54,11 +54,7 @@
 
 > 本文选自[**The algorithm Bridge**](https://thealgorithmicbridge.substack.com/subscribe?)，这是一份教育通讯，其目的是在算法和人之间架起一座桥梁。它将帮助你理解人工智能对你生活的影响，并开发工具来更好地导航未来。
 
-[](https://thealgorithmicbridge.substack.com/subscribe) [## 算法桥
-
-### 弥合算法和人之间的鸿沟。关于与你生活相关的人工智能的时事通讯。点击阅读…
-
-thealgorithmicbridge.substack.com](https://thealgorithmicbridge.substack.com/subscribe) 
+[](https://thealgorithmicbridge.substack.com/subscribe)  
 
 # 如果你感到不知所措，你并不孤单
 

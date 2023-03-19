@@ -40,11 +40,7 @@
 
 `*[Complete data visualization guideline is available here…*`
 
-[](https://medium.datadriveninvestor.com/ultimate-guide-to-data-visualization-for-data-science-90b0b13e72ab) [## 数据科学数据可视化终极指南
-
-### 数据科学的数据可视化一览:标准指南
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/ultimate-guide-to-data-visualization-for-data-science-90b0b13e72ab) 
+[](https://medium.datadriveninvestor.com/ultimate-guide-to-data-visualization-for-data-science-90b0b13e72ab)  
 
 `*]*`
 
@@ -151,11 +147,7 @@ medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/ultimate-gu
 
 *【要了解更多关于频率分布的细节，请阅读文章*
 
-[](/find-the-patterns-of-a-dataset-by-visualizing-frequency-distribution-c5718ab1f2c2) [## 通过可视化频率分布找到数据集的模式(Stat-05)
-
-### 通过可视化频率分布来深入了解数据集
-
-towardsdatascience.com](/find-the-patterns-of-a-dataset-by-visualizing-frequency-distribution-c5718ab1f2c2) 
+[](/find-the-patterns-of-a-dataset-by-visualizing-frequency-distribution-c5718ab1f2c2)  
 
 *】*
 
@@ -188,24 +180,8 @@ towardsdatascience.com](/find-the-patterns-of-a-dataset-by-visualizing-frequency
 
 **完整的数据可视化指南。**
 
-[](https://medium.datadriveninvestor.com/ultimate-guide-to-data-visualization-for-data-science-90b0b13e72ab) [## 数据科学数据可视化终极指南
-
-### 数据科学的数据可视化一览:标准指南
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/ultimate-guide-to-data-visualization-for-data-science-90b0b13e72ab) 
+[](https://medium.datadriveninvestor.com/ultimate-guide-to-data-visualization-for-data-science-90b0b13e72ab)  
 
 `***I have chosen some articles for you. Don’t miss to read the following articles.***`
 
-[](/11-less-used-but-important-plots-for-data-science-dede3f9b7ebd) [## 11 数据科学的美学数据可视化
-
-### 一些独特的数据可视化技术，用于深入了解数据
-
-towardsdatascience.com](/11-less-used-but-important-plots-for-data-science-dede3f9b7ebd) [](/spread-of-covid-19-with-interactive-data-visualization-521ac471226e) [## 通过交互式数据可视化传播新冠肺炎
-
-### 一个完整的指南条形图比赛和互动 Choropleth 地图新冠肺炎疫情与 Python。
-
-towardsdatascience.com](/spread-of-covid-19-with-interactive-data-visualization-521ac471226e) [](/ultimate-guide-to-statistics-for-data-science-a3d8f1fd69a7) [## 数据科学统计终极指南
-
-### 数据科学统计一瞥:标准指南
-
-towardsdatascience.com](/ultimate-guide-to-statistics-for-data-science-a3d8f1fd69a7)
+[](/11-less-used-but-important-plots-for-data-science-dede3f9b7ebd)  [](/spread-of-covid-19-with-interactive-data-visualization-521ac471226e)  [](/ultimate-guide-to-statistics-for-data-science-a3d8f1fd69a7) 

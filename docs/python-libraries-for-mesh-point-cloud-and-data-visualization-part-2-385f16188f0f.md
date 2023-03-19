@@ -12,11 +12,7 @@
 
 *如果你对使用 Open3D、Trimesh、PyVista 或 Vedo 感兴趣，可以看看概述教程的第 1 部分——这里[这里](https://medium.com/@inikolov17/python-libraries-for-mesh-and-point-cloud-visualization-part-1-daa2af36de30)。*
 
-*[](/python-libraries-for-mesh-and-point-cloud-visualization-part-1-daa2af36de30) [## 用于网格、点云和数据可视化的 Python 库(第 1 部分)
-
-### 八个最好的 Python 库，用于惊人的 3D 可视化、绘图和动画
-
-towardsdatascience.com](/python-libraries-for-mesh-and-point-cloud-visualization-part-1-daa2af36de30) ![](img/b2f67c9990a3fb70d18e3615cac79ab7.png)
+*[](/python-libraries-for-mesh-and-point-cloud-visualization-part-1-daa2af36de30)  ![](img/b2f67c9990a3fb70d18e3615cac79ab7.png)
 
 作者使用 Simple-3dviz|图像的平滑闭环摄像机轨迹可视化示例
 

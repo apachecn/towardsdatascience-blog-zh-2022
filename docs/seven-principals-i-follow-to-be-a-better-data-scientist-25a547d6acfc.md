@@ -88,32 +88,16 @@
 
 感谢您的阅读！如果感兴趣，请查看我的其他文章:
 
-[](https://zzhu17.medium.com/my-blog-posts-gallery-ac6e01fe5cc3) [## 我的博客文章库
-
-### 我快乐的地方
-
-zzhu17.medium.com](https://zzhu17.medium.com/my-blog-posts-gallery-ac6e01fe5cc3) 
+[](https://zzhu17.medium.com/my-blog-posts-gallery-ac6e01fe5cc3)  
 
 订阅我的电子邮件列表:
 
-[](https://zzhu17.medium.com/subscribe) [## 每当朱发表。
-
-### 每当朱发表。感谢您的阅读！通过订阅保持对我的故事的更新！由…
-
-zzhu17.medium.com](https://zzhu17.medium.com/subscribe) 
+[](https://zzhu17.medium.com/subscribe)  
 
 注册成为中级会员:
 
-[](https://zzhu17.medium.com/membership) [## 请通过我的推荐链接朱加入媒体
-
-### 阅读朱(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-zzhu17.medium.com](https://zzhu17.medium.com/membership) 
+[](https://zzhu17.medium.com/membership)  
 
 或者在 YouTube 上关注我:
 
-[](https://youtube.com/channel/UCMs6go1pvY5OOy1DXVtMo5A) [## 朱
-
-### 你好。欢迎来到我的 Youtube 频道！！！我想用这个空间来分享我的生活、观点、建议和有趣的东西…
-
-youtube.com](https://youtube.com/channel/UCMs6go1pvY5OOy1DXVtMo5A)
+[](https://youtube.com/channel/UCMs6go1pvY5OOy1DXVtMo5A) 

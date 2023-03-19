@@ -215,12 +215,4 @@ GraphSAGE** test accuracy: **77.20% (12.4 s)****
 
 # ****相关文章****
 
-****[](/how-to-design-the-most-powerful-graph-neural-network-3d18b07a6e66) [## 如何设计最强大的图形神经网络
-
-### 基于图同构网络的图分类
-
-towardsdatascience.com](/how-to-design-the-most-powerful-graph-neural-network-3d18b07a6e66) [](/graph-attention-networks-in-python-975736ac5c0c) [## 图形注意网络:自我注意的解释
-
-### 使用 PyTorch 几何图形的带自我注意的 GNNs 指南
-
-towardsdatascience.com](/graph-attention-networks-in-python-975736ac5c0c)****
+****[](/how-to-design-the-most-powerful-graph-neural-network-3d18b07a6e66)  [](/graph-attention-networks-in-python-975736ac5c0c) ****

@@ -14,11 +14,7 @@
 
 *我最近看到了这篇关于用有限差分法求解 2D 偏微分方程的文章。我发现这个帖子是对有限差分法(FDM)的一个很好的介绍:如果你使用数值方法，一定要去看看。这是很好的解释，并使用了一个简单的例子，所以很容易理解。*
 
-*[](https://levelup.gitconnected.com/solving-2d-heat-equation-numerically-using-python-3334004aa01a) [## 用 Python 数值求解 2D 热方程
-
-### 几年前我在大学学物理的时候，我记得有一个任务是解析解热方程…
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/solving-2d-heat-equation-numerically-using-python-3334004aa01a) 
+*[](https://levelup.gitconnected.com/solving-2d-heat-equation-numerically-using-python-3334004aa01a)  
 
 但当我阅读代码时，我意识到可以进行一些改进来加快解决速度，特别是因为 FDM 被认为是“慢”或“计算量大”的方法。
 

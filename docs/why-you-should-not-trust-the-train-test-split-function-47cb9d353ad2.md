@@ -128,16 +128,4 @@ mean = 3029.5400317608987std = 302.5362185895346
 
 [](/a-complete-data-analysis-workflow-in-python-and-scikit-learn-9a77f7c283d3) [## Python 和 scikit 中的完整数据分析工作流程-学习
 
-towardsdatascience.com](/a-complete-data-analysis-workflow-in-python-and-scikit-learn-9a77f7c283d3) [](/how-to-spend-your-time-when-you-are-waiting-for-a-data-analysis-output-e71b383f43cb) [## 当你在等待数据分析结果时，你该如何打发时间
-
-### 当你的计算机正在运行你喜欢的算法，而你正在等待的时候，一些建议不要浪费你的时间…
-
-towardsdatascience.com](/how-to-spend-your-time-when-you-are-waiting-for-a-data-analysis-output-e71b383f43cb) [](/have-you-ever-thought-about-using-python-virtualenv-fc419d8b0785) [## 有没有想过用 Python virtualenv？
-
-### 在终端和 Jupyter 笔记本上安装和使用 Python virtualenv 的实用指南。
-
-towardsdatascience.com](/have-you-ever-thought-about-using-python-virtualenv-fc419d8b0785) [](/automl-in-python-a-comparison-between-hyperopt-sklearn-and-tpot-8c12aaf7e829) [## Python 中的 AutoML:Hyperopt sk learn 和 TPOT 的比较
-
-### 两种流行的 Python AutoML 库的优缺点
-
-towardsdatascience.com](/automl-in-python-a-comparison-between-hyperopt-sklearn-and-tpot-8c12aaf7e829)
+towardsdatascience.com](/a-complete-data-analysis-workflow-in-python-and-scikit-learn-9a77f7c283d3) [](/how-to-spend-your-time-when-you-are-waiting-for-a-data-analysis-output-e71b383f43cb)  [](/have-you-ever-thought-about-using-python-virtualenv-fc419d8b0785)  [](/automl-in-python-a-comparison-between-hyperopt-sklearn-and-tpot-8c12aaf7e829) 

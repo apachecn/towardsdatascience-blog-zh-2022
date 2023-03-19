@@ -33,11 +33,7 @@ Scikit-learn transformers 是为生产中的数据准备建立管道的一套很
 
 例如，在 Python 中，我们可以运行类似于`1+2`或`'a' + 'b'`的操作，并分别得到`3`和`ab`的结果。Python 在幕后调用了一个已经在 string 和 integer 类中实现的名为`__add__()`的*魔法方法*。关于 Python 如何将这些核心语法转换成特殊方法的详细信息，请查看我上一篇关于 Python 核心语法的文章。
 
-[](https://betterprogramming.pub/python-core-syntax-and-the-magic-behind-them-3c912985b87c) [## Python 核心语法及其背后的魔力！
-
-### 您是否曾想过如何在 Python 中运行像将两个数字或字符串相加(+)这样的操作，并且还能得到…
-
-better 编程. pub](https://betterprogramming.pub/python-core-syntax-and-the-magic-behind-them-3c912985b87c) 
+[](https://betterprogramming.pub/python-core-syntax-and-the-magic-behind-them-3c912985b87c)  
 
 这个神奇的方法——`__add__()`是多态性的一个例子——它是同一个方法，但是根据调用它的类对象，它调整它的行为，从累加数字到连接字符串。
 
@@ -49,11 +45,7 @@ better 编程. pub](https://betterprogramming.pub/python-core-syntax-and-the-mag
 
 但是如果他们不知道或者你需要快速复习，请随意阅读我以前关于理解继承和子类的文章。
 
-[](/object-oriented-programming-in-python-inheritance-and-subclass-9c62ad027278) [## Python 中的面向对象编程——继承和子类
-
-### 理解继承的基本概念，并通过创建子类来应用它们。
-
-towardsdatascience.com](/object-oriented-programming-in-python-inheritance-and-subclass-9c62ad027278) 
+[](/object-oriented-programming-in-python-inheritance-and-subclass-9c62ad027278)  
 
 对于我们的例子，我们将创建一个名为`InheritList`的超类和三个子类:`DefaultList`、`EvenList`和`OddList`来运行继承和多态的例子。
 
@@ -120,12 +112,4 @@ print(f"evenNumList after calling do_call(58): {evenNumList.do_all(58)}")print(f
 
 感谢您阅读这篇文章。希望它能帮助您理解 Python 类上下文中多态性的概念。如果你喜欢这篇文章，请考虑关注我的个人资料，以获得关于我未来文章的通知。
 
-[](https://levelup.gitconnected.com/use-modules-to-better-organize-your-python-code-75690ba6b6e) [## 使用模块更好地组织您的 Python 代码
-
-### 了解 Python 模块以及如何使用它们来更好地组织您不断增长的代码库。
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/use-modules-to-better-organize-your-python-code-75690ba6b6e) [](https://levelup.gitconnected.com/use-modules-to-better-organize-your-python-code-75690ba6b6e) [## 使用模块更好地组织您的 Python 代码
-
-### 了解 Python 模块以及如何使用它们来更好地组织您不断增长的代码库。
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/use-modules-to-better-organize-your-python-code-75690ba6b6e)
+[](https://levelup.gitconnected.com/use-modules-to-better-organize-your-python-code-75690ba6b6e)  [](https://levelup.gitconnected.com/use-modules-to-better-organize-your-python-code-75690ba6b6e) 

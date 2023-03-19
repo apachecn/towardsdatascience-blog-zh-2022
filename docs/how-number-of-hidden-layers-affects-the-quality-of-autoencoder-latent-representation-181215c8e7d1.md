@@ -182,27 +182,15 @@ Clark Van Der Beken 在 [Unsplash](https://unsplash.com/?utm_source=unsplash&utm
 
 *   **深度学习中的自动编码器介绍**
 
-[](https://rukshanpramoditha.medium.com/an-introduction-to-autoencoders-in-deep-learning-ab5a5861f81e) [## 深度学习中的自动编码器介绍
-
-### 理解自动编码器背后的原理
-
-rukshanpramoditha.medium.com](https://rukshanpramoditha.medium.com/an-introduction-to-autoencoders-in-deep-learning-ab5a5861f81e) 
+[](https://rukshanpramoditha.medium.com/an-introduction-to-autoencoders-in-deep-learning-ab5a5861f81e)  
 
 *   **自动编码器潜在向量的维度如何影响潜在表示的质量**
 
-[](https://rukshanpramoditha.medium.com/how-the-dimension-of-autoencoder-latent-vector-affects-the-quality-of-latent-representation-c98c38fbe3c3) [## 自动编码器潜在向量的维数如何影响潜在表示的质量
-
-### 自动编码器中超参数调谐—第 2 部分
-
-rukshanpramoditha.medium.com](https://rukshanpramoditha.medium.com/how-the-dimension-of-autoencoder-latent-vector-affects-the-quality-of-latent-representation-c98c38fbe3c3) 
+[](https://rukshanpramoditha.medium.com/how-the-dimension-of-autoencoder-latent-vector-affects-the-quality-of-latent-representation-c98c38fbe3c3)  
 
 *   **自动编码器如何在降维方面优于 PCA**
 
-[](/how-autoencoders-outperform-pca-in-dimensionality-reduction-1ae44c68b42f) [## 自动编码器如何在降维方面优于 PCA
-
-### 使用非线性数据的自动编码器的维数减少
-
-towardsdatascience.com](/how-autoencoders-outperform-pca-in-dimensionality-reduction-1ae44c68b42f) 
+[](/how-autoencoders-outperform-pca-in-dimensionality-reduction-1ae44c68b42f)  
 
 *   **全集我的** [**神经网络与深度学习教程**](https://rukshanpramoditha.medium.com/list/neural-networks-and-deep-learning-course-a2779b9c3f75)
 
@@ -214,11 +202,7 @@ towardsdatascience.com](/how-autoencoders-outperform-pca-in-dimensionality-reduc
 
 **我希望你喜欢阅读这篇文章。如果你愿意支持我成为一名作家，请考虑 [***注册会员***](https://rukshanpramoditha.medium.com/membership) *以获得无限制的媒体访问权限。它只需要每月 5 美元，我会收到你的会员费的一部分。***
 
-**[](https://rukshanpramoditha.medium.com/membership) [## 通过我的推荐链接加入 Medium
-
-### 阅读 Rukshan Pramoditha(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接…
-
-rukshanpramoditha.medium.com](https://rukshanpramoditha.medium.com/membership) 
+**[](https://rukshanpramoditha.medium.com/membership)  
 
 非常感谢你一直以来的支持！下一篇文章再见。祝大家学习愉快！** 
 

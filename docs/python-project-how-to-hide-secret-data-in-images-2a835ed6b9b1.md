@@ -49,11 +49,7 @@ import os
 
 如果您不完全熟悉 Open-CV 库，我强烈推荐您通过下面提供的链接查阅我以前的一篇文章，这篇文章涵盖了这个概念的全部基础知识。掌握这个库的知识是掌握 Python 中计算机视觉的最重要的步骤之一。
 
-[](/opencv-complete-beginners-guide-to-master-the-basics-of-computer-vision-with-code-4a1cd0c687f9) [## OpenCV:用代码掌握计算机视觉基础的完全初学者指南！
-
-### 包含代码的教程，用于掌握计算机视觉的所有重要概念，以及如何使用 OpenCV 实现它们
-
-towardsdatascience.com](/opencv-complete-beginners-guide-to-master-the-basics-of-computer-vision-with-code-4a1cd0c687f9) 
+[](/opencv-complete-beginners-guide-to-master-the-basics-of-computer-vision-with-code-4a1cd0c687f9)  
 
 ## 声明和定义所需的变量和参数:
 
@@ -81,11 +77,7 @@ Height: 3585, Width: 5378, Number of channels: 3
 
 如果您已经按照教程学习了这么久，那么在运行下面的代码时，您应该会获得下面的输出参数。如果用户不太熟悉数据结构和字典的概念，我建议查看我以前的一篇文章，通过下面的链接更熟悉这个概念。
 
-[](/mastering-dictionaries-and-sets-in-python-6e30b0e2011f) [## 掌握 Python 中的字典和集合！
-
-### 通过代码和示例理解 Python 中的字典和集合的概念
-
-towardsdatascience.com](/mastering-dictionaries-and-sets-in-python-6e30b0e2011f) 
+[](/mastering-dictionaries-and-sets-in-python-6e30b0e2011f)  
 
 ## 加密:
 
@@ -157,11 +149,7 @@ else:
 
 密码学是一个庞大的课题，还有很多安全措施对于用户在网上或现实生活中维护他们的隐私和安全是必不可少的。虽然这样的项目是一个很好的起点，但是检查其他类似的项目来增加您的安全措施也是一个很好的主意。我建议通过下面提供的链接查看我的另一个关于使用 Python 生成高度安全的密码的项目。
 
-[](/highly-secure-password-generation-with-python-852da86565b9) [## 使用 Python 生成密码
-
-### 在大约 5 分钟内为所有重要文件和网上交易生成安全密码
-
-towardsdatascience.com](/highly-secure-password-generation-with-python-852da86565b9) 
+[](/highly-secure-password-generation-with-python-852da86565b9)  
 
 # 结论:
 
@@ -178,28 +166,12 @@ towardsdatascience.com](/highly-secure-password-generation-with-python-852da8656
 
 如果你想在我的文章发表后第一时间得到通知，请点击下面的[链接](https://bharath-k1297.medium.com/subscribe)订阅邮件推荐。如果你希望支持其他作者和我，请订阅下面的链接。
 
-[](https://bharath-k1297.medium.com/membership) [## 通过我的推荐链接加入媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-bharath-k1297.medium.com](https://bharath-k1297.medium.com/membership) 
+[](https://bharath-k1297.medium.com/membership)  
 
 如果你对这篇文章中提到的各点有任何疑问，请在下面的评论中告诉我。我会尽快给你回复。
 
 看看我的一些与本文主题相关的文章，你可能也会喜欢阅读！
 
-[](/7-python-programming-tips-to-improve-your-productivity-a57802f225b6) [## 提高生产力的 7 个 Python 编程技巧
-
-### 通过修正一些常见的不良编程实践，使您的 Python 编码更加有效和高效
-
-towardsdatascience.com](/7-python-programming-tips-to-improve-your-productivity-a57802f225b6) [](/develop-your-own-calendar-to-track-important-dates-with-python-c1af9e98ffc3) [## 使用 Python 开发您自己的日历来跟踪重要日期
-
-### 开发一个日历 GUI 界面来管理您 2022 年及以后的计划
-
-towardsdatascience.com](/develop-your-own-calendar-to-track-important-dates-with-python-c1af9e98ffc3) [](/develop-your-weather-application-with-python-in-less-than-10-lines-6d092c6dcbc9) [## 用 Python 开发不到 10 行的天气应用程序
-
-### 使用 Python 构建我们的天气电视广播应用程序，以接收所需位置的更新
-
-towardsdatascience.com](/develop-your-weather-application-with-python-in-less-than-10-lines-6d092c6dcbc9) 
+[](/7-python-programming-tips-to-improve-your-productivity-a57802f225b6)  [](/develop-your-own-calendar-to-track-important-dates-with-python-c1af9e98ffc3)  [](/develop-your-weather-application-with-python-in-less-than-10-lines-6d092c6dcbc9)  
 
 谢谢你们坚持到最后。我希望你们都喜欢这篇文章。祝大家有美好的一天！

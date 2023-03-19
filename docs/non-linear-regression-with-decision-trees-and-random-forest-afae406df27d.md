@@ -14,19 +14,7 @@
 
 如果您错过了之前的任何研讨会，可以在这里找到:
 
-[](/an-introduction-lasso-and-ridge-regression-using-scitkit-learn-d3427700679c) [## 使用 scitkit-learn 介绍套索和岭回归
-
-### UCL 数据科学学会 12a 研讨会:偏差-方差权衡，套索实施，山脊实施，及其…
-
-towardsdatascience.com](/an-introduction-lasso-and-ridge-regression-using-scitkit-learn-d3427700679c) [](/introduction-to-logistic-regression-predicting-diabetes-bc3a88f1e60e) [## 逻辑回归简介:预测糖尿病
-
-### UCL 数据科学学会研讨会 11:什么是逻辑回归、数据探索、实施和评估
-
-towardsdatascience.com](/introduction-to-logistic-regression-predicting-diabetes-bc3a88f1e60e) [](/linear-regression-in-python-for-data-scientists-16caef003012) [## 面向数据科学家的 Python 线性回归
-
-### UCL 数据科学学会研讨会 10:什么是线性回归，数据探索，Scikit 学习实施和…
-
-towardsdatascience.com](/linear-regression-in-python-for-data-scientists-16caef003012) 
+[](/an-introduction-lasso-and-ridge-regression-using-scitkit-learn-d3427700679c)  [](/introduction-to-logistic-regression-predicting-diabetes-bc3a88f1e60e)  [](/linear-regression-in-python-for-data-scientists-16caef003012)  
 
 ## 回归树
 
@@ -184,24 +172,8 @@ insta gram:https://www.instagram.com/ucl.datasci/
 
 如果你想了解 UCL 数据科学协会和其他优秀作者的最新信息，请随时使用我下面的推荐代码注册 medium:
 
-[](https://philip-wilkinson.medium.com/membership) [## 通过我的推荐链接加入媒体-菲利普·威尔金森
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-philip-wilkinson.medium.com](https://philip-wilkinson.medium.com/membership) 
+[](https://philip-wilkinson.medium.com/membership)  
 
 或者由我来查看其他商店:
 
-[](/git-and-github-basics-for-data-scientists-b9fd96f8a02a) [## 面向数据科学家的 Git 和 GitHub 基础知识
-
-### UCL 数据科学研讨会 8:什么是 Git，创建本地存储库，提交第一批文件，链接到远程…
-
-towardsdatascience.com](/git-and-github-basics-for-data-scientists-b9fd96f8a02a) [](/an-introduction-to-object-oriented-programming-for-data-scientists-879106d90d89) [## 面向数据科学家的面向对象编程介绍
-
-### 面向对象的基础知识，适合那些以前可能没有接触过这个概念或者想知道更多的人
-
-towardsdatascience.com](/an-introduction-to-object-oriented-programming-for-data-scientists-879106d90d89) [](/univariate-outlier-detection-in-python-40b621295bc5) [## Python 中的单变量异常检测
-
-### 从数据集中检测异常值的五种方法
-
-towardsdatascience.com](/univariate-outlier-detection-in-python-40b621295bc5)
+[](/git-and-github-basics-for-data-scientists-b9fd96f8a02a)  [](/an-introduction-to-object-oriented-programming-for-data-scientists-879106d90d89)  [](/univariate-outlier-detection-in-python-40b621295bc5) 

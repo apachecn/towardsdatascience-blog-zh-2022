@@ -14,19 +14,7 @@
 
 如果您错过了我们之前的任何研讨会，可以在这里找到:
 
-[](/linear-regression-in-python-for-data-scientists-16caef003012) [## 面向数据科学家的 Python 线性回归
-
-### UCL 数据科学学会研讨会 10:什么是线性回归，数据探索，Scikit 学习实施和…
-
-towardsdatascience.com](/linear-regression-in-python-for-data-scientists-16caef003012) [](/an-introduction-to-sql-for-data-scientists-e3bb539decdf) [## 数据科学家的 SQL 介绍
-
-### UCL 数据科学学会工作坊 9:什么是 SQL，选择数据，查询数据，汇总统计，分组数据和…
-
-towardsdatascience.com](/an-introduction-to-sql-for-data-scientists-e3bb539decdf) [](/an-introduction-to-plotting-with-matplotlib-in-python-6d983b9ba081) [## Python 中 Matplotlib 绘图简介
-
-### UCL 数据科学学会研讨会 7:创建一个基本的图表，在同一图表上绘制不同的信息…
-
-towardsdatascience.com](/an-introduction-to-plotting-with-matplotlib-in-python-6d983b9ba081) 
+[](/linear-regression-in-python-for-data-scientists-16caef003012)  [](/an-introduction-to-sql-for-data-scientists-e3bb539decdf)  [](/an-introduction-to-plotting-with-matplotlib-in-python-6d983b9ba081)  
 
 ## 什么是逻辑回归？
 
@@ -258,24 +246,8 @@ insta gram:【https://www.instagram.com/ucl.datasci/
 
 如果你想了解 UCL 数据科学协会和其他优秀作者的最新信息，请使用我下面的推荐代码注册 medium。
 
-[](https://philip-wilkinson.medium.com/membership) [## 通过我的推荐链接加入媒体-菲利普·威尔金森
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-philip-wilkinson.medium.com](https://philip-wilkinson.medium.com/membership) 
+[](https://philip-wilkinson.medium.com/membership)  
 
 或者看看我写的其他故事:
 
-[](/bias-and-variance-for-machine-learning-in-3-minutes-4e5770e4bf1b) [## 3 分钟机器学习的偏差和方差
-
-### 什么是偏差和方差，这对你的机器学习模型意味着什么？
-
-towardsdatascience.com](/bias-and-variance-for-machine-learning-in-3-minutes-4e5770e4bf1b) [](/an-introduction-to-object-oriented-programming-for-data-scientists-879106d90d89) [## 面向数据科学家的面向对象编程介绍
-
-### 面向对象的基础知识，适合那些以前可能没有接触过这个概念或者想知道更多的人
-
-towardsdatascience.com](/an-introduction-to-object-oriented-programming-for-data-scientists-879106d90d89) [](/git-and-github-basics-for-data-scientists-b9fd96f8a02a) [## 面向数据科学家的 Git 和 GitHub 基础知识
-
-### UCL 数据科学研讨会 8:什么是 Git，创建本地存储库，提交第一批文件，链接到远程…
-
-towardsdatascience.com](/git-and-github-basics-for-data-scientists-b9fd96f8a02a)
+[](/bias-and-variance-for-machine-learning-in-3-minutes-4e5770e4bf1b)  [](/an-introduction-to-object-oriented-programming-for-data-scientists-879106d90d89)  [](/git-and-github-basics-for-data-scientists-b9fd96f8a02a) 

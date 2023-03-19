@@ -10,15 +10,7 @@
 
 在这篇文章中，我们将在一个高层次上检查这个项目的所有主要组件。在本地运行项目所需的一切都可以在 [GitHub](https://github.com/hfhoffman1144/smartphone_sensor_stream) 上获得，快速演示可以在 [YouTube](https://www.youtube.com/shorts/zRUVvz5vsl8) 上获得。作为一个免责声明，我是一个事件驱动系统的初学者，非常感谢反馈来进一步丰富我的知识。尽情享受吧！
 
-[](https://github.com/hfhoffman1144/smartphone_sensor_stream) [## GitHub-hfhoffman 1144/smart phone _ sensor _ Stream:用 FastAPI，Kafka 流智能手机数据…
-
-### 从传感器记录器流式传输智能手机数据(参见…
-
-github.com](https://github.com/hfhoffman1144/smartphone_sensor_stream) [](https://youtube.com/shorts/zRUVvz5vsl8?feature=share) [## 使用 FastAPI、Kafka、QuestDB 和 Docker 流式传输智能手机数据
-
-### 该视频演示了使用 FastAPI、Kafka、QuestDB 和…的实时智能手机传感器数据的可视化
-
-youtube.com](https://youtube.com/shorts/zRUVvz5vsl8?feature=share) 
+[](https://github.com/hfhoffman1144/smartphone_sensor_stream)  [](https://youtube.com/shorts/zRUVvz5vsl8?feature=share)  
 
 # 项目架构
 

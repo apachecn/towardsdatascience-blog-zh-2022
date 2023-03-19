@@ -182,11 +182,7 @@ $ **conda install -c apple tensorflow-deps --force-reinstall**
 $ **python -m pip install tensorflow-macos**
 ```
 
-[](https://weimenglee.medium.com/membership) [## 加入媒介与我的介绍链接-李伟孟
-
-### 阅读李维孟(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-weimenglee.medium.com](https://weimenglee.medium.com/membership) 
+[](https://weimenglee.medium.com/membership)  
 
 # 摘要
 

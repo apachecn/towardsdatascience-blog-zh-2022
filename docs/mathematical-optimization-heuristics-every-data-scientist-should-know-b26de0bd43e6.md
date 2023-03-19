@@ -178,16 +178,4 @@
 
 ## 有关系的
 
-[](/four-ways-to-combine-mathematical-optimization-and-machine-learning-8cb874276254) [## 结合数学优化和机器学习的五种方法
-
-### 两种力结合的实例。
-
-towardsdatascience.com](/four-ways-to-combine-mathematical-optimization-and-machine-learning-8cb874276254) [](/how-to-handle-optimization-problems-daf97b3c248c) [## 如何处理优化问题？
-
-### 带有解决方案和代码的简单示例。
-
-towardsdatascience.com](/how-to-handle-optimization-problems-daf97b3c248c) [](/choosing-fast-with-dynamic-programming-b6916da543f4) [## 用动态规划快速选择
-
-### 用真实世界的例子和 Python 代码简单解释背包问题。
-
-towardsdatascience.com](/choosing-fast-with-dynamic-programming-b6916da543f4)
+[](/four-ways-to-combine-mathematical-optimization-and-machine-learning-8cb874276254)  [](/how-to-handle-optimization-problems-daf97b3c248c)  [](/choosing-fast-with-dynamic-programming-b6916da543f4) 

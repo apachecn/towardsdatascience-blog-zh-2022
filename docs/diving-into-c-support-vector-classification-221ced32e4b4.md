@@ -164,37 +164,17 @@ pd.DataFrame(confusion_matrix(y_test, result.preds, labels=[0,1]))
 
 这是我的博客，如果你喜欢这个内容，想关注我或者在 [Linkedin](https://www.linkedin.com/in/gurezende/) 找到我。
 
-[](http://gustavorsantos.medium.com/) [## 古斯塔沃·桑托斯-中等
-
-### 阅读古斯塔夫·桑托斯在媒介上的作品。数据科学家。我从数据中提取见解，以帮助个人和公司…
-
-gustavorsantos.medium.com](http://gustavorsantos.medium.com/) 
+[](http://gustavorsantos.medium.com/)  
 
 如果你想成为中级会员，这个[推荐代码](https://gustavorsantos.medium.com/membership)会激励我加入你的订阅。
 
 # 参考
 
-[](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html) [## sklearn.svm.SVC
-
-### c-支持向量分类。该实现基于 libsvm。拟合时间至少与…成二次比例
-
-scikit-learn.org](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html) [](https://scikit-learn.org/stable/modules/svm.html#svm-kernels) [## 1.4.支持向量机
-
-### 支持向量机是一组用于分类、回归和分类的监督学习方法
-
-scikit-learn.org](https://scikit-learn.org/stable/modules/svm.html#svm-kernels) 
+[](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html)  [](https://scikit-learn.org/stable/modules/svm.html#svm-kernels)  
 
 [https://en.wikipedia.org/wiki/Support_vector_machine](https://en.wikipedia.org/wiki/Support_vector_machine)
 
-[](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=asc_df_1492032646/?tag=hyprod-20&linkCode=df0&hvadid=385599638286&hvpos=&hvnetw=g&hvrand=847972974391386897&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9009674&hvtargid=pla-523968811896&psc=1&tag=&ref=&adgrpid=79288120515&hvpone=&hvptwo=&hvadid=385599638286&hvpos=&hvnetw=g&hvrand=847972974391386897&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9009674&hvtargid=pla-523968811896) [## 使用 Scikit-Learn、Keras 和 TensorFlow 进行机器实践学习:概念、工具和技术…
-
-### 用 Scikit-Learn、Keras 和 TensorFlow 进行机器学习:概念、工具和技术来构建…
-
-www.amazon.com](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=asc_df_1492032646/?tag=hyprod-20&linkCode=df0&hvadid=385599638286&hvpos=&hvnetw=g&hvrand=847972974391386897&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9009674&hvtargid=pla-523968811896&psc=1&tag=&ref=&adgrpid=79288120515&hvpone=&hvptwo=&hvadid=385599638286&hvpos=&hvnetw=g&hvrand=847972974391386897&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9009674&hvtargid=pla-523968811896) [](https://stats.stackexchange.com/questions/90736/the-difference-of-kernels-in-svm) [## SVM 果仁的区别？
-
-### 感谢您为交叉验证提供答案！请务必回答问题。提供详细信息并分享…
-
-stats.stackexchange.com](https://stats.stackexchange.com/questions/90736/the-difference-of-kernels-in-svm) 
+[](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=asc_df_1492032646/?tag=hyprod-20&linkCode=df0&hvadid=385599638286&hvpos=&hvnetw=g&hvrand=847972974391386897&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9009674&hvtargid=pla-523968811896&psc=1&tag=&ref=&adgrpid=79288120515&hvpone=&hvptwo=&hvadid=385599638286&hvpos=&hvnetw=g&hvrand=847972974391386897&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9009674&hvtargid=pla-523968811896)  [](https://stats.stackexchange.com/questions/90736/the-difference-of-kernels-in-svm)  
 
 一个漂亮的 Github 页面，包含每个内核的所有可视化内容:
 

@@ -87,11 +87,7 @@
 
 作为一名数据科学家，我在这篇文章中更详细地讨论了沟通:
 
-[](/communicating-as-a-data-scientist-why-it-matters-and-how-to-do-it-well-f1c34d28c7c4) [## 作为数据科学家进行沟通:为什么重要以及如何做好
-
-### 还有一本你必须读的书
-
-towardsdatascience.com](/communicating-as-a-data-scientist-why-it-matters-and-how-to-do-it-well-f1c34d28c7c4) 
+[](/communicating-as-a-data-scientist-why-it-matters-and-how-to-do-it-well-f1c34d28c7c4)  
 
 ## 需要教练和领导来支持团队
 
@@ -124,8 +120,4 @@ towardsdatascience.com](/communicating-as-a-data-scientist-why-it-matters-and-ho
 
 如果你喜欢 Medium，请考虑使用我的推荐链接来无限制地访问每篇文章，我将免费收取你的一部分会员费！
 
-[](https://valentin-mucke-ds.medium.com/membership) [## 加入我的推荐链接-瓦伦丁穆克媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-valentin-mucke-ds.medium.com](https://valentin-mucke-ds.medium.com/membership)
+[](https://valentin-mucke-ds.medium.com/membership) 

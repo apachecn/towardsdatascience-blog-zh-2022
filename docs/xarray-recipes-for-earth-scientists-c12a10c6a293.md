@@ -111,11 +111,7 @@
 
 另一种方法是按网格单元面积加权，见下面的帖子
 
-[](/the-correct-way-to-average-the-globe-92ceecd172b7) [## 平均全球的正确方法
-
-### 为什么对数据进行面积加权很重要
-
-towardsdatascience.com](/the-correct-way-to-average-the-globe-92ceecd172b7) 
+[](/the-correct-way-to-average-the-globe-92ceecd172b7)  
 
 # 5.移动平均数
 
@@ -135,11 +131,7 @@ towardsdatascience.com](/the-correct-way-to-average-the-globe-92ceecd172b7)
 
 我之前写过这个主题，描述了用`xarray`实现这一点的不同技术。我现在更喜欢上面的代码。
 
-[](/pythonic-way-to-perform-statistics-across-multiple-variables-with-xarray-d0221c78e34a) [## 使用 Xarray 跨多个变量执行统计的 Pythonic 方式
-
-### 首先在数据集中创建一个分类维度
-
-towardsdatascience.com](/pythonic-way-to-perform-statistics-across-multiple-variables-with-xarray-d0221c78e34a) 
+[](/pythonic-way-to-perform-statistics-across-multiple-variables-with-xarray-d0221c78e34a)  
 
 # 7.分配新变量或坐标
 

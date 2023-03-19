@@ -212,19 +212,11 @@
 
 ***有关概率论的更多信息:***
 
-***[](/measure-theory-in-probability-c8aaf1dea87c) [## 概率论中的测度论
-
-### 概率毕竟不简单。
-
-towardsdatascience.com](/measure-theory-in-probability-c8aaf1dea87c) 
+***[](/measure-theory-in-probability-c8aaf1dea87c)  
 
 关于贝叶斯和频率主义方法的比较:
 
-[](https://medium.com/science-and-philosophy/subjectivism-in-decision-science-926c29feb7bb) [## 决策科学中的主观主义
-
-### 关于贝叶斯主义的一点注记
-
-medium.com](https://medium.com/science-and-philosophy/subjectivism-in-decision-science-926c29feb7bb) 
+[](https://medium.com/science-and-philosophy/subjectivism-in-decision-science-926c29feb7bb)  
 
 **补充**:
 

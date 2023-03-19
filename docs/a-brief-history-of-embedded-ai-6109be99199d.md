@@ -21,11 +21,7 @@ AIoT、TinyML、EdgeAI 和 MLSensors 是人工智能和嵌入式系统社区的�
 -完全离线的智能摄像头[来检测人类的存在](https://blog.tensorflow.org/2019/10/visual-wake-words-with-tensorflow-lite_30.html)【1】
 -环境传感器来检测[森林火灾](https://www.bosch.com/stories/early-forest-fire-detection-sensors/)【2】和[非法砍伐树木](https://www.mdpi.com/1424-8220/21/22/7593)【3】
 
-[](https://blog.tensorflow.org/2019/10/visual-wake-words-with-tensorflow-lite_30.html) [## 使用 TensorFlow Lite Micro 的视觉唤醒词
-
-### 2019 年 10 月 31 日-由软件工程师 Aakanksha Chowdhery 发布为什么“Yo Google”不能与 Google 一起工作…
-
-blog.tensorflow.org](https://blog.tensorflow.org/2019/10/visual-wake-words-with-tensorflow-lite_30.html) 
+[](https://blog.tensorflow.org/2019/10/visual-wake-words-with-tensorflow-lite_30.html)  
 
 嵌入式智能的日益普及和广泛应用令人振奋。
 但是这一切是从哪里开始的？以下是我对“传感器中枢”，尤其是智能手机中的传感器中枢如何推动这场运动的快速总结。

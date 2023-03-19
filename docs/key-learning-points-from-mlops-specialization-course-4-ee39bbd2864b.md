@@ -235,26 +235,10 @@
 
 *****您可以在此处找到前三门课程的总结:*****
 
-*****[](/key-learning-points-from-mlops-specialization-course-deeplearning-ai-andrew-ng-5d0746605752) [## MLOps 专业化认证的关键学习点—课程 1
-
-### 面向生产的机器学习工程课程 1 的主要内容
-
-towardsdatascience.com](/key-learning-points-from-mlops-specialization-course-deeplearning-ai-andrew-ng-5d0746605752) [](/key-learning-points-from-mlops-specialization-course-2-13af51e22d90) [## MLOps 专业化认证的关键学习点—课程 2
-
-### 来自生产课程 2 的机器学习工程的主要见解
-
-towardsdatascience.com](/key-learning-points-from-mlops-specialization-course-2-13af51e22d90) [](/key-learning-points-from-mlops-specialization-course-3-9e67558212ee) [## MLOps 专业化认证的关键学习点—课程 3
-
-### 来自生产课程 3 的机器学习工程的主要见解
-
-towardsdatascience.com](/key-learning-points-from-mlops-specialization-course-3-9e67558212ee) 
+*****[](/key-learning-points-from-mlops-specialization-course-deeplearning-ai-andrew-ng-5d0746605752)  [](/key-learning-points-from-mlops-specialization-course-2-13af51e22d90)  [](/key-learning-points-from-mlops-specialization-course-3-9e67558212ee)  
 
 # 在你走之前
 
 欢迎您来到**加入我的数据科学学习之旅！**点击此 [Medium](https://kennethleungty.medium.com/) 页面，查看我的 [GitHub](https://github.com/kennethleungty) ，了解更多精彩的数据科学内容。同时，享受构建生产 ML 系统的乐趣！
 
-[](https://kennethleungty.medium.com/membership) [## 通过我的推荐链接加入媒体-梁建华
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事
-
-kennethleungty.medium.com](https://kennethleungty.medium.com/membership)*****
+[](https://kennethleungty.medium.com/membership) *****

@@ -46,11 +46,7 @@
 
 Conda 有大量关于其安装的文件。遵循下面的指南将指出在 Windows / Mac / Linux 操作系统中安装 anaconda / miniconda 的必要步骤和说明。
 
- [## 下载 conda-conda 4 . 12 . 0 . post 48+51d 89 f 89 c 文档
-
-### 在有其他 Python 安装或包的系统上安装 conda
-
-docs.conda.io](https://docs.conda.io/projects/conda/en/latest/user-guide/install/download.html) 
+  
 
 # 创建虚拟环境
 
@@ -192,40 +188,4 @@ conda remove --name <env_name> --all
 
 如果你喜欢读这篇文章，下面是我写的其他文章，你可能也会觉得很有见地:
 
-[](/recommendation-systems-explained-a42fc60591ed) [## 推荐系统解释
-
-### 用 Python 解释和实现基于内容的协同过滤和混合推荐系统
-
-towardsdatascience.com](/recommendation-systems-explained-a42fc60591ed) [](/comprehensive-guide-to-mlflow-b84086b002ae) [## MlFlow 综合指南
-
-### 使用 ML Flow 跟踪数据科学项目的 ML 工作流
-
-towardsdatascience.com](/comprehensive-guide-to-mlflow-b84086b002ae) [](/comprehensive-guide-to-github-for-data-scientist-d3f71bd320da) [## 面向数据科学家的 GitHub 综合指南
-
-### 通过 UI 和命令行为数据科学家提供的 GitHub 教程
-
-towardsdatascience.com](/comprehensive-guide-to-github-for-data-scientist-d3f71bd320da) [](/active-learning-in-machine-learning-explained-777c42bd52fa) [## 机器学习中的主动学习解释
-
-### Python 中主动学习管道的直觉和实现
-
-towardsdatascience.com](/active-learning-in-machine-learning-explained-777c42bd52fa) [](/text-summarization-in-python-with-jaro-winkler-and-pagerank-72d693da94e8) [## 用 Jaro-Winkler 和 PageRank 实现 Python 中的文本摘要
-
-### 用 Jaro-Winkler 和 PageRank 构建一个文本摘要器
-
-towardsdatascience.com](/text-summarization-in-python-with-jaro-winkler-and-pagerank-72d693da94e8) [](/word2vec-explained-49c52b4ccb71) [## Word2Vec 解释道
-
-### 解释 Word2Vec 的直观性&用 Python 实现它
-
-towardsdatascience.com](/word2vec-explained-49c52b4ccb71) [](/link-prediction-recommendation-engines-with-node2vec-c97c429351a8) [## 使用 Node2Vec 的链接预测推荐引擎
-
-### 在 Python 中使用节点嵌入进行链接预测
-
-towardsdatascience.com](/link-prediction-recommendation-engines-with-node2vec-c97c429351a8) [](/text-similarity-w-levenshtein-distance-in-python-2f7478986e75) [## Python 中带 Levenshtein 距离的文本相似度
-
-### 用 Python 构建抄袭检测管道
-
-towardsdatascience.com](/text-similarity-w-levenshtein-distance-in-python-2f7478986e75) [](https://pub.towardsai.net/community-detection-with-node2vec-6cd5a40c7155) [## 使用 Node2Vec 进行社区检测
-
-### 使用 Node2Vec 和集群模型在 Python 中构建社区检测管道
-
-pub.towardsai.net](https://pub.towardsai.net/community-detection-with-node2vec-6cd5a40c7155)
+[](/recommendation-systems-explained-a42fc60591ed)  [](/comprehensive-guide-to-mlflow-b84086b002ae)  [](/comprehensive-guide-to-github-for-data-scientist-d3f71bd320da)  [](/active-learning-in-machine-learning-explained-777c42bd52fa)  [](/text-summarization-in-python-with-jaro-winkler-and-pagerank-72d693da94e8)  [](/word2vec-explained-49c52b4ccb71)  [](/link-prediction-recommendation-engines-with-node2vec-c97c429351a8)  [](/text-similarity-w-levenshtein-distance-in-python-2f7478986e75)  [](https://pub.towardsai.net/community-detection-with-node2vec-6cd5a40c7155) 

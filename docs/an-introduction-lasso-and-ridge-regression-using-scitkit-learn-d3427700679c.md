@@ -14,19 +14,7 @@
 
 如果您错过了之前的任何研讨会，可以在这里找到:
 
-[](/introduction-to-logistic-regression-predicting-diabetes-bc3a88f1e60e) [## 逻辑回归简介:预测糖尿病
-
-### UCL 数据科学学会研讨会 11:什么是逻辑回归、数据探索、实施和评估
-
-towardsdatascience.com](/introduction-to-logistic-regression-predicting-diabetes-bc3a88f1e60e) [](/linear-regression-in-python-for-data-scientists-16caef003012) [## 面向数据科学家的 Python 线性回归
-
-### UCL 数据科学学会研讨会 10:什么是线性回归，数据探索，Scikit 学习实施和…
-
-towardsdatascience.com](/linear-regression-in-python-for-data-scientists-16caef003012) [](/an-introduction-to-sql-for-data-scientists-e3bb539decdf) [## 数据科学家的 SQL 介绍
-
-### UCL 数据科学学会工作坊 9:什么是 SQL，选择数据，查询数据，汇总统计，分组数据和…
-
-towardsdatascience.com](/an-introduction-to-sql-for-data-scientists-e3bb539decdf) 
+[](/introduction-to-logistic-regression-predicting-diabetes-bc3a88f1e60e)  [](/linear-regression-in-python-for-data-scientists-16caef003012)  [](/an-introduction-to-sql-for-data-scientists-e3bb539decdf)  
 
 ## **偏差与方差的权衡**
 
@@ -246,24 +234,8 @@ insta gram:【https://www.instagram.com/ucl.datasci/
 
 如果你想了解 UCL 数据科学协会和其他优秀作者的最新信息，请使用我下面的推荐代码注册 medium。
 
-[](https://philip-wilkinson.medium.com/membership) [## 通过我的推荐链接加入媒体-菲利普·威尔金森
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-philip-wilkinson.medium.com](https://philip-wilkinson.medium.com/membership) 
+[](https://philip-wilkinson.medium.com/membership)  
 
 或者看看我写的其他故事:
 
-[](/git-and-github-basics-for-data-scientists-b9fd96f8a02a) [## 面向数据科学家的 Git 和 GitHub 基础知识
-
-### UCL 数据科学研讨会 8:什么是 Git，创建本地存储库，提交第一批文件，链接到远程…
-
-towardsdatascience.com](/git-and-github-basics-for-data-scientists-b9fd96f8a02a) [](/multi-variate-outlier-detection-in-python-e900a338da10) [## Python 中的多元异常检测
-
-### 能够检测数据集中异常值/异常值的六种方法
-
-towardsdatascience.com](/multi-variate-outlier-detection-in-python-e900a338da10) [](/london-convenience-store-classification-using-k-means-clustering-70c82899c61f) [## 使用 K-均值聚类的伦敦便利店分类
-
-### 伦敦的便利店怎么分类？
-
-towardsdatascience.com](/london-convenience-store-classification-using-k-means-clustering-70c82899c61f)
+[](/git-and-github-basics-for-data-scientists-b9fd96f8a02a)  [](/multi-variate-outlier-detection-in-python-e900a338da10)  [](/london-convenience-store-classification-using-k-means-clustering-70c82899c61f) 

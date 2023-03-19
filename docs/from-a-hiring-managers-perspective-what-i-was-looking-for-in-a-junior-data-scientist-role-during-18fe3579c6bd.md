@@ -18,11 +18,7 @@
 
 然而，正如我在介绍中提到的，至少对我的团队来说，我对这个问题的重视程度没有其他人高。让我解释一下。
 
-[](/a-hiring-manager-who-went-through-120-resumes-for-a-junior-data-scientist-role-21216d0507d4) [## 一位招聘经理为了一个初级数据科学家的职位，浏览了 120 份简历
-
-### 努力写好你的简历和求职信
-
-towardsdatascience.com](/a-hiring-manager-who-went-through-120-resumes-for-a-junior-data-scientist-role-21216d0507d4) 
+[](/a-hiring-manager-who-went-through-120-resumes-for-a-junior-data-scientist-role-21216d0507d4)  
 
 # 2.沟通技巧:你能有效地解释你的思考过程和结果吗？
 
@@ -40,11 +36,7 @@ towardsdatascience.com](/a-hiring-manager-who-went-through-120-resumes-for-a-jun
 
 独立工作的一个重要部分是能够有效地管理自己的时间。假设你能证明你有能力在没有持续监督的情况下完成任务。在这种情况下，这将向雇主展示你拥有在数据科学岗位上取得成功所必需的自我激励和自律。
 
-[](/3-critical-aspects-of-effective-stakeholder-management-for-data-science-projects-b2bf3a472da3) [## 数据科学项目有效利益相关者管理的 3 个关键方面
-
-### 不能忘记我们仍然要和人们一起工作
-
-towardsdatascience.com](/3-critical-aspects-of-effective-stakeholder-management-for-data-science-projects-b2bf3a472da3) 
+[](/3-critical-aspects-of-effective-stakeholder-management-for-data-science-projects-b2bf3a472da3)  
 
 # 5.态度:你有正确的态度吗？
 
@@ -58,8 +50,4 @@ towardsdatascience.com](/3-critical-aspects-of-effective-stakeholder-management-
 
 虽然技术技能很重要，但软技能对数据科学家同样重要。为了在数据科学市场上取得成功，您必须通过展示您能够与其他团队成员有效沟通、独立工作以及有学习新事物的动力来脱颖而出。如果你能在面试中展示这些品质，你将有更好的机会获得这份工作。最后，要想在下一次面试中胜出，记得练习你的回答，因为良好的沟通技巧对任何职位来说都是必须的。
 
-[](https://ilro.medium.com/membership) [## 通过我的推荐链接加入媒体- Ilro Lee
-
-### 阅读 Ilro Lee(以及媒体上成千上万的其他作家)的每一个故事。你的会员费直接支持 Ilro…
-
-ilro.medium.com](https://ilro.medium.com/membership)
+[](https://ilro.medium.com/membership) 

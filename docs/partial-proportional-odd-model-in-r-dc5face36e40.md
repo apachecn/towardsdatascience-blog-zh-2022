@@ -71,11 +71,7 @@ PPO 模型总结
 
 结果窗口非常相似。在这里，教育和性别是固定的，因为它们的影响是不允许变化的，我们还观察到婚姻和家庭系数有三个不同的值。为了更好地理解这里的输出，读者可以在下一篇文章中浏览这个通用模型的输出。
 
-[](https://mdsohel-mahmood.medium.com/generalized-ordinal-regression-model-in-r-930834edae10) [## R 中的广义有序回归模型
-
-### R 系列中的统计
-
-mdsohel-mahmood.medium.com](https://mdsohel-mahmood.medium.com/generalized-ordinal-regression-model-in-r-930834edae10) 
+[](https://mdsohel-mahmood.medium.com/generalized-ordinal-regression-model-in-r-930834edae10)  
 
 我们还可以获得如下的奇数比矩阵。
 
@@ -109,12 +105,4 @@ mdsohel-mahmood.medium.com](https://mdsohel-mahmood.medium.com/generalized-ordin
 
 感谢阅读。
 
-[](https://mdsohel-mahmood.medium.com/membership) [## 用我的推荐链接加入媒体
-
-### 阅读 Md Sohel Mahmood(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接…
-
-mdsohel-mahmood.medium.com](https://mdsohel-mahmood.medium.com/membership) [](https://mdsohel-mahmood.medium.com/subscribe) [## 每当 Md Sohel Mahmood 发表文章时，都会收到一封电子邮件。
-
-### 每当 Md Sohel Mahmood 发表文章时，都会收到一封电子邮件。通过注册，您将创建一个中型帐户，如果您还没有…
-
-mdsohel-mahmood.medium.com](https://mdsohel-mahmood.medium.com/subscribe)
+[](https://mdsohel-mahmood.medium.com/membership)  [](https://mdsohel-mahmood.medium.com/subscribe) 

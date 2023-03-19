@@ -66,24 +66,8 @@ Python 是一种解释型语言，这意味着你的源代码在运行时被翻�
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership) 
+[](https://gmyrianthous.medium.com/membership)  
 
 **你可能也会喜欢**
 
-[](/python-linked-lists-c3622205da81) [## 如何在 Python 中实现链表
-
-### 探索如何使用 Python 从头开始编写链表和节点对象
-
-towardsdatascience.com](/python-linked-lists-c3622205da81) [](/python-iterables-vs-iterators-688907fd755f) [## Python 中的 Iterables vs 迭代器
-
-### 理解 Python 中 Iterables 和迭代器的区别
-
-towardsdatascience.com](/python-iterables-vs-iterators-688907fd755f) [](/duck-typing-python-7aeac97e11f8) [## Python 中的鸭式打字是什么？
-
-### 理解动态类型编程语言(如 Python)中鸭类型的概念
-
-towardsdatascience.com](/duck-typing-python-7aeac97e11f8)
+[](/python-linked-lists-c3622205da81)  [](/python-iterables-vs-iterators-688907fd755f)  [](/duck-typing-python-7aeac97e11f8) 

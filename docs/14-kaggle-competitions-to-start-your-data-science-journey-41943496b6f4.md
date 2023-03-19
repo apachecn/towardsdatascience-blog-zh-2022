@@ -123,11 +123,7 @@ Kaggle 上的入门比赛。预测哪些乘客在泰坦尼克号海难中幸存�
 
 # **不确定接下来要读什么？这里有一个选择:**
 
-**[](/5-data-science-podcasts-you-should-be-listening-right-now-178f0af8ebce) [## 你现在应该听的 5 个数据科学播客
-
-### 跟上最新的趋势，在你的领域保持领先。
-
-towardsdatascience.com](/5-data-science-podcasts-you-should-be-listening-right-now-178f0af8ebce) 
+**[](/5-data-science-podcasts-you-should-be-listening-right-now-178f0af8ebce)  
 
 # 保持联络
 

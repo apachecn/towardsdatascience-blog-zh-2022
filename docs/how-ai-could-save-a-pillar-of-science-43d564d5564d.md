@@ -24,11 +24,7 @@
 
 然而，这一体系并非没有缺陷，如新冠肺炎论文的撤回、掠夺性期刊和会议的出现等等。这是一个简短的介绍，如果你对我概述的关于如何改进同行评审的好处、问题和建议感兴趣的话(链接如下)。
 
-[](/how-science-contribution-has-become-a-toxic-environment-6beb382cebcd) [## 科学贡献如何变成一个有毒的环境
-
-### 计算机科学是如何继承了其他学科同样的错误的
-
-towardsdatascience.com](/how-science-contribution-has-become-a-toxic-environment-6beb382cebcd) 
+[](/how-science-contribution-has-become-a-toxic-environment-6beb382cebcd)  
 
 一方面，关于如何判断一篇文章的质量，或者是否有可能使用一种算法来评估提交的手稿，还有几个问题没有解决。另一方面如何评价高质量同行评议的决定因素和特点。安娜·塞弗林最近试图用人工智能来回答后一个问题
 
@@ -97,28 +93,8 @@ towardsdatascience.com](/how-science-contribution-has-become-a-toxic-environment
 
 **这是我的 GitHub 知识库的链接，我计划在这里收集代码和许多与机器学习、人工智能等相关的资源。**
 
-**[](https://github.com/SalvatoreRa/tutorial) [## GitHub - SalvatoreRa/tutorial:关于机器学习、人工智能、数据科学的教程…
-
-### 关于机器学习、人工智能、数据科学的教程，包括数学解释和可重复使用的代码(python…
-
-github.com](https://github.com/SalvatoreRa/tutorial) 
+**[](https://github.com/SalvatoreRa/tutorial)  
 
 或者随意查看我在 Medium 上的其他文章:
 
-[](/a-critical-analysis-of-your-dataset-2b388e7ca01e) [## 对数据集的批判性分析
-
-### 停止微调你的模型:你的模型已经很好了，但不是你的数据
-
-towardsdatascience.com](/a-critical-analysis-of-your-dataset-2b388e7ca01e) [](/machine-learning-to-tackle-climate-change-7911e004c3a2) [## 机器学习应对气候变化
-
-### 人工智能如何帮助对抗全球变暖并从人类手中拯救世界
-
-towardsdatascience.com](/machine-learning-to-tackle-climate-change-7911e004c3a2) [](/machine-unlearning-the-duty-of-forgetting-3666e5b9f6e5) [## 机器遗忘:遗忘的职责
-
-### 从人工智能模型中删除数据点信息的重要性
-
-towardsdatascience.com](/machine-unlearning-the-duty-of-forgetting-3666e5b9f6e5) [](https://pub.towardsai.net/a-new-bloom-in-ai-why-the-bloom-model-can-be-a-gamechanger-380a15b1fba7) [## AI 新绽放？为什么布鲁姆模式可以改变游戏规则
-
-### 我们现在已经习惯了大型语言模型，为什么这个如此特别呢？
-
-pub.towardsai.net](https://pub.towardsai.net/a-new-bloom-in-ai-why-the-bloom-model-can-be-a-gamechanger-380a15b1fba7)**
+[](/a-critical-analysis-of-your-dataset-2b388e7ca01e)  [](/machine-learning-to-tackle-climate-change-7911e004c3a2)  [](/machine-unlearning-the-duty-of-forgetting-3666e5b9f6e5)  [](https://pub.towardsai.net/a-new-bloom-in-ai-why-the-bloom-model-can-be-a-gamechanger-380a15b1fba7) **

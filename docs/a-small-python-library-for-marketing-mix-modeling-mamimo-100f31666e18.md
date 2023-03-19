@@ -16,15 +16,7 @@
 
 如果你不知道什么是营销组合建模:想象你在一家销售东西的公司。为了卖更多的东西，你做广告。在某些时候，你想知道你的广告在每个渠道的表现有多好，如电视、广播、网页横幅广告……并回答这样的问题:“那周我在电视广告中投入的 1000 €，增加了我多少收入？”。营销组合建模是做到这一点的简单方法。你可以在我的文章中找到更多相关信息:
 
-[](/introduction-to-marketing-mix-modeling-in-python-d0dd81f4e794) [## Python 市场营销组合建模简介
-
-### 哪些广告支出真正推动了你的销售？
-
-towardsdatascience.com](/introduction-to-marketing-mix-modeling-in-python-d0dd81f4e794) [](/an-upgraded-marketing-mix-modeling-in-python-5ebb3bddc1b6) [## Python 中升级的营销组合建模
-
-### 让我平庸的营销组合模式更加强大
-
-towardsdatascience.com](/an-upgraded-marketing-mix-modeling-in-python-5ebb3bddc1b6) 
+[](/introduction-to-marketing-mix-modeling-in-python-d0dd81f4e794)  [](/an-upgraded-marketing-mix-modeling-in-python-5ebb3bddc1b6)  
 
 我创建的库被创造性地命名为 [**马米莫**](https://github.com/Garve/mamimo) ，如果你知道如何使用 scikit-learn，你也可以使用这个库。让乐趣从简单的
 

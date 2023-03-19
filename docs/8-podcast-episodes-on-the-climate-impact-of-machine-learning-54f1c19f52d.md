@@ -10,11 +10,7 @@
 
 训练和服务机器学习模型可能需要大量的电力，只要不是所有的电力都来自可再生资源，机器学习领域就会排放大量的温室气体。例如，[估计](https://www.theregister.com/2020/11/04/gpt3_carbon_footprint_estimate/)训练 GPT 3 号的碳足迹相当于驾驶一辆汽车往返月球的距离。
 
-[](/how-to-estimate-and-reduce-the-carbon-footprint-of-machine-learning-models-49f24510880) [## 如何估计和减少机器学习模型的碳足迹
-
-### 轻松估算机器学习模型碳足迹的两种方法和如何减少碳足迹的 17 个想法
-
-towardsdatascience.com](/how-to-estimate-and-reduce-the-carbon-footprint-of-machine-learning-models-49f24510880) 
+[](/how-to-estimate-and-reduce-the-carbon-footprint-of-machine-learning-models-49f24510880)  
 
 尽管减少机器学习对气候的影响很重要，但这个问题仍然没有得到太多的关注，关于这个主题的播客也很少。
 
@@ -32,11 +28,7 @@ towardsdatascience.com](/how-to-estimate-and-reduce-the-carbon-footprint-of-mach
 
 这一集很有趣，因为两位主持人似乎对软件和硬件工程很了解。有趣的想法被提出来，例如“数据中心将开始建造专用发电厂吗？”以及“芯片短缺是否会迫使公司专注于模型效率？”。
 
-[](https://kaspergroesludvigsen.medium.com/the-10-most-energy-efficient-programming-languages-6a4165126670) [## 10 种最节能的编程语言
-
-### 在一项对 27 种编程语言的能效调查中，C 语言高居榜首，而 Python 是第二低效的。
-
-kaspergroesludvigsen.medium.com](https://kaspergroesludvigsen.medium.com/the-10-most-energy-efficient-programming-languages-6a4165126670) 
+[](https://kaspergroesludvigsen.medium.com/the-10-most-energy-efficient-programming-languages-6a4165126670)  
 
 [微软的 Asim Hussain 介绍可持续发展软件设计和绿色软件基金会](https://open.spotify.com/episode/5XLPCLZAKCYzsFN8gZRFwF?si=ogLAYhRLQrm7Wap3kxh8BQ)
 

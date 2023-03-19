@@ -164,20 +164,8 @@ CPU 受限任务的多重处理——来源:作者
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership) 
+[](https://gmyrianthous.medium.com/membership)  
 
 **你可能也会喜欢**
 
-[](/python-gil-e63f18a08c65) [## 什么是 Python 全局解释器锁(GIL)？
-
-### 理解 Python 中全局解释器锁的用途以及它如何影响多线程
-
-towardsdatascience.com](/python-gil-e63f18a08c65) [](/augmented-assignments-python-caa4990811a0) [## Python 中的扩充赋值
-
-### 了解增强赋值表达式在 Python 中的工作方式，以及为什么在使用它们时要小心…
-
-towardsdatascience.com](/augmented-assignments-python-caa4990811a0)
+[](/python-gil-e63f18a08c65)  [](/augmented-assignments-python-caa4990811a0) 

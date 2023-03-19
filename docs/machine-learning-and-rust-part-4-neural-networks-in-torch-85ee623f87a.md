@@ -141,26 +141,10 @@ let mut opt = nn::Adam::default().build(&vs, 1e-4)?;
 
 *通过我的推荐链接加入 Medium 来支持我的写作和项目:*
 
-[](https://stefanobosisio1.medium.com/membership) [## 通过我的推荐链接加入 Medium—Stefano Bosisio
-
-### 阅读 Stefano Bosisio(以及媒体上成千上万的其他作家)的每一个故事。为什么支持我？1)关于人工智能的文章…
-
-stefanobosisio1.medium.com](https://stefanobosisio1.medium.com/membership) 
+[](https://stefanobosisio1.medium.com/membership)  
 
 如果有任何问题或意见，请随时给我发电子邮件，地址是:stefanobosisio1@gmail.com，或者直接在 Medium 这里。
 
 # 以前关于 Rust 和 ML 的教程
 
-[](https://levelup.gitconnected.com/machine-learning-and-rust-part-1-getting-started-745885771bc2) [## 机器学习与 Rust(第 1 部分):入门！
-
-### 这是 Rust 和 ML 系列教程的第一部分。今天，让我们来了解关于生锈的 5 个基本问题！
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/machine-learning-and-rust-part-1-getting-started-745885771bc2) [](https://levelup.gitconnected.com/machine-learning-and-rust-part-2-linear-regression-d3b820ed28f9) [## 机器学习与 Rust(第二部分):线性回归
-
-### 在本教程中:如何在 Rust 中阅读一个 csv？如何实现线性回归？让我们把手弄脏，学习…
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/machine-learning-and-rust-part-2-linear-regression-d3b820ed28f9) [](https://levelup.gitconnected.com/machine-learning-and-rust-part-3-smartcore-dataframe-and-linear-regression-10451fdc2e60) [## 机器学习和 Rust(第三部分):智能核心、数据框架和线性回归
-
-### 在本教程中:我们能拥有铁锈中的熊猫吗？什么是 smartcore？
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/machine-learning-and-rust-part-3-smartcore-dataframe-and-linear-regression-10451fdc2e60)
+[](https://levelup.gitconnected.com/machine-learning-and-rust-part-1-getting-started-745885771bc2)  [](https://levelup.gitconnected.com/machine-learning-and-rust-part-2-linear-regression-d3b820ed28f9)  [](https://levelup.gitconnected.com/machine-learning-and-rust-part-3-smartcore-dataframe-and-linear-regression-10451fdc2e60) 

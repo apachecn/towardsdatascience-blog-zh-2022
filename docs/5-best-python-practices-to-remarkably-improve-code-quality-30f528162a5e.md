@@ -118,11 +118,7 @@ mydict = {'A': 1001,
 
 **如果你愿意学习更多关于 Python 中的字典，这里有一个快速阅读。**
 
-**[](https://pub.towardsai.net/python-dictionary-10-practical-methods-you-need-to-know-cbeb1c962bed) [## Python 字典:你需要知道的 10 个实用方法
-
-### ..学习如何在 5 分钟内掌握 Python 字典！
-
-pub.towardsai.net](https://pub.towardsai.net/python-dictionary-10-practical-methods-you-need-to-know-cbeb1c962bed) 
+**[](https://pub.towardsai.net/python-dictionary-10-practical-methods-you-need-to-know-cbeb1c962bed)  
 
 # 使用 zip()遍历多个列表
 

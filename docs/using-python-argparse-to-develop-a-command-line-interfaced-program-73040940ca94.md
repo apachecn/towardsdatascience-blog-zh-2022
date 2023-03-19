@@ -209,11 +209,7 @@ Argparse 有很多优点。比如它是一个 Python 内置模块，不需要下
 
 因此，许多令人惊叹的第三方开源库试图掩盖 Argparse 的这些缺点。点击库就是其中之一。
 
- [## 欢迎使用点击-点击文档(8.0.x)
-
-### Click 是一个 Python 包，可以用最少的代码以可组合的方式创建漂亮的命令行界面…
-
-click.palletsprojects.com](https://click.palletsprojects.com/en/8.0.x/) 
+  
 
 如果你对这个库感兴趣，请关注我的帖子。我将很快发表另一篇关于这个图书馆的文章！
 
@@ -227,10 +223,6 @@ click.palletsprojects.com](https://click.palletsprojects.com/en/8.0.x/)
 
 然而，当我们有一些更复杂的需求时，它也有一些缺点。这些缺点可以通过一些第三方库来消除，以后我的帖子会重点介绍。
 
-[](https://medium.com/@qiuyujx/membership) [## 通过我的推荐链接加入灵媒-陶
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@qiuyujx/membership) 
+[](https://medium.com/@qiuyujx/membership)  
 
 **如果你觉得我的文章有帮助，请考虑加入灵媒会员来支持我和成千上万的其他作家！(点击上面的链接)**

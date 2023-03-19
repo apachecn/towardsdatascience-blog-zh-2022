@@ -243,21 +243,13 @@ fig.update_layout(plot_bgcolor='rgba(0,0,0,0)')*
 
 ## *更多这样的文章*
 
-*[](/semi-automated-exploratory-data-analysis-eda-in-python-7f96042c9809) [## Python 中的半自动探索性数据分析(EDA)
-
-### 一键式全面数据探索流程
-
-towardsdatascience.com](/semi-automated-exploratory-data-analysis-eda-in-python-7f96042c9809) ![Destin Gong](img/dcd4375055f8aa7602b1433a60ad5ca3.png)
+*[](/semi-automated-exploratory-data-analysis-eda-in-python-7f96042c9809)  ![Destin Gong](img/dcd4375055f8aa7602b1433a60ad5ca3.png)
 
 [德斯坦贡](https://destingong.medium.com/?source=post_page-----8945970f16be--------------------------------)
 
 ## EDA 和特征工程技术
 
-[View list](https://destingong.medium.com/list/eda-and-feature-engineering-techniques-e0696974ed54?source=post_page-----8945970f16be--------------------------------)9 stories![](img/7fc2bdc73b7b052566cf26034941c232.png)![](img/a7c4110e9a854cf9e9eba83dfa46e7d3.png)![](img/3ac6d4f7832c8daa758f71b1e479406c.png)[](/which-chart-to-choose-4b21929539eb) [## 如何选择最合适的图表？
-
-### 折线图、条形图、饼图……它们讲述了不同的故事
-
-towardsdatascience.com](/which-chart-to-choose-4b21929539eb) 
+[View list](https://destingong.medium.com/list/eda-and-feature-engineering-techniques-e0696974ed54?source=post_page-----8945970f16be--------------------------------)9 stories![](img/7fc2bdc73b7b052566cf26034941c232.png)![](img/a7c4110e9a854cf9e9eba83dfa46e7d3.png)![](img/3ac6d4f7832c8daa758f71b1e479406c.png)[](/which-chart-to-choose-4b21929539eb)  
 
 ## 参考
 

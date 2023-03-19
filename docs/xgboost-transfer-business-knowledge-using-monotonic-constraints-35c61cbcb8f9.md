@@ -64,19 +64,11 @@ y = 3*x。
 
 我在以前的文章中展示了如何从头开始实现决策树的梯度推进:
 
-[](/diy-xgboost-library-in-less-than-200-lines-of-python-69b6bf25e7d9) [## 用不到 200 行 python 代码 DIY XGBoost 库
-
-### XGBoost 解释了梯度推进方法和惠普调整，通过建立自己的梯度推进库…
-
-towardsdatascience.com](/diy-xgboost-library-in-less-than-200-lines-of-python-69b6bf25e7d9) 
+[](/diy-xgboost-library-in-less-than-200-lines-of-python-69b6bf25e7d9)  
 
 这段代码可以很容易地修改成集成`monotonic`约束。处理代码中的约束通常需要开发一个求解器，而且通常是相当复杂的代码。各种方法都是可能的。在本文中，您可以看到如何使用基于几何的迭代方法来实现这样的求解器:
 
-[](/building-an-iterative-solver-for-linear-optimization-under-constraints-using-geometry-d8df2a18b37e) [## 使用几何构建约束条件下线性优化的迭代求解器
-
-### 通过使用几何图形构建自己的迭代求解器，了解线性优化的工作原理。
-
-towardsdatascience.com](/building-an-iterative-solver-for-linear-optimization-under-constraints-using-geometry-d8df2a18b37e) 
+[](/building-an-iterative-solver-for-linear-optimization-under-constraints-using-geometry-d8df2a18b37e)  
 
 然而，在梯度提升应用于决策树的情况下，`monotonic`约束可以很容易地实现。这种实现的简单性来自于使用**二进制**决策树作为底层模型。
 

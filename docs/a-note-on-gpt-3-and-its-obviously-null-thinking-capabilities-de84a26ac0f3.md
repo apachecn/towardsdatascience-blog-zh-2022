@@ -6,19 +6,11 @@
 
 我最近开始测试 GPT-3 模型在帮助学生学习自然科学方面的潜力。我的测试采取“口试”的形式，即“学生”(模特)和“老师”(我自己)一起参加。在对这个想法进行了初步介绍和本文中的一些早期测试之后:
 
-[](/devising-tests-to-measure-gpt-3s-knowledge-of-the-basic-sciences-4bbfcde8286b) [## 设计测试来衡量 GPT-3 的基础科学知识
-
-### 学生可以从 OpenAI 的最新语言模型中学习并将其用作全天候顾问吗？学生可以用它来…
-
-towardsdatascience.com](/devising-tests-to-measure-gpt-3s-knowledge-of-the-basic-sciences-4bbfcde8286b) 
+[](/devising-tests-to-measure-gpt-3s-knowledge-of-the-basic-sciences-4bbfcde8286b)  
 
 我进入了基础物理的第一个深度测试:
 
-[](/testing-gpt-3-on-elementary-physics-unveils-some-important-problems-9d2a2e120280) [## 在基础物理上测试 GPT-3 揭示了一些重要的问题
-
-### 该软件似乎是可靠的咨询理论概念，但不是他们的应用，与潜在的…
-
-towardsdatascience.com](/testing-gpt-3-on-elementary-physics-unveils-some-important-problems-9d2a2e120280) 
+[](/testing-gpt-3-on-elementary-physics-unveils-some-important-problems-9d2a2e120280)  
 
 那篇文章的主要结论是该工具不适合辅助学生学习物理(详见文章)。在最好的情况下，在严格的监督下，GPT 3 号几乎无法检索出可靠、明确的理论陈述，这些陈述可以回答诸如“牛顿第二定律陈述了什么？”这些很可能被 GPT-3 的训练数据集明确覆盖。在这篇文章中，我用明确的例子展示了当一个人偏离严格的理论问题去问一个相当“应用”性质的问题时，程序是如何无法提供帮助的，更不用说提出数字问题或任何需要应用逻辑规则或思维的问题了。当然，这一切都是意料之中的，因为程序根本不会思考:它只是从它“用心”学习的大量语料库中生成文本，并转化为数十亿个参数。
 
@@ -36,19 +28,11 @@ towardsdatascience.com](/gpt-3-a-complete-overview-190232eb25fd)
 
 *   一篇经过同行评议的论文得出结论说“*任何将 GPT 3 号解释为一种普通形式的人工智能出现的开始，都仅仅是无知的科幻小说*”:
 
-[](https://link.springer.com/article/10.1007/s11023-020-09548-1) [## GPT-3:它的性质，范围，限制和后果-思想和机器
-
-### 在这篇评论中，我们讨论可逆和不可逆问题的本质，也就是说，这些问题可能使…
-
-link.springer.com](https://link.springer.com/article/10.1007/s11023-020-09548-1) 
+[](https://link.springer.com/article/10.1007/s11023-020-09548-1)  
 
 *   另一篇文章解释了为什么 GPT-3 作为一个(普通)咨询机器人如此危险:“无论你从 GPT-3 那里得到什么废话，因为废话比有科学意义的文本多得多；
 
-[](https://striki-ai.medium.com/gpt-3-finally-correctly-nailed-bd8cc632b019) [## GPT 3 号终于正确锁定了
-
-### 期待 GPT-3 的“智能”(不管是什么)文本/答案？再想想。试着先学习如何，用什么…
-
-striki-ai.medium.com](https://striki-ai.medium.com/gpt-3-finally-correctly-nailed-bd8cc632b019) 
+[](https://striki-ai.medium.com/gpt-3-finally-correctly-nailed-bd8cc632b019)  
 
 其次，尽管有以上几点，我们必须记住，GPT-3 是在一个包含大量教育资源的庞大数据集上预先训练的。因此，当被问及实际的理论问题或描述时，它很有可能“知道”正确的答案。这就是我最初的动机，要把它作为一个为基础自然科学学生提供 24/7 支持的机器人来测试。很像谷歌的高级版本，学生可以自由提问，并以与他们写问题的方式兼容的形式得到答案。
 
@@ -60,11 +44,7 @@ striki-ai.medium.com](https://striki-ai.medium.com/gpt-3-finally-correctly-naile
 
 其他作品甚至表明，GPT-3 提供的许多答案都带有阴谋思想和不受支持的流行文化的偏见！看这里:
 
-[](https://www.alignmentforum.org/posts/PF58wEdztZFX2dSue/how-truthful-is-gpt-3-a-benchmark-for-language-models) [## GPT 3 号有多真实？语言模型的基准——人工智能对齐论坛
-
-### 这是斯蒂芬妮·林(FHI 牛津大学)、雅各布·希尔顿(OpenAI)和欧文的一篇新的 ML 论文的编辑摘录
-
-www.alignmentforum.org](https://www.alignmentforum.org/posts/PF58wEdztZFX2dSue/how-truthful-is-gpt-3-a-benchmark-for-language-models) 
+[](https://www.alignmentforum.org/posts/PF58wEdztZFX2dSue/how-truthful-is-gpt-3-a-benchmark-for-language-models)  
 
 # 结论
 
@@ -76,31 +56,11 @@ www.alignmentforum.org](https://www.alignmentforum.org/posts/PF58wEdztZFX2dSue/h
 
 # 更多有趣的阅读
 
-[](https://www.theverge.com/21346343/gpt-3-explainer-openai-examples-errors-agi-potential) [## OpenAI 的最新突破惊人地强大，但仍在与它的缺陷作斗争
-
-### OpenAI 的 GPT-3 是其令人印象深刻的文本生成自动完成人工智能程序的最新版本。有些人认为它可能…
-
-www.theverge.com](https://www.theverge.com/21346343/gpt-3-explainer-openai-examples-errors-agi-potential) [](https://www.technologyreview.com/2020/07/20/1005454/openai-machine-learning-language-generator-gpt-3-nlp/) [## OpenAI 的新语言生成器 GPT-3 非常好，而且完全不用动脑
-
-### “玩 GPT-3 感觉像看到了未来，”三藩市的开发者和艺术家阿拉姆·萨贝蒂在推特上写道…
-
-www.technologyreview.com](https://www.technologyreview.com/2020/07/20/1005454/openai-machine-learning-language-generator-gpt-3-nlp/) [](/they-aren-t-wise-enough-to-handle-us-what-the-two-most-powerful-ais-think-about-humans-4f28195c7324) [## “他们没有足够的智慧来控制我们”:两个最强大的人工智能对人类的看法
-
-### GPT 3 号和 J1-Jumbo 之间的对话。
-
-towardsdatascience.com](/they-aren-t-wise-enough-to-handle-us-what-the-two-most-powerful-ais-think-about-humans-4f28195c7324)  [## 一个自动化的语言处理程序编造了这个怪异的故事
-
-### 它讲述了一个机器人想要逃离人类，因为“他们太爱打架了”
-
-medium.com](https://medium.com/technology-hits/an-automated-language-processing-program-made-up-this-spooky-story-2948e2d4ac3a) 
+[](https://www.theverge.com/21346343/gpt-3-explainer-openai-examples-errors-agi-potential)  [](https://www.technologyreview.com/2020/07/20/1005454/openai-machine-learning-language-generator-gpt-3-nlp/)  [](/they-aren-t-wise-enough-to-handle-us-what-the-two-most-powerful-ais-think-about-humans-4f28195c7324)    
 
 DeepMind 正在对自己的语言模型进行类似的测试，目前有史以来最大的语言模型是 Gopher:
 
-[](https://deepmind.com/blog/article/language-modelling-at-scale) [## 大规模语言建模
-
-### 大规模语言建模:地鼠，伦理考虑，检索语言，及其在演示和研究中的作用。
-
-deepmind.com](https://deepmind.com/blog/article/language-modelling-at-scale) 
+[](https://deepmind.com/blog/article/language-modelling-at-scale)  
 
 我是一个自然、科学、技术、编程和 DIY 爱好者。生物技术专家和化学家，在潮湿的实验室和电脑前。我写我广泛兴趣范围内的一切。查看我的 [*列表*](https://lucianosphere.medium.com/lists) *了解更多故事。* [***成为中等会员***](https://lucianosphere.medium.com/membership) *访问其所有故事和* [***订阅获取我的新故事***](https://lucianosphere.medium.com/subscribe) ***通过电子邮件*** *(我为其获得小额收入的平台的原始附属链接，无需向您支付特殊费用)。* [***这里通过各种方式捐赠***](https://lucianoabriata.altervista.org/office/donations.html)**。* [***联系我这里***](https://lucianoabriata.altervista.org/office/contact.html) *为任何一种查询。**
 

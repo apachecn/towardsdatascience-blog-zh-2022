@@ -210,11 +210,7 @@ train(gen_model, dis_model, gan_model, latent_dim)*
 
 ***如果你还不是媒体会员**，请考虑通过我下面的个性化链接加入，解锁包括我自己在内的成千上万伟大作家的文章。*
 
-*[](https://bit.ly/3J6StZI) [## 通过我的推荐链接加入 Medium 索尔·多比拉斯
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-solclover.com](https://bit.ly/3J6StZI) 
+*[](https://bit.ly/3J6StZI)  
 
 最后，你可以在我的 [**GitHub 库**](https://github.com/SolClover/Art052_NN_GAN) 上找到本文使用的完整 Python 代码，作为 Jupyter 笔记本。
 
@@ -223,12 +219,4 @@ solclover.com](https://bit.ly/3J6StZI)
 
 *一些相关的文章你可能会感兴趣:*
 
-*[](/transposed-convolutional-neural-networks-how-to-increase-the-resolution-of-your-image-d1ec27700c6a) [## 转置卷积神经网络——如何提高图像分辨率
-
-### 用一个简单的 Python 例子详细解释转置卷积
-
-towardsdatascience.com](/transposed-convolutional-neural-networks-how-to-increase-the-resolution-of-your-image-d1ec27700c6a) [](/vae-variational-autoencoders-how-to-employ-neural-networks-to-generate-new-images-bdeb216ed2c0) [## VAE:可变自动编码器——如何利用神经网络生成新图像
-
-### VAEs 概述，并附有一个完整的 Python 示例，教您如何自己构建一个
-
-towardsdatascience.com](/vae-variational-autoencoders-how-to-employ-neural-networks-to-generate-new-images-bdeb216ed2c0)*
+*[](/transposed-convolutional-neural-networks-how-to-increase-the-resolution-of-your-image-d1ec27700c6a)  [](/vae-variational-autoencoders-how-to-employ-neural-networks-to-generate-new-images-bdeb216ed2c0) *

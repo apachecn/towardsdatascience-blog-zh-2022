@@ -22,11 +22,7 @@
 
 [**季节性**](https://en.wikipedia.org/wiki/Seasonality) **:** 序列中任何有规律的季节性模式。例如，冰淇淋的销量在夏季通常高于冬季。要了解更多关于季节性的知识，请查看我的上一篇文章:
 
-[](/seasonality-of-time-series-5b45b4809acd) [## 时间序列的季节性
-
-### 对季节性如何影响时间序列分析的直觉
-
-towardsdatascience.com](/seasonality-of-time-series-5b45b4809acd) 
+[](/seasonality-of-time-series-5b45b4809acd)  
 
 [**残差/余数**](https://otexts.com/fpp3/residuals.html) **:** 这是我们考虑了趋势和季节性之后剩下的那一点。也可以认为只是 [**统计噪声**](https://www.statisticshowto.com/statistical-noise/) 。
 
@@ -60,11 +56,7 @@ towardsdatascience.com](/seasonality-of-time-series-5b45b4809acd)
 
 要了解关于 Box-Cox 变换的更多信息，您可以阅读我以前的一篇文章:
 
-[](/box-cox-transform-for-time-series-cc45f26082c6) [## 时间序列的 Box-Cox 变换
-
-### 如何使用 Box-Cox 变换创建平稳时间序列？
-
-towardsdatascience.com](/box-cox-transform-for-time-series-cc45f26082c6) 
+[](/box-cox-transform-for-time-series-cc45f26082c6)  
 
 # 分解是怎么做的？
 
@@ -117,11 +109,7 @@ towardsdatascience.com](/box-cox-transform-for-time-series-cc45f26082c6)
 
 *****这篇文章中使用的完整代码可以在我的 GitHub 中找到:*****
 
-*****[](https://github.com/egorhowell/Medium-Articles/blob/main/Time%20Series/Time%20Series%20Tools/decomposition.py) [## Medium-Articles/decomposition . py at main egorhowell/Medium-Articles
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/egorhowell/Medium-Articles/blob/main/Time%20Series/Time%20Series%20Tools/decomposition.py) 
+*****[](https://github.com/egorhowell/Medium-Articles/blob/main/Time%20Series/Time%20Series%20Tools/decomposition.py)  
 
 # 参考资料和进一步阅读
 

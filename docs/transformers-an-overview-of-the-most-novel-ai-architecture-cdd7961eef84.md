@@ -132,15 +132,7 @@
 
 ## 你可能喜欢的其他文章
 
-[](/cancer-prediction-vs-telecom-churn-modelling-9e4ec49095f6) [## 癌症预测与电信流失建模
-
-### 癌症预测和流失建模之间的相似性
-
-towardsdatascience.com](/cancer-prediction-vs-telecom-churn-modelling-9e4ec49095f6) [](/support-vector-machines-svms-important-derivations-4f50d1e3d4d2) [## 支持向量机:重要的推导
-
-### SVM 理论的全面阐释和形象化
-
-towardsdatascience.com](/support-vector-machines-svms-important-derivations-4f50d1e3d4d2) 
+[](/cancer-prediction-vs-telecom-churn-modelling-9e4ec49095f6)  [](/support-vector-machines-svms-important-derivations-4f50d1e3d4d2)  
 
 ## 参考
 
@@ -150,10 +142,6 @@ towardsdatascience.com](/support-vector-machines-svms-important-derivations-4f50
 
 变形金刚的惊人插图:
 
-[](http://jalammar.github.io/illustrated-transformer/) [## 图示的变压器
-
-### 讨论:黑客新闻(65 分，4 条评论)，Reddit r/MachineLearning (29 分，3 条评论)翻译…
-
-jalammar.github.io](http://jalammar.github.io/illustrated-transformer/) 
+[](http://jalammar.github.io/illustrated-transformer/)  
 
 AI Epiphany 的这个视频很棒:

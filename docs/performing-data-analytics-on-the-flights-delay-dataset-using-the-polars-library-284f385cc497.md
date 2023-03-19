@@ -16,11 +16,7 @@
 
 你可以从[https://www.kaggle.com/datasets/usdot/flight-delays](https://www.kaggle.com/datasets/usdot/flight-delays)下载数据集。
 
-[](https://www.kaggle.com/datasets/usdot/flight-delays) [## 2015 年航班延误和取消
-
-### 你应该乘坐哪家航空公司的航班来避免重大延误？
-
-www.kaggle.com](https://www.kaggle.com/datasets/usdot/flight-delays) 
+[](https://www.kaggle.com/datasets/usdot/flight-delays)  
 
 > 许可: [CC0:公共领域](https://creativecommons.org/publicdomain/zero/1.0/)
 
@@ -423,11 +419,7 @@ import plotly.express as pxdef histogram(airline):
 
 > 注意，您也可以在`unique()`功能后使用`count()`功能。
 
-[](https://weimenglee.medium.com/membership) [## 加入媒介与我的介绍链接-李伟孟
-
-### 阅读李维孟(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-weimenglee.medium.com](https://weimenglee.medium.com/membership) 
+[](https://weimenglee.medium.com/membership)  
 
 # 摘要
 

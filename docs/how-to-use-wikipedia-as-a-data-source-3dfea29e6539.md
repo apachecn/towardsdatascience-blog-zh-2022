@@ -273,19 +273,11 @@ leagueCandidates.plot.bar(x='Team',
 
 一如既往，感谢阅读。我希望你觉得这很有趣，并会通过我的 Github 页面上的链接来查看代码(或者在下面的**注释**中看到 Github 回购的链接)。
 
-[](https://alanjones2.github.io) [## AlanJones:编码、科学和技术
-
-### 使用 Streamlit、Plotly、Python 和 Flask 为 web 构建数据可视化应用程序。适用于…的文章、教程和应用程序
-
-alanjones2.github.io](https://alanjones2.github.io) 
+[](https://alanjones2.github.io)  
 
 如果你对我的其他文章感兴趣，你可以在 Medium 上浏览我的简介，或者在[我的网站](https://alanjones2.github.io/)上看到它们。你也可以订阅我的时事通讯， [Technofile](https://technofile.substack.com/) ，获得新文章的通知。
 
-[](https://technofile.substack.com) [## 技术文件
-
-### 技术、科学、数据科学和编码。点击阅读阿兰·琼斯的技术文件，这是一个子堆栈出版物，包含…
-
-technofile.substack.com](https://technofile.substack.com) 
+[](https://technofile.substack.com)  
 
 ## 笔记
 

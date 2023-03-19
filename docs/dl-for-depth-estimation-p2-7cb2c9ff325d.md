@@ -71,11 +71,7 @@
 
 *深度知觉的重要性及其古老起源*；*视差的定义*；*深度线索的概念以及人类如何自然感知* ( ***提示:*** 两只【立体】眼睛)；*视差和深度之间的关系，以及如何从一个空间变换到另一个空间在两个*(即，左和右)*图像中提供了相应的像素；在*之前假设了什么参数和条件(即，获得内部和外部参数，以及校正的立体图像对)。
 
-[](/how-computers-see-depth-deep-learning-based-methods-368581b244ed) [## 计算机如何看深度:基于深度学习的方法的最新进展
-
-### 第 1 部分:立体视觉的动机和基础
-
-towardsdatascience.com](/how-computers-see-depth-deep-learning-based-methods-368581b244ed) 
+[](/how-computers-see-depth-deep-learning-based-methods-368581b244ed)  
 
 ## 深度监督学习
 
@@ -177,11 +173,7 @@ towardsdatascience.com](/how-computers-see-depth-deep-learning-based-methods-368
 
 **[https://arxiv.org/abs/1510.05970](https://arxiv.org/abs/1510.05970)**
 
-**[](https://github.com/jzbontar/mc-cnn) [## GitHub - jzbontar/mc-CNN:通过训练一个卷积神经网络来比较的立体匹配…
-
-### 储存库包含用卷积神经网络计算立体匹配成本的过程；方法…
-
-github.com。](https://github.com/jzbontar/mc-cnn) 
+**[](https://github.com/jzbontar/mc-cnn)  
 
 # 流动网络
 
@@ -254,11 +246,7 @@ FlowNet 的缺点包括:
 
 ## 纸张和代码
 
-[](https://github.com/ClementPinard/FlowNetTorch) [## GitHub-ClementPinard/FlowNetTorch:Fischer 等人的 FlowNet 培训代码的 Torch 实现
-
-### 这个库是 FlowNet 的一个 torch 实现，由 Alexey Dosovitskiy 等人在 Torch。这段代码主要是…
-
-github.com](https://github.com/ClementPinard/FlowNetTorch) 
+[](https://github.com/ClementPinard/FlowNetTorch)  
 
 # iResNet
 
@@ -346,11 +334,7 @@ github.com](https://github.com/ClementPinard/FlowNetTorch)
 
 ## 纸张和代码
 
-[](https://github.com/leonzfa/iResNet) [## GitHub - leonzfa/iResNet
-
-### 这个库包含“通过特征恒定性学习视差估计”论文的代码(在 CAFFE 中)
-
-github.com。](https://github.com/leonzfa/iResNet) 
+[](https://github.com/leonzfa/iResNet)  
 
 # 几何和上下文网络
 
@@ -465,11 +449,7 @@ github.com。](https://github.com/leonzfa/iResNet)
 
 链接到论文[ [arXiv](https://arxiv.org/abs/1703.04309) ]。
 
-[](https://github.com/zyf12389/GC-Net) [## GitHub — zyf12389/GC-Net:使用 PyTorch 进行立体匹配的 GC-Net
-
-### 使用 PyTorch 的 GC-net 进行立体匹配
-
-github.com](https://github.com/zyf12389/GC-Net) 
+[](https://github.com/zyf12389/GC-Net)  
 
 # 金字塔立体匹配网络(PSMN)
 
@@ -601,11 +581,7 @@ github.com](https://github.com/zyf12389/GC-Net)
 
 ## 纸张和代码
 
-[](https://github.com/JiaRenChang/PSMNet) [## GitHub - JiaRenChang/PSMNet:金字塔立体匹配网络(CVPR2018)
-
-### 此库包含贾仁的“金字塔立体匹配网络”论文(CVPR 2018)的代码(PyTorch 格式)
-
-github.com](https://github.com/JiaRenChang/PSMNet) 
+[](https://github.com/JiaRenChang/PSMNet)  
 
 # ModuleNet
 
@@ -730,11 +706,7 @@ U-Net 块由函数 F₁: F₁表示，对噪声普查距离图进行正则化。
 
 ## 纸张和代码
 
-[](https://github.com/feihuzhang/GANet) [## GitHub - feihuzhang/GANet: GA-Net:端到端立体匹配的引导聚合网
-
-### GA-Net:端到端立体匹配的引导聚合网我们正在制定传统的几何和优化…
-
-github.com](https://github.com/feihuzhang/GANet) 
+[](https://github.com/feihuzhang/GANet)  
 
 # 讨论
 
@@ -760,19 +732,11 @@ github.com](https://github.com/feihuzhang/GANet)
 
 PSM 网络是使用 PyTorch Lightning 实现的。
 
-[](https://pythonrepo.com/repo/xtliu97-PSMNet_PytorchLightning-python-deep-learning) [## py torch PSM-Net 的重新实施:
-
-### 这是一个基于嘉人昌/PSMNet 的 Pytorch 闪电版 PSMNet。使用 python main.py 开始训练…
-
-pythonrepo.com](https://pythonrepo.com/repo/xtliu97-PSMNet_PytorchLightning-python-deep-learning) 
+[](https://pythonrepo.com/repo/xtliu97-PSMNet_PytorchLightning-python-deep-learning)  
 
 查看 FlowNet 上的深度博客:
 
-[](/a-brief-review-of-flownet-dca6bd574de0) [## FlowNet 简介
-
-### 最近，细胞神经网络已经成功地用于估计光流。与传统方法相比，这些方法具有明显的优势
-
-towardsdatascience.com。](/a-brief-review-of-flownet-dca6bd574de0) 
+[](/a-brief-review-of-flownet-dca6bd574de0)  
 
 GA-Net:Youtube 上端到端立体匹配的引导聚合网络。
 

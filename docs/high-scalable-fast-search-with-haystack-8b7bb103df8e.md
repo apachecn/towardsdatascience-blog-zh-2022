@@ -23,11 +23,7 @@
 
 Haystack 是使用单词嵌入功能的首选:
 
- [## 干草堆文档
-
-### 如果您已经想开始安装 Haystack 并构建您的第一个系统，请查看入门…
-
-haystack.deepset.ai](https://haystack.deepset.ai/overview/intro) 
+  
 
 我们将使用 Google Colab 的 GPU 来弹性地改进 Haystack search (ElasticSearch，如果我应该直呼其名的话)
 
@@ -41,11 +37,7 @@ Haystack 向我们展示了这个问题的前三个答案(图片由作者提供)
 
 > 如果您想了解更多关于单词相似性的知识，您可能会发现这篇文章很有帮助:
 
-[](/chatbot-a-complete-pycharm-app-part-2-of-3-distance-metric-46462a9ad4e4) [## 聊天机器人:一个完整的 PyCharm 应用程序(第 2 部分，共 3 部分:距离度量)
-
-### Chatterbot、Django、Python 和 PyCharm 都统一在这个随时可用的聊天机器人应用程序中
-
-towardsdatascience.com](/chatbot-a-complete-pycharm-app-part-2-of-3-distance-metric-46462a9ad4e4) 
+[](/chatbot-a-complete-pycharm-app-part-2-of-3-distance-metric-46462a9ad4e4)  
 
 还记得我们在[简单字符串搜索](https://medium.com/p/e8bc3f2c1669/edit)中搜索“absorption”时，我们得到的是“Vollkostenrechnung”这个单词的正确德语翻译吗？
 
@@ -101,10 +93,6 @@ Answers:
 
 在此之前，非常感谢您的阅读！希望这篇文章对你有帮助。请随时在 [LinkedIn](https://de.linkedin.com/in/jesko-rehberg-40653883) 、 [Twitter](https://twitter.com/DAR_Analytics) 或[工作室](https://jesko-rehberg.medium.com/virtual-reality-vr-for-education-a532aa5b6272)与我联系。
 
-[](https://jesko-rehberg.medium.com/membership) [## 通过我的推荐链接加入 Medium-Jesko Rehberg
-
-### 阅读杰斯科·雷伯格(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-jesko-rehberg.medium.com](https://jesko-rehberg.medium.com/membership) 
+[](https://jesko-rehberg.medium.com/membership)  
 
 您可以在我的 [Github](https://github.com/DAR-DatenanalyseRehberg/HaystackFAQSearch) 资源库中找到完整的代码和文件。请随时在 [LinkedIn](https://de.linkedin.com/in/jesko-rehberg-40653883) 、 [Twitter](https://twitter.com/DAR_Analytics) 或[工作室](https://jesko-rehberg.medium.com/virtual-reality-vr-for-education-a532aa5b6272)与我联系。

@@ -10,11 +10,7 @@
 
 机器学习项目的典型流程从读取数据开始，然后是一些预处理、训练、测试、可视化以及与通知系统共享结果。当然，所有的步骤都可以在各种开源库的帮助下轻松完成。然而，在一些特定于任务的情况下，比如时间序列数据中的异常检测，减少库和硬编码步骤的数量将更有利于可解释性。pyfbad 库就是为此而开发的。
 
-[](https://github.com/Teknasyon-Teknoloji/pyfbad) [## GitHub-Teknasyon-Teknoloji/pyfbad:一个由 Getcontact Data 开发的开源离群点检测包…
-
-### pyfbad 库支持异常检测项目。可以编写一个端到端的异常检测应用程序…
-
-github.com](https://github.com/Teknasyon-Teknoloji/pyfbad) 
+[](https://github.com/Teknasyon-Teknoloji/pyfbad)  
 
 ***pyfbad*** 库是一个端到端的无监督异常检测包。这个包提供了前面提到的所有 ml-flow 步骤的源代码。例如，可以使用 pyfbad 通过特殊的过滤器从文件、MongoDB 或 MySQL 中读取数据。这些读取的数据可以通过预处理方法为模型做好准备。该模型可以使用不同的机器学习模型进行训练，例如 Prophet 或 Isolation Forest。异常检测结果可以通过电子邮件或 slack 报告。换句话说，项目的整个周期可以在 pyfbad 下提供的源代码的帮助下完成，而不需要使用任何其他库。
 

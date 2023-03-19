@@ -22,15 +22,7 @@
 
 👉如果你想了解更多关于 AssemblyAI API 的知识，我建议你阅读我之前的两篇文章:
 
-[](/how-to-transcribe-and-analyze-audio-files-with-python-and-assemblyai-22660dbf8e66) [## 如何用 Python 和 AssemblyAI 转录和分析音频文件？
-
-### 演示:将 Youtube 视频转换成摘要文本
-
-towardsdatascience.com](/how-to-transcribe-and-analyze-audio-files-with-python-and-assemblyai-22660dbf8e66) [](/how-to-moderate-audio-data-using-python-and-assemblyai-a5eab9910730) [## 如何用 Python 和 AssemblyAI 来缓和音频数据？
-
-### 一个超越转录的特征
-
-towardsdatascience.com](/how-to-moderate-audio-data-using-python-and-assemblyai-a5eab9910730) 
+[](/how-to-transcribe-and-analyze-audio-files-with-python-and-assemblyai-22660dbf8e66)  [](/how-to-moderate-audio-data-using-python-and-assemblyai-a5eab9910730)  
 
 # 一种新颖的话题检测方法
 
@@ -164,10 +156,6 @@ streamlit run app.py**
 
 # **新到中？你可以每月订阅 5 美元，并解锁各种主题的无限文章(技术、设计、创业……)你可以通过点击我的推荐链接[来支持我](https://ahmedbesbes.medium.com/membership)**
 
-**[](https://ahmedbesbes.medium.com/membership) [## 加入我的介绍链接媒体-艾哈迈德贝斯
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-ahmedbesbes.medium.com](https://ahmedbesbes.medium.com/membership) ![](img/78246390f6e16a01de9ac938f5ac6c42.png)
+**[](https://ahmedbesbes.medium.com/membership)  ![](img/78246390f6e16a01de9ac938f5ac6c42.png)
 
 由[路易斯·史密斯](https://unsplash.com/@louisesmithma?utm_source=medium&utm_medium=referral)在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄的照片**

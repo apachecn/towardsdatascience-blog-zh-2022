@@ -22,11 +22,7 @@
 
 Android 应用程序的源代码可以在这里找到->
 
-[](https://github.com/shubham0204/Scikit_Learn_Android_Demo) [## GitHub-Shu bham 0204/sci kit _ Learn _ Android _ Demo:一个运行 scikit-learn 模型的 Android 应用程序…
-
-### 一个运行 scikit-learn 模型并转换成 ONNX 格式的 Android 应用程序- GitHub …
-
-github.com](https://github.com/shubham0204/Scikit_Learn_Android_Demo) ![Shubham Panchal](img/f257a972277364d883633e08e85054eb.png)
+[](https://github.com/shubham0204/Scikit_Learn_Android_Demo)  ![Shubham Panchal](img/f257a972277364d883633e08e85054eb.png)
 
 舒巴姆·潘查尔
 
@@ -42,11 +38,7 @@ github.com](https://github.com/shubham0204/Scikit_Learn_Android_Demo) ![Shubham 
 
 例如，如果您必须将一个 [PyTorch](https://pytorch.org/) 模型转换为一个 [TensorFlow](https://www.tensorflow.org/) 模型，您可以首先将其转换为 ONNX 模型。 [TensorFlow 支持加载 ONNX 模型](https://github.com/onnx/onnx-tensorflow)，这样你就可以从 ONNX 模型中得到一个 TF 模型。这里有一个关于 ONNX 框架的详细博客，
 
-[](https://blog.roboflow.com/what-is-onnx/) [## ONNX 是什么？ONNX 框架的快速解释
-
-### “一分钟的 ML”是我们关于回答机器学习问题的会话系列。有你想要的问题…
-
-blog.roboflow.com](https://blog.roboflow.com/what-is-onnx/) 
+[](https://blog.roboflow.com/what-is-onnx/)  
 
 ## A.构建 Scikit-Learn 模型
 
@@ -96,11 +88,7 @@ pip install onnxruntime
 
 你也可以在 Python 中运行`.ort`构建。看到这个官方教程，
 
- [## ONNX 运行时
-
-### ONNX 运行时提供了一种在 CPU 或 GPU 上运行高性能机器学习模型的简单方法，而无需…
-
-onnxruntime.ai](https://onnxruntime.ai/docs/api/python/tutorial.html) 
+  
 
 接下来，我们继续讨论 Android 部分，并讨论如何使用`.ort`模型进行预测。
 

@@ -12,19 +12,11 @@ Jupyter 笔记本非常适合软件开发和文档。它们被广泛用于数据
 
 大约两年前， [JupyterLab](https://jupyter.org/) 推出了可视化调试器，杰瑞米·霍华德宣布了 [nbdev](https://nbdev.fast.ai/) ，这是一个 python 库，可以编写、测试、记录和分发软件包和技术文章，所有这些都在一个地方，你的笔记本上。Jupyter 开始转型，看起来更像一个 IDE，尽管它仍然保持自己的方式，它仍然不像任何其他传统的 IDE。
 
-[](/jupyter-is-now-a-full-fledged-ide-c99218d33095) [## Jupyter 现在是一个成熟的 IDE
-
-### 通过 nbdev 和 Jupyter 新的可视化调试器，有文化的编程现在已经成为现实。
-
-towardsdatascience.com](/jupyter-is-now-a-full-fledged-ide-c99218d33095) 
+[](/jupyter-is-now-a-full-fledged-ide-c99218d33095)  
 
 去年对于 Jupyter 项目来说也是很棒的一年。一个新的主要版本(JupyterLab 3.0)，[扩展](https://medium.com/p/b36f1d1ca8f8)允许你将代码单元转换成 ML 管道，一个新的小部件引擎，以及可视化调试器的集成，这些都是铺平道路的公告。此外，nbdev 继续向前发展，现在受到网飞和 Lyft 等大公司的信任。
 
-[](/jupyter-is-now-a-full-fledged-ide-in-hindsight-3f0c5f35aa8d) [## Jupyter 现在是一个成熟的 IDE:事后看来
-
-### 优秀的可视化调试器，nbdev，Kale，IDOM。对于朱庇特计划来说，这是伟大的一年。
-
-towardsdatascience.com](/jupyter-is-now-a-full-fledged-ide-in-hindsight-3f0c5f35aa8d) 
+[](/jupyter-is-now-a-full-fledged-ide-in-hindsight-3f0c5f35aa8d)  
 
 今年，这一迹象又是积极的，进展也同样显著。该团队专注于将 JupyterLab 带到任何地方，创建工具让您在编码时保持在该区域，而该项目的一个最被低估的用途是教育。让我们看看今年在朱庇特计划的魔法世界里发生了什么！
 
@@ -34,11 +26,7 @@ towardsdatascience.com](/jupyter-is-now-a-full-fledged-ide-in-hindsight-3f0c5f35
 
 似乎现在每个人都试图在云虚拟机上运行你最喜欢的 IDE。如果您正在使用 Visual Studio 代码，您可能听说过 GitHub codespaces。然后，Coder 开发了`[code-server](https://github.com/coder/code-server)`，允许您构建自己的 VSCode 服务器，并在任何地方托管它。AWS 还收购了 [Cloud9](https://aws.amazon.com/cloud9/) ，这是一个用于编写、运行和调试代码的云 IDE。
 
-[](/how-to-create-your-own-vs-code-server-fa7812d308b0) [## 如何创建自己的 VS 代码服务器
-
-### 在家工作与远程工作不同
-
-towardsdatascience.com](/how-to-create-your-own-vs-code-server-fa7812d308b0) 
+[](/how-to-create-your-own-vs-code-server-fa7812d308b0)  
 
 朱庇特采取了激进的方法； [**JupyterLite**](https://blog.jupyter.org/jupyterlite-jupyter-%EF%B8%8F-webassembly-%EF%B8%8F-python-f6e2e41ab3fa) **是一个 JupyterLab 发行版，完全在 web 浏览器中运行，由浏览器内语言支持。**这意味着它更便宜、更易于部署、高度可定制，并且可以嵌入到您的网站中。事实上， [NumPy](https://numpy.org/) 已经这样做了。
 

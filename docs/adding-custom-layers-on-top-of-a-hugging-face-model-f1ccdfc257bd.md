@@ -83,27 +83,7 @@
 
 **如果你喜欢这个，这里还有一些！**
 
-**[](/interpreting-an-lstm-through-lime-e294e6ed3a03) [## 透过莱姆解读 LSTM
-
-### 了解如何通过 LIME 解释一个 Keras LSTM，并深入到文本 LIME 库的内部工作…
-
-towardsdatascience.com](/interpreting-an-lstm-through-lime-e294e6ed3a03) [](/locality-sensitive-hashing-in-nlp-1fb3d4a7ba9f) [## 自然语言处理中的位置敏感哈希算法
-
-### 关于如何通过区分位置来减少搜索空间以加快文档检索的实践教程…
-
-towardsdatascience.com](/locality-sensitive-hashing-in-nlp-1fb3d4a7ba9f) [](/dealing-with-features-that-have-high-cardinality-1c9212d7ff1b) [## 处理具有高基数的要素
-
-### 一个简单的实用程序，我用来处理具有许多唯一值的分类特征
-
-towardsdatascience.com](/dealing-with-features-that-have-high-cardinality-1c9212d7ff1b) [](/powerful-text-augmentation-using-nlpaug-5851099b4e97) [## 使用 NLPAUG 的强大文本增强！
-
-### 通过文本增强技术处理 NLP 分类问题中的类别不平衡
-
-towardsdatascience.com](/powerful-text-augmentation-using-nlpaug-5851099b4e97) [](/regex-essential-for-nlp-ee0336ef988d) [## 正则表达式对 NLP 至关重要
-
-### 理解各种正则表达式，并将其应用于自然语言中经常遇到的情况…
-
-towardsdatascience.com](/regex-essential-for-nlp-ee0336ef988d) 
+**[](/interpreting-an-lstm-through-lime-e294e6ed3a03)  [](/locality-sensitive-hashing-in-nlp-1fb3d4a7ba9f)  [](/dealing-with-features-that-have-high-cardinality-1c9212d7ff1b)  [](/powerful-text-augmentation-using-nlpaug-5851099b4e97)  [](/regex-essential-for-nlp-ee0336ef988d)  
 
 # 参考
 

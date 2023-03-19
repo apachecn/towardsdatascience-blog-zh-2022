@@ -108,11 +108,7 @@ Pandas 为数据帧中的每一列分配适当的数据类型。
 
 在我之前的博客中阅读更多关于处理缺失数据的内容:
 
-[](/why-you-should-handle-missing-data-and-heres-how-to-do-it-270c321a4d6f) [## 为什么应该处理丢失的数据，下面是如何做的
-
-### 使用熊猫处理丢失数据的综合指南
-
-towardsdatascience.com](/why-you-should-handle-missing-data-and-heres-how-to-do-it-270c321a4d6f) 
+[](/why-you-should-handle-missing-data-and-heres-how-to-do-it-270c321a4d6f)  
 
 # #12 连接数据框
 
@@ -162,11 +158,7 @@ towardsdatascience.com](/why-you-should-handle-missing-data-and-heres-how-to-do-
 
 你可以在我之前的博客中读到基于字符串的过滤:
 
-[](/5-string-based-filtering-methods-every-pandas-user-should-know-48021938412e) [## 每个熊猫用户都应该知道的 5 种基于字符串的过滤方法
-
-### 字符串列过滤指南。
-
-towardsdatascience.com](/5-string-based-filtering-methods-every-pandas-user-should-know-48021938412e) 
+[](/5-string-based-filtering-methods-every-pandas-user-should-know-48021938412e)  
 
 ## 方法 2:获取列
 

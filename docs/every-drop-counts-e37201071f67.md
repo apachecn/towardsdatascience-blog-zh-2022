@@ -26,11 +26,7 @@ https://github.com/chrisb2/water-system(图片来自克里斯的 Github 库)
 
 我的观点不是宣传一个“美国的一切卖家”，而是为你提供一个平衡的解决方案，不需要工程技术就能可靠地工作。这就是为什么我决定将 Alexa 的智能插头与一个名为“虚拟智能家居”的应用程序一起使用。该应用程序可以非常轻松地为 Alexa 的智能插件例程设置 URL 触发器:
 
-[](https://www.virtualsmarthome.xyz/url_routine_trigger/) [## 虚拟智能家居 Alexa 例程的 URL 例程触发器
-
-### Alexa 例程对于自动化日常任务和控制智能家居设备非常强大。然而……
-
-www.virtualsmarthome.xyz](https://www.virtualsmarthome.xyz/url_routine_trigger/) 
+[](https://www.virtualsmarthome.xyz/url_routine_trigger/)  
 
 首先，在网站“virtualsmarthome.xyz”上，我们需要创建一个新的触发器。我已经输入了“GardenHose”作为名称:
 
@@ -82,11 +78,7 @@ www.virtualsmarthome.xyz](https://www.virtualsmarthome.xyz/url_routine_trigger/)
 
 现在编程部分开始了。由于我们将调用 OpenWeather 的 API，我们首先需要创建一个免费帐户(如果还没有完成的话)。转到 OpenWeather，创建一个帐户并确认您的邮件。
 
-[](https://home.openweathermap.org/api_keys) [## 成员
-
-### OpenWeather 是一个由 IT 专家和数据科学家组成的团队，自 2014 年以来一直在实践深度天气数据科学…
-
-home.openweathermap.org](https://home.openweathermap.org/api_keys) 
+[](https://home.openweathermap.org/api_keys)  
 
 之后，激活您的 api 密钥可能需要几分钟，所以请耐心等待。要检查您的 API 是否正常工作，请尝试代码的开头:
 
@@ -186,10 +178,6 @@ else:
 
 非常感谢您的阅读！希望这篇文章对你有帮助。请随时在 [LinkedIn](https://de.linkedin.com/in/jesko-rehberg-40653883) 、 [Twitter](https://twitter.com/DAR_Analytics) 或[工作室](https://jesko-rehberg.medium.com/virtual-reality-vr-for-education-a532aa5b6272)与我联系。
 
-[](https://jesko-rehberg.medium.com/membership) [## 通过我的推荐链接加入 Medium-Jesko Rehberg
-
-### 阅读杰斯科·雷伯格(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-jesko-rehberg.medium.com](https://jesko-rehberg.medium.com/membership) 
+[](https://jesko-rehberg.medium.com/membership)  
 
 还要特别感谢 [Katherine Prairie](https://medium.com/@kathy_87105) 的宝贵反馈！

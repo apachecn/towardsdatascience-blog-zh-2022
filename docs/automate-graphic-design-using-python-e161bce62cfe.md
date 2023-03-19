@@ -68,11 +68,7 @@
 
 有关数据分析、生产力和供应链管理的更多文章，
 
-[](http://samirsaci.com) [## Samir Saci |数据科学与生产力
-
-### 专注于数据科学、个人生产力、自动化、运筹学和可持续发展的技术博客
-
-samirsaci.com](http://samirsaci.com) 
+[](http://samirsaci.com)  
 
 # 标签设计
 
@@ -198,11 +194,7 @@ samirsaci.com](http://samirsaci.com)
 
 如果你认为制作 PowerPoint 演示很无聊，看看下面的文章，
 
-[](https://www.samirsaci.com/automate-powerpoint-slides-creation-with-python/) [## 使用 Python 自动创建 PowerPoint 幻灯片
-
-### 生产效率使用创建供应链运营 PowerPoint 的自动化工具提高您的生产效率…
-
-www.samirsaci.com](https://www.samirsaci.com/automate-powerpoint-slides-creation-with-python/) 
+[](https://www.samirsaci.com/automate-powerpoint-slides-creation-with-python/)  
 
 # 关于我
 
@@ -210,8 +202,4 @@ www.samirsaci.com](https://www.samirsaci.com/automate-powerpoint-slides-creation
 
 如果你对数据分析和供应链感兴趣，可以看看我的网站
 
-[](https://samirsaci.com) [## Samir Saci |数据科学与生产力
-
-### 专注于数据科学、个人生产力、自动化、运筹学和可持续发展的技术博客
-
-samirsaci.com](https://samirsaci.com)
+[](https://samirsaci.com) 

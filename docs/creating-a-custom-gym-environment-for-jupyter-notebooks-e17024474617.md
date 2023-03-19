@@ -375,26 +375,14 @@ cd BabyRobotGym**
 
 *在我们的例子中，我们想要创建一个婴儿机器人可以探索的网格世界环境。此外，我们希望能够图形化地查看这个环境，并观察机器人宝宝在周围移动。在第二部分 中，我们将看到这是如何实现的。*
 
-*[](/creating-a-custom-gym-environment-for-jupyter-notebooks-e8718f36547b) [## 为 Jupyter 笔记本电脑创建定制的健身房环境
-
-### 第 2 部分:呈现 Jupyter 笔记本单元格
-
-towardsdatascience.com](/creating-a-custom-gym-environment-for-jupyter-notebooks-e8718f36547b)* *![](img/5b3a6c07fb3fc34b11b265f9ccf4e249.png)*
+*[](/creating-a-custom-gym-environment-for-jupyter-notebooks-e8718f36547b) * *![](img/5b3a6c07fb3fc34b11b265f9ccf4e249.png)*
 
 # *参考资料:*
 
 1.  *体育馆图书馆:*
 
-*[](https://gymnasium.farama.org/) [## 体育馆文件
-
-### 健身房是 OpenAI 的健身房图书馆的一个维护分支。体育馆界面简单、简洁，并且能够…
-
-gymnasium.farama.org](https://gymnasium.farama.org/) 
+*[](https://gymnasium.farama.org/)  
 
 而完整系列的婴儿机器人强化学习指南可以在 [***这里***](https://towardsdatascience.com/tagged/baby-robot-guide) …
 
-[](/state-values-and-policy-evaluation-ceefdd8c2369) [## 国家价值观和政策评估
-
-### 强化学习简介:第 1 部分
-
-towardsdatascience.com](/state-values-and-policy-evaluation-ceefdd8c2369)*
+[](/state-values-and-policy-evaluation-ceefdd8c2369) *

@@ -27,19 +27,11 @@
 
 接下来，报告平均分数及其标准偏差作为置信区间。只有这样，您才能真正用所选的参数来判断模型的性能，因为您得到的平均分将代表模型从数据中有效学习并对未知样本进行准确预测的真正潜力。
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-BEXGBoost
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。支持我的工作，给我买一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+[](https://ibexorigin.medium.com/membership)  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex) [## 阿尔法信号|机器学习的极品。艾总结的。
-
-### 留在循环中，不用花无数时间浏览下一个突破；我们的算法识别…
-
-alphasignal.ai](https://alphasignal.ai/?referrer=Bex) 
+[](https://alphasignal.ai/?referrer=Bex)  
 
 # 1.KFold
 
@@ -149,32 +141,8 @@ ShuffleSplit 的优点是您可以完全控制每个折叠中的序列和集合�
 
 感谢您的阅读！
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium。
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。你可以给我买一个 coffee☕，用你的…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) [](https://ibexorigin.medium.com/subscribe) [## 每当 Bex T .发布时收到电子邮件。
-
-### 每当 Bex T .发布时收到电子邮件。注册后，如果您还没有中型帐户，您将创建一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/subscribe) 
+[](https://ibexorigin.medium.com/membership)  [](https://ibexorigin.medium.com/subscribe)  
 
 ## 阅读更多我写的故事…
 
-[](https://ibexorigin.medium.com/28-weekly-machine-learning-tricks-and-resources-that-are-pure-gems-1-8e5259a93c94) [## 28 个每周机器学习技巧和资源，它们是纯粹的珍宝#1
-
-### 一次学习一个片段的机器学习
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/28-weekly-machine-learning-tricks-and-resources-that-are-pure-gems-1-8e5259a93c94) [](/10-sklearn-gems-buried-in-the-docs-waiting-to-be-found-ad95a8fabdfd) [## 埋藏在文档中等待被发现的 10 颗 Sklearn 宝石
-
-### 隐藏的宝藏
-
-towardsdatascience.com](/10-sklearn-gems-buried-in-the-docs-waiting-to-be-found-ad95a8fabdfd) [](https://ibexorigin.medium.com/26-weekly-ml-tricks-and-resources-that-are-pure-gems-2-3be56841b1d9) [## 26 个纯粹的每周 ML 技巧和资源，排名第二
-
-### 7 月 3 日至 9 日发行
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/26-weekly-ml-tricks-and-resources-that-are-pure-gems-2-3be56841b1d9) [](/advanced-tutorial-how-to-master-matplotlib-like-an-absolute-boss-aae2d4936734) [## 进阶教程:如何像绝对 Boss 一样掌握 Matplotlib
-
-### 以前所未有的方式使用 Matplotlib
-
-towardsdatascience.com](/advanced-tutorial-how-to-master-matplotlib-like-an-absolute-boss-aae2d4936734)
+[](https://ibexorigin.medium.com/28-weekly-machine-learning-tricks-and-resources-that-are-pure-gems-1-8e5259a93c94)  [](/10-sklearn-gems-buried-in-the-docs-waiting-to-be-found-ad95a8fabdfd)  [](https://ibexorigin.medium.com/26-weekly-ml-tricks-and-resources-that-are-pure-gems-2-3be56841b1d9)  [](/advanced-tutorial-how-to-master-matplotlib-like-an-absolute-boss-aae2d4936734) 

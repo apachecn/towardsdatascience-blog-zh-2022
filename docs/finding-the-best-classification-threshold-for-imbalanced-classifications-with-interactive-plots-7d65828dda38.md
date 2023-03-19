@@ -225,11 +225,7 @@ pip install binclass-tools
 
 有关如何使用软件包中包含的功能的更多详细信息，请参考 GitHub 页面:
 
-[](https://github.com/lucazav/binclass-tools) [## GitHub-Luca zav/bin class-工具
-
-### 一组 Python 包装器和交互式绘图，有助于分析二进制分类问题。的…
-
-github.com](https://github.com/lucazav/binclass-tools) 
+[](https://github.com/lucazav/binclass-tools)  
 
 还添加了交互式 ROC 和精确回忆图，您可以在本文中读到:
 

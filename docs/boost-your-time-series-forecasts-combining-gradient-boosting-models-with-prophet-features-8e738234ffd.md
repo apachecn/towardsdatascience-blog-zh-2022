@@ -12,11 +12,7 @@
 
 ## 以前的帖子
 
-[](/time-series-forecasting-with-machine-learning-b3072a5b44ba) [## 基于监督机器学习的时间序列预测
-
-### 使用监督机器学习模型的时间序列分析和预测
-
-towardsdatascience.com](/time-series-forecasting-with-machine-learning-b3072a5b44ba) 
+[](/time-series-forecasting-with-machine-learning-b3072a5b44ba)  
 
 # 新方法
 
@@ -72,12 +68,4 @@ Prophet 显示了从第 11 列到第 20 列的数据帧
 
 # 参考
 
-[](https://facebook.github.io/prophet/docs/quick_start.html) [## 快速启动
-
-### Prophet 遵循 sklearn 模型 API。我们创建一个 Prophet 类的实例，然后调用它的 fit 和 predict…
-
-facebook.github.io](https://facebook.github.io/prophet/docs/quick_start.html)  [## 欢迎阅读 LightGBM 的文档！-light GBM 3.3.2.99 文档
-
-### 编辑描述
-
-lightgbm.readthedocs.io](https://lightgbm.readthedocs.io/en/latest/)
+[](https://facebook.github.io/prophet/docs/quick_start.html)   

@@ -90,16 +90,4 @@
 
 *如果你喜欢这篇文章，请阅读我在 NLP 上的其他文章*
 
-[](/end-to-end-topic-modeling-in-python-latent-dirichlet-allocation-lda-35ce4ed6b3e0) [## Python 中的主题建模:潜在狄利克雷分配(LDA)
-
-### 如何开始使用 Python 中的 LDA 进行主题建模
-
-towardsdatascience.com](/end-to-end-topic-modeling-in-python-latent-dirichlet-allocation-lda-35ce4ed6b3e0) [](/evaluate-topic-model-in-python-latent-dirichlet-allocation-lda-7d57484bb5d0) [## 评估主题模型:潜在狄利克雷分配(LDA)
-
-### 构建可解释主题模型的分步指南
-
-towardsdatascience.com](/evaluate-topic-model-in-python-latent-dirichlet-allocation-lda-7d57484bb5d0) [](/recommendation-system-in-python-lightfm-61c85010ce17) [## Python 中的推荐系统:LightFM
-
-### 使用 LightFM 在 Python 中构建推荐系统的分步指南
-
-towardsdatascience.com](/recommendation-system-in-python-lightfm-61c85010ce17)
+[](/end-to-end-topic-modeling-in-python-latent-dirichlet-allocation-lda-35ce4ed6b3e0)  [](/evaluate-topic-model-in-python-latent-dirichlet-allocation-lda-7d57484bb5d0)  [](/recommendation-system-in-python-lightfm-61c85010ce17) 

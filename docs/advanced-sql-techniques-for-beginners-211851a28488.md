@@ -78,11 +78,7 @@ ROLLUP 函数用于在多个级别执行聚合。当您必须处理尺寸图时�
 
 我之前在这里写过:
 
-[](/retention-and-daily-active-users-explained-79c5dab1bf84) [## 留存和日活跃用户解释。
-
-### 针对 Firebase 用户、机器学习爱好者和营销人员的完整 Data Studio 指南和 BigQuery 教程。所有…
-
-towardsdatascience.com](/retention-and-daily-active-users-explained-79c5dab1bf84) 
+[](/retention-and-daily-active-users-explained-79c5dab1bf84)  
 
 # 9.Row_number()
 
@@ -100,11 +96,7 @@ towardsdatascience.com](/retention-and-daily-active-users-explained-79c5dab1bf84
 
 在本文中，您可以找到如何使用 Firebase 和 Google Analytics 4 数据创建自定义用户活动和绩效仪表板的教程:
 
-[](/i-stopped-using-firebase-dashboards-ive-built-my-own-instead-299631185b41) [## 我不再使用 Firebase 仪表盘。我自己建了一个。
-
-### 你如何解释火基数字？以下是答案。包括简洁的模板以及示例 Firebase 数据集…
-
-towardsdatascience.com](/i-stopped-using-firebase-dashboards-ive-built-my-own-instead-299631185b41) 
+[](/i-stopped-using-firebase-dashboards-ive-built-my-own-instead-299631185b41)  
 
 # 11.等级/密集 _ 等级
 
@@ -126,11 +118,7 @@ towardsdatascience.com](/i-stopped-using-firebase-dashboards-ive-built-my-own-in
 
 以类似的方式，您可以创建不需要使用 **UNION ALL** 的表。例如，我用它来模拟单元测试的一些测试数据。这样你可以在你的编辑器中使用`Alt` + `Shift` + `Down`来快速完成。
 
-[](/sql-unit-testing-in-bigquery-here-is-a-tutorial-64fc7a6b377) [## BigQuery 中的 SQL 单元测试？这里有一个教程。
-
-### 脚本和 UDF 测试完全指南。
-
-towardsdatascience.com](/sql-unit-testing-in-bigquery-here-is-a-tutorial-64fc7a6b377) 
+[](/sql-unit-testing-in-bigquery-here-is-a-tutorial-64fc7a6b377)  
 
 # 15.使用跟随和无限跟随创建事件漏斗
 

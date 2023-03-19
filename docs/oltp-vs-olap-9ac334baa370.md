@@ -105,24 +105,8 @@ OLTP 和 OLAP 系统在预期响应/处理时间方面的差异是意料之中�
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership) 
+[](https://gmyrianthous.medium.com/membership)  
 
 **相关文章你可能也喜欢**
 
-[](/star-schema-924b995a9bdf) [## 事实与维度表
-
-### 在星型模式和数据仓库的上下文中理解事实表和维度表之间的区别
-
-towardsdatascience.com](/star-schema-924b995a9bdf) [](/data-engineer-tools-c7e68eed28ad) [## 数据工程师的工具
-
-### 数据工程工具箱的基础
-
-towardsdatascience.com](/data-engineer-tools-c7e68eed28ad) [](https://betterprogramming.pub/kafka-cli-commands-1a135a4ae1bd) [## 用于日常编程的 15 个 Kafka CLI 命令
-
-### 演示最常用的 Kafka 命令行界面命令的使用
-
-better 编程. pub](https://betterprogramming.pub/kafka-cli-commands-1a135a4ae1bd)
+[](/star-schema-924b995a9bdf)  [](/data-engineer-tools-c7e68eed28ad)  [](https://betterprogramming.pub/kafka-cli-commands-1a135a4ae1bd) 

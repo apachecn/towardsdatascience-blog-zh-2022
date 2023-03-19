@@ -220,16 +220,4 @@ tb.set_deco(tb.HEADER | tb.HLINES)
 
 # 参考
 
- [## python 中带 Texttable 的简单格式化表格
-
-### 用于在 python 中生成简单格式化表格的 Texttable python 模块的描述。
-
-oneau.wordpress.com](https://oneau.wordpress.com/2010/05/30/simple-formatted-tables-in-python-with-texttable/) [](https://www.statology.org/create-table-in-python/) [## 如何用 Python 创建表格(附示例)-统计学
-
-### 要使用这个函数，我们必须首先使用 pip 安装库:pip 安装制表，然后我们可以加载库…
-
-www.statology.org](https://www.statology.org/create-table-in-python/) [](https://www.geeksforgeeks.org/creating-tables-with-prettytable-library-python/) [## 用漂亮的表格库创建表格
-
-### 极客的计算机科学门户。它包含写得很好，很好的思想和很好的解释计算机科学和…
-
-www.geeksforgeeks.org](https://www.geeksforgeeks.org/creating-tables-with-prettytable-library-python/)
+  [](https://www.statology.org/create-table-in-python/)  [](https://www.geeksforgeeks.org/creating-tables-with-prettytable-library-python/) 

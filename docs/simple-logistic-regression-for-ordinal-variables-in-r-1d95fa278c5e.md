@@ -14,15 +14,7 @@
 
 在以前的文章中，我们已经经历了简单的和多重的逻辑回归。读者可以看看这些文章，以便更好地理解逻辑回归。
 
-[](/simple-logistic-regression-for-dichotomous-variables-in-r-8befbe3e95b4) [## R 中二分变量的简单 Logistic 回归
-
-### R 系列中的统计
-
-towardsdatascience.com](/simple-logistic-regression-for-dichotomous-variables-in-r-8befbe3e95b4) [](https://mdsohel-mahmood.medium.com/multiple-logistic-regression-in-r-aa65c2a91e22) [## R 中二分变量的多元 Logistic 回归
-
-### R 系列中的统计
-
-mdsohel-mahmood.medium.com](https://mdsohel-mahmood.medium.com/multiple-logistic-regression-in-r-aa65c2a91e22) 
+[](/simple-logistic-regression-for-dichotomous-variables-in-r-8befbe3e95b4)  [](https://mdsohel-mahmood.medium.com/multiple-logistic-regression-in-r-aa65c2a91e22)  
 
 > **数据集**
 
@@ -134,12 +126,4 @@ AIC/BIC statistics are also smaller in model 3 which also indicates more robustn
 
 感谢阅读。
 
-[](https://mdsohel-mahmood.medium.com/membership) [## 用我的推荐链接加入媒体
-
-### 阅读 Md Sohel Mahmood(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接…
-
-mdsohel-mahmood.medium.com](https://mdsohel-mahmood.medium.com/membership) [](https://mdsohel-mahmood.medium.com/subscribe) [## 每当 Md Sohel Mahmood 发表文章时，都会收到一封电子邮件。
-
-### 每当 Md Sohel Mahmood 发表文章时，都会收到一封电子邮件。通过注册，您将创建一个中型帐户，如果您还没有…
-
-mdsohel-mahmood.medium.com](https://mdsohel-mahmood.medium.com/subscribe)
+[](https://mdsohel-mahmood.medium.com/membership)  [](https://mdsohel-mahmood.medium.com/subscribe) 

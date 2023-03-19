@@ -148,18 +148,6 @@ Gradio 允许您通过设置输入类型(文本、复选框等)来创建简单�
 
 如果你喜欢这篇文章，你可能也会喜欢这些:
 
-[](/the-one-data-science-tool-you-should-master-in-2022-c088bb4371b2) [## 2022 年你应该掌握的一种数据科学工具
-
-### 这个工具节省了我很多时间，现在它正在占领市场！
-
-towardsdatascience.com](/the-one-data-science-tool-you-should-master-in-2022-c088bb4371b2) [](https://medium.datadriveninvestor.com/why-machine-learning-engineers-are-replacing-data-scientists-769d81735553) [## 为什么机器学习工程师正在取代数据科学家
-
-### 以及你应该做些什么
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/why-machine-learning-engineers-are-replacing-data-scientists-769d81735553) [](/8-data-science-side-projects-for-2022-3da85d3251f9) [## 2022 年的 8 个数据科学边项目
-
-### 在 2022 年，将提升你的数据科学技能的边项目的独特想法
-
-towardsdatascience.com](/8-data-science-side-projects-for-2022-3da85d3251f9) 
+[](/the-one-data-science-tool-you-should-master-in-2022-c088bb4371b2)  [](https://medium.datadriveninvestor.com/why-machine-learning-engineers-are-replacing-data-scientists-769d81735553)  [](/8-data-science-side-projects-for-2022-3da85d3251f9)  
 
 > 如果你想进一步讨论，请随时通过 LinkedIn 联系我，这将是我的荣幸(老实说)。

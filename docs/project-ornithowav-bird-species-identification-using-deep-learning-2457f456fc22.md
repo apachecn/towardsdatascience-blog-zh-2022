@@ -59,11 +59,7 @@
 
 **阶段 3:模型训练&使用 ai8x 的 C 代码合成——训练&ai8x——合成库**
 
-[](https://github.com/MaximIntegratedAI/ai8x-training) [## GitHub-MaximIntegratedAI/ai8x-培训:ADI 公司 MAX78000 和 MAX78002 AI 器件的模型培训
-
-### 2022 年 8 月 29 日 ADI 公司的 MAX78000/MAX78002 项目由五个资源库组成:从这里开始:顶级文档…
-
-github.com](https://github.com/MaximIntegratedAI/ai8x-training) 
+[](https://github.com/MaximIntegratedAI/ai8x-training)  
 
 一旦数据准备好了，只需要对训练脚本做一些修改来训练新数据，步骤如下:
 -用新数据更新数据文件夹
@@ -120,8 +116,4 @@ github.com](https://github.com/MaximIntegratedAI/ai8x-training)
 
 ## Github 链接
 
-[](https://github.com/Kenneth-Joel/Ornithowav) [## GitHub - Kenneth-Joel/Ornithowav:“鸟类传感器”
-
-### “鸟类传感器”。在 GitHub 上创建一个帐户，为 Kenneth-Joel/Ornithowav 的开发做出贡献。
-
-github.com](https://github.com/Kenneth-Joel/Ornithowav)
+[](https://github.com/Kenneth-Joel/Ornithowav) 

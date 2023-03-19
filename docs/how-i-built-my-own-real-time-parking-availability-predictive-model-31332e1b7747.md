@@ -131,11 +131,7 @@ YYYY-MM-DD HH:MM, Zone X
 
 有关`ColumnTransformer`的更多信息，请查看下面的 scikit-learn 文档:
 
-[](https://scikit-learn.org/stable/auto_examples/compose/plot_column_transformer_mixed_types.html) [## 混合型柱式变压器
-
-### 这个例子说明了如何应用不同的预处理和特征提取管道到不同的子集…
-
-scikit-learn.org](https://scikit-learn.org/stable/auto_examples/compose/plot_column_transformer_mixed_types.html) 
+[](https://scikit-learn.org/stable/auto_examples/compose/plot_column_transformer_mixed_types.html)  
 
 我创建了一个包含`preprocessor`对象和一个分类器的`Pipeline`对象。我选择了`LogisticRegression`作为基线分类器。接下来，我拆分数据集(80%用于训练；20%用于验证)，将训练数据拟合到`Pipeline`对象，并根据验证数据对其进行评估。
 

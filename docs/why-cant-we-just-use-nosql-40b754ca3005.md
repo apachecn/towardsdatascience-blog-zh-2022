@@ -12,11 +12,7 @@
 
 当我想到数据工程师和应用程序开发人员时，非确定性问题就消失了。两组都在处理确定性系统。尽管如此，有时他们的理解似乎有很大的差距。在这里，差异不是源于思维模式，而是源于两个群体的不同侧重点。
 
-[](/how-to-think-about-data-28ec05a75cd2) [## 如何看待数据
-
-### 数据工程师和数据科学家之间的根本区别——他们的思维方式
-
-towardsdatascience.com](/how-to-think-about-data-28ec05a75cd2) 
+[](/how-to-think-about-data-28ec05a75cd2)  
 
 几个月前，我参加了一个数据建模会议，会上我的一位出色的同事向我们介绍了医疗领域中不同的数据模型。数据模型非常复杂，有许多多对多关系、深层层次结构和复杂的相互依赖关系。有人说，为什么我们一定要对数据建模？为什么我们不把它储存在 NoSQL 的数据库里？当人们提到 NoSQL 时，他们通常指的是面向文档的数据库。
 
@@ -48,11 +44,7 @@ towardsdatascience.com](/how-to-think-about-data-28ec05a75cd2)
 
 后端和前端开发人员主要处理 API 响应时间、不同级别的缓存和网络，而数据工程师处理完全不同的数字世界，本质上是以不同的方式跟踪相同的指标。不久前，我写了每个数据工程师都应该知道的数字。这些大部分应该在信封计算的后面，但是我们似乎从来不关心这些。我们应该。
 
-[](/numbers-every-data-engineer-should-know-cc5c1a0bc3ec) [## 每个数据工程师都应该知道的数字
-
-### 数据工程度量的简短指南
-
-towardsdatascience.com](/numbers-every-data-engineer-should-know-cc5c1a0bc3ec) 
+[](/numbers-every-data-engineer-should-know-cc5c1a0bc3ec)  
 
 本文中提到的数字非常笼统，但是数据工程师必须跟踪和优化的实际数字对于他们正在使用的堆栈来说非常具体。例如，如果您正在使用 Spark 处理大量数据，您需要为您的工作找到最佳数量的分区，使用最大数量的可用内核，减少节点间的混乱，等等。
 
@@ -66,8 +58,4 @@ towardsdatascience.com](/numbers-every-data-engineer-should-know-cc5c1a0bc3ec)
 
 如果你觉得我的文章有用，请订阅并查看我的文章🌲 [**Linktree**](linktree.com/kovid) 。你也可以考虑用我的推荐链接购买一个中级会员来支持我。
 
-[](https://kovidrathee.medium.com/membership) [## 通过我的推荐链接加入 Medium—Kovid rat hee
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-kovidrathee.medium.com\](https://kovidrathee.medium.com/membership)
+[](https://kovidrathee.medium.com/membership) 

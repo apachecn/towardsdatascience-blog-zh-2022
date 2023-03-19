@@ -12,11 +12,7 @@
 
 在我以前的文章中，我解释了如何使用 DAX 表达式控制颜色:
 
-[](/how-to-control-colors-with-dax-expressions-in-power-bi-ef7e5c767eff) [## 如何在 Power BI 中使用 DAX 表达式控制颜色
-
-### 我们现在可以添加很长时间的视觉着色规则。但是我们如何使用 DAX 表达式来控制这些颜色呢…
-
-towardsdatascience.com](/how-to-control-colors-with-dax-expressions-in-power-bi-ef7e5c767eff) 
+[](/how-to-control-colors-with-dax-expressions-in-power-bi-ef7e5c767eff)  
 
 在那篇文章中，我引用了 IBCS 规则来选择高对比度的列视觉效果颜色，而不是标准的 Power BI 颜色。
 
@@ -59,11 +55,7 @@ towardsdatascience.com](/how-to-control-colors-with-dax-expressions-in-power-bi-
 
 在我关于 Power BI 和 DAX 的第一篇文章中，我在我的数据表中提到了索引列:
 
-[](/3-ways-to-improve-your-reporting-with-an-expanded-date-table-2d983d76cced) [## 使用扩展的日期表格改进报告的 3 种方法
-
-### 时间是最重要的报道维度。您可以使用一个好的日期表来扩展您的报告功能。
-
-towardsdatascience.com](/3-ways-to-improve-your-reporting-with-an-expanded-date-table-2d983d76cced) 
+[](/3-ways-to-improve-your-reporting-with-an-expanded-date-table-2d983d76cced)  
 
 在本例中，有趣的列是 YearIndex 表。
 基于此列，我们需要为所有行创建一个新列，规则如下:
@@ -225,8 +217,4 @@ Contoso 数据可以在 MIT 许可下自由使用，如这里的[所述](https:/
 我扩大了数据集，使 DAX 引擎工作更努力。
 在线销售表包含 7100 万行(而不是 1260 万行)，零售表包含 1850 万行(而不是 340 万行)。
 
-[](https://medium.com/@salvatorecagliari/membership) [## 通过我的推荐链接加入 Medium-Salvatore Cagliari
-
-### 阅读萨尔瓦托勒·卡利亚里的每一个故事(以及媒体上成千上万的其他作家)。您的会员费直接…
-
-medium.com](https://medium.com/@salvatorecagliari/membership)
+[](https://medium.com/@salvatorecagliari/membership) 

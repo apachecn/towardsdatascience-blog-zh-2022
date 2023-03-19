@@ -213,8 +213,4 @@ graphviz: 0.19.1*
 
 **我加入媒体的个性化链接:**
 
-*[](https://bit.ly/3J6StZI) [## 通过我的推荐链接加入 Medium 索尔·多比拉斯
-
-### 阅读索尔·多比拉斯和媒体上成千上万的其他作家的每一个故事。你的会员费直接支持索尔…
-
-solclover.com](https://bit.ly/3J6StZI)*
+*[](https://bit.ly/3J6StZI) *

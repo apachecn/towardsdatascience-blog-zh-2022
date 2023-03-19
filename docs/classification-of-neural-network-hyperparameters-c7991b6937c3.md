@@ -298,27 +298,15 @@ model.compile(optimizer=RMSprop(learning_rate=0.005),...)***
 
 *   *****参数 Vs 超参数:有什么区别？*****
 
-***[](https://rukshanpramoditha.medium.com/parameters-vs-hyperparameters-what-is-the-difference-5f40e16e2e82) [## 参数 Vs 超参数:区别是什么？
-
-### 用 4 个不同的例子进行讨论
-
-rukshanpramoditha.medium.com](https://rukshanpramoditha.medium.com/parameters-vs-hyperparameters-what-is-the-difference-5f40e16e2e82) 
+***[](https://rukshanpramoditha.medium.com/parameters-vs-hyperparameters-what-is-the-difference-5f40e16e2e82)  
 
 *   **所有你需要知道的关于批量大小、时期和神经网络中的训练步骤**
 
-[](https://rukshanpramoditha.medium.com/all-you-need-to-know-about-batch-size-epochs-and-training-steps-in-a-neural-network-f592e12cdb0a) [## 你所需要知道的关于批量大小、时期和神经网络中的训练步骤
-
-### 并用简单的英语举例说明它们之间的联系
-
-rukshanpramoditha.medium.com](https://rukshanpramoditha.medium.com/all-you-need-to-know-about-batch-size-epochs-and-training-steps-in-a-neural-network-f592e12cdb0a) 
+[](https://rukshanpramoditha.medium.com/all-you-need-to-know-about-batch-size-epochs-and-training-steps-in-a-neural-network-f592e12cdb0a)  
 
 *   **如何为神经网络选择正确的激活函数**
 
-[](/how-to-choose-the-right-activation-function-for-neural-networks-3941ff0e6f9c) [## 如何为神经网络选择合适的激活函数
-
-### 用视觉表征分析不同类型的激活功能——神经网络和深度学习…
-
-towardsdatascience.com](/how-to-choose-the-right-activation-function-for-neural-networks-3941ff0e6f9c) 
+[](/how-to-choose-the-right-activation-function-for-neural-networks-3941ff0e6f9c)  
 
 *   [](https://rukshanpramoditha.medium.com/list/regularization-techniques-for-neural-networks-c4ad21cce618)****(文章收藏)****
 
@@ -336,11 +324,7 @@ towardsdatascience.com](/how-to-choose-the-right-activation-function-for-neural-
 
 ****我希望你喜欢阅读这篇文章。如果你愿意支持我成为一名作家，请考虑 [***注册成为会员***](https://rukshanpramoditha.medium.com/membership) *以获得无限制的媒体访问权限。它只需要每月 5 美元，我会收到你的会员费的一部分。*****
 
-****[](https://rukshanpramoditha.medium.com/membership) [## 通过我的推荐链接加入 Medium
-
-### 阅读 Rukshan Pramoditha(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接…
-
-rukshanpramoditha.medium.com](https://rukshanpramoditha.medium.com/membership) 
+****[](https://rukshanpramoditha.medium.com/membership)  
 
 非常感谢你一直以来的支持！下一篇文章再见。祝大家学习愉快！
 

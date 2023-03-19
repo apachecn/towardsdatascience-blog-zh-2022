@@ -259,16 +259,4 @@
 
 ## *****您可能还喜欢:*****
 
-*****[](/good-data-scientists-dont-gather-project-requirements-they-dig-for-them-c1585ac2ae2d) [## 优秀的数据科学家不会收集项目需求。他们为他们挖掘
-
-### “需求很少停留在表面”
-
-towardsdatascience.com](/good-data-scientists-dont-gather-project-requirements-they-dig-for-them-c1585ac2ae2d) [](https://medium.com/curious/twelve-books-that-made-me-a-better-data-scientist-842d115ef52a) [## 让我成为更好的数据科学家的 12 本书
-
-### …现在在日常工作中帮助我
-
-medium.com](https://medium.com/curious/twelve-books-that-made-me-a-better-data-scientist-842d115ef52a) [](/so-your-stakeholders-want-an-interpretable-machine-learning-model-6b13928892de) [## 所以，你的利益相关者想要一个可解释的机器学习模型？
-
-### 这是你告诉他们的。
-
-towardsdatascience.com](/so-your-stakeholders-want-an-interpretable-machine-learning-model-6b13928892de)*****
+*****[](/good-data-scientists-dont-gather-project-requirements-they-dig-for-them-c1585ac2ae2d)  [](https://medium.com/curious/twelve-books-that-made-me-a-better-data-scientist-842d115ef52a)  [](/so-your-stakeholders-want-an-interpretable-machine-learning-model-6b13928892de) *****

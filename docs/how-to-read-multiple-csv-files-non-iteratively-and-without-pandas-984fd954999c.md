@@ -14,19 +14,11 @@ Pandas 的一个主要警告是它不能扩展到多个 CPU 核心(通常)。本
 
 假设您有数百个 CSV 文件需要读入 python 环境。毫无疑问，你的第一选择是熊猫。另外，即使您没有处理大量的 CSV 文件，我也总是建议您删除所有的 CSV 文件，将它们转换为相对更快、存储效率更高的文件，比如 Pickle、Feather 或 Parquet。
 
-[](/why-i-stopped-dumping-dataframes-to-a-csv-and-why-you-should-too-c0954c410f8f) [## 为什么我停止向 CSV 转储数据帧，为什么您也应该这样做
-
-### 是时候告别 pd.to_csv()和 pd.read_csv()了
-
-towardsdatascience.com](/why-i-stopped-dumping-dataframes-to-a-csv-and-why-you-should-too-c0954c410f8f) 
+[](/why-i-stopped-dumping-dataframes-to-a-csv-and-why-you-should-too-c0954c410f8f)  
 
 如果你必须使用 CSV，我个人不推荐使用熊猫的 CSV 读写功能，你可以在我下面的帖子中找到答案。
 
-[](/its-time-to-say-goodbye-to-pd-read-csv-and-pd-to-csv-27fbc74e84c5) [## 是时候告别 pd.read_csv()和 pd.to_csv()了
-
-### 讨论熊猫的另一个重要警告
-
-towardsdatascience.com](/its-time-to-say-goodbye-to-pd-read-csv-and-pd-to-csv-27fbc74e84c5) 
+[](/its-time-to-say-goodbye-to-pd-read-csv-and-pd-to-csv-27fbc74e84c5)  
 
 因此，回到我们的数百个 CSV 文件的场景，在这里，读取多个 CSV 文件的一种简单方法可以是在一个循环中迭代它们，获得 Pandas 数据帧的列表，并将该列表连接成单个数据帧。这将在下面演示。
 

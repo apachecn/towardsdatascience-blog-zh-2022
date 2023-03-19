@@ -250,11 +250,7 @@ Text.From ( [CustomerKey] )
 
 如果您不了解这种机制，可以阅读我关于上下文转换的文章:
 
-[](/whats-fancy-about-context-transition-in-dax-efb5d5bc4c01) [## DAX 中的语境转换有什么奇特之处
-
-### 行和过滤器上下文是 DAX 中众所周知的概念。但是我们可以通过上下文转换在这两者之间切换。
-
-towardsdatascience.com](/whats-fancy-about-context-transition-in-dax-efb5d5bc4c01) 
+[](/whats-fancy-about-context-transition-in-dax-efb5d5bc4c01)  
 
 首先，我们创建一个调用现有销售度量值的计算列:
 
@@ -320,8 +316,4 @@ Category by Sales =SWITCH( TRUE()
 
 Contoso 数据可以在 MIT 许可下自由使用，如这里的[所述](https://github.com/microsoft/Power-BI-Embedded-Contoso-Sales-Demo)。
 
-[](https://medium.com/@salvatorecagliari/membership) [## 通过我的推荐链接加入 Medium-Salvatore Cagliari
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@salvatorecagliari/membership)
+[](https://medium.com/@salvatorecagliari/membership) 

@@ -22,11 +22,7 @@
 
 本教程中使用的笔记本可以从我的 GitHub 资源库下载，链接如下:
 
-[](https://github.com/andymcdgeo/ExploratoryDataAnalysis_YT) [## GitHub-andymcdgeo/ExploratoryDataAnalysis _ YT:演示 Python EDA 工具的笔记本
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/andymcdgeo/ExploratoryDataAnalysis_YT) 
+[](https://github.com/andymcdgeo/ExploratoryDataAnalysis_YT)  
 
 # 什么是探索性数据分析(EDA)？
 

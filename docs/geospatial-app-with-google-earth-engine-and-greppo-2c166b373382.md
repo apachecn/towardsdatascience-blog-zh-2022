@@ -22,11 +22,7 @@ Greppo 是弥合这一差距的完美工具。
 
 以下是关于 Greppo 及其使用方法的快速教程:
 
-[](/build-a-geospatial-dashboard-in-python-using-greppo-60aff44ba6c9) [## 使用 Greppo 在 Python 中构建地理空间仪表板
-
-### 缺乏前端、后端和 web 开发经验会限制用 Python 制作 web 应用程序。不再是了…
-
-towardsdatascience.com](/build-a-geospatial-dashboard-in-python-using-greppo-60aff44ba6c9) 
+[](/build-a-geospatial-dashboard-in-python-using-greppo-60aff44ba6c9)  
 
 接下来，让我们设置 Python 环境来安装依赖项。要理解什么是 Python 环境以及如何设置它，请阅读这篇。将以下包安装到 Python 环境中。
 

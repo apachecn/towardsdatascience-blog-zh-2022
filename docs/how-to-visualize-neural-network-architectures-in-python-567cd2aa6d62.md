@@ -41,15 +41,7 @@ from sklearn.metrics import confusion_matrixfrom sklearn.model_selection import 
 
 一些有助于从头开始探索 ANNs & CNNs 更多内容的链接。
 
-[](/convolution-neural-network-for-image-processing-using-keras-dc3429056306) [## 用于图像处理的卷积神经网络——使用 Keras
-
-### Python 中使用 CNN 的综合指南
-
-towardsdatascience.com](/convolution-neural-network-for-image-processing-using-keras-dc3429056306) [](/a-beginners-guide-to-artificial-neural-network-using-tensor-flow-keras-41ccd575a876) [## 使用张量流和 Keras 的人工神经网络初学者指南
-
-### 使用人工神经网络构建欺诈检测模型&使用 RandomizedSearchCV 微调超参数
-
-towardsdatascience.com](/a-beginners-guide-to-artificial-neural-network-using-tensor-flow-keras-41ccd575a876) 
+[](/convolution-neural-network-for-image-processing-using-keras-dc3429056306)  [](/a-beginners-guide-to-artificial-neural-network-using-tensor-flow-keras-41ccd575a876)  
 
 # 4.建立卷积神经网络模型
 

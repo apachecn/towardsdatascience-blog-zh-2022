@@ -79,24 +79,4 @@ import** **DummyModel****model** **=** **DummyModel()**
 
 ## 参考
 
-[](https://arxiv.org/abs/2111.05972) [## Amazon SageMaker 模型并行性:大型模型训练的通用灵活框架
-
-### 随着深度学习模型的规模迅速增长，需要针对大模型训练的系统级解决方案。我们…
-
-arxiv.org](https://arxiv.org/abs/2111.05972)  [## 单机模型并行最佳实践- PyTorch 教程 1.12.1+cu102 文档
-
-### 模型并行广泛应用于分布式训练技术中。以前的帖子解释了如何使用数据并行…
-
-pytorch.org](https://pytorch.org/tutorials/intermediate/model_parallel_tutorial.html) [](https://aws.amazon.com/blogs/machine-learning/deploy-large-models-on-amazon-sagemaker-using-djlserving-and-deepspeed-model-parallel-inference/) [## 使用 DJLServing 和 DeepSpeed 模型并行推理在 Amazon SageMaker 上部署大型模型|…
-
-### 近几年来，自然语言处理领域发展迅速。虽然硬件已经…
-
-aws.amazon.com](https://aws.amazon.com/blogs/machine-learning/deploy-large-models-on-amazon-sagemaker-using-djlserving-and-deepspeed-model-parallel-inference/)  [## 可用的 SageMaker Studio 实例类型
-
-### 以下亚马逊弹性计算云(Amazon EC2)实例类型可用于 SageMaker Studio…
-
-docs.aws.amazon.com](https://docs.aws.amazon.com/sagemaker/latest/dg/notebooks-available-instance-types.html) [](https://aws.amazon.com/blogs/machine-learning/train-175-billion-parameter-nlp-models-with-model-parallel-additions-and-hugging-face-on-amazon-sagemaker/) [## 训练 175+10 亿个参数的 NLP 模型，在 Amazon 上使用模型并行添加和拥抱脸…
-
-### 近几年来，自然语言处理领域发展迅速。虽然硬件已经…
-
-aws.amazon.com](https://aws.amazon.com/blogs/machine-learning/train-175-billion-parameter-nlp-models-with-model-parallel-additions-and-hugging-face-on-amazon-sagemaker/)
+[](https://arxiv.org/abs/2111.05972)    [](https://aws.amazon.com/blogs/machine-learning/deploy-large-models-on-amazon-sagemaker-using-djlserving-and-deepspeed-model-parallel-inference/)    [](https://aws.amazon.com/blogs/machine-learning/train-175-billion-parameter-nlp-models-with-model-parallel-additions-and-hugging-face-on-amazon-sagemaker/) 

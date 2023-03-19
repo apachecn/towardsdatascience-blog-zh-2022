@@ -109,11 +109,7 @@ rdd_set.take(3)
 
 我从美国的[维基百科页面复制了一些文本，用一个简单的记事本制作了一个文本文件。该文件保存为 usa.txt。您可以通过以下链接下载该文本文件:](https://en.wikipedia.org/wiki/United_States)
 
-[](https://github.com/rashida048/Big-Data-Anlytics-Pyspark/blob/main/usa.txt) [## 大数据分析中心-Pyspark/USA . txt at main rashida 048/大数据分析中心-py spark
-
-### 此文件包含双向 Unicode 文本，其解释或编译可能与下面显示的不同…
-
-github.com](https://github.com/rashida048/Big-Data-Anlytics-Pyspark/blob/main/usa.txt) 
+[](https://github.com/rashida048/Big-Data-Anlytics-Pyspark/blob/main/usa.txt)  
 
 以下是如何使用文本文件创建 RDD:
 
@@ -606,24 +602,4 @@ rda_11.fullOuterJoin(rdb_22).collect()
 
 ## 更多阅读
 
-[](/regression-in-tensorflow-using-both-sequential-and-function-apis-314e74b537ca) [## TensorFlow 中使用顺序 API 和函数 API 的回归
-
-### 演示几种不同类型的模型结构
-
-towardsdatascience.com](/regression-in-tensorflow-using-both-sequential-and-function-apis-314e74b537ca) [](/simple-explanation-on-how-decision-tree-algorithm-makes-decisions-34f56be344e9) [## 浅谈决策树算法如何决策
-
-### 决策树算法背后的直觉
-
-towardsdatascience.com](/simple-explanation-on-how-decision-tree-algorithm-makes-decisions-34f56be344e9) [](https://pub.towardsai.net/data-analysis-91a38207c92b) [## 数据分析
-
-### Python 中数据科学家/分析师日常工作中的常见数据清理任务
-
-pub.towardsai.net](https://pub.towardsai.net/data-analysis-91a38207c92b) [](/understanding-regularization-in-plain-language-l1-and-l2-regularization-2991b9c54e9a) [## 用通俗的语言理解正则化:L1 和 L2 正则化
-
-### 在数据科学访谈中经常被问到
-
-towardsdatascience.com](/understanding-regularization-in-plain-language-l1-and-l2-regularization-2991b9c54e9a) [](/exploratory-data-analysis-with-some-cool-visualizations-in-pythons-matplotlib-and-seaborn-library-99dde20d98bf) [## 利用 Python 的 Matplotlib 和 Seaborn 中的高级可视化进行探索性数据分析…
-
-### 探索国际足联数据集
-
-towardsdatascience.com](/exploratory-data-analysis-with-some-cool-visualizations-in-pythons-matplotlib-and-seaborn-library-99dde20d98bf)
+[](/regression-in-tensorflow-using-both-sequential-and-function-apis-314e74b537ca)  [](/simple-explanation-on-how-decision-tree-algorithm-makes-decisions-34f56be344e9)  [](https://pub.towardsai.net/data-analysis-91a38207c92b)  [](/understanding-regularization-in-plain-language-l1-and-l2-regularization-2991b9c54e9a)  [](/exploratory-data-analysis-with-some-cool-visualizations-in-pythons-matplotlib-and-seaborn-library-99dde20d98bf) 

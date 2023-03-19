@@ -116,11 +116,7 @@ Landsat 系列卫星传感器是运行时间最长的地球观测项目之一，
 
 [https://samratduttaofficial.medium.com/membership](https://samratduttaofficial.medium.com/membership)
 
-[](https://samratduttaofficial.medium.com/membership) [## 通过我的推荐链接加入媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-samratduttaofficial.medium.com](https://samratduttaofficial.medium.com/membership) 
+[](https://samratduttaofficial.medium.com/membership)  
 
 这篇文章是我，萨姆拉特·杜塔和我的朋友[吉妮娅·帕尔文](https://www.linkedin.com/in/jinia-parvin-9a2b06211/)写的。我们双方的信息如下。
 

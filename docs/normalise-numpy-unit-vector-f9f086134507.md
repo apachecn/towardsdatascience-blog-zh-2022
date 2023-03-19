@@ -114,28 +114,12 @@ from scipy import linalg**array_1d_norm = array_1d / linalg.norm(array_1d, ord=1
 
 在我的另一篇关于 Medium 的文章中，您还可以了解到另一个关于数据预处理和转换的类似概念，称为**特性缩放**。
 
-[](/feature-scaling-and-normalisation-in-a-nutshell-5319af86f89b) [## 简而言之，特征缩放和标准化
-
-### 为什么、如何以及何时调整要素的比例
-
-towardsdatascience.com](/feature-scaling-and-normalisation-in-a-nutshell-5319af86f89b) 
+[](/feature-scaling-and-normalisation-in-a-nutshell-5319af86f89b)  
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership) 
+[](https://gmyrianthous.medium.com/membership)  
 
 **你可能也会喜欢**
 
-[](/random-seed-numpy-786cf7876a5f) [## random.seed 在 NumPy 中做什么
-
-### 理解在 Python 中使用 NumPy 生成伪随机结构时如何创建可再现的结果
-
-towardsdatascience.com](/random-seed-numpy-786cf7876a5f) [](/scikit-learn-vs-sklearn-6944b9dc1736) [## Scikit-Learn 和 Sklearn 有区别吗？
-
-### Python 中的 scikit-learn vs sklearn
-
-towardsdatascience.com](/scikit-learn-vs-sklearn-6944b9dc1736)
+[](/random-seed-numpy-786cf7876a5f)  [](/scikit-learn-vs-sklearn-6944b9dc1736) 

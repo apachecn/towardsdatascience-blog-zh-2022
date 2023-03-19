@@ -79,11 +79,7 @@
 如果你也喜欢创建你自己的自定义语言模型并把它发布在 Hugging Face 上，请继续创建新的模型并让社区可以使用它们。
 如果你想看看我在太空物品(遥感器、卫星……)方面训练过的模型，这就是:
 
-[](https://huggingface.co/Chramer/remote-sensing-distilbert-cased) [## 照相机/遥感蒸馏器外壳拥抱脸
-
-### 地球观测领域正在日益扩大。越来越多的数据科学家对这个领域感兴趣…
-
-huggingface.co](https://huggingface.co/Chramer/remote-sensing-distilbert-cased) 
+[](https://huggingface.co/Chramer/remote-sensing-distilbert-cased)  
 
 ## 结束了
 

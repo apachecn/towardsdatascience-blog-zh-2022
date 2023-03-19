@@ -22,11 +22,7 @@
 
 哦，对了，还有 SML，一种我只是模糊地熟悉的语言；不过，这种实现可能有点过火，因为到处都有函数定义。此外，如果您想看我努力安装这种语言，然后在编程时努力完成每一步，甚至到了我不知道如何将两个整数相除的地步，我实际上已经写了一篇关于尝试这种语言的文章，您可以在这里阅读:
 
-[](/getting-introduced-to-sml-a-weird-polymorphic-language-originated-in-1983-797ff9d6622e) [## SML 入门:一种起源于 1983 年的怪异多态语言
-
-### 尝试用 SML 语言编写和编译一些基本代码
-
-towardsdatascience.com](/getting-introduced-to-sml-a-weird-polymorphic-language-originated-in-1983-797ff9d6622e) 
+[](/getting-introduced-to-sml-a-weird-polymorphic-language-originated-in-1983-797ff9d6622e)  
 
 > 请不要嘲笑我的绝望。
 
@@ -93,21 +89,13 @@ ourfunc()5
 
 闭包函数也是我的包 OddFrames.jl 中面向对象语法的主干，如果您想查看在该包中使用它们的上下文，可以在这里查看构造函数的源代码:
 
-[](https://github.com/ChifiSource/OddFrames.jl/blob/last-0.0.7-patch/src/type/frame.jl) [## OddFrames.jl/frame.jl 终于-0 . 0 . 7-补丁 ChifiSource/OddFrames.jl
-
-### 此文件包含双向 Unicode 文本，其解释或编译可能与下面显示的不同…
-
-github.com](https://github.com/ChifiSource/OddFrames.jl/blob/last-0.0.7-patch/src/type/frame.jl) 
+[](https://github.com/ChifiSource/OddFrames.jl/blob/last-0.0.7-patch/src/type/frame.jl)  
 
 # 不同语言的实现
 
 现在我们已经了解了闭包函数的基本知识，以及它们的技术定义，让我们看一些用不同语言实现闭包函数的例子。我们列表中的第一个是 Python，这有点奇怪。与 Java 类似，Python 使用 lambda 语法来定义匿名函数，这非常方便。只要想想作为一名数据科学家，您在另一个函数中编写匿名函数的频率，就可以看出这些函数有多有用。另外，我将要展示的所有代码都可以在我的随机代码库中的文件中找到，这里有一个链接:
 
-[](https://github.com/emmettgb/Random_Code/tree/main/closure_examples) [## 主 emmettgb/Random_Code 上的 Random_Code/closure_examples
-
-### 只是一堆随机的斑点。在 GitHub 上创建一个帐户，为 emmettgb/Random_Code 开发做贡献。
-
-github.com](https://github.com/emmettgb/Random_Code/tree/main/closure_examples) 
+[](https://github.com/emmettgb/Random_Code/tree/main/closure_examples)  
 
 无论如何，这是我们之前用 Python 复制的例子:
 
@@ -119,11 +107,7 @@ ourfunc()5
 
 这个例子很容易理解。我们用 lambda 创建函数 h，然后返回它。Python 让这变得非常简单，只需理解 lambda 就能理解这种语法。顺便说一句，如果你对 lambda 没有很好的理解，我确实写了一整篇关于它的文章！这里有个链接！：
 
-[](/scientific-python-with-lambda-b207b1ddfcd1) [## 带 Lambda 的科学 Python
-
-### Python Lambda 函数的正确用法:Python 科学编程的最佳语法。
-
-towardsdatascience.com](/scientific-python-with-lambda-b207b1ddfcd1) 
+[](/scientific-python-with-lambda-b207b1ddfcd1)  
 
 基本上，lambda 为 Python 做的就是允许语言创建匿名函数。朱莉娅也有这种能力，可能有更多的方法来创造它们，但这里有两个例子:
 
@@ -160,11 +144,7 @@ typedef int (*fptr)();fptr example2 (int n)
 
 既然我们已经不再将闭包视为一个概念，那么请允许我向您展示一个实例，我在 Julia 中使用闭包做了一些非常棒的事情。我将要展示的代码是我的 Toolips.jl 项目的一部分。这个项目现在还很早，因为我现在有太多事情要做，而且我在空闲时间还在做的其他开源包的数量**多得令人应接不暇。**该项目旨在成为一个模块化的网络开发框架，既作为后端工具又作为前端工具，但通过元编程功能 JavaScript 完成所有前端工作。无论如何，如果你有兴趣观看这个项目或者给它一颗星(我很感激！)下面是 Github 资源库的链接:
 
-[](https://github.com/ChifiSource/Toolips.jl) [## GitHub - ChifiSource/Toolips.jl:一个基于 Julia 的 JavaScript 兼容性 Web 开发框架
-
-### toolips.js 构建在一个功能性编程的反应式可观察库之上，该库通过 JavaScript 表达式进行评估…
-
-github.com](https://github.com/ChifiSource/Toolips.jl) 
+[](https://github.com/ChifiSource/Toolips.jl)  
 
 无论如何，我想用这个包来描绘两个核心思想，我认为它们都是网络开发的好主意。
 
@@ -244,11 +224,7 @@ end
 
 要回答第一个问题，用 HTTP.Router 处理许多独立的路由要困难得多。此外，流的处理不可能像在这个上下文中那样干净，在某些情况下，定制流甚至根本不可能。为了回答第二个问题，老实说，在 Julia 的 web 开发框架方面，我们真的很有限。对于 Julia 中的这个任务，我们可以选择 Mux.jl 和 Genie.jl。以下是 Mux 的文档:
 
- [## Mux.jl
-
-### Mux.jl 为您的 Julia web 服务提供了一些闭包。Mux 允许您根据高度模块化和…
-
-docs.juliahub.com](https://docs.juliahub.com/Mux/cs9xb/0.7.4/) 
+  
 
 > 对，没错，就是这样。
 

@@ -20,11 +20,7 @@
 
 在上一篇文章中，我展示了如何使用 pandas 引擎通过 SQL 查询 pandas 数据帧。
 
-[](/introducing-fuguesql-sql-for-pandas-spark-and-dask-dataframes-63d461a16b27) [## 介绍 FugueSQL —用于 Pandas、Spark 和 Dask 数据帧的 SQL
-
-### 用于数据科学和分析的端到端 SQL 界面
-
-towardsdatascience.com](/introducing-fuguesql-sql-for-pandas-spark-and-dask-dataframes-63d461a16b27) 
+[](/introducing-fuguesql-sql-for-pandas-spark-and-dask-dataframes-63d461a16b27)  
 
 在本文中，我将向您展示如何使用 DuckDB 引擎来加速您的查询。
 
@@ -214,31 +210,15 @@ SQL 不允许您绘制输出。然而，我们可以用 Python 创建一个绘�
 
 随意发挥，并在这里叉这篇文章的源代码:
 
-[](https://github.com/khuyentran1401/Data-science/blob/master/productive_tools/Fugue_and_Duckdb/Fugue_and_Duckdb.ipynb) [## 数据科学/Fugue _ and _ duck db . ipynb at master khuyentran 1401/数据科学
-
-### 收集有用的数据科学主题以及代码和文章-Data-science/Fugue _ and _ duck db . ipynb at master…
-
-github.com](https://github.com/khuyentran1401/Data-science/blob/master/productive_tools/Fugue_and_Duckdb/Fugue_and_Duckdb.ipynb) 
+[](https://github.com/khuyentran1401/Data-science/blob/master/productive_tools/Fugue_and_Duckdb/Fugue_and_Duckdb.ipynb)  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的数据科学工具。你可以通过 [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1401/) 和 [Twitter](https://twitter.com/KhuyenTran16) 与我联系。
 
 如果你想查看我写的所有文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/write-clean-python-code-using-pipes-1239a0f3abf5) [## 使用管道编写干净的 Python 代码
+[](/write-clean-python-code-using-pipes-1239a0f3abf5)  [](/introducing-fuguesql-sql-for-pandas-spark-and-dask-dataframes-63d461a16b27)  [](/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e) [## 3 个跟踪和可视化 Python 代码执行的工具
 
-### 一种简洁明了的处理迭代的方法
-
-towardsdatascience.com](/write-clean-python-code-using-pipes-1239a0f3abf5) [](/introducing-fuguesql-sql-for-pandas-spark-and-dask-dataframes-63d461a16b27) [## 介绍 FugueSQL —用于 Pandas、Spark 和 Dask 数据帧的 SQL
-
-### 用于数据科学和分析的端到端 SQL 界面
-
-towardsdatascience.com](/introducing-fuguesql-sql-for-pandas-spark-and-dask-dataframes-63d461a16b27) [](/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e) [## 3 个跟踪和可视化 Python 代码执行的工具
-
-towardsdatascience.com](/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e) [](/bentoml-create-an-ml-powered-prediction-service-in-minutes-23d135d6ca76) [## BentoML:在几分钟内创建一个 ML 驱动的预测服务
-
-### 用 Python 封装和部署您的 ML 模型
-
-towardsdatascience.com](/bentoml-create-an-ml-powered-prediction-service-in-minutes-23d135d6ca76) 
+towardsdatascience.com](/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e) [](/bentoml-create-an-ml-powered-prediction-service-in-minutes-23d135d6ca76)  
 
 # 参考
 

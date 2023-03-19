@@ -72,11 +72,7 @@
 
 > 如何找到一个**因果图**当**不知道**的时候呢？
 
-[](/beyond-the-basics-level-up-your-causal-discovery-skills-in-python-now-2023-cabe0b938715) [## 超越基础！提升你在 Python 中的因果发现技能(2023)
-
-### …并释放 Python 中最被低估的因果发现包的潜力！
-
-towardsdatascience.com](/beyond-the-basics-level-up-your-causal-discovery-skills-in-python-now-2023-cabe0b938715) 
+[](/beyond-the-basics-level-up-your-causal-discovery-skills-in-python-now-2023-cabe0b938715)  
 
 ## **后门标准**
 
@@ -106,11 +102,7 @@ D[**oWhy**](https://py-why.github.io/dowhy/v0.8/)**(Sharma&ki ciman，2020)是�
 
 > **寻找**推荐**关于**因果关系的书籍**阅读？**
 
-**[](https://aleksander-molak.medium.com/yes-six-causality-books-that-will-get-you-from-zero-to-advanced-2023-f4d08718a2dd) [## 是啊！六本因果关系书，让你从零到高级(2023)
-
-### …如果您愿意，您可以完全免费获得其中的 3 个！🤗
-
-aleksander-molak.medium.com](https://aleksander-molak.medium.com/yes-six-causality-books-that-will-get-you-from-zero-to-advanced-2023-f4d08718a2dd)** 
+**[](https://aleksander-molak.medium.com/yes-six-causality-books-that-will-get-you-from-zero-to-advanced-2023-f4d08718a2dd) ** 
 
 # **让我们得到数据**
 
@@ -272,11 +264,7 @@ aleksander-molak.medium.com](https://aleksander-molak.medium.com/yes-six-causali
 
 > ****本文的**笔记本**和**环境文件**在这里:****
 
-****[](https://github.com/AlxndrMlk/blogs-code/tree/main/Causal%20Python%203%20-%20Simple%20Techniques%20to%20Jump-Start%20Your%20Causal%20Inference%20Journey%20Today) [## 博客-代码/因果 Python 3 -简单的技术，今天就开始你的因果推理之旅…
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/AlxndrMlk/blogs-code/tree/main/Causal%20Python%203%20-%20Simple%20Techniques%20to%20Jump-Start%20Your%20Causal%20Inference%20Journey%20Today) 
+****[](https://github.com/AlxndrMlk/blogs-code/tree/main/Causal%20Python%203%20-%20Simple%20Techniques%20to%20Jump-Start%20Your%20Causal%20Inference%20Journey%20Today)  
 
 # 脚注
 
@@ -310,10 +298,6 @@ ________________
 
 ❤️ *对获取更多这样的内容感兴趣吗？使用此链接加入:*
 
-[](https://aleksander-molak.medium.com/membership) [## 通过推荐链接加入 Medium 亚历山大·莫拉克
-
-### 阅读亚历山大·莫拉克(Aleksander Molak)的每一个故事(以及媒体上成千上万的其他作家)。您的会员费直接…
-
-aleksander-molak.medium.com](https://aleksander-molak.medium.com/membership) 
+[](https://aleksander-molak.medium.com/membership)  
 
 > 这篇文章中的一些书籍链接是亚马逊会员链接，通过使用这些链接购买，你将支持作者(或他们的家庭)和我的写作(我将从你的每一笔购买中获得一小笔费用)。谢谢大家！****

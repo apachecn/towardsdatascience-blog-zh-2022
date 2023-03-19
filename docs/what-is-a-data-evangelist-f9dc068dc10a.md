@@ -70,20 +70,4 @@
 
 **下面是一些你可能会喜欢的帖子**
 
-**[](/3-great-slack-data-science-communities-to-join-this-year-9d1bb1f51682) [## 今年将加入 3 个大型 Slack 数据科学社区
-
-### 我在哪里可以与其他数据科学家、ML 从业者和其他数据爱好者建立电子联系
-
-towardsdatascience.com](/3-great-slack-data-science-communities-to-join-this-year-9d1bb1f51682) [](/categorizing-customer-support-requests-7c285a9cf974) [## 分类客户支持请求
-
-### 以及如何通过众包来实现
-
-towardsdatascience.com](/categorizing-customer-support-requests-7c285a9cf974) [](/human-in-the-loop-in-machine-translation-systems-bdf3fe82bfa3) [## 机器翻译系统中的人在回路
-
-### 使用众包评估机器翻译质量
-
-towardsdatascience.com](/human-in-the-loop-in-machine-translation-systems-bdf3fe82bfa3) [](/how-to-successfully-add-large-data-sets-to-google-drive-130beb320f1a) [## 如何成功将大型数据集添加到 Google Drive
-
-### 并在谷歌实验室中使用它们…
-
-towardsdatascience.com](/how-to-successfully-add-large-data-sets-to-google-drive-130beb320f1a)**
+**[](/3-great-slack-data-science-communities-to-join-this-year-9d1bb1f51682)  [](/categorizing-customer-support-requests-7c285a9cf974)  [](/human-in-the-loop-in-machine-translation-systems-bdf3fe82bfa3)  [](/how-to-successfully-add-large-data-sets-to-google-drive-130beb320f1a) **

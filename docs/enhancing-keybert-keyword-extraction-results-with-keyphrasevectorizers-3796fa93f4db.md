@@ -128,19 +128,7 @@ KeyBERT 可以通过`pip install keybert`安装。
 
 # 来源
 
-[](https://github.com/TimSchopf/KeyphraseVectorizers) [## GitHub-TimSchopf/keyphrasevectors:一组向量器，用…
-
-### 一组向量器，从一组文本文档中提取带有词性模式的关键短语，并转换…
-
-github.com](https://github.com/TimSchopf/KeyphraseVectorizers) [](https://github.com/MaartenGr/KeyBERT) [## GitHub - MaartenGr/KeyBERT:用 BERT 提取最少的关键字
-
-### KeyBERT 是一种简单易用的关键字提取技术，它利用 BERT 嵌入来创建关键字和…
-
-github.com](https://github.com/MaartenGr/KeyBERT) [](https://arxiv.org/abs/2210.05245) [## PatternRank:利用预训练的语言模型和无监督关键短语的词性…
-
-### 关键短语提取是从给定文本中自动选择一小组最相关短语的过程…
-
-arxiv.org](https://arxiv.org/abs/2210.05245) 
+[](https://github.com/TimSchopf/KeyphraseVectorizers)  [](https://github.com/MaartenGr/KeyBERT)  [](https://arxiv.org/abs/2210.05245)  
 
 米哈尔恰和塔劳(2004 年)。 [TextRank:将 or-
 der 带入文本。](https://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf)2004 年自然语言处理经验方法会议论文集-

@@ -16,19 +16,11 @@
 
 这个月，是时候扭转乾坤，成为一名忍者了。一路上我都在说“为什么我不把别人也做了呢？”。因此，我在这里列出了一些最酷但罕见的 NumPy 函数，当使用它们时，肯定会让任何阅读您的代码的人大吃一惊。
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-BEXGBoost
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。支持我的工作，给我买一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+[](https://ibexorigin.medium.com/membership)  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex) [## 阿尔法信号|机器学习的极品。艾总结的。
-
-### 留在循环中，不用花无数时间浏览下一个突破；我们的算法识别…
-
-alphasignal.ai](https://alphasignal.ai/?referrer=Bex) 
+[](https://alphasignal.ai/?referrer=Bex)  
 
 # 1️⃣.np.full_like
 
@@ -266,32 +258,8 @@ NumPy 的`random`模块有很多伪随机数发生器可供选择。除了我最
 
 好吧，我在介绍中撒了点谎。我并不真正钦佩那些很好地使用 NumPy 的人。其实我很佩服任何比我更会用某个库或者工具的人。所以，我写的每一篇文章都是我试图推动自己，看看使用更有经验的人如此精心利用的东西是什么感觉。
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium。
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。你可以给我买一个 coffee☕，用你的…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) [](https://ibexorigin.medium.com/subscribe) [## 每当 Bex T .发布时收到电子邮件。
-
-### 每当 Bex T .发布时收到电子邮件。注册后，如果您还没有中型帐户，您将创建一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/subscribe) 
+[](https://ibexorigin.medium.com/membership)  [](https://ibexorigin.medium.com/subscribe)  
 
 ## 在你离开之前——我的读者喜欢这些。你为什么不去看看？
 
-[](https://ibexorigin.medium.com/28-subtle-weekly-machine-learning-tricks-and-gem-resources-5-177f95be31c4) [## 28 个微妙的每周机器学习技巧和宝石资源，第 5 位
-
-### 8 月 8 日至 14 日发行
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/28-subtle-weekly-machine-learning-tricks-and-gem-resources-5-177f95be31c4) [](/20-python-gems-buried-in-the-installation-waiting-to-be-found-96034cad4d15) [## 20 个 Python Gem 库埋藏在装置中等待被发现
-
-### 前所未有地了解 Python 的标准库
-
-towardsdatascience.com](/20-python-gems-buried-in-the-installation-waiting-to-be-found-96034cad4d15) [](/comprehensive-tutorial-on-using-confusion-matrix-in-classification-92be4d70ea18) [## 关于在分类中使用混淆矩阵的综合教程
-
-### 学习使用混淆矩阵，根据问题的重要性来控制模型输出
-
-towardsdatascience.com](/comprehensive-tutorial-on-using-confusion-matrix-in-classification-92be4d70ea18) [](/one-stop-tutorial-on-all-cross-validation-techniques-you-can-should-use-7e1645fb703c) [## 你可以(应该)使用的所有交叉验证技术的一站式教程
-
-### 作为一名数据科学家，你需要知道的所有简历程序，解释如下
-
-towardsdatascience.com](/one-stop-tutorial-on-all-cross-validation-techniques-you-can-should-use-7e1645fb703c)
+[](https://ibexorigin.medium.com/28-subtle-weekly-machine-learning-tricks-and-gem-resources-5-177f95be31c4)  [](/20-python-gems-buried-in-the-installation-waiting-to-be-found-96034cad4d15)  [](/comprehensive-tutorial-on-using-confusion-matrix-in-classification-92be4d70ea18)  [](/one-stop-tutorial-on-all-cross-validation-techniques-you-can-should-use-7e1645fb703c) 

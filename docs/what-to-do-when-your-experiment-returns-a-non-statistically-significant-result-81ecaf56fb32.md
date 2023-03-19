@@ -85,18 +85,6 @@ Generally speaking — to avoid this binary approach, [文献](https://onlinelib
 
 **如果你想更多地了解我，这里有几篇你可能会喜欢的文章**:
 
-[](/7-tips-to-avoid-public-embarrassment-as-a-data-analyst-caec8f701e42) [## 让您的数据分析更加稳健的 7 个技巧
-
-### 增强对结果的信心，建立更强大的个人品牌
-
-towardsdatascience.com](/7-tips-to-avoid-public-embarrassment-as-a-data-analyst-caec8f701e42) [](/how-to-build-a-successful-dashboard-359c8cb0f610) [## 如何构建成功的仪表板
-
-### 一份清单，来自某个制造了几个不成功产品的人
-
-towardsdatascience.com](/how-to-build-a-successful-dashboard-359c8cb0f610) [](https://medium.com/@jolecoco/how-to-choose-which-data-projects-to-work-on-c6b8310ac04e) [## 如何…选择要处理的数据项目
-
-### 如果你有合理利用时间的方法，你可以优化你创造的价值。
-
-medium.com](https://medium.com/@jolecoco/how-to-choose-which-data-projects-to-work-on-c6b8310ac04e) 
+[](/7-tips-to-avoid-public-embarrassment-as-a-data-analyst-caec8f701e42)  [](/how-to-build-a-successful-dashboard-359c8cb0f610)  [](https://medium.com/@jolecoco/how-to-choose-which-data-projects-to-work-on-c6b8310ac04e)  
 
 [(1)重要的真诚:报告非显著性统计结果](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jan.14283)，Denis C. Visentin，Michelle Cleary，Glenn E. Hunt

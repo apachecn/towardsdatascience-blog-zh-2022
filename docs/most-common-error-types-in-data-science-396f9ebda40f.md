@@ -201,26 +201,10 @@ model.fit(X, y)-----------------------------------------------------------------
 
 ## 参考
 
-[](https://www.tutorialsteacher.com/python/error-types-in-python) [## Python 中的错误类型
-
-### Python 程序中最常见的错误原因是某个语句不符合…
-
-www.tutorialsteacher.com](https://www.tutorialsteacher.com/python/error-types-in-python)  [## 8.错误和异常- Python 3.10.2 文档
-
-### 到目前为止，错误消息还没有被提及，但是如果你已经尝试过这些例子，你可能已经…
-
-docs.python.org](https://docs.python.org/3/tutorial/errors.html) [](https://github.com/gurezende/Studying/tree/master/Python/errors) [## 学习/Python/gure zende 大师的错误/学习
-
-### 这是我对新包的测试和研究的存储库
-
-github.com](https://github.com/gurezende/Studying/tree/master/Python/errors) 
+[](https://www.tutorialsteacher.com/python/error-types-in-python)    [](https://github.com/gurezende/Studying/tree/master/Python/errors)  
 
 如果这个内容有意思就关注我吧。
 
-[](https://gustavorsantos.medium.com/) [## 古斯塔沃·桑托斯-中等
-
-### 阅读古斯塔夫·桑托斯在媒介上的作品。数据科学家。我从数据中提取见解，以帮助个人和公司…
-
-gustavorsantos.medium.com](https://gustavorsantos.medium.com/) 
+[](https://gustavorsantos.medium.com/)  
 
 如果你想订阅 Medium，这里有[我的推荐链接](https://gustavorsantos.medium.com/membership)。

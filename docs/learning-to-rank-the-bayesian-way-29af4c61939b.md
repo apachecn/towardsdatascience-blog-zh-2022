@@ -28,11 +28,7 @@
 
 在本文中，我将向您展示如何在 PyMC 中构建一个简单的**贝叶斯模型**来解决这个问题。如果你不知道我在说什么，可以看看我对使用 PyMC3 的贝叶斯世界的介绍，PyMC 的前身具有几乎相同的语法。
 
-[](/conducting-bayesian-inference-in-python-using-pymc3-d407f8d934a5) [## 使用 PyMC3 在 Python 中进行贝叶斯推理
-
-### 重温硬币的例子，并使用 PyMC3 计算解决它。
-
-towardsdatascience.com](/conducting-bayesian-inference-in-python-using-pymc3-d407f8d934a5) 
+[](/conducting-bayesian-inference-in-python-using-pymc3-d407f8d934a5)  
 
 # 布拉德利-特里模型
 
@@ -184,11 +180,7 @@ with pm.Model() as model:
 
 ***为什么不做** [**通过这个链接**](https://dr-robert-kuebler.medium.com/membership) **？这将对我帮助很大！😊***
 
-*[](https://dr-robert-kuebler.medium.com/membership) [## 通过我的推荐链接加入灵媒——罗伯特·库伯勒博士
-
-### 谢谢你过来支持我！你的会员费直接支持我和你看的其他作家。你会…
-
-dr-robert-kuebler.medium.com](https://dr-robert-kuebler.medium.com/membership) 
+*[](https://dr-robert-kuebler.medium.com/membership)  
 
 透明地说，给你的价格不变，但大约一半的订阅费直接归我。
 

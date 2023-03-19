@@ -264,20 +264,4 @@ plot(
 
 我喜欢 Python 语言和像 Seaborn 这样的数据可视化库。也就是说，以我的拙见，牛虻是 Julia 语言中最通用的数据可视化库之一(除此之外，还有其他类似的 [Plots](https://docs.juliaplots.org/stable/) 、 [Makie](https://github.com/JuliaPlots/Makie.jl) 和 [Vega-Lite](https://vega.github.io/vega-lite/) )。希望这篇介绍是有用的，特别是对于那些来自 Python 和使用 Seaborn 的人。如果你对与 [Makie](https://github.com/JuliaPlots/Makie.jl) 包的对比故事感兴趣，请告诉我。
 
-[](/how-to-setup-project-environments-in-julia-ec8ae73afe9c) [## 如何在 Julia 中设置项目环境
-
-### 介绍 Julia 的内置包管理器，用于生成项目环境和管理包…
-
-towardsdatascience.com](/how-to-setup-project-environments-in-julia-ec8ae73afe9c) [](/getting-started-with-data-analysis-in-julia-421ce0032916) [## Julia 中的数据分析入门
-
-### 关于 Julia 中数据分析入门的温和介绍性指南。
-
-towardsdatascience.com](/getting-started-with-data-analysis-in-julia-421ce0032916) [](/reactive-data-analysis-with-julia-in-pluto-notebooks-b4652defd03e) [## 在 Pluto 笔记本中使用 Julia 进行反应数据分析
-
-### 当你喜欢朱庇特的时候，你就会爱上冥王星！
-
-towardsdatascience.co](/reactive-data-analysis-with-julia-in-pluto-notebooks-b4652defd03e) [](https://medium.datadriveninvestor.com/create-thematic-maps-using-shapefiles-in-julia-135ea67e9628) [## 使用 Julia 中的 Shapefiles 创建专题地图
-
-### 如何在 Julia 中使用 Plots 包绘制 choropleth 图
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/create-thematic-maps-using-shapefiles-in-julia-135ea67e9628)
+[](/how-to-setup-project-environments-in-julia-ec8ae73afe9c)  [](/getting-started-with-data-analysis-in-julia-421ce0032916)  [](/reactive-data-analysis-with-julia-in-pluto-notebooks-b4652defd03e)  [](https://medium.datadriveninvestor.com/create-thematic-maps-using-shapefiles-in-julia-135ea67e9628) 

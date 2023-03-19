@@ -105,11 +105,7 @@ pipe_eval.y_test = y_test
 
 欢迎反馈！没有什么是完美的，所以我会感谢你的评论。如果你觉得 *SeqRep* 包有帮助，我会很高兴你**给** [**仓库**](https://github.com/MIR-MU/seqrep) 打一颗星。
 
-[](https://github.com/MIR-MU/seqrep) [## GitHub - MIR-MU/seqrep:顺序数据表示的科学框架
-
-### 用顺序数据表示的科学框架单击展开！该软件包旨在简化工作流程…
-
-github.com](https://github.com/MIR-MU/seqrep) 
+[](https://github.com/MIR-MU/seqrep)  
 
 今天，我们简单介绍了一下 *SeqRep* 包的功能。希望可以理解。我计划写另一篇文章，关于使用基因组数据包**的**案例研究**。**
 

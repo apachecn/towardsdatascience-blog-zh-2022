@@ -157,12 +157,4 @@ TFx 很棒，因为你可以使用相同的组件，并在云上运行它们。�
 
 # 参考
 
-[](https://github.com/Building-ML-Pipelines/building-machine-learning-pipelines) [## GitHub-Building-ML-Pipelines/Building-machine-learning-Pipelines:的代码库
-
-### 奥莱利出版物《构建机器学习管道》的代码库，作者汉尼斯·哈普克和凯瑟琳·尼尔森…
-
-github.com](https://github.com/Building-ML-Pipelines/building-machine-learning-pipelines) [](https://www.buildingmlpipelines.com/) [## 构建 ML 管道
-
-### 公司在机器学习项目上投入了数十亿美元，但如果模型不能部署，那就是浪费金钱…
-
-www.buildingmlpipelines.com](https://www.buildingmlpipelines.com/)
+[](https://github.com/Building-ML-Pipelines/building-machine-learning-pipelines)  [](https://www.buildingmlpipelines.com/) 

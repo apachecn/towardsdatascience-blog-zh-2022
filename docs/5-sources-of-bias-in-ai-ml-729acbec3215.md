@@ -56,11 +56,7 @@
 
 你可以在我之前的文章中读到更多。
 
-[](/transfer-learning-in-deep-learning-641089950f5d) [## 迁移学习:你能学到的最有效的深度学习技能。
-
-### 迁移学习是一种加速深度学习训练的惊人方法。它有助于解决复杂的问题…
-
-towardsdatascience.com](/transfer-learning-in-deep-learning-641089950f5d) 
+[](/transfer-learning-in-deep-learning-641089950f5d)  
 
 ## 使用集合来移除模型中不必要的偏差。
 

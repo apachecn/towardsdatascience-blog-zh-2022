@@ -111,8 +111,4 @@ Ken 对数据科学从业者的建议是专注于创造价值，并确保您不�
 3.  为我的时事通讯订阅我的 [**邮件列表**](https://richmond-alake.ck.page/c8e63294ee)
 4.  在 [**上订阅我的播客苹果播客**](https://apple.co/3tbXlIa)**|**[**Spotify**](https://spoti.fi/38IIC06)**|**[**Audible**](https://amzn.to/3m62Vb3)
 
-[](https://richmondalake.medium.com/richmond-alake-podcast-lewis-tunstall-62db44b7b1f0) [## 里士满·阿拉克播客:刘易斯·汤斯顿
-
-### 一个粒子物理研究人员如何过渡到机器学习，并写了一本关于自然的最好的书…
-
-richmondalake.medium.com](https://richmondalake.medium.com/richmond-alake-podcast-lewis-tunstall-62db44b7b1f0)
+[](https://richmondalake.medium.com/richmond-alake-podcast-lewis-tunstall-62db44b7b1f0) 

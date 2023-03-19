@@ -188,38 +188,14 @@ CIR“适马”协议实施的一个例子:
 
 如果你想要更多这样的系列，请跟随我。我希望这个故事和整个随机过程模拟系列对你有用。如果我错过了什么，请让我知道。对于任何质疑、批评等。，留言评论。
 
-[](https://medium.com/subscribe/@diego-barba) [## 每当迭戈·巴尔巴出版时，就收到一封电子邮件。
-
-### 每当迭戈·巴尔巴出版时，就收到一封电子邮件。注册后，如果您还没有，您将创建一个中型帐户…
-
-medium.com](https://medium.com/subscribe/@diego-barba) 
+[](https://medium.com/subscribe/@diego-barba)  
 
 喜欢这个故事吗？通过我的推荐链接成为媒体会员，可以无限制地访问我的故事和许多其他内容。
 
-[](https://medium.com/@diego-barba/membership) [## 通过我的推荐链接加入 Medium-Diego Barba
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@diego-barba/membership) 
+[](https://medium.com/@diego-barba/membership)  
 
 ## 浏览随机过程模拟系列
 
 该系列之前的故事:
 
-[](/stochastic-processes-simulation-brownian-motion-the-basics-c1d71585d9f9) [## 随机过程模拟—布朗运动，基础
-
-### 随机过程模拟系列的第 1 部分。从头开始用 Python 模拟相关布朗运动。
-
-towardsdatascience.com](/stochastic-processes-simulation-brownian-motion-the-basics-c1d71585d9f9) [](/stochastic-processes-simulation-the-ornstein-uhlenbeck-process-e8bff820f3) [## 随机过程模拟——奥恩斯坦·乌伦贝克过程
-
-### 随机过程模拟系列的第 2 部分。模拟奥恩斯坦-乌伦贝克过程，规范…
-
-towardsdatascience.com](/stochastic-processes-simulation-the-ornstein-uhlenbeck-process-e8bff820f3) [](/stochastic-processes-simulation-the-cox-ingersoll-ross-process-c45b5d206b2b) [## 随机过程模拟——考克斯-英格索尔-罗斯过程
-
-### 随机过程模拟系列的第 3 部分。从头开始用 Python 模拟 Cox-Ingersoll-Ross 过程。
-
-towardsdatascience.com](/stochastic-processes-simulation-the-cox-ingersoll-ross-process-c45b5d206b2b) [](/stochastic-processes-simulation-geometric-brownian-motion-31ec734d68d6) [## 随机过程模拟——几何布朗运动
-
-### 随机过程模拟系列的第 4 部分。用 Python 从头开始模拟几何布朗运动。
-
-towardsdatascience.com](/stochastic-processes-simulation-geometric-brownian-motion-31ec734d68d6)
+[](/stochastic-processes-simulation-brownian-motion-the-basics-c1d71585d9f9)  [](/stochastic-processes-simulation-the-ornstein-uhlenbeck-process-e8bff820f3)  [](/stochastic-processes-simulation-the-cox-ingersoll-ross-process-c45b5d206b2b)  [](/stochastic-processes-simulation-geometric-brownian-motion-31ec734d68d6) 

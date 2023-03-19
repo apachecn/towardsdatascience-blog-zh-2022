@@ -229,19 +229,7 @@ JetBrains 使用 Pycharm 的原因是，在我的整个工作经历中，它向�
 
 # 你可能喜欢的其他文章
 
-[](/jupyter-notebook-or-lab-or-vs-code-b772f8388911) [## Jupyter 笔记本还是实验室还是 VS 代码？
-
-### 为什么不是全部？
-
-towardsdatascience.com](/jupyter-notebook-or-lab-or-vs-code-b772f8388911) [](/develop-and-sell-a-python-api-from-start-to-end-tutorial-9a038e433966) [## 开发和销售 Python API —从头到尾教程
-
-### 本文从头到尾描述了开发 Python API 的过程，并在更困难的领域提供了帮助。
-
-towardsdatascience.com](/develop-and-sell-a-python-api-from-start-to-end-tutorial-9a038e433966) [](/check-data-claims-yourself-with-python-an-example-8b8a92c0ae56) [## 使用 Python 亲自检查数据声明
-
-### 公共媒体越来越多地使用数据可视化。使用您的 python 技能为自己验证声明。
-
-towardsdatascience.com](/check-data-claims-yourself-with-python-an-example-8b8a92c0ae56) 
+[](/jupyter-notebook-or-lab-or-vs-code-b772f8388911)  [](/develop-and-sell-a-python-api-from-start-to-end-tutorial-9a038e433966)  [](/check-data-claims-yourself-with-python-an-example-8b8a92c0ae56)  
 
 # 放弃
 

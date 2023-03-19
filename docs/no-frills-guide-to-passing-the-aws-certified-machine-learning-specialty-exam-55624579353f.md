@@ -29,11 +29,7 @@ AWS 认证机器学习专业徽章|作者图片
 1.  ***扎实的数据科学和机器学习基础知识** 你应该对机器学习概念有很强的理解，并且最好已经在实际项目中应用了它们。这意味着您应该熟悉常见的数据科学概念(例如，回归、可视化、预处理、神经网络、正则化、损失函数、决策树、XGBoost 等)。).*
 2.  ***具备 AWS 服务的基本经验或之前已获得 AWS 认证** 虽然您不需要丰富的 AWS 专业知识，但您最好具备 AWS 实践经验，因为该考试不适合初学者。如果你此时零 AWS 经验，可以从 [**AWS 认证云从业者**](https://aws.amazon.com/certification/certified-cloud-practitioner/) 考试开始:*
 
-*[](/3-steps-to-get-aws-cloud-practitioner-certified-in-2-weeks-or-less-772178f48249) [## 在两周或更短时间内获得 AWS 云从业者认证的 3 个步骤
-
-### 通过认证来验证您的云计算专业知识，开始您的 AWS 之旅
-
-towardsdatascience.com](/3-steps-to-get-aws-cloud-practitioner-certified-in-2-weeks-or-less-772178f48249)* 
+*[](/3-steps-to-get-aws-cloud-practitioner-certified-in-2-weeks-or-less-772178f48249) * 
 
 # *逐步指南*
 
@@ -146,12 +142,4 @@ towardsdatascience.com](/3-steps-to-get-aws-cloud-practitioner-certified-in-2-we
 
 ***欢迎您来到**，与我一起踏上数据科学学习之旅**。跟随此[媒体](https://kennethleungty.medium.com/)页面并查看我的 [GitHub](https://github.com/kennethleungty) 以了解实用教育数据科学内容。同时，祝你考试顺利！***
 
-***[](/3-steps-to-get-tableau-desktop-specialist-certified-in-2-weeks-abbef25778de) [## 两周内获得 Tableau 桌面认证的 3 个步骤
-
-### 获得 Tableau 认证，展示您的可视化技能和产品知识
-
-towardsdatascience.com](/3-steps-to-get-tableau-desktop-specialist-certified-in-2-weeks-abbef25778de) [](/definitive-guide-to-create-an-sql-database-on-cloud-with-aws-and-python-c818c7270af2) [## 使用 AWS 和 Python 在云上创建 SQL 数据库的权威指南
-
-### 关于使用 Amazon RDS、MySQL Workbench 和 PyMySQL 的简单易懂的综合指南
-
-towardsdatascience.com](/definitive-guide-to-create-an-sql-database-on-cloud-with-aws-and-python-c818c7270af2)***
+***[](/3-steps-to-get-tableau-desktop-specialist-certified-in-2-weeks-abbef25778de)  [](/definitive-guide-to-create-an-sql-database-on-cloud-with-aws-and-python-c818c7270af2) ***

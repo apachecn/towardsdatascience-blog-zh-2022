@@ -12,11 +12,7 @@
 
 本文向您展示了使用处理程序保存日志的两种方法。第一种是最简单的；只需**使用 FileHandler 将所有日志写入文件**。第二种方法使用 HttpHandler**将您的日志发送到 HTTP 端点**(类似于 API)。
 
-[](https://mikehuls.medium.com/python-logging-for-absolute-beginners-8e89032b1b4c) [## 绝对初学者的 Python 日志记录
-
-### 停止使用 print 语句进行调试，转而使用更高级的语句
-
-mikehuls.medium.com](https://mikehuls.medium.com/python-logging-for-absolute-beginners-8e89032b1b4c) 
+[](https://mikehuls.medium.com/python-logging-for-absolute-beginners-8e89032b1b4c)  
 
 让我们先了解一下日志记录时使用处理程序的概念。如您所知，您可以通过创建一个记录器，然后调用该记录器上的一个日志记录方法来记录消息，如下所示:
 
@@ -24,11 +20,7 @@ mikehuls.medium.com](https://mikehuls.medium.com/python-logging-for-absolute-beg
 
 在下面的部分中，我们向日志记录器添加了更多的处理程序，它们对日志做其他的事情。对于每个处理程序，我们可以指定级别、字段和格式，如下所示。
 
-[](/create-your-custom-python-package-that-you-can-pip-install-from-your-git-repository-f90465867893) [## 创建您的自定义私有 Python 包，您可以从您的 Git 存储库中 PIP 安装该包
-
-### 使用您的 git repo 共享您的自建 Python 包。
-
-towardsdatascience.com](/create-your-custom-python-package-that-you-can-pip-install-from-your-git-repository-f90465867893) 
+[](/create-your-custom-python-package-that-you-can-pip-install-from-your-git-repository-f90465867893)  
 
 # 代码示例—实现处理程序
 
@@ -43,11 +35,7 @@ towardsdatascience.com](/create-your-custom-python-package-that-you-can-pip-inst
 
 所有这些记录器都将单独配置；他们将有自己的格式和级别。
 
-[](/multi-tasking-in-python-speed-up-your-program-10x-by-executing-things-simultaneously-4b4fc7ee71e) [## Python 中的多任务处理:通过同时执行，将程序速度提高 10 倍
-
-### 应用线程和进程加速代码的分步指南
-
-towardsdatascience.com](/multi-tasking-in-python-speed-up-your-program-10x-by-executing-things-simultaneously-4b4fc7ee71e) 
+[](/multi-tasking-in-python-speed-up-your-program-10x-by-executing-things-simultaneously-4b4fc7ee71e)  
 
 ## 1:设置我们的记录器
 
@@ -73,11 +61,7 @@ towardsdatascience.com](/multi-tasking-in-python-speed-up-your-program-10x-by-ex
 
 我们已经成功地将日志打印到了控制台上！查看下面的文章，了解如何在您的控制台上创建**彩色日志:**
 
-[](https://mikehuls.medium.com/colored-logs-for-python-2973935a9b02) [## Python 的彩色日志
-
-### 将彩色消息打印到控制台
-
-mikehuls.medium.com](https://mikehuls.medium.com/colored-logs-for-python-2973935a9b02) 
+[](https://mikehuls.medium.com/colored-logs-for-python-2973935a9b02)  
 
 ## 3.添加文件处理程序
 
@@ -93,11 +77,7 @@ mikehuls.medium.com](https://mikehuls.medium.com/colored-logs-for-python-2973935
 
 一旦您使用 filehandler 一段时间，您的日志文件就会变得相当大。查看 [**这篇文章**](https://mikehuls.medium.com/my-logging-file-gets-too-big-python-logging-to-multiple-files-c7fccf97d3a4) 可以解决那个问题。
 
-[](/simple-trick-to-work-with-relative-paths-in-python-c072cdc9acb9) [## 在 Python 中使用相对路径的简单技巧
-
-### 轻松计算运行时的文件路径
-
-towardsdatascience.com](/simple-trick-to-work-with-relative-paths-in-python-c072cdc9acb9) 
+[](/simple-trick-to-work-with-relative-paths-in-python-c072cdc9acb9)  
 
 ## 4.添加 HTTP 处理程序
 
@@ -107,11 +87,7 @@ towardsdatascience.com](/simple-trick-to-work-with-relative-paths-in-python-c072
 
 ***重要的*** *:然而，这个处理程序有一个主要的缺点:它阻塞线程直到它完成请求。在未来，我将重点关注为非阻塞 HTTP 处理程序实现自定义日志处理程序。**[***关注我***](https://mikehuls.medium.com/membership) *敬请关注！**
 
-*[](/git-for-absolute-beginners-understanding-git-with-the-help-of-a-video-game-88826054459a) [## 绝对初学者的 Git:借助视频游戏理解 Git
-
-### 以一个经典的 RPG 作为类比，获得如何使用 git 的直觉
-
-towardsdatascience.com](/git-for-absolute-beginners-understanding-git-with-the-help-of-a-video-game-88826054459a)* 
+*[](/git-for-absolute-beginners-understanding-git-with-the-help-of-a-video-game-88826054459a) * 
 
 # *结论*
 
@@ -135,8 +111,4 @@ towardsdatascience.com](/git-for-absolute-beginners-understanding-git-with-the-h
 
 **又及:喜欢我正在做的事吗？* [*跟我来！*](https://mikehuls.medium.com/membership)*
 
-*[](https://mikehuls.medium.com/membership) [## 通过我的推荐链接加入媒体-迈克·赫斯
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-mikehuls.medium.com](https://mikehuls.medium.com/membership)*
+*[](https://mikehuls.medium.com/membership) *

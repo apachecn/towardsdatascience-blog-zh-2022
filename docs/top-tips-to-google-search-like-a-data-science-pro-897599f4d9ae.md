@@ -114,16 +114,4 @@
 
 **欢迎您来到**加入我的数据科学学习之旅！**关注我的 [Medium](https://kennethleungty.medium.com/) 页面，查看我的 [GitHub](https://github.com/kennethleungty) ，了解更多精彩的教育数据科学内容。同时，祝你谷歌搜索愉快！**
 
-**[](/micro-macro-weighted-averages-of-f1-score-clearly-explained-b603420b292f) [## F1 分数的微观、宏观和加权平均值，解释清楚
-
-### 理解多类分类中 F1 分数的微观平均值、宏观平均值和加权平均值背后的概念
-
-towardsdatascience.com](/micro-macro-weighted-averages-of-f1-score-clearly-explained-b603420b292f) [](/end-to-end-automl-train-and-serve-with-h2o-mlflow-fastapi-and-streamlit-5d36eedfe606) [## H2O AutoML、MLflow、FastAPI 和 Streamlit 的端到端 AutoML 管道
-
-### 关于使用一系列功能强大的工具来培训和服务 AutoML 管道的简单易懂的综合指南
-
-towardsdatascience.com](/end-to-end-automl-train-and-serve-with-h2o-mlflow-fastapi-and-streamlit-5d36eedfe606) [](/key-learning-points-from-mlops-specialization-course-deeplearning-ai-andrew-ng-5d0746605752) [## MLOps 专业化认证的关键学习点—课程 1
-
-### 面向生产的机器学习工程课程 1 的主要课程(包括课堂讲稿)
-
-towardsdatascience.com](/key-learning-points-from-mlops-specialization-course-deeplearning-ai-andrew-ng-5d0746605752)**
+**[](/micro-macro-weighted-averages-of-f1-score-clearly-explained-b603420b292f)  [](/end-to-end-automl-train-and-serve-with-h2o-mlflow-fastapi-and-streamlit-5d36eedfe606)  [](/key-learning-points-from-mlops-specialization-course-deeplearning-ai-andrew-ng-5d0746605752) **

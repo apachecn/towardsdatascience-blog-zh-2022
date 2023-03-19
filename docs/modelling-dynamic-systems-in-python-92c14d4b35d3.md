@@ -58,11 +58,7 @@
 
 **复习本* [*篇*](https://python.plainenglish.io/how-is-numerical-integration-done-using-python-4585344e5800) *对数值积分进行必要的介绍。**
 
-*[](https://python.plainenglish.io/how-is-numerical-integration-done-using-python-4585344e5800) [## 如何使用 Python 进行数值积分
-
-### 本文旨在演示如何使用 Python 对函数的积分进行数值计算。
-
-python .平原英语. io](https://python.plainenglish.io/how-is-numerical-integration-done-using-python-4585344e5800)* 
+*[](https://python.plainenglish.io/how-is-numerical-integration-done-using-python-4585344e5800) * 
 
 ## *振动问题示例*
 
@@ -119,11 +115,7 @@ python .平原英语. io](https://python.plainenglish.io/how-is-numerical-integr
 
 ********复习这篇* [*文章*](https://medium.com/geekculture/runge-kutta-numerical-integration-of-ordinary-differential-equations-in-python-9c8ab7fb279c) *对化一个高阶微分方程为一个一阶常微分方程组进行必要的介绍。********
 
-*******[](https://medium.com/geekculture/runge-kutta-numerical-integration-of-ordinary-differential-equations-in-python-9c8ab7fb279c) [## Python 中常微分方程的龙格-库塔数值积分
-
-### 在 Python 中使用 RK4 求解常微分方程
-
-medium.com](https://medium.com/geekculture/runge-kutta-numerical-integration-of-ordinary-differential-equations-in-python-9c8ab7fb279c)******* 
+*******[](https://medium.com/geekculture/runge-kutta-numerical-integration-of-ordinary-differential-equations-in-python-9c8ab7fb279c) ******* 
 
 ## *******Python 实现*******
 
@@ -211,15 +203,7 @@ medium.com](https://medium.com/geekculture/runge-kutta-numerical-integration-of-
 
 ********上面给出了三个用于模拟动态平移系统的例子。这篇文章仅仅触及了机械振动和动态系统建模的表面。********
 
-********[](https://levelup.gitconnected.com/the-two-body-problem-in-python-6bbe4a0b2f88) [## Python 中的二体问题
-
-### 想象两个物体的运动仅仅是由于它们相互的引力吸引
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/the-two-body-problem-in-python-6bbe4a0b2f88) [](https://medium.com/@andrewdaviesul/membership) [## 通过我的推荐链接加入媒体-安德鲁·约瑟夫·戴维斯
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@andrewdaviesul/membership) 
+********[](https://levelup.gitconnected.com/the-two-body-problem-in-python-6bbe4a0b2f88)  [](https://medium.com/@andrewdaviesul/membership)  
 
 找到 Gist 4 中的 Python 代码来运行本文中的模拟。
 

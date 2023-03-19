@@ -12,11 +12,7 @@
 
 在我以前的一篇文章中，我讨论了处理非时序数据集缺失值的 7 种不同技术:
 
-[](/7-ways-to-handle-missing-values-in-machine-learning-1a6326adf79e) [## 机器学习中处理缺失值的 7 种方法
-
-### 处理数据集中缺失值的常用策略
-
-towardsdatascience.com](/7-ways-to-handle-missing-values-in-machine-learning-1a6326adf79e) 
+[](/7-ways-to-handle-missing-values-in-machine-learning-1a6326adf79e)  
 
 时间序列模型使用完整的数据，因此需要在建模或实际时间序列分析之前估算缺失值。时间序列数据集中缺失的值可以使用两种广泛的技术来处理:
 

@@ -80,8 +80,4 @@ stripboxplot(df, x_col='cat', y_col='weight (kg)', count_info=True)
 
 如果你仍然对如何在分类变量上应用新的探索性数据分析方法感兴趣，请务必阅读我的另一篇文章:
 
-[](https://medium.com/@tomergabay/advancedvaluecounts-for-eda-2f80e2c74ce1) [## 高级值计数:探索分类变量的新方法
-
-### 一个基于熊猫的 Python 包。值计数()
-
-medium.com](https://medium.com/@tomergabay/advancedvaluecounts-for-eda-2f80e2c74ce1)
+[](https://medium.com/@tomergabay/advancedvaluecounts-for-eda-2f80e2c74ce1) 

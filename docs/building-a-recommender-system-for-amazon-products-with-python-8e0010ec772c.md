@@ -427,16 +427,4 @@ print('Thank you Medium!')
 
 **如果你想看看我以前的一些文章**
 
-**[](/time-series-forecasting-on-power-consumption-273d56768b99) [## 电力消费的时间序列预测
-
-### 本文旨在利用时间序列分析来预测摩洛哥泰图安市的电力消耗
-
-towardsdatascience.com](/time-series-forecasting-on-power-consumption-273d56768b99) [](/model-selection-and-hyperparameter-tuning-on-amazon-kindle-book-reviews-with-python-6d17ec46d318) [## 用 Python 实现亚马逊 Kindle 书评的模型选择和超参数调整
-
-### 基于模型选择和超参数优化的书评情感分析
-
-towardsdatascience.com](/model-selection-and-hyperparameter-tuning-on-amazon-kindle-book-reviews-with-python-6d17ec46d318) [](/feature-importance-to-predict-mushrooms-edibility-in-python-5aa133fea3f8) [## Python 中预测蘑菇可食用性的特征重要性
-
-### 利用特征重要性来预测蘑菇种类是可食用的还是有毒的
-
-towardsdatascience.com](/feature-importance-to-predict-mushrooms-edibility-in-python-5aa133fea3f8)**
+**[](/time-series-forecasting-on-power-consumption-273d56768b99)  [](/model-selection-and-hyperparameter-tuning-on-amazon-kindle-book-reviews-with-python-6d17ec46d318)  [](/feature-importance-to-predict-mushrooms-edibility-in-python-5aa133fea3f8) **

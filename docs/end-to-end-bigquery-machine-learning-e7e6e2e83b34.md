@@ -79,11 +79,7 @@
 
 ❗️如果您需要复习 BigQuery 中的采样，请查看这篇文章:
 
-[](/advanced-random-sampling-in-bigquery-sql-7d4483b580bb) [## BigQuery SQL 中的高级随机采样
-
-### 了解如何以可重现的方式对 BigQuery 表中的行进行采样
-
-towardsdatascience.com](/advanced-random-sampling-in-bigquery-sql-7d4483b580bb) 
+[](/advanced-random-sampling-in-bigquery-sql-7d4483b580bb)  
 
 接下来，我们需要挑选 80%的幸存乘客和 80%的死亡乘客进入我们的训练集。其他人都将在测试集中结束。我们可以通过使用`PERCENTILE_CONT`分析功能来实现。这个**将我们的散列整数转换成百分位数**，所以如果这个百分位数小于 0.80，那么就意味着你是前 80%乘客中的一员。
 
@@ -179,16 +175,4 @@ Kaggle 希望我们**提交一个包含两列的 csv 文件**——一列用于�
 
 > 感谢您花时间阅读本文！我主要写的是数据科学工具和 Julia，所以如果你喜欢这篇文章，请随意订阅！
 
-[](/loops-in-bigquery-db137e128d2d) [## BigQuery 中的循环
-
-### 了解如何使用 BigQuery 脚本来计算斐波那契数
-
-towardsdatascience.com](/loops-in-bigquery-db137e128d2d) [](/load-files-faster-into-bigquery-94355c4c086a) [## 将文件更快地加载到 BigQuery 中
-
-### 针对摄取的 CSV、GZIP、AVRO 和拼花文件类型进行基准测试
-
-towardsdatascience.com](/load-files-faster-into-bigquery-94355c4c086a) [](/advanced-random-sampling-in-bigquery-sql-7d4483b580bb) [## BigQuery SQL 中的高级随机采样
-
-### 了解如何以可重现的方式对 BigQuery 表中的行进行采样
-
-towardsdatascience.com](/advanced-random-sampling-in-bigquery-sql-7d4483b580bb)
+[](/loops-in-bigquery-db137e128d2d)  [](/load-files-faster-into-bigquery-94355c4c086a)  [](/advanced-random-sampling-in-bigquery-sql-7d4483b580bb) 

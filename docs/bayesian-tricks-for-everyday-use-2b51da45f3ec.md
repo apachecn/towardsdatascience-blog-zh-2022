@@ -22,11 +22,7 @@
 
 如果您对贝叶斯定理还不太熟悉，请随意阅读我关于贝叶斯思维的文章，这篇文章对它进行了更详细的解释，并提供了许多实际例子:
 
-[](/on-the-importance-of-bayesian-thinking-in-everyday-life-a74475fcceeb) [## 贝叶斯思维在日常生活中的重要性
-
-### 这个简单的思维转变将帮助你更好地理解你周围不确定的世界
-
-towardsdatascience.com](/on-the-importance-of-bayesian-thinking-in-everyday-life-a74475fcceeb) 
+[](/on-the-importance-of-bayesian-thinking-in-everyday-life-a74475fcceeb)  
 
 当我们在本文的剩余部分学习各种贝叶斯技巧时，我将假设您直观地掌握了先验和似然性的概念，以及我们如何将两者相乘并缩放以得到后验概率。阅读上面的文章将足以让你开始。
 
@@ -142,11 +138,7 @@ array([0.5  , 0.505, 0.51 , 0.515, 0.52 , 0.525, 0.53 , 0.535, 0.54,
 
 感谢阅读！如果您对如何更严格地将贝叶斯思维应用于统计数据分析感兴趣，请查看我关于该主题的介绍性文章:
 
-[](/the-gentlest-of-introductions-to-bayesian-data-analysis-74df448da25) [## 贝叶斯数据分析最温和的介绍
-
-towardsdatascience.com](/the-gentlest-of-introductions-to-bayesian-data-analysis-74df448da25) 
-
-另外，可以随意看看我在 DataCamp 上教的 Python 课程中的 [**贝叶斯数据分析。它从最基本的概率开始，通过贝叶斯 A/B 测试和决策分析逐步发展到更高级的主题，如用马尔可夫链蒙特卡罗模拟方法拟合和评估贝叶斯回归模型。**](https://www.datacamp.com/courses/bayesian-data-analysis-in-python)
+[](/the-gentlest-of-introductions-to-bayesian-data-analysis-74df448da25) 
 
 如果你喜欢这篇文章，为什么不在我的新文章上 [**订阅电子邮件更新**](https://michaloleszak.medium.com/subscribe) ？通过 [**成为媒介会员**](https://michaloleszak.medium.com/membership) ，你可以支持我的写作，并无限制地访问其他作者和我自己的所有故事。
 
@@ -154,16 +146,4 @@ towardsdatascience.com](/the-gentlest-of-introductions-to-bayesian-data-analysis
 
 你也可以试试我的其他文章。不能选择？从这些中选择一个:
 
-[](/on-the-importance-of-bayesian-thinking-in-everyday-life-a74475fcceeb) [## 贝叶斯思维在日常生活中的重要性
-
-### 这个简单的思维转变将帮助你更好地理解你周围不确定的世界
-
-towardsdatascience.com](/on-the-importance-of-bayesian-thinking-in-everyday-life-a74475fcceeb) [](/6-useful-probability-distributions-with-applications-to-data-science-problems-2c0bee7cef28) [## 6 有用的概率分布及其在数据科学问题中的应用
-
-### 带有示例和 Python 代码的实用概述。
-
-towardsdatascience.com](/6-useful-probability-distributions-with-applications-to-data-science-problems-2c0bee7cef28) [](/confidence-intervals-vs-prediction-intervals-7b296ae58745) [## 置信区间与预测区间
-
-### 混淆这两者可能代价高昂。了解它们的不同之处以及何时使用它们！
-
-towardsdatascience.com](/confidence-intervals-vs-prediction-intervals-7b296ae58745)
+[](/on-the-importance-of-bayesian-thinking-in-everyday-life-a74475fcceeb)  [](/6-useful-probability-distributions-with-applications-to-data-science-problems-2c0bee7cef28)  [](/confidence-intervals-vs-prediction-intervals-7b296ae58745) 

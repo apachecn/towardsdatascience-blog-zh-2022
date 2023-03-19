@@ -344,27 +344,15 @@ ORDER BY number_of_earthquakes DESC;
 
 ***不确定接下来要读什么？我为你挑选了另一篇文章—***
 
-[](/5-advanced-sql-concepts-you-should-know-in-2022-b50efe6c99) [## 2022 年你应该知道的 5 个高级 SQL 概念
-
-### 立即掌握这些节省时间的高级 SQL 查询。
-
-towardsdatascience.com](/5-advanced-sql-concepts-you-should-know-in-2022-b50efe6c99) 
+[](/5-advanced-sql-concepts-you-should-know-in-2022-b50efe6c99)  
 
 甚至更多的实用查询可以在这里查询，
 
-[](/5-practical-sql-queries-you-should-know-in-2022-11b428560a30) [## 2022 年你应该知道的 5 个实用 SQL 查询
-
-### 快速掌握这些省时又强大的 SQL 查询！
-
-towardsdatascience.com](/5-practical-sql-queries-you-should-know-in-2022-11b428560a30) 
+[](/5-practical-sql-queries-you-should-know-in-2022-11b428560a30)  
 
 尽管如此，了解 SQL 的最佳实践还是很重要的！
 
-[](/5-most-useful-sql-best-practices-you-should-follow-ef753a50ad26) [## 您应该遵循的 5 个最有用的 SQL 最佳实践
-
-### 避免经常犯的错误来改进你的代码！
-
-towardsdatascience.com](/5-most-useful-sql-best-practices-you-should-follow-ef753a50ad26) 
+[](/5-most-useful-sql-best-practices-you-should-follow-ef753a50ad26)  
 
 > 你的免费会员故事吗？？
 

@@ -119,11 +119,7 @@
 
 在下面的文章中，我已经讲述了简单逻辑回归的基础知识。我已经讨论了语法和解释是如何完成的。
 
-[](/simple-logistic-regression-for-dichotomous-variables-in-r-8befbe3e95b4) [## R 中二分变量的简单 Logistic 回归
-
-### R 系列中的统计
-
-towardsdatascience.com](/simple-logistic-regression-for-dichotomous-variables-in-r-8befbe3e95b4) 
+[](/simple-logistic-regression-for-dichotomous-variables-in-r-8befbe3e95b4)  
 
 这里，我将使用相同的数据集并比较上面描述的统计数据。
 
@@ -161,12 +157,4 @@ nagelkerke 的输出提供了三种不同的伪 R，但我们可以使用麦克�
 
 感谢阅读。
 
-[](https://mdsohel-mahmood.medium.com/membership) [## 用我的推荐链接加入媒体
-
-### 阅读 Md Sohel Mahmood(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接…
-
-mdsohel-mahmood.medium.com](https://mdsohel-mahmood.medium.com/membership) [](https://mdsohel-mahmood.medium.com/subscribe) [## 每当 Md Sohel Mahmood 发表文章时，都会收到一封电子邮件。
-
-### 每当 Md Sohel Mahmood 发表文章时，都会收到一封电子邮件。通过注册，您将创建一个中型帐户，如果您还没有…
-
-mdsohel-mahmood.medium.com](https://mdsohel-mahmood.medium.com/subscribe)
+[](https://mdsohel-mahmood.medium.com/membership)  [](https://mdsohel-mahmood.medium.com/subscribe) 

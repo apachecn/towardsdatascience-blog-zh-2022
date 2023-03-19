@@ -24,11 +24,7 @@
 
 在接下来的几节中，我将向您展示如何使用 EER 从部分带注释的数据集中训练模型。为此，我将使用 [spacy-partial-tagger](https://github.com/doccano/spacy-partial-tagger/) ，这是一个使用 EER 实现模型的 Python 库。如果你想详细了解 EER，请看报纸。
 
-[](https://github.com/doccano/spacy-partial-tagger) [## GitHub-doccano/spacy-partial-tagger:一个用于训练命名实体识别模型的简单库…
-
-### 这是一个为 spaCy 中的部分注释数据集构建 CRF 标记器的库。你可以建立自己的 NER tagger…
-
-github.com](https://github.com/doccano/spacy-partial-tagger) 
+[](https://github.com/doccano/spacy-partial-tagger)  
 
 让我们开始实施。
 

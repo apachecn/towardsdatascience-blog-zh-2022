@@ -40,11 +40,7 @@ QM 计算在化学中非常重要，因为它们提供了关于分子和材料�
 
 arXiv 中的预印本:
 
-[](https://arxiv.org/abs/2203.02540) [## 进化符号密度泛函
-
-### 对科学家来说，精确密度泛函的系统发展已经是几十年的挑战。尽管…
-
-arxiv.org](https://arxiv.org/abs/2203.02540) 
+[](https://arxiv.org/abs/2203.02540)  
 
 **更新:预印本在*科学进展* :** 通过同行评审
 
@@ -52,18 +48,10 @@ arxiv.org](https://arxiv.org/abs/2203.02540)
 
 Deepmind 的相关工作:
 
-[](/deepmind-strikes-back-now-tackling-quantum-mechanical-calculations-e1cae792e5d0) [## DeepMind 反击了，现在正在处理量子力学计算
-
-### 这家与谷歌有关联的公司开发了一个新的框架，用高度精确的电子密度来训练神经网络…
-
-towardsdatascience.com](/deepmind-strikes-back-now-tackling-quantum-mechanical-calculations-e1cae792e5d0) 
+[](/deepmind-strikes-back-now-tackling-quantum-mechanical-calculations-e1cae792e5d0)  
 
 符号回归在科学中的其他应用示例:
 
-[](/real-world-applications-of-symbolic-regression-2025d17b88ef) [## 符号回归的现实应用
-
-### 不像常规神经网络那样是一个黑箱，它提供的模型不仅能预测数据，还能使数据合理化…
-
-towardsdatascience.com](/real-world-applications-of-symbolic-regression-2025d17b88ef) 
+[](/real-world-applications-of-symbolic-regression-2025d17b88ef)  
 
 [***www.lucianoabriata.com***](https://www.lucianoabriata.com/)*我写作并拍摄我广泛兴趣范围内的一切事物:自然、科学、技术、编程等等。* [***成为媒介会员***](https://lucianosphere.medium.com/membership) *访问其所有故事(我免费获得小收入的平台的附属链接)和* [***订阅通过电子邮件*** *获取我的新故事*](https://lucianosphere.medium.com/subscribe) ***。到* ***咨询关于小职位*** *查看我的* [***服务页面这里***](https://lucianoabriata.altervista.org/services/index.html) *。你可以在这里* [***联系我***](https://lucianoabriata.altervista.org/office/contact.html) ***。*****

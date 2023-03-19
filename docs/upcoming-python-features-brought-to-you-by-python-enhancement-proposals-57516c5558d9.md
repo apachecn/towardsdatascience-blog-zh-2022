@@ -76,16 +76,4 @@ Python 中的函数可以将其他函数作为参数。然而，没有好的方�
 
 **本文最初发布于*[*martinheinz . dev*](https://martinheinz.dev/blog/67?utm_source=medium&utm_medium=referral&utm_campaign=blog_post_67)*
 
-*[](https://python.plainenglish.io/creating-beautiful-tracebacks-with-pythons-exception-hooks-c8a79e13558d) [## 用 Python 的异常钩子创建漂亮的回溯
-
-### 使用 Python 的自定义异常创建的漂亮的回溯消息，调试可以成为一种愉快的体验…
-
-python .平原英语. io](https://python.plainenglish.io/creating-beautiful-tracebacks-with-pythons-exception-hooks-c8a79e13558d) [](/profiling-and-analyzing-performance-of-python-programs-3bf3b41acd16) [## 剖析和分析 Python 程序的性能
-
-### 快速找到 Python 程序中的所有瓶颈并修复它们的工具和技术
-
-towardsdatascience.com](/profiling-and-analyzing-performance-of-python-programs-3bf3b41acd16) [](/exploring-google-analytics-realtime-data-with-python-8625849c7d7a) [## 用 Python 探索 Google Analytics 实时数据
-
-### 使用 REST API 和 Python 充分利用所有 Google Analytics 特性和数据
-
-towardsdatascience.com](/exploring-google-analytics-realtime-data-with-python-8625849c7d7a)*
+*[](https://python.plainenglish.io/creating-beautiful-tracebacks-with-pythons-exception-hooks-c8a79e13558d)  [](/profiling-and-analyzing-performance-of-python-programs-3bf3b41acd16)  [](/exploring-google-analytics-realtime-data-with-python-8625849c7d7a) *

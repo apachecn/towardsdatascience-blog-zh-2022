@@ -104,21 +104,13 @@ TreeSHAP 没有这个问题。然而，由于特征依赖性，该算法具有�
 
 SHAP 互动价值观是 SHAP 价值观的延伸。它们的工作原理是将一个特征的贡献分解成主要的和交互的效果。对于一个给定的特性，交互效应是它与其他特性的所有联合贡献。当突出显示和可视化数据中的交互时，这些会很有用。我们将在下面的文章中深入探讨这个问题。
 
-[](/analysing-interactions-with-shap-8c4a2bc11c2a) [## 分析与 SHAP 的互动
-
-### 使用 SHAP Python 包来识别和可视化数据中的交互
-
-towardsdatascience.com](/analysing-interactions-with-shap-8c4a2bc11c2a) 
+[](/analysing-interactions-with-shap-8c4a2bc11c2a)  
 
 如果你想使用 SHAP 交互值，你必须使用 TreeSHAP。这是因为这是唯一一种实现了相互作用值的近似方法。这与 SHAP 互动价值观的复杂性有关。估计这些可能需要更长的时间。
 
 最后，您应该尽可能使用 TreeSHAP。它速度快得多，让你有能力分析互动。对于数据探索，您可能希望坚持使用树算法来获得这些好处。如果你正在使用其他类型的算法，那么你必须坚持使用 KernelSHAP。它仍然是一种比蒙特卡罗抽样等其他方法更快的近似方法。
 
-[](https://conorosullyds.medium.com/membership) [## 通过我的推荐链接加入 Medium 康纳·奥沙利文
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-conorosullyds.medium.com](https://conorosullyds.medium.com/membership) 
+[](https://conorosullyds.medium.com/membership)  
 
 你可以在|[Twitter](https://twitter.com/conorosullyDS)|[YouTube](https://www.youtube.com/channel/UChsoWqJbEjBwrn00Zvghi4w)|[时事通讯](https://mailchi.mp/aa82a5ce1dc0/signup)上找到我——注册免费参加 [Python SHAP 课程](https://adataodyssey.com/courses/shap-with-python/)
 

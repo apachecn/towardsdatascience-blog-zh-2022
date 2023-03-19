@@ -173,8 +173,4 @@
 
 ***[](https://medium.datadriveninvestor.com/less-is-more-best-data-visualization-principle-c166e2797d60) [## 少即是多—最佳数据可视化原则
 
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/less-is-more-best-data-visualization-principle-c166e2797d60) [](https://medium.com/analytics-vidhya/how-to-make-your-audience-look-right-where-you-want-them-to-984df6d0338a) [## 如何让你的观众看着你想让他们看的地方？
-
-### 避免隐形大猩猩效应的一些技巧。
-
-medium.com](https://medium.com/analytics-vidhya/how-to-make-your-audience-look-right-where-you-want-them-to-984df6d0338a)***
+medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/less-is-more-best-data-visualization-principle-c166e2797d60) [](https://medium.com/analytics-vidhya/how-to-make-your-audience-look-right-where-you-want-them-to-984df6d0338a) ***

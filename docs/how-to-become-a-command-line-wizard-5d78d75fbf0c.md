@@ -238,8 +238,4 @@ tr -cs A-Za-z '' | tr A-Z a-z | sort | uniq -c | sort -rn | sed ${1}q
 
 **寻找更多提高工作效率的技巧？查看下面链接的文章👇**
 
-*[](/the-most-effective-creatives-maximize-leverage-not-hours-worked-20ed0070fdd7) [## 最有效的创意者最大化杠杆，而不是工作时间
-
-### 忘记“悄悄辞职”:用更少的时间创造更多商业影响的 3 个策略
-
-towardsdatascience.com](/the-most-effective-creatives-maximize-leverage-not-hours-worked-20ed0070fdd7)*
+*[](/the-most-effective-creatives-maximize-leverage-not-hours-worked-20ed0070fdd7) *

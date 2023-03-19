@@ -176,11 +176,7 @@ INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
 
 如果你喜欢阅读这样的故事，并想支持我成为一名作家，可以考虑报名成为一名媒体成员。每月 5 美元，让你可以无限制地访问 Python、机器学习和数据科学文章。如果你使用[我的链接](https://andrefsr.medium.com/membership)注册，我会赚一小笔佣金，不需要你额外付费。
 
-[](https://andrefsr.medium.com/membership) [## 通过我的推荐链接加入 Medium-andréRibeiro
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-andrefsr.medium.com](https://andrefsr.medium.com/membership) 
+[](https://andrefsr.medium.com/membership)  
 
 # 参考
 

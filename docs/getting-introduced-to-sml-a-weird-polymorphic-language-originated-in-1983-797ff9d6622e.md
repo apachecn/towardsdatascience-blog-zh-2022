@@ -18,19 +18,11 @@
 
 多态只是一个书呆子气的词，意思是我们正在基于类型改变事物。在大多数例子中，这是函数调用。更简单地说，我们的方法附加在我们的类型上。我遇到的第一种利用这种编程概念的语言是 Julia 编程语言。如果你今天看一下我的博客，你可能会发现上面有很多关于朱莉娅的内容，而且很多时候我都在写朱莉娅。虽然 Julia 不仅仅有多态和多重分派，但这是 Julia 的一个重要部分，而且该语言的范例围绕着多重分派的使用。如果您想了解更多，我将在下面的文章中详细介绍 Julia 中多重分派的伟大之处:
 
-[](/how-julia-perfected-multiple-dispatch-16675db772c2) [## 朱莉娅如何完善多重派遣
-
-### 让我们看看 Julia 语言是如何让多重调度变得完美的
-
-towardsdatascience.com](/how-julia-perfected-multiple-dispatch-16675db772c2) 
+[](/how-julia-perfected-multiple-dispatch-16675db772c2)  
 
 也就是说，我爱上了朱莉娅，因为她身上所有的优点。在许多方面，朱莉娅在精神上有点像曼梯·里的继承者。ML 最初是通过多分派概念实现参数多态性的，在认识到它对计算世界的贡献后，我想拜访一下这种我最喜欢的语言的精神继承者。这正是我今天要做的，同时将结果与 Julia 进行比较，也许是我所经历过的其他种类的语言。最后一件事，我为向自己介绍这种令人敬畏的语言而写的所有代码都可以在我在 Github 上的 Random_Code 库中找到，这里有一个链接:
 
-[](https://github.com/emmettgb/Random_Code/blob/main/tryingsml/src/trying.sml) [## Random _ Code/trying . SML at main emmett GB/Random _ Code
-
-### 此文件包含双向 Unicode 文本，其解释或编译可能与下面显示的不同…
-
-github.com](https://github.com/emmettgb/Random_Code/blob/main/tryingsml/src/trying.sml) 
+[](https://github.com/emmettgb/Random_Code/blob/main/tryingsml/src/trying.sml)  
 
 # 第一部分:建立 SML
 
@@ -364,11 +356,7 @@ stdIn:4.5-4.23 Error: operator and operand do not agree [tycon mismatch]
 
 我相信 real 可能只是一个整数的抽象，所以我认为我们在这里面临的问题是在我们的最大函数中，因为它返回“int option”，不管那是什么意思。我找到了关于此选项类型的以下信息，以便找出它被退回的原因:
 
- [## 期权结构
-
-### 编辑描述
-
-smlfamily.github.io](https://smlfamily.github.io/Basis/option.html) 
+  
 
 在里面，我发现了这个函数:
 
@@ -413,11 +401,7 @@ stdIn:8.5-8.21 Error: operator and operand do not agree [tycon mismatch]
 
 事实证明，所有这些都很简单，但也很复杂。运算符/不是 SML 的除法运算符。除法运算符是 div。还有，我还是不知道/本身是干什么用的。这里有一个我找到的数学运算符表的链接，它不在上面。
 
- [## 每个类别跨语言的语法
-
-### Awk，B，BourneShell，C，C#，C++，CoffeeScript，E，Eiffel，F#，Forth，Go，Haskell，Io，Java，JavaScript，Logo，Maple…
-
-rigaux.org](http://rigaux.org/language-study/syntax-across-languages/Mthmt.html) 
+  
 
 虽然/肯定做了一些事情，有两个实际值，我现在的任务只是这个意思——当我不写文章时，有一个完整的兔子洞可以钻进去。考虑到这一点，我们只需要稍微修改一下代码。
 
@@ -434,10 +418,6 @@ val mu = 12 : int
 
 > 自然，每个专业程序员都应该知道几种语言，并且应该意识到不同语言之间的编程和设计技术有很大的不同。stroustrup.com，比约恩·斯特劳斯特鲁普
 
- [## 比雅尼·斯特劳斯特鲁普访谈录
-
-### 比雅尼·斯特劳斯特鲁普是 C++的设计者和最初的实现者，也是 C++编程语言和
-
-www.stroustrup.com](https://www.stroustrup.com/devXinterview.html#:~:text=Naturally%2C%20every%20professional%20programmer%20should%20know%20several%20languages%2C%20and%20should%20be%20aware%20that%20programming%20and%20design%20techniques%20differ%20significantly%20between%20languages) 
+  
 
 走出你的舒适区，体验代码中不同的语法和范例，这当然是一个好主意——因为我认为这可以让你成为一名更好的程序员，无论是在一般情况下，还是回家后使用你通常使用的语言。非常感谢你阅读我的 SML 之旅。虽然有一些小问题，和一些奇怪的/学习的经历，但是看着这种建立了现代形式的多重调度的语言是很有趣的。我会说，我肯定认为朱莉娅做得更好，当然，但这总是主观的——当然，朱莉娅只是在某些方面做得更好，而不是其他方面。所有这些设计都有优点和缺点，我认为是应用程序真正让两种语言之间的选择有效。话虽如此，我真的不知道 SML 技能可能有多大用处，或者它们可能有多受欢迎，但我的猜测是，它可能不是最好的学习语言之一，除非你和我出于同样的目的学习它；教育。我确信这种语言是古老的、经过测试的，并且肯定可以在许多环境中使用，我只是不太确定是否有更好的选择。祝你有美好的一天，保持好奇，快乐编程！

@@ -166,11 +166,7 @@
 
 我们在这篇文章中回顾的算法只是梯度推进算法的一个选项，它专用于平方损失的回归问题。如果您也对分类算法感兴趣，请查看第 2 部分。
 
-[](/all-you-need-to-know-about-gradient-boosting-algorithm-part-2-classification-d3ed8f56541e) [## 关于梯度提升算法，您只需知道第 2 部分。分类
-
-### 用例子、数学和代码解释算法
-
-towardsdatascience.com](/all-you-need-to-know-about-gradient-boosting-algorithm-part-2-classification-d3ed8f56541e) 
+[](/all-you-need-to-know-about-gradient-boosting-algorithm-part-2-classification-d3ed8f56541e)  
 
 如果您想了解该算法的更多细节，还有一些其他的好资源:
 
@@ -181,11 +177,7 @@ towardsdatascience.com](/all-you-need-to-know-about-gradient-boosting-algorithm-
 
 你也可以在 Google Colab 链接或者下面的 Github 链接中查看完整的 Python 代码。
 
-[](https://colab.research.google.com/drive/1mWKDoEtUo82bcxLlwA7YNuEoFzlIY-GG) [## 谷歌联合实验室
-
-### 梯度推进算法—回归](https://colab.research.google.com/drive/1mWKDoEtUo82bcxLlwA7YNuEoFzlIY-GG) [](https://github.com/tomonori-masui/gradient-boosting/blob/main/gradient_boosting_regression.ipynb) [## 梯度推进算法—tomo nori-masui 处的回归/梯度推进
-
-github.com](https://github.com/tomonori-masui/gradient-boosting/blob/main/gradient_boosting_regression.ipynb) 
+[](https://colab.research.google.com/drive/1mWKDoEtUo82bcxLlwA7YNuEoFzlIY-GG)  
 
 # 参考
 

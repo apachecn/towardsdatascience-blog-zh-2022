@@ -85,14 +85,6 @@ ML 传感器数据手册的示例。顶部是当前标准数据手册中的内�
 
 截至撰写本文时，还没有人构建出一个功能性的 ML 传感器，但考虑到这种设计方法的实用性，这很可能只是一个时间问题。你可以在我们发布在 ArXiv 上的“ [*机器学习传感器*](https://arxiv.org/abs/2206.03266) ”论文中更深入地了解这个概念，并在 MLSensors.org了解更多关于我们的最新更新。
 
-[](https://github.com/harvard-edge/ML-Sensors) [## GitHub -哈佛-edge/ML-传感器
-
-### 该存储库包含与 ML 传感器相关的资源，ML 传感器是一种新的边缘设备范例，它将传感器…
-
-github.com](https://github.com/harvard-edge/ML-Sensors) [](http://mlsensors.org) [## 机器学习传感器
-
-### 机器学习传感器代表了嵌入式机器学习应用未来的范式转变。当前…
-
-mlsensors.org](http://mlsensors.org) 
+[](https://github.com/harvard-edge/ML-Sensors)  [](http://mlsensors.org)  
 
 本文包含的所有图片均由作者提供。

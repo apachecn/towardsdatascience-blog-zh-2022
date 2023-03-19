@@ -14,11 +14,7 @@
 
 例如，如果我们使用有序教育水平来预测收入，它只有两个水平的响应。我们可以有从一年级到博士学位的教育水平，并分配有序的数字来进行回归。我们也可以用二元变量来预测收入。例如，我们可以将 1 分配给有学士学位的人，将 0 分配给没有学士学位的人。在某种意义上，这也可以被认为是两个 kevels 的序数变量。最后，我们也可以使用教育年限等连续变量作为预测收入水平的预测因子。下面的文章给出了准确的分析。
 
-[](/simple-logistic-regression-for-ordinal-variables-in-r-1d95fa278c5e) [## R 中序数变量的简单逻辑回归
-
-### R 系列中的统计
-
-towardsdatascience.com](/simple-logistic-regression-for-ordinal-variables-in-r-1d95fa278c5e) 
+[](/simple-logistic-regression-for-ordinal-variables-in-r-1d95fa278c5e)  
 
 这里，我们现在感兴趣的是同时引入多个变量作为预测因子。
 
@@ -133,12 +129,4 @@ To show the effect of non-related variables, I have introduced a new column name
 
 感谢阅读。
 
-[](https://mdsohel-mahmood.medium.com/membership) [## 用我的推荐链接加入媒体
-
-### 阅读 Md Sohel Mahmood(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接…
-
-mdsohel-mahmood.medium.com](https://mdsohel-mahmood.medium.com/membership) [](https://mdsohel-mahmood.medium.com/subscribe) [## 每当 Md Sohel Mahmood 发表文章时，都会收到一封电子邮件。
-
-### 每当 Md Sohel Mahmood 发表文章时，都会收到一封电子邮件。通过注册，您将创建一个中型帐户，如果您还没有…
-
-mdsohel-mahmood.medium.com](https://mdsohel-mahmood.medium.com/subscribe)
+[](https://mdsohel-mahmood.medium.com/membership)  [](https://mdsohel-mahmood.medium.com/subscribe) 

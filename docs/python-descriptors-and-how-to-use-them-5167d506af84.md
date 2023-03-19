@@ -214,31 +214,11 @@ class* NonDataDescriptor:
 
 在这篇文章中，我们学习了 Python 描述符以及如何使用它们。有关更多细节和示例，请务必查看下面的参考资料。
 
-[](https://eminik355.medium.com/subscribe) [## 每当阿耳忒弥斯·卡尼出版时，就收到一封电子邮件。
-
-### 每当阿耳忒弥斯·卡尼出版时，就收到一封电子邮件。通过注册，您将创建一个中型帐户，如果您还没有…
-
-eminik355.medium.com](https://eminik355.medium.com/subscribe) 
+[](https://eminik355.medium.com/subscribe)  
 
 **出自同一作者。**
 
-[](/why-you-should-use-context-managers-in-python-4f10fe231206) [## 为什么应该在 Python 中使用上下文管理器
-
-### 在 Python 中实现和使用上下文管理器。
-
-towardsdatascience.com](/why-you-should-use-context-managers-in-python-4f10fe231206) [](/how-not-to-use-python-lists-d06cbe8e593) [## 如何不使用 Python 列表
-
-### 理解 Python 中的可变对象。
-
-towardsdatascience.com](/how-not-to-use-python-lists-d06cbe8e593) [](https://medium.com/analytics-vidhya/multi-armed-bandits-part-1-epsilon-greedy-algorithm-with-python-code-534b9e2abc9) [## 多臂强盗:Epsilon-Greedy 算法和 Python 代码
-
-### 了解 Epsilon-Greedy 的工作原理。为所有实验提供完整的 python 代码。
-
-medium.com](https://medium.com/analytics-vidhya/multi-armed-bandits-part-1-epsilon-greedy-algorithm-with-python-code-534b9e2abc9) [](/going-bayesian-testing-rate-metrics-82e872b79175) [## 走向贝叶斯:测试速率度量
-
-### 如何在没有 p 值和置信区间的情况下运行速率度量的 A/B 测试？
-
-towardsdatascience.com](/going-bayesian-testing-rate-metrics-82e872b79175) 
+[](/why-you-should-use-context-managers-in-python-4f10fe231206)  [](/how-not-to-use-python-lists-d06cbe8e593)  [](https://medium.com/analytics-vidhya/multi-armed-bandits-part-1-epsilon-greedy-algorithm-with-python-code-534b9e2abc9)  [](/going-bayesian-testing-rate-metrics-82e872b79175)  
 
 # 参考
 

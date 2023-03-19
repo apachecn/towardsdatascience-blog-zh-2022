@@ -317,16 +317,4 @@ t-SNE 映射到 2D 的测试图像的潜在表征。图片由作者提供。
 
 你也可以试试我的其他文章。不能选择？从这些中选择一个:
 
-[](/on-the-importance-of-bayesian-thinking-in-everyday-life-a74475fcceeb) [## 贝叶斯思维在日常生活中的重要性
-
-### 这个简单的思维转变将帮助你更好地理解你周围不确定的世界
-
-towardsdatascience.com](/on-the-importance-of-bayesian-thinking-in-everyday-life-a74475fcceeb) [](/8-tips-for-object-oriented-programming-in-python-3e98b767ae79) [## Python 中面向对象编程的 8 个技巧
-
-### 按照以下步骤让您的 Python 类防弹
-
-towardsdatascience.com](/8-tips-for-object-oriented-programming-in-python-3e98b767ae79) [](/6-useful-probability-distributions-with-applications-to-data-science-problems-2c0bee7cef28) [## 6 有用的概率分布及其在数据科学问题中的应用
-
-### 带有示例和 Python 代码的实用概述。
-
-towardsdatascience.com](/6-useful-probability-distributions-with-applications-to-data-science-problems-2c0bee7cef28)
+[](/on-the-importance-of-bayesian-thinking-in-everyday-life-a74475fcceeb)  [](/8-tips-for-object-oriented-programming-in-python-3e98b767ae79)  [](/6-useful-probability-distributions-with-applications-to-data-science-problems-2c0bee7cef28) 

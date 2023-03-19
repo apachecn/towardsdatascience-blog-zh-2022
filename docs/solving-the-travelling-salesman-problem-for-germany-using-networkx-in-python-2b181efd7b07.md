@@ -243,11 +243,7 @@ plt.axis(“off”)*
 
 *这个故事中的分析实现可以在这个 [GitHub 存储库](https://github.com/hbshrestha/Geospatial-Analysis)中获得。如果你想进一步了解 Python 图形可视化的基础知识，你可以参考下面的故事和本系列的其他相关故事。*
 
-*[](/graph-visualisation-basics-with-python-part-ii-directed-graph-with-networkx-5c1cd5564daa) [## Python 图形可视化基础第二部分:NetworkX 有向图
-
-### 用 NetworkX 软件包创建有向无环图
-
-towardsdatascience.com](/graph-visualisation-basics-with-python-part-ii-directed-graph-with-networkx-5c1cd5564daa) 
+*[](/graph-visualisation-basics-with-python-part-ii-directed-graph-with-networkx-5c1cd5564daa)  
 
 感谢您的阅读！
 

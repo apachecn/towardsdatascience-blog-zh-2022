@@ -24,11 +24,7 @@ python -m pip install rich-cli
 
 随 pipx 安装的工具和软件包存储在一个全局虚拟环境中，您可以通过命令行、所有全局目录和所有虚拟环境访问该环境。
 
-[](/python-how-to-create-a-clean-learning-environment-with-pyenv-pyenv-virtualenv-pipx-ed17fbd9b790) [## Python:如何用 pyenv，pyenv-virtualenv & pipX 创建干净的学习环境
-
-### 设置您的 Python 学习环境，而不污染您未来的开发环境。
-
-towardsdatascience.com](/python-how-to-create-a-clean-learning-environment-with-pyenv-pyenv-virtualenv-pipx-ed17fbd9b790) 
+[](/python-how-to-create-a-clean-learning-environment-with-pyenv-pyenv-virtualenv-pipx-ed17fbd9b790)  
 
 要在 Mac 上安装 pipx，请在您的终端中运行以下命令。
 

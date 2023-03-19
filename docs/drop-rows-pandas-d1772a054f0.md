@@ -92,32 +92,12 @@ df = df.take(keep_idx)print(df)
 
 请注意，您可能希望选择满足(或不满足)特定条件的记录，而不是删除特定的记录。如果这是你正在寻找的，那么请随意阅读下面的文章，它将带你完成这个过程。
 
-[](/how-to-select-rows-from-pandas-dataframe-based-on-column-values-d3f5da421e93) [## 如何根据列值从 Pandas 数据框架中选择行
-
-### 探索如何根据 pandas 数据框架中的条件选择行
-
-towardsdatascience.com](/how-to-select-rows-from-pandas-dataframe-based-on-column-values-d3f5da421e93) 
+[](/how-to-select-rows-from-pandas-dataframe-based-on-column-values-d3f5da421e93)  
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership) 
+[](https://gmyrianthous.medium.com/membership)  
 
 **相关文章你可能也喜欢**
 
-[](/how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3) [## 加快 PySpark 和 Pandas 数据帧之间的转换
-
-### 将大火花数据帧转换为熊猫时节省时间
-
-towardsdatascience.com](/how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3) [](/how-to-merge-pandas-dataframes-221e49c41bec) [## 如何合并熊猫数据帧
-
-### 对熊猫数据帧执行左、右、内和反连接
-
-towardsdatascience.com](/how-to-merge-pandas-dataframes-221e49c41bec) [](/data-engineer-tools-c7e68eed28ad) [## 数据工程师的工具
-
-### 数据工程工具箱的基础
-
-towardsdatascience.com](/data-engineer-tools-c7e68eed28ad)
+[](/how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3)  [](/how-to-merge-pandas-dataframes-221e49c41bec)  [](/data-engineer-tools-c7e68eed28ad) 

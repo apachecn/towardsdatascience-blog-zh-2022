@@ -85,24 +85,8 @@ Cloud Composer 是谷歌云平台上 Apache Airflow 的托管服务，是让数�
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership) 
+[](https://gmyrianthous.medium.com/membership)  
 
 **相关文章您可能也喜欢**
 
-[](/run-airflow-docker-1b83a57616fb) [## 如何使用 Docker 在本地运行气流
-
-### 在本地机器上使用 Docker 运行 Airflow 的分步指南
-
-towardsdatascience.com](/run-airflow-docker-1b83a57616fb) [](/data-engineer-tools-c7e68eed28ad) [## 数据工程师的工具
-
-### 数据工程工具箱的基础
-
-towardsdatascience.com](/data-engineer-tools-c7e68eed28ad) [](https://levelup.gitconnected.com/ebs-vs-efs-aws-7b3e41c093f7) [## 亚马逊网络服务中的 EBS vs EFS
-
-### 了解 AWS 中弹性块存储和弹性文件系统的区别
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/ebs-vs-efs-aws-7b3e41c093f7)
+[](/run-airflow-docker-1b83a57616fb)  [](/data-engineer-tools-c7e68eed28ad)  [](https://levelup.gitconnected.com/ebs-vs-efs-aws-7b3e41c093f7) 

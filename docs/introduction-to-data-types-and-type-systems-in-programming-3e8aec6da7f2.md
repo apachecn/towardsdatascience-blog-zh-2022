@@ -80,16 +80,4 @@ Datetime 数据类型存储包含日期和时间的值，如 2021–09–12 15:2
 
 *如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
 
-*[](/what-is-odbc-c27f95164dec) [## 什么是 ODBC？
-
-### 了解数据库管理系统的 API
-
-towardsdatascience.com](/what-is-odbc-c27f95164dec) [](/getting-started-with-json-4c94bb4df113) [## JSON 入门
-
-### 介绍用于数据交换的文件格式
-
-towardsdatascience.com](/getting-started-with-json-4c94bb4df113) [](/what-is-an-api-easily-explained-d153a736a55f) [## 什么是 API？容易解释
-
-### 应用程序编程接口介绍
-
-towardsdatascience.com](/what-is-an-api-easily-explained-d153a736a55f)*
+*[](/what-is-odbc-c27f95164dec)  [](/getting-started-with-json-4c94bb4df113)  [](/what-is-an-api-easily-explained-d153a736a55f) *

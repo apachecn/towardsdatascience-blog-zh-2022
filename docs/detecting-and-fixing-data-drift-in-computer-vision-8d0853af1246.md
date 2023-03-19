@@ -110,20 +110,4 @@ WhyLabs 可以轻松存储和监控 whylogs 创建的配置文件，以检测机
 
 *下面还有一些你可能喜欢的帖子*
 
-*[](/visual-question-answering-challenge-51c4623ddfa5) [## 视觉问答挑战
-
-### 一个稍微不同的 ML 竞赛和你为什么应该参加
-
-towardsdatascience.com](/visual-question-answering-challenge-51c4623ddfa5) [](/top-8-magic-commands-in-jupyter-notebook-c1582e813560) [## Jupyter 笔记本中的 8 大魔法命令
-
-### 通过学习最有用的命令来提高您的生产力
-
-towardsdatascience.com](/top-8-magic-commands-in-jupyter-notebook-c1582e813560) [](/how-to-do-data-labeling-versioning-and-management-for-ml-ba0345e7988) [## 如何为 ML 做数据标记、版本控制和管理
-
-### 丰富食品数据集的案例研究
-
-towardsdatascience.com](/how-to-do-data-labeling-versioning-and-management-for-ml-ba0345e7988) [](/jupyter-notebook-autocompletion-f291008c66c) [## Jupyter 笔记本自动完成
-
-### 数据科学家的最佳生产力工具，如果您还没有使用它，您应该使用它…
-
-towardsdatascience.com](/jupyter-notebook-autocompletion-f291008c66c)*
+*[](/visual-question-answering-challenge-51c4623ddfa5)  [](/top-8-magic-commands-in-jupyter-notebook-c1582e813560)  [](/how-to-do-data-labeling-versioning-and-management-for-ml-ba0345e7988)  [](/jupyter-notebook-autocompletion-f291008c66c) *

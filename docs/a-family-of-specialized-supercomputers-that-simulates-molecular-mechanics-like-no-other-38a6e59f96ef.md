@@ -76,11 +76,7 @@
 
 大量水具有非常复杂的特性，很难建模，调整它们有助于(正如 DEShaw Res 和许多其他人所表明的那样)纠正在多蛋白质系统和内在无序蛋白质(它们不采用可明确定义的 3D 结构，但具有很大的生物学相关性)中观察到的问题。我在下面的论文中对此做了全面的研究，包括当时由 DEShaw Res 提出的最新力场:
 
-[](https://www.sciencedirect.com/science/article/pii/S2001037021001628) [## 对蛋白质模拟的可转移力场的评估证明了…
-
-### 对分子模拟的可转移力场的持续评估对于识别它们的弱点是至关重要的…
-
-www.sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S2001037021001628) 
+[](https://www.sciencedirect.com/science/article/pii/S2001037021001628)  
 
 ## 化学和生物学的应用
 
@@ -88,19 +84,7 @@ www.sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S200103
 
 当然，还有许多与生物学和医学相关蛋白质直接相关的工作。这里只是一小部分选择:
 
-[](https://www.nature.com/articles/s41467-021-25248-5) [## 通过激酶结构域寡聚化的 ALK2/BMPR2 受体复合物信号传导的结构基础…
-
-### 骨形态发生蛋白(BMP)受体是单程跨膜丝氨酸/苏氨酸激酶，形成四聚体…
-
-www.nature.com](https://www.nature.com/articles/s41467-021-25248-5) [](https://aacrjournals.org/cancerdiscovery/article/11/7/1716/666533/Exploiting-Allosteric-Properties-of-RAF-and-MEK) [## 利用 RAF 和 MEK 抑制剂的变构特性靶向治疗耐药肿瘤…
-
-### 克里斯特斯·阿达莫普洛斯、塔梅尔·艾哈迈德、马克斯韦尔·塔克、彼得·吴、肖敏、佐伊·卡鲁利亚、安杰洛·阿马比尔、韦雪……
-
-aacrjournals.org](https://aacrjournals.org/cancerdiscovery/article/11/7/1716/666533/Exploiting-Allosteric-Properties-of-RAF-and-MEK) [](https://www.nature.com/articles/s41467-018-06632-0) [## EGFR 碱配合物的结构揭示了二聚体和配合物的自抑制机制
-
-### 为了防止配体非依赖性二聚化，表皮生长因子受体(EGFR)被一种抗体自动抑制
-
-www.nature.com](https://www.nature.com/articles/s41467-018-06632-0) 
+[](https://www.nature.com/articles/s41467-021-25248-5)  [](https://aacrjournals.org/cancerdiscovery/article/11/7/1716/666533/Exploiting-Allosteric-Properties-of-RAF-and-MEK)  [](https://www.nature.com/articles/s41467-018-06632-0)  
 
 在生物问题的每一个应用中，分子模拟要么提出假设来设计实验，要么解释不能从静态结构中得出的实验结果。这是基于数据的预测工具甚至无法达到的，至少目前是这样。
 
@@ -108,22 +92,6 @@ www.nature.com](https://www.nature.com/articles/s41467-018-06632-0)
 
 关于安东 1、2 和 3:
 
-[](https://dl.acm.org/doi/10.1145/1364782.1364802) [## 安东，分子动力学模拟专用机器 ACM 通信
-
-### 能够进行长时间、精确的分子动力学(MD)模拟，包括蛋白质和其他生物…
-
-dl.acm.org](https://dl.acm.org/doi/10.1145/1364782.1364802) [](https://ieeexplore.ieee.org/document/7012191) [## 安东 2:提高特殊用途分子的性能和可编程性的标准…
-
-### 安东 2 是用于分子动力学模拟的第二代专用超级计算机，可实现…
-
-ieeexplore.ieee.org](https://ieeexplore.ieee.org/document/7012191) [](https://ieeexplore.ieee.org/abstract/document/9773190) [## 安东 3 上的专用高性能网络
-
-### 分子动力学(MD)模拟，一种计算密集型的方法，提供了宝贵的见解…
-
-ieeexplore.ieee.org](https://ieeexplore.ieee.org/abstract/document/9773190) [](https://dl.acm.org/doi/abs/10.1145/3458817.3487397) [## 安东 3 |国际高性能计算、网络会议论文集…
-
-### 家庭会议 SC 会议录 SC '21 安东 3:午餐前 20 微秒的分子动力学模拟
-
-dl.acm.org](https://dl.acm.org/doi/abs/10.1145/3458817.3487397) 
+[](https://dl.acm.org/doi/10.1145/1364782.1364802)  [](https://ieeexplore.ieee.org/document/7012191)  [](https://ieeexplore.ieee.org/abstract/document/9773190)  [](https://dl.acm.org/doi/abs/10.1145/3458817.3487397)  
 
 www.lucianoabriata.com*我写作并拍摄我广泛兴趣范围内的一切事物:自然、科学、技术、编程等等。* [***成为媒介会员***](https://lucianosphere.medium.com/membership) *访问其所有故事(我免费获得小额收入的平台的附属链接)和* [***订阅获取我的新故事***](https://lucianosphere.medium.com/subscribe) ***通过电子邮件*** *。到* ***咨询关于小职位*** *查看我的* [***服务页面这里***](https://lucianoabriata.altervista.org/services/index.html) *。你可以* [***这里联系我***](https://lucianoabriata.altervista.org/office/contact.html) ***。***

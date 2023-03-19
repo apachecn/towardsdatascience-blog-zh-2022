@@ -26,11 +26,7 @@ Yassine Khalfalli 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medi
 
 检查常见的 DQ 问题，如唯一性、完整性和准确性。实现一个简单的仪表板，在一段时间内对质量进行趋势分析，以确定质量是在恶化还是在改善。制定一个计划来解决这些问题及其对 MDS 迁移时间表的影响。
 
-[](/top-15-most-common-data-quality-issues-and-how-to-fix-them-c1ef0854dca6) [## 15 个最常见的数据质量问题(以及如何解决它们)
-
-### 处理常见数据质量问题的提示和技巧
-
-towardsdatascience.com](/top-15-most-common-data-quality-issues-and-how-to-fix-them-c1ef0854dca6) 
+[](/top-15-most-common-data-quality-issues-and-how-to-fix-them-c1ef0854dca6)  
 
 ## 2.未修复已知的 DQ 问题
 
@@ -62,11 +58,7 @@ MDS 不是你所期望的圣杯。如果您的组织以前遭受过低质量数�
 
 如果对您来说这是太多的传统话题，请随意查看一些最新的数据架构趋势:
 
-[](/top-5-data-architecture-trends-and-what-they-mean-for-you-ef7c07bfa755) [## 五大数据架构趋势(以及它们对您的意义)
-
-### 这只是炒作，还是也有学问？
-
-towardsdatascience.com](/top-5-data-architecture-trends-and-what-they-mean-for-you-ef7c07bfa755) 
+[](/top-5-data-architecture-trends-and-what-they-mean-for-you-ef7c07bfa755)  
 
 如果您没有订阅 Medium，请考虑使用我的推荐链接订阅[。它比网飞便宜，而且客观上能更好地利用你的时间。](https://hanzalaqureshi.medium.com/membership)如果你使用我的链接，我会获得一小笔佣金，而你可以在 Medium 上获得无限的故事。
 

@@ -73,48 +73,8 @@
 
 查看我最近的一些文章
 
-[](https://miketechgame.medium.com/examining-behavior-driven-development-5db006edfee5) [## 检查行为驱动的开发
-
-### 不同的编程方法
-
-miketechgame.medium.com](https://miketechgame.medium.com/examining-behavior-driven-development-5db006edfee5) [](https://python.plainenglish.io/medium-has-an-api-605b51037b52) [## Medium 有 API？
-
-### 如何通过媒体 API 发布文章的初级读本
-
-python .平原英语. io](https://python.plainenglish.io/medium-has-an-api-605b51037b52) [](https://python.plainenglish.io/the-painful-journey-to-find-a-markdown-editor-15bd1cd370e2) [## 寻找降价编辑的痛苦旅程
-
-### 这应该更容易些…
-
-python .平原英语. io](https://python.plainenglish.io/the-painful-journey-to-find-a-markdown-editor-15bd1cd370e2) [](https://medium.com/mlearning-ai/a-deeper-dive-into-neural-networks-71b73e7e4364) [## 对神经网络的深入探究
-
-### 它们是什么，如何使用？
-
-medium.com](https://medium.com/mlearning-ai/a-deeper-dive-into-neural-networks-71b73e7e4364) [](/reinforcement-learning-in-data-science-e7805f133d7) [## 数据科学中的强化学习
-
-### 机器学习中使用的另一种技术
-
-towardsdatascience.com](/reinforcement-learning-in-data-science-e7805f133d7) 
+[](https://miketechgame.medium.com/examining-behavior-driven-development-5db006edfee5)  [](https://python.plainenglish.io/medium-has-an-api-605b51037b52)  [](https://python.plainenglish.io/the-painful-journey-to-find-a-markdown-editor-15bd1cd370e2)  [](https://medium.com/mlearning-ai/a-deeper-dive-into-neural-networks-71b73e7e4364)  [](/reinforcement-learning-in-data-science-e7805f133d7)  
 
 参考资料:
 
-[](https://www.artaigallery.com/pages/what-is-ai-generated-art) [## 什么是 AI 生成的艺术？
-
-### 第一个广为人知的使用人工智能制作艺术品的尝试是谷歌的 DeepDream。DeepDream 是一种算法…
-
-www.artaigallery.com](https://www.artaigallery.com/pages/what-is-ai-generated-art) [](https://bernardmarr.com/artificial-intelligence-can-now-generate-amazing-images-what-does-this-mean-for-humans/) [## 人工智能现在可以生成令人惊叹的图像——这对人类意味着什么？
-
-### 事实证明，在对庞大的数据集进行训练后，算法不仅可以分辨出一张图片是什么，比如…
-
-bernardmarr.com](https://bernardmarr.com/artificial-intelligence-can-now-generate-amazing-images-what-does-this-mean-for-humans/) [](https://www.techtarget.com/searchenterpriseai/definition/generative-adversarial-network-GAN) [## 什么是生成性对抗网络？-WhatIs.com 的定义
-
-### 生成式对抗网络(GAN)是一种机器学习(ML)模型，其中两个神经网络与
-
-www.techtarget.com](https://www.techtarget.com/searchenterpriseai/definition/generative-adversarial-network-GAN) [](https://www.simplilearn.com/tutorials/deep-learning-tutorial/generative-adversarial-networks-gans) [## 什么是生成性对抗网络
-
-### 深度学习已经在行业中找到了许多应用。神经网络被广泛应用于几乎每一个…
-
-www.simplilearn.com](https://www.simplilearn.com/tutorials/deep-learning-tutorial/generative-adversarial-networks-gans) [](https://www.theguardian.com/culture/2022/jun/09/what-exactly-is-ai-generated-art-how-does-it-work-will-it-replace-human-visual-artists) [## Dall-E 2 mini:到底什么是‘人工智能生成的艺术’？它是如何工作的？它会取代人类视觉吗…
-
-### 乔希，我听说了很多关于“人工智能艺术”的事情，也看到了很多看起来非常疯狂的迷因。什么是…
-
-www.theguardian.com](https://www.theguardian.com/culture/2022/jun/09/what-exactly-is-ai-generated-art-how-does-it-work-will-it-replace-human-visual-artists)
+[](https://www.artaigallery.com/pages/what-is-ai-generated-art)  [](https://bernardmarr.com/artificial-intelligence-can-now-generate-amazing-images-what-does-this-mean-for-humans/)  [](https://www.techtarget.com/searchenterpriseai/definition/generative-adversarial-network-GAN)  [](https://www.simplilearn.com/tutorials/deep-learning-tutorial/generative-adversarial-networks-gans)  [](https://www.theguardian.com/culture/2022/jun/09/what-exactly-is-ai-generated-art-how-does-it-work-will-it-replace-human-visual-artists) 

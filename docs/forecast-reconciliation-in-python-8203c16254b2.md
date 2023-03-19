@@ -123,12 +123,4 @@
 【3】米切尔·奥哈拉-怀尔德、罗布·海德曼、埃罗·王；*寓言工具*(2022)；[https://fabletools.tidyverts.org/reference/reconcile.html](https://fabletools.tidyverts.org/reference/reconcile.html)
 【4】卡洛·马扎费罗*sci kit-HTS*(2019)[https://scikit-hts.readthedocs.io/en/latest/readme.html](https://scikit-hts.readthedocs.io/en/latest/readme.html)*
 
-*[](/the-perceptron-algorithm-b74d95d6e1cb) [## 感知器算法
-
-### 理解并用 R 编写你自己的感知器算法
-
-towardsdatascience.com](/the-perceptron-algorithm-b74d95d6e1cb) [](https://medium.com/@bentontripp/membership) [## 加入我的介绍链接-本顿特里普媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@bentontripp/membership)*
+*[](/the-perceptron-algorithm-b74d95d6e1cb)  [](https://medium.com/@bentontripp/membership) *

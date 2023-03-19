@@ -362,8 +362,4 @@ share_df.plot.bar(x='partiesdf',y=['seats','proportional_seats'],figsize=(15,5))
 
 如果你愿意，你可以订阅我偶尔发布的免费时事通讯，Substack 上的[Technofile](https://technofile.substack.com/)——我会在那里发布新的文章。[这里](https://technofile.substack.com/p/streamlit-special)举例来说就是我写的一堆 [Streamlit 文章](https://technofile.substack.com/p/streamlit-special)的帖子。
 
-[](https://alanjones2.github.io/) [## AlanJones:编码、科学和技术
-
-### 关于数据可视化和类似主题的文章、教程和应用程序——大部分是 Python 语言，参见一些示例…
-
-alanjones2.github.io](https://alanjones2.github.io/)
+[](https://alanjones2.github.io/) 

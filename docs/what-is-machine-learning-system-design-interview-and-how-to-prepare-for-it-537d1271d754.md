@@ -43,11 +43,7 @@ ML 模型直接从数据中学习，因此数据的来源和收集策略非常�
 
 如果你和面试官一起讨论这些问题，会有所帮助。另一件重要的事情是分析什么样的数据可供你使用，并论证是否有足够的通用性。您应该意识到 ML 中不平衡数据集的含义，并在必要时解决它。确保正样本和负样本是平衡的，以避免过度适合一个类别。此外，在数据收集过程中不应该有任何偏见。问问你自己，这些数据是否是从足够大的人群中抽取的，以便更好地概括。
 
-[](/a-walk-through-imbalanced-classes-in-machine-learning-through-a-visual-cheat-sheet-974740b19094) [## 通过可视化备忘单浏览机器学习中的不平衡类
-
-### 什么是不平衡的训练数据，如何通过精确度、召回率和 f1 分数来解决这个问题
-
-towardsdatascience.com](/a-walk-through-imbalanced-classes-in-machine-learning-through-a-visual-cheat-sheet-974740b19094) 
+[](/a-walk-through-imbalanced-classes-in-machine-learning-through-a-visual-cheat-sheet-974740b19094)  
 
 ## 3.探索性数据分析
 
@@ -79,19 +75,7 @@ towardsdatascience.com](/a-walk-through-imbalanced-classes-in-machine-learning-t
 
 下面的文章将帮助你理解 ML 模型的不同部分
 
-[](/a-visualization-of-the-basic-elements-of-a-convolutional-neural-network-75fea30cd78d) [## 卷积神经网络基本元素的可视化
-
-### 不同 CNN 元素的动画可视化
-
-towardsdatascience.com](/a-visualization-of-the-basic-elements-of-a-convolutional-neural-network-75fea30cd78d) [](/a-beginners-guide-to-regression-analysis-in-machine-learning-8a828b491bbf) [## 机器学习中回归分析的初学者指南
-
-### 回归分析用例子、插图、动画和备忘单解释。
-
-towardsdatascience.com](/a-beginners-guide-to-regression-analysis-in-machine-learning-8a828b491bbf) [](/the-w3h-of-alexnet-vggnet-resnet-and-inception-7baaaecccc96) [## AlexNet、VGGNet、ResNet 和 Inception 之间的区别
-
-### AlexNet，VGGNet，ResNet 和 Inception 解释
-
-towardsdatascience.com](/the-w3h-of-alexnet-vggnet-resnet-and-inception-7baaaecccc96) 
+[](/a-visualization-of-the-basic-elements-of-a-convolutional-neural-network-75fea30cd78d)  [](/a-beginners-guide-to-regression-analysis-in-machine-learning-8a828b491bbf)  [](/the-w3h-of-alexnet-vggnet-resnet-and-inception-7baaaecccc96)  
 
 ## 5.模特培训
 
@@ -106,15 +90,7 @@ towardsdatascience.com](/the-w3h-of-alexnet-vggnet-resnet-and-inception-7baaaecc
 
 以下文章将有助于您深入理解上面提到的一些主题
 
-[](/types-of-regularization-in-machine-learning-eb5ce5f9bf50) [## 机器学习中的正则化类型
-
-### 机器学习正则化初学者指南。
-
-towardsdatascience.com](/types-of-regularization-in-machine-learning-eb5ce5f9bf50) [](/difference-between-local-response-normalization-and-batch-normalization-272308c034ac) [## 局部响应标准化和批量标准化的区别
-
-### 深度神经网络中使用的不同规范化技术的简短教程。
-
-towardsdatascience.com](/difference-between-local-response-normalization-and-batch-normalization-272308c034ac) 
+[](/types-of-regularization-in-machine-learning-eb5ce5f9bf50)  [](/difference-between-local-response-normalization-and-batch-normalization-272308c034ac)  
 
 ## 6.估价
 
@@ -131,10 +107,6 @@ towardsdatascience.com](/difference-between-local-response-normalization-and-bat
 
 在本文中，我们看到了一种回答 ML 系统设计问题的有组织的方法。没有一个正确的答案，这次面试的目的是分析候选人设计端到端系统的思维过程。话虽如此，深入了解各种 ML 话题是在这次面试中取得成功的必要条件。以下备忘单将有助于更新这些主题。
 
-[](https://medium.com/swlh/cheat-sheets-for-machine-learning-interview-topics-51c2bc2bab4f) [## 机器学习面试主题的备忘单
-
-### ML 面试的视觉备忘单(www.cheatsheets.aqeel-anwar.com)
-
-medium.com](https://medium.com/swlh/cheat-sheets-for-machine-learning-interview-topics-51c2bc2bab4f) 
+[](https://medium.com/swlh/cheat-sheets-for-machine-learning-interview-topics-51c2bc2bab4f)  
 
 **如果这篇文章对你有帮助，或者你想了解更多关于机器学习和数据科学的知识，请关注**[**【Aqeel an war】**](https://medium.com/u/a7cc4f201fb5?source=post_page-----51587a95f847-----------------------------------)**，或者在**[***LinkedIn***](https://www.linkedin.com/in/aqeelanwarmalik/)***或***[***Twitter***](https://twitter.com/_aqeelanwar)***上联系我。你也可以订阅我的邮件列表。***

@@ -162,8 +162,4 @@ graphviz: 0.19.1
 
 ***通过以下我的个性化链接加入 Medium，继续您的数据科学学习之旅***
 
-*[](https://bit.ly/3ueQFbR) [## 通过我的推荐链接加入 Medium 索尔·多比拉斯
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-solclover.com](https://bit.ly/3ueQFbR)*
+*[](https://bit.ly/3ueQFbR) *

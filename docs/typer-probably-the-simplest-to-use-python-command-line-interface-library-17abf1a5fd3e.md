@@ -10,11 +10,7 @@
 
 上周，我介绍了 Python 内置模块之一——arg parse。它允许我们非常容易地开发命令行界面工具。我们可以用它来定义位置参数和可选参数。它也有现成的帮助说明，所以我们只需要为每个参数写一个字符串。如果你错过了那篇文章，在这里。
 
-[](/using-python-argparse-to-develop-a-command-line-interfaced-program-73040940ca94) [## 使用 Python Argparse 开发命令行界面程序
-
-### 开发 Linux 系统程序的方法
-
-towardsdatascience.com](/using-python-argparse-to-develop-a-command-line-interfaced-program-73040940ca94) 
+[](/using-python-argparse-to-develop-a-command-line-interfaced-program-73040940ca94)  
 
 该模块确实易于使用，但也有一些缺点。因此，在本文中，我将介绍一个名为 **Typer** 的第三方库，我认为它可能是开发 Python CLI 程序的最佳工具之一。
 
@@ -32,11 +28,7 @@ towardsdatascience.com](/using-python-argparse-to-develop-a-command-line-interfa
 
 著名的第三方库 Click 很好地解决了这些问题。
 
- [## 欢迎使用点击-点击文档(8.0.x)
-
-### Click 是一个 Python 包，可以用最少的代码以可组合的方式创建漂亮的命令行界面…
-
-click.palletsprojects.com](https://click.palletsprojects.com/en/8.0.x/#documentation) 
+  
 
 这篇文章的主角 Typer 是建立在 Click 之上的。甚至比 Click 还好用。此外，已经有太多关于 Click 的教程，所以我宁愿介绍一些不太受欢迎但更有潜力的东西。
 
@@ -185,10 +177,6 @@ $ python greeting.py bye --help
 
 在本文中，我介绍了一个用于开发 CLI 程序的第三方 Python 库。它极大地简化了我们定义带有选项和标志的 CLI 应用程序所需编写的代码。虽然它非常直观且易于使用，但它也具有可伸缩性，允许我们编写相对复杂的应用程序。
 
-[](https://medium.com/@qiuyujx/membership) [## 通过我的推荐链接加入灵媒-陶
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@qiuyujx/membership) 
+[](https://medium.com/@qiuyujx/membership)  
 
 **如果你觉得我的文章有帮助，请考虑加入灵媒会员来支持我和成千上万的其他作家！(点击上面的链接)**

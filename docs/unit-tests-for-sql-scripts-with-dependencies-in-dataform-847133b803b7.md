@@ -14,11 +14,7 @@
 
 我在使用 BigQuery 脚本之前尝试过:
 
-[](/sql-unit-testing-in-bigquery-here-is-a-tutorial-64fc7a6b377) [## BigQuery 中的 SQL 单元测试？这里有一个教程。
-
-### 脚本和 UDF 测试完全指南。
-
-towardsdatascience.com](/sql-unit-testing-in-bigquery-here-is-a-tutorial-64fc7a6b377) 
+[](/sql-unit-testing-in-bigquery-here-is-a-tutorial-64fc7a6b377)  
 
 > 然而，这里有另一种(也可能是更好的)方法。
 
@@ -58,11 +54,7 @@ Dataform 支持针对**视图**的 **SQL 单元测试**，您可以在 Dataform 
 
 我以前在这里写过关于合并更新的文章:
 
-[](/advanced-sql-techniques-for-beginners-211851a28488) [## 面向初学者的高级 SQL 技术
-
-### 从 1 到 10，你的数据仓库技能有多好？
-
-towardsdatascience.com](/advanced-sql-techniques-for-beginners-211851a28488) 
+[](/advanced-sql-techniques-for-beginners-211851a28488)  
 
 # 我们如何为此创建一个单元测试？
 
@@ -158,22 +150,6 @@ Dataform 还有一个 docker 映像，因此您可能希望设置一个 **Gitflo
 
 # 推荐阅读:
 
-[](https://cloud.google.com/dataform) [## 数据表单|谷歌云
-
-### 主要功能 Dataform Core 使数据工程师和数据分析师能够集中创建表定义、配置…
-
-cloud.google.com](https://cloud.google.com/dataform) [](/sql-unit-testing-in-bigquery-here-is-a-tutorial-64fc7a6b377) [## BigQuery 中的 SQL 单元测试？这里有一个教程。
-
-### 脚本和 UDF 测试完全指南。
-
-towardsdatascience.com](/sql-unit-testing-in-bigquery-here-is-a-tutorial-64fc7a6b377) [](/advanced-sql-techniques-for-beginners-211851a28488) [## 面向初学者的高级 SQL 技术
-
-### 从 1 到 10，你的数据仓库技能有多好？
-
-towardsdatascience.com](/advanced-sql-techniques-for-beginners-211851a28488)  [## 使用数据表单 CLI
-
-### CLI 使您能够直接从本地计算机或作为一部分来初始化、编译、测试和运行数据表单项目
-
-docs.dataform.co](https://docs.dataform.co/dataform-cli) 
+[](https://cloud.google.com/dataform)  [](/sql-unit-testing-in-bigquery-here-is-a-tutorial-64fc7a6b377)  [](/advanced-sql-techniques-for-beginners-211851a28488)    
 
 *原载于*[*https://mydataschool.com*](https://mydataschool.com/blog/unit-tests-for-sql-scripts-with-dependencies-in-dataform/)*。*

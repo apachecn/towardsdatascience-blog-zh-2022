@@ -102,16 +102,4 @@ pyheat 热图
 
 *本文最初发布于*[*martinheinz . dev*](https://martinheinz.dev/blog/64?utm_source=medium&utm_medium=referral&utm_campaign=blog_post_64)
 
-[](/speeding-up-container-image-builds-with-remote-cache-c72577317886) [## 使用远程缓存加速容器映像构建
-
-### 使用这些缓存技术可以轻松地优化 CI/CD 管道中的容器映像构建
-
-towardsdatascience.com](/speeding-up-container-image-builds-with-remote-cache-c72577317886) [](/the-unknown-features-of-pythons-operator-module-1ad9075d9536) [## Python 的运算符模块的未知特性
-
-### 借助 Python 鲜为人知的操作符模块，使您的代码更快、更简洁、可读性更强、功能更强大
-
-towardsdatascience.com](/the-unknown-features-of-pythons-operator-module-1ad9075d9536) [](/functools-the-power-of-higher-order-functions-in-python-8e6e61c6e4e4) [## func tools——Python 中高阶函数的威力
-
-### 浏览 Python 的 functools 模块，了解如何使用它的高阶函数来实现缓存…
-
-towardsdatascience.com](/functools-the-power-of-higher-order-functions-in-python-8e6e61c6e4e4)
+[](/speeding-up-container-image-builds-with-remote-cache-c72577317886)  [](/the-unknown-features-of-pythons-operator-module-1ad9075d9536)  [](/functools-the-power-of-higher-order-functions-in-python-8e6e61c6e4e4) 

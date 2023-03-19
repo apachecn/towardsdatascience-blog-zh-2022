@@ -182,19 +182,7 @@ DeepMind 团队还通过省略彩虹中的个别技术，检查了所有组件�
 
 想更多地了解 DQN 吗？查看以下文章:
 
-[](/deep-q-learning-for-the-cliff-walking-problem-b54835409046) [## 悬崖行走问题的深度 Q 学习
-
-### 一个完整的 Python 实现，用 TensorFlow 2.0 导航悬崖。
-
-towardsdatascience.com](/deep-q-learning-for-the-cliff-walking-problem-b54835409046) [](/how-to-model-experience-replay-batch-learning-and-target-networks-c1350db93172) [## 如何对经验重放、批量学习和目标网络进行建模
-
-### 使用 TensorFlow 2.0，快速学习稳定和成功的深度 Q 学习的三个基本技巧
-
-towardsdatascience.com](/how-to-model-experience-replay-batch-learning-and-target-networks-c1350db93172) [](/a-minimal-working-example-for-deep-q-learning-in-tensorflow-2-0-e0ca8a944d5e) [## TensorFlow 2.0 中深度 Q 学习的最小工作示例
-
-### 一个多臂土匪的例子来训练一个 Q 网络。使用 TensorFlow，更新过程只需要几行代码
-
-towardsdatascience.com](/a-minimal-working-example-for-deep-q-learning-in-tensorflow-2-0-e0ca8a944d5e) 
+[](/deep-q-learning-for-the-cliff-walking-problem-b54835409046)  [](/how-to-model-experience-replay-batch-learning-and-target-networks-c1350db93172)  [](/a-minimal-working-example-for-deep-q-learning-in-tensorflow-2-0-e0ca8a944d5e)  
 
 # 参考
 

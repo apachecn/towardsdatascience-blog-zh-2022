@@ -238,28 +238,4 @@ sns.relplot(data = ti, x = 'age', y = "fare", hue = "alive", col = "pclass", hei
 
 ## 更多阅读
 
-[](/an-ultimate-cheatsheet-of-data-visualization-in-seaborn-be8ed13a3697) [## 用 Python 的 Seaborn 库实现数据可视化的终极指南
-
-### 对学习者来说也是一个很好的资源
-
-towardsdatascience.com](/an-ultimate-cheatsheet-of-data-visualization-in-seaborn-be8ed13a3697) [](/exploratory-data-analysis-with-some-cool-visualizations-in-pythons-matplotlib-and-seaborn-library-99dde20d98bf) [## 利用 Python 的 Matplotlib 和 Seaborn 中的高级可视化进行探索性数据分析…
-
-### 探索国际足联数据集
-
-towardsdatascience.com](/exploratory-data-analysis-with-some-cool-visualizations-in-pythons-matplotlib-and-seaborn-library-99dde20d98bf) [](https://pub.towardsai.net/data-analysis-91a38207c92b) [## 数据分析
-
-### Python 中数据科学家/分析师日常工作中的常见数据清理任务
-
-pub.towardsai.net](https://pub.towardsai.net/data-analysis-91a38207c92b) [](/30-very-useful-pandas-functions-for-everyday-data-analysis-tasks-f1eae16409af) [## 30 个非常有用的熊猫函数，用于日常数据分析任务
-
-### 熊猫小型张
-
-towardsdatascience.com](/30-very-useful-pandas-functions-for-everyday-data-analysis-tasks-f1eae16409af) [](/chi-square-test-for-correlation-test-in-details-manual-and-python-implementation-472ae5c4b15f) [## 详细相关性检验的卡方检验:手动和 Python 实现
-
-### 检查两个变量是否相互独立
-
-towardsdatascience.com](/chi-square-test-for-correlation-test-in-details-manual-and-python-implementation-472ae5c4b15f) [](https://medium.datadriveninvestor.com/what-is-a-b-testing-how-to-perform-an-a-b-testing-892cc8f35cbf) [## 什么是 A/B 测试？如何进行 A/B 测试？
-
-### A/B 测试流程的简要概述
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/what-is-a-b-testing-how-to-perform-an-a-b-testing-892cc8f35cbf)
+[](/an-ultimate-cheatsheet-of-data-visualization-in-seaborn-be8ed13a3697)  [](/exploratory-data-analysis-with-some-cool-visualizations-in-pythons-matplotlib-and-seaborn-library-99dde20d98bf)  [](https://pub.towardsai.net/data-analysis-91a38207c92b)  [](/30-very-useful-pandas-functions-for-everyday-data-analysis-tasks-f1eae16409af)  [](/chi-square-test-for-correlation-test-in-details-manual-and-python-implementation-472ae5c4b15f)  [](https://medium.datadriveninvestor.com/what-is-a-b-testing-how-to-perform-an-a-b-testing-892cc8f35cbf) 

@@ -22,11 +22,7 @@
 
 因为我需要每日汇率，所以我使用了我以前的一篇文章中描述的技巧来填补时间序列数据中的空白:
 
-[](https://medium.com/codex/fill-gaps-in-time-series-with-this-simple-trick-in-sql-81ac655e5ad7) [## 用这个简单的 SQL 技巧填补时间序列中的空白
-
-### 基于时间的数据可能包含间隙。当您必须处理这些数据时，这种差距可能会导致问题。这里有一个技巧来填充…
-
-medium.com](https://medium.com/codex/fill-gaps-in-time-series-with-this-simple-trick-in-sql-81ac655e5ad7) 
+[](https://medium.com/codex/fill-gaps-in-time-series-with-this-simple-trick-in-sql-81ac655e5ad7)  
 
 将费率表导入 Power BI 后，我编写了计算结果的方法。
 
@@ -326,8 +322,4 @@ Contoso 的数据可以在麻省理工学院的许可下自由使用，正如这
 
 第三个示例中使用的数据集包含来自我的 Azure 云订阅的实际使用数据，这些数据被导入到 Power BI 中。
 
-[](https://medium.com/@salvatorecagliari/membership) [## 通过我的推荐链接加入 Medium-Salvatore Cagliari
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@salvatorecagliari/membership)
+[](https://medium.com/@salvatorecagliari/membership) 

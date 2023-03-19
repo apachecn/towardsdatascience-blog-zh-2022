@@ -24,11 +24,7 @@
 
 *有关回归算法的指南，请参见:*
 
-[](/top-machine-learning-algorithms-for-regression-c67258a2c0ac) [## 机器学习中的四大回归算法
-
-### 全面的实施和比较指南
-
-towardsdatascience.com](/top-machine-learning-algorithms-for-regression-c67258a2c0ac) 
+[](/top-machine-learning-algorithms-for-regression-c67258a2c0ac)  
 
 有时在分类算法和回归算法之间有一条模糊的线。许多算法既可以用于分类，也可以用于回归，而分类只是应用了阈值的回归模型。当数量高于阈值时，它被分类为真，而低于阈值时，它被分类为假。
 
@@ -44,11 +40,7 @@ towardsdatascience.com](/top-machine-learning-algorithms-for-regression-c67258a2
 
 sigmoid 函数生成概率输出。通过将该概率与预定义的阈值进行比较，对象被相应地分配给标签。查看我在[逻辑回归](/simple-logistic-regression-using-python-scikit-learn-86bf984f61f1)上的帖子，获得详细的演示。
 
-[](/simple-logistic-regression-using-python-scikit-learn-86bf984f61f1) [## Python 中的简单逻辑回归
-
-### 从数据预处理到模型评估的逐步指南
-
-towardsdatascience.com](/simple-logistic-regression-using-python-scikit-learn-86bf984f61f1) 
+[](/simple-logistic-regression-using-python-scikit-learn-86bf984f61f1)  
 
 下面是默认逻辑回归和常用超参数的代码片段，看看哪些组合能带来最好的结果。
 
@@ -172,11 +164,7 @@ y_pred = gnb.predict(X_test)
 
 **直方图、分组条形图和箱线图**是适合分类机器学习算法的 EDA 技术。如果你想要更全面的 EDA 指南，请参见我的帖子“[Python 中的半自动探索性数据分析过程](https://www.visual-design.net/post/semi-automated-exploratory-data-analysis-process-in-python)
 
-[](https://www.visual-design.net/post/semi-automated-exploratory-data-analysis-process-in-python) [## Python 中的半自动探索性数据分析过程
-
-### 本文介绍了几种使用 Python 实现 EDA 过程自动化的技术，包括单变量分析…
-
-www.visual-design.net](https://www.visual-design.net/post/semi-automated-exploratory-data-analysis-process-in-python) 
+[](https://www.visual-design.net/post/semi-automated-exploratory-data-analysis-process-in-python)  
 
 **单因素分析**
 
@@ -281,11 +269,7 @@ ROC 是在不同分类阈值下**真阳性率对**假阳性率的图。AUC 是 R
 
 ## 机器学习实用指南
 
-[View list](https://destingong.medium.com/list/practical-guides-to-machine-learning-a877c2a39884?source=post_page-----2197870ff501--------------------------------)10 stories![Principal Component Analysis for ML](img/1edea120a42bd7dc8ab4a4fcdd5b822d.png)![Time Series Analysis](img/fda8795039b423777fc8e9d8c0dc0d07.png)![deep learning cheatsheet for beginner](img/b2a4e3806c454a795ddfae0b02828b30.png)[](/how-to-self-learn-data-science-in-2022-a537a76d138e) [## 2022 年如何自学数据科学
-
-### 基于项目的数据科学入门方法
-
-towardsdatascience.com](/how-to-self-learn-data-science-in-2022-a537a76d138e) ![Destin Gong](img/dcd4375055f8aa7602b1433a60ad5ca3.png)
+[View list](https://destingong.medium.com/list/practical-guides-to-machine-learning-a877c2a39884?source=post_page-----2197870ff501--------------------------------)10 stories![Principal Component Analysis for ML](img/1edea120a42bd7dc8ab4a4fcdd5b822d.png)![Time Series Analysis](img/fda8795039b423777fc8e9d8c0dc0d07.png)![deep learning cheatsheet for beginner](img/b2a4e3806c454a795ddfae0b02828b30.png)[](/how-to-self-learn-data-science-in-2022-a537a76d138e)  ![Destin Gong](img/dcd4375055f8aa7602b1433a60ad5ca3.png)
 
 [德斯坦贡](https://destingong.medium.com/?source=post_page-----2197870ff501--------------------------------)
 

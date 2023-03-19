@@ -206,23 +206,11 @@ $ kedro run --runner=ParallelRunner*
 
 *命令`kedro test`运行项目中的所有单元测试，遵循 Python `unittest`或`pytest`框架。而命令`kedro lint`使用`flake8`、`isort`和`black` Python 包执行林挺。这些 CLI 命令无缝地工作，除了编写测试用例之外，用户不需要额外的工作。*
 
-*[](/unit-testing-with-mocking-in-10-minutes-e28feb7e530) [## 10 分钟后模拟单元测试
-
-### 使用内置的 unittest Python 包有效地测试您的代码库
-
-towardsdatascience.com](/unit-testing-with-mocking-in-10-minutes-e28feb7e530) [](/pytest-with-marking-mocking-and-fixtures-in-10-minutes-678d7ccd2f70) [## 10 分钟内完成标记、模仿和固定装置的 Pytest
-
-### 用 Python pytest 编写健壮的单元测试
-
-towardsdatascience.com](/pytest-with-marking-mocking-and-fixtures-in-10-minutes-678d7ccd2f70) 
+*[](/unit-testing-with-mocking-in-10-minutes-e28feb7e530)  [](/pytest-with-marking-mocking-and-fixtures-in-10-minutes-678d7ccd2f70)  
 
 为您的源代码编写文档字符串和文档也是一个很好的实践，这样技术和非技术受众都可以理解这个存储库。命令`kedro build-docs`自动为您的项目生成文档。这是建立在 Sphinx 框架之上的，它可以用漂亮的 HTML 格式显示文档。
 
-[](/advanced-code-documentation-beyond-comments-and-docstrings-2cc5b2ace28a) [## 注释和文档字符串之外的高级代码文档
-
-### 使用 Sphinx 并阅读文档以获得用户友好的界面来理解代码库——即使对于非技术用户也是如此
-
-towardsdatascience.com](/advanced-code-documentation-beyond-comments-and-docstrings-2cc5b2ace28a) 
+[](/advanced-code-documentation-beyond-comments-and-docstrings-2cc5b2ace28a)  
 
 # 高级:使用外部数据库
 

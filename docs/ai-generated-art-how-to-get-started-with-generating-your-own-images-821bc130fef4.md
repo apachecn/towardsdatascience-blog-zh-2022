@@ -170,11 +170,7 @@ Midjourney 主要在他们的 discord 服务器上提供**【文本到图像】*
 
 如果你想了解更多，这里有一个由[吉姆·克莱德·蒙赫](https://medium.com/u/819323b399ac?source=post_page-----821bc130fef4--------------------------------)提供的很棒的分步指南:
 
-[](https://medium.com/geekculture/run-stable-diffusion-in-your-local-computer-heres-a-step-by-step-guide-af128397d424) [## 在您的本地计算机上运行稳定的扩散——这里有一个分步指南
-
-### 稳定扩散现在是开源的，可以在你的本地 GPU 上运行。用这些步骤生成免费和无限制的图像。
-
-medium.com](https://medium.com/geekculture/run-stable-diffusion-in-your-local-computer-heres-a-step-by-step-guide-af128397d424) 
+[](https://medium.com/geekculture/run-stable-diffusion-in-your-local-computer-heres-a-step-by-step-guide-af128397d424)  
 
 如果不想处理任何代码，也可以使用 [Dream Studio](https://beta.dreamstudio.ai/) web 应用。为此，你只需要注册一个帐户。
 
@@ -244,11 +240,7 @@ medium.com](https://medium.com/geekculture/run-stable-diffusion-in-your-local-co
 
 **成为一名媒体会员，阅读更多来自我和其他作家的故事。报名时可以使用我的 [*推荐链接*](https://medium.com/@iamleonie/membership) *支持我。我将收取佣金，不需要你额外付费。***
 
-**[](https://medium.com/@iamleonie/membership) [## 通过我的推荐链接加入 Medium—Leonie Monigatti
-
-### 阅读 Leonie Monigatti(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接…
-
-medium.com](https://medium.com/@iamleonie/membership) 
+**[](https://medium.com/@iamleonie/membership)  
 
 *在*[*Twitter*](https://twitter.com/helloiamleonie)*[*LinkedIn*](https://www.linkedin.com/in/804250ab/)*[*Kaggle*](https://www.kaggle.com/iamleonie)*！***
 

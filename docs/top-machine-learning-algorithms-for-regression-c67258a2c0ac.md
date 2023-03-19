@@ -27,11 +27,7 @@
 
 随着更多功能的引入，简单线性回归演变为多元线性回归 *y = b0 + b1x1 + b2x2 + … + bnxn。*如果你想要[简单线性回归模型](/a-practical-guide-to-linear-regression-3b1cb9e501a6)的具体指南，请随意查看我的文章。
 
-[](/a-practical-guide-to-linear-regression-3b1cb9e501a6) [## 线性回归实用指南
-
-### 从 EDA 到特征工程再到模型评估
-
-towardsdatascience.com](/a-practical-guide-to-linear-regression-3b1cb9e501a6) 
+[](/a-practical-guide-to-linear-regression-3b1cb9e501a6)  
 
 # 套索回归
 
@@ -152,11 +148,7 @@ for col in df.columns:
 
 查看我的文章“3 种常见的数据转换技术”以获得更全面的数据转换技术指南。
 
-[](/data-transformation-and-feature-engineering-e3c7dfbb4899) [## 3 种常见的数据转换技术
-
-### 如何为您的数据选择合适的
-
-towardsdatascience.com](/data-transformation-and-feature-engineering-e3c7dfbb4899) 
+[](/data-transformation-and-feature-engineering-e3c7dfbb4899)  
 
 请注意，缩放器仅适合使用训练集，然后将变换应用于训练集和测试集。所以，应该先拆分数据集。
 
@@ -287,11 +279,7 @@ X_test_poly = pf.fit_transform(X_test)
 
 ## 更多这样的文章
 
-[](/top-machine-learning-algorithms-for-classification-2197870ff501) [## 用于分类的 6 大机器学习算法
-
-### 如何用 Python 构建机器学习模型管道
-
-towardsdatascience.com](/top-machine-learning-algorithms-for-classification-2197870ff501) ![Destin Gong](img/dcd4375055f8aa7602b1433a60ad5ca3.png)
+[](/top-machine-learning-algorithms-for-classification-2197870ff501)  ![Destin Gong](img/dcd4375055f8aa7602b1433a60ad5ca3.png)
 
 [德斯坦贡](https://destingong.medium.com/?source=post_page-----c67258a2c0ac--------------------------------)
 

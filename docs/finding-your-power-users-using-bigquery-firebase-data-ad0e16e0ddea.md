@@ -84,24 +84,4 @@ Solen Feyissa 在 [Unsplash](https://unsplash.com/s/photos/flow?utm_source=unspl
 
 # 资源
 
- [## 跟踪屏幕视图| Firebase 文档
-
-### Google Analytics 跟踪屏幕切换，并将当前屏幕的信息附加到事件中，使您能够…
-
-firebase.google.com](https://firebase.google.com/docs/analytics/screenviews) [](https://developers.google.com/analytics/devguides/collection/ga4/ecommerce?client_type=gtag#view_item_list) [## 衡量电子商务|谷歌分析 4 属性|谷歌开发者
-
-### 电子商务报告提供了对用户购物行为的洞察，使您能够量化您最…
-
-developers.google.com](https://developers.google.com/analytics/devguides/collection/ga4/ecommerce?client_type=gtag#view_item_list) [](https://andrewchen.com/power-user-curve/) [## 超级用户曲线:了解 andrewchen 最活跃用户的最佳方式
-
-### 今天我们有一篇文章是关于我们用来分析安德森·霍洛维茨基金投资的一个常用框架:权力…
-
-andrewchen.com](https://andrewchen.com/power-user-curve/) [](https://cloud.google.com/bigquery/docs/reference/standard-sql/navigation_functions) [## 导航功能|大查询|谷歌云
-
-### 无论您的企业正处于数字化转型的早期阶段，谷歌云都可以帮助您…
-
-cloud.google.com](https://cloud.google.com/bigquery/docs/reference/standard-sql/navigation_functions) [](https://plotly.com/python/sankey-diagram/) [## 桑基
-
-### 链接和节点有自己的 hovertemplate，其中可以显示特定于链接或节点的属性。要添加更多…
-
-plotly.com](https://plotly.com/python/sankey-diagram/)
+  [](https://developers.google.com/analytics/devguides/collection/ga4/ecommerce?client_type=gtag#view_item_list)  [](https://andrewchen.com/power-user-curve/)  [](https://cloud.google.com/bigquery/docs/reference/standard-sql/navigation_functions)  [](https://plotly.com/python/sankey-diagram/) 

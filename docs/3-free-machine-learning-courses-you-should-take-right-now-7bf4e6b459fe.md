@@ -42,11 +42,7 @@ Avel Chuklanov 在 [Unsplash](https://unsplash.com/s/photos/learn?utm_source=uns
 
 *来自谷歌*
 
-[](https://developers.google.com/machine-learning/crash-course) [## 机器学习速成班|谷歌开发者
-
-### 学习和应用基本的机器学习概念的速成课程，获得现实世界的经验与…
-
-developers.google.com](https://developers.google.com/machine-learning/crash-course) 
+[](https://developers.google.com/machine-learning/crash-course)  
 
 **时长:** 15 小时
 
@@ -66,11 +62,7 @@ developers.google.com](https://developers.google.com/machine-learning/crash-cour
 
 *来自 FastAI*
 
-[](https://course.fast.ai) [## 面向编码人员的实用深度学习
-
-### 如果你准备好现在就开始，这里有一些方法。如果你想更多地了解本课程，请阅读…
-
-course.fast.ai](https://course.fast.ai) 
+[](https://course.fast.ai)  
 
 **时长:** 7 周
 
@@ -98,10 +90,6 @@ course.fast.ai](https://course.fast.ai)
 
 如果你有兴趣了解更多可用的资源，我之前也发布了一份完整的免费资料列表，这些资料在网上随处可见。
 
-[](/how-to-learn-data-science-for-free-eda10f04d083) [## 如何免费学习数据科学
-
-### 一个完整的学习路径，包括不花你一分钱的资源
-
-towardsdatascience.com](/how-to-learn-data-science-for-free-eda10f04d083) 
+[](/how-to-learn-data-science-for-free-eda10f04d083)  
 
 感谢阅读！

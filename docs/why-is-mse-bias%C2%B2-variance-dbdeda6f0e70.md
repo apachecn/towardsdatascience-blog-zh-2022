@@ -145,11 +145,7 @@ MSE 是模型的[损失函数](http://bit.ly/quaesita_msefav)中最受欢迎的(
 
 现在你已经完成了数学，你已经准备好理解机器学习中的偏差-方差权衡是怎么回事了。我们将在我的下一篇文章中讨论这个问题——点击*跟随*按钮继续关注。
 
-[](/stats-gist-list-an-irreverent-statisticians-guide-to-jargon-be8173df090d) [## 统计要点列表:不敬的统计学家行话指南
-
-### 平实的语言可以弥补你统计知识的不足
-
-towardsdatascience.com](/stats-gist-list-an-irreverent-statisticians-guide-to-jargon-be8173df090d) 
+[](/stats-gist-list-an-irreverent-statisticians-guide-to-jargon-be8173df090d)  
 
 # 感谢阅读！YouTube 课程怎么样？
 

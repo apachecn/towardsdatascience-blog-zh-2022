@@ -189,19 +189,7 @@ model.score(X_test, y_test)
 
 # 相关文章
 
-[](/how-to-run-a-data-science-project-in-a-docker-container-2ab1a3baa889) [## 如何在 Docker 容器中运行数据科学项目
-
-### 关于如何将数据科学项目包装在 Docker 映像中并在 Docker 中运行的一些技巧和实际例子…
-
-towardsdatascience.com](/how-to-run-a-data-science-project-in-a-docker-container-2ab1a3baa889) [](/an-overview-of-the-scikit-learn-clustering-package-d39a0499814) [## scikit-learn 集群包概述
-
-### scikit-learn 系列的第二集，解释了用于机器学习的著名 Python 库
-
-towardsdatascience.com](/an-overview-of-the-scikit-learn-clustering-package-d39a0499814) [](/model-evaluation-in-scikit-learn-abce32ee4a99) [## Scikit-learn 中的模型评估
-
-### 关于如何使用 scikit-learn 计算最常见的回归和分类指标的教程。
-
-towardsdatascience.com](/model-evaluation-in-scikit-learn-abce32ee4a99) 
+[](/how-to-run-a-data-science-project-in-a-docker-container-2ab1a3baa889)  [](/an-overview-of-the-scikit-learn-clustering-package-d39a0499814)  [](/model-evaluation-in-scikit-learn-abce32ee4a99)  
 
 # 保持联系！
 

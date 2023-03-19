@@ -40,16 +40,8 @@ PyScript 目前还缺乏某些功能，例如，您可能会发现您必须使�
 
 *更新:*[*PyScript 新特性*](https://alan-jones.medium.com/whats-new-in-pyscript-dfdf25538281) *查看截至 2023 年初对 PyScript 进行的一些重大更改。*
 
-[](/create-an-interactive-web-app-with-pyscript-and-pandas-3918ad2dada1) [## 用 PyScript 和熊猫创建一个交互式 Web 应用程序
-
-### PyScript 允许我们用 HTML 和 ScriptPython 作为脚本语言创建一个无服务器的 web 应用程序
-
-towardsdatascience.com](/create-an-interactive-web-app-with-pyscript-and-pandas-3918ad2dada1) 
+[](/create-an-interactive-web-app-with-pyscript-and-pandas-3918ad2dada1)  
 
 你可以在我的[网页](http://alanjones2.github.io)上找到更多我的工作和工作代码的链接。
 
-[](https://alanjones2.github.io) [## AlanJones:编码、科学和技术
-
-### 使用 Streamlit、Plotly、Python 和 Flask 为 web 构建数据可视化应用程序。适用于…的文章、教程和应用程序
-
-alanjones2.github.io](https://alanjones2.github.io)
+[](https://alanjones2.github.io) 

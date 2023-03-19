@@ -59,11 +59,7 @@ pip install LazyProphet
 
 如果你想了解更多关于这个包的信息，你应该看看我以前的文章:
 
-[](/lazyprophet-time-series-forecasting-with-lightgbm-3745bafe5ce5) [## LazyProphet:用 LightGBM 进行时间序列预测
-
-### 都是关于功能的
-
-towardsdatascience.com](/lazyprophet-time-series-forecasting-with-lightgbm-3745bafe5ce5) 
+[](/lazyprophet-time-series-forecasting-with-lightgbm-3745bafe5ce5)  
 
 在我们的实验中，我们将保留过去 12 个月的数据，然后使用 LazyProphet 对去趋势预测和标准预测进行扩展预测。然后，我们将查看测试集 MSE 进行比较。下面是实现这一目的的代码片段:
 
@@ -222,16 +218,4 @@ for i in range(1, 13):
 
 如果你觉得这很有趣，那么你可以看看我的其他文章:
 
-[](/lazyprophet-time-series-forecasting-with-lightgbm-3745bafe5ce5) [## LazyProphet:用 LightGBM 进行时间序列预测
-
-### 都是关于功能的
-
-towardsdatascience.com](/lazyprophet-time-series-forecasting-with-lightgbm-3745bafe5ce5) [](/gradient-boosted-arima-for-time-series-forecasting-e093f80772f6) [## 时间序列预测的梯度增强 ARIMA
-
-### 提升 PmdArima 的 Auto-Arima 性能
-
-towardsdatascience.com](/gradient-boosted-arima-for-time-series-forecasting-e093f80772f6) [](/thymeboost-a0529353bf34) [## 用百里香增强进行时间序列预测
-
-### 一种梯度增强的时间序列分解方法
-
-towardsdatascience.com](/thymeboost-a0529353bf34)
+[](/lazyprophet-time-series-forecasting-with-lightgbm-3745bafe5ce5)  [](/gradient-boosted-arima-for-time-series-forecasting-e093f80772f6)  [](/thymeboost-a0529353bf34) 

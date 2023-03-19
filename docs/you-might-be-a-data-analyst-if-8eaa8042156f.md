@@ -175,8 +175,4 @@
 
 如果你对数据专业人员的生活有任何疑问，请随时在 LinkedIn 或 Twitter 上联系我！
 
-[](https://medium.com/@ChristianWritesData/membership) [## 加入我的推荐链接-基督教万瑟媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@ChristianWritesData/membership)
+[](https://medium.com/@ChristianWritesData/membership) 

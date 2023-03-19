@@ -74,8 +74,4 @@ hexs 变量将返回一个非常简单的列表，其中包含与所提供区域
 
 *如果你还不是一个媒体成员，并且想支持像我这样的作家，请随时通过我的推荐链接注册:*
 
-[](https://guilhermeiablonovski.medium.com/membership) [## 通过我的推荐链接加入媒体——古伊列梅·m·亚布洛诺夫斯基
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-guilhermeiablonovski.medium.com](https://guilhermeiablonovski.medium.com/membership)
+[](https://guilhermeiablonovski.medium.com/membership) 

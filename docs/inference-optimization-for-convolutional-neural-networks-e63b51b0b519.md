@@ -161,12 +161,4 @@ print("Fused and quantized model latency")
 
 **检查参考资料:**
 
-[](https://pytorch.org/blog/quantization-in-practice/) [## PyTorch 中的实用量子化
-
-### 量化是一种既便宜又简单的方法，可以让您的 DNN 运行得更快，并且对内存的要求更低。PyTorch 提供了…
-
-pytorch.org](https://pytorch.org/blog/quantization-in-practice/)  [## 量化- PyTorch 1.11.0 文档
-
-### 警告量化处于测试阶段，可能会有变化。量化指的是执行计算的技术…
-
-pytorch.org](https://pytorch.org/docs/stable/quantization.html)
+[](https://pytorch.org/blog/quantization-in-practice/)   

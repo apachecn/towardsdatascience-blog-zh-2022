@@ -57,11 +57,7 @@
 
 通过我的合同工作，我有机会认识一些迷人的人，他们在我甚至不知道存在的世界里工作。我曾与急诊室医生、特种部队操作人员、临床医生、商人和研究人员共事，他们有着如此多不同的背景和经历。这些联系真正丰富了我对世界的看法。
 
-[](https://medium.com/the-data-entrepreneurs/how-to-start-freelancing-in-data-science-150551f25fda) [## 如何开始从事数据科学的自由职业
-
-### 每个人的 5 步快速入门指南
-
-medium.com](https://medium.com/the-data-entrepreneurs/how-to-start-freelancing-in-data-science-150551f25fda) 
+[](https://medium.com/the-data-entrepreneurs/how-to-start-freelancing-in-data-science-150551f25fda)  
 
 # 奖金:钱🤑
 
@@ -79,8 +75,4 @@ medium.com](https://medium.com/the-data-entrepreneurs/how-to-start-freelancing-i
 
 **支持** : [给我买杯咖啡](https://www.buymeacoffee.com/shawhint?source=about_page-------------------------------------) ☕️ | [成为会员](https://shawhin.medium.com/membership?source=about_page-------------------------------------) ⭐️
 
-[](https://shawhin.medium.com/membership) [## 通过我的推荐链接加入媒体——肖文·塔莱比
-
-### ⭐️成为会员使用我的推荐链接，并获得充分的媒体上的每一篇文章。您的会员费直接…
-
-shawhin.medium.com](https://shawhin.medium.com/membership)
+[](https://shawhin.medium.com/membership) 

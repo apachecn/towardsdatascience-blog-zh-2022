@@ -93,8 +93,4 @@ Unsplash 上[活动创建者](https://unsplash.com/@campaign_creators)的照片
 
 ## 参考
 
-[](https://www.sentinelone.com/blog/understanding-row-vs-column-oriented-databases/) [## SentinelOne |了解面向行和面向列的数据库
-
-### 可以理解的是，我们希望我们的数据库很快。我们希望为任何事情选择最合适的数据库…
-
-www.sentinelone.com](https://www.sentinelone.com/blog/understanding-row-vs-column-oriented-databases/)
+[](https://www.sentinelone.com/blog/understanding-row-vs-column-oriented-databases/) 

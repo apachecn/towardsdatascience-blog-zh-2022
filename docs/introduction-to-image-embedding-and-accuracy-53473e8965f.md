@@ -201,11 +201,7 @@ LDA 在转换图像时只查看像素颜色。这种方法有局限性，因为�
 
 *如果你喜欢这本书，并且对机器学习和数据科学的新见解感兴趣，请注册中级会员，以便完全访问我的内容。关注我，以便在我发布新章节或帖子时收到电子邮件。*
 
-[](https://medium.com/@mathiasgronne/membership) [## 马蒂亚斯·格朗内——中等
-
-### 对图像嵌入和自动编码器的广泛介绍，对这本书及其章节的介绍——他们说…
-
-medium.com](https://medium.com/@mathiasgronne/membership) 
+[](https://medium.com/@mathiasgronne/membership)  
 
 ## 书籍章节
 

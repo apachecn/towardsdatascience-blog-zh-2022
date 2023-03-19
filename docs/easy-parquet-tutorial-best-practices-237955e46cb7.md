@@ -212,22 +212,10 @@ pd.read_parquet('APPLICATIONS_PROCESSED')
 
 用我的其他文章继续学习拼花地板:
 
-[](/parquet-best-practices-discover-your-data-without-loading-them-f854c57a45b6) [## 拼花地板最佳实践:发现您的数据而不加载它们
-
-### 元数据、行组统计信息、分区发现和重新分区
-
-towardsdatascience.com](/parquet-best-practices-discover-your-data-without-loading-them-f854c57a45b6) [](https://pub.towardsai.net/parquet-best-practices-the-art-of-filtering-d729357e441d) [## 拼花地板最佳实践:过滤的艺术
-
-### 了解如何过滤拼花文件
-
-pub.towardsai.net](https://pub.towardsai.net/parquet-best-practices-the-art-of-filtering-d729357e441d) 
+[](/parquet-best-practices-discover-your-data-without-loading-them-f854c57a45b6)  [](https://pub.towardsai.net/parquet-best-practices-the-art-of-filtering-d729357e441d)  
 
 *无需额外费用，您可以通过我的推荐链接订阅 Medium。*
 
-[](https://medium.com/@arli94/membership) [## 通过我的推荐链接加入 Medium—Arli
-
-### 阅读 Arli 和媒体上成千上万的其他作家的每一个故事。你的会员费直接支持 Arli 和…
-
-medium.com](https://medium.com/@arli94/membership) 
+[](https://medium.com/@arli94/membership)  
 
 或者你可以在收件箱里收到我所有的帖子。*[***做到这里*** *！*](https://arli94.medium.com/subscribe)*

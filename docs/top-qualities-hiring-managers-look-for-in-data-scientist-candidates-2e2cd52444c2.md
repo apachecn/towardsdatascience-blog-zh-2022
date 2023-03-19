@@ -87,16 +87,4 @@
 
 想了解更多关于数据科学和商业的信息吗？我可能有一些建议给你:
 
-[](/these-mistakes-could-easily-ruin-your-data-science-interviews-49ce03c36bef) [## 这些错误很容易毁掉你的数据科学面试
-
-### 不要让你的现场表现破坏了你所有的面试准备
-
-towardsdatascience.com](/these-mistakes-could-easily-ruin-your-data-science-interviews-49ce03c36bef) [](/5-mistakes-i-wish-i-had-avoided-in-my-data-science-career-6c22a44304a1) [## 我希望在我的数据科学职业生涯中避免的 5 个错误
-
-### 我得到了这些教训，所以你不必这样做
-
-towardsdatascience.com](/5-mistakes-i-wish-i-had-avoided-in-my-data-science-career-6c22a44304a1) [](https://medium.com/illumination/why-i-wont-participate-in-the-great-resignation-for-my-side-hustle-e6ef6f9c85ab) [## 为什么我不会参加我的副业“大辞职”
-
-### 如果你正在考虑，为什么你也应该重新考虑
-
-medium.com](https://medium.com/illumination/why-i-wont-participate-in-the-great-resignation-for-my-side-hustle-e6ef6f9c85ab)
+[](/these-mistakes-could-easily-ruin-your-data-science-interviews-49ce03c36bef)  [](/5-mistakes-i-wish-i-had-avoided-in-my-data-science-career-6c22a44304a1)  [](https://medium.com/illumination/why-i-wont-participate-in-the-great-resignation-for-my-side-hustle-e6ef6f9c85ab) 

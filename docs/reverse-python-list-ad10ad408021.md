@@ -35,11 +35,7 @@ Photo by [愚木混株 cdd20](https://unsplash.com/@cdd20?utm_source=unsplash&ut
 
 如果你想了解更多关于 Python 中切片和索引的知识，你可以参考我以前的一篇文章。
 
-[](/mastering-indexing-and-slicing-in-python-443e23457125) [## 掌握 Python 中的索引和切片
-
-### 深入研究有序集合的索引和切片
-
-towardsdatascience.com](/mastering-indexing-and-slicing-in-python-443e23457125) 
+[](/mastering-indexing-and-slicing-in-python-443e23457125)  
 
 请注意，这种方法看起来更像 Pythonic，但是只有当您想要创建原始列表的副本，以便它包含逆序的元素时，才应该使用这种方法。
 
@@ -113,24 +109,8 @@ towardsdatascience.com](/mastering-indexing-and-slicing-in-python-443e23457125)
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership) 
+[](https://gmyrianthous.medium.com/membership)  
 
 **相关文章你可能也喜欢**
 
-[](/diagrams-as-code-python-d9cbaa959ed5) [## Python 中作为代码的图
-
-### 用 Python 创建云系统架构图
-
-towardsdatascience.com](/diagrams-as-code-python-d9cbaa959ed5) [](/setuptools-python-571e7d5500f2) [## Python 中的 setup.py 与 setup.cfg
-
-### 使用 setuptools 管理依赖项和分发 Python 包
-
-towardsdatascience.com](/setuptools-python-571e7d5500f2) [](/augmented-assignments-python-caa4990811a0) [## Python 中的扩充赋值
-
-### 了解增强赋值表达式在 Python 中的工作方式，以及为什么在使用它们时要小心…
-
-towardsdatascience.com](/augmented-assignments-python-caa4990811a0)
+[](/diagrams-as-code-python-d9cbaa959ed5)  [](/setuptools-python-571e7d5500f2)  [](/augmented-assignments-python-caa4990811a0) 

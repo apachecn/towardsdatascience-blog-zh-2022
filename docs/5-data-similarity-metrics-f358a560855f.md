@@ -276,12 +276,4 @@ plot_similarities(similarities_list, product_labels, titles)
 
 如果你喜欢这篇文章，请阅读我的其他文章
 
-[](/evaluate-topic-model-in-python-latent-dirichlet-allocation-lda-7d57484bb5d0) [## 评估主题模型:潜在狄利克雷分配(LDA)
-
-### 构建可解释主题模型的分步指南
-
-towardsdatascience.com](/evaluate-topic-model-in-python-latent-dirichlet-allocation-lda-7d57484bb5d0) [](/recommendation-system-in-python-lightfm-61c85010ce17) [## Python 中的推荐系统:LightFM
-
-### 使用 LightFM 在 Python 中构建推荐系统的分步指南
-
-towardsdatascience.com](/recommendation-system-in-python-lightfm-61c85010ce17)
+[](/evaluate-topic-model-in-python-latent-dirichlet-allocation-lda-7d57484bb5d0)  [](/recommendation-system-in-python-lightfm-61c85010ce17) 

@@ -353,30 +353,10 @@ Updating lock file 'dvc.lock'
 
 本文的源代码可以在这里找到:
 
-[](https://dagshub.com/khuyentran1401/dagshub-demo) [## khuyentran1401/dagshub-demo
-
-### DagsHub-khuyentran 1401/DagsHub-demo 演示
-
-dagshub.com](https://dagshub.com/khuyentran1401/dagshub-demo) 
+[](https://dagshub.com/khuyentran1401/dagshub-demo)  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的数据科学工具。你可以在 LinkedIn 和 Twitter 上与我联系。
 
 Star [这个回购](https://github.com/khuyentran1401/Data-science)如果你想检查我写的所有文章的代码。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/orchestrate-a-data-science-project-in-python-with-prefect-e69c61a49074) [## 用 Prefect 编制 Python 中的数据科学项目
-
-### 用几行代码优化您的数据科学工作流程
-
-towardsdatascience.com](/orchestrate-a-data-science-project-in-python-with-prefect-e69c61a49074) [](/introduction-to-dvc-data-version-control-tool-for-machine-learning-projects-7cb49c229fe0) [## DVC 介绍:机器学习项目的数据版本控制工具
-
-### 就像 Git 一样，但是有数据！
-
-towardsdatascience.com](/introduction-to-dvc-data-version-control-tool-for-machine-learning-projects-7cb49c229fe0) [](/introduction-to-weight-biases-track-and-visualize-your-machine-learning-experiments-in-3-lines-9c9553b0f99d) [## 权重和偏差介绍:用 3 条线跟踪和可视化你的机器学习实验…
-
-### 无缝比较不同的实验，并使用 Python 重现您的机器学习实验
-
-towardsdatascience.com](/introduction-to-weight-biases-track-and-visualize-your-machine-learning-experiments-in-3-lines-9c9553b0f99d) [](/pytest-for-data-scientists-2990319e55e6) [## 数据科学家 Pytest
-
-### 适用于您的数据科学项目的 Pytest 综合指南
-
-towardsdatascience.com](/pytest-for-data-scientists-2990319e55e6)
+[](/orchestrate-a-data-science-project-in-python-with-prefect-e69c61a49074)  [](/introduction-to-dvc-data-version-control-tool-for-machine-learning-projects-7cb49c229fe0)  [](/introduction-to-weight-biases-track-and-visualize-your-machine-learning-experiments-in-3-lines-9c9553b0f99d)  [](/pytest-for-data-scientists-2990319e55e6) 

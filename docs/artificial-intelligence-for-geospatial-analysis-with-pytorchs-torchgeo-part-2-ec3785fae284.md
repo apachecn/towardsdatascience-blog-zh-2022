@@ -277,16 +277,4 @@ torch.Size([8, 10, 512, 512]) torch.Size([8, 1, 512, 512])
 
 # 进一步阅读
 
-[](/artificial-intelligence-for-geospatial-analysis-with-pytorchs-torchgeo-part-1-52d17e409f09) [## 使用 Pytorch 的 TorchGeo 进行地理空间分析的人工智能(第 1 部分)
-
-### 使用 Pytorch 和 TorchGeo 包的端到端深度学习地理空间分割项目
-
-towardsdatascience.com](/artificial-intelligence-for-geospatial-analysis-with-pytorchs-torchgeo-part-1-52d17e409f09) [](/artificial-intelligence-for-geospatial-analysis-with-pytorchs-torchgeo-part-3-7521131f30b1) [## 使用 Pytorch 的 TorchGeo 进行地理空间分析的人工智能(第 3 部分)
-
-### 使用 Pytorch 和 TorchGeo 包的端到端深度学习地理空间分割项目
-
-towardsdatascience.com](/artificial-intelligence-for-geospatial-analysis-with-pytorchs-torchgeo-part-3-7521131f30b1) [](https://cordmaur.medium.com/membership) [## 通过我的推荐链接加入媒体-毛里西奥·科代罗
-
-### 阅读毛里西奥·科代罗的每一个故事(以及媒体上成千上万的其他作家)。您的会员费直接…
-
-cordmaur.medium.com](https://cordmaur.medium.com/membership)
+[](/artificial-intelligence-for-geospatial-analysis-with-pytorchs-torchgeo-part-1-52d17e409f09)  [](/artificial-intelligence-for-geospatial-analysis-with-pytorchs-torchgeo-part-3-7521131f30b1)  [](https://cordmaur.medium.com/membership) 

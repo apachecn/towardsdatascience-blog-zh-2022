@@ -256,11 +256,7 @@ Prompt: “サングラスをかけた猫” (Japanese for “a cat wearing sung
 
 成为一名媒体成员，阅读更多来自其他作家和我的故事。报名时可以使用我的 [*推荐链接*](https://medium.com/@iamleonie/membership) *支持我。我将收取佣金，不需要你额外付费。*
 
-[](https://medium.com/@iamleonie/membership) [## 通过我的推荐链接加入 Medium—Leonie Monigatti
-
-### 阅读 Leonie Monigatti(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接…
-
-medium.com](https://medium.com/@iamleonie/membership) 
+[](https://medium.com/@iamleonie/membership)  
 
 *在* [*Twitter 上找我*](https://twitter.com/helloiamleonie)*[*LinkedIn*](https://www.linkedin.com/in/804250ab/)*[*Kaggle*](https://www.kaggle.com/iamleonie)*！***
 

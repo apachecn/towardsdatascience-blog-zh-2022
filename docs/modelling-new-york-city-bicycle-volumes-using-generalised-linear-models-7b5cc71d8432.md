@@ -24,15 +24,7 @@
 
 为了完整起见，我将在本文中讨论 GLMs 背后的主要概念。然而，为了更深入地理解，我强烈建议您查看我以前的文章，这些文章真正深入了它们的技术细节:
 
-[](/poisson-regression-and-generalised-linear-models-606fe5f7c1fd) [## 泊松回归和广义线性模型
-
-### 泊松回归和广义线性模型的理论介绍
-
-towardsdatascience.com](/poisson-regression-and-generalised-linear-models-606fe5f7c1fd) [](/the-essence-of-logistic-regression-e9188625cb7d) [## 逻辑回归的本质
-
-### 用广义线性模型解释逻辑回归的起源
-
-towardsdatascience.com](/the-essence-of-logistic-regression-e9188625cb7d) 
+[](/poisson-regression-and-generalised-linear-models-606fe5f7c1fd)  [](/the-essence-of-logistic-regression-e9188625cb7d)  
 
 ## 动机
 
@@ -225,11 +217,7 @@ plt.show()
 
 完整的代码/笔记本可以在我的 GitHub 上找到:
 
-[](https://github.com/egorhowell/Medium-Articles/blob/main/Modelling/GLM_Bike_Volume_NYC.ipynb) [## Medium-Articles/GLM _ 自行车 _ 体积 _ 纽约市. ipynb 在主要埃戈罗韦尔/Medium-Articles
-
-### 我在我的媒体博客/文章中使用的代码。通过创建一个关于…的帐户，为 egorhowell/Medium-Articles 的开发做出贡献
-
-github.com](https://github.com/egorhowell/Medium-Articles/blob/main/Modelling/GLM_Bike_Volume_NYC.ipynb) 
+[](https://github.com/egorhowell/Medium-Articles/blob/main/Modelling/GLM_Bike_Volume_NYC.ipynb)  
 
 # 结论
 

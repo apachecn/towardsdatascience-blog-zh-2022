@@ -184,11 +184,7 @@ ROC AUC 和 ROC 曲线的形状显示了良好的预测模型。
 
 # 贮藏室ˌ仓库
 
-[](https://github.com/isaacarroyov/fer_without_ann) [## GitHub-isaacarroyov/fer _ without _ ann:机器学习项目
-
-### 机器学习项目，其中面部表情识别(FER)问题的方法是用经典的机器…
-
-github.com](https://github.com/isaacarroyov/fer_without_ann) 
+[](https://github.com/isaacarroyov/fer_without_ann)  
 
 # 关于我
 

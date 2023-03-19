@@ -14,15 +14,7 @@
 
 在本文中，我假设读者已经对**马尔可夫性质**和**马尔可夫链、**以及**平稳分布背后的思想有了一些基本的了解。**如果没有，请参考我之前关于这些主题的帖子:
 
-[](/markov-chains-simply-explained-dc77836b47e3) [## 马尔可夫链简单地解释了
-
-### 马尔可夫性和马尔可夫链的直观而简单的解释
-
-towardsdatascience.com](/markov-chains-simply-explained-dc77836b47e3) [](/markov-chains-stationary-distribution-bedd67140112) [## 马尔可夫链:平稳分布
-
-### 用 Python 模拟解释和推导马尔可夫链的平稳分布
-
-towardsdatascience.com](/markov-chains-stationary-distribution-bedd67140112) 
+[](/markov-chains-simply-explained-dc77836b47e3)  [](/markov-chains-stationary-distribution-bedd67140112)  
 
 # 直觉和范例模型
 

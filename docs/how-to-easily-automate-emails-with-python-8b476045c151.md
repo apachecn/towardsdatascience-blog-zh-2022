@@ -165,18 +165,10 @@ context = ssl.create_default_context()
 
 要了解如何做到这一点，请查看我下面的指南。
 
-[](/how-to-easily-automate-your-python-scripts-on-mac-and-windows-459388c9cc94) [## 如何在 Mac 和 Windows 上轻松自动化您的 Python 脚本
-
-### 使用 crontab 和任务调度器来自动化您的脚本并节省时间
-
-towardsdatascience.com](/how-to-easily-automate-your-python-scripts-on-mac-and-windows-459388c9cc94) 
+[](/how-to-easily-automate-your-python-scripts-on-mac-and-windows-459388c9cc94)  
 
 自动化你的生活！ [**加入我的 10k+人电子邮件列表，获取我的免费自动化备忘单。**](https://frankandrade.ck.page/44559e1ae7)
 
 如果你喜欢阅读这样的故事，并想支持我成为一名作家，可以考虑报名成为一名媒体成员。每月 5 美元，让您可以无限制地访问数以千计的 Python 指南和数据科学文章。如果你用[我的链接](https://frank-andrade.medium.com/membership)注册，我会赚一小笔佣金，不需要你额外付费。
 
-[](https://frank-andrade.medium.com/membership) [## 通过我的推荐链接加入媒体——弗兰克·安德拉德
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-frank-andrade.medium.com](https://frank-andrade.medium.com/membership)
+[](https://frank-andrade.medium.com/membership) 

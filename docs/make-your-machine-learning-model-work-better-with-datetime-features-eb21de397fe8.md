@@ -300,16 +300,4 @@ accuracy_score(y_test, y_pred)
 
 # 相关文章
 
-[](/a-machine-learning-model-is-no-longer-a-black-box-thanks-to-shap-9f6ae3adaedc) [## 多亏了 SHAP，机器学习模型不再是黑匣子
-
-### Python 中的一步一步教程，揭示了机器学习模型的内部工作原理
-
-towardsdatascience.com](/a-machine-learning-model-is-no-longer-a-black-box-thanks-to-shap-9f6ae3adaedc) [](https://medium.com/geekculture/why-overfitting-makes-machine-learning-algorithms-perform-worse-7414ce71031a) [## 为什么过度拟合会使机器学习算法的性能变差
-
-### 关于机器学习过拟合的一些基本概念和减轻过拟合的一些技巧。
-
-medium.com](https://medium.com/geekculture/why-overfitting-makes-machine-learning-algorithms-perform-worse-7414ce71031a) [](/getting-started-with-comet-ml-549d44aff0c9) [## Comet ML 入门
-
-### 机器学习流行实验平台概述，并附有实例。
-
-towardsdatascience.com](/getting-started-with-comet-ml-549d44aff0c9)
+[](/a-machine-learning-model-is-no-longer-a-black-box-thanks-to-shap-9f6ae3adaedc)  [](https://medium.com/geekculture/why-overfitting-makes-machine-learning-algorithms-perform-worse-7414ce71031a)  [](/getting-started-with-comet-ml-549d44aff0c9) 

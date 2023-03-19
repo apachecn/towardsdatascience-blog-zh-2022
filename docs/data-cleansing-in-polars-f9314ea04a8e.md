@@ -440,11 +440,7 @@ df.filter(
 
 作者图片
 
-[](https://weimenglee.medium.com/membership) [## 加入媒介与我的介绍链接-李伟孟
-
-### 阅读李维孟(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-weimenglee.medium.com](https://weimenglee.medium.com/membership) 
+[](https://weimenglee.medium.com/membership)  
 
 > 我将在即将到来的新加坡 ML 会议(2022 年 11 月 22-24 日)上主持一个关于 Polars 的研讨会。如果你想在 Polars 数据框架上快速起步，请在[https://ml conference . ai/machine-learning-advanced-development/using-Polars-for-data-analytics-workshop/](https://mlconference.ai/machine-learning-advanced-development/using-polars-for-data-analytics-workshop/)注册我的研讨会。
 

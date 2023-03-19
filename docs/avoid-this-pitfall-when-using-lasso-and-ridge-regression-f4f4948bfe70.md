@@ -32,11 +32,7 @@
 
 有关**套索和脊正规化**的更深入讨论，请查看以下文章:
 
-[](/regulate-your-regression-model-with-ridge-lasso-and-elasticnet-92735e192e34) [## 用脊线、套索和橡皮筋来调整你的回归模型
-
-### 什么是正则化技术，我们为什么要使用它们？提供了一个 Python sklearn 示例。
-
-towardsdatascience.com](/regulate-your-regression-model-with-ridge-lasso-and-elasticnet-92735e192e34) 
+[](/regulate-your-regression-model-with-ridge-lasso-and-elasticnet-92735e192e34)  
 
 来对抗过度拟合。LASSO 将以下惩罚(用红色标记)添加到基本回归程序中:
 
@@ -84,8 +80,4 @@ LASSO 和 ridge 看起来是明智的技术，但它们只考虑了`β`的值，
 
 *对更高级的回归技术感兴趣？你可能也会喜欢这篇关于多项式回归的文章:*
 
-[](/polynomial-regression-an-alternative-for-neural-networks-c4bd30fa6cf6) [## 多项式回归——神经网络的替代方案？
-
-### 讨论多项式和神经网络，理论上都能够近似连续函数…
-
-towardsdatascience.com](/polynomial-regression-an-alternative-for-neural-networks-c4bd30fa6cf6)
+[](/polynomial-regression-an-alternative-for-neural-networks-c4bd30fa6cf6) 

@@ -78,24 +78,8 @@ Docker 为开发人员提供了一个开发、运行和发布应用程序的平�
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读媒介上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership) 
+[](https://gmyrianthous.medium.com/membership)  
 
 **相关文章你可能也喜欢**
 
-[](/run-airflow-docker-1b83a57616fb) [## 如何使用 Docker 在本地运行气流
-
-### 在本地机器上使用 Docker 运行 Airflow 的分步指南
-
-towardsdatascience.com](/run-airflow-docker-1b83a57616fb) [](/data-engineer-tools-c7e68eed28ad) [## 数据工程师的工具
-
-### 数据工程工具箱的基础
-
-towardsdatascience.com](/data-engineer-tools-c7e68eed28ad) [](/apache-airflow-architecture-496b9cb28288) [## 阿帕奇气流架构
-
-### 深入探讨 Apache Airflow 架构及其如何编排工作流
-
-towardsdatascience.com](/apache-airflow-architecture-496b9cb28288)
+[](/run-airflow-docker-1b83a57616fb)  [](/data-engineer-tools-c7e68eed28ad)  [](/apache-airflow-architecture-496b9cb28288) 

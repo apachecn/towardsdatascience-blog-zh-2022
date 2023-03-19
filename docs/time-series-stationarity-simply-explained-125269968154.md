@@ -144,11 +144,7 @@ Critical Values:
 
 **本文中生成数据、图表和 ADF 测试的完整代码可在此处查看:**
 
-**[](https://github.com/egorhowell/Medium-Articles/blob/main/Time%20Series/Time%20Series%20Tools/stationary.py) [## 中型物品/文具. py 在主 egorhowell/中型物品
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/egorhowell/Medium-Articles/blob/main/Time%20Series/Time%20Series%20Tools/stationary.py) 
+**[](https://github.com/egorhowell/Medium-Articles/blob/main/Time%20Series/Time%20Series%20Tools/stationary.py)  
 
 # 参考资料和进一步阅读
 

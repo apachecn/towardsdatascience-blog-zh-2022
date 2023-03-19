@@ -48,19 +48,11 @@ Faker library 用于创建虚假数据，这些数据是从公开可用的数据
 
 在 30 个时期和大约 110 分钟的训练时间之后，我们已经获得了 90.73 的训练准确度、74.02 的验证准确度和 74.67 的测试准确度，这些数据是关于大约 50 万个名字和 63 个类别的整体数据的未见过的数据。本文的管道可以在下面的 colab 链接中找到:
 
-[](https://colab.research.google.com/drive/1yloybl3-h3JDTyZKdqDBGzHUb7MqcCDw?usp=sharing) [## 谷歌联合实验室
-
-### XLNet TPU 名称国家
-
-colab.research.google.com](https://colab.research.google.com/drive/1yloybl3-h3JDTyZKdqDBGzHUb7MqcCDw?usp=sharing) 
+[](https://colab.research.google.com/drive/1yloybl3-h3JDTyZKdqDBGzHUb7MqcCDw?usp=sharing)  
 
 你可以在不到两分钟的时间内从下面的 colab 笔记本中输入你选择的全名来测试模型。
 
-[](https://colab.research.google.com/drive/1G0dvq1VeGnMSF9uGsIzB04RViZwqMiip?usp=sharing) [## 谷歌联合实验室
-
-### 我们能用名字预测原产国吗？
-
-colab.research.google.com](https://colab.research.google.com/drive/1G0dvq1VeGnMSF9uGsIzB04RViZwqMiip?usp=sharing) ![](img/7f0ade5ede7ad091f3a698eb64be6d9d.png)
+[](https://colab.research.google.com/drive/1G0dvq1VeGnMSF9uGsIzB04RViZwqMiip?usp=sharing)  ![](img/7f0ade5ede7ad091f3a698eb64be6d9d.png)
 
 名称国家预测示例
 

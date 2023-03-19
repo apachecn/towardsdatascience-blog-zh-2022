@@ -184,33 +184,13 @@ Top 2 neighbors of user 73, Psycho: ['547', '509']
 
 随意发挥，并在这里叉这篇文章的源代码:
 
-[](https://github.com/khuyentran1401/Data-science/blob/master/machine-learning/collaborative_filtering/collaborative_filtering.ipynb) [## 数据科学/collaborative _ filtering . ipynb at master khuyentran 1401/数据科学
-
-### 收集有用的数据科学主题以及代码和文章-Data-science/collaborative _ filtering . ipynb，网址为…
-
-github.com](https://github.com/khuyentran1401/Data-science/blob/master/machine-learning/collaborative_filtering/collaborative_filtering.ipynb) 
+[](https://github.com/khuyentran1401/Data-science/blob/master/machine-learning/collaborative_filtering/collaborative_filtering.ipynb)  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的数据科学工具。你可以在 LinkedIn 和 T2 Twitter 上与我联系。
 
 星[这个回购](https://github.com/khuyentran1401/Data-science)如果你想检查我写的所有文章的代码。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/observe-the-friend-paradox-in-facebook-data-using-python-314c23fd49e4) [## 使用 Python 观察脸书数据中的朋友悖论
-
-### 平均来说，你的朋友比你的朋友多吗？
-
-towardsdatascience.com](/observe-the-friend-paradox-in-facebook-data-using-python-314c23fd49e4) [](/shap-explain-any-machine-learning-model-in-python-24207127cad7) [## SHAP:用 Python 解释任何机器学习模型
-
-### SHAP 和沙普利价值观综合指南
-
-towardsdatascience.com](/shap-explain-any-machine-learning-model-in-python-24207127cad7) [](/how-to-schedule-flights-in-python-3357b200db9e) [## 如何在 Python 中安排航班
-
-### 使用 CVXPY 分配足够的飞机，同时最小化成本
-
-towardsdatascience.com](/how-to-schedule-flights-in-python-3357b200db9e) [](/how-to-solve-a-staff-scheduling-problem-with-python-63ae50435ba4) [## 如何用 Python 解决人员调度问题
-
-### 尽可能减少每班的工人数量，同时为每个时间窗口分配足够的工人
-
-towardsdatascience.com](/how-to-solve-a-staff-scheduling-problem-with-python-63ae50435ba4) 
+[](/observe-the-friend-paradox-in-facebook-data-using-python-314c23fd49e4)  [](/shap-explain-any-machine-learning-model-in-python-24207127cad7)  [](/how-to-schedule-flights-in-python-3357b200db9e)  [](/how-to-solve-a-staff-scheduling-problem-with-python-63ae50435ba4)  
 
 # **参考**
 

@@ -284,11 +284,7 @@ Test :   0.198   0.115
 
 谢谢，我希望你喜欢读这篇文章。你可以在我的 GitHub 库中找到例子。如果你有任何问题或建议，欢迎在下面给我留言。
 
-[](/a-brief-introduction-to-neural-networks-a-classification-problem-43e68c770081) [## 神经网络简介:一个分类问题
-
-### Python 神经网络实用入门指南
-
-towardsdatascience.com](/a-brief-introduction-to-neural-networks-a-classification-problem-43e68c770081) 
+[](/a-brief-introduction-to-neural-networks-a-classification-problem-43e68c770081)  
 
 # 图像制作者名单
 

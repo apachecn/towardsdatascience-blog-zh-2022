@@ -164,8 +164,4 @@ Apriori 模块需要一个值为 0 和 1 或 True 和 False 的数据帧。因�
 
 # 参考
 
-[](https://www.kaggle.com/code/datatheque/association-rules-mining-market-basket-analysis) [## 关联规则挖掘/购物篮分析
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用来自 Instacart 市场篮分析的数据
-
-www.kaggle.com](https://www.kaggle.com/code/datatheque/association-rules-mining-market-basket-analysis)
+[](https://www.kaggle.com/code/datatheque/association-rules-mining-market-basket-analysis) 

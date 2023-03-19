@@ -12,11 +12,7 @@
 
 正如我在这里已经提到的，我已经与一家初创公司合作开发了一个 web 应用程序，供体育专家做出决策和探索数据。该应用程序支持任何运动，但我们位于欧洲，而欧洲人热爱足球。全世界每天玩的数百个游戏中的每一个都有数千行。仅仅几个月，我们应用程序中的`Events`表就达到了 5 亿行！
 
-[](/working-for-a-data-driven-startup-whose-value-surged-700-in-less-than-one-year-168e8c43565a) [## 为一家数据驱动的初创公司工作，这家公司的价值在不到一年的时间里飙升了 700%
-
-### 数据如何帮助您应对如此惊人的增长
-
-towardsdatascience.com](/working-for-a-data-driven-startup-whose-value-surged-700-in-less-than-one-year-168e8c43565a) 
+[](/working-for-a-data-driven-startup-whose-value-surged-700-in-less-than-one-year-168e8c43565a)  
 
 通过了解体育专家如何查询我们的数据，我们可以智能地对数据库进行分区。这个新表上的平均时间提高了 20 到 40 倍。所有查询的平均时间提高了 5 到 10 倍。
 

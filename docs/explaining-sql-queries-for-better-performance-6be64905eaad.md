@@ -55,8 +55,4 @@
 
 如果你觉得我的文章有用，请订阅并查看我的文章🌲 [**Linktree**](linktree.com/kovid) 。你也可以考虑用我的推荐链接购买一个中级会员来支持我。
 
-[](https://kovidrathee.medium.com/membership) [## 通过我的推荐链接加入 Medium—Kovid rat hee
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-kovidrathee.medium.com\](https://kovidrathee.medium.com/membership)
+[](https://kovidrathee.medium.com/membership) 

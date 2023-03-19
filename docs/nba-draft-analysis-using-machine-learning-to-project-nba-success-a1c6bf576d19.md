@@ -105,11 +105,7 @@ BPM——再次参考[篮球参考](https://www.basketball-reference.com/about/b
 
 体育作家重新起草比较:
 
-[](https://fadeawayworld.net/nba/re-drafting-the-2015-nba-draft-class-karl-anthony-towns-devin-booker-kristaps-porzingis) [## 重新起草 2015 年 NBA 选秀班:卡尔-安东尼唐斯，德文布克，克里斯塔普斯·波尔津吉斯
-
-### 回顾 2015 年 NBA 选秀班，巨星球员的匮乏让人大跌眼镜。实际上，这是一个…
-
-fadeawayworld.net](https://fadeawayworld.net/nba/re-drafting-the-2015-nba-draft-class-karl-anthony-towns-devin-booker-kristaps-porzingis) 
+[](https://fadeawayworld.net/nba/re-drafting-the-2015-nba-draft-class-karl-anthony-towns-devin-booker-kristaps-porzingis)  
 
 # **2016 NBA 选秀**
 
@@ -123,11 +119,7 @@ fadeawayworld.net](https://fadeawayworld.net/nba/re-drafting-the-2015-nba-draft-
 
 体育作家重新起草比较:
 
-[](https://www.yardbarker.com/nba/articles/redrafting_the_2016_nba_draft/s1__33314207) [## 重新起草 2016 年 NBA 选秀
-
-### 由于有多达 11 名未来全明星球员，2016 年 NBA 选秀可能会成为 2010 年代最好的选秀。当一对夫妇…
-
-www.yardbarker.com](https://www.yardbarker.com/nba/articles/redrafting_the_2016_nba_draft/s1__33314207) 
+[](https://www.yardbarker.com/nba/articles/redrafting_the_2016_nba_draft/s1__33314207)  
 
 # **2017 NBA 选秀**
 
@@ -141,11 +133,7 @@ www.yardbarker.com](https://www.yardbarker.com/nba/articles/redrafting_the_2016_
 
 体育作家重新起草比较:
 
-[](https://bleacherreport.com/articles/2890076-re-drafting-the-2017-nba-draft-class) [## 重新起草 2017 年 NBA 选秀班
-
-### 2017 年 NBA 重新草案让我们到了一个点，在这个点上，大多数参与的球员仍然，希望，在…
-
-bleacherreport.com](https://bleacherreport.com/articles/2890076-re-drafting-the-2017-nba-draft-class) 
+[](https://bleacherreport.com/articles/2890076-re-drafting-the-2017-nba-draft-class)  
 
 # **2018 NBA 选秀**
 
@@ -157,11 +145,7 @@ bleacherreport.com](https://bleacherreport.com/articles/2890076-re-drafting-the-
 
 体育作家重新起草比较:
 
-[](https://hoopshabit.com/2021/08/18/nba-draft-luka-doncic-rises-2018-redraft/) [## NBA 选秀:卢卡·东契奇在 2018 年 NBA 选秀中升至第一
-
-### 在球员参加比赛之前就对他们进行评价是不公平的，尽管我们一直在这样做…
-
-hoopshabit.com](https://hoopshabit.com/2021/08/18/nba-draft-luka-doncic-rises-2018-redraft/) 
+[](https://hoopshabit.com/2021/08/18/nba-draft-luka-doncic-rises-2018-redraft/)  
 
 # **2019 NBA 选秀**
 
@@ -173,11 +157,7 @@ hoopshabit.com](https://hoopshabit.com/2021/08/18/nba-draft-luka-doncic-rises-20
 
 体育作家重新起草比较:
 
-[](https://bleacherreport.com/articles/2931305-2019-nba-re-draft-where-do-zion-ja-morant-and-the-rest-of-the-class-land) [## 2019 NBA 复赛:锡安、Ja 莫兰特和其他班的土地在哪里？
-
-### 是时候决定哪些 NBA 球队获得了 2019 年 NBA 选秀的权利，哪些球队可能希望再次尝试...
-
-bleacherreport.com](https://bleacherreport.com/articles/2931305-2019-nba-re-draft-where-do-zion-ja-morant-and-the-rest-of-the-class-land) 
+[](https://bleacherreport.com/articles/2931305-2019-nba-re-draft-where-do-zion-ja-morant-and-the-rest-of-the-class-land)  
 
 # 结论
 

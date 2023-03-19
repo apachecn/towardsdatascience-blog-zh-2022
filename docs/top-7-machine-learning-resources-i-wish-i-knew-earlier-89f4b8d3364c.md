@@ -28,11 +28,7 @@
 
 掉进泳池淹死的人数和尼古拉斯凯奇出演的电影数量？嗯，相关性只有 66%，看起来像是巧合。缅因州的离婚率和人造黄油的消费呢？99%?什么…
 
-[](https://www.tylervigen.com/spurious-correlations) [## 15 件相互关联的疯狂事情
-
-### 为什么这些事情相互关联？这 15 个相关性会让你大吃一惊。(这个标题够煽情吗……
-
-www.tylervigen.com](https://www.tylervigen.com/spurious-correlations) 
+[](https://www.tylervigen.com/spurious-correlations)  
 
 ## Netron
 
@@ -48,11 +44,7 @@ Netron 是探索神经网络架构最简单、最方便的方法之一。我在[
 
 Netron 支持 TensorFlow 和 Keras，并对 PyTorch 提供实验支持。要了解更多信息，请访问 GitHub 官方回购。
 
- [## Netron
-
-### Netron 是神经网络、深度学习和机器学习模型的查看器。
-
-netron.app](https://netron.app/) 
+  
 
 ## **神经网络操场由 TensorFlow**
 
@@ -60,11 +52,7 @@ netron.app](https://netron.app/)
 
 了解单层神经网络的局限性(以及如何添加额外的层来克服这些局限性)，尝试不同的学习速率、数据形状和激活函数，以便获得关于什么是神经网络以及它如何工作的直观想法。
 
-[](http://playground.tensorflow.org/) [## 张量流-神经网络游乐场
-
-### 这是一种构建从数据中学习的计算机程序的技术。它非常松散地基于我们如何思考…
-
-playground.tensorflow.org](http://playground.tensorflow.org/) 
+[](http://playground.tensorflow.org/)  
 
 # 去哪里找模特？
 
@@ -84,11 +72,7 @@ playground.tensorflow.org](http://playground.tensorflow.org/)
 
 因为笔记本是交互式的、简单的，并且通常不包含很多代码，所以这是开始不害怕另一个人写的代码的好方法。
 
-[](https://aihub.cloud.google.com/u/0/) [## 人工智能中心
-
-### 人工智能中心:一切人工智能的地方
-
-aihub.cloud.google.com](https://aihub.cloud.google.com/u/0/) 
+[](https://aihub.cloud.google.com/u/0/)  
 
 ## **TensorFlow Hub**
 
@@ -102,11 +86,7 @@ aihub.cloud.google.com](https://aihub.cloud.google.com/u/0/)
 
 只有通过微调这些模型，你将能够在许多任务上获得非常好的结果。还要注意[教程选项卡](https://www.tensorflow.org/hub/tutorials)，这里通常会提供一个模型链接，提供更详细的描述和解释。
 
-[](https://www.tensorflow.org/hub) [## 张量流集线器
-
-### TensorFlow Hub 是一个经过训练的机器学习模型库，可随时进行微调，并可部署在任何地方。重复使用…
-
-www.tensorflow.org](https://www.tensorflow.org/hub) 
+[](https://www.tensorflow.org/hub)  
 
 ## 拥抱脸
 
@@ -122,11 +102,7 @@ www.tensorflow.org](https://www.tensorflow.org/hub)
 
 **这对任何人来说都是最好的资源之一，即使是非机器学习的人，我也很高兴与您分享。**
 
-**[](https://huggingface.co/) [## 拥抱脸-人工智能社区建设未来。
-
-### 训练世界上最大的开源多语言语言模型🌸BigScience 的 176B 参数模型正在训练…
-
-huggingface.co](https://huggingface.co/) 
+**[](https://huggingface.co/)  
 
 # 如何开始阅读研究论文
 
@@ -138,11 +114,7 @@ huggingface.co](https://huggingface.co/)
 
 当然，我不会只给你这个愚蠢的建议。这个网站会帮你解决这个问题，它叫做[论文，代码为](https://paperswithcode.com/)。出于某种原因，我很晚才发现这件事，好像每个人都在瞒着我，所以我才和你分享。
 
-[](https://paperswithcode.com/) [## 带代码的论文——机器学习的最新进展
-
-### 带代码的论文突出了机器学习研究的趋势和实现它的代码。
-
-paperswithcode.com](https://paperswithcode.com/) 
+[](https://paperswithcode.com/)  
 
 直观的界面，对数据集和任务的广泛搜索能力，以及看到最佳模型的机会——这个网站对任何 ML 人员来说都是一个真正的发现。
 
@@ -150,11 +122,7 @@ paperswithcode.com](https://paperswithcode.com/)
 
 如果你认为研究论文只针对精英，那么这是不正确的。如果你第一次不明白某件事，感到困惑或者你只是感到无聊——这没关系，没有人一开始就明白。如果你以前从未读过这些文章，请关注这篇令人敬畏的 NVIDIA 博客文章，它可以帮助你很多:
 
-[](https://developer.nvidia.com/blog/how-to-read-research-papers-a-pragmatic-approach-for-ml-practitioners/) [## 如何阅读研究论文:面向 ML 从业者的实用方法| NVIDIA 技术博客
-
-### 数据科学家或者机器学习专家有必要看研究论文吗？简单的回答是肯定的。还有…
-
-developer.nvidia.com](https://developer.nvidia.com/blog/how-to-read-research-papers-a-pragmatic-approach-for-ml-practitioners/) 
+[](https://developer.nvidia.com/blog/how-to-read-research-papers-a-pragmatic-approach-for-ml-practitioners/)  
 
 # 摘要
 

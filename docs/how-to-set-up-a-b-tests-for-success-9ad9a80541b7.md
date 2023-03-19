@@ -67,20 +67,8 @@
 
 ****想获得 Medium 文章的全部访问权限并支持我的工作？使用以下链接订阅:****
 
-**[](https://boemer.medium.com/membership) [## 加入我的介绍链接-雷纳托 Boemer 媒体
-
-### 阅读雷纳托·博默(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-boemer.medium.com](https://boemer.medium.com/membership)** 
+**[](https://boemer.medium.com/membership) ** 
 
 ****感谢阅读。这里有一些你可能会喜欢的文章:****
 
-**[](/switching-career-to-data-science-in-your-30s-6122e51a18a3) [## 30 多岁转行做数据科学。
-
-### 不要纠结于已经有答案的问题。以下是我希望在开始职业生涯前知道的三件事…
-
-towardsdatascience.com](/switching-career-to-data-science-in-your-30s-6122e51a18a3) [](/5-tips-to-get-your-first-data-scientist-job-d8e5afd5a59b) [## 获得第一份数据科学家工作的 5 个技巧
-
-### 我在臭名昭著的求职阶段学到的关键东西
-
-towardsdatascience.com](/5-tips-to-get-your-first-data-scientist-job-d8e5afd5a59b)**
+**[](/switching-career-to-data-science-in-your-30s-6122e51a18a3)  [](/5-tips-to-get-your-first-data-scientist-job-d8e5afd5a59b) **

@@ -82,8 +82,4 @@ Modulo 在这两种情况下都帮助我创建了简单有效的解决方案。
 
 Contoso 数据可以在 MIT 许可下自由使用，如这里的[所述](https://github.com/microsoft/Power-BI-Embedded-Contoso-Sales-Demo)。
 
-[](https://medium.com/@salvatorecagliari/membership) [## 通过我的推荐链接加入 Medium-Salvatore Cagliari
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@salvatorecagliari/membership)
+[](https://medium.com/@salvatorecagliari/membership) 

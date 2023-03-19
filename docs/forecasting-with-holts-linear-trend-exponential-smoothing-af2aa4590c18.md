@@ -36,11 +36,7 @@
 
 其中 ***h*** 是我们预测的未来时间步，我们让***l _ t****=****【ŷ_{t+1}】***来明确地证明这是水平分量。如果你想了解更多关于简单指数平滑的知识，请参考我以前的文章:
 
-[](/forecasting-with-simple-exponential-smoothing-dd8f8470a14c) [## 简单指数平滑预测
-
-### 指数平滑简介以及在 Python 中实现指数平滑进行预测
-
-towardsdatascience.com](/forecasting-with-simple-exponential-smoothing-dd8f8470a14c) 
+[](/forecasting-with-simple-exponential-smoothing-dd8f8470a14c)  
 
 ## 添加趋势
 
@@ -106,11 +102,7 @@ towardsdatascience.com](/forecasting-with-simple-exponential-smoothing-dd8f8470a
 
 **本文中使用的完整代码可以在我的 GitHub 中找到:**
 
-**[](https://github.com/egorhowell/Medium-Articles/blob/main/Time%20Series/Exponential%20Smoothing/holts_forecasting.py) [## Medium-Articles/holts _ forecasting . py at main egorhowell/Medium-Articles
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/egorhowell/Medium-Articles/blob/main/Time%20Series/Exponential%20Smoothing/holts_forecasting.py) 
+**[](https://github.com/egorhowell/Medium-Articles/blob/main/Time%20Series/Exponential%20Smoothing/holts_forecasting.py)  
 
 # 参考资料和进一步阅读
 

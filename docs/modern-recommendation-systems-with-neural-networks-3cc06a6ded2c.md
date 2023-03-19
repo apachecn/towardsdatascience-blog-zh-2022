@@ -22,19 +22,11 @@
 
 在本教程中，我将展示如何使用传统模型，以及如何从头开始构建一个现代推荐系统。我将展示一些有用的 Python 代码，这些代码可以很容易地应用于其他类似的情况(只需复制、粘贴、运行)，并通过注释遍历每一行代码，以便您可以复制这个示例(下面是完整代码的链接)。
 
-[](https://github.com/mdipietro09/DataScience_ArtificialIntelligence_Utils/blob/master/machine_learning/example_recommendation.ipynb) [## data science _ artificial intelligence _ Utils/example _ re commendation . ipynb at master…
-
-### 数据科学项目和人工智能用例的示例…
-
-github.com](https://github.com/mdipietro09/DataScience_ArtificialIntelligence_Utils/blob/master/machine_learning/example_recommendation.ipynb) 
+[](https://github.com/mdipietro09/DataScience_ArtificialIntelligence_Utils/blob/master/machine_learning/example_recommendation.ipynb)  
 
 我将使用由 [GroupLens Research](https://en.wikipedia.org/wiki/GroupLens_Research) 创建的 **MovieLens** 数据集，该数据集包含数百名用户评价的数千部电影(链接如下)。
 
-[](https://grouplens.org/datasets/movielens/latest/) [## MovieLens 最新数据集
-
-### 这些数据集会随着时间的推移而变化，不适合用于报告研究结果。我们将保留下载…
-
-grouplens.org](https://grouplens.org/datasets/movielens/latest/) 
+[](https://grouplens.org/datasets/movielens/latest/)  
 
 特别是，我将经历:
 
@@ -499,20 +491,4 @@ test["yhat"] = model.predict([test["user"], test["product"], **test[features]**,
 
 > **本文是系列**用 Python 进行机器学习**的一部分，参见:**
 
-**[](/deep-learning-with-python-neural-networks-complete-tutorial-6b53c0b06af0) [## Python 深度学习:神经网络(完整教程)
-
-### 用 TensorFlow 建立、绘制和解释人工神经网络
-
-towardsdatascience.com](/deep-learning-with-python-neural-networks-complete-tutorial-6b53c0b06af0) [](/machine-learning-with-python-classification-complete-tutorial-d2c99dc524ec) [## 用 Python 进行机器学习:分类(完整教程)
-
-### 数据分析和可视化、特征工程和选择、模型设计和测试、评估和解释
-
-towardsdatascience.com](/machine-learning-with-python-classification-complete-tutorial-d2c99dc524ec) [](/machine-learning-with-python-regression-complete-tutorial-47268e546cea) [## Python 机器学习:回归(完整教程)
-
-### 数据分析和可视化、特征工程和选择、模型设计和测试、评估和解释
-
-towardsdatascience.com](/machine-learning-with-python-regression-complete-tutorial-47268e546cea) [](/clustering-geospatial-data-f0584f0b04ec) [## 聚类地理空间数据
-
-### 使用交互式地图绘制机器学习和深度学习聚类
-
-towardsdatascience.com](/clustering-geospatial-data-f0584f0b04ec)**
+**[](/deep-learning-with-python-neural-networks-complete-tutorial-6b53c0b06af0)  [](/machine-learning-with-python-classification-complete-tutorial-d2c99dc524ec)  [](/machine-learning-with-python-regression-complete-tutorial-47268e546cea)  [](/clustering-geospatial-data-f0584f0b04ec) **

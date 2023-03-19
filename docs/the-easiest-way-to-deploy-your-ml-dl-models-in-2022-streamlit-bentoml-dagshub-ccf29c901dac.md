@@ -24,19 +24,11 @@
 
 听起来很棒？继续读。
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-BEXGBoost
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。支持我的工作，给我买一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+[](https://ibexorigin.medium.com/membership)  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex) [## 阿尔法信号|机器学习的极品。艾总结的。
-
-### 留在循环中，不用花无数时间浏览下一个突破；我们的算法识别…
-
-alphasignal.ai](https://alphasignal.ai/?referrer=Bex) 
+[](https://alphasignal.ai/?referrer=Bex)  
 
 ## 我们在解决什么问题？
 
@@ -102,11 +94,7 @@ Streamlit 对您来说可能并不陌生，因为它已经成为为几乎任何�
 
 我们在实验的第二部分中使用 DagsHub 最多:
 
-[](/complete-guide-to-experiment-tracking-with-mlflow-and-dagshub-a0439479e0b9) [## 使用 MLFlow 和 DagsHub 进行实验跟踪的完整指南
-
-### 创建可重复且灵活的 ML 项目
-
-towardsdatascience.com](/complete-guide-to-experiment-tracking-with-mlflow-and-dagshub-a0439479e0b9) 
+[](/complete-guide-to-experiment-tracking-with-mlflow-and-dagshub-a0439479e0b9)  
 
 机器学习生命周期不仅仅是部署。一款车型要想在生产中获得成功，需要基础设施的坚实基础。DagsHub 允许你建立这个基础。
 
@@ -209,11 +197,7 @@ $ bentoml serve service.py:service --reload
 
 **图片来自**[**Pet paw popularity 数据集**](https://www.kaggle.com/competitions/petfinder-pawpularity-score/data) **。**
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium。
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+[](https://ibexorigin.medium.com/membership)  
 
 ## 第三步:做便当
 
@@ -350,32 +334,8 @@ $ heroku container:release web --app pet-pawpularity
 
 感谢您的阅读！
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium。
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) [](https://ibexorigin.medium.com/subscribe) [## 每当 Bex T .发布时收到电子邮件。
-
-### 每当 Bex T .发布时收到电子邮件。注册后，如果您还没有中型帐户，您将创建一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/subscribe) 
+[](https://ibexorigin.medium.com/membership)  [](https://ibexorigin.medium.com/subscribe)  
 
 ## 也可以随意查看这些内容:
 
-[](/open-source-ml-project-with-dagshub-improve-pet-adoption-with-machine-learning-1-e9403f8f7711) [## DagsHub 的开源 ML 项目:通过机器学习提高宠物认养率，第一
-
-### 构建一个预测猫狗可爱程度的应用程序
-
-towardsdatascience.com](/open-source-ml-project-with-dagshub-improve-pet-adoption-with-machine-learning-1-e9403f8f7711) [](/complete-guide-to-experiment-tracking-with-mlflow-and-dagshub-a0439479e0b9) [## 使用 MLFlow 和 DagsHub 进行实验跟踪的完整指南
-
-### 创建可重复且灵活的 ML 项目
-
-towardsdatascience.com](/complete-guide-to-experiment-tracking-with-mlflow-and-dagshub-a0439479e0b9) [](/3-best-often-better-alternatives-to-histograms-61ddaec05305) [## 直方图的 3 个最佳(通常更好)替代方案
-
-### 避免直方图最危险的陷阱
-
-towardsdatascience.com](/3-best-often-better-alternatives-to-histograms-61ddaec05305) [](/comprehensive-guide-to-writing-python-functions-others-can-use-2fa186c6be71) [## 编写其他人可以使用的 Python 函数的综合指南
-
-### 函数编写是一项技能——迈出掌握它的第一步
-
-towardsdatascience.com](/comprehensive-guide-to-writing-python-functions-others-can-use-2fa186c6be71)
+[](/open-source-ml-project-with-dagshub-improve-pet-adoption-with-machine-learning-1-e9403f8f7711)  [](/complete-guide-to-experiment-tracking-with-mlflow-and-dagshub-a0439479e0b9)  [](/3-best-often-better-alternatives-to-histograms-61ddaec05305)  [](/comprehensive-guide-to-writing-python-functions-others-can-use-2fa186c6be71) 

@@ -85,12 +85,4 @@ for a in image_list:
 
 查看我的其他文章:
 
-[](/7-data-visualization-best-practices-everyone-must-know-b68ebe329b1e) [## 每个人都必须知道的 7 个数据可视化最佳实践
-
-### 以更有效的方式传达你的故事
-
-towardsdatascience.com](/7-data-visualization-best-practices-everyone-must-know-b68ebe329b1e) [](https://medium.com/illumination/demings-14-management-principles-every-managers-should-know-60d37ce02ad9) [## 每个管理者都应该知道的戴明的 14 条管理原则
-
-### 改编自《日本质量革命背后的男人》
-
-medium.com](https://medium.com/illumination/demings-14-management-principles-every-managers-should-know-60d37ce02ad9)
+[](/7-data-visualization-best-practices-everyone-must-know-b68ebe329b1e)  [](https://medium.com/illumination/demings-14-management-principles-every-managers-should-know-60d37ce02ad9) 

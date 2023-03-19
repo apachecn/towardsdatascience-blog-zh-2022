@@ -96,8 +96,4 @@ resources _ shifts 对象将告诉我们在每个可用的班次中要安排多�
 
 我希望这篇文章对你开始处理调度问题有用。如果您想了解更多关于 pyworkforce 以及如何解决其他优化问题的信息，您可以查看文档及其 repo:
 
- [## py 劳动力-py 劳动力 0.5.0 文档](https://pyworkforce.readthedocs.io/en/stable/) [](https://github.com/rodrigo-arenas/pyworkforce) [## GitHub-Rodrigo-arenas/py work force
-
-### 劳动力管理、排队、调度、排班和优化问题的标准工具。请务必检查…
-
-github.com](https://github.com/rodrigo-arenas/pyworkforce)
+ 

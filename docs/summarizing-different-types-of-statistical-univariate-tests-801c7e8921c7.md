@@ -102,22 +102,10 @@
 
 你可以在这里找到我以前的帖子:
 
-[](/binominal-distribution-what-analysts-should-have-known-95e6a0b56129) [## 简单统计:二项式分布的解释
-
-### 简要、集中的解释，并附有基本统计分布的图解。我们将从最…
-
-towardsdatascience.com](/binominal-distribution-what-analysts-should-have-known-95e6a0b56129) [](/simple-explanations-of-basic-statistics-concepts-part-1-bba66a1761d7) [## 统计学基本概念的简单解释(第一部分)
-
-### 对不同统计概念的简单而全面的解释
-
-towardsdatascience.com](/simple-explanations-of-basic-statistics-concepts-part-1-bba66a1761d7) 
+[](/binominal-distribution-what-analysts-should-have-known-95e6a0b56129)  [](/simple-explanations-of-basic-statistics-concepts-part-1-bba66a1761d7)  
 
 ## **参考**
 
-[](https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/parametric-and-non-parametric-data/) [## 非参数数据和测试(无分布测试)
-
-### 非参数检验(有时称为无分布检验)不假设任何关于基础…
-
-www.statisticshowto.com](https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/parametric-and-non-parametric-data/) 
+[](https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/parametric-and-non-parametric-data/)  
 
 [https://www . Wiley . com/en-us/Methods+of+variable+Analysis % 2C+2nd+Edition-p-9780471461722](https://www.wiley.com/en-us/Methods+of+Multivariate+Analysis%2C+2nd+Edition-p-9780471461722)

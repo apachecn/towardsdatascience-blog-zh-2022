@@ -67,16 +67,4 @@ JavaScript 对象符号在许多不同的应用程序和编程语言中使用。
 
 *如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
 
-*[](/what-is-odbc-c27f95164dec) [## 什么是 ODBC？
-
-### 了解数据库管理系统的 API
-
-towardsdatascience.com](/what-is-odbc-c27f95164dec) [](/redis-in-memory-data-store-easily-explained-3b92457be424) [## Redis:内存数据存储很容易解释
-
-### 了解基于键值的 NoSQL 数据存储
-
-towardsdatascience.com](/redis-in-memory-data-store-easily-explained-3b92457be424) [](/understanding-mapreduce-with-the-help-of-harry-potter-5b0ae89cc88) [## 借助《哈利·波特》理解 MapReduce
-
-### MapReduce 是一种允许并行处理大型数据集的算法，例如，在多台计算机上…
-
-towardsdatascience.com](/understanding-mapreduce-with-the-help-of-harry-potter-5b0ae89cc88)*
+*[](/what-is-odbc-c27f95164dec)  [](/redis-in-memory-data-store-easily-explained-3b92457be424)  [](/understanding-mapreduce-with-the-help-of-harry-potter-5b0ae89cc88) *

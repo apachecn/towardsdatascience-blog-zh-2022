@@ -14,11 +14,7 @@
 
 仅供参考，如果您想了解更多关于监控必要性的原因，请阅读下面的文章。
 
-[](/monitor-stop-being-a-blind-data-scientist-ac915286075f) [## 班长！不要再做一个盲目的数据科学家。
-
-### 监控和警报如何帮助您更好地控制您的数据，以及它的实际应用有多少…
-
-towardsdatascience.com](/monitor-stop-being-a-blind-data-scientist-ac915286075f) 
+[](/monitor-stop-being-a-blind-data-scientist-ac915286075f)  
 
 ## 监控和可观察性
 
@@ -34,11 +30,7 @@ ML 模型监控集成，如 NR I/O 中所示，图片由作者提供。
 
 通过使用 GitHub 上提供的开源“[ML-performance-monitoring](https://github.com/newrelic-experimental/ml-performance-monitoring)”python 库，发送 ML 数据变得很容易。
 
-[](https://github.com/newrelic-experimental/ml-performance-monitoring) [## GitHub—new relic-experimental/ml-performance-monitoring:一个用于发送模型的 Python 包…
-
-### ml-performance-monitoring 提供了一个 Python 库，用于发送机器学习模型的推理数据和性能…
-
-github.com](https://github.com/newrelic-experimental/ml-performance-monitoring) 
+[](https://github.com/newrelic-experimental/ml-performance-monitoring)  
 
 这组工具将允许您直接从代码中监控各种 ML 输出。首先，你需要注册一个*免费* NR 账户，每月最多 100GB。接下来，您将能够直接从 python 脚本或 Jupyter 笔记本进行监控，利用预先构建的仪表板，创建自定义仪表板，以及创建警报。这可以针对模型度量、数据漂移、概念漂移、概率、标签等等来完成。
 
@@ -150,10 +142,6 @@ ML 模型监控，图片由作者提供。
 
 我希望这篇文章能够帮助您完成监控 ML 模型的第一步。如果这种方法对你不起作用，记住市场上有无数其他不可思议的解决方案，其中一些是自助的，它允许你进行快速 POCing。如果你有兴趣了解更多，我整理了以下市场评论。
 
-[](https://www.stateofmlops.com/) [## https://www.stateofmlops.com
-
-### 监控公司市场评论
-
-www.stateofmlops.com](https://www.stateofmlops.com/) 
+[](https://www.stateofmlops.com/)  
 
 Ori Cohen 博士拥有计算机科学博士学位，主要研究机器学习。他是 [ML & DL 纲要](https://book.mlcompendium.com/)和[StateOfMLOps.com](http://www.stateofmlops.com)的作者，并且对 AIOps & MLOps 领域很感兴趣。现在，他是 Justt.ai 数据科学的高级数据总监。

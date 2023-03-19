@@ -228,8 +228,4 @@ demo.launch()
 
 如果你觉得这篇文章有帮助，请[在媒体](https://medium.com/@fmnobar)上关注我，订阅接收我的最新文章！
 
-[](https://medium.com/@fmnobar/membership) [## 加入我的介绍链接-法扎德 Mahmoodinobar 媒体
-
-### 阅读法扎德(以及媒体上的其他作家)的每一个故事。你的会员费直接支持法扎德和其他…
-
-medium.com](https://medium.com/@fmnobar/membership)
+[](https://medium.com/@fmnobar/membership) 

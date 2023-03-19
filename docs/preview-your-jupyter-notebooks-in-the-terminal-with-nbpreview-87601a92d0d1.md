@@ -118,19 +118,7 @@ nbpreview --help
 
 您可能还会对以下内容感兴趣:
 
-[](/pur-the-easiest-way-to-keep-your-requirements-file-up-to-date-22d835279348) [## pur——保持您的需求文件最新的最简单的方法
-
-### 用一行代码更新 requirements.txt 中的所有库
-
-towardsdatascience.com](/pur-the-easiest-way-to-keep-your-requirements-file-up-to-date-22d835279348) [](/why-is-the-log-uniform-distribution-useful-for-hyperparameter-tuning-63c8d331698) [## 为什么对数均匀分布对超参数调整有用？
-
-### 通过这个小小的改变来改进你的网格搜索
-
-towardsdatascience.com](/why-is-the-log-uniform-distribution-useful-for-hyperparameter-tuning-63c8d331698) [](/a-simple-way-to-turn-your-plots-into-gifs-in-python-f6ea4435ed3c) [## 用 Python 把你的图转换成 gif 的简单方法
-
-### 用动画情节打动你的观众
-
-towardsdatascience.com](/a-simple-way-to-turn-your-plots-into-gifs-in-python-f6ea4435ed3c) 
+[](/pur-the-easiest-way-to-keep-your-requirements-file-up-to-date-22d835279348)  [](/why-is-the-log-uniform-distribution-useful-for-hyperparameter-tuning-63c8d331698)  [](/a-simple-way-to-turn-your-plots-into-gifs-in-python-f6ea4435ed3c)  
 
 # 参考
 

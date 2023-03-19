@@ -12,11 +12,7 @@
 
 在我以前的一篇文章中，我讨论了如何使用贝叶斯更新来更新你的信念。你可以在这里查看帖子:
 
-[](/bayesian-updating-simply-explained-c2ed3e563588) [## 贝叶斯更新简单解释
-
-### 用贝叶斯定理更新信念的直观解释
-
-towardsdatascience.com](/bayesian-updating-simply-explained-c2ed3e563588) 
+[](/bayesian-updating-simply-explained-c2ed3e563588)  
 
 在那篇文章中，我们有三个不同数字范围的骰子。我们随机拿起一个骰子，用那个骰子连续掷了两次。从这些信息中，我们计算出我们最有可能捡起哪个骰子的概率(后验概率)。
 
@@ -43,11 +39,7 @@ towardsdatascience.com](/bayesian-updating-simply-explained-c2ed3e563588)
 
 **关于贝叶斯定理的完整推导和直觉，请查看我以前的帖子:**
 
-**[](https://pub.towardsai.net/conditional-probability-and-bayes-theorem-simply-explained-788a6361f333) [## 条件概率和贝叶斯定理浅释
-
-### 条件概率和贝叶斯定理的简单直观的解释。
-
-pub.towardsai.net](https://pub.towardsai.net/conditional-probability-and-bayes-theorem-simply-explained-788a6361f333) 
+**[](https://pub.towardsai.net/conditional-probability-and-bayes-theorem-simply-explained-788a6361f333)  
 
 # 问题是
 
@@ -274,11 +266,7 @@ dice[np.argmax(bayesian_dice_updating(data, dice))]Output: 9
 
 **完整代码可从我的 GitHub 获得，网址是:**
 
-**[](https://github.com/egorhowell/Medium-Articles/blob/main/Statistics/Bayesian_Updating.ipynb) [## Medium-Articles/Bayesian _ updating . ipynb at main egorhowell/Medium-Articles
-
-### 我在我的媒体博客/文章中使用的代码。通过创建一个关于…的帐户，为 egorhowell/Medium-Articles 的开发做出贡献
-
-github.com](https://github.com/egorhowell/Medium-Articles/blob/main/Statistics/Bayesian_Updating.ipynb) 
+**[](https://github.com/egorhowell/Medium-Articles/blob/main/Statistics/Bayesian_Updating.ipynb)  
 
 # 结论
 

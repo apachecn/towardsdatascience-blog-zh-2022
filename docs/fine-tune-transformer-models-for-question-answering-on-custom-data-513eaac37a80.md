@@ -20,11 +20,7 @@
 
 例如，让我们使用 SubjQA 数据集的数据—包含来自 6 个不同领域的评论的 10，000 个问题:书籍、电影、杂货、电子产品、猫途鹰(即酒店)和餐馆。
 
-[](https://github.com/megagonlabs/SubjQA) [## GitHub — megagonlabs/SubjQA:一个以主观信息为重点的问答数据集
-
-### SubjQA 是一个问题回答数据集，侧重于主观(而不是事实)问题和答案。的…
-
-github.com](https://github.com/megagonlabs/SubjQA) 
+[](https://github.com/megagonlabs/SubjQA)  
 
 特别是因为我正在说明微调的力量，我将从电影评论中产生的问题和答案。这些可以方便地分为两个 csv 文件，分别用于培训(train.csv)和测试(test.csv)。
 
@@ -78,11 +74,7 @@ github.com](https://github.com/megagonlabs/SubjQA)
 
 现在是激动人心的部分——将模型部署到 huggingfacehub 后，您就可以从浏览器访问它了！
 
-[](https://huggingface.co/skandavivek2/roberta-finetuned-subjqa-movies_2) [## skandavivek 2/Roberta-fine tuned-subj QA-movies _ 2 拥抱脸
-
-### 编辑模型卡这个模型是在 None 数据集上的 deepset/roberta-base-squad2 的微调版本。更多信息…
-
-huggingface.co](https://huggingface.co/skandavivek2/roberta-finetuned-subjqa-movies_2) 
+[](https://huggingface.co/skandavivek2/roberta-finetuned-subjqa-movies_2)  
 
 也可以在笔记本中调用如下:
 
@@ -112,11 +104,7 @@ question_answerer = pipeline(“question-answering”, model=model_checkpoint2)
 
 您可以在这个 GitHub repo 中找到代码:
 
-[](https://github.com/skandavivek/transformerQA-finetuning) [## GitHub—skandavivek/Transformer QA-Fine tuning:微调 HuggingFace Transformer…
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/skandavivek/transformerQA-finetuning) 
+[](https://github.com/skandavivek/transformerQA-finetuning)  
 
 ***更新:***[***https://www.answerchatai.com/***](https://www.answerchatai.com/)***—我们使用生成式 AI 回答问题并从自定义文本中提取关键知识的 QA 引擎现已上线！回答特定领域的问题 3 个简单的步骤！***
 

@@ -20,15 +20,7 @@
 
 最后，我希望这篇文章将激励机器学习模型的开发人员公开他们模型的能耗和/或碳足迹，以便这些信息可以与模型准确性度量一起用于评估模型的性能。
 
-[](/chatgpts-electricity-consumption-7873483feac4) [## ChatGPT 的电力消耗
-
-### ChatGPT 可能在 2023 年 1 月消耗了多达 17.5 万人的电力。
-
-towardsdatascience.com](/chatgpts-electricity-consumption-7873483feac4) [](https://kaspergroesludvigsen.medium.com/chatgpts-electricity-consumption-pt-ii-225e7e43f22b) [## ChatGPT 的用电量，PT。二
-
-### 对 ChatGPT 成本的估计支持了 ChatGPT 每月耗电量为 110 万至 2300 万千瓦时的估计
-
-kaspergroesludvigsen.medium.com](https://kaspergroesludvigsen.medium.com/chatgpts-electricity-consumption-pt-ii-225e7e43f22b) 
+[](/chatgpts-electricity-consumption-7873483feac4)  [](https://kaspergroesludvigsen.medium.com/chatgpts-electricity-consumption-pt-ii-225e7e43f22b)  
 
 # 大规模机器学习的环境成本
 
@@ -45,11 +37,7 @@ kaspergroesludvigsen.medium.com](https://kaspergroesludvigsen.medium.com/chatgpt
 
 # 2 很大程度上取决于电力是如何产生的，例如太阳能和风能显然比煤更环保。为了量化这一点，我们通常使用硬件所在电网的平均碳强度。
 
-[](/how-to-estimate-and-reduce-the-carbon-footprint-of-machine-learning-models-49f24510880) [## 如何估计和减少机器学习模型的碳足迹
-
-### 轻松估算机器学习模型碳足迹的两种方法和如何减少碳足迹的 17 个想法
-
-towardsdatascience.com](/how-to-estimate-and-reduce-the-carbon-footprint-of-machine-learning-models-49f24510880) 
+[](/how-to-estimate-and-reduce-the-carbon-footprint-of-machine-learning-models-49f24510880)  
 
 # 来自培训聊天的碳足迹
 
@@ -83,11 +71,7 @@ towardsdatascience.com](/how-to-estimate-and-reduce-the-carbon-footprint-of-mach
 
 另一方面，如果 OpenAI 的工程师已经找到一些更有效地处理所有请求的聪明方法，我对 ChatGPT 碳足迹的估计可能会太高。
 
-[](/8-podcast-episodes-on-the-climate-impact-of-machine-learning-54f1c19f52d) [## 8 集关于机器学习对气候影响的播客
-
-### 这里有一个精心策划的列表，列出了 8 个关于机器学习的环境足迹以及如何…
-
-towardsdatascience.com](/8-podcast-episodes-on-the-climate-impact-of-machine-learning-54f1c19f52d) 
+[](/8-podcast-episodes-on-the-climate-impact-of-machine-learning-54f1c19f52d)  
 
 # ChatGPT 全生命周期碳足迹
 
@@ -97,11 +81,7 @@ towardsdatascience.com](/8-podcast-episodes-on-the-climate-impact-of-machine-lea
 
 此外，我们还需要获得生产硬件的具体排放量的估计值。这是一个相当复杂的任务，留给读者来做练习。可以在[3]和[5]中找到有用的信息，前者估计了布鲁姆的总生命周期碳足迹，后者估计了脸书一些大型模型的总生命周期碳足迹。
 
-[](https://kaspergroesludvigsen.medium.com/the-10-most-energy-efficient-programming-languages-6a4165126670) [## 10 种最节能的编程语言
-
-### 在一项对 27 种编程语言的能效调查中，C 高居榜首，Python 位居第二…
-
-kaspergroesludvigsen.medium.com](https://kaspergroesludvigsen.medium.com/the-10-most-energy-efficient-programming-languages-6a4165126670) 
+[](https://kaspergroesludvigsen.medium.com/the-10-most-energy-efficient-programming-languages-6a4165126670)  
 
 # 结论
 

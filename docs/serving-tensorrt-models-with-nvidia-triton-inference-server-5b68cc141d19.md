@@ -16,11 +16,7 @@
 
 在我的上一篇文章中，我们已经讨论了在 edge (一个独立的 GPU Linux 设备)上用 TensorRT 设置和运行模型推理**。正如我们所见，这非常简单:**
 
-[](https://medium.com/mlearning-ai/running-tensorflow-model-on-edge-with-tensorrt-for-fast-inference-4dcad300a523) [## 使用 TensorRT 在 Edge 上运行 Tensorflow 模型进行快速推理
-
-### 关于 Linux 环境下 TensorRT 的设置、量化和运行推理
-
-medium.com](https://medium.com/mlearning-ai/running-tensorflow-model-on-edge-with-tensorrt-for-fast-inference-4dcad300a523) 
+[](https://medium.com/mlearning-ai/running-tensorflow-model-on-edge-with-tensorrt-for-fast-inference-4dcad300a523)  
 
 另一方面，在本文中，我们将讨论在单个服务器(一个将通过网络接收来自其他设备的请求的 GPU 工作站)上使用 tensort 设置和运行模型推理**，即 [**NVIDIA Triton 推理服务器**](https://developer.nvidia.com/nvidia-triton-inference-server) **。****
 
@@ -28,15 +24,7 @@ medium.com](https://medium.com/mlearning-ai/running-tensorflow-model-on-edge-wit
 
 关于 Triton server 性能的更多信息可以在以下文章中找到:
 
- [## 使用 tensorRT & triton 推理加速 AI/深度学习模型
-
-### 模型服务问题人工智能/深度学习模型已经接管了许多以前需要人类的服务…
-
-blog.advance.ai](https://blog.advance.ai/blog/accelerating-ai-deep-learning-models) [](https://developer.nvidia.com/blog/nvidia-serves-deep-learning-inference/) [## NVIDIA Triton 推理服务器提升深度学习推理| NVIDIA 技术博客
-
-### 你已经建立、训练、调整和调整了你的模型。您最终创建了一个 TensorRT、TensorFlow 或 ONNX 模型…
-
-developer.nvidia.com](https://developer.nvidia.com/blog/nvidia-serves-deep-learning-inference/) 
+  [](https://developer.nvidia.com/blog/nvidia-serves-deep-learning-inference/)  
 
 ## 先决条件
 
@@ -155,11 +143,7 @@ pip install tritonclient[all]
 
 然而，当我们考虑在 Triton TensorRT 和 local TensorRT 之间运行单个本地推理时，local TensorRT 仍然具有更快的推理速度，因为 Triton TensorRT 在网络上运行推理时具有额外的开销。在下面的线程中可以看到一些参数:
 
-[](https://github.com/triton-inference-server/server/issues/4812) [## Tritonserver 推理中不可理解的开销问题# 4812 triton-推理-服务器/服务器
-
-### 描述关于 Tritonserver 的性能有两个奇怪的实验结果，我不能…
-
-github.com](https://github.com/triton-inference-server/server/issues/4812) 
+[](https://github.com/triton-inference-server/server/issues/4812)  
 
 # 8.结论
 
@@ -171,16 +155,8 @@ github.com](https://github.com/triton-inference-server/server/issues/4812)
 
 此外，如果你想知道如何快速深入地学习数据科学和人工智能，请查看我在《学习》中的一篇顶级文章:
 
-[](/a-brief-guide-to-effective-learning-in-data-science-637de316da0e) [## 数据科学有效学习完全指南
-
-### 基础和详细的指南，让你在数据科学(或任何学科)上突飞猛进
-
-towardsdatascience.com](/a-brief-guide-to-effective-learning-in-data-science-637de316da0e) 
+[](/a-brief-guide-to-effective-learning-in-data-science-637de316da0e)  
 
 > ***支持我！*** *—* 如果你没有订阅 Medium，但喜欢我的内容，请考虑通过我的[推荐链接](https://tanpengshi.medium.com/membership)加入 Medium 来支持我。
 
-[](https://tanpengshi.medium.com/membership) [## 加入我的介绍链接媒体-谭师鹏阿尔文
-
-### 阅读谭·师鹏·阿尔文(以及媒体上成千上万其他作家)的每一个故事。您的会员费直接…
-
-tanpengshi.medium.com](https://tanpengshi.medium.com/membership)
+[](https://tanpengshi.medium.com/membership) 

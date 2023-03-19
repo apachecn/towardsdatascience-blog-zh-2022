@@ -58,11 +58,7 @@ Power BI 中的数据模型类似于上图:
 
 我会考虑我为另一个客户实现的另一个解决方案，我在下面的文章中记录了它:
 
-[](/when-a-count-goes-mad-or-how-to-count-orders-over-time-in-dax-850b55145f3) [## 当一个计数变得疯狂或如何在 DAX 中计数订单
-
-### 关于如何以两种不同的方式在 DAX 中映射订单计数。
-
-towardsdatascience.com](/when-a-count-goes-mad-or-how-to-count-orders-over-time-in-dax-850b55145f3) 
+[](/when-a-count-goes-mad-or-how-to-count-orders-over-time-in-dax-850b55145f3)  
 
 但是我很快意识到这不是一个可行的选择。
 
@@ -290,8 +286,4 @@ ContosoRetailDW 样本数据集可以从微软[这里](https://www.microsoft.com
 
 Contoso 数据可以在 MIT 许可下自由使用，如这里的[所述](https://github.com/microsoft/Power-BI-Embedded-Contoso-Sales-Demo)。
 
-[](https://medium.com/@salvatorecagliari/membership) [## 通过我的推荐链接加入 Medium-Salvatore Cagliari
-
-### 阅读萨尔瓦托勒·卡利亚里的每一个故事(以及媒体上成千上万的其他作家)。您的会员费直接…
-
-medium.com](https://medium.com/@salvatorecagliari/membership)
+[](https://medium.com/@salvatorecagliari/membership) 

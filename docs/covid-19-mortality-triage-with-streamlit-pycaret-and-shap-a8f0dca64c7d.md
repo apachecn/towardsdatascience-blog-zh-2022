@@ -58,11 +58,7 @@ pip install streamlit_echarts
 
 这个项目的主要障碍之一是为模型训练获取数据。由于没有来自重症监护的新冠肺炎患者的开源数据库，我认为最好的方法是创建自己的数据库。为此，我找到了一篇解决类似问题的论文。下面的论文概述了影响新冠肺炎患者死亡率预测的几个关键特征。然后，我对这些特征进行了松散的逆向工程，以生成一个代理数据集。
 
-[](https://www.frontiersin.org/articles/10.3389/fdgth.2021.681608/full) [## 使用机器学习预测 ICU 中新冠肺炎患者第 0 天的死亡率
-
-### 理由:考虑到新冠肺炎病例数量的增加和新一波感染的潜在可能，有一种…
-
-www.frontiersin.org](https://www.frontiersin.org/articles/10.3389/fdgth.2021.681608/full) 
+[](https://www.frontiersin.org/articles/10.3389/fdgth.2021.681608/full)  
 
 ```
 import random as rand
@@ -285,11 +281,7 @@ st.text("Previous COVID-19 ICU Patients")
 
 https://covidtriage.streamlitapp.com/
 
-![](img/6e76cf03ad3c1394495604aba5086851.png)[](https://github.com/chags1313/covidtriageStreamlit) [## GitHub-chags 1313/covidtriageStreamlit:使用 Streamlit 构建的 COVID triage 应用程序
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/chags1313/covidtriageStreamlit) 
+![](img/6e76cf03ad3c1394495604aba5086851.png)[](https://github.com/chags1313/covidtriageStreamlit)  
 
 # 结论
 
@@ -297,26 +289,10 @@ github.com](https://github.com/chags1313/covidtriageStreamlit)
 
 *感谢您的阅读！查看我的 GitHub 以获得更多代码和资源，或者在 LinkedIn 上联系我，提出任何问题或评论。*
 
-[](https://github.com/chags1313) [## chags1313 -概述
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/chags1313) 
+[](https://github.com/chags1313)  
 
 [https://www.linkedin.com/in/cole-hagen/](https://www.linkedin.com/in/cole-hagen/)
 
 # 作者的相关文章
 
-[](/can-you-teach-a-computer-to-see-your-pain-18c0f60eb0e4) [## 你能教电脑看到你的痛苦吗？
-
-### 答案是肯定的，以下是方法
-
-towardsdatascience.com](/can-you-teach-a-computer-to-see-your-pain-18c0f60eb0e4) [](/making-it-rain-with-raincloud-plots-496c39a2756f) [## 用雨云图让它下雨
-
-### 使用 python 实现 ptitprince 库以实现健壮的数据可视化
-
-towardsdatascience.com](/making-it-rain-with-raincloud-plots-496c39a2756f) [](/warp-space-and-time-with-radial-heatmaps-c9a878d2ebf6) [## 使用径向热图扭曲空间和时间
-
-### 使用 Python 和 HoloViews 对时间序列和循环数据进行独特的数据可视化
-
-towardsdatascience.com](/warp-space-and-time-with-radial-heatmaps-c9a878d2ebf6)
+[](/can-you-teach-a-computer-to-see-your-pain-18c0f60eb0e4)  [](/making-it-rain-with-raincloud-plots-496c39a2756f)  [](/warp-space-and-time-with-radial-heatmaps-c9a878d2ebf6) 

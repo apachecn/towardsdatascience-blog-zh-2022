@@ -325,19 +325,11 @@ with table1 as (
 
 不确定接下来要读什么？我为你挑选了另一篇文章:
 
-[](/all-machine-learning-algorithms-you-should-know-in-2022-db5b4ccdf32f) [## 2022 年你应该知道的所有机器学习算法
-
-### 最流行的机器学习模型的直观解释
-
-towardsdatascience.com](/all-machine-learning-algorithms-you-should-know-in-2022-db5b4ccdf32f) 
+[](/all-machine-learning-algorithms-you-should-know-in-2022-db5b4ccdf32f)  
 
 **还有一个:**
 
-[](/the-10-best-data-visualizations-of-2021-fec4c5cf6cdb) [## 2021 年 10 大最佳数据可视化
-
-### 关于财富分配、环境、新冠肺炎等等的令人敬畏的可视化！
-
-towardsdatascience.com](/the-10-best-data-visualizations-of-2021-fec4c5cf6cdb) 
+[](/the-10-best-data-visualizations-of-2021-fec4c5cf6cdb)  
 
 # -特伦斯·申
 

@@ -194,33 +194,13 @@ pip install graphistry
 
 随意发挥，并在这里叉这篇文章的源代码:
 
-[](https://github.com/khuyentran1401/Data-science/blob/master/visualization/analyze_URL/analyze_URL.ipynb) [## 数据科学/analyze _ URL . ipynb at master khuyentran 1401/数据科学
-
-### 收集有用的数据科学主题以及代码和文章-Data-science/analyze _ URL . ipynb at master…
-
-github.com](https://github.com/khuyentran1401/Data-science/blob/master/visualization/analyze_URL/analyze_URL.ipynb) 
+[](https://github.com/khuyentran1401/Data-science/blob/master/visualization/analyze_URL/analyze_URL.ipynb)  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的数据科学工具。你可以在 LinkedIn 和 T2 Twitter 上与我联系。
 
 星[这个回购](https://github.com/khuyentran1401/Data-science)如果你想检查我写的所有文章的代码。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/visualize-github-social-network-with-pygraphistry-dfc23a38ec8d) [## 用 PyGraphistry 可视化 GitHub 社交网络
-
-### 分析机器学习开发者和 Web 开发者之间的联系
-
-towardsdatascience.com](/visualize-github-social-network-with-pygraphistry-dfc23a38ec8d) [](/pyvis-visualize-interactive-network-graphs-in-python-77e059791f01) [## Pyvis:用 Python 可视化交互式网络图
-
-### 只需要几行代码
-
-towardsdatascience.com](/pyvis-visualize-interactive-network-graphs-in-python-77e059791f01) [](/observe-the-friend-paradox-in-facebook-data-using-python-314c23fd49e4) [## 使用 Python 观察脸书数据中的朋友悖论
-
-### 平均来说，你的朋友比你的朋友多吗？
-
-towardsdatascience.com](/observe-the-friend-paradox-in-facebook-data-using-python-314c23fd49e4) [](https://pub.towardsai.net/visualize-gender-specific-tweets-with-scattertext-5167e4600025) [## 用分散文本可视化特定性别的推文
-
-### 区分推文中的性别，并在交互式 HTML 散点图中呈现
-
-pub.towardsai.net](https://pub.towardsai.net/visualize-gender-specific-tweets-with-scattertext-5167e4600025) 
+[](/visualize-github-social-network-with-pygraphistry-dfc23a38ec8d)  [](/pyvis-visualize-interactive-network-graphs-in-python-77e059791f01)  [](/observe-the-friend-paradox-in-facebook-data-using-python-314c23fd49e4)  [](https://pub.towardsai.net/visualize-gender-specific-tweets-with-scattertext-5167e4600025)  
 
 # 参考
 

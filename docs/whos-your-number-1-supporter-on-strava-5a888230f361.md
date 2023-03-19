@@ -30,11 +30,7 @@
 
 我从 Benji Knights Johnson 的这篇文章中得到了所有这些，文章中对这些步骤进行了更详细的解释:
 
-[](https://medium.com/swlh/using-python-to-connect-to-stravas-api-and-analyse-your-activities-dummies-guide-5f49727aac86) [## 使用 Python 连接到 Strava 的 API 并分析您的活动——傻瓜指南
-
-### 我找不到一本完整的指南，从头到尾介绍了连接到 Strava 的 API 的所有部分…
-
-medium.com](https://medium.com/swlh/using-python-to-connect-to-stravas-api-and-analyse-your-activities-dummies-guide-5f49727aac86) 
+[](https://medium.com/swlh/using-python-to-connect-to-stravas-api-and-analyse-your-activities-dummies-guide-5f49727aac86)  
 
 现在让乐趣开始吧。
 

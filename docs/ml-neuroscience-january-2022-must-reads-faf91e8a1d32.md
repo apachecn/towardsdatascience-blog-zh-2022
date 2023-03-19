@@ -10,11 +10,7 @@
 
 *通过我的推荐链接加入 Medium 来支持我的写作和项目:*
 
-[](https://medium.com/@stefanobosisio1/membership) [## 通过我的推荐链接加入 Medium-Stefano Bosisio
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@stefanobosisio1/membership) 
+[](https://medium.com/@stefanobosisio1/membership)  
 
 **为什么要关心神经科学？**
 

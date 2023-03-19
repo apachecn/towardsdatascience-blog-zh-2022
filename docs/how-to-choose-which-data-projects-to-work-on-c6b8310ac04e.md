@@ -71,18 +71,6 @@
 
 如果你觉得“有趣”,可以看看我的其他文章:
 
-[](https://medium.com/@jolecoco/what-training-at-the-gym-teaches-you-about-training-models-931e5878dc14) [## 健身房的训练教会了你什么训练模型
-
-### TL；大卫:你有权衡，你需要找到适合你的平衡，⚖️
-
-medium.com](https://medium.com/@jolecoco/what-training-at-the-gym-teaches-you-about-training-models-931e5878dc14) [](/how-to-build-a-successful-dashboard-359c8cb0f610) [## 如何构建成功的仪表板
-
-### 一份清单，来自某个制造了几个不成功产品的人
-
-towardsdatascience.com](/how-to-build-a-successful-dashboard-359c8cb0f610) [](https://medium.com/@jolecoco/the-art-of-turning-fuzzy-concepts-into-operational-metrics-part-1-9140b79d54b2) [## 将模糊概念转化为操作指标的艺术——第 1 部分。
-
-### 在业务团队中工作，我经常被要求量化一个模糊的概念，即一个“人性化”的概念…
-
-medium.com](https://medium.com/@jolecoco/the-art-of-turning-fuzzy-concepts-into-operational-metrics-part-1-9140b79d54b2) 
+[](https://medium.com/@jolecoco/what-training-at-the-gym-teaches-you-about-training-models-931e5878dc14)  [](/how-to-build-a-successful-dashboard-359c8cb0f610)  [](https://medium.com/@jolecoco/the-art-of-turning-fuzzy-concepts-into-operational-metrics-part-1-9140b79d54b2)  
 
 [1][https://www . techrepublic . com/article/85-of-big-data-projects-fail-but-your-developers-can-help-yours-success/](https://www.techrepublic.com/article/85-of-big-data-projects-fail-but-your-developers-can-help-yours-succeed/)

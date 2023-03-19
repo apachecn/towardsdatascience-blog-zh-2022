@@ -170,27 +170,7 @@ Fzf 可以从几乎所有的包管理器中获得，但是你也可以用 git �
 
 # Git 仓库
 
-[](https://github.com/schollz/croc) [## GitHub - schollz/croc:轻松安全地将东西从一台计算机发送到另一台计算机
-
-### 这个项目得到了 Github 赞助商的支持。croc 是一个工具，可以让任何两台计算机简单而安全地…
-
-github.com](https://github.com/schollz/croc) [](https://github.com/ajeetdsouza/zoxide) [## GitHub - ajeetdsouza/zoxide:更智能的 cd 命令。支持所有主要外壳。
-
-### zoxide 是一个更智能的 cd 命令，灵感来自 z 和 autojump。它会记住你最常使用的目录，所以…
-
-github.com](https://github.com/ajeetdsouza/zoxide) [](https://github.com/htop-dev/htop) [## GitHub - htop-dev/htop: htop -交互式流程查看器
-
-### htop 是一个跨平台的交互式流程查看器。htop 允许垂直滚动进程列表…
-
-github.com](https://github.com/htop-dev/htop) [](https://github.com/eradman/entr) [## GitHub - eradman/entr:当文件改变时运行任意命令
-
-### 当文件改变时运行任意命令的工具。使用 kqueue(2)或 inotify(7)来避免轮询。主菜是…
-
-github.com](https://github.com/eradman/entr) [](https://github.com/junegunn/fzf) [## GitHub - junegunn/fzf:命令行模糊查找器
-
-### fzf 是一个通用的命令行模糊查找器。这是一个用于命令行的交互式 Unix 过滤器，可用于…
-
-github.com](https://github.com/junegunn/fzf) 
+[](https://github.com/schollz/croc)  [](https://github.com/ajeetdsouza/zoxide)  [](https://github.com/htop-dev/htop)  [](https://github.com/eradman/entr)  [](https://github.com/junegunn/fzf)  
 
 # 结论
 

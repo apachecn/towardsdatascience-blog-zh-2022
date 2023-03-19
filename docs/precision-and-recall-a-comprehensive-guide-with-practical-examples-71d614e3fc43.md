@@ -128,20 +128,4 @@
 
 ## *进一步阅读*
 
-*[](http://www.chioka.in/class-imbalance-problem/) [## 阶级失衡问题
-
-### 这是机器学习中的问题，一类数据的总数(正的)远远小于总的…
-
-www.chioka.in](http://www.chioka.in/class-imbalance-problem/) [](https://en.wikipedia.org/wiki/Precision_and_recall) [## 精确和召回-维基百科
-
-### 在模式识别，信息检索和分类(机器学习)，精度和召回是…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Precision_and_recall) [](https://machinelearningmastery.com/roc-curves-and-precision-recall-curves-for-classification-in-python/) [## 如何在 Python -机器学习中使用 ROC 曲线和精确召回曲线进行分类…
-
-### 在分类问题中，预测一个观察值属于每一类的概率会更加灵活…
-
-machinelearningmastery.com](https://machinelearningmastery.com/roc-curves-and-precision-recall-curves-for-classification-in-python/) [](https://machinelearningmastery.com/random-oversampling-and-undersampling-for-imbalanced-classification/) [## 用于不平衡分类的随机过采样和欠采样-机器学习掌握
-
-### 不平衡数据集是指类别分布严重倾斜的数据集，例如 1:100 或 1:1000 的示例…
-
-machinelearningmastery.com](https://machinelearningmastery.com/random-oversampling-and-undersampling-for-imbalanced-classification/)*
+*[](http://www.chioka.in/class-imbalance-problem/)  [](https://en.wikipedia.org/wiki/Precision_and_recall)  [](https://machinelearningmastery.com/roc-curves-and-precision-recall-curves-for-classification-in-python/)  [](https://machinelearningmastery.com/random-oversampling-and-undersampling-for-imbalanced-classification/) *

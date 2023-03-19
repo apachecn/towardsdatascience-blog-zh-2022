@@ -75,11 +75,7 @@ Light FM 是一个针对隐式和显式反馈的开源推荐系统。使用 Ligh
 
 该模型能够使用交互数据来学习用户和项目表示。如果用户喜欢不止一个项目，例如薯条和可乐，模型必须知道这两个项目是相似的。针对新用户和项目的模型扫描计算建议(Maciej & Lyst，2015 年)
 
- [## 欢迎阅读 LightFM 的文档！- LightFM 1.16 文档
-
-### OSX 和 Windows 用户注意:默认情况下，LightFM 不会在 OSX 和 Windows 上使用 OpenMP，因此所有模型拟合…
-
-making.lyst.com](https://making.lyst.com/lightfm/docs/home.html) ![](img/63b075ccb78fe39f7d5f21366e18994c.png)
+  ![](img/63b075ccb78fe39f7d5f21366e18994c.png)
 
 **图 4。**说明了用于 LightFM 模型的目标函数。图片由作者使用 MS Word 编写。包括围绕优化目标函数的讨论的快照，以表示相关的公式。
 
@@ -121,11 +117,7 @@ LightFM 模型对训练数据的输出在下面的表 1 中给出(库拉，2016)
 
 对于使用 Pytorch 的神经网络模型，使用不同的权重值、学习速率、时期和权重衰减来检查模型性能的改进。
 
- [## 17.6.个性化排序的神经协同过滤-深入学习…
-
-### 这一节超越了显式反馈，介绍了神经协同过滤(NCF)框架…
-
-d2l.ai](https://d2l.ai/chapter_recommender-systems/neumf.html) 
+  
 
 # 3.模型比较
 

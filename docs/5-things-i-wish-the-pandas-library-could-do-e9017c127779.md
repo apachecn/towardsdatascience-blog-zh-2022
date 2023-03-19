@@ -50,21 +50,13 @@ Georg Bommeli 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=r
 
 除了速度快之外，这些格式存储数据占用的磁盘内存也更少。请在下面我的博客中阅读有关这些文件格式的更多信息:
 
-[](/why-i-stopped-dumping-dataframes-to-a-csv-and-why-you-should-too-c0954c410f8f) [## 为什么我停止向 CSV 转储数据帧，为什么您也应该这样做
-
-### 是时候告别 pd.to_csv()和 pd.read_csv()了
-
-towardsdatascience.com](/why-i-stopped-dumping-dataframes-to-a-csv-and-why-you-should-too-c0954c410f8f) 
+[](/why-i-stopped-dumping-dataframes-to-a-csv-and-why-you-should-too-c0954c410f8f)  
 
 *   使用像 [**DataTable**](https://datatable.readthedocs.io/) 这样的库，它们不像 Pandas，拥有并行化能力。
 
 在下面我的博客中阅读更多关于数据表的内容:
 
-[](/its-time-to-say-goodbye-to-pd-read-csv-and-pd-to-csv-27fbc74e84c5) [## 是时候告别 pd.read_csv()和 pd.to_csv()了
-
-### 讨论熊猫的另一个重要警告
-
-towardsdatascience.com](/its-time-to-say-goodbye-to-pd-read-csv-and-pd-to-csv-27fbc74e84c5) 
+[](/its-time-to-say-goodbye-to-pd-read-csv-and-pd-to-csv-27fbc74e84c5)  
 
 # #2 我希望熊猫可以一次读取多个 CSV 文件
 
@@ -88,11 +80,7 @@ DataTable 库再次成为 Pandas 的一个很好的替代方案来解决这个�
 
 在下面我的博客中阅读更多关于运行时性能的内容:
 
-[](/how-to-read-multiple-csv-files-non-iteratively-and-without-pandas-984fd954999c) [## 如何非迭代地读取多个 CSV 文件(并且没有熊猫)
-
-### 对熊猫的读 CSV 方法说不！
-
-towardsdatascience.com](/how-to-read-multiple-csv-files-non-iteratively-and-without-pandas-984fd954999c) 
+[](/how-to-read-multiple-csv-files-non-iteratively-and-without-pandas-984fd954999c)  
 
 # #3 我希望熊猫数据帧使用更少的内存
 
@@ -125,11 +113,7 @@ Pandas 数据帧非常庞大，而且内存使用效率很低。例如，假设�
 
 在我的博客中阅读更多关于内存优化技术的内容:
 
-[](/seven-killer-memory-optimization-techniques-every-pandas-user-should-know-64707348ab20) [## 每个熊猫用户都应该知道的七个黑仔内存优化技术
-
-### 优化熊猫记忆利用的简单技巧
-
-towardsdatascience.com](/seven-killer-memory-optimization-techniques-every-pandas-user-should-know-64707348ab20) 
+[](/seven-killer-memory-optimization-techniques-every-pandas-user-should-know-64707348ab20)  
 
 # #4 我希望熊猫可以用于大型数据集
 
@@ -210,11 +194,7 @@ PandaSQL 是一个流行的 python 包，它混合了 Pandas 和 SQL，允许您
 
 然而，在 Pandas 数据帧中使用 SQL 的便利性是以运行时间为代价的。我在之前的博文中讨论过这个问题:
 
-[](/the-downsides-of-pandasql-that-no-one-talks-about-9b63c664bef4) [## PandaSQL 简介:没人谈论的缺点
-
-### 熊猫+ SQL = PandaSQL =一塌糊涂
-
-towardsdatascience.com](/the-downsides-of-pandasql-that-no-one-talks-about-9b63c664bef4) 
+[](/the-downsides-of-pandasql-that-no-one-talks-about-9b63c664bef4)  
 
 # 结论
 

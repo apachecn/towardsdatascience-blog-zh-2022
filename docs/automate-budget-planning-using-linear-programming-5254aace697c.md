@@ -210,11 +210,7 @@ III. Conclusion & Next Steps**
 
 ****如果你对数据分析和供应链感兴趣，可以看看我的网站****
 
-****[](https://samirsaci.com) [## Samir Saci |数据科学与生产力
-
-### 专注于数据科学、个人生产力、自动化、运筹学和可持续发展的技术博客
-
-samirsaci.com](https://samirsaci.com)**** 
+****[](https://samirsaci.com) **** 
 
 # ****参考****
 

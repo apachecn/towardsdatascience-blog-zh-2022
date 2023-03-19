@@ -137,24 +137,8 @@ from airflow.operators.python_operator import PythonOperator def get_secrets(**k
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership) 
+[](https://gmyrianthous.medium.com/membership)  
 
 **相关文章你可能也喜欢**
 
-[](/run-airflow-docker-1b83a57616fb) [## 如何使用 Docker 在本地运行气流
-
-### 在本地机器上使用 Docker 运行 Airflow 的分步指南
-
-towardsdatascience.com](/run-airflow-docker-1b83a57616fb) [](/connect-airflow-worker-gcp-e79690f3ecea) [## 如何在 Cloud Composer 上连接到气流工作者
-
-### 在谷歌云平台上连接气流工作者
-
-towardsdatascience.com](/connect-airflow-worker-gcp-e79690f3ecea) [](/environment-variables-python-aecb9bf01b85) [## 在 Python 中与环境变量交互
-
-### 使用 Python 访问、导出和取消设置环境变量
-
-towardsdatascience.com](/environment-variables-python-aecb9bf01b85)
+[](/run-airflow-docker-1b83a57616fb)  [](/connect-airflow-worker-gcp-e79690f3ecea)  [](/environment-variables-python-aecb9bf01b85) 

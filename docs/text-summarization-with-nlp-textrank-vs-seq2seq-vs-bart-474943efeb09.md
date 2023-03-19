@@ -24,19 +24,11 @@
 
 我将展示一些有用的 Python 代码，这些代码可以很容易地应用于其他类似的情况(只需复制、粘贴、运行)，并通过注释遍历每一行代码，以便您可以复制这个示例(下面是完整代码的链接)。
 
-[](https://github.com/mdipietro09/DataScience_ArtificialIntelligence_Utils/blob/master/natural_language_processing/example_text_summarization.ipynb) [## data science _ artificial intelligence _ Utils/example _ text _ summary . ipynb at master…
-
-### 数据科学项目和人工智能用例的示例…
-
-github.com](https://github.com/mdipietro09/DataScience_ArtificialIntelligence_Utils/blob/master/natural_language_processing/example_text_summarization.ipynb) 
+[](https://github.com/mdipietro09/DataScience_ArtificialIntelligence_Utils/blob/master/natural_language_processing/example_text_summarization.ipynb)  
 
 我将使用“**CNN Daily Mail**”**数据集，其中为您提供了 CNN 和《每日邮报》记者用英语撰写的数千篇新闻文章，以及每篇文章的摘要(以下链接)。**
 
-**[](https://huggingface.co/datasets/cnn_dailymail) [## cnn_dailymail 拥抱脸的数据集
-
-### 我们正在通过开源和开放科学来推进和民主化人工智能的旅程。
-
-huggingface.co](https://huggingface.co/datasets/cnn_dailymail) 
+**[](https://huggingface.co/datasets/cnn_dailymail)  
 
 特别是，我将经历:
 
@@ -649,20 +641,4 @@ def **bart**(corpus, max_len):
 
 > ******本文是系列文章 **NLP 与 Python** 的一部分，参见:******
 
-******[](/text-classification-with-nlp-tf-idf-vs-word2vec-vs-bert-41ff868d1794) [## 基于自然语言处理的文本分类:Tf-Idf vs Word2Vec vs BERT
-
-### 预处理、模型设计、评估、词袋的可解释性、词嵌入、语言模型
-
-towardsdatascience.com](/text-classification-with-nlp-tf-idf-vs-word2vec-vs-bert-41ff868d1794) [](/text-analysis-feature-engineering-with-nlp-502d6ea9225d) [## 使用自然语言处理的文本分析和特征工程
-
-### 语言检测，文本清理，长度，情感，命名实体识别，N-grams 频率，词向量，主题…
-
-towardsdatascience.com](/text-analysis-feature-engineering-with-nlp-502d6ea9225d) [](/text-classification-with-no-model-training-935fe0e42180) [## 用于无模型训练的文本分类的 BERT
-
-### 如果没有带标签的训练集，请使用 BERT、单词嵌入和向量相似度
-
-towardsdatascience.com](/text-classification-with-no-model-training-935fe0e42180) [](/ai-chatbot-with-nlp-speech-recognition-transformers-583716a299e9) [## 带 NLP 的 AI 聊天机器人:语音识别+变形金刚
-
-### 用 Python 构建一个会说话的聊天机器人，与你的人工智能进行对话
-
-towardsdatascience.com](/ai-chatbot-with-nlp-speech-recognition-transformers-583716a299e9)******
+******[](/text-classification-with-nlp-tf-idf-vs-word2vec-vs-bert-41ff868d1794)  [](/text-analysis-feature-engineering-with-nlp-502d6ea9225d)  [](/text-classification-with-no-model-training-935fe0e42180)  [](/ai-chatbot-with-nlp-speech-recognition-transformers-583716a299e9) ******

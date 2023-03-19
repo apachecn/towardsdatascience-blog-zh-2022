@@ -22,11 +22,7 @@ Natalya Letunova 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_mediu
 
 我们邀请您在使用 Google Colab 运行随附笔记本的同时阅读这一系列文章，随附笔记本可从 my GitHub 的“[随附笔记本](https://github.com/dvgodoy/AccompanyingNotebooks)”存储库中获得:
 
-[](https://colab.research.google.com/github/dvgodoy/AccompanyingNotebooks/blob/main/Understanding%20AutoEncoders.ipynb) [## 谷歌联合实验室——了解自动编码器
-
-### 随附笔记本
-
-colab.research.google.com](https://colab.research.google.com/github/dvgodoy/AccompanyingNotebooks/blob/main/Understanding%20AutoEncoders.ipynb) 
+[](https://colab.research.google.com/github/dvgodoy/AccompanyingNotebooks/blob/main/Understanding%20AutoEncoders.ipynb)  
 
 此外，我构建了一个*目录*来帮助你浏览两篇文章的主题，如果你把它作为一个**迷你课程**并且一次一个主题地浏览内容的话。
 
@@ -263,11 +259,7 @@ Epoch 010 | Loss >> 0.0109
 
 如果您需要了解如何在 PyTorch 中培训模特，请查看:
 
-[](/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e) [## 通过示例了解 PyTorch:分步指南
-
-### 一种结构化的、渐进的、基于基本原则的方法。
-
-towardsdatascience.com](/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e) 
+[](/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e)  
 
 ## 重建示例
 

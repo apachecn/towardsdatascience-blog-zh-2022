@@ -202,8 +202,4 @@ MacQueen。为简单起见，我们将实现劳埃德算法:](https://www.rdocum
 
 **我写关于机器学习算法的文章，请通过下面的链接关注我，并完全访问我的文章:**
 
-**[](https://medium.com/@angela.shi/membership) [## 通过我的推荐链接加入 Medium-Angela Shi
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@angela.shi/membership)**
+**[](https://medium.com/@angela.shi/membership) **

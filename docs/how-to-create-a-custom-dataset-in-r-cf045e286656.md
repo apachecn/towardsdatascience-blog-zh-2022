@@ -162,11 +162,7 @@ applicant_scores <- cbind(
 
 你可以在这里访问我的数据集。
 
-[](https://github.com/MartinaGiron/R-Portfolio/tree/main/Employee-Selection) [## R-投资组合/主 Martina giron/R-投资组合的员工选择
-
-### 我用 R 和 jupyter 笔记本写的个人投资组合分析-R-投资组合/员工-选择在主…
-
-github.com](https://github.com/MartinaGiron/R-Portfolio/tree/main/Employee-Selection) 
+[](https://github.com/MartinaGiron/R-Portfolio/tree/main/Employee-Selection)  
 
 # 一些最后的话
 

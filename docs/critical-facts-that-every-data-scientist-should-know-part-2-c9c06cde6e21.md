@@ -16,11 +16,7 @@
 
 在文章的第二部分，请看下面的**第一部分**，
 
-[](/critical-facts-that-every-data-scientist-should-know-part-1-31f9c25e5e00) [## 每个数据科学家都应该知道的关键事实—第 1 部分
-
-### 许多数据科学家都是出色的程序员，但是忽视某些统计事实会导致非常严重的后果…
-
-towardsdatascience.com](/critical-facts-that-every-data-scientist-should-know-part-1-31f9c25e5e00) 
+[](/critical-facts-that-every-data-scientist-should-know-part-1-31f9c25e5e00)  
 
 我们将更深入地分析我们在分析真实数据时遇到的一些最重要的现象。当你读完这篇文章时，我希望你会同意我的观点，不是我们使用的工具定义了我们作为数据科学家，而是我们对数据的理解，
 
@@ -40,11 +36,7 @@ towardsdatascience.com](/critical-facts-that-every-data-scientist-should-know-pa
 
 **您可以在下面的 GitHub 资源库中找到用于生成结果和图表的代码，我们将一起分析这些结果和图表。在那里你会发现两个笔记本可以很容易地在 Google Colab 上运行，而不需要在你的 PC 上安装任何东西。**
 
-[](https://github.com/mnslarcher/critical-facts-that-every-data-scientist-should-know) [## GitHub-mnslarcher/每个数据科学家都应该知道的关键事实
-
-### 该存储库包含两个笔记本，与两篇描述一些关键事实的媒体文章相关联，每篇文章都…
-
-github.com](https://github.com/mnslarcher/critical-facts-that-every-data-scientist-should-know) 
+[](https://github.com/mnslarcher/critical-facts-that-every-data-scientist-should-know)  
 
 我强烈建议您尝试自己运行代码，尝试新的参数并预测它们对结果的影响。毕竟，除了把手弄脏之外，没有其他方法可以真正学到东西。
 
@@ -108,11 +100,7 @@ Production F1-score: 15.13%
 
 通常，解释为什么做出预测与预测本身一样重要，甚至更重要。对一个统计学家来说,“解释”可能会让人想到像 p 值这样的概念，
 
-[](/p-value-explained-simply-for-data-scientists-4c0cd7044f14) [## 为数据科学家简单解释 p 值
-
-### 没有统计学家的自命不凡和数据科学家的冷静
-
-towardsdatascience.com](/p-value-explained-simply-for-data-scientists-4c0cd7044f14) 
+[](/p-value-explained-simply-for-data-scientists-4c0cd7044f14)  
 
 看看我们的线性回归的哪些参数有统计学意义。这听起来可能非常科学，因此是正确的，但是记住有三种谎言:谎言、该死的谎言和统计数据。
 
@@ -288,10 +276,6 @@ Productivity increase - increased illumination and not aware: -0.2% ± 5.0% (mea
 
 最后，如果您还不是中等会员，您可以使用我的推荐链接成为中等会员:
 
-[](https://mnslarcher.medium.com/membership) [## 马里奥·南陶·希安蒂·拉彻-中号
-
-### 阅读 Mario Namtao Shianti Larcher 在媒体上的文章。艾尼路集团的计算机视觉主管。我喜欢意大利面条代码…
-
-mnslarcher.medium.com](https://mnslarcher.medium.com/membership) 
+[](https://mnslarcher.medium.com/membership)  
 
 想保持联系吗？在 [LinkedIn](https://www.linkedin.com/in/mnslarcher/) 或 [Twitter](https://twitter.com/mnslarcher) 上关注我！

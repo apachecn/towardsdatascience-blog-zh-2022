@@ -20,11 +20,7 @@
 
 是的，对于这样一个小任务来说，dbt+雪花看起来有点大材小用了。我们完全可以用 Jupyter 笔记本或 SQLite 项目完成同样的事情，甚至只需要几个 Bash 命令。但是我忍不住让自己进入了数据仓库和现代数据堆栈的热门话题。当我在 Udemy 完成了 Toth 等人的优秀的 dbt 课程后。我想探索一下数据仓库到底是什么，以及我是否可以在未来的项目中使用它。此外，完全在云上处理大量数据也有一定的吸引力。CAZy 的数据是一个很好的入门资料。你可以在我的 GitHub 仓库中找到这个项目的代码。
 
-[](https://github.com/dgg32/cazy_dbt_public) [## GitHub - dgg32/cazy_dbt_public
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/dgg32/cazy_dbt_public) 
+[](https://github.com/dgg32/cazy_dbt_public)  
 
 # 1.雪花
 
@@ -170,8 +166,4 @@ dbt init cazy
 
 **所以请尝试这个项目，并分享你的经验。**
 
-**[](https://dgg32.medium.com/membership) [## 加入媒介与我的介绍链接-黄思兴
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-dgg32.medium.com](https://dgg32.medium.com/membership)**
+**[](https://dgg32.medium.com/membership) **

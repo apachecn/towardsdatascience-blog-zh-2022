@@ -20,11 +20,7 @@
 
 接下来的事情是学习语言中的操作符。这是用于执行数学或比较运算等操作的符号。在前一种情况下，我们使用的符号如`+`表示加法，`-`表示减法，`*`表示乘法，`/`表示除法。然而，我们也可以执行比较操作，然后形成控制流的基础。在 Python 中，这可以包括诸如用于检查值是否相等的`==`、用于不相等的`!=`以及分别用于小于和大于的`<`、`>`的比较。
 
-[](/ucl-data-science-society-python-fundamentals-3fb30ec020fa) [## UCL 数据科学协会:Python 基础
-
-### 研讨会 1: Jupyter 笔记本，变量，数据类型和操作
-
-towardsdatascience.com](/ucl-data-science-society-python-fundamentals-3fb30ec020fa) 
+[](/ucl-data-science-society-python-fundamentals-3fb30ec020fa)  
 
 ## Python 逻辑
 
@@ -34,11 +30,7 @@ towardsdatascience.com](/ucl-data-science-society-python-fundamentals-3fb30ec020
 
 我们还需要知道如何基于条件或者通过创建可重用的代码片段来重复代码片段。前者可以使用循环来触发，只要满足条件，循环实际上就运行同一段代码。这分为`while`和`for`循环，前者在条件仍然为真时执行给定的动作，而 for 循环将在已经定义的组上循环。当我们需要在代码的不同区域反复使用代码时，我们还有一些有用的函数。这可能是当您希望执行相同的操作，但输入不同或处于工作流的不同阶段时，通过定义一个可在代码中稍后调用的函数来完成。
 
-[](/ucl-data-science-society-python-logic-3eb847362a97) [## UCL 数据科学学会:Python 逻辑
-
-### 讲习班 3:条件语句、逻辑语句、循环和函数
-
-towardsdatascience.com](/ucl-data-science-society-python-logic-3eb847362a97) 
+[](/ucl-data-science-society-python-logic-3eb847362a97)  
 
 ## Python 序列
 
@@ -53,11 +45,7 @@ towardsdatascience.com](/ucl-data-science-society-python-logic-3eb847362a97)
 
 了解这些特征将决定您将选择哪种数据结构/序列来存储数据，以便在您想要执行分析时可以轻松访问。
 
-[](/ucl-data-science-society-python-sequences-e3ffa67604a0) [## UCL 数据科学协会:Python 序列
-
-### 工作坊 2:列表、元组、集合和字典！
-
-towardsdatascience.com](/ucl-data-science-society-python-sequences-e3ffa67604a0) 
+[](/ucl-data-science-society-python-sequences-e3ffa67604a0)  
 
 ## 编程范例
 
@@ -65,11 +53,7 @@ towardsdatascience.com](/ucl-data-science-society-python-sequences-e3ffa67604a0)
 
 另一种选择是面向对象编程，这也是您在深入研究 Python 中的库时会遇到的。与前两个范例相反，这一个范例构造代码，以便数据的特征和行为可以捆绑在一起成为一个单一的结构。它通过创建被称为类的“蓝图”来做到这一点，这些“蓝图”允许您创建可以呈现代码中早期定义的某些特征和行为的对象。理解这种范式对于能够与将成为任何数据科学工作流一部分的许多库进行交互是很重要的。这种范式的好处是，它有助于编写可重复使用的代码，并将特征和行为捆绑到一个结构中，使得在与库交互时更容易使用和理解。
 
-[](/ucl-data-science-society-object-oriented-programming-d69cb7a7b0be) [## UCL 数据科学学会:面向对象编程介绍
-
-### 工作坊 4:什么是 OOP，在 Python 中定义类、添加属性、添加方法、类继承
-
-towardsdatascience.com](/ucl-data-science-society-object-oriented-programming-d69cb7a7b0be) 
+[](/ucl-data-science-society-object-oriented-programming-d69cb7a7b0be)  
 
 ## 结论
 
@@ -77,24 +61,8 @@ towardsdatascience.com](/ucl-data-science-society-object-oriented-programming-d6
 
 如果你喜欢你所读的，并且还不是 medium 会员，请使用下面我的推荐链接注册 Medium，来支持我和这个平台上其他了不起的作家！提前感谢。
 
-[](https://philip-wilkinson.medium.com/membership) [## 通过我的推荐链接加入 Medium—Philip Wilkinson
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-philip-wilkinson.medium.com](https://philip-wilkinson.medium.com/membership) 
+[](https://philip-wilkinson.medium.com/membership)  
 
 或者随意查看我在 Medium 上的其他文章:
 
-[](/how-i-landed-an-amazon-sde-internship-without-a-computer-science-degree-85596c480d4d) [## 我是如何在没有计算机科学学位的情况下获得亚马逊 SDE 实习机会的
-
-### 或者解决数百个黑客排名问题…
-
-towardsdatascience.com](/how-i-landed-an-amazon-sde-internship-without-a-computer-science-degree-85596c480d4d) [](/eight-data-structures-every-data-scientist-should-know-d178159df252) [## 每个数据科学家都应该知道的八种数据结构
-
-### 从 Python 中的基本数据结构到抽象数据类型
-
-towardsdatascience.com](/eight-data-structures-every-data-scientist-should-know-d178159df252) [](/a-complete-data-science-curriculum-for-beginners-825a39915b54) [## 面向初学者的完整数据科学课程
-
-### UCL 数据科学协会:Python 介绍，数据科学家工具包，使用 Python 的数据科学
-
-towardsdatascience.com](/a-complete-data-science-curriculum-for-beginners-825a39915b54)
+[](/how-i-landed-an-amazon-sde-internship-without-a-computer-science-degree-85596c480d4d)  [](/eight-data-structures-every-data-scientist-should-know-d178159df252)  [](/a-complete-data-science-curriculum-for-beginners-825a39915b54) 

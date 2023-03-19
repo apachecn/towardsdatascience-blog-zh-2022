@@ -128,11 +128,7 @@ Holoviz 工具有时会让人感到有些畏惧，因为它们已经创建了一
 
 ***注:*** *如果您喜欢在 Medium 上阅读我和其他人的内容，请考虑使用下面的链接订阅，以支持这样的内容创建，并解锁无限的故事！*
 
-[](https://medium.com/@willmnorris/membership) [## 用我的推荐链接加入媒体-威尔·诺里斯
-
-### 阅读威尔·诺里斯(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-medium.com](https://medium.com/@willmnorris/membership) 
+[](https://medium.com/@willmnorris/membership)  
 
 # 引文
 

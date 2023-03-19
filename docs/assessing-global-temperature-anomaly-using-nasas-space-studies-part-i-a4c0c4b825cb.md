@@ -157,11 +157,7 @@ plt.show()
 
 在我之前的一篇 T4 报道中，我描述了全球能源消耗是如何被煤、石油和天然气等化石燃料所主导的。在过去的几十年里，化石燃料消耗的急剧上升导致了大气中温室气体(GHG)排放量的增加。温室气体是吸收地球表面发出的红外辐射并将其重新辐射回地球的气体，导致温度上升，这被称为温室效应。
 
-[](/4-key-figures-to-understand-the-climate-crisis-f92b9a99abbe) [## 理解气候危机的 4 个关键数字
-
-### “随着世界处于不可逆转的危险边缘，气温升高的每一分钟都关系到限制危险的程度……
-
-towardsdatascience.com](/4-key-figures-to-understand-the-climate-crisis-f92b9a99abbe) 
+[](/4-key-figures-to-understand-the-climate-crisis-f92b9a99abbe)  
 
 截至 2019 年，全球 GHG 排放量创历史新高，约为。50 GtCO₂当量，包括土地利用、土地利用变化和林业(LULUCF)(气候观察，2022 年)。
 

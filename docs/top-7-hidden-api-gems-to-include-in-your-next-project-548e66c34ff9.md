@@ -99,12 +99,4 @@ Imgflip 是终极记忆工具。使用 imgflip，您可以为一个流行的迷�
 
 # 进一步阅读
 
-[](https://medium.com/geekculture/dont-just-learn-to-code-learn-to-build-cool-stuff-instead-7d0783d51655) [## 不要只是学习编码。相反，要学会制造酷的东西。
-
-### 遵循这个路线图，从零开始学习构建自己的应用程序、网站和程序。
-
-medium.com](https://medium.com/geekculture/dont-just-learn-to-code-learn-to-build-cool-stuff-instead-7d0783d51655) [](/your-friends-probably-have-more-friends-than-you-b44ffcb5280) [## 你的朋友(可能)比你的朋友多。
-
-### 这个悖论背后的数学可以帮助我们预测下一个疫情。
-
-towardsdatascience.com](/your-friends-probably-have-more-friends-than-you-b44ffcb5280)
+[](https://medium.com/geekculture/dont-just-learn-to-code-learn-to-build-cool-stuff-instead-7d0783d51655)  [](/your-friends-probably-have-more-friends-than-you-b44ffcb5280) 

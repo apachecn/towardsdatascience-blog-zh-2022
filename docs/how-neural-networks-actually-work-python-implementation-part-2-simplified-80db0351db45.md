@@ -151,8 +151,4 @@ yhat shape (1, 395)
 
 感谢您的阅读，欢迎下次光临！！！
 
-[](/how-does-back-propagation-work-in-neural-networks-with-worked-example-bc59dfb97f48) [## 反向传播在神经网络中是如何工作的？
-
-### 用一个例子演示背景如何在神经网络中工作。
-
-towardsdatascience.com](/how-does-back-propagation-work-in-neural-networks-with-worked-example-bc59dfb97f48)
+[](/how-does-back-propagation-work-in-neural-networks-with-worked-example-bc59dfb97f48) 

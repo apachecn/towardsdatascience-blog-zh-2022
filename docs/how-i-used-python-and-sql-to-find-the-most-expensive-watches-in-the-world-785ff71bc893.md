@@ -239,10 +239,6 @@ ORDER BY Actual_Price_Millions DESC
 
 如需额外的可视化和完整的分析，请随意阅读全文:
 
-[](https://medium.com/pipeline-a-data-engineering-resource/ticktock-the-most-expensive-watches-in-the-world-a-data-story-c425df9b9648) [## 滴答:世界上最贵的手表——一个数据故事
-
-### 根据拍卖数据，世界上最贵的手表是什么？
-
-medium.com](https://medium.com/pipeline-a-data-engineering-resource/ticktock-the-most-expensive-watches-in-the-world-a-data-story-c425df9b9648) 
+[](https://medium.com/pipeline-a-data-engineering-resource/ticktock-the-most-expensive-watches-in-the-world-a-data-story-c425df9b9648)  
 
 如果你对这个项目的范围感到好奇，你可以在 [my GitHub](https://github.com/Zachlq/Professional_Portfolio/blob/main/Data%20Engineering/PIpelines/Batch_Pipeline/Watches/watch_viz_work.ipynb) 上查看代码。

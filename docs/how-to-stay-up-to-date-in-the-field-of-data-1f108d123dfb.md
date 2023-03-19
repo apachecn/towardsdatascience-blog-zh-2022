@@ -77,8 +77,4 @@ Ethan Robertson 在 [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_med
 
 你喜欢读这篇文章吗？ [*成为*](https://marie-lefevre.medium.com/membership) *的一员，加入一个不断成长的充满好奇心的社区吧！*
 
-[](https://marie-lefevre.medium.com/membership) [## 通过我的推荐链接加入媒体-玛丽·勒菲弗尔
-
-### 阅读玛丽·勒费夫尔(以及媒体上成千上万的其他作家)的每一个故事。每月 5 美元(或每年 50 美元),直接向…
-
-marie-lefevre.medium.com](https://marie-lefevre.medium.com/membership)
+[](https://marie-lefevre.medium.com/membership) 

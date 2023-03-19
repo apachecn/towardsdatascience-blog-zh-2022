@@ -12,11 +12,7 @@
 
 众所周知，一般来说，特别是在“数据科学和分析”领域，人员流失最近激增。它甚至导致了一个新词的出现**“伟大的辞职”**——如果你在过去几年里一直关注任何与数据科学/分析相关的对话，你很难逃脱这个词。
 
-[](https://en.wikipedia.org/wiki/Great_Resignation) [## 伟大的辞职-维基百科
-
-### 大辞职，也被称为大辞职和大改组，是一种持续的经济趋势，其中…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Great_Resignation) 
+[](https://en.wikipedia.org/wiki/Great_Resignation)  
 
 在过去的十年中，“数据科学和分析”已经成为增长最快的行业之一，各组织了解“数据”可以释放的力量，并希望利用它赢得客户。一个接一个的辞职潮让行业领袖们大吃一惊，他们艰难地意识到，他们珍爱的员工想要一些不同的东西。
 
@@ -67,11 +63,7 @@ en.wikipedia.org](https://en.wikipedia.org/wiki/Great_Resignation)
 
 > ..下面的文章正确地指出:“**员工离开他们的经理，而不是公司**”。
 
-[](https://getlighthouse.com/blog/why-employees-leave-managers-not-companies/) [## 为什么员工会离开经理，而不是公司(以及如何应对)
-
-### 还记得关于关系的经典著作吗，男人来自火星，女人来自金星？是时候写一封…
-
-getlighthouse.com](https://getlighthouse.com/blog/why-employees-leave-managers-not-companies/) 
+[](https://getlighthouse.com/blog/why-employees-leave-managers-not-companies/)  
 
 ## **2.2 内层:**
 

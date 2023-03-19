@@ -70,11 +70,7 @@ summary(lm(MEMLOSS~EMPLOY1_8,data=data,weights = finalwt))
 
 但是一个有统计学意义的发现到底意味着什么呢？(我会在另一篇文章中详细讨论这个问题)。在我们的例子中，这意味着**我们有充分的证据相信，退休人员和非退休人员之间频繁失忆的真实总体水平差异*不同于 0* 。**
 
-[](https://vivdas.medium.com/statistical-significance-are-you-interpreting-correctly-7fff26130fb7) [## 统计学意义:你的解释正确吗？
-
-### 知道零假设！
-
-vivdas.medium.com](https://vivdas.medium.com/statistical-significance-are-you-interpreting-correctly-7fff26130fb7) 
+[](https://vivdas.medium.com/statistical-significance-are-you-interpreting-correctly-7fff26130fb7)  
 
 现在，不管我是一个业余读者还是一个政策制定者，上面的发现对我来说既不有趣也没用。为什么？
 
@@ -126,23 +122,11 @@ vivdas.medium.com](https://vivdas.medium.com/statistical-significance-are-you-in
 
 ******更新:*** *我写了另一篇文章试图进一步解释置信区间的“正确”解释。你可以在这里找到:****
 
-***[](https://vivdas.medium.com/confidence-interval-are-you-interpreting-correctly-a8834ba5a99b) [## 置信区间:你的解释正确吗？
-
-### 直观的解释
-
-vivdas.medium.com](https://vivdas.medium.com/confidence-interval-are-you-interpreting-correctly-a8834ba5a99b) 
+***[](https://vivdas.medium.com/confidence-interval-are-you-interpreting-correctly-a8834ba5a99b)  
 
 如果你想阅读我以前关于如何尝试了解未知的的一些帖子，这里有一些建议:
 
-[](https://vivdas.medium.com/why-is-correlation-neither-necessary-nor-sufficient-for-causation-in-non-experimental-data-900c866d59d7) [## 为什么相关性对于因果关系既不是必要的也不是充分的(在非实验数据中)？
-
-### 玩具示例的详细说明](https://vivdas.medium.com/why-is-correlation-neither-necessary-nor-sufficient-for-causation-in-non-experimental-data-900c866d59d7) [](https://vivdas.medium.com/how-to-explore-the-effect-of-doing-something-1d5f0e70a778) [## 如何探究做某事的效果？(第一部分)
-
-### 应用因果推理 101:反事实世界和实验理想](https://vivdas.medium.com/how-to-explore-the-effect-of-doing-something-1d5f0e70a778) [](https://vivdas.medium.com/how-to-explore-the-effect-of-doing-something-part-2-228f857bb060) [## 如何探究做某事的效果？(第二部分)
-
-### 应用因果推理 101:非实验数据](https://vivdas.medium.com/how-to-explore-the-effect-of-doing-something-part-2-228f857bb060) [](https://medium.datadriveninvestor.com/does-money-buy-happiness-4ad92109c303) [## 金钱能买到幸福吗？
-
-### 探索这个问题的实用教程](https://medium.datadriveninvestor.com/does-money-buy-happiness-4ad92109c303) 
+[](https://vivdas.medium.com/why-is-correlation-neither-necessary-nor-sufficient-for-causation-in-non-experimental-data-900c866d59d7)  [](https://vivdas.medium.com/how-to-explore-the-effect-of-doing-something-part-2-228f857bb060)  
 
 **参考文献**
 

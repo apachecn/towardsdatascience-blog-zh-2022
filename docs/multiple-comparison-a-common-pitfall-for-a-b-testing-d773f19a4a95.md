@@ -103,11 +103,7 @@
 
 Medium 最近推出了作家伙伴计划，支持像我这样的普通作家。如果你还不是订户，通过下面的链接注册，我会收到一部分会员费。
 
-[](https://leihua-ye.medium.com/membership) [## 阅读叶雷华博士研究员(以及其他成千上万的媒体作家)的每一个故事
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-leihua-ye.medium.com](https://leihua-ye.medium.com/membership) 
+[](https://leihua-ye.medium.com/membership)  
 
 # **外卖**
 

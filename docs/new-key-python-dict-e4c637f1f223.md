@@ -112,24 +112,8 @@ Python dictionary 是一个非常强大的数据结构，用于促进日常编�
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读媒体上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership) 
+[](https://gmyrianthous.medium.com/membership)  
 
 **相关文章你可能也喜欢**
 
-[](/python-iterables-vs-iterators-688907fd755f) [## Python 中的 Iterables vs 迭代器
-
-### 理解 Python 中 Iterables 和迭代器的区别
-
-towardsdatascience.com](/python-iterables-vs-iterators-688907fd755f) [](/diagrams-as-code-python-d9cbaa959ed5) [## Python 中作为代码的图
-
-### 用 Python 创建云系统架构图
-
-towardsdatascience.com](/diagrams-as-code-python-d9cbaa959ed5) [](/python-poetry-83f184ac9ed1) [## 用诗歌管理 Python 依赖关系
-
-### 依赖性管理和用诗歌打包
-
-towardsdatascience.com](/python-poetry-83f184ac9ed1)
+[](/python-iterables-vs-iterators-688907fd755f)  [](/diagrams-as-code-python-d9cbaa959ed5)  [](/python-poetry-83f184ac9ed1) 

@@ -76,36 +76,4 @@ TensorBoard 提供了机器学习实验所需的可视化和工具。它提供�
 
 当我第一次训练模型时，是在我的笔记本电脑上完成的。很快，它就不可伸缩了，所以我使用 ssh 转移到虚拟机上。这种选择也有缺陷。对于每台机器，我不得不登录、提取代码、下载数据、手动运行代码，并希望我没有混淆我传递的参数。数据部分是最容易解决的，我们为我的所有虚拟机添加了一个共享磁盘。但我仍然对参数感到困惑，并在几台机器上传递了相同的参数。**正如我在这篇文章中所描述的，是时候使用可扩展的、更加自动化的基础设施了。**与 DevOps 团队一起，我们定义并构建了我们今天拥有的强大渠道。现在，我有了一个可伸缩、易于执行的管道，甚至在每次出现错误时都发送一个 Slack 通知。这种流水线不仅由于实验的并行性而节省了时间，而且最大限度地减少了参数错误和由于错误而导致的空闲时间，除非主动检查每台机器，否则我们不会知道这些错误。
 
-[](https://www.docker.com/) [## 家庭码头工人
-
-### 新内容参加 5 月 9 日至 10 日举行的 DockerCon 2022 是一次免费的沉浸式在线体验，包括产品…
-
-www.docker.com](https://www.docker.com/) [](https://www.jenkins.io/) [## 詹金斯
-
-### 领先的开源自动化服务器，Jenkins 提供了数百个插件…
-
-www.jenkins.io](https://www.jenkins.io/) [](https://kubernetes.io/) [## 生产级容器编排
-
-### Kubernetes，也称为 K8s，是一个开源系统，用于自动部署、扩展和管理…
-
-kubernetes.io](https://kubernetes.io/) [](https://mlflow.org/) [## MLflow -机器学习生命周期的平台
-
-### 机器学习生命周期的开源平台 MLflow 是一个管理机器学习生命周期的开源平台
-
-mlflow.org](https://mlflow.org/) [](https://www.tensorflow.org/tensorboard) [## 张量板|张量流
-
-### TensorBoard 提供机器学习实验所需的可视化和工具:跟踪和…
-
-www.tensorflow.org](https://www.tensorflow.org/tensorboard) [](https://cloud.google.com/) [## 云计算服务|谷歌云
-
-### 利用谷歌的云计算服务，包括数据管理、混合…
-
-cloud.google.com](https://cloud.google.com/) [](https://sentry.io/welcome/) [## 应用程序监控和错误跟踪软件
-
-### 从错误跟踪到性能监控，开发人员可以看到真正重要的事情，更快地解决问题，并了解…
-
-哨兵. io](https://sentry.io/welcome/) [](https://docs.github.com/en/actions) [## GitHub 操作文档- GitHub 文档
-
-### 使用 GitHub Actions 在您的存储库中自动化、定制和执行您的软件开发工作流。你…
-
-docs.github.com](https://docs.github.com/en/actions)
+[](https://www.docker.com/)  [](https://www.jenkins.io/)  [](https://kubernetes.io/)  [](https://mlflow.org/)  [](https://www.tensorflow.org/tensorboard)  [](https://cloud.google.com/)  [](https://sentry.io/welcome/)  [](https://docs.github.com/en/actions) 

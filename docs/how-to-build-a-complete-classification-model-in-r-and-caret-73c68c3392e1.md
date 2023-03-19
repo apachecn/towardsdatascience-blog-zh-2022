@@ -195,19 +195,7 @@ plot(roc_curve, col="red", lwd=3)
 
 # 相关文章
 
-[](https://medium.com/geekculture/moving-from-python-to-r-how-to-build-a-simple-regression-model-7d0f8ff79625) [## 从 Python 到 R:如何构建简单的回归模型
-
-### 关于如何开始使用 R 语言进行机器学习的快速教程
-
-medium.com](https://medium.com/geekculture/moving-from-python-to-r-how-to-build-a-simple-regression-model-7d0f8ff79625) [](/how-to-run-r-scripts-in-jupyter-15527148d2a) [## 如何在 Jupyter 中运行 R 脚本
-
-### 关于如何在 Jupyter 中安装并运行 R 内核的简短教程
-
-towardsdatascience.com](/how-to-run-r-scripts-in-jupyter-15527148d2a) [](/how-to-spend-your-time-when-you-are-waiting-for-a-data-analysis-output-e71b383f43cb) [## 当你在等待数据分析结果时，你该如何打发时间
-
-### 当你的计算机正在运行你喜欢的算法，而你正在等待的时候，一些建议不要浪费你的时间…
-
-towardsdatascience.com](/how-to-spend-your-time-when-you-are-waiting-for-a-data-analysis-output-e71b383f43cb) 
+[](https://medium.com/geekculture/moving-from-python-to-r-how-to-build-a-simple-regression-model-7d0f8ff79625)  [](/how-to-run-r-scripts-in-jupyter-15527148d2a)  [](/how-to-spend-your-time-when-you-are-waiting-for-a-data-analysis-output-e71b383f43cb)  
 
 # 来自社区
 

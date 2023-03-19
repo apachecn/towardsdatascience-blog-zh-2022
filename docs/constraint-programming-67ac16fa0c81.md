@@ -183,12 +183,4 @@ CP 求解器不会用穷举搜索来强力解决问题，而是结合**试探法
 
 # **相关文章**
 
-**[](/introduction-to-linear-programming-in-python-9261e7eb44b) [## Python 中的线性编程简介
-
-### 使用谷歌或工具进行数学优化的指南
-
-towardsdatascience.com](/introduction-to-linear-programming-in-python-9261e7eb44b) [](/integer-programming-vs-linear-programming-in-python-f1be5bb4e60e) [## Python 中整数与线性编程的比较
-
-### 识别和解决任何优化问题的指南
-
-towardsdatascience.com](/integer-programming-vs-linear-programming-in-python-f1be5bb4e60e)**
+**[](/introduction-to-linear-programming-in-python-9261e7eb44b)  [](/integer-programming-vs-linear-programming-in-python-f1be5bb4e60e) **

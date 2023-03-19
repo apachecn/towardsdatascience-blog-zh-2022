@@ -181,20 +181,8 @@ print(type(formatted_dated))
 
 ## 如果你喜欢这篇文章，你可能也会喜欢:
 
-[](/a-simple-guide-to-command-line-arguments-with-argparse-6824c30ab1c3) [## ArgParse 命令行参数的简单指南
-
-### 快速启动和运行 argparse 的入门指南
-
-towardsdatascience.com](/a-simple-guide-to-command-line-arguments-with-argparse-6824c30ab1c3) [](/a-simple-guide-to-pandas-dataframes-b125f64e1453) [## 熊猫数据框简单指南
-
-### 如何使用 Python 的 Pandas 库创建、存储和操作数据
-
-towardsdatascience.com](/a-simple-guide-to-pandas-dataframes-b125f64e1453) 
+[](/a-simple-guide-to-command-line-arguments-with-argparse-6824c30ab1c3)  [](/a-simple-guide-to-pandas-dataframes-b125f64e1453)  
 
 ## 通过下面的链接加入 Medium，支持成千上万的其他作家和我。
 
-[](https://sestarkman.medium.com/membership) [## 通过我的推荐链接加入 Medium-Sam stark man
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-sestarkman.medium.com](https://sestarkman.medium.com/membership)
+[](https://sestarkman.medium.com/membership) 

@@ -80,8 +80,4 @@
 
 > 要了解更多信息，你可能想参考我即将出版的书，[思考数据科学](https://link.springer.com/book/9783031023620)(应用机器学习中的斯普林格系列)。它有一大部分是关于聚类的，有关于所有算法的实际例子。
 
-[](https://medium.com/@profsarang/membership) [## 通过我的推荐链接加入 Medium
-
-### 阅读 Poornachandra Sarang(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接…
-
-medium.com](https://medium.com/@profsarang/membership)
+[](https://medium.com/@profsarang/membership) 

@@ -111,24 +111,12 @@ Class GenericClass:.
 
 如果你喜欢这篇文章，你可能也会喜欢我其他类似主题的文章。
 
-[](https://sidbannet.medium.com/membership) [## 通过我的推荐链接加入 Medium 悉达多·班纳吉博士
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-sidbannet.medium.com](https://sidbannet.medium.com/membership) 
+[](https://sidbannet.medium.com/membership)  
 
 和 [*关注我*](https://medium.com/@sidbannet) 即将发布的关于随机建模、数据科学和 python 技巧的每周文章。
 
 ## 我以前的故事:
 
-[](/how-to-analyze-time-series-data-with-pandas-4dea936fe012) [## 如何用熊猫分析时间序列数据
-
-### 使用案例—熊猫的 COVID 时序数据分析
-
-towardsdatascience.com](/how-to-analyze-time-series-data-with-pandas-4dea936fe012) [](/how-to-build-plotly-choropleth-map-with-covid-data-using-pandas-in-google-colab-45951040b8e4) [## 如何在 Google Colab 中使用 Pandas 构建带有 COVID 数据的 Plotly Choropleth 地图
-
-### 在这个项目中，我将展示如何使用 pandas 和 plotly 在 Google Colab 中构建自己的 COVID 仪表板。
-
-towardsdatascience.com](/how-to-build-plotly-choropleth-map-with-covid-data-using-pandas-in-google-colab-45951040b8e4) 
+[](/how-to-analyze-time-series-data-with-pandas-4dea936fe012)  [](/how-to-build-plotly-choropleth-map-with-covid-data-using-pandas-in-google-colab-45951040b8e4)  
 
 A 关于我——我开发**高性能计算模型**来理解*湍流*、*多相流、*和*燃烧火焰*。我应用**数据科学**来加速*推进*装置的设计创新。我于 2011 年获得了威斯康辛大学麦迪逊分校的博士学位，主修*机械和化学工程*，辅修*数学*、*统计学*和*计算机科学*。请随意查看我的 GitHub 资源库，并在[*Linkedin*](https://www.linkedin.com/in/sidban)*上关注我。*

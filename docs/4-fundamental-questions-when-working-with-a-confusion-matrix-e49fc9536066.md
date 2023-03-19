@@ -116,16 +116,4 @@ array([2, 0, 0, 0, 0, 1, 1, 0, 2], dtype=int64)
 
 *如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
 
-*[](/association-rules-with-apriori-algorithm-574593e35223) [## 关联规则与 Apriori 算法
-
-### 了解如何查找频繁项集并计算置信度和支持度
-
-towardsdatascience.com](/association-rules-with-apriori-algorithm-574593e35223) [](/an-introduction-to-tensorflow-fa5b17051f6b) [## 张量流简介
-
-### 了解机器学习框架、其架构以及与 PyTorch 的比较
-
-towardsdatascience.com](/an-introduction-to-tensorflow-fa5b17051f6b) [](/software-as-a-service-the-game-changer-for-small-it-departments-f841b292b02a) [## 软件即服务:小型 IT 部门的游戏规则改变者
-
-### 软件即服务简介，与内部解决方案进行比较
-
-towardsdatascience.com](/software-as-a-service-the-game-changer-for-small-it-departments-f841b292b02a)*
+*[](/association-rules-with-apriori-algorithm-574593e35223)  [](/an-introduction-to-tensorflow-fa5b17051f6b)  [](/software-as-a-service-the-game-changer-for-small-it-departments-f841b292b02a) *

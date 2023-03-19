@@ -142,16 +142,4 @@ DevOps 和 MLOps 有很多共同点，但也有很多不同点。
 
 # 相关文章
 
-[](/how-to-run-a-data-science-project-in-a-docker-container-2ab1a3baa889) [## 如何在 Docker 容器中运行数据科学项目
-
-### 关于如何将数据科学项目包装在 Docker 映像中并在 Docker 中运行的一些技巧和实际例子…
-
-towardsdatascience.com](/how-to-run-a-data-science-project-in-a-docker-container-2ab1a3baa889) [](/model-evaluation-in-scikit-learn-abce32ee4a99) [## Scikit-learn 中的模型评估
-
-### 关于如何使用 scikit-learn 计算最常见的回归和分类指标的教程。
-
-towardsdatascience.com](/model-evaluation-in-scikit-learn-abce32ee4a99) [](/using-versatile-data-kit-to-ingest-and-process-data-from-rest-api-6e3e0660b791) [## 使用通用数据工具包从 REST API 获取和处理数据
-
-### 关于如何使用通用数据工具包(VDK)从 REST API 获取数据的教程，以及一些关于如何安装…
-
-towardsdatascience.com](/using-versatile-data-kit-to-ingest-and-process-data-from-rest-api-6e3e0660b791)
+[](/how-to-run-a-data-science-project-in-a-docker-container-2ab1a3baa889)  [](/model-evaluation-in-scikit-learn-abce32ee4a99)  [](/using-versatile-data-kit-to-ingest-and-process-data-from-rest-api-6e3e0660b791) 

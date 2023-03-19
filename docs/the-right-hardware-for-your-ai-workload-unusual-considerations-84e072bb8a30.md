@@ -116,11 +116,7 @@
 
 许多多 GPU 系统是在没有适当规划或考虑人工智能/软件堆栈的情况下构建的，这些人工智能/软件堆栈可以真正利用这样的配置。除了传统的 DL 任务，许多分布式数据分析任务也可以利用多 GPU 系统(查看 Dask、RAPIDS 或 Ray 等库)。
 
-[](https://medium.com/dataseries/gpu-powered-data-science-not-deep-learning-with-rapids-29f9ed8d51f3) [## GPU 驱动的数据科学(不是深度学习)与 RAPIDS
-
-### 如何利用您的 GPU 的力量进行常规的数据科学和机器学习，即使您没有做很多深入的…
-
-medium.com](https://medium.com/dataseries/gpu-powered-data-science-not-deep-learning-with-rapids-29f9ed8d51f3) 
+[](https://medium.com/dataseries/gpu-powered-data-science-not-deep-learning-with-rapids-29f9ed8d51f3)  
 
 因此，映射准确的软件堆栈和多 GPU 系统配置也是一个重要的考虑因素，其重要性将会增加。
 
@@ -158,8 +154,4 @@ medium.com](https://medium.com/dataseries/gpu-powered-data-science-not-deep-lear
 
 *喜欢这篇文章吗？成为* [***中等会员***](https://medium.com/@tirthajyoti/membership) *继续* ***无限制学习*** *。如果您使用下面的链接，* ***，我将收取您的一部分会员费，而无需您支付额外费用*** *。*
 
-[](https://medium.com/@tirthajyoti/membership) [## 通过我的推荐链接加入媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@tirthajyoti/membership)
+[](https://medium.com/@tirthajyoti/membership) 

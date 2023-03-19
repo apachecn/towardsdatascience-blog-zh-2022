@@ -269,32 +269,12 @@ r = mcs(500)
 
 你也可以关注我的博客了解更多内容。
 
-[](https://gustavorsantos.medium.com/) [## 古斯塔沃·桑托斯-中等
-
-### 阅读古斯塔夫·桑托斯在媒介上的作品。数据科学家。我从数据中提取见解，以帮助个人和公司…
-
-gustavorsantos.medium.com](https://gustavorsantos.medium.com/) 
+[](https://gustavorsantos.medium.com/)  
 
 ## 参考
 
-[](https://en.wikipedia.org/wiki/Law_of_large_numbers) [## 大数定律-维基百科
-
-### 在概率论中，大数定律(LLN)是一个描述执行相同操作的结果的定理
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Law_of_large_numbers) 
+[](https://en.wikipedia.org/wiki/Law_of_large_numbers)  
 
 蒙特卡洛模拟的定义:[https://tinyurl.com/3nkxpe4p](https://tinyurl.com/3nkxpe4p)
 
-[](https://en.wikipedia.org/wiki/Monte_Carlo_method) [## 蒙特卡罗方法-维基百科
-
-### 蒙特卡罗方法，或蒙特卡罗实验，是一大类计算算法，依赖于重复的…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Monte_Carlo_method) [](https://www.ibm.com/cloud/learn/monte-carlo-simulation) [## 蒙特卡洛模拟是什么？
-
-### 了解一切你需要知道的蒙特卡罗模拟，一种计算算法，使用重复…
-
-www.ibm.com](https://www.ibm.com/cloud/learn/monte-carlo-simulation)  [## 使用 Engage 或 Workspace 创建蒙特卡洛模拟的 4 个简单步骤
-
-### 蒙特卡洛模拟自 20 世纪 40 年代首次应用以来已经走过了漫长的道路，当时科学家们正在研究…
-
-blog.minitab.com](https://blog.minitab.com/en/the-4-simple-steps-for-creating-a-monte-carlo-simulation-with-engage-or-workspace)
+[](https://en.wikipedia.org/wiki/Monte_Carlo_method)  [](https://www.ibm.com/cloud/learn/monte-carlo-simulation)   

@@ -182,31 +182,7 @@ profile.to_file("rainfall.html")
 
 # 相关文章
 
-[](/data-preprocessing-with-python-pandas-part-1-missing-data-45e76b781993) [## 使用 Python Pandas 进行数据预处理—第 1 部分缺失数据
-
-### 本教程解释了如何使用 pandas 库预处理数据。预处理是做一个…
-
-towardsdatascience.com](/data-preprocessing-with-python-pandas-part-1-missing-data-45e76b781993) [](/data-processing-with-python-pandas-part-2-data-formatting-710c2eafa426) [## Python Pandas 的数据处理—第 2 部分数据格式化
-
-### 本教程解释了如何使用 Pandas 库预处理数据。预处理是做一个…
-
-towardsdatascience.com](/data-processing-with-python-pandas-part-2-data-formatting-710c2eafa426) [](/data-preprocessing-with-python-pandas-part-3-normalisation-5b5392d27673) [## Python Pandas 的数据预处理—第 3 部分标准化
-
-### 本教程解释了如何使用 Pandas 库预处理数据。预处理是做一个…
-
-towardsdatascience.com](/data-preprocessing-with-python-pandas-part-3-normalisation-5b5392d27673) [](/data-preprocessing-with-python-pandas-part-4-standardization-ccd5b1608f1c) [## Python Pandas 的数据预处理—第 4 部分标准化
-
-### 本教程解释了如何使用 Pandas 库预处理数据。预处理是做一个…
-
-towardsdatascience.com](/data-preprocessing-with-python-pandas-part-4-standardization-ccd5b1608f1c) [](/data-preprocessing-with-python-pandas-part-5-binning-c5bd5fd1b950) [## 用 Python Pandas 进行数据预处理—第 5 部分宁滨
-
-### 数据宁滨(或称存储桶)将数据分组到存储箱(或存储桶)中，从这个意义上说，它替换了包含在
-
-towardsdatascience.com](/data-preprocessing-with-python-pandas-part-5-binning-c5bd5fd1b950) [](/data-preprocessing-in-python-pandas-part-6-dropping-duplicates-e35e46bcc9d6) [## Python Pandas 中的数据预处理—第 6 部分删除重复项
-
-### 使用 Python 熊猫库删除重复项的快速教程。
-
-towardsdatascience.com](/data-preprocessing-in-python-pandas-part-6-dropping-duplicates-e35e46bcc9d6) 
+[](/data-preprocessing-with-python-pandas-part-1-missing-data-45e76b781993)  [](/data-processing-with-python-pandas-part-2-data-formatting-710c2eafa426)  [](/data-preprocessing-with-python-pandas-part-3-normalisation-5b5392d27673)  [](/data-preprocessing-with-python-pandas-part-4-standardization-ccd5b1608f1c)  [](/data-preprocessing-with-python-pandas-part-5-binning-c5bd5fd1b950)  [](/data-preprocessing-in-python-pandas-part-6-dropping-duplicates-e35e46bcc9d6)  
 
 ## 你知道 scikit-learn 也提供数据清理功能吗？
 

@@ -76,11 +76,7 @@
 
 > 如果您正在寻找运营管理的应用示例，请观看这个短片
 
-[](http://samirsaci.com) [## 萨米尔·萨奇
-
-### 数据科学博客，专注于仓储，运输，数据可视化和机器人流程自动化…
-
-samirsaci.com](http://samirsaci.com) 
+[](http://samirsaci.com)  
 
 # 解决办法
 
@@ -191,8 +187,4 @@ HTML 文件的结构—(图片由作者提供)
 
 *如果你对数据分析和供应链感兴趣，可以看看我的网站*
 
-*[](https://samirsaci.com) [## Samir Saci |数据科学与生产力
-
-### 专注于数据科学、个人生产力、自动化、运筹学和可持续发展的技术博客
-
-samirsaci.com](https://samirsaci.com)*
+*[](https://samirsaci.com) *

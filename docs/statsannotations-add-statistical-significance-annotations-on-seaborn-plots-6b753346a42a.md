@@ -112,28 +112,12 @@ Manhattan vs. Queens: Mann-Whitney-Wilcoxon test two-sided, P_val:2.929e-30 U_st
 
 随意发挥，并在这里叉这篇文章的源代码:
 
-[](https://github.com/khuyentran1401/Data-science/blob/master/visualization/statsannotation_example.ipynb) [## 数据科学/stats annotation _ example . ipynb at master khuyentran 1401/数据科学
-
-### 有用的数据科学主题以及代码和文章的集合-Data-science/stats annotation _ example . ipynb 位于…
-
-github.com](https://github.com/khuyentran1401/Data-science/blob/master/visualization/statsannotation_example.ipynb) 
+[](https://github.com/khuyentran1401/Data-science/blob/master/visualization/statsannotation_example.ipynb)  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的数据科学工具。你可以在 LinkedIn 和 T2 Twitter 上与我联系。
 
 星[这个回购](https://github.com/khuyentran1401/Data-science)如果你想检查我写的所有文章的代码。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](https://pub.towardsai.net/atoti-build-a-bi-platform-in-python-beea47b92c7b) [## atoti——用 Python 构建 BI 平台
-
-### 通过交互式用户界面从您的数据中获得洞察力
-
-pub.towardsai.net](https://pub.towardsai.net/atoti-build-a-bi-platform-in-python-beea47b92c7b) [](/how-to-create-interactive-and-elegant-plot-with-altair-8dd87a890f2a) [## 如何用 Altair 创建交互式剧情
-
-### 在 5 行简单的 Python 代码中利用您的数据分析
-
-towardsdatascience.com](/how-to-create-interactive-and-elegant-plot-with-altair-8dd87a890f2a) [](/introduction-to-yellowbrick-a-python-library-to-explain-the-prediction-of-your-machine-learning-d63ecee10ecc) [## Yellowbrick 简介:可视化机器学习预测的 Python 库…
-
-### 您将 f1 分数提高到了 98%！但这是否意味着你的模型表现更好呢？
-
-towardsdatascience.com](/introduction-to-yellowbrick-a-python-library-to-explain-the-prediction-of-your-machine-learning-d63ecee10ecc) [](/how-to-sketch-your-data-science-ideas-with-excalidraw-a993d049f55c) [## 如何用 Excalidraw 勾画您的数据科学想法
+[](https://pub.towardsai.net/atoti-build-a-bi-platform-in-python-beea47b92c7b)  [](/how-to-create-interactive-and-elegant-plot-with-altair-8dd87a890f2a)  [](/introduction-to-yellowbrick-a-python-library-to-explain-the-prediction-of-your-machine-learning-d63ecee10ecc)  [](/how-to-sketch-your-data-science-ideas-with-excalidraw-a993d049f55c) [## 如何用 Excalidraw 勾画您的数据科学想法
 
 towardsdatascience.com](/how-to-sketch-your-data-science-ideas-with-excalidraw-a993d049f55c)

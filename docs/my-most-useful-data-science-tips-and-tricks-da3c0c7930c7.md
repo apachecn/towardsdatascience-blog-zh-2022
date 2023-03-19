@@ -44,11 +44,7 @@ eltype.(eachcol(df))
 
 如果你使用的是动态类型的语言，如果你从事数据科学，你很可能就是这样，那么你可能需要关注那些类型特别弱的语言中的数据。当类型是弱类型而不是强类型时，如果您想了解更多关于弱类型或隐式类型的信息，我这里有一整篇文章:
 
-[](/all-about-typing-explicit-vs-implicit-and-static-vs-dynamic-980da4387c2f) [## 关于类型:显式与隐式，静态与动态
-
-### 快速浏览类型以及它们如何与语言交互。
-
-towardsdatascience.com](/all-about-typing-explicit-vs-implicit-and-static-vs-dynamic-980da4387c2f) 
+[](/all-about-typing-explicit-vs-implicit-and-static-vs-dynamic-980da4387c2f)  
 
 所有这些弱/强或隐式/显式意味着编译器将基于其编译或解释算法显式或隐式地控制类型。换句话说，有些数据可能会在您不知道的情况下改变类型。
 

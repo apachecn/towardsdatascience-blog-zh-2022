@@ -10,15 +10,7 @@
 
 我们在上一篇文章中了解了 [**IVFPQ**](/similarity-search-with-ivfpq-9c6348fd4db3) ，其中倒排文件索引(IVF)与[乘积量化](/product-quantization-for-similarity-search-2f1f67c5fddd) (PQ)相结合，创建了一种有效的大规模相似性搜索方法。
 
-[](/similarity-search-with-ivfpq-9c6348fd4db3) [## 使用 IVFPQ 进行相似性搜索
-
-### 了解如何实现倒排文件索引(IVF)以及产品量化(PQ ),以实现快速有效的…
-
-towardsdatascience.com](/similarity-search-with-ivfpq-9c6348fd4db3) [](/product-quantization-for-similarity-search-2f1f67c5fddd) [## 用于相似性搜索的产品量化
-
-### 如何在内存中压缩和适应一个庞大的向量集，以便用非对称距离计算进行相似性搜索…
-
-towardsdatascience.com](/product-quantization-for-similarity-search-2f1f67c5fddd) 
+[](/similarity-search-with-ivfpq-9c6348fd4db3)  [](/product-quantization-for-similarity-search-2f1f67c5fddd)  
 
 在本文中，我们将了解 **HNSW** 以及它如何与 IVFPQ 一起使用，以形成十亿级相似性搜索的最佳索引方法。
 
@@ -393,26 +385,10 @@ index = faiss.index_factory(128, "IVF10000_HNSW32,PQ16")
 
 **有兴趣阅读我的其他数据科学文章吗？查看以下内容:**
 
-**[](/advanced-techniques-for-fine-tuning-transformers-82e4e61e16e) [## 微调变压器的先进技术
-
-### 学习这些先进的技术，看看它们如何帮助改善结果
-
-towardsdatascience.com](/advanced-techniques-for-fine-tuning-transformers-82e4e61e16e) [](/transformers-can-you-rate-the-complexity-of-reading-passages-17c76da3403) [## 变形金刚，你能评价阅读段落的复杂程度吗？
-
-### 用 PyTorch 微调 RoBERTa 以预测文本摘录的阅读难易程度
-
-towardsdatascience.com](/transformers-can-you-rate-the-complexity-of-reading-passages-17c76da3403) ![Peggy Chang](img/9e4c26496eb3cca6b350330838259487.png)
+**[](/advanced-techniques-for-fine-tuning-transformers-82e4e61e16e)  [](/transformers-can-you-rate-the-complexity-of-reading-passages-17c76da3403)  ![Peggy Chang](img/9e4c26496eb3cca6b350330838259487.png)
 
 [张佩琦](https://peggy1502.medium.com/?source=post_page-----89ff2f89d90e--------------------------------)
 
 ## 掌握动态编程系列
 
-[View list](https://peggy1502.medium.com/list/series-on-mastering-dynamic-programming-ce9124edda06?source=post_page-----89ff2f89d90e--------------------------------)2 stories![Article cover for “Mastering Dynamic Programming — Understanding the fundamentals and knowing when and how to apply this optimization technique”. Author: Peggy Chang](img/4189e936345f7dd6622ff2fc4cc61733.png)![Article cover for “Mastering Dynamic Programming II — Manual tabulation and workout is a great way to start grokking, analyzing, and spotting patterns, as well as strengthening our understanding and intuitions”. Author: Peggy Chang](img/2cfd9c02af79a8bee7a11d30e4d2abb9.png)[](https://pub.towardsai.net/building-a-product-recommendation-engine-with-aws-sagemaker-321a0e7c7f7b) [## 用 AWS SageMaker 构建产品推荐引擎
-
-### 了解如何使用 Amazon SageMaker 因式分解机构建和训练个性化推荐引擎
-
-pub.towardsai.net](https://pub.towardsai.net/building-a-product-recommendation-engine-with-aws-sagemaker-321a0e7c7f7b) [](/aws-certified-machine-learning-specialty-97eacbd1a0fe) [## AWS 认证机器学习—专业
-
-### 关于如何准备和通过考试的提示和建议
-
-towardsdatascience.com](/aws-certified-machine-learning-specialty-97eacbd1a0fe)**
+[View list](https://peggy1502.medium.com/list/series-on-mastering-dynamic-programming-ce9124edda06?source=post_page-----89ff2f89d90e--------------------------------)2 stories![Article cover for “Mastering Dynamic Programming — Understanding the fundamentals and knowing when and how to apply this optimization technique”. Author: Peggy Chang](img/4189e936345f7dd6622ff2fc4cc61733.png)![Article cover for “Mastering Dynamic Programming II — Manual tabulation and workout is a great way to start grokking, analyzing, and spotting patterns, as well as strengthening our understanding and intuitions”. Author: Peggy Chang](img/2cfd9c02af79a8bee7a11d30e4d2abb9.png)[](https://pub.towardsai.net/building-a-product-recommendation-engine-with-aws-sagemaker-321a0e7c7f7b)  [](/aws-certified-machine-learning-specialty-97eacbd1a0fe) **

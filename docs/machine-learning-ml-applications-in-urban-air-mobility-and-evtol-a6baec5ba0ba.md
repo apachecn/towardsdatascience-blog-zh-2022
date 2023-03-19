@@ -88,8 +88,4 @@ ATC 系统必须确保飞机保持最小间隔距离，以避免间隔损失。�
 
 [3][https://www . turing . AC . uk/research/impact-stories/put-ai-air-traffic-control](https://www.turing.ac.uk/research/impact-stories/putting-ai-air-traffic-control)
 
-[](https://medium.com/data-driven-fiction/how-to-submit-5e0808dce313) [## 如何提交？
-
-### 数据驱动的小说
-
-medium.com](https://medium.com/data-driven-fiction/how-to-submit-5e0808dce313)
+[](https://medium.com/data-driven-fiction/how-to-submit-5e0808dce313) 

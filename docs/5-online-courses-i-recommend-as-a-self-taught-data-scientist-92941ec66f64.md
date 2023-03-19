@@ -10,11 +10,7 @@
 
 几天前，我写了一篇博客，讲述了我如何成为一名自学成才的数据科学家的故事。你可以看看下面博客。
 
-[](/how-i-became-an-actual-self-taught-data-scientist-my-story-ba4dbeb96cf8) [## 我如何成为一名真正自学成才的数据科学家:我的故事
-
-### 我从没有数据科学经验到现在已经在这个行业工作了 5 年的历程
-
-towardsdatascience.com](/how-i-became-an-actual-self-taught-data-scientist-my-story-ba4dbeb96cf8) 
+[](/how-i-became-an-actual-self-taught-data-scientist-my-story-ba4dbeb96cf8)  
 
 在这篇博客中，我解释了在线课程如何成为我旅程的重要部分，以及它们如何真正帮助我学习数据科学的基础和主要组成部分。
 

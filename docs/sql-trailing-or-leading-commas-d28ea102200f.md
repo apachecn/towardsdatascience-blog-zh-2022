@@ -96,18 +96,6 @@ Google BigQuery 使用来自 [Google BigQuery 文档](https://cloud.google.com/b
 
 一定要看看我的其他文章:
 
-[](https://medium.com/learning-sql/reproducible-random-split-in-bigquery-sql-for-beginners-f36a5825528) [## BigQuery SQL 中可再现的随机分割(适用于初学者)
-
-### 将数据集随机分成多个组的完整教程
-
-medium.com](https://medium.com/learning-sql/reproducible-random-split-in-bigquery-sql-for-beginners-f36a5825528) [](/7-data-visualization-best-practices-everyone-must-know-b68ebe329b1e) [## 每个人都必须知道的 7 个数据可视化最佳实践
-
-### 以更有效的方式传达你的故事
-
-towardsdatascience.com](/7-data-visualization-best-practices-everyone-must-know-b68ebe329b1e) [](/data-science-career-switch-is-masters-degree-worth-it-part-2-1110c3440e4b) [## 数据科学职业转换:硕士值得吗？(第二部分)
-
-### 在计划职业转换之前要学习的编程语言和要问的三个问题
-
-towardsdatascience.com](/data-science-career-switch-is-masters-degree-worth-it-part-2-1110c3440e4b) 
+[](https://medium.com/learning-sql/reproducible-random-split-in-bigquery-sql-for-beginners-f36a5825528)  [](/7-data-visualization-best-practices-everyone-must-know-b68ebe329b1e)  [](/data-science-career-switch-is-masters-degree-worth-it-part-2-1110c3440e4b)  
 
 在 LinkedIn 上关注我:[https://www.linkedin.com/in/nathanthandoko/](https://www.linkedin.com/in/nathanthandoko/)

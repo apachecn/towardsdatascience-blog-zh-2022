@@ -24,11 +24,7 @@
 
 参见我关于信息设计的文章:
 
-[](https://medium.com/cloud-workers/three-simple-rules-for-information-design-52db54864b47) [## 信息设计的三个简单规则
-
-### 我们知道那些花哨多彩的报道。现在，让我们探讨一下为什么这些都是不好的例子，以及我们如何能做得更好。
-
-medium.com](https://medium.com/cloud-workers/three-simple-rules-for-information-design-52db54864b47) 
+[](https://medium.com/cloud-workers/three-simple-rules-for-information-design-52db54864b47)  
 
 因为我们是有效率的，而不是懒惰的，我们想以更好的方式做这件事。
 
@@ -212,8 +208,4 @@ SSAS 动态管理视图的参考文档:[Analysis Services | Microsoft Learn 中�
 
 Contoso 数据可以在 MIT 许可下自由使用，如这里的[所述](https://github.com/microsoft/Power-BI-Embedded-Contoso-Sales-Demo)。
 
-[](https://medium.com/@salvatorecagliari/membership) [## 通过我的推荐链接加入 Medium-Salvatore Cagliari
-
-### 阅读萨尔瓦托勒·卡利亚里的每一个故事(以及媒体上成千上万的其他作家)。您的会员费直接…
-
-medium.com](https://medium.com/@salvatorecagliari/membership)
+[](https://medium.com/@salvatorecagliari/membership) 

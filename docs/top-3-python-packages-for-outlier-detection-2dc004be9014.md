@@ -10,11 +10,7 @@
 
 我们数据分析的主要活动之一是识别数据中的异常值。异常值可以定义为不符合模式的极端数据或数据点。离群值有很多种，离群值的分类取决于数据或上下文。如果你想阅读更多关于异常分类或异常分析的内容，你可以在我的另一篇文章中阅读。
 
-[](/outlier-why-is-it-important-af58adbefecc) [## 离群值——为什么它很重要？
-
-### 极端数据的故事
-
-towardsdatascience.com](/outlier-why-is-it-important-af58adbefecc) 
+[](/outlier-why-is-it-important-af58adbefecc)  
 
 有许多检测异常值的技术。然而，该技术的有效性取决于数据和异常值分类。有时我们甚至不知道如何选择合适的方法或解释异常值。这就是为什么许多 python 包是专门为离群点检测开发的。
 
@@ -175,11 +171,7 @@ sns.scatterplot(data = df, x = 'total_bill', y = 'tip', hue = 'IF_alibi')
 
 [PyNomaly](https://github.com/vc1492a/PyNomaly) 是一个 python 包，基于循环检测异常值(局部异常值概率)。该循环基于本地异常值因子(LOF)，但分数被标准化为范围[0–1]。如果你不确定 LOF 是什么，你可以在我的另一篇文章中读到它。
 
-[](/novelty-detection-with-local-outlier-factor-4867e89e4f91) [## 具有局部异常因子的新奇检测
-
-### 检测新数据是否是异常值
-
-towardsdatascience.com](/novelty-detection-with-local-outlier-factor-4867e89e4f91) 
+[](/novelty-detection-with-local-outlier-factor-4867e89e4f91)  
 
 PyNomaly 的应用简单直观，类似于之前的包。让我们使用数据集示例来试验异常值检测。
 

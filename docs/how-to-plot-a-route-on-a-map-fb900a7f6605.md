@@ -166,11 +166,7 @@ def create_map(responses, lat_lons):
 
 这里一个有趣的附加功能是通过优化计算所有地址之间的最短或最快路线。以下文章中的更多信息(示例 2):
 
-[](/how-to-handle-optimization-problems-daf97b3c248c) [## 如何处理优化问题？
-
-### 带有解决方案和代码的简单示例。
-
-towardsdatascience.com](/how-to-handle-optimization-problems-daf97b3c248c) 
+[](/how-to-handle-optimization-problems-daf97b3c248c)  
 
 # 结论
 

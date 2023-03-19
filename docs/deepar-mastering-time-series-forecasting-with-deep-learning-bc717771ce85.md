@@ -18,11 +18,7 @@
 
 > 如果你想了解受 **DeepAR** 启发的其他深度学习模型，请查看这篇文章:
 
-[](/the-best-deep-learning-models-for-time-series-forecasting-690767bc63f0) [## 时间序列预测的最佳深度学习模型
-
-### 关于时间序列和深度学习你需要知道的一切
-
-towardsdatascience.com](/the-best-deep-learning-models-for-time-series-forecasting-690767bc63f0) 
+[](/the-best-deep-learning-models-for-time-series-forecasting-690767bc63f0)  
 
 # 什么是 DeepAR
 

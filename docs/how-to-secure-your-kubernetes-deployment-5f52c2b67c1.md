@@ -20,11 +20,7 @@
 
 kube-bench 与 docker-bench 类似，是一个 Go 检测工具，而不是强制工具。它通过运行由 [Kubernetes CSI 基准](https://www.cisecurity.org/benchmark/kubernetes)提供的检查来检查您的 Kubernetes 集群是否安全部署。
 
-[](https://medium.com/geekculture/your-docker-setup-is-like-a-swiss-cheese-heres-how-to-fix-it-cd1f49f40256) [## 你的 Docker 设置就像一个瑞士奶酪；下面是修复的方法！
-
-### 信息是现代的氧气。它渗透过顶上有铁丝网的墙，它飘过…
-
-medium.com](https://medium.com/geekculture/your-docker-setup-is-like-a-swiss-cheese-heres-how-to-fix-it-cd1f49f40256) 
+[](https://medium.com/geekculture/your-docker-setup-is-like-a-swiss-cheese-heres-how-to-fix-it-cd1f49f40256)  
 
 CIS Kubernetes 基准测试的工作方式与 CIS Docker 基准测试相同。然而，由于有许多 Kubernetes 发行版，CIS Kubernetes 基准的具体实现是为每个发行版量身定制的。
 

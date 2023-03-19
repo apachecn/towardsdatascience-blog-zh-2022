@@ -68,19 +68,11 @@
 
 这篇博客中使用的数据集来自这里提供的电信数据集。[](https://www.ibm.com/community/terms-of-use/download/)****允许商业和非商业使用。****
 
-**[](https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/11/telco-customer-churn-1113) [## 电信客户流失(11.1.3+)
-
-### 编辑描述
-
-community.ibm.com](https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/11/telco-customer-churn-1113) 
+**[](https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/11/telco-customer-churn-1113)  
 
 请**用我的推荐链接加入 Medium** 。
 
-[](https://pranay-dave9.medium.com/membership) [## 加入我的介绍链接-普拉内戴夫媒体
-
-### 阅读 Pranay Dave(以及 Medium 上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-pranay-dave9.medium.com](https://pranay-dave9.medium.com/membership) 
+[](https://pranay-dave9.medium.com/membership)  
 
 请**订阅**每当我发布一个新的故事时，请保持通知。
 

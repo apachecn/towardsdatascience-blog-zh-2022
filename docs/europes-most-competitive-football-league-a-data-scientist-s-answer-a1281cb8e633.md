@@ -170,8 +170,4 @@
 
 ⭐️ *我喜欢通过分享我在野外的数据科学经验来帮助人们。如果你还不是会员，可以考虑订阅 Medium，从我这里获得更多有用的内容。*
 
-[](https://johnadeojo.medium.com/membership) [## 通过我的推荐链接加入 Medium-John Ade-Ojo
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-johnadeojo.medium.com](https://johnadeojo.medium.com/membership)
+[](https://johnadeojo.medium.com/membership) 

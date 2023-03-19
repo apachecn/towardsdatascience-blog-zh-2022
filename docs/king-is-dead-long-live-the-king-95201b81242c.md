@@ -898,12 +898,4 @@ model = bc.load('./my_model.pkl')
 
 > 免责声明:本文中的信息仅用于教育目的。作者对本文内容中的任何错误或遗漏不承担任何责任或义务。本文包含的信息按“原样”提供，不保证完整性、准确性、有用性或及时性。
 
-[](https://medium.com/subscribe/@profsarang) [## 每当 Poornachandra Sarang 发布内容时，都会收到一封电子邮件。
-
-### 每当 Poornachandra Sarang 发布内容时，都会收到一封电子邮件。通过注册，您将创建一个中等帐户，如果您没有…
-
-medium.com](https://medium.com/subscribe/@profsarang) [](https://medium.com/@profsarang/membership) [## 通过我的推荐链接加入 Medium
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@profsarang/membership)
+[](https://medium.com/subscribe/@profsarang)  [](https://medium.com/@profsarang/membership) 

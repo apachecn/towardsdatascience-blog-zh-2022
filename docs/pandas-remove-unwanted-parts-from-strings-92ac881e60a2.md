@@ -128,11 +128,7 @@ from string import ascii_lettersdf['colB'] = \
 
 你也可以在我最近的一篇文章中读到更多关于`map()`、`apply()`和`applymap()` pandas 方法的内容。
 
-[](/apply-vs-map-vs-applymap-pandas-529acdf6d744) [## 熊猫中的 apply() vs map() vs applymap()
-
-### 讨论 Python 和 Pandas 中 apply()、map()和 applymap()的区别
-
-towardsdatascience.com](/apply-vs-map-vs-applymap-pandas-529acdf6d744) 
+[](/apply-vs-map-vs-applymap-pandas-529acdf6d744)  
 
 ## 使用列表理解
 
@@ -166,20 +162,8 @@ import redf['colB'] = [re.search('[0-9]', x)[0] for x in df['colB']]
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership) 
+[](https://gmyrianthous.medium.com/membership)  
 
 **相关文章你可能也喜欢**
 
-[](/how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3) [## 加快 PySpark 和 Pandas 数据帧之间的转换
-
-### 将大火花数据帧转换为熊猫时节省时间
-
-towardsdatascience.com](/how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3) [](/combine-two-string-columns-pandas-fde0287485d9) [## 如何在熊猫中组合两个字符串列
-
-### 了解如何在 pandas 数据框架中更有效地将两个字符串列连接成一个新列
-
-towardsdatascience.com](/combine-two-string-columns-pandas-fde0287485d9)
+[](/how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3)  [](/combine-two-string-columns-pandas-fde0287485d9) 

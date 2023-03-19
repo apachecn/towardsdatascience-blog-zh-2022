@@ -32,11 +32,7 @@
 
 就在 3 年前，我绝对不会说这些，尤其是没有想到人工智能有一天会成为现实。现在，我不太确定，社区的情绪是相似的:他们现在估计，到 2030 年，我们可能会有基于机器的系统，具有与人类相同的通用推理和解决问题的任务。两年前预计的年份是 2200 年左右，并且一直在缓慢下降:
 
-[](https://www.metaculus.com/questions/3479/date-weakly-general-ai-system-is-devised/) [## 第一个弱通用人工智能系统何时会被设计、测试并公之于众？
-
-### 自该领域开始以来，人工智能(AI)研究的目标一直是开发一种基于机器的…
-
-www.metaculus.com](https://www.metaculus.com/questions/3479/date-weakly-general-ai-system-is-devised/) 
+[](https://www.metaculus.com/questions/3479/date-weakly-general-ai-system-is-devised/)  
 
 虽然这只是盲目的预测，背后没有坚实的模型，但这一趋势确实反映了该领域正在迈出的巨大步伐。我现在不认为一个机器人可以在某一天和你下棋，第二天玩拼字游戏，在你不在家的时候给你的植物浇水，甚至根据天气预报和你的植物看起来如何做出自己的决定，智能地为你总结新闻，为你做饭，甚至为什么不帮助你发展你的想法。多面手 AI 可能比我们想象的更快到达。
 
@@ -44,46 +40,18 @@ www.metaculus.com](https://www.metaculus.com/questions/3479/date-weakly-general-
 
 Deepmind 在 arXiv 上关于加托的预印本:
 
-[](https://arxiv.org/abs/2205.06175) [## 多面手经纪人
-
-### 受大规模语言建模进展的启发，我们应用类似的方法来构建一个通才…
-
-arxiv.org](https://arxiv.org/abs/2205.06175) 
+[](https://arxiv.org/abs/2205.06175)  
 
 在 Deepmind 的网站上:
 
-[](https://www.deepmind.com/publications/a-generalist-agent) [## 多面手经纪人
-
-### 受大规模语言建模进展的启发，我们将类似的方法应用于构建一个单一的…
-
-www.deepmind.com](https://www.deepmind.com/publications/a-generalist-agent) 
+[](https://www.deepmind.com/publications/a-generalist-agent)  
 
 关于机器学习中的多模态:
 
- [## 多模态机器学习| MultiComp
-
-### 我们周围的世界涉及多种形式——我们看到物体，听到声音，感觉纹理，闻到气味，等等…
-
-multicomp.cs.cmu.edu](http://multicomp.cs.cmu.edu/multimodal-machine-learning/) 
+  
 
 我写的一些关于使用 GPT-3 和 VQGAN-CLIP 的文章，我用它们做了很多实验，重点是 web 开发:
 
-[](/how-this-artificial-dreaming-program-works-and-how-you-can-create-your-own-artwork-with-it-387e5fb369d9) [## 这个“人造梦”程序是如何工作的，以及你如何用它创造你自己的艺术作品
-
-### 你不需要知道任何编程-只要有一个谷歌帐户。这里有一篇直截了当的文章，评论…
-
-towardsdatascience.com](/how-this-artificial-dreaming-program-works-and-how-you-can-create-your-own-artwork-with-it-387e5fb369d9) [](/web-based-chatbot-project-module-2-gpt-3-generated-responses-assisted-with-a-database-for-1ee2a0f4aad4) [## 基于网络的聊天机器人项目，模块 2:GPT-3-生成的答复与数据库辅助…
-
-### 这个项目的第二部分跨越网络编程，数学，人工智能，等等
-
-towardsdatascience.com](/web-based-chatbot-project-module-2-gpt-3-generated-responses-assisted-with-a-database-for-1ee2a0f4aad4) [](/devising-tests-to-measure-gpt-3s-knowledge-of-the-basic-sciences-4bbfcde8286b) [## 设计测试来衡量 GPT-3 的基础科学知识
-
-### 学生可以从 OpenAI 的最新语言模型中学习并将其用作全天候顾问吗？学生可以用它来…
-
-towardsdatascience.com](/devising-tests-to-measure-gpt-3s-knowledge-of-the-basic-sciences-4bbfcde8286b) [](/gpt-3-like-models-with-extended-training-could-be-the-future-24-7-tutors-for-biology-students-904d2ae7986a) [## 经过长期训练的类似 GPT 3 的模特可能成为未来生物学生的全天候导师
-
-### 尽管其他科目的成绩相当令人沮丧，但 GPT-3 在生物方面表现相当好，如果它…
-
-towardsdatascience.com](/gpt-3-like-models-with-extended-training-could-be-the-future-24-7-tutors-for-biology-students-904d2ae7986a) 
+[](/how-this-artificial-dreaming-program-works-and-how-you-can-create-your-own-artwork-with-it-387e5fb369d9)  [](/web-based-chatbot-project-module-2-gpt-3-generated-responses-assisted-with-a-database-for-1ee2a0f4aad4)  [](/devising-tests-to-measure-gpt-3s-knowledge-of-the-basic-sciences-4bbfcde8286b)  [](/gpt-3-like-models-with-extended-training-could-be-the-future-24-7-tutors-for-biology-students-904d2ae7986a)  
 
 www.lucianoabriata.com*[***我写作并拍摄我广泛兴趣范围内的一切事物:自然、科学、技术、编程等等。***](https://www.lucianoabriata.com/) **[***成为媒介会员***](https://lucianosphere.medium.com/membership) *访问其所有故事(我免费获得小额收入的平台的附属链接)和* [***订阅获取我的新故事***](https://lucianosphere.medium.com/subscribe) ***通过电子邮件*** *。到* ***咨询关于小职位*** *查看我的* [***服务页面这里***](https://lucianoabriata.altervista.org/services/index.html) *。你可以* [***这里联系我***](https://lucianoabriata.altervista.org/office/contact.html) ***。******

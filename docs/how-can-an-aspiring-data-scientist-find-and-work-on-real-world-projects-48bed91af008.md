@@ -114,8 +114,4 @@
 
 *如果你很看重这些文章，想支持我这个作家，可以考虑* [***成为中等会员***](https://arunnthevapalan.medium.com/membership) ***。每月 5 美元，你可以无限制地阅读媒体上的故事。***
 
-[](https://arunnthevapalan.medium.com/membership) [## 通过我的推荐链接加入 Medium-Arunn the vapalan
-
-### 你喜欢看我的文章并想支持我成为一名作家吗？考虑成为中等会员。这是 5 美元一个…
-
-arunnthevapalan.medium.com](https://arunnthevapalan.medium.com/membership)
+[](https://arunnthevapalan.medium.com/membership) 

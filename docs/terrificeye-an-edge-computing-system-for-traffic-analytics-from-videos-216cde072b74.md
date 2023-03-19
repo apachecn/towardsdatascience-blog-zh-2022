@@ -32,11 +32,7 @@
 
 刻录 Jetson 系统的典型方法是使用 JetPack(一个独立的可执行应用程序)，它预装了为 Nvidia 硬件定制的 Ubuntu 内核。然而，由于这是一个已经停止支持的旧主板，所以 Jetpack 包含一个旧的 Ubuntu 版本(14.04)和库，因此，我选择手动刻录固件和驱动程序。为此，我从 Nvidia archive 下载了最新支持的 L4T 驱动程序包和 Jetson TK1 的示例根文件系统。
 
- [## 用于 Tegra R21.7 的 Linux
-
-### 概述 NVIDIA Tegra Linux 驱动程序包支持以下平台的开发:NVIDIA Tegra K1 系列…
-
-developer.nvidia.com](https://developer.nvidia.com/linux-tegra-r217) 
+  
 
 然后，我将示例根文件系统放在 L4T 驱动程序包的 rootfs 文件夹中，并在 Ubuntu 主机系统中使用以下命令将图像刻录到 Jetson TK1 板上。(为了刻录固件，主板必须处于恢复模式)
 
@@ -88,21 +84,13 @@ fallocate -l 4G /mnt/sd-card/swapfilechmod 600 /mnt/sd-card/swapfilemkswap /mnt/
 
 Wifi 适配器没有预建的驱动程序，所以我必须从源代码中构建它。我从下面的链接下载了源代码，然后编译了内核模块和 linux 内核源代码，然后将驱动程序加载到正在运行的内核中。
 
-[](https://www.tp-link.com/us/support/download/tl-wn725n/) [## 下载 TL-WN725N | TP-Link
-
-### 如何安装 TP Link USB 无线网络适配器安装和设置 TP-Link USB 无线适配器…
-
-www.tp-link.com](https://www.tp-link.com/us/support/download/tl-wn725n/) 
+[](https://www.tp-link.com/us/support/download/tl-wn725n/)  
 
 **检测&跟踪**
 
 驱动和库编译成功后，真正有趣的远景部分来了。一个好的分析系统的支柱是对象检测和跟踪系统。在这篇文章中，我选择了最新版本的 YOLOv4(你只看一次)来检测对象。经典的 YOLO 网络在 Jetson TK1 上不是实时的，所以我用 YOLO·泰尼来做这项工作。它给出了令人满意的 15fps 检测，这意味着我可以实时运行系统来生成分析。我从以下来源编译了 YOLO 实现:
 
-[](https://github.com/AlexeyAB/darknet) [## GitHub-AlexeyAB/darknet:yolov 4/Scaled-yolov 4/YOLO-用于对象检测的神经网络…
-
-### YOLOv4 / Scaled-YOLOv4 / YOLO -用于对象检测的神经网络(Windows 和 Linux 版本的 Darknet ) - GitHub …
-
-github.com](https://github.com/AlexeyAB/darknet) 
+[](https://github.com/AlexeyAB/darknet)  
 
 > 注:由于与 CUDA 6.5 和 *gcc* 版本不兼容，在编译过程中出现了一些问题。为了编译成功，需要对暗网的源代码做一些改动。
 
@@ -118,11 +106,7 @@ github.com](https://github.com/AlexeyAB/darknet)
 
 在成功检测和跟踪道路场景中的有趣/相关对象后，是时候生成分析了。为了简单起见，我计算了所选感兴趣对象的*入站流量计数*、*出站流量计数*和*类别计数*。通过检测图像中指定位置的线交叉来计算流入和流出。这些统计数据对于初始演示应该足够了，更复杂的分析可以在系统更新时进行计算。除了自己收集的交通场景视频，我还使用了*麻省理工学院的交通数据集*进行评估。
 
-[](https://mmlab.ie.cuhk.edu.hk/datasets/mit_traffic/index.html) [## 多媒体实验室
-
-### 麻省理工学院交通数据集用于研究活动分析和拥挤场景。它包括一个交通视频序列…
-
-mmlab.ie.cuhk.edu.hk](https://mmlab.ie.cuhk.edu.hk/datasets/mit_traffic/index.html) 
+[](https://mmlab.ie.cuhk.edu.hk/datasets/mit_traffic/index.html)  
 
 **结论**
 

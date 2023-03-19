@@ -14,19 +14,7 @@ AlphaFold 2 是由谷歌 Deepmind 开发的基于人工智能的程序，旨在�
 
 这里有几篇文章，我在其中介绍了 AlphaFold 2、可用于运行它的笔记本，以及它在生物学研究中开辟的许多积极的道路:
 
-[](/google-colab-notebooks-are-already-running-deepminds-alphafold-v-2-92b4531ec127) [## 谷歌 colab 笔记本已经在运行 Deepmind 的 AlphaFold v. 2
-
-### 全世界数百名科学家已经从这个革命性的软件中获益。而且是免费的。
-
-towardsdatascience.com](/google-colab-notebooks-are-already-running-deepminds-alphafold-v-2-92b4531ec127) [](/the-hype-on-alphafold-keeps-growing-with-this-new-preprint-a8c1f21d15c8) [## AlphaFold 上的宣传随着这种新的预印本不断增长
-
-### 请查看这项新工作，通过将 AlphaFold2 与一种强大的蛋白质相集成，使 alpha fold 2 的全部功能变得大众化…
-
-towardsdatascience.com](/the-hype-on-alphafold-keeps-growing-with-this-new-preprint-a8c1f21d15c8)  [## AlphaFold 2 正式发布三个月后的衍生产品
-
-### 迄今为止与 AlphaFold 2 相关的最重要作品的总结。
-
-towardsdatascience.com](/alphafold-2-spin-offs-three-months-after-its-official-release-90c2d8714757) 
+[](/google-colab-notebooks-are-already-running-deepminds-alphafold-v-2-92b4531ec127)  [](/the-hype-on-alphafold-keeps-growing-with-this-new-preprint-a8c1f21d15c8)    
 
 ## 现在，怎么了？
 
@@ -64,11 +52,7 @@ CASP15 会去掉一些不再有太大意义的类别。但它将保持对蛋白�
 
 名字叫 CAMEO，代表连续自动化模型评估。你可以访问它的主页:
 
- [## CAMEO -连续自动模型评估-欢迎
-
-### CAMEO 是一个社区项目 CAMEO 不断应用质量评估标准建立的蛋白质…
-
-www.cameo3d.org](https://www.cameo3d.org/) 
+  
 
 CAMEO 是一个社区项目，由瑞士 T2 生物信息研究所的计算结构生物学小组和巴塞尔大学的 T4 生物中心共同支持，由这些机构和欧盟资助。CAMEO 不断将由蛋白质结构预测社区建立的质量评估标准应用于由一组列出的服务器产生的 3D 模型。它提供各种分数，评估预测的不同方面，如查询序列的覆盖范围、局部准确性、完整性等。
 
@@ -94,11 +78,7 @@ CAMEO 是一个社区项目，由瑞士 T2 生物信息研究所的计算结构�
 
 ## 以下是我所有关于 AlphaFold、CASP 和蛋白质建模的文章和同行评议论文的总结
 
- [## 这里是我所有关于蛋白质建模、CASP 和 AlphaFold 2 的同行评论和博客文章
-
-### 我在这里整理了我所有的同行评议文章(一些论文，一些评论，一个观点)和博客文章，关于…
-
-lucianosphere.medium.com](https://lucianosphere.medium.com/here-are-all-my-peer-reviewed-and-blog-articles-on-protein-modeling-casp-and-alphafold-2-d78f0a9feb61) 
+  
 
 有关于蛋白质建模、生物信息学、蛋白质设计、分子建模或蛋白质生物技术的工作给我吗？[这里联系我](https://lucianoabriata.altervista.org/office/contact.html)！
 

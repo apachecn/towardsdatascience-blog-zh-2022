@@ -16,11 +16,7 @@
 
 这里有一篇摘自 bbc.com 的文章，谈论新当选的澳大利亚总理及其背景。
 
-[](https://www.bbc.com/news/world-australia-61267489) [## 澳大利亚大选:安东尼·艾博年领导工党赢得澳大利亚大选
-
-### 安东尼·艾博年在领导工党首次选举后将成为澳大利亚下一任总理…
-
-www.bbc.com](https://www.bbc.com/news/world-australia-61267489) 
+[](https://www.bbc.com/news/world-australia-61267489)  
 
 **工艺流程:**
 
@@ -58,11 +54,7 @@ www.bbc.com](https://www.bbc.com/news/world-australia-61267489)
 
 **输出视频:**
 
-[](https://youtube.com/shorts/gUG4sneHKwY?feature=share) [## 演示视频
-
-### 编辑描述
-
-youtube.com](https://youtube.com/shorts/gUG4sneHKwY?feature=share) 
+[](https://youtube.com/shorts/gUG4sneHKwY?feature=share)  
 
 考虑到我们没有微调我们的模型来寻找关键词和从新闻数据集中提取摘要，视频的输出相当不错。
 
@@ -70,10 +62,6 @@ youtube.com](https://youtube.com/shorts/gUG4sneHKwY?feature=share)
 
 **Github**链接:
 
-[](https://github.com/pawanreddy-u/videocreation) [## GitHub-pawanreddy-u/video creation:视频创作过程的自动化
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/pawanreddy-u/videocreation) 
+[](https://github.com/pawanreddy-u/videocreation)  
 
 我希望这个博客对你有所帮助。敬请关注机器学习和数据科学领域更多有趣的博客。

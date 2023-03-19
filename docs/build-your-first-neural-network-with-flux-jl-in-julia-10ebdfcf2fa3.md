@@ -14,11 +14,7 @@
 
 ***这一整篇教程作为冥王星笔记本提供:***
 
-[](https://github.com/niczky12/medium/blob/master/julia/epoch_pluto.jl) [## medium/epoch _ Pluto . JL at master niczky 12/medium
-
-### 中篇文章代码 https://medium.com/@niczky12-medium/epoch _ Pluto . JL at master niczky 12/medium
-
-github.com](https://github.com/niczky12/medium/blob/master/julia/epoch_pluto.jl) 
+[](https://github.com/niczky12/medium/blob/master/julia/epoch_pluto.jl)  
 
 ***不知道冥王星是什么？请看这篇*** [***文章***](/jupyter-notebooks-can-be-a-pain-but-i-️-pluto-f47913c5c16d) ***。***
 
@@ -96,28 +92,8 @@ Input -> Predicted epochs as datetime | difference
 
 我希望你读这篇文章的时候和我写作的时候一样开心。这仅仅是开始。**你可以用上面的来开始你的 NNs 和 Flux.jl 的旅程**[冥王星笔记本在这里](https://github.com/niczky12/medium/blob/master/julia/epoch_pluto.jl)供你消遣。欢迎您更改输入样本大小、日期、优化器、损失函数、激活函数、神经网络结构等。**去野外按几个按钮！**
 
-[](https://github.com/niczky12/medium/blob/master/julia/epoch_pluto.jl) [## medium/epoch _ Pluto . JL at master niczky 12/medium
-
-### 中篇文章代码 https://medium.com/@niczky12-medium/epoch _ Pluto . JL at master niczky 12/medium
-
-github.com](https://github.com/niczky12/medium/blob/master/julia/epoch_pluto.jl) 
+[](https://github.com/niczky12/medium/blob/master/julia/epoch_pluto.jl)  
 
 > 我写朱莉娅和其他很酷的东西。如果你喜欢这样的文章，请考虑关注我。
 
-[](/jupyter-notebooks-can-be-a-pain-but-i-️-pluto-f47913c5c16d) [## 朱庇特笔记本可能是一种痛苦，但我❤️布鲁托
-
-### 朱莉娅的 Pluto.jl 将使教育变得更好
-
-towardsdatascience.com](/jupyter-notebooks-can-be-a-pain-but-i-️-pluto-f47913c5c16d) [](/vectorize-everything-with-julia-ad04a1696944) [## 向量化朱莉娅的一切
-
-### 告别 for loops，广播所有的东西
-
-towardsdatascience.com](/vectorize-everything-with-julia-ad04a1696944) [](https://blog.devgenius.io/make-a-command-line-game-with-julia-a408057adcfe) [## 和 Julia 一起做一个命令行游戏
-
-### 没有图形用户界面的 2048 游戏
-
-blog.devgenius.io](https://blog.devgenius.io/make-a-command-line-game-with-julia-a408057adcfe) [](/control-flow-basics-with-julia-c4c10abf4dc2) [## Julia 的控制流基础知识
-
-### 休息，继续和所有其他有趣的事情
-
-towardsdatascience.com](/control-flow-basics-with-julia-c4c10abf4dc2)
+[](/jupyter-notebooks-can-be-a-pain-but-i-️-pluto-f47913c5c16d)  [](/vectorize-everything-with-julia-ad04a1696944)  [](https://blog.devgenius.io/make-a-command-line-game-with-julia-a408057adcfe)  [](/control-flow-basics-with-julia-c4c10abf4dc2) 

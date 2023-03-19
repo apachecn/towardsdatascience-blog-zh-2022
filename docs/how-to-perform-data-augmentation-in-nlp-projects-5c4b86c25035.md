@@ -125,18 +125,6 @@ augmenter = Augmenter(transformation=my_transformation, transformations_per_exam
 
 *最后一件事:在以下链接中阅读更多类似的文章*
 
-[](https://medium.com/geekculture/how-to-speed-up-model-training-with-snapml-b2e24b546fe5) [## 如何用 Snapml 加速模型训练
-
-### 用更少的时间训练机器学习模型
-
-medium.com](https://medium.com/geekculture/how-to-speed-up-model-training-with-snapml-b2e24b546fe5) [](https://medium.com/geekculture/top-5-cloud-migration-strategies-you-need-to-know-fb1d92ed3c8a) [## 您需要知道的五大云迁移策略
-
-### 如何将您的数据和系统平稳地迁移到云中
-
-medium.com](https://medium.com/geekculture/top-5-cloud-migration-strategies-you-need-to-know-fb1d92ed3c8a) [](https://medium.com/geekculture/top-5-reasons-why-companies-are-moving-to-the-cloud-c3a609332125) [## 公司迁移到云的五大原因
-
-### 为什么企业对云的采用增加到了 90%
-
-medium.com](https://medium.com/geekculture/top-5-reasons-why-companies-are-moving-to-the-cloud-c3a609332125) 
+[](https://medium.com/geekculture/how-to-speed-up-model-training-with-snapml-b2e24b546fe5)  [](https://medium.com/geekculture/top-5-cloud-migration-strategies-you-need-to-know-fb1d92ed3c8a)  [](https://medium.com/geekculture/top-5-reasons-why-companies-are-moving-to-the-cloud-c3a609332125)  
 
 *本文首发于* [*此处*](https://hackernoon.com/how-to-perform-data-augmentation-in-nlp-projects) *。*

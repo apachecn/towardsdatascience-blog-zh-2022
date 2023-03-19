@@ -284,11 +284,7 @@ test_ds = test_ds.map(one_hot_encode)***
 
 ***说明水平翻转增强的影响|作者图片***
 
-***[](/top-python-libraries-for-image-augmentation-in-computer-vision-2566bed0533e) [## 用于计算机视觉中图像增强的顶级 Python 库
-
-### 为您的下一个计算机视觉项目提供最好的增强库(带有示例代码)
-
-towardsdatascience.com](/top-python-libraries-for-image-augmentation-in-computer-vision-2566bed0533e)*** 
+***[](/top-python-libraries-for-image-augmentation-in-computer-vision-2566bed0533e) *** 
 
 ## ***(四)批处理和预取***
 
@@ -600,16 +596,4 @@ dict(zip(model.metrics_names, result_2))***
 
 ***欢迎您**加入我的数据科学学习之旅！**点击此[媒体](https://kennethleungty.medium.com/)页面，查看我的 [GitHub](https://github.com/kennethleungty) ，了解更多令人兴奋的实用数据科学内容。同时，享受在 TensorFlow 中实现图像分类迁移学习的乐趣！***
 
-***[](/pytorch-ignite-classifying-tiny-imagenet-with-efficientnet-e5b1768e5e8f) [## PyTorch Ignite 教程—使用高效网络对微型图像网络进行分类
-
-### 使用 PyTorch Ignite 简化 PyTorch 深度学习实施的分步指南
-
-towardsdatascience.com](/pytorch-ignite-classifying-tiny-imagenet-with-efficientnet-e5b1768e5e8f) [](/micro-macro-weighted-averages-of-f1-score-clearly-explained-b603420b292f) [## F1 分数的微观、宏观和加权平均值，解释清楚
-
-### 理解多类分类中 F1 分数的微观平均值、宏观平均值和加权平均值背后的概念
-
-towardsdatascience.com](/micro-macro-weighted-averages-of-f1-score-clearly-explained-b603420b292f) [](/how-to-easily-draw-neural-network-architecture-diagrams-a6b6138ed875) [## 如何轻松绘制神经网络架构图
-
-### 使用无代码工具通过图表可视化展示深度学习模型
-
-towardsdatascience.com](/how-to-easily-draw-neural-network-architecture-diagrams-a6b6138ed875)***
+***[](/pytorch-ignite-classifying-tiny-imagenet-with-efficientnet-e5b1768e5e8f)  [](/micro-macro-weighted-averages-of-f1-score-clearly-explained-b603420b292f)  [](/how-to-easily-draw-neural-network-architecture-diagrams-a6b6138ed875) ***

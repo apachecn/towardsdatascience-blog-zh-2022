@@ -75,19 +75,11 @@
 
 **第一个视频中的冰球太深，所以水流不畅:**
 
-**[](https://youtube.com/shorts/_qtOc6U5pSA) [## 在像样的咖啡机上使用 Kompresso，更好地理解蒸汽的轮廓。
-
-### 编辑描述
-
-youtube.com](https://youtube.com/shorts/_qtOc6U5pSA) 
+**[](https://youtube.com/shorts/_qtOc6U5pSA)  
 
 然而，我在第二个视频中使用了纸巾，效果好多了。我能够看到蒸汽预注入很快变成低压预注入。
 
-[](https://youtube.com/shorts/c_Itz7MeahY) [## 较短的圆盘高度显示蒸汽预注入快速转化液体。浓咖啡
-
-### 编辑描述
-
-youtube.com](https://youtube.com/shorts/c_Itz7MeahY) 
+[](https://youtube.com/shorts/c_Itz7MeahY)  
 
 由于这个视频和这些调查，我改变了我的个人资料，做蒸汽预输注 2 秒钟，然后缓慢上升。
 

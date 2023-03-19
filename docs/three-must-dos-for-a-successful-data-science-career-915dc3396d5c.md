@@ -72,20 +72,4 @@
 
 如果你喜欢这篇文章，一定要看看我页面上的其他文章！
 
-[](https://medium.com/codex/how-do-i-land-a-data-science-internship-in-the-us-82997d59f18d) [## 如何获得数据科学实习机会？
-
-### 当你开始一个研究生项目，被你需要处理的大量课程压得喘不过气来时…
-
-medium.com](https://medium.com/codex/how-do-i-land-a-data-science-internship-in-the-us-82997d59f18d) [](https://medium.com/@selfStarter/4-ways-to-get-the-most-out-of-graduate-school-from-a-cmu-grad-7f3d70e51e37) [## 从研究生院获得最大收益的 4 种方法——来自 CMU 大学的毕业生
-
-### 无论是学士、硕士还是博士课程，你都没有足够的时间去学你想学的东西。在…
-
-medium.com](https://medium.com/@selfStarter/4-ways-to-get-the-most-out-of-graduate-school-from-a-cmu-grad-7f3d70e51e37) [](/every-statistical-test-to-check-feature-dependence-773a21cd6722) [## 检查特性相关性的每个统计测试
-
-### 不同数据类型和假设的相关性和假设检验
-
-towardsdatascience.com](/every-statistical-test-to-check-feature-dependence-773a21cd6722) [](/rise-of-spark-for-big-data-analytics-e794ca75855d) [## 大数据科学火花的升起
-
-### Apache Spark 已经成为处理大数据的首选解决方案。让我们来看看…背后的三个原因
-
-towardsdatascience.com](/rise-of-spark-for-big-data-analytics-e794ca75855d)
+[](https://medium.com/codex/how-do-i-land-a-data-science-internship-in-the-us-82997d59f18d)  [](https://medium.com/@selfStarter/4-ways-to-get-the-most-out-of-graduate-school-from-a-cmu-grad-7f3d70e51e37)  [](/every-statistical-test-to-check-feature-dependence-773a21cd6722)  [](/rise-of-spark-for-big-data-analytics-e794ca75855d) 

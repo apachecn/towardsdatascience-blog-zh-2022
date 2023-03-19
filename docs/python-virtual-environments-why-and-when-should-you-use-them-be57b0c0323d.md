@@ -260,44 +260,4 @@ $ source project-after/bic/activate
 
 # *资源*
 
- *[## venv -虚拟环境的创建- Python 3.11.0 文档
-
-### 该模块支持创建轻量级“虚拟环境”，每个环境都有自己独立的 Python 包集…
-
-docs.python.org](https://docs.python.org/3/library/venv.html#venv-def)* *[](https://pypi.org/) [## Python 包索引
-
-### Python 包索引(PyPI)是 Python 编程语言的软件仓库。PyPI 帮助您找到…
-
-pypi.org](https://pypi.org/) [](https://github.com/nyggus/makepackage) [## GitHub - nyggus/makepackage:用于轻松打包 Python 代码的包
-
-### 从 PyPi 安装软件包:$ pip install makepackage 创建一个不需要命令行的软件包…
-
-github.com](https://github.com/nyggus/makepackage) [](https://github.com/nyggus/perftester) [## GitHub - nyggus/perftester:一个轻量级 Python 包，用于 Python 的性能测试…
-
-### 使用 pip 安装:perftester 仍在大量测试中。如果您发现任何不符合预期的情况，请…
-
-github.com](https://github.com/nyggus/perftester) [](https://pypi.org/project/virtualenv/) [## 虚拟
-
-### 虚拟 Python 环境构建器
-
-pypi.org](https://pypi.org/project/virtualenv/)  [## 康达-康达文件
-
-### 任何语言的包、依赖和环境管理——Python、R、Ruby、Lua、Scala、Java、JavaScript、C/ C++…
-
-docs.conda.io](https://docs.conda.io/en/latest/) [](https://github.com/cookiecutter/cookiecutter) [## GitHub-cookiecutter/cookiecutter:一个跨平台的命令行实用程序，用于创建项目…
-
-### 从 cookiecutters(项目模板)创建项目的跨平台命令行实用程序，例如 Python 包…
-
-github.com](https://github.com/cookiecutter/cookiecutter)  [## 诗意
-
-### 诗歌展示-树请求-工具带 0.8.0 高级用户的工具带...└──要求=2.0.1 ├──认证…
-
-python-poetry.org](https://python-poetry.org/)  [## Python 打包用户指南- Python 打包用户指南
-
-### 欢迎使用 Python 打包用户指南，这是一组教程和参考资料，可以帮助您分发和安装…
-
-packaging.python.org](https://packaging.python.org/en/latest/) [](https://github.com/jazzband/pip-tools) [## GitHub - jazzband/pip-tools:一套保持 Python 依赖关系新鲜的工具。
-
-### 一组命令行工具，帮助您保持基于 pip 的包的新鲜，即使您已经锁定了它们。你的确是…
-
-github.com](https://github.com/jazzband/pip-tools)*
+ ** *[](https://pypi.org/)  [](https://github.com/nyggus/makepackage)  [](https://github.com/nyggus/perftester)  [](https://pypi.org/project/virtualenv/)    [](https://github.com/cookiecutter/cookiecutter)      [](https://github.com/jazzband/pip-tools) *

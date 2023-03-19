@@ -104,11 +104,7 @@ print(cross_val_score(LinearRegression(), X[:, :10], y))
 
 > ***注:*** *通常，当人们谈论自动编码器时，他们指的是* ***基于神经网络的自动编码器*** *。但是这并不是唯一的选择:只要你有一个解码器和一个编码器，一切都是允许的。例如，你可以根据下面的决策树来检查一个奇特的自动编码器。然而，在本文中，我将坚持使用传统的*自动编码器。**
 
-[](/building-a-simple-auto-encoder-via-decision-trees-28ba9342a349) [## 通过决策树构建一个简单的自动编码器
-
-### 如何使用随机决策树构建自动编码器
-
-towardsdatascience.com](/building-a-simple-auto-encoder-via-decision-trees-28ba9342a349) 
+[](/building-a-simple-auto-encoder-via-decision-trees-28ba9342a349)  
 
 # Tensorflow 中的实现
 

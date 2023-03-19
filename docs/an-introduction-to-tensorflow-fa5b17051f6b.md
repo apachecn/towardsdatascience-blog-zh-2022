@@ -34,11 +34,7 @@ TensorFlow 这个名字乍一看可能有点奇怪，因为它与[机器学习](
 
 在图中的每个节点执行计算操作。在[神经网络](https://databasecamp.de/en/ml/artificial-neural-networks)的例子中，这意味着，例如，节点是计算操作发生的单独层。另一方面，边是已经描述过的张量，从一个节点移动到下一个节点。
 
-[](https://medium.com/illumination/intuitive-guide-to-artificial-neural-networks-5a2925ea3fa2) [## 人工神经网络直观指南
-
-### 人工神经网络(ANN)是人工智能和人工智能领域最常用的术语
-
-medium.com](https://medium.com/illumination/intuitive-guide-to-artificial-neural-networks-5a2925ea3fa2) 
+[](https://medium.com/illumination/intuitive-guide-to-artificial-neural-networks-5a2925ea3fa2)  
 
 然而，自 2019 年以来，这种结构发生了一些变化，因为第二个版本于当年发布，改变了一些甚至是基本的功能。此后，使用高级 API Keras，它在第一个版本中仍然是一个单独的模块。这提供了一个相当简单的方法来建立一个[神经网络](https://databasecamp.de/en/ml/artificial-neural-networks)，只需调用单独的层，从而使 TF 更加用户友好。
 
@@ -118,19 +114,11 @@ TensorFlow 架构|来源: [TensorFlow 博客](https://blog.tensorflow.org/2019/0
 
 *   **各种深度神经网络层**:Keras API 提供了最常用的层来快速轻松地构建多种类型的深度神经网络。这些包括，例如，[卷积神经网络](https://databasecamp.de/en/ml/convolutional-neural-networks)或[长短期记忆(LSTM)](https://databasecamp.de/en/ml/lstms) 模型。
 
-[](/an-introduction-to-long-short-term-memory-networks-lstm-27af36dde85d) [## 长短期记忆网络导论(LSTM)
-
-### 理解长短期记忆的概念和问题
-
-towardsdatascience.com](/an-introduction-to-long-short-term-memory-networks-lstm-27af36dde85d) 
+[](/an-introduction-to-long-short-term-memory-networks-lstm-27af36dde85d)  
 
 *   **Transformer 模型**:对于[自然语言处理](https://databasecamp.de/en/ml/natural-language-processings)来说，目前还没有办法绕开 [Transformer](https://databasecamp.de/en/ml-blog/transformer-enter-the-stage) 模型，比如 BERT 等..然而，从头开始构建这些需要大量的数据和大量的计算能力。通过 TensorFlow 已经可以获得这些模型中的大量模型。可以用相对较少的数据和相当少的工作量对应用程序进行“微调”。
 
-[](https://medium.com/nerd-for-tech/easy-guide-to-transformer-models-6b15c103bfcf) [## 变压器型号简易指南
-
-### 在今天的机器学习文献中，没有办法绕过“注意力就是一切…
-
-medium.com](https://medium.com/nerd-for-tech/easy-guide-to-transformer-models-6b15c103bfcf) 
+[](https://medium.com/nerd-for-tech/easy-guide-to-transformer-models-6b15c103bfcf)  
 
 *   **残差网络(RESNet)** :这些模型用于图像识别，也可通过 TensorFlow 进行预训练。
 *   **Big Transfer** :类似于 [Transformer](https://databasecamp.de/en/ml-blog/transformer-enter-the-stage) ，这些都是复杂的模型，已经根据大量数据进行了预训练，然后用少得多的数据来适应特定的应用。这允许在图像处理的各个领域中实现非常好的结果。
@@ -164,11 +152,7 @@ TensorFlow 已经是许多行业训练[机器学习](https://databasecamp.de/en/
 *   **Twitter** :社交网络使用[机器学习](https://databasecamp.de/en/machine-learning)框架来填充用户的时间表。必须确保只显示最相关的新推文，即使用户关注大量账户。为了做到这一点，TF 被用来建立一个只推荐最佳推文的模型。
 *   **Sinovation Ventures** :这家医疗公司使用 TensorFlow 产品来训练[图像分类器](https://databasecamp.de/en/use-case/cnn-in-tensorflow)，这些图像分类器在视网膜图像上诊断不同类型的疾病。图像的这种分类在许多应用中都是需要的，包括医学以外的应用。
 
-[](/using-convolutional-neural-network-for-image-classification-5997bfd0ede4) [## 利用卷积神经网络进行图像分类
-
-### 卷积神经网络(CNN 或 ConvNet)是神经网络的一个子类型，主要用于
-
-towardsdatascience.com](/using-convolutional-neural-network-for-image-classification-5997bfd0ede4) 
+[](/using-convolutional-neural-network-for-image-classification-5997bfd0ede4)  
 
 *   **Spotify** :流媒体服务提供商使用 TensorFlow (TFX)的高级版本向其客户提供个性化的歌曲推荐。与 Twitter 应用程序相比，输入尤其是一个重大挑战，因为它还必须确保歌曲的类型、节奏或速度等参数匹配。这些值比 tweets 的文本更难用数字表示。
 *   **PayPal** :支付服务提供商已经建立了一个复杂的模型，可以在早期发现欺诈性支付。尤其重要的是，该模型应该尽可能少地将合法支付归类为虚假支付，以免恶化用户体验。
@@ -182,16 +166,4 @@ towardsdatascience.com](/using-convolutional-neural-network-for-image-classifica
 
 *如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
 
-*[](https://medium.com/codex/why-you-should-know-big-data-3c0c161b9e14) [## 为什么您应该了解大数据
-
-### 定义大数据及其潜在威胁
-
-medium.com](https://medium.com/codex/why-you-should-know-big-data-3c0c161b9e14) [](https://medium.com/@niklas_lang/understanding-mapreduce-with-the-help-of-harry-potter-5b0ae89cc88) [## 借助《哈利·波特》理解 MapReduce
-
-### MapReduce 是一种允许并行处理大型数据集的算法，例如，在多台计算机上…
-
-medium.com](https://medium.com/@niklas_lang/understanding-mapreduce-with-the-help-of-harry-potter-5b0ae89cc88) [](/learn-coding-13-free-sites-to-help-you-do-it-9b2c1b92e573) [## 学习编码:13 个免费网站帮助你开始
-
-### 一旦你决定要学习编码，你会被众多的在线工具宠坏，这些工具可以帮助你…
-
-towardsdatascience.com](/learn-coding-13-free-sites-to-help-you-do-it-9b2c1b92e573)*
+*[](https://medium.com/codex/why-you-should-know-big-data-3c0c161b9e14)  [](https://medium.com/@niklas_lang/understanding-mapreduce-with-the-help-of-harry-potter-5b0ae89cc88)  [](/learn-coding-13-free-sites-to-help-you-do-it-9b2c1b92e573) *

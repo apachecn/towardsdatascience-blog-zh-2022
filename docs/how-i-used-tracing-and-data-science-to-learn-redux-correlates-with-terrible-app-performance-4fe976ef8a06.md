@@ -12,11 +12,7 @@
 
 该项目的开始只是为了跟踪不同的数据，以便我们可以了解频道切换期间发生了什么。例如，我们跟踪了频道切换期间发生的所有 redux 动作以及它们花费的时间；后来，我们跟踪反应渲染以及。我们使用的工具是一个与 [OpenTelemetry](https://opentelemetry.io/docs/instrumentation/js/api/tracing/) 具有相同 api 的 tracer，以及一些数据分析软件，包括 [Honeycomb](https://www.honeycomb.io/) 。如果您不熟悉跟踪，请阅读我以前的文章[关于如何使用跟踪来测量应用程序性能的文章](https://medium.com/dev-genius/measuring-react-performance-with-opentelemetry-and-honeycomb-2b20a7920335)。
 
-[](https://blog.devgenius.io/measuring-react-performance-with-opentelemetry-and-honeycomb-2b20a7920335) [## 利用 OpenTelemetry 和 Honeycomb 测量反应性能
-
-### POC 到前端的性能可观察性
-
-blog.devgenius.io](https://blog.devgenius.io/measuring-react-performance-with-opentelemetry-and-honeycomb-2b20a7920335) 
+[](https://blog.devgenius.io/measuring-react-performance-with-opentelemetry-and-honeycomb-2b20a7920335)  
 
 我们还用关于用户和团队的信息来标记每个跟踪。这些信息包括他们使用哪种电脑，他们来自哪个地理区域，他们有多少渠道，他们的团队有多少人，**他们的 redux 商店**有多大，等等。
 

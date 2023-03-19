@@ -71,11 +71,7 @@
 
 **如果你想了解更多的库存管理政策，请看下面的文章**
 
-**[](https://www.samirsaci.com/inventory-management-for-retail-periodic-review-policy/) [## 零售库存管理-定期审查政策
-
-### 供应链优化实施基于定期审查政策的库存管理规则，以减少库存数量
-
-www.samirsaci.com](https://www.samirsaci.com/inventory-management-for-retail-periodic-review-policy/) 
+**[](https://www.samirsaci.com/inventory-management-for-retail-periodic-review-policy/)  
 
 ## **仓库补货**
 
@@ -105,11 +101,7 @@ www.samirsaci.com](https://www.samirsaci.com/inventory-management-for-retail-per
 
 **然而，这个指标本身并不能让你全面了解供应链中发生了什么。**
 
-**因此，我们需要使用数据分析对其进行分解，并了解影响整体性能的因素。**** ****[](http://samirsaci.com) [## 萨米尔·萨奇
-
-### 数据科学博客，专注于仓储，运输，数据可视化和机器人流程自动化…
-
-samirsaci.com](http://samirsaci.com)**** 
+**因此，我们需要使用数据分析对其进行分解，并了解影响整体性能的因素。**** ****[](http://samirsaci.com) **** 
 
 # ****二。端到端配送流程****
 
@@ -183,11 +175,7 @@ samirsaci.com](http://samirsaci.com)****
 ****💡** The added value at this stage is to provide detailed visibility of the performance by process. Your role is to support operational teams to improve their performance by implementing a continuous improvement culture backed by data.**
 ```
 
-****[](http://samirsaci.com) [## 萨米尔·萨奇
-
-### 数据科学博客，专注于仓储，运输，数据可视化和机器人流程自动化…
-
-samirsaci.com](http://samirsaci.com)**** 
+****[](http://samirsaci.com) **** 
 
 # ****四。结论****
 
@@ -265,11 +253,7 @@ samirsaci.com](http://samirsaci.com)****
 
 ****欲知详情，****
 
-****[](https://www.samirsaci.com/what-is-a-supply-chain-digital-twin/) [## 什么是供应链数字孪生？
-
-### 供应链优化使用 python 创建一个代表供应链网络的模型，以优化您的…
-
-www.samirsaci.com](https://www.samirsaci.com/what-is-a-supply-chain-digital-twin/) 
+****[](https://www.samirsaci.com/what-is-a-supply-chain-digital-twin/)  
 
 # 关于我
 
@@ -277,8 +261,4 @@ www.samirsaci.com](https://www.samirsaci.com/what-is-a-supply-chain-digital-twin
 
 如果你对数据分析和供应链感兴趣，可以看看我的网站
 
-[](https://samirsaci.com) [## Samir Saci |数据科学与生产力
-
-### 专注于数据科学、个人生产力、自动化、运筹学和可持续发展的技术博客
-
-samirsaci.com](https://samirsaci.com)****
+[](https://samirsaci.com) ****

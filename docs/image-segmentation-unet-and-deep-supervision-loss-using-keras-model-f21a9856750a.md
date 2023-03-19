@@ -411,22 +411,6 @@ best_val = np.inf
 
 [https://arxiv.org/abs/1505.04597](https://arxiv.org/abs/1505.04597)
 
-[](https://arxiv.org/abs/2110.03352v2) [## 优化的 U-Net 用于脑肿瘤分割
-
-### 我们提出了一个优化的 U-Net 架构，用于 BraTS21 挑战赛中的脑肿瘤分割任务。找到…
-
-arxiv.org](https://arxiv.org/abs/2110.03352v2) [](https://www.jeremyjordan.me/semantic-segmentation/) [## 语义图像分割综述。
-
-### 在这篇文章中，我将讨论如何使用卷积神经网络来完成语义图像分割的任务。图像…
-
-www.jeremyjordan.me](https://www.jeremyjordan.me/semantic-segmentation/) [](https://github.com/shashank14k/Medical-Imaging/tree/main/BrainMRI_Image%20Segmentation) [## 医学成像/大脑 main 主沙山 14k 图像分割/医学成像
-
-### 这个项目的目标是使用卷积神经网络(CNN)的医学图像分割…
-
-github.com](https://github.com/shashank14k/Medical-Imaging/tree/main/BrainMRI_Image%20Segmentation) [](https://ieeexplore.ieee.org/document/9144185) [## 人工智能能帮助筛查病毒性和新冠肺炎肺炎吗？
-
-### 冠状病毒病(新冠肺炎)是一种疫情疾病，已经造成数千人死亡和感染…
-
-ieeexplore.ieee.org](https://ieeexplore.ieee.org/document/9144185) 
+[](https://arxiv.org/abs/2110.03352v2)  [](https://www.jeremyjordan.me/semantic-segmentation/)  [](https://github.com/shashank14k/Medical-Imaging/tree/main/BrainMRI_Image%20Segmentation)  [](https://ieeexplore.ieee.org/document/9144185)  
 
 [https://linking hub . Elsevier . com/retrieve/pii/s 001048252100113 x](https://linkinghub.elsevier.com/retrieve/pii/S001048252100113X)

@@ -23,11 +23,7 @@ Zenodo 是目前最好的数据管理服务之一。团队相信[公平原则](h
 
 在这篇文章中，我将带你经历开始使用这个包所需要的所有步骤。请注意，他的包裹不属于芝诺多，也不被芝诺多认可。项目代码可通过 GitHub 获得
 
-[](https://github.com/lgloege/zenodopy) [## GitHub - lgloege/zenodopy
-
-### 在 GitHub 上创建一个帐户，为 lgloege/zenodopy 的开发做出贡献。
-
-github.com](https://github.com/lgloege/zenodopy) 
+[](https://github.com/lgloege/zenodopy)  
 
 # 先决条件
 
@@ -266,11 +262,7 @@ ZenodoPy 的主要目的是简化 Zenodo 项目的大文件上传/下载，我�
 
 团队比个人更擅长解决问题。因此，任何发现这个项目有用的人都被鼓励为这个项目做出贡献。
 
-[](https://github.com/lgloege/zenodopy) [## GitHub - lgloege/zenodopy
-
-### 在 GitHub 上创建一个帐户，为 lgloege/zenodopy 的开发做出贡献。
-
-github.com](https://github.com/lgloege/zenodopy) 
+[](https://github.com/lgloege/zenodopy)  
 
 如果你在代码中发现任何错误，请在 GitHub 上打开一个问题。
 
@@ -280,12 +272,4 @@ github.com](https://github.com/lgloege/zenodopy)
 
 [](/make-your-science-fair-with-zenodo-b209fc74400c) [## 让你的科学与芝诺多公平
 
-towardsdatascience.com](/make-your-science-fair-with-zenodo-b209fc74400c) [](https://blog.jupyter.org/binder-with-zenodo-af68ed6648a6) [## 带有芝诺多的粘合剂
-
-### 由 Zenodo 和 Binder 支持的交互式和可复制的存储库。
-
-blog.jupyter.org](https://blog.jupyter.org/binder-with-zenodo-af68ed6648a6) [](https://medium.com/@manishaagarwal_1980/zenodo-integration-a-care-for-users-privacy-as-well-as-their-experiences-ba2f5b35e5de) [## 芝诺多集成——对用户隐私和体验的关怀
-
-### “隐私保护是客户信心的关键因素，也是可持续数字业务发展的支柱。”…
-
-medium.com](https://medium.com/@manishaagarwal_1980/zenodo-integration-a-care-for-users-privacy-as-well-as-their-experiences-ba2f5b35e5de)
+towardsdatascience.com](/make-your-science-fair-with-zenodo-b209fc74400c) [](https://blog.jupyter.org/binder-with-zenodo-af68ed6648a6)  [](https://medium.com/@manishaagarwal_1980/zenodo-integration-a-care-for-users-privacy-as-well-as-their-experiences-ba2f5b35e5de) 

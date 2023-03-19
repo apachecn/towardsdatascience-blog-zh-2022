@@ -209,19 +209,7 @@ chart.animate(
 
 # 相关文章
 
-[](/an-overview-of-visual-techniques-for-exploratory-data-analysis-in-python-d35703d43faf) [## Python 中探索性数据分析的可视化技术概述
-
-### 关于如何在 seaborn 和 matplotlib 中为 Visual EDA 绘制最常见图形的教程
-
-towardsdatascience.com](/an-overview-of-visual-techniques-for-exploratory-data-analysis-in-python-d35703d43faf) [](/data-visualisation-principles-part-2-layout-and-emphasis-d682bbc38217) [## 数据可视化原理第 2 部分:布局和重点
-
-### 基本图形设计原则入门。
-
-towardsdatascience.com](/data-visualisation-principles-part-2-layout-and-emphasis-d682bbc38217) [](/data-visualisation-principles-part-1-a-practical-example-in-altair-b6e16f665fc6) [## 数据可视化原理第 1 部分 Altair 中的一个实际例子
-
-### 关于如何在 Python Altair 中构建、定制和添加注释到简单条形图的实用教程
-
-towardsdatascience.com](/data-visualisation-principles-part-1-a-practical-example-in-altair-b6e16f665fc6) 
+[](/an-overview-of-visual-techniques-for-exploratory-data-analysis-in-python-d35703d43faf)  [](/data-visualisation-principles-part-2-layout-and-emphasis-d682bbc38217)  [](/data-visualisation-principles-part-1-a-practical-example-in-altair-b6e16f665fc6)  
 
 ## 您知道上下文分析对于构建有效的可视化非常重要吗？
 

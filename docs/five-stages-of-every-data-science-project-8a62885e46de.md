@@ -68,24 +68,8 @@ SpaceX 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral
 
 如果你喜欢你所读的，并且还不是 medium 会员，请使用下面我的推荐链接注册 Medium，来支持我和这个平台上其他了不起的作家！提前感谢。
 
-[](https://philip-wilkinson.medium.com/membership) [## 通过我的推荐链接加入 Medium—Philip Wilkinson
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-philip-wilkinson.medium.com](https://philip-wilkinson.medium.com/membership) 
+[](https://philip-wilkinson.medium.com/membership)  
 
 或者随意查看我在 Medium 上的其他文章:
 
-[](/how-i-landed-an-amazon-sde-internship-without-a-computer-science-degree-85596c480d4d) [## 我是如何在没有计算机科学学位的情况下获得亚马逊 SDE 实习机会的
-
-### 或者解决数百个黑客排名问题…
-
-towardsdatascience.com](/how-i-landed-an-amazon-sde-internship-without-a-computer-science-degree-85596c480d4d) [](/eight-data-structures-every-data-scientist-should-know-d178159df252) [## 每个数据科学家都应该知道的八种数据结构
-
-### 从 Python 中的基本数据结构到抽象数据类型
-
-towardsdatascience.com](/eight-data-structures-every-data-scientist-should-know-d178159df252) [](/a-complete-data-science-curriculum-for-beginners-825a39915b54) [## 面向初学者的完整数据科学课程
-
-### UCL 数据科学协会:Python 介绍，数据科学家工具包，使用 Python 的数据科学
-
-towardsdatascience.com](/a-complete-data-science-curriculum-for-beginners-825a39915b54)
+[](/how-i-landed-an-amazon-sde-internship-without-a-computer-science-degree-85596c480d4d)  [](/eight-data-structures-every-data-scientist-should-know-d178159df252)  [](/a-complete-data-science-curriculum-for-beginners-825a39915b54) 

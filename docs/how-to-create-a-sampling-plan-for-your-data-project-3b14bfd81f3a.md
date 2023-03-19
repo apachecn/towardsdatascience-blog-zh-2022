@@ -51,11 +51,7 @@
 如果计划比预期的更昂贵，我们的旋转计划是什么？(写下来！)
 我们的预算是多少？(写下来！)*
 
-[](https://kozyrkov.medium.com/the-obscure-art-of-data-design-397ffb230596) [## 数据设计的晦涩艺术
-
-### 为数字时代对抗尴尬的新炼金术
-
-kozyrkov.medium.com](https://kozyrkov.medium.com/the-obscure-art-of-data-design-397ffb230596) 
+[](https://kozyrkov.medium.com/the-obscure-art-of-data-design-397ffb230596)  
 
 # 替代抽样方案
 
@@ -121,11 +117,7 @@ kozyrkov.medium.com](https://kozyrkov.medium.com/the-obscure-art-of-data-design-
 
 顺便说一句，当你从供应商那里购买数据时，你应该总是要求完整的抽样方案(计划，而不仅仅是程序)，以确保你理解你的数据实际上意味着什么。要了解更多关于使用次级(继承)数据的技巧，包括购买的数据，请参见我的指南[这里](http://bit.ly/quaesita_notyours)。
 
-[](/how-to-work-with-someone-elses-data-f33485d79ed4) [## 如何使用他人的数据
-
-### 处理继承数据指南
-
-towardsdatascience.com](/how-to-work-with-someone-elses-data-f33485d79ed4) 
+[](/how-to-work-with-someone-elses-data-f33485d79ed4)  
 
 一个真正的专业人士在建立一个完整的抽样方案之前不会想到收集数据。不幸的是，数据学院的课程教授方式——理论多，实践少——往往需要一段时间，刚毕业的小鸭才开始像真正的专业人士。我们这些已经在游戏中有一段时间的人可以通过啦啦队关注实际方面来尽自己的一份力量。毕竟，如果细节令人生厌，那么所有花哨的数学又有什么意义呢？
 
@@ -135,21 +127,13 @@ towardsdatascience.com](/how-to-work-with-someone-elses-data-f33485d79ed4)
 
 在这里欣赏整个课程播放列表:[bit.ly/machinefriend](http://bit.ly/machinefriend)
 
-[](https://kozyrkov.medium.com/membership) [## 加入介质
-
-### 阅读 Cassie Kozyrkov(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-kozyrkov.medium.com](https://kozyrkov.medium.com/membership) 
+[](https://kozyrkov.medium.com/membership)  
 
 *附:你有没有试过在 Medium 上不止一次地点击拍手按钮，看看会发生什么？* ❤️
 
 # 了解更多关于数据设计的重要性
 
-[](https://kozyrkov.medium.com/the-obscure-art-of-data-design-397ffb230596) [## 数据设计的晦涩艺术
-
-### 为数字时代对抗尴尬的新炼金术
-
-kozyrkov.medium.com](https://kozyrkov.medium.com/the-obscure-art-of-data-design-397ffb230596) 
+[](https://kozyrkov.medium.com/the-obscure-art-of-data-design-397ffb230596)  
 
 # 喜欢作者？与凯西·科兹尔科夫联系
 

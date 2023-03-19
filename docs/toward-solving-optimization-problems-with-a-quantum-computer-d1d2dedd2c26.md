@@ -96,11 +96,7 @@
 
 因此，当我们将我们旨在优化的目标函数公式化为哈密尔顿函数时，该系统的能量对应于解的性能。然后，优化是寻找系统的最低(或最高)能量。
 
-[](https://pyqml.medium.com/membership) [## 通过我的推荐链接加入 Medium 弗兰克齐克特|量子机器学习
-
-### 开始使用量子机器学习(并完全访问媒体上的每个故事)完全访问所有…
-
-pyqml.medium.com](https://pyqml.medium.com/membership) 
+[](https://pyqml.medium.com/membership)  
 
 不要错过下一集，订阅我的[子栈频道](https://pyqml.substack.com/)。
 

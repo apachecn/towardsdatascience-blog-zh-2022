@@ -119,20 +119,4 @@ rcParams 中一些可用的自定义选项，由作者打印
 
 喜欢这篇文章吗？下面更喜欢！
 
-[](https://www.linkedin.com/in/kate-wall/) [## 凯特·沃尔-休斯敦德克萨斯大学健康科学中心研究生助理…
-
-### 在全球最大的职业社区 LinkedIn 上查看凯特·沃尔的个人资料。凯特有一份工作列在他们的…
-
-www.linkedin.com](https://www.linkedin.com/in/kate-wall/) [](/professional-venn-diagrams-in-python-638abfff39cc) [## python 中的专业维恩图
-
-### 从熊猫数据帧生成带有定制标签和图例的 3 向 Venns
-
-towardsdatascience.com](/professional-venn-diagrams-in-python-638abfff39cc) [](/access-google-drive-using-google-colab-running-an-r-kernel-3736db7835) [## 使用运行 R 内核的 Google Colab 访问 Google Drive
-
-### 从 Google Drive 文件或直接从 web URLs 导入数据
-
-towardsdatascience.com](/access-google-drive-using-google-colab-running-an-r-kernel-3736db7835) [](/probability-distributions-for-beginners-d14f59aba2cb) [## 初学者的概率分布
-
-### 初级统计，基本概念，伯努利分布
-
-towardsdatascience.com](/probability-distributions-for-beginners-d14f59aba2cb)
+[](https://www.linkedin.com/in/kate-wall/)  [](/professional-venn-diagrams-in-python-638abfff39cc)  [](/access-google-drive-using-google-colab-running-an-r-kernel-3736db7835)  [](/probability-distributions-for-beginners-d14f59aba2cb) 

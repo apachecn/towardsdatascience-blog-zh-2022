@@ -12,11 +12,7 @@
 
 为了在 Python 中创建两体轨道，首先需要推导感兴趣质量的运动方程(无论是卫星、小行星等)。).我在另一篇文章(见下文)中演示了如何做到这一点，所以我鼓励您去探索这一点，并真正理解方程背后的物理原理。但是，你会发现下面的运动方程。
 
-[](https://medium.com/illumination/astrodynamics-two-body-problem-ec2c5e148184) [## 如何解决两体问题
-
-### 通过推导两体系统的运动方程，学习轨道力学的基础知识
-
-medium.com](https://medium.com/illumination/astrodynamics-two-body-problem-ec2c5e148184) 
+[](https://medium.com/illumination/astrodynamics-two-body-problem-ec2c5e148184)  
 
 两体问题是一个很好的学习工具，可以作为非常接近大质量的轨道的第一近似，但一旦我们的轨道远离这个质量，其他引力就应该包括在内。即使在接近大质量时，也应包括大气阻力、[太阳辐射](https://medium.com/illumination/deriving-the-effect-of-solar-radiation-pressure-on-orbits-150792f64d0b)和非球形物体的影响等干扰力。我们不会在这里讨论这些，但这是一件值得记住的事情。在较大质量的重力影响下，可忽略质量的运动方程如下:
 
@@ -139,10 +135,6 @@ plt.show()*
 
 *顺便说一句，如果您想要像本文开头那样制作动态观察的动画，您可以按照本文学习:*
 
-*[](/how-to-animate-plots-in-python-2512327c8263) [## 如何在 Python 中制作情节动画
-
-### 了解制作数据动画以创建动态视觉效果的基础知识
-
-towardsdatascience.com](/how-to-animate-plots-in-python-2512327c8263)* 
+*[](/how-to-animate-plots-in-python-2512327c8263) * 
 
 *感谢您阅读文章！我将继续写容易理解的轨道力学文章，包括代码和推导，所以如果你感兴趣，请给我一个关注！有问题就评论！*

@@ -176,20 +176,4 @@ Plotly express 与其他可视化库一样简单，并为您提供了额外的�
 
 ## 参考
 
-[](https://plotly.com/python/plotly-express/) [## Plotly
-
-### Plotly Express 目前包括以下功能:Plotly Express API 通常提供以下功能…
-
-plotly.com](https://plotly.com/python/plotly-express/) [](https://plotly.com/python/subplots/) [## 支线剧情
-
-### Plotly Express 是 Plotly 易于使用的高级接口，可处理各种类型的数据和…
-
-plotly.com](https://plotly.com/python/subplots/)  [## plotly . subplots . make _ subplots-5 . 6 . 0 文档
-
-### 返回 plotly.graph_objects 的实例。在“布局”中配置了预定义子情节的图形。参数分配…
-
-plotly.com](https://plotly.com/python-api-reference/generated/plotly.subplots.make_subplots.html) [](https://gustavorsantos.medium.com/) [## 古斯塔沃·桑托斯-中等
-
-### 阅读古斯塔夫·桑托斯在媒介上的作品。数据科学家。我从数据中提取见解，以帮助个人和公司…
-
-gustavorsantos.medium.com](https://gustavorsantos.medium.com/)
+[](https://plotly.com/python/plotly-express/)  [](https://plotly.com/python/subplots/)    [](https://gustavorsantos.medium.com/) 

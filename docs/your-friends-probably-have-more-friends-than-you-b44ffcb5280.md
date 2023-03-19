@@ -86,11 +86,7 @@ d(v)是顶点 v 的度数。|E|是图中的边数。p(v)是选择随机朋友时
 
 ## 进一步阅读
 
-[](https://medium.com/geekculture/dont-just-learn-to-code-learn-to-build-cool-stuff-instead-7d0783d51655) [## 不要只是学习编码。相反，要学会制造酷的东西。
-
-### 遵循这个路线图，从零开始学习构建自己的应用程序、网站和程序。
-
-medium.com](https://medium.com/geekculture/dont-just-learn-to-code-learn-to-build-cool-stuff-instead-7d0783d51655) 
+[](https://medium.com/geekculture/dont-just-learn-to-code-learn-to-build-cool-stuff-instead-7d0783d51655)  
 
 **来源**
 

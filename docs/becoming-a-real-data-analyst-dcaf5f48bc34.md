@@ -110,19 +110,11 @@
 
 # 本系列的前一篇文章
 
-[](/thinking-of-becoming-a-data-analyst-youre-already-one-5773b63ae83b) [## 想成为一名数据分析师？你已经是一个了！
-
-### 是的，你。
-
-towardsdatascience.com](/thinking-of-becoming-a-data-analyst-youre-already-one-5773b63ae83b) 
+[](/thinking-of-becoming-a-data-analyst-youre-already-one-5773b63ae83b)  
 
 # 本系列的下一篇文章
 
-[](/shifting-your-mindset-from-amateur-to-professional-analyst-61383f913408) [## 将你的思维从业余分析师转变为专业分析师
-
-### 成为“真正的”数据分析师的旅程
-
-towardsdatascience.com](/shifting-your-mindset-from-amateur-to-professional-analyst-61383f913408) 
+[](/shifting-your-mindset-from-amateur-to-professional-analyst-61383f913408)  
 
 *又及:你有没有试过在 Medium 上不止一次点击这里的拍手按钮，看看会发生什么？* ❤️
 

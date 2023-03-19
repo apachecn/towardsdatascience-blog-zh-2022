@@ -161,20 +161,8 @@ from optuna.visualization.matplotlib import plot_optimization_historyplot_optimi
 
 ## [我还建议成为一名中等会员，不要错过我每周发表的任何数据科学文章。](https://ipom.medium.com/membership/)在此加入👇
 
-[](https://ipom.medium.com/membership/) [## 通过我的推荐链接加入 Medium
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-ipom.medium.com](https://ipom.medium.com/membership/) 
+[](https://ipom.medium.com/membership/)  
 
 **我的另外几篇文章你可能会感兴趣:**
 
-[](/the-nice-way-to-deploy-an-ml-model-using-docker-91995f072fe8) [## 使用 Docker 部署 ML 模型的好方法
-
-### 使用 FastAPI 部署 ML 模型并在 VSCode 中轻松封装它的快速指南。
-
-towardsdatascience.com](/the-nice-way-to-deploy-an-ml-model-using-docker-91995f072fe8) [](/31-datasets-for-your-next-data-science-project-6ef9a6f8cac6) [## 您下一个数据科学项目的 31 个数据集
-
-### 基于任务的数据集的汇编，可用于构建下一个数据科学项目
-
-towardsdatascience.com](/31-datasets-for-your-next-data-science-project-6ef9a6f8cac6)
+[](/the-nice-way-to-deploy-an-ml-model-using-docker-91995f072fe8)  [](/31-datasets-for-your-next-data-science-project-6ef9a6f8cac6) 

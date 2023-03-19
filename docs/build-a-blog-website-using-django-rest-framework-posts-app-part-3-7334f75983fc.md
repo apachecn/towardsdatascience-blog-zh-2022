@@ -12,15 +12,7 @@
 
 如果您还没有阅读这些部分，我强烈建议您先阅读前两部分，然后再回到本文。
 
-[](/build-a-blog-website-using-django-rest-framework-overview-part-1-1f847d53753f) [## 使用 Django Rest 框架构建博客网站——概述(第 1 部分)
-
-### 让我们使用 Django Rest 框架构建一个简单的博客网站，了解 DRF 和 REST APIs 如何工作，以及我们如何添加…
-
-towardsdatascience.com](/build-a-blog-website-using-django-rest-framework-overview-part-1-1f847d53753f) [](/build-a-blog-website-using-django-rest-framework-part-2-be9bc353abf3) [## 使用 Django Rest 框架——用户应用程序构建一个博客网站(第 2 部分)
-
-### 在第二部分中，我们将处理构建用户相关的模型和视图，并将测试用户相关的 API。
-
-towardsdatascience.com](/build-a-blog-website-using-django-rest-framework-part-2-be9bc353abf3) 
+[](/build-a-blog-website-using-django-rest-framework-overview-part-1-1f847d53753f)  [](/build-a-blog-website-using-django-rest-framework-part-2-be9bc353abf3)  
 
 在本系列的第三部分，我们将处理 Django 应用程序的完整的`posts`应用程序，从而完成我们应用程序的完整后端。我们还将使用可浏览 API 接口测试 API，就像我们测试`users`应用程序一样。所以，让我们直接进入`posts`应用程序，并开始构建它。
 
@@ -635,12 +627,4 @@ python manage.py migrate
 
 这里还有一些你想读的文章系列:
 
-[](/build-a-social-media-website-using-django-setup-the-project-part-1-6e1932c9f221) [## 使用 Django 构建一个社交媒体网站——设置项目(第 1 部分)
-
-### 在第一部分中，我们通过设置密码来集中设置我们的项目和安装所需的组件…
-
-towardsdatascience.com](/build-a-social-media-website-using-django-setup-the-project-part-1-6e1932c9f221) [](https://javascript.plainenglish.io/build-an-e-commerce-website-with-mern-stack-part-1-setting-up-the-project-eecd710e2696) [## 让我们建立一个 MERN 堆栈电子商务网络应用程序
-
-### 第 1 部分:设置项目
-
-javascript.plainenglish.io](https://javascript.plainenglish.io/build-an-e-commerce-website-with-mern-stack-part-1-setting-up-the-project-eecd710e2696)
+[](/build-a-social-media-website-using-django-setup-the-project-part-1-6e1932c9f221)  [](https://javascript.plainenglish.io/build-an-e-commerce-website-with-mern-stack-part-1-setting-up-the-project-eecd710e2696) 

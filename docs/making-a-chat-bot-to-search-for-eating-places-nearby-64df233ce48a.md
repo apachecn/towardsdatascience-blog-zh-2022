@@ -106,11 +106,7 @@ Rasa 入门(图片由作者提供)
 
 要使用任何一个 FOURSQUARE APIs，首先我们需要在 [FOURSQUARE](https://foursquare.com/developers/signup) 上创建一个开发者账户。然后我们创建一个[新项目](https://foursquare.com/developers/projects)并生成一个新的 API 密匙。我们可以在 FOURSQUARE 网站上找到这个过程。
 
- [## 开始
-
-### Foursquare Places API 的新功能？别担心，我们会掩护你的。只需几个简单的步骤，您就可以开始…
-
-developer.foursquare.com](https://developer.foursquare.com/docs/places-api-getting-started) 
+  
 
 我们需要对 API 密钥保密，所以通常的做法是将其作为环境变量来检索。为此，我们创建一个名为'的文件。env '(是的，。env 是项目根目录中的文件名，而不仅仅是扩展名。的内容。env 文件将类似于如下所示。
 
@@ -126,11 +122,7 @@ from dotenv import dotenv_valuesAPI_KEY = dotenv_values()["API_KEY"]
 
 FOURSQUARE 有许多 API，但我们将只在项目中使用 Places API 的搜索端点。我们可以在下面给出的页面中试用 API。
 
- [## 地点搜索
-
-### 让 https://api.foursquare.com/v3/places/search 搜索的地方在 FSQ 的地方数据库使用位置和…
-
-developer.foursquare.com](https://developer.foursquare.com/reference/place-search) 
+  
 
 FOURSQUARE 支持许多不同类别的名胜古迹。在我们的例子中，我们希望将搜索范围限制在餐馆和咖啡馆。为此，我们需要在 categories 参数中传递相关的类别 ID。类别 id 及其相应类别名称的完整列表在[这里](https://developer.foursquare.com/docs/categories)给出。
 
@@ -218,11 +210,7 @@ action_endpoint: url: "http://localhost:5055/webhook"
 
 *   地址验证:我们将用户的位置提取为一个地名列表，如['纽约'，'美国']。然后我们使用。join()字符串运算符来生成完整的地址字符串。然后，我们使用 geopy Nominatim 对地址进行地理编码，即将地址映射到一个准确的位置。如果地址无效，则不返回任何结果。如果返回一个结果，我们还存储纬度和经度值，以便传递给 API 调用。
 
-[](/things-to-do-with-latitude-longitude-data-using-geopy-python-1d356ed1ae30) [## Geopy 简介:在 Python 中使用纬度和经度数据
-
-### 获取地址、邮政编码、距离等等…
-
-towardsdatascience.com](/things-to-do-with-latitude-longitude-data-using-geopy-python-1d356ed1ae30) 
+[](/things-to-do-with-latitude-longitude-data-using-geopy-python-1d356ed1ae30)  
 
 *   半径验证:半径应该是一个数字或一个可以转换成数字的单词，如“六”。我们使用 word2number Python 库来检查这种情况。
 *   发出 API 调用:我们使用 Python 请求库发出 get 请求。用于授权的 API 密钥在头中传递，而参数作为 url 的一部分传递。该调用返回一个 json 对象，我们解析该对象以获得所需的值。
@@ -251,11 +239,7 @@ rules.yml 文件描述了应该总是以相同方式进行的简短对话。“�
 
 这是可行的，但是我们可以通过使用下面显示的聊天机器人 UI 来获得一个更好的界面。
 
-[](https://elysian01.github.io/Rasa-Chatbot-UI/) [## 聊天机器人 UI
-
-### 正在为您的 rasa 聊天机器人寻找具有迷人色彩和响应功能的用户界面设计吗？不要再看了！探索…
-
-elysian01.github.io](https://elysian01.github.io/Rasa-Chatbot-UI/) 
+[](https://elysian01.github.io/Rasa-Chatbot-UI/)  
 
 首先，我们下载文件，提取其内容，然后在 web 浏览器中打开 index.html 文件。关于如何修改聊天机器人设计的说明可以在[网站](https://elysian01.github.io/Rasa-Chatbot-UI/)上找到。
 
@@ -288,16 +272,4 @@ rasa run --enable-api --cors='*'
 
 目前就这些。感谢您的阅读。
 
-[](https://rasa.com/) [## 开源对话式人工智能
-
-### 网上研讨会系列观看重播⟶报告获取报告⟶研讨会参加研讨会⟶分析报告 Gartner 已…
-
-rasa.com](https://rasa.com/) [](https://developer.foursquare.com/) [## 开发者
-
-### 从超过 100，000 个可信来源获得全球 POI 数据和丰富的内容，并由数百万消费者推动…
-
-developer.foursquare.com](https://developer.foursquare.com/) [](https://github.com/AhmedFahim-git/simple_chatbot) [## GitHub-AhmedFahim-git/simple _ chatbot:这是为了练习 chatbot 部署
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/AhmedFahim-git/simple_chatbot)
+[](https://rasa.com/)  [](https://developer.foursquare.com/)  [](https://github.com/AhmedFahim-git/simple_chatbot) 

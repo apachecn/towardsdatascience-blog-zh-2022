@@ -47,11 +47,7 @@
 
 理解什么是随机漫步以及它们如何工作对于理解 node2vec 如何工作是至关重要的。我将提供一个高层次的概述，但是如果你想更直观地理解和实现 python 中的随机漫步，你可以阅读我以前写的关于这个主题的文章。
 
-[](/random-walks-with-restart-explained-77c3fe216bca) [## 带重启的随机漫步解释
-
-### 理解带重启的随机游走算法及其在 Python 中的相关实现
-
-towardsdatascience.com](/random-walks-with-restart-explained-77c3fe216bca) 
+[](/random-walks-with-restart-explained-77c3fe216bca)  
 
 作为一个高层次的概述，随机漫步的最简单的比较就是漫步。想象你走的每一步都是由概率决定的。这意味着在每一个时间指数上，你已经基于一个概率结果朝着一个确定的方向前进。该算法探索了您将要采取的每一步的关系以及它与初始起点的距离。
 
@@ -79,11 +75,7 @@ towardsdatascience.com](/random-walks-with-restart-explained-77c3fe216bca)
 
 为了理解 node2vec 中正在做的事情，有必要对 word2vec 有一个大致的了解。不久前，我写了一篇文章解释 word2vec 论文的直觉和实现。你可以在这里查看。
 
-[](/word2vec-explained-49c52b4ccb71) [## Word2Vec 解释道
-
-### 解释 Word2Vec 的直观性&用 Python 实现它
-
-towardsdatascience.com](/word2vec-explained-49c52b4ccb71) 
+[](/word2vec-explained-49c52b4ccb71)  
 
 出于本文的考虑，我将提供跳格模型的高级概述。
 
@@ -191,11 +183,7 @@ Node2Vec.fit 方法接受任何可被`gensim.Word2Vec`接受的关键字参数�
 
 如果您想了解如何在链接预测和推荐引擎的上下文中使用 Node2Vec，可以在这里参考我的文章:
 
-[](https://vatsal12-p.medium.com/link-prediction-recommendation-engines-with-node2vec-c97c429351a8) [## 使用 Node2Vec 的链接预测推荐引擎
-
-### 使用节点嵌入进行链路预测
-
-vatsal12-p.medium.com](https://vatsal12-p.medium.com/link-prediction-recommendation-engines-with-node2vec-c97c429351a8) 
+[](https://vatsal12-p.medium.com/link-prediction-recommendation-engines-with-node2vec-c97c429351a8)  
 
 # **资源**
 
@@ -206,30 +194,6 @@ vatsal12-p.medium.com](https://vatsal12-p.medium.com/link-prediction-recommendat
 
 我写的一些其他文章，你可能会喜欢读。
 
-[](https://pub.towardsai.net/dynamic-time-warping-explained-fbb24c1e079b) [## 动态时间扭曲解释
+[](https://pub.towardsai.net/dynamic-time-warping-explained-fbb24c1e079b)  [](https://vatsal12-p.medium.com/salary-analysis-comparison-of-the-us-canadian-markets-b6813839ca55)  [](/word2vec-explained-49c52b4ccb71)  [](/recommendation-systems-explained-a42fc60591ed)  [](/k-nearest-neighbours-explained-7c49853633b6)  [](/bayesian-a-b-testing-explained-344a6df88c1a) [## 贝叶斯 A/B 测试解释
 
-### 动态时间扭曲背后的直觉&股票数据的 Python 实现
-
-pub.towardsai.net](https://pub.towardsai.net/dynamic-time-warping-explained-fbb24c1e079b) [](https://vatsal12-p.medium.com/salary-analysis-comparison-of-the-us-canadian-markets-b6813839ca55) [## 美国和加拿大市场的薪资分析和比较
-
-### 分析匿名提交的美国和加拿大经济的工资和人口统计数据
-
-vatsal12-p.medium.com](https://vatsal12-p.medium.com/salary-analysis-comparison-of-the-us-canadian-markets-b6813839ca55) [](/word2vec-explained-49c52b4ccb71) [## Word2Vec 解释道
-
-### 解释 Word2Vec 的直观性&用 Python 实现它
-
-towardsdatascience.com](/word2vec-explained-49c52b4ccb71) [](/recommendation-systems-explained-a42fc60591ed) [## 推荐系统解释
-
-### 用 Python 解释和实现基于内容的协同过滤和混合推荐系统
-
-towardsdatascience.com](/recommendation-systems-explained-a42fc60591ed) [](/k-nearest-neighbours-explained-7c49853633b6) [## k 最近的邻居解释说
-
-### 在这篇文章中，我将给出一个概述，实现，缺点和相关的 K 最近…
-
-towardsdatascience.com](/k-nearest-neighbours-explained-7c49853633b6) [](/bayesian-a-b-testing-explained-344a6df88c1a) [## 贝叶斯 A/B 测试解释
-
-towardsdatascience.com](/bayesian-a-b-testing-explained-344a6df88c1a) [](/mining-modelling-character-networks-part-i-e37e4878c467) [## 挖掘和模拟字符网络——第一部分
-
-### 图论研究论文讨论
-
-towardsdatascience.com](/mining-modelling-character-networks-part-i-e37e4878c467)
+towardsdatascience.com](/bayesian-a-b-testing-explained-344a6df88c1a) [](/mining-modelling-character-networks-part-i-e37e4878c467) 

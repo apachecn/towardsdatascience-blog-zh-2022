@@ -16,19 +16,11 @@
 
 为了让您不会有同样的感觉并做艰苦的工作，我将分享以编程方式管理 S3 存储桶的所有技术细节，从创建帐户到向本地机器添加访问 AWS 资源的权限。
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-BEXGBoost
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。支持我的工作，给我买一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+[](https://ibexorigin.medium.com/membership)  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex) [## 阿尔法信号|机器学习的极品。艾总结的。
-
-### 留在循环中，不用花无数时间浏览下一个突破；我们的算法识别…
-
-alphasignal.ai](https://alphasignal.ai/?referrer=Bex) 
+[](https://alphasignal.ai/?referrer=Bex)  
 
 ## 步骤 1:设置帐户
 
@@ -186,48 +178,12 @@ alphasignal.ai](https://alphasignal.ai/?referrer=Bex)
 
 **您可以使用下面的链接成为高级媒体会员，并访问我的所有故事和数以千计的其他故事:**
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium。
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+[](https://ibexorigin.medium.com/membership)  
 
 **或者直接订阅我的邮件列表:**
 
-[](https://ibexorigin.medium.com/subscribe) [## 每当 Bex T .发布时收到电子邮件。
-
-### 每当 Bex T .发布时收到电子邮件。注册后，如果您还没有中型帐户，您将创建一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/subscribe) 
+[](https://ibexorigin.medium.com/subscribe)  
 
 ## 你可以通过 LinkedIn 或 T2 Twitter 与我进行友好的交流。或者你可以读我的另一个故事。这些怎么样:
 
-[](/8-booming-data-science-libraries-you-must-watch-out-in-2022-cec2dbb42437) [## 2022 年你必须小心的 8 个蓬勃发展的数据科学图书馆
-
-### 编辑描述
-
-towardsdatascience.com](/8-booming-data-science-libraries-you-must-watch-out-in-2022-cec2dbb42437) [](/how-to-get-started-on-kaggle-in-2022-even-if-you-are-terrified-8e073853ac46) [## 如何在 2022 年开始使用 Kaggle(即使你很害怕)
-
-### 编辑描述
-
-towardsdatascience.com](/how-to-get-started-on-kaggle-in-2022-even-if-you-are-terrified-8e073853ac46) [](/7-cool-python-packages-kagglers-are-using-without-telling-you-e83298781cf4) [## Kagglers 正在使用的 7 个很酷的 Python 包
-
-### 编辑描述
-
-towardsdatascience.com](/7-cool-python-packages-kagglers-are-using-without-telling-you-e83298781cf4) [](/22-2-built-in-python-libraries-you-didnt-know-existed-p-guarantee-8-275685dbdb99) [## 22–2 个您不知道存在的内置 Python 库| P(保证)= .8
-
-### 编辑描述
-
-towardsdatascience.com](/22-2-built-in-python-libraries-you-didnt-know-existed-p-guarantee-8-275685dbdb99) [](/good-bye-pandas-meet-terality-its-evil-twin-with-identical-syntax-455b42f33a6d) [## 再见熊猫！遇见 Terality——它邪恶的孪生兄弟有着相同的语法
-
-### 编辑描述
-
-towardsdatascience.com](/good-bye-pandas-meet-terality-its-evil-twin-with-identical-syntax-455b42f33a6d) [](/6-pandas-mistakes-that-silently-tell-you-are-a-rookie-b566a252e60d) [## 6 个熊猫的错误，无声地告诉你是一个菜鸟
-
-### 编辑描述
-
-towardsdatascience.com](/6-pandas-mistakes-that-silently-tell-you-are-a-rookie-b566a252e60d) [](/8-booming-data-science-libraries-you-must-watch-out-in-2022-cec2dbb42437) [## 2022 年你必须小心的 8 个蓬勃发展的数据科学图书馆
-
-### 编辑描述
-
-towardsdatascience.com](/8-booming-data-science-libraries-you-must-watch-out-in-2022-cec2dbb42437)
+[](/8-booming-data-science-libraries-you-must-watch-out-in-2022-cec2dbb42437)  [](/how-to-get-started-on-kaggle-in-2022-even-if-you-are-terrified-8e073853ac46)  [](/7-cool-python-packages-kagglers-are-using-without-telling-you-e83298781cf4)  [](/22-2-built-in-python-libraries-you-didnt-know-existed-p-guarantee-8-275685dbdb99)  [](/good-bye-pandas-meet-terality-its-evil-twin-with-identical-syntax-455b42f33a6d)  [](/6-pandas-mistakes-that-silently-tell-you-are-a-rookie-b566a252e60d)  [](/8-booming-data-science-libraries-you-must-watch-out-in-2022-cec2dbb42437) 

@@ -248,10 +248,6 @@ git push --force-with-lease
 
 无需额外费用，您可以通过我的推荐链接订阅 Medium。
 
-[](https://medium.com/@arli94/membership) [## 通过我的推荐链接加入 Medium—Arli
-
-### 阅读 Arli 和媒体上成千上万的其他作家的每一个故事。你的会员费直接支持 Arli 和…
-
-medium.com](https://medium.com/@arli94/membership) 
+[](https://medium.com/@arli94/membership)  
 
 或者你可以在收件箱里收到我所有的帖子。*[***做到这里*** *！*](https://arli94.medium.com/subscribe)*

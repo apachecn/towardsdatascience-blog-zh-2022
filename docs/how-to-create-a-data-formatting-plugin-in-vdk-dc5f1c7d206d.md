@@ -265,20 +265,4 @@ pytest
 
 # 相关文章
 
-[](/handling-missing-values-in-versatile-data-kit-bb4f2a907b9c) [## 处理通用数据工具包中的缺失值
-
-### 关于如何使用 VDK 处理缺失值来构建数据管道的教程
-
-towardsdatascience.com](/handling-missing-values-in-versatile-data-kit-bb4f2a907b9c) [](/how-to-build-a-web-app-with-data-ingested-through-versatile-data-kit-ddae43b5f62d) [## 如何使用通过多功能数据工具包获取的数据构建 Web 应用程序
-
-### 关于如何构建 Web 应用程序的分步教程，结合了 Streamlit Python 库和通用数据…
-
-towardsdatascience.com](/how-to-build-a-web-app-with-data-ingested-through-versatile-data-kit-ddae43b5f62d) [](/using-versatile-data-kit-to-ingest-and-process-data-from-rest-api-6e3e0660b791) [## 使用通用数据工具包从 REST API 获取和处理数据
-
-### 关于如何使用通用数据工具包(VDK)从 REST API 获取数据的教程，以及一些关于如何安装…
-
-towardsdatascience.com](/using-versatile-data-kit-to-ingest-and-process-data-from-rest-api-6e3e0660b791) [](/from-raw-data-to-a-cleaned-database-a-deep-dive-into-versatile-data-kit-ab5fd992a02e) [## 从原始数据到干净的数据库:对多功能数据工具包的深入研究
-
-### 使用通用数据工具包(VMware 最近发布的一个框架)和 Trino DB 的完整示例
-
-towardsdatascience.com](/from-raw-data-to-a-cleaned-database-a-deep-dive-into-versatile-data-kit-ab5fd992a02e)
+[](/handling-missing-values-in-versatile-data-kit-bb4f2a907b9c)  [](/how-to-build-a-web-app-with-data-ingested-through-versatile-data-kit-ddae43b5f62d)  [](/using-versatile-data-kit-to-ingest-and-process-data-from-rest-api-6e3e0660b791)  [](/from-raw-data-to-a-cleaned-database-a-deep-dive-into-versatile-data-kit-ab5fd992a02e) 

@@ -102,11 +102,7 @@ bboxes_list = [**class**, **X**(top-left), **Y**(top-left), **X**(bottom-right),
 
 完整代码可从以下网址获得:
 
-[](https://github.com/prateekchhikara/non-max-suppression) [## GitHub-prateekchhikara/非最大抑制
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/prateekchhikara/non-max-suppression) 
+[](https://github.com/prateekchhikara/non-max-suppression)  
 
 # 结论
 

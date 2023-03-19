@@ -12,15 +12,7 @@
 
 *接下来的故事:*
 
-[](/python-concurrency-multiprocessing-327c02544a5a) [## Python 并发性——多重处理
-
-### Python 并发系列的第 2 部分。多重处理模块使我们能够执行真正的并行任务。然而…
-
-towardsdatascience.com](/python-concurrency-multiprocessing-327c02544a5a) [](/python-concurrency-concurrent-futures-15b56dc9a14d) [## Python 并发性——concurrent . futures
-
-### Python 并发系列的第 3 部分。多线程和多处理带来的界面简单性。
-
-towardsdatascience.com](/python-concurrency-concurrent-futures-15b56dc9a14d) 
+[](/python-concurrency-multiprocessing-327c02544a5a)  [](/python-concurrency-concurrent-futures-15b56dc9a14d)  
 
 有些人喜欢线程，但更多人讨厌线程。然而，在许多情况下，这种厌恶可能源于关于 Python 中线程工作方式的错误信息。是的，编写多线程应用程序可能很难看，我们必须非常小心以避免常见的陷阱。然而，在大多数情况下，**多线程是在 Python** 中实现并发的最简单的方式。
 
@@ -204,8 +196,4 @@ Echo 客户端接收时间[图片由作者提供]。
 
 *喜欢这个故事吗？通过我下面的推荐链接成为一个媒体成员来支持我的写作。无限制地访问我的故事和许多其他内容。*
 
-[](https://medium.com/@diego-barba/membership) [## 通过我的推荐链接加入 Medium-Diego Barba
-
-### 阅读迭戈·巴尔巴(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-medium.com](https://medium.com/@diego-barba/membership)
+[](https://medium.com/@diego-barba/membership) 

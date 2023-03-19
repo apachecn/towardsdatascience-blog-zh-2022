@@ -166,32 +166,4 @@
 
 ## **更多阅读**
 
-**[](/multiclass-classification-algorithm-from-scratch-with-a-project-in-python-step-by-step-guide-485a83c79992) [## 使用 Python 从零开始的多类分类算法:分步指南
-
-### 本文介绍两种方法:梯度下降法和优化函数法
-
-towardsdatascience.com](/multiclass-classification-algorithm-from-scratch-with-a-project-in-python-step-by-step-guide-485a83c79992) [](/details-of-violinplot-and-relplot-in-seaborn-30c63de23a15) [## Seaborn 的 Violinplot 和 Relplot 的细节
-
-### 充分发挥潜力在 Seaborn 使用小提琴和 Relplots
-
-towardsdatascience.com](/details-of-violinplot-and-relplot-in-seaborn-30c63de23a15) [](/a-complete-k-mean-clustering-algorithm-from-scratch-in-python-step-by-step-guide-1eb05cdcd461) [## Python 中从头开始的完整 K 均值聚类算法:分步指南
-
-### 还有，如何使用 K 均值聚类算法对图像进行降维
-
-towardsdatascience.com](/a-complete-k-mean-clustering-algorithm-from-scratch-in-python-step-by-step-guide-1eb05cdcd461) [](/stochastic-gradient-descent-explanation-and-complete-implementation-from-scratch-a2c6a02f28bd) [## 随机梯度下降:从头开始的解释和完整实现
-
-### 使用单个感知器
-
-towardsdatascience.com](/stochastic-gradient-descent-explanation-and-complete-implementation-from-scratch-a2c6a02f28bd) [](/a-complete-anomaly-detection-algorithm-from-scratch-in-python-step-by-step-guide-4c115e65d54e) [## Python 中从头开始的完整异常检测算法:分步指南
-
-### 基于概率的异常检测算法
-
-towardsdatascience.com](/a-complete-anomaly-detection-algorithm-from-scratch-in-python-step-by-step-guide-4c115e65d54e) [](https://pub.towardsai.net/dissecting-1-way-anova-and-ancova-with-examples-in-r-a3a7da83d742) [## 用 R 中的例子剖析单向方差分析和协方差分析
-
-### 通过分析方差得出的均值差异
-
-pub.towardsai.net](https://pub.towardsai.net/dissecting-1-way-anova-and-ancova-with-examples-in-r-a3a7da83d742) [](/a-complete-sentiment-analysis-algorithm-in-python-with-amazon-product-review-data-step-by-step-2680d2e2c23b) [## 一个完整的带有亚马逊产品评论数据的 Python 情感分析算法:一步一步
-
-### 使用 Python 的 Scikit_learn 库的 NLP 项目
-
-towardsdatascience.com](/a-complete-sentiment-analysis-algorithm-in-python-with-amazon-product-review-data-step-by-step-2680d2e2c23b)**
+**[](/multiclass-classification-algorithm-from-scratch-with-a-project-in-python-step-by-step-guide-485a83c79992)  [](/details-of-violinplot-and-relplot-in-seaborn-30c63de23a15)  [](/a-complete-k-mean-clustering-algorithm-from-scratch-in-python-step-by-step-guide-1eb05cdcd461)  [](/stochastic-gradient-descent-explanation-and-complete-implementation-from-scratch-a2c6a02f28bd)  [](/a-complete-anomaly-detection-algorithm-from-scratch-in-python-step-by-step-guide-4c115e65d54e)  [](https://pub.towardsai.net/dissecting-1-way-anova-and-ancova-with-examples-in-r-a3a7da83d742)  [](/a-complete-sentiment-analysis-algorithm-in-python-with-amazon-product-review-data-step-by-step-2680d2e2c23b) **

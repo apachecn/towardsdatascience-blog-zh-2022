@@ -36,11 +36,7 @@
 
 让我们回顾一下我早期的一个项目，并带着 FastAPI 和那个用例做一个简短的介绍。
 
-[](/semantic-highlighting-d2fba3da2822) [## 语义突出显示
-
-### 为 NLP 构建和添加用户界面
-
-towardsdatascience.com](/semantic-highlighting-d2fba3da2822) 
+[](/semantic-highlighting-d2fba3da2822)  
 
 语义突出是我当前项目的一部分，利用 NLP 服务帮助人们处理他们的[简历和求职](https://medium.com/p/90e6aed661a3)。用于 spin 的 [Github 库](https://github.com/CognitiveDave/semantic)包含了这两种方法。原始的[烧瓶](https://github.com/CognitiveDave/semantic/blob/master/backend.py)方法和新的 [FastAPI](https://github.com/CognitiveDave/semantic/blob/master/main.py) 工艺。
 
@@ -103,15 +99,7 @@ Swagger UI 界面来自/docs —图片由作者提供。
 *   异步ˌ非同步(asynchronous)
 *   等待
 
-[](https://medium.com/technofunnel/javascript-async-await-c83b15950a71) [## 关于 JavaScript 中的 Async Await，您只需要知道
-
-### 如何使用异步 Await 关键字
-
-medium.com](https://medium.com/technofunnel/javascript-async-await-c83b15950a71) [](https://ai.plainenglish.io/django-async-vs-fastapi-vs-wsgi-django-choice-of-ml-dl-inference-servers-answering-some-burning-e6a354bf272a) [## Django Async vs FastAPI vs WSGI Django:ML/DL 推理服务器的选择——回答一些燃…
-
-### 是时候从 Django 转换到 FastAPI 了吗？提前阅读，自己决定。
-
-ai .平原英语. io](https://ai.plainenglish.io/django-async-vs-fastapi-vs-wsgi-django-choice-of-ml-dl-inference-servers-answering-some-burning-e6a354bf272a) 
+[](https://medium.com/technofunnel/javascript-async-await-c83b15950a71)  [](https://ai.plainenglish.io/django-async-vs-fastapi-vs-wsgi-django-choice-of-ml-dl-inference-servers-answering-some-burning-e6a354bf272a)  
 
 在我的上下文中，我正在设计一个处理文本文档的应用程序，包括对 NLP 例程的调用，并且需要为我的用户保持快速的响应时间。长时间运行的文本处理程序会挂起前端，并很快疏远我的用户。所以现在，有了 FastAPI，我可以利用 JavaScript 的 Express 服务器的优势和 Python 库的机器学习优势，而不会对我的最终用户造成重大影响。
 
@@ -121,8 +109,4 @@ ai .平原英语. io](https://ai.plainenglish.io/django-async-vs-fastapi-vs-wsgi
 
 照片由[雅各布·欧文斯](https://unsplash.com/@jakobowens1?utm_source=medium&utm_medium=referral)在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
-[](https://cognitivedave.medium.com/membership) [## 通过我的推荐链接-大卫·摩尔加入媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-cognitivedave.medium.com](https://cognitivedave.medium.com/membership)
+[](https://cognitivedave.medium.com/membership) 

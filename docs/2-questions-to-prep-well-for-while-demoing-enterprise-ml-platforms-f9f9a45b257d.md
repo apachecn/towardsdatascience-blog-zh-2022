@@ -71,8 +71,4 @@ Pawel Czerwinski 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_mediu
 
 **访问我的免费数据科学资源清单** [**这里**](https://landing.mailerlite.com/webforms/landing/k1n3r2) **。**
 
-[](https://edo-romani1.medium.com/membership) [## 通过我的推荐链接加入 Medium-Edoardo Romani
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-edo-romani1.medium.com](https://edo-romani1.medium.com/membership)
+[](https://edo-romani1.medium.com/membership) 

@@ -209,16 +209,4 @@ NoisyNet 是一种简单的方法，其中网络的权重用于驱动探索。�
 
 ## 有关系的
 
-[](/solving-multi-armed-bandit-problems-53c73940244a) [## 解决多臂强盗问题
-
-### 一种强大而简单的应用强化学习的方法。
-
-towardsdatascience.com](/solving-multi-armed-bandit-problems-53c73940244a) [](/why-you-should-add-reinforcement-learning-to-your-data-science-toolbox-f6d4728afe66) [## 为什么应该将强化学习添加到您的数据科学工具箱中
-
-### 以及从哪里开始学习。
-
-towardsdatascience.com](/why-you-should-add-reinforcement-learning-to-your-data-science-toolbox-f6d4728afe66) [](/snake-played-by-a-deep-reinforcement-learning-agent-53f2c4331d36) [## 深度强化学习代理扮演的 Snake
-
-### 犯了大错
-
-towardsdatascience.com](/snake-played-by-a-deep-reinforcement-learning-agent-53f2c4331d36)
+[](/solving-multi-armed-bandit-problems-53c73940244a)  [](/why-you-should-add-reinforcement-learning-to-your-data-science-toolbox-f6d4728afe66)  [](/snake-played-by-a-deep-reinforcement-learning-agent-53f2c4331d36) 

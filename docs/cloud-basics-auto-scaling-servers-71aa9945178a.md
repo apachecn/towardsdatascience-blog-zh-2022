@@ -33,11 +33,7 @@ Jorge Ramirez 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=r
 1.  AWS 设置
 2.  GitHub 帐户设置和安装
 
-[](/cloud-basics-interacting-with-aws-da179d3f5829) [## 云基础知识:与 AWS 交互
-
-### 关于使用各种接口创建云资源的教程
-
-towardsdatascience.com](/cloud-basics-interacting-with-aws-da179d3f5829) 
+[](/cloud-basics-interacting-with-aws-da179d3f5829)  
 
 ## 1.启动自动扩展堆栈
 

@@ -32,24 +32,8 @@
 
 如果你喜欢你所读的内容，以及如何跟上我和其他了不起的作者的文章，请随时使用我下面的推荐代码注册 medium
 
-[](https://philip-wilkinson.medium.com/membership) [## 通过我的推荐链接加入媒体-菲利普·威尔金森
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-philip-wilkinson.medium.com](https://philip-wilkinson.medium.com/membership) 
+[](https://philip-wilkinson.medium.com/membership)  
 
 或者查看我的其他文章:
 
-[](/git-and-github-basics-for-data-scientists-b9fd96f8a02a) [## 面向数据科学家的 Git 和 GitHub 基础知识
-
-### UCL 数据科学研讨会 8:什么是 Git，创建本地存储库，提交第一批文件，链接到远程…
-
-towardsdatascience.com](/git-and-github-basics-for-data-scientists-b9fd96f8a02a) [](/multi-variate-outlier-detection-in-python-e900a338da10) [## Python 中的多变量异常检测
-
-### 能够检测数据集中异常值/异常值的六种方法
-
-towardsdatascience.com](/multi-variate-outlier-detection-in-python-e900a338da10) [](/london-convenience-store-classification-using-k-means-clustering-70c82899c61f) [## 使用 K-均值聚类的伦敦便利店分类
-
-### 伦敦的便利店怎么分类？
-
-towardsdatascience.com](/london-convenience-store-classification-using-k-means-clustering-70c82899c61f)
+[](/git-and-github-basics-for-data-scientists-b9fd96f8a02a)  [](/multi-variate-outlier-detection-in-python-e900a338da10)  [](/london-convenience-store-classification-using-k-means-clustering-70c82899c61f) 

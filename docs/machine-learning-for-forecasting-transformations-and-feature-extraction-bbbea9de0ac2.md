@@ -116,11 +116,7 @@
 
 ## 你可能想读的以前的故事
 
-[](/12-things-you-should-know-about-time-series-975a185f4eb2) [## 关于时间序列你应该知道的 12 件事
-
-### 时间序列建模时需要考虑的一组重要属性或组成部分。
-
-towardsdatascience.com](/12-things-you-should-know-about-time-series-975a185f4eb2) 
+[](/12-things-you-should-know-about-time-series-975a185f4eb2)  
 
 ## 参考
 

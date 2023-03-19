@@ -65,16 +65,4 @@ ExtraTrees 可用于构建分类模型或回归模型，可通过 Scikit-learn �
 
 # 参考
 
- [## 基于树的建模的优势
-
-### 基于树的建模是线性回归分析的一个很好的替代方法。但是是什么让它如此有利…
-
-www.summitllc.us](https://www.summitllc.us/blog/advantages-of-tree-based-modeling#:~:text=Are%20easy%20to%20represent%20visually,because%20variable%20transformations%20are%20unnecessary) [](https://machinelearningmastery.com/extra-trees-ensemble-with-python/) [## 如何用 Python 开发额外的树集合——机器学习掌握
-
-### Extra Trees 是一种集成机器学习算法，它结合了来自许多决策树的预测。这是…
-
-machinelearningmastery.com](https://machinelearningmastery.com/extra-trees-ensemble-with-python/) [](https://stats.stackexchange.com/questions/175523/difference-between-random-forest-and-extremely-randomized-trees) [## 随机森林和极度随机树的区别
-
-### begin group $ extractreesclassifier 类似于 RandomForest 的兄弟，但有两个重要的区别。我们正在建立…
-
-stats.stackexchange.com](https://stats.stackexchange.com/questions/175523/difference-between-random-forest-and-extremely-randomized-trees)
+  [](https://machinelearningmastery.com/extra-trees-ensemble-with-python/)  [](https://stats.stackexchange.com/questions/175523/difference-between-random-forest-and-extremely-randomized-trees) 

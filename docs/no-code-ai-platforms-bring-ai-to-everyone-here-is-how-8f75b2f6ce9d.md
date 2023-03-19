@@ -22,11 +22,7 @@
 
 **❤ **我为什么喜欢无代码人工智能技术？**无代码人工智能平台为领域专家创造了测试他们的想法并与人工智能专家更好地交流的机会。**💪****
 
-**[](/build-an-ml-product-4-mistakes-to-avoid-bce30d98bd24) [## 构建一个 ML 产品——要避免的 4 个错误
-
-### 这是我多年来学到的一个全面的教训。
-
-towardsdatascience.com](/build-an-ml-product-4-mistakes-to-avoid-bce30d98bd24) 
+**[](/build-an-ml-product-4-mistakes-to-avoid-bce30d98bd24)  
 
 ## 问题 2——我们没有像我们一样多的人工智能专家！
 
@@ -42,11 +38,7 @@ towardsdatascience.com](/build-an-ml-product-4-mistakes-to-avoid-bce30d98bd24)
 
 > 我们可以根据目标数据的类型对无代码 AI 平台进行分类:表格、文本和视觉。
 
-[](/how-to-create-a-perfect-data-strategy-7e8fd9bbfad0) [## 如何创建完美的数据策略
-
-### 通过实施创建数据策略的最佳实践
-
-towardsdatascience.com](/how-to-create-a-perfect-data-strategy-7e8fd9bbfad0) 
+[](/how-to-create-a-perfect-data-strategy-7e8fd9bbfad0)  
 
 ## —接口
 
@@ -68,8 +60,4 @@ towardsdatascience.com](/how-to-create-a-perfect-data-strategy-7e8fd9bbfad0)
 *   *连接上*[*Linkedin*](https://www.linkedin.com/in/pedrama/)*！*
 *   *跟我上* [*推特*](https://twitter.com/pedram_ataee) *！*
 
-[](https://pedram-ataee.medium.com/membership) [## 通过我的推荐链接加入 Medium—Pedram Ataee 博士
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-pedram-ataee.medium.com](https://pedram-ataee.medium.com/membership)**
+[](https://pedram-ataee.medium.com/membership) **

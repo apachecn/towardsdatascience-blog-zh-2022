@@ -16,11 +16,7 @@
 
 有大量关于 Spark 的文章([勒米厄的这个](/production-data-processing-with-apache-spark-96a58dfd3fe7)是一个很好的切入点)，但很少有关于它在生物信息学中的部署。雪上加霜的是，许多文章都是“快速入门”，没有为实际的大规模项目提供足够的细节。由于生物信息学中对大数据分析的需求如此之大，而文献又如此匮乏，我们迫切需要用新鲜的教程来填补这一空白。在本文中，我将向您展示如何使用 Spark 来处理 AWS EMR 上的 SAM 校准文件。因为在实践中，很少有人拥有昂贵的内部基础设施来扩展 Spark，他们很可能会转向云。最后，我将向你展示如何用一个 Sankey 图表来可视化结果。您可以在这里找到我的 Github 资源库中的所有代码。测试数据`test.sam`是从 *E* 中随机生成的 SAM 文件。*大肠杆菌*基因组。
 
-[](https://github.com/dgg32/pyspark_sam/tree/master) [## GitHub - dgg32/pyspark_sam
-
-### 这个 repo 托管了我的文章“在 AWS EMR 中用 PySpark 分析大序列比对”的代码。火花跟随…
-
-github.com](https://github.com/dgg32/pyspark_sam/tree/master) 
+[](https://github.com/dgg32/pyspark_sam/tree/master)  
 
 # 1.SAM 文件和四核苷酸频率
 
@@ -82,8 +78,4 @@ AWS EMR 的成本适中。我的设置包含一个主节点和两个核心节点
 
 所以请在你的项目中多使用一些火花，说说你的经历吧！
 
-[](https://dgg32.medium.com/membership) [## 加入媒介与我的介绍链接-黄思兴
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-dgg32.medium.com](https://dgg32.medium.com/membership)
+[](https://dgg32.medium.com/membership) 

@@ -58,11 +58,7 @@ Amir 等人在他们的项目页面上为有兴趣的个人发布了现成的 Go
 
 该代码的链接可在此处找到:
 
-[](https://github.com/ShirAmir/dino-vit-features) [## GitHub-shira mir/dino-vit-Features:论文“深度 ViT 特性作为…
-
-### 论文《深度 ViT 特征作为密集视觉描述符》正式实施。我们证明了有效性…
-
-github.com](https://github.com/ShirAmir/dino-vit-features) 
+[](https://github.com/ShirAmir/dino-vit-features)  
 
 # 结束注释
 

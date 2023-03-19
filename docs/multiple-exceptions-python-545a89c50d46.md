@@ -88,11 +88,7 @@ except* (KeyError, AttributeError) as e:
 
 此外，要更全面地阅读 Python 3.11 中的新增内容和更新，包括我们之前讨论的内容，您可以参考我最近在下面分享的一篇文章。
 
-[](/python-3-11-f62708eed569) [## Python 3.11 有什么值得期待的
-
-### 探索 Python 3.11 中的新增内容和更新，以及如何尽早获得 3.11 Alpha 版本
-
-towardsdatascience.com](/python-3-11-f62708eed569) 
+[](/python-3-11-f62708eed569)  
 
 ## 最后的想法
 
@@ -102,24 +98,8 @@ towardsdatascience.com](/python-3-11-f62708eed569)
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership) 
+[](https://gmyrianthous.medium.com/membership)  
 
 **相关文章你可能也喜欢**
 
-[](/switch-statements-python-e99ea364fde5) [## 如何用 Python 编写 Switch 语句
-
-### 了解如何使用模式匹配或字典在 Python 中编写 switch 语句
-
-towardsdatascience.com](/switch-statements-python-e99ea364fde5) [](/how-to-merge-pandas-dataframes-221e49c41bec) [## 如何合并熊猫数据帧
-
-### 对熊猫数据帧执行左、右、内和反连接
-
-towardsdatascience.com](/how-to-merge-pandas-dataframes-221e49c41bec) [](/requirements-vs-setuptools-python-ae3ee66e28af) [## Python 中的 requirements.txt 与 setup.py
-
-### 了解 Python 中 requirements.txt、setup.py 和 setup.cfg 在开发和分发时的用途…
-
-towardsdatascience.com](/requirements-vs-setuptools-python-ae3ee66e28af)
+[](/switch-statements-python-e99ea364fde5)  [](/how-to-merge-pandas-dataframes-221e49c41bec)  [](/requirements-vs-setuptools-python-ae3ee66e28af) 

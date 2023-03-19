@@ -89,24 +89,8 @@ AssemblyAI API 提供了一个[内容审核功能](https://docs.assemblyai.com/a
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership) 
+[](https://gmyrianthous.medium.com/membership)  
 
 **你可能也会喜欢**
 
-[](/speech-recognition-python-assemblyai-bb5024d322d8) [## 如何使用 Python 执行语音识别
-
-### 用 Python 中的 AssemblyAI API 执行语音转文本
-
-towardsdatascience.com](/speech-recognition-python-assemblyai-bb5024d322d8) [](/real-time-speech-recognition-python-assemblyai-13d35eeed226) [## 如何用 Python 执行实时语音识别
-
-### 使用 Python 中的 AssemblyAI API 执行实时语音转文本
-
-towardsdatascience.com](/real-time-speech-recognition-python-assemblyai-13d35eeed226) [](/sentiment-analysis-assemblyai-python-a4686967e0fc) [## 如何用 Python 对音频文件进行情感分析
-
-### 探索如何使用 AssemblyAI API 提取语音中的情感
-
-towardsdatascience.com](/sentiment-analysis-assemblyai-python-a4686967e0fc)
+[](/speech-recognition-python-assemblyai-bb5024d322d8)  [](/real-time-speech-recognition-python-assemblyai-13d35eeed226)  [](/sentiment-analysis-assemblyai-python-a4686967e0fc) 

@@ -177,11 +177,7 @@ K-means 是最流行的聚类算法。这是一种简单的聚类算法，适用
 
 在上一节中，我们看到初始聚类质心在 K-means 聚类算法中是随机分配的，这导致了随机的迭代和执行时间。因此，初始质心点的选择是算法中的一个关键问题。你可以阅读下面的文章，它代表了一种系统地选择初始质心的技术。
 
-[](/efficient-k-means-clustering-algorithm-with-optimum-iteration-and-execution-time-9358a794406c) [## 具有最优迭代和执行时间的高效 K-均值聚类算法
-
-### 高效 K-means 聚类算法的实现:研究成果
-
-towardsdatascience.com](/efficient-k-means-clustering-algorithm-with-optimum-iteration-and-execution-time-9358a794406c) 
+[](/efficient-k-means-clustering-algorithm-with-optimum-iteration-and-execution-time-9358a794406c)  
 
 该算法对复杂的分布式数据不太适用。
 
@@ -238,16 +234,4 @@ towardsdatascience.com](/efficient-k-means-clustering-algorithm-with-optimum-ite
 
 ****其他相关文章。你可以看看。****
 
-*[](/knn-algorithm-from-scratch-37febe0c15b3) [## KNN 算法从零开始
-
-### KNN 算法的实现和细节解释
-
-towardsdatascience.com](/knn-algorithm-from-scratch-37febe0c15b3) [](/efficient-k-means-clustering-algorithm-with-optimum-iteration-and-execution-time-9358a794406c) [## 具有最优迭代和执行时间的高效 K-均值聚类算法
-
-### 高效 K-均值聚类算法的实现:研究成果
-
-towardsdatascience.com](/efficient-k-means-clustering-algorithm-with-optimum-iteration-and-execution-time-9358a794406c) [](/road-map-from-naive-bayes-theorem-to-naive-bayes-classifier-6395fc6d5d2a) [## 从朴素贝叶斯定理到朴素贝叶斯分类器的路线图(Stat-09)
-
-### 朴素贝叶斯分类器的完整指南，从头开始实现
-
-towardsdatascience.com](/road-map-from-naive-bayes-theorem-to-naive-bayes-classifier-6395fc6d5d2a)*
+*[](/knn-algorithm-from-scratch-37febe0c15b3)  [](/efficient-k-means-clustering-algorithm-with-optimum-iteration-and-execution-time-9358a794406c)  [](/road-map-from-naive-bayes-theorem-to-naive-bayes-classifier-6395fc6d5d2a) *

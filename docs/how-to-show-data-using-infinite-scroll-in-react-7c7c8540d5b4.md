@@ -93,8 +93,4 @@ npm start
 
 # 相关帖子
 
-[](/how-to-dockerize-an-existing-react-application-c27bd8517dcb) [## 如何对现有的 React 应用程序进行 Dockerize
-
-### 轻松运行 React 应用程序
-
-towardsdatascience.com](/how-to-dockerize-an-existing-react-application-c27bd8517dcb)
+[](/how-to-dockerize-an-existing-react-application-c27bd8517dcb) 

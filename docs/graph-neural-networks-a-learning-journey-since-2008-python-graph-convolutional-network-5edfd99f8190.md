@@ -18,11 +18,7 @@
 
 *通过我的推荐链接支持我的写作加盟媒介:*
 
-[](https://medium.com/@stefanobosisio1/membership) [## 通过我的推荐链接加入 Medium-Stefano Bosisio
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@stefanobosisio1/membership) 
+[](https://medium.com/@stefanobosisio1/membership)  
 
 欢迎回到我的图形神经网络系列！在之前的文章[中，我们研究了图论、卷积神经网络的理论和数学基础](/graph-neural-networks-a-learning-journey-since-2008-graph-convolution-network-aadd77e91606)。今天我们将讨论 Kipf 对 GCN 的 PyTorch 实现，试图简化实现，并将 GCN 应用于 Twitter 仇恨/正常用户数据集。享受:)
 

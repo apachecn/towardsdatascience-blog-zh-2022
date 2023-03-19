@@ -96,20 +96,8 @@ Python 的神奇方法——也称为 *dunder* (双下划线)方法——可以�
 
 [成为会员](https://medium.com/@martin.heinz/membership)阅读媒体上的每一个故事。**你的会员费直接支持我和你看的其他作家。**你还可以在媒体上看到所有的故事。
 
-[](https://medium.com/@martin.heinz/membership) [## 通过我的推荐链接加入媒体-马丁·海因茨
-
-### 阅读马丁·海因茨(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-medium.com](https://medium.com/@martin.heinz/membership) 
+[](https://medium.com/@martin.heinz/membership)  
 
 你可能也喜欢…
 
-[](https://medium.com/@martin.heinz/python-cli-tricks-that-dont-require-any-code-whatsoever-e7bdb9409aeb) [## 不需要任何代码的 Python CLI 技巧
-
-### 使用 Python 命令行工具启动 web 服务器、打开浏览器、解析 JSON、压缩文件等等，而无需…
-
-medium.com](https://medium.com/@martin.heinz/python-cli-tricks-that-dont-require-any-code-whatsoever-e7bdb9409aeb) [](https://betterprogramming.pub/all-the-ways-to-introspect-python-objects-at-runtime-80e6991b4cc6) [## 运行时自省 Python 对象的所有方法
-
-### 在运行时检查 Python 对象和获取代码信息的技巧和诀窍
-
-better 编程. pub](https://betterprogramming.pub/all-the-ways-to-introspect-python-objects-at-runtime-80e6991b4cc6)
+[](https://medium.com/@martin.heinz/python-cli-tricks-that-dont-require-any-code-whatsoever-e7bdb9409aeb)  [](https://betterprogramming.pub/all-the-ways-to-introspect-python-objects-at-runtime-80e6991b4cc6) 

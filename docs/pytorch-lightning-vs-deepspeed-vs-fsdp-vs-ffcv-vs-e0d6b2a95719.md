@@ -82,11 +82,7 @@ FFCV 优化了更广泛的管道的一部分(鸣谢:作者自己)
 
 FFCV 集成目前正在进行中，将在未来几周内在 PyTorch Lightning 中提供。
 
-[](https://github.com/PyTorchLightning/pytorch-lightning/issues/11538) [## 使用 PL 问题# 11538 PyTorchLightning/pytorch-lightning 启用 ffcv
-
-### 一个团队引入了 ffcv，它在数据加载器级别进行优化。只要它能代替…
-
-github.com](https://github.com/PyTorchLightning/pytorch-lightning/issues/11538) 
+[](https://github.com/PyTorchLightning/pytorch-lightning/issues/11538)  
 
 # 设计者
 
@@ -104,11 +100,7 @@ Composer 是另一个处理培训管道不同部分的库。Composer 添加了�
 
 Lightning 团队正在研究将 mosaic 与 PyTorch Lightning 整合的最佳方式。
 
-[](https://github.com/PyTorchLightning/pytorch-lightning/issues/12360) [## 支持马赛克优化作为插件问题# 12360 PyTorchLightning/pytorch-lightning
-
-### 这个库马赛克有优化模型以加快训练的巧妙技巧。每个应用程序都是作为单个…
-
-github.com](https://github.com/PyTorchLightning/pytorch-lightning/issues/12360) 
+[](https://github.com/PyTorchLightning/pytorch-lightning/issues/12360)  
 
 # 结束语
 

@@ -22,19 +22,11 @@
 
 本文将向您概述这些技术以及如何使用它们，而不需要过多了解其内部原理。为了更深入的理解，我为每一个都写了单独的帖子，并解释了细节。我们开始吧！
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-BEXGBoost
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。支持我的工作，给我买一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+[](https://ibexorigin.medium.com/membership)  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex) [## 阿尔法信号|机器学习的极品。艾总结的。
-
-### 留在循环中，不用花无数时间浏览下一个突破；我们的算法识别…
-
-alphasignal.ai](https://alphasignal.ai/?referrer=Bex) 
+[](https://alphasignal.ai/?referrer=Bex)  
 
 ## 数据集介绍和问题陈述
 
@@ -58,11 +50,7 @@ alphasignal.ai](https://alphasignal.ai/?referrer=Bex)
 
 这可能是一个简单的技术，但它可以帮助消除无用的功能。要获得更深入的见解和对代码的更多解释，您可以阅读本文:
 
-[](/how-to-use-variance-thresholding-for-robust-feature-selection-a4503f2b5c3f) [## 如何使用方差阈值进行鲁棒特征选择
-
-### 编辑描述
-
-towardsdatascience.com](/how-to-use-variance-thresholding-for-robust-feature-selection-a4503f2b5c3f) 
+[](/how-to-use-variance-thresholding-for-robust-feature-selection-a4503f2b5c3f)  
 
 ## 第二步:两两相关
 
@@ -80,11 +68,7 @@ towardsdatascience.com](/how-to-use-variance-thresholding-for-robust-feature-sel
 
 关于代码，我还有很多没有解释。即使这个函数工作得很好，我还是建议阅读我的另一篇关于基于相关系数的特征选择的文章。我充分解释了相关性的概念以及它与因果关系的不同之处。还有一个单独的部分是关于将完美的相关矩阵绘制成热图，当然还有对上述函数的解释。
 
-[](/how-to-use-pairwise-correlation-for-robust-feature-selection-20a60ef7d10) [## 如何使用成对相关性进行鲁棒的特征选择
-
-### 将久经考验的方法添加到您的武器库中
-
-towardsdatascience.com](/how-to-use-pairwise-correlation-for-robust-feature-selection-20a60ef7d10) 
+[](/how-to-use-pairwise-correlation-for-robust-feature-selection-20a60ef7d10)  
 
 对于我们的数据集，我们将选择阈值 0.9:
 
@@ -110,11 +94,7 @@ Sklearn 在 RFECV 类下实现了这种技术，它采用一个任意的估计�
 
 在另一篇文章中，我进一步讨论了`.coef_`和`.feature_importances_`属性，以及 RFE 每一轮淘汰赛中发生的额外细节:
 
-[](/powerful-feature-selection-with-recursive-feature-elimination-rfe-of-sklearn-23efb2cdb54e) [## Sklearn 的递归特征消除(RFE)功能强大的特征选择
-
-### 编辑描述
-
-towardsdatascience.com](/powerful-feature-selection-with-recursive-feature-elimination-rfe-of-sklearn-23efb2cdb54e) 
+[](/powerful-feature-selection-with-recursive-feature-elimination-rfe-of-sklearn-23efb2cdb54e)  
 
 ## 摘要
 
@@ -136,12 +116,4 @@ towardsdatascience.com](/powerful-feature-selection-with-recursive-feature-elimi
 *   [相关系数深度指南](https://towardsdev.com/how-to-not-misunderstand-correlation-75ce9b0289e)
 *   [通过组合多个模型进行高级特征选择](/superior-feature-selection-by-combining-multiple-models-607002c1a324)
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium。
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。你可以给我买一个 coffee☕，用你的…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) [](https://ibexorigin.medium.com/subscribe) [## 每当 Bex T .发布时收到电子邮件。
-
-### 每当 Bex T .发布时收到电子邮件。注册后，如果您还没有中型帐户，您将创建一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/subscribe)
+[](https://ibexorigin.medium.com/membership)  [](https://ibexorigin.medium.com/subscribe) 

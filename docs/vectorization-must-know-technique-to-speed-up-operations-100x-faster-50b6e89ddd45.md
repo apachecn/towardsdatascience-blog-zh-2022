@@ -170,27 +170,7 @@ np.where(a>=b, a+1, a-1)
 
 请随意浏览我以前的帖子，如果有任何问题，请告诉我:
 
-[](/build-a-song-recommendation-system-using-streamlit-and-deploy-on-heroku-375a57ce5e85) [## 使用 Streamlit 构建歌曲推荐系统并在 Heroku 上部署
-
-### 了解如何使用 Spotify 音乐数据集的 K 近邻构建一个简单的歌曲推荐引擎
-
-towardsdatascience.com](/build-a-song-recommendation-system-using-streamlit-and-deploy-on-heroku-375a57ce5e85) [](https://medium.datadriveninvestor.com/beginners-guide-to-web-scraping-using-beautifulsoup-and-python-999a927f20e6) [## 使用 BeautifulSoup 和 Python 的 Web 抓取初学者指南
-
-### 简单的教程涵盖了美丽的基础知识，并举例说明了如何抓取维基百科的文章
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/beginners-guide-to-web-scraping-using-beautifulsoup-and-python-999a927f20e6) [](/beginners-guide-to-regular-expressions-in-python-d16d2fa31587) [## Python 正则表达式初学者指南
-
-### 关于正则表达式的简单教程，涵盖了你需要知道的所有基础知识
-
-towardsdatascience.com](/beginners-guide-to-regular-expressions-in-python-d16d2fa31587) [](https://medium.datadriveninvestor.com/top-20-masters-programs-in-ai-data-science-2021-98aadb7db409) [## 2021 年人工智能和数据科学 20 大硕士项目
-
-### 美国最好的机器学习/数据科学项目列表
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/top-20-masters-programs-in-ai-data-science-2021-98aadb7db409) [](/top-nlp-books-to-read-2020-12012ef41dc1) [## 2020 年最佳 NLP 读物
-
-### 这是我个人为自然语言处理推荐的书籍列表，供实践者和理论家参考
-
-towardsdatascience.com](/top-nlp-books-to-read-2020-12012ef41dc1) 
+[](/build-a-song-recommendation-system-using-streamlit-and-deploy-on-heroku-375a57ce5e85)  [](https://medium.datadriveninvestor.com/beginners-guide-to-web-scraping-using-beautifulsoup-and-python-999a927f20e6)  [](/beginners-guide-to-regular-expressions-in-python-d16d2fa31587)  [](https://medium.datadriveninvestor.com/top-20-masters-programs-in-ai-data-science-2021-98aadb7db409)  [](/top-nlp-books-to-read-2020-12012ef41dc1)  
 
 # 参考
 

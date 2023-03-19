@@ -94,24 +94,8 @@
 
 **本文使用的数据基于联合国通过*[*【GAPMINDER.ORG*](https://www.gapminder.org/)*、CC-BY LICENSE* 提供的免费资料
 
-[](/why-you-should-vectorize-your-code-in-r-d7df86ebc9b7) [## 为什么应该用 R 向量化你的代码
-
-### 使用 R 中的微基准测试包比较向量化操作和 for 循环的效率
-
-towardsdatascience.com](/why-you-should-vectorize-your-code-in-r-d7df86ebc9b7) [](/how-to-easily-access-and-download-public-data-from-national-statistical-institutions-dab9f2e6a18f) [## 如何方便地从国家统计机构获取和下载公共数据
-
-### R 中 PxWeb API 接口指南，使用 PxWeb 包。
-
-towardsdatascience.com](/how-to-easily-access-and-download-public-data-from-national-statistical-institutions-dab9f2e6a18f) [](/5-common-misinterpretations-of-the-p-value-aacaa6dcfddd) [## 对 P 值的 5 种常见误解
-
-### 在解释和报告您的结果时避免这些
-
-towardsdatascience.com](/5-common-misinterpretations-of-the-p-value-aacaa6dcfddd) 
+[](/why-you-should-vectorize-your-code-in-r-d7df86ebc9b7)  [](/how-to-easily-access-and-download-public-data-from-national-statistical-institutions-dab9f2e6a18f)  [](/5-common-misinterpretations-of-the-p-value-aacaa6dcfddd)  
 
 如果你喜欢阅读这样的故事，并想支持我成为一名作家，可以考虑报名成为一名媒体成员。每月 5 美元，你可以无限制地阅读媒体上的故事。如果你注册使用我的链接，我会赚一小笔佣金。
 
-[](https://medium.com/@andreagustafsen/membership) [## 通过我的推荐链接加入 Medium-Andrea gustaf sen
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@andreagustafsen/membership)
+[](https://medium.com/@andreagustafsen/membership) 

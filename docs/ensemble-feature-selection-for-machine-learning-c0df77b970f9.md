@@ -107,15 +107,7 @@ Borda Count 是最著名的投票系统之一。它相当简单，根据特征�
 
 # 不确定接下来要读什么？这里有两个选择:
 
-[](/feature-selection-for-machine-learning-3-categories-and-12-methods-6a4403f86543) [## 机器学习的特征选择:3 类 12 种方法
-
-### 学习关于 3 种特征选择的基本理论，即过滤器、包装器和嵌入器。探索 12 种方法…
-
-towardsdatascience.com](/feature-selection-for-machine-learning-3-categories-and-12-methods-6a4403f86543) [](/outlier-detection-theory-visualizations-and-code-a4fd39de540c) [## 异常值检测——理论、可视化和代码
-
-### 五种算法来统治他们，五种算法来发现他们，五种算法来把他们带到黑暗中…
-
-towardsdatascience.com](/outlier-detection-theory-visualizations-and-code-a4fd39de540c) 
+[](/feature-selection-for-machine-learning-3-categories-and-12-methods-6a4403f86543)  [](/outlier-detection-theory-visualizations-and-code-a4fd39de540c)  
 
 # 保持联络
 

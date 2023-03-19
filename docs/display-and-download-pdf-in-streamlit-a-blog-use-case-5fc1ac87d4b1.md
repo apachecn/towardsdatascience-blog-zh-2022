@@ -20,11 +20,7 @@ Streamlit 是一个开源的 python 框架，主要由数据科学家和数据�
 
 由于我已经在之前的[文章](https://medium.com/codex/create-a-multi-page-app-with-the-new-streamlit-option-menu-component-3e3edaf7e7ad)中分享了如何使用`streamlit-option-menu`创建一个多页面的 streamlit 应用程序，所以我不会在这里花时间解释如何创建导航栏以及应用程序中的所有页面。相反，我将重点向您展示如何在 Streamlit 中显示和下载 PDF 文档，以及如何应用我们学到的知识在该应用程序中创建“博客”页面。
 
-[](https://medium.com/codex/create-a-multi-page-app-with-the-new-streamlit-option-menu-component-3e3edaf7e7ad) [## 使用新的简化选项菜单组件创建一个多页面应用程序
-
-### 还用 st.radio()创建菜单？是时候尝试在 Github 中提供完整代码的 Streamlit-Option-Menu 了
-
-medium.com](https://medium.com/codex/create-a-multi-page-app-with-the-new-streamlit-option-menu-component-3e3edaf7e7ad) 
+[](https://medium.com/codex/create-a-multi-page-app-with-the-new-streamlit-option-menu-component-3e3edaf7e7ad)  
 
 下面是一个 YouTube 视频短片，演示了博客页面的外观:
 

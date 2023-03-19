@@ -16,11 +16,7 @@
 
 **Extra:** 在此阅读更多关于设置虚拟环境的信息:
 
-[](https://medium.com/swlh/painless-easy-virtual-environment-setup-for-your-python-project-5aed144acebf) [## 虚拟环境其实很简单……(如果你不把它们弄复杂的话)。
-
-### 一个超级简单、轻量级的解决方案，可以快速高效地为您的 Python 项目设置可移植环境…
-
-medium.com](https://medium.com/swlh/painless-easy-virtual-environment-setup-for-your-python-project-5aed144acebf) 
+[](https://medium.com/swlh/painless-easy-virtual-environment-setup-for-your-python-project-5aed144acebf)  
 
 经过一番疯狂的谷歌搜索，我终于找到了这个快速可靠的解决方案:
 

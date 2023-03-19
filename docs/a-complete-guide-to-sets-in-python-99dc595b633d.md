@@ -173,36 +173,12 @@ fruits.symmetric_difference_update(companies)print(fruits)#out:
 
 这是探索数据结构及其在 Python 中的使用和实现系列的第二篇文章。如果您错过了 Python 中的第一个列表，可以在以下链接中找到:
 
-[](/a-complete-guide-to-lists-in-python-d049cf3760d4) [## Python 中列表的完整指南
-
-### 关键特性、实现、索引、切片、定位项目、可变性和其他有用的功能
-
-towardsdatascience.com](/a-complete-guide-to-lists-in-python-d049cf3760d4) 
+[](/a-complete-guide-to-lists-in-python-d049cf3760d4)  
 
 未来的帖子将涵盖 Python 中的字典、链表、栈、队列和图形。为了确保您将来不会错过任何内容，请注册以便在发布时收到电子邮件通知:
 
-[](https://philip-wilkinson.medium.com/subscribe) [## 每当菲利普·威尔金森发表文章时，就收到一封电子邮件。
-
-### 每当菲利普·威尔金森发表文章时，就收到一封电子邮件。通过注册，您将创建一个中型帐户，如果您还没有…
-
-philip-wilkinson.medium.com](https://philip-wilkinson.medium.com/subscribe) 
+[](https://philip-wilkinson.medium.com/subscribe)  
 
 如果你喜欢你所阅读的内容，并且还不是一个媒体成员，考虑通过使用我下面的推荐代码注册来支持我自己和这个平台上的了不起的作者们:
 
-[](https://philip-wilkinson.medium.com/membership) [## 通过我的推荐链接加入 Medium—Philip Wilkinson
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-philip-wilkinson.medium.com](https://philip-wilkinson.medium.com/membership) [](/an-introduction-to-sql-for-data-scientists-e3bb539decdf) [## 数据科学家的 SQL 介绍
-
-### UCL 数据科学学会工作坊 9:什么是 SQL，选择数据，查询数据，汇总统计，分组数据和…
-
-towardsdatascience.com](/an-introduction-to-sql-for-data-scientists-e3bb539decdf) [](/git-and-github-basics-for-data-scientists-b9fd96f8a02a) [## 面向数据科学家的 Git 和 GitHub 基础知识
-
-### UCL 数据科学研讨会 8:什么是 Git，创建本地存储库，提交第一批文件，链接到远程…
-
-towardsdatascience.com](/git-and-github-basics-for-data-scientists-b9fd96f8a02a) [](/london-convenience-store-classification-using-k-means-clustering-70c82899c61f) [## 使用 K-均值聚类的伦敦便利店分类
-
-### 伦敦的便利店怎么分类？
-
-towardsdatascience.com](/london-convenience-store-classification-using-k-means-clustering-70c82899c61f)
+[](https://philip-wilkinson.medium.com/membership)  [](/an-introduction-to-sql-for-data-scientists-e3bb539decdf)  [](/git-and-github-basics-for-data-scientists-b9fd96f8a02a)  [](/london-convenience-store-classification-using-k-means-clustering-70c82899c61f) 

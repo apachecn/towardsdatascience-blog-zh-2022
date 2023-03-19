@@ -175,16 +175,8 @@ BigQuery 对每个表有 4000 个分区的限制。
 
 **资料来源于 Google 云平台关于**分区表的文档。****
 
-**[](https://cloud.google.com/bigquery/docs/partitioned-tables) [## 分区表介绍| BigQuery | Google Cloud
-
-### 本页概述了 BigQuery 中的已分区表。分区表是一种特殊的表，它…
-
-cloud.google.com](https://cloud.google.com/bigquery/docs/partitioned-tables) 
+**[](https://cloud.google.com/bigquery/docs/partitioned-tables)  
 
 来源于关于**集群表的 Google 云平台文档。**
 
-[](https://cloud.google.com/bigquery/docs/clustered-tables) [## 集群表介绍| BigQuery | Google Cloud
-
-### 本文概述了 BigQuery 中的表聚类功能。当您在…中创建聚集表时
-
-cloud.google.com](https://cloud.google.com/bigquery/docs/clustered-tables)**
+[](https://cloud.google.com/bigquery/docs/clustered-tables) **

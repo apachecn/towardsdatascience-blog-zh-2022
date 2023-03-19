@@ -103,8 +103,4 @@
 
 想了解更多关于时间管理的科学知识吗？看看我下面的文章。
 
-[](/the-science-of-time-management-7297600e8a0e) [## 时间管理的科学
-
-### 如何借助计算机科学优化你的时间
-
-towardsdatascience.com](/the-science-of-time-management-7297600e8a0e)
+[](/the-science-of-time-management-7297600e8a0e) 

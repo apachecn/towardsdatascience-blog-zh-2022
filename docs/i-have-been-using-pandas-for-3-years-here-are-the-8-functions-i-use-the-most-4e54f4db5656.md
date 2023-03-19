@@ -262,11 +262,7 @@ df.groupby("store").agg(
 
 如果你想了解更多，这里有一篇我以前写的关于 groupby 函数的文章:
 
-[](/11-examples-to-master-pandas-groupby-function-86e0de574f38) [## 掌握熊猫分组功能的 11 个例子
-
-### 在 EDA 过程中使用的最佳函数。
-
-towardsdatascience.com](/11-examples-to-master-pandas-groupby-function-86e0de574f38) 
+[](/11-examples-to-master-pandas-groupby-function-86e0de574f38)  
 
 # 8.独一无二的
 
@@ -285,10 +281,6 @@ array([1, 2, 3, 4, 5, 6], dtype=int64)
 
 *你可以成为* [*媒介会员*](https://sonery.medium.com/membership) *解锁我的全部写作权限，外加其余媒介。如果你已经是了，别忘了订阅*[](https://sonery.medium.com/subscribe)**如果你想在我发表新文章时收到电子邮件。**
 
-*[](https://sonery.medium.com/membership) [## 通过我的推荐链接加入 Medium-Soner yl DRM
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-sonery.medium.com](https://sonery.medium.com/membership)* 
+*[](https://sonery.medium.com/membership) * 
 
 *感谢您的阅读。如果您有任何反馈，请告诉我。*

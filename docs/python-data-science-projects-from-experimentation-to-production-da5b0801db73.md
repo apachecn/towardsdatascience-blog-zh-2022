@@ -171,11 +171,7 @@
 
 ******如果你喜欢阅读我的故事，并想支持我成为一名作家，考虑注册成为一名媒体成员，并获得数以千计的数据工程和数据科学文章。******
 
-*****[](https://medium.com/@anna.bildea/membership) [## 用我的推荐链接加入媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@anna.bildea/membership) 
+*****[](https://medium.com/@anna.bildea/membership)  
 
 *在*[*LinkedIn*](https://www.linkedin.com/in/ana-bildea-phd-2339b728/)*和* [Twitter](https://twitter.com/AnaBildea) 上找我！
 

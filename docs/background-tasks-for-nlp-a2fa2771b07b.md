@@ -151,8 +151,4 @@ Chrome Inspector 的截图——显示了 API 调用在 45.00 毫秒时的时间
 
 由[蒂姆·莫斯霍尔德](https://unsplash.com/@timmossholder?utm_source=medium&utm_medium=referral)在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄的照片
 
-[](https://cognitivedave.medium.com/membership) [## 通过我的推荐链接-大卫·摩尔加入媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-cognitivedave.medium.com](https://cognitivedave.medium.com/membership)
+[](https://cognitivedave.medium.com/membership) 

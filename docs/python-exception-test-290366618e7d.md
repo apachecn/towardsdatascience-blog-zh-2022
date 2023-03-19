@@ -81,24 +81,8 @@ import pytestdef test_greet():
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership) 
+[](https://gmyrianthous.medium.com/membership)  
 
 **相关文章你可能也喜欢**
 
-[](/diagrams-as-code-python-d9cbaa959ed5) [## Python 中作为代码的图
-
-### 用 Python 创建云系统架构图
-
-towardsdatascience.com](/diagrams-as-code-python-d9cbaa959ed5) [](/big-o-notation-32fb458e5260) [## 大 O 符号
-
-### 用 Big-O 符号计算算法的时间和空间复杂度
-
-towardsdatascience.com](/big-o-notation-32fb458e5260) [](/how-to-merge-pandas-dataframes-221e49c41bec) [## 如何合并熊猫数据帧
-
-### 对熊猫数据帧执行左、右、内和反连接
-
-towardsdatascience.com](/how-to-merge-pandas-dataframes-221e49c41bec)
+[](/diagrams-as-code-python-d9cbaa959ed5)  [](/big-o-notation-32fb458e5260)  [](/how-to-merge-pandas-dataframes-221e49c41bec) 

@@ -172,27 +172,7 @@
 
 # ******进一步阅读的建议******
 
-******[](/the-consistent-estimator-913fab06f4f3) [## 一致估计量
-
-### 回归建模器指南
-
-towardsdatascience.com](/the-consistent-estimator-913fab06f4f3) [](/what-happens-when-you-omit-important-variables-from-your-regression-model-966830590d53) [## 当你忽略回归模型中的重要变量时会发生什么
-
-### 我们将了解什么是遗漏变量偏差，并使用真实数据集说明其计算
-
-towardsdatascience.com](/what-happens-when-you-omit-important-variables-from-your-regression-model-966830590d53) [](/what-are-exogenous-and-endogenous-regression-variables-c0ea1ba03ce8) [## 什么是外生和内生回归变量？
-
-### 虽然外生性是一件好事，但内生性会让你的模型的有效性受到质疑
-
-towardsdatascience.com](/what-are-exogenous-and-endogenous-regression-variables-c0ea1ba03ce8) [](/introduction-to-instrumental-variables-estimation-3eba75a04418) [## 工具变量估计导论
-
-### 我们将学习工具变量，以及如何使用它们来估计线性回归模型
-
-towardsdatascience.com](/introduction-to-instrumental-variables-estimation-3eba75a04418) [](/introduction-to-two-stage-least-squares-estimation-4dbabdd98102) [## 两步最小二乘估计简介
-
-### 我们将学习如何使用 2SLS 技术来估计包含工具变量的线性模型
-
-towardsdatascience.com](/introduction-to-two-stage-least-squares-estimation-4dbabdd98102) 
+******[](/the-consistent-estimator-913fab06f4f3)  [](/what-happens-when-you-omit-important-variables-from-your-regression-model-966830590d53)  [](/what-are-exogenous-and-endogenous-regression-variables-c0ea1ba03ce8)  [](/introduction-to-instrumental-variables-estimation-3eba75a04418)  [](/introduction-to-two-stage-least-squares-estimation-4dbabdd98102)  
 
 # 参考文献、引文和版权
 

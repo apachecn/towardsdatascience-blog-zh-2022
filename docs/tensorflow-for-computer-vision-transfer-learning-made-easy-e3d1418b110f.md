@@ -42,11 +42,7 @@
 
 数据集相当大-25，000 张图像均匀分布在各个类别之间(12，500 张狗图像和 12，500 张猫图像)。它应该足够大，可以训练一个像样的图像分类器。唯一的问题是——它不是为开箱即用的深度学习而构建的。您可以按照我以前的文章创建一个合适的目录结构，并将其分为训练集、测试集和验证集:
 
-[](https://betterdatascience.com/top-3-prerequisites-for-deep-learning-projects) [## 用于图像分类的 TensorFlow 深度学习项目的三大先决条件|更好的数据…
-
-### 想训练一个用于图像分类的神经网络？确保做到这一点首先识别图像中的对象是一个…
-
-betterdatascience.com](https://betterdatascience.com/top-3-prerequisites-for-deep-learning-projects) 
+[](https://betterdatascience.com/top-3-prerequisites-for-deep-learning-projects)  
 
 您还应该删除 *train/cat/666.jpg* 和 *train/dog/11702.jpg* 图像，因为它们已损坏，您的模型将无法使用它们进行训练。
 
@@ -286,11 +282,7 @@ vgg_model = build_transfer_learning_model(
 
 *喜欢这篇文章吗？成为* [*中等会员*](https://medium.com/@radecicdario/membership) *继续无限制学习。如果你使用下面的链接，我会收到你的一部分会员费，不需要你额外付费。*
 
-[](https://medium.com/@radecicdario/membership) [## 通过我的推荐链接加入 Medium-Dario rade ci
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@radecicdario/membership) 
+[](https://medium.com/@radecicdario/membership)  
 
 # 保持联系
 

@@ -100,11 +100,7 @@ evaluate_model()函数显示 Keras 二元分类器的性能指标，因此它可
 
 **GitHub 库**:
 
-[](https://github.com/JavierMtz5/ArtificialIntelligence) [## GitHub-Javier mtz 5/人工智能
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/JavierMtz5/ArtificialIntelligence) 
+[](https://github.com/JavierMtz5/ArtificialIntelligence)  
 
 # 参考
 
@@ -116,8 +112,4 @@ github.com](https://github.com/JavierMtz5/ArtificialIntelligence)
 
 **本文和 GitHub 中使用的数据集是*电信客户流失(cell2cell)* 数据集的预处理版本，可在以下链接中找到:**
 
-[](https://www.kaggle.com/datasets/jpacse/datasets-for-churn-telecom) [## 电信流失(cell2cell)
-
-### 杜克大学客户关系管理 Teradata 中心。
-
-www.kaggle.com](https://www.kaggle.com/datasets/jpacse/datasets-for-churn-telecom)
+[](https://www.kaggle.com/datasets/jpacse/datasets-for-churn-telecom) 

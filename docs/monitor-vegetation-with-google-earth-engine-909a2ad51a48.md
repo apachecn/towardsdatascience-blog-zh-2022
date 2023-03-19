@@ -20,23 +20,11 @@ Geran de Klerk 在 [Unsplash](https://unsplash.com/s/photos/satellite-forest?utm
 
 这个项目的代码存放在我的 GitHub 库中。
 
-[](https://github.com/dgg32/ndvi) [## GitHub - dgg32/ndvi
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/dgg32/ndvi) 
+[](https://github.com/dgg32/ndvi)  
 
 我把它们都放进了网络应用程序。
 
- [## 地球引擎应用
-
-### 哥白尼
-
-dgg 321982 . users . earth engine . app](https://dgg321982.users.earthengine.app/view/copernicus)  [## 地球引擎应用
-
-### 中等-分辨率成像分光计（moderate-resolution imaging spectrometer 的缩写）
-
-dgg 321982 . users . earth engine . app](https://dgg321982.users.earthengine.app/view/modis) 
+    
 
 # 1.NDVI 和 EVI
 
@@ -134,8 +122,4 @@ MODIS 应用程序中的代码更简单，因为`MODIS/061/MOD13A1`已经将两�
 
 你的想法是什么？你也用谷歌地球引擎监测植被吗？如果有，请分享你的经验。
 
-[](https://dgg32.medium.com/membership) [## 加入媒介与我的介绍链接-黄思兴
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-dgg32.medium.com](https://dgg32.medium.com/membership)
+[](https://dgg32.medium.com/membership) 

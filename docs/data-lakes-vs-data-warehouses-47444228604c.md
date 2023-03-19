@@ -62,24 +62,8 @@
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership) 
+[](https://gmyrianthous.medium.com/membership)  
 
 **你可能也会喜欢**
 
-[](https://pub.towardsai.net/object-storage-521d5454d2d) [## 对象存储对于大数据是否高效？
-
-### 使用对象存储来存储、归档和管理数据
-
-pub.towardsai.net](https://pub.towardsai.net/object-storage-521d5454d2d) [](https://pub.towardsai.net/data-versioning-for-efficient-workflows-with-mlflow-and-lakefs-892df1f8e7d8) [## 使用 MLFlow 和 LakeFS 实现高效工作流的数据版本控制
-
-### 构建弹性、原子和版本化的数据湖操作
-
-pub.towardsai.net](https://pub.towardsai.net/data-versioning-for-efficient-workflows-with-mlflow-and-lakefs-892df1f8e7d8) [](/16-must-know-bash-commands-for-data-scientists-d8263e990e0e) [## 数据科学家必须知道的 16 个 Bash 命令
-
-### 探索一些最常用的 bash 命令
-
-towardsdatascience.com](/16-must-know-bash-commands-for-data-scientists-d8263e990e0e)
+[](https://pub.towardsai.net/object-storage-521d5454d2d)  [](https://pub.towardsai.net/data-versioning-for-efficient-workflows-with-mlflow-and-lakefs-892df1f8e7d8)  [](/16-must-know-bash-commands-for-data-scientists-d8263e990e0e) 

@@ -108,11 +108,7 @@ RSS 简单地表示真实 y 值和 X 值之间的平方差之和乘以它们的�
 
 *为了更加通用，同时也允许**同时处理多个权重**，我将用矩阵表示法解决这个问题，并将结果与下面的 **Scikit-Learn 的实现进行比较。***
 
-*[](https://machinelearningmastery.com/linear-regression-tutorial-using-gradient-descent-for-machine-learning/) [## 使用梯度下降进行机器学习的线性回归教程-机器学习掌握
-
-### 随机梯度下降是机器学习中一种重要且广泛使用的算法。在这篇文章中，你将…
-
-machinelearningmastery.com](https://machinelearningmastery.com/linear-regression-tutorial-using-gradient-descent-for-machine-learning/) 
+*[](https://machinelearningmastery.com/linear-regression-tutorial-using-gradient-descent-for-machine-learning/)  
 
 ## 从头开始实现梯度下降
 

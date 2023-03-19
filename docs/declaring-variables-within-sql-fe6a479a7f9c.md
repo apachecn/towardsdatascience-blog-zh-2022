@@ -18,11 +18,7 @@ W 当开始使用 SQL 代码时，许多数据科学家会根据他们想要完�
 
 对于这篇分析，希腊的地震数据集取自 Kaggle。
 
-[](https://www.kaggle.com/nickdoulos/greeces-earthquakes) [## 希腊的地震
-
-### 1965 年至 2021 年间希腊发生的地震列表
-
-www.kaggle.com](https://www.kaggle.com/nickdoulos/greeces-earthquakes) 
+[](https://www.kaggle.com/nickdoulos/greeces-earthquakes)  
 
 本文中显示的 SQL 代码是使用 Microsoft SQL Server Management Studio 18 的一个实例创建的。
 
@@ -108,30 +104,10 @@ SQL 输出 1.5 两种语言的区别(图片由作者提供)
 
 **您可以使用下面的链接成为高级媒体会员，并访问我的所有故事和数以千计的其他故事:**
 
-[](https://jamesmcneill06.medium.com/membership) [## 通过我的推荐链接加入媒体-詹姆斯·麦克尼尔
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-jamesmcneill06.medium.com](https://jamesmcneill06.medium.com/membership) 
+[](https://jamesmcneill06.medium.com/membership)  
 
 **你可以在** [**LinkedIn**](https://www.linkedin.com/in/james-mc-neill-180a9057/) **上联系我，友好地聊一聊所有的事情数据。我分享过的其他故事:**
 
-[](/advanced-sql-operations-8856084a95a8) [## 高级 SQL 操作
-
-### 查看更高级的 SQL 操作，以从爱尔兰天气数据集中提取额外的数据洞察。
-
-towardsdatascience.com](/advanced-sql-operations-8856084a95a8) [](/developing-sql-tables-3f9b96bc21e1) [## 开发 SQL 表
-
-### 只有通过创建和开发 SQL 表，我们才能理解如何最好地使用可用内存。
-
-towardsdatascience.com](/developing-sql-tables-3f9b96bc21e1) [](/strings-in-sql-part-2-21a467374b84) [## SQL 中的字符串，第 2 部分
-
-### 用 SQL 聚集和分割字符串变量
-
-towardsdatascience.com](/strings-in-sql-part-2-21a467374b84) [](/strings-in-sql-part-1-122185dd0099) [## SQL 第 1 部分中的字符串
-
-### 使用 SQL 字符串技术从字符列中提取有意义的信息
-
-towardsdatascience.com](/strings-in-sql-part-1-122185dd0099) 
+[](/advanced-sql-operations-8856084a95a8)  [](/developing-sql-tables-3f9b96bc21e1)  [](/strings-in-sql-part-2-21a467374b84)  [](/strings-in-sql-part-1-122185dd0099)  
 
 [1] : Kaggle dataset 许可来自[https://www.kaggle.com/nickdoulos/greeces-earthquakes](https://www.kaggle.com/nickdoulos/greeces-earthquakes)的地震，许可协议来自[https://opendatacommons.org/licenses/dbcl/1-0/](https://creativecommons.org/publicdomain/zero/1.0/)

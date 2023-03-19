@@ -16,19 +16,11 @@
 
 因此，在我们开始编写 decorators 之前，我们将深入学习一些 Python 的内部知识，比如作用域和闭包。如果你熟悉这些概念，请跳过它们，到第 5 部分，所有的乐趣开始了！
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-BEXGBoost
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。支持我的工作，给我买一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+[](https://ibexorigin.medium.com/membership)  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex) [## 阿尔法信号|机器学习的极品。艾总结的。
-
-### 留在循环中，不用花无数时间浏览下一个突破；我们的算法识别…
-
-alphasignal.ai](https://alphasignal.ai/?referrer=Bex) 
+[](https://alphasignal.ai/?referrer=Bex)  
 
 ## 函数是对象
 
@@ -334,32 +326,8 @@ sleep took 0.0 seconds to run!
 
 感谢您的阅读！
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-Bex t。
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) [](https://ibexorigin.medium.com/subscribe) [## 每当 Bex T .发布时收到电子邮件。
-
-### 每当 Bex T .发布时收到电子邮件。注册后，如果您还没有中型帐户，您将创建一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/subscribe) 
+[](https://ibexorigin.medium.com/membership)  [](https://ibexorigin.medium.com/subscribe)  
 
 阅读更多我的故事:
 
-[](https://ibexorigin.medium.com/6-sklearn-mistakes-that-silently-tell-you-are-rookie-f1fe44779a4d) [## 6 Sklearn 默默告诉你是菜鸟的错误
-
-### 没有错误消息——这就是它们的微妙之处
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/6-sklearn-mistakes-that-silently-tell-you-are-rookie-f1fe44779a4d) [](/comprehensive-guide-to-writing-python-functions-others-can-use-2fa186c6be71) [## 编写其他人可以使用的 Python 函数的综合指南
-
-### 函数编写是一项技能——迈出掌握它的第一步
-
-towardsdatascience.com](/comprehensive-guide-to-writing-python-functions-others-can-use-2fa186c6be71) [](/the-easiest-way-to-deploy-your-ml-dl-models-in-2022-streamlit-bentoml-dagshub-ccf29c901dac) [## 2022 年部署你的机器学习模型最简单的方法:Streamlit + BentoML + DagsHub
-
-### 将模型部署为具有用户友好界面的轻量级 API
-
-towardsdatascience.com](/the-easiest-way-to-deploy-your-ml-dl-models-in-2022-streamlit-bentoml-dagshub-ccf29c901dac) [](/complete-guide-to-experiment-tracking-with-mlflow-and-dagshub-a0439479e0b9) [## 使用 MLFlow 和 DagsHub 进行实验跟踪的完整指南
-
-### 创建可重复且灵活的 ML 项目
-
-towardsdatascience.com](/complete-guide-to-experiment-tracking-with-mlflow-and-dagshub-a0439479e0b9)
+[](https://ibexorigin.medium.com/6-sklearn-mistakes-that-silently-tell-you-are-rookie-f1fe44779a4d)  [](/comprehensive-guide-to-writing-python-functions-others-can-use-2fa186c6be71)  [](/the-easiest-way-to-deploy-your-ml-dl-models-in-2022-streamlit-bentoml-dagshub-ccf29c901dac)  [](/complete-guide-to-experiment-tracking-with-mlflow-and-dagshub-a0439479e0b9) 

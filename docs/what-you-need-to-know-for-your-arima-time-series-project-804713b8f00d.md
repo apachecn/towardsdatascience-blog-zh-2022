@@ -173,18 +173,6 @@
 
 ## **额外资源**
 
-**[](https://online.stat.psu.edu/stat510/lesson/2/2.2) [## 2.2 偏自相关函数(PACF) | STAT 510
-
-### 一般来说，部分相关是条件相关。它是两个变量在…
-
-online.stat.psu.edu](https://online.stat.psu.edu/stat510/lesson/2/2.2) [](https://www.real-statistics.com/time-series-analysis/arima-processes/arima-differencing/) [## ARIMA 差分
-
-### 为了创建一个稳定的过程，差分可能是必要的。例如，道琼斯收盘图…
-
-www.real-statistics.com](https://www.real-statistics.com/time-series-analysis/arima-processes/arima-differencing/) [](https://people.duke.edu/~rnau/411arim2.htm) [## 识别 ARIMA 模型中的差分阶
-
-### 非季节性 ARIMA 模型说明(pdf 文件)季节性和非季节性 ARIMA 模型幻灯片(pdf 文件)介绍…
-
-people.duke.edu](https://people.duke.edu/~rnau/411arim2.htm) 
+**[](https://online.stat.psu.edu/stat510/lesson/2/2.2)  [](https://www.real-statistics.com/time-series-analysis/arima-processes/arima-differencing/)  [](https://people.duke.edu/~rnau/411arim2.htm)  
 
 🫶🏽**

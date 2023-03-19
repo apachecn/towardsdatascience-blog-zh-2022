@@ -153,16 +153,4 @@ sklearn=0.24.1
 
 如果你喜欢读这篇文章，你可能会发现我写的关于数据科学和机器学习的其他文章也很有趣。下面来看看吧。
 
-[](/recommendation-system-matrix-factorization-svd-explained-c9a50d93e488) [## 推荐系统—矩阵分解(SVD)解释
-
-### 利用潜在因素推荐构建推荐系统管道
-
-towardsdatascience.com](/recommendation-system-matrix-factorization-svd-explained-c9a50d93e488) [](/link-prediction-recommendation-engines-with-node2vec-c97c429351a8) [## 使用 Node2Vec 的链接预测推荐引擎
-
-### 在 Python 中使用节点嵌入进行链接预测
-
-towardsdatascience.com](/link-prediction-recommendation-engines-with-node2vec-c97c429351a8) [](/recommendation-systems-explained-a42fc60591ed) [## 推荐系统解释
-
-### 用 Python 解释和实现基于内容的协同过滤和混合推荐系统
-
-towardsdatascience.com](/recommendation-systems-explained-a42fc60591ed)
+[](/recommendation-system-matrix-factorization-svd-explained-c9a50d93e488)  [](/link-prediction-recommendation-engines-with-node2vec-c97c429351a8)  [](/recommendation-systems-explained-a42fc60591ed) 

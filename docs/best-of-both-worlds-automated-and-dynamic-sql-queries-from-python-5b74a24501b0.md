@@ -75,16 +75,4 @@ Python 连接关系数据库有两种方式:(1)使用 [ODBC(开放式数据库�
 
 # *进一步阅读*
 
-*[](/6-sql-tricks-every-data-scientist-should-know-f84be499aea5) [## 每个数据科学家都应该知道的 6 个 SQL 技巧
-
-### 提高分析效率的 SQL 技巧
-
-towardsdatascience.com](/6-sql-tricks-every-data-scientist-should-know-f84be499aea5) [](/data-reshaping-in-sql-r-and-python-d44ca19e71b8) [## SQL、R 和 Python 中的数据整形
-
-### 从 Python vs. R 到 Python & R
-
-towardsdatascience.com](/data-reshaping-in-sql-r-and-python-d44ca19e71b8) [](https://levelup.gitconnected.com/6-hilarious-programmers-data-scientists-jokes-to-kick-start-2021-187f86dd6a4c) [## 6 个令人捧腹的程序员/数据科学家笑话开启 2021 年
-
-### 做好准备:这些愚蠢的老笑话会让你捧腹大笑😁
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/6-hilarious-programmers-data-scientists-jokes-to-kick-start-2021-187f86dd6a4c)*
+*[](/6-sql-tricks-every-data-scientist-should-know-f84be499aea5)  [](/data-reshaping-in-sql-r-and-python-d44ca19e71b8)  [](https://levelup.gitconnected.com/6-hilarious-programmers-data-scientists-jokes-to-kick-start-2021-187f86dd6a4c) *

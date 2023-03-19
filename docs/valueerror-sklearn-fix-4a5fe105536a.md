@@ -105,11 +105,7 @@ clf.fit(train_X, train_Y)
 
 要了解更多关于机器学习环境中分类和回归问题之间的区别，请务必阅读我在 Medium 上的一篇旧文章，分享如下。
 
-[](https://medium.com/analytics-vidhya/regression-vs-classification-29ec592c7fea) [## 机器学习中的回归与分类
-
-### 在机器学习的背景下讨论回归和分类问题的区别
-
-medium.com](https://medium.com/analytics-vidhya/regression-vs-classification-29ec592c7fea) 
+[](https://medium.com/analytics-vidhya/regression-vs-classification-29ec592c7fea)  
 
 ## 最后的想法
 
@@ -119,24 +115,8 @@ medium.com](https://medium.com/analytics-vidhya/regression-vs-classification-29e
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读媒介上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership) 
+[](https://gmyrianthous.medium.com/membership)  
 
 **相关文章你可能也喜欢**
 
-[](/scikit-learn-vs-sklearn-6944b9dc1736) [## Scikit-Learn 和 Sklearn 有区别吗？
-
-### Python 中的 scikit-learn 与 sklearn
-
-towardsdatascience.com](/scikit-learn-vs-sklearn-6944b9dc1736) [](/predict-vs-predict-proba-scikit-learn-bdc45daa5972) [## scikit-learn 中的 predict()和 predict_proba()有什么区别？
-
-### 如何对数据集使用 predict 和 predict_proba 方法来执行预测
-
-towardsdatascience.com](/predict-vs-predict-proba-scikit-learn-bdc45daa5972) [](/training-vs-testing-vs-validation-sets-a44bed52a0e1) [## 培训 vs 测试 vs 验证集
-
-### 在机器学习的背景下讨论训练、测试和验证数据之间的差异
-
-towardsdatascience.com](/training-vs-testing-vs-validation-sets-a44bed52a0e1)
+[](/scikit-learn-vs-sklearn-6944b9dc1736)  [](/predict-vs-predict-proba-scikit-learn-bdc45daa5972)  [](/training-vs-testing-vs-validation-sets-a44bed52a0e1) 

@@ -274,36 +274,12 @@ T **wo** 这些特性在我们将在本文中讨论的'[神经网络的有趣特
 
 # **参考**
 
-**[](https://arxiv.org/abs/1312.6199) [## 神经网络的有趣特性
-
-### 深度神经网络是高度表达的模型，最近在语音方面取得了最先进的表现…
-
-arxiv.org](https://arxiv.org/abs/1312.6199) [](https://stats.stackexchange.com/questions/371564/intriguing-properties-of-neural-networks) [## 神经网络的有趣特性
-
-### 它可能有助于你研究一个具体的例子。作者通过…表示整个激活层
-
-stats.stackexchange.com](https://stats.stackexchange.com/questions/371564/intriguing-properties-of-neural-networks) 
+**[](https://arxiv.org/abs/1312.6199)  [](https://stats.stackexchange.com/questions/371564/intriguing-properties-of-neural-networks)  
 
 [https://www . duo . uio . no/bitstream/handle/10852/69487/master _ mathialo . pdf](https://www.duo.uio.no/bitstream/handle/10852/69487/master_mathialo.pdf)
 
-[](https://en.wikipedia.org/wiki/Lipschitz_continuity) [## 李普希茨连续性-维基百科
-
-### 在数学分析中，以德国数学家鲁道夫·李普希茨命名的李普希茨连续性是一种强形式的…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Lipschitz_continuity) [](https://www.youtube.com/watch?v=zVDDITt4XEA) [## PyTorch -引擎盖下的卷积(展开/折叠)
-
-### 我将讨论如何使用折叠和展开操作从头开始实现类似卷积的操作。这是如何…
-
-www.youtube.com](https://www.youtube.com/watch?v=zVDDITt4XEA) 
+[](https://en.wikipedia.org/wiki/Lipschitz_continuity)  [](https://www.youtube.com/watch?v=zVDDITt4XEA)  
 
 [https://math . Berkeley . edu/~ hutching/teach/54-2017/SVD-notes . pdf](https://math.berkeley.edu/~hutching/teach/54-2017/svd-notes.pdf)
 
-[](https://yeephycho.github.io/2016/08/03/normalizations_in_neural_networks/) [## 神经网络中的标准化
-
-### 在图像处理领域，术语“归一化”有许多其他名称，如对比度拉伸、直方图拉伸等
-
-yeephycho.github.io](https://yeephycho.github.io/2016/08/03/normalizations_in_neural_networks/) [](https://arxiv.org/abs/2006.08391) [## 用 Toeplitz 矩阵理论研究卷积层的 Lipschitz 正则化
-
-### 本文研究卷积神经网络的 Lipschitz 正则化问题。李普希茨正则性是…
-
-arxiv.org](https://arxiv.org/abs/2006.08391)**
+[](https://yeephycho.github.io/2016/08/03/normalizations_in_neural_networks/)  [](https://arxiv.org/abs/2006.08391) **

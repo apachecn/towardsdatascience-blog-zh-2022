@@ -90,11 +90,7 @@ Leslie Lamport、Robert Shostak 和 Marshall Please 在他们 1982 年的论文[
 
 在这里看我关于量子计算的相关帖子。
 
-[](/what-is-a-quantum-computer-f1c44e87a379) [## 什么是量子计算机？
-
-### 量子计算机是一项将产生重大影响的新兴技术。
-
-towardsdatascience.com](/what-is-a-quantum-computer-f1c44e87a379) 
+[](/what-is-a-quantum-computer-f1c44e87a379)  
 
 最终，节点比挖掘者具有更大的影响力，因为节点可以验证交易，并且如果挖掘者向它们提供欺诈性块，则拒绝它们。因此，只要诚实的节点占大多数，网络就能保持安全。
 

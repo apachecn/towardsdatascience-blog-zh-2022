@@ -114,11 +114,7 @@
 
 在本系列文章的第二部分中，我们将使用`scikit-learn`库实现一个堆栈模型，以提高我们的理解并评估整体性能
 
-[](/a-deep-dive-into-stacking-ensemble-machine-learning-part-ii-69bfc0d6e53d) [## 深入研究堆叠集成机器学习—第二部分
-
-### 如何通过在 Python、Jupyter 和 Scikit-Learn 中实现堆栈来有效地在机器学习中使用堆栈
-
-towardsdatascience.com](/a-deep-dive-into-stacking-ensemble-machine-learning-part-ii-69bfc0d6e53d) 
+[](/a-deep-dive-into-stacking-ensemble-machine-learning-part-ii-69bfc0d6e53d)  
 
 第三部分将从零开始完整地构建一个堆叠算法，以完成对堆叠及其详细工作原理的全面而深刻的理解。
 
@@ -136,8 +132,4 @@ towardsdatascience.com](/a-deep-dive-into-stacking-ensemble-machine-learning-par
 
 如果你想通过订阅来支持作者和全世界 1000 个为文章写作做出贡献的人，请使用下面的链接(注意:如果你使用这个链接免费注册，作者将收到一定比例的费用)。
 
-[](https://grahamharrison-86487.medium.com/membership) [## 通过我的推荐链接加入媒体-格雷厄姆哈里森
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-grahamharrison-86487.medium.com](https://grahamharrison-86487.medium.com/membership)
+[](https://grahamharrison-86487.medium.com/membership) 

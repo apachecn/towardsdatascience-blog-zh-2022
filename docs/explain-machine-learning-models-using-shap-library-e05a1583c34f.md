@@ -227,38 +227,10 @@ Test1 和 Test4 的高值对 SHAP 有负面影响，将分类推到 0 类。图�
 
 **如果你喜欢这个内容，关注我的博客或者考虑使用这个[推荐链接](https://gustavorsantos.medium.com/membership)加入 Medium(部分资源归作者所有)。**
 
-**[](http://gustavorsantos.medium.com/) [## 古斯塔沃·桑托斯-中等
-
-### 阅读古斯塔夫·桑托斯在媒介上的作品。数据科学家。我从数据中提取见解，以帮助个人和公司…
-
-gustavorsantos.medium.com](http://gustavorsantos.medium.com/) 
+**[](http://gustavorsantos.medium.com/)  
 
 上 [Linkedin](https://www.linkedin.com/in/gurezende/) 找我。
 
 # 参考
 
-[](/mixing-art-into-the-science-of-model-explainability-312b8216fa95) [## 将艺术融入模型解释的科学中
-
-### 可解释 Boosting 机概述和一种将 ML 解释转换为更人性化的方法…
-
-towardsdatascience.com](/mixing-art-into-the-science-of-model-explainability-312b8216fa95) [](https://medium.com/dataman-in-ai/explain-your-model-with-the-shap-values-bc36aac4de3d) [## 用 SHAP 价值观解释你的模型
-
-### 使用 SHAP 值来解释任何复杂的 ML 模型
-
-medium.com](https://medium.com/dataman-in-ai/explain-your-model-with-the-shap-values-bc36aac4de3d) [](/explain-any-models-with-the-shap-values-use-the-kernelexplainer-79de9464897a) [## 解释任何具有 SHAP 值的模型—使用内核解释器
-
-### 对 SHAP 值使用 KernelExplainer
-
-towardsdatascience.com](/explain-any-models-with-the-shap-values-use-the-kernelexplainer-79de9464897a) [](https://www.kaggle.com/code/vikumsw/explaining-random-forest-model-with-shapely-values) [## 用 Shapely 值解释随机森林模型
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用来自 Titanic 的数据-灾难中的机器学习
-
-www.kaggle.com](https://www.kaggle.com/code/vikumsw/explaining-random-forest-model-with-shapely-values) [](https://shap.readthedocs.io/en/latest/api.html#explainers) [## API 参考- SHAP 最新文件
-
-### 本页包含 SHAP 公共对象和函数的 API 参考。还有示例笔记本…
-
-shap.readthedocs.io](https://shap.readthedocs.io/en/latest/api.html#explainers)  [## 可视化-解释-社区 0.27.0 文档
-
-### 单击特性重要性图中的任何特性条，查看所选…的值之间的关系
-
-interpret-community . readthedocs . io](https://interpret-community.readthedocs.io/en/latest/visualizations.html)**
+[](/mixing-art-into-the-science-of-model-explainability-312b8216fa95)  [](https://medium.com/dataman-in-ai/explain-your-model-with-the-shap-values-bc36aac4de3d)  [](/explain-any-models-with-the-shap-values-use-the-kernelexplainer-79de9464897a)  [](https://www.kaggle.com/code/vikumsw/explaining-random-forest-model-with-shapely-values)  [](https://shap.readthedocs.io/en/latest/api.html#explainers)   **

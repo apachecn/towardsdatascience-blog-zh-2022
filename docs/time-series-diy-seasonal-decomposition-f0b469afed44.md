@@ -127,19 +127,7 @@
 
 您可能还会对以下内容感兴趣:
 
-[](/pandas-is-not-enough-a-comprehensive-guide-to-alternative-data-wrangling-solutions-a4730ba8d0e4) [## 熊猫还不够？替代数据争论解决方案的全面指南
-
-### 包括达斯克、摩丁、polars、Vaex、Terality 等 6 人
-
-towardsdatascience.com](/pandas-is-not-enough-a-comprehensive-guide-to-alternative-data-wrangling-solutions-a4730ba8d0e4) [](/a-step-by-step-guide-to-calculating-autocorrelation-and-partial-autocorrelation-8c4342b784e8) [## 计算自相关和偏自相关的分步指南
-
-### 如何在 Python 中从头开始计算 ACF 和 PACF 值
-
-towardsdatascience.com](/a-step-by-step-guide-to-calculating-autocorrelation-and-partial-autocorrelation-8c4342b784e8) [](/linkedins-response-to-prophet-silverkite-and-greykite-4fd0131f64cb) [## LinkedIn 对 Prophet-silver kite 和 Greykite 的回应
-
-### 时间序列预测新算法综述
-
-towardsdatascience.com](/linkedins-response-to-prophet-silverkite-and-greykite-4fd0131f64cb) 
+[](/pandas-is-not-enough-a-comprehensive-guide-to-alternative-data-wrangling-solutions-a4730ba8d0e4)  [](/a-step-by-step-guide-to-calculating-autocorrelation-and-partial-autocorrelation-8c4342b784e8)  [](/linkedins-response-to-prophet-silverkite-and-greykite-4fd0131f64cb)  
 
 # 参考
 

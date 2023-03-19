@@ -46,11 +46,7 @@ varinfo()
 
 如果你对 Julia 感兴趣，但是没有听说过 multiple dispatch，或者它在 Julia 中是什么样的——准备在下一集享受这个奇妙的范例吧。我们基本上可以将方法名定义为它们的别名和参数类型！这是一个自 ML 语言以来就存在的概念，但至少对于大型编程语言设计来说，有点不为人知。我有一整篇文章详细介绍了为什么多重调度在 Julia 中如此之好，实际上有趣的是，它使用了与今天相同的项目中的一些旧代码！
 
-[](/how-julia-perfected-multiple-dispatch-16675db772c2) [## 朱莉娅如何完善多重派遣
-
-### 让我们看看 Julia 语言是如何让多重调度变得完美的
-
-towardsdatascience.com](/how-julia-perfected-multiple-dispatch-16675db772c2) 
+[](/how-julia-perfected-multiple-dispatch-16675db772c2)  
 
 Julia 以一种巨大的方式出现在 dispatch 中，由于多重调度，这个列表中的许多元素都是可能的。这是一个关键特性，有太多的理由认为它很棒。但是，首先让我向您展示一个使用多重分派来扩展 length()函数的基本用法，例如，它相当于 Python 中的 len()。
 
@@ -75,11 +71,7 @@ end
 
 这个例子函数，_drop！()来自我最近开发的一个叫做 OddFrames.jl 的包。顺便说一下，它已经非常成熟了，并且即将有一个稳定的版本，所以如果你想看看，这里有链接！：
 
-[](https://github.com/ChifiSource/OddFrames.jl/tree/main) [## GitHub-chifi source/odd frames . JL:Julia 的独特数据管理平台
-
-### OddFrames.jl 是一个用于在 Julia 中管理数据的新包。轻到足以成为任何项目的依赖，但丰富…
-
-github.com](https://github.com/ChifiSource/OddFrames.jl/tree/main) 
+[](https://github.com/ChifiSource/OddFrames.jl/tree/main)  
 
 反正你也看到了，我有 _ 滴！()使用值绑定掩码
 

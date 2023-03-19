@@ -12,11 +12,7 @@
 
 这是我上一篇文章的延续，上一篇文章主要关注我的背景、数据科学宣传以及对学习模式的回顾。如果你还没有，就去看看吧。
 
-[](/data-science-career-switch-is-masters-degree-worth-it-d2d23e87b3de) [## 数据科学职业转换:硕士值得吗？
-
-### 第 1 部分:学习模式(在线与物理)
-
-towardsdatascience.com](/data-science-career-switch-is-masters-degree-worth-it-d2d23e87b3de) 
+[](/data-science-career-switch-is-masters-degree-worth-it-d2d23e87b3de)  
 
 在这篇文章中，我将讲述:
 
@@ -69,23 +65,11 @@ towardsdatascience.com](/data-science-career-switch-is-masters-degree-worth-it-d
 
 我选择了时间和技能。我想让我的职业转换更快。然而，我也想从工作中抽出一点时间，做些其他我没有时间做的事情。最大的缺点是财务上的机会成本。放弃一年的薪水，再加上学费，无疑会带来沉重的经济负担。但是，钱不是万能的，对吗？
 
-[](https://nathanthandoko.medium.com/membership) [## 通过我的推荐链接加入 Medium-Nathan Timothy Handoko
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-nathanthandoko.medium.com](https://nathanthandoko.medium.com/membership) 
+[](https://nathanthandoko.medium.com/membership)  
 
 查看我的其他文章:
 
-[](/7-data-visualization-best-practices-everyone-must-know-b68ebe329b1e) [## 每个人都必须知道的 7 个数据可视化最佳实践
-
-### 以更有效的方式传达你的故事
-
-towardsdatascience.com](/7-data-visualization-best-practices-everyone-must-know-b68ebe329b1e) [](https://medium.com/illumination/the-bible-in-word-clouds-6a7dc3bb38ab) [## 文字云中的圣经
-
-### 只需点击几下鼠标，即可获得圣经的主题概述
-
-medium.com](https://medium.com/illumination/the-bible-in-word-clouds-6a7dc3bb38ab) 
+[](/7-data-visualization-best-practices-everyone-must-know-b68ebe329b1e)  [](https://medium.com/illumination/the-bible-in-word-clouds-6a7dc3bb38ab)  
 
 加入我的电子邮件列表，每当我发布新帖子时都会收到通知！
 [https://nathanthandoko.medium.com/subscribe](https://nathanthandoko.medium.com/subscribe)

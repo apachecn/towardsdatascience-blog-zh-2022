@@ -31,19 +31,11 @@
 
 **如果想了解更多关于过程语言(类似于脚本语言)的知识，可以参考 BigQuery 文档。**
 
-**[](https://cloud.google.com/bigquery/docs/reference/standard-sql/procedural-language) [## 过程语言| BigQuery |谷歌云
-
-### Google 标准 SQL 过程语言允许您在一个查询中执行多个语句作为多语句…
-
-cloud.google.com](https://cloud.google.com/bigquery/docs/reference/standard-sql/procedural-language) 
+**[](https://cloud.google.com/bigquery/docs/reference/standard-sql/procedural-language)  
 
 作为一个相关主题(但不完全与本文相关)，您可能也对使用存储过程感兴趣，它也可以利用过程语言。
 
-[](https://cloud.google.com/bigquery/docs/procedures) [## 使用存储过程| BigQuery | Google Cloud
-
-### 存储过程是可以从其他查询或其他存储过程中调用的语句的集合。一个…
-
-cloud.google.com](https://cloud.google.com/bigquery/docs/procedures) 
+[](https://cloud.google.com/bigquery/docs/procedures)  
 
 # 使用 WITH 子句的变量
 

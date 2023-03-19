@@ -56,52 +56,16 @@ MaD 可用于将大型组件的结构重建成 CryoEM 图，这一点并不重�
 
 描述 MaD 和一些示例应用的主要预印本:
 
-[](https://www.biorxiv.org/content/10.1101/2022.06.22.497181v1) [## MaD:Cryo-EM 数据支持的大分子描述符用于综合动态模拟
-
-### 尽管最近取得了一些进展，确定大型柔性系统的原子结构仍然是一项具有挑战性的任务
-
-www.biorxiv.org](https://www.biorxiv.org/content/10.1101/2022.06.22.497181v1) 
+[](https://www.biorxiv.org/content/10.1101/2022.06.22.497181v1)  
 
 MaD 在我们实验室的网站和 GitHub 上:
 
-[](https://www.epfl.ch/labs/lbm/resources/) [## 资源
-
-### MaD(大分子描述符)提供了一个集中于中低分辨率的综合建模解决方案…
-
-www.epfl.ch](https://www.epfl.ch/labs/lbm/resources/) [](https://github.com/LBM-EPFL/MaD) [## GitHub - LBM-EPFL/MaD:一个使用中低分辨率集成建模的 python 工具…
-
-### 使用中低分辨率 cryo-EM 数据进行综合建模的 python 工具。测试数据(实验…
-
-github.com](https://github.com/LBM-EPFL/MaD) 
+[](https://www.epfl.ch/labs/lbm/resources/)  [](https://github.com/LBM-EPFL/MaD)  
 
 # 化学和结构生物学中更多的计算机和数据科学
 
 (只是几个亮点……)
 
-[](/google-proposes-new-method-to-derive-analytical-expressions-for-terms-in-quantum-mechanics-d70fff6e1ef2) [## 谷歌提出新方法推导量子力学术语的解析表达式…
-
-### 新方法以符号形式导出精确的泛函(量子力学计算的元素),因此…
-
-towardsdatascience.com](/google-proposes-new-method-to-derive-analytical-expressions-for-terms-in-quantum-mechanics-d70fff6e1ef2) [](/new-deep-learned-tool-designs-novel-proteins-with-high-accuracy-41ae2a7d23d8) [## 新的深度学习工具以高精度设计新的蛋白质
-
-### 贝克实验室的这款新软件设计了在潮湿实验室中实际工作的蛋白质。你可以用它来…
-
-towardsdatascience.com](/new-deep-learned-tool-designs-novel-proteins-with-high-accuracy-41ae2a7d23d8) [](/molecules-in-augmented-reality-from-ml-powered-recognition-of-everyday-objects-and-hand-drawn-584ef187a7c9) [## 增强现实中的分子，来自对日常物体和手绘的 ML 动力识别…
-
-### 一篇新论文介绍了一款智能手机应用，它可以识别日常用品中手绘的化学结构和分子
-
-towardsdatascience.com](/molecules-in-augmented-reality-from-ml-powered-recognition-of-everyday-objects-and-hand-drawn-584ef187a7c9) [](/new-preprint-describes-a-novel-parameter-free-geometric-transformer-of-atomic-coordinates-to-c6545150855e) [## 新的预印本描述了一种新颖的原子坐标的无参数几何变换…
-
-### 它的运行速度如此之快，甚至可以扫描大量的蛋白质结构来寻找易相互作用的氨基…
-
-towardsdatascience.com](/new-preprint-describes-a-novel-parameter-free-geometric-transformer-of-atomic-coordinates-to-c6545150855e) [](https://medium.com/advances-in-biological-science/can-we-predict-not-only-static-protein-structures-but-also-their-structural-diversity-fa1d9380fc34) [## 我们不仅能预测蛋白质的静态结构，还能预测它们的结构多样性吗？
-
-### 最近一项以特殊方式应用 AlphaFold 2 的工作表明这是可能的。
-
-medium.com](https://medium.com/advances-in-biological-science/can-we-predict-not-only-static-protein-structures-but-also-their-structural-diversity-fa1d9380fc34)  [## 这里是我所有关于蛋白质建模、CASP 和 AlphaFold 2 的同行评论和博客文章
-
-### 我在这里整理了我所有的同行评议文章(一些论文，一些评论，一个观点)和博客文章，关于…
-
-lucianosphere.medium.com](https://lucianosphere.medium.com/here-are-all-my-peer-reviewed-and-blog-articles-on-protein-modeling-casp-and-alphafold-2-d78f0a9feb61) 
+[](/google-proposes-new-method-to-derive-analytical-expressions-for-terms-in-quantum-mechanics-d70fff6e1ef2)  [](/new-deep-learned-tool-designs-novel-proteins-with-high-accuracy-41ae2a7d23d8)  [](/molecules-in-augmented-reality-from-ml-powered-recognition-of-everyday-objects-and-hand-drawn-584ef187a7c9)  [](/new-preprint-describes-a-novel-parameter-free-geometric-transformer-of-atomic-coordinates-to-c6545150855e)  [](https://medium.com/advances-in-biological-science/can-we-predict-not-only-static-protein-structures-but-also-their-structural-diversity-fa1d9380fc34)    
 
 www.lucianoabriata.com*[***我写作并拍摄我广泛兴趣范围内的一切事物:自然、科学、技术、编程等等。***](https://www.lucianoabriata.com/) **[***成为媒介会员***](https://lucianosphere.medium.com/membership) *访问其所有故事(我免费获得小额收入的平台的附属链接)和* [***订阅获取我的新故事***](https://lucianosphere.medium.com/subscribe) ***通过电子邮件*** *。到* ***咨询关于小职位*** *查看我的* [***服务页面这里***](https://lucianoabriata.altervista.org/services/index.html) *。你可以* [***这里联系我***](https://lucianoabriata.altervista.org/office/contact.html) ***。******

@@ -77,11 +77,7 @@ Anki 闪存卡(左:问题，右:答案)——(图片由作者提供)
 
 **为了支持你的学习之旅，你想用成千上万的卡片来喂养你的 Anki，并且在你的通勤和空闲时间每天练习 2 个小时。**
 
-**[](http://samirsaci.com) [## Samir Saci |数据科学与生产力
-
-### 专注于数据科学、个人生产力、自动化、运筹学和可持续发展的技术博客
-
-samirsaci.com](http://samirsaci.com)** 
+**[](http://samirsaci.com) ** 
 
 # **解决办法**
 
@@ -173,8 +169,4 @@ samirsaci.com](http://samirsaci.com)**
 
 ****请随时关注我，我愿意分享和交流与技术、供应链分析、企业家精神和生产力相关的话题。****
 
-****[](http://samirsaci.com) [## Samir Saci |数据科学与生产力
-
-### 专注于数据科学、个人生产力、自动化、运筹学和可持续发展的技术博客
-
-samirsaci.com](http://samirsaci.com)****
+****[](http://samirsaci.com) ****

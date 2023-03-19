@@ -120,12 +120,4 @@ def tile_bbox(z,x,y):
 
 ## 关于 Tilesets 的更多信息
 
-[](https://docs.microsoft.com/en-us/bingmaps/articles/bing-maps-tile-system?redirectedfrom=MSDN) [## Bing 地图平铺系统- Bing 地图
-
-### Bing 地图提供了一个世界地图，用户可以直接操纵它进行平移和缩放。为了让这种互动变得快速和…
-
-docs.microsoft.com](https://docs.microsoft.com/en-us/bingmaps/articles/bing-maps-tile-system?redirectedfrom=MSDN) [](https://wiki.openstreetmap.org/wiki/Slippy_map_tilenames) [## 滑动地图磁贴名称
-
-### 本文描述 Slippy 地图应用程序的文件命名约定。拼贴是 256 × 256 像素的 PNG 文件…
-
-wiki.openstreetmap.org](https://wiki.openstreetmap.org/wiki/Slippy_map_tilenames)
+[](https://docs.microsoft.com/en-us/bingmaps/articles/bing-maps-tile-system?redirectedfrom=MSDN)  [](https://wiki.openstreetmap.org/wiki/Slippy_map_tilenames) 

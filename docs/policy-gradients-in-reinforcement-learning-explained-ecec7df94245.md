@@ -312,31 +312,11 @@ softmax 策略的梯度
 
 **Python 实现**(例如，使用 TensorFlow 定义的策略网络)也不需要太多代码——查看我下面的文章中关于连续和离散变体的例子。
 
-[](/a-minimal-working-example-for-discrete-policy-gradients-in-tensorflow-2-0-d6a0d6b1a6d7) [## TensorFlow 2.0 中离散策略梯度的最小工作示例
-
-### 一个训练离散演员网络的多兵种土匪例子。在梯度胶带功能的帮助下…
-
-towardsdatascience.com](/a-minimal-working-example-for-discrete-policy-gradients-in-tensorflow-2-0-d6a0d6b1a6d7) [](/a-minimal-working-example-for-continuous-policy-gradients-in-tensorflow-2-0-d3413ec38c6b) [## TensorFlow 2.0 中连续策略梯度的最小工作示例
-
-### 一个简单的训练高斯演员网络的例子。定义自定义损失函数并应用梯度胶带…
-
-towardsdatascience.com](/a-minimal-working-example-for-continuous-policy-gradients-in-tensorflow-2-0-d3413ec38c6b) [](/cliff-walking-problem-with-the-discrete-policy-gradient-algorithm-59d1900d80d8) [## 基于离散策略梯度算法的悬崖行走问题
-
-### 用 Python 实现了一个完整的增强算法。手动执行这些步骤来说明内部…
-
-towardsdatascience.com](/cliff-walking-problem-with-the-discrete-policy-gradient-algorithm-59d1900d80d8) 
+[](/a-minimal-working-example-for-discrete-policy-gradients-in-tensorflow-2-0-d6a0d6b1a6d7)  [](/a-minimal-working-example-for-continuous-policy-gradients-in-tensorflow-2-0-d3413ec38c6b)  [](/cliff-walking-problem-with-the-discrete-policy-gradient-algorithm-59d1900d80d8)  
 
 如果你想更进一步，也可以阅读我关于自然梯度和 TRPO 的文章，它们构成了当代政策梯度算法的基础:
 
-[](/natural-policy-gradients-in-reinforcement-learning-explained-2265864cf43c) [## 解释强化学习中的自然策略梯度
-
-### 传统的政策梯度方法存在根本缺陷。自然梯度收敛得更快更好，形成…
-
-towardsdatascience.com](/natural-policy-gradients-in-reinforcement-learning-explained-2265864cf43c) [](/trust-region-policy-optimization-trpo-explained-4b56bd206fc2) [## 解释了信任区域策略优化(TRPO)
-
-### 强化学习算法 TRPO 建立在自然策略梯度算法的基础上，确保更新保持…
-
-towardsdatascience.com](/trust-region-policy-optimization-trpo-explained-4b56bd206fc2) 
+[](/natural-policy-gradients-in-reinforcement-learning-explained-2265864cf43c)  [](/trust-region-policy-optimization-trpo-explained-4b56bd206fc2)  
 
 如果你成功了，恭喜你！掌握策略梯度算法需要一些时间，但一旦掌握，它们就为混合方法(如行动者-批评家方法)以及更高级的方法(如近似策略优化)打开了大门。因此，他们的理解对任何 RL 从业者都是至关重要的。
 

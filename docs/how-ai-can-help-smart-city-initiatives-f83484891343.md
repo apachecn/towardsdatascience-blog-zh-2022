@@ -20,11 +20,7 @@
 *   较新的自动化系统
 *   公共产品和服务的数字化交付
 
-[](https://www.businessgoing.digital/artificial-intelligence-in-smart-cities/) [## 智能城市中的人工智能——商业走向数字化
-
-### 城市化的持续发展带来了新的挑战。根据联合国经济部…
-
-商务旅行网](https://www.businessgoing.digital/artificial-intelligence-in-smart-cities/) 
+[](https://www.businessgoing.digital/artificial-intelligence-in-smart-cities/)  
 
 这是一项至关重要的任务，因为**数据的爆炸规模和**快速城市化不可避免的问题的维度。根据联合国经济和社会事务部的数据，目前，世界上 55%的人口居住在城市地区。预计到 2050 年，这一比例将上升至 68%。
 
@@ -34,11 +30,7 @@
 
 人们正积极努力为管理如此巨大的人类及其愿望的融合奠定一个[数字主干](https://www.businessgoing.digital/artificial-intelligence-in-smart-cities/)。最近在物联网方面的努力集中在将数十亿个传感器[](https://www.smartcitiesworld.net/news/news/iot-connected-devices-predicted-to-reach-7-billion-2132)**(各种类型和功能)放置在世界主要城市周围。这是获取数据的第一步。但是，吸收、分析、理解和处理“大数据”需要对数字和计算系统进行变革。**
 
-**[](https://www.smartcitiesworld.net/news/news/iot-connected-devices-predicted-to-reach-7-billion-2132) [## 物联网连接设备预计将达到 70 亿台
-
-### 根据一项研究，到 2022 年，将会有 70 亿台联网的无线传感、跟踪和控制设备
-
-www.smartcitiesworld.net](https://www.smartcitiesworld.net/news/news/iot-connected-devices-predicted-to-reach-7-billion-2132) 
+**[](https://www.smartcitiesworld.net/news/news/iot-connected-devices-predicted-to-reach-7-billion-2132)  
 
 # 城市计算机视觉中的人工智能——挑战与理念
 
@@ -54,11 +46,7 @@ www.smartcitiesworld.net](https://www.smartcitiesworld.net/news/news/iot-connect
 
 在这方面，已经有一些来自科技创业公司 的 [**新颖的想法和举措。这是一个很好的开始。**](https://www.hayden.ai/safe-sense-app)
 
-[](https://www.hayden.ai/safe-sense-app) [## 安全感知 App——海登 AI
-
-### 安全感知应用程序将你的手机变成一个人工智能驱动的仪表盘摄像头，自动报告交通安全…
-
-www.hayden.ai](https://www.hayden.ai/safe-sense-app) 
+[](https://www.hayden.ai/safe-sense-app)  
 
 与此同时，我们可以想出一些关于如何稍微调整基本 AI/ML 问题的想法，以便大量涌入的数据可以在短期内得到很好的利用。
 
@@ -176,8 +164,4 @@ www.hayden.ai](https://www.hayden.ai/safe-sense-app)
 
 ***喜欢这篇文章吗？成为* [***中等会员***](https://medium.com/@tirthajyoti/membership) *继续* ***无限制学习*** *。如果您使用下面的链接，* ***，我会收到您的一部分会员费，而不会对您产生额外的费用*** *。***
 
-**[](https://medium.com/@tirthajyoti/membership) [## 通过我的推荐链接加入媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@tirthajyoti/membership)****
+**[](https://medium.com/@tirthajyoti/membership) ****

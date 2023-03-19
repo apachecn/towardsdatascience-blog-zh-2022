@@ -12,19 +12,11 @@
 
 Julia 编程语言及其功能的一个非常强大的地方是对闭包的强大支持。也就是说，在将函数视为数据方面，Julia 是一种出色的语言。使用 dispatch 函数是完全可能的，因此会产生一些非常棒的语法。当涉及到使类型和函数协同工作以实现给定目标时，这种语法也有许多应用。如果您不熟悉闭包函数，这可能是本文信息的一个先决条件。幸运的是，我正好有一篇文章更详细地介绍了这些是什么，你可以在这里阅读:
 
-[](/what-on-earth-are-closures-a4f9c7c652d2) [## 闭包到底是什么？
-
-### 闭包函数及其使用方法概述
-
-towardsdatascience.com](/what-on-earth-are-closures-a4f9c7c652d2) 
+[](/what-on-earth-are-closures-a4f9c7c652d2)  
 
 另一篇文章提供了更多相关信息，介绍了这类事情在 Julia 中通常是如何通过匿名函数定义来实现的，在接下来的文章中也会有更详细的讨论:
 
-[](/what-on-earth-is-an-anonymous-function-f8043eb845f3) [## 匿名函数到底是什么？
-
-### 揭开 Julia 中匿名函数和类型的来龙去脉
-
-towardsdatascience.com](/what-on-earth-is-an-anonymous-function-f8043eb845f3) 
+[](/what-on-earth-is-an-anonymous-function-f8043eb845f3)  
 
 如果代码是你正在寻找的，我在这个项目中使用的代码可以在 Github 的这个资源库中以[笔记本格式获得。](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/Functions%20as%20types%20in%20Julia.ipynb)
 
@@ -214,15 +206,7 @@ filter!(x -> x > 15, x)
 
 虽然我们可以简单地通过名称将函数作为参数传递，但是还有另一个非常好的语法您可能想知道。这种语法称为 do/end 语法，它允许您在给定调用后将函数定义为代码块，然后将该函数作为参数进行处理。作为一个例子，我引用了我的代数数组的实现。这里有两个链接，一个是我详细介绍这些阵列如何工作的文章，另一个是这个项目的笔记本资源:
 
-[](/my-new-big-brain-way-to-handle-big-data-creatively-in-julia-57be77fc6a04) [## 我在 Julia 中创造性地处理大数据的新大脑方法
-
-### 我想出了为了应用表达式来压缩内存中的大量数据，让我们来看看吧
-
-towardsdatascience.com](/my-new-big-brain-way-to-handle-big-data-creatively-in-julia-57be77fc6a04) [](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/Algebraic%20Arrays.ipynb) [## Emmetts-DS-笔记本/代数阵列. ipynb at master emmett GB/Emmetts-DS-笔记本
-
-### 各种项目的随机笔记本。通过创建帐户，为 emmettgb/Emmetts-DS 笔记本电脑的开发做出贡献…
-
-github.com](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/Algebraic%20Arrays.ipynb) 
+[](/my-new-big-brain-way-to-handle-big-data-creatively-in-julia-57be77fc6a04)  [](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/Algebraic%20Arrays.ipynb)  
 
 代数数组基本上是可以用某种规范形式表示的数据，所以计算机只计算它需要处理的部分。这个想法是将所有这些内存消耗和事物排除在环境之外，通过选择何时与什么数据进行交互，使科学在更大范围内变得更加可行。Julia 实际上使这个实现变得非常简单，这要归功于完成这类事情所需要的非常简单的多重调度绑定。无论如何，这里是看看什么类型，然后是使用 do/end 语法计算函数。
 

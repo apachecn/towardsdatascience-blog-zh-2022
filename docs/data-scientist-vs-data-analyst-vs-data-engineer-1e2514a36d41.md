@@ -117,8 +117,4 @@
 
 最后，我强烈建议不要只看头衔，而要仔细看职位描述，真正了解这个角色在他们公司做什么，以及这些日常工作是否符合你的期望。
 
-[](https://hoooching.medium.com/membership) [## 通过我的推荐链接-何尚谦加入媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-hoooching.medium.com](https://hoooching.medium.com/membership)
+[](https://hoooching.medium.com/membership) 

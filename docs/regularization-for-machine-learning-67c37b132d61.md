@@ -155,14 +155,6 @@ Dropout 是训练神经网络时随机丢弃节点的技术(尽管它可以适�
 
 如果你喜欢这篇文章，你可能也会喜欢这些:
 
-[](/a-new-better-version-of-the-k-nearest-neighbors-algorithm-12af81391682) [## K-最近邻算法的一个新的更好的版本
-
-### 通过使用正则化来改善 KNN 的结果
-
-towardsdatascience.com](/a-new-better-version-of-the-k-nearest-neighbors-algorithm-12af81391682) [](/hypothesis-testing-a23852264d09) [## 假设检验
-
-### 它是什么以及如何在 Python 中实现它
-
-towardsdatascience.com](/hypothesis-testing-a23852264d09) 
+[](/a-new-better-version-of-the-k-nearest-neighbors-algorithm-12af81391682)  [](/hypothesis-testing-a23852264d09)  
 
 > 如果你想进一步讨论，请随时通过 LinkedIn 联系我，这将是我的荣幸(老实说)。

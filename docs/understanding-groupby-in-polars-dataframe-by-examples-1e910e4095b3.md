@@ -454,11 +454,7 @@ q.collect()
 
 作者图片
 
-[](https://weimenglee.medium.com/membership) [## 加入媒介与我的介绍链接-李伟孟
-
-### 阅读李维孟(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-weimenglee.medium.com](https://weimenglee.medium.com/membership) 
+[](https://weimenglee.medium.com/membership)  
 
 > 我将在即将到来的新加坡 ML 会议(2022 年 11 月 22-24 日)上主持一个关于 Polars 的研讨会。如果你想在 Polars 数据框架上快速起步，请在[https://ml conference . ai/machine-learning-advanced-development/using-Polars-for-data-analytics-workshop/](https://mlconference.ai/machine-learning-advanced-development/using-polars-for-data-analytics-workshop/)注册我的研讨会。
 
@@ -470,20 +466,4 @@ weimenglee.medium.com](https://weimenglee.medium.com/membership)
 
 以下是我以前关于 Polars 数据框架的文章，供您参考:
 
-[](/getting-started-with-the-polars-dataframe-library-6f9e1c014c5c) [## Polars 数据帧库入门
-
-### 了解如何使用 Polars dataframe 库操作表格数据(并替换 Pandas)
-
-towardsdatascience.com](/getting-started-with-the-polars-dataframe-library-6f9e1c014c5c) [](/understanding-lazy-evaluation-in-polars-b85ccb864d0c) [## 理解 Polars 中的惰性求值
-
-### 了解什么是急切执行和延迟执行，以及如何使用延迟执行来优化查询
-
-towardsdatascience.com](/understanding-lazy-evaluation-in-polars-b85ccb864d0c) [](/visualizing-polars-dataframes-using-plotly-express-8da4357d2ee0) [## 使用 Plotly Express 可视化 Polars 数据帧
-
-### 了解如何绘制极坐标数据帧
-
-towardsdatascience.com](/visualizing-polars-dataframes-using-plotly-express-8da4357d2ee0) [](/manipulating-values-in-polars-dataframes-1087d88dd436) [## 处理极坐标数据框中的值
-
-### 学习如何使用 Polars 中的各种方法来操作数据框
-
-towardsdatascience.com](/manipulating-values-in-polars-dataframes-1087d88dd436)
+[](/getting-started-with-the-polars-dataframe-library-6f9e1c014c5c)  [](/understanding-lazy-evaluation-in-polars-b85ccb864d0c)  [](/visualizing-polars-dataframes-using-plotly-express-8da4357d2ee0)  [](/manipulating-values-in-polars-dataframes-1087d88dd436) 

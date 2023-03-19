@@ -63,11 +63,7 @@
 
 **更新:**我在下面的文章中介绍了第三种反连接方法。如果您已经理解了如何使用`EXISTS`子子句，请跳到本文中的“如何将`EXISTS`子句用于反连接”一节。
 
-[](https://medium.com/learning-sql/understanding-the-sql-exist-clause-f3eaa3c2c34b) [## 了解 SQL EXISTS 子句
-
-### 以及何时应该考虑使用它
-
-medium.com](https://medium.com/learning-sql/understanding-the-sql-exist-clause-f3eaa3c2c34b) 
+[](https://medium.com/learning-sql/understanding-the-sql-exist-clause-f3eaa3c2c34b)  
 
 ## 结论
 
@@ -75,23 +71,11 @@ medium.com](https://medium.com/learning-sql/understanding-the-sql-exist-clause-f
 
 感谢阅读！
 
-[](https://medium.com/@andreasmartinson/membership) [## 加入 Medium 并通过我的推荐链接支持我
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@andreasmartinson/membership) 
+[](https://medium.com/@andreasmartinson/membership)  
 
 如果你喜欢这篇文章，请通过 LinkedIn 与我联系，或者看看我的另一个故事:
 
-[](/10-quick-sql-tips-after-writing-daily-in-sql-for-3-years-37bdba0637d0) [## 三年来每天用 SQL 写作的 10 个快速 SQL 技巧
-
-### 这些技巧解决了您作为数据专业人员将会遇到的常见 SQL 问题
-
-towardsdatascience.com](/10-quick-sql-tips-after-writing-daily-in-sql-for-3-years-37bdba0637d0) [](/5-window-function-examples-to-take-your-sql-skills-to-the-next-level-2b3306650bb6) [## 5 个窗口函数示例，让您的 SQL 技能更上一层楼
-
-### 如果你想掌握 SQL 中的数据操作，你需要理解窗口函数
-
-towardsdatascience.com](/5-window-function-examples-to-take-your-sql-skills-to-the-next-level-2b3306650bb6) 
+[](/10-quick-sql-tips-after-writing-daily-in-sql-for-3-years-37bdba0637d0)  [](/5-window-function-examples-to-take-your-sql-skills-to-the-next-level-2b3306650bb6)  
 
 **参考文献**
 

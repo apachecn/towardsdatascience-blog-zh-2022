@@ -334,30 +334,10 @@ Example fails:
 
 随意发挥，并在这里叉这篇文章的源代码:
 
-[](https://github.com/khuyentran1401/Data-science/blob/master/nlp/checklist/checklist_examples.ipynb) [## 数据科学/check list _ examples . ipynb at master khuyentran 1401/数据科学
-
-### 收集有用的数据科学主题以及代码和文章-Data-science/check list _ examples . ipynb at master…
-
-github.com](https://github.com/khuyentran1401/Data-science/blob/master/nlp/checklist/checklist_examples.ipynb) 
+[](https://github.com/khuyentran1401/Data-science/blob/master/nlp/checklist/checklist_examples.ipynb)  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的数据科学工具。你可以在 LinkedIn 和 Twitter 上与我联系。
 
 如果你想查看我写的所有文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/pytest-for-data-scientists-2990319e55e6) [## 数据科学家 Pytest
-
-### 适用于您的数据科学项目的 Pytest 综合指南
-
-towardsdatascience.com](/pytest-for-data-scientists-2990319e55e6) [](/introduction-to-schema-a-python-libary-to-validate-your-data-c6d99e06d56a) [## 模式介绍:验证数据的 Python 库
-
-### 验证您的数据变得更加复杂！
-
-towardsdatascience.com](/introduction-to-schema-a-python-libary-to-validate-your-data-c6d99e06d56a) [](/deepdiff-recursively-find-and-ignore-trivial-differences-using-python-231a5524f41d) [## DeepDiff——使用 Python 递归查找并忽略细微差异
-
-### 比较两个 Python 对象时出现有意义的断言错误
-
-towardsdatascience.com](/deepdiff-recursively-find-and-ignore-trivial-differences-using-python-231a5524f41d) [](/great-expectations-always-know-what-to-expect-from-your-data-51214866c24) [## 远大的期望:永远知道从你的数据中可以期待什么
-
-### 使用 Python 确保数据按预期工作
-
-towardsdatascience.com](/great-expectations-always-know-what-to-expect-from-your-data-51214866c24)
+[](/pytest-for-data-scientists-2990319e55e6)  [](/introduction-to-schema-a-python-libary-to-validate-your-data-c6d99e06d56a)  [](/deepdiff-recursively-find-and-ignore-trivial-differences-using-python-231a5524f41d)  [](/great-expectations-always-know-what-to-expect-from-your-data-51214866c24) 

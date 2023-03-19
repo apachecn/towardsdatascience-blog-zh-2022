@@ -12,11 +12,7 @@
 
 有多种技术可以显式处理数据中的缺失值。在我以前的一篇文章中，我们讨论了在预处理管道中处理缺失值的 7 种技术:
 
-[](/7-ways-to-handle-missing-values-in-machine-learning-1a6326adf79e) [## 机器学习中处理缺失值的 7 种方法
-
-### 处理数据集中缺失值的常用策略
-
-towardsdatascience.com](/7-ways-to-handle-missing-values-in-machine-learning-1a6326adf79e) 
+[](/7-ways-to-handle-missing-values-in-machine-learning-1a6326adf79e)  
 
 大多数机器学习算法无法处理数据集中的缺失值，因此必须在建模管道之前处理缺失值。在本文中，我们将讨论不需要显式处理缺失值的机器学习算法:
 
@@ -72,19 +68,11 @@ k-NN 和随机森林算法也可以支持缺失值。k-NN 算法通过取 K 个�
 
 在我的上一篇文章中，我们讨论了显式处理缺失值的 7 种技术:
 
-[](/7-ways-to-handle-missing-values-in-machine-learning-1a6326adf79e) [## 机器学习中处理缺失值的 7 种方法
-
-### 处理数据集中缺失值的常用策略
-
-towardsdatascience.com](/7-ways-to-handle-missing-values-in-machine-learning-1a6326adf79e) 
+[](/7-ways-to-handle-missing-values-in-machine-learning-1a6326adf79e)  
 
 如果样本数据有很多缺失值，我们可以使用剩余的数据来预测缺失的记录。我在以前的一篇文章中简要讨论过这个问题:
 
-[](/7-ways-to-handle-missing-values-in-machine-learning-1a6326adf79e) [## 机器学习中处理缺失值的 7 种方法
-
-### 处理数据集中缺失值的常用策略
-
-towardsdatascience.com](/7-ways-to-handle-missing-values-in-machine-learning-1a6326adf79e) 
+[](/7-ways-to-handle-missing-values-in-machine-learning-1a6326adf79e)  
 
 # 参考资料:
 

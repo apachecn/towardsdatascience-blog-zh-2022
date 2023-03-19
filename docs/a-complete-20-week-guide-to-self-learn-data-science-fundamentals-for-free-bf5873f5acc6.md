@@ -26,11 +26,7 @@
 
 关于 Python 最好的入门课程之一可以在 Kaggle 中找到。下面是课程的链接。完成本简介课程大约需要 5 个小时。
 
- [## 学习 Python 教程
-
-### 你可以立即应用的实用数据技能:这就是你将在这些免费的微型课程中学到的东西。他们是…
-
-www.kaggle.com](https://www.kaggle.com/learn/python) 
+  
 
 几乎你在数据科学项目中做的任何事情都会涉及到编码。从读取数据源中的数据、探索数据、提取见解、转换、特征工程、构建模型、评估性能和部署。
 
@@ -46,11 +42,7 @@ www.kaggle.com](https://www.kaggle.com/learn/python)
 
 下面是一个免费的互动平台，可以开始学习 Python。
 
-[](https://www.learnpython.org) [## 学习 Python -免费的交互式 Python 教程
-
-### 这个网站得到了 DataCamp 的大力支持。DataCamp 为数据科学提供在线互动 Python 教程…
-
-www.learnpython.org](https://www.learnpython.org) 
+[](https://www.learnpython.org)  
 
 # 第 4 周到第 6 周—处理数据和操作
 
@@ -58,19 +50,11 @@ www.learnpython.org](https://www.learnpython.org)
 
 熊猫图书馆提供了广泛的功能，使得数据分析变得非常容易。如果你是 Python 或 Pandas 的新手，那么从 PyData 的这个简单的 10 分钟教程开始吧。
 
-[](https://pandas.pydata.org/docs/user_guide/10min.html) [## 熊猫 10 分钟-熊猫 1.3.5 文档
-
-### 这是对熊猫的简短介绍，主要面向新用户。你可以在烹饪书中看到更复杂的食谱…
-
-pandas.pydata.org](https://pandas.pydata.org/docs/user_guide/10min.html) 
+[](https://pandas.pydata.org/docs/user_guide/10min.html)  
 
 一旦你熟悉了基本的功能，这里有一个来自 Kaggle 的简短课程。这将有助于通过数据集学习熊猫。
 
- [## 学习熊猫教程
-
-### 你可以立即应用的实用数据技能:这就是你将在这些免费的微型课程中学到的东西。他们是…
-
-www.kaggle.com](https://www.kaggle.com/learn/pandas) 
+  
 
 提高你的熊猫技能的最好方法是更经常地使用它们。在 Kaggle 上挑选一个有趣的数据集。记下所有你需要答案的有趣问题。然后开始探索数据，得到那些问题的答案。这里挑选一个有趣的数据集很重要。这有助于保持你足够高的兴趣，这对学习很有帮助。
 
@@ -96,15 +80,7 @@ NumPy 是一个能够在数组上高效工作的库。很多时候我们需要�
 
 如果你是一个绝对的初学者，那么下面的文章将有助于更好地理解 NumPy，所执行的操作，以及可视化输入输出的流行功能。
 
-[](https://numpy.org/devdocs/user/absolute_beginners.html) [## NumPy:初学者的绝对基础——NumPy 1.23 . dev 0 手册
-
-### 欢迎来到 NumPy 的绝对初学者指南！如果您有任何意见或建议，请随时联系…
-
-numpy.org](https://numpy.org/devdocs/user/absolute_beginners.html) [](https://betterprogramming.pub/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d) [## Numpy 图解:NumPy 的视觉指南
-
-### 温习你的数学或从头开始学习
-
-better 编程. pub](https://betterprogramming.pub/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d) 
+[](https://numpy.org/devdocs/user/absolute_beginners.html)  [](https://betterprogramming.pub/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d)  
 
 在许多数据科学项目中，我们会处理数字数据。非数字属性通常也转换成数字数据。因此，对于热衷于数据科学的人来说，学习使用 NumPy 是至关重要的。了解 NumPy 的关键主题是，
 
@@ -133,19 +109,11 @@ better 编程. pub](https://betterprogramming.pub/numpy-illustrated-the-visual-g
 
 下面的文章可以帮助你找到一条使用 Python 学习可视化的道路。
 
-[](/how-to-do-visualization-using-python-from-scratch-651304b5ee7a) [## 如何从头开始使用 python 进行可视化
-
-### 使用 Matplotlib 和 Seaborn 库的分步指南
-
-towardsdatascience.com](/how-to-do-visualization-using-python-from-scratch-651304b5ee7a) 
+[](/how-to-do-visualization-using-python-from-scratch-651304b5ee7a)  
 
 这里有一个来自 Kaggle 的简短课程，可以帮助你学习可视化。
 
- [## 学习数据可视化教程
-
-### 你可以立即应用的实用数据技能:这就是你将在这些免费的微型课程中学到的东西。他们是…
-
-www.kaggle.com](https://www.kaggle.com/learn/data-visualization) 
+  
 
 # 第 11 至 12 周—数据科学统计学
 
@@ -164,11 +132,7 @@ www.kaggle.com](https://www.kaggle.com/learn/data-visualization)
 
 Khan Academy 的以下课程是一个很好的数据科学统计学入门课程
 
-[](https://www.khanacademy.org/math/statistics-probability) [## 统计和概率|可汗学院
-
-### 如果您看到此消息，这意味着我们在网站上加载外部资源时遇到了问题。如果你是…
-
-www.khanacademy.org](https://www.khanacademy.org/math/statistics-probability) 
+[](https://www.khanacademy.org/math/statistics-probability)  
 
 # 第 13 至 15 周—学习 SQL
 
@@ -176,23 +140,11 @@ www.khanacademy.org](https://www.khanacademy.org/math/statistics-probability)
 
 那些来自非编程背景的人需要专注并建立 SQL 技能。那些在学术上接触过 SQL 的人也需要更多的实践来更好地理解关键概念。在现实生活中，数据可能以不同的粒度出现在不同的表中。只有具备良好的 SQL 技能，您才能将数据转换成能够回答您的问题的格式。通过处理数据来学习 SQL 的一个好平台是，
 
-[](https://mode.com/sql-tutorial/) [## 模式 SQL 教程| -模式
-
-### 学会用 SQL 用数据回答问题。不需要编码经验。
-
-mode.com](https://mode.com/sql-tutorial/) 
+[](https://mode.com/sql-tutorial/)  
 
 如果你正在寻找一个免费的选择，那么 Kaggle 和 [Datacamp](https://www.datacamp.com/courses/introduction-to-sql) 提供了一个非常好的免费学习 SQL 的课程。以下是课程的链接
 
- [## 学习 SQL 入门教程
-
-### 你可以立即应用的实用数据技能:这就是你将在这些免费的微型课程中学到的东西。他们是…
-
-www.kaggle.com](https://www.kaggle.com/learn/intro-to-sql)  [## 学习高级 SQL 教程
-
-### 你可以立即应用的实用数据技能:这就是你将在这些免费的微型课程中学到的东西。他们是…
-
-www.kaggle.com](https://www.kaggle.com/learn/advanced-sql) 
+    
 
 下面是一些常用的 SQL 概念，
 
@@ -210,27 +162,15 @@ www.kaggle.com](https://www.kaggle.com/learn/advanced-sql)
 
 为了更好地理解数据分析中涉及的不同步骤，请阅读下面的文章。
 
-[](https://careerfoundry.com/en/blog/data-analytics/the-data-analysis-process-step-by-step/) [## 数据分析过程的逐步指南[2022]
-
-### 像任何科学学科一样，数据分析遵循严格的一步一步的过程。每个阶段需要不同的…
-
-careerfoundry.com](https://careerfoundry.com/en/blog/data-analytics/the-data-analysis-process-step-by-step/) 
+[](https://careerfoundry.com/en/blog/data-analytics/the-data-analysis-process-step-by-step/)  
 
 了解探索性数据分析中常用的技术。此外，要知道它们是如何有用的。查看下面的 Kaggle 笔记本，
 
-[](https://www.kaggle.com/kashnitsky/topic-1-exploratory-data-analysis-with-pandas) [## 话题 1。熊猫的探索性数据分析
-
-### 使用 Kaggle 笔记本探索和运行机器学习代码|使用来自 mlcourse.ai 的数据
-
-www.kaggle.com](https://www.kaggle.com/kashnitsky/topic-1-exploratory-data-analysis-with-pandas) 
+[](https://www.kaggle.com/kashnitsky/topic-1-exploratory-data-analysis-with-pandas)  
 
 在彻底的数据分析之后，下一步是特征工程。像其他任何东西一样，这些数据都不会是完美的。它将有许多问题，并且可能不是为某些算法或模型准备的格式。在这些情况下，我们需要使用合适的转换技术。下面是一个很好的特征工程入门课程，
 
- [## 学习特征工程教程
-
-### 你可以立即应用的实用数据技能:这就是你将在这些免费的微型课程中学到的东西。他们是…
-
-www.kaggle.com](https://www.kaggle.com/learn/feature-engineering) 
+  
 
 一些常用的特征工程技术是，
 
@@ -251,11 +191,7 @@ www.kaggle.com](https://www.kaggle.com/learn/feature-engineering)
 
 如果你在尝试自学数据科学，寻找路线图。这是我根据 100 多个小时的研究准备的路线图。这个路线图有一个精选的流行免费资源列表，用于学习数据科学中的重要概念，它包括链接分配问题、面试问题和其他相关阅读材料
 
-[](https://rsharankumar.gumroad.com/l/yufkcc) [## 自学数据科学基础知识
-
-### 学习基本数据科学概念的主题和最佳资源的精选列表。跳过数百小时的…
-
-rsharankumar.gumroad.com](https://rsharankumar.gumroad.com/l/yufkcc) 
+[](https://rsharankumar.gumroad.com/l/yufkcc)  
 
 ## 记住这是一次长途旅行
 
@@ -273,11 +209,7 @@ rsharankumar.gumroad.com](https://rsharankumar.gumroad.com/l/yufkcc)
 
 建立一个作品集网站非常简单。你不需要任何先前的网站开发经验来为你建立一个组合网站。如果你正在寻找为自己建立一个投资组合网站。查看下面的文章，它解释了为你建立一个的步骤。
 
-[](/how-to-create-a-stunning-personal-portfolio-website-for-free-50ec15b059dd) [## 如何免费创建一个令人惊叹的个人投资组合网站
-
-### 帮助你创建一个简单的指南。不需要专业知识！
-
-towardsdatascience.com](/how-to-create-a-stunning-personal-portfolio-website-for-free-50ec15b059dd) 
+[](/how-to-create-a-stunning-personal-portfolio-website-for-free-50ec15b059dd)  
 
 # 保持联系
 

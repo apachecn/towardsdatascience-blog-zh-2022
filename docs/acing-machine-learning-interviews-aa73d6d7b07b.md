@@ -164,12 +164,4 @@
 
 我错过了什么吗？请不要犹豫，直接在 [LinkedIn](https://www.linkedin.com/in/aliakseimikhailiuk/) 或 [Twitter](https://twitter.com/mikhailiuka) 上给我留言、评论或发消息吧！
 
-[](/nine-tools-i-wish-i-mastered-before-my-phd-in-machine-learning-708c6dcb2fb0) [## 我希望在攻读机器学习博士学位之前掌握的九种工具
-
-### 无论你是建立一个启动或取得科学突破，这些工具将把你的 ML 管道到…
-
-towardsdatascience.com](/nine-tools-i-wish-i-mastered-before-my-phd-in-machine-learning-708c6dcb2fb0) [](/three-soft-skills-every-phd-student-gets-for-free-f63f4b1d3f2d) [## 每个博士生免费获得的三项软技能
-
-### 我在攻读机械博士期间学到的关于研究、沟通和团队工作的技巧和诀窍的综合列表…
-
-towardsdatascience.com](/three-soft-skills-every-phd-student-gets-for-free-f63f4b1d3f2d)
+[](/nine-tools-i-wish-i-mastered-before-my-phd-in-machine-learning-708c6dcb2fb0)  [](/three-soft-skills-every-phd-student-gets-for-free-f63f4b1d3f2d) 

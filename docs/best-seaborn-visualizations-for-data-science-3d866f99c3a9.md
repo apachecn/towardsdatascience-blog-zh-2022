@@ -16,11 +16,7 @@
 
 在我们开始这篇关于 seaborn 的文章之前，我建议从下面提供的链接中查看我以前的一篇关于 matplotlib 可视化技术的文章。这应该是更熟悉不同类型的可视化的一个很好的起点。
 
-[](/8-best-visualizations-to-consider-for-your-data-science-projects-b9ace21564a) [## 为您的数据科学项目考虑的 8 个最佳可视化！
-
-### 分析数据科学项目探索性数据分析中的 8 种最佳可视化技术。
-
-towardsdatascience.com](/8-best-visualizations-to-consider-for-your-data-science-projects-b9ace21564a) 
+[](/8-best-visualizations-to-consider-for-your-data-science-projects-b9ace21564a)  
 
 # 数据科学的 9 个最佳 Seaborn 可视化:
 
@@ -189,28 +185,12 @@ sns.heatmap(iris_data.corr())
 
 如果你想在我的文章发表后第一时间得到通知，请点击下面的[链接](https://bharath-k1297.medium.com/subscribe)订阅邮件推荐。如果你希望支持其他作者和我，请订阅下面的链接。
 
-[](https://bharath-k1297.medium.com/membership) [## 通过我的推荐链接加入媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-bharath-k1297.medium.com](https://bharath-k1297.medium.com/membership) 
+[](https://bharath-k1297.medium.com/membership)  
 
 如果你对这篇文章中提到的各点有任何疑问，请在下面的评论中告诉我。我会尽快给你回复。
 
 看看我的一些与本文主题相关的文章，你可能也会喜欢阅读！
 
-[](/7-python-programming-tips-to-improve-your-productivity-a57802f225b6) [## 提高生产力的 7 个 Python 编程技巧
-
-### 通过修正一些常见的不良编程实践，使您的 Python 编码更加有效和高效
-
-towardsdatascience.com](/7-python-programming-tips-to-improve-your-productivity-a57802f225b6) [](/develop-your-weather-application-with-python-in-less-than-10-lines-6d092c6dcbc9) [## 用 Python 开发不到 10 行的天气应用程序
-
-### 使用 Python 构建我们的天气电视广播应用程序，以接收所需位置的更新
-
-towardsdatascience.com](/develop-your-weather-application-with-python-in-less-than-10-lines-6d092c6dcbc9) [](/python-project-how-to-hide-secret-data-in-images-2a835ed6b9b1) [## Python 项目:如何在图像中隐藏秘密数据
-
-### 开发 Python 项目来加密和解密隐藏在图像中的信息
-
-towardsdatascience.com](/python-project-how-to-hide-secret-data-in-images-2a835ed6b9b1) 
+[](/7-python-programming-tips-to-improve-your-productivity-a57802f225b6)  [](/develop-your-weather-application-with-python-in-less-than-10-lines-6d092c6dcbc9)  [](/python-project-how-to-hide-secret-data-in-images-2a835ed6b9b1)  
 
 谢谢你们坚持到最后。我希望你们都喜欢这篇文章。祝大家有美好的一天！

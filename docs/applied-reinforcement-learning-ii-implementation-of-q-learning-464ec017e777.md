@@ -10,11 +10,7 @@
 
 本系列的第一篇文章介绍了任何强化学习系统的基本概念和组件，并解释了 Q 学习算法背后的理论。在本文中，我们的目标是在 Python3 中实现该算法，并将其应用到真实的训练环境中。第一篇文章中提到的所有概念(**应用强化学习 I: Q-Learning** )都将在这篇文章中应用，假设读者知道并理解它们，所以如果你不熟悉这些概念，或者没有读过第一篇文章，你可以在下面访问它:
 
-[](/applied-reinforcement-learning-i-q-learning-d6086c1f437) [## 应用强化学习 I:Q-学习
-
-### 逐步理解 Q 学习算法，以及任何基于 RL 的系统的主要组件
-
-towardsdatascience.com](/applied-reinforcement-learning-i-q-learning-d6086c1f437) 
+[](/applied-reinforcement-learning-i-q-learning-d6086c1f437)  
 
 # 环境— Taxi-v3
 
@@ -123,11 +119,7 @@ Q-Learning 已经显示出能够非常容易地学习任务，因为当用适当
 
 为了便于理解和学习，Q-Learning 算法的完整实现，以及前面提到的对经过训练的代理的可视化和评估，可以在我的 GitHub 存储库中找到，作为一个 Jupyter 笔记本。
 
-[](https://github.com/JavierMtz5/ArtificialIntelligence) [## GitHub-Javier mtz 5/人工智能
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/JavierMtz5/ArtificialIntelligence) 
+[](https://github.com/JavierMtz5/ArtificialIntelligence)  
 
 # 参考
 

@@ -40,11 +40,7 @@
 
 有关内存管理的更多信息，请查看我以前的文章:
 
-[](/memory-management-every-developer-should-know-4f4911d8268b) [## 每个程序员都应该知道的内存管理
-
-### 这可能是你最不能错过的编程知识
-
-towardsdatascience.com](/memory-management-every-developer-should-know-4f4911d8268b) 
+[](/memory-management-every-developer-should-know-4f4911d8268b)  
 
 # 静态与动态类型
 

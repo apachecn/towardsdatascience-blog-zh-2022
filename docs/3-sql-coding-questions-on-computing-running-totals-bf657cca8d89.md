@@ -36,11 +36,7 @@
 
 **在之前的帖子中，我已经提到了一些关于排名的面试编码问题:**
 
-**[](/6-sql-window-functions-coding-problems-on-ranking-interview-countdown-p1-9be0ccf66453) [## 排名上的 6 个 SQL 窗口函数编码问题——采访倒计时 P1
-
-### SQL 面试即将来临，您正在寻找一些具有挑战性的练习来测试您的准备情况？你是…
-
-towardsdatascience.com](/6-sql-window-functions-coding-problems-on-ranking-interview-countdown-p1-9be0ccf66453) 
+**[](/6-sql-window-functions-coding-problems-on-ranking-interview-countdown-p1-9be0ccf66453)  
 
 在本文中，我将与您分享一些关于用窗口函数计算运行总数**的常见编码挑战。**
 
@@ -192,14 +188,6 @@ towardsdatascience.com](/6-sql-window-functions-coding-problems-on-ranking-inter
 
 # ***来源***
 
-*[](https://mode.com/sql-tutorial/sql-window-functions/) [## SQL 窗口函数|高级 SQL 模式
-
-### 从这里开始？本课是使用 SQL 进行数据分析的完整教程的一部分。看看开头…
-
-mode.com](https://mode.com/sql-tutorial/sql-window-functions/) [](https://www.sqltutorial.org/sql-window-functions/) [## SQL 窗口函数
-
-### 摘要:在本教程中，您将了解以简单方式解决复杂查询挑战的 SQL 窗口函数…
-
-www.sqltutorial.org](https://www.sqltutorial.org/sql-window-functions/) 
+*[](https://mode.com/sql-tutorial/sql-window-functions/)  [](https://www.sqltutorial.org/sql-window-functions/)  
 
 这篇文章包括附属链接，如果你购买的话，我可以在不增加你额外费用的情况下赚取一小笔佣金。*

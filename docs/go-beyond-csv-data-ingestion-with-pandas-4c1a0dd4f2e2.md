@@ -186,11 +186,7 @@ data_json.head()
 
 当然，获取数据只是开始。在此之后，你需要探索数据，并在深入数据科学项目之前玩数据。但是如果你想知道下一步该怎么走，请阅读我的博客[探索性数据分析](https://medium.com/analytics-vidhya/exploratory-data-analysis-for-beginner-7488d587f1ec)。
 
-[](https://medium.com/analytics-vidhya/exploratory-data-analysis-for-beginner-7488d587f1ec) [## 初学者的探索性数据分析
-
-### 在你理解数据之前，数据什么都不是。
-
-medium.com](https://medium.com/analytics-vidhya/exploratory-data-analysis-for-beginner-7488d587f1ec) 
+[](https://medium.com/analytics-vidhya/exploratory-data-analysis-for-beginner-7488d587f1ec)  
 
 PS:我能够更深入地研究这个问题，是因为尼泊尔的[代码](https://codefornepal.org/)提供了[数据研究](https://codefornepal.org/data-fellowship/)机会。我想感谢 Code for Nepal 为尼泊尔社区提供了一个绝佳的机会，也感谢 [DataCamp 团队](https://medium.com/u/e18542fdcc02?source=post_page-----4c1a0dd4f2e2--------------------------------)对 Code for Nepal 的信任。
 
@@ -204,24 +200,4 @@ PS:我能够更深入地研究这个问题，是因为尼泊尔的[代码](https
 
 ## 这里有更多的文章，你可能会喜欢❤
 
-[](https://medium.com/nightingale/how-to-apply-gestalt-psychology-principles-in-data-visualization-6242f4f1a3de) [## 如何在数据可视化中应用格式塔心理学原理
-
-### 格式塔原则在头脑中，而不是在眼睛里
-
-medium.com](https://medium.com/nightingale/how-to-apply-gestalt-psychology-principles-in-data-visualization-6242f4f1a3de) [](/knowing-these-5-hcis-principles-will-make-your-data-visualization-look-amazing-efbf22f05ab8) [## 了解这 5 个 HCI 原则会让你的数据可视化看起来很神奇
-
-### 人机交互(HCI)研究中使用的原则
-
-towardsdatascience.com](/knowing-these-5-hcis-principles-will-make-your-data-visualization-look-amazing-efbf22f05ab8) [](https://medium.com/@maladeep.upadhaya/how-datacamp-and-code-for-nepal-helped-me-learn-data-engineering-for-free-7983ea2ae24a) [## 尼泊尔数据营和代码如何帮助我免费学习数据工程
-
-### 是啊！完全自由
-
-medium.com](https://medium.com/@maladeep.upadhaya/how-datacamp-and-code-for-nepal-helped-me-learn-data-engineering-for-free-7983ea2ae24a) [](/little-known-ways-to-make-your-data-visualization-awesome-890d71b6e365) [## 鲜为人知的方法，让你的数据可视化真棒
-
-### 去除多余的部分
-
-towardsdatascience.com](/little-known-ways-to-make-your-data-visualization-awesome-890d71b6e365) [](/surprisingly-effective-way-to-name-matching-in-python-1a67328e670e) [## 用 Python 命名匹配的惊人有效的方法
-
-### 数据匹配、模糊匹配、重复数据删除
-
-towardsdatascience.com](/surprisingly-effective-way-to-name-matching-in-python-1a67328e670e)
+[](https://medium.com/nightingale/how-to-apply-gestalt-psychology-principles-in-data-visualization-6242f4f1a3de)  [](/knowing-these-5-hcis-principles-will-make-your-data-visualization-look-amazing-efbf22f05ab8)  [](https://medium.com/@maladeep.upadhaya/how-datacamp-and-code-for-nepal-helped-me-learn-data-engineering-for-free-7983ea2ae24a)  [](/little-known-ways-to-make-your-data-visualization-awesome-890d71b6e365)  [](/surprisingly-effective-way-to-name-matching-in-python-1a67328e670e) 

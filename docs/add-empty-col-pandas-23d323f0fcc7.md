@@ -95,24 +95,8 @@ colC       bool* ***colD    boolean*** *dtype: object*
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership) 
+[](https://gmyrianthous.medium.com/membership)  
 
 **相关文章你可能也喜欢**
 
-[](/args-kwargs-python-d9c71b220970) [## * Python 中的 args 和**kwargs
-
-### 讨论位置参数和关键字参数之间的区别，以及如何在 Python 中使用*args 和**kwargs
-
-towardsdatascience.com](/args-kwargs-python-d9c71b220970) [](/oltp-vs-olap-9ac334baa370) [## OLTP 与 OLAP:他们的区别是什么
-
-### 在数据处理系统的上下文中理解 OLTP 和 OLAP 之间的区别
-
-towardsdatascience.com](/oltp-vs-olap-9ac334baa370) [](/run-airflow-docker-1b83a57616fb) [## 如何使用 Docker 在本地运行气流
-
-### 在本地机器上使用 Docker 运行 Airflow 的分步指南
-
-towardsdatascience.com](/run-airflow-docker-1b83a57616fb)
+[](/args-kwargs-python-d9c71b220970)  [](/oltp-vs-olap-9ac334baa370)  [](/run-airflow-docker-1b83a57616fb) 

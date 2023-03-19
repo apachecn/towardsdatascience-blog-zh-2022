@@ -106,20 +106,4 @@ X_new = projector.fit_transform(X)
 
 ## 参考资料:
 
-[](https://en.wikipedia.org/wiki/Random_projection) [## 随机投影-维基百科
-
-### 在数学和统计学中，随机投影是一种用于减少一组点的维数的技术…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Random_projection)  [## 约翰逊-林登施特劳斯引理-维基百科
-
-### 在数学中，约翰逊-林登施特劳斯引理是以威廉·b·约翰逊和乔拉姆·林登施特劳斯命名的一个结果…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Johnson%E2%80%93Lindenstrauss_lemma) [](https://scikit-learn.org/stable/modules/generated/sklearn.random_projection.GaussianRandomProjection.html) [## sklearn.random_projection。高斯随机投影
-
-### 编辑描述
-
-scikit-learn.org](https://scikit-learn.org/stable/modules/generated/sklearn.random_projection.GaussianRandomProjection.html) [](https://scikit-learn.org/stable/modules/generated/sklearn.random_projection.SparseRandomProjection.html#sklearn.random_projection.SparseRandomProjection) [## sklearn.random_projection。稀疏投影
-
-### 通过稀疏随机投影降低维数。稀疏随机矩阵是密集随机矩阵的一种替代…
-
-scikit-learn.org](https://scikit-learn.org/stable/modules/generated/sklearn.random_projection.SparseRandomProjection.html#sklearn.random_projection.SparseRandomProjection)
+[](https://en.wikipedia.org/wiki/Random_projection)    [](https://scikit-learn.org/stable/modules/generated/sklearn.random_projection.GaussianRandomProjection.html)  [](https://scikit-learn.org/stable/modules/generated/sklearn.random_projection.SparseRandomProjection.html#sklearn.random_projection.SparseRandomProjection) 

@@ -229,11 +229,7 @@ ROI 估计值的渐近方差，图片由作者提供
 
 **你可以在这里找到 Jupyter 的原始笔记本:**
 
-**[](https://github.com/matteocourthoud/Blog-Posts/blob/main/notebooks/delta.ipynb) [## Blog-Posts/delta . ipynb at main matter courthoud/Blog-Posts
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/matteocourthoud/Blog-Posts/blob/main/notebooks/delta.ipynb)** 
+**[](https://github.com/matteocourthoud/Blog-Posts/blob/main/notebooks/delta.ipynb) ** 
 
 ## **感谢您的阅读！**
 

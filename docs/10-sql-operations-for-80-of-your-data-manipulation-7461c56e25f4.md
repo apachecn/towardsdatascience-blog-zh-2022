@@ -88,8 +88,4 @@ Order by 也可以应用于非聚合列。例如，使用下面的代码，我�
 
 这里还有一个与你相关的故事:
 
-[](https://anmol3015.medium.com/write-your-sql-queries-the-right-way-9c04dfbb6499) [## 以正确的方式编写您的 SQL 查询！
-
-### 去掉你所有的语法错误！
-
-anmol3015.medium.com](https://anmol3015.medium.com/write-your-sql-queries-the-right-way-9c04dfbb6499)
+[](https://anmol3015.medium.com/write-your-sql-queries-the-right-way-9c04dfbb6499) 

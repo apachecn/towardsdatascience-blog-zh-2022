@@ -206,12 +206,4 @@
 
 **cambridgeincolour.com/tutorials/image-interpolation.htm**
 
- **[## 结构相似性-维基百科
-
-### 结构相似性指数测度(SSIM)是一种预测数字电视感知质量的方法
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Structural_similarity)** **[](http://amroamroamro.github.io/mexopencv/opencv/image_similarity_demo.html) [## 相似性度量(PSNR 和 SSIM)
-
-### 有损压缩下的图像相似性。来源:我们想检查我们的压缩操作是多么难以察觉…
-
-amroamroamro.github.io](http://amroamroamro.github.io/mexopencv/opencv/image_similarity_demo.html)**
+ **** **[](http://amroamroamro.github.io/mexopencv/opencv/image_similarity_demo.html) **

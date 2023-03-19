@@ -32,11 +32,7 @@
 
 如果您仍然有问题，Twitter 已经在他们的文档中写了一份关于如何连接 API 的详细指南:
 
-[](https://developer.twitter.com/en/docs/twitter-api/getting-started/getting-access-to-the-twitter-api) [## 访问 Twitter API
-
-### 注册一个开发者帐户又快又简单！只要点击下面的按钮，回答几个问题，你…
-
-developer.twitter.com](https://developer.twitter.com/en/docs/twitter-api/getting-started/getting-access-to-the-twitter-api) 
+[](https://developer.twitter.com/en/docs/twitter-api/getting-started/getting-access-to-the-twitter-api)  
 
 # 连接到 Twitter API
 
@@ -124,22 +120,6 @@ tweets_df[tweets_df['tweet_sentiment'] == 'Neutral'].content.sample(3).valuesRem
 
 如果你喜欢这篇文章，我写了更多你可能也会喜欢的文章
 
-[](/word2vec-explained-49c52b4ccb71) [## Word2Vec 解释道
+[](/word2vec-explained-49c52b4ccb71)  [](/recommendation-systems-explained-a42fc60591ed)  [](/bayesian-a-b-testing-explained-344a6df88c1a) [## 贝叶斯 A/B 测试解释
 
-### 解释 Word2Vec 的直观性&用 Python 实现它
-
-towardsdatascience.com](/word2vec-explained-49c52b4ccb71) [](/recommendation-systems-explained-a42fc60591ed) [## 推荐系统解释
-
-### 用 Python 解释和实现基于内容的协同过滤和混合推荐系统
-
-towardsdatascience.com](/recommendation-systems-explained-a42fc60591ed) [](/bayesian-a-b-testing-explained-344a6df88c1a) [## 贝叶斯 A/B 测试解释
-
-towardsdatascience.com](/bayesian-a-b-testing-explained-344a6df88c1a) [](/random-walks-with-restart-explained-77c3fe216bca) [## 带重启的随机漫步解释
-
-### 理解带重启的随机游走算法及其在 Python 中的相关实现
-
-towardsdatascience.com](/random-walks-with-restart-explained-77c3fe216bca) [](/markov-chain-explained-210581d7a4a9) [## 马尔可夫链解释道
-
-### 在本文中，我将解释并提供马尔可夫链的 python 实现。这篇文章不会是一篇深刻的…
-
-towardsdatascience.com](/markov-chain-explained-210581d7a4a9)
+towardsdatascience.com](/bayesian-a-b-testing-explained-344a6df88c1a) [](/random-walks-with-restart-explained-77c3fe216bca)  [](/markov-chain-explained-210581d7a4a9) 

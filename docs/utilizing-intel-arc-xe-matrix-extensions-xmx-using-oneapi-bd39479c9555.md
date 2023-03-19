@@ -91,11 +91,7 @@ joint_matrix API 不仅仅是为了抽象的可移植性而设计的。最新的
 
 有关 joint_matrix API 启用的其他功能的更多详细信息，请参见 API 文档:
 
-[](https://github.com/intel/llvm/blob/sycl/sycl/doc/extensions/experimental/sycl_ext_oneapi_matrix.asciidoc) [## llvm/sycl _ ext _ one API _ matrix . asciidoc 在这样的英特尔/llvm
-
-### 版权所有(c) 2021-2021 英特尔公司保留所有权利。Khronos 是 SYCL 和 SPIR 的注册商标
-
-github.com](https://github.com/intel/llvm/blob/sycl/sycl/doc/extensions/experimental/sycl_ext_oneapi_matrix.asciidoc) 
+[](https://github.com/intel/llvm/blob/sycl/sycl/doc/extensions/experimental/sycl_ext_oneapi_matrix.asciidoc)  
 
 # 结论
 

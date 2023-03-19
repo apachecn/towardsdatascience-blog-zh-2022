@@ -84,11 +84,7 @@ SageMaker 希望我们的 model.joblib 和推理脚本中的这两个部分在�
 
 ## 其他资源和结论
 
-[](https://github.com/RamVegiraju/SageMaker-Local-Mode/tree/master) [## GitHub-RamVegiraju/sage maker-Local-Mode:SM 本地模式示例 Sklearn 部署
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/RamVegiraju/SageMaker-Local-Mode/tree/master) 
+[](https://github.com/RamVegiraju/SageMaker-Local-Mode/tree/master)  
 
 您可以在上面的链接中找到整个示例的代码。SageMaker 本地模式是一个非常有用的特性，可以快速调试您的模型训练和推理，正如本文所反映的那样。更多本地模式示例，请查看 [AWS 样本库](https://github.com/aws-samples/amazon-sagemaker-local-mode)。关于 SageMaker 入门的更多资源，请点击这里查看我的系列文章。
 

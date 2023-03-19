@@ -167,12 +167,4 @@ Army:
 
 # 相关文章
 
-[](/integer-programming-vs-linear-programming-in-python-f1be5bb4e60e) [## 第 2 部分:Python 中的整数与线性编程
-
-### 识别和解决任何优化问题的指南
-
-towardsdatascience.com](/integer-programming-vs-linear-programming-in-python-f1be5bb4e60e) [](/constraint-programming-67ac16fa0c81) [## 第 3 部分:Python 中的约束编程
-
-### 在 8，080，104 个候选项中找出一个解决方案的编程范例
-
-towardsdatascience.com](/constraint-programming-67ac16fa0c81)
+[](/integer-programming-vs-linear-programming-in-python-f1be5bb4e60e)  [](/constraint-programming-67ac16fa0c81) 

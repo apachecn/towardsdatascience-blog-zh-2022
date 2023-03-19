@@ -390,21 +390,13 @@ st.pyplot(fig)
 
 你可以阅读第二部分，解决接下来的 6 个视觉效果。这里:
 
-[](/12-essential-visualizations-and-how-to-implement-them-part-2-e47c1d4b9784) [## 12 个基本的可视化以及如何实现它们，第 2 部分
-
-### 我们看看如何用 Python 和 Streamlit 创建 12 个最有用的图形和图表
-
-towardsdatascience.com](/12-essential-visualizations-and-how-to-implement-them-part-2-e47c1d4b9784) 
+[](/12-essential-visualizations-and-how-to-implement-them-part-2-e47c1d4b9784)  
 
 您可以从我的 Github 资源库下载所有代码和数据文件。在我的[网页](http://alanjones2.github.io)上找到它的链接，以及其他文章的信息。
 
 如果你想了解我发表的其他文章，你可以在 Medium 上关注我，或者在 [Substack](http://technofile.substack.com) 上订阅我的时事通讯。
 
-[](https://medium.com/membership/@alan-jones) [## 通过我的推荐链接-阿兰·琼斯加入媒体
-
-### 阅读阿兰·琼斯的每一个故事(以及媒体上成千上万的其他作家)。你的会员费直接支持艾伦…
-
-medium.com](https://medium.com/membership/@alan-jones) 
+[](https://medium.com/membership/@alan-jones)  
 
 # 笔记
 

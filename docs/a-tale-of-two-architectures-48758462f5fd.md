@@ -129,38 +129,6 @@
 
 **参考文献**
 
-[](https://microservices.io/patterns/deployment/sidecar.html) [## 微服务模式:边车
-
-### 您已经应用了微服务架构模式，并将您的系统架构为一组服务。实施…
-
-微服务. io](https://microservices.io/patterns/deployment/sidecar.html) [](https://medium.com/nerd-for-tech/microservice-design-pattern-sidecar-sidekick-pattern-dbcea9bed783) [## 微服务设计模式:Sidecar 模式
-
-### 在微服务架构中，多个服务/应用通常需要相同的功能，如…
-
-medium.com](https://medium.com/nerd-for-tech/microservice-design-pattern-sidecar-sidekick-pattern-dbcea9bed783) [](https://thenewstack.io/ten-commandments-microservices) [## 微服务的十诫
-
-### 微服务标志着分布式计算新时代的开始。随着容器的出现，单位…
-
-thenewstack.io](https://thenewstack.io/ten-commandments-microservices) [](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) [## 不要重复自己-维基百科
-
-### “不要重复自己”(DRY)是软件开发的一个原则，旨在减少软件的重复…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) [](https://medium.com/omarelgabrys-blog/plug-in-architecture-dec207291800) [## 插件架构
-
-### 以及数据管道框架的故事
-
-medium.com](https://medium.com/omarelgabrys-blog/plug-in-architecture-dec207291800) [](https://piotrminkowski.com/2021/07/22/spring-cloud-stream-with-schema-registry-and-kafka/) [## 带有模式注册表的 Spring Cloud Stream 和 Kafka - Piotr 的 TechBlog
-
-### 在这篇文章中，您将学习如何使用融合模式注册表与 Spring Cloud Stream 和 Kafka 在一个…
-
-piotrminkowski.com](https://piotrminkowski.com/2021/07/22/spring-cloud-stream-with-schema-registry-and-kafka/) [](https://www.fluentd.org/) [## 开源数据收集器
-
-### Fluentd 是用于统一日志记录层的开源数据收集器。
-
-www.fluentd.org](https://www.fluentd.org/) [](https://epsagon.com/development/using-redis-to-optimize-mongodb-queries/) [## 使用 Redis 优化 MongoDB Mongoose 查询
-
-### 现在一切正常了，对吧？现在让我们想象一下，我们的数据库中有大量的书籍。每次我们试图…
-
-epsagon.com](https://epsagon.com/development/using-redis-to-optimize-mongodb-queries/) ![](img/eccb1719f22583bddeffb8f357d527f1.png)
+[](https://microservices.io/patterns/deployment/sidecar.html)  [](https://medium.com/nerd-for-tech/microservice-design-pattern-sidecar-sidekick-pattern-dbcea9bed783)  [](https://thenewstack.io/ten-commandments-microservices)  [](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)  [](https://medium.com/omarelgabrys-blog/plug-in-architecture-dec207291800)  [](https://piotrminkowski.com/2021/07/22/spring-cloud-stream-with-schema-registry-and-kafka/)  [](https://www.fluentd.org/)  [](https://epsagon.com/development/using-redis-to-optimize-mongodb-queries/)  ![](img/eccb1719f22583bddeffb8f357d527f1.png)
 
 一张服务的网，只因为图像的美丽:)(图片由 Unsplash 提供)

@@ -132,11 +132,7 @@ dask_array = da.from_zarr(
 
 *注意:即使你的机器在技术上有足够的存储资源将这个数据集溢出到磁盘，这也会大大降低性能。*
 
-[](https://coiled.io/blog/common-dask-mistakes/) [## 使用 Dask 时要避免的常见错误
-
-### 第一次使用 Dask 可能是一个陡峭的学习曲线。经过多年的建设 Dask 和引导人们通过…
-
-coiled.io](https://coiled.io/blog/common-dask-mistakes/) 
+[](https://coiled.io/blog/common-dask-mistakes/)  
 
 # 使用线圈扩展到 Dask 集群
 

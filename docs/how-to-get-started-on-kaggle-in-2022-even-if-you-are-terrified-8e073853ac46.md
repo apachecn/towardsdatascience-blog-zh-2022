@@ -24,19 +24,11 @@
 
 今天，我将向你展示你应该如何分阶段迈出这第一步，这将使你在 Kaggle 上很快获得成功。
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-BEXGBoost
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。支持我的工作，给我买一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+[](https://ibexorigin.medium.com/membership)  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex) [## 阿尔法信号|机器学习的极品。艾总结的。
-
-### 留在循环中，不用花无数时间浏览下一个突破；我们的算法识别…
-
-alphasignal.ai](https://alphasignal.ai/?referrer=Bex) 
+[](https://alphasignal.ai/?referrer=Bex)  
 
 ## 步骤 1:我必须提到的繁琐的设置
 
@@ -203,36 +195,8 @@ FE 在表格和[时间序列比赛](/top-4-time-series-feature-engineering-lesso
 
 但是 Kaggle 最好的地方总是它的社区。它不仅是最突出的在线数据平台，而且其他行业的程序员也尚未形成如此惊人的社区，拥有如此多的熟练专家。不管你的排名如何，成为其中的一部分会比课程和书本更能拓展你的知识和人脉。
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium。
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) [](https://ibexorigin.medium.com/subscribe) [## 每当 Bex T .发布时收到电子邮件。
-
-### 每当 Bex T .发布时收到电子邮件。注册后，如果您还没有中型帐户，您将创建一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/subscribe) 
+[](https://ibexorigin.medium.com/membership)  [](https://ibexorigin.medium.com/subscribe)  
 
 ## 在 LinkedIn(领英)或 Twitter(T2)上与我进行友好的交谈。或者你可以读我的另一个故事。这些怎么样:
 
-[](/22-2-built-in-python-libraries-you-didnt-know-existed-p-guarantee-8-275685dbdb99) [## 22–2 个您不知道存在的内置 Python 库| P(保证)= .8
-
-### 编辑描述
-
-towardsdatascience.com](/22-2-built-in-python-libraries-you-didnt-know-existed-p-guarantee-8-275685dbdb99) [](/8-booming-data-science-libraries-you-must-watch-out-in-2022-cec2dbb42437) [## 2022 年你必须小心的 8 个蓬勃发展的数据科学图书馆
-
-### 编辑描述
-
-towardsdatascience.com](/8-booming-data-science-libraries-you-must-watch-out-in-2022-cec2dbb42437) [](/6-pandas-mistakes-that-silently-tell-you-are-a-rookie-b566a252e60d) [## 6 个熊猫的错误，无声地告诉你是一个菜鸟
-
-### 编辑描述
-
-towardsdatascience.com](/6-pandas-mistakes-that-silently-tell-you-are-a-rookie-b566a252e60d) [](/7-cool-python-packages-kagglers-are-using-without-telling-you-e83298781cf4) [## Kagglers 正在使用的 7 个很酷的 Python 包
-
-### 编辑描述
-
-towardsdatascience.com](/7-cool-python-packages-kagglers-are-using-without-telling-you-e83298781cf4) [](/25-pandas-functions-you-didnt-know-existed-p-guarantee-0-8-1a05dcaad5d0) [## 你不知道的 25 个熊猫功能| P(保证)= 0.8
-
-### 编辑描述
-
-towardsdatascience.com](/25-pandas-functions-you-didnt-know-existed-p-guarantee-0-8-1a05dcaad5d0)
+[](/22-2-built-in-python-libraries-you-didnt-know-existed-p-guarantee-8-275685dbdb99)  [](/8-booming-data-science-libraries-you-must-watch-out-in-2022-cec2dbb42437)  [](/6-pandas-mistakes-that-silently-tell-you-are-a-rookie-b566a252e60d)  [](/7-cool-python-packages-kagglers-are-using-without-telling-you-e83298781cf4)  [](/25-pandas-functions-you-didnt-know-existed-p-guarantee-0-8-1a05dcaad5d0) 

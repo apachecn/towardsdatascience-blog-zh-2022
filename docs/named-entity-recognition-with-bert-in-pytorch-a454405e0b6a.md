@@ -42,11 +42,7 @@ NER 任务的第一步是检测实体。这可以是指同一类别的一个单�
 
 如果您还不熟悉 BERT，我建议您在阅读本文之前先阅读我以前的一篇关于 BERT 文本分类的文章。在那里，您可以找到关于 BERT 实际上是什么、模型期望哪种输入数据以及您将从模型获得的输出的信息。
 
-[](/text-classification-with-bert-in-pytorch-887965e5820f) [## PyTorch 中基于 BERT 的文本分类
-
-### 如何利用来自拥抱脸的预先训练的 BERT 模型来分类新闻文章的文本
-
-towardsdatascience.com](/text-classification-with-bert-in-pytorch-887965e5820f) 
+[](/text-classification-with-bert-in-pytorch-887965e5820f)  
 
 用于文本分类的 BERT 和 NER 问题之间的区别在于我们如何设置模型的输出。对于一个文本分类问题，我们只使用从特殊的**【CLS】**标记输出的嵌入向量，正如你在下面的可视化中看到的:
 
@@ -66,11 +62,7 @@ towardsdatascience.com](/text-classification-with-bert-in-pytorch-887965e5820f)
 
 我们将在本文中使用的数据集是 CoNLL-2003 数据集，这是一个专门用于 NER 任务的数据集。你可以通过下面的链接下载 Kaggle 上的数据。
 
-[](https://www.kaggle.com/datasets/rajnathpatel/ner-data) [## NER 数据
-
-### 命名实体识别数据
-
-www.kaggle.com](https://www.kaggle.com/datasets/rajnathpatel/ner-data) 
+[](https://www.kaggle.com/datasets/rajnathpatel/ner-data)  
 
 这个数据集是在开放数据库 1.0 版许可下分发的，因此我们可以出于自己的目的自由共享和使用这个数据集。现在让我们看看数据集是什么样子的。
 

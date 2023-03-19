@@ -10,11 +10,7 @@
 
 *查看下面的文章，了解高斯消去法的必要介绍。*
 
-[](https://levelup.gitconnected.com/gaussian-elimination-algorithm-in-python-4e90cb3a0fd9) [## Python 中的高斯消去算法
-
-### 关于如何在 Python 中使用高斯消去法求解线性方程组的教程
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/gaussian-elimination-algorithm-in-python-4e90cb3a0fd9) ![](img/255a622c063716d19b9792fff38733f4.png)
+[](https://levelup.gitconnected.com/gaussian-elimination-algorithm-in-python-4e90cb3a0fd9)  ![](img/255a622c063716d19b9792fff38733f4.png)
 
 照片由 [Linus Mimietz](https://unsplash.com/@linusmimietz?utm_source=medium&utm_medium=referral) 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄
 
@@ -22,11 +18,7 @@ levelup.gitconnected.com](https://levelup.gitconnected.com/gaussian-elimination-
 
 *矩阵代数基础|第二部分*呈现**逆矩阵**。回想一下*并非所有矩阵都是可逆的*。 ***A*** *必须是平方* ( **n×n** )且有一个*非零行列式*。
 
-[](/fundamentals-of-matrix-algebra-with-python-part-2-833e447077d5) [## Python 的矩阵代数基础|第 2 部分
-
-### 使用 Python 理解和实现基本矩阵代数概念和运算
-
-towardsdatascience.com](/fundamentals-of-matrix-algebra-with-python-part-2-833e447077d5) 
+[](/fundamentals-of-matrix-algebra-with-python-part-2-833e447077d5)  
 
 本质上，矩阵的**乘以它的*逆*得到**单位矩阵**， *I* ，如等式 1 所示。**
 
@@ -136,11 +128,7 @@ towardsdatascience.com](/fundamentals-of-matrix-algebra-with-python-part-2-833e4
 
 ***如果你对 Python、工程和数据科学感兴趣，可以看看我的其他文章。***
 
-***[](https://medium.com/@andrewdaviesul/membership) [## 通过我的推荐链接加入媒体-安德鲁·约瑟夫·戴维斯
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@andrewdaviesul/membership) 
+***[](https://medium.com/@andrewdaviesul/membership)  
 
 在 Gist 7 中找到所有 Python 代码。
 

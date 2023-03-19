@@ -134,8 +134,4 @@ If I’ve inspired you to join medium I would be really grateful if you did it t
 
 这是我写的其他一些东西:
 
-[](/econometrics-is-the-original-data-science-6725d3f0d843) [## 计量经济学是原始的数据科学
-
-### 这就是你应该多了解它的原因
-
-towardsdatascience.com](/econometrics-is-the-original-data-science-6725d3f0d843)
+[](/econometrics-is-the-original-data-science-6725d3f0d843) 

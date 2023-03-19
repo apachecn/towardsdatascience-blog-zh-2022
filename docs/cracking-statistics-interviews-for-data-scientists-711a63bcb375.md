@@ -172,12 +172,4 @@
 *   *连接上*[*Linkedin*](https://www.linkedin.com/in/emmading001/)*！*
 *   前往[emmading.com/resources](https://www.emmading.com/resources)获取更多关于数据科学面试技巧和策略的免费资源！
 
-[](/7-a-b-testing-questions-and-answers-in-data-science-interviews-eee6428a8b63) [## 数据科学面试中的 7 个 A/B 测试问题和答案
-
-### A/B 测试，也称为受控实验，在工业中广泛用于产品上市决策。它允许技术…
-
-towardsdatascience.com](/7-a-b-testing-questions-and-answers-in-data-science-interviews-eee6428a8b63) [](https://pub.towardsai.net/4-types-of-machine-learning-interview-questions-for-data-scientists-and-machine-learning-engineers-b8135805ce1b) [## 面向数据科学家和机器学习工程师的 4 种机器学习面试问题
-
-### FAANG 访谈的经验教训:破解机器学习问题的最有效方法
-
-pub.towardsai.net](https://pub.towardsai.net/4-types-of-machine-learning-interview-questions-for-data-scientists-and-machine-learning-engineers-b8135805ce1b)
+[](/7-a-b-testing-questions-and-answers-in-data-science-interviews-eee6428a8b63)  [](https://pub.towardsai.net/4-types-of-machine-learning-interview-questions-for-data-scientists-and-machine-learning-engineers-b8135805ce1b) 

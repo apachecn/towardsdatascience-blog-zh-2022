@@ -14,19 +14,11 @@
 
 帖子已经很长了，我就截到这里，直接跳到文章的正文。
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-BEXGBoost
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。支持我的工作，给我买一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+[](https://ibexorigin.medium.com/membership)  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex) [## 阿尔法信号|机器学习的极品。艾总结的。
-
-### 留在循环中，不用花无数时间浏览下一个突破；我们的算法识别…
-
-alphasignal.ai](https://alphasignal.ai/?referrer=Bex) 
+[](https://alphasignal.ai/?referrer=Bex)  
 
 ## spaCy 是什么？
 
@@ -280,36 +272,8 @@ spaCy 使用单词向量(如下所述)计算语义相似度，单词向量在中
 
 感谢您的阅读！
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium。
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) [](https://ibexorigin.medium.com/subscribe) [## 每当 Bex T .发布时收到电子邮件。
-
-### 每当 Bex T .发布时收到电子邮件。注册后，如果您还没有中型帐户，您将创建一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/subscribe) 
+[](https://ibexorigin.medium.com/membership)  [](https://ibexorigin.medium.com/subscribe)  
 
 **我的更多故事…**
 
-[](https://ibexorigin.medium.com/in-depth-guide-to-building-custom-sklearn-transformers-for-any-data-preprocessing-scenario-33450f8b35ff) [## 为任何数据预处理场景构建定制 Sklearn 转换器的深入指南
-
-### 在 Sklearn 做好每一件事，大家都会开心
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/in-depth-guide-to-building-custom-sklearn-transformers-for-any-data-preprocessing-scenario-33450f8b35ff) [](/advanced-missing-data-imputation-methods-with-sklearn-d9875cbcc6eb) [## Sklearn 高级缺失数据插补方法的深入教程
-
-### 学会利用强大的基于模型的插补技术。
-
-towardsdatascience.com](/advanced-missing-data-imputation-methods-with-sklearn-d9875cbcc6eb) [](/10-minute-effortless-sql-tutorial-for-die-hard-pandas-lovers-a64c36733fd0) [## 10 分钟轻松的 SQL 教程，适合铁杆熊猫爱好者
-
-### 曾几何时，情况正好相反
-
-towardsdatascience.com](/10-minute-effortless-sql-tutorial-for-die-hard-pandas-lovers-a64c36733fd0) [](/how-to-create-slick-math-animations-like-3blue1brown-in-python-457f74701f68) [## 如何用 Python 创建像 3Blue1Brown 这样流畅的数学动画
-
-### 学习将你对数学和编程的热爱结合起来的最佳方式
-
-towardsdatascience.com](/how-to-create-slick-math-animations-like-3blue1brown-in-python-457f74701f68) [](/matplotlib-vs-plotly-lets-decide-once-and-for-all-dc3eca9aa011) [## Matplotlib vs. Plotly:让我们决定一劳永逸
-
-### 从 7 个关键方面进行深入快速的比较
-
-towardsdatascience.com](/matplotlib-vs-plotly-lets-decide-once-and-for-all-dc3eca9aa011)
+[](https://ibexorigin.medium.com/in-depth-guide-to-building-custom-sklearn-transformers-for-any-data-preprocessing-scenario-33450f8b35ff)  [](/advanced-missing-data-imputation-methods-with-sklearn-d9875cbcc6eb)  [](/10-minute-effortless-sql-tutorial-for-die-hard-pandas-lovers-a64c36733fd0)  [](/how-to-create-slick-math-animations-like-3blue1brown-in-python-457f74701f68)  [](/matplotlib-vs-plotly-lets-decide-once-and-for-all-dc3eca9aa011) 

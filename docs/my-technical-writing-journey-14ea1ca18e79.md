@@ -100,12 +100,4 @@
 
 这些材料可以提高你的技术写作技巧:
 
-[](https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines) [## 数字海洋的技术写作指南|数字海洋
-
-### DigitalOcean 很高兴能继续收集与服务器管理相关的技术文章…
-
-www.digitalocean.com](https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines) [](https://developers.google.com/tech-writing) [## 技术写作|谷歌开发者
-
-### 我们针对以下角色的人开设了这些课程:专业软件工程师计算机科学学生…
-
-developers.google.com](https://developers.google.com/tech-writing)
+[](https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines)  [](https://developers.google.com/tech-writing) 

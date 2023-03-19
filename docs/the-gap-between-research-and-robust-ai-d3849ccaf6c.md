@@ -76,11 +76,7 @@ Miquel Parera 在 [Unsplash](https://unsplash.com/s/photos/mind-the-gap?utm_sour
 
 > **如果你想了解更多关于 FGSM 和其他对抗性例子的技术，我推荐你阅读我以前关于对抗性例子的文章**
 
-**[](/adversarial-examples-to-break-deep-learning-models-e7f543833eae) [## 打破深度学习模型的反面例子
-
-### 如何用一点 Python 来愚弄一个 27M 参数的模型
-
-towardsdatascience.com](/adversarial-examples-to-break-deep-learning-models-e7f543833eae) 
+**[](/adversarial-examples-to-break-deep-learning-models-e7f543833eae)  
 
 ## 第一步。负载模型
 
@@ -160,11 +156,7 @@ image2class(图片由作者提供)
 
 👉🏽今天就使用我的 [**推荐链接**](https://pau-labarta-bajo.medium.com/membership) 成为会员吧。
 
-[](https://pau-labarta-bajo.medium.com/membership) [## 成为一个媒体成员来阅读我在媒体上分享的一切。
-
-### 你的会员费的一部分给了所有你喜欢阅读的作家。希望是我。
-
-pau-labarta-bajo.medium.com](https://pau-labarta-bajo.medium.com/membership) 
+[](https://pau-labarta-bajo.medium.com/membership)  
 
 👉🏽订阅 [***datamachines* 简讯**](https://datamachines.xyz/subscribe/) **。**
 

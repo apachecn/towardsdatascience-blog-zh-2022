@@ -141,8 +141,4 @@
 
 如果你想支持我的工作，你可以给我买杯咖啡:
 
-[](https://www.buymeacoffee.com/cassimiro) [## Gabriel Cassimiro 是一名数据科学家，他向社区分享免费内容
-
-### 嘿👋我刚刚在这里创建了一个页面。你现在可以给我买杯咖啡了！
-
-www.buymeacoffee.com](https://www.buymeacoffee.com/cassimiro)
+[](https://www.buymeacoffee.com/cassimiro) 

@@ -90,8 +90,4 @@ Volodymyr Hryshchenko 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_
 
 [设计机器学习系统，2022](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
 
-[](https://dushuchen.medium.com/membership) [## 加入我的介绍链接-陈数杜媒体
-
-### 阅读陈数·杜(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-dushuchen.medium.com](https://dushuchen.medium.com/membership)
+[](https://dushuchen.medium.com/membership) 

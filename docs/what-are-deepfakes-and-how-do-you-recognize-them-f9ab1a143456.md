@@ -64,16 +64,4 @@ Deepfakes 可以在日常生活的许多领域对我们构成威胁。
 
 *如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你想让***无限制地访问我的文章和数以千计的精彩文章，请不要犹豫，通过点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格***
 
-**[](https://medium.com/@niklas_lang/what-does-google-know-about-me-find-it-out-c6115dca17e4) [## 谷歌了解我什么？找出来！
-
-### 在我们之前的一篇文章中，我们谈到了陷入数字过滤泡沫是多么容易，信息…
-
-medium.com](https://medium.com/@niklas_lang/what-does-google-know-about-me-find-it-out-c6115dca17e4) [](https://medium.com/@niklas_lang/what-are-recurrent-neural-networks-5c48f4908e34) [## 理解递归神经网络
-
-### 递归神经网络(RNNs)是第三种主要类型的神经网络，前向网络和神经网络
-
-medium.com](https://medium.com/@niklas_lang/what-are-recurrent-neural-networks-5c48f4908e34) [](https://medium.com/@niklas_lang/kubernetes-k8s-simply-explained-3dc2e1558b7c) [## kubernetes(k8s)——简单解释！
-
-### Kubernetes 是一个容器编排系统。这意味着应用程序可以在不同的容器之间拆分…
-
-medium.com](https://medium.com/@niklas_lang/kubernetes-k8s-simply-explained-3dc2e1558b7c)**
+**[](https://medium.com/@niklas_lang/what-does-google-know-about-me-find-it-out-c6115dca17e4)  [](https://medium.com/@niklas_lang/what-are-recurrent-neural-networks-5c48f4908e34)  [](https://medium.com/@niklas_lang/kubernetes-k8s-simply-explained-3dc2e1558b7c) **

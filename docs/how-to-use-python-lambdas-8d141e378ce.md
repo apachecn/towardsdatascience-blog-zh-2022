@@ -55,16 +55,4 @@ Python lambdas 是所谓的匿名函数，使用它可以快速定义有多个�
 
 *如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，请不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
 
-*[](/4-basic-sql-commands-every-new-data-scientist-should-know-ba02e40bfc1a) [## 每个新数据科学家都应该知道的 4 个基本 SQL 命令
-
-### 结构化查询语言简介
-
-towardsdatascience.com](/4-basic-sql-commands-every-new-data-scientist-should-know-ba02e40bfc1a) [](/beginners-introduction-to-python-for-loops-7df0f6bdbcc8) [## Python for-loops 入门
-
-### Python 和 Loops 新手的基本命令
-
-towardsdatascience.com](/beginners-introduction-to-python-for-loops-7df0f6bdbcc8) [](/4-basic-commands-when-working-with-python-dictionaries-1152e0331604) [## 使用 Python 字典时的 4 个基本命令
-
-### 让您了解 Python 字典的特征以及如何处理它们
-
-towardsdatascience.com](/4-basic-commands-when-working-with-python-dictionaries-1152e0331604)*
+*[](/4-basic-sql-commands-every-new-data-scientist-should-know-ba02e40bfc1a)  [](/beginners-introduction-to-python-for-loops-7df0f6bdbcc8)  [](/4-basic-commands-when-working-with-python-dictionaries-1152e0331604) *

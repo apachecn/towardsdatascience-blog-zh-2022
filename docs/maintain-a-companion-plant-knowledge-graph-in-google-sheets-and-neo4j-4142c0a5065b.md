@@ -28,19 +28,11 @@
 
 **本文的代码存放在我的 GitHub 存储库中。**
 
-**[](https://github.com/dgg32/companion_plants_2) [## GitHub-dgg 32/companion _ plants _ 2
-
-### 在 GitHub 上创建一个帐户，为 dgg32/companion_plants_2 的开发做出贡献。
-
-github.com](https://github.com/dgg32/companion_plants_2) 
+**[](https://github.com/dgg32/companion_plants_2)  
 
 这个项目中的数据来自维基百科，受[知识共享署名共享许可](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjhpfWUn-T5AhUcl1YBHU1FC_AQFnoECBkQAw&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FWikipedia%3AReusing_Wikipedia_content&usg=AOvVaw2Ef9JwbupF4y-KQhpl9CUS)保护。谷歌表单在这里。
 
-[](https://docs.google.com/spreadsheets/d/1U4K93EeOU6V4SZ9AgI3wOeV4kgdW9TmKSY_pIypDA-A/edit#gid=0) [## 同伴 _ 植物 _ 维基百科
-
-### 葱属植物* *葱属*果树，[1]茄属植物(番茄，[2]辣椒，[3]马铃薯[4])，芸苔属植物，[5]…
-
-docs.google.com](https://docs.google.com/spreadsheets/d/1U4K93EeOU6V4SZ9AgI3wOeV4kgdW9TmKSY_pIypDA-A/edit#gid=0) 
+[](https://docs.google.com/spreadsheets/d/1U4K93EeOU6V4SZ9AgI3wOeV4kgdW9TmKSY_pIypDA-A/edit#gid=0)  
 
 # 0.准备
 
@@ -162,8 +154,4 @@ docs.google.com](https://docs.google.com/spreadsheets/d/1U4K93EeOU6V4SZ9AgI3wOeV
 
 通过将配套的植物表编码成知识图，我已经使这一宝贵的农业知识可供所有人搜索和扩展。但是也有改进的余地。你能提出一个更好的算法来计算土豆的最大无规避支持植物集吗？我鼓励你验证这个知识图表中的信息，甚至制作你自己的版本。
 
-[](https://dgg32.medium.com/membership) [## 加入媒介与我的介绍链接-黄思兴
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-dgg32.medium.com](https://dgg32.medium.com/membership)**
+[](https://dgg32.medium.com/membership) **

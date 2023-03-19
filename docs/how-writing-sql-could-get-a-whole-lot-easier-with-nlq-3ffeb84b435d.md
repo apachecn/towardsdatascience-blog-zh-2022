@@ -153,11 +153,7 @@ SParC 是一个首字母缩写词，在⁴.代表[**s**emantic**par**sing](https
 
 感谢阅读！
 
-[](https://medium.com/@andreasmartinson/membership) [## 加入 Medium 并通过我的推荐链接支持我
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@andreasmartinson/membership) 
+[](https://medium.com/@andreasmartinson/membership)  
 
 **附加推荐阅读/资源:**
 

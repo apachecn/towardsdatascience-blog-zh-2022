@@ -340,11 +340,7 @@ df.style.background_gradient(cmap="RdYlGn").to_excel("table.xlsx")
 
 *喜欢这篇文章吗？成为* [*中等会员*](https://medium.com/@radecicdario/membership) *继续无限制学习。如果你使用下面的链接，我会收到你的一部分会员费，不需要你额外付费。*
 
-[](https://medium.com/@radecicdario/membership) [## 通过我的推荐链接加入 Medium-Dario rade ci
-
-### 阅读达里奥·拉德契奇(以及媒体上数以千计的其他作家)的每一个故事。您的会员费直接支持…
-
-medium.com](https://medium.com/@radecicdario/membership) 
+[](https://medium.com/@radecicdario/membership)  
 
 ## 保持联系
 

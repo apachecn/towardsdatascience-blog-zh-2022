@@ -136,11 +136,7 @@
 
 基于 NVIDIA Ampere 和 NVIDIA Turing 架构的新一代 NVIDIA GPUs 支持一系列仅用于推断的精度类型。虽然 FP16 precision type 早在 2016 年就在 NVIDIA Pascal 架构中首次推出，但最新的 NVIDIA Ampere 和基于图灵的 GPU 是真正“硬件-算法协同进化”的例子。我已经在我的博客文章中讨论了 GPU、GPU 架构及其特性的完整历史:
 
-[](/choosing-the-right-gpu-for-deep-learning-on-aws-d69c157d8c86) [## 为 AWS 上的深度学习选择合适的 GPU
-
-### 如何选择正确的亚马逊 EC2 GPU 实例进行深度学习训练和推理——从最佳性能到最佳性能
-
-towardsdatascience.com](/choosing-the-right-gpu-for-deep-learning-on-aws-d69c157d8c86) 
+[](/choosing-the-right-gpu-for-deep-learning-on-aws-d69c157d8c86)  
 
 在这一节中，我将重点介绍 GPU 上量化的硬件和软件支持。
 
@@ -157,11 +153,7 @@ ML 研究和硬件社区提出了两种方法来利用量化而不损失准确�
 
 有关量化如何在 GPU 上与 NVIDIA TensorRT 一起工作的代码示例，请阅读我的博客文章:
 
-[](/a-complete-guide-to-ai-accelerators-for-deep-learning-inference-gpus-aws-inferentia-and-amazon-7a5d6804ef1c) [## 深度学习推理的人工智能加速器完全指南——GPU、AWS 推理和亚马逊…
-
-### 了解 CPU、GPU、AWS 推理和亚马逊弹性推理，以及如何选择正确的人工智能加速器…
-
-towardsdatascience.com](/a-complete-guide-to-ai-accelerators-for-deep-learning-inference-gpus-aws-inferentia-and-amazon-7a5d6804ef1c) 
+[](/a-complete-guide-to-ai-accelerators-for-deep-learning-inference-gpus-aws-inferentia-and-amazon-7a5d6804ef1c)  
 
 ## **用 AWS 推理进行量化**
 

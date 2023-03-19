@@ -105,20 +105,8 @@ map2 = folium.Map(location = loc_center, tiles='Stamen Terrain', zoom_start = 5,
 
 我在本文中使用的整个笔记本和数据都在下面我的 Github 存储库中。
 
-[](https://github.com/catris25/Indonesian-Volcanoes-in-Folium) [## GitHub-catris 25/Indonesian-Volcanoes-in-folio:使用…创建印度尼西亚火山地图
-
-### 使用 Python 和 Folium 创建印度尼西亚火山地图。这是我提交的一篇文章的储存库…
-
-github.com](https://github.com/catris25/Indonesian-Volcanoes-in-Folium) 
+[](https://github.com/catris25/Indonesian-Volcanoes-in-Folium)  
 
 # **参考文献**:
 
-[](https://magma.esdm.go.id/v1/edukasi/tipe-gunung-api-di-indonesia-a-b-dan-c) [## 印度尼西亚的 Tipe Gunung Api、B 和 C)
-
-### 印度尼西亚 WIB，2021 年 9 月 20 日 12:01:09
-
-magma.esdm.go.id](https://magma.esdm.go.id/v1/edukasi/tipe-gunung-api-di-indonesia-a-b-dan-c)  [## 0.12.1 文件
-
-### 使用用于绘制地图的 Python 和 fleed . js 类制作漂亮的交互式地图。基地…
-
-python-visualization.github.io](https://python-visualization.github.io/folium/modules.html)
+[](https://magma.esdm.go.id/v1/edukasi/tipe-gunung-api-di-indonesia-a-b-dan-c)   

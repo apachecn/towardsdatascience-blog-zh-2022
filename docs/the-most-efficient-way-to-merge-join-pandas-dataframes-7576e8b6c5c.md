@@ -125,8 +125,4 @@ average time per join
 
 我希望这篇短文能帮助你加快加入熊猫的步伐！如果您认为需要回来参考，请务必保存/标记该故事！如果你喜欢这篇文章，欢迎[关注我](https://jerdibattista.medium.com/)，阅读我写的更多内容。我倾向于每个月深入一个主题一次，这通常涉及数据科学技巧、新的包或 ML 空间中我认为需要更好解释的任何东西！
 
-[](/the-most-efficient-if-elif-else-in-pandas-d4a7d4502d50) [## 熊猫中效率最高的 if-elif-else
-
-### 以及为什么你写的效率很低
-
-towardsdatascience.com](/the-most-efficient-if-elif-else-in-pandas-d4a7d4502d50)
+[](/the-most-efficient-if-elif-else-in-pandas-d4a7d4502d50) 

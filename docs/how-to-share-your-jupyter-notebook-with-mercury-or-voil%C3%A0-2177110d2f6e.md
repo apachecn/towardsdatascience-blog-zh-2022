@@ -159,16 +159,4 @@ conda install -c conda-forge voila
 
 我所使用的三种技术的网站如下:
 
- [## 使用瞧-瞧 0.3.0 文档
-
-### Voilà可作为独立应用程序运行、转换和维护 Jupyter 笔记本电脑。这可以通过…
-
-瞧，readthedocs.io](https://voila.readthedocs.io/en/stable/using.html)  [## ipywidgets - Jupyter 小部件 8.0.0b1 文档
-
-### 学习变成一种身临其境的有趣体验。研究人员可以很容易地看到如何改变模型的输入影响…
-
-ipywidgets.readthedocs.io](https://ipywidgets.readthedocs.io/en/latest/) [](https://mljar.com/mercury/) [## Mercury 与他人共享 Python 笔记本
-
-### Mercury web framework 可以很容易地用于开发和部署在生产环境中。这种开发模式非常适合…
-
-mljar.com](https://mljar.com/mercury/)
+    [](https://mljar.com/mercury/) 

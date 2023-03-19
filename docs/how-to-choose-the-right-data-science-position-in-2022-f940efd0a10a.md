@@ -225,14 +225,6 @@
 *   ****连接上* [*Linkedin*](https://www.linkedin.com/in/emmading001/) *！****
 *   ***前往[emmading.com/resources](https://www.emmading.com/resources)获取更多关于数据科学面试技巧和策略的免费资源！***
 
-***[](/how-i-got-4-data-science-offers-and-doubled-my-income-2-months-after-being-laid-off-b3b6d2de6938) [## 我是如何获得 4 份数据科学工作邀请，并在被解雇后两个月内收入翻倍的
+***[](/how-i-got-4-data-science-offers-and-doubled-my-income-2-months-after-being-laid-off-b3b6d2de6938)  [](/interviewing-for-your-first-data-scientist-job-what-to-expect-and-how-to-prepare-1f3f9a977e14) [## 第一份数据科学家工作的面试:期待什么以及如何准备
 
-### 获得 100%现场报价率的秘诀
-
-towardsdatascience.com](/how-i-got-4-data-science-offers-and-doubled-my-income-2-months-after-being-laid-off-b3b6d2de6938) [](/interviewing-for-your-first-data-scientist-job-what-to-expect-and-how-to-prepare-1f3f9a977e14) [## 第一份数据科学家工作的面试:期待什么以及如何准备
-
-towardsdatascience.com](/interviewing-for-your-first-data-scientist-job-what-to-expect-and-how-to-prepare-1f3f9a977e14) [](/why-arent-you-getting-data-science-interviews-6c7a31c8970f) [## 你为什么不接受数据科学的采访？
-
-### 获得面试的方法和当你感到困难时的提示
-
-towardsdatascience.com](/why-arent-you-getting-data-science-interviews-6c7a31c8970f)***
+towardsdatascience.com](/interviewing-for-your-first-data-scientist-job-what-to-expect-and-how-to-prepare-1f3f9a977e14) [](/why-arent-you-getting-data-science-interviews-6c7a31c8970f) ***

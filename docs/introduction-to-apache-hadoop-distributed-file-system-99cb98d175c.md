@@ -67,16 +67,4 @@ datanodes 又负责客户端(即用户)的读写过程。在发生查询时，�
 
 *如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！此外，媒体允许你每月免费阅读三篇文章***。如果你想让***无限制地访问我的文章和数以千计的精彩文章，请不要犹豫，通过点击我的推荐链接:*[https://medium.com/@niklas_lang/membership](https://medium.com/@subhinajar/membership)每月获得***5 美元*** *的会员资格****
 
-**[](/learn-coding-13-free-sites-to-help-you-do-it-9b2c1b92e573) [## 学习编码:13 个免费网站帮助你开始
-
-### 一旦你决定要学习编码，你会被众多的在线工具宠坏，这些工具可以帮助你…
-
-towardsdatascience.com](/learn-coding-13-free-sites-to-help-you-do-it-9b2c1b92e573) [](/introduction-to-random-forest-algorithm-fed4b8c8e848) [## 随机森林算法简介
-
-### 算法是如何工作的，我们可以用它来做什么
-
-towardsdatascience.com](/introduction-to-random-forest-algorithm-fed4b8c8e848) [](/understanding-mapreduce-with-the-help-of-harry-potter-5b0ae89cc88) [## 借助《哈利·波特》理解 MapReduce
-
-### MapReduce 是一种允许并行处理大型数据集的算法，例如，在多台计算机上…
-
-towardsdatascience.com](/understanding-mapreduce-with-the-help-of-harry-potter-5b0ae89cc88)**
+**[](/learn-coding-13-free-sites-to-help-you-do-it-9b2c1b92e573)  [](/introduction-to-random-forest-algorithm-fed4b8c8e848)  [](/understanding-mapreduce-with-the-help-of-harry-potter-5b0ae89cc88) **

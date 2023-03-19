@@ -16,11 +16,7 @@ Avel Chuklanov 在 [Unsplash](https://unsplash.com/photos/DUmFLtMeAbQ) 上拍摄
 
 得到💬任何数据科学或编程问题的 GPT 式答案。为成千上万的人生成摘要和学习笔记📚只需一次点击即可获得学习资源。👉
 
-[](https://aigents.co/learn) [## 面向数据科学家和开发人员的免费学习资源。精选的博客、教程、书籍和…
-
-### 机器学习和人工智能工程师的培训课程、黑客马拉松、活动和工作
-
-aigents.co](https://aigents.co/learn) 
+[](https://aigents.co/learn)  
 
 # 2.经理和人力资源部的面试
 

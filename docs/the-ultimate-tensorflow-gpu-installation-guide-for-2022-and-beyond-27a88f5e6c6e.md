@@ -16,11 +16,7 @@ GPU 即兴发挥这种深度学习框架的性能，以达到新的高度和峰�
 
 在本文中，我们将探讨如何获得 TensorFlow 的最新版本，并与现代技术保持同步。在你深入研究之前，你可以访问我以前的一个博客，并通过下面提供的链接了解你是否真的需要一个 GPU 来开始深度学习。
 
-[](/do-you-really-need-a-gpu-for-deep-learning-d37c05023226) [## 深度学习真的需要 GPU 吗？
-
-### 获得一个 GPU 是深度学习的必备条件吗？了解 GPU 及其优势，并探索…
-
-towardsdatascience.com](/do-you-really-need-a-gpu-for-deep-learning-d37c05023226) 
+[](/do-you-really-need-a-gpu-for-deep-learning-d37c05023226)  
 
 如果读者不想在本地安装 TensorFlow 的麻烦，并希望在 GPU 支持下在云上免费使用它，请查看 [Saturn Cloud](https://saturncloud.io/) ，这是一个面向团队的协作、可扩展的数据科学平台。
 
@@ -54,11 +50,7 @@ conda install -c anaconda tensorflow-gpu
 
 这个自由软件 IDE 帮助我们集成了众多编程语言的组件，如 Python、C、C++等等，使我们能够更好地执行一些特定的操作。成功下载该软件后，您可以关闭它，并进入下一个必要的安装。Visual Studio 代码也是我最喜欢的 Python ide 之一。查看下面的文章，了解更多不同类型的 ide。
 
-[](/a-concise-guide-of-10-awesome-python-editors-and-how-to-choose-which-editor-suits-you-the-best-465c9b232afd) [## 10+牛逼 Python 编辑器的简明指南，以及如何选择最适合你的编辑器…
-
-### 帮助您在各种 python 开发环境中进行选择的简明指南
-
-towardsdatascience.com](/a-concise-guide-of-10-awesome-python-editors-and-how-to-choose-which-editor-suits-you-the-best-465c9b232afd) 
+[](/a-concise-guide-of-10-awesome-python-editors-and-how-to-choose-which-editor-suits-you-the-best-465c9b232afd)  
 
 ## 3.安装 CUDA 工具包:
 
@@ -125,28 +117,12 @@ pip install tensorflow
 
 如果你想在我的文章发表后第一时间得到通知，请点击下面的[链接](https://bharath-k1297.medium.com/subscribe)订阅邮件推荐。如果你希望支持其他作者和我，请订阅下面的链接。
 
-[](https://bharath-k1297.medium.com/membership) [## 通过我的推荐链接加入媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-bharath-k1297.medium.com](https://bharath-k1297.medium.com/membership) 
+[](https://bharath-k1297.medium.com/membership)  
 
 如果你对这篇文章中提到的各点有任何疑问，请在下面的评论中告诉我。我会尽快给你回复。
 
 看看我的一些与本文主题相关的文章，你可能也会喜欢阅读！
 
-[](/develop-your-own-calendar-to-track-important-dates-with-python-c1af9e98ffc3) [## 使用 Python 开发您自己的日历来跟踪重要日期
-
-### 开发一个日历 GUI 界面来管理您 2022 年及以后的计划
-
-towardsdatascience.com](/develop-your-own-calendar-to-track-important-dates-with-python-c1af9e98ffc3) [](/develop-your-weather-application-with-python-in-less-than-10-lines-6d092c6dcbc9) [## 用 Python 开发不到 10 行的天气应用程序
-
-### 使用 Python 构建我们的天气电视广播应用程序，以接收所需位置的更新
-
-towardsdatascience.com](/develop-your-weather-application-with-python-in-less-than-10-lines-6d092c6dcbc9) [](/complete-python-starter-guide-for-data-science-for-2022-c1f880fa249d) [## 2022 年数据科学完整 Python 入门指南
-
-### 涵盖了用代码启动数据科学所需的所有 Python 基础和基本概念…
-
-towardsdatascience.com](/complete-python-starter-guide-for-data-science-for-2022-c1f880fa249d) 
+[](/develop-your-own-calendar-to-track-important-dates-with-python-c1af9e98ffc3)  [](/develop-your-weather-application-with-python-in-less-than-10-lines-6d092c6dcbc9)  [](/complete-python-starter-guide-for-data-science-for-2022-c1f880fa249d)  
 
 谢谢你们坚持到最后。我希望你们都喜欢这篇文章。祝大家有美好的一天！

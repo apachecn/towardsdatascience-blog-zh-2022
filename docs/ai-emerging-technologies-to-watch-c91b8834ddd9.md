@@ -30,29 +30,17 @@ HuggingFace 的文章描述了如何减少将模型投入生产所需的计算�
 
 为了更好地描述如何利用相似性搜索以及新技术如何提供良好的准确性和良好的功耗，请查看这篇文章:
 
-[](https://www.linkedin.com/pulse/power-intel-hardware-billion-scale-similarity-search-mariano-tepper/) [## 英特尔硬件在十亿级相似性搜索中的强大功能
-
-### 与 Sourabh Dongaonkar、Mark Hildebrand、Cecilia Aguerrebere、Jawad Khan 和 Ted Willke 共同进行相似性搜索…
-
-www.linkedin.com](https://www.linkedin.com/pulse/power-intel-hardware-billion-scale-similarity-search-mariano-tepper/) 
+[](https://www.linkedin.com/pulse/power-intel-hardware-billion-scale-similarity-search-mariano-tepper/)  
 
 ## 多模态认知人工智能
 
 顾名思义，多模态认知人工智能是一个试图采用存在于各种空间中的解决方案，并将它们相互逻辑组合以提供上下文的领域。这使得将大量训练有素的模型结合起来提供更好的解决方案成为可能。我也一直在考虑这个问题，想知道这是否为一些更小、更不准确、计算密集度更低的模型打开了大门，这些模型可以在解决方案中得到利用，而以前如果没有上下文，它们可能不够准确。老实说，我不确定，我很想听听更多领域专家对这个想法是否有意义的看法…
 
-[](/multimodality-a-new-frontier-in-cognitive-ai-8279d00e3baf) [## 多模态:认知人工智能的新前沿
-
-### 现代多模态 ML 体系结构及其应用
-
-towardsdatascience.com](/multimodality-a-new-frontier-in-cognitive-ai-8279d00e3baf) 
+[](/multimodality-a-new-frontier-in-cognitive-ai-8279d00e3baf)  
 
 有趣的是，就在我准备发表这篇文章的时候，英特尔的 VL 解释器在 IEEE/CVF 计算机视觉和模式识别国际会议(CVPR) 2022 活动上获得了最佳演示奖！这个工具帮助我们理解视觉语言转换器的行为。
 
-[](https://github.com/IntelLabs/VL-InterpreT) [## GitHub——英特尔实验室/VL——翻译
-
-### VL 解释提供了互动的可视化解释的关注和隐藏的代表…
-
-github.com](https://github.com/IntelLabs/VL-InterpreT) 
+[](https://github.com/IntelLabs/VL-InterpreT)  
 
 ## 神经形态计算
 
@@ -68,15 +56,7 @@ github.com](https://github.com/IntelLabs/VL-InterpreT)
 
 这里的第一个链接是一个非常棒的资源，他们有一个非常好的概述，还有一些研讨会，有一些非常容易理解的概述和深入的视频。
 
-[](https://intel-ncl.atlassian.net/wiki/spaces/INRC/overview?homepageId=196610) [## INRC 公众
-
-### 欢迎来到 INRC 网络中心，我们正在为我们的网站带来全新的外观和感觉，以确保您…
-
-intel-ncl.atlassian.net](https://intel-ncl.atlassian.net/wiki/spaces/INRC/overview?homepageId=196610)  [## Lava 软件框架— Lava 文档
-
-### 一个用于神经形态计算的软件框架 Lava 是一个开源软件框架，用于开发神经启发…
-
-lava-nc.org](https://lava-nc.org) 
+[](https://intel-ncl.atlassian.net/wiki/spaces/INRC/overview?homepageId=196610)    
 
 # 结论
 

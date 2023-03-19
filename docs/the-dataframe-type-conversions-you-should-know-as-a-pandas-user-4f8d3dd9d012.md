@@ -75,11 +75,7 @@ Pandas 中的另一个可用功能是`[to_numpy()](https://pandas.pydata.org/doc
 
 如果您想了解创建 NumPy 数组的各种方法，可以在下面找到我的博客:
 
-[](/here-are-30-ways-that-will-make-you-a-pro-at-creating-numpy-arrays-932b77d9a1eb) [## 这里有 30 种方法可以让你成为创建 NumPy 数组的专家
-
-### 创建 NumPy 数组的综合指南
-
-towardsdatascience.com](/here-are-30-ways-that-will-make-you-a-pro-at-creating-numpy-arrays-932b77d9a1eb) 
+[](/here-are-30-ways-that-will-make-you-a-pro-at-creating-numpy-arrays-932b77d9a1eb)  
 
 # 转换为 Python 列表
 

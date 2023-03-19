@@ -92,11 +92,7 @@ fig.update_layout(
 
 如果您需要按美国各州或世界各国以外的地理区域绘制 choropleth 地图，则需要使用适当的 GeoJson 文件来定义相应的地理区域边界，例如县、邮政编码等。您可以使用`Plotly_Express`、`Plotly_Go`或`Folium`来创建地图。如果你想学习如何使用`Folium`创建一个高度可定制和复杂的 choropleth 地图，你可以阅读下面的文章。
 
-[](/folium-and-choropleth-map-from-zero-to-pro-6127f9e68564) [## 叶和 Choropleth 地图:从零到专业
-
-### 使用带有图层控制和自定义工具提示的 follow 创建交互式 Choropleth 地图的分步教程
-
-towardsdatascience.com](/folium-and-choropleth-map-from-zero-to-pro-6127f9e68564) 
+[](/folium-and-choropleth-map-from-zero-to-pro-6127f9e68564)  
 
 感谢阅读！我希望你喜欢这个教程，并且学到了一些关于地理空间数据可视化的新知识。
 

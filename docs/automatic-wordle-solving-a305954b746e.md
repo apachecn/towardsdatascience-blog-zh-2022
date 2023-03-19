@@ -26,25 +26,13 @@
 
 切入正题，这是我的 Github 库，它实现了一个脚本，该脚本遵循以下策略:
 
-[](https://github.com/yotam-gafni/wordle_solver) [## GitHub-yotam-gafni/wordle _ solver:一个 python wordle 解算器
-
-### Wordle solver 运行指令:python3.7 comb.py 该脚本输出进入 Wordle 的第一个单词。然后它会等待…
-
-github.com](https://github.com/yotam-gafni/wordle_solver) 
+[](https://github.com/yotam-gafni/wordle_solver)  
 
 (它还有一个实现，您可以每天使用它来玩)
 
 我感谢这两个 Github 项目，在那里我得到了可能的猜测词和隐藏词的列表。查看它们，因为它们具有自动求解器所不具备的有趣特性:
 
-[](https://github.com/coolbutuseless/wordle) [## GitHub-coolbutused/wordle:RStats 的 Wordle 助手
-
-### {wordle}包包含帮助 wordle 找到好的候选单词的代码。“单词”本身就是一个…
-
-github.com](https://github.com/coolbutuseless/wordle) [](https://github.com/octokatherine/word-master) [## GitHub-octokatherine/word-master:一款类似智多星的猜字游戏
-
-### 🔗https://octokatherine.github.io/word-master/深受 Wordle 的启发，Word Master 是一款类似猜字的游戏…
-
-github.com](https://github.com/octokatherine/word-master) 
+[](https://github.com/coolbutuseless/wordle)  [](https://github.com/octokatherine/word-master)  
 
 此外，看看 [Absurdle](https://qntm.org/files/wordle/index.html) :它采用我们讨论过的对抗方式，并试图让你尽可能多地移动！
 

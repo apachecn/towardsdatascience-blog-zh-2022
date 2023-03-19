@@ -60,16 +60,4 @@ Q_Omega 是通知较低层策略的较高层元策略。
 
 参考资料:
 
-[](https://www.sciencedirect.com/science/article/pii/S0004370299000521) [## 在 MDP 和半 MDP 之间:强化学习中的时间抽象框架
-
-### 学习、规划和在多个时间抽象层次上表现知识是关键的、长期的…
-
-www.sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S0004370299000521) [](https://arxiv.org/abs/1609.05140) [## 选择批判架构
-
-### 时间抽象是在强化学习中扩大学习和计划的关键。当计划与…
-
-arxiv.org](https://arxiv.org/abs/1609.05140) [](/hierarchical-reinforcement-learning-a2cca9b76097) [## 分层强化学习
-
-### 掌握分层 RL 的工作原理、最常用的方法以及如何开始实施它…
-
-towardsdatascience.com](/hierarchical-reinforcement-learning-a2cca9b76097)
+[](https://www.sciencedirect.com/science/article/pii/S0004370299000521)  [](https://arxiv.org/abs/1609.05140)  [](/hierarchical-reinforcement-learning-a2cca9b76097) 

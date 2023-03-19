@@ -16,11 +16,7 @@ DRL 不仅限于游戏，它还在更实际的问题上表现出强大的能力�
 
 在继续这篇文章之前，我假设读者已经熟悉 RL 的基本概念和词汇。如果没有，你可以先看看 RL 上的这个很棒的 [UCL 课程，或者看看你真实的介绍:](https://www.davidsilver.uk/teaching/)
 
-[](/playing-cards-with-reinforcement-learning-1-3-c2dbabcf1df0) [## 强化学习扑克牌
-
-### 概念和 Python 代码🐍
-
-towardsdatascience.com](/playing-cards-with-reinforcement-learning-1-3-c2dbabcf1df0) 
+[](/playing-cards-with-reinforcement-learning-1-3-c2dbabcf1df0)  
 
 👾 🎮**太空入侵者** (S-I)是一款来自著名的雅达利 2600 主机的视频游戏(图 1)。这款视频游戏被广泛用于 DRL 模型的基准测试。在《星际迷航》中，你驾驶一艘小飞船，在外星人摧毁你之前，你必须通过射击摧毁尽可能多的外星人飞船。我们将使用 S-I 游戏作为一个玩具环境来说明我们在这篇文章中涉及的 RL 概念。
 

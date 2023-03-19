@@ -18,23 +18,11 @@
 
 **我过去在实现 Tesseract OCR 方面的一些尝试是以 [TesseractJS](https://tesseract.projectnaptha.com/) 的形式出现的，这是 OCR 引擎的一个纯 JavaScript 端口*(请参考下面的文章了解完整的细节)*:**
 
-**[](https://javascript.plainenglish.io/build-a-text-to-speech-app-using-client-side-javascript-98cd72df73bb) [## 使用客户端 JavaScript 构建一个文本到语音的应用程序
-
-### OCR 技术(Tesseract.js)和 Web 语音 API 的融合。包括完整的代码实现。
-
-javascript.plainenglish.io](https://javascript.plainenglish.io/build-a-text-to-speech-app-using-client-side-javascript-98cd72df73bb) [](/build-an-image-pdf-text-extraction-tool-with-tesseract-ocr-using-client-side-javascript-6126031001) [## 使用客户端 JavaScript 通过 Tesseract OCR 构建图像和 PDF 文本提取工具
-
-### pdf . js+tessera CT . js—OCR 和 Web 技术的融合。包括完整的代码实现。
-
-towardsdatascience.com](/build-an-image-pdf-text-extraction-tool-with-tesseract-ocr-using-client-side-javascript-6126031001) 
+**[](https://javascript.plainenglish.io/build-a-text-to-speech-app-using-client-side-javascript-98cd72df73bb)  [](/build-an-image-pdf-text-extraction-tool-with-tesseract-ocr-using-client-side-javascript-6126031001)  
 
 然而，最近我决定使用[Tess4J](http://tess4j.sourceforge.net/)(Java 中的 [Tesseract-OCR](https://github.com/tesseract-ocr) )作为利用 Tesseract 的 OCR 引擎的替代方法。作为我最近尝试使用 Tess4J 进行图像到文本转换的后续工作，我的学习之旅的第二部分将展示 Tess4J 的内置组件来对 PDF 文档执行文本提取。此外，这也是对第一部分中开发的早期原型的补充:
 
-[](/build-a-portable-ocr-tool-in-4-steps-with-tess4j-jar-a-tesseract-wrapper-for-java-6d1be3f0cb3d) [## 使用 Tess4J——一种用于 Java 的 Tesseract 包装器，通过 4 个步骤构建一个可移植的 OCR 工具
-
-### 探索 Tess4J |图像到文本提取(的第一部分。巴新和。仅 jpg 文件扩展名)
-
-towardsdatascience.com](/build-a-portable-ocr-tool-in-4-steps-with-tess4j-jar-a-tesseract-wrapper-for-java-6d1be3f0cb3d) 
+[](/build-a-portable-ocr-tool-in-4-steps-with-tess4j-jar-a-tesseract-wrapper-for-java-6d1be3f0cb3d)  
 
 # 用 Tess4J 构建 PDF 文本提取功能
 
@@ -114,8 +102,4 @@ for (int p = 0; p < totalNoOfPages; p++) { // FOR-EACH PAGE
 
 **— 🌮请给我买一份玉米卷🎀˶❛◡❛)**
 
-**[](https://geek-cc.medium.com/membership) [## 通过我的推荐链接加入灵媒——李思欣·崔
-
-### 获得李思欣·崔和其他作家在媒体上的所有帖子！😃您的会员费直接…
-
-geek-cc.medium.com](https://geek-cc.medium.com/membership)****
+**[](https://geek-cc.medium.com/membership) ****

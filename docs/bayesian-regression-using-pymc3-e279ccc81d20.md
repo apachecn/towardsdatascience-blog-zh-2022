@@ -30,27 +30,15 @@ Joachim Schnürle 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medi
 
 **如果你不熟悉贝叶斯定理，我推荐你看看我以前关于这个主题的文章:**
 
-**[](https://pub.towardsai.net/conditional-probability-and-bayes-theorem-simply-explained-788a6361f333) [## 条件概率和贝叶斯定理浅释
-
-### 条件概率和贝叶斯定理的简单直观的解释。
-
-pub.towardsai.net](https://pub.towardsai.net/conditional-probability-and-bayes-theorem-simply-explained-788a6361f333) 
+**[](https://pub.towardsai.net/conditional-probability-and-bayes-theorem-simply-explained-788a6361f333)  
 
 还有另一种叫做 [**共轭先验**](https://en.wikipedia.org/wiki/Conjugate_prior) 的方法也解决了这个棘手的问题，但是它的可塑性不如 MCMC。如果你想了解更多关于共轭先验的知识，请查看我以前的文章:
 
-[](/bayesian-conjugate-priors-simply-explained-747218be0f70) [## 贝叶斯共轭先验简单解释
-
-### 执行贝叶斯统计的一种计算有效的方法
-
-towardsdatascience.com](/bayesian-conjugate-priors-simply-explained-747218be0f70) 
+[](/bayesian-conjugate-priors-simply-explained-747218be0f70)  
 
 在这篇文章中，我们将介绍如何使用 PyMC3 包实现 [**贝叶斯线性回归**](https://en.wikipedia.org/wiki/Bayesian_linear_regression) ，并快速浏览一下它与普通的 [**线性回归**](https://en.wikipedia.org/wiki/Linear_regression) 有何不同。如果你想知道如何从零开始实现贝叶斯线性回归，那么看看我最近的帖子:
 
-[](/bayesian-regression-from-scratch-a1fe19ff64c) [## 贝叶斯回归从零开始
-
-### 使用 Python 从基本原理导出贝叶斯线性回归
-
-towardsdatascience.com](/bayesian-regression-from-scratch-a1fe19ff64c) 
+[](/bayesian-regression-from-scratch-a1fe19ff64c)  
 
 # 概述:贝叶斯与频率主义回归
 
@@ -60,11 +48,7 @@ towardsdatascience.com](/bayesian-regression-from-scratch-a1fe19ff64c)
 
 **然而，在贝叶斯世界中，你的参数有一个值的分布，它们可能有一定的概率。然后使用更多的数据更新这个分布，这样我们就可以更加确定参数的取值。这个过程被称为 [**贝叶斯更新**](https://en.wikipedia.org/wiki/Bayesian_inference) ，你可以在这里了解更多信息:**
 
-**[](/bayesian-updating-simply-explained-c2ed3e563588) [## 贝叶斯更新简单解释
-
-### 用贝叶斯定理更新信念的直观解释
-
-towardsdatascience.com](/bayesian-updating-simply-explained-c2ed3e563588) 
+**[](/bayesian-updating-simply-explained-c2ed3e563588)  
 
 这是对贝叶斯和频率主义回归之间的主要区别的一瞥。如果你想要更深入的观点，有很多资源可以比我解释得更好！
 
@@ -190,11 +174,7 @@ with model_100:
 
 HDI 代表 [**高密度区间**](https://stats.stackexchange.com/questions/148439/what-is-a-highest-density-region-hdr) ，描述了我们在参数估计中的确定性。如果你想了解更多关于人类发展指数的信息，请查看我在[T21【贝叶斯可信区间 上的博文:](https://en.wikipedia.org/wiki/Credible_interval)
 
-[](/bayesian-credible-intervals-simply-explained-24989c9259a3) [## 贝叶斯可信区间简单解释
-
-### 贝叶斯可信区间的简明描述及其在 Python 中的实现
-
-towardsdatascience.com](/bayesian-credible-intervals-simply-explained-24989c9259a3) 
+[](/bayesian-credible-intervals-simply-explained-24989c9259a3)  
 
 这个模拟只使用了我们数据中的 100 个样本。与贝叶斯方法一样，我们随着更多的数据变得更加确定。
 
@@ -246,11 +226,7 @@ with model_10_100:
 
 要查看我在这篇文章中使用的全部代码，请点击这里查看 GitHub 上的笔记本:
 
-[](https://github.com/egorhowell/Medium-Articles/blob/main/Statistics/pymc3_tutorial.ipynb) [## Medium-Articles/pym C3 _ tutorial . ipynb at main egorhowell/Medium-Articles
-
-### 我在我的媒体博客/文章中使用的代码。通过创建一个关于…的帐户，为 egorhowell/Medium-Articles 的开发做出贡献
-
-github.com](https://github.com/egorhowell/Medium-Articles/blob/main/Statistics/pymc3_tutorial.ipynb) 
+[](https://github.com/egorhowell/Medium-Articles/blob/main/Statistics/pymc3_tutorial.ipynb)  
 
 # 结论
 

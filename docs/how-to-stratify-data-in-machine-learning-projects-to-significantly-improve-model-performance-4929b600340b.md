@@ -20,11 +20,7 @@
 
 我们首先需要的是一些数据。项目中使用的真实数据不能共享，所以我使用 Faker 库从头开始创建了一个虚拟数据集。这意味着**对数据没有许可限制，数据可以用于或重新用于学习和开发目的**。
 
- [## 欢迎来到 Faker 的文档！- Faker 13.12.0 文件
-
-### Faker 是一个为你生成假数据的 Python 包。无论您是否需要引导数据库，创建…
-
-faker.readthedocs.io](https://faker.readthedocs.io/en/master/) 
+  
 
 让我们从导入我们需要的库开始，然后读入虚构的数据集…
 
@@ -192,8 +188,4 @@ dtype: int64
 
 如果你想通过订阅来支持作者和全世界 1000 个为文章写作做出贡献的人，请使用下面的链接(注意:如果你使用这个链接免费注册，作者将收到一定比例的费用)。
 
-[](https://grahamharrison-86487.medium.com/membership) [## 通过我的推荐链接加入媒体-格雷厄姆哈里森
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-grahamharrison-86487.medium.com](https://grahamharrison-86487.medium.com/membership)
+[](https://grahamharrison-86487.medium.com/membership) 

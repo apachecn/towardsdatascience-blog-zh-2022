@@ -106,11 +106,7 @@ Plotly 下载的默认`width`和`height`是 983 乘 525，它的比例为 1.87:1
 
 最后，感谢您阅读我的文章！
 
-[](https://manfyegoh.medium.com/membership) [## 通过我的推荐链接加入 Medium-manfey Goh
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-manfyegoh.medium.com](https://manfyegoh.medium.com/membership) 
+[](https://manfyegoh.medium.com/membership)  
 
 ## 参考资料:
 

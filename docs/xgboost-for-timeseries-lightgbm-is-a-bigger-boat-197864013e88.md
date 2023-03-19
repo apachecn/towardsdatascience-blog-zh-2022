@@ -18,11 +18,7 @@
 
 在上一篇文章中，我展示了 XGBoost 的一个最重要的限制是它不能根据构造进行推断。
 
-[](/xgboost-for-time-series-youre-gonna-need-a-bigger-boat-9d329efa6814) [## XGBoost for Time Series:你需要一艘更大的船
-
-### XGBoost 是一个非常强大和通用的模型。它的应用范围很广，并已得到应用
-
-towardsdatascience.com](/xgboost-for-time-series-youre-gonna-need-a-bigger-boat-9d329efa6814) 
+[](/xgboost-for-time-series-youre-gonna-need-a-bigger-boat-9d329efa6814)  
 
 这是相当严格的，因为在许多 ML 情况下，你需要能够推断。在处理时间序列时尤其如此，因为你通常想要预测未来，而没有外推，你就被困在了过去。XGBoost 所做的所有预测都是历史值的集合。
 

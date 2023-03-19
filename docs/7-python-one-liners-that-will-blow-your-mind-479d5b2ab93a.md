@@ -152,8 +152,4 @@ q([])
 
 ## 参考
 
-[](https://www.amazon.com/Python-One-Liners-Concise-Eloquent-Professional/dp/1718500505) [## Python 一行程序:像专业人员一样编写简洁、雄辩的 Python
-
-### Python 一行程序:像 Amazon.com 的专业人士(Mayer，Christian)一样编写简洁、雄辩的 Python。*免费*运输…
-
-www.amazon.com](https://www.amazon.com/Python-One-Liners-Concise-Eloquent-Professional/dp/1718500505)
+[](https://www.amazon.com/Python-One-Liners-Concise-Eloquent-Professional/dp/1718500505) 

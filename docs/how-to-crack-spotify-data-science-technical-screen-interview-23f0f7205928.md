@@ -60,11 +60,7 @@
 
 要解决这个问题，你需要熟悉 A/B 测试背后的基本概念，例如控制组与实验组，选择主要的成功或绩效指标，并对这两组中的每一组进行计算。你需要了解的关于 A/B 测试解决这个问题的一切都可以在这里找到:[https://towardsdatascience . com/simple-and-complet-guide-to-A-B-testing-c 34154d 0 ce 5 A](/simple-and-complet-guide-to-a-b-testing-c34154d0ce5a)
 
-[](/simple-and-complet-guide-to-a-b-testing-c34154d0ce5a) [## 简单完整的 A/B 测试指南
-
-### 为您的数据科学实验进行端到端 A/B 测试，面向非技术和技术专家，提供示例和…
-
-towardsdatascience.com](/simple-and-complet-guide-to-a-b-testing-c34154d0ce5a) 
+[](/simple-and-complet-guide-to-a-b-testing-c34154d0ce5a)  
 
 要解决这个问题，请学习以下 **SQL** 中的基本函数:
 
@@ -100,15 +96,7 @@ towardsdatascience.com](/simple-and-complet-guide-to-a-b-testing-c34154d0ce5a)
 
 研究以下两篇博文，它们包含了所有基本的统计概念，如 p 值等，以及关于 A/B 测试的内容，然后你将能够回答在技术屏幕的最后部分提出的所有问题。
 
-[](/fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7) [## 数据科学家和数据分析师的统计学基础
-
-### 数据科学或数据分析之旅的关键统计概念
-
-towardsdatascience.com](/fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7) [](/simple-and-complet-guide-to-a-b-testing-c34154d0ce5a) [## 简单完整的 A/B 测试指南
-
-### 为您的数据科学实验进行端到端 A/B 测试，面向非技术和技术专家，提供示例和…
-
-towardsdatascience.com](/simple-and-complet-guide-to-a-b-testing-c34154d0ce5a) ![](img/36f9e90d5064d3fd2803e3a95c71b6cc.png)
+[](/fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7)  [](/simple-and-complet-guide-to-a-b-testing-c34154d0ce5a)  ![](img/36f9e90d5064d3fd2803e3a95c71b6cc.png)
 
 图片来源: [cottonbro](https://www.pexels.com/@cottonbro?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
 
@@ -116,39 +104,7 @@ towardsdatascience.com](/simple-and-complet-guide-to-a-b-testing-c34154d0ce5a) !
 
 # 如果你喜欢这篇文章，这里有一些你可能喜欢的其他文章:
 
-[](/simple-and-complet-guide-to-a-b-testing-c34154d0ce5a) [## 简单完整的 A/B 测试指南
-
-### 为您的数据科学实验进行端到端 A/B 测试，面向非技术和技术专家，提供示例和…
-
-towardsdatascience.com](/simple-and-complet-guide-to-a-b-testing-c34154d0ce5a) [](/fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7) [## 数据科学家和数据分析师的统计学基础
-
-### 数据科学或数据分析之旅的关键统计概念
-
-towardsdatascience.com](/fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7) [](/bias-variance-trade-off-overfitting-regularization-in-machine-learning-d79c6d8f20b4) [## 理解机器学习中的偏差-方差权衡、过拟合和正则化
-
-### 介绍偏差-方差权衡，过度拟合&如何使用正则化解决过度拟合:脊和套索…
-
-towardsdatascience.com](/bias-variance-trade-off-overfitting-regularization-in-machine-learning-d79c6d8f20b4) [](https://tatev-aslanyan.medium.com/data-sampling-methods-in-python-a4400628ea1b) [## Python 中的数据采样方法
-
-### 使用不同的数据采样技术创建 Python 中的随机样本的现成代码
-
-tatev-aslanyan.medium.com](https://tatev-aslanyan.medium.com/data-sampling-methods-in-python-a4400628ea1b) [](https://medium.com/analytics-vidhya/pyspark-cheat-sheet-big-data-analytics-161a8e1f6185) [## PySpark 备忘单:大数据分析
-
-### 这里是基本 PySpark 命令和函数的备忘单。在 PySpark 中开始您的大数据分析。
-
-medium.com](https://medium.com/analytics-vidhya/pyspark-cheat-sheet-big-data-analytics-161a8e1f6185) [](https://tatev-aslanyan.medium.com/bias-variance-trade-off-in-machine-learning-7f885355e847) [## 机器学习中的偏差-方差权衡
-
-### 机器学习和统计模型中偏差-方差权衡的介绍
-
-tatev-aslanyan.medium.com](https://tatev-aslanyan.medium.com/bias-variance-trade-off-in-machine-learning-7f885355e847) [](/monte-carlo-simulation-and-variants-with-python-43e3e7c59e1f) [## 蒙特卡罗模拟和 Python 变种
-
-### 蒙特卡洛模拟指南，必须了解 Python 实现的统计抽样技术
-
-towardsdatascience.com](/monte-carlo-simulation-and-variants-with-python-43e3e7c59e1f) [](https://levelup.gitconnected.com/predicting-bitcoins-price-with-recurrent-neural-networks-a27b4d2d839) [## 用递归神经网络预测比特币价格
-
-### 谁没听说过世界上最著名的数字货币，十年加密货币？没错，我是…
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/predicting-bitcoins-price-with-recurrent-neural-networks-a27b4d2d839) 
+[](/simple-and-complet-guide-to-a-b-testing-c34154d0ce5a)  [](/fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7)  [](/bias-variance-trade-off-overfitting-regularization-in-machine-learning-d79c6d8f20b4)  [](https://tatev-aslanyan.medium.com/data-sampling-methods-in-python-a4400628ea1b)  [](https://medium.com/analytics-vidhya/pyspark-cheat-sheet-big-data-analytics-161a8e1f6185)  [](https://tatev-aslanyan.medium.com/bias-variance-trade-off-in-machine-learning-7f885355e847)  [](/monte-carlo-simulation-and-variants-with-python-43e3e7c59e1f)  [](https://levelup.gitconnected.com/predicting-bitcoins-price-with-recurrent-neural-networks-a27b4d2d839)  
 
 ***感谢阅读***
 

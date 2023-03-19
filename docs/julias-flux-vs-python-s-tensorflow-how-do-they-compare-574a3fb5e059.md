@@ -31,11 +31,7 @@
 
 顺便说一句，如果这是你第一次听说朱莉娅，我推荐你读“什么是朱莉娅？”一节来快速入门:
 
-[](/is-julia-really-faster-than-python-and-numpy-242e0a5fe34f) [## Julia 真的比 Python 和 Numpy 快吗？
-
-### C 的速度和 Python 的简单性
-
-towardsdatascience.com](/is-julia-really-faster-than-python-and-numpy-242e0a5fe34f) 
+[](/is-julia-really-faster-than-python-and-numpy-242e0a5fe34f)  
 
 # 参考笔记本
 
@@ -45,11 +41,7 @@ towardsdatascience.com](/is-julia-really-faster-than-python-and-numpy-242e0a5fe3
 
 可以在此处找到适合您本地环境的原始笔记本:
 
-[](https://github.com/thetestspecimen/notebooks/tree/main/julia-python-image-classification) [## 笔记本/Julia-python-图像-主要测试样本分类/笔记本
-
-### Jupyter 笔记本。在 GitHub 上创建一个帐户，为测试样本/笔记本的开发做出贡献。
-
-github.com](https://github.com/thetestspecimen/notebooks/tree/main/julia-python-image-classification) 
+[](https://github.com/thetestspecimen/notebooks/tree/main/julia-python-image-classification)  
 
 …或者在 deepnote 或 colab 中快速启动。
 
@@ -106,11 +98,7 @@ ENV DEFAULT_KERNEL_NAME "julia-1.8"
 
 本文中使用的较小数据集可从以下网址获得:
 
-[](https://github.com/thetestspecimen/notebooks/tree/main/datasets/rock_paper_scissors) [## 笔记本/数据集/石头剪刀布主测试样本/笔记本
-
-### 该数据集是对原始“石头剪刀布”数据集的选择，详见下面的参考资料部分…
-
-github.com](https://github.com/thetestspecimen/notebooks/tree/main/datasets/rock_paper_scissors) 
+[](https://github.com/thetestspecimen/notebooks/tree/main/datasets/rock_paper_scissors)  
 
 # 这个计划
 
@@ -658,11 +646,7 @@ my_func(x, y) = x * y + 2
 
 **是的，可能会有一个轻微的学习曲线来转换你目前正在使用的语言，但同样，我不认为它会像你想象的那样严重。为了帮助您，Julia 的文档包括了对主要语言的详细比较:**
 
- **[## 与其他语言的显著区别
-
-### 虽然 MATLAB 用户可能会觉得 Julia 的语法很熟悉，但 Julia 不是 MATLAB 的克隆。有主要的句法和…
-
-docs.julialang.org](https://docs.julialang.org/en/v1/manual/noteworthy-differences/)** 
+ **** 
 
 **我看到的唯一缺点是，即使已经存在了 10 年，与竞争对手相比，它还是相对较新。这对文件和学习资源的质量和数量有直接影响。这似乎比大多数人愿意承认的对收养有更大的影响。金钱也有帮助，一如既往…但我没有数据来评论这种情况。**
 
@@ -676,11 +660,7 @@ docs.julialang.org](https://docs.julialang.org/en/v1/manual/noteworthy-differenc
 
 **使用我的推荐链接注册会给我一点回扣，对你的会员资格没有影响，所以如果你选择这样做，谢谢你。**
 
-**[](https://medium.com/@maclayton/membership) [## 加入我的介绍链接媒体-迈克克莱顿
-
-### 阅读迈克·克莱顿(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-medium.com](https://medium.com/@maclayton/membership) 
+**[](https://medium.com/@maclayton/membership)  
 
 # 参考
 

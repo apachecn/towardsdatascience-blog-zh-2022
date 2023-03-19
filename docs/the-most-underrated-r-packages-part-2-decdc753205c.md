@@ -71,8 +71,4 @@
 
 **就是这样。我希望你找到了对你的 R 相关工作有用或有启发的东西。如果你知道一些其他被低估的库，你觉得其他人应该试着使用，请在评论中写下或者在 Twitter 上 ping 我，如果你错过了这篇文章的第一部分，请阅读它！**
 
-**[](/the-most-underrated-r-packages-254e4a6516a1) [## 最被低估的 R 包
-
-### 令人敬畏的图书馆的精选列表
-
-towardsdatascience.com](/the-most-underrated-r-packages-254e4a6516a1)**
+**[](/the-most-underrated-r-packages-254e4a6516a1) **

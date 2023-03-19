@@ -12,11 +12,7 @@ Pawel Czerwinski 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_mediu
 
 欢迎来到 GCP 专业数据工程师认证系列的第二部分。在第一部分，我们介绍了谷歌的云平台及其层次结构。您可以在这里找到第 1 部分:
 
-[](/part-1-road-to-google-cloud-professional-data-engineer-introduction-to-the-google-cloud-7abbd3411f3a) [## [第 1 部分] —通往 Google Cloud 专业数据工程师之路—Google Cloud 简介…
-
-### 成为认证谷歌专业数据工程师的途径
-
-towardsdatascience.com](/part-1-road-to-google-cloud-professional-data-engineer-introduction-to-the-google-cloud-7abbd3411f3a) 
+[](/part-1-road-to-google-cloud-professional-data-engineer-introduction-to-the-google-cloud-7abbd3411f3a)  
 
 在这一部分，我们将讨论大数据技术和机器学习方面的服务和 GCP 的产品。
 
@@ -68,35 +64,19 @@ GCP 存储流程图。图片作者。
 
 这种软件的一个很好的例子是 Apache Spark 和它的机器学习包(Apache SparkML)。查看我的另一个博客，在创纪录的时间内运行 Spark 作业，而不需要任何基础设施开销。
 
-[](/running-a-spark-job-in-less-than-10-minutes-with-no-infrastructure-fe79f1c41780) [## 在不到 10 分钟的时间内运行 Spark 作业，无需基础架构
-
-### 关于使用 Google 云平台设置 Spark 的快速实践教程
-
-towardsdatascience.com](/running-a-spark-job-in-less-than-10-minutes-with-no-infrastructure-fe79f1c41780) 
+[](/running-a-spark-job-in-less-than-10-minutes-with-no-infrastructure-fe79f1c41780)  
 
 你喜欢这篇文章吗？如果是，请考虑订阅我的电子邮件列表，以便在我发布新内容时得到通知。
 
-[](https://david-farrugia.medium.com/subscribe) [## 每当大卫·法鲁吉亚发表文章时，就收到一封电子邮件。
-
-### 每当大卫·法鲁吉亚发表文章时，就收到一封电子邮件。通过注册，您将创建一个中型帐户，如果您还没有…
-
-david-farrugia.medium.com](https://david-farrugia.medium.com/subscribe) 
+[](https://david-farrugia.medium.com/subscribe)  
 
 **此外，考虑成为会员，使用我下面的推荐链接来支持我和你在 Medium 上喜欢的其他作家。每月 5 美元，你就可以无限制地阅读 Medium 上的每一篇文章。**
 
-[](https://david-farrugia.medium.com/membership) [## 加入我的介绍链接媒体-大卫法鲁吉亚
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-david-farrugia.medium.com](https://david-farrugia.medium.com/membership) 
+[](https://david-farrugia.medium.com/membership)  
 
 **想给我买杯咖啡吗？**
 
-[](https://paypal.me/itsdavidfarrugia?country.x=MT&locale.x=en_US) [## 使用贝宝支付大卫法鲁吉亚。我
-
-### 如果您接受 cookies，我们将使用它们来改善和定制您的体验，并使我们的合作伙伴能够向您展示…
-
-paypal.me](https://paypal.me/itsdavidfarrugia?country.x=MT&locale.x=en_US) 
+[](https://paypal.me/itsdavidfarrugia?country.x=MT&locale.x=en_US)  
 
 # 想联系吗？
 

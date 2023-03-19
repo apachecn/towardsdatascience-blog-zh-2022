@@ -270,11 +270,7 @@ val recommendU = model.recommendUsers(product=inputMovieID, num=10)
 
 Github 回购:[https://github.com/haocai1992/MovieRecommender](https://github.com/haocai1992/MovieRecommender)
 
-[](https://github.com/haocai1992/MovieRecommender) [## GitHub-haokai 1992/moviere commender:使用 Scala、Spark 和…
-
-### (照片由 Tyson Moultrie 在 Unsplash 上提供)此回购包含此博客的源代码。推荐系统是一种…
-
-github.com](https://github.com/haocai1992/MovieRecommender) 
+[](https://github.com/haocai1992/MovieRecommender)  
 
 # 9.引文
 

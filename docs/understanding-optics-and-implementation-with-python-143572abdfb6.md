@@ -239,12 +239,4 @@ optics_clustering.labels_
 
 ## 参考资料:
 
-[](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.OPTICS.html) [## sklearn.cluster.OPTICS
-
-### 从向量数组估计聚类结构。光学(排序点以识别聚类结构)，密切…
-
-scikit-learn.org](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.OPTICS.html) [](https://en.wikipedia.org/wiki/OPTICS_algorithm) [## 光学算法-维基百科
-
-### 对点进行排序以识别聚类结构(光学)是一种算法，用于在
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/OPTICS_algorithm)
+[](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.OPTICS.html)  [](https://en.wikipedia.org/wiki/OPTICS_algorithm) 

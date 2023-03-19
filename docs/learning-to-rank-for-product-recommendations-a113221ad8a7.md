@@ -15,11 +15,7 @@ LTR 最常见的用例是搜索引擎和推荐系统。排名的最终目的是�
 
 现在是时候进入编码部分了。为简单起见，我将使用 movielens 小型数据集。您可以使用下面的链接下载数据集。
 
-[](https://grouplens.org/datasets/movielens/latest/) [## MovieLens 最新数据集
-
-### 这些数据集会随着时间的推移而变化，不适合用于报告研究结果。我们将保留下载…
-
-grouplens.org](https://grouplens.org/datasets/movielens/latest/) 
+[](https://grouplens.org/datasets/movielens/latest/)  
 
 让我们加载数据集，并对数据集进行基本的预处理。
 

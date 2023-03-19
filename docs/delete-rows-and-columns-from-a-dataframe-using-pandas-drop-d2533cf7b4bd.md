@@ -111,11 +111,7 @@ df.drop(index=**df.index[-1]**)
 
 如果您想了解关于切片技术以及如何使用行索引来选择数据的更多信息，可以查看本文:
 
-[](/how-to-use-loc-and-iloc-for-selecting-data-in-pandas-bd09cb4c3d79) [## 如何使用 loc 和 iloc 在 Pandas 中选择数据
-
-### 熊猫帮助你开始数据分析的提示和技巧
-
-towardsdatascience.com](/how-to-use-loc-and-iloc-for-selecting-data-in-pandas-bd09cb4c3d79) 
+[](/how-to-use-loc-and-iloc-for-selecting-data-in-pandas-bd09cb4c3d79)  
 
 # 4.删除单个列
 

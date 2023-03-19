@@ -193,16 +193,4 @@ def grouped_forecast(df):
 
 如果你喜欢这篇文章，你可以看看我写的其他一些与时间序列相关的帖子:
 
-[](/lazyprophet-time-series-forecasting-with-lightgbm-3745bafe5ce5) [## LazyProphet:用 LightGBM 进行时间序列预测
-
-### 都是关于功能的
-
-towardsdatascience.com](/lazyprophet-time-series-forecasting-with-lightgbm-3745bafe5ce5) [](/handling-trends-in-tree-based-time-series-forecasting-fea5e4c066fb) [## 基于树的时间序列预测中的趋势处理
-
-### 事实是——没有趋势
-
-towardsdatascience.com](/handling-trends-in-tree-based-time-series-forecasting-fea5e4c066fb) [](/online-time-series-forecasting-in-python-12bada43b8bd) [## Python 中基于流数据的时间序列预测
-
-### 百里香增强剂的例子
-
-towardsdatascience.com](/online-time-series-forecasting-in-python-12bada43b8bd)
+[](/lazyprophet-time-series-forecasting-with-lightgbm-3745bafe5ce5)  [](/handling-trends-in-tree-based-time-series-forecasting-fea5e4c066fb)  [](/online-time-series-forecasting-in-python-12bada43b8bd) 

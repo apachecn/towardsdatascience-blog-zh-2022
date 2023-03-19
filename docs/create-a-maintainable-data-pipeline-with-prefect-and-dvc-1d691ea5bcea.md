@@ -40,21 +40,13 @@
 
 [DVC](https://dvc.org/doc/start) 是数据版本控制系统。它本质上类似于 Git 的数据。
 
-[](/introduction-to-dvc-data-version-control-tool-for-machine-learning-projects-7cb49c229fe0) [## DVC 介绍:机器学习项目的数据版本控制工具
-
-### 就像 Git 一样，但是有数据！
-
-towardsdatascience.com](/introduction-to-dvc-data-version-control-tool-for-machine-learning-projects-7cb49c229fe0) 
+[](/introduction-to-dvc-data-version-control-tool-for-machine-learning-projects-7cb49c229fe0)  
 
 # 什么是提督？
 
 [perfect](https://www.prefect.io/)是一个开源库，允许你编排和观察用 Python 定义的数据管道。
 
-[](https://medium.com/the-prefect-blog/orchestrate-your-data-science-project-with-prefect-2-0-4118418fd7ce) [## 使用 Prefect 2.0 协调您的数据科学项目
-
-### 让您的数据科学管道能够抵御故障
-
-medium.com](https://medium.com/the-prefect-blog/orchestrate-your-data-science-project-with-prefect-2-0-4118418fd7ce) 
+[](https://medium.com/the-prefect-blog/orchestrate-your-data-science-project-with-prefect-2-0-4118418fd7ce)  
 
 让我们来看看如何利用提督和 DVC 一起创建一个可维护的数据管道。
 
@@ -67,11 +59,7 @@ medium.com](https://medium.com/the-prefect-blog/orchestrate-your-data-science-pr
 *   将代码分成更小的组件，每个组件只做一件事
 *   为每个组件指定一个描述性名称
 
-[](/python-clean-code-6-best-practices-to-make-your-python-functions-more-readable-7ea4c6171d60) [## Python 干净代码:让 Python 函数更具可读性的 6 个最佳实践
-
-### 停止编写需要 3 分钟以上才能理解的 Python 函数
-
-towardsdatascience.com](/python-clean-code-6-best-practices-to-make-your-python-functions-more-readable-7ea4c6171d60) 
+[](/python-clean-code-6-best-practices-to-make-your-python-functions-more-readable-7ea4c6171d60)  
 
 例如，在下面的代码中，可能很难理解`compare_two_keywords`函数的每一行代码。
 
@@ -234,11 +222,7 @@ config/process/process_1.yaml  remove_outliers_threshold.Income  60000   61000
 
 作者图片
 
-[](https://medium.com/the-prefect-blog/sending-slack-notifications-in-python-with-prefect-840a895f81c) [## 使用提督在 Python 中发送松弛通知
-
-### 通过松弛通知了解 Python 代码的进度
-
-medium.com](https://medium.com/the-prefect-blog/sending-slack-notifications-in-python-with-prefect-840a895f81c) 
+[](https://medium.com/the-prefect-blog/sending-slack-notifications-in-python-with-prefect-840a895f81c)  
 
 ## 贮藏
 
@@ -284,33 +268,13 @@ Data and pipelines are up to date.
 
 查看这个资源库，了解一个全面的项目，该项目包括“提督”和“DVC ”:
 
-[](https://github.com/khuyentran1401/prefect-dvc/) [## GitHub-khuyentran 1401/prefect-DVC
-
-### 一个关于如何使用 DVC·DVC 的提督演示:数据版本控制提督:编排和观察数据流
-
-github.com](https://github.com/khuyentran1401/prefect-dvc/) 
+[](https://github.com/khuyentran1401/prefect-dvc/)  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的数据科学工具。你可以在 LinkedIn 和 Twitter 上与我联系。
 
 如果你想查看我写的所有文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/validate-your-pandas-dataframe-with-pandera-2995910e564) [## 用 Pandera 验证你的熊猫数据框架
-
-### 确保您的数据符合您的期望
-
-towardsdatascience.com](/validate-your-pandas-dataframe-with-pandera-2995910e564) [](/dagshub-a-github-supplement-for-data-scientists-and-ml-engineers-9ecaf49cc505) [## Dag shub:GitHub 对数据科学家和 ML 工程师的补充
-
-### 将您的数据、模型、实验和代码保存在一个地方
-
-towardsdatascience.com](/dagshub-a-github-supplement-for-data-scientists-and-ml-engineers-9ecaf49cc505) [](https://pub.towardsai.net/github-actions-in-mlops-automatically-check-and-deploy-your-ml-model-9a281d7f3c84) [## MLOps 中的 GitHub 动作:自动检查和部署您的 ML 模型
-
-### 使用 GitHub 动作自动化您的 ML 管道
-
-pub.towardsai.net](https://pub.towardsai.net/github-actions-in-mlops-automatically-check-and-deploy-your-ml-model-9a281d7f3c84) [](/create-robust-data-pipelines-with-prefect-docker-and-github-12b231ca6ed2) [## 使用 Prefect、Docker 和 GitHub 创建强大的数据管道
-
-### 将您的工作流存储在 GitHub 中，并在 Docker 容器中执行它
-
-towardsdatascience.com](/create-robust-data-pipelines-with-prefect-docker-and-github-12b231ca6ed2) 
+[](/validate-your-pandas-dataframe-with-pandera-2995910e564)  [](/dagshub-a-github-supplement-for-data-scientists-and-ml-engineers-9ecaf49cc505)  [](https://pub.towardsai.net/github-actions-in-mlops-automatically-check-and-deploy-your-ml-model-9a281d7f3c84)  [](/create-robust-data-pipelines-with-prefect-docker-and-github-12b231ca6ed2)  
 
 # 参考
 

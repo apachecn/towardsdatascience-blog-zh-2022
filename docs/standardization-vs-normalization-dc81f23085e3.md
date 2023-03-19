@@ -130,11 +130,7 @@
 
 如果您不确定为什么这样的安排是必要的，请查看我关于数据泄漏的文章:
 
-[](/an-introduction-to-data-leakage-f1c58f7c1d64) [## 数据泄漏介绍
-
-### 对数据的粗心处理会破坏你的机器学习模型
-
-towardsdatascience.com](/an-introduction-to-data-leakage-f1c58f7c1d64) 
+[](/an-introduction-to-data-leakage-f1c58f7c1d64)  
 
 ## 你应该使用哪一个？
 

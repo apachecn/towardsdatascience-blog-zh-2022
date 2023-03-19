@@ -16,11 +16,7 @@
 
 如果您不熟悉数据质量维度，我建议您首先阅读本文的第 7 条:
 
-[](https://medium.com/geekculture/25-terms-to-help-you-in-your-career-in-data-science-14ca681b0699) [## 25 个术语对你的数据科学职业生涯有所帮助
-
-### 厌倦了所有的行话和缩写，这里有 25 个让你开始
-
-medium.com](https://medium.com/geekculture/25-terms-to-help-you-in-your-career-in-data-science-14ca681b0699) 
+[](https://medium.com/geekculture/25-terms-to-help-you-in-your-career-in-data-science-14ca681b0699)  
 
 ## 1.数据捕捉
 
@@ -80,11 +76,7 @@ medium.com](https://medium.com/geekculture/25-terms-to-help-you-in-your-career-i
 
 如果你觉得这篇文章有帮助，请在下面留言告诉我。看看我在 Medium 上的另一篇文章:
 
-[](https://medium.com/geekculture/how-data-quality-is-being-subsumed-by-data-observability-ea7e17b4e46a) [## 数据质量如何被数据可观察性所包含
-
-### 旧的数据质量实践为数据的可观察性铺平了道路
-
-medium.com](https://medium.com/geekculture/how-data-quality-is-being-subsumed-by-data-observability-ea7e17b4e46a) 
+[](https://medium.com/geekculture/how-data-quality-is-being-subsumed-by-data-observability-ea7e17b4e46a)  
 
 如果你没有订阅 Medium，可以考虑使用我的推荐链接订阅[。它比网飞便宜，而且客观上能更好地利用你的时间。](https://hanzalaqureshi.medium.com/membership)如果你使用我的链接，我会获得一小笔佣金，而你可以在媒体上看到无限的故事。
 

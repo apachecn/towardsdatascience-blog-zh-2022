@@ -14,11 +14,7 @@
 
 `*[Complete data visualization guideline is available here..]*`
 
-[](https://medium.datadriveninvestor.com/ultimate-guide-to-data-visualization-for-data-science-90b0b13e72ab) [## 数据科学数据可视化终极指南
-
-### 数据科学的数据可视化一览:标准指南
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/ultimate-guide-to-data-visualization-for-data-science-90b0b13e72ab) 
+[](https://medium.datadriveninvestor.com/ultimate-guide-to-data-visualization-for-data-science-90b0b13e72ab)  
 
 ## 目录
 
@@ -193,11 +189,7 @@ QQ 情节是另一个有趣的情节。QQ 代表分位数——分位数图*(分
 
 **`***Full notebook is available here***`**
 
- **[## 11 个较少使用但对数据科学很重要的图
-
-### 数据科学的 11 个较少使用但很重要的情节全文链接
-
-deepnote.com](https://deepnote.com/@md-zubair/11-Less-Used-but-Important-Plots-for-Data-Science-b20ec91c-3126-4ea1-9377-d7b7bddab634)** 
+ **** 
 
 ## **`Reference`**
 
@@ -212,24 +204,12 @@ deepnote.com](https://deepnote.com/@md-zubair/11-Less-Used-but-Important-Plots-f
 
 ****完成数据可视化指南****
 
-**[](https://medium.datadriveninvestor.com/ultimate-guide-to-data-visualization-for-data-science-90b0b13e72ab) [## 数据科学数据可视化终极指南
-
-### 数据科学的数据可视化一览:标准指南
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/ultimate-guide-to-data-visualization-for-data-science-90b0b13e72ab) 
+**[](https://medium.datadriveninvestor.com/ultimate-guide-to-data-visualization-for-data-science-90b0b13e72ab)  
 
 *你也可以朗读美学数据可视化的文章。*
 
-[](/spread-of-covid-19-with-interactive-data-visualization-521ac471226e) [## 通过交互式数据可视化传播新冠肺炎
-
-### 一个完整的指南条形图比赛和互动 Choropleth 地图新冠肺炎疫情与 Python。
-
-towardsdatascience.com](/spread-of-covid-19-with-interactive-data-visualization-521ac471226e) 
+[](/spread-of-covid-19-with-interactive-data-visualization-521ac471226e)  
 
 *面向数据科学初学者的完整统计指南*
 
-[](/ultimate-guide-to-statistics-for-data-science-a3d8f1fd69a7) [## 数据科学统计终极指南
-
-### 数据科学统计一瞥:标准指南
-
-towardsdatascience.com](/ultimate-guide-to-statistics-for-data-science-a3d8f1fd69a7)**
+[](/ultimate-guide-to-statistics-for-data-science-a3d8f1fd69a7) **

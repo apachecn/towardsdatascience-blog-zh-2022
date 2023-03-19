@@ -80,11 +80,7 @@
 
 **成为 Patreon 会员:**
 
-[](https://www.patreon.com/azadlab) [## J. Rafid Siddiqui 博士正在创建关于 AI/ML/DL(Medium/Substack/Youtube)|…
-
-### 今天就成为 J. Rafid Siddiqui 博士的赞助人:在世界上最大的…
-
-www.patreon.com](https://www.patreon.com/azadlab) 
+[](https://www.patreon.com/azadlab)  
 
 **关注推特更新:**
 
@@ -92,11 +88,7 @@ www.patreon.com](https://www.patreon.com/azadlab)
 
 **在子栈上找到我:**
 
-[](https://azadwolf.substack.com) [## Azad 学院
-
-### 深度学习、机器学习、计算机视觉和人工智能领域的学习场所…
-
-azadwolf.substack.com](https://azadwolf.substack.com) 
+[](https://azadwolf.substack.com)  
 
 **参考文献:**
 

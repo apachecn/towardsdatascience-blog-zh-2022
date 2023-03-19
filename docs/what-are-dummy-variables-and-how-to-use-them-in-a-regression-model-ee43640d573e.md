@@ -30,11 +30,7 @@
 
 顺便说一句，使用假人来表现**固定效果**在这里有所涉及:
 
-[](/understanding-the-fixed-effects-regression-model-d2fccc2cc27e) [## 了解固定效应回归模型
-
-### 以及关于如何为真实世界的面板数据集构建和训练固定效果模型的 Python 教程
-
-towardsdatascience.com](/understanding-the-fixed-effects-regression-model-d2fccc2cc27e) 
+[](/understanding-the-fixed-effects-regression-model-d2fccc2cc27e)  
 
 在接下来的文章中，我们将介绍在构建**治疗效果**模型和建模**不连续性**的效果时使用的虚拟模型。
 

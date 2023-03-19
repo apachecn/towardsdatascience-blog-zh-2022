@@ -64,16 +64,4 @@
 
 ## **你可能也会喜欢…**
 
-**[](/4-bigquery-sql-shortcuts-that-can-simplify-your-queries-30f94666a046) [## 4 个可以简化查询的 BigQuery SQL 快捷方式
-
-### 检查您的数据库是否也有它们
-
-towardsdatascience.com](/4-bigquery-sql-shortcuts-that-can-simplify-your-queries-30f94666a046) [](/how-to-troubleshoot-an-abnormal-kpi-change-b9eb0c3d46a1) [## 如何对异常 KPI 变化进行故障排除
-
-### 调查 DAU 下降的案例研究
-
-towardsdatascience.com](/how-to-troubleshoot-an-abnormal-kpi-change-b9eb0c3d46a1) [](/why-building-a-machine-learning-model-is-like-cooking-4bed1f6115d1) [## 为什么建立机器学习模型就像烹饪一样
-
-### 逐步比较
-
-towardsdatascience.com](/why-building-a-machine-learning-model-is-like-cooking-4bed1f6115d1)**
+**[](/4-bigquery-sql-shortcuts-that-can-simplify-your-queries-30f94666a046)  [](/how-to-troubleshoot-an-abnormal-kpi-change-b9eb0c3d46a1)  [](/why-building-a-machine-learning-model-is-like-cooking-4bed1f6115d1) **

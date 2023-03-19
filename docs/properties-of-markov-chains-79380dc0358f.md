@@ -12,19 +12,7 @@
 
 在我之前的文章中，我们一直在获得一种 [**马尔可夫链**](https://en.wikipedia.org/wiki/Markov_chain) **的直觉。**简而言之，马尔可夫链是一个**随机过程**，它在**离散状态空间**的**离散时间**中演化，其中**状态间转移的概率仅取决于当前状态。**系统完全[](https://en.wikipedia.org/wiki/Memorylessness)****无记忆。要全面理解前面的句子，请参考我以前的文章:****
 
-**[](/markov-chains-simply-explained-dc77836b47e3) [## 马尔可夫链简单地解释了
-
-### 马尔可夫性和马尔可夫链的直观而简单的解释
-
-towardsdatascience.com](/markov-chains-simply-explained-dc77836b47e3) [](/markov-chains-multi-step-transitions-6772114bcc1d) [## 马尔可夫链:多步转移
-
-### 使用 Chapman-Kolmogorov 方程理解马尔可夫链中的多步转移
-
-towardsdatascience.com](/markov-chains-multi-step-transitions-6772114bcc1d) [](/markov-chains-stationary-distribution-bedd67140112) [## 马尔可夫链:平稳分布
-
-### 用 Python 模拟解释和推导马尔可夫链的平稳分布
-
-towardsdatascience.com](/markov-chains-stationary-distribution-bedd67140112) 
+**[](/markov-chains-simply-explained-dc77836b47e3)  [](/markov-chains-multi-step-transitions-6772114bcc1d)  [](/markov-chains-stationary-distribution-bedd67140112)  
 
 在本文中，我们将讨论马氏链的一些常见特征和性质！
 

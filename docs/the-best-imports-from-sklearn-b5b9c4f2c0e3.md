@@ -167,20 +167,8 @@ Scikit learn 是数据科学家的得力助手。在他们的文档中，您可�
 
 如果你喜欢这个内容，请关注我的博客。
 
-[](http://gustavorsantos.medium.com/) [## 古斯塔沃·桑托斯-中等
-
-### 阅读古斯塔夫·桑托斯在媒介上的作品。数据科学家。我从数据中提取见解，以帮助个人和公司…
-
-gustavorsantos.medium.com](http://gustavorsantos.medium.com/) 
+[](http://gustavorsantos.medium.com/)  
 
 # 参考
 
-[](https://scikit-learn.org/stable/modules/classes.html#) [## API 参考
-
-### 预测概率的校准。用户指南:有关更多详细信息，请参见集群和双集群部分…
-
-scikit-learn.org](https://scikit-learn.org/stable/modules/classes.html#) [](https://en.wikipedia.org/wiki/Scikit-learn) [## scikit-learn -维基百科
-
-### Scikit-learn(以前的 scikits.learn，也称为 sklearn)是一个免费的软件机器学习库，面向…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Scikit-learn)
+[](https://scikit-learn.org/stable/modules/classes.html#)  [](https://en.wikipedia.org/wiki/Scikit-learn) 

@@ -14,11 +14,7 @@
 
 这篇文章是我之前对 LazyProphet 的评论的后续:
 
-[](/lazyprophet-time-series-forecasting-with-lightgbm-3745bafe5ce5) [## LazyProphet:用 LightGBM 进行时间序列预测
-
-### 都是关于功能的
-
-towardsdatascience.com](/lazyprophet-time-series-forecasting-with-lightgbm-3745bafe5ce5) 
+[](/lazyprophet-time-series-forecasting-with-lightgbm-3745bafe5ce5)  
 
 在那篇文章中，我们解决了标准时间序列回归问题，并在 M4 数据集上实现了单变量时间序列树的最先进(我认为)的结果。关键在于利用线性分段基函数。虽然并不都是独一无二的，但我们添加了一个扭曲——函数被加权以更好地适应数据。这使得树实现了显著更好的性能。如果你不知道这些是什么，一定要看看之前的文章！
 
@@ -26,11 +22,7 @@ towardsdatascience.com](/lazyprophet-time-series-forecasting-with-lightgbm-3745b
 
 最后，我们也有一些独特的方式来思考树木的趋势，这也有助于改进，你可以在这里查看一篇文章:
 
-[](/handling-trends-in-tree-based-time-series-forecasting-fea5e4c066fb) [## 基于树的时间序列预测中的趋势处理
-
-### 事实是——没有趋势
-
-towardsdatascience.com](/handling-trends-in-tree-based-time-series-forecasting-fea5e4c066fb) 
+[](/handling-trends-in-tree-based-time-series-forecasting-fea5e4c066fb)  
 
 幸运的是，这些相同的技术也可以用来解决分类问题。在本文中，我们将快速浏览一下用 [LazyProphet](https://github.com/tblume1992/LazyProphet) 解决这样一个问题。
 
@@ -139,12 +131,4 @@ lp_model = lp.LazyProphet(seasonal_period=[24],
 
 如果你喜欢这篇文章，你可能会喜欢我写的其他几篇:
 
-[](/gradient-boosted-arima-for-time-series-forecasting-e093f80772f6) [## 时间序列预测的梯度增强 ARIMA
-
-### 提升 PmdArima 的 Auto-Arima 性能
-
-towardsdatascience.com](/gradient-boosted-arima-for-time-series-forecasting-e093f80772f6) [](/thymeboost-a0529353bf34) [## 用百里香增强进行时间序列预测
-
-### 一种梯度增强的时间序列分解方法
-
-towardsdatascience.com](/thymeboost-a0529353bf34)
+[](/gradient-boosted-arima-for-time-series-forecasting-e093f80772f6)  [](/thymeboost-a0529353bf34) 

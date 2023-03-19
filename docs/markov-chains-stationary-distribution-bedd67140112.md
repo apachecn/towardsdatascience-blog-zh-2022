@@ -12,15 +12,7 @@
 
 在我以前的文章中，我们开始发展我们对 [**马尔可夫链**](https://en.wikipedia.org/wiki/Markov_chain) 的直觉和知识。到目前为止，我们已经讲述了: [**马尔可夫性质、**](https://en.wikipedia.org/wiki/Markov_property) [**转移矩阵**](https://en.wikipedia.org/wiki/Stochastic_matrix) 和**多步转移**利用 [**查普-柯尔莫哥洛夫方程**](https://en.wikipedia.org/wiki/Chapman%E2%80%93Kolmogorov_equation) **。我建议在继续写这篇文章之前通读这些文章:**
 
-[](/markov-chains-simply-explained-dc77836b47e3) [## 马尔可夫链简单地解释了
-
-### 马尔可夫性和马尔可夫链的直观而简单的解释
-
-towardsdatascience.com](/markov-chains-simply-explained-dc77836b47e3) [](/markov-chains-multi-step-transitions-6772114bcc1d) [## 马尔可夫链:多步转移
-
-### 使用 Chapman-Kolmogorov 方程理解马尔可夫链中的多步转移
-
-towardsdatascience.com](/markov-chains-multi-step-transitions-6772114bcc1d) 
+[](/markov-chains-simply-explained-dc77836b47e3)  [](/markov-chains-multi-step-transitions-6772114bcc1d)  
 
 但是，简单总结一下上面的文章:**马尔可夫链是离散时间内有限状态空间中的一系列转移，其中转移的概率只取决于当前状态**。这个系统是完全无记忆的。
 
@@ -141,11 +133,7 @@ print(initial_dist)***
 
 ***完整代码可以在我的 GitHub 上找到:***
 
-***[](https://github.com/egorhowell/Medium-Articles/blob/main/Statistics/markov_stationary.py) [## Medium-Articles/Markov _ stationary . py at main egorhowell/Medium-Articles
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/egorhowell/Medium-Articles/blob/main/Statistics/markov_stationary.py) 
+***[](https://github.com/egorhowell/Medium-Articles/blob/main/Statistics/markov_stationary.py)  
 
 # 摘要
 

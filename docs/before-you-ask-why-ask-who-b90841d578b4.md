@@ -64,11 +64,7 @@
 
 # 感谢阅读！
 
-[](https://kozyrkov.medium.com/membership) [## 加入介质
-
-### 阅读 Cassie Kozyrkov(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-kozyrkov.medium.com](https://kozyrkov.medium.com/membership) 
+[](https://kozyrkov.medium.com/membership)  
 
 *附:你有没有试过在 Medium 上不止一次地点击拍手按钮，看看会发生什么？* ❤️
 

@@ -120,20 +120,8 @@ predictions = clf.predict(X_test)
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership) 
+[](https://gmyrianthous.medium.com/membership)  
 
 **你可能也会喜欢**
 
-[](/predict-vs-predict-proba-scikit-learn-bdc45daa5972) [## scikit-learn 中的 predict()和 predict_proba()有什么区别？
-
-### 如何对数据集使用 predict 和 predict_proba 方法来执行预测
-
-towardsdatascience.com](/predict-vs-predict-proba-scikit-learn-bdc45daa5972) [](/scikit-learn-vs-sklearn-6944b9dc1736) [## Scikit-Learn 和 Sklearn 有区别吗？
-
-### Python 中的 scikit-learn vs sklearn
-
-towardsdatascience.com](/scikit-learn-vs-sklearn-6944b9dc1736)
+[](/predict-vs-predict-proba-scikit-learn-bdc45daa5972)  [](/scikit-learn-vs-sklearn-6944b9dc1736) 

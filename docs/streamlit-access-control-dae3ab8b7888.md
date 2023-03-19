@@ -16,11 +16,7 @@
 
 在之前的帖子中，我分享了我们如何使用 [Django 的认证框架](https://docs.djangoproject.com/en/dev/topics/auth/default/)来提高 Streamlit 应用的安全性。
 
-[](/secure-your-streamlit-app-with-django-bb0bee2a6519) [## 使用 Django 保护您的 Streamlit 应用
-
-### 围绕你的机器学习 web 应用建立一个灵活的认证系统
-
-towardsdatascience.com](/secure-your-streamlit-app-with-django-bb0bee2a6519) 
+[](/secure-your-streamlit-app-with-django-bb0bee2a6519)  
 
 这篇文章延续了上一篇文章，涵盖了针对您的 Streamlit 应用程序的更细粒度的访问控制策略。我建议你在深入研究之前先读第一本书。
 
@@ -30,11 +26,7 @@ towardsdatascience.com](/secure-your-streamlit-app-with-django-bb0bee2a6519)
 ∘ [在 Django 管理控制台中创建用户。](#8fdc)
 ∘ [查看细流应用](#d007)中的权限
 
-[](/how-to-create-stunning-web-apps-for-your-data-science-projects-c7791102134e) [## 如何为您的数据科学项目创建出色的 Web 应用程序
-
-### 数据科学家不必学习 HTML、CSS 和 JavaScript 来构建网页。
-
-towardsdatascience.com](/how-to-create-stunning-web-apps-for-your-data-science-projects-c7791102134e) 
+[](/how-to-create-stunning-web-apps-for-your-data-science-projects-c7791102134e)  
 
 # 为什么我们需要授权控制？
 
@@ -54,11 +46,7 @@ towardsdatascience.com](/how-to-create-stunning-web-apps-for-your-data-science-p
 
 Streamlit 也没有授权选项。让我们继续扩展 Django 认证来处理权限。
 
-[](/github-automated-testing-python-fdfe5aec9446) [## 如何使用 GitHub 动作在每次提交时运行 Python 测试？
-
-### 自动化枯燥的工作，并通过 CI 管道确保代码质量。
-
-towardsdatascience.com](/github-automated-testing-python-fdfe5aec9446) 
+[](/github-automated-testing-python-fdfe5aec9446)  
 
 # 用 Django 控制仪表板权限。
 
@@ -72,11 +60,7 @@ towardsdatascience.com](/github-automated-testing-python-fdfe5aec9446)
 
 但是我们首先不需要群体吗？让我们从那里开始。
 
-[](/python-project-structure-best-practices-d9d0b174ad5d) [## 让您的 Python 项目结构更优雅的 7 种方法
-
-### 以下是易于管理、可伸缩且易于理解的 python 项目结构的最佳实践。
-
-towardsdatascience.com](/python-project-structure-best-practices-d9d0b174ad5d) 
+[](/python-project-structure-best-practices-d9d0b174ad5d)  
 
 ## 在 Django 管理控制台中创建用户组。
 
@@ -145,11 +129,7 @@ streamlit run quickstart.py
 
 正如我们在之前的帖子中看到的，Streamlit 仍然年轻。开发其认证和授权系统需要时间。在此之前，我们可以使用 Django 更安全地构建生产级应用。
 
-[](/plotly-dashboards-in-python-28a3bb83702c) [## 这就是我如何纯粹用 Python 创建令人眼花缭乱的仪表盘。
-
-### Plotly dash 应用程序是用 python 构建生产级仪表板的最快方式。
-
-towardsdatascience.com](/plotly-dashboards-in-python-28a3bb83702c) 
+[](/plotly-dashboards-in-python-28a3bb83702c)  
 
 > 感谢阅读，朋友！在[**LinkedIn**](https://www.linkedin.com/in/thuwarakesh/)[**Twitter**](https://twitter.com/Thuwarakesh)[**Medium**](https://thuwarakesh.medium.com/)上跟我打招呼。
 > 

@@ -16,11 +16,7 @@
 
 在阅读这篇文章之前，如果你对我们从零开始构建东西的其他这样的酷项目感兴趣，我建议看看我以前的一个作品。下面提供了一个链接，您可以在这里用 Python 开发自己的天气应用程序指示器，只需不到十行代码。
 
-[](/develop-your-weather-application-with-python-in-less-than-10-lines-6d092c6dcbc9) [## 用 Python 开发不到 10 行的天气应用程序
-
-### 使用 Python 构建我们的天气电视广播应用程序，以接收所需位置的更新
-
-towardsdatascience.com](/develop-your-weather-application-with-python-in-less-than-10-lines-6d092c6dcbc9) 
+[](/develop-your-weather-application-with-python-in-less-than-10-lines-6d092c6dcbc9)  
 
 # 基础知识入门:
 
@@ -86,11 +82,7 @@ pyautogui.click(button='left', clicks=2)
 
 如果观众对文本到语音转换不太熟悉，我强烈推荐查看我以前的一篇文章，其中我用 Python 介绍了 Google 文本到语音转换，并提供了初学者代码来帮助您入门。下面提供了相同内容的链接。
 
-[](/how-to-get-started-with-google-text-to-speech-using-python-485e43d1d544) [## 如何使用 Python 开始使用 Google 文本到语音转换
-
-### 从零开始的文本到语音转换简介
-
-towardsdatascience.com](/how-to-get-started-with-google-text-to-speech-using-python-485e43d1d544) 
+[](/how-to-get-started-with-google-text-to-speech-using-python-485e43d1d544)  
 
 首先，我们可以导入必要的库，如下面的代码块所示。语音识别库将使我们能够检测必要的语音命令。此外，我们还可以利用文本到语音库来传递文本命令，并将它们转换为语音，然后传递给系统来执行所需的操作。我们可以为语音识别器创建一个变量。
 
@@ -187,11 +179,7 @@ with sr.Microphone() as source:
 
 如果你想在我的文章发表后第一时间得到通知，请点击下面的[链接](https://bharath-k1297.medium.com/subscribe)订阅邮件推荐。如果你希望支持其他作者和我，请订阅下面的链接。
 
-[](https://bharath-k1297.medium.com/membership) [## 通过我的推荐链接加入媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-bharath-k1297.medium.com](https://bharath-k1297.medium.com/membership) 
+[](https://bharath-k1297.medium.com/membership)  
 
 如果你对这篇文章中提到的各点有任何疑问，请在下面的评论中告诉我。我会尽快给你回复。
 
@@ -199,18 +187,6 @@ bharath-k1297.medium.com](https://bharath-k1297.medium.com/membership)
 
 看看我的一些与本文主题相关的文章，你可能也会喜欢阅读！
 
-[](/best-seaborn-visualizations-for-data-science-3d866f99c3a9) [## 数据科学最佳 Seaborn 可视化
-
-### 使用 Seaborn 库探索数据科学项目的一些最佳可视化选项
-
-towardsdatascience.com](/best-seaborn-visualizations-for-data-science-3d866f99c3a9) [](/7-python-programming-tips-to-improve-your-productivity-a57802f225b6) [## 提高生产力的 7 个 Python 编程技巧
-
-### 通过修正一些常见的不良编程实践，使您的 Python 编码更加有效和高效
-
-towardsdatascience.com](/7-python-programming-tips-to-improve-your-productivity-a57802f225b6) [](/develop-your-own-calendar-to-track-important-dates-with-python-c1af9e98ffc3) [## 使用 Python 开发您自己的日历来跟踪重要日期
-
-### 开发一个日历 GUI 界面来管理您 2022 年及以后的计划
-
-towardsdatascience.com](/develop-your-own-calendar-to-track-important-dates-with-python-c1af9e98ffc3) 
+[](/best-seaborn-visualizations-for-data-science-3d866f99c3a9)  [](/7-python-programming-tips-to-improve-your-productivity-a57802f225b6)  [](/develop-your-own-calendar-to-track-important-dates-with-python-c1af9e98ffc3)  
 
 谢谢你们坚持到最后。我希望你们都喜欢这篇文章。祝大家有美好的一天！

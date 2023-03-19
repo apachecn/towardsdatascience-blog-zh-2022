@@ -12,19 +12,11 @@
 
 我想你在营销部门工作，想调查你的广告投资是否有回报。看我其他文章的人都知道一个办法:**营销组合建模！这个方法特别有趣，因为它也适用于没有烹饪的世界。**
 
-[](/introduction-to-marketing-mix-modeling-in-python-d0dd81f4e794) [## Python 市场营销组合建模简介
-
-### 哪些广告支出真正推动了你的销售？
-
-towardsdatascience.com](/introduction-to-marketing-mix-modeling-in-python-d0dd81f4e794) 
+[](/introduction-to-marketing-mix-modeling-in-python-d0dd81f4e794)  
 
 我还介绍了贝叶斯营销组合建模，这是一种为您预测的一切获得更健壮的模型和不确定性估计的方法。
 
-[](/bayesian-marketing-mix-modeling-in-python-via-pymc3-7b2071f6001a) [## 通过 PyMC3 在 Python 中进行贝叶斯营销组合建模
-
-### 一次性估计饱和度、残留和其他参数，包括它们的不确定性
-
-towardsdatascience.com](/bayesian-marketing-mix-modeling-in-python-via-pymc3-7b2071f6001a) 
+[](/bayesian-marketing-mix-modeling-in-python-via-pymc3-7b2071f6001a)  
 
 贝叶斯方法对**同质数据非常有效，**这意味着你的广告支出的效果在你的数据集中是可比较的。但是当我们有一个异构的数据集时，例如，跨越几个国家的花费会发生什么呢？处理它的两个明显的方法如下:
 
@@ -35,11 +27,7 @@ towardsdatascience.com](/bayesian-marketing-mix-modeling-in-python-via-pymc3-7b2
 
 通常，创建介于这两种方法之间的混合模型更有效:**贝叶斯分层建模**！您也可以在这里了解更多信息:
 
-[](/bayesian-hierarchical-modeling-in-pymc3-d113c97f5149) [## PyMC3 中的贝叶斯分层建模
-
-### 治愈你模特的健忘症
-
-towardsdatascience.com](/bayesian-hierarchical-modeling-in-pymc3-d113c97f5149) 
+[](/bayesian-hierarchical-modeling-in-pymc3-d113c97f5149)  
 
 你会问我们如何从中受益？例如，贝叶斯分层建模可以产生一个模型，其中相邻国家的 *TV 结转*值**彼此相距不太远**，这抵消了过度拟合效应。
 

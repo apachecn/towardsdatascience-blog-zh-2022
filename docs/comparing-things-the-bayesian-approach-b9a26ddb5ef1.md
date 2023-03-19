@@ -147,14 +147,6 @@ ELO 系统的一个方便的数学属性是，基于两个队的评级，我们�
 
 **你也可以试试我的另一篇文章。不能选择？从这些中选择一个:**
 
-**[](/on-the-importance-of-bayesian-thinking-in-everyday-life-a74475fcceeb) [## 贝叶斯思维在日常生活中的重要性
+**[](/on-the-importance-of-bayesian-thinking-in-everyday-life-a74475fcceeb)  [](/the-gentlest-of-introductions-to-bayesian-data-analysis-74df448da25) [## 贝叶斯数据分析最温和的介绍
 
-### 这个简单的思维转变将帮助你更好地理解你周围不确定的世界
-
-towardsdatascience.com](/on-the-importance-of-bayesian-thinking-in-everyday-life-a74475fcceeb) [](/the-gentlest-of-introductions-to-bayesian-data-analysis-74df448da25) [## 贝叶斯数据分析最温和的介绍
-
-towardsdatascience.com](/the-gentlest-of-introductions-to-bayesian-data-analysis-74df448da25) [](/bayesian-tricks-for-everyday-use-2b51da45f3ec) [## 日常使用的贝叶斯技巧
-
-### 学习一些有用的概率技巧，在不完整信息的海洋中安全航行
-
-towardsdatascience.com](/bayesian-tricks-for-everyday-use-2b51da45f3ec)**
+towardsdatascience.com](/the-gentlest-of-introductions-to-bayesian-data-analysis-74df448da25) [](/bayesian-tricks-for-everyday-use-2b51da45f3ec) **

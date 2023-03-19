@@ -110,32 +110,12 @@ Name: colC, dtype: float64
 
 此外，我们展示了如何计算有用的指标，例如感兴趣的组的平均值和中值。当然，这只是您可以计算的度量值的一个示例—实际上，可以使用相同的方法来计算计数、总和等。
 
-[](https://levelup.gitconnected.com/how-to-group-by-pandas-dataframes-to-compute-sum-82a6bd890cbf) [## 如何对熊猫数据帧分组以计算总和
-
-### 使用 Group By 表达式聚合 pandas 数据框架中的列值
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/how-to-group-by-pandas-dataframes-to-compute-sum-82a6bd890cbf) 
+[](https://levelup.gitconnected.com/how-to-group-by-pandas-dataframes-to-compute-sum-82a6bd890cbf)  
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership) 
+[](https://gmyrianthous.medium.com/membership)  
 
 **相关文章你可能也喜欢**
 
-[](/pandas-in-notin-ff2415f1e3e1) [## 如何使用“在”和“不在”筛选熊猫数据帧
-
-### 理解相当于 SQL“in”和“not in”表达式的熊猫
-
-towardsdatascience.com](/pandas-in-notin-ff2415f1e3e1) [](/us-market-bank-holidays-pandas-fbb15c693fcc) [## Python 中的美国市场银行假日
-
-### 使用熊猫用 Python 计算纽约证券交易所市场银行假日
-
-towardsdatascience.com](/us-market-bank-holidays-pandas-fbb15c693fcc) [](/make-class-iterable-python-4d9ec5db9b7a) [## 如何在 Python 中创建用户定义的可重复项
-
-### 展示了如何在 Python 中创建用户定义的迭代器并使用户定义的类可迭代
-
-towardsdatascience.com](/make-class-iterable-python-4d9ec5db9b7a)
+[](/pandas-in-notin-ff2415f1e3e1)  [](/us-market-bank-holidays-pandas-fbb15c693fcc)  [](/make-class-iterable-python-4d9ec5db9b7a) 

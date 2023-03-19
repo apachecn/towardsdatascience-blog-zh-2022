@@ -20,11 +20,7 @@
 
 (或者你可以直接使用 Web Speech API 的 SpeechRecognition 服务)
 
-[](https://www.talater.com/annyang/) [## 安扬！轻松地将语音识别添加到您的站点
-
-### 说“给我看看可爱的小猫！”说“给我看看拱门国家公园！”现在尽情狂欢吧。说“给我看看…”并提出你的要求…
-
-www.talater.com](https://www.talater.com/annyang/) 
+[](https://www.talater.com/annyang/)  
 
 Annyang 是一个小型的语音识别 JavaScript 库，它允许程序员轻松地将语音命令和语音听写集成到他们的 web 应用程序中。它没有依赖性，非常轻，在 MIT 许可下可以自由使用和修改。
 
@@ -58,19 +54,7 @@ GPT-3 是一个最先进的语言处理模型，这是一个深度神经网络�
 
 我已经写了几篇关于 GPT-3 的文章来说明上述特征。以下是最重要的几个:
 
-[](/custom-informed-gpt-3-models-for-your-website-with-very-simple-code-47134b25620b) [## 用非常简单的代码为你的网站构建定制的基于 GPT 3 的聊天机器人
-
-### 了解 GPT-3，PHP 和 JavaScript，因为你建立了一个在线 GPT-3 为基础的聊天机器人专门在一个给定的主题，你…
-
-towardsdatascience.com](/custom-informed-gpt-3-models-for-your-website-with-very-simple-code-47134b25620b) [](/web-based-chatbot-project-module-2-gpt-3-generated-responses-assisted-with-a-database-for-1ee2a0f4aad4) [## 基于网络的聊天机器人项目，模块 2:GPT-3-生成的答复与数据库辅助…
-
-### 这个项目的第二部分跨越网络编程，数学，人工智能，等等
-
-towardsdatascience.com](/web-based-chatbot-project-module-2-gpt-3-generated-responses-assisted-with-a-database-for-1ee2a0f4aad4) [](/gpt-3-like-models-with-extended-training-could-be-the-future-24-7-tutors-for-biology-students-904d2ae7986a) [## 经过长期训练的类似 GPT 3 的模特可能成为未来生物学生的全天候导师
-
-### 尽管其他科目的成绩相当令人沮丧，但 GPT-3 在生物方面表现相当好，如果它…
-
-towardsdatascience.com](/gpt-3-like-models-with-extended-training-could-be-the-future-24-7-tutors-for-biology-students-904d2ae7986a) 
+[](/custom-informed-gpt-3-models-for-your-website-with-very-simple-code-47134b25620b)  [](/web-based-chatbot-project-module-2-gpt-3-generated-responses-assisted-with-a-database-for-1ee2a0f4aad4)  [](/gpt-3-like-models-with-extended-training-could-be-the-future-24-7-tutors-for-biology-students-904d2ae7986a)  
 
 与本文最相关的是，注意我使用了对 OpenAI 的 API 的基于 PHP 的调用。我在上面列出的三篇文章的第一篇中解释了如何实现这一点。
 
@@ -162,22 +146,6 @@ $.ajax({ url: “TDSgpt3withyourapikey.php?prompt=” + theprompt + “&apikey=�
 
 # 如果你觉得这很有趣或者喜欢为网络编程很酷的东西
 
- [## 主成分分析权威指南
-
-### 一个教程剥离低层次的代码，您可以编辑和运行在您的浏览器，以了解 PCA 一劳永逸…
-
-towardsdatascience.com](/the-definitive-guide-to-principal-components-analysis-84cd73640302) [](https://medium.com/technology-hits/a-web-tool-to-view-and-analyze-cryptocurrency-data-in-full-detail-free-access-in-this-article-73e4c1dea911) [## 一个查看和分析加密货币数据全部细节的 web 应用程序——在本文中免费访问！
-
-### 历史价格、线性或对数标度的数据、各种标准化、随时间平滑以及您的准确时间…
-
-medium.com](https://medium.com/technology-hits/a-web-tool-to-view-and-analyze-cryptocurrency-data-in-full-detail-free-access-in-this-article-73e4c1dea911) [](https://medium.com/age-of-awareness/metaverse-not-sure-but-webxr-hell-yes-12af5b302e08) [## 元宇宙？不确定，但是 WebXR？太好了。
-
-### 未来互联网的核心技术之一，我们已经将其应用于娱乐之外的领域。
-
-medium.com](https://medium.com/age-of-awareness/metaverse-not-sure-but-webxr-hell-yes-12af5b302e08) [](/exquisite-hand-and-finger-tracking-in-web-browsers-with-mediapipes-machine-learning-models-2c4c2beee5df) [## 借助 MediaPipe 的机器学习模型，在网络浏览器中实现精致的手和手指跟踪
-
-### 了解这个精通 JavaScript 风格的计算机视觉库，这里重点介绍它的手部跟踪工具…
-
-towardsdatascience.com](/exquisite-hand-and-finger-tracking-in-web-browsers-with-mediapipes-machine-learning-models-2c4c2beee5df) 
+  [](https://medium.com/technology-hits/a-web-tool-to-view-and-analyze-cryptocurrency-data-in-full-detail-free-access-in-this-article-73e4c1dea911)  [](https://medium.com/age-of-awareness/metaverse-not-sure-but-webxr-hell-yes-12af5b302e08)  [](/exquisite-hand-and-finger-tracking-in-web-browsers-with-mediapipes-machine-learning-models-2c4c2beee5df)  
 
 www.lucianoabriata.com*我写作并拍摄我广泛兴趣范围内的一切事物:自然、科学、技术、编程等等。* [***成为媒介会员***](https://lucianosphere.medium.com/membership) *访问其所有故事(我免费获得小额收入的平台的附属链接)和* [***订阅获取我的新故事***](https://lucianosphere.medium.com/subscribe) ***通过电子邮件*** *。到* ***咨询关于小职位*** *查看我的* [***服务页面这里***](https://lucianoabriata.altervista.org/services/index.html) *。你可以* [***这里联系我***](https://lucianoabriata.altervista.org/office/contact.html) ***。***

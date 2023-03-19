@@ -146,26 +146,6 @@ DB = metrics.davies_bouldin_score(X, labels)
 
 ## 参考资料:
 
-[](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.silhouette_score.html) [## sk learn . metrics . silhouette _ score
-
-### 计算所有样本的平均轮廓系数。轮廓系数是使用平均值计算的…
-
-scikit-learn.org](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.silhouette_score.html) [](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.davies_bouldin_score.html) [## sk learn . metrics . Davies _ bouldin _ score
-
-### 计算戴维斯-波尔丁分数。分数被定义为每个聚类的平均相似性度量
-
-scikit-learn.org](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.davies_bouldin_score.html) [](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.calinski_harabasz_score.html) [## sk learn . metrics . calinski _ harabasz _ score
-
-### 编辑描述
-
-scikit-learn.org](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.calinski_harabasz_score.html)  [## 剪影(聚类)-维基百科
-
-### 剪影指的是一种解释和验证数据簇一致性的方法。技术…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Silhouette_%28clustering%29)  [## 戴维斯-波尔丁索引-维基百科
-
-### 戴维·l·戴维斯和唐纳德·w·波尔丁于 1979 年提出的戴维斯-波尔丁指数(DBI)是一种评估…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Davies%E2%80%93Bouldin_index) ![](img/393251d224ddbcfc451923d315ada9bf.png)
+[](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.silhouette_score.html)  [](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.davies_bouldin_score.html)  [](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.calinski_harabasz_score.html)      ![](img/393251d224ddbcfc451923d315ada9bf.png)
 
 Artem Kniaz 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上拍摄的照片

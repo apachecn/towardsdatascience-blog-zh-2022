@@ -91,18 +91,6 @@
 
 *如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，请不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
 
-*[](https://medium.com/illumination/intuitive-guide-to-artificial-neural-networks-5a2925ea3fa2) [## 人工神经网络直观指南
-
-### 人工神经网络(ANN)是人工智能和人工智能领域最常用的术语
-
-medium.com](https://medium.com/illumination/intuitive-guide-to-artificial-neural-networks-5a2925ea3fa2) [](https://medium.com/nerd-for-tech/what-are-deepfakes-and-how-do-you-recognize-them-f9ab1a143456) [## 什么是 deepfakes，怎么识别？
-
-### Deepfakes 是使用深度学习模型人工创建的视频、图像或音频文件。比如说…
-
-medium.com](https://medium.com/nerd-for-tech/what-are-deepfakes-and-how-do-you-recognize-them-f9ab1a143456) [](https://medium.com/@niklas_lang/membership) [## 通过我的推荐链接加入媒体- Niklas Lang
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@niklas_lang/membership) 
+*[](https://medium.com/illumination/intuitive-guide-to-artificial-neural-networks-5a2925ea3fa2)  [](https://medium.com/nerd-for-tech/what-are-deepfakes-and-how-do-you-recognize-them-f9ab1a143456)  [](https://medium.com/@niklas_lang/membership)  
 
 *最初发布于*[*https://database camp . de*](https://databasecamp.de/en/ml/random-forests)*。**

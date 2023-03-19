@@ -50,11 +50,7 @@ Starlink 的软件是用众所周知的编程语言编写的。由于其可靠�
 
 卫星互联网是一个非常雄心勃勃的项目，它伴随着许多困难的挑战。Starlink 无疑是这一领域的先驱，但其他公司和太空机构也在迅速跟进。一二十年后，它可能会像今天的卫星电视一样成为标准。
 
-[](https://uxdesign.cc/product-designers-are-clashing-with-developers-and-its-ugly-59e9875d9866) [## 产品设计师和开发人员发生冲突，这很糟糕
-
-### 不过，还是有解决办法的，而且这个市场正在增长
-
-uxdesign.cc](https://uxdesign.cc/product-designers-are-clashing-with-developers-and-its-ugly-59e9875d9866) 
+[](https://uxdesign.cc/product-designers-are-clashing-with-developers-and-its-ugly-59e9875d9866)  
 
 # SpaceX，还是努力不失败
 

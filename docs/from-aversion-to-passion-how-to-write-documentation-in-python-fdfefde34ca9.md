@@ -158,12 +158,4 @@ Numpy docstring 的示例
 
 ## 参考
 
-[](https://kislayverma.com/programming/how-to-write-self-documenting-code/) [## 如何编写自文档化代码|基斯利·维尔马
-
-### 我喜欢记录代码和系统。许多人不知道。反对文档的一个主要论点是，随着文档的不断更新，它们会变得过时
-
-kislayverma.com](https://kislayverma.com/programming/how-to-write-self-documenting-code/)  [## 记录 Python 代码:完全指南-真正的 Python
-
-### 欢迎阅读完整的 Python 代码文档指南。无论你是记录一个小的脚本还是一个大的…
-
-realpython.com](https://realpython.com/documenting-python-code/#documenting-your-python-projects)
+[](https://kislayverma.com/programming/how-to-write-self-documenting-code/)   

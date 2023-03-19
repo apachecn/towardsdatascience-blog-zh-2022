@@ -66,11 +66,7 @@ SHAP 值是理解模型如何进行预测的重要工具。SHAP 软件包提供�
 
 接下来我们要看的两个图是 SHAP 相互作用值的可视化。如果你不熟悉这些，我建议你阅读下面的文章。我们将深入探讨如何解释这些价值。总而言之，对于一个给定的预测，我们将有一个 SHAP 相互作用值的矩阵。矩阵的对角线给出了主要效应，而非对角线给出了交互效应。每个预测都有一个这样的矩阵。
 
-[](/analysing-interactions-with-shap-8c4a2bc11c2a) [## 分析与 SHAP 的互动
-
-### 使用 SHAP Python 包来识别和可视化数据中的交互
-
-towardsdatascience.com](/analysing-interactions-with-shap-8c4a2bc11c2a) 
+[](/analysing-interactions-with-shap-8c4a2bc11c2a)  
 
 为了创建第三个图，我们首先计算所有相互作用值矩阵中每个细胞的绝对平均值。相互作用的影响减半，因此我们也将非对角线乘以 2。然后，我们可以将其显示为热图，如图 6 所示。热图将围绕对角线对称，因此我们只显示下半部分。
 
@@ -96,11 +92,7 @@ towardsdatascience.com](/analysing-interactions-with-shap-8c4a2bc11c2a)
 
 支持我成为我的 [**推荐会员**](https://conorosullyds.medium.com/membership) **:)**
 
-[](https://conorosullyds.medium.com/membership) [## 通过我的推荐链接加入 Medium 康纳·奥沙利文
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-conorosullyds.medium.com](https://conorosullyds.medium.com/membership) 
+[](https://conorosullyds.medium.com/membership)  
 
 |[Twitter](https://twitter.com/conorosullyDS)|[YouTube](https://www.youtube.com/channel/UChsoWqJbEjBwrn00Zvghi4w)|[时事通讯](https://mailchi.mp/aa82a5ce1dc0/signup) —注册免费参加 [Python SHAP 课程](https://adataodyssey.com/courses/shap-with-python/)
 

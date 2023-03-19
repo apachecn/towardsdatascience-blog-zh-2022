@@ -89,16 +89,4 @@ Microsoft Learn 帮助学习者掌握编程语言，无论他们是初学者还�
 
 *如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
 
-*[](https://medium.com/@niklas_lang/understanding-the-backpropagation-algorithm-7a2e3cb4a69c) [## 理解反向传播算法
-
-### 反向传播算法是在训练过程中改进神经网络的工具。在…的帮助下
-
-medium.com](https://medium.com/@niklas_lang/understanding-the-backpropagation-algorithm-7a2e3cb4a69c) [](https://medium.com/@niklas_lang/intuitive-guide-to-artificial-neural-networks-5a2925ea3fa2) [## 人工神经网络直观指南
-
-### 人工神经网络(ANN)是人工智能和人工智能领域最常用的术语
-
-medium.com](https://medium.com/@niklas_lang/intuitive-guide-to-artificial-neural-networks-5a2925ea3fa2) [](https://medium.com/@niklas_lang/powerful-tool-to-understand-deep-neural-network-predictions-93798efc8eb6) [## 理解深度神经网络预测的强大工具
-
-### 你有没有想过为什么你的神经网络预测它的方式，或者哪个特征造成了差异？这个…
-
-medium.com](https://medium.com/@niklas_lang/powerful-tool-to-understand-deep-neural-network-predictions-93798efc8eb6)*
+*[](https://medium.com/@niklas_lang/understanding-the-backpropagation-algorithm-7a2e3cb4a69c)  [](https://medium.com/@niklas_lang/intuitive-guide-to-artificial-neural-networks-5a2925ea3fa2)  [](https://medium.com/@niklas_lang/powerful-tool-to-understand-deep-neural-network-predictions-93798efc8eb6) *

@@ -28,11 +28,7 @@ pip install nb_search
 
 您也可以从下面的 GitHub 页面手动安装它:
 
-[](https://github.com/loevlie/nb_search) [## GitHub - loevlie/nb_search:这是一个可以用来搜索 Jupyter 笔记本的包…
-
-### 这是一个软件包，可以用来搜索指定目录下的 Jupyter 笔记本。- GitHub …
-
-github.com](https://github.com/loevlie/nb_search) 
+[](https://github.com/loevlie/nb_search)  
 
 # 功能
 

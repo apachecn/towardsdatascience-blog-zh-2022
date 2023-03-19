@@ -59,11 +59,7 @@ ts.<api_name>(..)                          # e.g. ts.google
 
 对于 Google，我们也可以查看下面的语言支持页面:
 
-[](https://cloud.google.com/translate/docs/languages) [## 语言支持|云翻译|谷歌云
-
-### 发送反馈翻译 API 的识别引擎支持神经机器的多种语言…
-
-cloud.google.com](https://cloud.google.com/translate/docs/languages) 
+[](https://cloud.google.com/translate/docs/languages)  
 
 ## 查看选项
 
@@ -136,11 +132,7 @@ df = pd.DataFrame(corpus, columns = ['text'])df['welsh_text'] = df['text'].apply
 pip install bs4
 ```
 
-[](https://beautiful-soup-4.readthedocs.io/en/latest/) [## 美丽的汤文档-美丽的汤 4.4.0 文档
-
-### 美汤 4 是通过 PyPi 发布的，如果不能用系统打包器安装，可以安装…
-
-美丽的汤 4.readthedocs.io](https://beautiful-soup-4.readthedocs.io/en/latest/) 
+[](https://beautiful-soup-4.readthedocs.io/en/latest/)  
 
 ## HTML 模板示例
 

@@ -117,32 +117,12 @@ print (metrics.classification_report(y_test, test_pred_svm))
 
 因此，您可以相对容易地在二维上实现具有线性决策边界的支持向量机。当然，现实永远不会那么简单，因此在研讨会中，我们还将讨论如何对目标群体以外的数据进行分类，以及如何实施不同的内核来表示不同的决策界限。您可以在我们的 GitHub 资源库中找到它和问题表:
 
-[](https://github.com/UCL-DSS/svm-workshop) [## GitHub-UCL-DSS/SVM-研讨会
-
-### 欢迎参加我们的第七届 Python 系列数据科学研讨会！作者:塔尼亚·图尔迪安，科学执行官，UCL 数据…
-
-github.com](https://github.com/UCL-DSS/svm-workshop) 
+[](https://github.com/UCL-DSS/svm-workshop)  
 
 如果您错过了之前的任何一场研讨会，可以在这里找到后三场研讨会:
 
-[](/how-to-implement-and-evaluate-decision-tree-classifiers-from-scikit-learn-36ef7f037a78) [## 如何实现和评估来自 scikit-learn 的决策树分类器
-
-### UCL 数据科学学会研讨会 13:什么是决策树，决策树的实现，可视化和…
-
-towardsdatascience.com](/how-to-implement-and-evaluate-decision-tree-classifiers-from-scikit-learn-36ef7f037a78) [](/non-linear-regression-with-decision-trees-and-random-forest-afae406df27d) [## 决策树和随机森林的非线性回归
-
-### UCL 数据科学协会研讨会 12b:决策树和随机森林在 Python 中的实现及性能…
-
-towardsdatascience.com](/non-linear-regression-with-decision-trees-and-random-forest-afae406df27d) [](/an-introduction-lasso-and-ridge-regression-using-scitkit-learn-d3427700679c) [## 使用 scitkit-learn 介绍套索和岭回归
-
-### UCL 数据科学学会 12a 研讨会:偏差-方差权衡，套索实施，山脊实施，及其…
-
-towardsdatascience.com](/an-introduction-lasso-and-ridge-regression-using-scitkit-learn-d3427700679c) 
+[](/how-to-implement-and-evaluate-decision-tree-classifiers-from-scikit-learn-36ef7f037a78)  [](/non-linear-regression-with-decision-trees-and-random-forest-afae406df27d)  [](/an-introduction-lasso-and-ridge-regression-using-scitkit-learn-d3427700679c)  
 
 如果你想了解 UCL 数据科学协会和其他优秀作者的最新信息，请使用我下面的推荐代码注册 medium。
 
-[](https://philip-wilkinson.medium.com/membership) [## 通过我的推荐链接加入媒体-菲利普·威尔金森
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-philip-wilkinson.medium.com](https://philip-wilkinson.medium.com/membership)
+[](https://philip-wilkinson.medium.com/membership) 

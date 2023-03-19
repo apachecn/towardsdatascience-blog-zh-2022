@@ -85,19 +85,7 @@ tsla_df = df[["Adj Close"]].resample("M").last()
 
 您可能还会对以下内容感兴趣:
 
-[](/8-more-useful-pandas-functionalities-for-your-analyses-ef87dcfe5d74) [## 用于分析的 8 个更有用的熊猫功能
-
-### 它们可以让你的日常工作更轻松、更快捷
-
-towardsdatascience.com](/8-more-useful-pandas-functionalities-for-your-analyses-ef87dcfe5d74) [](https://medium.com/geekculture/top-4-python-libraries-for-technical-analysis-db4f1ea87e09) [## 用于技术分析的 4 大 Python 库
-
-### 有一个计算布林线的例子
-
-medium.com](https://medium.com/geekculture/top-4-python-libraries-for-technical-analysis-db4f1ea87e09) [](/use-annotations-to-tell-better-stories-with-your-plots-410cb1752bee) [## 使用注释来讲述更好的故事
-
-### 以及如何使用 plotly 在 Python 中实现它
-
-towardsdatascience.com](/use-annotations-to-tell-better-stories-with-your-plots-410cb1752bee) 
+[](/8-more-useful-pandas-functionalities-for-your-analyses-ef87dcfe5d74)  [](https://medium.com/geekculture/top-4-python-libraries-for-technical-analysis-db4f1ea87e09)  [](/use-annotations-to-tell-better-stories-with-your-plots-410cb1752bee)  
 
 # 参考
 

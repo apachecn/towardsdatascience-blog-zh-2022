@@ -277,28 +277,4 @@ cv2.imwrite('blackhat1.jpg', blackhat1)
 
 ## 更多阅读
 
-[](/some-basic-image-preprocessing-operations-for-beginners-in-python-7d297316853b) [## Python 初学者的一些基本图像预处理操作
-
-### OpenCV 初学者:移动或平移、调整大小和裁剪
-
-towardsdatascience.com](/some-basic-image-preprocessing-operations-for-beginners-in-python-7d297316853b) [](/how-to-define-custom-layer-activation-function-and-loss-function-in-tensorflow-bdd7e78eb67) [## 如何在 TensorFlow 中定义自定义图层、激活函数和损失函数
-
-### 一步一步的解释和完整代码的例子
-
-towardsdatascience.com](/how-to-define-custom-layer-activation-function-and-loss-function-in-tensorflow-bdd7e78eb67) [](/a-step-by-step-tutorial-to-develop-a-multi-output-model-in-tensorflow-ec9f13e5979c) [## 在 TensorFlow 中开发多输出模型的分步教程
-
-### 有完整的代码
-
-towardsdatascience.com](/a-step-by-step-tutorial-to-develop-a-multi-output-model-in-tensorflow-ec9f13e5979c) [](https://pub.towardsai.net/some-simple-but-advanced-styling-in-pythons-matplotlib-visualization-107f3be56a24) [## Python 的 Matplotlib 可视化中的一些简单但高级的样式
-
-### 给你的 Python 图添加一些额外的味道
-
-pub.towardsai.net](https://pub.towardsai.net/some-simple-but-advanced-styling-in-pythons-matplotlib-visualization-107f3be56a24) [](/precision-recall-and-f1-score-of-multiclass-classification-learn-in-depth-6c194b217629) [## 多类分类的精确度、召回率和 F1 分数—深入学习
-
-### 从混淆矩阵手动计算和 sklearn 库的语法
-
-towardsdatascience.com](/precision-recall-and-f1-score-of-multiclass-classification-learn-in-depth-6c194b217629) [](/complete-explanation-on-sql-joins-and-unions-with-examples-in-postgresql-cbd868fe9e95) [## 用 PostgreSQL 中的例子完整解释 SQL 连接和联合
-
-### 所有常用的连接类型和一些有趣的类型
-
-towardsdatascience.com](/complete-explanation-on-sql-joins-and-unions-with-examples-in-postgresql-cbd868fe9e95)
+[](/some-basic-image-preprocessing-operations-for-beginners-in-python-7d297316853b)  [](/how-to-define-custom-layer-activation-function-and-loss-function-in-tensorflow-bdd7e78eb67)  [](/a-step-by-step-tutorial-to-develop-a-multi-output-model-in-tensorflow-ec9f13e5979c)  [](https://pub.towardsai.net/some-simple-but-advanced-styling-in-pythons-matplotlib-visualization-107f3be56a24)  [](/precision-recall-and-f1-score-of-multiclass-classification-learn-in-depth-6c194b217629)  [](/complete-explanation-on-sql-joins-and-unions-with-examples-in-postgresql-cbd868fe9e95) 

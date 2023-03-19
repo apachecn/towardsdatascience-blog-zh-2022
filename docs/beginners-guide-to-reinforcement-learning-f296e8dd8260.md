@@ -65,16 +65,4 @@
 
 *如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，媒体允许你每月免费阅读* ***3 篇*** *。如果你想让***无限制地访问我的文章和数以千计的精彩文章，不要犹豫，通过点击我的推荐链接:*[https://medium.com/@niklas_lang/membership](https://medium.com/@niklas_lang/membership)获得会员资格，每个月只需支付 ***5*****
 
-***[](https://medium.com/@niklas_lang/basics-of-ai-deep-learning-vs-machine-learning-93a8499d5679) [## 人工智能基础:深度学习与机器学习
-
-### 深度学习是一种来自信息处理的方法，使用神经网络分析大量数据。这个…
-
-medium.com](https://medium.com/@niklas_lang/basics-of-ai-deep-learning-vs-machine-learning-93a8499d5679) [](https://medium.com/@niklas_lang/basics-of-ai-supervised-learning-8505219f07cf) [## 人工智能基础:监督学习
-
-### 监督学习是人工智能和机器学习的一个子类。它的特点是…
-
-medium.com](https://medium.com/@niklas_lang/basics-of-ai-supervised-learning-8505219f07cf) [](https://medium.com/@niklas_lang/what-are-recurrent-neural-networks-5c48f4908e34) [## 理解递归神经网络
-
-### 递归神经网络(RNNs)是第三种主要类型的神经网络，前向网络和神经网络
-
-medium.com](https://medium.com/@niklas_lang/what-are-recurrent-neural-networks-5c48f4908e34)***
+***[](https://medium.com/@niklas_lang/basics-of-ai-deep-learning-vs-machine-learning-93a8499d5679)  [](https://medium.com/@niklas_lang/basics-of-ai-supervised-learning-8505219f07cf)  [](https://medium.com/@niklas_lang/what-are-recurrent-neural-networks-5c48f4908e34) ***

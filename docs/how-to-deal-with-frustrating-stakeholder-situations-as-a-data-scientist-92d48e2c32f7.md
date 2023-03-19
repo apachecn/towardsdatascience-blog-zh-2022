@@ -66,16 +66,4 @@
 
 **感谢阅读！如果你想了解更多关于数据科学和商业的知识，这里有一些推荐:**
 
-[](/top-qualities-hiring-managers-look-for-in-data-scientist-candidates-2e2cd52444c2) [## 招聘经理对数据科学家候选人的最高要求
-
-### 其中一些可以说比编写高效的代码更重要
-
-towardsdatascience.com](/top-qualities-hiring-managers-look-for-in-data-scientist-candidates-2e2cd52444c2) [](/5-mistakes-i-wish-i-had-avoided-in-my-data-science-career-6c22a44304a1) [## 我希望在我的数据科学职业生涯中避免的 5 个错误
-
-### 我得到了这些教训，所以你不必这样做
-
-towardsdatascience.com](/5-mistakes-i-wish-i-had-avoided-in-my-data-science-career-6c22a44304a1) [](/how-to-pick-the-right-career-in-the-data-world-1cec8a084767) [## 2 如何在数据世界中选择合适的职业
-
-### 数据科学家，数据分析师，还是数据工程师？你怎么知道哪个适合你呢？
-
-towardsdatascience.com](/how-to-pick-the-right-career-in-the-data-world-1cec8a084767)
+[](/top-qualities-hiring-managers-look-for-in-data-scientist-candidates-2e2cd52444c2)  [](/5-mistakes-i-wish-i-had-avoided-in-my-data-science-career-6c22a44304a1)  [](/how-to-pick-the-right-career-in-the-data-world-1cec8a084767) 

@@ -116,11 +116,7 @@ evaluate_metrics(data, num_outliers = 2, amplitude_outliers = 10)
 
 查看本文的 github 资源库:
 
-[](https://github.com/vinyluis/Articles/tree/main/Comparing%20robustness%20of%20MAE%20MSE%20and%20RMSE) [## 文章/比较 MAE MSE 和 RMSE 在主要乙烯基的稳健性/文章
-
-### 对媒体文章的引用。在 GitHub 上创建一个帐户，为 vinyluis/Articles 的发展做出贡献。
-
-github.com](https://github.com/vinyluis/Articles/tree/main/Comparing%20robustness%20of%20MAE%20MSE%20and%20RMSE) 
+[](https://github.com/vinyluis/Articles/tree/main/Comparing%20robustness%20of%20MAE%20MSE%20and%20RMSE)  
 
 # 如果你喜欢这个帖子…
 
@@ -132,8 +128,4 @@ github.com](https://github.com/vinyluis/Articles/tree/main/Comparing%20robustnes
 
 看看这个很棒的帖子
 
-[](/5-tips-to-start-a-career-in-data-211ad15a7ca8) [## 开始数据职业生涯的 5 个技巧
-
-### 让我成为一名跨国公司数据科学家的步骤
-
-towardsdatascience.com](/5-tips-to-start-a-career-in-data-211ad15a7ca8)
+[](/5-tips-to-start-a-career-in-data-211ad15a7ca8) 

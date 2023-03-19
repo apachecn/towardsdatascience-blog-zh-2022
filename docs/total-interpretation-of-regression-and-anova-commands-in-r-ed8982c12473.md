@@ -12,11 +12,7 @@
 
 回归是统计学家首先执行的统计分析之一，以获得因变量对一个或多个自变量的依赖性细节。只有一个自变量的分析，称为简单线性回归，如果有多个自变量，则称为多元线性回归。使用 R，只需执行几行代码就可以获得与回归相关的必要统计数据。我们知道，多元线性回归受制于一些假设，这些假设在应用回归参数之前需要得到满足。读者可以在下面找到关于这个主题的文章。
 
-[](/assumptions-of-multiple-linear-regression-d16f2eb8a2e7) [## 多元线性回归的假设
-
-### python 中假设的实现
-
-towardsdatascience.com](/assumptions-of-multiple-linear-regression-d16f2eb8a2e7) 
+[](/assumptions-of-multiple-linear-regression-d16f2eb8a2e7)  
 
 简单线性回归也需要所有这些条件，但多重共线性除外，因为在这种情况下只有一个独立参数。
 
@@ -26,11 +22,7 @@ towardsdatascience.com](/assumptions-of-multiple-linear-regression-d16f2eb8a2e7)
 *   ***同方差—*** 同方差假设也是对简单线性回归建模时要考虑的一个重要因素。为了使线性拟合有效，数据点的两侧需要具有相等的方差。如果不是这样，数据有可能是异方差的。这种异方差行为往往是由数据质量引起的。当响应变量呈现锥形分布，而不是线性增加或减少时，可以说模型中每一点的方差都不相等。
 *   ***多元正态—*** 基于这个假设，假设模型的残差具有正态分布。为了在确定模型的参数之后确定残差的分布，最好检查该分布。为了更好地理解分布，不仅要看一下分布的直观表示，还要看 Q-Q 图。我鼓励读者阅读下面的文章，以便他们熟悉 Q-Q 情节的基础知识，以及它是如何实现的。
 
-[](/understand-q-q-plot-using-simple-python-4f83d5b89f8f) [## 使用简单的 python 理解 Q-Q 图
-
-### 可视化数据的有效方法
-
-towardsdatascience.com](/understand-q-q-plot-using-simple-python-4f83d5b89f8f) 
+[](/understand-q-q-plot-using-simple-python-4f83d5b89f8f)  
 
 *   ***误差独立性*** —除了这些情况，没有相关性假设，即残差散点图不应显示任何特定模式。特定位置的残差与其周围的残差之间不应存在相关性。在某些方面，这与恒定方差假设有关。
 
@@ -90,12 +82,4 @@ r 平方值是拟合优度或决定系数，基本上解释了来自自变量的
 
 感谢阅读。
 
-[](https://mdsohel-mahmood.medium.com/membership) [## 用我的推荐链接加入媒体
-
-### 阅读 Md Sohel Mahmood(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接…
-
-mdsohel-mahmood.medium.com](https://mdsohel-mahmood.medium.com/membership) [](https://mdsohel-mahmood.medium.com/subscribe) [## 每当 Md Sohel Mahmood 发表文章时，都会收到一封电子邮件。
-
-### 每当 Md Sohel Mahmood 发表文章时，都会收到一封电子邮件。通过注册，您将创建一个中型帐户，如果您还没有…
-
-mdsohel-mahmood.medium.com](https://mdsohel-mahmood.medium.com/subscribe)
+[](https://mdsohel-mahmood.medium.com/membership)  [](https://mdsohel-mahmood.medium.com/subscribe) 

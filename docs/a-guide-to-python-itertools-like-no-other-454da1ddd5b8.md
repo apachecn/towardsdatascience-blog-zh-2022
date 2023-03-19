@@ -176,11 +176,7 @@
 
 如果你感兴趣，可以看看下面这篇由 [Indhumathy Chelliah](https://medium.com/u/720e3a4ac60c?source=post_page-----454da1ddd5b8--------------------------------) 撰写的文章，这篇文章详细分析了`map`和`starmap`之间的区别:
 
-[](https://betterprogramming.pub/exploring-map-vs-starmap-in-python-6bcf32f5fa4a) [## 探索 Python 中的 Map()与 Starmap()
-
-### 让我们来了解一下不同之处
-
-better 编程. pub](https://betterprogramming.pub/exploring-map-vs-starmap-in-python-6bcf32f5fa4a) 
+[](https://betterprogramming.pub/exploring-map-vs-starmap-in-python-6bcf32f5fa4a)  
 
 # **itertools.tee()**
 
@@ -258,20 +254,4 @@ better 编程. pub](https://betterprogramming.pub/exploring-map-vs-starmap-in-py
 
 如果你对类似的内容感兴趣，可以看看我下面列出的其他文章。通过[媒体](https://zeyalt.medium.com/)关注我，或者通过 [LinkedIn](https://www.linkedin.com/in/zeyalt/) 或 [Twitter](https://twitter.com/zeyalt_) 联系我。祝您愉快！
 
-[](https://betterprogramming.pub/7-lesser-known-python-tips-to-write-elegant-code-fa06476e3959) [## 编写优雅代码的 7 个鲜为人知的 Python 技巧
-
-### 通过利用 Python 的内置函数和…发现用 Python 编写干净、优雅和可读代码的有用技巧
-
-better 编程. pub](https://betterprogramming.pub/7-lesser-known-python-tips-to-write-elegant-code-fa06476e3959) [](https://betterprogramming.pub/demystifying-look-ahead-and-look-behind-in-regex-4a604f99fb8c) [## 揭开正则表达式中前瞻和后视的神秘面纱
-
-### 使用易于理解的示例和动画 gif 简化正则表达式中的前视和后视
-
-better 编程. pub](https://betterprogramming.pub/demystifying-look-ahead-and-look-behind-in-regex-4a604f99fb8c) [](/a-quick-and-easy-guide-to-conditional-formatting-in-pandas-8783035071ee) [## Pandas 中条件格式的快速简易指南
-
-### 了解如何对熊猫数据框架应用条件格式
-
-towardsdatascience.com](/a-quick-and-easy-guide-to-conditional-formatting-in-pandas-8783035071ee) [](/precision-and-recall-made-simple-afb5e098970f) [## 精确度和召回变得简单
-
-### 通过简单的例子、一步一步的解释和动画 gif，使精确度和召回容易理解
-
-towardsdatascience.com](/precision-and-recall-made-simple-afb5e098970f)
+[](https://betterprogramming.pub/7-lesser-known-python-tips-to-write-elegant-code-fa06476e3959)  [](https://betterprogramming.pub/demystifying-look-ahead-and-look-behind-in-regex-4a604f99fb8c)  [](/a-quick-and-easy-guide-to-conditional-formatting-in-pandas-8783035071ee)  [](/precision-and-recall-made-simple-afb5e098970f) 

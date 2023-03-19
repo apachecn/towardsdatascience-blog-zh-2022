@@ -16,11 +16,7 @@ BFGS 方法(L-BFGS 是 BFGS 的扩展)在每次迭代中更新海森矩阵的计
 
 详细的数学计算见下面的帖子:
 
-[](https://www.earthinversion.com/techniques/the-L-BFGS-optimization-method/) [## 基于 L-BFGS 方法的数值优化
-
-### 在这篇文章中，我们将检查有限内存的布罗伊登，弗莱彻，戈德法布和山诺(L-BFGS)优化方法…
-
-www.earthinversion.com](https://www.earthinversion.com/techniques/the-L-BFGS-optimization-method/) 
+[](https://www.earthinversion.com/techniques/the-L-BFGS-optimization-method/)  
 
 让我们从数学上看看我们是如何解决牛顿法的:
 

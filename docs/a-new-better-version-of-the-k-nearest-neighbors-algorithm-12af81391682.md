@@ -77,18 +77,6 @@
 
 如果你喜欢这篇文章，你可能也会喜欢这些:
 
-[](https://medium.com/@arthurmello_/support-vector-machine-theory-and-practice-69394a31df6a) [## 支持向量机:理论与实践
-
-### 了解 SVM，最强大的最大似然算法之一
-
-medium.com](https://medium.com/@arthurmello_/support-vector-machine-theory-and-practice-69394a31df6a) [](https://medium.datadriveninvestor.com/how-to-correct-sampling-bias-988181c73f5d) [## 如何校正采样偏差
-
-### 有没有不代表总体的样本？这里有一个处理方法！
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/how-to-correct-sampling-bias-988181c73f5d) [](/k-nearest-neighbors-theory-and-practice-7f6f6ee48e56) [## k 近邻:理论与实践
-
-### 了解如何使用 KNN，这是最直观的分类和回归算法之一
-
-towardsdatascience.com](/k-nearest-neighbors-theory-and-practice-7f6f6ee48e56) 
+[](https://medium.com/@arthurmello_/support-vector-machine-theory-and-practice-69394a31df6a)  [](https://medium.datadriveninvestor.com/how-to-correct-sampling-bias-988181c73f5d)  [](/k-nearest-neighbors-theory-and-practice-7f6f6ee48e56)  
 
 > 如果你想进一步讨论，请随时在 [LinkedIn](https://www.linkedin.com/in/melloarthur/) 上联系我，这将是我的荣幸(老实说)。

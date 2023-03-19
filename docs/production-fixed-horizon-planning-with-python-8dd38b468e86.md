@@ -316,11 +316,7 @@ df_results
 
 欲知详情，
 
-[](https://www.samirsaci.com/what-is-a-supply-chain-digital-twin/) [## 什么是供应链数字孪生？
-
-### 供应链优化使用 python 创建一个代表供应链网络的模型，以优化您的…
-
-www.samirsaci.com](https://www.samirsaci.com/what-is-a-supply-chain-digital-twin/) 
+[](https://www.samirsaci.com/what-is-a-supply-chain-digital-twin/)  
 
 ## 生产线调度
 
@@ -342,11 +338,7 @@ www.samirsaci.com](https://www.samirsaci.com/what-is-a-supply-chain-digital-twin
 
 欲知详情，
 
-[](https://www.samirsaci.com/optimize-warehouse-value-added-services-with-python/) [## 利用 Python | Samir Saci 优化仓库增值服务
-
-### 仓储业务使用线性规划来增加您的豪华轿车总装的生产能力…
-
-www.samirsaci.com](https://www.samirsaci.com/optimize-warehouse-value-added-services-with-python/) 
+[](https://www.samirsaci.com/optimize-warehouse-value-added-services-with-python/)  
 
 # 关于我
 
@@ -354,8 +346,4 @@ www.samirsaci.com](https://www.samirsaci.com/optimize-warehouse-value-added-serv
 
 如果你对数据分析和供应链感兴趣，可以看看我的网站
 
-[](https://samirsaci.com) [## Samir Saci |数据科学与生产力
-
-### 专注于数据科学、个人生产力、自动化、运筹学和可持续发展的技术博客
-
-samirsaci.com](https://samirsaci.com)
+[](https://samirsaci.com) 

@@ -22,19 +22,11 @@ Matplotlib 从 2003 年开始被大量使用，而 Plotly 在 2014 年才刚刚�
 
 **自定义函数来绘制分数。完整的功能体可以在我创建的**[**GitHub gist**](https://gist.github.com/ibexorigin/44d47dfd30f083b27d041f6b1a6a3bd8)**上看到。**
 
-![](img/2c6c39bb9c0bdfffc27be960af7d9036.png)[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-BEXGBoost
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。支持我的工作，给我买一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+![](img/2c6c39bb9c0bdfffc27be960af7d9036.png)[](https://ibexorigin.medium.com/membership)  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex) [## 阿尔法信号|机器学习的极品。艾总结的。
-
-### 留在循环中，不用花无数时间浏览下一个突破；我们的算法识别…
-
-alphasignal.ai](https://alphasignal.ai/?referrer=Bex) 
+[](https://alphasignal.ai/?referrer=Bex)  
 
 # 1.API 可用性
 
@@ -336,32 +328,8 @@ plot_scores(7, 7)
 
 *感谢您的阅读！*
 
-*[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-Bex t。
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) [](https://ibexorigin.medium.com/subscribe) [## 每当 Bex T .发布时收到电子邮件。
-
-### 每当 Bex T .发布时收到电子邮件。注册后，如果您还没有中型帐户，您将创建一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/subscribe) 
+*[](https://ibexorigin.medium.com/membership)  [](https://ibexorigin.medium.com/subscribe)  
 
 **我的更多故事:**
 
-[](https://ibexorigin.medium.com/yes-these-unbelievable-masterpieces-are-created-with-matplotlib-b62e0ff2d1a8) [## 是的，这些令人难以置信的杰作是用 Matplotlib 创作的
-
-### 它们让我的作品看起来像孩子画的树
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/yes-these-unbelievable-masterpieces-are-created-with-matplotlib-b62e0ff2d1a8) [](/an-in-depth-tutorial-to-python-decorators-that-you-can-actually-use-1e34d3d2d305) [## 一个深入的 Python 装饰者教程，你可以实际使用
-
-### 深入 Python 的内部
-
-towardsdatascience.com](/an-in-depth-tutorial-to-python-decorators-that-you-can-actually-use-1e34d3d2d305) [](https://ibexorigin.medium.com/how-to-use-matplotlib-annotations-like-you-know-what-you-are-doing-da61e397cce3) [## 如何像知道自己在做什么一样使用 Matplotlib 注释
-
-### 了解如何将文本放置在绘图上的任意位置并绘制箭头
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/how-to-use-matplotlib-annotations-like-you-know-what-you-are-doing-da61e397cce3) [](/the-easiest-way-to-deploy-your-ml-dl-models-in-2022-streamlit-bentoml-dagshub-ccf29c901dac) [## 2022 年部署你的机器学习模型最简单的方法:Streamlit + BentoML + DagsHub
-
-### 将模型部署为具有用户友好界面的轻量级 API
-
-towardsdatascience.com](/the-easiest-way-to-deploy-your-ml-dl-models-in-2022-streamlit-bentoml-dagshub-ccf29c901dac)*
+[](https://ibexorigin.medium.com/yes-these-unbelievable-masterpieces-are-created-with-matplotlib-b62e0ff2d1a8)  [](/an-in-depth-tutorial-to-python-decorators-that-you-can-actually-use-1e34d3d2d305)  [](https://ibexorigin.medium.com/how-to-use-matplotlib-annotations-like-you-know-what-you-are-doing-da61e397cce3)  [](/the-easiest-way-to-deploy-your-ml-dl-models-in-2022-streamlit-bentoml-dagshub-ccf29c901dac) *

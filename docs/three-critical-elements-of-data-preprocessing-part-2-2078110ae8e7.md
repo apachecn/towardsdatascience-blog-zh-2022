@@ -16,11 +16,7 @@
 
 在本系列的第一篇文章中，我介绍了数据预处理的数据集成组件，它涉及到组合来自不同来源的数据，以获得包含所有可用相关特性和示例的数据集。该文章的链接可在此处找到:
 
-[](/three-critical-elements-of-data-preprocessing-part-1-3c16f46f8ced) [## 数据预处理的三个关键要素—第 1 部分
-
-### 数据科学中建模的主干。
-
-towardsdatascience.com](/three-critical-elements-of-data-preprocessing-part-1-3c16f46f8ced) 
+[](/three-critical-elements-of-data-preprocessing-part-1-3c16f46f8ced)  
 
 在本文中，我将讨论数据预处理的下一个组成部分，也可能是建模目的中最关键的部分，即数据清洗。此外，我将分享处理数据清理过程不同部分的资源。
 
@@ -70,15 +66,7 @@ Missing values occur in several forms including:
 
 *资源:*
 
-[](https://www.ncbi.nlm.nih.gov/books/NBK493614/) [## 缺失数据的类型
-
-### 虽然用 MCAR 数据对数据集进行的完整案例分析是无偏的，但有一个普遍的误解，即完整的…
-
-www.ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK493614/)  [## 11.7 处理缺失数据:MCAR | R 健康数据科学
-
-### 在进行标准回归分析之前，我们可以:删除带有缺失数据的变量，删除带有…
-
-argoshare.is.ed.ac.uk](https://argoshare.is.ed.ac.uk/healthyr_book/handling-missing-data-mcar.html) 
+[](https://www.ncbi.nlm.nih.gov/books/NBK493614/)    
 
 ## 处理异常值
 
@@ -128,8 +116,4 @@ argoshare.is.ed.ac.uk](https://argoshare.is.ed.ac.uk/healthyr_book/handling-miss
 
 什么更有趣？你可以通过下面我的推荐链接订阅 Medium 来获得更多我和其他作者的启发性文章，这也支持我的写作。
 
-[](https://aolaoye.medium.com/membership) [## 通过我的推荐链接加入媒体
-
-### 阅读 Abiodun Olaoye(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-aolaoye.medium.com](https://aolaoye.medium.com/membership)
+[](https://aolaoye.medium.com/membership) 

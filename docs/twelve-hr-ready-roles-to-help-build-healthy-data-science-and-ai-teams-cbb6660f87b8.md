@@ -51,11 +51,7 @@ Artem Podrez 的照片
 
 这些在下面的框架中公布。
 
- [## 信息和通信技术技能框架
-
-### 编辑描述
-
-www.imda.gov.sg](https://www.imda.gov.sg/cwp/assets/imtalent/skills-framework-for-ict/index.html) 
+  
 
 重要的是，**目标是装备公司来建立数据和人工智能团队**。因此，这些角色都是人力资源就绪型的，您会发现以下全套服务:
 

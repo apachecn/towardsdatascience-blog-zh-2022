@@ -10,11 +10,7 @@
 
 几周前，我写了一篇关于使用 Spark 部署机器学习模型的帖子，如果你想批量而非实时地进行预测，这是一种部署 ML 模型的好方法。
 
-[](/machine-learning-model-deployment-using-spark-585e80b2eae1) [## 使用 Spark 的机器学习模型部署
-
-### Spark 使 ML 部署更容易
-
-towardsdatascience.com](/machine-learning-model-deployment-using-spark-585e80b2eae1) 
+[](/machine-learning-model-deployment-using-spark-585e80b2eae1)  
 
 但是如果你想要实时预测，那么这个解决方案并不理想，因为…
 
@@ -135,11 +131,7 @@ Heroku 是 Salesforce 的平台即服务工具。Heroku 由 AWS 支持，所有 
 
 ****如果您想了解更多模型部署策略，请参考-****
 
-**[](https://medium.com/swlh/productionizing-machine-learning-models-bb7f018f8122) [## 生产机器学习模型
-
-### 将模型部署到产品中是一件复杂的事情。
-
-medium.com](https://medium.com/swlh/productionizing-machine-learning-models-bb7f018f8122) 
+**[](https://medium.com/swlh/productionizing-machine-learning-models-bb7f018f8122)  
 
 谢谢你的阅读。如果你喜欢这个故事，请喜欢，分享和关注更多这样的内容。如往常一样，请联系我们以获得任何问题/评论/反馈。
 

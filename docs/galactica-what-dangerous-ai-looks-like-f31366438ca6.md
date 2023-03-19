@@ -30,11 +30,7 @@ Meta 本周宣布了一个新的科学大型语言模型(LLM)。他们将它命�
 
 *本文选自*[***The Algorithmic Bridge***](https://thealgorithmicbridge.substack.com/subscribe?)*，这是一份旨在弥合算法与人之间鸿沟的教育通讯。它将帮助你理解人工智能对你生活的影响，并开发工具来更好地导航未来。*
 
-[](https://thealgorithmicbridge.substack.com/subscribe) [## 算法桥
-
-### 弥合算法和人之间的鸿沟。关于对你重要的人工智能的时事通讯。点击阅读…
-
-thealgorithmicbridge.substack.com](https://thealgorithmicbridge.substack.com/subscribe) 
+[](https://thealgorithmicbridge.substack.com/subscribe)  
 
 # 作者和支持者眼中的卡拉狄加
 

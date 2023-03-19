@@ -124,8 +124,4 @@ largeCount ← number of the largest elements in set// Implementation:countRatio
 
 ***如果你喜欢这篇文章，你可以考虑成为 Medium 会员，这样就可以无限制地访问 Medium 上的所有内容:***
 
-**[](https://medium.com/@harlan.j.brothers/membership) [## 加入我的推荐链接-哈兰兄弟媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@harlan.j.brothers/membership)**
+**[](https://medium.com/@harlan.j.brothers/membership) **

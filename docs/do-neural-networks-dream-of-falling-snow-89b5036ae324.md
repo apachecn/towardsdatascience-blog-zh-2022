@@ -149,11 +149,7 @@ DeepPrecip 项目总结和后续步骤—图片由作者提供
 
 在这项工作中，我们简要描述了 DeepPrecip 的发展过程:一种新的利用垂直反射率剖面的深度学习降雪反演算法。虽然我们在这里不讨论 DeepPrecip 的代码，但是这个模型是开源的，可以在 GitHub 上使用。它是使用 [scikit-learn](https://scikit-learn.org/stable/) 、 [Tensorflow](https://www.tensorflow.org) 和 [Keras](https://keras.io) 用 Python 开发的。
 
-[](https://github.com/frasertheking/DeepPrecip) [## GitHub-frasertheking/DeepPrecip:用于地面降水的深度卷积神经网络…
-
-### DeepPrecip 是一个深度卷积多层感知器，可以对低层大气进行主动雷达测量…
-
-github.com](https://github.com/frasertheking/DeepPrecip) 
+[](https://github.com/frasertheking/DeepPrecip)  
 
 如果您对测试感兴趣，可以使用以下命令构建并运行模型:
 

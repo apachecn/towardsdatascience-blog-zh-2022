@@ -12,11 +12,7 @@
 
 上周，我在 Read Docs 上发表了一篇关于[如何设置、定制和部署 Sphinx 文档的文章，这应该足以让你的第一稿启动并运行。但实际上，您的代码库可能是一个复杂的函数和类结构，或者您可能希望向观众展示如何使用 Jupyter 笔记本与您的代码库进行交互的示例。这篇文章将涉及到增强你的(不那么)初始文档的方法。](/advanced-code-documentation-beyond-comments-and-docstrings-2cc5b2ace28a)
 
-[](/advanced-code-documentation-beyond-comments-and-docstrings-2cc5b2ace28a) [## 注释和文档字符串之外的高级代码文档
-
-### 使用 Sphinx 并阅读文档以获得用户友好的界面来理解代码库——即使对于非技术用户也是如此
-
-towardsdatascience.com](/advanced-code-documentation-beyond-comments-and-docstrings-2cc5b2ace28a) 
+[](/advanced-code-documentation-beyond-comments-and-docstrings-2cc5b2ace28a)  
 
 # 目录
 
@@ -123,11 +119,7 @@ Confluence 页面上的 Sphinx 文档–图片由作者提供
 
 希望你已经学会了一些先进实用的使用斯芬克斯的方法。Sphinx 绝对是一个让代码库脱颖而出的工具，为用户提供可读性和可理解性。
 
-[](/advanced-code-documentation-with-coverage-and-unit-tests-part-3-3f7b698497fb) [## 包含覆盖率和单元测试的高级代码文档—第 3 部分
-
-### 评估文档的完整性并对文档字符串执行单元测试——使用和不使用 Sphinx
-
-towardsdatascience.com](/advanced-code-documentation-with-coverage-and-unit-tests-part-3-3f7b698497fb) 
+[](/advanced-code-documentation-with-coverage-and-unit-tests-part-3-3f7b698497fb)  
 
 这些是演示中使用的 [GitHub 库](https://github.com/kayjan/sphinx-advanced)、[阅读文档文档](https://kayjan-sphinx-advanced.readthedocs.io/en/latest/)和[汇合页面](https://kayjan.atlassian.net/wiki/spaces/SPHINXADVA/overview)的链接。
 

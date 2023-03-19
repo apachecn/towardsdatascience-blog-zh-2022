@@ -199,24 +199,8 @@ Best Seller = TOPN(1, VALUES('transaction'[Product Name]), CALCULATE(SUM('transa
 
 如果你从这篇文章中发现了任何价值，并且还不是一个媒体会员，如果你使用下面的链接注册会员，这对我和这个平台上的其他作者来说意义重大。它鼓励我们继续推出像这样的高质量和信息丰富的内容——提前感谢您！
 
-[](https://chongjason.medium.com/membership) [## 通过我的推荐链接-杰森·庄加入媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-chongjason.medium.com](https://chongjason.medium.com/membership) 
+[](https://chongjason.medium.com/membership)  
 
 不知道接下来要读什么？这里有一些建议。
 
-[](/data-cleaning-techniques-in-microsoft-excel-you-need-to-know-4075cbb30731) [## 每个初学者都需要知道微软 Excel 中的这些数据清理技术
-
-### 想要快速轻松地清理您的数据吗？不要再看了
-
-towardsdatascience.com](/data-cleaning-techniques-in-microsoft-excel-you-need-to-know-4075cbb30731) [](/addressing-the-issue-of-black-boxes-in-machine-learning-f86429acbb2a) [## 解决机器学习中的“黑箱”问题
-
-### 在模型预测中创造更多透明度和可解释性的 4 个必须知道的技术
-
-towardsdatascience.com](/addressing-the-issue-of-black-boxes-in-machine-learning-f86429acbb2a) [](/pandas-zero-to-hero-a-beginners-tutorial-to-using-pandas-f64e57386c7c) [## 熊猫从零到英雄——使用熊猫的初学者教程
-
-### 熊猫零到英雄是一个视频教程系列，旨在教初学者友好的方式使用熊猫
-
-towardsdatascience.com](/pandas-zero-to-hero-a-beginners-tutorial-to-using-pandas-f64e57386c7c)
+[](/data-cleaning-techniques-in-microsoft-excel-you-need-to-know-4075cbb30731)  [](/addressing-the-issue-of-black-boxes-in-machine-learning-f86429acbb2a)  [](/pandas-zero-to-hero-a-beginners-tutorial-to-using-pandas-f64e57386c7c) 

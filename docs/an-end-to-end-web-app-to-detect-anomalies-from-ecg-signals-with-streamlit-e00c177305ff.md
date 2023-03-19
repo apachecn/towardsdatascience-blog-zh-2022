@@ -167,10 +167,6 @@ mlflow sagemaker build-and-push-container
 
 查看我的 DagsHub 存储库中的代码:
 
-[](https://dagshub.com/eugenia.anello/anomaly_detection_ecg_part2) [## eugenia.anello/anomaly_detection_ecg_part2
-
-### 这个项目的目标是从心电图信号中检测出不规则的心律。因为不规则的心律通常…
-
-dagshub.com](https://dagshub.com/eugenia.anello/anomaly_detection_ecg_part2) 
+[](https://dagshub.com/eugenia.anello/anomaly_detection_ecg_part2)  
 
 你喜欢我的文章吗？ [*成为会员*](https://eugenia-anello.medium.com/membership) *每天无限获取数据科学新帖！这是一种间接的支持我的方式，不会给你带来任何额外的费用。如果您已经是会员，* [*订阅*](https://eugenia-anello.medium.com/subscribe) *每当我发布新的数据科学和 python 指南时，您都会收到电子邮件！*

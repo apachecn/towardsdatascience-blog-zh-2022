@@ -175,11 +175,7 @@ fig.show()
 
 **我还**通过索引/检查输入特征**在集群内的分布来验证输出集群**。****
 
-**[](https://pub.towardsai.net/expectation-maximization-em-clustering-every-data-scientist-should-know-2b47fbd0dbc0) [## 期望最大化(EM)聚类:每个数据科学家都应该知道
-
-### EM 聚类技术最直观的解释
-
-pub.towardsai.net](https://pub.towardsai.net/expectation-maximization-em-clustering-every-data-scientist-should-know-2b47fbd0dbc0) 
+**[](https://pub.towardsai.net/expectation-maximization-em-clustering-every-data-scientist-should-know-2b47fbd0dbc0)  
 
 ## 结论
 
@@ -193,16 +189,4 @@ pub.towardsai.net](https://pub.towardsai.net/expectation-maximization-em-cluster
 
 ## ****你可能喜欢的故事！****
 
-**[](https://medium.com/codex/feature-engineering-techniques-every-data-scientist-should-know-e40dc656c71f) [## 每个数据科学家都应该知道的特征工程技术
-
-### 最大限度地提高机器学习模型的性能！
-
-medium.com](https://medium.com/codex/feature-engineering-techniques-every-data-scientist-should-know-e40dc656c71f) [](https://medium.com/codex/24-powerful-must-know-pandas-functions-for-every-data-analysis-a1a9990d47c8) [## 24 个强大的必知熊猫功能，用于每次数据分析
-
-### 对每个数据科学专业人员来说，重要的熊猫功能
-
-medium.com](https://medium.com/codex/24-powerful-must-know-pandas-functions-for-every-data-analysis-a1a9990d47c8) [](https://medium.com/codex/know-everything-about-bias-and-variance-7c7b9f9ee0ed) [## 理解机器学习中的偏差和方差权衡
-
-### 机器学习中一个必须知道的概念
-
-medium.com](https://medium.com/codex/know-everything-about-bias-and-variance-7c7b9f9ee0ed)**
+**[](https://medium.com/codex/feature-engineering-techniques-every-data-scientist-should-know-e40dc656c71f)  [](https://medium.com/codex/24-powerful-must-know-pandas-functions-for-every-data-analysis-a1a9990d47c8)  [](https://medium.com/codex/know-everything-about-bias-and-variance-7c7b9f9ee0ed) **

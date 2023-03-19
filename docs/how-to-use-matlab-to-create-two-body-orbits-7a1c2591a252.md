@@ -14,11 +14,7 @@
 
 为了在两体系统中生成轨迹，必须推导航天器(相关质量)的运动方程。有大量的资源显示这个推导和最终的运动方程，所以你不必亲自动手。我在下面的文章中演示了这个过程。我鼓励你理解这些方程以及它们是如何得到的。然而，如果你不想这样做，只是想创建一个轨道，我提供了一个图表和所需的运动方程如下，供您参考。
 
-[](https://medium.com/illumination/astrodynamics-two-body-problem-ec2c5e148184) [## 如何解决两体问题
-
-### 通过推导两体系统的运动方程，学习轨道力学的基础知识
-
-medium.com](https://medium.com/illumination/astrodynamics-two-body-problem-ec2c5e148184) ![](img/11c14abe0d51f2ec028817fbbc378b9e.png)
+[](https://medium.com/illumination/astrodynamics-two-body-problem-ec2c5e148184)  ![](img/11c14abe0d51f2ec028817fbbc378b9e.png)
 
 两体问题图[作者创建]
 
@@ -100,8 +96,4 @@ hold off
 
 如果你想制作一个类似于文章开头的视觉效果的动画，可以看看下面的文章。感谢您抽出时间阅读。如果你觉得这有用，请给我一个关注！谢谢！
 
-[](/how-to-animate-plots-in-matlab-fa42cf994f3e) [## 如何在 MATLAB 中制作动画
-
-### 一种简单的数据动画制作方法
-
-towardsdatascience.com](/how-to-animate-plots-in-matlab-fa42cf994f3e)
+[](/how-to-animate-plots-in-matlab-fa42cf994f3e) 

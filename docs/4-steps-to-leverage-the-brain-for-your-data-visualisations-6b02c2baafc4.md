@@ -127,11 +127,7 @@
 
 你可以把最重要的观想/订书钉作为焦点。一个人的眼睛会自然地移向那里，使观想更加吸引人。有关这方面的更多信息，请参见以下内容:
 
-[](https://medium.com/inside-design/a-guide-to-the-golden-ratio-for-designers-b727ce1739ca) [## 设计师黄金比例指南
-
-### 自从我们开始创造以来，好的设计就一直是争论的话题。有无止境的论坛，社交媒体线程…
-
-medium.com](https://medium.com/inside-design/a-guide-to-the-golden-ratio-for-designers-b727ce1739ca) 
+[](https://medium.com/inside-design/a-guide-to-the-golden-ratio-for-designers-b727ce1739ca)  
 
 ## 4.其他前注意属性
 

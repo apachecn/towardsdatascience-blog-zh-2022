@@ -146,28 +146,12 @@
 
 **要获得监督机器学习算法的完整概述，您可以阅读以下文章:**
 
-**[](/overview-of-supervised-machine-learning-algorithms-a5107d036296) [## 监督机器学习算法综述
-
-### 大图如何通过连接点给我们洞察力和对 ML 的更好理解
-
-towardsdatascience.com](/overview-of-supervised-machine-learning-algorithms-a5107d036296)** 
+**[](/overview-of-supervised-machine-learning-algorithms-a5107d036296) ** 
 
 **为了更好地理解神经网络是如何工作的，有必要了解如何从头开始实现它。如果你懂一门编程语言，比如 **Python** ，你可以用编程的方式来做。如果没有，也可以在 **Excel** 中实现。你可以看看我下面的文章:**
 
-**[](/visualize-how-a-neural-network-works-from-scratch-3c04918a278) [## 想象一下神经网络是如何从头开始工作的
-
-### 通过可视化每一步的结果，您可以更好地理解神经网络的工作原理
-
-towardsdatascience.com](/visualize-how-a-neural-network-works-from-scratch-3c04918a278) [](/neural-network-from-scratch-in-excel-4774f6131cdb) [## Excel 中从头开始的神经网络
-
-### 为了更好地理解反向传播的工作原理
-
-towardsdatascience.com](/neural-network-from-scratch-in-excel-4774f6131cdb) 
+**[](/visualize-how-a-neural-network-works-from-scratch-3c04918a278)  [](/neural-network-from-scratch-in-excel-4774f6131cdb)  
 
 我写关于机器学习算法的文章，请通过下面的链接关注我，并完全访问我的文章:
 
-[](https://medium.com/@angela.shi/membership) [## 通过我的推荐链接加入 Medium-Angela Shi
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@angela.shi/membership)**
+[](https://medium.com/@angela.shi/membership) **

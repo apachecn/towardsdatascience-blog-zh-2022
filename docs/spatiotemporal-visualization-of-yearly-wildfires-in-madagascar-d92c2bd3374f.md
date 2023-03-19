@@ -20,11 +20,7 @@
 
 查看**在线演示:**[2020 年马达加斯加野火](https://studio.unfolded.ai/public/35286e57-0bdc-48d6-97c2-b6fb5605a7b0)
 
- [## 展开的工作室
-
-### 2020 年马达加斯加的热图动画
-
-studio.unfolded.ai](https://studio.unfolded.ai/public/35286e57-0bdc-48d6-97c2-b6fb5605a7b0/embed) 
+  
 
 这张马达加斯加年度热图动画是 2021 年 30 天地图挑战的一部分，它是与来自[数字地理实验室](https://www2.helsinki.fi/en/researchgroups/digital-geography-lab)的博士后研究员 [Johanna Eklund](https://researchportal.helsinki.fi/en/persons/johanna-eklund/publications/) 合作完成的。我感谢 Johanna 提供这个数据集并支持可视化的创建。
 

@@ -22,11 +22,7 @@
 
 在深入研究细节之前，首先需要确保已经创建了用于连接 Postgres 数据库的连接。这可以通过 Airflow UI(管理->连接)来实现。或者，为了更安全和可扩展地管理连接，您可以参考我在 Medium 上的一篇最新文章，在这篇文章中，我讨论了如何使用 Airflow 设置 HashiCorp Vault。
 
-[](/hashicorp-vault-airflow-cfdddab31ea) [## 如何用气流设置 HashiCorp 保险库
-
-### 将 HashiCorp Vault 与 Apache Airflow 集成
-
-towardsdatascience.com](/hashicorp-vault-airflow-cfdddab31ea) 
+[](/hashicorp-vault-airflow-cfdddab31ea)  
 
 现在，假设我们有一个有效的 Postgres 连接，我们现在可以利用包含在`apache-airflow-providers-google`包中的`[PostgresToGCSOperator](https://airflow.apache.org/docs/apache-airflow-providers-google/stable/_api/airflow/providers/google/cloud/transfers/postgres_to_gcs/index.html)`,将数据从源数据库传输到 Google 云存储中。
 
@@ -164,24 +160,8 @@ from datetime import timedeltawith DAG(
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership) 
+[](https://gmyrianthous.medium.com/membership)  
 
 **相关文章你可能也喜欢**
 
-[](/airflow-dags-decorators-b5dc03c76f07) [## 使用气流装饰器创作 Dag
-
-### 用 Python decorators 创作 Apache Airflow DAGs 和任务
-
-towardsdatascience.com](/airflow-dags-decorators-b5dc03c76f07) [](/run-airflow-docker-1b83a57616fb) [## 如何使用 Docker 在本地运行气流
-
-### 在本地机器上使用 Docker 运行 Airflow 的分步指南
-
-towardsdatascience.com](/run-airflow-docker-1b83a57616fb) [](/hashicorp-vault-airflow-cfdddab31ea) [## 如何用气流设置 HashiCorp 保险库
-
-### 将 HashiCorp Vault 与 Apache Airflow 集成
-
-towardsdatascience.com](/hashicorp-vault-airflow-cfdddab31ea)
+[](/airflow-dags-decorators-b5dc03c76f07)  [](/run-airflow-docker-1b83a57616fb)  [](/hashicorp-vault-airflow-cfdddab31ea) 

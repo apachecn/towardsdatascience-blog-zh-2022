@@ -211,16 +211,4 @@ vis
 
 感谢阅读！如果你有任何反馈，请通过评论这篇文章来联系我们。如果你感兴趣，也可以看看我的其他帖子:
 
-[](/time-series-analysis-with-statsmodels-12309890539a) [## 利用统计模型进行时间序列分析
-
-### 理解基本的时间序列模型及其背后的数学原理
-
-towardsdatascience.com](/time-series-analysis-with-statsmodels-12309890539a) [](/time-series-analysis-arima-based-models-541de9c7b4db) [## 时间序列分析—基于 ARIMA 的模型
-
-### 理解 ARIMA 模型背后的关键概念和使用 ARIMA 模型处理时间序列的一般工作流程…
-
-towardsdatascience.com](/time-series-analysis-arima-based-models-541de9c7b4db) [](/new-tableau-desktop-specialist-certification-exam-overview-b482a2f373fb) [## 2022 Tableau 桌面专家认证考试复习(新模式)
-
-### 讨论 2021 年 10 月后考试的最新变化，以及如何准备考试
-
-towardsdatascience.com](/new-tableau-desktop-specialist-certification-exam-overview-b482a2f373fb)
+[](/time-series-analysis-with-statsmodels-12309890539a)  [](/time-series-analysis-arima-based-models-541de9c7b4db)  [](/new-tableau-desktop-specialist-certification-exam-overview-b482a2f373fb) 

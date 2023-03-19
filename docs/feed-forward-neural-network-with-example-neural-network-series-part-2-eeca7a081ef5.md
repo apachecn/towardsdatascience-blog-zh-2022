@@ -6,11 +6,7 @@
 
 本系列的前一部分:[神经网络的基础知识(神经网络系列)——第一部分](/the-basics-of-neural-networks-neural-network-series-part-1-4419e343b2b)
 
-[](/the-basics-of-neural-networks-neural-network-series-part-1-4419e343b2b) [## 神经网络基础(神经网络系列)——第一部分
-
-### 神经网络
-
-(神经网络系列)——第一部分神经 Networkstowardsdatascience.com](/the-basics-of-neural-networks-neural-network-series-part-1-4419e343b2b) 
+[](/the-basics-of-neural-networks-neural-network-series-part-1-4419e343b2b)  
 
 # 神经网络设计(概述)
 

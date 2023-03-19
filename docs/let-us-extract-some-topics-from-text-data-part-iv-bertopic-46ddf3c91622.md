@@ -14,19 +14,7 @@
 
 有各种各样的算法广泛用于主题建模。在我之前的三篇文章中，我向您介绍了主题建模的三种算法:LDA、GSDMM 和 NMF。
 
-[](/let-us-extract-some-topics-from-text-data-part-i-latent-dirichlet-allocation-lda-e335ee3e5fa4) [## 让我们从文本数据中提取一些主题—第一部分:潜在狄利克雷分配(LDA)
-
-### 使用 Python 的 nltk、gensim、sklearn 和 pyLDAvis 包了解主题建模需要什么及其实现
-
-towardsdatascience.com](/let-us-extract-some-topics-from-text-data-part-i-latent-dirichlet-allocation-lda-e335ee3e5fa4) [](https://medium.com/geekculture/let-us-extract-some-topics-from-text-data-part-ii-gibbs-sampling-dirichlet-multinomial-mixture-9e82d51b0fab) [## 让我们从文本数据中提取一些主题—第二部分:吉布斯采样狄利克雷多项式混合…
-
-### 了解如何使用 GSDMM 进行主题建模，以及它与 LDA 的比较
-
-medium.com](https://medium.com/geekculture/let-us-extract-some-topics-from-text-data-part-ii-gibbs-sampling-dirichlet-multinomial-mixture-9e82d51b0fab) [](/let-us-extract-some-topics-from-text-data-part-iii-non-negative-matrix-factorization-nmf-8eba8c8edada) [## 让我们从文本数据中提取一些主题—第三部分:非负矩阵分解(NMF)
-
-### 了解有关从线性代数派生的无监督算法的更多信息，该算法使用直观的方法来处理主题…
-
-towardsdatascience.com](/let-us-extract-some-topics-from-text-data-part-iii-non-negative-matrix-factorization-nmf-8eba8c8edada) 
+[](/let-us-extract-some-topics-from-text-data-part-i-latent-dirichlet-allocation-lda-e335ee3e5fa4)  [](https://medium.com/geekculture/let-us-extract-some-topics-from-text-data-part-ii-gibbs-sampling-dirichlet-multinomial-mixture-9e82d51b0fab)  [](/let-us-extract-some-topics-from-text-data-part-iii-non-negative-matrix-factorization-nmf-8eba8c8edada)  
 
 在本文中，我深入解释了什么是 BERTopic，以及如何将它用于您的主题建模项目！让我们直入主题吧！
 

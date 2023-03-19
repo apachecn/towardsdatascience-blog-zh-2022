@@ -10,11 +10,7 @@
 
 在上一篇文章中，我介绍了一些通过对原始结果进行后处理来从异常检测模型中提取更丰富信息的方法:
 
-[](/your-anomaly-detection-model-is-smarter-than-you-think-c1cade5fcabe) [## 你的异常检测模型比你想象的要聪明
-
-### 多变量时间序列异常检测模型可以提供丰富的见解，如果你投资一些时间在后处理…
-
-towardsdatascience.com](/your-anomaly-detection-model-is-smarter-than-you-think-c1cade5fcabe) 
+[](/your-anomaly-detection-model-is-smarter-than-you-think-c1cade5fcabe)  
 
 通读本文并付诸实践后，您可能会对这些见解的可信度有所反馈:
 
@@ -36,11 +32,7 @@ towardsdatascience.com](/your-anomaly-detection-model-is-smarter-than-you-think-
 
 在上一篇文章中，我们还使用[**Amazon Lookout for Equipment**](https://aws.amazon.com/lookout-for-equipment/)(运行在 AWS 云中的托管服务)训练和异常检测模型。如果您想更深入地了解这项服务(即使您不是开发人员)，我在 AWS 书籍的时间系列中专门为这项服务写了 6 章:
 
-[](https://www.amazon.com/Time-Analysis-AWS-forecasting-anomalies-ebook/dp/B09MMLLWDY) [## AWS 上的时间序列分析:学习如何建立预测模型和检测你的…
-
-### AWS 上的时间序列分析:了解如何建立预测模型和检测时间序列数据中的异常…
-
-www.amazon.com](https://www.amazon.com/Time-Analysis-AWS-forecasting-anomalies-ebook/dp/B09MMLLWDY) 
+[](https://www.amazon.com/Time-Analysis-AWS-forecasting-anomalies-ebook/dp/B09MMLLWDY)  
 
 # 回到时间序列
 
@@ -114,8 +106,4 @@ www.amazon.com](https://www.amazon.com/Time-Analysis-AWS-forecasting-anomalies-e
 
 我希望你觉得这篇文章很有见地:如果你不想错过我即将发布的帖子，请随时在这里给我留下评论，并不要犹豫订阅我的 [**中型电子邮件订阅源**](https://michoara.medium.com/subscribe) ！想支持我和以后的工作？**通过我的推荐链接加入 Medium** :
 
-[](https://michoara.medium.com/membership) [## 通过我的推荐链接加入 Medium-Michal Hoa RAU
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-michoara.medium.com](https://michoara.medium.com/membership)
+[](https://michoara.medium.com/membership) 

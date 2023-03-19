@@ -91,21 +91,13 @@
 
 *软件技能；轻松处理大量数据；不受数据科学偏见的影响。包含在第 1 部分的[中。](http://bit.ly/quaesita_realanalyst)*
 
-*[](/becoming-a-real-data-analyst-dcaf5f48bc34) [## 成为“真正的”数据分析师
-
-### 业余分析师和专业分析师的 10 个区别
-
-towardsdatascience.com](/becoming-a-real-data-analyst-dcaf5f48bc34) 
+*[](/becoming-a-real-data-analyst-dcaf5f48bc34)  
 
 ## 专业数据与业余数据的差异# 4 –# 6
 
 了解职业；拒绝成为数据江湖骗子；对确认偏差的抵抗力。包含在[第 2 部分](http://bit.ly/quaesita_jedianalyst)中。
 
-[](/shifting-your-mindset-from-amateur-to-professional-analyst-61383f913408) [## 将你的思维从业余分析师转变为专业分析师
-
-### 成为“真正的”数据分析师的旅程
-
-towardsdatascience.com](/shifting-your-mindset-from-amateur-to-professional-analyst-61383f913408) 
+[](/shifting-your-mindset-from-amateur-to-professional-analyst-61383f913408)  
 
 ## 专业数据与业余数据的差异#7
 
@@ -113,11 +105,7 @@ towardsdatascience.com](/shifting-your-mindset-from-amateur-to-professional-anal
 
 ## 专业数据与业余数据的差异# 8-# 10
 
-[](https://kozyrkov.medium.com/how-to-add-value-as-a-data-analyst-8a6ae900b82a) [## 作为数据分析师如何增值
-
-### 成为“真正的”数据分析师的旅程
-
-kozyrkov.medium.com](https://kozyrkov.medium.com/how-to-add-value-as-a-data-analyst-8a6ae900b82a) 
+[](https://kozyrkov.medium.com/how-to-add-value-as-a-data-analyst-8a6ae900b82a)  
 
 # 感谢阅读！喜欢作者？
 

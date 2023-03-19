@@ -92,24 +92,4 @@ WITH sale AS (Select 'January' as Month, 31 as Laptop, 42 as TV,75 as Mobile, 58
 
 ## 更多阅读:
 
-[](/precision-recall-and-f1-score-of-multiclass-classification-learn-in-depth-6c194b217629) [## 多类分类的精确度、召回率和 F1 分数—深入学习
-
-### 从混淆矩阵手动计算和 sklearn 库的语法
-
-towardsdatascience.com](/precision-recall-and-f1-score-of-multiclass-classification-learn-in-depth-6c194b217629) [](/complete-explanation-on-sql-joins-and-unions-with-examples-in-postgresql-cbd868fe9e95) [## 用 PostgreSQL 中的例子完整解释 SQL 连接和联合
-
-### 所有常用的连接类型和一些有趣的类型
-
-towardsdatascience.com](/complete-explanation-on-sql-joins-and-unions-with-examples-in-postgresql-cbd868fe9e95) [](https://pub.towardsai.net/an-overview-of-the-major-sql-query-clauses-and-most-commonly-used-functions-60720e2a20d7) [## SQL 查询子句和函数概述
-
-### 可以用作 SQL 的备忘单
-
-pub.towardsai.net](https://pub.towardsai.net/an-overview-of-the-major-sql-query-clauses-and-most-commonly-used-functions-60720e2a20d7) [](/regression-in-tensorflow-using-both-sequential-and-function-apis-314e74b537ca) [## TensorFlow 中使用顺序 API 和函数 API 的回归
-
-### 演示几种不同类型的模型结构
-
-towardsdatascience.com](/regression-in-tensorflow-using-both-sequential-and-function-apis-314e74b537ca) [](https://pub.towardsai.net/data-analysis-91a38207c92b) [## 数据分析
-
-### Python 中数据科学家/分析师日常工作中的常见数据清理任务
-
-pub.towardsai.net](https://pub.towardsai.net/data-analysis-91a38207c92b)
+[](/precision-recall-and-f1-score-of-multiclass-classification-learn-in-depth-6c194b217629)  [](/complete-explanation-on-sql-joins-and-unions-with-examples-in-postgresql-cbd868fe9e95)  [](https://pub.towardsai.net/an-overview-of-the-major-sql-query-clauses-and-most-commonly-used-functions-60720e2a20d7)  [](/regression-in-tensorflow-using-both-sequential-and-function-apis-314e74b537ca)  [](https://pub.towardsai.net/data-analysis-91a38207c92b) 

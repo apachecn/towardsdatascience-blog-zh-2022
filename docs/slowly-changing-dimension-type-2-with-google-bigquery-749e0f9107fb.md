@@ -291,32 +291,4 @@ WHERE trget.END_YEAR = 9999 AND trget.START_YEAR <> dup.START_YEAR
 
 # 有用的资源
 
-[](https://en.wikipedia.org/wiki/Slowly_changing_dimension) [## 缓慢变化的维度-维基百科
-
-### 数据管理和数据仓库中的缓变维度(SCD)是一个包含相对…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Slowly_changing_dimension) [](https://cloud.google.com/bigquery/docs/reference/standard-sql/dml-syntax#merge_statement) [## Google 标准 SQL | BigQuery | Google Cloud 中的数据操作语言(DML)语句
-
-### 无论您的企业正处于数字化转型的早期阶段，谷歌云都可以帮助您解决…
-
-cloud.google.com](https://cloud.google.com/bigquery/docs/reference/standard-sql/dml-syntax#merge_statement) [](https://www.kimballgroup.com/2008/11/design-tip-107-using-the-sql-merge-statement-for-slowly-changing-dimension-processing/) [## 设计技巧#107 使用 SQL MERGE 语句进行渐变维度处理- Kimball…
-
-### 大多数 ETL 工具都提供了一些处理缓慢变化的维度的功能。有时，当工具不…
-
-www.kimballgroup.com](https://www.kimballgroup.com/2008/11/design-tip-107-using-the-sql-merge-statement-for-slowly-changing-dimension-processing/) [](https://www.kimballgroup.com/2008/08/slowly-changing-dimensions/) [## 渐变尺寸-金博尔集团
-
-### 时间的概念渗透到数据仓库的每个角落。我们存储在……
-
-www.kimballgroup.com](https://www.kimballgroup.com/2008/08/slowly-changing-dimensions/) [](https://www.kimballgroup.com/2008/09/slowly-changing-dimensions-part-2/) [## 渐变尺寸，第 2 部分-金博尔集团
-
-### 数据仓库的所有者必须决定如何响应维度实体描述的变化…
-
-www.kimballgroup.com](https://www.kimballgroup.com/2008/09/slowly-changing-dimensions-part-2/) [](https://www.kimballgroup.com/2013/02/design-tip-152-slowly-changing-dimension-types-0-4-5-6-7/) [## 设计提示#152 渐变尺寸类型 0、4、5、6 和 7 -金博尔组
-
-### Ralph 在 1996 年引入了渐变维度(SCD)属性的概念。维度建模器，在…
-
-www.kimballgroup.com](https://www.kimballgroup.com/2013/02/design-tip-152-slowly-changing-dimension-types-0-4-5-6-7/) [](https://www.kimballgroup.com/1998/05/surrogate-keys/) [## 代理键-金博尔组
-
-### 根据韦氏完整字典，代孕母亲是一种“人造或合成产品，被用作…
-
-www.kimballgroup.com](https://www.kimballgroup.com/1998/05/surrogate-keys/)
+[](https://en.wikipedia.org/wiki/Slowly_changing_dimension)  [](https://cloud.google.com/bigquery/docs/reference/standard-sql/dml-syntax#merge_statement)  [](https://www.kimballgroup.com/2008/11/design-tip-107-using-the-sql-merge-statement-for-slowly-changing-dimension-processing/)  [](https://www.kimballgroup.com/2008/08/slowly-changing-dimensions/)  [](https://www.kimballgroup.com/2008/09/slowly-changing-dimensions-part-2/)  [](https://www.kimballgroup.com/2013/02/design-tip-152-slowly-changing-dimension-types-0-4-5-6-7/)  [](https://www.kimballgroup.com/1998/05/surrogate-keys/) 

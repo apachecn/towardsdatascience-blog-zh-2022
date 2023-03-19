@@ -62,11 +62,7 @@
 
 如您所见，联邦学习克服了传统和分布式机器学习的许多缺点。重要的是，它提供用户数据保护，这是当今技术消费者的需求。FL 可以轻松处理数据多样性。它允许实时连续学习，并且对硬件资源不太费力。FL 开辟了许多跨领域的新模型开发机会。那么，你还在等什么？
 
-[](https://medium.com/@profsarang/membership) [## 通过我的推荐链接加入 Medium
-
-### 阅读 Poornachandra Sarang(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接…
-
-medium.com](https://medium.com/@profsarang/membership) 
+[](https://medium.com/@profsarang/membership)  
 
 # 信用
 

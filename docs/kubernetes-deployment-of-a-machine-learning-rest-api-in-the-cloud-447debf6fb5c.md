@@ -34,27 +34,15 @@ Kubectl :这是用于管理 Kubernetes 的命令行工具，用户通过它与 K
 
 **在 Linux 上安装 Kubectl**
 
-[](https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/) [## 在 Linux 上安装和设置 kubectl
-
-### 在开始之前，您必须使用与您的集群相差一个次要版本的 kubectl 版本。对于…
-
-kubernetes.io](https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/) 
+[](https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/)  
 
 **在 Windows 上安装 ku bectl**
 
-[](https://kubernetes.io/docs/tasks/tools/install-kubectl-windows/) [## 在 Windows 上安装和设置 kubectl
-
-### 在开始之前，您必须使用与您的集群相差一个次要版本的 kubectl 版本。对于…
-
-kubernetes.io](https://kubernetes.io/docs/tasks/tools/install-kubectl-windows/) 
+[](https://kubernetes.io/docs/tasks/tools/install-kubectl-windows/)  
 
 **在 MacOS 上安装 Kubectl**
 
-[](https://kubernetes.io/docs/tasks/tools/install-kubectl-macos/) [## 在 macOS 上安装和设置 kubectl
-
-### 在开始之前，您必须使用与您的集群相差一个次要版本的 kubectl 版本。对于…
-
-kubernetes.io](https://kubernetes.io/docs/tasks/tools/install-kubectl-macos/) 
+[](https://kubernetes.io/docs/tasks/tools/install-kubectl-macos/)  
 
 ## Kubernetes 的关键概念
 
@@ -110,21 +98,13 @@ Kubernetes 集群:它是服务器的组合，这些服务器相互作用以实�
 
 *创建一个免费的 azure 帐户:我们需要一个 Azure 帐户，以便能够在 Azure 上创建服务。当你创建一个 azure 帐户时，你将在第一个月免费使用 azure 服务。*
 
-*[](https://azure.microsoft.com/en-us/free/) [## 立即创建您的 Azure 免费帐户| Microsoft Azure
-
-### 观看各种 Azure 服务的运行，了解如何部署资源，并设想您的云计划。观看…
-
-azure.microsoft.com](https://azure.microsoft.com/en-us/free/) 
+*[](https://azure.microsoft.com/en-us/free/)  
 
 **安装 Azure CLI:** 我们需要 ***azure cli*** 这是在 Azure 账号上创建服务并与之交互的命令行工具。Azure cli 使得在 Azure 帐户上创建服务和与服务通信变得非常方便。
 
 按照以下教程中的说明安装 azure cli:
 
-[](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli) [## 如何安装 Azure CLI
-
-### Azure CLI 可安装在 Windows、macOS 和 Linux 环境中。它也可以在 Docker 中运行…
-
-docs.microsoft.com](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli) 
+[](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli)  
 
 **使用 Azure CLI 连接到 Azure:**当 ***azure cli*** 成功安装后，在命令行工具中使用此命令登录到您的 Azure 帐户。
 
@@ -361,19 +341,11 @@ pixellib-service LoadBalancer 10.0.7.173   20.88.171.40 80:30832/TCP**
 
 ****访问 PixelLibAPI github 库:****
 
-**[](https://github.com/ayoolaolafenwa/PixelLibAPI) [## GitHub-ayoolaolafenwa/PixelLibAPI
-
-### 在 GitHub 上创建一个帐户，为 ayoolaolafenwa/PixelLibAPI 的开发做出贡献。
-
-github.com](https://github.com/ayoolaolafenwa/PixelLibAPI) 
+**[](https://github.com/ayoolaolafenwa/PixelLibAPI)  
 
 **注意:**阅读我在 docker 上的文章，在那里我解释了 docker 的基础知识以及如何将机器学习 Rest API docker 化。
 
-[](/docker-in-pieces-353525ec39b0) [## 零碎的码头工人
-
-### 了解 docker 的基本概念、工作原理，以及如何使用 docker 构建机器学习 Rest APIs。
-
-towardsdatascience.com](/docker-in-pieces-353525ec39b0) 
+[](/docker-in-pieces-353525ec39b0)  
 
 **通过以下方式联系我:**
 

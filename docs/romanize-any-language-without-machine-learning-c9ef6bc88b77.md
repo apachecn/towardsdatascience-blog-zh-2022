@@ -164,10 +164,6 @@ For instance, the Chinese character “雨” (rain) will be romanized into “y
 
 *如果你喜欢这篇文章，支持我工作的最好方式就是使用我的链接成为一个媒体成员:*
 
-[](https://medium.com/@bnjmn_marie/membership) [## 通过我的推荐链接加入媒体-本杰明·玛丽
-
-### 阅读本杰明·玛丽(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-medium.com](https://medium.com/@bnjmn_marie/membership) 
+[](https://medium.com/@bnjmn_marie/membership)  
 
 *如果你已经是会员，想要支持这项工作，* [*就在 Medium*](https://medium.com/@bnjmn_marie) *上关注我吧。*

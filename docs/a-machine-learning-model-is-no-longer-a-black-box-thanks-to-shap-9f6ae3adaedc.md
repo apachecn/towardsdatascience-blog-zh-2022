@@ -273,14 +273,6 @@ print("Mean squared error: %.2f" % mean_squared_error(y_test, y_pred))
 
 # 相关文章
 
-[](/a-complete-data-analysis-workflow-in-python-pycaret-9a13c0fa51d4) [## Python PyCaret 中的完整数据分析工作流
-
-### 这是一个现成的教程，利用了我用过的最好的机器学习库。
-
-towardsdatascience.com](/a-complete-data-analysis-workflow-in-python-pycaret-9a13c0fa51d4) [](/automl-in-python-a-comparison-between-hyperopt-sklearn-and-tpot-8c12aaf7e829) [## Python 中的 AutoML:Hyperopt sk learn 和 TPOT 的比较
-
-### 两种流行的 Python AutoML 库的优缺点
-
-towardsdatascience.com](/automl-in-python-a-comparison-between-hyperopt-sklearn-and-tpot-8c12aaf7e829) [](/4-different-approaches-for-time-series-analysis-7e2364fadcb9) [## 4 种不同的时间序列分析方法
+[](/a-complete-data-analysis-workflow-in-python-pycaret-9a13c0fa51d4)  [](/automl-in-python-a-comparison-between-hyperopt-sklearn-and-tpot-8c12aaf7e829)  [](/4-different-approaches-for-time-series-analysis-7e2364fadcb9) [## 4 种不同的时间序列分析方法
 
 towardsdatascience.com](/4-different-approaches-for-time-series-analysis-7e2364fadcb9)

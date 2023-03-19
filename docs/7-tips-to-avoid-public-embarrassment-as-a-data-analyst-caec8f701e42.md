@@ -64,19 +64,7 @@
 
 如果你觉得“有趣”,可以看看我的其他文章:
 
-[](https://medium.com/@jolecoco/what-training-at-the-gym-teaches-you-about-training-models-931e5878dc14) [## 健身房的训练教会了你什么训练模型
-
-### TL；大卫:你有权衡，你需要找到适合你的平衡，⚖️
-
-medium.com](https://medium.com/@jolecoco/what-training-at-the-gym-teaches-you-about-training-models-931e5878dc14) [](/how-to-build-a-successful-dashboard-359c8cb0f610) [## 如何构建成功的仪表板
-
-### 一份清单，来自某个制造了几个不成功产品的人
-
-towardsdatascience.com](/how-to-build-a-successful-dashboard-359c8cb0f610) [](https://medium.com/@jolecoco/how-to-choose-which-data-projects-to-work-on-c6b8310ac04e) [## 如何…选择要处理的数据项目
-
-### 如果你有合理利用时间的方法，你可以优化你创造的价值。
-
-medium.com](https://medium.com/@jolecoco/how-to-choose-which-data-projects-to-work-on-c6b8310ac04e) 
+[](https://medium.com/@jolecoco/what-training-at-the-gym-teaches-you-about-training-models-931e5878dc14)  [](/how-to-build-a-successful-dashboard-359c8cb0f610)  [](https://medium.com/@jolecoco/how-to-choose-which-data-projects-to-work-on-c6b8310ac04e)  
 
 # 接下来
 

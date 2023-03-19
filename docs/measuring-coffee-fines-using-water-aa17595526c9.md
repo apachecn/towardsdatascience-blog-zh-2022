@@ -10,11 +10,7 @@
 
 通过我的强制微粒迁移实验，我能够推出所有比过滤篮孔更细的微粒。我想我可以干燥样品，更好地测量粉末。
 
-[](https://youtube.com/shorts/G1VYGoUsDo4) [## 浓缩咖啡实验的远景
-
-### 编辑描述
-
-youtube.com](https://youtube.com/shorts/G1VYGoUsDo4) 
+[](https://youtube.com/shorts/G1VYGoUsDo4)  
 
 # 冰球准备
 

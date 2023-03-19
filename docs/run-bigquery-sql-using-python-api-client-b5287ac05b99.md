@@ -359,28 +359,4 @@ printenv GOOGLE_APPLICATION_CREDENTIALS
 
 # 有用的资源
 
-[](https://github.com/googleapis/python-bigquery/) [## GitHub-Google API/python-big query
-
-### 如果没有合适的硬件和基础设施，查询海量数据集既耗时又昂贵。谷歌…
-
-github.com](https://github.com/googleapis/python-bigquery/)  [## 谷歌云大查询
-
-### 截至 2020 年 1 月 1 日，本库不再支持最新发布版本的 Python 2。库版本…
-
-googleapis.dev](https://googleapis.dev/python/bigquery/latest/index.html) [](https://cloud.google.com/bigquery/docs/reference/libraries#client-libraries-install-python) [## BigQuery API 客户端库|谷歌云
-
-### 有关更多信息，请参见设置 Java 开发环境。如果您正在使用 Maven，请将以下内容添加到您的…
-
-cloud.google.com](https://cloud.google.com/bigquery/docs/reference/libraries#client-libraries-install-python) [](https://codelabs.developers.google.com/codelabs/cloud-bigquery-python#0) [## 使用 Python | Google Codelabs 的 BigQuery
-
-### BigQuery 是 Google 完全托管的、Pb 级的低成本分析数据仓库。BigQuery 是 NoOps-没有…
-
-codelabs.developers.google.com](https://codelabs.developers.google.com/codelabs/cloud-bigquery-python#0) [](https://cloud.google.com/apis/design/errors) [## 错误|云 APIs |谷歌云
-
-### 本章概述了 Google APIs 的错误模型。它还为开发人员提供了一般指导…
-
-cloud.google.com](https://cloud.google.com/apis/design/errors)  [## 管理环境—康达开发文档
-
-### 使用 conda，您可以创建、导出、列出、删除和更新具有不同版本 Python 和/或的环境
-
-docs.conda.io](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands)
+[](https://github.com/googleapis/python-bigquery/)    [](https://cloud.google.com/bigquery/docs/reference/libraries#client-libraries-install-python)  [](https://codelabs.developers.google.com/codelabs/cloud-bigquery-python#0)  [](https://cloud.google.com/apis/design/errors)   

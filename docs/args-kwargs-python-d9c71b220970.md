@@ -164,24 +164,8 @@ def execution_time(func): @functools.wraps(func)
 
 **[**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。****
 
-**[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership)** 
+**[](https://gmyrianthous.medium.com/membership) ** 
 
 ****你可能也会喜欢****
 
-**[](/pycache-python-991424aabad8) [## Python 中 __pycache__ 是什么？
-
-### 了解运行 Python 代码时创建的 __pycache__ 文件夹
-
-towardsdatascience.com](/pycache-python-991424aabad8)** **[](/python-gil-e63f18a08c65) [## 什么是 Python 全局解释器锁(GIL)？
-
-### 理解 Python 中全局解释器锁的用途以及它如何影响多线程
-
-towardsdatascience.com](/python-gil-e63f18a08c65)** **[](/duck-typing-python-7aeac97e11f8) [## Python 中的鸭式打字是什么？
-
-### 理解动态类型编程语言(如 Python)中鸭类型的概念
-
-towardsdatascience.com](/duck-typing-python-7aeac97e11f8)**
+**[](/pycache-python-991424aabad8) ** **[](/python-gil-e63f18a08c65) ** **[](/duck-typing-python-7aeac97e11f8) **

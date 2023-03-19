@@ -163,19 +163,7 @@ from sqlalchemy import create_engine***
 
 ## ***来源***
 
- ***[## Python -雪花文档的雪花连接器
-
-### Python 的雪花连接器为开发 Python 应用程序提供了一个接口，该应用程序可以连接到…
-
-docs.snowflake.com](https://docs.snowflake.com/en/user-guide/python-connector.html)***  ***[## Python 连接器 API -雪花文档
-
-### 字符串常量，表示接口预期的参数标记格式的类型。连接器支持…
-
-docs.snowflake.com](https://docs.snowflake.com/en/user-guide/python-connector-api.html)***  ***[## 使用带有 Python 连接器的雪花 SQLAlchemy 工具包-雪花文档
-
-### 雪花 SQLAlchemy 运行在 Python 的雪花连接器之上，作为一种方言来桥接雪花数据库…
-
-docs.snowflake.com](https://docs.snowflake.com/en/user-guide/sqlalchemy.html)*** 
+ ******  ******  ****** 
 
 # ***给我的读者一个提示***
 

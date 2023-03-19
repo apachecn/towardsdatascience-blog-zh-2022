@@ -179,11 +179,7 @@ make setup
 
 由于 Git 对于二进制文件的版本控制并不理想，我们使用 DVC——数据版本控制来对我们的数据和模型进行版本控制。
 
-[](/introduction-to-dvc-data-version-control-tool-for-machine-learning-projects-7cb49c229fe0) [## DVC 介绍:机器学习项目的数据版本控制工具
-
-### 就像 Git 一样，但是有数据！
-
-towardsdatascience.com](/introduction-to-dvc-data-version-control-tool-for-machine-learning-projects-7cb49c229fe0) 
+[](/introduction-to-dvc-data-version-control-tool-for-machine-learning-projects-7cb49c229fe0)  
 
 我们在`dvc.yaml`文件中指定了 DVC 阶段。每个阶段代表单独的数据过程，包括它们的输入(`deps`)和结果输出(`outs`)。
 
@@ -228,11 +224,7 @@ git push origin <branch>
 
 然而，在提交代码之前检查所有这些标准可能会让人不知所措。预提交是一个框架，允许您在提交代码之前识别代码中的简单问题。
 
-[](/4-pre-commit-plugins-to-automate-code-reviewing-and-formatting-in-python-c80c6d2e9f5) [## 4 个预提交插件，用于在 Python 中自动检查和格式化代码
-
-### 使用 black、flake8、isort 和 interrogate 编写高质量的代码
-
-towardsdatascience.com](/4-pre-commit-plugins-to-automate-code-reviewing-and-formatting-in-python-c80c6d2e9f5) 
+[](/4-pre-commit-plugins-to-automate-code-reviewing-and-formatting-in-python-c80c6d2e9f5)  
 
 您可以在预提交管道中添加不同的插件。一旦你的文件被提交，它们将被这些插件检查。除非通过所有检查，否则不会提交任何代码。
 
@@ -297,30 +289,10 @@ make docs_save
 
 请随意使用这里的数据科学模板:
 
-[](https://github.com/khuyentran1401/data-science-template) [## GitHub-khuyentran 1401/data-science-Template:数据科学项目的模板
-
-### 这个存储库是数据科学项目的模板。这是我经常用于数据的项目结构…
-
-github.com](https://github.com/khuyentran1401/data-science-template) 
+[](https://github.com/khuyentran1401/data-science-template)  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的数据科学工具。你可以在 LinkedIn 和 Twitter 上与我联系。
 
 如果你想查看我写的文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/dagshub-a-github-supplement-for-data-scientists-and-ml-engineers-9ecaf49cc505) [## Dag shub:GitHub 对数据科学家和 ML 工程师的补充
-
-### 将您的数据、模型、实验和代码保存在一个地方
-
-towardsdatascience.com](/dagshub-a-github-supplement-for-data-scientists-and-ml-engineers-9ecaf49cc505) [](/introduction-to-weight-biases-track-and-visualize-your-machine-learning-experiments-in-3-lines-9c9553b0f99d) [## 权重和偏差介绍:用 3 条线跟踪和可视化你的机器学习实验…
-
-### 无缝比较不同的实验，并使用 Python 重现您的机器学习实验
-
-towardsdatascience.com](/introduction-to-weight-biases-track-and-visualize-your-machine-learning-experiments-in-3-lines-9c9553b0f99d) [](/pytest-for-data-scientists-2990319e55e6) [## 数据科学家 Pytest
-
-### 适用于您的数据科学项目的 Pytest 综合指南
-
-towardsdatascience.com](/pytest-for-data-scientists-2990319e55e6) [](/orchestrate-a-data-science-project-in-python-with-prefect-e69c61a49074) [## 用 Prefect 编制 Python 中的数据科学项目
-
-### 用几行代码优化您的数据科学工作流程
-
-towardsdatascience.com](/orchestrate-a-data-science-project-in-python-with-prefect-e69c61a49074)
+[](/dagshub-a-github-supplement-for-data-scientists-and-ml-engineers-9ecaf49cc505)  [](/introduction-to-weight-biases-track-and-visualize-your-machine-learning-experiments-in-3-lines-9c9553b0f99d)  [](/pytest-for-data-scientists-2990319e55e6)  [](/orchestrate-a-data-science-project-in-python-with-prefect-e69c61a49074) 

@@ -48,11 +48,7 @@ xAI 的*计算*挑战来自于计算度量的机制，如 [**Shapley 值**](http
 
 我写了一篇文章，介绍了如何构建一个单一的效用函数，通过训练图像存储位置的一个输入来训练一个完整的卷积神经网络模型。
 
-[](/a-single-function-to-streamline-image-classification-with-keras-bd04f5cfe6df) [## 使用 Keras 简化影像分类的单一功能
-
-### 我们展示了如何构建一个单一的、通用的、实用的函数来从一个目录中自动提取图像…
-
-towardsdatascience.com](/a-single-function-to-streamline-image-classification-with-keras-bd04f5cfe6df) 
+[](/a-single-function-to-streamline-image-classification-with-keras-bd04f5cfe6df)  
 
 这里是[笔记本](https://github.com/tirthajyoti/Deep-learning-with-Python/blob/master/Notebooks/Keras_flow_from_directory.ipynb)。其中一个例子是关于著名的 [**Caltech-101 数据集**](https://www.tensorflow.org/datasets/catalog/caltech101) 中“杯子”或“螃蟹”的分类。让我问你——读者——对测试图像进行分类。
 
@@ -124,11 +120,7 @@ towardsdatascience.com](/a-single-function-to-streamline-image-classification-wi
 
 出生于奥地利的美国机器人专家和计算机科学家汉斯·莫拉维克 ，目前是卡耐基梅隆大学[机器人研究所](https://www.ri.cmu.edu/)的兼职教师，用一种稍微不同的方式表达了这一点——“让计算机在智力测试或玩跳棋时表现出成人水平的表现相对容易，而在感知和移动性方面，很难或不可能让它们拥有一岁儿童的技能”。
 
-[](/why-math-is-easy-for-ai-but-gardening-is-not-moravecs-paradox-99994b201d10) [## 为什么数学对人工智能来说很容易，但园艺却不容易:莫拉维克悖论
-
-### 对于人工智能来说，进行高级推理很容易，但获得像样的运动技能却非常困难。
-
-towardsdatascience.com](/why-math-is-easy-for-ai-but-gardening-is-not-moravecs-paradox-99994b201d10) 
+[](/why-math-is-easy-for-ai-but-gardening-is-not-moravecs-paradox-99994b201d10)  
 
 所有这一切都是说，人类评估者可以很好地完成对象分类工作，但使用表格数据集进行二进制分类会惨败。
 
@@ -209,8 +201,4 @@ towardsdatascience.com](/why-math-is-easy-for-ai-but-gardening-is-not-moravecs-p
 
 喜欢这篇文章吗？成为 [***中等会员***](https://medium.com/@tirthajyoti/membership) *继续* ***无限制学习*** *。如果您使用以下链接，* ***，我将收取您的一部分会员费，而不会对您产生额外费用*** *。*
 
-[](https://medium.com/@tirthajyoti/membership) [## 通过我的推荐链接加入媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@tirthajyoti/membership)
+[](https://medium.com/@tirthajyoti/membership) 

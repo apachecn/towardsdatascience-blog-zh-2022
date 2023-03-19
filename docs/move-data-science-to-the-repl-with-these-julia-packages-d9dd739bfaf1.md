@@ -20,11 +20,7 @@
 
 我想在这个列表中展示的第一个包是 UnicodePlots.jl。该软件包有一套通用的功能，客观上真的很酷。该模块具有各种统计和其他可视化功能，这意味着如果他们真的想的话，甚至可以完全在 REPL 外工作并进行数据科学研究。如果您想进一步了解如何实际使用该模块，我有一篇完整的文章，您可以在这里阅读:
 
-[](/create-fast-versatile-visualizations-with-julias-unicode-plots-8750bb7d7450) [## 使用 Julia 的 Unicode 绘图创建快速、通用的可视化效果
-
-### Julia 的 UnicodePlots.jl 包中令人敬畏的特性概述
-
-towardsdatascience.com](/create-fast-versatile-visualizations-with-julias-unicode-plots-8750bb7d7450) 
+[](/create-fast-versatile-visualizations-with-julias-unicode-plots-8750bb7d7450)  
 
 关于这个模块，我注意到了几件事。首先，假设可视化是 Unicode 的，它们比典型的可视化更加通用。首先，阅读和重新解释这些数据要容易得多。更进一步说，这可以在任何可以使用文本的地方使用，基本上是在任何地方。这意味着您可以在 REPL 或任何可以打印文本的地方可视化您的数据。在正常情况下，为了查看可视化效果，您需要显示一个图像。这意味着通过 REPL 和其他基于文本的解决方案，通过可视化进行分析是完全可能的。
 

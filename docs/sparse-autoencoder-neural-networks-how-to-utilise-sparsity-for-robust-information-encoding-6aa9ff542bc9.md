@@ -163,11 +163,7 @@ New shape of X_test:  (10000, 784)
 
 **如果你不是中级会员**并且想继续阅读成千上万伟大作家的文章，你可以使用我下面的个性化链接加入:
 
-[](https://bit.ly/3J6StZI) [## 通过我的推荐链接加入 Medium 索尔·多比拉斯
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-solclover.com/membership](https://bit.ly/3J6StZI) 
+[](https://bit.ly/3J6StZI)  
 
 如果您有任何问题或建议，请随时联系我们！
 

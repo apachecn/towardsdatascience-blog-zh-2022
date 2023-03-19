@@ -92,24 +92,8 @@ SQL 中带有 DISTINCT ON 子句的示例—来源:作者
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership) 
+[](https://gmyrianthous.medium.com/membership)  
 
 **相关文章你可能也喜欢**
 
-[](/ddl-dml-e802a25076c6) [## DDL 和 DML 是什么？
-
-### 理解 SQL 中 DDL 和 DML 的区别
-
-towardsdatascience.com](/ddl-dml-e802a25076c6) [](/star-schema-924b995a9bdf) [## 事实与维度表
-
-### 在星型模式和数据仓库的上下文中理解事实表和维度表之间的区别
-
-towardsdatascience.com](/star-schema-924b995a9bdf) [](/standard-vs-legacy-sql-bigquery-6d01fa3046a9) [## BigQuery 中的标准 SQL 与传统 SQL
-
-### 理解标准 SQL 和遗留 SQL 在 Google Cloud BigQuery 环境中的区别
-
-towardsdatascience.com](/standard-vs-legacy-sql-bigquery-6d01fa3046a9)
+[](/ddl-dml-e802a25076c6)  [](/star-schema-924b995a9bdf)  [](/standard-vs-legacy-sql-bigquery-6d01fa3046a9) 

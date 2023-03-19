@@ -32,11 +32,7 @@
 
 因此，这并不奇怪，但大多数组织都在与低质量的数据作斗争。规划数据项目交付时，必须包括数据分析和补救时间。99%的情况下，数据的质量低于标准，需要一些人工或机器干预来解决。
 
-[](/top-15-most-common-data-quality-issues-and-how-to-fix-them-c1ef0854dca6) [## 15 个最常见的数据质量问题(以及如何解决它们)
-
-### 处理常见数据质量问题的提示和技巧
-
-towardsdatascience.com](/top-15-most-common-data-quality-issues-and-how-to-fix-them-c1ef0854dca6) 
+[](/top-15-most-common-data-quality-issues-and-how-to-fix-them-c1ef0854dca6)  
 
 ## 4.在风险成为问题之前，没有人会关心风险
 
@@ -88,11 +84,7 @@ towardsdatascience.com](/top-15-most-common-data-quality-issues-and-how-to-fix-t
 
 如果您想了解数据架构的趋势，请查看这篇文章:
 
-[](/top-5-data-architecture-trends-and-what-they-mean-for-you-ef7c07bfa755) [## 五大数据架构趋势(以及它们对您的意义)
-
-### 这只是炒作，还是也有学问？
-
-towardsdatascience.com](/top-5-data-architecture-trends-and-what-they-mean-for-you-ef7c07bfa755) 
+[](/top-5-data-architecture-trends-and-what-they-mean-for-you-ef7c07bfa755)  
 
 如果您没有订阅 Medium，请考虑使用我的推荐链接订阅[。它比网飞便宜，而且客观上能更好地利用你的时间。](https://hanzalaqureshi.medium.com/membership)如果你使用我的链接，我会获得一小笔佣金，而你可以在 Medium 上获得无限的故事。
 

@@ -8,11 +8,7 @@
 
 Python decorator 是帮助我们高效编码的非常有用的工具。正如我在上一篇文章中提到的，高效编码是我成为更好的数据科学家所遵循的原则之一:
 
-[](/seven-principals-i-follow-to-be-a-better-data-scientist-25a547d6acfc) [## 成为更好的数据科学家我遵循的七条原则
-
-### 树立我的北极星
-
-towardsdatascience.com](/seven-principals-i-follow-to-be-a-better-data-scientist-25a547d6acfc) 
+[](/seven-principals-i-follow-to-be-a-better-data-scientist-25a547d6acfc)  
 
 在本文中，我想揭示 Python decorators 的用例，并讨论它们如何对您的日常编程任务有所帮助。
 
@@ -102,32 +98,16 @@ def ensure_ceiling_cache(func):
 
 还有我的文章如果感兴趣的话:
 
-[](https://zzhu17.medium.com/my-blog-posts-gallery-ac6e01fe5cc3) [## 我的博客文章库
-
-### 我快乐的地方
-
-zzhu17.medium.com](https://zzhu17.medium.com/my-blog-posts-gallery-ac6e01fe5cc3) 
+[](https://zzhu17.medium.com/my-blog-posts-gallery-ac6e01fe5cc3)  
 
 订阅我的电子邮件列表:
 
-[](https://zzhu17.medium.com/subscribe) [## 每当朱发表。
-
-### 每当朱发表。感谢您的阅读！通过订阅保持对我的故事的更新！由…
-
-zzhu17.medium.com](https://zzhu17.medium.com/subscribe) 
+[](https://zzhu17.medium.com/subscribe)  
 
 注册成为中级会员:
 
-[](https://zzhu17.medium.com/membership) [## 请通过我的推荐链接朱加入媒体
-
-### 阅读朱(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-zzhu17.medium.com](https://zzhu17.medium.com/membership) 
+[](https://zzhu17.medium.com/membership)  
 
 或者在 YouTube 上关注我:
 
-[](https://youtube.com/channel/UCMs6go1pvY5OOy1DXVtMo5A) [## 朱
-
-### 你好。欢迎来到我的 Youtube 频道！！！我想用这个空间来分享我的生活、观点、建议和有趣的东西…
-
-youtube.com](https://youtube.com/channel/UCMs6go1pvY5OOy1DXVtMo5A)
+[](https://youtube.com/channel/UCMs6go1pvY5OOy1DXVtMo5A) 

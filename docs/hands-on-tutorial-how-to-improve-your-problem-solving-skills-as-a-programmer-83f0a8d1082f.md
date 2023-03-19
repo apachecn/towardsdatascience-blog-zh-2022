@@ -280,8 +280,4 @@ abcdefghijklmnopqrstuvwxyz **"**
 
 已经是会员了？[订阅](https://kurtispykes.medium.com/subscribe)在我发布时得到通知。
 
-[](https://kurtispykes.medium.com/subscribe) [## 每当 Kurtis Pykes 发表文章时都收到一封电子邮件。
-
-### 每当 Kurtis Pykes 发表文章时都收到一封电子邮件。通过注册，您将创建一个中型帐户，如果您还没有…
-
-kurtispykes.medium.com](https://kurtispykes.medium.com/subscribe)
+[](https://kurtispykes.medium.com/subscribe) 

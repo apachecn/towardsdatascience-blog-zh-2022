@@ -67,11 +67,7 @@ Philippe Oursel 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium
 
 *我们将使用的应用程序基于一个早期的项目，在该项目中，我们构建了一个端到端的 ML 管道，以**对购买额外车辆保险的可能性较高的健康保险客户进行分类**(即交叉销售)。*
 
-*[](/end-to-end-automl-train-and-serve-with-h2o-mlflow-fastapi-and-streamlit-5d36eedfe606) [## H2O AutoML、MLflow、FastAPI 和 Streamlit 的端到端 AutoML 管道
-
-### 关于使用一系列功能强大的工具来培训和服务 AutoML 管道的简单易懂的综合指南
-
-towardsdatascience.com](/end-to-end-automl-train-and-serve-with-h2o-mlflow-fastapi-and-streamlit-5d36eedfe606) 
+*[](/end-to-end-automl-train-and-serve-with-h2o-mlflow-fastapi-and-streamlit-5d36eedfe606)  
 
 我们将不讨论管道构建，因此请参考上面的文章了解详细信息。
 
@@ -226,11 +222,7 @@ towardsdatascience.com](/end-to-end-automl-train-and-serve-with-h2o-mlflow-fasta
 
 ***虽然我想演示这个云部署，但是 Docker 文档已经很好地解释了在 Amazon ECS 上部署 Docker 容器。***
 
-***[](https://docs.docker.com/cloud/ecs-integration/) [## 在 ECS 上部署 Docker 容器
-
-### Docker Compose CLI 使开发人员能够使用本地 Docker 命令在 Amazon ECS 中运行应用程序
-
-docs.docker.com](https://docs.docker.com/cloud/ecs-integration/) 
+***[](https://docs.docker.com/cloud/ecs-integration/)  
 
 尽管如此，我打算很快就这个项目在其他云平台上的部署写一个指南，所以请继续关注这个中型页面！*** 
 
@@ -244,16 +236,4 @@ docs.docker.com](https://docs.docker.com/cloud/ecs-integration/)
 
 ***欢迎您**加入我的数据科学学习之旅！**点击此[媒体](https://kennethleungty.medium.com/)页面，查看我的 [GitHub](https://github.com/kennethleungty) ，了解更多令人兴奋的数据科学内容。同时，祝你的 ML 应用程序归档愉快！***
 
-***[](/build-an-anomaly-detection-pipeline-with-isolation-forest-and-kedro-db5f4437bfab) [## 使用隔离林和 Kedro 构建异常检测管道
-
-### 开发和管理用于检测欺诈性信用卡交易的数据科学管道
-
-towardsdatascience.com](/build-an-anomaly-detection-pipeline-with-isolation-forest-and-kedro-db5f4437bfab) [](/micro-macro-weighted-averages-of-f1-score-clearly-explained-b603420b292f) [## F1 分数的微观、宏观和加权平均值，解释清楚
-
-### 理解 F1 分数的微观平均值、宏观平均值和加权平均值背后的概念
-
-towardsdatascience.com](/micro-macro-weighted-averages-of-f1-score-clearly-explained-b603420b292f) [](https://kennethleungty.medium.com/membership) [## 通过我的推荐链接加入媒体-梁建华
-
-### 作为一个媒体会员，你的会员费的一部分给了你阅读的作家，你可以完全阅读肯尼斯写的每一个故事
-
-kennethleungty.medium.com](https://kennethleungty.medium.com/membership)***
+***[](/build-an-anomaly-detection-pipeline-with-isolation-forest-and-kedro-db5f4437bfab)  [](/micro-macro-weighted-averages-of-f1-score-clearly-explained-b603420b292f)  [](https://kennethleungty.medium.com/membership) ***

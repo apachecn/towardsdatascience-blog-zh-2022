@@ -186,11 +186,7 @@
 
 如果你是中级新手，可以考虑使用下面的我的推荐链接订阅👇
 
-[](https://medium.com/@andreasmartinson/membership) [## 加入 Medium 并通过我的推荐链接支持我
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@andreasmartinson/membership) 
+[](https://medium.com/@andreasmartinson/membership)  
 
 ## 参考
 

@@ -20,11 +20,7 @@
 
 我们最近发表在《美国计算机学会管理信息系统汇刊》( TMIS)上的一项研究显示了图表分析在识别新冠肺炎疫情的持久影响方面的潜力。你可以在这里阅读原文:
 
-[](https://doi.org/10.1145/3564274) [## 在新冠肺炎疫情之前和期间，在美国医院检查疾病多病性
-
-### 新冠肺炎疫情对医疗保健系统的持久影响可以通过识别疾病模式来预防…
-
-doi.org](https://doi.org/10.1145/3564274) 
+[](https://doi.org/10.1145/3564274)  
 
 我们开发了一个图表分析框架来调查新冠肺炎疫情之前和期间患者中多种疾病的同时发生，称为疾病多病性。通过分析电子健康记录(EHRs)数据，我们能够确定可用于检测病毒长期影响的模式和结构。
 
@@ -40,11 +36,7 @@ doi.org](https://doi.org/10.1145/3564274)
 
 如果你对如何得到疾病网络的节点和边的嵌入向量感兴趣，请参考下面的博客:
 
-[](https://medium.com/analytics-vidhya/analyzing-disease-co-occurrence-using-networkx-gephi-and-node2vec-53941da35a0f) [## 使用 NetworkX、Gephi 和 Node2Vec 分析疾病共现
-
-### 分析 ICU 患者的电子健康记录(EHR)并开发机器学习模型
-
-medium.com](https://medium.com/analytics-vidhya/analyzing-disease-co-occurrence-using-networkx-gephi-and-node2vec-53941da35a0f) 
+[](https://medium.com/analytics-vidhya/analyzing-disease-co-occurrence-using-networkx-gephi-and-node2vec-53941da35a0f)  
 
 # 指数随机图模型的解释性建模
 
@@ -103,11 +95,7 @@ summary(model)
 
 如果你有兴趣学习如何操作 R 中的网络，请阅读这里:
 
-[](/network-analysis-in-r-manipulating-network-data-ee388fba7215) [## 操作网络数据的网络分析
-
-### 在 r 中使用 igraph 执行网络分析和操作网络数据。
-
-towardsdatascience.com](/network-analysis-in-r-manipulating-network-data-ee388fba7215) 
+[](/network-analysis-in-r-manipulating-network-data-ee388fba7215)  
 
 # 结论
 
@@ -121,20 +109,4 @@ towardsdatascience.com](/network-analysis-in-r-manipulating-network-data-ee388fb
 
 # **相关阅读**
 
-[](/network-analysis-in-r-manipulating-network-data-ee388fba7215) [## 操作网络数据的网络分析
-
-### 在 r 中使用 igraph 执行网络分析和操作网络数据。
-
-towardsdatascience.com](/network-analysis-in-r-manipulating-network-data-ee388fba7215) [](https://medium.com/mlearning-ai/implementation-of-latent-network-models-visualize-network-data-in-r-b25c42f6d95a) [## 实现潜在网络模型并在 R 中可视化网络数据
-
-### 一类统计模型——LNMs 在 R 中使用的代码演示
-
-medium.com](https://medium.com/mlearning-ai/implementation-of-latent-network-models-visualize-network-data-in-r-b25c42f6d95a) [](/visualize-high-dimensional-network-data-with-3d-360-degree-animated-scatter-plot-d583932d3693) [## 使用 3D 360 度动画散点图可视化高维网络数据
-
-### 使用 node2vec，networkx，pca，seaborn 等。可视化高维网络数据
-
-towardsdatascience.com](/visualize-high-dimensional-network-data-with-3d-360-degree-animated-scatter-plot-d583932d3693) [](/networkx-code-demo-for-manipulating-subgraphs-e45320581d13) [## 操作子图的代码演示
-
-### 使用 NetworkX 将加权边列表转换为图，可视化图，并执行子图比较。
-
-towardsdatascience.com](/networkx-code-demo-for-manipulating-subgraphs-e45320581d13)
+[](/network-analysis-in-r-manipulating-network-data-ee388fba7215)  [](https://medium.com/mlearning-ai/implementation-of-latent-network-models-visualize-network-data-in-r-b25c42f6d95a)  [](/visualize-high-dimensional-network-data-with-3d-360-degree-animated-scatter-plot-d583932d3693)  [](/networkx-code-demo-for-manipulating-subgraphs-e45320581d13) 

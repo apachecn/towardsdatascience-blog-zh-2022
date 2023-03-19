@@ -14,19 +14,7 @@
 
 如果您错过了之前的任何研讨会，您可以在这里找到:
 
-[](/a-practical-introduction-to-kmeans-clustering-using-scikit-learn-fd9cff95144b) [## 使用 scikit-learn 进行 Kmeans 聚类的实用介绍
-
-### UCL 数据科学学会研讨会 16:什么是 Kmeans 集群、实现、评估和解释
-
-towardsdatascience.com](/a-practical-introduction-to-kmeans-clustering-using-scikit-learn-fd9cff95144b) [](/a-practical-introduction-to-support-vector-machines-from-scikit-learn-6e678cf1f228) [## 来自 scikit-learn 的支持向量机实用介绍
-
-### UCL 数据科学学会研讨会 15:什么是支持向量机，如何实现它们，以及如何评估它们
-
-towardsdatascience.com](/a-practical-introduction-to-support-vector-machines-from-scikit-learn-6e678cf1f228) [](https://python.plainenglish.io/a-practical-introduction-to-random-forest-classifiers-from-scikit-learn-536e305d8d87) [## scikit-learn 中随机森林分类器的实用介绍
-
-### UCL 数据科学学会研讨会 14:什么是随机森林分类器、实现、评估和改进
-
-python .平原英语. io](https://python.plainenglish.io/a-practical-introduction-to-random-forest-classifiers-from-scikit-learn-536e305d8d87) 
+[](/a-practical-introduction-to-kmeans-clustering-using-scikit-learn-fd9cff95144b)  [](/a-practical-introduction-to-support-vector-machines-from-scikit-learn-6e678cf1f228)  [](https://python.plainenglish.io/a-practical-introduction-to-random-forest-classifiers-from-scikit-learn-536e305d8d87)  
 
 **什么是层次聚类？**
 
@@ -183,24 +171,8 @@ insta gram:https://www.instagram.com/ucl.datasci/
 
 如果你想了解 UCL 数据科学协会和其他优秀作者的最新信息，请使用我下面的推荐代码注册 medium。
 
-[](https://philip-wilkinson.medium.com/membership) [## 通过我的推荐链接加入媒体-菲利普·威尔金森
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-philip-wilkinson.medium.com](https://philip-wilkinson.medium.com/membership) 
+[](https://philip-wilkinson.medium.com/membership)  
 
 或者在媒体上查看我的其他商店，例如:
 
-[](/an-introduction-to-sql-for-data-scientists-e3bb539decdf) [## 数据科学家的 SQL 介绍
-
-### UCL 数据科学学会工作坊 9:什么是 SQL，选择数据，查询数据，汇总统计，分组数据和…
-
-towardsdatascience.com](/an-introduction-to-sql-for-data-scientists-e3bb539decdf) [](/git-and-github-basics-for-data-scientists-b9fd96f8a02a) [## 面向数据科学家的 Git 和 GitHub 基础知识
-
-### UCL 数据科学研讨会 8:什么是 Git，创建本地存储库，提交第一批文件，链接到远程…
-
-towardsdatascience.com](/git-and-github-basics-for-data-scientists-b9fd96f8a02a) [](/multi-variate-outlier-detection-in-python-e900a338da10) [## Python 中的多变量异常检测
-
-### 能够检测数据集中异常值/异常值的六种方法
-
-towardsdatascience.com](/multi-variate-outlier-detection-in-python-e900a338da10)
+[](/an-introduction-to-sql-for-data-scientists-e3bb539decdf)  [](/git-and-github-basics-for-data-scientists-b9fd96f8a02a)  [](/multi-variate-outlier-detection-in-python-e900a338da10) 

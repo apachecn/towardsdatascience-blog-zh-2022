@@ -101,11 +101,7 @@ Vision API 具有解决大多数常见图像处理问题的功能。继续之前
 
 文章的第二部分也是最后一部分现已发表。请在下面找到它
 
-[](https://medium.com/@subrahmanyajoshi123/using-google-cloud-machine-learning-apis-programmatically-in-python-part-2-8867d272edf0) [## 用 python 编程使用 Google Cloud 机器学习 APIs 第 2 部分
-
-### 了解如何在 python 中以编程方式使用 Google Cloud 的高度精确的机器学习 API。
-
-medium.com](https://medium.com/@subrahmanyajoshi123/using-google-cloud-machine-learning-apis-programmatically-in-python-part-2-8867d272edf0) 
+[](https://medium.com/@subrahmanyajoshi123/using-google-cloud-machine-learning-apis-programmatically-in-python-part-2-8867d272edf0)  
 
 **更新二:**
 

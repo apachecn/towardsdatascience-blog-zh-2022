@@ -14,11 +14,7 @@
 
 尽管有一些细微的差别，并且缺乏关于 Julia 元编程的全面教程，Julian 系统实际上真的很棒。如果你碰巧有过其他语言的元编程经验，这个实现可能会让你感到惊讶和兴奋，因为我认为 Julia 处理这个的方式非常棒，就像 Julia 中的许多其他特性一样！如果您想更深入地了解我在本文中使用的代码和数据代码，这里有一个链接指向我在本文中使用的笔记本！：
 
-[](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/Julia%20metaprogramming.ipynb) [## Emmetts-DS-NoteBooks/Julia meta programming . ipynb at master emmett GB/Emmetts-DS-NoteBooks
-
-### 各种项目的随机笔记本。通过创建帐户，为 emmettgb/Emmetts-DS 笔记本电脑的开发做出贡献…
-
-github.com](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/Julia%20metaprogramming.ipynb) 
+[](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/Julia%20metaprogramming.ipynb)  
 
 > 顺便说一下，这个存储库非常庞大，现在总共包含 132 个项目。那可是好多笔记本啊！
 
@@ -52,11 +48,7 @@ getfield(Main, :x)5
 
 我有一整篇关于 getfield 和 Julian 自省主题的文章，如果这不是很有意义，或者可能有人想了解更多关于这种方法和其他类似方法的信息，那么它可能值得一读:
 
-[](/runtime-introspection-julias-most-powerful-best-kept-secret-bf845e282367) [## 运行时自省:Julia 最强大、保守得最好的秘密
-
-### 在 Julia 中使用内省处理类型
-
-towardsdatascience.com](/runtime-introspection-julias-most-powerful-best-kept-secret-bf845e282367) 
+[](/runtime-introspection-julias-most-powerful-best-kept-secret-bf845e282367)  
 
 # 公式
 
@@ -103,11 +95,7 @@ println("Hello World!")
 
 从最终用户的角度来看，将常规代码与这些表达式联系起来的是宏。宏允许我们计算 10，或\n，或 return 之前的所有内容，无论你想在运行中调用什么，然后处理这个表达式。这里有一些有趣的细微差别，老实说，有些你无法从阅读 Julia 文档中找到——我认为这是不幸的，所以我将为你提供一些关于宏的信息，以及一种有趣的方法来查看 Julia，如果这是使用方法错误的情况。此外，如果不把这一节写得很长，我就不可能表达关于宏语法和插值的每一件事情，所以如果你想了解更多关于宏的知识，这里有一个关于宏的 Julia 文档的链接:
 
- [## 元编程
-
-### Julia 语言中 Lisp 最强的遗产是它的元编程支持。像 Lisp 一样，Julia 代表它自己的…
-
-docs.julialang.org](https://docs.julialang.org/en/v1/manual/metaprogramming/#man-macros) 
+  
 
 无论如何，让我们定义一个我们可以使用的宏。如你所料，我们只需使用关键字宏就可以做到。除此之外，宏的结构通常很像函数，尽管你绝对不应该使用宏作为函数，我们将在创建一个宏之后解释为什么会这样。我们的宏将被用来打印出一个循环要进行多长时间。这样，我们可以很好地了解如何使用宏来修改语法，但也不会太深入，以至于在我们进入下一个更复杂的代码部分之前我会失去你。为了证明我之前所说的，我们无法从文档中获得的信息，我将通过提供宏无法接收的参数来故意导致方法错误。
 

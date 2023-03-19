@@ -66,11 +66,7 @@ RGN2 使用的“蛋白质语言”模型称为 AminoBERT，其灵感来自 Rive
 
 笔记本在这里:
 
-[](https://colab.research.google.com/github/aqlaboratory/rgn2/blob/master/rgn2_prediction.ipynb) [## 谷歌联合实验室
-
-### 编辑描述
-
-colab.research.google.com](https://colab.research.google.com/github/aqlaboratory/rgn2/blob/master/rgn2_prediction.ipynb) 
+[](https://colab.research.google.com/github/aqlaboratory/rgn2/blob/master/rgn2_prediction.ipynb)  
 
 我刚刚尝试过。
 
@@ -96,11 +92,7 @@ colab.research.google.com](https://colab.research.google.com/github/aqlaboratory
 
 从全球范围来看，语言模型在处理蛋白质序列问题(已经在 AlphaFold 2 中的一个类似 BERT 的模块中处理序列比对，并且也在化学和生物学的其他一些 ML 模型中使用)和蛋白质结构预测(特别是查看下一篇笔记和我即将发表的文章)方面的成功应用突出了语言模型在总体上的作用，远远超出了最初对使用它们处理自然语言的兴趣，就像今天由 GPT-3 掌握的那样。
 
- [## 截至 2022 年 10 月我所有关于 GPT 3 的文章
-
-### 我最喜欢的语言模型以及如何在纯 JavaScript 和…
-
-lucianosphere.medium.com](https://lucianosphere.medium.com/all-my-articles-on-gpt-3-as-of-october-2022-10e95dcae199) 
+  
 
 # 最后请注意:Meta 在这方面与一个巨大的蛋白质语言模型竞争，在准确性和速度上挑战 AlphaFold 2
 
@@ -108,38 +100,18 @@ lucianosphere.medium.com](https://lucianosphere.medium.com/all-my-articles-on-gp
 
 # 进一步阅读
 
-[](https://github.com/aqlaboratory/rgn2) [## GitHub — aqlaboratory/rgn2
-
-### 这是递归几何网络-2 (RGN2)的参考实现，在论文单序列…
-
-github.com](https://github.com/aqlaboratory/rgn2) 
+[](https://github.com/aqlaboratory/rgn2)  
 
 《自然生物技术》的同行评议论文
 
-[](https://www.nature.com/articles/s41587-022-01432-w) [## 使用语言模型和深度学习的单序列蛋白质结构预测
-
-### AlphaFold2 和相关计算系统使用深度学习和共同进化来预测蛋白质结构…
-
-www.nature.com](https://www.nature.com/articles/s41587-022-01432-w) 
+[](https://www.nature.com/articles/s41587-022-01432-w)  
 
 在同一份杂志上，有一篇关于这篇论文的评论:
 
-[](https://www.nature.com/articles/s41587-022-01466-0) [## 一个语言模型在孤儿-自然生物技术上击败了 alphafold2
-
-### 使用语言模型的蛋白质结构预测提高了孤儿和设计蛋白质的准确性。去年…
-
-www.nature.com](https://www.nature.com/articles/s41587-022-01466-0) 
+[](https://www.nature.com/articles/s41587-022-01466-0)  
 
 了解更多 AI 驱动的蛋白质结构预测、CASP 等。：
 
- [## 这里是我所有关于蛋白质建模、CASP 和 AlphaFold 2 的同行评论和博客文章
-
-### 我在这里整理了我所有的同行评议文章(一些论文，一些评论，一个观点)和博客文章，关于…
-
-lucianosphere.medium.com](https://lucianosphere.medium.com/here-are-all-my-peer-reviewed-and-blog-articles-on-protein-modeling-casp-and-alphafold-2-d78f0a9feb61) [](/whats-up-after-alphafold-on-ml-for-structural-biology-7bb9758925b8) [## 蛋白质结构预测的 ML 上的 AlphaFold 之后是什么？
-
-### 人工智能驱动的生物学革命会持续下去吗？我们能期待新的突破吗？现在正在发生什么事情…
-
-towardsdatascience.com](/whats-up-after-alphafold-on-ml-for-structural-biology-7bb9758925b8) 
+  [](/whats-up-after-alphafold-on-ml-for-structural-biology-7bb9758925b8)  
 
 www.lucianoabriata.com*我写作并拍摄我广泛兴趣范围内的一切事物:自然、科学、技术、编程等等。* [***成为媒介会员***](https://lucianosphere.medium.com/membership) *访问其所有故事(我免费获得小额收入的平台的附属链接)和* [***订阅获取我的新故事***](https://lucianosphere.medium.com/subscribe) ***通过电子邮件*** *。到* ***咨询关于小职位*** *查看我的* [***服务页面这里***](https://lucianoabriata.altervista.org/services/index.html) *。你可以* [***这里联系我***](https://lucianoabriata.altervista.org/office/contact.html) ***。***

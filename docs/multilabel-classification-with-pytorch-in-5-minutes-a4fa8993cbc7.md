@@ -70,10 +70,6 @@ Jonathan Krause，Michael Stark，Jia Deng，李菲菲
 *第四届 IEEE 表示和识别研讨会，ICCV 2013***(3 drr-13)**。澳大利亚悉尼。2013 年 12 月 8 日。
 [【pdf】](https://ai.stanford.edu/~jkrause/papers/3drr13.pdf)[【BibTex】](https://ai.stanford.edu/~jkrause/papers/3drr13.bib)[【幻灯片】](https://ai.stanford.edu/~jkrause/papers/3drr_talk.pdf)
 
-[](https://ai.stanford.edu/~jkrause/cars/car_dataset.html) [## 汽车数据集
-
-### 概述汽车数据集包含 196 类汽车的 16，185 幅图像。数据被分成 8，144 个训练图像…
-
-ai.stanford.edu](https://ai.stanford.edu/~jkrause/cars/car_dataset.html) 
+[](https://ai.stanford.edu/~jkrause/cars/car_dataset.html)  
 
 [如果您喜欢中级数据科学，并且还没有注册，请随时使用我的推荐链接加入社区。](https://medium.com/@droste.benedikt/membership)

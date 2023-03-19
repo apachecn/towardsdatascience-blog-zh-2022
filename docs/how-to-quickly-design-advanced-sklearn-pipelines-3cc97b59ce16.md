@@ -321,8 +321,4 @@ INFO:sklearn-pipelines:MAPE: 0.030220
 
 如果你喜欢读我的文章，你可以在 LinkedIn 上关注我，了解关于 ML、MLOps 和自由职业者的每周见解。
 
-[](https://medium.com/membership/@pauliusztin) [## 通过我的推荐链接加入 Medium-Paul Iusztin
-
-### 加入我们，从我和其他作者那里获得关于 ML、MLOps 和自由职业的独家内容。🚀解锁对…的完全访问权限
-
-medium.com](https://medium.com/membership/@pauliusztin)
+[](https://medium.com/membership/@pauliusztin) 

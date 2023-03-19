@@ -127,11 +127,7 @@
 
 您也可以通过我的 [**推荐链接**](https://pranay-dave9.medium.com/membership) 加入 Medium
 
-[](https://pranay-dave9.medium.com/membership) [## 加入我的介绍链接-普拉内戴夫媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-pranay-dave9.medium.com](https://pranay-dave9.medium.com/membership) 
+[](https://pranay-dave9.medium.com/membership)  
 
 # 额外资源
 
@@ -150,11 +146,7 @@ pranay-dave9.medium.com](https://pranay-dave9.medium.com/membership)
 
 数据集可用于研究目的
 
-[](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data) [## 纽约市 Airbnb 开放数据
-
-### 美国纽约州纽约市 Airbnb 房源和指标(2019 年)
-
-www.kaggle.com](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data) 
+[](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data)  
 
 **波尔图出租车数据**
 

@@ -294,32 +294,4 @@ Data Studio 代码段:% 1 从一页过渡到下一页。作者图片
 
 # 资源
 
-[](/finding-your-power-users-using-bigquery-firebase-data-ad0e16e0ddea) [## 使用 BigQuery Firebase 数据查找高级用户
-
-### 了解用户旅程，无需投资第三方工具
-
-towardsdatascience.com](/finding-your-power-users-using-bigquery-firebase-data-ad0e16e0ddea)  [## 主页
-
-### 编辑描述
-
-shop.googlemerchandisestore.com](https://shop.googlemerchandisestore.com)  [## 谷歌云控制台
-
-### 使用 Google Cloud Marketplace 明智地消费，更快地采购并收回承诺的 Google Cloud 支出。浏览目录…
-
-console.cloud.google.com](https://console.cloud.google.com/marketplace/product/obfuscated-ga360-data/obfuscated-ga360-data?_ga=2.76417619.776494948.1659681668-422747692.1651204747&project=ounass-9f758)  [## [GA4]增强的测量事件
-
-### 增强的测量功能允许您通过启用 Google…中的选项(事件)来测量与内容的交互
-
-support.google.com](https://support.google.com/analytics/answer/9216061?hl=en&ref_topic=9756175)  [## [GA4]自动收集的事件
-
-### 自动收集的事件由与您的应用程序和/或网站的基本交互触发(如…
-
-support.google.com](https://support.google.com/firebase/answer/9234069?hl=en&visit_id=637952794317007735-4289976144&rd=1) [](https://developers.google.com/analytics/devguides/collection/ga4/ecommerce?client_type=gtag#implementation) [## 衡量电子商务|谷歌分析 4 属性|谷歌开发者
-
-### 您可以设置电子商务事件来收集有关用户购物行为的信息。这些事件使您能够…
-
-developers.google.com](https://developers.google.com/analytics/devguides/collection/ga4/ecommerce?client_type=gtag#implementation) [](https://www.alisa-in.tech/post/2019-10-02-ctes/) [## cte 与子查询
-
-### 我经常遇到这样的问题:子查询比 CTE 更有性能吗？(我将在雪花进行测试)。这是一个很好的…
-
-www.alisa-in.tech](https://www.alisa-in.tech/post/2019-10-02-ctes/)
+[](/finding-your-power-users-using-bigquery-firebase-data-ad0e16e0ddea)          [](https://developers.google.com/analytics/devguides/collection/ga4/ecommerce?client_type=gtag#implementation)  [](https://www.alisa-in.tech/post/2019-10-02-ctes/) 

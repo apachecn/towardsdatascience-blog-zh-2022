@@ -16,19 +16,11 @@
 
 **分类解决的问题类型分为两种:无监督的和有监督的。无监督分类器通常是神经网络，可以对视频、音频和图像等非结构化数据进行训练。相比之下，监督模型处理带标签的表格数据，是经典机器学习的一部分。本文的重点是后者；特别是，我们将探索所有监督分类问题的共同点:*混淆矩阵*。**
 
-**[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-BEXGBoost
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。支持我的工作，给我买一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+**[](https://ibexorigin.medium.com/membership)  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex) [## 阿尔法信号|机器学习的极品。艾总结的。
-
-### 留在循环中，不用花无数时间浏览下一个突破；我们的算法识别…
-
-alphasignal.ai](https://alphasignal.ai/?referrer=Bex) 
+[](https://alphasignal.ai/?referrer=Bex)  
 
 ## 开发分类预处理流水线
 
@@ -50,11 +42,7 @@ alphasignal.ai](https://alphasignal.ai/?referrer=Bex)
 
 我们没有使用插补技术，因为空值的数量很少。如果您想了解其他稳健插补技术，本文将有所帮助:
 
-[](/advanced-missing-data-imputation-methods-with-sklearn-d9875cbcc6eb) [## Sklearn 高级缺失数据插补方法的深入教程
-
-### 学会利用强大的基于模型的插补技术。
-
-towardsdatascience.com](/advanced-missing-data-imputation-methods-with-sklearn-d9875cbcc6eb) 
+[](/advanced-missing-data-imputation-methods-with-sklearn-d9875cbcc6eb)  
 
 现在让我们把重点放在数值上。具体来说，我们将查看它们的分布:
 
@@ -78,11 +66,7 @@ import seaborn as sns>>> df.hist();
 
 如果您想了解更多关于其他数字特征转换技术的信息，我也已经介绍过了:
 
-[](/how-to-differentiate-between-scaling-normalization-and-log-transformations-69873d365a94) [## 如何区分缩放、规范化和对数转换
-
-### 获取特征工程数值变量的实用知识
-
-towardsdatascience.com](/how-to-differentiate-between-scaling-normalization-and-log-transformations-69873d365a94) 
+[](/how-to-differentiate-between-scaling-normalization-and-log-transformations-69873d365a94)  
 
 为了编码分类特征，我们将使用一个`OneHotEncoder`。在隔离要在编码中使用的列之前，让我们将数据分成特性和目标数组:
 
@@ -90,11 +74,7 @@ towardsdatascience.com](/how-to-differentiate-between-scaling-normalization-and-
 
 最后，我们将构建预处理管道:
 
-[](/how-to-use-sklearn-pipelines-for-ridiculously-neat-code-a61ab66ca90d) [## 如何将 Sklearn 管道用于极其简洁的代码
-
-### 我喜欢的关于 Scikit-Learn 的一切，都在一个地方
-
-towardsdatascience.com](/how-to-use-sklearn-pipelines-for-ridiculously-neat-code-a61ab66ca90d) 
+[](/how-to-use-sklearn-pipelines-for-ridiculously-neat-code-a61ab66ca90d)  
 
 ## 混淆矩阵介绍
 
@@ -266,11 +246,7 @@ RandomForests 也赢得了回忆。类似地，它在过滤假阴性方面更好
 
 > 你可能会惊讶于我没有使用 GridSearch。在我的一篇文章中，我展示了减半网格搜索比常规网格搜索快 11 倍。并且减半网格搜索甚至更快，允许我们在很大程度上拓宽我们的超参数空间。你可以在这里阅读对比:
 
-[](/11-times-faster-hyperparameter-tuning-with-halvinggridsearch-232ed0160155) [## HalvingGridSearch 将超参数调谐速度提高了 11 倍
-
-### 编辑描述
-
-towardsdatascience.com](/11-times-faster-hyperparameter-tuning-with-halvinggridsearch-232ed0160155) 
+[](/11-times-faster-hyperparameter-tuning-with-halvinggridsearch-232ed0160155)  
 
 作为第一步，我们将构建超参数空间:
 

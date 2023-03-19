@@ -36,11 +36,7 @@ github.com](https://github.com/Causb1A/escape-hatch/tree/main)
 
 在深入细节之前，我只想介绍一下我使用装饰函数和装饰工厂来做这件事。如果你不确定这些是如何工作的，请在这里阅读更多信息:
 
-[](/decorators-in-python-9cf8ba95e8e7) [## Python 中的装饰者
-
-### 了解如何改变 obj 的行为
-
-towardsdatascience.com](/decorators-in-python-9cf8ba95e8e7) 
+[](/decorators-in-python-9cf8ba95e8e7)  
 
 在一个非常高的层次上，装饰器是一个接受另一个函数并扩展后一个函数的行为的函数。
 

@@ -12,11 +12,7 @@
 
 想看看 2020 年的 M1 基地在数据科学方面与谷歌实验室相比如何吗？我掩护你:
 
-[](https://betterdatascience.com/macbook-m1-vs-google-colab/) [## MacBook M1 vs. Google Colab 的数据科学-意想不到的结果|更好的数据科学
-
-### 早在 2020 年，苹果的 M1 芯片就是一项惊人的技术突破。它不支持许多工具数据科学家…
-
-betterdatascience.com](https://betterdatascience.com/macbook-m1-vs-google-colab/) 
+[](https://betterdatascience.com/macbook-m1-vs-google-colab/)  
 
 今天，我们将使用 TensorFlow 制作两个数据科学基准，并比较 MacBook Pro M1 Pro 和 Google Colab。我们将忽略拥有闪电般速度的笔记本电脑的明显优势，而只关注模型训练速度。
 
@@ -34,21 +30,13 @@ M1 Pro 有更多的内存和更新的 CPU，但我们关心的是 GPU。我测�
 
 如果您继续学习，您将需要安装 TensorFlow。这里有一整篇文章致力于在苹果 M1 上安装 TensorFlow:
 
-[](https://betterdatascience.com/install-tensorflow-2-7-on-macbook-pro-m1-pro/) [## 如何在 MacBook Pro M1 Pro 上轻松安装 tensor flow 2.7 |更好的数据科学
-
-### 早在 2020 年，苹果的 M1 芯片就彻底改变了这个行业。新的 M1 专业和 M1 马克斯是什么…
-
-betterdatascience.com](https://betterdatascience.com/install-tensorflow-2-7-on-macbook-pro-m1-pro/) 
+[](https://betterdatascience.com/install-tensorflow-2-7-on-macbook-pro-m1-pro/)  
 
 此外，您还需要一个影像数据集。我使用了来自 Kaggle 的[狗和猫的数据集](https://www.kaggle.com/pybear/cats-vs-dogs?select=PetImages)，它是在知识共享许可下授权的。长话短说，你可以免费使用。
 
 有关如何组织和预处理它的详细说明，请参考以下文章:
 
-[](https://betterdatascience.com/top-3-prerequisites-for-deep-learning-projects/) [## 用于图像分类的 TensorFlow 深度学习项目的三大先决条件|更好的数据…
-
-### 想训练一个用于图像分类的神经网络？确保做到这一点首先识别图像中的对象是一个…
-
-betterdatascience.com](https://betterdatascience.com/top-3-prerequisites-for-deep-learning-projects/) 
+[](https://betterdatascience.com/top-3-prerequisites-for-deep-learning-projects/)  
 
 我们今天会做两个测试:
 

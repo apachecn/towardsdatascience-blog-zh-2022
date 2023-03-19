@@ -44,11 +44,7 @@ GIS4 野生动物的蓝色经济模式旨在向更多用户开放平台。一旦
 
 本文是理解*停止检测算法*如何工作以及如何配置其参数的关键。
 
-[](/stop-detection-in-gps-tracks-movingpandas-keplergl-point-map-with-stops-duration-in-bird-664064b3ccbc) [## GPS 轨迹中的停止检测—移动熊猫和开普勒
-
-### 如何在鸟类迁徙追踪中创建带有停留时间的点地图
-
-towardsdatascience.com](/stop-detection-in-gps-tracks-movingpandas-keplergl-point-map-with-stops-duration-in-bird-664064b3ccbc) ![](img/6477a59449c9b03a95d08859e82cbf0a.png)
+[](/stop-detection-in-gps-tracks-movingpandas-keplergl-point-map-with-stops-duration-in-bird-664064b3ccbc)  ![](img/6477a59449c9b03a95d08859e82cbf0a.png)
 
 GBIF.org(2021 年 3 月 15 日)*全球定位系统追踪北海南部海岸繁殖的小黑背鸥和银鸥*[https://doi.org/10.15468/dl.6vsh8k](https://doi.org/10.15468/dl.6vsh8k)
 
@@ -66,11 +62,7 @@ Irvine LM、Palacios DM、Lagerquist BA、Mate BR、Follett TM (2019)数据来�
 
 这篇文章支持动物追踪数据集在两极的可视化:南极和北极。它给出了关于将空间数据投影到正投影坐标参考系统的说明。
 
-[](/orthographic-projection-with-pyproj-for-penguin-tracking-in-antarctica-18cd2bf2d570) [## 基于 pyproj 的南极企鹅追踪正射投影
-
-### 如何在正投影中创建地图以及使用企鹅追踪数据创建地图动画— Pyproj 和 KeplerGL
-
-towardsdatascience.com](/orthographic-projection-with-pyproj-for-penguin-tracking-in-antarctica-18cd2bf2d570) 
+[](/orthographic-projection-with-pyproj-for-penguin-tracking-in-antarctica-18cd2bf2d570)  
 
 > 在这张网络地图中查看[阿德利企鹅的动向](https://gis-move-analytics.github.io/wildlife-tracker/root/moves-penguins-demo.html)
 
@@ -82,11 +74,7 @@ towardsdatascience.com](/orthographic-projection-with-pyproj-for-penguin-trackin
 
 本文介绍了如何根据 GPS 轨迹创建线串几何。然后，它给出了按年份过滤的鲸鱼迁徙路线。
 
-[](/time-filter-for-great-whales-migration-routes-32c429ac6bb9) [## 巨鲸迁徙路线的时间过滤器
-
-### 大鲸的跟踪记录与移动的熊猫成直线
-
-towardsdatascience.com](/time-filter-for-great-whales-migration-routes-32c429ac6bb9) 
+[](/time-filter-for-great-whales-migration-routes-32c429ac6bb9)  
 
 > 查看本网络地图中的[巨头鲸迁徙路线](https://gis-move-analytics.github.io/wildlife-tracker/root/azores-demo.html)
 
@@ -94,11 +82,7 @@ towardsdatascience.com](/time-filter-for-great-whales-migration-routes-32c429ac6
 
 本文旨在利用*停止检测算法*发现觅食活动，并参考 Silva 等人(2013)。算法的使用是实验性的，结果的验证需要海洋科学家的批判性观点。但是，该分析与研究杂志的结论相吻合，所以这篇文章展示了可以用来洞察鲸鱼迁徙的其他方法。
 
-[](/foraging-spots-detection-in-great-whales-migration-routes-19ee4540930e) [## 大鲸迁徙路线中觅食点的检测
-
-### 大鲸追踪记录中的停止检测与移动的熊猫
-
-towardsdatascience.com](/foraging-spots-detection-in-great-whales-migration-routes-19ee4540930e) 
+[](/foraging-spots-detection-in-great-whales-migration-routes-19ee4540930e)  
 
 > [在网络地图中停止探测巨头鲸的迁徙](https://gis-move-analytics.github.io/wildlife-tracker/root/azores-II-demo.html)
 

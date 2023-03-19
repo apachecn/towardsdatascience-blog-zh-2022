@@ -51,29 +51,17 @@ Spotify 最终面试阶段的一个主要部分是要求应聘者为虚拟演示
 
 *如果你想学习或更新基本的统计学概念，你可以看看这篇文章:*
 
-[](/fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7) [## 数据科学家和数据分析师的统计学基础
-
-### 数据科学或数据分析之旅的关键统计概念
-
-towardsdatascience.com](/fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7) 
+[](/fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7)  
 
 **提示:**准备回答 **A/B 测试**相关问题。
 
 要解决这个问题，你需要知道的关于 A/B 测试的一切都可以在这里找到:
 
-[](/simple-and-complet-guide-to-a-b-testing-c34154d0ce5a) [## 简单完整的 A/B 测试指南
-
-### 为您的数据科学实验进行端到端 A/B 测试，面向非技术和技术专家，提供示例和…
-
-towardsdatascience.com](/simple-and-complet-guide-to-a-b-testing-c34154d0ce5a) 
+[](/simple-and-complet-guide-to-a-b-testing-c34154d0ce5a)  
 
 如果你正处于面试过程的早期阶段，以下是我之前的博客，它将帮助你**破解 Spotify 数据科学的技术屏障**。
 
-[](/how-to-crack-spotify-data-science-technical-screen-interview-23f0f7205928) [## 如何破解 Spotify 数据科学技术屏面试
-
-### 要了解 Spotify 技术屏幕，您应该知道的确切 Python/SQL 命令和实验主题列表
-
-towardsdatascience.com](/how-to-crack-spotify-data-science-technical-screen-interview-23f0f7205928) 
+[](/how-to-crack-spotify-data-science-technical-screen-interview-23f0f7205928)  
 
 > 关于这个话题的更多内容，你可以在 Glassdoor.com[阅读](https://www.glassdoor.nl/Sollicitatiegesprek/Spotify-Data-Scientist-Sollicitatievragen-EI_IE408251.0,7_KO8,22.htm)
 
@@ -594,27 +582,7 @@ plt.show()
 
 # 如果你喜欢这篇文章，这里有一些你可能喜欢的其他文章:
 
-[](/how-to-crack-spotify-data-science-technical-screen-interview-23f0f7205928) [## 如何破解 Spotify 数据科学技术屏面试
-
-### 要了解 Spotify 技术屏幕，您应该知道的确切 Python/SQL 命令和实验主题列表
-
-towardsdatascience.com](/how-to-crack-spotify-data-science-technical-screen-interview-23f0f7205928) [](/bias-variance-trade-off-overfitting-regularization-in-machine-learning-d79c6d8f20b4) [## 理解机器学习中的偏差-方差权衡、过拟合和正则化
-
-### 介绍偏差-方差权衡，过度拟合&如何使用正则化解决过度拟合:脊和套索…
-
-towardsdatascience.com](/bias-variance-trade-off-overfitting-regularization-in-machine-learning-d79c6d8f20b4) [](https://tatev-aslanyan.medium.com/data-sampling-methods-in-python-a4400628ea1b) [## Python 中的数据采样方法
-
-### 使用不同的数据采样技术创建 Python 中的随机样本的现成代码
-
-tatev-aslanyan.medium.com](https://tatev-aslanyan.medium.com/data-sampling-methods-in-python-a4400628ea1b) [](/monte-carlo-simulation-and-variants-with-python-43e3e7c59e1f) [## 蒙特卡罗模拟和 Python 变种
-
-### 蒙特卡洛模拟指南，必须了解 Python 实现的统计抽样技术
-
-towardsdatascience.com](/monte-carlo-simulation-and-variants-with-python-43e3e7c59e1f) [](https://levelup.gitconnected.com/predicting-bitcoins-price-with-recurrent-neural-networks-a27b4d2d839) [## 用递归神经网络预测比特币价格
-
-### 谁没听说过世界上最著名的数字货币，十年加密货币？没错，我是…
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/predicting-bitcoins-price-with-recurrent-neural-networks-a27b4d2d839) 
+[](/how-to-crack-spotify-data-science-technical-screen-interview-23f0f7205928)  [](/bias-variance-trade-off-overfitting-regularization-in-machine-learning-d79c6d8f20b4)  [](https://tatev-aslanyan.medium.com/data-sampling-methods-in-python-a4400628ea1b)  [](/monte-carlo-simulation-and-variants-with-python-43e3e7c59e1f)  [](https://levelup.gitconnected.com/predicting-bitcoins-price-with-recurrent-neural-networks-a27b4d2d839)  
 
 ***感谢阅读***
 

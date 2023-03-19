@@ -46,11 +46,7 @@
 
 # 句子变压器
 
- [## 句子变压器文件-句子-变压器文件
-
-### 编辑描述
-
-www.sbert.net](https://www.sbert.net/index.html) 
+  
 
 SentenceTransformers 是一个 Python 框架，用于最先进的句子、文本和图像嵌入。它的 API 使用起来非常简单:
 
@@ -119,11 +115,7 @@ At first glance, you can already see data points with the same category are stic
 
 ## 如果你喜欢这篇博文，请点击下面按钮并鼓掌！[👏🏻也在 Github 上关注我吧！](https://emojipedia.org/clapping-hands-light-skin-tone/)
 
-[](https://github.com/thomas-tf) [## 托马斯-tf -概述
-
-### thomas-tf 有 13 个可用的存储库。在 GitHub 上关注他们的代码。
-
-github.com](https://github.com/thomas-tf) 
+[](https://github.com/thomas-tf)  
 
 # 参考
 

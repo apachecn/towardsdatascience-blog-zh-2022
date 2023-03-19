@@ -16,11 +16,7 @@
 
 本文中使用的代码和示例也可以在我的 GitHub 存储库中找到:
 
-[](https://github.com/vinyluis/Articles/tree/main/Target%20Encoder) [## 物品/主要乙烯基/物品上的目标编码器
-
-### 文章:了解目标编码器[EN]介绍目标编码器背后的思想、代码示例和潜在的…
-
-github.com](https://github.com/vinyluis/Articles/tree/main/Target%20Encoder) 
+[](https://github.com/vinyluis/Articles/tree/main/Target%20Encoder)  
 
 # 目标编码器
 
@@ -236,11 +232,7 @@ for t in targets:
 
 看看这个很棒的帖子
 
-[](/evaluating-classification-models-with-kolmogorov-smirnov-ks-test-e211025f5573) [## 用 Kolmogorov-Smirnov (KS)检验评估分类模型
-
-### 使用 KS 检验评估类分布之间的分离
-
-towardsdatascience.com](/evaluating-classification-models-with-kolmogorov-smirnov-ks-test-e211025f5573) 
+[](/evaluating-classification-models-with-kolmogorov-smirnov-ks-test-e211025f5573)  
 
 # 参考
 

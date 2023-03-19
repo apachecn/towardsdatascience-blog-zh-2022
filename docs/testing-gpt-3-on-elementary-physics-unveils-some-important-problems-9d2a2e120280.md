@@ -12,11 +12,7 @@
 
 正如我在最近的一篇文章中所描述的，我已经开始了一个小项目，旨在了解自然语言处理和 GPT-3 合成是否可以用来开发能够可靠地帮助科学、数学和技术教育的机器人(或者从坏的方面来说，学生可以用来在考试中作弊)。
 
-[](/devising-tests-to-measure-gpt-3s-knowledge-of-the-basic-sciences-4bbfcde8286b) [## 设计测试来衡量 GPT-3 的基础科学知识
-
-### 学生可以从 OpenAI 的最新语言模型中学习并将其用作全天候顾问吗？学生可以用它来…
-
-towardsdatascience.com](/devising-tests-to-measure-gpt-3s-knowledge-of-the-basic-sciences-4bbfcde8286b) 
+[](/devising-tests-to-measure-gpt-3s-knowledge-of-the-basic-sciences-4bbfcde8286b)  
 
 本着与我在那篇文章中描述的快速测试相同的精神，我在这里评估了 OpenAI 的达芬奇模型关于基础物理的知识。我用 OpenAI 官方操场的问答模块做到了这一点，就好像这个软件是一个参加考试的学生。我首先进行了一次单次聊天，沿着我正在测试的一些路线提问，尽可能保持对话自然(见下面的 ***主考试*** )。在得出一些初步结论后，我提出了一些附加问题来更深入地探究这个软件(见后面的 ***附加问题*** )。
 

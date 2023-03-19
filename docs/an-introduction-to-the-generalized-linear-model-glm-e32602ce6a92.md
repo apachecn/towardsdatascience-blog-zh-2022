@@ -212,11 +212,7 @@ GLM 有三个主要组成部分，链接功能是其中之一。这些组件是
 
 **数据集“房价”来自 Kaggle 上的一个预测竞赛。整个分析的代码可从以下网址获得**
 
-**[](https://github.com/ZhangXichu/House-Price/blob/main/glm.ipynb) [## 房价/glm . ipynb at main zhangxi Chu/房价
-
-### 用 GLM 模型预测房价。在 GitHub 上创建一个帐户，为张喜初/房价发展做贡献。
-
-github.com](https://github.com/ZhangXichu/House-Price/blob/main/glm.ipynb) 
+**[](https://github.com/ZhangXichu/House-Price/blob/main/glm.ipynb)  
 
 使用均方根偏差(RMSD)评估结果。GLM 方法给出了最高 33%的位置。当然，这不是最理想的方法——排行榜上有 0 个错误的结果。但它在实践中很好地展示了 GLM。
 

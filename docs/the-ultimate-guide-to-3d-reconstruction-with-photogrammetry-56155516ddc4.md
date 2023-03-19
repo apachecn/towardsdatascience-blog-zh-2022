@@ -536,10 +536,6 @@ Blender 的编辑模式(左)及其删除工具(右)。***
 
 ***✅在 [3D 学院](https://learngeodata.eu/)查看在线课程，尤其是 [3D 摄影测量课程](https://learngeodata.eu/3d-reconstructor-formation/)。***
 
-***[](https://learngeodata.eu/) [## 3D 学院-点云在线课程
-
-### 教师、研究人员、开发人员和工程师的最佳 3D 在线课程。掌握三维点云处理和…
-
-learngeodata.eu](https://learngeodata.eu/) 
+***[](https://learngeodata.eu/)  
 
 **所有图片均为作者所有，如需重用，请联系*[*f . Poux*](https://medium.com/@florentpoux)*。****

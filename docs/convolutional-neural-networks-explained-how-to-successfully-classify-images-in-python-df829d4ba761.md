@@ -278,8 +278,4 @@ panda  :  0.055552367
 
 ***如果你已经花光了这个月的学习预算，下次请记得我。*** *我的个性化链接加入媒介:*
 
-[](https://solclover.com/membership) [## 通过我的推荐链接加入 Medium 索尔·多比拉斯
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-solclover.com](https://solclover.com/membership)
+[](https://solclover.com/membership) 

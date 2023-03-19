@@ -242,10 +242,6 @@ df5
 
 [**加入 Medium**](https://medium.com/@17.rsuraj/membership) 使用我下面的推荐链接，它也将支持我作为一名作家，因为 Medium 与我分享你的一小部分费用。✅
 
-[](https://medium.com/@17.rsuraj/membership) [## 加入我的推荐链接- Suraj Gurav 媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@17.rsuraj/membership) 
+[](https://medium.com/@17.rsuraj/membership)  
 
 **感谢您的阅读！**

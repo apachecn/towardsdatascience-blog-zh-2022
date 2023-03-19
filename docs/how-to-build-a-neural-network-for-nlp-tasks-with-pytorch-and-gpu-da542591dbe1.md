@@ -143,11 +143,7 @@ weighted avg       0.87      0.87      0.87       500
 
 ## **参考文献**
 
-[](https://www.kaggle.com/datasets/nltkdata/movie-review) [## 电影评论
-
-### 情感极性数据集版本 2.0
-
-www.kaggle.com](https://www.kaggle.com/datasets/nltkdata/movie-review) 
+[](https://www.kaggle.com/datasets/nltkdata/movie-review)  
 
 ```
 Bo Pang and Lillian Lee. 2004\. A Sentimental Education: Sentiment Analysis 

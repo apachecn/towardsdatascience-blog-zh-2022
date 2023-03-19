@@ -128,11 +128,7 @@
 
 如果你想了解更多关于季节性的知识，可以看看我以前的博客:
 
-[](/seasonality-of-time-series-5b45b4809acd) [## 时间序列的季节性
-
-### 对季节性如何影响时间序列分析的直觉
-
-towardsdatascience.com](/seasonality-of-time-series-5b45b4809acd) 
+[](/seasonality-of-time-series-5b45b4809acd)  
 
 如果误差小于 1，则该预测优于对长度为*的训练数据的平均[简单预测](https://en.wikipedia.org/wiki/Forecasting#Na.C3.AFve_approach)。另一方面，如果它大于 1，则预测比平均的简单预测差。上式中 ***m*** 指季节性指数。*
 

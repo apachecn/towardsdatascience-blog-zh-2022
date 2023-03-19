@@ -183,28 +183,4 @@
 
 赫尔，J. C. (2014 年)。期权、期货和其他衍生品。全球版。
 
- [## 对偶变量-维基百科
-
-### 在统计学中，对偶变量法是蒙特卡罗方法中使用的方差缩减技术。
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Antithetic_variates)  [## 控制变量-维基百科
-
-### 控制变量法是蒙特卡罗方法中使用的方差缩减技术。它利用信息…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Control_variates)  [## 重要性抽样-维基百科
-
-### 在统计学中，重要抽样是一种估计特定分布性质的通用技术，而重要抽样是一种估计特定分布性质的通用技术。
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Importance_sampling) [](https://en.wikipedia.org/wiki/Low-discrepancy_sequence) [## 低差异序列-维基百科
-
-### 在数学中，低差异序列是指具有如下性质的序列:对于 N 的所有值，它的子序列 x…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Low-discrepancy_sequence)  [## 矩量法(统计学)-维基百科
-
-### 在统计学中，矩方法是一种估计总体参数的方法。它从表达…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Method_of_moments_%28statistics%29) [](https://en.wikipedia.org/wiki/Stratified_sampling) [## 分层抽样-维基百科
-
-### 在统计学中，分层抽样是一种从总体中进行抽样的方法，总体可以划分为…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Stratified_sampling)
+      [](https://en.wikipedia.org/wiki/Low-discrepancy_sequence)    [](https://en.wikipedia.org/wiki/Stratified_sampling) 

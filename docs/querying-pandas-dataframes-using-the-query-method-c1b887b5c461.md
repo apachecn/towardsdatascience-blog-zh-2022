@@ -228,27 +228,11 @@ df.query('Parch > SibSp')
 
 作者图片
 
-[](https://weimenglee.medium.com/membership) [## 加入媒介与我的介绍链接-李伟孟
-
-### 阅读李维孟(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-weimenglee.medium.com](https://weimenglee.medium.com/membership) 
+[](https://weimenglee.medium.com/membership)  
 
 # 相关文章
 
-[](https://weimenglee.medium.com/performing-exploratory-data-analysis-eda-using-pivot-tables-in-pandas-3f402f95681b) [## 使用 Pandas 中的数据透视表执行探索性数据分析(EDA)
-
-### 了解如何使用 Pandas 中的 pivot_table()函数来聚合数据
-
-weimenglee.medium.com](https://weimenglee.medium.com/performing-exploratory-data-analysis-eda-using-pivot-tables-in-pandas-3f402f95681b) [](/working-with-multi-index-pandas-dataframes-f64d2e2c3e02) [## 使用多索引熊猫数据框架
-
-### 了解如何轻松使用多索引数据框架
-
-towardsdatascience.com](/working-with-multi-index-pandas-dataframes-f64d2e2c3e02) [](/working-with-multi-index-pandas-dataframes-f64d2e2c3e02) [## 使用多索引熊猫数据框架
-
-### 了解如何轻松使用多索引数据框架
-
-towardsdatascience.com](/working-with-multi-index-pandas-dataframes-f64d2e2c3e02) 
+[](https://weimenglee.medium.com/performing-exploratory-data-analysis-eda-using-pivot-tables-in-pandas-3f402f95681b)  [](/working-with-multi-index-pandas-dataframes-f64d2e2c3e02)  [](/working-with-multi-index-pandas-dataframes-f64d2e2c3e02)  
 
 # 摘要
 

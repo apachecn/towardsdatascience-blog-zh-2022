@@ -55,11 +55,7 @@
 
 图( **DAG** )由一系列用边连接的节点(操作)组成。
 
-[](https://en.wikipedia.org/wiki/Directed_acyclic_graph#/media/File:Tred-G.svg) [## 有向无环图-维基百科
-
-### 在数学中，特别是图论和计算机科学中，有向无环图(dag 或 DAG)是一个有向无环图。
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Directed_acyclic_graph#/media/File:Tred-G.svg) 
+[](https://en.wikipedia.org/wiki/Directed_acyclic_graph#/media/File:Tred-G.svg)  
 
 > 当 Pythonflow 对一个操作求值时，它会检查当前的`context`是否为该操作提供了一个值，如果可能就立即返回。如果当前的`context`没有为操作提供值，Pythonflow 将评估操作的依赖关系，评估感兴趣的操作，将计算出的值存储在上下文中，并返回该值。
 
@@ -103,11 +99,7 @@ en.wikipedia.org](https://en.wikipedia.org/wiki/Directed_acyclic_graph#/media/Fi
 
 ****你可以在这里找到完整的示例代码。目标是展示如何创建一个简单的 DAG(带有一些额外的功能)专门用于人工智能，生成一个参数序列模型，并使用 Keras Functional API 对一些简单数据进行训练。****
 
-****[](https://github.com/GitMarco27/TMML/blob/main/Notebooks/012_pythonflow.ipynb) [## TMML/012_pythonflow.ipynb 在主 GitMarco27/TMML
-
-### 3 分钟机器学习。通过在 GitHub 上创建帐户，为 GitMarco27/TMML 的发展做出贡献。
-
-github.com](https://github.com/GitMarco27/TMML/blob/main/Notebooks/012_pythonflow.ipynb) 
+****[](https://github.com/GitMarco27/TMML/blob/main/Notebooks/012_pythonflow.ipynb)  
 
 和往常一样，我使用 Google Colab 创建简短的代码和示例。默认情况下不会安装 Pythonflow，所以您需要安装这个依赖项。
 
@@ -153,11 +145,7 @@ github.com](https://github.com/GitMarco27/TMML/blob/main/Notebooks/012_pythonflo
 
 这个库使得使用 **pickle** 导出我们的图形变得容易。
 
- [## pickle - Python 对象序列化- Python 3.10.4 文档
-
-### 编辑描述
-
-docs.python.org](https://docs.python.org/3/library/pickle.html) 
+  
 
 我发现这非常有用:例如，让我们考虑在我们的本地机器上创建一个复杂的模块化操作图:我们可以**导出图**并且**使用简单的命令在**远程机器**上执行**。
 

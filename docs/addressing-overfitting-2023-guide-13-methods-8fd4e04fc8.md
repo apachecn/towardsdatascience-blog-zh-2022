@@ -316,11 +316,7 @@ L1 和 L2 正则化方法也可以应用于一般的机器学习算法，如逻�
 
 ***我希望你喜欢阅读这篇文章。如果你愿意支持我成为一名作家，请考虑注册成为会员，不受限制地使用媒体。它只需要每月 5 美元，我会收到你的会员费的一部分。***
 
-***[](https://rukshanpramoditha.medium.com/membership) [## 通过我的推荐链接加入 Medium
-
-### 阅读 Rukshan Pramoditha(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接…
-
-rukshanpramoditha.medium.com](https://rukshanpramoditha.medium.com/membership) 
+***[](https://rukshanpramoditha.medium.com/membership)  
 
 非常感谢你一直以来的支持！下一篇文章再见。祝大家学习愉快！
 

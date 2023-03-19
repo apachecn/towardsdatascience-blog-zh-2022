@@ -18,11 +18,7 @@
 
 如果您想了解更多关于平稳性的背景和要求，请查阅我以前的文章:
 
-[](/time-series-stationarity-simply-explained-125269968154) [## 时间序列平稳性的简单解释
-
-### 时间序列建模中平稳性需求的简单而直观的解释。
-
-towardsdatascience.com](/time-series-stationarity-simply-explained-125269968154) 
+[](/time-series-stationarity-simply-explained-125269968154)  
 
 # 什么是 Box-Cox 变换？
 
@@ -66,11 +62,7 @@ Box-Cox 变换由 ***λ*** 参数化(从 **-5** 到 **5** ) 将时间序列、 *
 
 *用于生成图和转换的完整代码可以在我的 GitHub 中找到:*
 
-*[](https://github.com/egorhowell/Medium-Articles/blob/main/Time%20Series/Time%20Series%20Tools/box_cox_transform.py) [## Medium-Articles/box _ Cox _ transform . py at main egorhowell/Medium-Articles
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/egorhowell/Medium-Articles/blob/main/Time%20Series/Time%20Series%20Tools/box_cox_transform.py) 
+*[](https://github.com/egorhowell/Medium-Articles/blob/main/Time%20Series/Time%20Series%20Tools/box_cox_transform.py)  
 
 # 结论
 

@@ -196,11 +196,7 @@ def mutate(self):
 
 当我们在玩的时候，我想提一下迭戈·维森特解决旅行推销员问题的迷人方法:
 
-[](https://github.com/diego-vicente/som-tsp) [## GitHub - diego-vicente/som-tsp:使用自组织地图解决旅行推销员问题
-
-### 该存储库包含一个自组织映射的实现，可用于为…寻找次优解决方案
-
-github.com](https://github.com/diego-vicente/som-tsp) 
+[](https://github.com/diego-vicente/som-tsp)  
 
 Diego 应用了一种改进的自组织映射(SOM)技术。出于好奇，现在让我们将现有的四家 McD-Moscow 商店再扩展 9 个坐标:
 
@@ -224,8 +220,4 @@ tsp 格式的 13 家商店的坐标(图片由作者提供)
 
 在此之前，非常感谢您的阅读！希望这篇文章对你有帮助。请随时在 [LinkedIn](https://de.linkedin.com/in/jesko-rehberg-40653883) 、 [Twitter](https://twitter.com/DAR_Analytics) 或[工作室](https://jesko-rehberg.medium.com/virtual-reality-vr-for-education-a532aa5b6272)与我联系。
 
-[](https://jesko-rehberg.medium.com/membership) [## 通过我的推荐链接加入 Medium-Jesko Rehberg
-
-### 阅读杰斯科·雷伯格(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-jesko-rehberg.medium.com](https://jesko-rehberg.medium.com/membership)
+[](https://jesko-rehberg.medium.com/membership) 

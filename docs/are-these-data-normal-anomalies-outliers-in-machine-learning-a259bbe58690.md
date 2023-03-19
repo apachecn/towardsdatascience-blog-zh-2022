@@ -98,16 +98,4 @@ If I’ve inspired you to join medium I would be really grateful if you did it t
 
 如果你喜欢这个，这里还有一些我的文章。
 
-[](/econometrics-is-the-original-data-science-6725d3f0d843) [## 计量经济学是原始的数据科学
-
-### 这就是你应该多了解它的原因
-
-towardsdatascience.com](/econometrics-is-the-original-data-science-6725d3f0d843) [](/how-to-easily-show-your-matplotlib-plots-and-pandas-dataframes-dynamically-on-your-website-a9613eff7ae3) [## 如何轻松地在你的网站上动态显示你的 Matplotlib 图和 Pandas 数据框。
-
-### 这是一种令人惊讶的简单方法，可以在线向全世界展示您的图表和数据框架，而且不到…
-
-towardsdatascience.com](/how-to-easily-show-your-matplotlib-plots-and-pandas-dataframes-dynamically-on-your-website-a9613eff7ae3) [](/how-to-make-a-free-serverless-interactive-dashboard-in-minutes-e6ce5a1088e0) [## 如何在几分钟内制作一个免费的、无服务器的交互式仪表板
-
-### 我向你保证，你可以像做一个标准的可视化一样快地制作这个仪表板…
-
-towardsdatascience.com](/how-to-make-a-free-serverless-interactive-dashboard-in-minutes-e6ce5a1088e0)
+[](/econometrics-is-the-original-data-science-6725d3f0d843)  [](/how-to-easily-show-your-matplotlib-plots-and-pandas-dataframes-dynamically-on-your-website-a9613eff7ae3)  [](/how-to-make-a-free-serverless-interactive-dashboard-in-minutes-e6ce5a1088e0) 

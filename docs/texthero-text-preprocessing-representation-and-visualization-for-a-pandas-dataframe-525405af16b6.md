@@ -116,33 +116,13 @@ Texthero 还允许您轻松:
 
 随意发挥，并在这里叉这篇文章的源代码:
 
-[](https://github.com/khuyentran1401/Data-science/tree/master/nlp/texthero) [## 数据科学/NLP/硕士研究生的 text hero 1401/数据科学
-
-### 收集有用的数据科学主题以及代码和文章-数据科学/nlp/texthero at master …
-
-github.com](https://github.com/khuyentran1401/Data-science/tree/master/nlp/texthero) 
+[](https://github.com/khuyentran1401/Data-science/tree/master/nlp/texthero)  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的数据科学工具。你可以通过 [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1401/) 和 [Twitter](https://twitter.com/KhuyenTran16) 与我联系。
 
 如果你想查看我写的所有文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/pregex-write-human-readable-regular-expressions-in-python-9c87d1b1335) [## PRegEx:用 Python 编写人类可读的正则表达式
-
-### 用人类可读的语法创建复杂的正则表达式
-
-towardsdatascience.com](/pregex-write-human-readable-regular-expressions-in-python-9c87d1b1335) [](/supercharge-your-python-string-with-textblob-2d9c08a8da05) [## 使用 TextBlob 增强您的 Python 字符串
-
-### 在一行代码中获得更多关于文本的见解！
-
-towardsdatascience.com](/supercharge-your-python-string-with-textblob-2d9c08a8da05) [](/predict-movie-ratings-with-user-based-collaborative-filtering-392304b988af) [## 通过基于用户的协作过滤预测电影分级
-
-### Python 中协作过滤的全面介绍
-
-towardsdatascience.com](/predict-movie-ratings-with-user-based-collaborative-filtering-392304b988af) [](/shap-explain-any-machine-learning-model-in-python-24207127cad7) [## SHAP:用 Python 解释任何机器学习模型
-
-### SHAP 和沙普利价值观综合指南
-
-towardsdatascience.com](/shap-explain-any-machine-learning-model-in-python-24207127cad7) 
+[](/pregex-write-human-readable-regular-expressions-in-python-9c87d1b1335)  [](/supercharge-your-python-string-with-textblob-2d9c08a8da05)  [](/predict-movie-ratings-with-user-based-collaborative-filtering-392304b988af)  [](/shap-explain-any-machine-learning-model-in-python-24207127cad7)  
 
 # 参考
 

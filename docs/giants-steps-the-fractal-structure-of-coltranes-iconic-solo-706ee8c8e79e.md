@@ -101,8 +101,4 @@ R 的值稍微好一点，按照一般的科学标准，肯定是值得尊敬的
 
 *感谢您的阅读！如果你还没有，你可以考虑成为一名订阅会员，这样你就可以无限制地阅读 Medium 上所有精彩的文章。如果你* [*使用此链接*](https://medium.com/@harlan.j.brothers/membership) *注册，你也可以支持我作为一个作家、研究者、创作者:*
 
-[](https://medium.com/@harlan.j.brothers/membership) [## 通过我的推荐链接加入 Medium 哈兰兄弟
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@harlan.j.brothers/membership)
+[](https://medium.com/@harlan.j.brothers/membership) 

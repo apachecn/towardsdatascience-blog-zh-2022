@@ -22,11 +22,7 @@
 
 我们将使用可以从 Kaggle 下载的[迪士尼乐园评论数据集](https://www.kaggle.com/datasets/arushchillar/disneyland-reviews)。它对巴黎、加州和香港的迪士尼乐园分店有 42，000 条评论和评级。评级栏包括评级分数，可用于主题分类，将未查看的评论分为正面、负面或中性。这超出了本文的范围，但是如果你对主题分类感兴趣，你可以查看下面的文章。
 
-[](https://medium.com/analytics-vidhya/applying-text-classification-using-logistic-regression-a-comparison-between-bow-and-tf-idf-1f1ed1b83640) [## 使用逻辑回归进行文本分类:BoW 和 Tf-Idf 的比较
-
-### 创建“语言感知数据产品”对于企业和组织来说变得越来越重要…
-
-medium.com](https://medium.com/analytics-vidhya/applying-text-classification-using-logistic-regression-a-comparison-between-bow-and-tf-idf-1f1ed1b83640) 
+[](https://medium.com/analytics-vidhya/applying-text-classification-using-logistic-regression-a-comparison-between-bow-and-tf-idf-1f1ed1b83640)  
 
 我们来读一下数据，看看前几行。
 

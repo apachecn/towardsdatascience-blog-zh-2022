@@ -14,11 +14,7 @@ R 强化学习(RL)是一种机器学习，在这种机器学习中，代理通�
 
 在本文中，我构建了一些基本概念来理解强化学习。在[的下一篇文章](/foundational-rl-solving-markov-decision-process-d90b7e134c0b)中，我会谈到马尔科夫决策过程的解决方案。
 
-[](/foundational-rl-solving-markov-decision-process-d90b7e134c0b) [## 基础 RL:求解马尔可夫决策过程
-
-### 强化学习之路
-
-towardsdatascience.com](/foundational-rl-solving-markov-decision-process-d90b7e134c0b) 
+[](/foundational-rl-solving-markov-decision-process-d90b7e134c0b)  
 
 # 代理人、行动、奖励和目标
 
@@ -110,11 +106,7 @@ MDP 可以用来模拟自动驾驶汽车的决策过程。在这种情况下，M
 
 第二部分:[https://towards data science . com/fundamental-rl-solving-Markov-decision-process-d 90 b 7 e 134 c0b](/foundational-rl-solving-markov-decision-process-d90b7e134c0b)
 
-[](/foundational-rl-solving-markov-decision-process-d90b7e134c0b) [## 基础 RL:求解马尔可夫决策过程
-
-### 强化学习之路
-
-towardsdatascience.com](/foundational-rl-solving-markov-decision-process-d90b7e134c0b) 
+[](/foundational-rl-solving-markov-decision-process-d90b7e134c0b)  
 
 # 参考
 

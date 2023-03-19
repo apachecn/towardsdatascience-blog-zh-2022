@@ -10,11 +10,7 @@
 
 本文将展示使用图形解决分类问题的管道的实现。今天介绍的解决方案背后的基本算法是 Node2Vec。如果你对 node2vec 不熟悉，我以前写过一篇关于它的文章，你可以在下面看看。
 
-[](/node2vec-explained-db86a319e9ab) [## Node2Vec 解释
-
-### 用 Python 解释和实现 Node2Vec 白皮书
-
-towardsdatascience.com](/node2vec-explained-db86a319e9ab) 
+[](/node2vec-explained-db86a319e9ab)  
 
 您还可以在这里查看如何使用 Node2Vec 构建链接预测推荐系统。
 
@@ -147,20 +143,4 @@ node2vec 生成的嵌入数据的输出示例。图片由作者提供。
 
 如果你喜欢读这篇文章，这里有一些我写的其他文章，我想你可能也会喜欢。
 
-[](/text-summarization-in-python-with-jaro-winkler-and-pagerank-72d693da94e8) [## 用 Jaro-Winkler 和 PageRank 实现 Python 中的文本摘要
-
-### 用 Jaro-Winkler 和 PageRank 构建一个文本摘要器
-
-towardsdatascience.com](/text-summarization-in-python-with-jaro-winkler-and-pagerank-72d693da94e8) [](/random-walks-with-restart-explained-77c3fe216bca) [## 带重启的随机漫步解释
-
-### 理解带重启的随机游走算法及其在 Python 中的相关实现
-
-towardsdatascience.com](/random-walks-with-restart-explained-77c3fe216bca) [](/frequentist-a-b-testing-explained-90b9ce8c28b9) [## Frequentist A/B 测试说明
-
-### 本文将解释 A/B 测试的 frequentist 方法，并提供一个何时以及如何…
-
-towardsdatascience.com](/frequentist-a-b-testing-explained-90b9ce8c28b9) [](/mining-modelling-character-networks-part-ii-a3d77de89638) [## 挖掘和模拟字符网络—第二部分
-
-### 本文将介绍挖掘和建模字符网络的 Python 实现
-
-towardsdatascience.com](/mining-modelling-character-networks-part-ii-a3d77de89638)
+[](/text-summarization-in-python-with-jaro-winkler-and-pagerank-72d693da94e8)  [](/random-walks-with-restart-explained-77c3fe216bca)  [](/frequentist-a-b-testing-explained-90b9ce8c28b9)  [](/mining-modelling-character-networks-part-ii-a3d77de89638) 

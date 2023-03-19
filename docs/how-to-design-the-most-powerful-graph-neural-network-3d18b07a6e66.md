@@ -206,12 +206,4 @@ GIN 架构的完全胜过 GCN。这种差距(平均 10%的准确度)是由几个
 
 # 相关文章
 
-[](/introduction-to-graphsage-in-python-a9e7f9ecf9d7) [## Python 中的 GraphSAGE 简介
-
-### 将图形神经网络扩展到数十亿个连接
-
-towardsdatascience.com](/introduction-to-graphsage-in-python-a9e7f9ecf9d7) [](/graph-attention-networks-in-python-975736ac5c0c) [## 图形注意网络:自我注意的解释
-
-### 使用 PyTorch 几何图形的带自我注意的 GNNs 指南
-
-towardsdatascience.com](/graph-attention-networks-in-python-975736ac5c0c)
+[](/introduction-to-graphsage-in-python-a9e7f9ecf9d7)  [](/graph-attention-networks-in-python-975736ac5c0c) 

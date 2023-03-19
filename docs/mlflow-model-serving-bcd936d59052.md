@@ -89,11 +89,7 @@ MLflow 运行的日志度量
 
 ## 4.其他资源和结论
 
-[](https://github.com/RamVegiraju/mlflow-serving) [## GitHub-RamVegiraju/mlflow-serving:本地服务 ml flow 模型的示例
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/RamVegiraju/mlflow-serving) 
+[](https://github.com/RamVegiraju/mlflow-serving)  
 
 MLflow 是一个非常强大的工具，涵盖了 ML 生命周期的每一步。您可以使用它来构建端到端的 ML 工作流，但更重要的是，它还为您提供了选择 ML 项目中您想要关注的步骤的灵活性。
 

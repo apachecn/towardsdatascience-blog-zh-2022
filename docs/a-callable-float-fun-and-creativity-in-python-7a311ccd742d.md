@@ -187,8 +187,4 @@ True
 
 感谢阅读。如果你喜欢这篇文章，你也可以喜欢我写的其他文章；你会在这里看到他们。如果你想加入 Medium，请使用我下面的推荐链接:
 
-[](https://medium.com/@nyggus/membership) [## 加入我的介绍链接媒体-马尔钦科萨克
-
-### 阅读马尔钦·科萨克(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-medium.com](https://medium.com/@nyggus/membership)
+[](https://medium.com/@nyggus/membership) 

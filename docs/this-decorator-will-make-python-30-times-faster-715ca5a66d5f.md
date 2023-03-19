@@ -77,30 +77,10 @@ numba 的另一个方法是 `vectorize`，这使得创建 numpy 通用函数( [u
 
 如果你对让熊猫跑得更快的更多方法感兴趣，看看我们关于 `eval` & `query`的文章:
 
-[](https://python.plainenglish.io/these-methods-will-change-how-you-use-pandas-921e4669271f) [## 这些方法将改变你使用熊猫的方式
-
-### 通过一个简单的改变让熊猫跑得更快
-
-python .平原英语. io](https://python.plainenglish.io/these-methods-will-change-how-you-use-pandas-921e4669271f) 
+[](https://python.plainenglish.io/these-methods-will-change-how-you-use-pandas-921e4669271f)  
 
 谢谢你坚持到现在。注意安全，在接下来的故事中再见😊！
 
 # 更多文章阅读
 
-[](/rapidly-explore-jupyter-notebooks-right-in-your-terminal-67598d2265c2) [## 快速浏览 Jupyter 笔记本电脑(就在您的终端中)
-
-### 优化笔记本搜索
-
-towardsdatascience.com](/rapidly-explore-jupyter-notebooks-right-in-your-terminal-67598d2265c2) [](/equivalents-between-pandas-and-pyspark-c8b5ba57dc1d) [## 你从熊猫到 Pyspark 的平稳过渡指南
-
-### 熊猫大战 PySpark 101
-
-towardsdatascience.com](/equivalents-between-pandas-and-pyspark-c8b5ba57dc1d) [](/8-tips-to-write-cleaner-code-376f7232652c) [## 编写更简洁代码的 8 个技巧
-
-### 始终获得干净、可读和优雅的代码
-
-towardsdatascience.com](/8-tips-to-write-cleaner-code-376f7232652c) [](/how-to-easily-merge-multiple-jupyter-notebooks-into-one-e464a22d2dc4) [## 如何轻松将多台 Jupyter 笔记本合并为一台
-
-### 黑进你的 Jupyter
-
-towardsdatascience.com](/how-to-easily-merge-multiple-jupyter-notebooks-into-one-e464a22d2dc4)
+[](/rapidly-explore-jupyter-notebooks-right-in-your-terminal-67598d2265c2)  [](/equivalents-between-pandas-and-pyspark-c8b5ba57dc1d)  [](/8-tips-to-write-cleaner-code-376f7232652c)  [](/how-to-easily-merge-multiple-jupyter-notebooks-into-one-e464a22d2dc4) 

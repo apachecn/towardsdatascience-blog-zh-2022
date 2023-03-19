@@ -138,12 +138,4 @@ library(GGally)ggpairs(EX2.TIPS[c("Tip.Percentage","Bill_in_USD","Tip_in_USD")])
 
 # **参考**
 
-**[](https://r-charts.com/) [## R CHARTS |用 R 编程语言制作的图表和图形集合
-
-### 这个网站是作为学习如何用 R 语言创建图表的参考而创建的，也是一个寻找…
-
-r-charts.com](https://r-charts.com/) [](https://www.r-bloggers.com/) [## r 博客
-
-### 由数百个 R 博客提供的 R 新闻和教程
-
-www.r-bloggers.com](https://www.r-bloggers.com/)**
+**[](https://r-charts.com/)  [](https://www.r-bloggers.com/) **

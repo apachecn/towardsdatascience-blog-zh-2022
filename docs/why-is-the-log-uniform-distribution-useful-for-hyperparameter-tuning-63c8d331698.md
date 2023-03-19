@@ -91,16 +91,4 @@ Number of values between 10 and 100: 1614
 
 您可能还会对以下内容感兴趣:
 
-[](/8-more-useful-pandas-functionalities-for-your-analyses-ef87dcfe5d74) [## 用于分析的 8 个更有用的熊猫功能
-
-### 它们可以让你的日常工作更轻松、更快捷
-
-towardsdatascience.com](/8-more-useful-pandas-functionalities-for-your-analyses-ef87dcfe5d74) [](/pur-the-easiest-way-to-keep-your-requirements-file-up-to-date-22d835279348) [## pur——保持您的需求文件最新的最简单的方法
-
-### 用一行代码更新 requirements.txt 中的所有库
-
-towardsdatascience.com](/pur-the-easiest-way-to-keep-your-requirements-file-up-to-date-22d835279348) [](/a-simple-way-to-turn-your-plots-into-gifs-in-python-f6ea4435ed3c) [## 用 Python 把你的图转换成 gif 的简单方法
-
-### 用动画情节打动你的观众
-
-towardsdatascience.com](/a-simple-way-to-turn-your-plots-into-gifs-in-python-f6ea4435ed3c)
+[](/8-more-useful-pandas-functionalities-for-your-analyses-ef87dcfe5d74)  [](/pur-the-easiest-way-to-keep-your-requirements-file-up-to-date-22d835279348)  [](/a-simple-way-to-turn-your-plots-into-gifs-in-python-f6ea4435ed3c) 

@@ -8,11 +8,7 @@
 
 这就是为什么我写了这个新教程，它剥离了我最近构建的在线运行 PCA 的 web 应用程序的底层代码:
 
-[](/a-free-online-tool-for-principal-components-analysis-with-full-graphical-output-c9b3725b4f98) [## 一个免费的在线主成分分析工具，提供完整的图形输出
-
-### 完全在您的浏览器上运行，您不需要下载或安装任何东西，您的数据将保留在您的…
-
-towardsdatascience.com](/a-free-online-tool-for-principal-components-analysis-with-full-graphical-output-c9b3725b4f98) 
+[](/a-free-online-tool-for-principal-components-analysis-with-full-graphical-output-c9b3725b4f98)  
 
 我所说的“低级”是指除了一个取自库的函数之外，其余的代码都是简单的操作和循环。
 
@@ -55,11 +51,7 @@ for (i=0;i<nvariables;i++) {
 
 现在我们已经减去了平均值，我们可以计算协方差矩阵。到目前为止，包括协方差矩阵的计算，在这篇外部博客中已经很清楚了:
 
- [## 协方差矩阵
-
-### 矩阵运算入门梯队矩阵矩阵性质矩阵逆矩阵应用附录本…
-
-stattrek.com](https://stattrek.com/matrix-algebra/covariance-matrix.aspx) 
+  
 
 下面是底层代码:
 
@@ -93,11 +85,7 @@ for (i=0;i<nvariables;i++) {
 
 这是这个过程中唯一的一点，我宁愿使用一个健壮的、经过良好测试的、正确编码的、高效的矩阵代数库，而不是在底层编码所有的东西。在这种情况下，我使用了 Lalolib 包中用于浏览器内数学的一个过程，我在最近的一篇文章中介绍了这个过程:
 
-[](/websites-for-statistics-and-data-analysis-on-every-device-ebf92bec3e53) [## 在每台设备上进行统计和数据分析的网站
-
-### 我对网络浏览器中数据分析在线工具的选择。
-
-towardsdatascience.com](/websites-for-statistics-and-data-analysis-on-every-device-ebf92bec3e53) 
+[](/websites-for-statistics-and-data-analysis-on-every-device-ebf92bec3e53)  
 
 请注意，要使用 Lalolib，您需要在 HTML 中找到它，如下所示:
 
@@ -157,11 +145,7 @@ for (i=0; i<nobjects; i++) {
 
 对于在线运行 PCA 的实际 web 应用程序，包括图形输出，以及关于如何解释结果的解释，请查看另一个故事:
 
-[](/a-free-online-tool-for-principal-components-analysis-with-full-graphical-output-c9b3725b4f98) [## 一个免费的在线主成分分析工具，提供完整的图形输出
-
-### 完全在您的浏览器上运行，您不需要下载或安装任何东西，您的数据将保留在您的…
-
-towardsdatascience.com](/a-free-online-tool-for-principal-components-analysis-with-full-graphical-output-c9b3725b4f98) 
+[](/a-free-online-tool-for-principal-components-analysis-with-full-graphical-output-c9b3725b4f98)  
 
 ## 尝试一下
 

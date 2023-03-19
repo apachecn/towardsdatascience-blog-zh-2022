@@ -16,11 +16,7 @@
 
 为了在你的预算范围内找到建造你自己的个人电脑的最佳质量，我推荐从这个[链接](/best-pc-builds-for-deep-learning-in-every-budget-ranges-3e83d1351a8)查看我以前的指南之一。如果您有兴趣了解 GPU 对于您的 PC 构建的复杂性和要求，我建议您查看下面提供的文章，其中包含了关于探索这一概念的深入指南。
 
-[](/do-you-really-need-a-gpu-for-deep-learning-d37c05023226) [## 深度学习真的需要 GPU 吗？
-
-### 获得一个 GPU 是深度学习的必备条件吗？了解 GPU 及其优势，并探索…
-
-towardsdatascience.com](/do-you-really-need-a-gpu-for-deep-learning-d37c05023226) 
+[](/do-you-really-need-a-gpu-for-deep-learning-d37c05023226)  
 
 # 了解必要的库要求:
 
@@ -69,11 +65,7 @@ for i in range(10):
 
 在上面的代码片段中，我提供了我们可以用可视化技术实现的一瞥。如果观众对可视化更感兴趣，这是数据科学不可或缺的一部分，我建议查看下面的文章。它涵盖了八种最重要的可视化技术，对于您计划构建的任何数据分析项目来说，这些技术都是必须考虑的。
 
-[](/8-best-visualizations-to-consider-for-your-data-science-projects-b9ace21564a) [## 为您的数据科学项目考虑的 8 个最佳可视化！
-
-### 分析数据科学项目探索性数据分析中的 8 种最佳可视化技术。
-
-towardsdatascience.com](/8-best-visualizations-to-consider-for-your-data-science-projects-b9ace21564a) 
+[](/8-best-visualizations-to-consider-for-your-data-science-projects-b9ace21564a)  
 
 # 用 Python 开发自己的内存跟踪器:
 
@@ -122,28 +114,12 @@ plt.show()
 
 如果你想在我的文章发表后第一时间得到通知，请点击下面的[链接](https://bharath-k1297.medium.com/subscribe)订阅邮件推荐。如果你希望支持其他作者和我，请订阅下面的链接。
 
-[](https://bharath-k1297.medium.com/membership) [## 通过我的推荐链接加入媒体
-
-### 阅读 Bharath K(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-bharath-k1297.medium.com](https://bharath-k1297.medium.com/membership) 
+[](https://bharath-k1297.medium.com/membership)  
 
 如果你对这篇文章中提到的各点有任何疑问，请在下面的评论中告诉我。我会尽快给你回复。正如我在之前的[文章](/build-your-own-ai-voice-assistant-to-control-your-pc-f4112a664db2)中承诺的那样，我会尽量每个月发三到五篇文章！
 
 看看我的一些与本文主题相关的文章，你可能也会喜欢阅读！
 
-[](/build-highly-interactive-projects-with-jupyter-notebooks-c7fcf7f87633) [## 使用 Jupyter 笔记本电脑构建高度互动的项目
-
-### 利用小部件为构建交互式 Python 和数据科学项目创建用户友好的环境…
-
-towardsdatascience.com](/build-highly-interactive-projects-with-jupyter-notebooks-c7fcf7f87633) [](/best-seaborn-visualizations-for-data-science-3d866f99c3a9) [## 数据科学最佳 Seaborn 可视化
-
-### 使用 Seaborn 库探索数据科学项目的一些最佳可视化选项
-
-towardsdatascience.com](/best-seaborn-visualizations-for-data-science-3d866f99c3a9) [](/7-python-programming-tips-to-improve-your-productivity-a57802f225b6) [## 提高生产力的 7 个 Python 编程技巧
-
-### 通过修正一些常见的不良编程实践，使您的 Python 编码更加有效和高效
-
-towardsdatascience.com](/7-python-programming-tips-to-improve-your-productivity-a57802f225b6) 
+[](/build-highly-interactive-projects-with-jupyter-notebooks-c7fcf7f87633)  [](/best-seaborn-visualizations-for-data-science-3d866f99c3a9)  [](/7-python-programming-tips-to-improve-your-productivity-a57802f225b6)  
 
 谢谢你们坚持到最后。我希望你们都喜欢这篇文章。祝大家有美好的一天！

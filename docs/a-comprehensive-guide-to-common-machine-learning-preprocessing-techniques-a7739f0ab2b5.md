@@ -16,11 +16,7 @@
 
 处理数据通常涉及几个关键步骤，包括数据争论、清理、格式化、探索和预处理。当开始处理数据并创建某种数据分析时，通常会争论、清理、格式化和探索这些数据。然而，预处理更有趣，因为预处理方法将我们的数据技术带入了一个全新的方向。而对于其他操作，清理、格式化、探索，我们试图将数据解释为人类，在预处理的情况下，我们已经将数据解释为人类，现在正试图使数据更容易被统计算法解释。也就是说，预处理的数量及其有效性会对机器学习模型的性能产生严重影响。鉴于这一点的重要性，今天我们将介绍最流行的预处理技术，解释它们是如何工作的，然后我们将自己编写一些技术，以便更好地演示它们是如何工作的。
 
-[](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/comprehensive%20machine-learning%20techniques.ipynb) [## emmetts-DS-笔记本/全面的机器学习技术
-
-### 各种项目的随机笔记本。通过创建帐户，为 emmettgb/Emmetts-DS 笔记本电脑的开发做出贡献…
-
-github.com](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/comprehensive%20machine-learning%20techniques.ipynb) 
+[](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/comprehensive%20machine-learning%20techniques.ipynb)  
 
 ## 特征类型—简要回顾
 
@@ -180,11 +176,7 @@ end
 
 关于编码器的更多信息，以及解决这些问题的更传统的面向对象方法，您可以在我写的另一篇文章中读到更多关于编码器的信息:
 
-[](/encoders-how-to-write-them-how-to-use-them-d8dd70f45e39) [## 编码器——如何编写，如何使用
-
-### 通过这个“从头开始”的演练，探索编码器在机器学习中的多种用途！
-
-towardsdatascience.com](/encoders-how-to-write-them-how-to-use-them-d8dd70f45e39) 
+[](/encoders-how-to-write-them-how-to-use-them-d8dd70f45e39)  
 
 ## 估算者
 
@@ -229,11 +221,7 @@ endx = [5, 10, missing, 20, missing, 82, missing, missing, 40] impute_mean(x)9-e
 
 [](/deep-in-singular-value-decomposition-98cfd9532241) [## 深入奇异值分解
 
-towardsdatascience.com](/deep-in-singular-value-decomposition-98cfd9532241) [](/random-projection-and-its-role-in-data-science-f253dd66485b) [## 随机投影及其在数据科学中的作用
-
-### 随机投影概述及其在现代数据科学实践中通常扮演的角色。
-
-towardsdatascience.com](/random-projection-and-its-role-in-data-science-f253dd66485b) 
+towardsdatascience.com](/deep-in-singular-value-decomposition-98cfd9532241) [](/random-projection-and-its-role-in-data-science-f253dd66485b)  
 
 ## 结论
 

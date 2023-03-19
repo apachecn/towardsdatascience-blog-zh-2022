@@ -26,11 +26,7 @@
 
 您的域可能会显示这些类型的变化之一。你应该在它们发生之前做好准备。
 
-[](https://levelup.gitconnected.com/concept-drift-in-machine-learning-1fc7a4396b10) [## 为什么机器学习模型会无声无息地死去？
-
-### 那你怎么拯救它呢？
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/concept-drift-in-machine-learning-1fc7a4396b10) 
+[](https://levelup.gitconnected.com/concept-drift-in-machine-learning-1fc7a4396b10)  
 
 这里有三种 ML 工程师经常用来对抗概念漂移的技术。
 
@@ -94,11 +90,7 @@ levelup.gitconnected.com](https://levelup.gitconnected.com/concept-drift-in-mach
 
 在**迁移学习**中，你拿一个预先训练好的神经网络进行再训练。不是重新训练整个模型，而是只解开网络的最后一层。这通常被称为解冻。现在，您使用新数据训练前一层。这个模型不会忘记它以前学过的所有东西。然而，最新数据在最终决策中发挥着关键作用。
 
-[](/transfer-learning-in-deep-learning-641089950f5d) [## 迁移学习:你能学到的最有效的深度学习技能。
-
-### 迁移学习是一种加速深度学习训练的惊人方法。它有助于解决复杂的问题…
-
-towardsdatascience.com](/transfer-learning-in-deep-learning-641089950f5d) 
+[](/transfer-learning-in-deep-learning-641089950f5d)  
 
 你也可以使用一个新的模型来改进你的预测。我们称这样的团体为“T2 模特组合”。虽然您的初始模型保持不变，但中间会有一个新的模型。新模型从新数据中学习，并改变原始模型的行为。
 

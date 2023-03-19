@@ -151,19 +151,11 @@
 
 你喜欢这篇文章吗？如果是，请考虑订阅我的电子邮件列表，以便在我发布新内容时得到通知。免费的:)
 
-[](https://david-farrugia.medium.com/subscribe) [## 每当大卫·法鲁吉亚发表文章时，就收到一封电子邮件。
-
-### 每当大卫·法鲁吉亚发表文章时，就收到一封电子邮件。通过注册，您将创建一个中型帐户，如果您还没有…
-
-david-farrugia.medium.com](https://david-farrugia.medium.com/subscribe) 
+[](https://david-farrugia.medium.com/subscribe)  
 
 **也许你也可以考虑成为一名会员来支持我和你其他喜欢的作家。每月 5 美元，你就可以无限制地阅读 Medium 上的每一篇文章。**
 
-[](https://david-farrugia.medium.com/membership) [## 加入我的介绍链接媒体-大卫法鲁吉亚
-
-### 阅读大卫·法鲁吉亚(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-david-farrugia.medium.com](https://david-farrugia.medium.com/membership) 
+[](https://david-farrugia.medium.com/membership)  
 
 # 想联系吗？
 

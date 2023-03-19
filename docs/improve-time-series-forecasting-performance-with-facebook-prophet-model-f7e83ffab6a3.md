@@ -12,11 +12,7 @@
 
 > 在之前的一篇文章中，我讨论了一个开源包 tsfresh，它可以为您的时间序列用例生成数百个相关特性。
 
-[](/automate-time-series-feature-engineering-in-a-few-lines-of-python-code-f28fe52e4704) [## 用几行 Python 代码实现时间序列特征工程的自动化
-
-### 为您的时间序列用例提取数百个相关特征
-
-towardsdatascience.com](/automate-time-series-feature-engineering-in-a-few-lines-of-python-code-f28fe52e4704) 
+[](/automate-time-series-feature-engineering-in-a-few-lines-of-python-code-f28fe52e4704)  
 
 即使在包括 tsfresh ad 外部特征之后，时间序列模型有时也不会预测到与业务预期相匹配。在本文中，我们将讨论和实现如何使用脸书先知模型的特征来提高监督时间序列模型的性能。
 

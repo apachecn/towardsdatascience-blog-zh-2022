@@ -140,12 +140,4 @@
 
 ## 一些相关的话题
 
-[](/manifold-alignment-c67fc3fc1a1c) [## 歧管对齐
-
-### 多个数据集的统一
-
-towardsdatascience.com](/manifold-alignment-c67fc3fc1a1c) [](/the-gromov-wasserstein-distance-835c39d4751d) [## 格罗莫夫-瓦瑟斯坦距离
-
-### Python 中对象匹配的度量与实例
-
-towardsdatascience.com](/the-gromov-wasserstein-distance-835c39d4751d)
+[](/manifold-alignment-c67fc3fc1a1c)  [](/the-gromov-wasserstein-distance-835c39d4751d) 

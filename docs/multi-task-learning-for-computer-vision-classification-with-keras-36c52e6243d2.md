@@ -12,11 +12,7 @@ M 多任务学习(multi-task Learning，MLT)是机器学习的一个子领域，
 
 本文将介绍 MTL，并展示如何使用 tensorflow 的 Keras 模块在真实数据上实现和训练它。在我的 GitHub 资源库中可以找到完整的代码，以及一个 Jupyter 笔记本，您可以在其中试验您所学到的内容:
 
-[](https://github.com/JavierMtz5/ArtificialIntelligence) [## GitHub-Javier mtz 5/人工智能
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/JavierMtz5/ArtificialIntelligence) 
+[](https://github.com/JavierMtz5/ArtificialIntelligence)  
 
 ## 数据预处理
 
@@ -95,16 +91,8 @@ github.com](https://github.com/JavierMtz5/ArtificialIntelligence)
 
 **【2】**首页:
 
- [## CIFAR-10 和 CIFAR-100 数据集
-
-### 水生哺乳动物海狸、海豚、水獭、海豹、鲸鱼观赏鱼、比目鱼、鳐鱼、鲨鱼、鳟鱼花兰花…
-
-www.cs.toronto.edu](https://www.cs.toronto.edu/%7Ekriz/cifar.html) 
+  
 
 Tensorflow API:
 
-[](https://www.tensorflow.org/datasets/catalog/cifar10) [## cifar10 |张量流数据集
-
-### 由 Google 和社区构建的预训练模型和数据集
-
-www.tensorflow.org](https://www.tensorflow.org/datasets/catalog/cifar10)
+[](https://www.tensorflow.org/datasets/catalog/cifar10) 

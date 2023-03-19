@@ -204,19 +204,11 @@ del df
 
 我把我的代码加载到 GitHub，你可以在下面的链接找到这个笔记本。
 
-[](https://github.com/CognitiveDave/ReadingList/blob/main/cudf.ipynb) [## 主认知区的 reading list/cudf . ipynb Dave/reading list
-
-### 如何自动清理阅读列表？通过创建一个……
-
-github.com](https://github.com/CognitiveDave/ReadingList/blob/main/cudf.ipynb) 
+[](https://github.com/CognitiveDave/ReadingList/blob/main/cudf.ipynb)  
 
 为什么不加入 medium？50 美元的投资在 12 个月内是不错的回报
 
-[](https://cognitivedave.medium.com/membership) [## 通过我的推荐链接-大卫·摩尔加入媒体
-
-### 阅读大卫·摩尔的每一个故事(以及媒体上成千上万的其他作家)。您的会员费直接支持…
-
-cognitivedave.medium.com](https://cognitivedave.medium.com/membership) 
+[](https://cognitivedave.medium.com/membership)  
 
 # 参考文献/引文
 

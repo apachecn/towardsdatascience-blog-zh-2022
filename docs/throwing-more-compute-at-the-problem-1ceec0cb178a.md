@@ -18,11 +18,7 @@
 
 😞你刚刚加入了一个团队。该团队已经建立了一个红移“数据仓库”。他们实际上从关系数据库、第三方集成 API 和应用程序流中转储所有数据。将数据转储到 Redshift 中的过程非常有效，但是当分析师在这些数据上编写查询，连接所有数据源时，这一过程似乎不起作用。为什么？嗯，将所有数据转储到一个允许数据仓库的平台上并不会自动使转储成为一个数据仓库。一半的表没有正确的分布和排序键。他们中的一些有巨大的倾斜。*了解为了什么目的使用什么工具也是非常重要的。*
 
-[](/the-new-data-engineering-stack-78939850bb30) [## 新的数据工程堆栈
-
-### 完整数据工程师的技术
-
-towardsdatascience.com](/the-new-data-engineering-stack-78939850bb30) 
+[](/the-new-data-engineering-stack-78939850bb30)  
 
 😭你有很多数据。其中大部分来自结构化来源。您希望通过 Spark 利用并行处理。你给你的团队一个 Spark EMR 集群。集群被设置为自动扩展，但这是有上限的。您的数据在从中提取数据的对象存储中被正确分区，但是仍然有一点倾斜。您使用 Python 和 SQL 的组合来到达您想要的地方，但是您注意到您在执行查询上比在小得多的关系数据库上花费更多的时间。这怎么可能呢？
 
@@ -52,21 +48,13 @@ towardsdatascience.com](/the-new-data-engineering-stack-78939850bb30)
 
 你可能会问，什么时候投入更多计算是好的？答案并不简单，但也不复杂。您需要同时考虑几个因素，比如数据库配置、计算和内存利用率、数据量、并发用户、数据访问模式(尤其是读取模式)、索引(和/或分区)等等。在某种程度上，即使在短期内，投入更多的计算可能是最糟糕的解决方案，因为它也可能无法解决糟糕的查询问题。
 
-[](/the-art-of-discarding-data-4948ae3b3d14) [## 丢弃数据的艺术
-
-### 做更好的数据工程的核心思想
-
-towardsdatascience.com](/the-art-of-discarding-data-4948ae3b3d14) 
+[](/the-art-of-discarding-data-4948ae3b3d14)  
 
 # 利用可观察性了解更多信息
 
 市场上的许多工具可以让你了解这些事情。一个例子是 NewRelic 和 Percona 工具包的组合。据我所知，这将是应用程序可观察性和数据库性能管理工具的结合，它将为您提供数据库发生情况的完整视图。如果您将数据库托管在 AWS 这样的云平台上，那么您可以使用 RDS Performance Insights 这样的工具来查看数据库。这就是为什么使用云数据库进行扩展更容易一些，因为它们从一开始就打包了一些支持工具。
 
-[](/numbers-every-data-engineer-should-know-cc5c1a0bc3ec) [## 每个数据工程师都应该知道的数字
-
-### 数据工程度量的简短指南
-
-towardsdatascience.com](/numbers-every-data-engineer-should-know-cc5c1a0bc3ec) 
+[](/numbers-every-data-engineer-should-know-cc5c1a0bc3ec)  
 
 # 结论
 
@@ -74,8 +62,4 @@ towardsdatascience.com](/numbers-every-data-engineer-should-know-cc5c1a0bc3ec)
 
 如果你觉得我的文章有用，请订阅并查看我的文章🌲 [**Linktree**](linktree.com/kovid) 。你也可以考虑用我的推荐链接购买一个中级会员来支持我。
 
-[](https://kovidrathee.medium.com/membership) [## 通过我的推荐链接加入 Medium—Kovid rat hee
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-kovidrathee.medium.com\](https://kovidrathee.medium.com/membership)
+[](https://kovidrathee.medium.com/membership) 

@@ -102,19 +102,11 @@ Enter Your Desired Location: Bangalore
 
 用户可以试用这个项目的一个独特的变化是，每当你启动这个程序时，显示你所在位置的天气报告。并且每隔几个小时继续显示一次，以便快速检查气候变化，从而相应地计划您的日程。您可以按照代码中的要求设置您想要的位置，并以类似于我在以前的一篇文章中提到的提醒应用程序的方式构造项目。请随意从下面提供的链接中查看。
 
-[](/python-project-to-improve-your-productivity-for-the-new-year-1956824eddb1) [## Python 项目，提高您新一年的工作效率！
-
-### 这是一个简单、有趣且有用的 Python 项目，旨在为即将到来的新年提高您的工作效率！
-
-towardsdatascience.com](/python-project-to-improve-your-productivity-for-the-new-year-1956824eddb1) 
+[](/python-project-to-improve-your-productivity-for-the-new-year-1956824eddb1)  
 
 用户可以做出的另一个额外改进是构建一个 GUI 应用程序来相应地显示天气状况。如果你不太熟悉 Python 的图形工具，你可以看看我以前的一篇文章，了解更多关于 7 个最好的 GUI 的入门代码。
 
-[](/7-best-ui-graphics-tools-for-python-developers-with-starter-codes-2e46c248b47c) [## 7 款面向 Python 开发人员的最佳 UI 图形工具，带入门代码
-
-### Python 中用于开发酷用户界面技术的七个最佳 UI 图形工具
-
-towardsdatascience.com](/7-best-ui-graphics-tools-for-python-developers-with-starter-codes-2e46c248b47c) 
+[](/7-best-ui-graphics-tools-for-python-developers-with-starter-codes-2e46c248b47c)  
 
 # 结论:
 
@@ -130,28 +122,12 @@ NOAA 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 
 
 如果你想在我的文章发表后第一时间得到通知，请点击下面的[链接](https://bharath-k1297.medium.com/membership)订阅邮件推荐。如果你希望支持其他作者和我，请订阅下面的链接。
 
-[](https://bharath-k1297.medium.com/membership) [## 通过我的推荐链接加入媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-bharath-k1297.medium.com](https://bharath-k1297.medium.com/membership) 
+[](https://bharath-k1297.medium.com/membership)  
 
 如果你对这篇文章中提到的各点有任何疑问，请在下面的评论中告诉我。我会尽快给你回复。
 
 看看我的一些与本文主题相关的文章，你可能也会喜欢阅读！
 
-[](/complete-python-starter-guide-for-data-science-for-2022-c1f880fa249d) [## 2022 年数据科学完整 Python 入门指南
-
-### 涵盖了用代码启动数据科学所需的所有 Python 基础和基本概念…
-
-towardsdatascience.com](/complete-python-starter-guide-for-data-science-for-2022-c1f880fa249d) [](/generating-qr-codes-with-python-in-less-than-10-lines-f6e398df6c8b) [## 用 Python 生成二维码，不到 10 行
-
-### 构建一个简单的 Python 项目，用 QR 码加密您的信息
-
-towardsdatascience.com](/generating-qr-codes-with-python-in-less-than-10-lines-f6e398df6c8b) [](/how-to-write-code-effectively-in-python-105dc5f2d293) [## 如何有效地用 Python 写代码
-
-### 分析使用 Python 编写代码时应该遵循的最佳实践
-
-towardsdatascience.com](/how-to-write-code-effectively-in-python-105dc5f2d293) 
+[](/complete-python-starter-guide-for-data-science-for-2022-c1f880fa249d)  [](/generating-qr-codes-with-python-in-less-than-10-lines-f6e398df6c8b)  [](/how-to-write-code-effectively-in-python-105dc5f2d293)  
 
 谢谢你们坚持到最后。我希望你们都喜欢这篇文章。祝大家有美好的一天！

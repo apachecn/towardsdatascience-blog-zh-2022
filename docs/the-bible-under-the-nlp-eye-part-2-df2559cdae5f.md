@@ -10,11 +10,7 @@
 
 欢迎回到 NLP 世界的介绍。如果您错过了 NLP 介绍的第一部分，请单击此处:
 
-[](/the-bible-under-the-nlp-eye-part-1-416dbfd79444) [## NLP 眼中的圣经(上)
-
-### 有趣的数据科学项目的第一部分，学习更多关于文本处理、NLP 技术和提取…
-
-towardsdatascience.com](/the-bible-under-the-nlp-eye-part-1-416dbfd79444) 
+[](/the-bible-under-the-nlp-eye-part-1-416dbfd79444)  
 
 今天我们将探索新的自然语言处理工具，来分析圣经:
 
@@ -167,10 +163,6 @@ nltk.download('punkt')
 
 *通过我的推荐链接加入 Medium 来支持我的写作和项目:*
 
-[](https://stefanobosisio1.medium.com/membership) [## 通过我的推荐链接加入 Medium-Stefano Bosisio
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-stefanobosisio1.medium.com](https://stefanobosisio1.medium.com/membership) 
+[](https://stefanobosisio1.medium.com/membership)  
 
 如果有任何问题或意见，请随时给我发电子邮件，地址是:stefanobosisio1@gmail.com，或者直接在 Medium 这里。

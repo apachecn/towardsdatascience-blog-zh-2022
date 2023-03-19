@@ -143,16 +143,4 @@ SLA 不仅定义了数据可靠性的范围，还定义了**错误预算**，这
 
 ## 参考
 
-[](https://www.montecarlodata.com/blog-how-to-make-your-data-pipelines-more-reliable-with-slas/) [## 为什么您需要为您的数据管道设置 SLA
-
-### 对于当今的数据工程团队来说，对实时、准确数据的需求从未如此之高，然而数据停机时间却是…
-
-www.montecarlodata.com](https://www.montecarlodata.com/blog-how-to-make-your-data-pipelines-more-reliable-with-slas/) [](https://cloud.google.com/architecture/building-production-ready-data-pipelines-using-dataflow-planning) [## 使用数据流构建生产就绪数据管道:规划数据管道|云…
-
-### 本文档解释了在开始代码开发之前，数据管道的重要规划考虑事项。这是…
-
-cloud.google.com](https://cloud.google.com/architecture/building-production-ready-data-pipelines-using-dataflow-planning) [](https://cloud.google.com/blog/products/devops-sre/defining-slos-for-services-with-dependencies-cre-life-lessons) [## 谷歌的 SRE:为具有依赖性的服务定义 SLOs 谷歌云博客
-
-### 在 CRE 生活课程的前一集中，我们讨论了服务水平目标(SLO)如何成为…
-
-cloud.google.com](https://cloud.google.com/blog/products/devops-sre/defining-slos-for-services-with-dependencies-cre-life-lessons)
+[](https://www.montecarlodata.com/blog-how-to-make-your-data-pipelines-more-reliable-with-slas/)  [](https://cloud.google.com/architecture/building-production-ready-data-pipelines-using-dataflow-planning)  [](https://cloud.google.com/blog/products/devops-sre/defining-slos-for-services-with-dependencies-cre-life-lessons) 

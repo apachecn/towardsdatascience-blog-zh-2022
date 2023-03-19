@@ -116,8 +116,4 @@
 
 ****对于这个悖论和其他我也想写的悖论，我们能说些什么呢？一方面，重要的是要有一种统计文化，让我们知道有时我们的直觉可能会误导我们得出错误的结论。另一方面，现实世界要复杂得多，我们不应该停留在简单的统计数字上。****
 
-****[](https://medium.com/@angela.shi/membership) [## 通过我的推荐链接加入 Medium-Angela Shi
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@angela.shi/membership)****
+****[](https://medium.com/@angela.shi/membership) ****

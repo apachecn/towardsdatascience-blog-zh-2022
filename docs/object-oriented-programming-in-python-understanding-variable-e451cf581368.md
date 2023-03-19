@@ -161,16 +161,4 @@ True
 
 如果你喜欢这篇文章，请查看 Python 中面向对象系列的前几篇:
 
-[](/object-oriented-programming-in-python-what-and-why-d966e9e0fd03) [## Python 中的面向对象编程——什么和为什么？
-
-### 学习 Python 中的面向对象编程。
-
-towardsdatascience.com](/object-oriented-programming-in-python-what-and-why-d966e9e0fd03) [](/oop-in-python-understanding-a-class-bcc088e595c6) [## Python 中的 OOP 理解一个类
-
-### 理解 Python 类的基本组件。
-
-towardsdatascience.com](/oop-in-python-understanding-a-class-bcc088e595c6) [](https://curious-joe.medium.com/object-oriented-programming-in-python-inheritance-and-subclass-9c62ad027278) [## Python 中的面向对象编程——继承和子类
-
-### 理解继承的基本概念，并通过创建子类来应用它们。
-
-curious-joe.medium.com](https://curious-joe.medium.com/object-oriented-programming-in-python-inheritance-and-subclass-9c62ad027278)
+[](/object-oriented-programming-in-python-what-and-why-d966e9e0fd03)  [](/oop-in-python-understanding-a-class-bcc088e595c6)  [](https://curious-joe.medium.com/object-oriented-programming-in-python-inheritance-and-subclass-9c62ad027278) 

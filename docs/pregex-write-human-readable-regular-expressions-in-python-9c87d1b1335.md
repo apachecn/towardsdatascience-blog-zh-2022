@@ -159,28 +159,12 @@ pip install pregex==2.0.1
 
 随意发挥，并在这里叉这篇文章的源代码:
 
-[](https://github.com/khuyentran1401/Data-science/blob/master/productive_tools/pregex.ipynb) [## 数据科学/pregex . ipynb at master khuyentran 1401/数据科学
-
-### 收集有用的数据科学主题以及代码和文章-Data-science/pregex . ipynb at master…
-
-github.com](https://github.com/khuyentran1401/Data-science/blob/master/productive_tools/pregex.ipynb) 
+[](https://github.com/khuyentran1401/Data-science/blob/master/productive_tools/pregex.ipynb)  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的数据科学工具。你可以在 LinkedIn 和 Twitter 上与我联系。
 
 如果你想查看我写的所有文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/write-clean-python-code-using-pipes-1239a0f3abf5) [## 使用管道编写干净的 Python 代码
+[](/write-clean-python-code-using-pipes-1239a0f3abf5)  [](https://medium.com/the-prefect-blog/sending-slack-notifications-in-python-with-prefect-840a895f81c)  [](/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e) [## 3 个跟踪和可视化 Python 代码执行的工具
 
-### 一种简洁明了的处理迭代的方法
-
-towardsdatascience.com](/write-clean-python-code-using-pipes-1239a0f3abf5) [](https://medium.com/the-prefect-blog/sending-slack-notifications-in-python-with-prefect-840a895f81c) [## 使用提督在 Python 中发送松弛通知
-
-### 通过松弛通知了解 Python 代码的进度
-
-medium.com](https://medium.com/the-prefect-blog/sending-slack-notifications-in-python-with-prefect-840a895f81c) [](/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e) [## 3 个跟踪和可视化 Python 代码执行的工具
-
-towardsdatascience.com](/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e) [](/validate-your-pandas-dataframe-with-pandera-2995910e564) [## 用 Pandera 验证你的熊猫数据框架
-
-### 确保您的数据符合您的期望
-
-towardsdatascience.com](/validate-your-pandas-dataframe-with-pandera-2995910e564)
+towardsdatascience.com](/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e) [](/validate-your-pandas-dataframe-with-pandera-2995910e564) 

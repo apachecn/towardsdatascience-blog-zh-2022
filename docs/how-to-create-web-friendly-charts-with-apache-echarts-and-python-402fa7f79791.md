@@ -99,8 +99,4 @@ Apache ECharts 是一个强大的数据可视化库。它的目标是在网络�
 谢谢你，
 格雷果
 
-[](https://gscheithauer.medium.com/membership) [## 通过我的推荐链接加入 Medium-Gregor scheit hauer 博士
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gscheithauer.medium.com](https://gscheithauer.medium.com/membership)
+[](https://gscheithauer.medium.com/membership) 

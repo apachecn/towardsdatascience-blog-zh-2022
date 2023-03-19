@@ -132,11 +132,7 @@ package GoSamplePackage
 
 使用解决方案设置，我创建了一个到/echo 端点的查询。TigerGraph 内置端点的完整文档可以在[这里](https://docs.tigergraph.com/tigergraph-server/current/api/built-in-endpoints)找到。
 
-[](https://docs.tigergraph.com/tigergraph-server/current/api/built-in-endpoints) [## 内置端点- TigerGraph 服务器
-
-### 这些端点是简单的诊断实用程序，如果 RESTPP 服务器启动，它们会响应以下消息…
-
-docs.tigergraph.com](https://docs.tigergraph.com/tigergraph-server/current/api/built-in-endpoints) 
+[](https://docs.tigergraph.com/tigergraph-server/current/api/built-in-endpoints)  
 
 我创建的 Go 函数接受两个参数，子域(主机)和令牌。
 
@@ -167,11 +163,7 @@ go mod tidy
 
 在这里找到完整的代码。
 
-[](https://github.com/GenericP3rson/GoSamplePackage/blob/master/GoSamplePackage.go) [## GoSamplePackage/GoSamplePackage . go at master generic 3 rson/GoSamplePackage
-
-### 此文件包含双向 Unicode 文本，其解释或编译可能与下面显示的不同…
-
-github.com](https://github.com/GenericP3rson/GoSamplePackage/blob/master/GoSamplePackage.go) 
+[](https://github.com/GenericP3rson/GoSamplePackage/blob/master/GoSamplePackage.go)  
 
 这是您可以创建的函数的一个例子，但是天空是创建包的极限。一旦您满意了，您就可以继续部署代码了。
 
@@ -213,11 +205,7 @@ git tag v0.0.1
 
 关于如何最好地决定版本，请查看[语义版本](https://semver.org/)指南。
 
- [## 语义版本 2.0.0
-
-### 给定主要版本号。补丁，增加:主要版本当你做不兼容的 API 改变，次要…
-
-semver.org](https://semver.org/) 
+  
 
 分配一个版本后，将其推送到存储库。
 
@@ -313,34 +301,14 @@ go run .
 
 Go 和 DigitalOcean 为围棋初学者提供了几个方便的资源，对学习这门语言非常有帮助。
 
-[](https://go.dev/learn/) [## 入门——Go 编程语言
-
-### 爱沙尼亚塔林，2022 年 5 月 23 日这是一个为对 Go 编程语言感兴趣的人成立的团体。所有有志…
-
-go.dev](https://go.dev/learn/) [](https://go.dev/doc/tutorial/getting-started) [## 教程:Go - The Go 编程语言入门
-
-### 在本教程中，你将得到一个关于围棋编程的简要介绍。在此过程中，您将:
-
-go.dev](https://go.dev/doc/tutorial/getting-started) [](https://www.digitalocean.com/community/tutorials/how-to-write-packages-in-go) [## 如何在 Go | DigitalOcean 中编写包
-
-### 一个包是由 Go 文件组成的，这些文件位于同一个目录中，并且在开头有相同的 package 语句…
-
-www.digitalocean.com](https://www.digitalocean.com/community/tutorials/how-to-write-packages-in-go) 
+[](https://go.dev/learn/)  [](https://go.dev/doc/tutorial/getting-started)  [](https://www.digitalocean.com/community/tutorials/how-to-write-packages-in-go)  
 
 最后，如果您对该图感兴趣，请随时加入 TigerGraph 社区，参与令人惊叹的项目并与其他开发人员聊天。
 
-[](https://discord.gg/DMHabbX3BA) [## 加入 TigerGraph Discord 服务器！
-
-### 查看 Discord 上的 TigerGraph 社区-与 1，280 名其他成员一起玩，享受免费的语音和文本聊天。
-
-不和谐. gg](https://discord.gg/DMHabbX3BA) 
+[](https://discord.gg/DMHabbX3BA)  
 
 如果你想了解这个项目的完整代码，请点击这里查看。
 
-[](https://github.com/GenericP3rson/GoSamplePackage) [## GitHub-generic 3 rson/GoSamplePackage
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/GenericP3rson/GoSamplePackage) 
+[](https://github.com/GenericP3rson/GoSamplePackage)  
 
 > 注:除特别注明外，所有图片均由作者创作。

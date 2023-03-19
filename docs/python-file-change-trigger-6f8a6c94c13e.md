@@ -53,11 +53,7 @@ python <YourScript>.py /somewhare/in/your/computer
 
 在我之前的文章中，你可以了解更多关于使用 Python 创建命令行界面的内容。
 
-[](/a-simplified-guide-to-create-clis-for-your-data-science-project-bf9bcaa26e1) [## 为您的数据科学项目创建 CLI 的简化指南
-
-### CLI 是一种与机器学习模型交互的强大而直接的方式
-
-towardsdatascience.com](/a-simplified-guide-to-create-clis-for-your-data-science-project-bf9bcaa26e1) 
+[](/a-simplified-guide-to-create-clis-for-your-data-science-project-bf9bcaa26e1)  
 
 # 处理程序类中的文件更改
 

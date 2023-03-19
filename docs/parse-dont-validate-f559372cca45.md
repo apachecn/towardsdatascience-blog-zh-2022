@@ -76,11 +76,7 @@ class Customer:
 
 *我想在本文中讨论的解决方案是将数据解析成一种类型，这种类型包含了我们作为验证的一部分而生成的信息。这种方法受益于 Python 类型的静态部分，我在上一篇文章中已经提到过。*
 
-*[](/strong-static-typing-to-prevent-illegal-code-states-7a13e122cbab) [## 防止非法代码状态的强大静态类型| Python 模式
-
-### 使用 Python 静态类型将重点放在业务逻辑上，而不是用“制造非法状态…
-
-towardsdatascience.com](/strong-static-typing-to-prevent-illegal-code-states-7a13e122cbab) 
+*[](/strong-static-typing-to-prevent-illegal-code-states-7a13e122cbab)  
 
 # 解析，不验证
 
@@ -141,19 +137,7 @@ def _contact_customer_by_email(customer):  # this name is irrelevant
 
 使用数据类型的第一步是将应用程序的输入数据转换成这种类型。解析就是这个过程，它检查数据的正确性，然后将它们分配到应用程序中正确的位置。静态检查和动态多态可以帮助开发人员通过为数据本身的控件编写尽可能少的代码来减少错误的数量。
 
-[](/python-polymorphism-with-class-discovery-28908ac6456f) [## 带寄存器的 Python 多态性| Python 模式
-
-### 学习一种模式来隔离包，同时扩展 Python 代码的功能。
-
-towardsdatascience.com](/python-polymorphism-with-class-discovery-28908ac6456f) [](/machine-translation-evaluation-with-cometinho-c89880731409) [## 使用 Cometinho 进行机器翻译评估
-
-### 着眼于性能，减少模型大小、节省计算时间和金钱的实用建议
-
-towardsdatascience.com](/machine-translation-evaluation-with-cometinho-c89880731409) [](/tips-for-reading-and-writing-an-ml-research-paper-a505863055cf) [## 阅读和撰写 ML 研究论文的技巧
-
-### 从几十次同行评审中获得的经验教训
-
-towardsdatascience.com](/tips-for-reading-and-writing-an-ml-research-paper-a505863055cf) 
+[](/python-polymorphism-with-class-discovery-28908ac6456f)  [](/machine-translation-evaluation-with-cometinho-c89880731409)  [](/tips-for-reading-and-writing-an-ml-research-paper-a505863055cf)  
 
 # 中等会员
 

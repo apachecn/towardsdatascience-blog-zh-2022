@@ -16,11 +16,7 @@
 
 还有一个办法。
 
-[](https://github.com/mikekeith52/scalecast) [## GitHub - mikekeith52/scalecast:使用这个独特的软件包进行大规模动态预测。pip 安装…
-
-### 该软件包使用 Python 中的可扩展预测方法，具有公共 scikit-learn 和 statsmodels，以及…
-
-github.com](https://github.com/mikekeith52/scalecast) 
+[](https://github.com/mikekeith52/scalecast)  
 
 [scalecast](https://scalecast.readthedocs.io/en/latest/Forecaster/_forecast.html#module-src.scalecast.Forecaster.Forecaster._forecast_lstm) 库托管 TensorFlow LSTM，可轻松用于时间序列预测任务。该软件包旨在消除实施时间序列预测的许多麻烦。它在引擎盖下使用 TensorFlow。以下是你应该尝试一下的一些理由:
 

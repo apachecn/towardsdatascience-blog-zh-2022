@@ -107,16 +107,4 @@
 
 *下面还有一些你可能喜欢的帖子*
 
-*[](https://medium.com/geekculture/scraping-and-evaluating-elons-musk-tweets-e2c7bb94b75e) [## 抓取和评估埃隆的马斯克推文
-
-### 你如何为你的 NLP 项目获取数据？
-
-medium.com](https://medium.com/geekculture/scraping-and-evaluating-elons-musk-tweets-e2c7bb94b75e) [](/human-in-the-loop-in-machine-translation-systems-bdf3fe82bfa3) [## 机器翻译系统中的人在回路
-
-### 使用众包评估机器翻译质量
-
-towardsdatascience.com](/human-in-the-loop-in-machine-translation-systems-bdf3fe82bfa3) [](/how-to-successfully-add-large-data-sets-to-google-drive-130beb320f1a) [## 如何成功将大型数据集添加到 Google Drive
-
-### 并在谷歌实验室中使用它们…
-
-towardsdatascience.com](/how-to-successfully-add-large-data-sets-to-google-drive-130beb320f1a)*
+*[](https://medium.com/geekculture/scraping-and-evaluating-elons-musk-tweets-e2c7bb94b75e)  [](/human-in-the-loop-in-machine-translation-systems-bdf3fe82bfa3)  [](/how-to-successfully-add-large-data-sets-to-google-drive-130beb320f1a) *

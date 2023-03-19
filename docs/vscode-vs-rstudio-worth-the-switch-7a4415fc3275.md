@@ -48,11 +48,7 @@ RStudio 是一款出色的软件，在我的工作流程中从未给我带来任
 
 一些简单的快捷方式，如管道操作符，不能开箱即用，所以根据您的喜好，可以使用以下方法为“%>%”或“| >”添加快捷方式:
 
-[](https://stackoverflow.com/questions/58731362/how-do-i-had-an-alias-for-magrittr-pipe-from-r-in-vscode) [## 在 vscode 中，我如何从 R 中获得马格里特管道的别名
-
-### 我想在 vscode 中输入% > %的别名(R 中的管道命令)。在 Rstudio 中，这被映射到 ctrl + shift +…
-
-stackoverflow.com](https://stackoverflow.com/questions/58731362/how-do-i-had-an-alias-for-magrittr-pipe-from-r-in-vscode) 
+[](https://stackoverflow.com/questions/58731362/how-do-i-had-an-alias-for-magrittr-pipe-from-r-in-vscode)  
 
 **使用 R 代码:**
 

@@ -135,11 +135,7 @@ wq.plot_param('SPM', cmap='jet', vmin=5, vmax=20)
 
 *如果你喜欢这篇文章，想支持我成为一名作家，可以考虑通过我的推荐链接成为* [*媒介会员*](https://cordmaur.medium.com/membership) *。每月只需 5 美元，我会从你的会员费中收取一小笔佣金，不需要你额外付费。或者你可以随时给我买杯咖啡。*
 
-[](http://cordmaur.medium.com/membership) [## 通过我的推荐链接加入媒体-毛里西奥·科代罗
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-cordmaur.medium.com](http://cordmaur.medium.com/membership) 
+[](http://cordmaur.medium.com/membership)  
 
 # 参考
 

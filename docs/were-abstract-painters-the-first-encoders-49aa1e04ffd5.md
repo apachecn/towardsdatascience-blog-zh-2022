@@ -112,32 +112,8 @@
 
 ***喜欢这篇文章吗？你可能也会喜欢以下几个:***
 
-**[](/is-small-data-the-next-big-thing-in-data-science-9acc7f24907f) [## “小数据”是数据科学的下一个大事件吗？
-
-### 人工智能先驱吴恩达预测，未来十年将围绕以数据为中心的人工智能。我们可能不会…
-
-towardsdatascience.com](/is-small-data-the-next-big-thing-in-data-science-9acc7f24907f) [](/zen-and-the-art-of-data-science-how-to-avoid-gumption-traps-a3590deef870) [## 禅宗和数据科学的艺术——如何避免冒险陷阱
-
-### 即使是最优秀的数据科学家也会在他们的项目中面临挫折和失去动力。哲学家罗伯特会怎么想…
-
-towardsdatascience.com](/zen-and-the-art-of-data-science-how-to-avoid-gumption-traps-a3590deef870) 
+**[](/is-small-data-the-next-big-thing-in-data-science-9acc7f24907f)  [](/zen-and-the-art-of-data-science-how-to-avoid-gumption-traps-a3590deef870)  
 
 # 参考
 
-[](https://fr.wikipedia.org/wiki/Composition_avec_grand_plan_rouge,_jaune,_noir,_gris_et_bleu) [## 红、新、黑、灰、蓝的宏伟计划
-
-### 维基百科的一篇文章，自由的百科全书。红、新、黑、灰、蓝是一种宏大的构图…
-
-fr.wikipedia.org](https://fr.wikipedia.org/wiki/Composition_avec_grand_plan_rouge,_jaune,_noir,_gris_et_bleu) [](https://en.wikipedia.org/wiki/De_Stijl) [## 艺术-维基百科
-
-### de Stijl(；荷兰语发音: )，荷兰语意为“风格”，也称为新塑料主义，是荷兰的艺术运动…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/De_Stijl) [](https://en.wikipedia.org/wiki/Impressionism) [## 印象派-维基百科
-
-### 印象主义是 19 世纪的一场艺术运动，其特点是相对较小、较薄但可见的笔触，开放…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Impressionism) [](https://en.wikipedia.org/wiki/Image_segmentation) [## 图像分割-维基百科
-
-### 在数字图像处理和计算机视觉中，图像分割是将一幅数字图像分割成几个部分的过程
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Image_segmentation)**
+[](https://fr.wikipedia.org/wiki/Composition_avec_grand_plan_rouge,_jaune,_noir,_gris_et_bleu)  [](https://en.wikipedia.org/wiki/De_Stijl)  [](https://en.wikipedia.org/wiki/Impressionism)  [](https://en.wikipedia.org/wiki/Image_segmentation) **

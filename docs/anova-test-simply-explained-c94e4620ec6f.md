@@ -12,15 +12,7 @@
 
 你们中的许多人可能听说过 **Z 测试**和 **T 测试；**我甚至已经就这些话题发表了两篇博文，你可以点击这里查看:
 
-[](/z-test-simply-explained-80b346e0e239) [## 简单解释了 z 测试
-
-### 统计假设检验的 Z 检验的直观解释
-
-towardsdatascience.com](/z-test-simply-explained-80b346e0e239) [](/statistical-t-test-simply-explained-b510045d69e) [## 简单解释了统计 T 检验
-
-### 介绍学生的 t 分布和学生的 t 检验
-
-towardsdatascience.com](/statistical-t-test-simply-explained-b510045d69e) 
+[](/z-test-simply-explained-80b346e0e239)  [](/statistical-t-test-simply-explained-b510045d69e)  
 
 这些测试使我们能够确定**两个总体或样本均值在统计上是否有显著差异**。然而，如果我们想测试三个样本之间的平均值呢？
 
@@ -90,15 +82,7 @@ ANOVA 测试中的主要概念是**方差**，它是数据的**扩散/分散**�
 
 *要了解更多关于 f 分布和 Chi 分布的信息，请查看我以前的帖子:*
 
-*[](/chi-square-distribution-simply-explained-87f707ba631a) [## 卡方分布简单解释
-
-### 卡方分布及其起源的简单解释
-
-towardsdatascience.com](/chi-square-distribution-simply-explained-87f707ba631a) [](/f-distribution-simply-explained-45d0e6768a4) [## 简单解释了 f 分布
-
-### 对 f 分布的简单而简明的描述
-
-towardsdatascience.com](/f-distribution-simply-explained-45d0e6768a4) 
+*[](/chi-square-distribution-simply-explained-87f707ba631a)  [](/f-distribution-simply-explained-45d0e6768a4)  
 
 # 假设检验步骤
 

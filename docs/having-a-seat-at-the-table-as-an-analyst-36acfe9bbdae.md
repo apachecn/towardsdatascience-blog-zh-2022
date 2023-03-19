@@ -78,11 +78,7 @@
 
 与其避免数据请求，不如确保我们只处理输出将提供可操作结果的请求，这一点很重要。本文对如何处理即席数据请求进行了更深入的概述:
 
-[](/challenging-the-stakeholder-as-an-analyst-e8ce0dc92ea5) [## 挑战作为分析师的利益相关者
-
-### 为什么分析师不应该盲目地处理摆在他们桌面上的每一个数据请求，以及如何做得更好。
-
-towardsdatascience.com](/challenging-the-stakeholder-as-an-analyst-e8ce0dc92ea5) 
+[](/challenging-the-stakeholder-as-an-analyst-e8ce0dc92ea5)  
 
 # 结论
 

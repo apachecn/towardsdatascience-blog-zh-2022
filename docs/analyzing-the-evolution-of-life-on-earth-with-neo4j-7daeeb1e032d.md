@@ -12,19 +12,11 @@
 
 要了解本文中的代码示例，您需要下载 [Neo4j 桌面应用程序](https://neo4j.com/download/)。我准备了一个数据库转储，您可以使用它轻松启动并运行 Neo4j 数据库，而不必自己导入数据集。如果你需要一些关于恢复数据库转储的帮助，看看我之前的博文。
 
- [## NCBI-分类-neo4j.dump
-
-### 编辑描述
-
-drive.google.com](https://drive.google.com/file/d/1-TNOU3KKEaDH6AtXJRQxzy8yRimx41Zt/view?usp=sharing) 
+  
 
 原始数据集可在 NCBI 网站上获得。
 
- [## /发布/分类的索引
-
-### 编辑描述
-
-ftp.ncbi.nlm.nih.gov](https://ftp.ncbi.nlm.nih.gov/pub/taxonomy/) 
+  
 
 我已经使用 2022 年 6 月 13 日下载的新分类转储文件夹创建了上述数据库转储。虽然没有为数据集指定明确的许可，但 [NCBI 网站声明](https://www.ncbi.nlm.nih.gov/home/about/policies/)所有信息在公共领域内都是可用的。
 

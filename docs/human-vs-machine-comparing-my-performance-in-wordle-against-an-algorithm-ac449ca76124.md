@@ -155,8 +155,4 @@ Wordle 规则解释(鸣谢:图片由作者提供)
 
 就这些，希望你喜欢这篇文章！如果你想更深入地了解这些代码，你可以在下面的回购协议中查看:
 
-[](https://github.com/nicogarciaara/play_wordle) [## GitHub—nicogarciaara/play _ wordle:线性规划模型和关于算法 I 的代码…
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/nicogarciaara/play_wordle)
+[](https://github.com/nicogarciaara/play_wordle) 

@@ -20,11 +20,7 @@
 
 在之前的一篇文章中，我写了关于来自国家环境信息中心(NCEI)的[公开可用数据](https://www.noaa.gov/big-data-project-frequently-asked-questions)来源。请阅读该文章，了解有关如何访问数据的更多详细信息，并访问 [NCEI](https://www.ncei.noaa.gov/about) 了解更多有关 NCEI 和国家环境卫星、数据和信息服务(NESDIS)任务的信息。
 
-[](/democratizing-historical-weather-data-with-r-cc3c76dde7c5) [## 用 R 民主化历史天气数据
-
-### 园丁指南，有人搬到不同的气候，或任何其他原因，人们可能有兴趣分析…
-
-towardsdatascience.com](/democratizing-historical-weather-data-with-r-cc3c76dde7c5) 
+[](/democratizing-historical-weather-data-with-r-cc3c76dde7c5)  
 
 在这篇文章中，重点将是 TMAX，在特定气象站观测到的最高日温度。俄勒冈州波特兰市的数据和我的探索性数据分析可在 [GitHub](https://github.com/wpbSabi/weather/blob/main/consecutive%20days%20of%20heat.ipynb) 上获得。
 

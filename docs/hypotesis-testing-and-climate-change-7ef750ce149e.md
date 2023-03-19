@@ -100,23 +100,11 @@ z 测试(图片由作者提供)
 
 我目前在欧洲航天局工作，我专注于改进这个门户，在那里你可以找到一群工作人员(包括数据)。
 
-[](https://earth.esa.int/eogateway) [## 主页
-
-### 地球在线提供欧洲航天局在地球观测领域的新闻和信息。的…
-
-earth.esa.int](https://earth.esa.int/eogateway) 
+[](https://earth.esa.int/eogateway)  
 
 在这里你可以浏览来自**哥白尼任务的数据。**
 
-[](https://spacedata.copernicus.eu/) [## 哥白尼空间组件数据存取
-
-### 自 2010 年以来，各种各样的地球观测数据已经产生，以满足哥白尼的需要…
-
-spacedata.copernicus.eu](https://spacedata.copernicus.eu/) [](https://scihub.copernicus.eu/) [## 开放式接入集线器
-
-### 自从哨兵-1 任务开始以来，波模 OCN 产品包含了显著的波高…
-
-哥白尼](https://scihub.copernicus.eu/) 
+[](https://spacedata.copernicus.eu/)  [](https://scihub.copernicus.eu/)  
 
 ## 最后的想法
 

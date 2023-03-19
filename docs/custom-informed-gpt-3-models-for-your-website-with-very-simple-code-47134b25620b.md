@@ -27,27 +27,11 @@
 
 结果令人印象深刻，尽管有许多限制，主要是因为该模型当然并不真正理解它所读和写的内容…它只是一个统计模型，综合了语法上正确但事实上可能准确也可能不准确的文本。您可以在最近的文章中了解更多关于我所做的这些测试的信息:
 
-[](/gpt-3-like-models-with-extended-training-could-be-the-future-24-7-tutors-for-biology-students-904d2ae7986a) [## 经过长期训练的类似 GPT 3 的模特可能成为未来生物学生的全天候导师
-
-### 尽管其他科目的成绩相当令人沮丧，但 GPT-3 在生物方面表现相当好，如果它…
-
-towardsdatascience.com](/gpt-3-like-models-with-extended-training-could-be-the-future-24-7-tutors-for-biology-students-904d2ae7986a)  [## 关于 GPT-3 及其(显然无效的)“思考”能力的说明
-
-### 在我最近的文章中，有一些关于 GPT-3 的能力的说明，尽管令人印象深刻，但并不…
-
-towardsdatascience.com](/a-note-on-gpt-3-and-its-obviously-null-thinking-capabilities-de84a26ac0f3) [](/testing-gpt-3-on-elementary-physics-unveils-some-important-problems-9d2a2e120280) [## 在基础物理上测试 GPT-3 揭示了一些重要的问题
-
-### 该软件似乎是可靠的咨询理论概念，但不是他们的应用，与潜在的…
-
-towardsdatascience.com](/testing-gpt-3-on-elementary-physics-unveils-some-important-problems-9d2a2e120280) 
+[](/gpt-3-like-models-with-extended-training-could-be-the-future-24-7-tutors-for-biology-students-904d2ae7986a)    [](/testing-gpt-3-on-elementary-physics-unveils-some-important-problems-9d2a2e120280)  
 
 重要的是，正如我在一些例子[中展示的，特别是在这个例子](/gpt-3-like-models-with-extended-training-could-be-the-future-24-7-tutors-for-biology-students-904d2ae7986a)中，通过**正确设置 GPT-3 的参数，并用*特别的*内容训练它，它被证明非常“聪明”，特别是对于使用关于事实主题的自然语言的信息检索。我们将在这里利用这一点来制作一个网页，它知道你教 GPT-3 的一个特定主题。**
 
-[](/gpt-3-like-models-with-extended-training-could-be-the-future-24-7-tutors-for-biology-students-904d2ae7986a) [## 经过长期训练的类似 GPT 3 的模特可能成为未来生物学生的全天候导师
-
-### 尽管其他科目的成绩相当令人沮丧，但 GPT-3 在生物方面表现相当好，如果它…
-
-towardsdatascience.com](/gpt-3-like-models-with-extended-training-could-be-the-future-24-7-tutors-for-biology-students-904d2ae7986a) 
+[](/gpt-3-like-models-with-extended-training-could-be-the-future-24-7-tutors-for-biology-students-904d2ae7986a)  
 
 > 通过正确设置 GPT-3 的参数，并用*特别的*内容对其进行训练，它被证明非常“聪明”，特别是对于使用自然语言对事实主题进行信息检索。我们将在这里利用这一点来制作一个网页，它知道你教 GPT-3 的一个特定主题。
 
@@ -152,19 +136,11 @@ towardsdatascience.com](/gpt-3-like-models-with-extended-training-could-be-the-f
 
 OpenAI 本身并不支持 PHP，但是有一个专门的开发人员社区，他们编写库来通过 PHP 调用 GPT-3 API(也可以从其他语言的代码中调用):
 
- [## OpenAI API
-
-### 用于访问 OpenAI 开发的新人工智能模型的 API
-
-beta.openai.com](https://beta.openai.com/docs/libraries/community-libraries) 
+  
 
 我尝试了几个可用的 PHP 库，决定选择这个:
 
-[](https://github.com/karamusluk/OpenAI-GPT-3-API-Wrapper-for-PHP-8/blob/master/OpenAI.php) [## open ai-GPT-3-API-Wrapper-for-PHP-8/open ai . PHP at master…
-
-### 此文件包含双向 Unicode 文本，其解释或编译可能与下面显示的不同…
-
-github.com](https://github.com/karamusluk/OpenAI-GPT-3-API-Wrapper-for-PHP-8/blob/master/OpenAI.php) 
+[](https://github.com/karamusluk/OpenAI-GPT-3-API-Wrapper-for-PHP-8/blob/master/OpenAI.php)  
 
 但是我必须对名为 OpenAI.php 的主文件做一些修改。您可以在这里获得我使用的最终文件:
 
@@ -232,11 +208,7 @@ var chatbotprocessinput = function(){
 
 快速简单的少量学习的替代方法是执行 OpenAI 的人所说的“微调”。这是一个更稳定的过程，在此过程中，您只需训练您的 GPT-3 模型一次，然后将此训练存储在一个文件中以供以后使用。我还没有尝试过微调，但是你可以在这里查阅 OpenAI 的网站:
 
- [## OpenAI API
-
-### 用于访问 OpenAI 开发的新人工智能模型的 API
-
-beta.openai.com](https://beta.openai.com/docs/guides/fine-tuning) 
+  
 
 # 5.一个完整的网络应用程序，用户可以使用他们自己的 API 密钥与你定制的 GPT 3 聊天机器人进行交互
 
@@ -266,34 +238,6 @@ beta.openai.com](https://beta.openai.com/docs/guides/fine-tuning)
 
 以下是一些亮点，你可以查看我的个人资料:
 
-[](/a-free-online-tool-for-principal-components-analysis-with-full-graphical-output-c9b3725b4f98) [## 一个免费的在线主成分分析工具，提供完整的图形输出
-
-### 完全在您的浏览器上运行，您不需要下载或安装任何东西，您的数据将保留在您的…
-
-towardsdatascience.com](/a-free-online-tool-for-principal-components-analysis-with-full-graphical-output-c9b3725b4f98) [](/exquisite-hand-and-finger-tracking-in-web-browsers-with-mediapipes-machine-learning-models-2c4c2beee5df) [## 借助 MediaPipe 的机器学习模型，在网络浏览器中实现精致的手和手指跟踪
-
-### 了解这个精通 JavaScript 风格的计算机视觉库，这里重点介绍它的手部跟踪工具…
-
-towardsdatascience.com](/exquisite-hand-and-finger-tracking-in-web-browsers-with-mediapipes-machine-learning-models-2c4c2beee5df) [](/obtaining-historical-and-real-time-crypto-data-with-very-simple-web-programming-7b481f153630) [## 通过非常简单的 web 编程获得历史和实时加密数据
-
-### 在学习加密货币的过程中，我迫切需要数据来操纵我自己去做我自己的阴谋和…
-
-towardsdatascience.com](/obtaining-historical-and-real-time-crypto-data-with-very-simple-web-programming-7b481f153630) [](/websites-for-statistics-and-data-analysis-on-every-device-ebf92bec3e53) [## 在每台设备上进行统计和数据分析的网站
-
-### 我对网络浏览器中数据分析在线工具的选择。
-
-towardsdatascience.com](/websites-for-statistics-and-data-analysis-on-every-device-ebf92bec3e53) [](/live-display-of-cryptocurrency-data-in-a-vr-environment-on-the-web-af476376d018) [## 网上虚拟现实环境中加密货币数据的实时显示
-
-### 一种“虚拟股票交易中心”
-
-towardsdatascience.com](/live-display-of-cryptocurrency-data-in-a-vr-environment-on-the-web-af476376d018) [](/the-definitive-procedure-for-aligning-two-sets-of-3d-points-with-the-kabsch-algorithm-a7ec2126c87e) [## 使用 Kabsch 算法对齐两组 3D 点的明确过程
-
-### 上周我纠结于通过低级代码对齐两组原子坐标的问题。最终…
-
-towardsdatascience.com](/the-definitive-procedure-for-aligning-two-sets-of-3d-points-with-the-kabsch-algorithm-a7ec2126c87e) [](https://pub.towardsai.net/read-public-messages-from-the-ethereum-network-with-simple-web-programming-70d8650e54e2) [## 用简单的 Web 编程从以太网上读取公共消息
-
-### 我最近向您展示了如何在以太坊网络中发布永久不被破坏的消息。在这里我向你展示…
-
-pub.towardsai.net](https://pub.towardsai.net/read-public-messages-from-the-ethereum-network-with-simple-web-programming-70d8650e54e2) 
+[](/a-free-online-tool-for-principal-components-analysis-with-full-graphical-output-c9b3725b4f98)  [](/exquisite-hand-and-finger-tracking-in-web-browsers-with-mediapipes-machine-learning-models-2c4c2beee5df)  [](/obtaining-historical-and-real-time-crypto-data-with-very-simple-web-programming-7b481f153630)  [](/websites-for-statistics-and-data-analysis-on-every-device-ebf92bec3e53)  [](/live-display-of-cryptocurrency-data-in-a-vr-environment-on-the-web-af476376d018)  [](/the-definitive-procedure-for-aligning-two-sets-of-3d-points-with-the-kabsch-algorithm-a7ec2126c87e)  [](https://pub.towardsai.net/read-public-messages-from-the-ethereum-network-with-simple-web-programming-70d8650e54e2)  
 
 www.lucianoabriata.com*我写作并拍摄我广泛兴趣范围内的一切事物:自然、科学、技术、编程等等。* [***成为媒介会员***](https://lucianosphere.medium.com/membership) *访问其所有故事(我免费获得小额收入的平台的附属链接)和* [***订阅获取我的新故事***](https://lucianosphere.medium.com/subscribe) ***通过电子邮件*** *。到* ***咨询关于小职位*** *查看我的* [***服务页面这里***](https://lucianoabriata.altervista.org/services/index.html) *。你可以* [***这里联系我***](https://lucianoabriata.altervista.org/office/contact.html) ***。***

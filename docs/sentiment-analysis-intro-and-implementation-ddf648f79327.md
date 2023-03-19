@@ -18,11 +18,7 @@
 
 我们开始吧！
 
-[](https://medium.com/@fmnobar/membership) [## 加入我的介绍链接-法扎德 Mahmoodinobar 媒体
-
-### 阅读法扎德(以及媒体上的其他作家)的每一个故事。你的会员费直接支持法扎德和其他…
-
-medium.com](https://medium.com/@fmnobar/membership) 
+[](https://medium.com/@fmnobar/membership)  
 
 # 数据集
 

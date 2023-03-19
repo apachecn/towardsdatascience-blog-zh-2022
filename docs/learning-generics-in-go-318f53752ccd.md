@@ -10,11 +10,7 @@
 
 泛型在更新 1.18(将于 2022 年 2 月发布)中推出，带有一系列其他闪亮的新功能。你可以在我的 1.18 补丁说明摘要中了解所有的变化。
 
-[](https://medium.com/@percybolmer/go-1-18-comes-with-many-amazing-changes-d33ac0afd6ee) [## Go 1.18 带来了许多惊人的变化
-
-### 期待已久的 Go 1.18 即将到来，它可能是很长一段时间以来讨论最多的 Go 更新…
-
-medium.com](https://medium.com/@percybolmer/go-1-18-comes-with-many-amazing-changes-d33ac0afd6ee) 
+[](https://medium.com/@percybolmer/go-1-18-comes-with-many-amazing-changes-d33ac0afd6ee)  
 
 要开始使用 1.18，您可以运行或下载它[这里](https://go.dev/dl/#go1.18beta1)。
 
@@ -272,10 +268,6 @@ func Move[V Moveable, S Subtractable](v V, distance S, meters S) S
 
 如果你喜欢我写的东西，不要错过我的指南，它提供了围棋中的模糊功能！
 
-[](https://medium.com/@percybolmer/fuzzy-testing-in-go-96eb08b7694d) [## 围棋模糊测试
-
-### Fuzzing 是作为 Go 1.18 中标准库的一部分发布的。这是一个很酷的方法来定位你的…
-
-medium.com](https://medium.com/@percybolmer/fuzzy-testing-in-go-96eb08b7694d) 
+[](https://medium.com/@percybolmer/fuzzy-testing-in-go-96eb08b7694d)  
 
 走出去，成为普通人！

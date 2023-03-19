@@ -76,11 +76,7 @@ z-检验比 t-检验更实用，t-检验对每个样本量有不同的临界值�
 
 ## 5.1.3 结论
 
-[](https://www.ztable.net/) [## Z 工作台- Z 工作台
-
-### 负 Z 得分表使用下面的负 Z 得分表查找平均值左侧的值，如所示…
-
-www.ztable.net](https://www.ztable.net/) 
+[](https://www.ztable.net/)  
 
 使用上面链接中的 Z 得分表，让我们确定获得 Z 得分< =1.88 的概率，如图 1 所示。
 

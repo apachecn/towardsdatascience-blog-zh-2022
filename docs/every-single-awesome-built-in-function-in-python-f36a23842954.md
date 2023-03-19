@@ -20,11 +20,7 @@ ython 以其 C 解释的和类似英语的语法荣耀，已经在机器学习�
 
 好吧，不管怎样，也许这只是我早期和我的一个老师经历过的一个场景——但是情况表明，在你的武器库中拥有一堆方法和这些方法的小技巧是很重要的。对于 Python 来说尤其如此，我将这种语言描述为在对象旁边有一个非常有条理的生态系统。我最近写了一篇关于我最喜欢的 Python 装饰者的文章。这让我开始思考，我最喜欢的东西是什么…只是 Python..？我认为它的包装让它变得很棒。我首先想到的是标准库中令人惊奇的选择方法，这些方法总是很有用。如果你想阅读我关于装饰者的文章，这里有一个链接:
 
-[](/10-of-my-favorite-python-decorators-9f05c72d9e33) [## 我最喜欢的 10 个 Python 装饰者
-
-### Python 编程语言中更多优秀装饰者的概述。
-
-towardsdatascience.com](/10-of-my-favorite-python-decorators-9f05c72d9e33) 
+[](/10-of-my-favorite-python-decorators-9f05c72d9e33)  
 
 不断接触新的做事方法是很棒的，今天我们将回顾一些我一直以来最喜欢的方法，
 
@@ -32,11 +28,7 @@ towardsdatascience.com](/10-of-my-favorite-python-decorators-9f05c72d9e33)
 
 我们将讨论 Python 编程语言中的所有内置函数。这不包括用 Python 打包的标准库中的那些。这些功能的伟大之处在于它们总是在那里帮助你。另外，对于那些想自己尝试这段代码的人来说，这里是这篇文章的笔记本:
 
-[](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Python3/essential%20and%20builtin%20python%20funcs.ipynb) [## Emmetts-DS-NoteBooks/essential 和内置 python funcs.ipynb at master …
-
-### 各种项目的随机笔记本。通过创建帐户，为 emmettgb/Emmetts-DS 笔记本电脑的开发做出贡献…
-
-github.com](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Python3/essential%20and%20builtin%20python%20funcs.ipynb) 
+[](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Python3/essential%20and%20builtin%20python%20funcs.ipynb)  
 
 # №1: abs()
 

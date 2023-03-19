@@ -14,11 +14,7 @@
 
 在 [Flowrite](https://www.flowrite.com/) ，我们每天都在使用 GPT-3 模型，所以我们没有等待一秒钟，就开始广泛测试这些指令模型。
 
-[](https://www.flowrite.com/) [## Flowrite -增强您的日常沟通
-
-### Flowrite 将简短的指令转化为可随时发送的电子邮件和信息，供您在浏览器中浏览。谢谢大家！你的…
-
-www.flowrite.com](https://www.flowrite.com/) 
+[](https://www.flowrite.com/)  
 
 我们对这些指导模型是如何工作的有了一个坚实的直觉，但是 Open AI 从未发表过关于指导模型如何被训练的论文或文章，所以这个问题仍然是未知的。幸运的是，谷歌研究团队在 2021 年 12 月就同一主题发表了一篇[论文](https://arxiv.org/pdf/2109.01652.pdf)，该论文揭示了基于 transformer 的模型如何被微调以理解指令。
 

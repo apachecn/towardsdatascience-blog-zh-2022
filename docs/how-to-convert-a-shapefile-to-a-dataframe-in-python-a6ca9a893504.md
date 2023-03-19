@@ -170,20 +170,4 @@ df_rome.plot(ax**=**ax, column**=**'type', legend**=True**, cmap**=**'viridis')
 
 # 相关文章
 
-[](/how-to-manipulate-a-pandas-dataframe-in-sql-7d1a1503f47) [## 如何在 SQL 中操作熊猫数据帧
-
-### 这是一个现成的代码，包含一些使用 SQL 查询操作 Python Pandas 数据框架的技巧。
-
-towardsdatascience.com](/how-to-manipulate-a-pandas-dataframe-in-sql-7d1a1503f47) [](/how-to-anonymise-places-in-python-55597d0ded24) [## 如何在 Python 中匿名化地点
-
-### 一个现成的代码，根据地名数据库识别和隐藏地点
-
-towardsdatascience.com](/how-to-anonymise-places-in-python-55597d0ded24) [](/how-to-transform-data-extracted-from-wikipedia-into-a-map-in-python-8325dce0710b) [## 如何将从维基百科提取的数据转换成 Python 中的地图
-
-### 一个现成的代码，可以通过 Selenium、GeoPy 和 leav 在从维基百科提取的条目列表上创建一个地图
-
-towardsdatascience.com](/how-to-transform-data-extracted-from-wikipedia-into-a-map-in-python-8325dce0710b) [](/deepnote-a-collaborative-framework-for-your-python-notebooks-99390a6766e9) [## deep note:Python 笔记本的协作框架
-
-### Deepnote 入门
-
-towardsdatascience.com](/deepnote-a-collaborative-framework-for-your-python-notebooks-99390a6766e9)
+[](/how-to-manipulate-a-pandas-dataframe-in-sql-7d1a1503f47)  [](/how-to-anonymise-places-in-python-55597d0ded24)  [](/how-to-transform-data-extracted-from-wikipedia-into-a-map-in-python-8325dce0710b)  [](/deepnote-a-collaborative-framework-for-your-python-notebooks-99390a6766e9) 

@@ -43,11 +43,7 @@ from rest_framework.decorators import permission_classes**
 
 我写了一篇关于使用`pip freeze`的问题和你可以使用的可能解决方案的非常详细的文章。
 
-[](/stop-using-pip-freeze-for-your-python-projects-9c37181730f9) [## 停止对你的 Python 项目使用“pip 冻结”
-
-### 讨论为什么“pip 冻结”在管理 Python 依赖项时不那么酷
-
-towardsdatascience.com](/stop-using-pip-freeze-for-your-python-projects-9c37181730f9) 
+[](/stop-using-pip-freeze-for-your-python-projects-9c37181730f9)  
 
 我个人的建议是这一期改用`[pipreqs](https://pypi.org/project/pipreqs/)`。
 
@@ -149,16 +145,4 @@ if not *condition*:
 
 你也可以看看我写的其他东西。
 
-[](/7-must-read-books-for-data-scientists-in-2022-aa87c0f9bffb) [## 2022 年数据科学家必读的 7 本书
-
-### 帮助你成为更好的数据科学家的技术和非技术书籍
-
-towardsdatascience.com](/7-must-read-books-for-data-scientists-in-2022-aa87c0f9bffb) [](https://levelup.gitconnected.com/5-new-features-in-python-3-11-that-makes-it-the-coolest-new-release-in-2022-c9df658ef813) [## Python 3.11 中的 5 个新特性使其成为 2022 年最酷的新版本
-
-### 讨论 Python 3.11 中的新特性和更新，以及如何安装 3.11 Alpha 版本
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/5-new-features-in-python-3-11-that-makes-it-the-coolest-new-release-in-2022-c9df658ef813) [](/a-novel-approach-to-feature-importance-shapley-additive-explanations-d18af30fc21b) [## 特征重要性的一种新方法——Shapley 附加解释
-
-### 最先进的功能重要性
-
-towardsdatascience.com](/a-novel-approach-to-feature-importance-shapley-additive-explanations-d18af30fc21b)
+[](/7-must-read-books-for-data-scientists-in-2022-aa87c0f9bffb)  [](https://levelup.gitconnected.com/5-new-features-in-python-3-11-that-makes-it-the-coolest-new-release-in-2022-c9df658ef813)  [](/a-novel-approach-to-feature-importance-shapley-additive-explanations-d18af30fc21b) 

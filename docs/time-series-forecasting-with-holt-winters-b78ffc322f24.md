@@ -14,19 +14,11 @@
 
 最基本的指数平滑模型是(有趣的是)*简单指数平滑*也被称为*单一指数平滑。*该模型只是预测时间序列的水平，没有考虑[趋势](https://medium.com/towards-data-science/time-series-stationarity-simply-explained-125269968154)或[季节性](https://medium.com/towards-data-science/seasonality-of-time-series-5b45b4809acd)。要了解这个模型的更多信息，请查看我之前的帖子:
 
-[](/forecasting-with-simple-exponential-smoothing-dd8f8470a14c) [## 简单指数平滑预测
-
-### 指数平滑的介绍以及用 Python 实现指数平滑进行预测。
-
-towardsdatascience.com](/forecasting-with-simple-exponential-smoothing-dd8f8470a14c) 
+[](/forecasting-with-simple-exponential-smoothing-dd8f8470a14c)  
 
 这个简单模型的下一步是*霍尔特的线性趋势方法*，也称为*双指数平滑。*顾名思义，这款车型融合了潮流和水平。如果你想了解更多关于霍尔特的方法，请参考这里:
 
-[](/forecasting-with-holts-linear-trend-exponential-smoothing-af2aa4590c18) [## 霍尔特线性趋势指数平滑预测
-
-### 指数平滑模型中的趋势补偿
-
-towardsdatascience.com](/forecasting-with-holts-linear-trend-exponential-smoothing-af2aa4590c18) 
+[](/forecasting-with-holts-linear-trend-exponential-smoothing-af2aa4590c18)  
 
 最后，霍尔特方法的下一步是找到一种将季节性纳入指数平滑模型的方法。这就是 [*霍尔特·温特斯*](https://en.wikipedia.org/wiki/Exponential_smoothing#Triple_exponential_smoothing_(Holt_Winters)) *(三重指数平滑)*的用武之地！
 
@@ -72,11 +64,7 @@ towardsdatascience.com](/forecasting-with-holts-linear-trend-exponential-smoothi
 
 *两个模型的区别在于季节性波动的大小。对于加性模型，季节性波动通常是恒定的。然而，对于乘法模型，波动与给定时间的时间序列值成比例。要了解更多关于加法和乘法时间序列模型的信息，请查看我之前的博文:*
 
-*[](/time-series-decomposition-8f39432f78f9) [## 时间序列分解
-
-### 将时间序列分解成基本的构建块
-
-towardsdatascience.com](/time-series-decomposition-8f39432f78f9) 
+*[](/time-series-decomposition-8f39432f78f9)  
 
 现在让我们回顾一下霍尔特·温特斯两个模型的[方程](https://otexts.com/fpp3/holt-winters.html):
 
@@ -90,11 +78,7 @@ towardsdatascience.com](/time-series-decomposition-8f39432f78f9)
 
 如果你想了解更多关于季节性的知识，请点击这里查看我之前的博文:
 
-[](/seasonality-of-time-series-5b45b4809acd) [## 时间序列的季节性
-
-### 对季节性如何影响时间序列分析的直觉
-
-towardsdatascience.com](/seasonality-of-time-series-5b45b4809acd) 
+[](/seasonality-of-time-series-5b45b4809acd)  
 
 **乘法:**
 
@@ -142,11 +126,7 @@ print(model_holt_winters.summary())
 
 本文中使用的全部代码可以从我的 GitHub 获得，网址是:
 
-[](https://github.com/egorhowell/Medium-Articles/blob/main/Time%20Series/Exponential%20Smoothing/holt_winters.py) [## Medium-Articles/Holt _ winters . py at main egorhowell/Medium-Articles
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/egorhowell/Medium-Articles/blob/main/Time%20Series/Exponential%20Smoothing/holt_winters.py) 
+[](https://github.com/egorhowell/Medium-Articles/blob/main/Time%20Series/Exponential%20Smoothing/holt_winters.py)  
 
 # 参考资料和进一步阅读
 

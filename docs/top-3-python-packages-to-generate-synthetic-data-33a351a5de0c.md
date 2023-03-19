@@ -203,11 +203,7 @@ print(line.text)
 
 准备好以 365 Data Science 上的**折扣价向所有专家学习数据科学吧！**
 
-[](https://365datascience.pxf.io/c/3452806/1037878/11148) [## 为数据科学夏季做好准备- 65%折扣| 365 数据科学
-
-### 选择一条职业道路，掌握你想要的特定工作角色的技能——数据科学家、数据分析师或商业…
-
-365datascience.pxf.io](https://365datascience.pxf.io/c/3452806/1037878/11148) 
+[](https://365datascience.pxf.io/c/3452806/1037878/11148)  
 
 # **结论**
 

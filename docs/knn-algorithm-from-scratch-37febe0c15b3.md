@@ -101,11 +101,7 @@ KNN 算法似乎非常简单。但有时，它在解决重要的机器学习问�
 
 此处提供了完整的实现。
 
-[](https://deepnote.com/workspace/zubair063-9767-9eddd116-b682-475a-9479-3807be1e71db/project/KNN-from-Scratch-87efde85-a815-4ac6-9936-9818d283592d/notebook/Notebook%201-58df07ed20a54f0d971497c24bbc9eef) [## 深度笔记
-
-### 面向数据科学家和研究人员的托管笔记本电脑。
-
-deepnote.com](https://deepnote.com/workspace/zubair063-9767-9eddd116-b682-475a-9479-3807be1e71db/project/KNN-from-Scratch-87efde85-a815-4ac6-9936-9818d283592d/notebook/Notebook%201-58df07ed20a54f0d971497c24bbc9eef) 
+[](https://deepnote.com/workspace/zubair063-9767-9eddd116-b682-475a-9479-3807be1e71db/project/KNN-from-Scratch-87efde85-a815-4ac6-9936-9818d283592d/notebook/Notebook%201-58df07ed20a54f0d971497c24bbc9eef)  
 
 ## 参考
 
@@ -113,8 +109,4 @@ deepnote.com](https://deepnote.com/workspace/zubair063-9767-9eddd116-b682-475a-9
 
 *阅读关于数据科学统计的热门文章(完整指南)*
 
-[](/ultimate-guide-to-statistics-for-data-science-a3d8f1fd69a7) [## 数据科学统计终极指南
-
-### 数据科学统计一瞥:标准指南
-
-towardsdatascience.com](/ultimate-guide-to-statistics-for-data-science-a3d8f1fd69a7)
+[](/ultimate-guide-to-statistics-for-data-science-a3d8f1fd69a7) 

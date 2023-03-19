@@ -65,11 +65,7 @@ Gradio 和 Streamlit 在这方面做得很好，但提供的前端灵活性有�
 
 阅读这个故事的第二部分:
 
-[](/pull-your-ml-model-out-of-your-server-the-database-solution-a00b212f5e0d) [## 将您的 ML 模型从服务器中拉出:数据库解决方案
-
-### 何时将模型放入数据库，如何放置，为什么
-
-towardsdatascience.com](/pull-your-ml-model-out-of-your-server-the-database-solution-a00b212f5e0d) 
+[](/pull-your-ml-model-out-of-your-server-the-database-solution-a00b212f5e0d)  
 
 # 关于作者
 

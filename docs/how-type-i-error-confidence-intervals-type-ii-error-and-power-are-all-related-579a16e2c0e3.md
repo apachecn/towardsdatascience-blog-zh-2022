@@ -126,19 +126,11 @@
 
 *如果您是中级新手，请考虑使用下面的“我的推荐”链接订阅:*
 
-*[](https://medium.com/@andreasmartinson/membership) [## 通过我的推荐链接加入 Medium-Andreas Martin son
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@andreasmartinson/membership) 
+*[](https://medium.com/@andreasmartinson/membership)  
 
 此外，如果喜欢阅读，可以看看我最近发表的另一篇与统计相关的文章:
 
-[](/how-to-simplify-hypothesis-testing-for-linear-regression-in-python-8b43f6917c86) [## 如何在 Python 中简化线性回归的假设检验
-
-### 什么是同性恋？
-
-towardsdatascience.com](/how-to-simplify-hypothesis-testing-for-linear-regression-in-python-8b43f6917c86) 
+[](/how-to-simplify-hypothesis-testing-for-linear-regression-in-python-8b43f6917c86)  
 
 ## 参考
 

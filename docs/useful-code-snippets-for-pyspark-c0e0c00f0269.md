@@ -218,10 +218,6 @@ df.sample(withReplacement=False, fraction=0.5, seed=None)
 
 别忘了跟着我。
 
-[](https://gustavorsantos.medium.com/) [## 古斯塔沃·桑托斯-中等
-
-### 阅读古斯塔夫·桑托斯在媒介上的作品。数据科学家。我从数据中提取见解，以帮助个人和公司…
-
-gustavorsantos.medium.com](https://gustavorsantos.medium.com/) 
+[](https://gustavorsantos.medium.com/)  
 
 或者使用我的[推荐代码](https://gustavorsantos.medium.com/membership)订阅 Medium。

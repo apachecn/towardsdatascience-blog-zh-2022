@@ -174,11 +174,7 @@ OLS 估计量的方差公式，作者图片
 
 你可以在这里找到 Jupyter 的原始笔记本:
 
-[](https://github.com/matteocourthoud/Blog-Posts/blob/main/notebooks/online_reg.ipynb) [## Blog-Posts/online _ reg . ipynb at main matter courthoud/Blog-Posts
-
-### 我的中型博客文章的代码和笔记本。为 matteocourthoud/Blog-Posts 的发展作出贡献
-
-github.com](https://github.com/matteocourthoud/Blog-Posts/blob/main/notebooks/online_reg.ipynb) 
+[](https://github.com/matteocourthoud/Blog-Posts/blob/main/notebooks/online_reg.ipynb)  
 
 ## 感谢您的阅读！
 

@@ -66,15 +66,7 @@ ADP 是关于学习什么和如何学习，以便随着时间的推移做出更�
 1.  [https://towards data science . com/fundamental-rl-Markov-States-Markov-chain-and-Markov-decision-process-be 8 CCC 341005](/foundational-rl-markov-states-markov-chain-and-markov-decision-process-be8ccc341005)。
 2.  [https://towards data science . com/fundamental-rl-solving-Markov-decision-process-d 90 b 7 e 134 c 0b](/foundational-rl-solving-markov-decision-process-d90b7e134c0b)
 
-[](/foundational-rl-markov-states-markov-chain-and-markov-decision-process-be8ccc341005) [## 基础 RL:马尔可夫状态、马尔可夫链和马尔可夫决策过程
-
-### 强化学习之路
-
-towardsdatascience.com](/foundational-rl-markov-states-markov-chain-and-markov-decision-process-be8ccc341005) [](/foundational-rl-solving-markov-decision-process-d90b7e134c0b) [## 基础 RL:求解马尔可夫决策过程
-
-### 强化学习之路
-
-towardsdatascience.com](/foundational-rl-solving-markov-decision-process-d90b7e134c0b) 
+[](/foundational-rl-markov-states-markov-chain-and-markov-decision-process-be8ccc341005)  [](/foundational-rl-solving-markov-decision-process-d90b7e134c0b)  
 
 > 你喜欢这篇文章吗？[给我买杯咖啡](https://www.buymeacoffee.com/rahulbhadani)。
 > 

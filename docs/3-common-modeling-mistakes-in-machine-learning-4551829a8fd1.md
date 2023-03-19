@@ -50,11 +50,7 @@
 
 > 要快速了解基线模型，请查看以下文章:
 
-[](/baseline-models-your-guide-for-model-building-1ec3aa244b8d) [## 基线模型:您的模型构建指南
-
-### 机器学习项目中的一个必要组成部分
-
-towardsdatascience.com](/baseline-models-your-guide-for-model-building-1ec3aa244b8d) 
+[](/baseline-models-your-guide-for-model-building-1ec3aa244b8d)  
 
 ## 错误 2:使用小范围的超参数
 
@@ -76,11 +72,7 @@ towardsdatascience.com](/baseline-models-your-guide-for-model-building-1ec3aa244
 
 > 如果您有兴趣探索超参数调整的其他替代方法，请查看以下文章:
 
-[](/grid-search-vs-random-search-vs-bayesian-optimization-2e68f57c3c46) [## 网格搜索 VS 随机搜索 VS 贝叶斯优化
-
-### 哪种超参数调优方法最好？
-
-towardsdatascience.com](/grid-search-vs-random-search-vs-bayesian-optimization-2e68f57c3c46) 
+[](/grid-search-vs-random-search-vs-bayesian-optimization-2e68f57c3c46)  
 
 ## 错误 3:使用错误的评估标准
 

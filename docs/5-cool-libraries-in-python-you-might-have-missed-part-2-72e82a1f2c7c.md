@@ -124,16 +124,4 @@
 
 # 参考
 
-[](https://predictivehacks.com/get-google-trends-using-python/) [## 使用 Python 预测黑客获取谷歌趋势
-
-### 在本帖中，我们将展示如何使用 Python 从 Google Trends 获取数据。让我们来看看热门趋势…
-
-predictivehacks.com](https://predictivehacks.com/get-google-trends-using-python/) [](https://pypi.org/project/nb-black/) [## n B-黑色
-
-### nb _ 黑[！[PyPI](https://img . shields . io/PyPI/v/nb _ black . SVG)])[！[PyPI - Python 版本](…
-
-pypi.org](https://pypi.org/project/nb-black/) [](https://github.com/JovianML/opendatasets) [## GitHub - JovianML/opendatasets:一个 Python 库，用于从 Kaggle、Google…
-
-### opendatasets 是一个 Python 库，用于从 Kaggle 和 Google Drive 等在线资源下载数据集，使用…
-
-github.com](https://github.com/JovianML/opendatasets)
+[](https://predictivehacks.com/get-google-trends-using-python/)  [](https://pypi.org/project/nb-black/)  [](https://github.com/JovianML/opendatasets) 

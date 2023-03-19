@@ -264,11 +264,7 @@ GROUP BY strftime('%m', OrderDate)
 
 在这篇快速阅读中，我解释了几乎所有类型的日期部分提取。看一看它就能对它有一个完整的了解。
 
-[](https://python.plainenglish.io/5-must-know-sql-functions-for-data-analysis-1f1a6ca53974) [## 用于数据分析的 5 个必备 SQL 函数
-
-### 关于 SQL 函数最全面的指南，最大限度地利用数据！
-
-python .平原英语. io](https://python.plainenglish.io/5-must-know-sql-functions-for-data-analysis-1f1a6ca53974) 
+[](https://python.plainenglish.io/5-must-know-sql-functions-for-data-analysis-1f1a6ca53974)  
 
 最后但同样重要的是，
 

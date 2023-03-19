@@ -588,24 +588,4 @@ plot_graphs(history, 'loss')
 
 ## 更多阅读
 
-[](/convolutional-neural-network-good-understanding-of-the-layers-and-an-image-classification-example-a280bc02c13e) [## 卷积神经网络:对层的良好理解和图像分类示例
-
-### 包含了大量的信息
-
-towardsdatascience.com](/convolutional-neural-network-good-understanding-of-the-layers-and-an-image-classification-example-a280bc02c13e) [](/developing-a-convolutional-neural-network-model-using-the-unlabeled-image-files-directly-from-the-124180b8f21f) [## 开发一个卷积神经网络模型使用未标记的图像文件直接从…
-
-### 使用图像生成器将图像自动标记为子目录
-
-towardsdatascience.com](/developing-a-convolutional-neural-network-model-using-the-unlabeled-image-files-directly-from-the-124180b8f21f) [](/exploratory-data-analysis-with-some-cool-visualizations-in-pythons-matplotlib-and-seaborn-library-99dde20d98bf) [## 利用 Python 的 Matplotlib 和 Seaborn 库中一些很酷的可视化工具进行探索性的数据分析
-
-### 探索国际足联数据集
-
-towardsdatascience.com](/exploratory-data-analysis-with-some-cool-visualizations-in-pythons-matplotlib-and-seaborn-library-99dde20d98bf) [](/30-very-useful-pandas-functions-for-everyday-data-analysis-tasks-f1eae16409af) [## 30 个非常有用的熊猫函数，用于日常数据分析任务
-
-### 熊猫小型张
-
-towardsdatascience.com](/30-very-useful-pandas-functions-for-everyday-data-analysis-tasks-f1eae16409af) [](/a-beginners-guide-to-match-any-pattern-using-regular-expressions-in-r-fd477ce4714c) [## 使用 R 中的正则表达式匹配任何模式的初学者指南
-
-### 这比你想象的要容易
-
-towardsdatascience.com](/a-beginners-guide-to-match-any-pattern-using-regular-expressions-in-r-fd477ce4714c)
+[](/convolutional-neural-network-good-understanding-of-the-layers-and-an-image-classification-example-a280bc02c13e)  [](/developing-a-convolutional-neural-network-model-using-the-unlabeled-image-files-directly-from-the-124180b8f21f)  [](/exploratory-data-analysis-with-some-cool-visualizations-in-pythons-matplotlib-and-seaborn-library-99dde20d98bf)  [](/30-very-useful-pandas-functions-for-everyday-data-analysis-tasks-f1eae16409af)  [](/a-beginners-guide-to-match-any-pattern-using-regular-expressions-in-r-fd477ce4714c) 

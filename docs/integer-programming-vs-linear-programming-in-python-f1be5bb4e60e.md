@@ -231,12 +231,4 @@ Army:
 
 # **相关文章**
 
-**[](/constraint-programming-67ac16fa0c81) [## 第 3 部分:Python 中的约束编程
-
-### 在 8，080，104 个候选项中找出一个解决方案的编程范例
-
-towardsdatascience.com](/constraint-programming-67ac16fa0c81) [](/introduction-to-linear-programming-in-python-9261e7eb44b) [## 第 1 部分:Python 线性编程简介
-
-### 使用谷歌或工具进行数学优化的指南
-
-towardsdatascience.com](/introduction-to-linear-programming-in-python-9261e7eb44b)**
+**[](/constraint-programming-67ac16fa0c81)  [](/introduction-to-linear-programming-in-python-9261e7eb44b) **

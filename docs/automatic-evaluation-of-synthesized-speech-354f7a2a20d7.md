@@ -107,19 +107,7 @@ BVCC 之所以被这样称呼，是因为它主要是由 TTS 的[**B**lizzard Ch
 
 # 更多来自我
 
-[](/tips-for-reading-and-writing-an-ml-research-paper-a505863055cf) [## 阅读和撰写 ML 研究论文的技巧
-
-### 从几十次同行评审中获得的经验教训
-
-towardsdatascience.com](/tips-for-reading-and-writing-an-ml-research-paper-a505863055cf) [](/parse-dont-validate-f559372cca45) [## 解析，不验证| Python 模式
-
-### 验证数据就像看门人一样，将数据解析成有意义的数据类型，为原始数据增加了有价值的信息
-
-towardsdatascience.com](/parse-dont-validate-f559372cca45) [](/data-processing-automation-with-inotifywait-663aba0c560a) [## 使用 inotifywait 实现数据处理自动化
-
-### 如何在拥有生产就绪的 MLOps 平台之前实现自动化
-
-towardsdatascience.com](/data-processing-automation-with-inotifywait-663aba0c560a) 
+[](/tips-for-reading-and-writing-an-ml-research-paper-a505863055cf)  [](/parse-dont-validate-f559372cca45)  [](/data-processing-automation-with-inotifywait-663aba0c560a)  
 
 # 参考文献(带链接)
 

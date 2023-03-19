@@ -121,8 +121,4 @@
 
 *如果你喜欢这本书，并且对机器学习和数据科学的新见解感兴趣，注册一个中级会员，可以完全访问我的内容。关注我，以便在我发布新章节或帖子时收到电子邮件。*
 
-[](https://medium.com/@mathiasgronne/membership) [## 马蒂亚斯·格朗内-中等
-
-### 广泛介绍图像嵌入和自动编码器介绍这本书及其章节-他们说一个…
-
-medium.com](https://medium.com/@mathiasgronne/membership)
+[](https://medium.com/@mathiasgronne/membership) 

@@ -12,11 +12,7 @@
 
 合成数据集的生成需要对真实数据集有丰富的理解-它们遵循哪种统计分布，以及如何在现有数据集上拟合已知分布。在许多情况下，真实数据集呈现混合模型，即多个分布的组合。这要求统计学家熟悉一些常见的分布族。在本文中，我们将介绍一些最常见的分布族，包括离散分布族和连续分布族。在第 1 部分中，我们描述了离散分布，然后从这些分布中生成合成数据。
 
-[](https://rahulbhadani.medium.com/stat-stories-common-families-of-statistical-distributions-part-2-4bdea86c3132) [## 统计故事:统计分布的常见家族(第 2 部分)
-
-### 为数据创建模型的工具
-
-rahulbhadani.medium.com](https://rahulbhadani.medium.com/stat-stories-common-families-of-statistical-distributions-part-2-4bdea86c3132) 
+[](https://rahulbhadani.medium.com/stat-stories-common-families-of-statistical-distributions-part-2-4bdea86c3132)  
 
 # 离散制服
 
@@ -54,11 +50,7 @@ rahulbhadani.medium.com](https://rahulbhadani.medium.com/stat-stories-common-fam
 
 我认为泊松分布是最重要的离散分布之一。泊松分布用于在给定大量观察值的情况下模拟某一事件的发生次数，并且期望事件在每个观察值中发生的概率明显较小。一个这样的例子是激光发射中光子的到达。泊松分布用于量子信息理论中的光子计数过程。感兴趣的读者可以看看我的研究论文“[相移键控相干态的星座优化与位移接收器最大化互信息](https://ieeexplore.ieee.org/iel7/6287639/8948470/09291373.pdf)”，深入了解光子量子信息处理。
 
-[](https://ieeexplore.ieee.org/abstract/document/9291373/) [## 相移键控相干态的星座优化
-
-### 量子信息理论中的一个重要问题是寻找光通信的最佳容量
-
-ieeexplore.ieee.org](https://ieeexplore.ieee.org/abstract/document/9291373/) 
+[](https://ieeexplore.ieee.org/abstract/document/9291373/)  
 
 考虑一个随机变量 *X* 只取一个非负整数。那么泊松分布的 PMF 可以写成
 
@@ -110,18 +102,6 @@ ieeexplore.ieee.org](https://ieeexplore.ieee.org/abstract/document/9291373/)
 
 另外，看看下面这个系列的其他文章。
 
-[](/stat-stories-variable-transformation-to-generate-new-distributions-d4607cb32c30) [## 统计故事:生成新分布的变量转换
-
-### 统计分布的变换
-
-towardsdatascience.com](/stat-stories-variable-transformation-to-generate-new-distributions-d4607cb32c30) [](/stat-stories-why-is-moment-generating-function-important-25bbc17dad68) [## 统计故事:为什么矩母函数很重要？
-
-### 什么唯一地决定了概率分布
-
-towardsdatascience.com](/stat-stories-why-is-moment-generating-function-important-25bbc17dad68) [](https://rahulbhadani.medium.com/stat-stories-common-families-of-statistical-distributions-part-2-4bdea86c3132) [## 统计故事:统计分布的常见家族(第 2 部分)
-
-### 为数据创建模型的工具
-
-rahulbhadani.medium.com](https://rahulbhadani.medium.com/stat-stories-common-families-of-statistical-distributions-part-2-4bdea86c3132) 
+[](/stat-stories-variable-transformation-to-generate-new-distributions-d4607cb32c30)  [](/stat-stories-why-is-moment-generating-function-important-25bbc17dad68)  [](https://rahulbhadani.medium.com/stat-stories-common-families-of-statistical-distributions-part-2-4bdea86c3132)  
 
 > 如果你喜欢我的作品，并想支持我创作高质量的内容，我请求你通过 https://rahulbhadani.medium.com/membership 的[](https://rahulbhadani.medium.com/membership)**订阅 Medium。虽然只是 5 美元/月，但对我有很大的帮助，因为 Medium 支付你的订阅费的一部分给作家。**

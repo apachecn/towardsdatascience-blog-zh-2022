@@ -186,19 +186,7 @@ QGis 很强大，你只要测试一下，试试其他功能就行了！
 
 # 相关文章
 
-[](/an-overview-of-visual-techniques-for-exploratory-data-analysis-in-python-d35703d43faf) [## Python 中探索性数据分析的可视化技术概述
-
-### 关于如何在 seaborn 和 matplotlib 中为 Visual EDA 绘制最常见图形的教程
-
-towardsdatascience.com](/an-overview-of-visual-techniques-for-exploratory-data-analysis-in-python-d35703d43faf) [](/how-to-convert-a-shapefile-to-a-dataframe-in-python-a6ca9a893504) [## 如何在 Python 中将 Shapefile 转换为 DataFrame
-
-### GeoPandas Python 库概述，附带一个分步示例
-
-towardsdatascience.com](/how-to-convert-a-shapefile-to-a-dataframe-in-python-a6ca9a893504) [](/how-to-transform-data-extracted-from-wikipedia-into-a-map-in-python-8325dce0710b) [## 如何将从维基百科提取的数据转换成 Python 中的地图
-
-### 一个现成的代码，用于在通过 Selenium、GeoPy 和 leav 从维基百科提取的条目列表上创建地图
-
-towardsdatascience.com](/how-to-transform-data-extracted-from-wikipedia-into-a-map-in-python-8325dce0710b) 
+[](/an-overview-of-visual-techniques-for-exploratory-data-analysis-in-python-d35703d43faf)  [](/how-to-convert-a-shapefile-to-a-dataframe-in-python-a6ca9a893504)  [](/how-to-transform-data-extracted-from-wikipedia-into-a-map-in-python-8325dce0710b)  
 
 # 您想从头开始构建地图吗？
 

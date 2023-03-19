@@ -66,11 +66,7 @@
 
 感谢阅读，我希望你喜欢这个关于`Plotly`的教程。如果你对`Plotly`完全陌生，并且想阅读一篇关于如何使用`Plotly`创建数据可视化的介绍性文章，你可以在这里阅读我的另一篇[文章](/leap-from-matplotlib-to-plotly-a-hands-on-tutorial-for-beginners-d208cd9e6522)。
 
-[](/leap-from-matplotlib-to-plotly-a-hands-on-tutorial-for-beginners-d208cd9e6522) [## 从 Matplotlib 到 Plotly 的飞跃:初学者实践教程
-
-### 如何使用 Plotly 创建带有自定义工具提示和范围滑块的交互式组合图
-
-towardsdatascience.com](/leap-from-matplotlib-to-plotly-a-hands-on-tutorial-for-beginners-d208cd9e6522) 
+[](/leap-from-matplotlib-to-plotly-a-hands-on-tutorial-for-beginners-d208cd9e6522)  
 
 **数据来源:**
 

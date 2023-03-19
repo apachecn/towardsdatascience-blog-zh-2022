@@ -186,26 +186,10 @@ streamlit run final_app.py
 
 如果你想在我的文章发表后第一时间得到通知，请点击下面的[链接](https://bharath-k1297.medium.com/membership)订阅邮件推荐。如果你希望支持其他作者和我，请订阅下面的链接。
 
-[](https://bharath-k1297.medium.com/membership) [## 通过我的推荐链接加入媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-bharath-k1297.medium.com](https://bharath-k1297.medium.com/membership) 
+[](https://bharath-k1297.medium.com/membership)  
 
 看看我的一些与本文主题相关的文章，你可能也会喜欢阅读！
 
-[](/develop-your-weather-application-with-python-in-less-than-10-lines-6d092c6dcbc9) [## 用 Python 开发不到 10 行的天气应用程序
-
-### 使用 Python 构建我们的天气电视广播应用程序，以接收所需位置的更新
-
-towardsdatascience.com](/develop-your-weather-application-with-python-in-less-than-10-lines-6d092c6dcbc9) [](/develop-your-own-calendar-to-track-important-dates-with-python-c1af9e98ffc3) [## 使用 Python 开发您自己的日历来跟踪重要日期
-
-### 开发一个日历 GUI 界面来管理您 2022 年及以后的计划
-
-towardsdatascience.com](/develop-your-own-calendar-to-track-important-dates-with-python-c1af9e98ffc3) [](/complete-python-starter-guide-for-data-science-for-2022-c1f880fa249d) [## 2022 年数据科学完整 Python 入门指南
-
-### 涵盖了用代码启动数据科学所需的所有 Python 基础和基本概念…
-
-towardsdatascience.com](/complete-python-starter-guide-for-data-science-for-2022-c1f880fa249d) 
+[](/develop-your-weather-application-with-python-in-less-than-10-lines-6d092c6dcbc9)  [](/develop-your-own-calendar-to-track-important-dates-with-python-c1af9e98ffc3)  [](/complete-python-starter-guide-for-data-science-for-2022-c1f880fa249d)  
 
 谢谢你们坚持到最后。我希望你们都喜欢这篇文章。祝大家有美好的一天！

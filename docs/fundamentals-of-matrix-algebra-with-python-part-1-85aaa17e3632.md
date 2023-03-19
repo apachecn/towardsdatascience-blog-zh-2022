@@ -26,11 +26,7 @@
 
 理解这些概念为探索航天器姿态动力学与控制中的[参考系变换](https://python.plainenglish.io/reference-frame-transformations-in-python-with-numpy-and-matplotlib-6adeb901e0b0)等更高级的课题奠定基础。
 
-[](https://python.plainenglish.io/reference-frame-transformations-in-python-with-numpy-and-matplotlib-6adeb901e0b0) [## 如何使用 NumPy 和 Matplotlib 在 Python 中转换参考系
-
-### 将变换矩阵应用于参考框架以将其从一个方向旋转到另一个方向的指南。
-
-python .平原英语. io](https://python.plainenglish.io/reference-frame-transformations-in-python-with-numpy-and-matplotlib-6adeb901e0b0) 
+[](https://python.plainenglish.io/reference-frame-transformations-in-python-with-numpy-and-matplotlib-6adeb901e0b0)  
 
 ## 1)什么是矩阵？
 
@@ -136,23 +132,11 @@ A_transpose_numpy = A.T
 
 了解这些基本概念对工程和计算机科学专业的学生很有价值。然而，这篇文章只是触及了矩阵代数的表面。**第二部分**链接如下，讨论了*追踪*、*逆*等其他项目。
 
-[](/fundamentals-of-matrix-algebra-with-python-part-2-833e447077d5) [## Python 的矩阵代数基础|第 2 部分
-
-### 使用 Python 理解和实现基本矩阵代数概念和运算
-
-towardsdatascience.com](/fundamentals-of-matrix-algebra-with-python-part-2-833e447077d5) 
+[](/fundamentals-of-matrix-algebra-with-python-part-2-833e447077d5)  
 
 如果你对 Python、工程学和数据科学感兴趣，请关注并查看我的其他文章。
 
-[](https://medium.com/@andrewdaviesul/membership) [## 通过我的推荐链接加入媒体-安德鲁·约瑟夫·戴维斯
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@andrewdaviesul/membership) [](/5-python-projects-for-engineering-students-8e951b7c131f) [## 面向工程专业学生的 5 个 Python 项目
-
-### 面向工程师的初级到中级 Python 项目理念
-
-towardsdatascience.com](/5-python-projects-for-engineering-students-8e951b7c131f) 
+[](https://medium.com/@andrewdaviesul/membership)  [](/5-python-projects-for-engineering-students-8e951b7c131f)  
 
 *感谢阅读。*
 

@@ -33,11 +33,7 @@
 *   **隔离(I)** :当多个事务同时发生时，最终状态必须与事务分别发生时相同。也就是说，数据库应该通过压力测试。换句话说，它不应该由于过载而导致不正确的数据库事务。
 *   **持久性(D)** :数据只能因交易而改变，不能因外部影响而改变。例如，软件更新不得无意中导致数据更改或可能被删除。
 
-[](/database-basics-acid-transactions-bf4d38bd8e26) [## 数据库基础:ACID 事务
-
-### 了解数据库的 ACID 属性
-
-towardsdatascience.com](/database-basics-acid-transactions-bf4d38bd8e26) 
+[](/database-basics-acid-transactions-bf4d38bd8e26)  
 
 # 数据库有哪些类型？
 
@@ -50,11 +46,7 @@ towardsdatascience.com](/database-basics-acid-transactions-bf4d38bd8e26)
 
 这些只是一些最常见的数据库类型。随着时间的推移，出现了更多的类型，但是我们不能在本文中详细讨论它们。最常见的数据库类型是关系数据库和 NoSQL 数据库。
 
-[](/comprehensive-guide-to-data-warehouses-6374617f45d5) [## 数据仓库综合指南
-
-### 您需要知道的一切，包括与数据湖的比较
-
-towardsdatascience.com](/comprehensive-guide-to-data-warehouses-6374617f45d5) 
+[](/comprehensive-guide-to-data-warehouses-6374617f45d5)  
 
 # SQL 和 NoSQL 的区别是什么？
 
@@ -66,11 +58,7 @@ NoSQL 的原理(“不仅是 SQL”)最早出现在 2000 年代末，泛指所�
 
 有关 NoSQL 数据库的更多信息，请查看我们关于该主题的文章:
 
-[](/introducing-nosql-databases-with-mongodb-d46c976da5bf) [## 使用 MongoDB 介绍 NoSQL 数据库
-
-### NoSQL 数据库实用指南
-
-towardsdatascience.com](/introducing-nosql-databases-with-mongodb-d46c976da5bf) 
+[](/introducing-nosql-databases-with-mongodb-d46c976da5bf)  
 
 # 数据库挑战
 
@@ -94,11 +82,7 @@ SQL 提供了许多读取、修改或删除数据的函数。它实际上用在�
 
 在我们的博客中，我们提供了一篇关于结构化查询语言的详细文章:
 
-[](https://databasecamp.de/en/data/sql-definition) [## 结构化查询语言(SQL) |数据库
-
-### 结构化查询语言(SQL)是处理关系数据库时最常用的语言。语言…
-
-数据库营](https://databasecamp.de/en/data/sql-definition) 
+[](https://databasecamp.de/en/data/sql-definition)  
 
 # 为什么数据库对数据科学家如此重要？
 
@@ -115,16 +99,4 @@ SQL 提供了许多读取、修改或删除数据的函数。它实际上用在�
 
 *如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
 
-*[](/beginners-guide-to-gradient-descent-47f8d0f4ce3b) [## 梯度下降初学者指南
-
-### 关于梯度下降法你需要知道的一切
-
-towardsdatascience.com](/beginners-guide-to-gradient-descent-47f8d0f4ce3b) [](/the-difference-between-correlation-and-causation-51d44c102789) [## 相关性和因果关系的区别
-
-### 你需要知道的关于偶然推断的一切
-
-towardsdatascience.com](/the-difference-between-correlation-and-causation-51d44c102789) [](/beginners-guide-extract-transform-load-etl-49104a8f9294) [## 初学者指南:提取、转换、加载(ETL)
-
-### 了解数据分析中的大数据原理
-
-towardsdatascience.com](/beginners-guide-extract-transform-load-etl-49104a8f9294)*
+*[](/beginners-guide-to-gradient-descent-47f8d0f4ce3b)  [](/the-difference-between-correlation-and-causation-51d44c102789)  [](/beginners-guide-extract-transform-load-etl-49104a8f9294) *

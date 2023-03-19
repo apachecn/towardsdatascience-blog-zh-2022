@@ -399,11 +399,7 @@ model.compile(optimizer='Adam',
 
 > `*ImageDataGenerator*`类允许您的模型在每个时期接收图像的新变体。但是请记住，它只返回转换后的图像，而不会将其添加到您已有的图像集中。
 
-[](https://weimenglee.medium.com/membership) [## 加入我的推荐链接 Medium 李伟萌
-
-### 阅读李伟萌(以及其他成千上万的媒体作家)的每一个故事。您的会员费直接支持…
-
-weimenglee.medium.com](https://weimenglee.medium.com/membership) 
+[](https://weimenglee.medium.com/membership)  
 
 # 摘要
 

@@ -108,11 +108,7 @@
 
 *在进入示例代码之前，值得一提的是，当试图从观察数据中计算因果效应时，基于倾向得分的方法并不是我们唯一的选择。还有另外一类技术，我们可以称之为 [**基于回归的**](/causal-effects-via-regression-28cb58a2fffc) 。这包括诸如**线性回归、元学习器和双机器学习**等方法。事实上，在之前关于[因果推理](/causal-inference-962ae97cefda)的一篇文章中，我们使用了一个元学习者来估计读研对收入的影响。在这里，我们将重复这一分析，但现在使用基于倾向得分的方法。*
 
-*[](/causal-effects-via-regression-28cb58a2fffc) [## 通过回归的因果效应
-
-### Python 示例代码的 3 种流行技术
-
-towardsdatascience.com](/causal-effects-via-regression-28cb58a2fffc) 
+*[](/causal-effects-via-regression-28cb58a2fffc)  
 
 # **示例:估计研究生院对收入的治疗效果(使用倾向得分)**
 
@@ -189,11 +185,7 @@ ps_estimate_val_list **=** []# estimate effect for each method
 
 在本系列的下一篇博客中，我们将讨论**如何应对不可测量的混杂因素**，并将 do 运算符带回我们对因果关系的讨论。
 
-[](/causal-effects-via-the-do-operator-5415aefc834a) [## 通过 Do 运算符的因果关系
-
-### 将观察转化为干预
-
-towardsdatascience.com](/causal-effects-via-the-do-operator-5415aefc834a) 
+[](/causal-effects-via-the-do-operator-5415aefc834a)  
 
 # 资源
 
@@ -205,11 +197,7 @@ towardsdatascience.com](/causal-effects-via-the-do-operator-5415aefc834a)
 
 **支持** : [给我买杯咖啡](https://www.buymeacoffee.com/shawhint?source=about_page-------------------------------------) ☕️ | [成为会员](https://shawhin.medium.com/membership?source=about_page-------------------------------------) ⭐️
 
-[](https://shawhin.medium.com/membership) [## 通过我的推荐链接加入媒体——肖文·塔莱比
-
-### ⭐️成为会员使用我的推荐链接，并获得充分的媒体上的每一篇文章。您的会员费直接…
-
-shawhin.medium.com](https://shawhin.medium.com/membership) 
+[](https://shawhin.medium.com/membership)  
 
 [1] [减少观察性研究中混杂效应的倾向评分方法简介](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3144483/)作者 Peter C. Austin
 

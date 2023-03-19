@@ -194,11 +194,7 @@ DFT 对于实输入有一个有趣的性质:它关于原点共轭对称。对称
 
 这是我为生成这些图而创建的笔记本:
 
-[](https://github.com/sascha-kirch/ML_Notebooks/blob/main/2D_FFTs.ipynb) [## ML _ Notebooks/2D _ ffts . ipynb at main sascha-kir ch/ML _ Notebooks
-
-### 机器学习相关笔记本合集分享。-ML _ Notebooks/2D _ ffts . ipynb at main…
-
-github.com](https://github.com/sascha-kirch/ML_Notebooks/blob/main/2D_FFTs.ipynb) 
+[](https://github.com/sascha-kirch/ML_Notebooks/blob/main/2D_FFTs.ipynb)  
 
 # TensorFlow 中的实现
 
@@ -334,20 +330,4 @@ std = tf**.**math**.**reduce_std(error)# Mean Absolute Error: 0.0015609820839017
 
 # 进一步阅读和链接
 
-[](https://github.com/sascha-kirch/ML_Notebooks/blob/main/2D_FFTs.ipynb) [## ML _ Notebooks/2D _ ffts . ipynb at main sascha-kir ch/ML _ Notebooks
-
-### 机器学习相关笔记本合集分享。—ML _ Notebooks/2D _ ffts . ipynb at main…
-
-github.com](https://github.com/sascha-kirch/ML_Notebooks/blob/main/2D_FFTs.ipynb) [](https://github.com/sascha-kirch/DeepSaki) [## GitHub - sascha-kirch/DeepSaki:可重用机器学习代码的集合，包括模型…
-
-### 欢迎 AI enthuisiasts 来到 DeepSaki，这是一个可重用机器学习代码的集合。💪 🤖 🤘使用的 ML 框架是…
-
-github.com](https://github.com/sascha-kirch/DeepSaki) [](https://pypi.org/project/DeepSaki/) [## 迪普萨基
-
-### 欢迎 AI enthuisiasts 来到 DeepSaki，这是一个可重用机器学习代码的集合。:肌肉::机器人::金属:ML…
-
-pypi.org](https://pypi.org/project/DeepSaki/)  [## 循环卷积与线性卷积:有什么区别？
-
-### 什么是循环卷积，它与线性卷积有什么不同？卷积的定义和…
-
-thewolfsound.com](https://thewolfsound.com/circular-vs-linear-convolution-whats-the-difference/)
+[](https://github.com/sascha-kirch/ML_Notebooks/blob/main/2D_FFTs.ipynb)  [](https://github.com/sascha-kirch/DeepSaki)  [](https://pypi.org/project/DeepSaki/)   

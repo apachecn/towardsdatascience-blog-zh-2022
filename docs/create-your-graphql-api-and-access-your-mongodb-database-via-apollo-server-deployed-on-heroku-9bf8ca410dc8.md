@@ -321,16 +321,4 @@ Heroku 是一个云平台即服务。我们可以将应用程序部署到 heroku
 
 我很乐意在我写的其他博客上欢迎你，或者在 linkedin 或 twitter 上收到你的消息。
 
-[](/node-embeddings-for-beginners-554ab1625d98) [## 初学者的节点嵌入
-
-### 节点嵌入在开始时可能很困难。这篇文章为你提供了直觉，这样你就可以阅读更多…
-
-towardsdatascience.com](/node-embeddings-for-beginners-554ab1625d98) [](/testing-mock-requests-for-api-wrapper-752359807ad7) [## 测试:对 API 包装器的模拟请求
-
-### 测试来自 ML 项目的代码，通过使用模拟请求与外部数据库进行交互，以使测试更快、更…
-
-towardsdatascience.com](/testing-mock-requests-for-api-wrapper-752359807ad7) [](/learn-git-branches-with-your-ml-project-7f58bdf1ae80) [## 用您的 ML 项目学习 Git 分支
-
-### MLE 项目的版本控制至关重要。这是它的工作原理。
-
-towardsdatascience.com](/learn-git-branches-with-your-ml-project-7f58bdf1ae80)
+[](/node-embeddings-for-beginners-554ab1625d98)  [](/testing-mock-requests-for-api-wrapper-752359807ad7)  [](/learn-git-branches-with-your-ml-project-7f58bdf1ae80) 

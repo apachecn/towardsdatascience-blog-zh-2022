@@ -52,16 +52,4 @@
 
 ## 你可能也会喜欢…
 
-[](/how-data-scientists-and-data-engineers-can-collaborate-effectively-4d33a23f211c) [## 数据科学家和数据工程师如何有效协作
-
-### 一位前数据工程师转型为数据科学家的建议
-
-towardsdatascience.com](/how-data-scientists-and-data-engineers-can-collaborate-effectively-4d33a23f211c) [](/6-bad-data-engineering-practices-you-shouldnt-apply-as-a-data-scientist-58de5eca14c3) [## 作为数据科学家，你不应该应用的 6 个糟糕的数据工程实践
-
-### 你应该做什么
-
-towardsdatascience.com](/6-bad-data-engineering-practices-you-shouldnt-apply-as-a-data-scientist-58de5eca14c3) [](/6-best-practices-i-learned-as-a-data-engineer-9d3ad512f5aa) [## 我作为数据工程师学到的 6 个最佳实践
-
-### 以及作为数据科学家如何应用它们
-
-towardsdatascience.com](/6-best-practices-i-learned-as-a-data-engineer-9d3ad512f5aa)
+[](/how-data-scientists-and-data-engineers-can-collaborate-effectively-4d33a23f211c)  [](/6-bad-data-engineering-practices-you-shouldnt-apply-as-a-data-scientist-58de5eca14c3)  [](/6-best-practices-i-learned-as-a-data-engineer-9d3ad512f5aa) 

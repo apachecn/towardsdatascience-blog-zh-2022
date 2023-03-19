@@ -255,11 +255,7 @@ df_group.get_group('Home')
 
 ****尽管像上面这样写一行程序看起来很容易，也很有趣，但是你应该始终记住 PEP-8 关于一行中字符数的准则。你可以在下面的文章中读到更多。****
 
-****[](/5-most-powerful-one-liners-you-should-know-in-python-programming-c9d49a89b7f3) [## Python 编程中您应该知道的 5 个最强大的一行程序
-
-### 一行程序保持你的代码干净、清晰、简短和易于理解。
-
-towardsdatascience.com](/5-most-powerful-one-liners-you-should-know-in-python-programming-c9d49a89b7f3) 
+****[](/5-most-powerful-one-liners-you-should-know-in-python-programming-c9d49a89b7f3)  
 
 接下来，您可以使用`GroupBy`方法`**.aggregate()**`在同一列上应用多个聚合函数。只需提供要在列上应用的函数名列表。
 

@@ -92,8 +92,4 @@ towardsdatascience.com](/10-secret-tableau-features-you-should-start-using-right
 
 **我正在创建一个与数据科学和分析相关的所有我最喜欢的课程、书籍和用例的列表。点击 [**链接**](https://landing.mailerlite.com/webforms/landing/v3w3s2) 即可在**免费**访问该内容。**
 
-**[](https://medium.com/@loresowhat/membership) [## 用我的推荐链接加入 Medium-Lore 那又怎样
-
-### 阅读 Lore 的每一个故事那又怎样(以及媒体上成千上万的其他作家)。您的会员费直接支持…
-
-medium.com](https://medium.com/@loresowhat/membership)**
+**[](https://medium.com/@loresowhat/membership) **

@@ -20,21 +20,13 @@
 
 > 如果你想在大型非软件企业工作，你的工具集中必须有无代码 AI 平台。
 
-[](https://www.amazon.com/gp/product/B08D2M2KV1/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) [## 人工智能:非正统的教训:如何获得洞察力和建立创新的解决方案
-
-### 亚马逊网站:人工智能:非正统课程:如何获得洞察力和建立创新的解决方案电子书…
-
-www.amazon.com](https://www.amazon.com/gp/product/B08D2M2KV1/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) 
+[](https://www.amazon.com/gp/product/B08D2M2KV1/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0)  
 
 # —为什么你必须学习无代码人工智能？
 
 如果你读过我之前关于[人工智能战略](/how-to-create-perfect-ai-strategy-9c7884a89e11)和[数据战略](/how-to-create-a-perfect-data-strategy-7e8fd9bbfad0)的文章，你就会知道一个人工智能项目要取得成功存在许多挑战，尤其是当它在非软件企业中运行时。例如，在雇佣大型数据科学团队之前，企业需要进行许多实验，以确定可以通过人工智能有效解决的问题。雇佣一个大型数据科学团队成本高昂，而且对于一个企业来说，建立一个充满无数未知数的数据科学团队是有风险的。**无代码人工智能技术是许多未知问题的答案。**作为一名数据科学家，你可以使用无代码 AI 平台为非软件企业创造价值，而不需要依赖其他专家，例如其他项目中需要的数据工程师。
 
-[](/no-code-ai-platforms-bring-ai-to-everyone-here-is-how-8f75b2f6ce9d) [## 无代码人工智能平台将人工智能带给每一个人——以下是方法
-
-### 无代码人工智能平台如何帮助大规模采用人工智能技术。
-
-towardsdatascience.com](/no-code-ai-platforms-bring-ai-to-everyone-here-is-how-8f75b2f6ce9d) 
+[](/no-code-ai-platforms-bring-ai-to-everyone-here-is-how-8f75b2f6ce9d)  
 
 作为一名数据科学家，你可能会说你还是更喜欢编码；然而，企业期望尽快得到结果。如果你想在 Jupyter 笔记本上从头开始开发任何东西或编写代码，你可能无法在截止日期前完成，或者向管理团队解释清楚。在这里，无代码人工智能平台可以帮助你。
 
@@ -64,8 +56,4 @@ towardsdatascience.com](/no-code-ai-platforms-bring-ai-to-everyone-here-is-how-8
 *   *连接上*[*Linkedin*](https://www.linkedin.com/in/pedrama/)*！*
 *   *关注我* [*推特*](https://twitter.com/pedram_ataee) *！*
 
-[](https://pedram-ataee.medium.com/membership) [## 通过我的推荐链接加入 Medium—Pedram Ataee 博士
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-pedram-ataee.medium.com](https://pedram-ataee.medium.com/membership)
+[](https://pedram-ataee.medium.com/membership) 

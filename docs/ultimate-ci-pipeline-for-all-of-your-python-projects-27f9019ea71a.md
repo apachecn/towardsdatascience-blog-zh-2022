@@ -102,16 +102,4 @@ Docker Hub 中的连署签名—图片由作者提供
 
 *本文最初发布于*[*martinheinz . dev*](https://martinheinz.dev/blog/69?utm_source=medium&utm_medium=referral&utm_campaign=blog_post_69)
 
-[](/optimizing-memory-usage-in-python-applications-f591fc914df5) [## 优化 Python 应用程序中的内存使用
-
-### 找出你的 Python 应用程序使用太多内存的原因，并通过这些简单的技巧和…
-
-towardsdatascience.com](/optimizing-memory-usage-in-python-applications-f591fc914df5) [](/speeding-up-container-image-builds-with-remote-cache-c72577317886) [## 使用远程缓存加速容器映像构建
-
-### 使用这些缓存技术可以轻松地优化 CI/CD 管道中的容器映像构建
-
-towardsdatascience.com](/speeding-up-container-image-builds-with-remote-cache-c72577317886) [](/all-the-things-you-can-do-with-github-api-and-python-f01790fca131) [## 你可以用 GitHub API 和 Python 做的所有事情
-
-### GitHub REST API 允许您管理问题、分支、回购、提交等等，所以让我们看看您如何使用…
-
-towardsdatascience.com](/all-the-things-you-can-do-with-github-api-and-python-f01790fca131)
+[](/optimizing-memory-usage-in-python-applications-f591fc914df5)  [](/speeding-up-container-image-builds-with-remote-cache-c72577317886)  [](/all-the-things-you-can-do-with-github-api-and-python-f01790fca131) 

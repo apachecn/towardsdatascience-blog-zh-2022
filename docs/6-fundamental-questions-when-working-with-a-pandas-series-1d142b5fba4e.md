@@ -23,11 +23,7 @@ Python 的基本安装已经带来了四种不同的数据结构，其中可以�
 
 同样，还有许多其他应用程序的模块来补充 [Python](https://databasecamp.de/en/python-coding) 编程语言及其功能。例如，模块 [TensorFlow](https://databasecamp.de/en/python-coding/tensorflow-en) 或 [Scikit-Learn](https://databasecamp.de/en/python-coding/scikit-learns) 用于创建[机器学习](https://databasecamp.de/en/machine-learning)模型。
 
-[](/an-introduction-to-tensorflow-fa5b17051f6b) [## 张量流简介
-
-### 了解机器学习框架、其架构以及与 PyTorch 的比较
-
-towardsdatascience.com](/an-introduction-to-tensorflow-fa5b17051f6b) 
+[](/an-introduction-to-tensorflow-fa5b17051f6b)  
 
 # 2.熊猫系列由哪些部分组成？
 
@@ -191,16 +187,4 @@ series_3 = pd.Series(["i", "don't", "know"], index = ["A", "B", "D"])pd.DataFram
 
 *如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
 
-*[](https://medium.com/codex/why-you-should-know-big-data-3c0c161b9e14) [## 为什么您应该了解大数据
-
-### 定义大数据及其潜在威胁
-
-medium.com](https://medium.com/codex/why-you-should-know-big-data-3c0c161b9e14) [](https://medium.com/@niklas_lang/understanding-mapreduce-with-the-help-of-harry-potter-5b0ae89cc88) [## 借助《哈利·波特》理解 MapReduce
-
-### MapReduce 是一种允许并行处理大型数据集的算法，例如，在多台计算机上…
-
-medium.com](https://medium.com/@niklas_lang/understanding-mapreduce-with-the-help-of-harry-potter-5b0ae89cc88) [](/learn-coding-13-free-sites-to-help-you-do-it-9b2c1b92e573) [## 学习编码:13 个免费网站帮助你开始
-
-### 一旦你决定要学习编码，你会被众多的在线工具宠坏，这些工具可以帮助你…
-
-towardsdatascience.comm](/learn-coding-13-free-sites-to-help-you-do-it-9b2c1b92e573)*
+*[](https://medium.com/codex/why-you-should-know-big-data-3c0c161b9e14)  [](https://medium.com/@niklas_lang/understanding-mapreduce-with-the-help-of-harry-potter-5b0ae89cc88)  [](/learn-coding-13-free-sites-to-help-you-do-it-9b2c1b92e573) *

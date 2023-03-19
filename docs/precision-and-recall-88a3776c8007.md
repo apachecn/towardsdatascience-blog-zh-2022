@@ -142,27 +142,15 @@ neptune.ai 的这篇博客文章对何时使用这些不同的指标进行了很
 
 维基百科使用圆形、方形和颜色进行了很好的可视化(注意本文中特异性和精确性的区别):
 
-[](https://en.wikipedia.org/wiki/Sensitivity_and_specificity) [## 敏感性和特异性—维基百科
-
-### 敏感性和特异性从数学上描述了一项检测的准确性，该检测报告了一种抗原的存在或不存在
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Sensitivity_and_specificity) 
+[](https://en.wikipedia.org/wiki/Sensitivity_and_specificity)  
 
 这篇中型文章也有一些非常好的文氏图:
 
-[](https://medium.com/@klintcho/explaining-precision-and-recall-c770eb9c69e9) [## 解释精确度和召回率
-
-### 在进入 NLP 的最初几天和几周，我很难理解精确、回忆和…
-
-medium.com](https://medium.com/@klintcho/explaining-precision-and-recall-c770eb9c69e9) 
+[](https://medium.com/@klintcho/explaining-precision-and-recall-c770eb9c69e9)  
 
 这也是一个很好的例子和解释
 
-[](https://jamesmccaffrey.wordpress.com/2016/10/24/precision-and-recall-in-information-retrieval/) [## 信息检索中的精确度和召回率
-
-### 最近和一个同事聊天。他在必应搜索工作。他提到了精确和回忆。这提醒了我…
-
-jamesmccaffrey.wordpress.com](https://jamesmccaffrey.wordpress.com/2016/10/24/precision-and-recall-in-information-retrieval/) 
+[](https://jamesmccaffrey.wordpress.com/2016/10/24/precision-and-recall-in-information-retrieval/)  
 
 # 结论
 
@@ -172,12 +160,4 @@ jamesmccaffrey.wordpress.com](https://jamesmccaffrey.wordpress.com/2016/10/24/pr
 
 ## 了解更多信息
 
-[](/simple-logistic-regression-a9735ed23abd) [## 清理逻辑回归
-
-### 非数学家指南
-
-towardsdatascience.com](/simple-logistic-regression-a9735ed23abd) [](/random-forest-29cf337c68d4) [## 面向非技术受众的随机森林
-
-### 今天最广泛使用的算法之一实际上很难解释…
-
-towardsdatascience.com](/random-forest-29cf337c68d4)
+[](/simple-logistic-regression-a9735ed23abd)  [](/random-forest-29cf337c68d4) 

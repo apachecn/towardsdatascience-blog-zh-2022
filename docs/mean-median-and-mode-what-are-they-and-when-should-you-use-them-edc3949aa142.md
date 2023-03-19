@@ -193,23 +193,11 @@ r.mode()
 
 您可以在我的 Github 页面上找到一个 Jupyter 笔记本的链接，上面有代码(除此之外还有更多)和文章中使用的所有数据文件。
 
-[](https://alanjones2.github.io) [## AlanJones:编码、科学和技术
-
-### 使用 Streamlit、Plotly、Python 和 Flask 为 web 构建数据可视化应用程序。适用于…的文章、教程和应用程序
-
-alanjones2.github.io](https://alanjones2.github.io) 
+[](https://alanjones2.github.io)  
 
 一如既往地感谢您的阅读，如果您想了解我发表的新文章，请考虑注册下面的电子邮件提醒或订阅我偶尔在 [Substack](https://technofile.substack.com/) 上发布的免费简讯。
 
-[](https://technofile.substack.com) [## 技术文件
-
-### 技术、科学、数据科学和编码。点击阅读阿兰·琼斯的技术文件，这是一个子堆栈出版物，包含…
-
-technofile.substack.com](https://technofile.substack.com) [](https://medium.com/membership/@alan-jones) [## 通过我的推荐链接-阿兰·琼斯加入媒体
-
-### 阅读阿兰·琼斯的每一个故事(以及媒体上成千上万的其他作家)。你的会员费直接支持艾伦…
-
-medium.com](https://medium.com/membership/@alan-jones) 
+[](https://technofile.substack.com)  [](https://medium.com/membership/@alan-jones)  
 
 ## 笔记
 

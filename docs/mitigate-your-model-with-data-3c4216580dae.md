@@ -14,19 +14,11 @@
 
 修复数据并准备将其放入模型中有很多细节和细微差别。这通常包括探索特征、移动、删除、清理和数据测试等任务。准备训练和测试集，工程特性，标准化，以及更多的东西。今天，我想从一个绝对混乱的模型开始，它有糟糕的数据，糟糕的功能选择，然后试图通过操纵测试和训练数据来扭转这个模型。在这样做的时候，我也将展示人们可能用来解决这类问题的各种技术。我还将根据我在这里概述的一步一步的建模过程来概述这个项目:
 
-[](/my-predictive-modeling-and-learning-step-process-technique-f0521ee76d90) [## 我的预测建模和学习“分步”过程技术
-
-### 概述了我将数据转化为机器学习模型的不同步骤
-
-towardsdatascience.com](/my-predictive-modeling-and-learning-step-process-technique-f0521ee76d90) 
+[](/my-predictive-modeling-and-learning-step-process-technique-f0521ee76d90)  
 
 此外，如果您想让笔记本跟随或自己尝试这些代码，那么可以在 Github 上找到这个笔记本，它还克隆了一个完整的示例数据存储库，包括这个模型中使用的数据集:
 
-[](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Python3/Bring%20a%20model%20back%20with%20data.ipynb) [## Emmetts-DS-NoteBooks/带一个带数据的模型回来. ipynb at master emmett GB/Emmetts-DS-NoteBooks
-
-### 各种项目的随机笔记本。通过创建帐户，为 emmettgb/Emmetts-DS 笔记本电脑的开发做出贡献…
-
-github.com](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Python3/Bring%20a%20model%20back%20with%20data.ipynb) 
+[](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Python3/Bring%20a%20model%20back%20with%20data.ipynb)  
 
 # 第 1 部分:我们的模型
 

@@ -163,12 +163,4 @@ CNN 滤波器的可视化。图像由[可视化和理解卷积网络论文](http
 
 # 参考
 
-[](https://arxiv.org/abs/1311.2901) [## 可视化和理解卷积网络
-
-### 大型卷积网络模型最近在 ImageNet 上展示了令人印象深刻的分类性能…
-
-arxiv.org](https://arxiv.org/abs/1311.2901)  [## 拖网
-
-### 每个单元对应一个卷积单元。单击一个设备以显示最强的连接…
-
-people.csail.mit.edu](http://people.csail.mit.edu/torralba/research/drawCNN/drawNet.html)
+[](https://arxiv.org/abs/1311.2901)   

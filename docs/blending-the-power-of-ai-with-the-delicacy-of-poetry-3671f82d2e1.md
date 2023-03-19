@@ -139,8 +139,4 @@ DALL-E 是一个非常强大的工具，但仍然需要正确的词语来充分�
 
 **这里是我的 Github 资源库的链接，我计划在那里收集代码，以及许多与机器学习、人工智能等相关的资源。**
 
-**[](https://github.com/SalvatoreRa/tutorial) [## GitHub - SalvatoreRa/tutorial:关于机器学习、人工智能、数据科学的教程…
-
-### 关于机器学习、人工智能、数据科学的教程，包括数学解释和可重复使用的代码(python…
-
-github.com](https://github.com/SalvatoreRa/tutorial)**
+**[](https://github.com/SalvatoreRa/tutorial) **

@@ -18,11 +18,7 @@
 
 我以前写过这些数据。
 
-[](/three-datasets-i-often-use-as-examples-c70ec5b2f793) [## 我经常使用的三个数据集作为例子
-
-### 这篇文章强调了三个数据集，我把它们作为自己或他人的例子。
-
-towardsdatascience.com](/three-datasets-i-often-use-as-examples-c70ec5b2f793) 
+[](/three-datasets-i-often-use-as-examples-c70ec5b2f793)  
 
 这些数据告诉我们大约 74 辆车。我们知道每辆车的品牌、价格、效率(mpg)和其他因素。
 
@@ -193,11 +189,7 @@ plt.show()
 
 作者的再现。使用此处指定的数据和代码。
 
-[](https://adamrossnelson.medium.com/membership) [## 加入我的介绍链接媒体-亚当罗斯纳尔逊
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-adamrossnelson.medium.com](https://adamrossnelson.medium.com/membership) 
+[](https://adamrossnelson.medium.com/membership)  
 
 # 感谢阅读
 

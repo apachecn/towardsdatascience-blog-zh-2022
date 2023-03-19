@@ -217,24 +217,8 @@ mean_absolute_error(y_test, preds)**[OUT]: 0.8914285714285712**
 
 如果你喜欢这些内容，请关注我的博客，或者[在 Linkedin](https://www.linkedin.com/in/gurezende/) 上找到我。
 
-[](http://gustavorsantos.medium.com/) [## 古斯塔沃·桑托斯-中等
-
-### 阅读古斯塔夫·桑托斯在媒介上的作品。数据科学家。我从数据中提取见解，以帮助个人和公司…
-
-gustavorsantos.medium.com](http://gustavorsantos.medium.com/) 
+[](http://gustavorsantos.medium.com/)  
 
 # 参考
 
-[](https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html#sklearn.pipeline.Pipeline) [## sklearn.pipeline.Pipeline
-
-### 使用 sklearn.pipeline.Pipeline 的示例:特征聚集与单变量选择特征聚集与…
-
-scikit-learn.org](https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html#sklearn.pipeline.Pipeline) [](https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectKBest.html#sklearn.feature_selection.SelectKBest) [## sklearn.feature_selection。选择最佳
-
-### 使用 sklearn.feature_selection 的示例。select kbest:sci kit 发布亮点-了解 1.1 发布亮点…
-
-scikit-learn.org](https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectKBest.html#sklearn.feature_selection.SelectKBest) [](/how-to-use-sklearn-pipelines-for-ridiculously-neat-code-a61ab66ca90d) [## 如何将 Sklearn 管道用于极其简洁的代码
-
-### 我喜欢的关于 Scikit-Learn 的一切，都在一个地方
-
-towardsdatascience.com](/how-to-use-sklearn-pipelines-for-ridiculously-neat-code-a61ab66ca90d)
+[](https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html#sklearn.pipeline.Pipeline)  [](https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectKBest.html#sklearn.feature_selection.SelectKBest)  [](/how-to-use-sklearn-pipelines-for-ridiculously-neat-code-a61ab66ca90d) 

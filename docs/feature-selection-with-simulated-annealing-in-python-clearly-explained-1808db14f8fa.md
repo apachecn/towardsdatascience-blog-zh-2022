@@ -230,12 +230,4 @@
 
 ******欢迎您来到**加入我的数据科学学习之旅！**点击此 [Medium](https://kennethleungty.medium.com/) 页面，查看我的 [GitHub](https://github.com/kennethleungty) ，了解更多精彩的数据科学内容。与此同时，运行模拟退火进行特征选择也很有趣！******
 
-******[](/micro-macro-weighted-averages-of-f1-score-clearly-explained-b603420b292f) [## F1 分数的微观、宏观和加权平均值，解释清楚
-
-### 理解 F1 分数的微观平均、宏观平均和加权平均背后的概念
-
-towardsdatascience.com](/micro-macro-weighted-averages-of-f1-score-clearly-explained-b603420b292f) [](/assumptions-of-logistic-regression-clearly-explained-44d85a22b290) [## 逻辑回归的假设，解释清楚
-
-### 理解并实现假设检验(用 Python ),这是最重要的数据科学建模技术之一
-
-towardsdatascience.com](/assumptions-of-logistic-regression-clearly-explained-44d85a22b290)******
+******[](/micro-macro-weighted-averages-of-f1-score-clearly-explained-b603420b292f)  [](/assumptions-of-logistic-regression-clearly-explained-44d85a22b290) ******

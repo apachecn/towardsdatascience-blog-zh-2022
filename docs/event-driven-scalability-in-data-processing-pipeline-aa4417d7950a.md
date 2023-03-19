@@ -142,10 +142,6 @@ GKE(自动驾驶仪)和 KEDA(图片由作者提供)
 
 对于技术方面的决策点，我总是参考 [**CNCF** 风景](https://landscape.cncf.io/)来查看所有可用的选项，并根据我的要求进行分析。
 
-[](https://landscape.cncf.io/) [## CNCF 云原生互动景观
-
-### 云原生路径地图(png，pdf)是 CNCF 推荐的穿过云原生景观的路径。云原生……
-
-landscape.cncf.io](https://landscape.cncf.io/) 
+[](https://landscape.cncf.io/)  
 
 让我知道你对此的想法。

@@ -50,11 +50,7 @@ Share the tool using executable files (.exe)**
 
 在本文中，我将通过一个真实的运营案例研究来解释我使用线性编程解决这些运营问题的方法。
 
-[](http://samirsaci.com) [## 萨米尔·萨奇
-
-### 数据科学博客，专注于仓储，运输，数据可视化和机器人流程自动化…
-
-samirsaci.com](http://samirsaci.com) 
+[](http://samirsaci.com)  
 
 # 二。线性规划问题的要求和表述
 
@@ -209,11 +205,7 @@ z =** t[1]*225*6 + Sum(t[i]*395, i=2...7) + t[8]*205*3 + t[9]*200*3**Given the c
 
 **您可以在本文中找到实现的详细示例**
 
-**[](https://www.samirsaci.com/optimize-workforce-planning-using-linear-programming-with-python/) [## 使用 Python | Samir Saci 的线性编程优化劳动力规划
-
-### 仓储业务你需要雇佣多少临时工来消化你每周的工作量…
-
-www.samirsaci.com](https://www.samirsaci.com/optimize-workforce-planning-using-linear-programming-with-python/) 
+**[](https://www.samirsaci.com/optimize-workforce-planning-using-linear-programming-with-python/)  
 
 > ***💡提示:浆*** *的语法请看文档**[***浆***](https://coin-or.github.io/pulp/)**了解更多信息* ***。*** *如果你被卡住了，欢迎在评论区提问，我们会尽力帮助。***
 
@@ -241,11 +233,7 @@ www.samirsaci.com](https://www.samirsaci.com/optimize-workforce-planning-using-l
 
 ****找到一个部署在云上的 Streamlit web 应用程序的示例****
 
-****[](https://github.com/samirsaci/segmentation) [## GitHub - samirsaci/segmentation:简化 ABC 分析和产品细分的应用程序
-
-### 使用自动化解决方案，根据营业额和需求变化对产品进行细分的统计方法…
-
-github.com](https://github.com/samirsaci/segmentation) 
+****[](https://github.com/samirsaci/segmentation)  
 
 ## 使用可执行文件(.exe)
 
@@ -253,11 +241,7 @@ github.com](https://github.com/samirsaci/segmentation)
 
 在这篇文章中找到一个例子
 
-[](/use-python-to-design-automation-tools-for-excel-users-e824b37c646d) [## 用 Python 构建 Excel 自动化工具
-
-### 用于销售分析的 Excel 自动化工具的设计可供您的同事使用，无需事先了解…
-
-towardsdatascience.com](/use-python-to-design-automation-tools-for-excel-users-e824b37c646d) 
+[](/use-python-to-design-automation-tools-for-excel-users-e824b37c646d)  
 
 ## **实施绩效 KPI**
 
@@ -269,8 +253,4 @@ towardsdatascience.com](/use-python-to-design-automation-tools-for-excel-users-e
 
 如果你对数据分析和供应链感兴趣，可以看看我的网站
 
-[](https://samirsaci.com) [## Samir Saci |数据科学与生产力
-
-### 专注于数据科学、个人生产力、自动化、运筹学和可持续发展的技术博客
-
-samirsaci.com](https://samirsaci.com)****
+[](https://samirsaci.com) ****

@@ -132,11 +132,7 @@ Streamlit 中的媒体就是这样。在以后的文章中，我们将探讨如�
 
 我的 [Github 页面](/alanjones2.github.io)包含其他文章和代码的链接。
 
-[](https://alan-jones.medium.com/membership) [## 通过我的推荐链接——阿兰·琼斯加入 Medium
-
-### 阅读阿兰·琼斯的每一个故事(以及媒体上成千上万的其他作家)。你的会员费直接支持艾伦…
-
-alan-jones.medium.com](https://alan-jones.medium.com/membership) 
+[](https://alan-jones.medium.com/membership)  
 
 为了跟上我正在做的事情，你也可以订阅我偶尔的免费时事通讯 [Technofile](/technofile.substack.com) 。
 

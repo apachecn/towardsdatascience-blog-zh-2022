@@ -23,11 +23,7 @@ import matplotlib.pyplot as plt
 
 本教程将使用一个简单的笑脸图像。请随意从以下链接下载图片:
 
-[](https://github.com/rashida048/OpenCV/blob/main/smiley.jpg) [## OpenCV/smiley . jpg at main rashida 048/OpenCV
-
-### 在 GitHub 上创建一个帐户，为 rashida048/OpenCV 开发做贡献。
-
-github.com](https://github.com/rashida048/OpenCV/blob/main/smiley.jpg) 
+[](https://github.com/rashida048/OpenCV/blob/main/smiley.jpg)  
 
 在这行代码中，cv2.imread 函数用于读取图像并将其存储为数组。
 
@@ -224,24 +220,4 @@ OpenCV 中有很多可用的函数。我只想从这三个基本操作开始。�
 
 ## 更多阅读
 
-[](/a-step-by-step-tutorial-to-develop-a-multi-output-model-in-tensorflow-ec9f13e5979c) [## 在 TensorFlow 中开发多输出模型的分步教程
-
-### 有完整的代码
-
-towardsdatascience.com](/a-step-by-step-tutorial-to-develop-a-multi-output-model-in-tensorflow-ec9f13e5979c) [](/precision-recall-and-f1-score-of-multiclass-classification-learn-in-depth-6c194b217629) [## 多类分类的精确度、召回率和 F1 分数—深入学习
-
-### 从混淆矩阵手动计算和 sklearn 库的语法
-
-towardsdatascience.com](/precision-recall-and-f1-score-of-multiclass-classification-learn-in-depth-6c194b217629) [](/how-to-make-animated-and-racing-bar-plots-in-python-c5c7c3c648f7) [## 如何用 Python 制作动画和赛车条形图
-
-### 完整的工作代码
-
-towardsdatascience.com](/how-to-make-animated-and-racing-bar-plots-in-python-c5c7c3c648f7) [](/a-complete-guide-for-detecting-and-dealing-with-outliers-bad26b1e92b6) [## 检测和处理异常值的完整指南
-
-### 6 种检测异常值的方法和 4 种处理异常值的方法
-
-towardsdatascience.com](/a-complete-guide-for-detecting-and-dealing-with-outliers-bad26b1e92b6) [](/regression-in-tensorflow-using-both-sequential-and-function-apis-314e74b537ca) [## TensorFlow 中使用顺序 API 和函数 API 的回归
-
-### 演示几种不同类型的模型结构
-
-towardsdatascience.com](/regression-in-tensorflow-using-both-sequential-and-function-apis-314e74b537ca)
+[](/a-step-by-step-tutorial-to-develop-a-multi-output-model-in-tensorflow-ec9f13e5979c)  [](/precision-recall-and-f1-score-of-multiclass-classification-learn-in-depth-6c194b217629)  [](/how-to-make-animated-and-racing-bar-plots-in-python-c5c7c3c648f7)  [](/a-complete-guide-for-detecting-and-dealing-with-outliers-bad26b1e92b6)  [](/regression-in-tensorflow-using-both-sequential-and-function-apis-314e74b537ca) 

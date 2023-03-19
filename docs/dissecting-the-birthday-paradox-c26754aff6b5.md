@@ -261,11 +261,7 @@ Mario Cortina Borja 和 John Haigh 的论文对此进行了深入的解释。他
 
 我在这里使用了**出生**数据集(知识共享许可)。
 
-[](https://data.fivethirtyeight.com/) [## 我们的数据
-
-### 我们正在分享一些文章和图片背后的数据和代码。
-
-data.fivethirtyeight.com](https://data.fivethirtyeight.com/) 
+[](https://data.fivethirtyeight.com/)  
 
 ## 论文谈均匀性假设
 
@@ -273,11 +269,7 @@ data.fivethirtyeight.com](https://data.fivethirtyeight.com/)
 
 ## 密码
 
-[](https://github.com/Polaris000/BlogCode/tree/main/BirthdayParadox) [## 博客代码/生日悖论在主北极星 000/博客代码
-
-### 示例代码来自我在 Medium 和我的个人网站上的博客文章。-博客代码/生日悖论在主…
-
-github.com](https://github.com/Polaris000/BlogCode/tree/main/BirthdayParadox) 
+[](https://github.com/Polaris000/BlogCode/tree/main/BirthdayParadox)  
 
 ## 更新
 

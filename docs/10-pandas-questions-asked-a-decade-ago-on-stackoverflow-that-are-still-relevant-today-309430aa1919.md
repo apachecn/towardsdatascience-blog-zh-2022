@@ -32,11 +32,7 @@
 
 我在下面的博文中详细讨论了迭代数据帧的不同方法:
 
-[](/five-killer-optimization-techniques-every-pandas-user-should-know-266662bd1163) [## 每个熊猫用户应该知道的五个黑仔优化技术
-
-### 数据分析运行时优化的一步
-
-towardsdatascience.com](/five-killer-optimization-techniques-every-pandas-user-should-know-266662bd1163) 
+[](/five-killer-optimization-techniques-every-pandas-user-should-know-266662bd1163)  
 
 # [Q2:我如何根据列值从数据框中选择行？](https://stackoverflow.com/questions/17071871/how-do-i-select-rows-from-a-dataframe-based-on-column-values)
 
@@ -118,15 +114,7 @@ towardsdatascience.com](/five-killer-optimization-techniques-every-pandas-user-s
 
 或者，如果你想在熊猫中练习一些具有挑战性的问题，可以参考下面我之前的两篇博文来练习熊猫。
 
-[](/pandas-exercise-for-data-scientists-part-1-b601a97ee091) [## 数据科学家的熊猫练习—第一部分
-
-### 一组具有挑战性的熊猫问题。
-
-towardsdatascience.com](/pandas-exercise-for-data-scientists-part-1-b601a97ee091) [](/pandas-exercise-for-data-scientists-part-2-4d532cfc00bf) [## 数据科学家的熊猫练习—第二部分
-
-### 一组具有挑战性的熊猫问题
-
-towardsdatascience.com](/pandas-exercise-for-data-scientists-part-2-4d532cfc00bf) 
+[](/pandas-exercise-for-data-scientists-part-1-b601a97ee091)  [](/pandas-exercise-for-data-scientists-part-2-4d532cfc00bf)  
 
 > 有兴趣在媒体上阅读更多这样的故事吗？？
 

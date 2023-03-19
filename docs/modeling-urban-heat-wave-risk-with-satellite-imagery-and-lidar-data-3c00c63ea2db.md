@@ -102,8 +102,4 @@
 
 ***如果你还不是中会员，想支持我这样的作家，可以随时通过我的推荐链接报名:***
 
-[](https://guilhermeiablonovski.medium.com/membership) [## 通过我的推荐链接加入媒体——古伊列梅·m·亚布洛诺夫斯基
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-guilhermeiablonovski.medium.com](https://guilhermeiablonovski.medium.com/membership)
+[](https://guilhermeiablonovski.medium.com/membership) 

@@ -233,8 +233,4 @@ t1 <- xgb_pred %>%
 
 感谢您阅读本文，希望您喜欢。我写这些是为了教会自己一些东西，我希望你也学到了一些东西。如果你不是媒介会员，使用下面我的推荐链接，定期从我和其他优秀的媒介作者那里获得新出版物的更新。
 
-[](https://mmgillin.medium.com/membership) [## 通过我的推荐链接加入媒体——默里·吉林
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-mmgillin.medium.com](https://mmgillin.medium.com/membership)
+[](https://mmgillin.medium.com/membership) 

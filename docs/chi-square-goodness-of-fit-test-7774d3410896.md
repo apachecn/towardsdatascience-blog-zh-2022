@@ -12,11 +12,7 @@ Riho Kroll 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=refe
 
 我们最近探索并推导出了**卡方分布**，您可以在此查看:
 
-[](/chi-square-distribution-simply-explained-87f707ba631a) [## 卡方分布简单解释
-
-### 卡方分布及其起源的简单解释
-
-towardsdatascience.com](/chi-square-distribution-simply-explained-87f707ba631a) 
+[](/chi-square-distribution-simply-explained-87f707ba631a)  
 
 如果您对卡方分布不熟悉，我强烈推荐您阅读这篇文章，否则这篇文章对您来说毫无意义！
 
@@ -60,15 +56,7 @@ towardsdatascience.com](/chi-square-distribution-simply-explained-87f707ba631a)
 
 **为了更深入地理解假设检验和临界值，我建议阅读我的关于置信区间和 Z 检验的帖子，它将上述步骤进一步分解:**
 
-**[](/z-test-simply-explained-80b346e0e239) [## 简单解释了 z 测试
-
-### 统计假设检验的 Z 检验的直观解释
-
-towardsdatascience.com](/z-test-simply-explained-80b346e0e239) [](/confidence-intervals-simply-explained-58b0b11e985f) [## 简单解释了置信区间
-
-### 置信区间的简明解释。
-
-towardsdatascience.com](/confidence-intervals-simply-explained-58b0b11e985f) 
+**[](/z-test-simply-explained-80b346e0e239)  [](/confidence-intervals-simply-explained-58b0b11e985f)  
 
 也有许多 [youtube 视频](https://www.youtube.com/watch?v=zR2QLacylqQ)和[网站](https://www.statisticshowto.com/probability-and-statistics/hypothesis-testing/)也做了大量假设检验步骤。
 

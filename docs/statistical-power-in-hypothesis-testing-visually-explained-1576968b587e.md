@@ -18,11 +18,7 @@
 
 让我们继续使用我以前的文章“[假设检验的交互式指南](/an-interactive-guide-to-hypothesis-testing-in-python-979f4d62d85)”中的 t-test 例子来说明这些概念。
 
-[](/an-interactive-guide-to-hypothesis-testing-in-python-979f4d62d85) [## Python 中假设检验的交互式指南
-
-### t 检验、方差分析、卡方检验及示例
-
-towardsdatascience.com](/an-interactive-guide-to-hypothesis-testing-in-python-979f4d62d85) 
+[](/an-interactive-guide-to-hypothesis-testing-in-python-979f4d62d85)  
 
 *总结:我们使用了单尾双样本 t 检验来比较两个客户样本——接受活动优惠的客户和拒绝活动优惠的客户。*
 
@@ -120,11 +116,7 @@ recency_d = (m2 - m1)/pooled_sd
 
 ## 更多这样的文章
 
-[](/an-interactive-guide-to-hypothesis-testing-in-python-979f4d62d85) [## Python 中假设检验的交互式指南
-
-### t 检验、方差分析、卡方检验及示例
-
-towardsdatascience.com](/an-interactive-guide-to-hypothesis-testing-in-python-979f4d62d85) ![Destin Gong](img/dcd4375055f8aa7602b1433a60ad5ca3.png)
+[](/an-interactive-guide-to-hypothesis-testing-in-python-979f4d62d85)  ![Destin Gong](img/dcd4375055f8aa7602b1433a60ad5ca3.png)
 
 [德斯坦贡](https://destingong.medium.com/?source=post_page-----1576968b587e--------------------------------)
 

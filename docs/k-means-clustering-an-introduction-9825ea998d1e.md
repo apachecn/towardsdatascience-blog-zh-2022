@@ -179,11 +179,7 @@ k-means 聚类算法概述。图片由作者提供。
 
 有关这两种方法的更多详细信息，请访问:
 
-[](https://www.analyticsvidhya.com/blog/2021/05/k-mean-getting-the-optimal-number-of-clusters/) [## K 均值| K 均值聚类|寻找 K 的最佳值的方法
-
-### 对预测不感兴趣(因为我们没有目标/输出变量)。目标是发现…
-
-www.analyticsvidhya.com](https://www.analyticsvidhya.com/blog/2021/05/k-mean-getting-the-optimal-number-of-clusters/) 
+[](https://www.analyticsvidhya.com/blog/2021/05/k-mean-getting-the-optimal-number-of-clusters/)  
 
 # 改进 K 均值结果
 

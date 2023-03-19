@@ -86,48 +86,16 @@ Giphy 的 Gif
 
 这是探索数据结构及其在 Python 中的使用和实现的系列文章的第五篇。如果您错过了前三篇关于 Python 中的字典、元组和集合的文章，您可以在以下链接中找到它们:
 
-[](/a-complete-guide-to-dictionaries-in-python-5c3f4c132569) [## Python 词典完全指南
-
-### 什么是词典，创建它们，访问它们，更新它们，以及特殊的方法
-
-towardsdatascience.com](/a-complete-guide-to-dictionaries-in-python-5c3f4c132569) [](/a-complete-guide-to-tuples-in-python-af76241e8b59) [## Python 中元组的完全指南
-
-### 什么是元组、元组实现、数据类型、索引、不变性和扩展功能
-
-towardsdatascience.com](/a-complete-guide-to-tuples-in-python-af76241e8b59) [](/a-complete-guide-to-sets-in-python-99dc595b633d) [## Python 中集合的完整指南
-
-### 集合的关键特性、实现集合、访问项目、可变性和附加功能
-
-towardsdatascience.com](/a-complete-guide-to-sets-in-python-99dc595b633d) 
+[](/a-complete-guide-to-dictionaries-in-python-5c3f4c132569)  [](/a-complete-guide-to-tuples-in-python-af76241e8b59)  [](/a-complete-guide-to-sets-in-python-99dc595b633d)  
 
 本系列的后续文章将涉及链表、队列和图形。为了确保您不会错过任何内容，请注册以便在发布时收到电子邮件通知:
 
-[](https://philip-wilkinson.medium.com/subscribe) [## 每当菲利普·威尔金森发表文章时，就收到一封电子邮件。
-
-### 每当菲利普·威尔金森发表文章时，就收到一封电子邮件。通过注册，您将创建一个中型帐户，如果您还没有…
-
-philip-wilkinson.medium.com](https://philip-wilkinson.medium.com/subscribe) 
+[](https://philip-wilkinson.medium.com/subscribe)  
 
 如果你喜欢你所读的内容，但不是一年中的会员，那么考虑使用我下面的推荐代码注册，在这个平台上支持我自己和其他了不起的作者:
 
-[](https://philip-wilkinson.medium.com/membership) [## 通过我的推荐链接加入媒体-菲利普·威尔金森
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-philip-wilkinson.medium.com](https://philip-wilkinson.medium.com/membership) 
+[](https://philip-wilkinson.medium.com/membership)  
 
 感谢您的阅读！
 
-[](/git-and-github-basics-for-data-scientists-b9fd96f8a02a) [## 面向数据科学家的 Git 和 GitHub 基础知识
-
-### UCL 数据科学研讨会 8:什么是 Git，创建本地存储库，提交第一批文件，链接到远程…
-
-towardsdatascience.com](/git-and-github-basics-for-data-scientists-b9fd96f8a02a) [](/maximum-likelihood-estimation-and-ols-regression-36c049c94a48) [## 最大似然估计和 OLS 回归
-
-### 介绍他们的关系和工作方式
-
-towardsdatascience.com](/maximum-likelihood-estimation-and-ols-regression-36c049c94a48) [](/london-convenience-store-classification-using-k-means-clustering-70c82899c61f) [## 使用 K-均值聚类的伦敦便利店分类
-
-### 伦敦的便利店怎么分类？
-
-towardsdatascience.com](/london-convenience-store-classification-using-k-means-clustering-70c82899c61f)
+[](/git-and-github-basics-for-data-scientists-b9fd96f8a02a)  [](/maximum-likelihood-estimation-and-ols-regression-36c049c94a48)  [](/london-convenience-store-classification-using-k-means-clustering-70c82899c61f) 

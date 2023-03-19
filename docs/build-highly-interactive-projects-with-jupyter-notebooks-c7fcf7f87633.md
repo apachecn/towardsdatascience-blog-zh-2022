@@ -16,11 +16,7 @@
 
 在我们深入 IPython 小部件的概念之前，有必要对 Jupyter 笔记本有一个基本的了解。在我以前的一篇文章中，我已经介绍了与 Jupyter 笔记本相关的大部分基本概念。你可以从下面的链接中找到这个主题。
 
-[](/everything-you-need-to-know-about-jupyter-notebooks-10770719952b) [## 关于 Jupyter 笔记本你需要知道的一切！
-
-### 分解 Jupyter 笔记本的所有内容，从菜单到运行电池，以及各种…
-
-towardsdatascience.com](/everything-you-need-to-know-about-jupyter-notebooks-10770719952b) 
+[](/everything-you-need-to-know-about-jupyter-notebooks-10770719952b)  
 
 > ***注:*** GitHub 链接基础知识和项目在文末提供。
 
@@ -155,11 +151,7 @@ widgets.ToggleButtons(
 
 在接下来的部分中，我们将看几个简单的项目，我们可以在 Jupyter 笔记本中的 ipywidgets 的帮助下构建这些项目。在我们继续之前，我建议对其他类似的 GUI 技术感兴趣的读者阅读我以前的一篇文章，在这篇文章中，我介绍了 Python 开发人员可以利用的七个最佳图形工具，以及下面提供的链接中的一些入门代码。
 
-[](/7-best-ui-graphics-tools-for-python-developers-with-starter-codes-2e46c248b47c) [## 7 款面向 Python 开发人员的最佳 UI 图形工具，带入门代码
-
-### Python 中用于开发酷用户界面技术的七个最佳 UI 图形工具
-
-towardsdatascience.com](/7-best-ui-graphics-tools-for-python-developers-with-starter-codes-2e46c248b47c) 
+[](/7-best-ui-graphics-tools-for-python-developers-with-starter-codes-2e46c248b47c)  
 
 > ***注:*** 在 Jupyter 笔记本的菜单栏上的 widget 图标中，我们可以点击保存 widget 选项我们临时保存图标的 widget 状态。如果您有兴趣了解更多关于不同类型的小部件选项和 ipywidget 库的信息，我建议您查看下面的[文档](https://ipywidgets.readthedocs.io/en/latest/index.html)。
 
@@ -310,28 +302,12 @@ answer_check(question, question_input)
 
 如果你想在我的文章发表后第一时间得到通知，请点击下面的[链接](https://bharath-k1297.medium.com/subscribe)订阅邮件推荐。如果你希望支持其他作者和我，请订阅下面的链接。
 
-[](https://bharath-k1297.medium.com/membership) [## 通过我的推荐链接加入媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-bharath-k1297.medium.com](https://bharath-k1297.medium.com/membership) 
+[](https://bharath-k1297.medium.com/membership)  
 
 如果你对这篇文章中提到的各点有任何疑问，请在下面的评论中告诉我。我会尽快给你回复。您可以从下面的 [GitHub 链接](https://github.com/Bharath-K3/Ipywidgets-Projects)访问基础知识和项目。
 
 看看我的一些与本文主题相关的文章，你可能也会喜欢阅读！
 
-[](/best-seaborn-visualizations-for-data-science-3d866f99c3a9) [## 数据科学最佳 Seaborn 可视化
-
-### 使用 Seaborn 库探索数据科学项目的一些最佳可视化选项
-
-towardsdatascience.com](/best-seaborn-visualizations-for-data-science-3d866f99c3a9) [](/7-python-programming-tips-to-improve-your-productivity-a57802f225b6) [## 提高生产力的 7 个 Python 编程技巧
-
-### 通过修正一些常见的不良编程实践，使您的 Python 编码更加有效和高效
-
-towardsdatascience.com](/7-python-programming-tips-to-improve-your-productivity-a57802f225b6) [](/develop-your-weather-application-with-python-in-less-than-10-lines-6d092c6dcbc9) [## 用 Python 开发不到 10 行的天气应用程序
-
-### 使用 Python 构建我们的天气电视广播应用程序，以接收所需位置的更新
-
-towardsdatascience.com](/develop-your-weather-application-with-python-in-less-than-10-lines-6d092c6dcbc9) 
+[](/best-seaborn-visualizations-for-data-science-3d866f99c3a9)  [](/7-python-programming-tips-to-improve-your-productivity-a57802f225b6)  [](/develop-your-weather-application-with-python-in-less-than-10-lines-6d092c6dcbc9)  
 
 谢谢你们坚持到最后。我希望你们都喜欢这篇文章。祝大家有美好的一天！

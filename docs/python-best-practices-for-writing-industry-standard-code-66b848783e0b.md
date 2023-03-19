@@ -144,12 +144,4 @@ c **=** **(**a**+**b**)** ***** **(**a**-**b**)**
 
 你可能也会喜欢下面的故事:
 
-[](https://medium.com/codex/top-10-python-operations-that-every-aspiring-data-scientist-should-know-92b6f9a98ff9) [## 70%的数据分析需要 10 次 Python 操作
-
-### 数据科学家的日常工作包括各种任务，如数据预处理、数据分析、机器…
-
-medium.com](https://medium.com/codex/top-10-python-operations-that-every-aspiring-data-scientist-should-know-92b6f9a98ff9) [](https://medium.com/codex/every-data-analysis-in-10-steps-960dc7e7f00b) [## 每次数据分析的 10 步方法！
-
-### 为您的数据分析添加结构！
-
-medium.com](https://medium.com/codex/every-data-analysis-in-10-steps-960dc7e7f00b)
+[](https://medium.com/codex/top-10-python-operations-that-every-aspiring-data-scientist-should-know-92b6f9a98ff9)  [](https://medium.com/codex/every-data-analysis-in-10-steps-960dc7e7f00b) 

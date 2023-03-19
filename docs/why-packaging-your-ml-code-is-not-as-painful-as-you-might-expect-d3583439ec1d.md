@@ -12,11 +12,7 @@ Jane 在一家成功的初创公司担任机器学习(ML)工程师。他们即�
 
 首先，她使用 [Gradio](https://gradio.app/) 快速开发出一个原型，并将其放在拥抱脸[空间](https://huggingface.co/spaces)上。现在，她有了一个运行中的 ML 驱动的应用程序，它有一个简单的 UI，可以与信任的朋友和同事分享。Jane 利用这一点获得反馈，并验证模型在真实场景中的性能。
 
-[](/keep-your-ml-models-out-of-your-application-servers-9fe58f9c91a5) [## 让您的 ML 模型远离您的应用服务器
-
-### 如何将一个有前途的 ML 模型变成一个有用的 ML 驱动的产品
-
-towardsdatascience.com](/keep-your-ml-models-out-of-your-application-servers-9fe58f9c91a5) 
+[](/keep-your-ml-models-out-of-your-application-servers-9fe58f9c91a5)  
 
 她现在准备开始开发过程的下一阶段；构建一个合适的推理服务器。她确信模型即服务(MaaS)方法是前进的方向，因此在她的任务列表中添加了一些新项目:
 
@@ -26,11 +22,7 @@ towardsdatascience.com](/keep-your-ml-models-out-of-your-application-servers-9fe
 *   解决缩放问题
 *   简化版本推出
 
-[](/the-unnerving-sweet-spot-for-ml-powered-products-c34b54e17179) [## ML 动力产品令人不安的最佳点
-
-### 维护一个推理服务器是痛苦的，但也是必要的。
-
-towardsdatascience.com](/the-unnerving-sweet-spot-for-ml-powered-products-c34b54e17179) 
+[](/the-unnerving-sweet-spot-for-ml-powered-products-c34b54e17179)  
 
 今天是星期一。她拿起单子上的第一项:包装模型。在这个故事中，我们研究了她的两种选择，以及为什么走得最多的路——尽管是一条崎岖的路——是甜蜜点路线。
 

@@ -67,11 +67,7 @@
 
 ***为了让你的想法变得清晰，请阅读下面的文章—***
 
-[](/less-is-more-the-art-of-sampling-dda8b59d399) [## 少即是多；取样的“艺术”( Stat-01)
-
-### 使用样本提高您对大量数据集的数据分析能力
-
-towardsdatascience.com](/less-is-more-the-art-of-sampling-dda8b59d399) 
+[](/less-is-more-the-art-of-sampling-dda8b59d399)  
 
 ## 变量和测量水平
 
@@ -79,11 +75,7 @@ towardsdatascience.com](/less-is-more-the-art-of-sampling-dda8b59d399)
 
 如果你对题目有任何困惑，请通读这篇文章。
 
-[](/get-familiar-with-the-most-important-weapon-of-data-science-variables-48cc7cd85dc5) [## 熟悉数据科学最重要的武器~变量(Stat-02)
-
-### 变量类型的基本概念、测量级别和不同的 python 表示技术
-
-towardsdatascience.com](/get-familiar-with-the-most-important-weapon-of-data-science-variables-48cc7cd85dc5) 
+[](/get-familiar-with-the-most-important-weapon-of-data-science-variables-48cc7cd85dc5)  
 
 ## 集中趋势
 
@@ -97,11 +89,7 @@ towardsdatascience.com](/get-familiar-with-the-most-important-weapon-of-data-sci
 
 *完整均值准则—*
 
-[](https://medium.datadriveninvestor.com/eliminate-your-misconception-about-mean-with-a-brief-discussion-a9fed67d4b08) [## 通过简短的讨论消除你对均值的误解
-
-### 浅谈 7 分钟内读数的平均值
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/eliminate-your-misconception-about-mean-with-a-brief-discussion-a9fed67d4b08) 
+[](https://medium.datadriveninvestor.com/eliminate-your-misconception-about-mean-with-a-brief-discussion-a9fed67d4b08)  
 
 *   **中位数**
 
@@ -159,19 +147,7 @@ medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/eliminate-y
 
 **频率是数据集中事件发生的量度。下面的文章将帮助你了解这个话题的细节。**
 
-**[](/to-increase-data-analysing-power-you-must-know-frequency-distribution-afa438c3e7a4) [## 为了增加数据分析能力，你必须知道频率分布(Stat-03)
-
-### 在 7 分钟内找到频率分布的所有基础知识
-
-towardsdatascience.com](/to-increase-data-analysing-power-you-must-know-frequency-distribution-afa438c3e7a4) [](/find-the-patterns-of-a-dataset-by-visualizing-frequency-distribution-c5718ab1f2c2) [## 通过可视化频率分布找到数据集的模式(Stat-04)
-
-### 通过可视化频率分布来深入了解数据集
-
-towardsdatascience.com](/find-the-patterns-of-a-dataset-by-visualizing-frequency-distribution-c5718ab1f2c2) [](/compare-multiple-frequency-distributions-to-extract-valuable-information-from-a-dataset-10cba801f07b) [## 比较多个频率分布以从数据集中提取有价值的信息(Stat-05)
-
-### 如何比较多个频率分布并获得重要信息
-
-towardsdatascience.com](/compare-multiple-frequency-distributions-to-extract-valuable-information-from-a-dataset-10cba801f07b) 
+**[](/to-increase-data-analysing-power-you-must-know-frequency-distribution-afa438c3e7a4)  [](/find-the-patterns-of-a-dataset-by-visualizing-frequency-distribution-c5718ab1f2c2)  [](/compare-multiple-frequency-distributions-to-extract-valuable-information-from-a-dataset-10cba801f07b)  
 
 ## 离差的度量
 
@@ -227,25 +203,13 @@ towardsdatascience.com](/compare-multiple-frequency-distributions-to-extract-val
 
 归一化是将数据转换成相似尺度的过程，是数据预处理的关键部分之一。下面的文章集成了数据规范化的所有技术。
 
-[](https://medium.datadriveninvestor.com/increase-your-data-science-model-efficiency-with-normalization-918484b4626f) [## 通过标准化提高您的数据科学模型效率(Stat-07)
-
-### 浅谈 7 min 读数的标准化
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/increase-your-data-science-model-efficiency-with-normalization-918484b4626f) 
+[](https://medium.datadriveninvestor.com/increase-your-data-science-model-efficiency-with-normalization-918484b4626f)  
 
 ## **概率**
 
 概率是一种数学技术，通过它我们可以预测一个事件的可能结果。如果你对概率有任何困惑，请阅读以下文章。
 
-[](/basic-probability-concepts-for-data-science-eb8e08c9ad92) [## 数据科学的基本概率概念(Stat-08)
-
-### 概率有助于预测任何事件的未知结果
-
-towardsdatascience.com](/basic-probability-concepts-for-data-science-eb8e08c9ad92) [](/road-map-from-naive-bayes-theorem-to-naive-bayes-classifier-6395fc6d5d2a) [## 从朴素贝叶斯定理到朴素贝叶斯分类器的路线图(Stat-09)
-
-### 朴素贝叶斯分类器的完整指南，从头开始实现
-
-towardsdatascience.com](/road-map-from-naive-bayes-theorem-to-naive-bayes-classifier-6395fc6d5d2a) 
+[](/basic-probability-concepts-for-data-science-eb8e08c9ad92)  [](/road-map-from-naive-bayes-theorem-to-naive-bayes-classifier-6395fc6d5d2a)  
 
 ## 概率分布
 
@@ -385,31 +349,19 @@ towardsdatascience.com](/road-map-from-naive-bayes-theorem-to-naive-bayes-classi
 
 假设检验是一种统计技术，通过它我们可以检验和验证一个假设。在**假设检验**中，我们考虑一个**零假设**，它被假定为真，而**是一个替代假设**，如果零假设失败，它是可接受的。关于**假设检验**的更多细节在下面的文章中给出。
 
-[](https://medium.datadriveninvestor.com/all-you-need-to-know-about-hypothesis-testing-for-data-science-enthusiasts-30cfe1dce028) [## 数据科学爱好者需要知道的假设检验(Stat-10)
-
-### 从样本数据中对总体参数进行假设检验并得出结论
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/all-you-need-to-know-about-hypothesis-testing-for-data-science-enthusiasts-30cfe1dce028) 
+[](https://medium.datadriveninvestor.com/all-you-need-to-know-about-hypothesis-testing-for-data-science-enthusiasts-30cfe1dce028)  
 
 ## 方差分析(ANOVA)
 
 在假设检验的文章中，我提到过一些检验，如 p 检验、t 检验等。但是这些测试只是在两组之间进行比较。它们都不能用于多个组。 **ANOVA** 是一种统计检验，用于比较两组或多组之间的可变性。下面的文章提供了详细的解释。
 
-[](/statistical-comparison-among-multiple-groups-with-anova-d4ac27f6e59e) [## 用 ANOVA (Stat-11)进行多组间的统计比较
-
-### 你是否在考虑如何在多个组之间进行比较？别担心！用方差分析就行了
-
-towardsdatascience.com](/statistical-comparison-among-multiple-groups-with-anova-d4ac27f6e59e) 
+[](/statistical-comparison-among-multiple-groups-with-anova-d4ac27f6e59e)  
 
 ## 卡方检验
 
 卡方检验是另一种用于发现分类变量相关性的统计检验。通读下面这篇文章。
 
-[](/compare-dependency-of-categorical-variables-with-chi-square-test-982baff64e81) [## 用卡方检验比较分类变量的相关性(Stat-12)
-
-### 使用卡方检验寻找分类变量间依赖关系的完整指南
-
-towardsdatascience.com](/compare-dependency-of-categorical-variables-with-chi-square-test-982baff64e81) 
+[](/compare-dependency-of-categorical-variables-with-chi-square-test-982baff64e81)  
 
 ## 结论
 
@@ -431,12 +383,4 @@ towardsdatascience.com](/compare-dependency-of-categorical-variables-with-chi-sq
 10.  *[估计量:简单定义和示例—统计如何进行](https://www.statisticshowto.com/estimator/)*
 11.  *[https://www . science direct . com/topics/mathematics/significance-level-alpha](https://www.sciencedirect.com/topics/mathematics/significance-level-alpha)*
 
-*[](https://mzh706.medium.com/subscribe) [## 每当 Md. Zubair 发表文章时，就收到一封电子邮件。
-
-### 每当 Md. Zubair 发表文章时，就收到一封电子邮件。通过注册，您将创建一个中型帐户，如果您还没有…
-
-mzh706.medium.com](https://mzh706.medium.com/subscribe) [](https://mzh706.medium.com/membership) [## 通过我的推荐链接加入 Medium-MD . Zubair
-
-### 阅读 Md. Zubair 的每一个故事你的会员费直接支持 Md. Zubair 和你阅读的其他作家。你会…
-
-mzh706.medium.com](https://mzh706.medium.com/membership)***
+*[](https://mzh706.medium.com/subscribe)  [](https://mzh706.medium.com/membership) ***

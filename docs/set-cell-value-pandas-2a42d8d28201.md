@@ -88,26 +88,10 @@ import pandas as pd df = pd.DataFrame(
 
 关于`loc`和`iloc`属性的更全面的阅读，你可以参考我最近的一篇文章，分享如下:
 
-[](/loc-vs-iloc-in-pandas-92fc125ed8eb) [## 熊猫中的 loc 与 iloc
+[](/loc-vs-iloc-in-pandas-92fc125ed8eb)  **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-towardsdatascience.com](/loc-vs-iloc-in-pandas-92fc125ed8eb) 
-
-[**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
-
-[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership) 
+[](https://gmyrianthous.medium.com/membership)  
 
 **你可能也会喜欢**
 
-[](/random-seed-numpy-786cf7876a5f) [## random.seed 在 NumPy 中做什么
-
-### 理解在 Python 中使用 NumPy 生成伪随机结构时如何创建可再现的结果
-
-towardsdatascience.com](/random-seed-numpy-786cf7876a5f) [](/how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3) [## 加快 PySpark 和 Pandas 数据帧之间的转换
-
-### 将大火花数据帧转换为熊猫时节省时间
-
-towardsdatascience.com](/how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3)
+[](/random-seed-numpy-786cf7876a5f)  [](/how-to-efficiently-convert-a-pyspark-dataframe-to-pandas-8bda2c3875c3) 

@@ -197,11 +197,7 @@
 
 ****更多的细节，你可以看看我几周前发表的这篇文章，****
 
-****[](https://www.samirsaci.com/automate-operational-reports-distribution-in-html-emails-using-python/) [## 使用 Python 在 HTML 电子邮件中自动分发运营报告
-
-### 生产效率使用 python 在 HTML 电子邮件中以可视化方式自动分发供应链运营报告…
-
-www.samirsaci.com](https://www.samirsaci.com/automate-operational-reports-distribution-in-html-emails-using-python/) 
+****[](https://www.samirsaci.com/automate-operational-reports-distribution-in-html-emails-using-python/)  
 
 # 关于我
 
@@ -209,8 +205,4 @@ www.samirsaci.com](https://www.samirsaci.com/automate-operational-reports-distri
 
 如果你对数据分析和供应链感兴趣，可以看看我的网站
 
-[](https://samirsaci.com) [## Samir Saci |数据科学与生产力
-
-### 专注于数据科学、个人生产力、自动化、运筹学和可持续发展的技术博客
-
-samirsaci.com](https://samirsaci.com)****
+[](https://samirsaci.com) ****

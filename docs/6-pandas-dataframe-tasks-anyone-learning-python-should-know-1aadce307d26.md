@@ -69,16 +69,4 @@ Pandas 还允许使用“Merge”进行连接，大多数人可能对 SQL 很熟
 
 *如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，请不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
 
-*[](https://medium.com/illumination/intuitive-guide-to-artificial-neural-networks-5a2925ea3fa2) [## 人工神经网络直观指南
-
-### 人工神经网络(ANN)是人工智能和人工智能领域最常用的术语
-
-medium.com](https://medium.com/illumination/intuitive-guide-to-artificial-neural-networks-5a2925ea3fa2) [](/4-basic-commands-when-working-with-python-tuples-8edd3787003f) [## 使用 Python 元组时的 4 个基本命令
-
-### 让您了解 Python 元组的特征以及如何处理它们
-
-towardsdatascience.com](/4-basic-commands-when-working-with-python-tuples-8edd3787003f) [](/an-introduction-to-tensorflow-fa5b17051f6b) [## 张量流简介
-
-### 了解机器学习框架、其架构以及与 PyTorch 的比较
-
-towardsdatascience.com](/an-introduction-to-tensorflow-fa5b17051f6b)*
+*[](https://medium.com/illumination/intuitive-guide-to-artificial-neural-networks-5a2925ea3fa2)  [](/4-basic-commands-when-working-with-python-tuples-8edd3787003f)  [](/an-introduction-to-tensorflow-fa5b17051f6b) *

@@ -113,12 +113,4 @@ Gif 来自 [GIPHY](https://giphy.com/gifs/social-distancing-socialdistancing-6-f
 
 嗯，这很有趣。我希望你在阅读这篇文章的时候过得愉快，并且学到了一些关于几何(不太可能)或者朱莉娅(可能性稍微大一点)的新东西。如果你喜欢读这篇文章，**考虑在 Medium** 上关注我，我在这里发布关于数据科学、Julia 和有趣的东西。
 
-[](/estimate-pi-using-random-numbers-8b13a7e8c791) [## 使用随机数估计圆周率
-
-### 通过和 Julia 一起计算π来回答这个面试问题
-
-towardsdatascience.com](/estimate-pi-using-random-numbers-8b13a7e8c791) [](https://blog.devgenius.io/make-a-command-line-game-with-julia-a408057adcfe) [## 和 Julia 一起做一个命令行游戏
-
-### 没有图形用户界面的 2048 游戏
-
-blog.devgenius.io](https://blog.devgenius.io/make-a-command-line-game-with-julia-a408057adcfe)
+[](/estimate-pi-using-random-numbers-8b13a7e8c791)  [](https://blog.devgenius.io/make-a-command-line-game-with-julia-a408057adcfe) 

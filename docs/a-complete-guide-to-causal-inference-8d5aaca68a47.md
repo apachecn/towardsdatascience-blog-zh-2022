@@ -521,8 +521,4 @@
 
 **关于简短的相关讨论，请查看我的文章:因果推理中的方差减少:**
 
-**[](https://medium.com/@skylar.kerzner/variance-reduction-in-causal-inference-8145dd9d5f2) [## 因果推理中的方差缩减
-
-### 数学技巧可以让我们的测量更加精确
-
-medium.com](https://medium.com/@skylar.kerzner/variance-reduction-in-causal-inference-8145dd9d5f2)**
+**[](https://medium.com/@skylar.kerzner/variance-reduction-in-causal-inference-8145dd9d5f2) **

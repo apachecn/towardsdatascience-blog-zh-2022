@@ -226,11 +226,7 @@ def add_two_values(x:int, y:int)->int:
 
 加入 Medium 阅读更多这样的文章！
 
-[](https://medium.com/@edwin.tan/membership) [## 加入我的介绍链接-埃德温谭媒体
-
-### 阅读埃德温·谭(以及媒体上成千上万的其他作家)的每一个故事。你的会员费直接支持埃德温…
-
-medium.com](https://medium.com/@edwin.tan/membership) 
+[](https://medium.com/@edwin.tan/membership)  
 
 # 参考
 

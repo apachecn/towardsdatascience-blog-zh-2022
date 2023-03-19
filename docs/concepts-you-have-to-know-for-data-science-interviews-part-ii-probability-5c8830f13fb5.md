@@ -98,20 +98,4 @@
 
 ***寻找更多面试指南？这里有一些文章可能会有帮助！***
 
-*[](/concepts-you-have-to-know-for-data-science-interviews-part-i-distribution-f4c28da3fc50) [## 数据科学面试中你必须知道的概念——第一部分:分布
-
-### 数据科学家访谈中最常见的问题
-
-towardsdatascience.com](/concepts-you-have-to-know-for-data-science-interviews-part-i-distribution-f4c28da3fc50) [](/take-home-exercises-can-make-or-break-your-ds-interviews-5aac8b63f6d1) [## 带回家的练习可以成就或毁掉你的 DS 面试
-
-### 如何处理你的课后练习——可以说是面试中最重要的部分，也是最深入的部分…
-
-towardsdatascience.com](/take-home-exercises-can-make-or-break-your-ds-interviews-5aac8b63f6d1) [](/the-ultimate-interview-prep-guide-for-data-scientists-and-data-analysts-18621db1da47) [## 数据科学家和数据分析师的终极面试准备指南
-
-### 是什么帮助我成功采访到方和独角兽
-
-towardsdatascience.com](/the-ultimate-interview-prep-guide-for-data-scientists-and-data-analysts-18621db1da47) [](/the-ultimate-interview-prep-guide-for-your-next-dream-data-job-be4b2c7f73a8) [## 你下一份理想数据工作的终极面试准备指南
-
-### 是什么帮助我成功地面试了方和独角兽公司从产品经理到数据科学家的职位
-
-towardsdatascience.com](/the-ultimate-interview-prep-guide-for-your-next-dream-data-job-be4b2c7f73a8)*
+*[](/concepts-you-have-to-know-for-data-science-interviews-part-i-distribution-f4c28da3fc50)  [](/take-home-exercises-can-make-or-break-your-ds-interviews-5aac8b63f6d1)  [](/the-ultimate-interview-prep-guide-for-data-scientists-and-data-analysts-18621db1da47)  [](/the-ultimate-interview-prep-guide-for-your-next-dream-data-job-be4b2c7f73a8) *

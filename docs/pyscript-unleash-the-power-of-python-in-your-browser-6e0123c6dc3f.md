@@ -80,16 +80,4 @@ PyScript 网站上提供的最基本的示例如下:
 
 您可能还会对以下内容感兴趣:
 
-[](/pandas-is-not-enough-a-comprehensive-guide-to-alternative-data-wrangling-solutions-a4730ba8d0e4) [## 熊猫还不够？替代数据争论解决方案的全面指南
-
-### 包括达斯克、摩丁、polars、Vaex、Terality 等 6 人
-
-towardsdatascience.com](/pandas-is-not-enough-a-comprehensive-guide-to-alternative-data-wrangling-solutions-a4730ba8d0e4) [](/preview-your-jupyter-notebooks-in-the-terminal-with-nbpreview-87601a92d0d1) [## 使用 nbpreview 在终端中预览您的 Jupyter 笔记本
-
-### 有了 nbpreview，你不用离开终端就可以阅读和检查笔记本！
-
-towardsdatascience.com](/preview-your-jupyter-notebooks-in-the-terminal-with-nbpreview-87601a92d0d1) [](/pur-the-easiest-way-to-keep-your-requirements-file-up-to-date-22d835279348) [## pur——保持您的需求文件最新的最简单的方法
-
-### 用一行代码更新 requirements.txt 中的所有库
-
-towardsdatascience.com](/pur-the-easiest-way-to-keep-your-requirements-file-up-to-date-22d835279348)
+[](/pandas-is-not-enough-a-comprehensive-guide-to-alternative-data-wrangling-solutions-a4730ba8d0e4)  [](/preview-your-jupyter-notebooks-in-the-terminal-with-nbpreview-87601a92d0d1)  [](/pur-the-easiest-way-to-keep-your-requirements-file-up-to-date-22d835279348) 

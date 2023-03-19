@@ -26,11 +26,7 @@ M1 Mac Julia 用户的未来是光明的！
 
 *编辑:我和我的合著者很高兴地告诉大家，我们的新书《朱莉娅速成教程》已经开始预售了:*
 
-[](https://logankilpatrick.gumroad.com/l/juliacrashcourse) [## 朱莉娅速成班(电子书预购)
-
-### Julia 速成课程是使用 Julia 编程语言的实践指南，是为初学者编写的。我们接受…
-
-logankilpatrick.gumroad.com](https://logankilpatrick.gumroad.com/l/juliacrashcourse) 
+[](https://logankilpatrick.gumroad.com/l/juliacrashcourse)  
 
 # 键入全局⌨️🌎
 

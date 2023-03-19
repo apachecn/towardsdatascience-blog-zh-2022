@@ -30,11 +30,7 @@
 
 我建议从学习一个单独的库开始，因为它们之间的语法和实现可能会有所不同，通常一个库就能够涵盖大多数用例。然后，一旦你基本上理解了第一个库及其局限性，你就可以寻找其他库来添加到你的库，并填补当前库还做不到的空白。在 Python 中，大多数人开始学习的一个常用库是 Matplotlib。这是因为它非常容易学习，而且一旦你理解了一些更复杂的功能，它就非常通用，留下的空白需要由其他库来填补。除此之外，还有 plotly、seaborn、ggplot 和其他可以用来替代 Matplotlib 的工具，它们提供了不同的优缺点。
 
-[](/an-introduction-to-plotting-with-matplotlib-in-python-6d983b9ba081) [## Python 中 Matplotlib 绘图简介
-
-### UCL 数据科学学会研讨会 7:创建一个基本的图表，在同一图表上绘制不同的信息…
-
-towardsdatascience.com](/an-introduction-to-plotting-with-matplotlib-in-python-6d983b9ba081) 
+[](/an-introduction-to-plotting-with-matplotlib-in-python-6d983b9ba081)  
 
 ## 数学图书馆
 
@@ -44,11 +40,7 @@ towardsdatascience.com](/an-introduction-to-plotting-with-matplotlib-in-python-6
 
 在 Python 中，这个函数的库是 Numpy。这是因为该库具有丰富的功能深度和易用性，例如 Numpy 数组的实现，它可以比 Python 列表更有效地存储信息，同时还允许更快、更高级的数据操作功能。这包括快速有效地在更大规模上执行计算的能力，这是其他方式无法做到的。如果您想开始使用这个库，请随意查看下面的介绍:
 
-[](/ucl-data-science-society-introduction-to-numpy-7d962d63f47d) [## UCL 数据科学协会:Numpy 简介
-
-### 工作坊 5:什么是 Numpy，Numpy 数组，数学运算符，随机数
-
-towardsdatascience.com](/ucl-data-science-society-introduction-to-numpy-7d962d63f47d) 
+[](/ucl-data-science-society-introduction-to-numpy-7d962d63f47d)  
 
 ## 保存数据的图书馆
 
@@ -62,11 +54,7 @@ towardsdatascience.com](/ucl-data-science-society-introduction-to-numpy-7d962d63
 
 您将为此选择哪个库通常高度依赖于您所使用的语言，因为每种语言都有自己不同数据结构的实现。这使得从一种语言移植到另一种语言非常困难，您必须习惯每个新库的细微差别。在 Python 中，用于高效存储数据的最常见的库是 Pandas。这是因为熊猫数据帧是一种能够存储、操作和提取数据的有效方式，同时与 Python 生态系统中的大多数机器学习库相集成，使其有效地像数据科学瑞士军刀一样。
 
-[](/ucl-data-science-society-pandas-8ad28c2b22e5) [## UCL 数据科学学会:熊猫
-
-### 工作坊 6:什么是 Pandas，Pandas 系列，Pandas 数据框架，访问数据和 Pandas 操作
-
-towardsdatascience.com](/ucl-data-science-society-pandas-8ad28c2b22e5) 
+[](/ucl-data-science-society-pandas-8ad28c2b22e5)  
 
 ## 结构化查询语言
 
@@ -76,11 +64,7 @@ towardsdatascience.com](/ucl-data-science-society-pandas-8ad28c2b22e5)
 
 除此之外，您还应该能够执行简单的数据分组和连接。分组使您能够提取简单的汇总统计数据，这将使您能够在创建任何工作流之前获得数据的总体视图，为您正在处理的数据提供基础。而联接允许您有效地连接来自数据集内不同表或视图的数据，这样您就不必创建相同数据的重复实例，而是可以操纵它来获得您想要的结果。
 
-[](/an-introduction-to-sql-for-data-scientists-e3bb539decdf) [## 数据科学家的 SQL 介绍
-
-### UCL 数据科学学会工作坊 9:什么是 SQL，选择数据，查询数据，汇总统计，分组数据和…
-
-towardsdatascience.com](/an-introduction-to-sql-for-data-scientists-e3bb539decdf) 
+[](/an-introduction-to-sql-for-data-scientists-e3bb539decdf)  
 
 ## 版本控制
 
@@ -92,11 +76,7 @@ towardsdatascience.com](/an-introduction-to-sql-for-data-scientists-e3bb539decdf
 
 学习 git 可能是一个永远漫长的旅程，但是理解基础知识将使任何数据科学家受益。这并不意味着他们必须是专门使用命令行的 git power 用户(有许多有用的 GUI！)但是任何一个数据科学家至少要知道基本的功能。下面的介绍是一个很好的起点:
 
-[](/git-and-github-basics-for-data-scientists-b9fd96f8a02a) [## 面向数据科学家的 Git 和 GitHub 基础知识
-
-### UCL 数据科学研讨会 8:什么是 Git，创建本地存储库，提交第一批文件，链接到远程…
-
-towardsdatascience.com](/git-and-github-basics-for-data-scientists-b9fd96f8a02a) 
+[](/git-and-github-basics-for-data-scientists-b9fd96f8a02a)  
 
 ## 结论
 
@@ -104,24 +84,8 @@ towardsdatascience.com](/git-and-github-basics-for-data-scientists-b9fd96f8a02a)
 
 如果你喜欢你所读的，并且还不是 medium 会员，请使用下面我的推荐链接注册 Medium，来支持我和这个平台上其他了不起的作家！提前感谢。
 
-[](https://philip-wilkinson.medium.com/membership) [## 通过我的推荐链接加入 Medium—Philip Wilkinson
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-philip-wilkinson.medium.com](https://philip-wilkinson.medium.com/membership) 
+[](https://philip-wilkinson.medium.com/membership)  
 
 或者随意查看我在 Medium 上的其他文章:
 
-[](/how-i-landed-an-amazon-sde-internship-without-a-computer-science-degree-85596c480d4d) [## 我是如何在没有计算机科学学位的情况下获得亚马逊 SDE 实习机会的
-
-### 或者解决数百个黑客排名问题…
-
-towardsdatascience.com](/how-i-landed-an-amazon-sde-internship-without-a-computer-science-degree-85596c480d4d) [](/eight-data-structures-every-data-scientist-should-know-d178159df252) [## 每个数据科学家都应该知道的八种数据结构
-
-### 从 Python 中的基本数据结构到抽象数据类型
-
-towardsdatascience.com](/eight-data-structures-every-data-scientist-should-know-d178159df252) [](/a-complete-data-science-curriculum-for-beginners-825a39915b54) [## 面向初学者的完整数据科学课程
-
-### UCL 数据科学协会:Python 介绍，数据科学家工具包，使用 Python 的数据科学
-
-towardsdatascience.com](/a-complete-data-science-curriculum-for-beginners-825a39915b54)
+[](/how-i-landed-an-amazon-sde-internship-without-a-computer-science-degree-85596c480d4d)  [](/eight-data-structures-every-data-scientist-should-know-d178159df252)  [](/a-complete-data-science-curriculum-for-beginners-825a39915b54) 

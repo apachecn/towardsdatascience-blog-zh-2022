@@ -16,11 +16,7 @@
 
 ## 第 1 部分:图像到文本
 
-[](https://javascript.plainenglish.io/build-a-text-to-speech-app-using-client-side-javascript-98cd72df73bb) [## 使用客户端 JavaScript 构建一个文本到语音的应用程序
-
-### OCR 技术(Tesseract.js)和 Web 语音 API 的融合。包括完整的代码实现。
-
-javascript.plainenglish.io](https://javascript.plainenglish.io/build-a-text-to-speech-app-using-client-side-javascript-98cd72df73bb) 
+[](https://javascript.plainenglish.io/build-a-text-to-speech-app-using-client-side-javascript-98cd72df73bb)  
 
 ## 第二部分:PDF-to-Text✶
 
@@ -194,8 +190,4 @@ uploadPDF.addEventListener('change', function(evt) {
 
 *— 🌮[请给我买一份玉米卷🎀˶❛◡❛)](https://www.buymeacoffee.com/geekcc)*
 
-*[](https://geek-cc.medium.com/membership) [## 通过我的推荐链接加入灵媒——李思欣·崔
-
-### 获得李思欣·崔和其他作家在媒体上的所有帖子！😃您的会员费直接…
-
-geek-cc.medium.com](https://geek-cc.medium.com/membership)*
+*[](https://geek-cc.medium.com/membership) *

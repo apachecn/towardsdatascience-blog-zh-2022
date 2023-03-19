@@ -92,11 +92,7 @@
 
 关于如何用 Python 创建这个交互式树形图的一步一步的教程，请查看我下面的文章。
 
-[](/make-a-treemap-in-python-426cee6ee9b8) [## 如何用 Python 制作树形图
-
-### 使用 Plotly 制作一个带有滑块的树形图来调整深度
-
-towardsdatascience.com](/make-a-treemap-in-python-426cee6ee9b8) 
+[](/make-a-treemap-in-python-426cee6ee9b8)  
 
 ## 引文
 

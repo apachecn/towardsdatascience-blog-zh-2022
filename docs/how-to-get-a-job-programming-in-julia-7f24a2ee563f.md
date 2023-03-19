@@ -20,11 +20,7 @@
 
 *编辑:我和我的合著者很高兴地告诉大家，我们的新书《茱莉亚速成班》已经开始预售了:*
 
-[](https://logankilpatrick.gumroad.com/l/juliacrashcourse) [## 朱莉娅速成班(电子书预购)
-
-### Julia 速成课程是使用 Julia 编程语言的实践指南，是为初学者编写的。我们接受…
-
-logankilpatrick.gumroad.com](https://logankilpatrick.gumroad.com/l/juliacrashcourse) 
+[](https://logankilpatrick.gumroad.com/l/juliacrashcourse)  
 
 # 为什么是朱莉娅·⁉️
 
@@ -46,11 +42,7 @@ logankilpatrick.gumroad.com](https://logankilpatrick.gumroad.com/l/juliacrashcou
 
 人们喜欢好的博客文章，Julia 社区也不例外。同样，你不需要创造一些新的技术解决方案来写一篇文章。我最近为初学者写了一篇关于 5 个 Julia 项目的文章:
 
-[](/5-julia-projects-for-beginners-easy-ideas-to-get-started-coding-in-julia-938b823a0a08) [## 面向初学者的 5 个 Julia 项目——用 Julia 开始编码的简单方法
-
-### 通过建立 Madlibs，猜测数字游戏，计算机数字猜测器，石头剪刀布和密码学习朱莉娅…
-
-towardsdatascience.com](/5-julia-projects-for-beginners-easy-ideas-to-get-started-coding-in-julia-938b823a0a08) 
+[](/5-julia-projects-for-beginners-easy-ideas-to-get-started-coding-in-julia-938b823a0a08)  
 
 这篇文章同样没有介绍任何突破性的东西，但仍然有望为刚刚加入社区的人提供价值。分享这些文章的最佳地点是 Twitter 上的 JuliaLang 标签和官方账户的标签。
 
@@ -58,19 +50,11 @@ towardsdatascience.com](/5-julia-projects-for-beginners-easy-ideas-to-get-starte
 
 创建技术内容的另一个地方是 YouTube。Julia Language 运营着一个拥有数百个视频的社区频道。如果你举办一个关于 Julia 的研讨会，或者想要录制一个关于使用软件包的视频教程，这个频道是一个发布内容的好地方。如果你对此感兴趣，请联系我。有人在自己的频道上这样做的一个很好的例子是:
 
-[](https://www.youtube.com/c/juliafortalentedamateurs) [## 天才业余选手朱莉娅
-
-### henlo fren！我的名字是 Dabbling Doggo，我为各地有才华的业余爱好者制作有益健康的 Julia 教程。朱莉娅…
-
-www.youtube.com](https://www.youtube.com/c/juliafortalentedamateurs) 
+[](https://www.youtube.com/c/juliafortalentedamateurs)  
 
 你可以创造的另一种有影响力的内容是朱莉娅的书。现在还没有足够多写得好的书，但是作为写书的人可以在很多年里获得回报。你不需要使用 Julia 年，甚至不需要有博士学位。其中一个非常成功的例子是 Ahan Sengupta 的书《Julia 算法小书:培养 Julia 编程流畅性的练习册》,这本书是在 Ahan 上高中时出版的:
 
-[](https://www.amazon.com/Little-Book-Julia-Algorithms-programming/dp/1838173609/ref=sr_1_1?crid=161EFXY9Y23PK&keywords=little+book+of+julia+algorithms&qid=1642512816&sprefix=little+book+of+julia+algorthms%2Caps%2C131&sr=8-1) [## Julia 算法小书:培养 Julia 编程流畅性的练习册
-
-### Julia 算法小书:培养 Julia 编程流畅性的练习册
-
-www.amazon.com](https://www.amazon.com/Little-Book-Julia-Algorithms-programming/dp/1838173609/ref=sr_1_1?crid=161EFXY9Y23PK&keywords=little+book+of+julia+algorithms&qid=1642512816&sprefix=little+book+of+julia+algorthms%2Caps%2C131&sr=8-1) 
+[](https://www.amazon.com/Little-Book-Julia-Algorithms-programming/dp/1838173609/ref=sr_1_1?crid=161EFXY9Y23PK&keywords=little+book+of+julia+algorithms&qid=1642512816&sprefix=little+book+of+julia+algorthms%2Caps%2C131&sr=8-1)  
 
 当我读这本书的时候，我被它的质量震惊了，也对阿汉所做的工作印象深刻。有如此多的机会在邻近领域写书，这为 Julia 社区提供了真正的价值，也为你作为作者打开了许多机会。
 

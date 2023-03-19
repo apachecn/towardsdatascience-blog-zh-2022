@@ -282,11 +282,7 @@ LSTMs 仍然受到递归神经网络固有的顺序性质的困扰——这也�
 
 您可以在这个 GitHub repo 中找到代码:
 
-[](https://github.com/skandavivek/LSTM-Carnatic-Music-Generation) [## GitHub-skandavivek/LSTM-卡纳蒂克-音乐-生成:生成新的卡纳蒂克音乐模式使用…
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/skandavivek/LSTM-Carnatic-Music-Generation) 
+[](https://github.com/skandavivek/LSTM-Carnatic-Music-Generation)  
 
 *如果你还不是中会员，想支持我这样的作家，可以通过我的推荐链接随意报名:*[*【https://skanda-vivek.medium.com/membership】*](https://skanda-vivek.medium.com/membership)
 

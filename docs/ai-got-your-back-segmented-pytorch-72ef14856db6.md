@@ -18,11 +18,7 @@
 
 脊柱或椎骨分割在所有关于脊柱形态学和病理学的自动量化的应用中是至关重要的步骤。随着深度学习的出现，对于计算机断层扫描(CT)扫描这样的任务，大量不同的数据是主要的受欢迎资源。但是，目前还没有大规模的公共数据集。[VerSe I](https://github.com/anjany/verse)是一个大规模、多探测器、多站点的 CT 脊柱数据集，由来自 355 名患者的 374 次扫描组成。2019 年和 2020 年的数据集都有。在这篇博客中，我将两个数据集合并成一个数据集，以便从更多的数据中获益。
 
-[](https://github.com/anjany/verse#download) [## GitHub - anjany/verse:关于“大规模椎骨分割挑战”的一切
-
-### 仔细观察脊柱，寻找疾病的原因--希波克拉底诗句的例子。观察数据的可变性…
-
-github.com](https://github.com/anjany/verse#download) 
+[](https://github.com/anjany/verse#download)  
 
 `*The data is provided under the CC BY-SA 4.0 License, making it fully open-sourced.*`
 

@@ -73,31 +73,11 @@ t-SNE 的结果也许可以用于聚类，因为结果矩阵将是数据的低�
 
 ## 参考
 
-[](https://distill.pub/2016/misread-tsne/) [## 如何有效地使用 t-SNE
-
-### 一种流行的探索高维数据的方法叫做 t-SNE，是由范德马滕和辛顿提出的…
-
-蒸馏. pub](https://distill.pub/2016/misread-tsne/) [](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html) [## sklearn.manifold.TSNE
-
-### t 分布随机邻居嵌入。t-SNE [1]是一个可视化高维数据的工具。它转换…
-
-scikit-learn.org](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html) [](/understanding-t-sne-by-implementing-2baf3a987ab3) [## 通过实施了解 t-SNE
-
-### t-SNE 是如何工作的以及如何实施的
-
-towardsdatascience.com](/understanding-t-sne-by-implementing-2baf3a987ab3) [](https://scikit-learn.org/stable/auto_examples/manifold/plot_t_sne_perplexity.html#sphx-glr-auto-examples-manifold-plot-t-sne-perplexity-py) [## t-SNE:不同困惑值对形状的影响
-
-### 两个同心圆上的 t-SNE 图和不同困惑值的 S 曲线数据集。我们…
-
-scikit-learn.org](https://scikit-learn.org/stable/auto_examples/manifold/plot_t_sne_perplexity.html#sphx-glr-auto-examples-manifold-plot-t-sne-perplexity-py) 
+[](https://distill.pub/2016/misread-tsne/)  [](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html)  [](/understanding-t-sne-by-implementing-2baf3a987ab3)  [](https://scikit-learn.org/stable/auto_examples/manifold/plot_t_sne_perplexity.html#sphx-glr-auto-examples-manifold-plot-t-sne-perplexity-py)  
 
 如果这些内容有用，请关注我的博客。
 
-[](https://gustavorsantos.medium.com/) [## 古斯塔沃·桑托斯-中等
-
-### 阅读古斯塔夫·桑托斯在媒介上的作品。数据科学家。我从数据中提取见解，以帮助个人和公司…
-
-gustavorsantos.medium.com](https://gustavorsantos.medium.com/) 
+[](https://gustavorsantos.medium.com/)  
 
 考虑使用此推荐代码[注册为中级会员。](https://gustavorsantos.medium.com/membership)
 

@@ -35,11 +35,7 @@
 
 ****如果你想更深入地推导和理解贝叶斯定理，可以在这里查阅我以前的文章:****
 
-****[](https://pub.towardsai.net/conditional-probability-and-bayes-theorem-simply-explained-788a6361f333) [## 条件概率和贝叶斯定理浅释
-
-### 条件概率和贝叶斯定理的简单直观的解释。
-
-pub.towardsai.net](https://pub.towardsai.net/conditional-probability-and-bayes-theorem-simply-explained-788a6361f333) 
+****[](https://pub.towardsai.net/conditional-probability-and-bayes-theorem-simply-explained-788a6361f333)  
 
 ## 贝叶斯更新
 
@@ -55,11 +51,7 @@ pub.towardsai.net](https://pub.towardsai.net/conditional-probability-and-bayes-t
 
 您可以在此阅读有关贝叶斯更新的更多信息:
 
-[](/bayesian-updating-simply-explained-c2ed3e563588) [## 贝叶斯更新简单解释
-
-### 用贝叶斯定理更新信念的直观解释
-
-towardsdatascience.com](/bayesian-updating-simply-explained-c2ed3e563588) 
+[](/bayesian-updating-simply-explained-c2ed3e563588)  
 
 然而，如果我们想要获得有效的概率，我们需要计算 ***P(D)*** 。如上所示，这是可能性和先验的乘积之和。描述求和的另一种方式是通过积分:
 
@@ -94,11 +86,7 @@ towardsdatascience.com](/bayesian-updating-simply-explained-c2ed3e563588)
 
 ****如果您想全面了解 Beta 发行版，您应该浏览一下我以前关于它的文章:****
 
-****[](/beta-distribution-simply-explained-839b3acde6e9) [## 贝塔分布，简单解释
-
-### 贝塔分布的简明解释。
-
-towardsdatascience.com](/beta-distribution-simply-explained-839b3acde6e9) 
+****[](/beta-distribution-simply-explained-839b3acde6e9)  
 
 **二项分布:**
 
@@ -316,11 +304,7 @@ plt.show()
 
 ****本文中使用的完整代码可以在我的 GitHub 上找到:****
 
-****[](https://github.com/egorhowell/Medium-Articles/blob/main/Statistics/Conjugate_Priors.ipynb) [## Medium-Articles/Conjugate _ priors . ipynb at main egorhowell/Medium-Articles
-
-### 我在我的媒体博客/文章中使用的代码。通过创建一个关于…的帐户，为 egorhowell/Medium-Articles 的开发做出贡献
-
-github.com](https://github.com/egorhowell/Medium-Articles/blob/main/Statistics/Conjugate_Priors.ipynb) 
+****[](https://github.com/egorhowell/Medium-Articles/blob/main/Statistics/Conjugate_Priors.ipynb)  
 
 # 和我联系！
 

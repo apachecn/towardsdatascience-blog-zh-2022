@@ -132,11 +132,7 @@ RCT 中计算 ATE 的视觉故障。图片作者。
 
 **原因是 do 运算符涉及的数学可能不是每个人都能立即理解的(即 do-calculus)。我写这篇博客的目的是为以后使用 do 运算符发表因果效应的文章提供一个容易访问的起点。**
 
-**[](/causal-effects-via-the-do-operator-5415aefc834a) [## 通过 Do 运算符的因果关系
-
-### 将观察转化为干预
-
-towardsdatascience.com](/causal-effects-via-the-do-operator-5415aefc834a) 
+**[](/causal-effects-via-the-do-operator-5415aefc834a)  
 
 # **实际问题**
 
@@ -150,11 +146,7 @@ towardsdatascience.com](/causal-effects-via-the-do-operator-5415aefc834a)
 
 这些方法都使用一种叫做 [**的倾向得分**](https://shawhin.medium.com/propensity-score-5c29c480130c) 的东西，这是基于其他特征的某人接收治疗值的**估计概率。这提供了一种处理研究亚人群中可能存在的偏倚的方法。**
 
-[](/propensity-score-5c29c480130c) [## 通过倾向得分的因果效应
-
-### 如何估计观测数据的影响
-
-towardsdatascience.com](/propensity-score-5c29c480130c) 
+[](/propensity-score-5c29c480130c)  
 
 # 资源
 
@@ -166,11 +158,7 @@ towardsdatascience.com](/propensity-score-5c29c480130c)
 
 **支持** : [给我买杯咖啡](https://www.buymeacoffee.com/shawhint?source=about_page-------------------------------------) ☕️ | [成为会员](https://shawhin.medium.com/membership?source=about_page-------------------------------------) ⭐️
 
-[](https://shawhin.medium.com/membership) [## 通过我的推荐链接加入媒体——肖文·塔莱比
-
-### ⭐️成为会员使用我的推荐链接，并获得充分的媒体上的每一篇文章。您的会员费直接…
-
-shawhin.medium.com](https://shawhin.medium.com/membership) 
+[](https://shawhin.medium.com/membership)  
 
 [1] [减少观察性研究中混杂效应的倾向评分方法简介](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3144483/)作者 Peter C. Austin
 

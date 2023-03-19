@@ -56,11 +56,7 @@
 
 加州州立大学系统的一些分析师希望了解在清理一些标准化学生评估数据时，使用 Python 或 R 等语言如何帮助他们节省时间。我用样本评估数据模拟了一个活页夹，并展示了 Python 如何节省大量时间，否则这些时间将花费在加载和操作 Excel 中的数据上。我在这里浏览这个例子。请看下面的互动活页夹！
 
-[](https://mybinder.org/v2/gh/jimmyvluong/Python-CalTPA-Demo/HEAD) [## GitHub:jimmyvluong/Python-CalTPA-Demo/HEAD
-
-### 单击运行此交互式环境。来自活页夹项目:可复制、可共享、交互式计算…
-
-mybinder.org](https://mybinder.org/v2/gh/jimmyvluong/Python-CalTPA-Demo/HEAD) 
+[](https://mybinder.org/v2/gh/jimmyvluong/Python-CalTPA-Demo/HEAD)  
 
 **目标:**
 

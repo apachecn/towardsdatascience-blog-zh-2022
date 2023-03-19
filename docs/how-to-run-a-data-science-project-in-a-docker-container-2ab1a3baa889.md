@@ -254,19 +254,7 @@ docker run --rm -v `pwd`:/app_home test-model
 
 # 相关文章
 
-[](/how-to-convert-your-python-project-into-a-package-installable-through-pip-a2b36e8ace10) [## 如何将您的 Python 项目转换成可通过 pip 安装的包
-
-### 一个带有现成模板的教程，描述了如何将 Python 项目转换成包，该包可在…
-
-towardsdatascience.com](/how-to-convert-your-python-project-into-a-package-installable-through-pip-a2b36e8ace10) [](/three-tricks-on-python-functions-that-you-should-know-e6badb26aac2) [## 你应该知道的关于 Python 函数的三个技巧
-
-### 快速概述一些可以提高你编程技能的技巧:嵌套函数、可变参数和
-
-towardsdatascience.com](/three-tricks-on-python-functions-that-you-should-know-e6badb26aac2) [](/understanding-the-n-jobs-parameter-to-speedup-scikit-learn-classification-26e3d1220c28) [## 了解 n_jobs 参数以加速 scikit-learn 分类
-
-### 一个现成的代码，演示了如何使用 n_jobs 参数来减少训练时间
-
-towardsdatascience.com](/understanding-the-n-jobs-parameter-to-speedup-scikit-learn-classification-26e3d1220c28) 
+[](/how-to-convert-your-python-project-into-a-package-installable-through-pip-a2b36e8ace10)  [](/three-tricks-on-python-functions-that-you-should-know-e6badb26aac2)  [](/understanding-the-n-jobs-parameter-to-speedup-scikit-learn-classification-26e3d1220c28)  
 
 # 你认为使用 Docker 太复杂了吗？请改用 virtualenv
 

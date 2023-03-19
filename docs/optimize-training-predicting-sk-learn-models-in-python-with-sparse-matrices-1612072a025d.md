@@ -86,26 +86,6 @@ uuid=1.30
 
 如果你喜欢这篇文章，你可能也会喜欢我下面写的其他文章。
 
-[](/recommendation-systems-explained-a42fc60591ed) [## 推荐系统解释
+[](/recommendation-systems-explained-a42fc60591ed)  [](/bayesian-a-b-testing-explained-344a6df88c1a) [## 贝叶斯 A/B 测试解释
 
-### 用 Python 解释和实现基于内容的协同过滤和混合推荐系统
-
-towardsdatascience.com](/recommendation-systems-explained-a42fc60591ed) [](/bayesian-a-b-testing-explained-344a6df88c1a) [## 贝叶斯 A/B 测试解释
-
-towardsdatascience.com](/bayesian-a-b-testing-explained-344a6df88c1a) [](/word2vec-explained-49c52b4ccb71) [## Word2Vec 解释道
-
-### 解释 Word2Vec 的直观性&用 Python 实现它
-
-towardsdatascience.com](/word2vec-explained-49c52b4ccb71) [](https://pub.towardsai.net/dynamic-time-warping-explained-fbb24c1e079b) [## 动态时间扭曲解释
-
-### 动态时间扭曲背后的直觉&股票数据的 Python 实现
-
-pub.towardsai.net](https://pub.towardsai.net/dynamic-time-warping-explained-fbb24c1e079b) [](/mining-modelling-character-networks-part-i-e37e4878c467) [## 挖掘和模拟字符网络——第一部分
-
-### 图论研究论文讨论
-
-towardsdatascience.com](/mining-modelling-character-networks-part-i-e37e4878c467) [](/random-walks-with-restart-explained-77c3fe216bca) [## 带重启的随机漫步解释
-
-### 理解带重启的随机游走算法及其在 Python 中的相关实现
-
-towardsdatascience.com](/random-walks-with-restart-explained-77c3fe216bca)
+towardsdatascience.com](/bayesian-a-b-testing-explained-344a6df88c1a) [](/word2vec-explained-49c52b4ccb71)  [](https://pub.towardsai.net/dynamic-time-warping-explained-fbb24c1e079b)  [](/mining-modelling-character-networks-part-i-e37e4878c467)  [](/random-walks-with-restart-explained-77c3fe216bca) 

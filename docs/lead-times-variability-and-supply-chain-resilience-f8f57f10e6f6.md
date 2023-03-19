@@ -46,11 +46,7 @@
 
 有关更多信息，
 
-[](https://www.samirsaci.com/inventory-management-for-retail-stochastic-demand-2/) [## 零售库存管理——随机需求
-
-### 供应链优化模拟安全库存水平对库存管理绩效指标的影响…
-
-www.samirsaci.com](https://www.samirsaci.com/inventory-management-for-retail-stochastic-demand-2/) 
+[](https://www.samirsaci.com/inventory-management-for-retail-stochastic-demand-2/)  
 
 # 交付周期:期望与现实
 
@@ -101,11 +97,7 @@ www.samirsaci.com](https://www.samirsaci.com/inventory-management-for-retail-sto
 
 在结论中，我们将看到，我们可以通过使用数字双胞胎来影响特定于过程的参数，以坚持真实的过程，从而改进这种方法。
 
-[](http://samirsaci.com) [## 萨米尔·萨奇
-
-### 数据科学博客，专注于仓储，运输，数据可视化和机器人流程自动化…
-
-samirsaci.com](http://samirsaci.com) 
+[](http://samirsaci.com)  
 
 # 如何用 Python 模拟供应链风险？
 
@@ -234,11 +226,7 @@ samirsaci.com](http://samirsaci.com)
 
 欲知详情，
 
-[](https://www.samirsaci.com/what-is-a-supply-chain-digital-twin/) [## 什么是供应链数字孪生？
-
-### 供应链优化使用 python 创建一个代表供应链网络的模型，以优化您的…
-
-www.samirsaci.com](https://www.samirsaci.com/what-is-a-supply-chain-digital-twin/) 
+[](https://www.samirsaci.com/what-is-a-supply-chain-digital-twin/)  
 
 # 关于我
 
@@ -246,8 +234,4 @@ www.samirsaci.com](https://www.samirsaci.com/what-is-a-supply-chain-digital-twin
 
 如果你对数据分析和供应链感兴趣，可以看看我的网站
 
-[](https://samirsaci.com) [## Samir Saci |数据科学与生产力
-
-### 专注于数据科学、个人生产力、自动化、运筹学和可持续发展的技术博客
-
-samirsaci.com](https://samirsaci.com)
+[](https://samirsaci.com) 

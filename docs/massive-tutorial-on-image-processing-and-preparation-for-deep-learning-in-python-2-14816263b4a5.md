@@ -55,19 +55,11 @@
 
 这张看起来好很多，因为它可以在背景中显示细节，在左下角显示更多丢失的肋骨。您可以调整`clip_limit`来获得更多或更少的细节。
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-BEXGBoost
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。支持我的工作，给我买一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+[](https://ibexorigin.medium.com/membership)  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex) [## 阿尔法信号|机器学习的极品。艾总结的。
-
-### 留在循环中，不用花无数时间浏览下一个突破；我们的算法识别…
-
-alphasignal.ai](https://alphasignal.ai/?referrer=Bex) 
+[](https://alphasignal.ai/?referrer=Bex)  
 
 ## 7.转换
 
@@ -328,40 +320,12 @@ from skimage.feature import corner_harrismeasured_image = corner_harris(windows_
 
 **您可以使用下面的链接成为高级媒体会员，并访问我的所有故事和数以千计的其他故事:**
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-Bex t。
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+[](https://ibexorigin.medium.com/membership)  
 
 **或者订阅我的邮件列表:**
 
-[](https://ibexorigin.medium.com/subscribe) [## 每当 Bex T .发布时收到电子邮件。
-
-### 每当 Bex T .发布时收到电子邮件。注册后，如果您还没有中型帐户，您将创建一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/subscribe) 
+[](https://ibexorigin.medium.com/subscribe)  
 
 **你可以在**[**LinkedIn**](https://twitter.com/BexTuychiev)**或者**[**Twitter**](https://twitter.com/BexTuychiev)**上联系我，友好的聊一聊万物数据。或者你可以读我的另一个故事。这些怎么样:**
 
-[](/good-bye-pandas-meet-terality-its-evil-twin-with-identical-syntax-455b42f33a6d) [## 再见熊猫！遇见 Terality——它邪恶的孪生兄弟有着相同的语法
-
-### 编辑描述
-
-towardsdatascience.com](/good-bye-pandas-meet-terality-its-evil-twin-with-identical-syntax-455b42f33a6d) [](/github-copilot-crushes-data-science-and-ml-tasks-ultimate-review-c8bcbefb928a) [## GitHub Copilot 碾压数据科学和 ML 任务:终极回顾
-
-### 编辑描述
-
-towardsdatascience.com](/github-copilot-crushes-data-science-and-ml-tasks-ultimate-review-c8bcbefb928a) [](/10-minute-guide-to-julia-for-die-hard-python-lovers-a2fcf7dcb860) [## 给铁杆 Python 爱好者的 10 分钟 Julia 指南
-
-### 编辑描述
-
-towardsdatascience.com](/10-minute-guide-to-julia-for-die-hard-python-lovers-a2fcf7dcb860) [](/6-pandas-mistakes-that-silently-tell-you-are-a-rookie-b566a252e60d) [## 6 个熊猫的错误，无声地告诉你是一个菜鸟
-
-### 编辑描述
-
-towardsdatascience.com](/6-pandas-mistakes-that-silently-tell-you-are-a-rookie-b566a252e60d) [](/8-booming-data-science-libraries-you-must-watch-out-in-2022-cec2dbb42437) [## 2022 年你必须小心的 8 个蓬勃发展的数据科学图书馆
-
-### 编辑描述
-
-towardsdatascience.com](/8-booming-data-science-libraries-you-must-watch-out-in-2022-cec2dbb42437)
+[](/good-bye-pandas-meet-terality-its-evil-twin-with-identical-syntax-455b42f33a6d)  [](/github-copilot-crushes-data-science-and-ml-tasks-ultimate-review-c8bcbefb928a)  [](/10-minute-guide-to-julia-for-die-hard-python-lovers-a2fcf7dcb860)  [](/6-pandas-mistakes-that-silently-tell-you-are-a-rookie-b566a252e60d)  [](/8-booming-data-science-libraries-you-must-watch-out-in-2022-cec2dbb42437) 

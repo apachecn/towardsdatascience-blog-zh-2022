@@ -18,11 +18,7 @@
 
 这篇文章将比我上一篇类似的功能汇编实用得多，我的上一篇类似的功能汇编更侧重于边缘情况。尽情享受吧！
 
-[](/19-hidden-sklearn-features-you-were-supposed-to-learn-the-hard-way-5293e6ff149) [## 19 个隐藏的 Sklearn 特性你应该通过艰苦的方式来学习
-
-### 但是我给出了捷径
-
-towardsdatascience.com](/19-hidden-sklearn-features-you-were-supposed-to-learn-the-hard-way-5293e6ff149) 
+[](/19-hidden-sklearn-features-you-were-supposed-to-learn-the-hard-way-5293e6ff149)  
 
 # 1️.功能变压器
 
@@ -36,19 +32,11 @@ towardsdatascience.com](/19-hidden-sklearn-features-you-were-supposed-to-learn-t
 
 **功能变压器** — [链接](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.FunctionTransformer.html#sklearn.preprocessing.FunctionTransformer)
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-BEXGBoost
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。支持我的工作，给我买一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+[](https://ibexorigin.medium.com/membership)  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex) [## 阿尔法信号|机器学习的极品。艾总结的。
-
-### 留在循环中，不用花无数时间浏览下一个突破；我们的算法识别…
-
-alphasignal.ai](https://alphasignal.ai/?referrer=Bex) 
+[](https://alphasignal.ai/?referrer=Bex)  
 
 # 2️.用户定义的变压器
 
@@ -66,11 +54,7 @@ alphasignal.ai](https://alphasignal.ai/?referrer=Bex)
 
 如果您想了解关于这种方法的更多信息，我有一篇关于这种类型的定制转换器的单独文章，包括 FunctionTransformer:
 
-[](/how-to-write-powerful-code-others-admire-with-custom-sklearn-transformers-34bc9087fdd) [## 如何用自定义 Sklearn 变形金刚写出别人佩服的强大代码
-
-### 编辑描述
-
-towardsdatascience.com](/how-to-write-powerful-code-others-admire-with-custom-sklearn-transformers-34bc9087fdd) 
+[](/how-to-write-powerful-code-others-admire-with-custom-sklearn-transformers-34bc9087fdd)  
 
 ## 📚证明文件
 
@@ -190,11 +174,7 @@ UMAP 在降低数据集的维度并尽可能多地保留信息方面表现出色
 
 如果这个演示不完全可以理解，我有一篇关于这个主题的单独文章来深入讨论它:
 
-[](/tricky-way-of-using-dimensionality-reduction-for-outlier-detection-in-python-4ee7665cdf99) [## Python 中使用降维进行离群点检测的巧妙方法
-
-### 编辑描述
-
-towardsdatascience.com](/tricky-way-of-using-dimensionality-reduction-for-outlier-detection-in-python-4ee7665cdf99) 
+[](/tricky-way-of-using-dimensionality-reduction-for-outlier-detection-in-python-4ee7665cdf99)  
 
 ## 📚证明文件
 
@@ -258,28 +238,8 @@ UMAP 设法找到了目标类之间的明显区别，并且比 tSNE 快 20 倍�
 
 感谢您的阅读！
 
-[](https://ibexorigin.medium.com/membership) [## 用我的推荐链接加入 Medium，无限学习。
-
-### 作为一个媒体会员，你的会费的一部分归我，这样我会更有动力去写更多的故事来帮助你和其他人…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+[](https://ibexorigin.medium.com/membership)  
 
 ## **我的更多故事……**
 
-[](https://ibexorigin.medium.com/28-weekly-machine-learning-tricks-and-resources-that-are-pure-gems-1-8e5259a93c94) [## 28 个每周机器学习技巧和资源，它们是纯粹的珍宝#1
-
-### 一次学习一个片段的机器学习
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/28-weekly-machine-learning-tricks-and-resources-that-are-pure-gems-1-8e5259a93c94) [](/18-non-cliché-datasets-for-beginner-data-scientists-to-build-a-strong-portfolio-c59743b2a829) [## 18 个非陈词滥调数据集，供初学数据科学家构建强大的投资组合
-
-### 从微生物学到体育的独特数据集
-
-towardsdatascience.com](/18-non-cliché-datasets-for-beginner-data-scientists-to-build-a-strong-portfolio-c59743b2a829) [](/in-depth-spacy-tutorial-for-beginners-in-nlp-2ba4d961328f) [## NLP 初学者的深入空间教程
-
-### 学习 Scikit-学习自然语言处理
-
-towardsdatascience.com](/in-depth-spacy-tutorial-for-beginners-in-nlp-2ba4d961328f) [](https://ibexorigin.medium.com/in-depth-guide-to-building-custom-sklearn-transformers-for-any-data-preprocessing-scenario-33450f8b35ff) [## 为任何数据预处理场景构建定制 Sklearn 转换器的深入指南
-
-### 在 Sklearn 做好每一件事，大家都会开心
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/in-depth-guide-to-building-custom-sklearn-transformers-for-any-data-preprocessing-scenario-33450f8b35ff)
+[](https://ibexorigin.medium.com/28-weekly-machine-learning-tricks-and-resources-that-are-pure-gems-1-8e5259a93c94)  [](/18-non-cliché-datasets-for-beginner-data-scientists-to-build-a-strong-portfolio-c59743b2a829)  [](/in-depth-spacy-tutorial-for-beginners-in-nlp-2ba4d961328f)  [](https://ibexorigin.medium.com/in-depth-guide-to-building-custom-sklearn-transformers-for-any-data-preprocessing-scenario-33450f8b35ff) 

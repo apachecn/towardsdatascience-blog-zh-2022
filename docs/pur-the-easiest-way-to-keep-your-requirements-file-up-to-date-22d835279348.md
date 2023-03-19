@@ -71,19 +71,7 @@ pip install -r requirements.txt
 
 您可能还会对以下内容感兴趣:
 
-[](https://eryk-lewinson.medium.com/my-2021-medium-recap-650326b2832a) [## 我的 2021 年中期回顾
-
-### 2021 年的简要回顾和 2022 年的计划
-
-eryk-lewinson.medium.com](https://eryk-lewinson.medium.com/my-2021-medium-recap-650326b2832a) [](/a-step-by-step-guide-to-calculating-autocorrelation-and-partial-autocorrelation-8c4342b784e8) [## 计算自相关和偏自相关的分步指南
-
-### 如何在 Python 中从头开始计算 ACF 和 PACF 值
-
-towardsdatascience.com](/a-step-by-step-guide-to-calculating-autocorrelation-and-partial-autocorrelation-8c4342b784e8) [](/5-free-tools-that-increase-my-productivity-c0fafbbbdd42) [## 5 个提高我工作效率的免费工具
-
-### 这不是一个好的 IDE，尽管它很有帮助！
-
-towardsdatascience.com](/5-free-tools-that-increase-my-productivity-c0fafbbbdd42) 
+[](https://eryk-lewinson.medium.com/my-2021-medium-recap-650326b2832a)  [](/a-step-by-step-guide-to-calculating-autocorrelation-and-partial-autocorrelation-8c4342b784e8)  [](/5-free-tools-that-increase-my-productivity-c0fafbbbdd42)  
 
 # 参考
 

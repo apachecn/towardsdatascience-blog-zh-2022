@@ -110,11 +110,7 @@ conda install swig
 
 还需要 Microsoft Visual C++ 14.0 或更高版本。如果没有安装，Box2d 安装会失败。因此，请到这里下载最新的 microsoft C++构建工具。
 
-[](https://visualstudio.microsoft.com/visual-cpp-build-tools/) [## Microsoft C++构建工具- Visual Studio
-
-### Microsoft C++构建工具通过可脚本化的独立安装程序提供 MSVC 工具集，无需 Visual Studio…
-
-visualstudio.microsoft.com](https://visualstudio.microsoft.com/visual-cpp-build-tools/) 
+[](https://visualstudio.microsoft.com/visual-cpp-build-tools/)  
 
 您可以在这里安装构建工具。
 
@@ -203,40 +199,12 @@ Twitter
 [https://medium.com/@Vincent.Mueller](https://medium.com/@Vincent.Mueller)
 成为中型会员并支持我(你的部分会员费直接归我)
 
-[](https://medium.com/@Vincent.Mueller/membership) [## 通过我的推荐链接加入媒体-文森特·米勒
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@Vincent.Mueller/membership) 
+[](https://medium.com/@Vincent.Mueller/membership)  
 
 # 相关故事
 
-[](/deep-q-learning-is-no-rocket-science-e34912f1864) [## 深度 Q 学习不是火箭科学
-
-### 用 pytorch 解释和编码的深度 Q 和双 Q 学习
-
-towardsdatascience.com](/deep-q-learning-is-no-rocket-science-e34912f1864) [](/snake-with-policy-gradients-deep-reinforcement-learning-5e6e921db054) [## 具有策略梯度的 Snake 深度强化学习
-
-### 策略梯度深度强化学习在蛇游戏中的应用
-
-towardsdatascience.com](/snake-with-policy-gradients-deep-reinforcement-learning-5e6e921db054) [](/backpropagation-in-neural-networks-6561e1268da8) [## 神经网络中的反向传播
-
-### 从零开始的神经网络，包括数学和 python 代码
-
-towardsdatascience.com](/backpropagation-in-neural-networks-6561e1268da8) 
+[](/deep-q-learning-is-no-rocket-science-e34912f1864)  [](/snake-with-policy-gradients-deep-reinforcement-learning-5e6e921db054)  [](/backpropagation-in-neural-networks-6561e1268da8)  
 
 # 其他故事
 
-[](/how-you-can-use-gpt-j-9c4299dd8526) [## 如何使用 GPT J
-
-### GPT J 解释了 3 种简单的方法，你可以如何访问它
-
-towardsdatascience.com](/how-you-can-use-gpt-j-9c4299dd8526) [](/eigenvalues-and-eigenvectors-378e851bf372) [## 主成分分析中的特征值和特征向量
-
-### 关于我们的数据，他们告诉了我们什么？
-
-towardsdatascience.com](/eigenvalues-and-eigenvectors-378e851bf372) [](/support-vector-machines-illustrated-b48a32c56388) [## 支持向量机，图解
-
-### 支持向量机背后的直觉和数学
-
-towardsdatascience.com](/support-vector-machines-illustrated-b48a32c56388)
+[](/how-you-can-use-gpt-j-9c4299dd8526)  [](/eigenvalues-and-eigenvectors-378e851bf372)  [](/support-vector-machines-illustrated-b48a32c56388) 

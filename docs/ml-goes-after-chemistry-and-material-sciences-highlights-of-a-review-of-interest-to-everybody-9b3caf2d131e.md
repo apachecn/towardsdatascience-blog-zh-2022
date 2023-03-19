@@ -36,11 +36,7 @@
 
 事实上，用于预测物理或化学性质的 ML 已经存在了几十年，尤其是使用相当简单的神经网络。举例来说，看看早期计算分子核磁共振化学位移的程序，或者其中记载的几个应用程序(顺便说一句，太棒了，我家里就有！)1999 年的书:
 
-[](https://www.amazon.com/Neural-Networks-Chemistry-Drug-Design/dp/3527297790) [## 化学和药物设计中的神经网络，第 2 版
-
-### 这个备受推崇的文本的第二版已大大扩展。第六部分“应用”更新自…
-
-www.amazon.com](https://www.amazon.com/Neural-Networks-Chemistry-Drug-Design/dp/3527297790) 
+[](https://www.amazon.com/Neural-Networks-Chemistry-Drug-Design/dp/3527297790)  
 
 当然，我们现在有更好的网络架构、激活功能和训练方法；同样重要的是，现在的数据库比 23 年前这本书出版时大了几个数量级，也更容易访问。所有这些方面都将在本文的其他部分讨论。
 
@@ -90,11 +86,7 @@ www.amazon.com](https://www.amazon.com/Neural-Networks-Chemistry-Drug-Design/dp/
 
 原来产生势能的 ML 模型也能提供力，因为作用在原子上的力是能量面沿空间维度的梯度。有一个新兴的领域利用这一点来产生新的力场，其运行速度接近经典计算的速度，但几乎和量子计算一样精确。这里有一个最著名的例子:
 
-[](https://pubs.rsc.org/en/content/articlelanding/2017/sc/c6sc05720a) [## ANI-1:力场计算成本下具有 DFT 精度的可扩展神经网络潜力
-
-### 深度学习正在变革许多科学和技术领域，特别是图像、文本和语音识别…
-
-pubs.rsc.org](https://pubs.rsc.org/en/content/articlelanding/2017/sc/c6sc05720a) 
+[](https://pubs.rsc.org/en/content/articlelanding/2017/sc/c6sc05720a)  
 
 *   **集成机器学习模型:超越局部势的电子结构精度**
 
@@ -112,15 +104,7 @@ pubs.rsc.org](https://pubs.rsc.org/en/content/articlelanding/2017/sc/c6sc05720a)
 
 密度泛函是量子计算的一个重要部分，ML 现在正在影响他们的计算。我最近讨论了甚至谷歌和 Deepmind 都在处理的工作:
 
-[](/google-proposes-new-method-to-derive-analytical-expressions-for-terms-in-quantum-mechanics-d70fff6e1ef2) [## 谷歌提出新方法推导量子力学术语的解析表达式…
-
-### 新方法以符号形式导出精确的泛函(量子力学计算的元素),因此…
-
-towardsdatascience.com](/google-proposes-new-method-to-derive-analytical-expressions-for-terms-in-quantum-mechanics-d70fff6e1ef2) [](/deepmind-strikes-back-now-tackling-quantum-mechanical-calculations-e1cae792e5d0) [## DeepMind 反击了，现在正在处理量子力学计算
-
-### 这家与谷歌有关联的公司开发了一个新的框架，用高度精确的电子密度来训练神经网络…
-
-towardsdatascience.com](/deepmind-strikes-back-now-tackling-quantum-mechanical-calculations-e1cae792e5d0) 
+[](/google-proposes-new-method-to-derive-analytical-expressions-for-terms-in-quantum-mechanics-d70fff6e1ef2)  [](/deepmind-strikes-back-now-tackling-quantum-mechanical-calculations-e1cae792e5d0)  
 
 *   **机器学习 Kohn–伪交换–相关电位**
 
@@ -130,11 +114,7 @@ towardsdatascience.com](/deepmind-strikes-back-now-tackling-quantum-mechanical-c
 
 如上所述，分子和材料的性质原则上可以用薛定谔方程来描述，但是这非常昂贵，并且需要近似。随着系统中电子数量的增加，主要的挑战是找到在精确度和计算成本之间取得良好平衡的近似值。我们之前已经看到，许多 ML 方法试图直接预测量子计算的结果，另一方面，还有旨在直接简化量子计算本身的*从头计算* ML 方法。这一部分是关于后者的，包括像这样的例子，它通过在优化参数和从波函数取样之间交替产生数据来接近薛定谔方程的解:
 
- [## DeepQMC
-
-### 欢迎阅读 DeepQMC 文档。从安装开始，然后通过，它将引导您完成…
-
-deepqmc.github.io](https://deepqmc.github.io/) 
+  
 
 *   **无序量子系统**
 
@@ -150,11 +130,7 @@ deepqmc.github.io](https://deepqmc.github.io/)
 
 文章的这一部分讨论了 NOMAD(新材料发现)实验室，这是欧洲的一项努力，旨在为化学家和材料科学家的整个社区提供一个共享数据的开放平台。NOMAD 允许用户上传大多数量子计算程序产生的结果，托管研究人员贡献的和从其他数据库收集的超过 1 亿次计算:
 
- [## 使命-游牧实验室
-
-### 实现材料科学数据的公平共享和使用，不受限制地发布您的数据，获取 DOI，并共享…
-
-游牧实验室](https://nomad-lab.eu/) 
+  
 
 这种资源显然用于为化学和材料科学训练新的 ML 模型，并且还用于比较不同方法的性能，发现数据中的趋势等。
 
@@ -164,11 +140,7 @@ deepqmc.github.io](https://deepqmc.github.io/)
 
 本节讨论另一个名为 AFLOW 的大型数据存储库，它位于美国，与上面的不同之处在于它执行自己的计算。给定从实验观察到的材料生成的输入结构，或者从晶体原型生成的输入结构，然后用不同的元素装饰这些原型以生成相关假设材料的大型库，AFLOW 然后计算量子计算并存储结果以供以后检索。不同的流程子模块进一步计算各种属性，这些属性也会被存档。
 
- [## 材料发现的自动流程
-
-### 用于材料发现的自动流程
-
-aflow.org](http://aflow.org/) 
+  
 
 就像 NOMAD 中的数据一样，AFLOW 可以训练 ML 模型，发现趋势等。目前它有超过 350 万个条目，每个条目有超过 200 个计算属性；所有数据都可以通过 API 以编程方式访问。
 
@@ -194,11 +166,7 @@ aflow.org](http://aflow.org/)
 
 透明性直接关系到这样一个事实，即在科学中，当一个预测性的数学定律被公式化时，一个现象被认为是完全可以理解的，至少在一个给定的应用领域中原则上可以毫无例外地工作，这就是 ML 通过符号回归可以提供最大帮助的地方。此外，这样的定律通常被认为是相对简单的，因此我们可以将它与基础物理或化学联系起来。我在本文中讨论了一些这样的例子:
 
-[](/real-world-applications-of-symbolic-regression-2025d17b88ef) [## 符号回归的现实应用
-
-### 不像常规神经网络那样是一个黑箱，它提供的模型不仅能预测数据，还能使数据合理化…
-
-towardsdatascience.com](/real-world-applications-of-symbolic-regression-2025d17b88ef) 
+[](/real-world-applications-of-symbolic-regression-2025d17b88ef)  
 
 另一个方面，可解释性，指的是至少检查一个模型的可能性，该模型通常太复杂而不能被人脑理解(作为一个“黑盒”)来研究，并理想地揭示输入和输出在其中是如何连接的，例如通过测试哪些输入在更大程度上影响输出。
 
@@ -208,38 +176,14 @@ towardsdatascience.com](/real-world-applications-of-symbolic-regression-2025d17b
 
 整篇文章中有 47 位作者暴露了他们的想法:
 
- [## 电子结构中的机器学习路线图
-
-### 中国工程院院士，中国工程院院士，中国工程院院士，中国工程院院士，中国工程院院士
-
-iopscience.iop.org](https://iopscience.iop.org/article/10.1088/2516-1075/ac572f) 
+  
 
 这里是我之前的两篇关于 ML 在量子力学计算中的应用的文章:
 
-[](/google-proposes-new-method-to-derive-analytical-expressions-for-terms-in-quantum-mechanics-d70fff6e1ef2) [## 谷歌提出新方法推导量子力学术语的解析表达式…
-
-### 新方法以符号形式导出精确的泛函(量子力学计算的元素),因此…
-
-towardsdatascience.com](/google-proposes-new-method-to-derive-analytical-expressions-for-terms-in-quantum-mechanics-d70fff6e1ef2) [](/deepmind-strikes-back-now-tackling-quantum-mechanical-calculations-e1cae792e5d0) [## DeepMind 反击了，现在正在处理量子力学计算
-
-### 这家与谷歌有关联的公司开发了一个新的框架，用高度精确的电子密度来训练神经网络…
-
-towardsdatascience.com](/deepmind-strikes-back-now-tackling-quantum-mechanical-calculations-e1cae792e5d0) 
+[](/google-proposes-new-method-to-derive-analytical-expressions-for-terms-in-quantum-mechanics-d70fff6e1ef2)  [](/deepmind-strikes-back-now-tackling-quantum-mechanical-calculations-e1cae792e5d0)  
 
 这里是我关于 AlphaFold 和 ML 应用于蛋白质结构预测和蛋白质设计的关键文章:
 
-[](/whats-up-after-alphafold-on-ml-for-structural-biology-7bb9758925b8) [## 蛋白质结构预测的 ML 上的 AlphaFold 之后是什么？
-
-### 人工智能驱动的生物学革命会持续下去吗？我们能期待新的突破吗？现在正在发生什么事情…
-
-towardsdatascience.com](/whats-up-after-alphafold-on-ml-for-structural-biology-7bb9758925b8) [](https://lucianosphere.medium.com/guide-to-my-blog-articles-on-alphafold-39c10a7dad7f) [## 我在 AlphaFold 上的博客文章指南
-
-### 我写的关于数据科学的文章的摘要，讨论了自 AlphaFold 2 的代码以来最重要的发展…
-
-lucianosphere.medium.com](https://lucianosphere.medium.com/guide-to-my-blog-articles-on-alphafold-39c10a7dad7f) [](/new-deep-learned-tool-designs-novel-proteins-with-high-accuracy-41ae2a7d23d8) [## 新的深度学习工具以高精度设计新的蛋白质
-
-### 贝克实验室的这款新软件设计了在潮湿实验室中实际工作的蛋白质。你可以用它来…
-
-towardsdatascience.com](/new-deep-learned-tool-designs-novel-proteins-with-high-accuracy-41ae2a7d23d8) 
+[](/whats-up-after-alphafold-on-ml-for-structural-biology-7bb9758925b8)  [](https://lucianosphere.medium.com/guide-to-my-blog-articles-on-alphafold-39c10a7dad7f)  [](/new-deep-learned-tool-designs-novel-proteins-with-high-accuracy-41ae2a7d23d8)  
 
 www.lucianoabriata.com*我写作并拍摄我广泛兴趣范围内的一切事物:自然、科学、技术、编程等等。* [***成为媒介会员***](https://lucianosphere.medium.com/membership) *访问其所有故事(我免费获得小额收入的平台的附属链接)和* [***订阅获取我的新故事***](https://lucianosphere.medium.com/subscribe) ***通过电子邮件*** *。到* ***咨询关于小职位*** *查看我的* [***服务页面这里***](https://lucianoabriata.altervista.org/services/index.html) *。你可以* [***这里联系我***](https://lucianoabriata.altervista.org/office/contact.html) ***。***

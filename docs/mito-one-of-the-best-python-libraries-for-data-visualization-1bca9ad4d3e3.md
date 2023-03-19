@@ -170,16 +170,4 @@ fig.show(renderer="iframe")
 
 **您可能还喜欢:**
 
-[](/mito-one-of-the-coolest-python-libraries-you-have-ever-seen-5261dbfedceb) [## 米托:你见过的最酷的 Python 库之一
-
-### 下面是我对这个很酷的 Python 库的看法，以及为什么你应该尝试一下
-
-towardsdatascience.com](/mito-one-of-the-coolest-python-libraries-you-have-ever-seen-5261dbfedceb) [](/d-tale-one-of-the-best-python-libraries-you-have-ever-seen-c2deecdfd2b) [## D-Tale:你见过的最好的 Python 库之一
-
-### 以下是我对这个必备 Python 库的看法，以及为什么你应该试一试
-
-towardsdatascience.com](/d-tale-one-of-the-best-python-libraries-you-have-ever-seen-c2deecdfd2b) [](/4-amazing-python-libraries-that-you-should-try-right-now-872df6f1c93) [## 你现在应该尝试的 4 个惊人的 Python 库
-
-### 这些是最酷的鲜为人知的 Python 库，你可能不知道，但应该知道
-
-towardsdatascience.com](/4-amazing-python-libraries-that-you-should-try-right-now-872df6f1c93)
+[](/mito-one-of-the-coolest-python-libraries-you-have-ever-seen-5261dbfedceb)  [](/d-tale-one-of-the-best-python-libraries-you-have-ever-seen-c2deecdfd2b)  [](/4-amazing-python-libraries-that-you-should-try-right-now-872df6f1c93) 

@@ -32,11 +32,7 @@
 
 这句话摘自上一篇文章“高维数据聚类的基础知识”，总结了我们快速探索创建半自动标签管道的实用方法的驱动因素。激动人心！但是当然，如果你觉得你需要一些快速的理论更新，你可以在下面的文章中找到完整的解释。
 
-[](/fundamentals-to-clustering-high-dimensional-data-3d-point-clouds-3196ee56f5da) [## 高维数据聚类的基础(3D 点云)
-
-### 为什么无监督分割和聚类是“人工智能的主体”？图解概念，以掌握微妙之处和应用…
-
-towardsdatascience.com](/fundamentals-to-clustering-high-dimensional-data-3d-point-clouds-3196ee56f5da) 
+[](/fundamentals-to-clustering-high-dimensional-data-3d-point-clouds-3196ee56f5da)  
 
 ## 如何定义聚类？
 
@@ -54,11 +50,7 @@ towardsdatascience.com](/fundamentals-to-clustering-high-dimensional-data-3d-poi
 
 从两幅立体图像中提取 SIFT 特征点，并在聚类步骤后使用摄影测量重建相应的三维点云。更多信息，了解如何在 [3D 地理数据学院](https://learngeodata.eu/3d-reconstructor-formation/)用开源软件做到这一点。F. Poux
 
-[](https://learngeodata.eu/3d-reconstructor-formation/) [## 摄影测量三维重建课程-三维地理数据学院
-
-### 该地层包括一些客户鲜为人知的私人技术，但受到专家的高度赞赏…
-
-learngeodata.eu](https://learngeodata.eu/3d-reconstructor-formation/) 
+[](https://learngeodata.eu/3d-reconstructor-formation/)  
 
 您可以将它们视为空间中的任意向量，每个向量包含一组属性。然后，我们在一个定义的“特征空间”中收集许多这样的向量，我们希望用少量的代表来表示它们。但这里的大问题是，那些代表应该是什么样子？
 
@@ -99,11 +91,7 @@ K-Means 是如何工作的？直观解释。F. Poux
 
 我们实践教程的第一步是收集一个好的数据集！这一次，我想分享另一个寻找酷炫激光雷达数据集的绝佳地点:法国国家地理研究所的地理服务。法国 ign 的 LiDAR HD 活动启动了一个开放式数据收集，在这里你可以获得法国一些地区清晰的 3D 点云！
 
-[](https://geoservices.ign.fr/lidarhd#telechargement) [## 激光雷达高清
-
-### 激光雷达高清节目框架中的 3D 采集点的年度报告
-
-地理服务公司](https://geoservices.ign.fr/lidarhd#telechargement) 
+[](https://geoservices.ign.fr/lidarhd#telechargement)  
 
 我进入上面的门户，选择一个切片，从中提取一个子切片，删除地理参考信息，准备一些激光雷达文件的额外属性部分，然后在我的 [Open Data Drive 文件夹](https://drive.google.com/drive/folders/1Ih_Zz9a6UcbUlaA-puEB_is7DYvXrb4w?usp=sharing)中提供它。你感兴趣的数据是`KME_planes.xyz`和`KME_cars.xyz`。如果你想在网上看到它们，你可以跳转到 Flyvast WebGL 摘录。
 
@@ -355,11 +343,7 @@ K-Means 使用不同的特征空间和 K 值在 3D 点云上产生结果。F. Po
 
 为了更深入，我们可以更好地描述每个点周围的局部邻域，例如，通过主成分分析。事实上，这可以允许提取一大组或多或少相关的几何特征。这将超出当前文章的范围，但是您可以肯定，我将在以后的某个特定问题上深入研究它。你也可以通过[点云处理器在线课程](https://learngeodata.eu/point-cloud-processor-formation/)直接钻研 PCA 专业知识。
 
-[](https://learngeodata.eu/point-cloud-processor-formation/) [## 点云处理在线课程- 3D 地理数据学院
-
-### 编队学习先进的点云处理和三维自动化。开发新的 python 地理数据技能和开源…
-
-learngeodata.eu](https://learngeodata.eu/point-cloud-processor-formation/) 
+[](https://learngeodata.eu/point-cloud-processor-formation/)  
 
 最后，我们只剩下将数据导出到一致的结构中，例如. xyz ASCII 文件，该文件仅保存空间坐标和可在外部软件中读取的标签信息:
 

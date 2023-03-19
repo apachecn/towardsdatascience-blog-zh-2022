@@ -67,8 +67,4 @@ NLP 中大多数现有的后门攻击都是在**微调阶段**进行的:敌对�
 
 如果你觉得有帮助，请在评论区留下你的想法并分享！如果你喜欢我做的事情，你现在可以给我多几个小时的自主权来表示你的支持🍺
 
-[](https://www.linkedin.com/in/tbuonocore) [## Tommaso Buonocore -博士生-大数据和生物医学信息学- ICS Maugeri SpA Società…
-
-### 生物医学工程师和人工智能爱好者，目前正在研究 NLP 解决方案，以改善基于医疗保健的预测任务…
-
-www.linkedin.com](https://www.linkedin.com/in/tbuonocore)
+[](https://www.linkedin.com/in/tbuonocore) 

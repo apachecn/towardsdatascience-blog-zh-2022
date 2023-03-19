@@ -92,11 +92,7 @@
 
 如果你不熟悉设置种子，或者不知道处理机器学习中随机性的正确方法，请查看下面的文章:
 
-[](/harnessing-randomness-in-machine-learning-59e26e82fdfc) [## 利用机器学习中的随机性
-
-### 随机应该有多“随机”？
-
-towardsdatascience.com](/harnessing-randomness-in-machine-learning-59e26e82fdfc) 
+[](/harnessing-randomness-in-machine-learning-59e26e82fdfc)  
 
 ## 结论
 

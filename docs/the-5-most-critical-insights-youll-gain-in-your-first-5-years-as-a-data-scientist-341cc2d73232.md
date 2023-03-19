@@ -50,11 +50,7 @@
 
 一旦解决了主要的业务问题，编写可靠的文档通常是事后的想法。然而，展望未来，数据科学家可以通过简单地编写良好的代码文档，确保他们的公司在未来几年受益于他们的分析首次带来的影响。
 
-[](/how-to-write-good-code-documentation-for-data-scientists-c9940aebb4f0) [## 如何为数据科学家编写好的代码文档
-
-### 关于最佳实践的速成课程，你需要确保每个人都理解你写的代码。
-
-towardsdatascience.com](/how-to-write-good-code-documentation-for-data-scientists-c9940aebb4f0) 
+[](/how-to-write-good-code-documentation-for-data-scientists-c9940aebb4f0)  
 
 # 3.良好的编码实践让你成为真正的专业人士
 
@@ -68,11 +64,7 @@ towardsdatascience.com](/how-to-write-good-code-documentation-for-data-scientist
 
 良好的编码实践是专业人士和业余爱好者的区别。
 
-[](/software-engineering-best-practices-for-data-scientists-4c199ede6e03) [## 数据科学家的软件工程最佳实践
-
-### 如何弥合数据科学和软件工程之间差距的速成课程。
-
-towardsdatascience.com](/software-engineering-best-practices-for-data-scientists-4c199ede6e03) 
+[](/software-engineering-best-practices-for-data-scientists-4c199ede6e03)  
 
 # 4.成为一个伟大的讲故事者让你不可或缺
 

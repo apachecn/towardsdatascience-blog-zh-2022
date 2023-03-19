@@ -8,17 +8,9 @@
 
 > 更新:发现我关于渐变提升的新书，[实用渐变提升](https://www.amazon.com/dp/B0BJ82S916)。这是用 python 中的许多例子对渐变增强的深入探究。
 
-[](https://www.amazon.com/dp/B0BJ82S916) [## 实用的渐变增强:深入探究 Python 中的渐变增强
+[](https://www.amazon.com/dp/B0BJ82S916)  的文章:
 
-### 这本书的梯度推进方法是为学生，学者，工程师和数据科学家谁希望…](https://www.amazon.com/dp/B0BJ82S916) 
-
-网络上有一些很好的文章，解释了如何使用和解释机器学习的 Shapley 值。例如参见[博士 Dataman](https://medium.com/u/319122a619c6?source=post_page-----20c9e78907a0--------------------------------) 的文章:
-
-[](/explain-your-model-with-the-shap-values-bc36aac4de3d) [## 用 SHAP 价值观解释你的模型
-
-### 使用 SHAP 值来解释任何复杂的 ML 模型
-
-towardsdatascience.com](/explain-your-model-with-the-shap-values-bc36aac4de3d) 
+[](/explain-your-model-with-the-shap-values-bc36aac4de3d)  
 
 然而，没有多少论文详细说明这些值是如何计算的。然而，这是一个非常有趣的主题，因为计算 Shapley 值是一个 np 完全问题，但一些库，如 [shap](https://shap.readthedocs.io/en/latest/index.html) 可以在一个小故障中计算它们，即使是对于具有数百个特征的非常大的基于树的 XGBoost 模型。这怎么可能呢？
 

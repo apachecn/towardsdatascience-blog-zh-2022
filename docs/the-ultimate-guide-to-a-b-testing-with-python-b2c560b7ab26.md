@@ -80,11 +80,7 @@
 
 **虽然我已经包含了在这个故事中执行 A/B 测试的关键代码结构，但是浏览整个笔记本还是有好处的。我宁愿建议你在阅读这个故事的过程中，让它在后台保持打开状态。**
 
-**[](https://github.com/rjrahul24/statistics_with_python/tree/main/A:B%20Testing) [## statistics_with_python/A:B 在主 rjrahul 24/statistics _ with _ python 上测试
-
-### 这个库旨在成为任何学习 Python 实现一般统计的人的指南和教程。
-
-github.com](https://github.com/rjrahul24/statistics_with_python/tree/main/A:B%20Testing) 
+**[](https://github.com/rjrahul24/statistics_with_python/tree/main/A:B%20Testing)  
 
 # 结论
 
@@ -98,19 +94,7 @@ github.com](https://github.com/rjrahul24/statistics_with_python/tree/main/A:B%20
 
 如果你喜欢这个故事，我经常写关于数据科学、统计学、机器学习和气候变化的文章。这里有一些阅读材料可以帮助你前进。
 
-[](https://medium.com/geekculture/probability-has-nothing-to-do-with-the-likelihood-of-an-events-occurrence-a9475a365ac0) [## 概率与事件发生的“可能性”无关
-
-### 来自另一个宇宙的统计分析
-
-medium.com](https://medium.com/geekculture/probability-has-nothing-to-do-with-the-likelihood-of-an-events-occurrence-a9475a365ac0) [](/algorithmic-thinking-for-data-science-ab8c91416d83) [## 数据科学的算法思维
-
-### 数学和编程联系的衍生物
-
-towardsdatascience.com](/algorithmic-thinking-for-data-science-ab8c91416d83) [](/the-ultimate-guide-to-emotion-recognition-from-facial-expressions-using-python-64e58d4324ff) [## 使用 Python 从面部表情识别情感的终极指南
-
-### 建立一个对图像和视频都有效的人脸情感识别(FER)算法
-
-towardsdatascience.com](/the-ultimate-guide-to-emotion-recognition-from-facial-expressions-using-python-64e58d4324ff) 
+[](https://medium.com/geekculture/probability-has-nothing-to-do-with-the-likelihood-of-an-events-occurrence-a9475a365ac0)  [](/algorithmic-thinking-for-data-science-ab8c91416d83)  [](/the-ultimate-guide-to-emotion-recognition-from-facial-expressions-using-python-64e58d4324ff)  
 
 # 关于我
 

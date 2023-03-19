@@ -14,19 +14,11 @@
 
 然而，虽然在大多数情况下，自省对你来说可能是不必要的，但对你的语言的编译器来说，为了更好地理解正在发生的事情以及你的环境，自省是必要的。也就是说，在某些情况下，人们可能与编译器一起工作，或者像编译器一样控制作用域。此外，在 Julia 中进行元编程时，自省可以产生非常有效的效果。尽管在 Julia 文档中可以获得这方面的信息，但它是在 Julia 的**开发者文档**中，而不是常规文档中。也就是说，我的假设是，大多数使用 Julia 的人不会开发这种语言本身，但肯定会在他们使用这种语言的某个时候利用自省，因为我认为这是这种语言在许多不同的应用程序中可以做的一件有价值的事情。也就是说，如果你更愿意阅读文档而不是我对这些特性的解释，这里有一个 Julia 文档的链接:
 
- [## 反思和自省
-
-### Julia 提供了多种运行时反射功能。模块的导出名称可使用…
-
-docs.julialang.org](https://docs.julialang.org/en/v1/devdocs/reflection/) 
+  
 
 此外，对于那些想要自己运行这些示例的人来说，我在这个小概述中使用的代码是笔记本格式的:
 
-[](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/runtime%20introspection.ipynb) [## Emmetts-DS-NoteBooks/runtime introspection . ipynb at master emmett GB/Emmetts-DS-NoteBooks
-
-### 各种项目的随机笔记本。通过创建帐户，为 emmettgb/Emmetts-DS 笔记本电脑的开发做出贡献…
-
-github.com](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/runtime%20introspection.ipynb) 
+[](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/runtime%20introspection.ipynb)  
 
 # 数据类型
 
@@ -94,11 +86,7 @@ subtypes(Pasta)
 
 如果你没有接触过朱利安式的等级制度，我有一整篇文章可以更详细地介绍:
 
-[](/overview-abstract-super-type-heirarchies-in-julia-26b7e64c9d10) [## 概述 Julia 中的抽象超类型层次结构
-
-### Julia 的酷类型抽象介绍！
-
-towardsdatascience.com](/overview-abstract-super-type-heirarchies-in-julia-26b7e64c9d10) 
+[](/overview-abstract-super-type-heirarchies-in-julia-26b7e64c9d10)  
 
 此外，这里有一个子类型树函数，它对于更好地可视化子类型也很有价值。我只是在这里的某个问题上发现了这一点，但我认为对于那些可能想更好地掌握某个类型的人来说，这绝对是非常好的:
 

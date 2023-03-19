@@ -148,11 +148,7 @@
 
 *你可以在这里找到 Jupyter 的原始笔记本:*
 
- *[## 博客帖子/离群值. ipynb at main matter courthoud/博客帖子
-
-### 我的中型博客文章的代码和笔记本。为 matteocourthoud/Blog-Posts 的发展作出贡献
-
-github.com](https://github.com/matteocourthoud/Blog-Posts/blob/main/notebooks/outliers.ipynb)* 
+ ** 
 
 ## *感谢您的阅读！*
 

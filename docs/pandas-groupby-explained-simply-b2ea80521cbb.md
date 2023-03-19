@@ -171,27 +171,7 @@ df_density.dropna()
 
 以下是我的一些其他帖子，请随意查看:
 
-[](/broadcasting-in-numpy-a-powerful-technique-you-should-know-7dc1dde619fa) [## 数字广播:你应该知道的强大技术
-
-### 广播在幕后如何运作的细节
-
-towardsdatascience.com](/broadcasting-in-numpy-a-powerful-technique-you-should-know-7dc1dde619fa) [](/vectorization-must-know-technique-to-speed-up-operations-100x-faster-50b6e89ddd45) [## 矢量化:将运算速度提高 100 倍的必备技术
-
-### 任何现代数据科学或机器学习应用程序都需要
-
-towardsdatascience.com](/vectorization-must-know-technique-to-speed-up-operations-100x-faster-50b6e89ddd45) [](https://medium.datadriveninvestor.com/top-20-masters-programs-in-ai-data-science-2021-98aadb7db409) [## 2021 年人工智能和数据科学 20 大硕士项目
-
-### 美国最好的机器学习/数据科学项目列表
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/top-20-masters-programs-in-ai-data-science-2021-98aadb7db409) [](/semantic-similarity-using-transformers-8f3cb5bf66d6) [## 使用转换器的语义相似度
-
-### 使用 Pytorch 和 SentenceTransformers 计算两个文本之间的语义文本相似度
-
-towardsdatascience.com](/semantic-similarity-using-transformers-8f3cb5bf66d6) [](/bert-text-classification-using-pytorch-723dfb8b6b5b) [## 使用 Pytorch 的 BERT 文本分类
-
-### 文本分类是自然语言处理中的一项常见任务。我们应用 BERT，一个流行的变压器模型，对假新闻检测使用…
-
-towardsdatascience.com](/bert-text-classification-using-pytorch-723dfb8b6b5b) 
+[](/broadcasting-in-numpy-a-powerful-technique-you-should-know-7dc1dde619fa)  [](/vectorization-must-know-technique-to-speed-up-operations-100x-faster-50b6e89ddd45)  [](https://medium.datadriveninvestor.com/top-20-masters-programs-in-ai-data-science-2021-98aadb7db409)  [](/semantic-similarity-using-transformers-8f3cb5bf66d6)  [](/bert-text-classification-using-pytorch-723dfb8b6b5b)  
 
 # 参考
 

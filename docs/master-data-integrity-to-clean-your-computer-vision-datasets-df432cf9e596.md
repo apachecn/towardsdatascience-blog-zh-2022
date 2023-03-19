@@ -275,8 +275,4 @@ Deleted 49.147727% of the frames.
 
 💡我的目标是让机器学习变得简单直观。如果你喜欢我的文章，我们可以在 [LinkedIn](https://www.linkedin.com/in/pauliusztin/) 上联系，了解关于[#数据](https://app.contentstudio.io/machine-learning/planner/calendar-view?sort_column=post_created_at&date=December%2026,%202022%20-%20February%2006,%202023#data)、 [#ml](https://app.contentstudio.io/machine-learning/planner/calendar-view?sort_column=post_created_at&date=December%2026,%202022%20-%20February%2006,%202023#ml) 和 [#mlops](https://app.contentstudio.io/machine-learning/planner/calendar-view?sort_column=post_created_at&date=December%2026,%202022%20-%20February%2006,%202023#mlops) 的每日见解。
 
-[](https://pauliusztin.medium.com/membership) [## 通过我的推荐链接加入 Medium-Paul Iusztin
-
-### 加入我们，从我和其他作者那里获得关于 ML、MLOps 和自由职业的独家内容。🚀解锁对…的完全访问权限
-
-pauliusztin.medium.com](https://pauliusztin.medium.com/membership)
+[](https://pauliusztin.medium.com/membership) 

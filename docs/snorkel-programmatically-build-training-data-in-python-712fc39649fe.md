@@ -275,11 +275,7 @@ Label Model Accuracy:     72%
 
 随意发挥，并在这里叉这篇文章的源代码:
 
-[](https://github.com/khuyentran1401/Data-science/tree/master/feature_engineering/snorkel_example) [## 数据科学/特征 _ 工程/通气管 _ 硕士实例 khuyentran 1401/数据科学
-
-### 有用的数据科学主题以及代码和文章的集合…
-
-github.com](https://github.com/khuyentran1401/Data-science/tree/master/feature_engineering/snorkel_example) 
+[](https://github.com/khuyentran1401/Data-science/tree/master/feature_engineering/snorkel_example)  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的算法和数据科学工具。你可以在 LinkedIn 和 Twitter 上与我联系。
 
@@ -287,19 +283,7 @@ github.com](https://github.com/khuyentran1401/Data-science/tree/master/feature_e
 
 [](/similarity-encoding-for-dirty-categories-using-dirty-cat-d9f0b581a552) [## 使用 dirty_cat 对脏类别进行相似性编码
 
-towardsdatascience.com](/similarity-encoding-for-dirty-categories-using-dirty-cat-d9f0b581a552) [](/kats-a-generalizable-framework-to-analyze-time-series-data-in-python-3c8d21efe057) [## kats:Python 中分析时间序列数据的通用框架
-
-### 预测、检测变化点、异常，并获得时间序列中的关键统计数据
-
-towardsdatascience.com](/kats-a-generalizable-framework-to-analyze-time-series-data-in-python-3c8d21efe057) [](/supercharge-your-python-string-with-textblob-2d9c08a8da05) [## 使用 TextBlob 增强您的 Python 字符串
-
-### 在一行代码中获得更多关于文本的见解！
-
-towardsdatascience.com](/supercharge-your-python-string-with-textblob-2d9c08a8da05) [](/sentiment-analysis-of-linkedin-messages-3bb152307f84) [## 使用 Python 和情感分析探索和可视化您的 LinkedIn 网络
-
-### 希望优化您的 LinkedIn 个人资料？为什么不让数据为你服务呢？
-
-towardsdatascience.com](/sentiment-analysis-of-linkedin-messages-3bb152307f84) 
+towardsdatascience.com](/similarity-encoding-for-dirty-categories-using-dirty-cat-d9f0b581a552) [](/kats-a-generalizable-framework-to-analyze-time-series-data-in-python-3c8d21efe057)  [](/supercharge-your-python-string-with-textblob-2d9c08a8da05)  [](/sentiment-analysis-of-linkedin-messages-3bb152307f84)  
 
 # 参考
 

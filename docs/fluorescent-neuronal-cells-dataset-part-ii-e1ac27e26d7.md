@@ -12,11 +12,7 @@
 
 如果您错过了第一部分，请查看更多有关数据收集方式及其含义的详细信息:
 
-[](/fluorescent-neuronal-cells-dataset-part-i-ac123196b963) [## 荧光神经元细胞数据集—第一部分
-
-### 一种新的目标分割、检测和计数基准
-
-towardsdatascience.com](/fluorescent-neuronal-cells-dataset-part-i-ac123196b963) 
+[](/fluorescent-neuronal-cells-dataset-part-i-ac123196b963)  
 
 # 独特的特征
 

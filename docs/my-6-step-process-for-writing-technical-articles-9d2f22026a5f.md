@@ -148,11 +148,7 @@
 
 弄清楚你写的**动机。写的理由有很多。你可能想建立声誉，提高沟通技巧或赚钱。我在下面的文章中讨论了我的动机。理解写作的好处帮助我保持动力。我写作的具体原因也有助于我的方法。**
 
-[](/why-i-write-about-data-science-75667a5ef0ae) [## 我为什么写数据科学
-
-### 撰写数据科学文章的 6 大好处
-
-towardsdatascience.com](/why-i-write-about-data-science-75667a5ef0ae) 
+[](/why-i-write-about-data-science-75667a5ef0ae)  
 
 当人们谈论成为一名成功的作家时，一个普遍的感觉是数量胜于质量。这意味着写更多的文章，而不是专注于使它们完美。我认为这个建议假设每个人都有同样的动机。那就是靠写作赚钱。
 
@@ -166,11 +162,7 @@ towardsdatascience.com](/why-i-write-about-data-science-75667a5ef0ae)
 
 我希望这篇文章对你有帮助！你可以成为我的 [**推荐会员**](https://conorosullyds.medium.com/membership) **来支持我。你可以访问 medium 上的所有文章，我可以得到你的部分费用。**
 
-[](https://conorosullyds.medium.com/membership) [## 通过我的推荐链接加入 Medium 康纳·奥沙利文
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-conorosullyds.medium.com](https://conorosullyds.medium.com/membership) 
+[](https://conorosullyds.medium.com/membership)  
 
 你可以在|[Twitter](https://twitter.com/conorosullyDS)|[YouTube](https://www.youtube.com/channel/UChsoWqJbEjBwrn00Zvghi4w)|[时事通讯](https://mailchi.mp/aa82a5ce1dc0/signup)上找到我——注册免费参加 [Python SHAP 课程](https://adataodyssey.com/courses/shap-with-python/)
 

@@ -91,16 +91,4 @@ Rafael Pol 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=refe
 
 *如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
 
-*[](/what-is-a-computer-kernel-2320b9330eef) [## 什么是计算机内核？
-
-### 了解 Jupyter 笔记本电脑内核的概念
-
-towardsdatascience.com](/what-is-a-computer-kernel-2320b9330eef) [](/getting-to-know-microservices-da5a836a7abd) [## 了解微服务
-
-### 将复杂的软件拆分或不拆分成独立服务的原因
-
-towardsdatascience.com](/getting-to-know-microservices-da5a836a7abd) [](/software-as-a-service-the-game-changer-for-small-it-departments-f841b292b02a) [## 软件即服务:小型 IT 部门的游戏规则改变者
-
-### 软件即服务简介，与内部解决方案进行比较
-
-towardsdatascience.com](/software-as-a-service-the-game-changer-for-small-it-departments-f841b292b02a)*
+*[](/what-is-a-computer-kernel-2320b9330eef)  [](/getting-to-know-microservices-da5a836a7abd)  [](/software-as-a-service-the-game-changer-for-small-it-departments-f841b292b02a) *

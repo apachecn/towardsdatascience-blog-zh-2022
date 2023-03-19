@@ -90,8 +90,4 @@ output 函数有两个参数——1)component _ id:它定义了我们希望用�
 
 你可以通过下面的故事了解更多关于 Dash 的知识:
 
-[](/dash-for-beginners-create-interactive-python-dashboards-338bfcb6ffa4) [## Dash for 初学者:创建交互式 Python 仪表盘
-
-### Dash 是什么？
-
-towardsdatascience.com](/dash-for-beginners-create-interactive-python-dashboards-338bfcb6ffa4)
+[](/dash-for-beginners-create-interactive-python-dashboards-338bfcb6ffa4) 

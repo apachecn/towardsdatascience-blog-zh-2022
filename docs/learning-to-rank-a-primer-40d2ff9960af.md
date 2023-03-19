@@ -97,8 +97,4 @@
 
 最后，搜索引擎、推荐系统和广告预测系统之间的界限可能是模糊的。例如，假设你在亚马逊上搜索一个特定品牌的产品，但没有看到一个空的结果页面，而是显示了一个类似的备选列表:*这是一个搜索，但也是一种推荐*。
 
-[](https://medium.com/@samuel.flender/membership) [## 通过我的推荐链接加入媒体-塞缪尔·弗莱德
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@samuel.flender/membership)
+[](https://medium.com/@samuel.flender/membership) 

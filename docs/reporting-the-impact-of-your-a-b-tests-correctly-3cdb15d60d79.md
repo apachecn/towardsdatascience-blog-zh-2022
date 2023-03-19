@@ -61,12 +61,4 @@ P 实验中的阳性结果是分析师日常工作中的亮点之一(对产品�
 
 那么你可能也会喜欢我的另一个关于 AB 测试的帖子:
 
-[](/how-to-set-the-minimum-detectable-effect-in-ab-tests-fe07f8002d6d) [## 如何设置 AB 测试中的最小可检测效应
-
-### 揭秘最难以捉摸的 AB 测试参数
-
-towardsdatascience.com](/how-to-set-the-minimum-detectable-effect-in-ab-tests-fe07f8002d6d) [](/finding-the-right-significance-level-for-an-ab-test-26d907ca91c9) [## 为 AB 测试找到正确的显著性水平
-
-### 为什么使用默认的 95%显著性和 80%功效水平的 AB 测试可能无法评估业务风险…
-
-towardsdatascience.com](/finding-the-right-significance-level-for-an-ab-test-26d907ca91c9)
+[](/how-to-set-the-minimum-detectable-effect-in-ab-tests-fe07f8002d6d)  [](/finding-the-right-significance-level-for-an-ab-test-26d907ca91c9) 

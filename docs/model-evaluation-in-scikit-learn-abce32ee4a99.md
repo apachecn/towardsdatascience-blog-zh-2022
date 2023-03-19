@@ -242,19 +242,7 @@ Accuracy: 0.983
 
 # 相关文章
 
-[](/an-overview-of-the-scikit-learn-clustering-package-d39a0499814) [## scikit-learn 集群包概述
-
-### scikit-learn 系列的第二集，解释了用于机器学习的著名 Python 库
-
-towardsdatascience.com](/an-overview-of-the-scikit-learn-clustering-package-d39a0499814) [](/an-overview-of-the-scikit-learn-library-episode-1-preprocessing-9b17ab4dde4f) [## Scikit-learn 库概述—第 1 集预处理
-
-### 著名的用于机器学习的 Python 库的剧集中的描述。第一集讲的是…
-
-towardsdatascience.com](/an-overview-of-the-scikit-learn-library-episode-1-preprocessing-9b17ab4dde4f) [](/understanding-the-n-jobs-parameter-to-speedup-scikit-learn-classification-26e3d1220c28) [## 了解 n_jobs 参数以加速 scikit-learn 分类
-
-### 一段现成的代码，演示了使用 n_jobs 参数如何减少培训时间
-
-towardsdatascience.com](/understanding-the-n-jobs-parameter-to-speedup-scikit-learn-classification-26e3d1220c28) 
+[](/an-overview-of-the-scikit-learn-clustering-package-d39a0499814)  [](/an-overview-of-the-scikit-learn-library-episode-1-preprocessing-9b17ab4dde4f)  [](/understanding-the-n-jobs-parameter-to-speedup-scikit-learn-classification-26e3d1220c28)  
 
 # 从社区收集的文章
 

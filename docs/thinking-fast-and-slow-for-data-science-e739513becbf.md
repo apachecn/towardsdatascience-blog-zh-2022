@@ -98,8 +98,4 @@ Lak Lakshmanan 写了一篇很棒的文章[“不，你不需要 MLOps”](https
 
 Medium 是我日常阅读的大型存储库，如果你在数据领域，这个平台就是一座金矿。如果你想订阅，这是我的推荐链接。完全披露:如果您使用此链接订阅 Medium，您的订阅费的一部分将直接交给我。希望你能成为我们社区的一员。
 
-[](https://animadurkar.medium.com/membership) [## 通过我的推荐链接加入媒体- Ani Madurkar
-
-### 阅读 Ani Madurkar(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-animadurkar.medium.com](https://animadurkar.medium.com/membership)
+[](https://animadurkar.medium.com/membership) 

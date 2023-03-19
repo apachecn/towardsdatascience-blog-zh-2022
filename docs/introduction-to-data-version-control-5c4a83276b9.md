@@ -144,19 +144,11 @@ test_branch2 = repo.create_branch(name='test2', base_commit=<SOME_HASH_KEY>)
 
 你喜欢这篇文章吗？如果是的话，也许你可以考虑成为会员来支持我和你其他喜欢的作家。
 
-[](https://david-farrugia.medium.com/membership) [## 加入我的介绍链接媒体-大卫法鲁吉亚
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-david-farrugia.medium.com](https://david-farrugia.medium.com/membership) 
+[](https://david-farrugia.medium.com/membership)  
 
 **想给我买杯咖啡吗？**
 
-[](https://paypal.me/itsdavidfarrugia?country.x=MT&locale.x=en_US) [## 使用贝宝支付大卫法鲁吉亚。我
-
-### 如果您接受 cookies，我们将使用它们来改善和定制您的体验，并使我们的合作伙伴能够向您展示…
-
-paypal.me](https://paypal.me/itsdavidfarrugia?country.x=MT&locale.x=en_US) 
+[](https://paypal.me/itsdavidfarrugia?country.x=MT&locale.x=en_US)  
 
 # 想联系吗？
 

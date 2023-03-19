@@ -22,11 +22,7 @@
 
 如果您现在想亲自尝试一下这个例子，请点击这里:
 
- [## 通过 GPT 3 使用自然打字/语音控制 JSmol
-
-### 编辑描述
-
-lucianoabriata.altervista.org](http://lucianoabriata.altervista.org/tests/gpt-3/jsmol-gpt3-speechrec-speechsynth.html) 
+  
 
 【T4**http://lucianoabriata . alter vista . org/tests/GPT-3/jsmol-gp T3-speech rec-speech synth . html**
 
@@ -117,22 +113,6 @@ lucianoabriata.altervista.org](http://lucianoabriata.altervista.org/tests/gpt-3/
 
 # 一些你可能会喜欢的关于 GPT-3 的文章
 
-[](/gpt-3-like-models-with-extended-training-could-be-the-future-24-7-tutors-for-biology-students-904d2ae7986a) [## 经过长期训练的类似 GPT 3 的模特可能成为未来生物学生的全天候导师
-
-### 尽管其他科目的成绩相当令人沮丧，但 GPT-3 在生物方面表现相当好，如果它…
-
-towardsdatascience.com](/gpt-3-like-models-with-extended-training-could-be-the-future-24-7-tutors-for-biology-students-904d2ae7986a) [](/custom-informed-gpt-3-models-for-your-website-with-very-simple-code-47134b25620b) [## 用非常简单的代码为你的网站构建定制的基于 GPT 3 的聊天机器人
-
-### 了解 GPT-3，PHP 和 JavaScript，因为你建立了一个在线 GPT-3 为基础的聊天机器人专门在一个给定的主题，你…
-
-towardsdatascience.com](/custom-informed-gpt-3-models-for-your-website-with-very-simple-code-47134b25620b) [](/coupling-gpt-3-with-speech-recognition-and-synthesis-to-achieve-a-fully-talking-chatbot-that-runs-abfcb7bf580) [## 耦合 GPT-3 与语音识别和合成，以实现一个完整的聊天机器人，运行…
-
-### 我是如何创建这个网络应用程序的，通过它你可以和 GPT-3 自然地谈论任何你想谈论的话题，所有这些都是基于网络的
-
-towardsdatascience.com](/coupling-gpt-3-with-speech-recognition-and-synthesis-to-achieve-a-fully-talking-chatbot-that-runs-abfcb7bf580) [](/web-based-chatbot-project-module-2-gpt-3-generated-responses-assisted-with-a-database-for-1ee2a0f4aad4) [## 基于网络的聊天机器人项目，模块 2:GPT-3-生成的答复与数据库辅助…
-
-### 这个项目的第二部分跨越网络编程，数学，人工智能，等等
-
-towardsdatascience.com](/web-based-chatbot-project-module-2-gpt-3-generated-responses-assisted-with-a-database-for-1ee2a0f4aad4) 
+[](/gpt-3-like-models-with-extended-training-could-be-the-future-24-7-tutors-for-biology-students-904d2ae7986a)  [](/custom-informed-gpt-3-models-for-your-website-with-very-simple-code-47134b25620b)  [](/coupling-gpt-3-with-speech-recognition-and-synthesis-to-achieve-a-fully-talking-chatbot-that-runs-abfcb7bf580)  [](/web-based-chatbot-project-module-2-gpt-3-generated-responses-assisted-with-a-database-for-1ee2a0f4aad4)  
 
 www.lucianoabriata.com*[***我写作并拍摄我广泛兴趣范围内的一切事物:自然、科学、技术、编程等等。***](https://www.lucianoabriata.com/) **[***成为媒介会员***](https://lucianosphere.medium.com/membership) *访问其所有故事(我免费获得小额收入的平台的附属链接)和* [***订阅获取我的新故事***](https://lucianosphere.medium.com/subscribe) ***通过电子邮件*** *。到* ***咨询关于小职位*** *查看我的* [***服务页面这里***](https://lucianoabriata.altervista.org/services/index.html) *。你可以* [***这里联系我***](https://lucianoabriata.altervista.org/office/contact.html) ***。******

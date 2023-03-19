@@ -175,19 +175,7 @@ Ml-insight 的可靠性曲线(图片由作者提供)
 
 如果你喜欢这个，这里还有一些！
 
-[](/interpreting-an-lstm-through-lime-e294e6ed3a03) [## 透过莱姆解读 LSTM
-
-### 了解如何通过 LIME 解释一个 Keras LSTM，并深入到文本 LIME 库的内部工作…
-
-towardsdatascience.com](/interpreting-an-lstm-through-lime-e294e6ed3a03) [](/adding-custom-layers-on-top-of-a-hugging-face-model-f1ccdfc257bd) [## 在拥抱脸模型上添加自定义层
-
-### 了解如何提取隐藏的状态从一个拥抱脸模型机构，修改/添加任务特定的层上，它和…
-
-towardsdatascience.com](/adding-custom-layers-on-top-of-a-hugging-face-model-f1ccdfc257bd) [](/dealing-with-features-that-have-high-cardinality-1c9212d7ff1b) [## 处理具有高基数的要素
-
-### 一个简单的实用程序，我用来处理具有许多唯一值的分类特征
-
-towardsdatascience.com](/dealing-with-features-that-have-high-cardinality-1c9212d7ff1b) 
+[](/interpreting-an-lstm-through-lime-e294e6ed3a03)  [](/adding-custom-layers-on-top-of-a-hugging-face-model-f1ccdfc257bd)  [](/dealing-with-features-that-have-high-cardinality-1c9212d7ff1b)  
 
 # 承认
 

@@ -95,11 +95,7 @@ Sklearn 估计量
 
 ## **其他资源和结论**
 
-**[](https://github.com/RamVegiraju/SageMaker-Deployment/blob/master/Serverless/Sklearn/sklearn-serverless.ipynb) [## 主 RamVegiraju/sage maker-Deployment 上的 sage maker-Deployment/sk learn-server less . ipynb
-
-### SageMaker 推理选项和其他功能的例子汇编。…
-
-github.com](https://github.com/RamVegiraju/SageMaker-Deployment/blob/master/Serverless/Sklearn/sklearn-serverless.ipynb) 
+**[](https://github.com/RamVegiraju/SageMaker-Deployment/blob/master/Serverless/Sklearn/sklearn-serverless.ipynb)  
 
 有关示例的完整代码，请访问上面的链接。关于使用无服务器推理的模型注册的例子，请看这个[例子](https://github.com/aws/amazon-sagemaker-examples/blob/main/serverless-inference/serverless-model-registry.ipynb)。关于无服务器推理的拥抱脸的例子，看看这个[博客](https://www.philschmid.de/sagemaker-serverless-huggingface-distilbert)和[例子](https://github.com/huggingface/notebooks/blob/main/sagemaker/19_serverless_inference/sagemaker-notebook.ipynb)。对于 AWS 官方博客发布的无服务器推理，请查看下面的文章[。](https://aws.amazon.com/blogs/aws/amazon-sagemaker-serverless-inference-machine-learning-inference-without-worrying-about-servers/)
 

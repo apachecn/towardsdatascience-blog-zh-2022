@@ -90,20 +90,8 @@
 
 希望你从这些建议中学到了有用的东西。在用 SQL 编码时，你发现了哪些有用的技巧？我也期待听到你的建议，请在评论中链接其他有用的文章，谢谢！
 
-[](https://medium.com/@andreasmartinson/membership) [## 加入 Medium 并通过我的推荐链接支持我
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@andreasmartinson/membership) 
+[](https://medium.com/@andreasmartinson/membership)  
 
 如果你喜欢这篇文章，请在 LinkedIn 上联系我，或者看看我的另一个故事:
 
-[](/why-is-nobody-talking-about-sql-anti-joins-f970a5f6cb54) [## 如何在您的数据科学职业生涯中使用 SQL 反连接
-
-### 为什么你应该知道他们
-
-towardsdatascience.com](/why-is-nobody-talking-about-sql-anti-joins-f970a5f6cb54) [](/5-window-function-examples-to-take-your-sql-skills-to-the-next-level-2b3306650bb6) [## 5 个窗口函数示例，让您的 SQL 技能更上一层楼
-
-### 如果你想掌握 SQL 中的数据操作，你需要理解窗口函数
-
-towardsdatascience.com](/5-window-function-examples-to-take-your-sql-skills-to-the-next-level-2b3306650bb6)
+[](/why-is-nobody-talking-about-sql-anti-joins-f970a5f6cb54)  [](/5-window-function-examples-to-take-your-sql-skills-to-the-next-level-2b3306650bb6) 

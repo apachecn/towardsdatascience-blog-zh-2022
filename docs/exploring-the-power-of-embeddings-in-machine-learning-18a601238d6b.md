@@ -84,16 +84,8 @@
 
 如果你还不是一个媒体会员，在这里注册，你的一部分会员会分给你所阅读的作家！
 
-[](https://medium.com/@riandolphin/membership) [## 加入我的推荐链接-海豚
-
-### 阅读 Rian Dolphin(以及媒体上成千上万的其他作者)的每一个故事。您的会员费直接支持…
-
-medium.com](https://medium.com/@riandolphin/membership) 
+[](https://medium.com/@riandolphin/membership)  
 
 如果你喜欢这篇文章，你可能也会喜欢
 
-[](/newton-raphson-explained-and-visualised-23f63da21bd5) [## 牛顿-拉夫森——解释和可视化
-
-### 理解牛顿拉夫森算法
-
-towardsdatascience.com](/newton-raphson-explained-and-visualised-23f63da21bd5)
+[](/newton-raphson-explained-and-visualised-23f63da21bd5) 

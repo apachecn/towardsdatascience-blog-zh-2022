@@ -195,38 +195,18 @@ BPMN 图中的主题“getTextFromFile”通过订阅 BPMN 任务主题连接到
 
 ## 彼得的文章链接
 
-[](https://medium.com/@klauke.peter/implementing-an-external-task-worker-for-camunda-in-python-566b5ebff488) [## 用 Python 实现 Camunda 的外部任务工作器
-
-### 如何实现一个用于外部服务任务的 worker，它与 Python 中的流程实例交换变量。
-
-medium.com](https://medium.com/@klauke.peter/implementing-an-external-task-worker-for-camunda-in-python-566b5ebff488) 
+[](https://medium.com/@klauke.peter/implementing-an-external-task-worker-for-camunda-in-python-566b5ebff488)  
 
 ## 使用 Apache Tika 转换文档
 
-[](https://medium.com/@masreis/text-extraction-and-ocr-with-apache-tika-302464895e5f) [## 使用 Apache Tika 进行文本提取和 OCR
-
-### Apache Tika 是一个用于从大多数文件格式中提取文本的库，包括 PDF、DOC 和 PPT。Tika 有一个简化的…
-
-medium.com](https://medium.com/@masreis/text-extraction-and-ocr-with-apache-tika-302464895e5f) [](https://medium.com/mlearning-ai/convert-any-type-of-document-to-text-with-apache-tika-using-python-api-ff306c467b3) [## 使用 Python API 通过 Apache Tika 将任何类型的文档转换为文本
-
-### 甚至您的祖母也可以使用这个库来提取不同类型文件的内容。
-
-medium.com](https://medium.com/mlearning-ai/convert-any-type-of-document-to-text-with-apache-tika-using-python-api-ff306c467b3) 
+[](https://medium.com/@masreis/text-extraction-and-ocr-with-apache-tika-302464895e5f)  [](https://medium.com/mlearning-ai/convert-any-type-of-document-to-text-with-apache-tika-using-python-api-ff306c467b3)  
 
 ## 替代方法
 
 拥有 RabbitMQ 的芹菜工人可以结合 Apache Tika 来实现类似的工作流，但是没有可执行的 BPMN 图。
 
-[](https://betterprogramming.pub/background-processing-with-rabbitmq-python-and-flask-5ca62acf409c) [## 用 RabbitMQ、Python 和 Flask 进行后台处理
-
-### 运行后台进程以提高 web 应用程序的性能
-
-better 编程. pub](https://betterprogramming.pub/background-processing-with-rabbitmq-python-and-flask-5ca62acf409c) 
+[](https://betterprogramming.pub/background-processing-with-rabbitmq-python-and-flask-5ca62acf409c)  
 
 本文中对特定供应商或第三方的引用并不表示认可，所有讨论的技术都基于可用的开源软件。专有工作流引擎提供了重要的功能，如日志和审计跟踪，这些功能更适合集成到受监管的行业中，如 GMP、Sarbanes Oxley 或金融服务监管环境。在部署智能自动化解决方案之前，务必评估控制和监管要求。
 
-[](https://cognitivedave.medium.com/membership) [## 通过我的推荐链接-大卫·摩尔加入媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-cognitivedave.medium.com](https://cognitivedave.medium.com/membership)
+[](https://cognitivedave.medium.com/membership) 

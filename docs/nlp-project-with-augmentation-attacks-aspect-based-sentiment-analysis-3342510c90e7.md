@@ -176,10 +176,6 @@
 
 如果您仍然想要更多的 NLP 内容，请查看我最近的一篇文章，其中介绍了几个独特但非常有用的 NLP 库。
 
-[](/5-lesser-known-python-libraries-for-your-next-nlp-project-ff13fc652553) [## 为您的下一个 NLP 项目准备的 5 个鲜为人知的 Python 库
-
-### 带有代码示例和解释。
-
-towardsdatascience.com](/5-lesser-known-python-libraries-for-your-next-nlp-project-ff13fc652553) 
+[](/5-lesser-known-python-libraries-for-your-next-nlp-project-ff13fc652553)  
 
 感谢阅读！

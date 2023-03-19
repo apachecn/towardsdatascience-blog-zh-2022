@@ -131,8 +131,4 @@ SQL 是数据库世界的一部分。它只是一个接口，供我们与位于�
 
 [SQL 绝对初学者教程](http://udemy.com/course/sql-for-absolute-beginners/?couponCode=MEDIUMREADERS) —图片由作者提供
 
-[](https://medium.com/membership/@ivopbernardo) [## 通过我的推荐链接加入 Medium-Ivo Bernardo
-
-### 阅读我在 Medium 上的所有故事，了解更多关于数据科学和分析的信息。加入中级会员，您将…
-
-medium.com](https://medium.com/membership/@ivopbernardo)
+[](https://medium.com/membership/@ivopbernardo) 

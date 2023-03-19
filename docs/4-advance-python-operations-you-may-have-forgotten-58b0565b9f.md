@@ -55,11 +55,7 @@ pivot_df = pivot_df.reset_index()
 
 重置索引(图片由作者提供)
 
-[](https://medium.com/codex/dont-use-iterrows-for-loops-in-python-instead-use-these-6363395dcea2) [## 你想在 Python 中运行快 31 倍的循环吗？
-
-### 了解循环熊猫数据帧的最有效方法
-
-medium.com](https://medium.com/codex/dont-use-iterrows-for-loops-in-python-instead-use-these-6363395dcea2) 
+[](https://medium.com/codex/dont-use-iterrows-for-loops-in-python-instead-use-these-6363395dcea2)  
 
 ## **2。融化**
 
@@ -139,11 +135,7 @@ stack_df
 
 > 枢轴/熔化功能是堆叠/分解功能的子集。透视/融合不适用于多层柱。
 
-[](https://medium.com/codex/9-python-concepts-you-should-not-skip-for-effective-data-science-a8606c58a53b) [## 有效数据科学不应忽略的 9 个 Python 概念
-
-### 你在数据科学面试中应该了解的 9 个概念
-
-medium.com 的](https://medium.com/codex/9-python-concepts-you-should-not-skip-for-effective-data-science-a8606c58a53b) 
+[](https://medium.com/codex/9-python-concepts-you-should-not-skip-for-effective-data-science-a8606c58a53b)  
 
 ## 结论
 
@@ -159,8 +151,4 @@ Pivot/Melt 适用于单级列数据集，而 Stack/Unstack 也可应用于任何
 
 ## 你可能喜欢的故事！
 
-[](https://medium.com/codex/dont-use-loc-iloc-with-loops-in-python-instead-use-this-f9243289dde7) [## 不要在 Python 中使用带循环的 loc/iloc，而是使用这个！
-
-### 以 60 倍的速度运行您的循环
-
-medium.com](https://medium.com/codex/dont-use-loc-iloc-with-loops-in-python-instead-use-this-f9243289dde7)
+[](https://medium.com/codex/dont-use-loc-iloc-with-loops-in-python-instead-use-this-f9243289dde7) 

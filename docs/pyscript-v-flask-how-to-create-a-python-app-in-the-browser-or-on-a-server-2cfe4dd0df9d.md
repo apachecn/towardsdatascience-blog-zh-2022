@@ -156,19 +156,11 @@ PySript 是工具箱中另一个看起来很有前途的工具。我怀疑它会
 
 一如既往，感谢阅读。要下载代码或找到更多关于 PyScript、Python、Flask 和其他数据科学相关主题的文章，请参见我的 [Github 网页](http://alanjones2.github.io)。
 
-[](https://alanjones2.github.io) [## AlanJones:编码、科学和技术
-
-### 使用 Streamlit、Plotly、Python 和 Flask 为 web 构建数据可视化应用程序。适用于…的文章、教程和应用程序
-
-alanjones2.github.io](https://alanjones2.github.io) 
+[](https://alanjones2.github.io)  
 
 你也可以订阅我的时事通讯 [Technofile](http://technofile.substack.com) 来了解我正在做的事情。
 
-[](https://technofile.substack.com) [## 技术文件
-
-### 技术、科学、数据科学和编码。点击阅读阿兰·琼斯的技术文件，这是一个子堆栈出版物，包含…
-
-technofile.substack.com](https://technofile.substack.com) 
+[](https://technofile.substack.com)  
 
 # 笔记
 

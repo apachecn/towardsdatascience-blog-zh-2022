@@ -14,11 +14,7 @@
 
 请注意，如果你是 Streamlit 的新手，我强烈建议你在阅读这篇文章的细节之前，先阅读下面这篇关于 Streamlit 的介绍性文章。
 
-[](/streamlit-hands-on-from-zero-to-your-first-awesome-web-app-2c28f9f4e214) [## 简化实践:从零到你的第一个优秀的网络应用
-
-### 学习核心概念并使用 Streamlit 创建您的第一个 Web 应用程序的分步指南
-
-towardsdatascience.com](/streamlit-hands-on-from-zero-to-your-first-awesome-web-app-2c28f9f4e214) 
+[](/streamlit-hands-on-from-zero-to-your-first-awesome-web-app-2c28f9f4e214)  
 
 如果您已经对 Streamlit 有了一些基本的知识和经验，就可以开始了！因此，不再拖延，让我们开始构建应用程序。这是一个简短的 YouTube 视频，演示了我们将要建立的应用程序。
 
@@ -58,22 +54,6 @@ pip install xpinyin
 
 这就对了。我们使用 Streamlit 和`Googletrans`创建了一个简单的语言学习应用程序。感谢阅读，我希望你喜欢这篇文章。如果您有兴趣了解更多有关 Streamlit 的信息，并享受创建应用程序的乐趣，下面是几个更多的 Streamlit 应用程序示例！
 
-[](https://medium.com/codex/create-a-multi-page-app-with-the-new-streamlit-option-menu-component-3e3edaf7e7ad) [## 使用新的简化选项菜单组件创建一个多页面应用程序
-
-### 还用 st.radio()创建菜单？是时候尝试在 Github 中提供完整代码的 Streamlit-Option-Menu 了
-
-medium.com](https://medium.com/codex/create-a-multi-page-app-with-the-new-streamlit-option-menu-component-3e3edaf7e7ad) [](https://medium.com/codex/create-a-simple-project-planning-app-using-streamlit-and-gantt-chart-6c6adf8f46dd) [## 使用 Streamlit 和甘特图创建简单的项目规划应用程序
-
-### 了解 Streamlit 的文件上传/下载、可编辑表格、交互式图表等特性和功能
-
-medium.com](https://medium.com/codex/create-a-simple-project-planning-app-using-streamlit-and-gantt-chart-6c6adf8f46dd) [](/create-a-photo-converter-app-using-streamlit-surprisingly-easy-and-fun-db291b5010c6) [## 使用 Streamlit 创建一个照片转换器应用程序——出乎意料的简单和有趣
-
-### 让我们享受 Streamlit 和计算机视觉的乐趣:初学者实用指南
-
-towardsdatascience.com](/create-a-photo-converter-app-using-streamlit-surprisingly-easy-and-fun-db291b5010c6) [](https://medium.com/codex/create-a-data-profiling-app-using-pandas-profiling-and-streamlit-59300bc50af7) [## 使用 Pandas_Profiling 和 Streamlit 创建数据分析应用程序
-
-### 构建一个简单的 Streamlit 应用程序来自动化您的数据分析和 EDA 工作
-
-medium.com](https://medium.com/codex/create-a-data-profiling-app-using-pandas-profiling-and-streamlit-59300bc50af7) 
+[](https://medium.com/codex/create-a-multi-page-app-with-the-new-streamlit-option-menu-component-3e3edaf7e7ad)  [](https://medium.com/codex/create-a-simple-project-planning-app-using-streamlit-and-gantt-chart-6c6adf8f46dd)  [](/create-a-photo-converter-app-using-streamlit-surprisingly-easy-and-fun-db291b5010c6)  [](https://medium.com/codex/create-a-data-profiling-app-using-pandas-profiling-and-streamlit-59300bc50af7)  
 
 你可以通过这个[推荐链接](https://medium.com/@insightsbees/membership)注册 Medium 会员(每月 5 美元)来获得我的作品和 Medium 的其他内容。通过这个链接注册，我将收到你的会员费的一部分，不需要你额外付费。谢谢大家！

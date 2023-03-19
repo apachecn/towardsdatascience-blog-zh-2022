@@ -104,11 +104,7 @@ XGBoost 是一个有效实现 GBDT 的流行库。它提供了一个简单的[�
 
 该基准测试的完整代码可在此处找到:
 
-[](https://github.com/1danielr/auto-gb) [## GitHub - 1danielr/auto-gb:梯度增强决策树的自动微分。
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/1danielr/auto-gb) 
+[](https://github.com/1danielr/auto-gb)  
 
 ## 结论
 

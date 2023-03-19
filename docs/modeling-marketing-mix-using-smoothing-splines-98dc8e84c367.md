@@ -26,11 +26,7 @@ gamma = 0.1spend_transformed = spend**alpha / (spend ** alpha + gamma ** alpha)r
 
 有关可用于建模饱和效应和收益递减的不同转换函数的概述，您可以查看以下文章:
 
-[](/modeling-marketing-mix-using-pymc3-ba18dd9e6e68) [## 使用 PyMC3 建模营销组合
-
-### 实验先验，数据规范化，并比较贝叶斯建模与罗宾，脸书的开源 MMM…
-
-towardsdatascience.com](/modeling-marketing-mix-using-pymc3-ba18dd9e6e68) 
+[](/modeling-marketing-mix-using-pymc3-ba18dd9e6e68)  
 
 让我们绘制支出与响应的关系图:
 
@@ -77,11 +73,7 @@ ols_results_hill_transformed.params
 
 有没有办法省略转换步骤，让模型找到非线性关系？是的。在我以前的一篇文章中，我描述了一种实现这一目标的机器学习方法:
 
-[](/improving-marketing-mix-modeling-using-machine-learning-approaches-25ea4cd6994b) [## 使用机器学习方法改进营销组合建模
-
-### 使用基于树的集合构建 MMM 模型，并使用 SHAP 解释媒体通道性能
-
-towardsdatascience.com](/improving-marketing-mix-modeling-using-machine-learning-approaches-25ea4cd6994b) 
+[](/improving-marketing-mix-modeling-using-machine-learning-approaches-25ea4cd6994b)  
 
 尽管使用基于任意树的机器学习算法的优点是提高了线性回归方法的准确性并处理了非线性，但是一个重要的缺点是这些算法不能像线性模型那样保持很好的可解释性。因此，需要像 SHAP 这样的额外方法来解释媒体表现，这对营销人员来说可能不是直观的。第二种方法是扩展线性模型，以允许:
 
@@ -198,11 +190,7 @@ spline = basis[:,:-1] @ coefficients[:-1]
 
 现在，当我们理解了 GAM 是如何工作的，我将展示如何将它整合到 MMM 框架中。我将重用我在下面的文章中介绍的框架:
 
-[](/improving-marketing-mix-modeling-using-machine-learning-approaches-25ea4cd6994b) [## 使用机器学习方法改进营销组合建模
-
-### 使用基于树的集合构建 MMM 模型，并使用 SHAP 解释媒体通道性能
-
-towardsdatascience.com](/improving-marketing-mix-modeling-using-machine-learning-approaches-25ea4cd6994b) 
+[](/improving-marketing-mix-modeling-using-machine-learning-approaches-25ea4cd6994b)  
 
 变化很小。我用的是 GAM，而不是随机森林。解释黑箱模型所必需的 SHAP 成分不再需要了。由于 GAM 中成分的线性可加性，我们分析每个平滑媒体变量的影响几乎类似于线性回归模型。
 
@@ -223,11 +211,7 @@ towardsdatascience.com](/improving-marketing-mix-modeling-using-machine-learning
 
 建模步骤与我在上一篇文章中描述的完全相同:
 
-[](/improving-marketing-mix-modeling-using-machine-learning-approaches-25ea4cd6994b) [## 使用机器学习方法改进营销组合建模
-
-### 使用基于树的集合构建 MMM 模型，并使用 SHAP 解释媒体通道性能
-
-towardsdatascience.com](/improving-marketing-mix-modeling-using-machine-learning-approaches-25ea4cd6994b) 
+[](/improving-marketing-mix-modeling-using-machine-learning-approaches-25ea4cd6994b)  
 
 我将提到关于 GAM 的重要变化。
 
@@ -266,11 +250,7 @@ s(5) + s(6) + s(7) + s(8) + s(9) + s(10) + l(0) + l(1) + l(2) + l(3) + l(4)
 
 查看这篇文章了解更多细节:
 
-[](/modeling-marketing-mix-with-constrained-coefficients-234b23190ee2) [## 用约束系数模拟营销组合
-
-### 如何拟合一个 SciPy 线性回归并使用 RPy2 接口从 Python 调用 R 岭回归
-
-towardsdatascience.com](/modeling-marketing-mix-with-constrained-coefficients-234b23190ee2) 
+[](/modeling-marketing-mix-with-constrained-coefficients-234b23190ee2)  
 
 在 GAM 的上下文中，我将平滑样条约束为单调递增。
 

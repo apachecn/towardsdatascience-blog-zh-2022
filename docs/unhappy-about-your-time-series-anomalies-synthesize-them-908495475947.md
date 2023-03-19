@@ -119,15 +119,7 @@
 
 **瞧！如果您想查看在这种类型的数据集上训练和评估异常检测模型的示例，请查看以下文章:**
 
-**[](/your-anomaly-detection-model-is-smarter-than-you-think-c1cade5fcabe) [## 你的异常检测模型比你想象的要聪明
-
-### 多变量时间序列异常检测模型可以提供丰富的见解，如果你投资一些时间在后处理…
-
-towardsdatascience.com](/your-anomaly-detection-model-is-smarter-than-you-think-c1cade5fcabe) [](/top-3-ways-your-anomaly-detection-models-can-earn-your-trust-f59072a6199c) [## 异常检测模型赢得您信任的三大方法
-
-### 将异常检测模型结果连接回原始信号
-
-towardsdatascience.com](/top-3-ways-your-anomaly-detection-models-can-earn-your-trust-f59072a6199c) 
+**[](/your-anomaly-detection-model-is-smarter-than-you-think-c1cade5fcabe)  [](/top-3-ways-your-anomaly-detection-models-can-earn-your-trust-f59072a6199c)  
 
 # 结论
 
@@ -135,8 +127,4 @@ towardsdatascience.com](/top-3-ways-your-anomaly-detection-models-can-earn-your-
 
 我希望你觉得这篇文章很有见地:如果你不想错过我即将发布的帖子，请随时在这里给我留下评论，并不要犹豫订阅我的 [**中型电子邮件源**](https://michoara.medium.com/subscribe) ！想支持我和以后的工作？**通过我的推荐链接加入 Medium** :
 
-[](https://michoara.medium.com/membership) [## 通过我的推荐链接加入 Medium-Michal Hoa RAU
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-michoara.medium.com](https://michoara.medium.com/membership)**
+[](https://michoara.medium.com/membership) **

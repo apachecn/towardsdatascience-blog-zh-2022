@@ -18,19 +18,11 @@
 
 本教程将介绍 Sklearn 中两个更健壮的基于模型的插补算法— `KNNImputer`和`IterativeImputer`。您将学习它们的基本用法，调整它们的参数，最后，看看如何直观地测量它们的效果。
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-BEXGBoost
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。支持我的工作，给我买一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+[](https://ibexorigin.medium.com/membership)  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex) [## 阿尔法信号|机器学习的极品。艾总结的。
-
-### 留在循环中，不用花无数时间浏览下一个突破；我们的算法识别…
-
-alphasignal.ai](https://alphasignal.ai/?referrer=Bex) 
+[](https://alphasignal.ai/?referrer=Bex)  
 
 ## 识别缺失的类型
 
@@ -87,11 +79,7 @@ alphasignal.ai](https://alphasignal.ai/?referrer=Bex)
 
 你可能需要一段时间来理解这些思念的类型。要更深入地了解，你可以参考我写的另一篇文章，专门讨论想念类型和 MSNO 套餐:
 
-[](https://towardsdev.com/how-to-identify-missingness-types-with-missingno-61cfe0449ad9) [## 如何用缺失号识别缺失类型
-
-### 编辑描述
-
-towardsdev.com](https://towardsdev.com/how-to-identify-missingness-types-with-missingno-61cfe0449ad9) 
+[](https://towardsdev.com/how-to-identify-missingness-types-with-missingno-61cfe0449ad9)  
 
 ## 用 KNNImputer 输入
 
@@ -99,11 +87,7 @@ towardsdev.com](https://towardsdev.com/how-to-identify-missingness-types-with-mi
 
 除了基本的`SimpleImputer`，Sklearn 还提供了`KNNImputer`类，它使用 K-Nearest-Neighbors 算法来估算数值。如果您不熟悉它，我推荐您阅读我关于它的另一篇文章:
 
-[](/intro-to-scikit-learns-k-nearest-neighbors-classifier-and-regressor-4228d8d1cba6) [## Scikit-learn 的 k 近邻分类器和回归器简介
-
-### 编辑描述
-
-towardsdatascience.com](/intro-to-scikit-learns-k-nearest-neighbors-classifier-and-regressor-4228d8d1cba6) 
+[](/intro-to-scikit-learns-k-nearest-neighbors-classifier-and-regressor-4228d8d1cba6)  
 
 作为参考，下面是一篇文章的节选，简要介绍了 KNN 算法的工作原理:
 
@@ -174,32 +158,8 @@ KNNImputer 是 KNN 算法的一个略微修改的版本，它试图通过平均�
 
 感谢阅读！
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-Bex t。
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) [](https://ibexorigin.medium.com/subscribe) [## 每当 Bex T .发布时收到电子邮件。
-
-### 每当 Bex T .发布时收到电子邮件。注册后，如果您还没有中型帐户，您将创建一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/subscribe) 
+[](https://ibexorigin.medium.com/membership)  [](https://ibexorigin.medium.com/subscribe)  
 
 **我的更多故事:**
 
-[](/10-minute-effortless-sql-tutorial-for-die-hard-pandas-lovers-a64c36733fd0) [## 10 分钟轻松的 SQL 教程，适合铁杆熊猫爱好者
-
-### 曾几何时，情况正好相反
-
-towardsdatascience.com](/10-minute-effortless-sql-tutorial-for-die-hard-pandas-lovers-a64c36733fd0) [](/how-to-create-slick-math-animations-like-3blue1brown-in-python-457f74701f68) [## 如何用 Python 创建像 3Blue1Brown 这样流畅的数学动画
-
-### 学习将你对数学和编程的热爱结合起来的最佳方式
-
-towardsdatascience.com](/how-to-create-slick-math-animations-like-3blue1brown-in-python-457f74701f68) [](/matplotlib-vs-plotly-lets-decide-once-and-for-all-dc3eca9aa011) [## Matplotlib vs. Plotly:让我们决定一劳永逸
-
-### 从 7 个关键方面进行深入快速的比较
-
-towardsdatascience.com](/matplotlib-vs-plotly-lets-decide-once-and-for-all-dc3eca9aa011) [](https://ibexorigin.medium.com/yes-these-unbelievable-masterpieces-are-created-with-matplotlib-b62e0ff2d1a8) [## 是的，这些令人难以置信的杰作是用 Matplotlib 创作的
-
-### 它们让我的作品看起来像孩子画的树
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/yes-these-unbelievable-masterpieces-are-created-with-matplotlib-b62e0ff2d1a8)
+[](/10-minute-effortless-sql-tutorial-for-die-hard-pandas-lovers-a64c36733fd0)  [](/how-to-create-slick-math-animations-like-3blue1brown-in-python-457f74701f68)  [](/matplotlib-vs-plotly-lets-decide-once-and-for-all-dc3eca9aa011)  [](https://ibexorigin.medium.com/yes-these-unbelievable-masterpieces-are-created-with-matplotlib-b62e0ff2d1a8) 

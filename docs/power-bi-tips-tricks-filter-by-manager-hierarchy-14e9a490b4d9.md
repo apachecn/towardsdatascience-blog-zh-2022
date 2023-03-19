@@ -89,10 +89,6 @@ Moira 的管理链中只有她自己，因为她处于领导层级的顶端，�
 
 如果你喜欢阅读这样的故事，并想支持我成为一名作家，可以考虑报名成为一名媒体成员。这是 5 美元一个月，我赚一小笔佣金，如果你使用我的推荐链接。
 
-[](https://jeagleson.medium.com/membership) [## 加入我的介绍链接-詹娜伊格尔森媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-jeagleson.medium.com](https://jeagleson.medium.com/membership) 
+[](https://jeagleson.medium.com/membership)  
 
 詹娜·伊格尔森(Jenna eagle son) *我的背景是工业组织心理学，我已经在人物分析中找到了自己的家。数据使我的作品变得生动。我主要使用 Power BI，但偶尔也会使用 Tableau 和其他工具。我很想听到更多关于你的旅程！在*[*Linkedin*](https://www.linkedin.com/in/jenna-eagleson/)*或*[*Twitter*](https://twitter.com/JennaEagleson)*上联系我。*

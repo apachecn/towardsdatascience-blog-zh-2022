@@ -20,11 +20,7 @@
 
 查看我们的最新报道:*野生动物监测系统，实时浮游植物热点*
 
-[](/marine-wildlife-monitoring-system-with-real-time-phytoplankton-hotspots-9b361dbd2d13) [## 具有实时浮游植物热点的野生动物监测系统
-
-### “海洋野生动物跟踪器”v0.2 版简介
-
-towardsdatascience.com](/marine-wildlife-monitoring-system-with-real-time-phytoplankton-hotspots-9b361dbd2d13) 
+[](/marine-wildlife-monitoring-system-with-real-time-phytoplankton-hotspots-9b361dbd2d13)  
 
 在这里你可以找到一个简短的分析和文本，关于加拉帕戈斯群岛以及叶绿素 a 的浓度如何随着洋流的季节性而变化。
 

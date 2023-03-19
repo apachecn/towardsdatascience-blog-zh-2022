@@ -22,11 +22,7 @@
 
 BERT 是一种基于 Transformer 编码器的语言模型。如果你对《变形金刚》不熟悉，我推荐你阅读[这篇惊人的文章](https://jalammar.github.io/illustrated-transformer/)。
 
-[](https://jalammar.github.io/illustrated-transformer/) [## 图示的变压器
-
-### 讨论:黑客新闻(65 分，4 条评论)，Reddit r/MachineLearning (29 分，3 条评论)翻译…
-
-jalammar.github.io](https://jalammar.github.io/illustrated-transformer/) 
+[](https://jalammar.github.io/illustrated-transformer/)  
 
 **伯特一言以蔽之**:
 
@@ -53,23 +49,7 @@ jalammar.github.io](https://jalammar.github.io/illustrated-transformer/)
 
 如果你想了解更多关于 BERT 或他的**单词标记器**的信息，请查看以下资源:
 
- [## 有插图的伯特、埃尔莫等人(NLP 如何破解迁移学习)
-
-### 讨论:黑客新闻(98 分，19 条评论)，Reddit r/MachineLearning (164 分，20 条评论)翻译…
-
-jalammar.github.io](https://jalammar.github.io/illustrated-bert/) [](https://huggingface.co/blog/bert-101) [## BERT 101 —最新的自然语言处理模型解释
-
-### BERT 是来自变压器的双向编码器表示的缩写，是用于自然语言的机器学习(ML)模型
-
-huggingface.co](https://huggingface.co/blog/bert-101) [](/wordpiece-subword-based-tokenization-algorithm-1fbd14394ed7) [## 基于子词的标记化算法
-
-### 了解最新的自然语言处理模型使用的基于子词的标记化算法
-
-towardsdatascience.com](/wordpiece-subword-based-tokenization-algorithm-1fbd14394ed7) [](https://huggingface.co/docs/transformers/tokenizer_summary) [## 标记化器概述
-
-### 在这一页上，我们将更深入地了解标记化。正如我们在预处理教程中看到的，标记文本是…
-
-huggingface.co](https://huggingface.co/docs/transformers/tokenizer_summary) 
+  [](https://huggingface.co/blog/bert-101)  [](/wordpiece-subword-based-tokenization-algorithm-1fbd14394ed7)  [](https://huggingface.co/docs/transformers/tokenizer_summary)  
 
 # 我们来编码吧！
 

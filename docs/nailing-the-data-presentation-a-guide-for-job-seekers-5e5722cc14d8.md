@@ -46,11 +46,7 @@
 
 你也要避免潜在的争议或冒犯性话题，即使你认为你的工作不会引发任何负面情绪。我把我关于成人电影女演员死亡的作品展示给一个潜在的雇主，完全犯了这个错误。
 
-[](https://zachl-quinn.medium.com/tragedy-porn-a-visual-data-story-240732f6fafd) [## 悲剧色情
-
-### 2018 年，5 名成人电影明星在 3 个月内死亡。虽然大部分的死亡都被低估了，但是色情明星的自杀…
-
-zachl-quinn.medium.com](https://zachl-quinn.medium.com/tragedy-porn-a-visual-data-story-240732f6fafd) 
+[](https://zachl-quinn.medium.com/tragedy-porn-a-visual-data-story-240732f6fafd)  
 
 虽然我最终收到了一份工作邀请(我礼貌地拒绝了)，但招聘人员提到，这个主题让团队有点不高兴。我能说什么呢？一些你在得到工作前学到的教训。
 

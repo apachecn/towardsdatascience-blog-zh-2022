@@ -98,11 +98,7 @@
 
 批量规范化从算法中的一层获取输出，并在将输出传递到下一层之前对其进行规范化。它导致更稳定的训练。如果您想了解更多关于批处理规范化的知识，这里有一篇关于数据科学的精彩文章:
 
-[](/batch-norm-explained-visually-how-it-works-and-why-neural-networks-need-it-b18919692739) [## Batch Norm 直观地解释了它是如何工作的，以及为什么神经网络需要它
-
-### 一个非常重要的深度学习层的温和指南，用简单的英语
-
-towardsdatascience.com](/batch-norm-explained-visually-how-it-works-and-why-neural-networks-need-it-b18919692739) 
+[](/batch-norm-explained-visually-how-it-works-and-why-neural-networks-need-it-b18919692739)  
 
 ## 培训与验证
 

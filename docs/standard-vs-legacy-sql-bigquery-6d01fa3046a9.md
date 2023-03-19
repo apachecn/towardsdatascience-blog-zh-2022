@@ -90,24 +90,8 @@ BigQuery 无疑是 Google 云平台上最受欢迎的云服务之一，因为几
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership) 
+[](https://gmyrianthous.medium.com/membership)  
 
 **相关文章你可能也喜欢**
 
-[](/ddl-dml-e802a25076c6) [## DDL 和 DML 是什么？
-
-### 理解 SQL 中 DDL 和 DML 的区别
-
-towardsdatascience.com](/ddl-dml-e802a25076c6) [](/oltp-vs-olap-9ac334baa370) [## OLTP 与 OLAP:他们的区别是什么
-
-### 在数据处理系统的上下文中理解 OLTP 和 OLAP 之间的区别
-
-towardsdatascience.com](/oltp-vs-olap-9ac334baa370) [](/connect-airflow-worker-gcp-e79690f3ecea) [## 如何在 Cloud Composer 上连接到气流工作者
-
-### 在谷歌云平台上连接气流工作者
-
-towardsdatascience.com](/connect-airflow-worker-gcp-e79690f3ecea)
+[](/ddl-dml-e802a25076c6)  [](/oltp-vs-olap-9ac334baa370)  [](/connect-airflow-worker-gcp-e79690f3ecea) 

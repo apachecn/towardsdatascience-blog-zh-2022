@@ -279,23 +279,7 @@ headers:{
 
 如果你想了解更多关于软件工程、面试和职业指导的信息，请随时访问我的以下帖子或在 Linkedin 上联系我[:](https://www.linkedin.com/in/vincenttatan/?originalSubdomain=sg)
 
-[](/write-your-own-amazing-data-science-blogs-8b9c19a4255d) [## 撰写您自己的令人惊叹的数据科学博客
-
-### 帮助你开始旅程的 5 大技巧
-
-towardsdatascience.com](/write-your-own-amazing-data-science-blogs-8b9c19a4255d) [](/how-i-cracked-ds-tech-interview-at-google-2aca19d21ea5) [## 我是如何在谷歌破解 DS-Tech 面试的
-
-### 通过 ML 工程师 SQL/编码面试的简易指南
-
-towardsdatascience.com](/how-i-cracked-ds-tech-interview-at-google-2aca19d21ea5) [](/top-5-lessons-to-excel-in-data-analytics-interviews-24f5cf0605d1) [## 在数据分析面试中脱颖而出的 5 大经验
-
-### 从 Visa 和谷歌数据访谈中吸取的教训
-
-towardsdatascience.com](/top-5-lessons-to-excel-in-data-analytics-interviews-24f5cf0605d1) [](/data-analytics-is-hard-here-how-you-can-excel-aa2a99d0fad0) [## 数据分析很难……以下是你如何超越的方法
-
-### 我在 Google、Visa 和 Lazada 担任数据分析师/工程师 3 年来学到了什么
-
-towardsdatascience.com](/data-analytics-is-hard-here-how-you-can-excel-aa2a99d0fad0) 
+[](/write-your-own-amazing-data-science-blogs-8b9c19a4255d)  [](/how-i-cracked-ds-tech-interview-at-google-2aca19d21ea5)  [](/top-5-lessons-to-excel-in-data-analytics-interviews-24f5cf0605d1)  [](/data-analytics-is-hard-here-how-you-can-excel-aa2a99d0fad0)  
 
 感谢 [Albert Bingei](https://medium.com/u/fcf6ad08f12d?source=post_page-----aafae1cf1890--------------------------------) 对本文的评论、阅读和令人兴奋的反馈。
 

@@ -36,11 +36,7 @@
 
 如果你想了解更多关于预提交钩子的知识，以及如何使用它们，请看下面的帖子。👇
 
-[](https://python.plainenglish.io/how-to-improve-your-python-code-style-with-pre-commit-hooks-e7fe3fd43bfa) [## 如何用预提交钩子改进 Python 代码风格
-
-### 实施代码风格是简化开发过程的关键，下面是如何实现自动化。
-
-python .平原英语. io](https://python.plainenglish.io/how-to-improve-your-python-code-style-with-pre-commit-hooks-e7fe3fd43bfa) 
+[](https://python.plainenglish.io/how-to-improve-your-python-code-style-with-pre-commit-hooks-e7fe3fd43bfa)  
 
 当您的团队在自己的机器上本地开发代码时，对 docstrings 使用预提交挂钩可以保持团队一致。当您在一个连续交付的框架中工作时，它们尤其有用，在这个框架中，团队成员需要经常进行较小的变更，并且您需要跟上快速的开发和评审周期。
 
@@ -108,26 +104,10 @@ pdoc3 的预提交配置示例(由作者编写，基于此[源](https://github.c
 
 感谢您的阅读！
 
-[](https://medium.com/@ndgoet/membership) [## 用我的推荐链接加入媒体。
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@ndgoet/membership) 
+[](https://medium.com/@ndgoet/membership)  
 
 如果你喜欢这篇文章，这里有一些你可能会喜欢的文章👇
 
-[](https://python.plainenglish.io/how-to-improve-your-python-code-style-with-pre-commit-hooks-e7fe3fd43bfa) [## 如何用预提交钩子改进 Python 代码风格
-
-### 实施代码风格是简化开发过程的关键，下面是如何实现自动化。
-
-python .平原英语. io](https://python.plainenglish.io/how-to-improve-your-python-code-style-with-pre-commit-hooks-e7fe3fd43bfa) [](/automating-unit-tests-in-python-with-hypothesis-d53affdc1eba) [## 使用假设在 Python 中自动化单元测试
-
-### 单元测试是产生高质量代码的关键。以下是如何自动化测试 Python 代码。
-
-towardsdatascience.com](/automating-unit-tests-in-python-with-hypothesis-d53affdc1eba) [](/automating-version-tags-and-changelogs-for-your-python-projects-6c46b68c7139) [## 为您的 Python 项目自动化版本标签和变更日志
-
-### 基于项目的提交历史，使用 commitizen 实现版本标签和变更日志自动化的实践指南
-
-towardsdatascience.com](/automating-version-tags-and-changelogs-for-your-python-projects-6c46b68c7139) 
+[](https://python.plainenglish.io/how-to-improve-your-python-code-style-with-pre-commit-hooks-e7fe3fd43bfa)  [](/automating-unit-tests-in-python-with-hypothesis-d53affdc1eba)  [](/automating-version-tags-and-changelogs-for-your-python-projects-6c46b68c7139)  
 
 *请仔细阅读* [*本免责声明*](/@ndgoet/disclaimer-5ad928afc841) *在依赖* [*中的任何内容之前，我关于 Medium.com 的文章*](https://towardsdatascience.com/@ndgoet) *为自己的作品:)*

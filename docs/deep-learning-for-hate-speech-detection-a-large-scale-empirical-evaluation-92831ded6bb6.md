@@ -8,19 +8,11 @@
 
 A 自动化的仇恨言论检测是打击仇恨言论传播的重要工具，尤其是在社交媒体中。已经为该任务开发了许多方法，包括最近激增的基于深度学习的方法。还开发了各种数据集，举例说明仇恨言论检测问题的各种表现。在这里，我们通过三个最常用的数据集，对深度和浅层仇恨言论检测方法进行了大规模的实证比较。我们的目标是阐明该领域的进展，并确定当前最先进技术的优势和弱点。我们特别关注对实际性能的测量，包括检测准确性、计算效率、使用预训练模型的能力和领域泛化。我们这样做的目的是为仇恨言论检测在实践中的使用提供指导，量化最新技术水平，并确定未来的研究方向。arXiv [1]提供了完整的研究报告。在这里，我们介绍了这项研究的概况和一些有趣的结果。查看下面的完整文件了解更多细节。
 
-[](https://arxiv.org/abs/2202.09517) [## 深度学习用于仇恨言论检测:一项比较研究
-
-### 仇恨言论自动检测是打击仇恨言论传播的重要工具，特别是在社会…
-
-arxiv.org](https://arxiv.org/abs/2202.09517) 
+[](https://arxiv.org/abs/2202.09517)  
 
 本研究中使用的代码和数据集可从下面的存储库中获得。
 
-[](https://github.com/jmjmalik22/Hate-Speech-Detection) [## GitHub-jmjmalik 22/Hate-Speech-Detection:论文《深度学习用于…
-
-### 由 Jitendra 辛格马利克，关松庞，安东范登亨格尔这项研究利用不同的嵌入…
-
-github.com](https://github.com/jmjmalik22/Hate-Speech-Detection) 
+[](https://github.com/jmjmalik22/Hate-Speech-Detection)  
 
 # 动机
 
@@ -70,11 +62,7 @@ github.com](https://github.com/jmjmalik22/Hate-Speech-Detection)
 
 查看我们下面的预印本全文，了解更多跨领域的实验结果
 
-[](https://arxiv.org/abs/2202.09517) [## 深度学习用于仇恨言论检测:一项比较研究
-
-### 仇恨言论自动检测是打击仇恨言论传播的重要工具，特别是在社会…
-
-arxiv.org](https://arxiv.org/abs/2202.09517) 
+[](https://arxiv.org/abs/2202.09517)  
 
 # 结论
 
@@ -82,11 +70,7 @@ arxiv.org](https://arxiv.org/abs/2202.09517)
 
 模型实现和数据集在以下 GitHub 上公开发布。
 
-[](https://github.com/jmjmalik22/Hate-Speech-Detection) [## GitHub-jmjmalik 22/Hate-Speech-Detection:论文《深度学习用于…
-
-### 由 Jitendra 辛格马利克，关松庞，安东范登亨格尔这项研究利用不同的嵌入…
-
-github.com](https://github.com/jmjmalik22/Hate-Speech-Detection) 
+[](https://github.com/jmjmalik22/Hate-Speech-Detection)  
 
 **参考文献**
 

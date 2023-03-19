@@ -22,11 +22,7 @@ Wordle 是一款简单易用的猜字游戏，由布鲁克林的软件工程师 
 
 如果你想知道为什么这个游戏的前提对你来说如此熟悉，你可能会想到游戏策划，它与 Wordle 有着相同的目标，只是游戏令牌是彩色的珠子而不是字母。我认为 Wordle 比 [Mastermind](https://en.wikipedia.org/wiki/Mastermind_(board_game)) 更难，因为有一个额外的限制，即单词必须是有效的英语单词，所以有一个类似拼字游戏的元素与游戏的逻辑难题本质交织在一起。Wordle 非常简单，但奇怪的是会让人上瘾。虽然对于任何人来说，创造一个国际互联网轰动最终都令人印象深刻，但最令人着迷的是它背后的“ *why* ”是什么让它成为如此大的轰动。
 
-[](https://www.nytimes.com/2022/01/03/technology/wordle-word-game-creator.html?referringSource=articleShare) [## 《沃尔多》是一个爱情故事
-
-### 文字游戏几个月就从几十人到几十万人。它是由一个软件创建的…
-
-www.nytimes.com](https://www.nytimes.com/2022/01/03/technology/wordle-word-game-creator.html?referringSource=articleShare) 
+[](https://www.nytimes.com/2022/01/03/technology/wordle-word-game-creator.html?referringSource=articleShare)  
 
 在上面链接的《纽约时报》文章中，你可以读到更多关于沃德尔本人和游戏起源的故事。在阅读这篇文章时，一个问题出现在我脑海中:为什么这个已经以各种形式存在了几十年的游戏会在短短几周内变得比新冠肺炎病毒传播得更快(好吧……不好的比较，对不起)？
 
@@ -167,10 +163,6 @@ df.query("guess not in @duplicates")
 
 **代码库**:
 
-[](https://github.com/sejaldua/wordle-analysis) [## GitHub-sejaldua/wordle-analysis:分析 Wordle 上最具战略意义的单词，基于…
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/sejaldua/wordle-analysis) 
+[](https://github.com/sejaldua/wordle-analysis)  
 
 如果你喜欢这篇文章，请随时查看我的其他[作品集](https://sejaldua.com)作品和/或在 [LinkedIn](https://github.com/sejaldua/wordle-analysis) 上与我联系！

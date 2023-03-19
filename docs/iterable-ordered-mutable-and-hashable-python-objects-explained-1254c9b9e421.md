@@ -302,16 +302,4 @@ False
 
 **你会发现这些文章也很有趣:**
 
-[](/16-underrated-pandas-series-methods-and-when-to-use-them-c696e17fbaa4) [## 16 种被低估的熊猫系列方法以及何时使用它们
-
-### Hasnans、pct_change、is_monotonic、repeat 以及许多其他
-
-towardsdatascience.com](/16-underrated-pandas-series-methods-and-when-to-use-them-c696e17fbaa4) [](https://levelup.gitconnected.com/when-a-python-gotcha-leads-to-wrong-results-2447f379fdfe) [## 当 Python 陷阱导致错误结果时
-
-### 一个奇怪的难以调试的带有舍入数字的 Python 故障
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/when-a-python-gotcha-leads-to-wrong-results-2447f379fdfe) [](https://medium.com/geekculture/creating-toyplots-in-python-49de0bb27ec1) [## 在 Python 🧸中创建玩具图
-
-### 高质量的极简交互式可视化，非常适合电子出版
-
-medium.com](https://medium.com/geekculture/creating-toyplots-in-python-49de0bb27ec1)
+[](/16-underrated-pandas-series-methods-and-when-to-use-them-c696e17fbaa4)  [](https://levelup.gitconnected.com/when-a-python-gotcha-leads-to-wrong-results-2447f379fdfe)  [](https://medium.com/geekculture/creating-toyplots-in-python-49de0bb27ec1) 

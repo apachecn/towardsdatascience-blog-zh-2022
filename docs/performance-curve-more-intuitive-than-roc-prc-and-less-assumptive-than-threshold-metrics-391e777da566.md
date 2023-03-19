@@ -116,12 +116,4 @@
 
 **如果您喜欢这篇文章，您可能也会喜欢:**
 
-[](/precision-recall-curve-is-more-informative-than-roc-in-imbalanced-data-4c95250242f6) [## 在不平衡数据中，精确召回曲线比 ROC 更能提供信息
-
-### 当负类更普遍，真-负预测值低时，精确-回忆曲线…
-
-towardsdatascience.com](/precision-recall-curve-is-more-informative-than-roc-in-imbalanced-data-4c95250242f6) [](/the-wrong-and-right-way-to-approximate-area-under-precision-recall-curve-auprc-8fd9ca409064) [## 精确召回曲线下面积的正确与错误
-
-### 总结 AUPRC 的方法有很多，但并不是所有的方法都有相同的优点
-
-towardsdatascience.com](/the-wrong-and-right-way-to-approximate-area-under-precision-recall-curve-auprc-8fd9ca409064)
+[](/precision-recall-curve-is-more-informative-than-roc-in-imbalanced-data-4c95250242f6)  [](/the-wrong-and-right-way-to-approximate-area-under-precision-recall-curve-auprc-8fd9ca409064) 

@@ -48,16 +48,4 @@
 
 谷歌提出的这个模型是一系列趋势的最新一个，证明了通过使用超级计算机(由数千个加速器组成)扩展它们，它们的性能可以在各种自然语言处理、推理和代码任务中得到改善。此外，随着这一研究领域的快速交叉授粉，未来似乎很快就会到来。这种迅速引发了另一场急需解决的关键辩论，这场辩论与我们正在创造的伟大语言模型相关的[道德和社会风险有关。但是我们把这个留给另一篇文章。](https://arxiv.org/pdf/2112.04359.pdf)
 
-[](https://torres-ai.medium.com/how-to-take-advantage-of-the-new-disruptive-ai-technology-called-transformers-9e57a26506cb) [## 如何利用新的颠覆性人工智能技术“变形金刚”
-
-### 变压器神经网络正在动摇人工智能
-
-torres-ai.medium.com](https://torres-ai.medium.com/how-to-take-advantage-of-the-new-disruptive-ai-technology-called-transformers-9e57a26506cb) [](https://torres-ai.medium.com/transformers-the-new-gem-of-deep-learning-d0ae04bc4a75) [## 变形金刚:“深度学习”的新宝石
-
-### 近年来，变形金刚在自然语言处理方面经历了快速的进步
-
-torres-ai.medium.com](https://torres-ai.medium.com/transformers-the-new-gem-of-deep-learning-d0ae04bc4a75) [](https://torres-ai.medium.com/transfer-learning-the-democratization-of-transformers-1d2493b14883) [## 迁移学习:变形金刚的民主化
-
-### 拥抱脸库让变形金刚人人买得起
-
-torres-ai.medium.com](https://torres-ai.medium.com/transfer-learning-the-democratization-of-transformers-1d2493b14883)
+[](https://torres-ai.medium.com/how-to-take-advantage-of-the-new-disruptive-ai-technology-called-transformers-9e57a26506cb)  [](https://torres-ai.medium.com/transformers-the-new-gem-of-deep-learning-d0ae04bc4a75)  [](https://torres-ai.medium.com/transfer-learning-the-democratization-of-transformers-1d2493b14883) 

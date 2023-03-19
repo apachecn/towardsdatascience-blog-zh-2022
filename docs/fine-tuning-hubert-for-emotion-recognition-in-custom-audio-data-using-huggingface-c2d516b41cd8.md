@@ -24,11 +24,7 @@
 
 如果你想跟随这个教程，这里有 GitHub repo。
 
-[](https://github.com/V-Sher/Audio-Classification-HF/tree/main/src) [## GitHub—V-Sher/Audio-Classification-HF at 主音频情感识别使用 HuggingFace 库
-
-### 基于人脸库的音频情感识别——音频分类——HF/src 主…
-
-github.com](https://github.com/V-Sher/Audio-Classification-HF/tree/main/src) 
+[](https://github.com/V-Sher/Audio-Classification-HF/tree/main/src)  
 
 # 拥抱脸库和教练 API
 
@@ -446,20 +442,4 @@ metrics={'test_loss': 1.780486822128296, 'test_accuracy': 0.0, 'test_runtime': 1
 
 *我喜欢写循序渐进的初学者指南、操作指南、ML/AI 中使用的解码术语等。如果你想完全访问我的所有文章(以及其他媒体上的文章)，那么你可以使用 [***我的链接***](https://varshitasher.medium.com/membership)**这里* ***注册。*****
 
-**[](/step-by-step-guide-to-explaining-your-ml-project-during-a-data-science-interview-81dfaaa408bf) [## 在数据科学面试中解释你的 ML 项目的逐步指南。
-
-### 在结尾有一个额外的样本脚本，让你谨慎地展示你的技术技能！
-
-towardsdatascience.com](/step-by-step-guide-to-explaining-your-ml-project-during-a-data-science-interview-81dfaaa408bf) [](/time-series-modeling-using-scikit-pandas-and-numpy-682e3b8db8d1) [## 使用 Scikit、Pandas 和 Numpy 进行时间序列建模
-
-### 直观地利用季节性来提高模型准确性。
-
-towardsdatascience.com](/time-series-modeling-using-scikit-pandas-and-numpy-682e3b8db8d1) [](/hands-on-introduction-to-github-actions-for-data-scientists-f422631c9ea7) [## 面向数据科学家的 Github 操作实践介绍
-
-### 了解如何通过权重和偏差、单元测试、工件创建等实现自动化实验跟踪…
-
-towardsdatascience.com](/hands-on-introduction-to-github-actions-for-data-scientists-f422631c9ea7) [](/deploying-an-end-to-end-deep-learning-project-with-few-clicks-part-2-89009cff6f16) [## 通过几次点击部署端到端深度学习项目:第 2 部分
-
-### 从 Jupyter 笔记本到 Flask 应用程序采用模型，使用 Postman 和 Heroku 部署测试 API 端点
-
-towardsdatascience.com](/deploying-an-end-to-end-deep-learning-project-with-few-clicks-part-2-89009cff6f16)**
+**[](/step-by-step-guide-to-explaining-your-ml-project-during-a-data-science-interview-81dfaaa408bf)  [](/time-series-modeling-using-scikit-pandas-and-numpy-682e3b8db8d1)  [](/hands-on-introduction-to-github-actions-for-data-scientists-f422631c9ea7)  [](/deploying-an-end-to-end-deep-learning-project-with-few-clicks-part-2-89009cff6f16) **

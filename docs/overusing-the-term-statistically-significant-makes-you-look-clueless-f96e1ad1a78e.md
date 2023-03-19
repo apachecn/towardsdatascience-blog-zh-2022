@@ -28,11 +28,7 @@
 
 想象你有一个制作蓝丝带的朋友。你的朋友碰巧也是一位熟练的[决策者](http://bit.ly/quaesita_di)，他知道如何使用经典假设检验框架，我已经在这里[为需要复习的人](http://bit.ly/quaesita_damnedlies)解释了这个框架。我假设您知道什么是*默认操作*以及该流程如何工作。如果你不知道，我建议你在继续之前绕一个小弯:
 
-[](/hypothesis-testing-decoded-for-movers-and-shakers-bfc2bc34da41) [## 永远不要从假设开始
-
-### 谎言，该死的谎言，还有 STAT101
-
-towardsdatascience.com](/hypothesis-testing-decoded-for-movers-and-shakers-bfc2bc34da41) 
+[](/hypothesis-testing-decoded-for-movers-and-shakers-bfc2bc34da41)  
 
 现在，让我们应用这个框架，让您体验一下推理的过程。
 
@@ -72,11 +68,7 @@ towardsdatascience.com](/hypothesis-testing-decoded-for-movers-and-shakers-bfc2b
 
 *不过，有时候，特定的个人惊讶到足以改变他们对某些事情的想法，这一事实对我们其他人来说可能是重要的消息。例如，你可能会认为发表在医学杂志上的一项结果*很重要*，因为撰写该结果的科学家改变了他们对药物如何起作用的看法。当然，你不知道他们在他们的实验室里到底做了什么(即使他们在论文中为你做了总结，你仍然缺乏一些背景知识...如果你不是专家，你不会探究他们做出的[假设](http://bit.ly/quaesita_saddest)的细微差别，但是如果[选择信任他们](http://bit.ly/quaesita_scientists)，你可能会对他们*认为重要和令人惊讶的事情感兴趣。然而，发现 ***真的是*** 吗？不幸的是，如果你只有一个总结，你唯一能做的结论就是:*“我信任的人被说服了，所以我被说服了。”如果你不打算自己做研究，你所能做的就是相信你选择的专家，鹦鹉学舌他们的结论，或者在生活中随波逐流，尽力避免对任何事情形成看法。但是我跑题了——如果你想了解更多这方面的推理，你可以在这里找到:***
 
-*[](https://kozyrkov.medium.com/why-do-we-trust-scientists-98c24e3b9f0e) [## 我们为什么信任科学家？
-
-### 现在是时候重新思考我们对事实和虚构的假设了
-
-kozyrkov.medium.com](https://kozyrkov.medium.com/why-do-we-trust-scientists-98c24e3b9f0e) 
+*[](https://kozyrkov.medium.com/why-do-we-trust-scientists-98c24e3b9f0e)  
 
 让我们回到蓝丝带上，好吗？
 
@@ -137,8 +129,4 @@ Fiona Murray 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=re
 
 更多信息请点击此处:
 
-[](/fooled-by-statistical-significance-7fed1bc2caf9) [## 被统计意义所迷惑
-
-### 不要让诗人欺骗你
-
-towardsdatascience.com](/fooled-by-statistical-significance-7fed1bc2caf9)*
+[](/fooled-by-statistical-significance-7fed1bc2caf9) *

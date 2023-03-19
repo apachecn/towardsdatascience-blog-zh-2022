@@ -14,11 +14,7 @@
 
 人工智能先驱之一， [Rana el Kaliouby](https://en.wikipedia.org/wiki/Rana_el_Kaliouby) (一位 AI 思想领袖。机器学习科学家。Smart Eye 的副首席执行官、 [Affectiva](https://www.affectiva.com/) 的前联合创始人兼首席执行官)正确地表示，“人工智能正在社会中扮演许多新角色——成为我们的同事，在我们的家中充当虚拟助理，操作我们的汽车，等等”。
 
-[](https://blog.re-work.co/interview-with-rana-el-kaliouby-ceo-affectiva/) [## Affectiva 首席执行官拉纳·埃尔·卡利欧比访谈
-
-### 人工智能正在迅速成为主流，根植于我们的生活结构中，代表我们的利益行事…
-
-blog.re-work.co](https://blog.re-work.co/interview-with-rana-el-kaliouby-ceo-affectiva/) 
+[](https://blog.re-work.co/interview-with-rana-el-kaliouby-ceo-affectiva/)  
 
 虽然电网是地球上最复杂的机器之一，但它在不断变化的世界中发展迅速，而各种可再生能源的增加使其更加复杂。值得注意的是，由于众所周知的风能和太阳能固有的可变性，目前的电网在适应可再生能源的多样性方面面临许多挑战。
 
@@ -56,11 +52,7 @@ blog.re-work.co](https://blog.re-work.co/interview-with-rana-el-kaliouby-ceo-aff
 
 但在能源领域，它仍有很长的路要走。与许多其他行业相比，在电力行业，我们可以利用增强智能来扩展人类的能力，并完成人类或机器无法独自完成的事情。我们今天面临的一些挑战来自于过量的信息。更快的通信、分布式计算和物联网(IoT)导致了(指数级增长的)海量数据的产生，而物联网本身和社交网络鼓励了大部分数据的非结构化。数据太多，人类专家无法跟上所有的变化和进步。
 
-[](/no-fast-enough-energy-transition-without-intelligent-energy-storage-72cfbd3c096b) [## 没有智能储能，就没有快速(足够)的能量转换！
-
-### 人工智能和储能 fast 需要强耦合，以便与可再生能源实现高效过渡，从而对抗狂暴的…
-
-towardsdatascience.com](/no-fast-enough-energy-transition-without-intelligent-energy-storage-72cfbd3c096b) 
+[](/no-fast-enough-energy-transition-without-intelligent-energy-storage-72cfbd3c096b)  
 
 **增强智能**
 
@@ -110,19 +102,11 @@ AI 擅长什么，不擅长什么？答案往往归结于数据。人工智能�
 
 RMI 及其合作伙伴表示，设计良好的金融机制可以支持从煤炭到清洁能源的公平过渡。
 
-[](https://zephyrnet.com/new-initiative-unveiled-to-expedite-transition-of-coal-plants-globally/) [## 推出新举措加快全球煤电厂转型...
-
-### 马绍尔群岛和合作伙伴说，设计良好的金融机制可以支持从煤炭到清洁能源的公平过渡…
-
-zephyrnet.com](https://zephyrnet.com/new-initiative-unveiled-to-expedite-transition-of-coal-plants-globally/) 
+[](https://zephyrnet.com/new-initiative-unveiled-to-expedite-transition-of-coal-plants-globally/)  
 
 2019 年，马绍尔群岛已经在展示他们通过各种采购途径购买了近 6.5 千兆瓦(GW)的可再生能源。
 
-[](https://rmi.org/press-release/new-facebook-google-gm-and-walmart-led-renewables-group-launched/) [## 新的脸书，谷歌，通用汽车和沃尔玛为首的工业集团推出，目标是 60 千兆瓦…
-
-### 华盛顿 DC，2019 年 3 月 28 日-谷歌，脸书，通用汽车和沃尔玛，以及其他 300 多家公司…
-
-rmi.org](https://rmi.org/press-release/new-facebook-google-gm-and-walmart-led-renewables-group-launched/) 
+[](https://rmi.org/press-release/new-facebook-google-gm-and-walmart-led-renewables-group-launched/)  
 
 拯救地球从未如此有利可图；这是该行业成熟的又一标志。因此，对话现在转向人工智能将如何帮助传统能源、可再生能源和储能改善电网，以满足(目前)未来的需求。
 
@@ -140,11 +124,7 @@ rmi.org](https://rmi.org/press-release/new-facebook-google-gm-and-walmart-led-re
 
 例如，人工智能驱动的预测分析可以从风力涡轮机传感器收集数据，以监控磨损。该系统将监控设备的整体健康状况，并在需要维护时提醒操作员。
 
-[](/artificial-intelligence-our-best-friend-in-a-stressed-if-not-devasted-power-grid-3e9303d6d9ae) [## 人工智能，我们在紧张的电网中最好的朋友
-
-### 人工智能和其他转换技术，必须与不断增长的分布式能源资源(DERs
-
-towardsdatascience.com](/artificial-intelligence-our-best-friend-in-a-stressed-if-not-devasted-power-grid-3e9303d6d9ae) 
+[](/artificial-intelligence-our-best-friend-in-a-stressed-if-not-devasted-power-grid-3e9303d6d9ae)  
 
 人工智能的集成可以通过引入新的服务模式和鼓励更高的参与度来帮助可再生能源供应商扩大市场。人工智能驱动的系统将能够分析与能源收集相关的数据，并提供对能源消耗的见解。
 
@@ -170,16 +150,4 @@ Josep Castells 在 [Unsplash](https://unsplash.com/s/photos/storms?utm_source=un
 
 您可以在此找到其他文章:
 
-[](/the-combo-effect-against-the-butterfly-effect-bf7dd7a507a0) [## 组合效应对抗蝴蝶效应
-
-### 人工智能促进储能，为可再生能源提供弹性和效率…
-
-towardsdatascience.com](/the-combo-effect-against-the-butterfly-effect-bf7dd7a507a0) [](/artificial-intelligence-in-a-no-choice-but-to-get-it-smart-energy-industry-1bd1396a87f8) [## 人工智能在一个“别无选择，只能让它聪明”的能源行业！
-
-### 可再生能源的繁荣对电力部门来说是一个很好的机会&用聪明的方式对抗气候变化…
-
-towardsdatascience.com](/artificial-intelligence-in-a-no-choice-but-to-get-it-smart-energy-industry-1bd1396a87f8) [](/could-cryptocurrencies-initiate-a-new-transition-to-green-energy-f18c033dbff9) [## 加密货币会引发向绿色能源的新转变吗？
-
-### 比特币、以太和其他加密货币很可能会引发一场有利于可再生能源的变革。
-
-towardsdatascience.com](/could-cryptocurrencies-initiate-a-new-transition-to-green-energy-f18c033dbff9)
+[](/the-combo-effect-against-the-butterfly-effect-bf7dd7a507a0)  [](/artificial-intelligence-in-a-no-choice-but-to-get-it-smart-energy-industry-1bd1396a87f8)  [](/could-cryptocurrencies-initiate-a-new-transition-to-green-energy-f18c033dbff9) 

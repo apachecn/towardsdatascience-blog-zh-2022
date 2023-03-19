@@ -275,10 +275,6 @@ sns.barplot(x_axis, y_axis)
 
 请注意，这种方法可能不是绘图的常规方法。其中一个问题可能是可扩展性，因为我们需要生成许多单独的文件作为帧，然后才能获得 GIF。
 
-[](https://medium.com/@qiuyujx/membership) [## 通过我的推荐链接加入灵媒-陶
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@qiuyujx/membership) 
+[](https://medium.com/@qiuyujx/membership)  
 
 如果你觉得我的文章有帮助，请考虑加入 Medium 会员来支持我和成千上万的其他作者！(点击上面的链接)

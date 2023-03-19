@@ -22,11 +22,7 @@
 
 PCA 是一种数学变换，它将数据点从其当前维度投影到称为分量的点向量。每个组成部分的目标都是理解真实数据的最大差异，尽可能减少信息损失。
 
-[](/pca-beyond-the-dimensionality-reduction-e352eb0bdf52) [## 主成分分析:超越降维
-
-### 了解如何使用 PCA 算法来寻找一起变化的变量
-
-towardsdatascience.com](/pca-beyond-the-dimensionality-reduction-e352eb0bdf52) 
+[](/pca-beyond-the-dimensionality-reduction-e352eb0bdf52)  
 
 # 运行 PCA
 
@@ -117,24 +113,12 @@ plt.title('Principal Components with 95% data variance', size=15);
 
 如果你喜欢这个内容，关注我的博客或者在 [LinkedIn](https://www.linkedin.com/in/gurezende/) 找到我。
 
-[](http://gustavorsantos.medium.com/) [## 古斯塔沃·桑托斯-中等
-
-### 阅读古斯塔夫·桑托斯在媒介上的作品。数据科学家。我从数据中提取见解，以帮助个人和公司…
-
-gustavorsantos.medium.com](http://gustavorsantos.medium.com/) 
+[](http://gustavorsantos.medium.com/)  
 
 Git Hub 代码:[https://github . com/gure zende/studining/blob/master/Python/sk learn/PCA _ Python . ipynb](https://github.com/gurezende/Studying/blob/master/Python/sklearn/PCA_Python.ipynb)
 
 # 参考
 
-[](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html) [## sklearn.decomposition.PCA
-
-### 主成分分析。使用数据的奇异值分解进行线性降维…
-
-scikit-learn.org](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html) [](https://medium.com/@monishatemp20/principal-component-analysis-pca-1c285cce3c26) [## 主成分分析
-
-### 主成分分析
-
-主成分分析 medium.com](https://medium.com/@monishatemp20/principal-component-analysis-pca-1c285cce3c26) 
+[](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html)  [](https://medium.com/@monishatemp20/principal-component-analysis-pca-1c285cce3c26)  
 
 Aurélien Géron，2019。 [*用 Scikit-Learn 动手机器学习，Keras & TensorFlow*](https://tinyurl.com/2s3tsh9x) 。第二版，奥赖利。

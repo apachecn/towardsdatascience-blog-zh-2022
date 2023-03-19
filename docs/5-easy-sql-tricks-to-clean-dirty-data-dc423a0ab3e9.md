@@ -153,11 +153,7 @@ FROM Dummy_Sales_Data_v1
 
 你可以从我的最新文章——[**2022 年你应该知道的 5 个高级 SQL 概念**](/5-advanced-sql-concepts-you-should-know-in-2022-b50efe6c99#2f01) **中更深入地洞察`CASE`的说法。**
 
-[](/5-advanced-sql-concepts-you-should-know-in-2022-b50efe6c99) [## 2022 年你应该知道的 5 个高级 SQL 概念
-
-### 立即掌握这些节省时间的高级 SQL 查询。
-
-towardsdatascience.com](/5-advanced-sql-concepts-you-should-know-in-2022-b50efe6c99) 
+[](/5-advanced-sql-concepts-you-should-know-in-2022-b50efe6c99)  
 
 让我们看看，如何使用它将值存储到存储箱中。
 
@@ -267,11 +263,7 @@ FROM Dummy_Sales_Data_v1*
 
 > *[微软 SQL Server 数据类型转换图](https://www.microsoft.com/en-us/download/details.aspx?id=35834)*
 
-*[](https://www.microsoft.com/en-us/download/details.aspx?id=35834) [## SQL Server 数据类型图表
-
-### 阐释了 SQL Server 系统提供的数据类型所允许的所有显式和隐式数据类型转换。
-
-www.microsoft.com](https://www.microsoft.com/en-us/download/details.aspx?id=35834) 
+*[](https://www.microsoft.com/en-us/download/details.aspx?id=35834)  
 
 仅此而已！🏆* 
 

@@ -77,19 +77,11 @@ SHAP 值不能用于因果推断。这是找到事件/目标的真正原因的�
 
 我们从总体上审视了 SHAP 的局限性。不同的近似方法有其特定的局限性。比如 KernelSHAP 就慢。TreeSHAP 更快，但它不是模型不可知的。我们将在下面的文章中讨论这些和其他考虑事项。
 
-[](/kernelshap-vs-treeshap-e00f3b3a27db) [## KernelSHAP vs TreeSHAP
-
-### 基于速度、复杂性和其他考虑因素比较 SHAP 近似方法
-
-towardsdatascience.com](/kernelshap-vs-treeshap-e00f3b3a27db) 
+[](/kernelshap-vs-treeshap-e00f3b3a27db)  
 
 支持我成为我的 [**推荐会员**](https://conorosullyds.medium.com/membership) **:)**
 
-[](https://conorosullyds.medium.com/membership) [## 通过我的推荐链接加入 Medium 康纳·奥沙利文
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-conorosullyds.medium.com](https://conorosullyds.medium.com/membership) 
+[](https://conorosullyds.medium.com/membership)  
 
 |[Twitter](https://twitter.com/conorosullyDS)|[YouTube](https://www.youtube.com/channel/UChsoWqJbEjBwrn00Zvghi4w)|[时事通讯](https://mailchi.mp/aa82a5ce1dc0/signup) —注册免费参加 [Python SHAP 课程](https://adataodyssey.com/courses/shap-with-python/)
 

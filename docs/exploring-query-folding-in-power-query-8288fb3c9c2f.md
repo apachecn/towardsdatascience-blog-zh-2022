@@ -287,8 +287,4 @@ RunSQL
 
 或者，您可以使用 SQLBI 的工具 [Contoso 数据生成器](https://www.sqlbi.com/tools/contoso-data-generator/)来生成 Contoso 数据集的副本。
 
-[](https://medium.com/@salvatorecagliari/membership) [## 通过我的推荐链接加入 Medium-Salvatore Cagliari
-
-### 阅读萨尔瓦托勒·卡利亚里的每一个故事(以及媒体上成千上万的其他作家)。您的会员费直接…
-
-medium.com](https://medium.com/@salvatorecagliari/membership)
+[](https://medium.com/@salvatorecagliari/membership) 

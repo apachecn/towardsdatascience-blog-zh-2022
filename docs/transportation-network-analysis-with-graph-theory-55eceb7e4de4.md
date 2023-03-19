@@ -95,11 +95,7 @@
 
 **(作者视频)**
 
-**[](http://samirsaci.com) [## Samir Saci
-
-### 数据科学博客，专注于仓储、运输、数据可视化和机器人过程自动化以及…
-
-samirsaci.com](http://samirsaci.com)** 
+**[](http://samirsaci.com) ** 
 
 # **二.问题陈述**
 
@@ -139,11 +135,7 @@ T31**上海**及周边省份**江苏**为大部分出货量。****
 ****每车规模路线数**
 除**1 月**外**农历新年**前的旺季，大部分路线均采用小型货车交付。**
 
-**[](http://samirsaci.com) [## Samir Saci
-
-### 数据科学博客，专注于仓储、运输、数据可视化和机器人过程自动化以及…
-
-samirsaci.com](http://samirsaci.com)** 
+**[](http://samirsaci.com) ** 
 
 # **三.使用图形可视化的解决方案**
 
@@ -232,11 +224,7 @@ samirsaci.com](http://samirsaci.com)**
 
 **对于最佳场景*(左)*，商店高度互联*(最多 4 个连接)*。另一个网络**高度分散**与之形成鲜明对比。**
 
-**[](http://samirsaci.com) [## 萨米尔·萨奇
-
-### 数据科学博客，专注于仓储，运输，数据可视化和机器人流程自动化…
-
-samirsaci.com](http://samirsaci.com)** 
+**[](http://samirsaci.com) ** 
 
 # **四。结论和后续步骤**
 
@@ -258,11 +246,7 @@ samirsaci.com](http://samirsaci.com)**
 
 **如果你对数据分析和供应链感兴趣，可以看看我的网站**
 
-**[](https://samirsaci.com) [## Samir Saci |数据科学与生产力
-
-### 专注于数据科学、个人生产力、自动化、运筹学和可持续发展的技术博客
-
-samirsaci.com](https://samirsaci.com)** 
+**[](https://samirsaci.com) ** 
 
 # **参考**
 

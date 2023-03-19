@@ -12,11 +12,7 @@
 
 在我之前的文章中，我们讨论了 [**自相关**](https://medium.com/towards-data-science/autocorrelation-for-time-series-analysis-86e68e631f77) 的概念:
 
-[](/autocorrelation-for-time-series-analysis-86e68e631f77) [## 时间序列分析的自相关
-
-### 描述什么是自相关，为什么它在时间序列分析中有用。
-
-towardsdatascience.com](/autocorrelation-for-time-series-analysis-86e68e631f77) 
+[](/autocorrelation-for-time-series-analysis-86e68e631f77)  
 
 自相关是随机变量或数据在不同时间点(滞后)的相关性。自相关传递了不同滞后的数据的相似性，使我们能够推断出我们的时间序列的一些有趣的特征，如季节性和趋势。
 
@@ -82,11 +78,7 @@ towardsdatascience.com](/autocorrelation-for-time-series-analysis-86e68e631f77)
 
 ******这篇文章中使用的完整代码可以在我的 GitHub 中找到:******
 
-******[](https://github.com/egorhowell/Medium-Articles/blob/main/Time%20Series/Time%20Series%20Tools/partial_autocorrelation.py) [## Medium-Articles/partial _ 自相关. py at main egorhowell/Medium-Articles
-
-### 我在我的媒体博客/文章中使用的代码。通过创建一个关于…的帐户，为 egorhowell/Medium-Articles 的开发做出贡献
-
-github.com](https://github.com/egorhowell/Medium-Articles/blob/main/Time%20Series/Time%20Series%20Tools/partial_autocorrelation.py) 
+******[](https://github.com/egorhowell/Medium-Articles/blob/main/Time%20Series/Time%20Series%20Tools/partial_autocorrelation.py)  
 
 # 参考资料和进一步阅读
 

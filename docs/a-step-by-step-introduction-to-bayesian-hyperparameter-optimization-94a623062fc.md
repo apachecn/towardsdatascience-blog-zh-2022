@@ -294,15 +294,7 @@ EI 定义如下[Kra18][Jon98][Uai18][Has19]:
 
 如果你喜欢这篇文章，请随意查看我的另一篇文章，它解释了各种回归技术、异常检测方法等。：
 
-[](/7-of-the-most-commonly-used-regression-algorithms-and-how-to-choose-the-right-one-fc3c8890f9e3) [## 7 种最常用的回归算法以及如何选择正确的算法
-
-### 线性和多项式回归、RANSAC、决策树、随机森林、高斯过程和支持向量回归
-
-towardsdatascience.com](/7-of-the-most-commonly-used-regression-algorithms-and-how-to-choose-the-right-one-fc3c8890f9e3) [](/a-comprehensive-beginners-guide-to-the-diverse-field-of-anomaly-detection-8c818d153995) [## 异常检测多样化领域的初学者综合指南
-
-### 隔离森林，局部异常因子，一类 SVM，自动编码器，稳健协方差估计和时间序列…
-
-towardsdatascience.com](/a-comprehensive-beginners-guide-to-the-diverse-field-of-anomaly-detection-8c818d153995) 
+[](/7-of-the-most-commonly-used-regression-algorithms-and-how-to-choose-the-right-one-fc3c8890f9e3)  [](/a-comprehensive-beginners-guide-to-the-diverse-field-of-anomaly-detection-8c818d153995)  
 
 如果您还不是中级高级会员并打算成为会员，您可以通过以下推荐链接注册来支持我:
 

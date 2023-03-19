@@ -14,25 +14,13 @@
 
 在我最近对 GPT-3 帮助学生学习科学科目的潜力进行的测试中，我发现除了作为一种更自然地检索系统从网络上“学习”的理论概念的工具，化学和物理很少或根本没有适用性。
 
-[](/devising-tests-to-measure-gpt-3s-knowledge-of-the-basic-sciences-4bbfcde8286b) [## 设计测试来衡量 GPT-3 的基础科学知识
-
-### 学生可以从 OpenAI 的最新语言模型中学习并将其用作全天候顾问吗？学生可以用它来…
-
-towardsdatascience.com](/devising-tests-to-measure-gpt-3s-knowledge-of-the-basic-sciences-4bbfcde8286b) [](/testing-gpt-3-on-elementary-physics-unveils-some-important-problems-9d2a2e120280) [## 在基础物理上测试 GPT-3 揭示了一些重要的问题
-
-### 该软件似乎是可靠的咨询理论概念，但不是他们的应用，与潜在的…
-
-towardsdatascience.com](/testing-gpt-3-on-elementary-physics-unveils-some-important-problems-9d2a2e120280) 
+[](/devising-tests-to-measure-gpt-3s-knowledge-of-the-basic-sciences-4bbfcde8286b)  [](/testing-gpt-3-on-elementary-physics-unveils-some-important-problems-9d2a2e120280)  
 
 生物学，至少在高中和大学早期阶段，是高度描述性的，因此可能是 GPT-3 和其他 NLP 模型的潜在应用领域。在这篇文章中，我通过遵循我以前文章中相同的过程，探索了这一点:我在 OpenAI 的操场上拿着 GPT-3 的达芬奇模型，就好像它是一个学生一样，我通过考试般的聊天对它进行了一系列概念的评估。
 
 当然，GPT-3 缺乏任何思考能力，但我在下面的文章中认为，它仍然有可能通过自然语言作为信息检索的高级资源:
 
- [## 关于 GPT-3 及其(显然无效的)“思考”能力的说明
-
-### 在我最近的文章中，有一些关于 GPT-3 的能力的说明，尽管令人印象深刻，但并不…
-
-towardsdatascience.com](/a-note-on-gpt-3-and-its-obviously-null-thinking-capabilities-de84a26ac0f3) 
+  
 
 # 主要检查
 

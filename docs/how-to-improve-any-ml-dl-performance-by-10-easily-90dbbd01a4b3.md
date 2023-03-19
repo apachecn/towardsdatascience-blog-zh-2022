@@ -182,30 +182,14 @@ params = {"batch_size": 32, "hidden_size1": 128, "hidden_size2": 256, "lr": 0.04
 
 如果你想了解更多关于应用数据科学的知识，这里是我的新 YouTube 频道— [AI Academy with Friends](https://www.youtube.com/channel/UCvlF0PPaQ2GAuqYKJT4UpJQ)
 
-[](https://www.youtube.com/channel/UCvlF0PPaQ2GAuqYKJT4UpJQ) [## 和朋友一起的 AI 学院
-
-### 与朋友、家人和全世界分享您的视频
-
-www.youtube.com](https://www.youtube.com/channel/UCvlF0PPaQ2GAuqYKJT4UpJQ) 
+[](https://www.youtube.com/channel/UCvlF0PPaQ2GAuqYKJT4UpJQ)  
 
 > 感谢您的阅读。我希望这篇文章对你有帮助。
 > 
 > 如果你想看我即将发布的关于**黑盒模型解释**和更多内容的帖子，*你可以关注我的* [*中的*](https://medium.com/@gkeretchashvili) *来保持更新。*
 
-[](https://medium.com/@gkeretchashvili) [## gurami keretcashvili-培养基
-
-### 阅读 Gurami Keretchashvili 在介质上的作品。数据科学家| AI 理工学院硕士研究生…
-
-medium.com](https://medium.com/@gkeretchashvili) 
+[](https://medium.com/@gkeretchashvili)  
 
 > 我以前的文章:
 
-[](/fish-weight-prediction-regression-analysis-for-beginners-part-1-8e43b0cb07e) [## 鱼重预测(初学者回归分析)——第一部分
-
-### 如何使用顶级线性 ML 算法(线性回归、套索回归和岭回归)构建 ML 回归模型
-
-towardsdatascience.com](/fish-weight-prediction-regression-analysis-for-beginners-part-1-8e43b0cb07e) [](/regression-analysis-for-beginners-using-tree-based-methods-2b65bd193a7) [## 初学者回归分析—第二部分
-
-### 使用基于树的算法(决策树、随机森林、XGboost)构建 ML 回归模型
-
-towardsdatascience.com](/regression-analysis-for-beginners-using-tree-based-methods-2b65bd193a7)
+[](/fish-weight-prediction-regression-analysis-for-beginners-part-1-8e43b0cb07e)  [](/regression-analysis-for-beginners-using-tree-based-methods-2b65bd193a7) 

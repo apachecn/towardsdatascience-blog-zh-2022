@@ -38,11 +38,7 @@
 
 与每个 synset 的 10 个图像一起，保存一个文本文件，该文件包含所使用的提示、synset 的名称(例如“dog.n.01”)和 wordnet 编号(例如“n12345678”)。唱片可以从 Kaggle 下载。
 
-[](https://www.kaggle.com/datasets/astoeckl/stable-diffusion-wordnet-dataset) [## 稳定扩散 Wordnet 数据集
-
-### 评估用稳定扩散生成的合成图像数据集](https://www.kaggle.com/datasets/astoeckl/stable-diffusion-wordnet-dataset) 
-
-许可:知识共享——[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)引用:【https://arxiv.org/abs/2211.01777】T2
+[](https://www.kaggle.com/datasets/astoeckl/stable-diffusion-wordnet-dataset) 引用:【https://arxiv.org/abs/2211.01777】T2
 
 ## 数据评估
 
@@ -98,10 +94,6 @@ lexica——作者截图
 
 中提供并描述了一个包含 200 万幅图像的大型数据库，该数据库也可以下载并作为开放源代码使用
 
-[](https://poloclub.github.io/diffusiondb/) [## 主页
-
-### 扩散数据库是第一个大规模的文本到图像的提示数据集。它包含由 Stable 生成的 200 万张图像…
-
-poloclub.github.io](https://poloclub.github.io/diffusiondb/) 
+[](https://poloclub.github.io/diffusiondb/)  
 
 除了图像，“扩散数据库”数据集还包含用于生成每个图像的文本提示。作者通过抓取 Stable Diffusion 的 Discord 服务器并提取包括提示在内的图像来创建数据集合。

@@ -283,8 +283,4 @@
 
 我也很想听到关于这项工作和未来可能发展的不同想法，所以请随意评论，如果你想看其他实验，请关注我:)。
 
-[](https://medium.com/@egonferri) [## 埃贡费里培养基
-
-### 如何使用 Python、OpenCV 和 Tesseract OCR 从模因中提取文本
-
-medium.com](https://medium.com/@egonferri)
+[](https://medium.com/@egonferri) 

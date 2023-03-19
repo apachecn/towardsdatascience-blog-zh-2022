@@ -133,11 +133,7 @@ airflow_on_coiled()
 *   JSON-to-Parquet 转换 DAG 示例要求您将 Airflow 连接到亚马逊 S3。您可以在气流文件[中找到操作说明，点击](https://airflow.apache.org/docs/apache-airflow-providers-amazon/stable/connections/aws.html)。您还需要使用`storage_options`关键字参数将您的 AWS 秘密传递给`to_parquet()`调用。
 *   XGBoost DAG 示例仅适用于> 20GB ARCOS 数据集的约 250MB 子集。要在整个数据集上运行它，请查看本教程。
 
-[](https://coiled.io/blog/common-dask-mistakes/) [## 使用 Dask 时要避免的常见错误
-
-### 第一次使用 Dask 可能是一个陡峭的学习曲线。经过多年的建设 Dask 和引导人们通过…
-
-coiled.io](https://coiled.io/blog/common-dask-mistakes/) 
+[](https://coiled.io/blog/common-dask-mistakes/)  
 
 # 使用 DaskExecutor 运行所有气流 ETL 任务
 

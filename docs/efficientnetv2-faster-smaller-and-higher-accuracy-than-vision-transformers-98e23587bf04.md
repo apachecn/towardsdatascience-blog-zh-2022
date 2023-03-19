@@ -71,11 +71,7 @@ EfficientNets 是目前最强大的卷积神经网络(CNN)模型之一。随着�
 
 我已经写了一篇关于 EfficientNet 版本 1 的文章。要详细了解这个版本，请点击下面的链接—
 
-[](https://medium.com/mlearning-ai/understanding-efficientnet-the-most-powerful-cnn-architecture-eaeb40386fad) [## 了解高效网络——最强大的 CNN 架构
-
-### 了解目前最好和最有效的 CNN 模型 EfficientNet
-
-medium.com](https://medium.com/mlearning-ai/understanding-efficientnet-the-most-powerful-cnn-architecture-eaeb40386fad) 
+[](https://medium.com/mlearning-ai/understanding-efficientnet-the-most-powerful-cnn-architecture-eaeb40386fad)  
 
 # 2.高效网络 V2
 

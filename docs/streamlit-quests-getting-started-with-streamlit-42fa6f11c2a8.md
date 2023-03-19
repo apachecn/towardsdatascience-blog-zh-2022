@@ -184,8 +184,4 @@ Streamlit 博客(可在`[https://blog.streamlit.io](https://blog.streamlit.io/)`
 
 *最初发表于*[*https://blog.streamlit.io/*](https://blog.streamlit.io/streamlit-quests-getting-started-with-streamlit/)T22*2022 年 11 月 18 日。*
 
-[](https://data-professor.medium.com/membership) [## 通过我的推荐链接加入媒体
-
-### 如果你觉得这篇文章有帮助，成为一个媒体成员来支持我作为一个作家。它每月花费 5 美元，并给予…
-
-data-professor.medium.com](https://data-professor.medium.com/membership)
+[](https://data-professor.medium.com/membership) 

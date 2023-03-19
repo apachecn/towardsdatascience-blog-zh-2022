@@ -34,11 +34,7 @@
 
 正如你所看到的，从家庭关系到皇室职责和忠诚，有很多关于角色的信息。我制作了一个 CSV 文件，以便更容易地构建一个图表，而不必每次都去浏览网站。在导入数据时，我注意到需要几个数据清理步骤，所以我发布了一个 Jupyter 笔记本，专门用于将数据集导入和清理到 Neo4j 中。
 
-[](https://github.com/tomasonjo/blogs/blob/master/ice%26fire/Ice%26Fire_import.ipynb) [## tomasonjo 大师的博客/Ice & Fire _ import . ipynb/博客
-
-### Jupyter 笔记本支持我在 https://bratanic-tomaz.medium.com/的图形数据科学博客帖子…
-
-github.com](https://github.com/tomasonjo/blogs/blob/master/ice%26fire/Ice%26Fire_import.ipynb) 
+[](https://github.com/tomasonjo/blogs/blob/master/ice%26fire/Ice%26Fire_import.ipynb)  
 
 您只需要更改 Neo4j 凭证，然后就可以运行所有的单元格来生成下面的图形模型。
 
@@ -155,11 +151,7 @@ RETURN p
 
 我已经准备了一个 Jupyter 笔记本，其中包含了 WCC 示例的所有代码。
 
-[](https://github.com/tomasonjo/blogs/blob/master/ice%26fire/Ice%26Fire_analysis.ipynb) [## tomasonjo 大师的博客/Ice & Fire _ analysis . ipynb/博客
-
-### Jupyter 笔记本支持我在 https://bratanic-tomaz.medium.com/的图形数据科学博客帖子…
-
-github.com](https://github.com/tomasonjo/blogs/blob/master/ice%26fire/Ice%26Fire_analysis.ipynb) 
+[](https://github.com/tomasonjo/blogs/blob/master/ice%26fire/Ice%26Fire_analysis.ipynb)  
 
 首先，我们需要为我们的用例设计一个包含相关节点和关系的内存图。例如，因为我们想关注家庭关系，我们将包括**角色**节点和**母亲**、**父亲**以及**配偶**关系。
 

@@ -10,11 +10,7 @@
 
 说实话，线性代数在机器学习中的作用一直困扰着我，因为我们大多是在数学背景下学习这些概念(如向量、矩阵)，而放弃它们在机器学习环境中的应用。事实上，线性代数在机器学习中有几个基本的用例，包括数据表示、维数约简和向量嵌入。从介绍线性代数中的基本概念开始，本文将构建一个如何将这些概念应用于数据表示的基本视图，例如求解线性方程组、线性回归和神经网络。但是，如果您想了解更多关于主成分分析(PCA)的线性代数，您可能会发现这篇文章更有帮助。
 
-[](/a-visual-learners-guide-to-explain-implement-and-interpret-principal-component-analysis-cc9b345b75be) [## 解释、实施和解释主成分分析的可视化学习指南
-
-### 机器学习的线性代数——协方差矩阵、特征向量和主分量
-
-towardsdatascience.com](/a-visual-learners-guide-to-explain-implement-and-interpret-principal-component-analysis-cc9b345b75be) 
+[](/a-visual-learners-guide-to-explain-implement-and-interpret-principal-component-analysis-cc9b345b75be)  
 
 *对于机器学习线性代数的视频演练，我在本文底部包含了我的 YouTube 视频。*
 
@@ -169,11 +165,7 @@ tensor = np.array([[[1,1],[2,2]],
 
 在求解线性方程系统中示出的相同原理可以被推广到机器学习中的线性回归模型。如果你想刷新你对线性回归的记忆，请查看我的文章“线性回归实用指南”。
 
-[](/a-practical-guide-to-linear-regression-3b1cb9e501a6) [## 线性回归实用指南
-
-### 从 EDA 到特征工程再到模型评估
-
-towardsdatascience.com](/a-practical-guide-to-linear-regression-3b1cb9e501a6) 
+[](/a-practical-guide-to-linear-regression-3b1cb9e501a6)  
 
 假设我们有一个包含 n 个特征和 m 个实例的数据集，我们通常将线性回归表示为这些特征的加权和。
 
@@ -239,11 +231,7 @@ towardsdatascience.com](/a-practical-guide-to-linear-regression-3b1cb9e501a6)
 
 ## 机器学习实用指南
 
-[View list](https://destingong.medium.com/list/practical-guides-to-machine-learning-a877c2a39884?source=post_page-----d193bdeed268--------------------------------)10 stories![Principal Component Analysis for ML](img/1edea120a42bd7dc8ab4a4fcdd5b822d.png)![Time Series Analysis](img/fda8795039b423777fc8e9d8c0dc0d07.png)![deep learning cheatsheet for beginner](img/b2a4e3806c454a795ddfae0b02828b30.png)[](/tensorflow-template-for-deep-learning-beginners-3b976d0ee084) [## 深度学习初学者 TensorFlow 模板
-
-### 如何建立你的第一个深度神经网络
-
-towardsdatascience.com](/tensorflow-template-for-deep-learning-beginners-3b976d0ee084) ![Destin Gong](img/dcd4375055f8aa7602b1433a60ad5ca3.png)
+[View list](https://destingong.medium.com/list/practical-guides-to-machine-learning-a877c2a39884?source=post_page-----d193bdeed268--------------------------------)10 stories![Principal Component Analysis for ML](img/1edea120a42bd7dc8ab4a4fcdd5b822d.png)![Time Series Analysis](img/fda8795039b423777fc8e9d8c0dc0d07.png)![deep learning cheatsheet for beginner](img/b2a4e3806c454a795ddfae0b02828b30.png)[](/tensorflow-template-for-deep-learning-beginners-3b976d0ee084)  ![Destin Gong](img/dcd4375055f8aa7602b1433a60ad5ca3.png)
 
 [德斯坦贡](https://destingong.medium.com/?source=post_page-----d193bdeed268--------------------------------)
 

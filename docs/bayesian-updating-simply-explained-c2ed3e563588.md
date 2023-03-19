@@ -12,11 +12,7 @@
 
 在我以前的文章中，我们从条件概率中推导出了贝叶斯定理。如果您不熟悉贝叶斯定理，我强烈建议您在阅读本文之前先阅读那篇文章:
 
-[](https://pub.towardsai.net/conditional-probability-and-bayes-theorem-simply-explained-788a6361f333) [## 条件概率和贝叶斯定理浅释
-
-### 条件概率和贝叶斯定理的简单直观的解释。
-
-pub.towardsai.net](https://pub.towardsai.net/conditional-probability-and-bayes-theorem-simply-explained-788a6361f333) 
+[](https://pub.towardsai.net/conditional-probability-and-bayes-theorem-simply-explained-788a6361f333)  
 
 在本文中，我们将使用贝叶斯定理来更新我们的信念，并展示如何随着更多的数据，我们变得更加确定我们的假设。
 

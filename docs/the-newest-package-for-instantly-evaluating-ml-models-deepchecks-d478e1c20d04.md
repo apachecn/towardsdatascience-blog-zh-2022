@@ -180,8 +180,4 @@ suite.run(train_dataset=ds_train, test_dataset=ds_test, model=clf)
 
 如果你喜欢你所读的，请随意[跟随我](https://jerdibattista.medium.com/)，阅读更多我写的东西。我倾向于每个月深入一个主题一次，这通常涉及新的包、技巧和窍门，或者 ML 空间中我认为需要更好解释的任何东西！
 
-[](/the-best-python-sentiment-analysis-package-1-huge-common-mistake-d6da9ad6cdeb) [## 最好的 Python 情绪分析包(+1 个巨大的常见错误)
-
-### 如何在不训练自己模型的情况下获得近乎完美的性能
-
-towardsdatascience.com](/the-best-python-sentiment-analysis-package-1-huge-common-mistake-d6da9ad6cdeb)
+[](/the-best-python-sentiment-analysis-package-1-huge-common-mistake-d6da9ad6cdeb) 

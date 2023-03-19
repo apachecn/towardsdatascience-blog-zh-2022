@@ -52,11 +52,7 @@
 
 因此，如果我在火车出发前 60 分钟到达，这是最坏的情况，而如果我在火车出发前 10 分钟到达任何地方，这是最好的情况。尝试使用以下代码查找您的哥德尔号码:
 
-[](https://replit.com/@seanjudelyons/WaitingForTheTrain) [## 等待火车
-
-### 跳到内容亚洲难度游戏[有点难]🔴更新:稍微难一点...根据何启南的……
-
-replit.com](https://replit.com/@seanjudelyons/WaitingForTheTrain) 
+[](https://replit.com/@seanjudelyons/WaitingForTheTrain)  
 
 借助哥德尔数，我们可以在数字、思想和逻辑之间建立联系。如果你仔细想想，电脑是活的逻辑。由于其潜在的电路，计算机屏幕上的每个像素照亮一种色调、阴影、颜色等。，已经用形式逻辑公式化了。比方说，我们提取像素的关键特征来训练 CNN，我们实际上只是挑选出一个合适的哥德尔数来训练我们的模型。
 

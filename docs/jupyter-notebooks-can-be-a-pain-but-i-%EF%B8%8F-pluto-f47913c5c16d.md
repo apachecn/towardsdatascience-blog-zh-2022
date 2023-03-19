@@ -147,22 +147,10 @@ Pluto 知道你是否正在安装软件包，并将软件包元数据直接存�
 
 > 非常感谢冥王星的创造者！你们太棒了。
 
-[](https://github.com/fonsp/Pluto.jl) [## GitHub - fonsp/Pluto.jl:🎈Julia 的简单反应笔记本
-
-### 为了庆祝冥王星一周年，我们将举办一个为期两天的小型会议....冥王星！这将是一个地方…
-
-github.com](https://github.com/fonsp/Pluto.jl) 
+[](https://github.com/fonsp/Pluto.jl)  
 
 来自 JuliaCon 的创作者的精彩演讲——由 Julia 编程语言频道上传
 
 > 我写朱莉娅和其他很酷的东西。如果你喜欢这样的文章，请考虑关注我。
 
-[](/joining-dataframes-in-julia-c435e3da32f3) [## 在 Julia 中连接数据框架
-
-### 学习所有连接——使用 DataFrames.jl 的内部、外部、交叉和半连接
-
-towardsdatascience.com](/joining-dataframes-in-julia-c435e3da32f3) [](/reading-csv-files-with-julia-e2623fb62938) [## 与 Julia 一起阅读 CSV 文件
-
-### 了解如何使用 CSV.jl 读取各种逗号分隔的文件
-
-towardsdatascience.com](/reading-csv-files-with-julia-e2623fb62938)
+[](/joining-dataframes-in-julia-c435e3da32f3)  [](/reading-csv-files-with-julia-e2623fb62938) 

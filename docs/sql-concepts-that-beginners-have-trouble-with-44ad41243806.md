@@ -138,10 +138,6 @@ SQL 内部连接与左连接和右连接—来源:作者
 
 希望这篇文章能帮你理清一些事情。对于 SQL 实践操作，请查看这 24 个 SQL 练习及其解决方案。
 
-[](https://www.w3resource.com/sql-exercises/movie-database-exercise/joins-exercises-on-movie-database.php) [## 电影数据库的 SQL 练习-练习，练习，解答-w3 资源
-
-### 练习 SQL 电影数据库，内连接，左连接，右连接，右外连接，左…
-
-www.w3resource.com](https://www.w3resource.com/sql-exercises/movie-database-exercise/joins-exercises-on-movie-database.php) ![](img/fcb232bc919de1e6527ca07f119809e5.png)
+[](https://www.w3resource.com/sql-exercises/movie-database-exercise/joins-exercises-on-movie-database.php)  ![](img/fcb232bc919de1e6527ca07f119809e5.png)
 
 照片由 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上的 [Prateek Katyal](https://unsplash.com/es/@prateekkatyal?utm_source=medium&utm_medium=referral) 拍摄

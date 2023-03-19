@@ -161,33 +161,13 @@ floWeaver 根据它们的名称将不同的列用于不同的目的。具体来�
 
 随意发挥，并在这里叉这篇文章的源代码:
 
-[](https://github.com/khuyentran1401/Data-science/blob/master/visualization/floweaver_example/travel.ipynb) [## 数据科学/travel . ipynb at master khuyentran 1401/数据科学
-
-### 收集有用的数据科学主题以及代码和文章-Data-science/travel . ipynb at master…
-
-github.com](https://github.com/khuyentran1401/Data-science/blob/master/visualization/floweaver_example/travel.ipynb) 
+[](https://github.com/khuyentran1401/Data-science/blob/master/visualization/floweaver_example/travel.ipynb)  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的数据科学工具。你可以在 LinkedIn 和 T2 Twitter 上与我联系。
 
 星[这个回购](https://github.com/khuyentran1401/Data-science)如果你想检查我写的所有文章的代码。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/pyvis-visualize-interactive-network-graphs-in-python-77e059791f01) [## Pyvis:用 Python 可视化交互式网络图
-
-### 只需要几行代码
-
-towardsdatascience.com](/pyvis-visualize-interactive-network-graphs-in-python-77e059791f01) [](/introduction-to-yellowbrick-a-python-library-to-explain-the-prediction-of-your-machine-learning-d63ecee10ecc) [## Yellowbrick 简介:可视化机器学习预测的 Python 库…
-
-### 您将 f1 分数提高到了 98%！但这是否意味着你的模型表现更好呢？
-
-towardsdatascience.com](/introduction-to-yellowbrick-a-python-library-to-explain-the-prediction-of-your-machine-learning-d63ecee10ecc) [](/observe-the-friend-paradox-in-facebook-data-using-python-314c23fd49e4) [## 使用 Python 观察脸书数据中的朋友悖论
-
-### 平均来说，你的朋友比你的朋友多吗？
-
-towardsdatascience.com](/observe-the-friend-paradox-in-facebook-data-using-python-314c23fd49e4) [](https://python.plainenglish.io/find-the-top-bootcamps-for-data-professionals-from-over-5k-profiles-92c38b10ddb4) [## 数据专业人员的顶级训练营——对 5000 份资料的分析
-
-### 数据科学家的顶级训练营和大学有哪些？
-
-python .平原英语. io](https://python.plainenglish.io/find-the-top-bootcamps-for-data-professionals-from-over-5k-profiles-92c38b10ddb4) 
+[](/pyvis-visualize-interactive-network-graphs-in-python-77e059791f01)  [](/introduction-to-yellowbrick-a-python-library-to-explain-the-prediction-of-your-machine-learning-d63ecee10ecc)  [](/observe-the-friend-paradox-in-facebook-data-using-python-314c23fd49e4)  [](https://python.plainenglish.io/find-the-top-bootcamps-for-data-professionals-from-over-5k-profiles-92c38b10ddb4)  
 
 # 参考
 

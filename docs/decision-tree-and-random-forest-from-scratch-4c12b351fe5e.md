@@ -184,18 +184,10 @@
 
 更新(2022 年 7 月 28 日):我已经从头开始完成了关于逻辑回归和神经网络的 3 篇文章系列。查看它们以了解更多:
 
-[](https://medium.com/mlearning-ai/neural-networks-from-scratch-logistic-regression-part-1-d8cfc4a2fb3b) [## 从零开始的神经网络:逻辑回归—第 1 部分
-
-### 单层神经网络与裸基础的逻辑回归
-
-medium.com](https://medium.com/mlearning-ai/neural-networks-from-scratch-logistic-regression-part-1-d8cfc4a2fb3b) 
+[](https://medium.com/mlearning-ai/neural-networks-from-scratch-logistic-regression-part-1-d8cfc4a2fb3b)  
 
 干杯！_/\_
 
 > ***支持我！*** —如果你*没有*订阅 Medium，并且喜欢我的内容，请考虑通过我的[推荐链接](https://tanpengshi.medium.com/membership)加入 Medium 来支持我。
 
-[](https://tanpengshi.medium.com/membership) [## 加入我的介绍链接媒体-谭师鹏阿尔文
-
-### 阅读谭·师鹏·阿尔文(以及媒体上成千上万其他作家)的每一个故事。您的会员费直接…
-
-tanpengshi.medium.com](https://tanpengshi.medium.com/membership)
+[](https://tanpengshi.medium.com/membership) 

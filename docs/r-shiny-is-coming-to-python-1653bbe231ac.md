@@ -93,19 +93,7 @@ Posit 还提供了与他们的 Connect 平台的平滑集成，这使得部署�
 
 您可能还会对以下内容感兴趣:
 
-[](/pyscript-unleash-the-power-of-python-in-your-browser-6e0123c6dc3f) [## PyScript——在浏览器中释放 Python 的威力
-
-### 如何从 HTML 代码中运行 Python
-
-towardsdatascience.com](/pyscript-unleash-the-power-of-python-in-your-browser-6e0123c6dc3f) [](/three-approaches-to-feature-engineering-for-time-series-2123069567be) [## 时间序列特征工程的三种方法
-
-### 使用虚拟变量、循环编码和径向基函数
-
-towardsdatascience.com](/three-approaches-to-feature-engineering-for-time-series-2123069567be) [](https://medium.com/geekculture/investigating-the-effects-of-resampling-imbalanced-datasets-with-data-validation-techniques-f4ca3c8b2b94) [## 利用数据验证技术研究不平衡数据集重采样的效果
-
-### 了解流行的重采样方法对处理类别不平衡的影响
-
-medium.com](https://medium.com/geekculture/investigating-the-effects-of-resampling-imbalanced-datasets-with-data-validation-techniques-f4ca3c8b2b94) 
+[](/pyscript-unleash-the-power-of-python-in-your-browser-6e0123c6dc3f)  [](/three-approaches-to-feature-engineering-for-time-series-2123069567be)  [](https://medium.com/geekculture/investigating-the-effects-of-resampling-imbalanced-datasets-with-data-validation-techniques-f4ca3c8b2b94)  
 
 # 参考
 

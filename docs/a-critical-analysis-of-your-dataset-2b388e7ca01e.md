@@ -186,28 +186,8 @@ COCO Africa(图片来源:GitHub 官方[资源库](https://github.com/victordibia
 
 **这是我的 GitHub 知识库的链接，我计划在这里收集代码和许多与机器学习、人工智能等相关的资源。**
 
-**[](https://github.com/SalvatoreRa/tutorial) [## GitHub - SalvatoreRa/tutorial:关于机器学习、人工智能、数据科学的教程…
-
-### 关于机器学习、人工智能、数据科学的教程，包括数学解释和可重复使用的代码(python…
-
-github.com](https://github.com/SalvatoreRa/tutorial) 
+**[](https://github.com/SalvatoreRa/tutorial)  
 
 或者随意查看我在 Medium 上的其他文章:
 
-[](/machine-unlearning-the-duty-of-forgetting-3666e5b9f6e5) [## 机器遗忘:遗忘的职责
-
-### 从人工智能模型中删除数据点信息的重要性
-
-towardsdatascience.com](/machine-unlearning-the-duty-of-forgetting-3666e5b9f6e5) [](/machine-learning-to-tackle-climate-change-7911e004c3a2) [## 机器学习应对气候变化
-
-### 人工智能如何帮助对抗全球变暖并从人类手中拯救世界
-
-towardsdatascience.com](/machine-learning-to-tackle-climate-change-7911e004c3a2) [](/how-science-contribution-has-become-a-toxic-environment-6beb382cebcd) [## 科学贡献如何变成一个有毒的环境
-
-### 计算机科学是如何继承了其他学科同样的错误的
-
-towardsdatascience.com](/how-science-contribution-has-become-a-toxic-environment-6beb382cebcd) [](https://pub.towardsai.net/a-new-bloom-in-ai-why-the-bloom-model-can-be-a-gamechanger-380a15b1fba7) [## AI 新绽放？为什么布鲁姆模式可以改变游戏规则
-
-### 我们现在已经习惯了大型语言模型，为什么这个如此特别呢？
-
-pub.towardsai.net](https://pub.towardsai.net/a-new-bloom-in-ai-why-the-bloom-model-can-be-a-gamechanger-380a15b1fba7)**
+[](/machine-unlearning-the-duty-of-forgetting-3666e5b9f6e5)  [](/machine-learning-to-tackle-climate-change-7911e004c3a2)  [](/how-science-contribution-has-become-a-toxic-environment-6beb382cebcd)  [](https://pub.towardsai.net/a-new-bloom-in-ai-why-the-bloom-model-can-be-a-gamechanger-380a15b1fba7) **

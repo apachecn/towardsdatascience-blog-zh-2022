@@ -81,8 +81,4 @@ df2['average_temp_rank'] = df_year.groupby('year')['average_temp_mean'].rank(pct
 
 虽然这是一个简化的例子，但显然排名分析可以有一系列有用的应用。请在评论中告诉我你如何在你的行业中使用它们。
 
-[](https://medium.com/@hollydalligan/membership) [## 通过我的推荐链接加入 Medium-Holly Dalligan
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@hollydalligan/membership)
+[](https://medium.com/@hollydalligan/membership) 

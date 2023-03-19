@@ -189,11 +189,7 @@ plot_alphas(alphas, true_alpha=1)
 
 **在这篇文章的第二部分中，我介绍了一个简单却非常强大的解决方案:双去偏机器学习。**
 
-**[](/double-debiased-machine-learning-part-2-bf990720a0b2) [## 双重去偏机器学习(下)
-
-### 如何使用后双重选择消除正则化偏差
-
-towardsdatascience.com](/double-debiased-machine-learning-part-2-bf990720a0b2) 
+**[](/double-debiased-machine-learning-part-2-bf990720a0b2)  
 
 ## 参考
 
@@ -213,11 +209,7 @@ towardsdatascience.com](/double-debiased-machine-learning-part-2-bf990720a0b2)
 
 你可以在这里找到 Jupyter 的原始笔记本:
 
-[](https://github.com/matteocourthoud/Blog-Posts/blob/main/notebooks/pretest.ipynb) [## Blog-post/pretest . ipynb at main matter courthoud/Blog-post
-
-### 我博客文章的代码和笔记本。通过在…上创建帐户，为 matteocourthoud/Blog-Posts 的发展做出贡献
-
-github.com](https://github.com/matteocourthoud/Blog-Posts/blob/main/notebooks/pretest.ipynb) 
+[](https://github.com/matteocourthoud/Blog-Posts/blob/main/notebooks/pretest.ipynb)  
 
 ## 感谢您的阅读！
 

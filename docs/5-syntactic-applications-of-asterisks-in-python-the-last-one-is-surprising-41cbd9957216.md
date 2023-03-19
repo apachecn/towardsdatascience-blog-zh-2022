@@ -59,11 +59,7 @@ def give_me_dict(**my_dict):
 
 这两个特性为开发人员在编程过程中提供了很大的灵活性。如果您想了解更多关于 Python 中变长参数的知识，我为这个主题写了另一篇文章供您查阅。
 
-[](/four-types-of-parameters-and-two-types-of-arguments-in-python-357ccfdea3db) [## Python 中的四种形参和两种实参
-
-### 什么是强制、可选、args、kwargs 参数和位置、关键字参数
-
-towardsdatascience.com](/four-types-of-parameters-and-two-types-of-arguments-in-python-357ccfdea3db) 
+[](/four-types-of-parameters-and-two-types-of-arguments-in-python-357ccfdea3db)  
 
 # 3.拆箱清单和字典
 
@@ -159,11 +155,7 @@ for i in zip(['Alice', 31], ['Bob', 32], ['Chris', 33]):
 
 如果您不太熟悉`zip()`函数，请查看我以前的一篇深入研究这个函数的文章。
 
-[](/fasten-python-objects-using-zip-88a1e7a68c7) [## 使用 Zip“固定”Python 对象
-
-### Python 的一个技巧使得使用多个可迭代对象变得更加容易
-
-towardsdatascience.com](/fasten-python-objects-using-zip-88a1e7a68c7) 
+[](/fasten-python-objects-using-zip-88a1e7a68c7)  
 
 ## 3.2 打开字典包装
 
@@ -320,10 +312,6 @@ my_func('a', arg2='b')
 
 在本文中，我总结了 Python 中星号的所有 5 种不同的使用模式。它可以是用于传递可变长度参数的运算符或指示符。它还可以打开列表、字典或范围对象，以及将它们打包。
 
-[](https://medium.com/@qiuyujx/membership) [## 通过我的推荐链接加入灵媒-陶
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@qiuyujx/membership) 
+[](https://medium.com/@qiuyujx/membership)  
 
 如果你觉得我的文章有帮助，请考虑加入 Medium 会员来支持我和其他成千上万的作者！(点击上面的链接)

@@ -526,11 +526,7 @@ print(f"F Test: statistic={stat:.4f}, p-value={p_value:.4f}")F Test: statistic=9
 
 ***你可以在这里找到 Jupyter 的原始笔记本:***
 
-***[](https://github.com/matteocourthoud/Blog-Posts/blob/main/notebooks/distr.ipynb) [## Blog-Posts/dist . ipynb at main matter courthoud/Blog-Posts
-
-### 我博客文章的代码和笔记本。通过在…上创建帐户，为 matteocourthoud/Blog-Posts 的发展做出贡献
-
-github.com](https://github.com/matteocourthoud/Blog-Posts/blob/main/notebooks/distr.ipynb)*** 
+***[](https://github.com/matteocourthoud/Blog-Posts/blob/main/notebooks/distr.ipynb) *** 
 
 ## ***感谢您的阅读！***
 

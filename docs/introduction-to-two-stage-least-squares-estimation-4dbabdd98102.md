@@ -435,11 +435,7 @@ instruments = **add_constant**(instruments)**
 
 # ****相关阅读****
 
-****[](/introduction-to-instrumental-variables-estimation-3eba75a04418) [## 工具变量估计导论
-
-### 我们将学习工具变量，以及如何使用它们来估计线性回归模型
-
-towardsdatascience.com](/introduction-to-instrumental-variables-estimation-3eba75a04418)**** 
+****[](/introduction-to-instrumental-variables-estimation-3eba75a04418) **** 
 
 # ****参考文献、引文和版权****
 

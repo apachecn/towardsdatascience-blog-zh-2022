@@ -44,11 +44,7 @@ Alina Constantin /更好的人工智能图像/手工人工智能/ CC-BY 4.0
 
 *本文选自*[***The algorithm Bridge***](https://thealgorithmicbridge.substack.com/subscribe?)*，这是一份旨在弥合算法与人之间鸿沟的教育通讯。它将帮助你理解人工智能对你生活的影响，并开发工具来更好地导航未来。*
 
-[](https://thealgorithmicbridge.substack.com/subscribe) [## 算法桥
-
-### 弥合算法和人之间的鸿沟。关于与你生活相关的人工智能的时事通讯。点击阅读…
-
-thealgorithmicbridge.substack.com](https://thealgorithmicbridge.substack.com/subscribe) 
+[](https://thealgorithmicbridge.substack.com/subscribe)  
 
 # AI 书写工具达不到的地方
 

@@ -178,12 +178,4 @@ dbt build -s +tag:revenue --exclude tag:unit_testing
 
 ## 参考
 
-[](https://medium.com/slalom-build/the-challenge-of-testing-data-pipelines-4450744a84f1) [## 测试数据管道的挑战
-
-### 测试数据管道与测试传统软件系统有何不同。
-
-medium.com](https://medium.com/slalom-build/the-challenge-of-testing-data-pipelines-4450744a84f1) [](https://github.com/EqualExperts/dbt-unit-testing) [## GitHub-equal experts/dbt-单元测试:这个 dbt 包包含支持单元测试的宏…
-
-### 这个 dbt 包包含支持单元测试的宏，这些宏可以在 dbt 项目中重用。其中一个软件…
-
-github.com](https://github.com/EqualExperts/dbt-unit-testing)
+[](https://medium.com/slalom-build/the-challenge-of-testing-data-pipelines-4450744a84f1)  [](https://github.com/EqualExperts/dbt-unit-testing) 

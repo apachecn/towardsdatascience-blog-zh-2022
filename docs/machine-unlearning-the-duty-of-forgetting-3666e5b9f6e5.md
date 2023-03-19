@@ -103,31 +103,11 @@ SISA 方法:代替重新训练模型，你只需要重新处理部分输入。�
 
 **这是我的 GitHub 知识库的链接，我计划在这里收集代码和许多与机器学习、人工智能等相关的资源。**
 
-**[](https://github.com/SalvatoreRa/tutorial) [## GitHub - SalvatoreRa/tutorial:关于机器学习、人工智能、数据科学的教程…
-
-### 关于机器学习、人工智能、数据科学的教程，包括数学解释和可重复使用的代码(python…
-
-github.com](https://github.com/SalvatoreRa/tutorial) 
+**[](https://github.com/SalvatoreRa/tutorial)  
 
 或者随意查看我在 Medium 上的其他文章:
 
-[](/how-science-contribution-has-become-a-toxic-environment-6beb382cebcd) [## 科学贡献如何变成一个有毒的环境
-
-### 计算机科学是如何继承了其他学科同样的错误的
-
-towardsdatascience.com](/how-science-contribution-has-become-a-toxic-environment-6beb382cebcd) [](/machine-learning-to-tackle-climate-change-7911e004c3a2) [## 机器学习应对气候变化
-
-### 人工智能如何帮助对抗全球变暖并从人类手中拯救世界
-
-towardsdatascience.com](/machine-learning-to-tackle-climate-change-7911e004c3a2) [](/how-ai-could-fuel-global-warming-8f6e1dda6711) [## 人工智能如何加剧全球变暖
-
-### 新的大型模型是能源密集型的。他们的训练需要多少二氧化碳？
-
-towardsdatascience.com](/how-ai-could-fuel-global-warming-8f6e1dda6711) [](/googles-minerva-solving-math-problems-with-ai-4f0a6aaabaf1) [## 谷歌的 Minerva，用 AI 解决数学问题
-
-### 定量推理对人类来说很难，对计算机来说也很难。密涅瓦刚刚在解决…
-
-towardsdatascience.com](/googles-minerva-solving-math-problems-with-ai-4f0a6aaabaf1) 
+[](/how-science-contribution-has-become-a-toxic-environment-6beb382cebcd)  [](/machine-learning-to-tackle-climate-change-7911e004c3a2)  [](/how-ai-could-fuel-global-warming-8f6e1dda6711)  [](/googles-minerva-solving-math-problems-with-ai-4f0a6aaabaf1)  
 
 **附加资源**
 

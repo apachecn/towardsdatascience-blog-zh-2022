@@ -66,11 +66,7 @@ ResNet 体系结构利用了残余块。这个概念是非常重要的，因为�
 
 计算机视觉是人工智能最受欢迎的分支之一。一个可以解决这些复杂的计算机视觉问题的深度学习模型，例如实时物体检测和人脸识别，具有很高的价值。YOLO 是解决高精度目标检测问题的最佳方法之一。如果观众对掌握计算机视觉的基础感兴趣，我建议观众看看下面提供的指南。
 
-[](/opencv-complete-beginners-guide-to-master-the-basics-of-computer-vision-with-code-4a1cd0c687f9) [## OpenCV:用代码掌握计算机视觉基础的完全初学者指南！
-
-### 包含代码的教程，用于掌握计算机视觉的所有重要概念，以及如何使用 OpenCV 实现它们
-
-towardsdatascience.com](/opencv-complete-beginners-guide-to-master-the-basics-of-computer-vision-with-code-4a1cd0c687f9) 
+[](/opencv-complete-beginners-guide-to-master-the-basics-of-computer-vision-with-code-4a1cd0c687f9)  
 
 ## 3.U-Net:
 
@@ -177,28 +173,12 @@ U-Net 是一篇革命性的论文，用于分割不同类型的计算机视觉�
 
 *如果你想在我的文章发表后第一时间得到通知，请点击下面的[链接](https://bharath-k1297.medium.com/subscribe)订阅邮件推荐。如果你希望支持其他作者和我，请订阅下面的链接。*
 
-*[](https://bharath-k1297.medium.com/membership) [## 通过我的推荐链接加入媒体
-
-### 阅读 Bharath K(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-bharath-k1297.medium.com](https://bharath-k1297.medium.com/membership) 
+*[](https://bharath-k1297.medium.com/membership)  
 
 如果你对这篇文章中提到的各点有任何疑问，请在下面的评论中告诉我。我会尽快给你回复。
 
 看看我的一些与本文主题相关的文章，你可能也会喜欢阅读！
 
-[](/7-python-programming-tips-to-improve-your-productivity-a57802f225b6) [## 提高生产力的 7 个 Python 编程技巧
-
-### 通过修正一些常见的不良编程实践，使您的 Python 编码更加有效和高效
-
-towardsdatascience.com](/7-python-programming-tips-to-improve-your-productivity-a57802f225b6) [](/best-seaborn-visualizations-for-data-science-3d866f99c3a9) [## 数据科学最佳 Seaborn 可视化
-
-### 使用 Seaborn 库探索数据科学项目的一些最佳可视化选项
-
-towardsdatascience.com](/best-seaborn-visualizations-for-data-science-3d866f99c3a9) [](/visualizing-cpu-memory-and-gpu-utilities-with-python-8028d859c2b0) [## 用 Python 可视化 CPU、内存和 GPU 工具
-
-### 分析 CPU、内存使用和 GPU 组件，以监控您的 PC 和深度学习项目
-
-towardsdatascience.com](/visualizing-cpu-memory-and-gpu-utilities-with-python-8028d859c2b0) 
+[](/7-python-programming-tips-to-improve-your-productivity-a57802f225b6)  [](/best-seaborn-visualizations-for-data-science-3d866f99c3a9)  [](/visualizing-cpu-memory-and-gpu-utilities-with-python-8028d859c2b0)  
 
 谢谢你们坚持到最后。我希望你们都喜欢这篇文章。祝大家有美好的一天！*

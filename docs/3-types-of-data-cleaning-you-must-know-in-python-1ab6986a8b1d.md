@@ -223,10 +223,6 @@ df[["Name","Sex","Survived","Age"]].sample(5)
 
 作为一个免费用户，你只能阅读 3 个故事，但作为一个媒体成员，你可以访问媒体上的所有内容。所以， [**加入 Medium**](https://medium.com/@17.rsuraj/membership) 使用我下面的推荐链接，它也将支持我作为一个作家，因为 Medium 与我分享你的一小部分费用。✅
 
-[](https://medium.com/@17.rsuraj/membership) [## 加入我的推荐链接- Suraj Gurav 媒体
-
-### 立即访问媒体！！是时候加入 Medium 了，可以无限制地访问每篇文章，阅读所有内容…
-
-medium.com](https://medium.com/@17.rsuraj/membership) 
+[](https://medium.com/@17.rsuraj/membership)  
 
 **感谢您的阅读！**

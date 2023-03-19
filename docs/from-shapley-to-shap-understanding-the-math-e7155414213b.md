@@ -200,11 +200,7 @@
 
 **使用 KernelSHAP，我们可以在指数时间内估计 Shapley 值与特征数量的关系。而 TreeSHAP 可以在线性时间内估计它们。我们将在下面的文章中详细讨论这种差异。我们还探讨了模型的其他方面如何影响近似时间。这包括集合中的树的数量、最大深度和叶子的数量。**
 
-**[](/kernelshap-vs-treeshap-e00f3b3a27db) [## KernelSHAP vs TreeSHAP
-
-### 基于速度、复杂性和其他考虑因素比较 SHAP 近似方法
-
-towardsdatascience.com](/kernelshap-vs-treeshap-e00f3b3a27db) 
+**[](/kernelshap-vs-treeshap-e00f3b3a27db)  
 
 如前所述，这些方法可以近似计算大量的 Shapley 值。我们可以用不同的方式将它们结合起来，以了解模型作为一个整体是如何工作的。一个例子是**图 2** 中给出的蜂群图。
 
@@ -216,19 +212,11 @@ towardsdatascience.com](/kernelshap-vs-treeshap-e00f3b3a27db)
 
 这些类型的地块易于实施是 SHAP 一揽子计划被广泛采用的另一个原因。我们将在下面的文章中探索如何使用这个包。我们讨论 Python 代码，并探索该包提供的一些其他聚合。
 
-[](/introduction-to-shap-with-python-d27edc23c454) [## Python SHAP 简介
-
-### 如何创造和解释 SHAP 情节:瀑布，力量，决定，SHAP 和蜂群
-
-towardsdatascience.com](/introduction-to-shap-with-python-d27edc23c454) 
+[](/introduction-to-shap-with-python-d27edc23c454)  
 
 我希望这篇文章对你有帮助！如果你想看更多，你可以成为我的 [**推荐会员**](https://conorosullyds.medium.com/membership) **来支持我。你可以访问 medium 上的所有文章，我可以得到你的部分费用。**
 
-[](https://conorosullyds.medium.com/membership) [## 通过我的推荐链接加入 Medium 康纳·奥沙利文
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-conorosullyds.medium.com](https://conorosullyds.medium.com/membership) 
+[](https://conorosullyds.medium.com/membership)  
 
 你可以在|[Twitter](https://twitter.com/conorosullyDS)|[YouTube](https://www.youtube.com/channel/UChsoWqJbEjBwrn00Zvghi4w)|[时事通讯](https://mailchi.mp/aa82a5ce1dc0/signup)上找到我——注册免费参加 [Python SHAP 课程](https://adataodyssey.com/courses/shap-with-python/)
 

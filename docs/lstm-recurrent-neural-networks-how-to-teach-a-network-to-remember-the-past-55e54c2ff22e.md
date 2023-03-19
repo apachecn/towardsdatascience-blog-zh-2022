@@ -186,24 +186,8 @@ T5【索尔多比拉斯】
 
 ***如果你已经花光了这个月的学习预算，下次请记得我。*** *我的个性化链接加入媒介:*
 
-[](https://solclover.com/membership) [## 通过我的推荐链接加入 Medium 索尔·多比拉斯
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-solclover.com](https://solclover.com/membership) 
+[](https://solclover.com/membership)  
 
 您可能感兴趣的其他文章:
 
-[](/rnn-recurrent-neural-networks-how-to-successfully-model-sequential-data-in-python-5a0b9e494f92) [## RNN:递归神经网络——如何在 Python 中成功地对序列数据建模
-
-### rnn 的可视化解释和使用 Keras 和 Tensorflow Python 库构建它们的逐步指南
-
-towardsdatascience.com](/rnn-recurrent-neural-networks-how-to-successfully-model-sequential-data-in-python-5a0b9e494f92) [](/feed-forward-neural-networks-how-to-successfully-build-them-in-python-74503409d99a) [## 前馈神经网络——如何在 Python 中成功构建它们
-
-### 使用真实数据的 Python 示例对神经网络进行了详细的图形说明
-
-towardsdatascience.com](/feed-forward-neural-networks-how-to-successfully-build-them-in-python-74503409d99a) [](/deep-feed-forward-neural-networks-and-the-advantage-of-relu-activation-function-ff881e58a635) [## 深度前馈神经网络及其再激活函数的优势
-
-### 如何使用 Tensorflow Keras API 在 Python 中构建深度前馈(DFF)神经网络，以及如何在…
-
-towardsdatascience.com](/deep-feed-forward-neural-networks-and-the-advantage-of-relu-activation-function-ff881e58a635)
+[](/rnn-recurrent-neural-networks-how-to-successfully-model-sequential-data-in-python-5a0b9e494f92)  [](/feed-forward-neural-networks-how-to-successfully-build-them-in-python-74503409d99a)  [](/deep-feed-forward-neural-networks-and-the-advantage-of-relu-activation-function-ff881e58a635) 

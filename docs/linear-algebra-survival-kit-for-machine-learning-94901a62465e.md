@@ -243,11 +243,7 @@ L 线性代数通常被认为是数据的数学*和机器学习的基本支柱�
 
 *特征分解将矩阵分解成特征值和特征向量。对于旋转不变的特征向量向我们显示了矩阵的方向，而特征值是比例因子，描述了特征向量的大小。*
 
-*[](/decomposing-eigendecomposition-f68f48470830) [## 分解特征分解
-
-### 特征向量和特征值的温和介绍
-
-towardsdatascience.com](/decomposing-eigendecomposition-f68f48470830) 
+*[](/decomposing-eigendecomposition-f68f48470830)  
 
 我们可以借助内置的 NumPy 函数来检索特征值和特征向量。为了重构原始矩阵，我们只需要计算特征向量、对角化的特征值和特征向量的逆的乘积。
 
@@ -255,11 +251,7 @@ towardsdatascience.com](/decomposing-eigendecomposition-f68f48470830)
 
 特征分解是有用的，因为它是主成分分析中的关键元素。
 
-[](/implementing-pca-from-scratch-fb434f1acbaa) [## 从头开始实施 PCA
-
-### 仅用 Python 和 NumPy 来提高您的线性代数技能
-
-towardsdatascience.com](/implementing-pca-from-scratch-fb434f1acbaa) 
+[](/implementing-pca-from-scratch-fb434f1acbaa)  
 
 # 奇异值分解
 
@@ -307,11 +299,7 @@ trace 运算符很有用，因为它允许更简单的符号。例如，Frobeniu
 
 它在几何学上也可以分别解释为面积或体积。不严格地说，行列式给出了一个度量，即乘以一个矩阵可以扩大或缩小多少空间。
 
-[](/discovering-the-matrix-determinant-11b56616d99a) [## 发现矩阵行列式
-
-### 解开特征分解的关键元素
-
-towardsdatascience.com](/discovering-the-matrix-determinant-11b56616d99a) 
+[](/discovering-the-matrix-determinant-11b56616d99a)  
 
 可以使用内置的 NumPy 函数`[numpy.linalg.det(a)](https://numpy.org/doc/stable/reference/generated/numpy.linalg.det.html)`计算行列式
 
@@ -329,11 +317,7 @@ towardsdatascience.com](/discovering-the-matrix-determinant-11b56616d99a)
 
 喜欢这篇文章吗？成为 [*中等会员*](https://medium.com/@marvinlanhenke/membership) *继续无限学习。如果你使用下面的链接，我会收到你的一部分会员费，不需要你额外付费。*
 
-[](https://medium.com/@marvinlanhenke/membership) [## 通过我的推荐链接加入 Medium-Marvin Lanhenke
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@marvinlanhenke/membership) 
+[](https://medium.com/@marvinlanhenke/membership)  
 
 **参考资料/更多资料:**
 

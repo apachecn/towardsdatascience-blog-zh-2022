@@ -32,11 +32,7 @@
 
 首先，我们需要安装英特尔 Arc 驱动程序和[英特尔 oneAPI 基础工具包](https://www.intel.com/content/www/us/en/developer/tools/oneapi/base-toolkit.html)，因此我们遵循以下说明:
 
-[](https://www.intel.com/content/www/us/en/develop/documentation/installation-guide-for-intel-oneapi-toolkits-linux/top.html) [## 面向 Linux*操作系统的英特尔 oneAPI 工具包安装指南
-
-### 本指南涵盖了在 Linux*操作系统上安装英特尔 oneAPI 工具包。在…之前检查先决条件信息
-
-www.intel.com](https://www.intel.com/content/www/us/en/develop/documentation/installation-guide-for-intel-oneapi-toolkits-linux/top.html) 
+[](https://www.intel.com/content/www/us/en/develop/documentation/installation-guide-for-intel-oneapi-toolkits-linux/top.html)  
 
 具体来说，我正在使用位于[这里](https://www.intel.com/content/www/us/en/develop/documentation/installation-guide-for-intel-oneapi-toolkits-linux/top/installation/install-using-package-managers/apt.html#apt)的 APT 指令，特别注意准确地遵循安装英特尔 GPU 驱动程序(步骤 2)中的指令。我用 Linux 6.0.x 内核中包含的驱动程序尝试了这一点，遇到了一些问题，所以我建议您尝试 DKMS 指令，并在指令中使用内核 5.17.xxx。
 
@@ -75,11 +71,7 @@ www.intel.com](https://www.intel.com/content/www/us/en/develop/documentation/ins
 
 如果您没有拥抱脸帐户，您需要在此处创建一个:
 
-[](https://huggingface.co) [## 拥抱脸-人工智能社区建设未来。
-
-### 构建、训练和部署由机器学习中的参考开源提供支持的最先进的模型。不止…
-
-huggingface.co](https://huggingface.co) 
+[](https://huggingface.co)  
 
 回到我们的系统，我们设置了 Hugging Face Hub 和一些基本库，并从 Hugging Face 中获取了扩散器和稳定的扩散代码:
 

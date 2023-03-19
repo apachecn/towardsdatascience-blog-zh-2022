@@ -55,15 +55,7 @@
 
 也请看看我的其他文章:
 
-[](/how-to-compare-2-dataframes-easily-b8f6788d5f07) [## 如何轻松比较两个数据帧
-
-### …使用全面的数据协调脚本。
-
-towardsdatascience.com](/how-to-compare-2-dataframes-easily-b8f6788d5f07) [](/how-to-create-a-list-of-files-folders-and-subfolders-and-then-export-as-excel-6ce9eaa3867a) [## 如何创建文件、文件夹和子文件夹的列表，然后导出为 Excel
-
-### 一个生产力工具玛丽近藤你的文件夹
-
-towardsdatascience.com](/how-to-create-a-list-of-files-folders-and-subfolders-and-then-export-as-excel-6ce9eaa3867a) 
+[](/how-to-compare-2-dataframes-easily-b8f6788d5f07)  [](/how-to-create-a-list-of-files-folders-and-subfolders-and-then-export-as-excel-6ce9eaa3867a)  
 
 ## 警告
 

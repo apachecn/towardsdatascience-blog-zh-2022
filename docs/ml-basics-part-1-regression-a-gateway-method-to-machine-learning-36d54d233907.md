@@ -116,19 +116,11 @@
 
 **在 Patreon 上支持我:**
 
-[](https://patreon.com/azadacademy) [## J. Rafid Siddiqui 博士正在创建关于 AI/ML/DL(Medium/Substack/Youtube)|…
-
-### 拉菲德博士是一位学术研究者、作家、思想领袖和创新者。他在…写各种主题的文章
-
-patreon.com](https://patreon.com/azadacademy) 
+[](https://patreon.com/azadacademy)  
 
 **在子栈上找到我:**
 
-[](https://azadwolf.substack.com) [## Azad 学院
-
-### 深度学习、机器学习、计算机视觉和人工智能领域的学习场所…
-
-azadwolf.substack.com](https://azadwolf.substack.com) 
+[](https://azadwolf.substack.com)  
 
 **关注 Twitter 更新:**
 

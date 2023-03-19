@@ -153,16 +153,4 @@ towardsdatascience.com](/bigquery-stored-procedure-for-permutation-test-35597d63
 
 **如果你喜欢这篇文章，请考虑关注我， [**订阅 Medium**](https://niczky12.medium.com/membership) ，或者查看我的其他文章:**
 
-**[](/end-to-end-bigquery-machine-learning-e7e6e2e83b34) [## 端到端 BigQuery 机器学习
-
-### 使用 Google Cloud BigQuery 参加 Kaggle 竞赛
-
-towardsdatascience.com](/end-to-end-bigquery-machine-learning-e7e6e2e83b34) [](/jupyter-notebooks-can-be-a-pain-but-i-️-pluto-f47913c5c16d) [## 朱庇特笔记本可能是一种痛苦，但我❤️布鲁托
-
-### 朱莉娅的 Pluto.jl 将使教育变得更好
-
-towardsdatascience.com](/jupyter-notebooks-can-be-a-pain-but-i-️-pluto-f47913c5c16d) [](/advanced-random-sampling-in-bigquery-sql-7d4483b580bb) [## BigQuery SQL 中的高级随机采样
-
-### 了解如何以可重现的方式对 BigQuery 表中的行进行采样
-
-towardsdatascience.com](/advanced-random-sampling-in-bigquery-sql-7d4483b580bb)**
+**[](/end-to-end-bigquery-machine-learning-e7e6e2e83b34)  [](/jupyter-notebooks-can-be-a-pain-but-i-️-pluto-f47913c5c16d)  [](/advanced-random-sampling-in-bigquery-sql-7d4483b580bb) **

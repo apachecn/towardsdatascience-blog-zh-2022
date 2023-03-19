@@ -273,8 +273,4 @@ Project selection on GCP — Image from Author
 
 请不要犹豫，浏览我在 Medium 上的其他文章:
 
-[](https://pl-bescond.medium.com/pierre-louis-besconds-articles-on-medium-f6632a6895ad) [## 皮埃尔-路易·贝斯康德关于媒介的文章
-
-### 数据科学、机器学习和创新
-
-pl-bescond.medium.com](https://pl-bescond.medium.com/pierre-louis-besconds-articles-on-medium-f6632a6895ad)
+[](https://pl-bescond.medium.com/pierre-louis-besconds-articles-on-medium-f6632a6895ad) 

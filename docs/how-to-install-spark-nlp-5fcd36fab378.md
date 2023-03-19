@@ -126,16 +126,4 @@ pip install spark-nlp
 
 # 相关文章
 
-[](/how-to-speed-up-your-python-code-through-pyspark-e3296e39da6) [## 如何通过 PySpark 加速您的 Python 代码
-
-### 关于如何安装和运行 Apache Spark 和 PySpark 以提高代码性能的教程。
-
-towardsdatascience.com](/how-to-speed-up-your-python-code-through-pyspark-e3296e39da6) [](/have-you-ever-thought-about-using-python-virtualenv-fc419d8b0785) [## 有没有想过用 Python virtualenv？
-
-### 在终端和 Jupyter 笔记本上安装和使用 Python virtualenv 的实用指南。
-
-towardsdatascience.com](/have-you-ever-thought-about-using-python-virtualenv-fc419d8b0785) [](https://medium.datadriveninvestor.com/how-to-restore-the-original-layout-of-a-text-document-after-a-manipulation-in-python-8f3de41e8e95) [## 如何在 Python 中操作后恢复文本文档的原始布局
-
-### 少于 10 行的代码，用于在操作后保留文本文档的布局，例如文本…
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/how-to-restore-the-original-layout-of-a-text-document-after-a-manipulation-in-python-8f3de41e8e95)
+[](/how-to-speed-up-your-python-code-through-pyspark-e3296e39da6)  [](/have-you-ever-thought-about-using-python-virtualenv-fc419d8b0785)  [](https://medium.datadriveninvestor.com/how-to-restore-the-original-layout-of-a-text-document-after-a-manipulation-in-python-8f3de41e8e95) 

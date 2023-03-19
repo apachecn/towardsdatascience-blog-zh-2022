@@ -67,8 +67,4 @@ CART 是分类树和回归树的缩写；顾名思义，这是一种**监督学�
 
 [](/5-lessons-mckinsey-taught-me-that-will-make-you-a-better-data-scientist-66cd9cc16aba) [## 麦肯锡教给我的 5 条经验将使你成为更好的数据科学家
 
-towardsdatascience.com](/5-lessons-mckinsey-taught-me-that-will-make-you-a-better-data-scientist-66cd9cc16aba) [](/why-i-left-mckinsey-as-a-data-scientist-30eec01504e5) [## 我离开麦肯锡成为数据科学家的原因
-
-### 开始成为数据科学顾问之前应该考虑的事情
-
-towardsdatascience.com](/why-i-left-mckinsey-as-a-data-scientist-30eec01504e5)
+towardsdatascience.com](/5-lessons-mckinsey-taught-me-that-will-make-you-a-better-data-scientist-66cd9cc16aba) [](/why-i-left-mckinsey-as-a-data-scientist-30eec01504e5) 

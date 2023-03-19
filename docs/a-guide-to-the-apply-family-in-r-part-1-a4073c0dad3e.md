@@ -10,11 +10,7 @@
 
 R 中的 apply-family 是 R 中的一个内置包，它允许您在探索和分析数据时避免循环。我发现 apply-functions 对于在 r 中处理数据非常有用。它们允许你编写简短有效的代码。起初，我对不同的应用功能有点困惑，不知道何时以及如何使用哪一个。使用哪一种取决于数据的结构，在某种程度上，还取决于您希望输出的结构。在本指南第 1 部分中，我将详细介绍每个应用函数，并展示它们是如何工作的，以帮助您避免任何混淆。[本指南的第 2 部分](https://medium.com/@andreagustafsen/a-guide-to-the-apply-family-in-r-part-2-227da1c1bc92)展示了一些应用功能的实际应用。
 
-[](https://medium.com/@andreagustafsen/a-guide-to-the-apply-family-in-r-part-2-227da1c1bc92) [## R 中的应用系列指南—第 2 部分
-
-### 使用应用函数的实例。
-
-medium.com](https://medium.com/@andreagustafsen/a-guide-to-the-apply-family-in-r-part-2-227da1c1bc92) 
+[](https://medium.com/@andreagustafsen/a-guide-to-the-apply-family-in-r-part-2-227da1c1bc92)  
 
 本指南还以 jupyter 笔记本和 pdf 文件的形式出现在本 [GitHub repo](https://github.com/TalkingDataScience/apply-family) 中。
 
@@ -292,8 +288,4 @@ tapply(X **=** my_df**$**height, INDEX **=** sex, FUN **=** mean)Female   Male
 
 我希望这个指南对你有用。如果你想看几个你可能想使用这些应用功能的实际例子，请务必阅读本指南的第 2 部分。
 
-[](https://medium.com/@andreagustafsen/a-guide-to-the-apply-family-in-r-part-2-227da1c1bc92) [## R 中的应用系列指南—第 2 部分
-
-### 使用应用函数的实例。
-
-medium.com](https://medium.com/@andreagustafsen/a-guide-to-the-apply-family-in-r-part-2-227da1c1bc92)
+[](https://medium.com/@andreagustafsen/a-guide-to-the-apply-family-in-r-part-2-227da1c1bc92) 

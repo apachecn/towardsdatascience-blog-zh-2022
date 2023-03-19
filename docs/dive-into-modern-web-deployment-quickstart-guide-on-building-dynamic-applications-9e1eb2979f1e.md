@@ -120,11 +120,7 @@ npm install @headlessui/vue @heroicons/vue -D
 
 看一下它的官方网站。
 
-[](https://headlessui.dev/) [## 无头用户界面
-
-### 完全非风格化的、完全可访问的 UI 组件，旨在与 Tailwind CSS 完美集成。
-
-headlessui.dev](https://headlessui.dev/) 
+[](https://headlessui.dev/)  
 
 注意它的组件支持 *React* 和 *Vue* 。默认设置是 React，请在进入特定组件前点击 *Vue* 。我曾经忘记了这一点，无意中进入 React 部分，我发现代码有点奇怪。出于比较的好奇，要达到相同的结果，Vue 中需要的行数几乎总是比 React 中少。
 

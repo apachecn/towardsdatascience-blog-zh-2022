@@ -77,16 +77,4 @@
 
 对于任何数据科学家来说，至少了解一点数学优化都是有益的。以下是一些相关文章，供您参考:
 
-[](/why-every-data-scientist-should-learn-mathematical-optimization-3ac102663456) [## 为什么每个数据科学家都应该学习数学优化
-
-### 数据科学课程的重点是数据可视化，特征工程，数据处理，(非)监督学习…
-
-towardsdatascience.com](/why-every-data-scientist-should-learn-mathematical-optimization-3ac102663456) [](/how-to-handle-optimization-problems-daf97b3c248c) [## 如何处理优化问题？
-
-### 带有解决方案和代码的简单示例。
-
-towardsdatascience.com](/how-to-handle-optimization-problems-daf97b3c248c) [](/taking-your-optimization-skills-to-the-next-level-de47a9c51167) [## 让您的优化技能更上一层楼
-
-### 软约束、线性化、多目标等等
-
-towardsdatascience.com](/taking-your-optimization-skills-to-the-next-level-de47a9c51167)
+[](/why-every-data-scientist-should-learn-mathematical-optimization-3ac102663456)  [](/how-to-handle-optimization-problems-daf97b3c248c)  [](/taking-your-optimization-skills-to-the-next-level-de47a9c51167) 

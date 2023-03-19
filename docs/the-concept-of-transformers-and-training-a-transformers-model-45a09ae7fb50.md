@@ -83,11 +83,7 @@ Transformer 是一种神经网络架构，旨在解决自然语言处理任务�
 
 ***安装 Pytorch***
 
-*[](https://pytorch.org/) [## PyTorch
-
-### 使用 PyTorch、TorchServe 和 AWS Inferentia 降低 71%的推理成本并推动横向扩展。推动…的状态
-
-pytorch.org](https://pytorch.org/) 
+*[](https://pytorch.org/)  
 
 **安装其他软件包**
 
@@ -218,11 +214,7 @@ DatasetDict({
 
 > **我已经将我训练的屏蔽语言模型推送到 huggingface hub，它可供测试。**检查拥抱人脸库上的蒙版语言模型****
 
-**[](https://huggingface.co/ayoolaolafenwa/Masked-Language-Model) [## ayoolaolafenwa/蒙面语言模型拥抱脸
-
-### 我们正在通过开源和开放科学来推进和民主化人工智能的旅程。
-
-huggingface.co](https://huggingface.co/ayoolaolafenwa/Masked-Language-Model) 
+**[](https://huggingface.co/ayoolaolafenwa/Masked-Language-Model)  
 
 ## **测试屏蔽语言模型的 Rest API 代码**
 
@@ -252,19 +244,11 @@ is
 
 我创建了一个 google colab 笔记本，上面有创建拥抱脸账户、训练蒙面语言模型以及将模型上传到拥抱脸库的步骤。检查笔记本。
 
-[](https://colab.research.google.com/drive/1BymoZgVU0q02zYv1SdivK-wChG-ooMXL?usp=sharing) [## 谷歌联合实验室
-
-### 编辑描述
-
-colab.research.google.com](https://colab.research.google.com/drive/1BymoZgVU0q02zYv1SdivK-wChG-ooMXL?usp=sharing) 
+[](https://colab.research.google.com/drive/1BymoZgVU0q02zYv1SdivK-wChG-ooMXL?usp=sharing)  
 
 > 查看 github 资源库以获取本教程
 
-[](https://github.com/ayoolaolafenwa/TrainNLP) [## GitHub - ayoolaolafenwa/TrainNLP:训练自然语言处理模型的示例教程…
-
-### 这是一个一步一步的指南使用拥抱脸变形器创建一个蒙面语言模型来预测一个蒙面词…
-
-github.com](https://github.com/ayoolaolafenwa/TrainNLP) 
+[](https://github.com/ayoolaolafenwa/TrainNLP)  
 
 ## 结论
 

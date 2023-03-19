@@ -12,11 +12,7 @@
 
 这个故事将探索我们如何通过监督和半监督学习，使用标签从图形中推理和建模。我将使用 MET Art Collections 数据集，它将建立在我以前关于度量、无监督学习等部分的基础上。在这篇文章之前，请务必查看之前的文章，以便跟上一些片段，因为我不会在这篇文章中再次涵盖所有概念:
 
-[](/graph-machine-learning-with-python-part-3-unsupervised-learning-aa2854fe0ff2) [## 使用 Python 的图机器学习第 3 部分:无监督学习
-
-### 大都会艺术博物馆中绘画的聚类和嵌入
-
-towardsdatascience.com](/graph-machine-learning-with-python-part-3-unsupervised-learning-aa2854fe0ff2) 
+[](/graph-machine-learning-with-python-part-3-unsupervised-learning-aa2854fe0ff2)  
 
 # 目录
 

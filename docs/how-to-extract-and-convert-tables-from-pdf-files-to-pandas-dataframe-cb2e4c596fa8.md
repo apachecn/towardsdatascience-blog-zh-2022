@@ -70,20 +70,4 @@
 
 *我写的其他文章，你可能会喜欢:*
 
-[](/documenting-your-python-code-9e69671f046a) [## 记录您的 Python 代码
-
-### 正确记录 python 代码需要练习的 3 件事
-
-towardsdatascience.com](/documenting-your-python-code-9e69671f046a) [](/machine-learning-model-as-a-serverless-app-using-google-app-engine-b760de59156) [## 使用谷歌应用引擎的无服务器应用的机器学习模型
-
-### 因此，您构建了一个模型，并希望将其部署为一个无服务器应用程序。让我告诉你如何使用 Docker 来做这件事…
-
-towardsdatascience.com](/machine-learning-model-as-a-serverless-app-using-google-app-engine-b760de59156) [](/machine-learning-model-as-a-serverless-endpoint-using-google-cloud-function-a5ad1080a59e) [## 使用谷歌云功能作为无服务器端点的机器学习模型
-
-### 因此，你已经建立了一个模型，并希望将其生产为谷歌云平台(GCP)上的无服务器解决方案。让我…
-
-towardsdatascience.com](/machine-learning-model-as-a-serverless-endpoint-using-google-cloud-function-a5ad1080a59e) [](/how-to-schedule-a-serverless-google-cloud-function-to-run-periodically-249acf3a652e) [## 如何安排无服务器谷歌云功能定期运行
-
-### 你有一些需要定期运行的代码吗？
-
-towardsdatascience.com](/how-to-schedule-a-serverless-google-cloud-function-to-run-periodically-249acf3a652e)
+[](/documenting-your-python-code-9e69671f046a)  [](/machine-learning-model-as-a-serverless-app-using-google-app-engine-b760de59156)  [](/machine-learning-model-as-a-serverless-endpoint-using-google-cloud-function-a5ad1080a59e)  [](/how-to-schedule-a-serverless-google-cloud-function-to-run-periodically-249acf3a652e) 

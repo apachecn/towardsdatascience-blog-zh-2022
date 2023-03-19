@@ -84,20 +84,8 @@
 
 **更新:这是第二部分！**
 
-[](/data-science-career-switch-is-masters-degree-worth-it-part-2-1110c3440e4b) [## 数据科学职业转换:硕士值得吗？(第二部分)
-
-### 在计划职业转换之前要学习的编程语言和要问的三个问题
-
-towardsdatascience.com](/data-science-career-switch-is-masters-degree-worth-it-part-2-1110c3440e4b) 
+[](/data-science-career-switch-is-masters-degree-worth-it-part-2-1110c3440e4b)  
 
 订阅我的邮件列表:
 
-[](https://nathanthandoko.medium.com/subscribe) [## 在这里加入我的电子邮件列表，我一发表你就会收到通知！
-
-### 在这里加入我的电子邮件列表，我一发表你就会收到通知！你也可以点击下面，如果你想…
-
-nathanthandoko.medium.com](https://nathanthandoko.medium.com/subscribe) [](https://nathanthandoko.medium.com/membership) [## 通过我的推荐链接加入 Medium-Nathan Timothy Handoko
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-nathanthandoko.medium.com](https://nathanthandoko.medium.com/membership)
+[](https://nathanthandoko.medium.com/subscribe)  [](https://nathanthandoko.medium.com/membership) 

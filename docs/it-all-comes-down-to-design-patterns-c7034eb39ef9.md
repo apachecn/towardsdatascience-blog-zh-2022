@@ -211,8 +211,4 @@
 
 **我经常在媒体上写关于领导力、技术&的数据——如果你想阅读我未来的帖子，请*[*‘关注’我*](https://medium.com/@semika) *！**
 
-*[](https://semika.medium.com/subscribe) [## 每当 Semi Koen 发布时收到电子邮件。
-
-### 每当 Semi Koen 发布时收到电子邮件。我经常写关于领导力、技术和数据的文章——如果你愿意的话…
-
-semika.medium.com](https://semika.medium.com/subscribe)*
+*[](https://semika.medium.com/subscribe) *

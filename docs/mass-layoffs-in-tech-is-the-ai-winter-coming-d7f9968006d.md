@@ -112,19 +112,7 @@ Gartner 炒作周期。如果过高的期望得不到满足，这项技术就会
 
 *喜欢这篇文章？你可能也会喜欢下面这些:*
 
-[](/is-small-data-the-next-big-thing-in-data-science-9acc7f24907f) [## “小数据”是数据科学的下一个大事件吗？
-
-### 人工智能先驱吴恩达预测，未来十年将围绕以数据为中心的人工智能。我们可能不会…
-
-towardsdatascience.com](/is-small-data-the-next-big-thing-in-data-science-9acc7f24907f) [](/data-platforms-liberate-data-from-your-legacy-systems-669b643e3124) [## 数据平台—将数据从您的传统系统中解放出来
-
-### 数据分析的潜力经常被分散在公司各处的古老而多样的遗留系统所阻碍…
-
-towardsdatascience.com](/data-platforms-liberate-data-from-your-legacy-systems-669b643e3124) [](/zen-and-the-art-of-data-science-how-to-avoid-gumption-traps-a3590deef870) [## 禅宗和数据科学的艺术——如何避免冒险陷阱
-
-### 即使是最优秀的数据科学家也会在他们的项目中面临挫折和失去动力。哲学家罗伯特会怎么想…
-
-towardsdatascience.com](/zen-and-the-art-of-data-science-how-to-avoid-gumption-traps-a3590deef870) 
+[](/is-small-data-the-next-big-thing-in-data-science-9acc7f24907f)  [](/data-platforms-liberate-data-from-your-legacy-systems-669b643e3124)  [](/zen-and-the-art-of-data-science-how-to-avoid-gumption-traps-a3590deef870)  
 
 # 参考
 

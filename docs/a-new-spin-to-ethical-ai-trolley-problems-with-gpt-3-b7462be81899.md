@@ -12,11 +12,7 @@
 
 在这篇文章中，我从[荒谬的电车问题](https://neal.fun/absurd-trolley-problems/)中用越来越荒谬的电车问题场景来提示 GPT-3(如果你还没有试过，我建议你自己试试这些！).对于每个问题，我分享了同意 GPT-3 决定的其他人的百分比(该信息由网站提供)。让我们看看 GPT 3 号会做出什么样的“道德决定”！
 
-[](https://neal.fun/absurd-trolley-problems/) [## 荒谬的电车问题
-
-### 一个给你越来越荒谬的电车问题的游戏。通过解决所有的手推车来帮助人类解决哲学…
-
-尼尔，有趣](https://neal.fun/absurd-trolley-problems/) 
+[](https://neal.fun/absurd-trolley-problems/)  
 
 # 最初的电车问题
 

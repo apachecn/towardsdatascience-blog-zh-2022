@@ -194,8 +194,4 @@ for _ in range(5):
 
 *如果你觉得这个有用，可以考虑成为* [*高级*](https://ayarmohammed96.medium.com/membership) *会员。如果用这个* [*链接*](https://ayarmohammed96.medium.com/membership) *，我会得到一个小切。*
 
-[](https://ayarmohammed96.medium.com/membership) [## 通过我的推荐链接加入媒体-穆罕默德·阿亚尔
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-ayarmohammed96.medium.com](https://ayarmohammed96.medium.com/membership)
+[](https://ayarmohammed96.medium.com/membership) 

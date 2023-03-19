@@ -20,11 +20,7 @@
 
 我相信大多数电子商务平台收集用户的点击流数据，这基本上是一个简单的表格，由 3 列组成:会话 id、产品 id 和时间戳。实际上，这个表是为您的企业创建本文中描述的产品推荐模型所需的唯一数据。在整个教程中，我们将使用[一个公共 Kaggle 数据集](https://www.kaggle.com/datasets/tunguz/clickstream-data-for-online-shopping) ( [CC0:公共域](https://creativecommons.org/publicdomain/zero/1.0/))，这是一个电子商务商店的点击流数据，您可以在下面找到链接。[1]
 
-[](https://www.kaggle.com/datasets/tunguz/clickstream-data-for-online-shopping) [## 在线购物的点击流数据
-
-### 在线购物数据集的点击流数据
-
-www.kaggle.com](https://www.kaggle.com/datasets/tunguz/clickstream-data-for-online-shopping) 
+[](https://www.kaggle.com/datasets/tunguz/clickstream-data-for-online-shopping)  
 
 Word2Vec 算法是这种方法的核心，用于生成产品嵌入。单词 2Vec 主要在 NLP 和文本上下文中使用。在这个上下文中使用单词 2Vec 有一个类比。产品将被视为一个单词，一系列产品视图(会话)将被视为一个句子。Word2Vec 算法的输出将是乘积的数字表示向量。
 
@@ -34,11 +30,7 @@ Word2Vec 算法是这种方法的核心，用于生成产品嵌入。单词 2Vec
 
 本文更像是一个包含一些编码示例的教程。要了解更多关于这个方法的信息和了解这个项目的故事，我们强烈建议你也阅读这篇文章。
 
-[](/ad2vec-similar-listings-recommender-for-marketplaces-d98f7b6e8f03) [## Ad2Vec:市场的相似列表推荐器
-
-### 如何在推荐系统领域使用 Word2Vec？
-
-towardsdatascience.com](/ad2vec-similar-listings-recommender-for-marketplaces-d98f7b6e8f03) 
+[](/ad2vec-similar-listings-recommender-for-marketplaces-d98f7b6e8f03)  
 
 # 目录
 
@@ -229,29 +221,17 @@ save_final_product_clusters()
 
 这只是对层的一个快速介绍。有关 Layer SDK 和其他功能的更多信息，请访问:
 
- [## 什么是层？|层文档
-
-### Layer 是一个协作的机器学习平台，在这里你可以建立、训练、跟踪和分享你的 ML 模型。它有助于…
-
-docs.app.layer.ai](https://docs.app.layer.ai/docs/) 
+  
 
 ## 集成了层的全笔记本
 
 让我们将所有代码块放在一个 python 笔记本中。下面是完整版的电商产品推荐系统笔记本，带层集成:
 
-[](https://colab.research.google.com/github/layerai/examples/blob/main/recommendation-system/Ecommerce_Recommendation_System.ipynb) [## 谷歌联合实验室
-
-### 用于电子商务推荐系统的笔记本
-
-colab.research.google.com](https://colab.research.google.com/github/layerai/examples/blob/main/recommendation-system/Ecommerce_Recommendation_System.ipynb) 
+[](https://colab.research.google.com/github/layerai/examples/blob/main/recommendation-system/Ecommerce_Recommendation_System.ipynb)  
 
 您也可以通过单击下面的链接查看此项目在图层上的外观:
 
- [## 层
-
-### 电子商务推荐系统
-
-app.layer.ai](https://app.layer.ai/layer/Ecommerce_Recommendation_System/) 
+  
 
 感谢阅读！您的反馈很有价值。请在下面的评论区和我们分享你的想法。
 

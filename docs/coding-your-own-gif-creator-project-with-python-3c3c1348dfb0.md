@@ -18,11 +18,7 @@
 
 在开始这个项目之前，我建议阅读我以前的一篇文章，其中涵盖了七个基本的编程技巧，可以遵循这些技巧来提高 Python 编程语言的生产率。下面提供了到以下文章的链接，包括如何修复一些常见的低效编程实践的简要指南。
 
-[](/7-python-programming-tips-to-improve-your-productivity-a57802f225b6) [## 提高生产力的 7 个 Python 编程技巧
-
-### 通过修正一些常见的不良编程实践，使您的 Python 编码更加有效和高效
-
-towardsdatascience.com](/7-python-programming-tips-to-improve-your-productivity-a57802f225b6) 
+[](/7-python-programming-tips-to-improve-your-productivity-a57802f225b6)  
 
 # 用 Python 开发 GIF creator 项目:
 
@@ -159,28 +155,12 @@ print("The GIF file is successfully created!")
 
 如果你想在我的文章发表后第一时间得到通知，请点击下面的[链接](https://bharath-k1297.medium.com/subscribe)订阅邮件推荐。如果你希望支持其他作者和我，请订阅下面的链接。
 
-[](https://bharath-k1297.medium.com/membership) [## 通过我的推荐链接加入媒体
-
-### 阅读 Bharath K(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-bharath-k1297.medium.com](https://bharath-k1297.medium.com/membership) 
+[](https://bharath-k1297.medium.com/membership)  
 
 如果你对这篇文章中提到的各点有任何疑问，请在下面的评论中告诉我。我会尽快给你回复。
 
 看看我的一些与本文主题相关的文章，你可能也会喜欢阅读！
 
-[](/the-ultimate-replacements-to-jupyter-notebooks-51da534b559f) [## Jupyter 笔记本的终极替代品
-
-### 讨论 Jupyter 笔记本电脑的最佳替代方案，用于解释数据科学项目
-
-towardsdatascience.com](/the-ultimate-replacements-to-jupyter-notebooks-51da534b559f) [](/7-best-research-papers-to-read-to-get-started-with-deep-learning-projects-59e11f7b9c32) [## 开始深度学习项目的 7 篇最佳研究论文
-
-### 七篇最好的研究论文经受住了时间的考验，将帮助你创造惊人的项目
-
-towardsdatascience.com](/7-best-research-papers-to-read-to-get-started-with-deep-learning-projects-59e11f7b9c32) [](/visualizing-cpu-memory-and-gpu-utilities-with-python-8028d859c2b0) [## 用 Python 可视化 CPU、内存和 GPU 工具
-
-### 分析 CPU、内存使用和 GPU 组件，以监控您的 PC 和深度学习项目
-
-towardsdatascience.com](/visualizing-cpu-memory-and-gpu-utilities-with-python-8028d859c2b0) 
+[](/the-ultimate-replacements-to-jupyter-notebooks-51da534b559f)  [](/7-best-research-papers-to-read-to-get-started-with-deep-learning-projects-59e11f7b9c32)  [](/visualizing-cpu-memory-and-gpu-utilities-with-python-8028d859c2b0)  
 
 谢谢你们坚持到最后。我希望你们都喜欢这篇文章。祝大家有美好的一天！

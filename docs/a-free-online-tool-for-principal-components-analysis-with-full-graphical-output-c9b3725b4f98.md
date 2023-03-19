@@ -24,27 +24,7 @@ PCA 是一种用于减少数据集中的维数同时保留最重要信息的技�
 
 如果你关注我，你已经知道我是客户端 web 编程的强烈拥护者。从数字数据分析和模拟到数据废弃、文本分析和合成、加密、甚至增强和虚拟现实，我喜欢为网络浏览器编写所有这些代码。几个例子项目和阅读:
 
-[](/websites-for-statistics-and-data-analysis-on-every-device-ebf92bec3e53) [## 在每台设备上进行统计和数据分析的网站
-
-### 我对网络浏览器中数据分析在线工具的选择。
-
-towardsdatascience.com](/websites-for-statistics-and-data-analysis-on-every-device-ebf92bec3e53) [](https://pub.towardsai.net/interactive-augmented-reality-web-apps-to-enable-immersive-experiences-for-science-education-dce51889473f) [## 交互式增强现实网络应用为科学教育带来身临其境的体验…
-
-### 多媒体材料以独特的方式帮助教师更好地传递知识，帮助学生掌握概念。虚拟…
-
-pub.towardsai.net](https://pub.towardsai.net/interactive-augmented-reality-web-apps-to-enable-immersive-experiences-for-science-education-dce51889473f) [](/exquisite-hand-and-finger-tracking-in-web-browsers-with-mediapipes-machine-learning-models-2c4c2beee5df) [## 借助 MediaPipe 的机器学习模型，在网络浏览器中实现精致的手和手指跟踪
-
-### 了解这个精通 JavaScript 风格的计算机视觉库，这里重点介绍它的手部跟踪工具…
-
-towardsdatascience.com](/exquisite-hand-and-finger-tracking-in-web-browsers-with-mediapipes-machine-learning-models-2c4c2beee5df) [](https://medium.com/age-of-awareness/metaverse-not-sure-but-webxr-hell-yes-12af5b302e08) [## 元宇宙？不确定，但是 WebXR？太好了。
-
-### 未来互联网的核心技术之一，我们已经将其应用于娱乐之外的领域。
-
-medium.com](https://medium.com/age-of-awareness/metaverse-not-sure-but-webxr-hell-yes-12af5b302e08) [](/live-display-of-cryptocurrency-data-in-a-vr-environment-on-the-web-af476376d018) [## 网上虚拟现实环境中加密货币数据的实时显示
-
-### 一种“虚拟股票交易中心”
-
-towardsdatascience.com](/live-display-of-cryptocurrency-data-in-a-vr-environment-on-the-web-af476376d018) 
+[](/websites-for-statistics-and-data-analysis-on-every-device-ebf92bec3e53)  [](https://pub.towardsai.net/interactive-augmented-reality-web-apps-to-enable-immersive-experiences-for-science-education-dce51889473f)  [](/exquisite-hand-and-finger-tracking-in-web-browsers-with-mediapipes-machine-learning-models-2c4c2beee5df)  [](https://medium.com/age-of-awareness/metaverse-not-sure-but-webxr-hell-yes-12af5b302e08)  [](/live-display-of-cryptocurrency-data-in-a-vr-environment-on-the-web-af476376d018)  
 
 # 在线免费 PCA 的网络应用程序
 
@@ -120,26 +100,10 @@ towardsdatascience.com](/live-display-of-cryptocurrency-data-in-a-vr-environment
 
 我自己的逐步理解 PCA 的指南，包括低级代码，您可以在 web 浏览器中尝试、编辑和使用，以掌握 PCA 的最佳细节:
 
- [## 主成分分析权威指南
-
-### 一个教程剥离低层次的代码，您可以编辑和运行在您的浏览器，以了解 PCA 一劳永逸…
-
-towardsdatascience.com](/the-definitive-guide-to-principal-components-analysis-84cd73640302) 
+  
 
 这里有一些其他资源。对我来说，没有一个足够清楚地涵盖了整个事情，但是您至少可以获得一些步骤的编写良好的部分:
 
-[](https://en.wikipedia.org/wiki/Principal_component_analysis#Computing_PCA_using_the_covariance_method) [## 主成分分析-维基百科
-
-### 实坐标空间中点集合的主成分是一系列单位向量，其中…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Principal_component_analysis#Computing_PCA_using_the_covariance_method)  [## 协方差矩阵
-
-### 矩阵运算入门梯队矩阵矩阵性质矩阵逆矩阵应用附录本…
-
-stattrek.com](https://stattrek.com/matrix-algebra/covariance-matrix.aspx) [](/the-mathematics-behind-principal-component-analysis-fff2d7f4b643) [## 主成分分析背后的数学
-
-### 从原始数据到主成分
-
-towardsdatascience.com](/the-mathematics-behind-principal-component-analysis-fff2d7f4b643) 
+[](https://en.wikipedia.org/wiki/Principal_component_analysis#Computing_PCA_using_the_covariance_method)    [](/the-mathematics-behind-principal-component-analysis-fff2d7f4b643)  
 
 www.lucianoabriata.com*我写作并拍摄我广泛兴趣范围内的一切事物:自然、科学、技术、编程等等。* [***成为中级会员***](https://lucianosphere.medium.com/membership) *访问其所有故事和* [***订阅获取我的新故事***](https://lucianosphere.medium.com/subscribe) ***通过电子邮件*** *(平台的附属链接，我可以免费获得小额收入)。到* ***咨询关于小职位*** *查看我的* [***服务页面这里***](https://lucianoabriata.altervista.org/services/index.html) *。或者* [***联系我这里***](https://lucianoabriata.altervista.org/office/contact.html) ***。***

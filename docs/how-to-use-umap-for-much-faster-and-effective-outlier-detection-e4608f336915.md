@@ -18,19 +18,11 @@
 
 那么，在处理如此常见的大规模、百万行数据集时，我们如何才能在离群点检测的速度和准确性方面表现出色呢？这就是 UMAP 的用武之地。
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-BEXGBoost
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。支持我的工作，给我买一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+[](https://ibexorigin.medium.com/membership)  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex) [## 阿尔法信号|机器学习的极品。艾总结的。
-
-### 留在循环中，不用花无数时间浏览下一个突破；我们的算法识别…
-
-alphasignal.ai](https://alphasignal.ai/?referrer=Bex) 
+[](https://alphasignal.ai/?referrer=Bex)  
 
 # 什么是 UMAP？
 
@@ -48,11 +40,7 @@ UMAP 的设计使得无论你将数据投影到哪个维度，它都尽可能地
 
 > 如果你想更多地了解 UMAP 及其令人敬畏的特色，我在以前的一篇文章中已经深入地讨论过了:
 
-[](/beginners-guide-to-umap-for-reducing-dimensionality-and-visualizing-100-dimensional-datasets-ff5590fb17be) [## 如何用 UMAP 以惊人的美丽方式分析 100 维数据
-
-### 编辑描述
-
-towardsdatascience.com](/beginners-guide-to-umap-for-reducing-dimensionality-and-visualizing-100-dimensional-datasets-ff5590fb17be) 
+[](/beginners-guide-to-umap-for-reducing-dimensionality-and-visualizing-100-dimensional-datasets-ff5590fb17be)  
 
 # 用纯隔离林设置基线
 
@@ -100,34 +88,10 @@ towardsdatascience.com](/beginners-guide-to-umap-for-reducing-dimensionality-and
 
 感谢您的阅读！
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium。
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。你可以给我买一个 coffee☕，用你的…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) [](https://ibexorigin.medium.com/subscribe) [## 每当 Bex T .发布时收到电子邮件。
-
-### 每当 Bex T .发布时收到电子邮件。注册后，如果您还没有中型帐户，您将创建一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/subscribe) 
+[](https://ibexorigin.medium.com/membership)  [](https://ibexorigin.medium.com/subscribe)  
 
 ## 阅读更多来自我的故事…
 
 [](/comprehensive-guide-to-deploying-any-ml-model-as-apis-with-python-and-aws-lambda-b441d257f1ec) [## 使用 Python 和 AWS Lambda 将任何 ML 模型部署为 API 的综合指南
 
-towardsdatascience.com](/comprehensive-guide-to-deploying-any-ml-model-as-apis-with-python-and-aws-lambda-b441d257f1ec) [](/25-advanced-pandas-functions-people-are-using-without-telling-you-b65fa442f0f4) [## 人们在不告诉你的情况下使用的 25 种先进的熊猫功能
-
-### ExcelWriter，因式分解，分解，挤压，T，遮罩，idxmax，剪辑，…
-
-towardsdatascience.com](/25-advanced-pandas-functions-people-are-using-without-telling-you-b65fa442f0f4) [](/forget-roadmaps-here-is-how-to-dominate-the-data-science-stack-blazingly-fast-a49e62f2bcf) [## 别管路线图了！以下是如何快速掌控数据科学堆栈的方法
-
-### 以前所未有的方式学习新软件包
-
-towardsdatascience.com](/forget-roadmaps-here-is-how-to-dominate-the-data-science-stack-blazingly-fast-a49e62f2bcf) [](/25-numpy-treasures-buried-in-the-docs-waiting-to-be-found-60d8e17931cd) [## 埋藏在文件中等待被发现的 25 件宝贝
-
-### 成为一名忍者
-
-towardsdatascience.com](/25-numpy-treasures-buried-in-the-docs-waiting-to-be-found-60d8e17931cd) [](https://ibexorigin.medium.com/28-weekly-machine-learning-tricks-and-resources-that-are-pure-gems-1-8e5259a93c94) [## 28 个每周机器学习技巧和资源，它们是纯粹的珍宝#1
-
-### 一次学习一个片段的机器学习
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/28-weekly-machine-learning-tricks-and-resources-that-are-pure-gems-1-8e5259a93c94)
+towardsdatascience.com](/comprehensive-guide-to-deploying-any-ml-model-as-apis-with-python-and-aws-lambda-b441d257f1ec) [](/25-advanced-pandas-functions-people-are-using-without-telling-you-b65fa442f0f4)  [](/forget-roadmaps-here-is-how-to-dominate-the-data-science-stack-blazingly-fast-a49e62f2bcf)  [](/25-numpy-treasures-buried-in-the-docs-waiting-to-be-found-60d8e17931cd)  [](https://ibexorigin.medium.com/28-weekly-machine-learning-tricks-and-resources-that-are-pure-gems-1-8e5259a93c94) 

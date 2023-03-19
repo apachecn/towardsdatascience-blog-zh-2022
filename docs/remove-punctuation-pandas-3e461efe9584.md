@@ -143,24 +143,8 @@ print(df)
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership) 
+[](https://gmyrianthous.medium.com/membership)  
 
 **相关文章你可能也喜欢**
 
-[](/how-to-merge-pandas-dataframes-221e49c41bec) [## 如何合并熊猫数据帧
-
-### 对熊猫数据帧执行左、右、内和反连接
-
-towardsdatascience.com](/how-to-merge-pandas-dataframes-221e49c41bec) [](/setuptools-python-571e7d5500f2) [## Python 中的 setup.py 与 setup.cfg
-
-### 使用 setuptools 管理依赖项和分发 Python 包
-
-towardsdatascience.com](/setuptools-python-571e7d5500f2) [](/save-trained-models-python-22a11376d975) [## 如何用 Python 在磁盘上保存训练好的模型
-
-### 用 scikit 探索模型持久性——在 Python 中学习
-
-towardsdatascience.com](/save-trained-models-python-22a11376d975)
+[](/how-to-merge-pandas-dataframes-221e49c41bec)  [](/setuptools-python-571e7d5500f2)  [](/save-trained-models-python-22a11376d975) 

@@ -66,11 +66,7 @@ Build visuals showing the number of orders received per day**3\. Analyze the vol
 
 有关物流绩效管理的更多信息
 
-[](http://samirsaci.com) [## 萨米尔·萨奇
-
-### 数据科学博客，专注于仓储，运输，数据可视化和机器人流程自动化…
-
-samirsaci.com](http://samirsaci.com) 
+[](http://samirsaci.com)  
 
 # 二。使用 DataPane 构建报告
 
@@ -234,11 +230,7 @@ datapane login --server=https://datapane.com/ --token=yourtoken
 > *洞察*
 > 第一周:你可以看到 A09 和 A10 代表了件量的近 **20%，这可能会在订单高峰时造成瓶颈。**
 
-[](/optimizing-warehouse-operations-with-python-part-1-83d02d001845) [## 使用 Python 的订单批处理提高仓库生产率
-
-### 设计一个模拟模型来估计几个单一提货人路线问题策略在您的提货…
-
-towardsdatascience.com](/optimizing-warehouse-operations-with-python-part-1-83d02d001845) 
+[](/optimizing-warehouse-operations-with-python-part-1-83d02d001845)  
 
 ## 3.分析帕累托
 
@@ -293,11 +285,7 @@ towardsdatascience.com](/optimizing-warehouse-operations-with-python-part-1-83d0
 
 欲知详情，
 
-[](https://www.samirsaci.com/automated-supply-chain-control-tower-with-python/) [## 使用 Python 的自动化供应链控制塔
-
-### 自动化和报告利用自动化解决方案优化您的供应链网络，跟踪您的货件和…
-
-www.samirsaci.com](https://www.samirsaci.com/automated-supply-chain-control-tower-with-python/) 
+[](https://www.samirsaci.com/automated-supply-chain-control-tower-with-python/)  
 
 # 关于我
 
@@ -305,11 +293,7 @@ www.samirsaci.com](https://www.samirsaci.com/automated-supply-chain-control-towe
 
 如果你对数据分析和供应链感兴趣，可以看看我的网站
 
-[](https://samirsaci.com) [## Samir Saci |数据科学与生产力
-
-### 专注于数据科学、个人生产力、自动化、运筹学和可持续发展的技术博客
-
-samirsaci.com](https://samirsaci.com) 
+[](https://samirsaci.com)  
 
 # 参考
 

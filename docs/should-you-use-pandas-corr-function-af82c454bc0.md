@@ -26,15 +26,7 @@
 
 如果您查看该功能的[文档](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.corr.html)，根据设计，它具有最小配置。它允许您更改计算相关性的方法，例如，它提供了 Pearson、Spearman、Kendall Tau 计算相关性的方法。要了解更多关于这些方法的信息，请参阅下面的文章。
 
-[](/clearly-explained-pearson-v-s-spearman-correlation-coefficient-ada2f473b8) [## 解释清楚:皮尔逊 V/S 斯皮尔曼相关系数
-
-### 在这篇文章中了解更多何时使用哪个系数
-
-towardsdatascience.com](/clearly-explained-pearson-v-s-spearman-correlation-coefficient-ada2f473b8) [](/kendall-rank-correlation-explained-dee01d99c535) [## 肯德尔等级相关解释。
-
-### 肯德尔秩相关(也称为肯德尔的 tau-b)怎么样？这是什么？我如何开始？我什么时候使用…
-
-towardsdatascience.com](/kendall-rank-correlation-explained-dee01d99c535) 
+[](/clearly-explained-pearson-v-s-spearman-correlation-coefficient-ada2f473b8)  [](/kendall-rank-correlation-explained-dee01d99c535)  
 
 然而不管用什么方法。DataFrame.corr()函数仅返回由相关值组成的 DataFrame。
 
@@ -42,11 +34,7 @@ towardsdatascience.com](/kendall-rank-correlation-explained-dee01d99c535)
 
 相关性只是故事的一半。当我们谈论变量之间的相关性时，我们理想情况下想要度量的是整个总体中变量之间的相关性。然而，大多数数据科学家处理的是数据样本。因此，如果我们获得不同的样本，我们可能会有不同的相关分数。因此，我们需要评估我们计算的相关值的**显著性**，这取决于样本大小。关于显著性检验的理论公式，请查阅这篇文章。
 
-[](/eveything-you-need-to-know-about-interpreting-correlations-2c485841c0b8) [## 关于解释相关性你需要知道的一切
-
-### 并非所有的相关性都是表面上看起来的那样
-
-towardsdatascience.com](/eveything-you-need-to-know-about-interpreting-correlations-2c485841c0b8) 
+[](/eveything-you-need-to-know-about-interpreting-correlations-2c485841c0b8)  
 
 # 如果不是 corr()还有什么？
 

@@ -134,16 +134,4 @@ Similarity between Sent2 and Sent3 = 0.462 ## moderate; mentioned US
 
 **你可能会发现其他博客也很鼓舞人心，**
 
-[](/6-sql-tricks-every-data-scientist-should-know-f84be499aea5) [## 每个数据科学家都应该知道的 6 个 SQL 技巧
-
-### 提高分析效率的 SQL 技巧
-
-towardsdatascience.com](/6-sql-tricks-every-data-scientist-should-know-f84be499aea5) [](/best-of-both-worlds-automated-and-dynamic-sql-queries-from-python-5b74a24501b0) [## 两全其美:来自 Python 的自动化和动态 SQL 查询
-
-### 通过 SQL 和 Python 集成将自动化带到新的高度
-
-towardsdatascience.com](/best-of-both-worlds-automated-and-dynamic-sql-queries-from-python-5b74a24501b0) [](/4-hidden-gems-for-idiomatic-pandas-code-99c706e6ce93) [## 地道熊猫代码的 4 个隐藏的宝石
-
-### 分享更多熊猫提示来提高你的数据处理水平
-
-towardsdatascience.com](/4-hidden-gems-for-idiomatic-pandas-code-99c706e6ce93)
+[](/6-sql-tricks-every-data-scientist-should-know-f84be499aea5)  [](/best-of-both-worlds-automated-and-dynamic-sql-queries-from-python-5b74a24501b0)  [](/4-hidden-gems-for-idiomatic-pandas-code-99c706e6ce93) 

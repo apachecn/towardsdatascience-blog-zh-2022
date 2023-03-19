@@ -287,20 +287,8 @@ Streamlit Cloud 是您访问时加载应用程序最快的。然而，拥抱脸�
 
 如果你喜欢这篇文章，请随意[关注我](https://medium.com/@bohmian)或者看看我下面的其他文章！:)
 
-[](https://medium.datadriveninvestor.com/build-a-stock-sentiment-web-app-with-flask-and-deploy-it-online-3930e58a236c) [## 用 Flask 构建一个股票情绪 Web 应用程序，并在线部署
-
-### 提取金融新闻标题上的股票情绪，在 Flask web 应用程序中绘制每小时/每天的情绪，并部署它…
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/build-a-stock-sentiment-web-app-with-flask-and-deploy-it-online-3930e58a236c) [](https://medium.datadriveninvestor.com/train-and-deploy-an-nlp-news-classifier-web-app-to-the-cloud-for-free-82655b6b32f4) [## 免费培训和部署一个 NLP 新闻分类器 Web 应用程序到云
-
-### 训练 NLP 模型、将其嵌入 Python Flask Web 应用程序并将其部署到云上的分步指南
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/train-and-deploy-an-nlp-news-classifier-web-app-to-the-cloud-for-free-82655b6b32f4) 
+[](https://medium.datadriveninvestor.com/build-a-stock-sentiment-web-app-with-flask-and-deploy-it-online-3930e58a236c)  [](https://medium.datadriveninvestor.com/train-and-deploy-an-nlp-news-classifier-web-app-to-the-cloud-for-free-82655b6b32f4)  
 
 如果你喜欢这样的文章，并希望支持像我这样的作家，请考虑[注册成为媒体会员](https://medium.com/@bohmian/membership)。每月 5 美元，你就可以无限制地阅读 Medium 上的任何文章。如果你注册使用我的链接，我会赚一小笔佣金，不需要你额外付费。
 
-[](https://medium.com/@bohmian/membership) [## 通过我的推荐链接加入 Medium-Bohmian
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@bohmian/membership)
+[](https://medium.com/@bohmian/membership) 

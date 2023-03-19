@@ -84,19 +84,11 @@ FROM daily_sales
 
 不确定接下来要读什么？我为你选了另一篇文章:
 
-[](/3-most-valuable-data-science-skills-that-increased-my-salary-by-60-89b4bbe0b34f) [## 3 项最有价值的数据科学技能让我的薪水增加了 60%
-
-### 提示:机器学习不是其中之一
-
-towardsdatascience.com](/3-most-valuable-data-science-skills-that-increased-my-salary-by-60-89b4bbe0b34f) 
+[](/3-most-valuable-data-science-skills-that-increased-my-salary-by-60-89b4bbe0b34f)  
 
 **还有一个:**
 
-[](/the-5-best-data-science-books-you-should-read-in-2022-9209616c203f) [## 2022 年你应该阅读的 5 本最佳数据科学书籍
-
-### 以下是我喜欢的最好的数据科学书籍
-
-towardsdatascience.com](/the-5-best-data-science-books-you-should-read-in-2022-9209616c203f) 
+[](/the-5-best-data-science-books-you-should-read-in-2022-9209616c203f)  
 
 # -特伦斯·申
 

@@ -35,11 +35,7 @@
 
 > 请随意尝试，并分享反馈🙏。(还处于粗略状态) [www.pinklion.xyz](http://www.pinklion.xyz/)
 
-[](https://www.pinklion.xyz/) [## 粉色狮子
-
-### 不再猜测，投资时使用科学。股票，基金和密码在一个地方。用机器学习改善你的投资组合。
-
-www.pinklion.xyz](https://www.pinklion.xyz/) 
+[](https://www.pinklion.xyz/)  
 
 # 1.根据性能和规模对语言模型进行比较和排序
 

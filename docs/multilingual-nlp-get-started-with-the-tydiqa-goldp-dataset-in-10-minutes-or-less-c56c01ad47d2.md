@@ -137,11 +137,7 @@ TyDiQA-GoldP 很难，因为它的创建方式，也因为语言的选择(例如
 
 如果您对这一行感兴趣，请考虑通过我的推荐链接获得中级会员资格来支持我:
 
-[](https://namiyousef96.medium.com/membership) [## 用我的推荐链接加入 Medium-yousefnami
-
-### 阅读 yousefnami(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-namiyousef96.medium.com](https://namiyousef96.medium.com/membership) 
+[](https://namiyousef96.medium.com/membership)  
 
 这对我很有帮助，因为你的一部分会员费会归我(别担心，这对你没有额外的费用！)同时让您完全访问 Medium 上的所有文章！
 
@@ -151,37 +147,21 @@ namiyousef96.medium.com](https://namiyousef96.medium.com/membership)
 
 **TyDiQA**
 
-[](https://github.com/google-research-datasets/tydiqa) [## GitHub-Google-research-datasets/TyDi QA:TyDi QA 包含 200k 人类注释问答…
-
-### TyDi QA 包含 200，000 人注释的问答对，11 种不同类型的语言，没有…
-
-github.com](https://github.com/google-research-datasets/tydiqa) 
+[](https://github.com/google-research-datasets/tydiqa)  
 
 **极限**
 
-[](https://github.com/google-research/xtreme) [## GitHub-Google-research/XTREME:XTREME 是跨语言评估的基准…
-
-### XTREME 是评估预训练多语言模型跨语言概括能力的基准…
-
-github.com](https://github.com/google-research/xtreme) 
+[](https://github.com/google-research/xtreme)  
 
 ## 拥抱面孔储存库
 
 **泰迪卡**
 
-[](https://huggingface.co/datasets/tydiqa) [## 拥抱脸的 tydiqa 数据集
-
-### 我们正在通过开源和开放科学来推进和民主化人工智能的旅程。
-
-huggingface.co](https://huggingface.co/datasets/tydiqa) 
+[](https://huggingface.co/datasets/tydiqa)  
 
 **Xtreme**
 
-[](https://huggingface.co/datasets/xtreme#licensing-information) [## 拥抱脸的极限数据集
-
-### 注释创建者:发现跨语言自然语言推理(XNLI)语料库是一个众包集合…
-
-huggingface.co](https://huggingface.co/datasets/xtreme#licensing-information) 
+[](https://huggingface.co/datasets/xtreme#licensing-information)  
 
 ## 引用表
 

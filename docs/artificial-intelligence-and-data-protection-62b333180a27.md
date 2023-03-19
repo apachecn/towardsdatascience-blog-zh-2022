@@ -43,20 +43,4 @@
 
 如果想进一步阅读，你可能会对下面的链接感兴趣:
 
-[](/safety-of-artificial-intelligence-applications-1ab19606bf43) [## 人工智能应用的安全性
-
-### 对使用人工智能可能引发的问题的探讨
-
-towardsdatascience.com](/safety-of-artificial-intelligence-applications-1ab19606bf43) [](/5-key-ai-problems-related-to-data-privacy-f39558290530) [## 与数据隐私相关的 5 个关键人工智能问题
-
-### 解决机器学习模型的问题将如何提高数据隐私合规性
-
-towardsdatascience.com](/5-key-ai-problems-related-to-data-privacy-f39558290530) [](/current-and-future-trends-in-data-science-and-ai-b404105e73ca) [## 数据科学和人工智能的当前和未来趋势
-
-### 以及对企业界的影响
-
-towardsdatascience.com](/current-and-future-trends-in-data-science-and-ai-b404105e73ca) [](https://pub.towardsai.net/what-is-artificial-intelligence-ai-deccb034f192) [## 什么是人工智能(AI)？
-
-### 人工智能(AI)的经典和现代定义
-
-pub.towardsai.net](https://pub.towardsai.net/what-is-artificial-intelligence-ai-deccb034f192)
+[](/safety-of-artificial-intelligence-applications-1ab19606bf43)  [](/5-key-ai-problems-related-to-data-privacy-f39558290530)  [](/current-and-future-trends-in-data-science-and-ai-b404105e73ca)  [](https://pub.towardsai.net/what-is-artificial-intelligence-ai-deccb034f192) 

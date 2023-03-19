@@ -14,11 +14,7 @@ Postgres 来了(图片由[四月宠物杂交](https://unsplash.com/@apriiil)在 
 
 想要连接到非 PostgreSQL 的数据库？查看下面的文章。
 
-[](https://mikehuls.medium.com/how-to-make-a-database-connection-in-python-for-absolute-beginners-e2bfd8e4e52) [## 绝对初学者如何用 Python 做数据库连接
-
-### 连接 MS SQL Server、MySQL、Oracle 和其他数据库的 3 个步骤(+示例)
-
-mikehuls.medium.com](https://mikehuls.medium.com/how-to-make-a-database-connection-in-python-for-absolute-beginners-e2bfd8e4e52) 
+[](https://mikehuls.medium.com/how-to-make-a-database-connection-in-python-for-absolute-beginners-e2bfd8e4e52)  
 
 ## 生成 SQL 查询
 
@@ -61,11 +57,7 @@ Psycopg2 是一个为 Python 编写的 PostgreSQL 数据库适配器。它是为
 pip install pscopg2
 ```
 
-[](/virtual-environments-for-absolute-beginners-what-is-it-and-how-to-create-one-examples-a48da8982d4b) [## 绝对初学者的虚拟环境——什么是虚拟环境，如何创建虚拟环境(+例子)
-
-### 深入探究 Python 虚拟环境、pip 和避免纠缠依赖
-
-towardsdatascience.com](/virtual-environments-for-absolute-beginners-what-is-it-and-how-to-create-one-examples-a48da8982d4b) 
+[](/virtual-environments-for-absolute-beginners-what-is-it-and-how-to-create-one-examples-a48da8982d4b)  
 
 ## 第一步。创建连接
 
@@ -75,11 +67,7 @@ towardsdatascience.com](/virtual-environments-for-absolute-beginners-what-is-it-
 
 通过学习如何应用下面文章中的`env files`来防止您的密码泄露:
 
-[](/keep-your-code-secure-by-using-environment-variables-and-env-files-4688a70ea286) [## 通过使用环境变量和 env 文件来保证代码的安全
-
-### 安全地加载一个文件，其中包含我们的应用程序所需的所有机密数据，如密码、令牌等
-
-towardsdatascience.com](/keep-your-code-secure-by-using-environment-variables-and-env-files-4688a70ea286) 
+[](/keep-your-code-secure-by-using-environment-variables-and-env-files-4688a70ea286)  
 
 ## 第二步。创建游标并执行
 
@@ -90,21 +78,13 @@ towardsdatascience.com](/keep-your-code-secure-by-using-environment-variables-an
 1.  上下文管理器中的所有查询都作为一个事务来处理。任何失败的`cursor.execute`都将导致先前的回滚
 2.  当我们退出程序块时，光标将自动关闭
 
-[](https://medium.com/geekculture/understanding-python-context-managers-for-absolute-beginners-4873b6249f16) [## 绝对初学者理解 Python 上下文管理器
-
-### 理解关于光剑的 WITH 语句
-
-medium.com](https://medium.com/geekculture/understanding-python-context-managers-for-absolute-beginners-4873b6249f16) 
+[](https://medium.com/geekculture/understanding-python-context-managers-for-absolute-beginners-4873b6249f16)  
 
 ## 第三步。示例查询
 
 并不是说我们的数据库连接已经建立，我们可以开始查询我们的数据库。在下面的文章中，我们配置了一个到 MS SQL Server(以及其他数据库)的连接。本文还包含一些非常有用的示例查询，您也可以将其应用于我们的 psycopg2 连接。请务必查看它们，以便开始跑步。
 
-[](https://mikehuls.medium.com/how-to-make-a-database-connection-in-python-for-absolute-beginners-e2bfd8e4e52) [## 绝对初学者如何用 Python 做数据库连接
-
-### 连接 MS SQL Server、MySQL、Oracle 和其他数据库的 3 个步骤(+示例)
-
-mikehuls.medium.com](https://mikehuls.medium.com/how-to-make-a-database-connection-in-python-for-absolute-beginners-e2bfd8e4e52) 
+[](https://mikehuls.medium.com/how-to-make-a-database-connection-in-python-for-absolute-beginners-e2bfd8e4e52)  
 
 # 重要的
 
@@ -114,11 +94,7 @@ mikehuls.medium.com](https://mikehuls.medium.com/how-to-make-a-database-connecti
 
 现在您的脚本可以连接到数据库，您可以开始编写 SQL，如下文所示。查看 [**此链接**](https://mikehuls.com/articles?tags=sql) 了解许多便捷查询的概述。另请查看本文 中的 [**部分，该部分详细介绍了如何实现**数据库迁移**；这样你就可以使用 Python 来控制数据库结构的版本！非常有用！**](https://mikehuls.medium.com/python-database-migrations-for-beginners-getting-started-with-alembic-84e4a73a2cca)
 
-[](/postgresql-how-to-upsert-safely-easily-and-fast-246040514933) [## PostgreSQL —如何安全、轻松、快速地进行升级
-
-### 防止重复，插入新记录，更新现有记录
-
-towardsdatascience.com](/postgresql-how-to-upsert-safely-easily-and-fast-246040514933) 
+[](/postgresql-how-to-upsert-safely-easily-and-fast-246040514933)  
 
 # 结论
 
@@ -138,8 +114,4 @@ towardsdatascience.com](/postgresql-how-to-upsert-safely-easily-and-fast-2460405
 
 *又及:喜欢我正在做的事吗？* [*跟我来！*](https://mikehuls.medium.com/membership)
 
-[](https://mikehuls.medium.com/membership) [## 通过我的推荐链接加入 Medium—Mike Huls
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-mikehuls.medium.com](https://mikehuls.medium.com/membership)
+[](https://mikehuls.medium.com/membership) 

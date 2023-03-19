@@ -52,16 +52,4 @@
 
 ## 你可能也会喜欢…
 
-[](https://medium.datadriveninvestor.com/how-data-scientists-can-develop-business-acumen-870eb55866e6) [## 数据科学家如何培养商业头脑
-
-### 掌握这一必备的软技能，才能脱颖而出
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/how-data-scientists-can-develop-business-acumen-870eb55866e6) [](/how-to-a-tell-story-with-data-3200bfadce6d) [## 如何用数据讲故事
-
-### 有效展示数据结果的技巧
-
-towardsdatascience.com](/how-to-a-tell-story-with-data-3200bfadce6d) [](/how-to-create-a-successful-data-presentation-7eae7a9a41f) [## 如何创建成功的数据演示
-
-### 针对不同受众的演示技巧
-
-towardsdatascience.com](/how-to-create-a-successful-data-presentation-7eae7a9a41f)
+[](https://medium.datadriveninvestor.com/how-data-scientists-can-develop-business-acumen-870eb55866e6)  [](/how-to-a-tell-story-with-data-3200bfadce6d)  [](/how-to-create-a-successful-data-presentation-7eae7a9a41f) 

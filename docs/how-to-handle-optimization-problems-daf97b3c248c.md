@@ -314,14 +314,6 @@ for emp in model.Employees:
 
 ## 有关系的
 
-[](/why-every-data-scientist-should-learn-mathematical-optimization-3ac102663456) [## 为什么每个数据科学家都应该学习数学优化
-
-### 数据科学课程的重点是数据可视化，特征工程，数据处理，(非)监督学习…
-
-towardsdatascience.com](/why-every-data-scientist-should-learn-mathematical-optimization-3ac102663456) [](/taking-your-optimization-skills-to-the-next-level-de47a9c51167) [## 让您的优化技能更上一层楼
-
-### 软约束、线性化、多目标等等
-
-towardsdatascience.com](/taking-your-optimization-skills-to-the-next-level-de47a9c51167) 
+[](/why-every-data-scientist-should-learn-mathematical-optimization-3ac102663456)  [](/taking-your-optimization-skills-to-the-next-level-de47a9c51167)  
 
 *别忘了* [*订阅*](https://hennie-de-harder.medium.com/subscribe) *如果你想在我发表新文章时收到电子邮件。*

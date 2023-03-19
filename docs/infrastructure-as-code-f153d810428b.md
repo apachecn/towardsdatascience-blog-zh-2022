@@ -76,24 +76,8 @@ IaC 可以帮助您摆脱基础架构资源的手动配置和部署，并提供�
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership) 
+[](https://gmyrianthous.medium.com/membership)  
 
 **相关文章你可能也喜欢**
 
-[](/diagrams-as-code-python-d9cbaa959ed5) [## Python 中作为代码的图
-
-### 用 Python 创建云系统架构图
-
-towardsdatascience.com](/diagrams-as-code-python-d9cbaa959ed5) [](/apache-airflow-architecture-496b9cb28288) [## 阿帕奇气流架构
-
-### 深入探讨 Apache Airflow 架构及其如何编排工作流
-
-towardsdatascience.com](/apache-airflow-architecture-496b9cb28288) [](/docker-image-vs-container-7d9acab24c5) [## Docker 图像与容器
-
-### 理解 Docker 中图像和容器的区别
-
-towardsdatascience.com](/docker-image-vs-container-7d9acab24c5)
+[](/diagrams-as-code-python-d9cbaa959ed5)  [](/apache-airflow-architecture-496b9cb28288)  [](/docker-image-vs-container-7d9acab24c5) 

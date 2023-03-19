@@ -12,11 +12,7 @@
 
 在我之前的文章中，我们讨论并推导了指数分布，你可以在这里查看:
 
-[](/exponential-distribution-simply-explained-349d05b1bdb8) [## 简单解释了指数分布
-
-### 指数分布及其起源的简明解释。
-
-towardsdatascience.com](/exponential-distribution-simply-explained-349d05b1bdb8) 
+[](/exponential-distribution-simply-explained-349d05b1bdb8)  
 
 简而言之，**指数分布计算泊松过程中事件之间等待时间的概率。**
 

@@ -284,16 +284,4 @@ df.clip(upper=7)
 
 您可能还会对以下内容感兴趣:
 
-[](/9-useful-pandas-methods-you-probably-have-not-heard-about-28ff6c0bceee) [## 你可能没听说过的 9 种有用的熊猫方法
-
-### 它们可以让你的日常工作更容易、更快捷。
-
-towardsdatascience.com](/9-useful-pandas-methods-you-probably-have-not-heard-about-28ff6c0bceee) [](/one-thing-you-might-not-have-known-about-linear-regression-634446de7559) [## 关于线性回归，有一点你可能不知道
-
-### 如何训练具有多个输出的单个模型
-
-towardsdatascience.com](/one-thing-you-might-not-have-known-about-linear-regression-634446de7559) [](/phik-k-get-familiar-with-the-latest-correlation-coefficient-9ba0032b37e7) [## 菲克(𝜙k)——熟悉最新的相关系数
-
-### 这在分类变量、序数变量和区间变量之间也是一致的！
-
-towardsdatascience.com](/phik-k-get-familiar-with-the-latest-correlation-coefficient-9ba0032b37e7)
+[](/9-useful-pandas-methods-you-probably-have-not-heard-about-28ff6c0bceee)  [](/one-thing-you-might-not-have-known-about-linear-regression-634446de7559)  [](/phik-k-get-familiar-with-the-latest-correlation-coefficient-9ba0032b37e7) 

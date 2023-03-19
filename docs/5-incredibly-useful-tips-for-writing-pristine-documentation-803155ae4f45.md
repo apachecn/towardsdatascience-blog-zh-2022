@@ -52,19 +52,11 @@ towardsdatascience.com](/more-methods-means-better-code-1d3b237f6cf2)
 
 作为一名计算机程序员，你可能知道开发人员多久去一次谷歌，查询他们想要的信息。也就是说，虽然代码内文档浏览更好，但网页更容易理解。Web 文档也非常容易制作。例如，如果你是一名 Python 程序员，这里有一篇来自 [James Briggs](https://medium.com/u/b9d77a4ca1d1?source=post_page-----803155ae4f45--------------------------------) 的关于数据科学的精彩文章，详细介绍了如何用 Python 自动化你的文档:
 
-[](/auto-docs-for-python-b545ce372e2d) [## Python 的自动文档
-
-### 编写代码很无聊，为什么要浪费时间呢？
-
-towardsdatascience.com](/auto-docs-for-python-b545ce372e2d) 
+[](/auto-docs-for-python-b545ce372e2d)  
 
 如果您碰巧写了 Julia，我有一篇详细介绍如何使用 Documenter.jl 的文章，您可能也会感兴趣:
 
-[](/how-to-automate-julia-documentation-with-documenter-jl-21a44d4a188f) [## 如何用 Documenter.jl 自动化 Julia 文档
-
-### 没有文档，软件是没有用的，所以用 Documenter.jl 把文档的痛苦去掉吧
-
-towardsdatascience.com](/how-to-automate-julia-documentation-with-documenter-jl-21a44d4a188f) 
+[](/how-to-automate-julia-documentation-with-documenter-jl-21a44d4a188f)  
 
 对于大多数语言来说，通常都有能够做到这一点的包。这非常方便，从头开始创建文档站点是一件麻烦的事情——这已经是过去的事情了！也就是说，对于一个实际上想要使用的包来说，没有任何理由不拥有这样一个案例的 web 文档！
 

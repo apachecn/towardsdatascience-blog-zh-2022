@@ -14,15 +14,7 @@
 
 要继续本系列，您需要对 Django 的工作原理有一个基本的了解。假设您想学习更多关于 Django 的知识，以及如何使用 Django 构建 web 应用程序。在这种情况下，我建议您阅读我的文章系列，关于使用 Django 构建社交媒体网站和使用 Django 构建求职门户。我已经制作了完整的网站来帮助你在比常规待办应用更复杂的东西上实现 Django。
 
-[](/build-a-social-media-website-using-django-setup-the-project-part-1-6e1932c9f221) [## 使用 Django 构建一个社交媒体网站——设置项目(第 1 部分)
-
-### 在第一部分中，我们通过设置密码来集中设置我们的项目和安装所需的组件…
-
-towardsdatascience.com](/build-a-social-media-website-using-django-setup-the-project-part-1-6e1932c9f221) [](/build-a-job-search-portal-with-django-overview-part-1-bec74d3b6f4e) [## 用 Django 构建求职门户——概述(第 1 部分)
-
-### 让我们使用 Django 建立一个工作搜索门户，它允许招聘人员发布工作并接受候选人，同时…
-
-towardsdatascience.com](/build-a-job-search-portal-with-django-overview-part-1-bec74d3b6f4e) 
+[](/build-a-social-media-website-using-django-setup-the-project-part-1-6e1932c9f221)  [](/build-a-job-search-portal-with-django-overview-part-1-bec74d3b6f4e)  
 
 因此，本系列的第一部分将只关注基础知识，并将设置项目基础知识。在接下来的部分中，我们将深入探讨为应用程序的不同方面构建模型、视图和序列化器的细节。
 
@@ -156,24 +148,8 @@ python manage.py runserver
 
 DRF 系列的下一部分可以在这里找到:
 
-[](/build-a-blog-website-using-django-rest-framework-part-2-be9bc353abf3) [## 使用 Django Rest 框架构建博客网站—第 2 部分
-
-### 在第二部分中，我们将处理构建用户相关的模型和视图，并将测试用户相关的 API。
-
-towardsdatascience.com](/build-a-blog-website-using-django-rest-framework-part-2-be9bc353abf3) [](/build-a-blog-website-using-django-rest-framework-posts-app-part-3-7334f75983fc) [## 使用 Django Rest 框架——Posts 应用程序构建一个博客网站(第 3 部分)
-
-### 在第三部分，我们处理应用程序的整个 posts 应用程序，从而完成应用程序的后端。
-
-towardsdatascience.com](/build-a-blog-website-using-django-rest-framework-posts-app-part-3-7334f75983fc) 
+[](/build-a-blog-website-using-django-rest-framework-part-2-be9bc353abf3)  [](/build-a-blog-website-using-django-rest-framework-posts-app-part-3-7334f75983fc)  
 
 感谢您的阅读！如果你喜欢读我的文章，我建议你看看我的其他文章:
 
-[](https://javascript.plainenglish.io/build-an-e-commerce-website-with-mern-stack-part-1-setting-up-the-project-eecd710e2696) [## 让我们建立一个 MERN 堆栈电子商务网络应用程序
-
-### 第 1 部分:设置项目
-
-javascript.plainenglish.io](https://javascript.plainenglish.io/build-an-e-commerce-website-with-mern-stack-part-1-setting-up-the-project-eecd710e2696) [](https://javascript.plainenglish.io/build-a-blog-app-with-react-intro-and-set-up-part-1-ddf5c674d25b) [## 使用 React 构建博客应用程序—介绍和设置
-
-### 第 1 部分:在第一部分中，我们处理项目的基础并设置它。
-
-javascript.plainenglish.io](https://javascript.plainenglish.io/build-a-blog-app-with-react-intro-and-set-up-part-1-ddf5c674d25b)
+[](https://javascript.plainenglish.io/build-an-e-commerce-website-with-mern-stack-part-1-setting-up-the-project-eecd710e2696)  [](https://javascript.plainenglish.io/build-a-blog-app-with-react-intro-and-set-up-part-1-ddf5c674d25b) 

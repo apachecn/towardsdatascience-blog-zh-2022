@@ -269,18 +269,6 @@ print(c)
 
 作为学习 Python 的下一步，请考虑阅读以下文章中关于 Python 数据结构的内容:
 
-[](/everything-about-python-list-data-structure-beginners-guide-pyshark-b956fb5f7a56) [## 关于 Python 列表数据结构的一切:初学者指南— PyShark
-
-### 在本文中，我们将重点介绍 Python 列表数据结构的完整过程。
-
-towardsdatascience.com](/everything-about-python-list-data-structure-beginners-guide-pyshark-b956fb5f7a56) [](/everything-about-python-dictionary-data-structure-beginners-guide-fca53357ac81) [## 关于 Python 字典数据结构的一切:初学者指南
-
-### 在本文中，我们将重点介绍 Python 字典数据结构的完整演示。
-
-towardsdatascience.com](/everything-about-python-dictionary-data-structure-beginners-guide-fca53357ac81) [](/everything-about-python-set-data-structure-beginners-guide-python-programming-45ea91e0ca72) [## 关于 Python 集合数据结构的一切:初学者指南— Python 编程
-
-### 在本文中，我们将重点介绍一个完整的 Python 集合数据结构。
-
-towardsdatascience.com](/everything-about-python-set-data-structure-beginners-guide-python-programming-45ea91e0ca72) 
+[](/everything-about-python-list-data-structure-beginners-guide-pyshark-b956fb5f7a56)  [](/everything-about-python-dictionary-data-structure-beginners-guide-fca53357ac81)  [](/everything-about-python-set-data-structure-beginners-guide-python-programming-45ea91e0ca72)  
 
 *原载于 2022 年 12 月 12 日*[*【https://pyshark.com】*](https://pyshark.com/python-numeric-data-types/)*。*

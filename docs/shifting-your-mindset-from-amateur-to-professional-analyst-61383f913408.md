@@ -130,23 +130,11 @@
 
 # *****本系列的前几篇文章*****
 
-*****[](/thinking-of-becoming-a-data-analyst-youre-already-one-5773b63ae83b) [## 想成为一名数据分析师？你已经是一个了！
-
-### 是的，你。
-
-towardsdatascience.com](/thinking-of-becoming-a-data-analyst-youre-already-one-5773b63ae83b) [](/becoming-a-real-data-analyst-dcaf5f48bc34) [## 成为“真正的”数据分析师
-
-### 业余分析师和专业分析师的 10 个区别
-
-towardsdatascience.com](/becoming-a-real-data-analyst-dcaf5f48bc34) 
+*****[](/thinking-of-becoming-a-data-analyst-youre-already-one-5773b63ae83b)  [](/becoming-a-real-data-analyst-dcaf5f48bc34)  
 
 # 本系列的下一篇文章
 
-[](https://kozyrkov.medium.com/how-to-form-realistic-expectations-about-data-622e85ab62cb) [## 如何形成对数据的现实预期
-
-### 成为“真正的”数据分析师的旅程
-
-kozyrkov.medium.com](https://kozyrkov.medium.com/how-to-form-realistic-expectations-about-data-622e85ab62cb) 
+[](https://kozyrkov.medium.com/how-to-form-realistic-expectations-about-data-622e85ab62cb)  
 
 *附言:你有没有试过在 Medium 上不止一次点击这里的鼓掌按钮，看看会发生什么？* ❤️
 

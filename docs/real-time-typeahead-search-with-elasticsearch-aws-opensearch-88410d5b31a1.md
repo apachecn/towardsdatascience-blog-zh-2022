@@ -322,11 +322,7 @@ query = {
 
 **感谢您的阅读！如果你喜欢这篇文章，请**关注我的频道**和/或 [**成为我今天的推荐会员**](https://zhouxu-ds.medium.com/membership) (非常感谢🙏).我会继续写下去，分享我关于数据科学的想法和项目。如果你有任何问题，请随时联系我。**
 
-**[](https://zhouxu-ds.medium.com/membership) [## 加盟传媒与我的引荐链接——周(乔)徐
-
-### 阅读周(Joe)徐(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-zhouxu-ds.medium.com](https://zhouxu-ds.medium.com/membership) 
+**[](https://zhouxu-ds.medium.com/membership)  
 
 # 关于我
 

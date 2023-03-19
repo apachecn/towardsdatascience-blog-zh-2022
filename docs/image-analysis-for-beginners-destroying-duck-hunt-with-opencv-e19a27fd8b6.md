@@ -50,11 +50,7 @@ import numpy as np
 from PIL import ImageGrab
 ```
 
-[](/why-is-python-so-slow-and-how-to-speed-it-up-485b5a84154e) [## Python 为什么这么慢，如何加速
-
-### 看看 Python 的瓶颈在哪里
-
-towardsdatascience.com](/why-is-python-so-slow-and-how-to-speed-it-up-485b5a84154e) 
+[](/why-is-python-so-slow-and-how-to-speed-it-up-485b5a84154e)  
 
 ## 1.记录我们的屏幕
 
@@ -72,11 +68,7 @@ towardsdatascience.com](/why-is-python-so-slow-and-how-to-speed-it-up-485b5a8415
 
 在第 13 行，我们开始记录我们的屏幕。我们不需要每一帧都搜索鸟(每秒超过 30 次，取决于你的硬件)。因此，我们每隔 5 帧才执行一次代码(第 15-17 行)，这对那些讨厌的鸟来说已经足够快了。
 
-[](https://medium.com/geekculture/applying-python-multiprocessing-in-2-lines-of-code-3ced521bac8f) [## 在两行代码中应用 Python 多重处理
-
-### 何时以及如何使用多枚内核来实现数倍的执行速度！
-
-medium.com](https://medium.com/geekculture/applying-python-multiprocessing-in-2-lines-of-code-3ced521bac8f) 
+[](https://medium.com/geekculture/applying-python-multiprocessing-in-2-lines-of-code-3ced521bac8f)  
 
 ## 2.预处理和模板匹配
 
@@ -94,11 +86,7 @@ medium.com](https://medium.com/geekculture/applying-python-multiprocessing-in-2-
 
 正如你在上面的 GIF 中看到的，模板匹配函数正在做它应该做的事情:识别鸟类并在它们身上做标记。在接下来的部分，我们将拍摄鸟类。
 
-[](/docker-for-absolute-beginners-the-difference-between-an-image-and-a-container-7e07d4c0c01d) [## 面向绝对初学者的 Docker:图像和容器的区别
-
-### 了解 Docker 图像和容器的区别容器和图像是不同的+实用代码示例
-
-towardsdatascience.com](/docker-for-absolute-beginners-the-difference-between-an-image-and-a-container-7e07d4c0c01d) 
+[](/docker-for-absolute-beginners-the-difference-between-an-image-and-a-container-7e07d4c0c01d)  
 
 ## 3.射鸟
 
@@ -110,11 +98,7 @@ towardsdatascience.com](/docker-for-absolute-beginners-the-difference-between-an
 
 最后，我们设置光标位置并点击 ctypes 库。
 
-[](/cython-for-absolute-beginners-30x-faster-code-in-two-simple-steps-bbb6c10d06ad) [## 面向绝对初学者的 Cython:通过简单的两步将代码速度提高 30 倍
-
-### 为速度惊人的应用程序轻松编译 Python 代码
-
-towardsdatascience.com](/cython-for-absolute-beginners-30x-faster-code-in-two-simple-steps-bbb6c10d06ad) 
+[](/cython-for-absolute-beginners-30x-faster-code-in-two-simple-steps-bbb6c10d06ad)  
 
 # 最终结果
 
@@ -146,8 +130,4 @@ towardsdatascience.com](/cython-for-absolute-beginners-30x-faster-code-in-two-si
 
 页（page 的缩写）学生:比如我正在做的事情？[跟着我！](https://mikehuls.medium.com/membership)
 
-[](https://mikehuls.medium.com/membership) [## 通过我的推荐链接加入 Medium—Mike Huls
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-mikehuls.medium.com](https://mikehuls.medium.com/membership)
+[](https://mikehuls.medium.com/membership) 

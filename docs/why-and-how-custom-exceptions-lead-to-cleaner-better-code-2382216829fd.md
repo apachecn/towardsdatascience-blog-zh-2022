@@ -28,11 +28,7 @@
 login_dirty(email='mike@bmail.com', password='my_pa$$word')
 ```
 
-[](/a-complete-guide-to-using-environment-variables-and-files-with-docker-and-compose-4549c21dc6af) [## 在 Docker 和 Compose 中使用环境变量和文件的完整指南
-
-### 通过这个简单的教程，保持你的容器的安全性和灵活性
-
-towardsdatascience.com](/a-complete-guide-to-using-environment-variables-and-files-with-docker-and-compose-4549c21dc6af) 
+[](/a-complete-guide-to-using-environment-variables-and-files-with-docker-and-compose-4549c21dc6af)  
 
 ## 现在的登录功能有什么问题？
 
@@ -43,11 +39,7 @@ towardsdatascience.com](/a-complete-guide-to-using-environment-variables-and-fil
 
 对我来说，区别在于干净的代码不知道你的业务逻辑。你可以从一个项目中提取“干净”的功能，并在完全不同的项目中使用它们。然而，脏代码包含业务逻辑；例如，当您无法登录时会发生什么。你被重定向了吗？是否显示弹出窗口？**让我们通过删除带有自定义异常的所有业务逻辑，使我们的登录功能变得更好、更干净。**
 
-[](/cython-for-data-science-6-steps-to-make-this-pandas-dataframe-operation-over-100x-faster-1dadd905a00b) [## 6 个步骤使熊猫数据帧操作速度提高 100 倍
-
-### 用于数据科学的 Cython:将 Pandas 与 Cython 结合起来，实现令人难以置信的速度提升
-
-towardsdatascience.com](/cython-for-data-science-6-steps-to-make-this-pandas-dataframe-operation-over-100x-faster-1dadd905a00b) 
+[](/cython-for-data-science-6-steps-to-make-this-pandas-dataframe-operation-over-100x-faster-1dadd905a00b)  
 
 # 干净的方式
 
@@ -60,11 +52,7 @@ towardsdatascience.com](/cython-for-data-science-6-steps-to-make-this-pandas-dat
 
 这两件事就是阻止成功登录的**异常**:首先我们将编写一些代码，允许**引发这些异常**。然后我们将清理我们的函数和函数被调用的方式。
 
-[](/why-is-python-so-slow-and-how-to-speed-it-up-485b5a84154e) [## Python 为什么这么慢，如何加速
-
-### 看看 Python 的瓶颈在哪里
-
-towardsdatascience.com](/why-is-python-so-slow-and-how-to-speed-it-up-485b5a84154e) 
+[](/why-is-python-so-slow-and-how-to-speed-it-up-485b5a84154e)  
 
 ## 创建自定义例外
 
@@ -74,11 +62,7 @@ towardsdatascience.com](/why-is-python-so-slow-and-how-to-speed-it-up-485b5a8415
 
 我们也可以像在`UserNotFoundException`中一样将参数传递给异常。这里我们做的事情和以前完全一样，只是我们需要使用 __init__ 方法将`email`存储为一个属性。
 
-[](/image-analysis-for-beginners-destroying-duck-hunt-with-opencv-e19a27fd8b6) [## 用 OpenCV 破坏猎鸭——初学者的图像分析
-
-### 编写代码，将击败每一个鸭子狩猎高分
-
-towardsdatascience.com](/image-analysis-for-beginners-destroying-duck-hunt-with-opencv-e19a27fd8b6) 
+[](/image-analysis-for-beginners-destroying-duck-hunt-with-opencv-e19a27fd8b6)  
 
 ## 2.清理登录功能
 
@@ -86,11 +70,7 @@ towardsdatascience.com](/image-analysis-for-beginners-destroying-duck-hunt-with-
 
 除了看起来更好之外，功能更干净和纯粹；它只负责登录，如果不知道任何关于重定向和弹出窗口。这种逻辑应该被限制在项目中的几个地方，而不应该到处都是。自定义异常对此有很大帮助。
 
-[](/docker-for-absolute-beginners-what-is-docker-and-how-to-use-it-examples-3d3b11efd830) [## 面向绝对初学者的 Docker——什么是 Docker 以及如何使用它(+示例)
-
-### 像管理应用程序一样管理您的基础架构
-
-towardsdatascience.com](/docker-for-absolute-beginners-what-is-docker-and-how-to-use-it-examples-3d3b11efd830) 
+[](/docker-for-absolute-beginners-what-is-docker-and-how-to-use-it-examples-3d3b11efd830)  
 
 ## 3.调用我们的登录
 
@@ -98,11 +78,7 @@ towardsdatascience.com](/docker-for-absolute-beginners-what-is-docker-and-how-to
 
 正如你所看到的，当我们无法登录时会发生什么是非常清楚的。主要的好处是，如果您以后决定无效的凭据也应该被重定向；没有很多地方可以搜索，因为您的业务逻辑并没有遍布整个项目。
 
-[](/virtual-environments-for-absolute-beginners-what-is-it-and-how-to-create-one-examples-a48da8982d4b) [## 绝对初学者的虚拟环境——什么是虚拟环境，如何创建虚拟环境(+例子)
-
-### 深入探究 Python 虚拟环境、pip 和避免纠缠依赖
-
-towardsdatascience.com](/virtual-environments-for-absolute-beginners-what-is-it-and-how-to-create-one-examples-a48da8982d4b) 
+[](/virtual-environments-for-absolute-beginners-what-is-it-and-how-to-create-one-examples-a48da8982d4b)  
 
 # 结论
 
@@ -121,8 +97,4 @@ towardsdatascience.com](/virtual-environments-for-absolute-beginners-what-is-it-
 
 喜欢我正在做的事情吗？ [*跟我来！*](https://mikehuls.medium.com/membership)
 
-[](https://mikehuls.medium.com/membership) [## 通过我的推荐链接加入媒体-迈克·赫斯
-
-### 阅读迈克·赫斯(以及媒体上成千上万的其他作家)的每一个故事。你的会员费直接支持麦克…
-
-mikehuls.medium.com](https://mikehuls.medium.com/membership)
+[](https://mikehuls.medium.com/membership) 

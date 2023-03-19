@@ -102,16 +102,4 @@
 
 Bánáthy，贝拉·h(1996 年)。在不断变化的世界中设计社会系统。斯普林格我们。第十五页，372。【https://link.springer.com/book/10.1007/978-1-4757-9981-1 号
 
-[](https://en.wikipedia.org/wiki/Double_Diamond_%28design_process_model%29) [## 双菱形(设计过程模型)-维基百科
-
-### 从维基百科，免费的百科跳转到导航跳转到搜索双菱形是一个设计过程的名称…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Double_Diamond_%28design_process_model%29) [](https://www.designcouncil.org.uk/news-opinion/what-framework-innovation-design-councils-evolved-double-diamond) [## 创新的框架是什么？设计委员会的进化双钻石
-
-### 设计委员会的创新框架帮助全球的设计师和非设计师解决一些最…
-
-www.designcouncil.org.uk](https://www.designcouncil.org.uk/news-opinion/what-framework-innovation-design-councils-evolved-double-diamond) [](https://www.techtarget.com/searchbusinessanalytics/feature/How-to-increase-the-success-rate-of-data-science-projects#:~:text=In%202016%2C%20Gartner%20estimated%20that,real%20number%20is%20around%2085%25) [## 如何提高数据科学项目的成功率
-
-### 绝大多数数据科学项目注定要失败。但根据布莱斯·马谢尔的说法，它们并不一定如此…
-
-www.techtarget.com](https://www.techtarget.com/searchbusinessanalytics/feature/How-to-increase-the-success-rate-of-data-science-projects#:~:text=In%202016%2C%20Gartner%20estimated%20that,real%20number%20is%20around%2085%25)
+[](https://en.wikipedia.org/wiki/Double_Diamond_%28design_process_model%29)  [](https://www.designcouncil.org.uk/news-opinion/what-framework-innovation-design-councils-evolved-double-diamond)  [](https://www.techtarget.com/searchbusinessanalytics/feature/How-to-increase-the-success-rate-of-data-science-projects#:~:text=In%202016%2C%20Gartner%20estimated%20that,real%20number%20is%20around%2085%25) 

@@ -32,19 +32,7 @@
 
 花时间为每份工作制作一份量身定制的简历是至关重要的。这不仅表明你对工作要求有所了解，也向招聘人员表明你关注细节并真心想要这份工作。你的简历应该包括所有相关的工作经历，你过去的教育，你已经完成的证书，以及一份与工作相关的个人项目清单。
 
-[](/5-things-in-your-resume-that-are-keeping-you-from-getting-your-first-job-in-data-science-1a4d474ff3e4) [## 简历中阻碍你获得第一份数据科学工作的 5 件事
-
-### 解决这些问题会让招聘人员看你简历的时间超过 7.4 秒
-
-towardsdatascience.com](/5-things-in-your-resume-that-are-keeping-you-from-getting-your-first-job-in-data-science-1a4d474ff3e4) [](/how-to-build-a-solid-data-science-and-tech-resume-e899daceb271) [## 如何打造一份扎实的数据科技简历
-
-### 建议从谷歌和 Visa 等公司获得大的 DS-Tech 报价
-
-towardsdatascience.com](/how-to-build-a-solid-data-science-and-tech-resume-e899daceb271) [](/a-hiring-manager-who-went-through-120-resumes-for-a-junior-data-scientist-role-21216d0507d4) [## 一位招聘经理为了一个初级数据科学家的职位，浏览了 120 份简历
-
-### 努力写好你的简历和求职信
-
-towardsdatascience.com](/a-hiring-manager-who-went-through-120-resumes-for-a-junior-data-scientist-role-21216d0507d4) 
+[](/5-things-in-your-resume-that-are-keeping-you-from-getting-your-first-job-in-data-science-1a4d474ff3e4)  [](/how-to-build-a-solid-data-science-and-tech-resume-e899daceb271)  [](/a-hiring-manager-who-went-through-120-resumes-for-a-junior-data-scientist-role-21216d0507d4)  
 
 # 2.通讯技能
 
@@ -86,19 +74,7 @@ towardsdatascience.com](/a-hiring-manager-who-went-through-120-resumes-for-a-jun
 
 不确定从哪里开始？尝试以下资源开始:
 
-[](/5-data-science-skills-that-will-never-become-outdated-6c9de1e60d88) [## 永远不会过时的 5 项数据科学技能
-
-### 趋势来来去去，但数据科学家永远需要这些技能
-
-towardsdatascience.com](/5-data-science-skills-that-will-never-become-outdated-6c9de1e60d88) [](/the-3-pillars-of-math-you-need-to-know-to-become-an-effective-data-analyst-9af50106ffa1) [## 成为高效数据分析师需要了解的 3 大数学支柱
-
-### 这三个数学分支将支持您作为数据分析师的日常活动
-
-towardsdatascience.com](/the-3-pillars-of-math-you-need-to-know-to-become-an-effective-data-analyst-9af50106ffa1) [](/the-fully-updated-guide-you-can-use-to-learn-data-science-in-2022-without-getting-a-degree-8e73e416c21b) [## 完全更新的指南，您可以在 2022 年使用它学习数据科学，而无需获得学位
-
-### 确切地说，你如何在不倾家荡产的情况下，通过三种不同的方式自学数据科学
-
-towardsdatascience.com](/the-fully-updated-guide-you-can-use-to-learn-data-science-in-2022-without-getting-a-degree-8e73e416c21b) 
+[](/5-data-science-skills-that-will-never-become-outdated-6c9de1e60d88)  [](/the-3-pillars-of-math-you-need-to-know-to-become-an-effective-data-analyst-9af50106ffa1)  [](/the-fully-updated-guide-you-can-use-to-learn-data-science-in-2022-without-getting-a-degree-8e73e416c21b)  
 
 # 4.质量跟踪记录
 
@@ -114,15 +90,7 @@ towardsdatascience.com](/the-fully-updated-guide-you-can-use-to-learn-data-scien
 
 如果由于你刚开始在这个领域工作，这是不可能的，你将不得不通过项目和作品集来展示你的工作质量。你的作品集是招聘人员能够通过阅读你的项目的影响和看到你写的代码和文档的水平来跟踪你的质量的方式。
 
-[](/how-to-effectively-showcase-personal-projects-on-your-data-science-resume-736cbfa1600) [## 如何在数据科学简历中有效展示个人项目
-
-### 简洁的项目描述是吸引招聘人员眼球的必备要素
-
-towardsdatascience.com](/how-to-effectively-showcase-personal-projects-on-your-data-science-resume-736cbfa1600) [](/how-to-create-a-professional-portfolio-on-github-that-will-help-land-your-first-job-in-data-science-e1fc8bd7a797) [## 如何在 GitHub 上创建专业作品集，帮助你在数据科学领域找到第一份工作
-
-### 你的投资组合在告诉雇主为什么他们应该雇用你方面起着至关重要的作用。
-
-towardsdatascience.com](/how-to-create-a-professional-portfolio-on-github-that-will-help-land-your-first-job-in-data-science-e1fc8bd7a797) 
+[](/how-to-effectively-showcase-personal-projects-on-your-data-science-resume-736cbfa1600)  [](/how-to-create-a-professional-portfolio-on-github-that-will-help-land-your-first-job-in-data-science-e1fc8bd7a797)  
 
 # 5.适应性
 
@@ -138,11 +106,7 @@ towardsdatascience.com](/how-to-create-a-professional-portfolio-on-github-that-w
 
 将这些项目添加到你的投资组合中是一个很好的方式，可以向招聘人员展示你愿意做艰苦的工作，并且你可以在不利的条件下取得成果。谈论这些项目也可以让招聘人员了解你的思维过程，以及你如何通过适应环境来解决复杂的问题。
 
-[](/a-systematic-approach-to-bad-data-6c7e2f86e5ef) [## 处理不良数据的系统方法
-
-### 因为有时候仅仅打扫是不够的
-
-towardsdatascience.com](/a-systematic-approach-to-bad-data-6c7e2f86e5ef) 
+[](/a-systematic-approach-to-bad-data-6c7e2f86e5ef)  
 
 # 6.实用主义
 
@@ -178,19 +142,7 @@ towardsdatascience.com](/a-systematic-approach-to-bad-data-6c7e2f86e5ef)
 
 除此之外，作为一名数据科学家，成长的唯一途径是对自己在该领域的技能进行持续的自我提升。新技术总是不断涌现，它们总是在 MOOCs 中教授一些新的东西，可以帮助你成为更好的数据科学家。关键是要把改善自己作为你每日计划中的优先事项。
 
-[](/how-i-grow-as-a-data-scientist-62027b7cc069) [## 作为一名数据科学家，我如何成长
-
-### 适合我的可能也适合你
-
-towardsdatascience.com](/how-i-grow-as-a-data-scientist-62027b7cc069) [](/7-ways-to-stay-up-to-date-as-a-data-scientist-a505fb0cc61b) [## 作为数据科学家保持最新状态的 7 种方法
-
-### 关于人工智能最新进展的可行建议
-
-towardsdatascience.com](/7-ways-to-stay-up-to-date-as-a-data-scientist-a505fb0cc61b) [](/6-habits-to-include-in-your-daily-routine-for-a-long-happy-career-as-a-data-scientist-de733eae6250) [## 作为一名数据科学家，6 个习惯应该包含在你的日常工作中，让你拥有一个长期快乐的职业生涯
-
-### 所有这些习惯花费你不到 10 分钟的时间
-
-towardsdatascience.com](/6-habits-to-include-in-your-daily-routine-for-a-long-happy-career-as-a-data-scientist-de733eae6250) 
+[](/how-i-grow-as-a-data-scientist-62027b7cc069)  [](/7-ways-to-stay-up-to-date-as-a-data-scientist-a505fb0cc61b)  [](/6-habits-to-include-in-your-daily-routine-for-a-long-happy-career-as-a-data-scientist-de733eae6250)  
 
 # 8.将业务问题转化为分析的能力
 
@@ -206,11 +158,7 @@ towardsdatascience.com](/6-habits-to-include-in-your-daily-routine-for-a-long-ha
 
 更好地将业务问题转化为分析的唯一方法是亲自动手去做。无论这意味着使用互联网上无数可用数据集中的一个来解决您自己的业务问题，为您所在地区的小型企业做公益工作，还是在您的数据科学团队开始新项目时卷起袖子，主要重点都应该是让您尽可能多地接触不同类型的数据科学问题。
 
-[](/how-to-structure-business-problems-for-data-science-solutions-d7d8a645fb75) [## 如何构建数据科学解决方案的业务问题
-
-### 在一个成功的数据科学项目中，成功的一半在于以一种确保最佳解决方案的方式来表达问题
-
-towardsdatascience.com](/how-to-structure-business-problems-for-data-science-solutions-d7d8a645fb75) 
+[](/how-to-structure-business-problems-for-data-science-solutions-d7d8a645fb75)  
 
 订阅将我的故事直接发送到您的收件箱:[故事订阅](https://madison13.medium.com/subscribe)
 

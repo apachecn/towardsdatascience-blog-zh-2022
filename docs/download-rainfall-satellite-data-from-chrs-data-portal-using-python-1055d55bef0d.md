@@ -14,15 +14,7 @@
 
 我的其他文章:
 
-[](https://www.samashti.space/articles/why-you-need-to-use-geopackage-files-instead-of-shapefile-or-geojson) [## 为什么需要使用 Geopackage 文件而不是 shapefile 或 GeoJSON？- Samashti |博客
-
-### 如果您一直在使用矢量数据并进行空间分析，您应该知道 shapefile 和 geojson。这是其中的两个…
-
-www.samashti.space](https://www.samashti.space/articles/why-you-need-to-use-geopackage-files-instead-of-shapefile-or-geojson) [](https://www.samashti.space/articles/how-to-use-qgis-spatial-algorithms-with-python-scripts) [## 如何通过 python 脚本使用 QGIS 空间算法？- Samashti |博客
-
-### 当您了解 GIS 和空间分析时，QGIS 是您最先接触到的工具之一。你几乎可以处理…
-
-www.samashti.space](https://www.samashti.space/articles/how-to-use-qgis-spatial-algorithms-with-python-scripts) 
+[](https://www.samashti.space/articles/why-you-need-to-use-geopackage-files-instead-of-shapefile-or-geojson)  [](https://www.samashti.space/articles/how-to-use-qgis-spatial-algorithms-with-python-scripts)  
 
 # 什么是 CHRS？
 
@@ -130,11 +122,7 @@ HTTP 服务器上 PERSIANN 系统的每日降雨量数据。作者提供的 [HTT
 
 上述两种方法都有一些局限性。因此，我使用 python 构建了一个实用程序库来处理从 CHRS 数据门户查询和下载降雨卫星数据。实用程序库 [chrs-persiann-util](https://github.com/samashti/chrs-persiann-util) 让您可以查询不同时间步长和文件格式的可用数据集。
 
-[](https://github.com/samashti/chrs-persiann-util) [## GitHub-samashti/chrs-Persian n-util:一个搜索、下载全球水平 PERSIANN…
-
-### 从 CHRS 数据门户中心搜索、下载全球水平个人降水数据的实用程序
-
-github.com](https://github.com/samashti/chrs-persiann-util) 
+[](https://github.com/samashti/chrs-persiann-util)  
 
 要安装这个库，请将 GitHub 项目克隆到您的本地，并从您的终端的根目录运行以下命令；
 
@@ -169,11 +157,7 @@ dl.get_persiann(**params)
 
 让我们来看一下一月份的降雨量卫星数据。你也可以在 Google Colab 上找到这个例子。
 
-[](https://colab.research.google.com/drive/1erI4OIrZZkqQfz5FEzmp_q4nxD7PcHnc?usp=sharing) [## 谷歌联合实验室
-
-### 编辑描述
-
-colab.research.google.com](https://colab.research.google.com/drive/1erI4OIrZZkqQfz5FEzmp_q4nxD7PcHnc?usp=sharing) 
+[](https://colab.research.google.com/drive/1erI4OIrZZkqQfz5FEzmp_q4nxD7PcHnc?usp=sharing)  
 
 让我们首先初始化所需的 python 模块。我们使用 rasterio 来读取下载后的栅格数据。
 
@@ -248,22 +232,10 @@ fig.colorbar(image_hidden, ax=ax)
 
 在这个快速教程中，我们学习了如何通过多种方法从 CHRS 门户网站下载降雨卫星数据，包括使用 python 模块。chrs-persiann-util 将帮助您对数据集进行查询，并从您的代码中下载进行快速分析。如果您喜欢试验代码，您可以查看这个 Google Colab 笔记本上的代码。
 
-[](https://colab.research.google.com/drive/1erI4OIrZZkqQfz5FEzmp_q4nxD7PcHnc?usp=sharing) [## 谷歌联合实验室
-
-### 编辑描述
-
-colab.research.google.com](https://colab.research.google.com/drive/1erI4OIrZZkqQfz5FEzmp_q4nxD7PcHnc?usp=sharing) 
+[](https://colab.research.google.com/drive/1erI4OIrZZkqQfz5FEzmp_q4nxD7PcHnc?usp=sharing)  
 
 如果你喜欢这个博客，喜欢&订阅博客，以获得关于未来博客帖子的通知。如有任何疑问或讨论，你可以在 [LinkedIn](https://www.linkedin.com/in/nikhilhubballi/) 和 [Twitter](https://twitter.com/samashti_) 上找到我。
 
 阅读其他帖子:
 
-[](https://www.samashti.space/articles/how-to-geocode-addresses-for-free) [## 如何免费对地址进行地理编码？- Samashti |博客
-
-### 近年来，位置数据的使用一直在增加。我们做的每件事都有地理标签。可能是……
-
-www.samashti.space](https://www.samashti.space/articles/how-to-geocode-addresses-for-free) [](https://www.samashti.space/articles/why-geospatial-data-is-the-way-forward-in-data-analytics) [## 为什么地理空间数据是数据分析的发展方向？- Samashti |博客
-
-### 在过去的 10 年里，数据科学和分析已经成为各地的热门话题。数据分析帮助了…
-
-www.samashti.space](https://www.samashti.space/articles/why-geospatial-data-is-the-way-forward-in-data-analytics)
+[](https://www.samashti.space/articles/how-to-geocode-addresses-for-free)  [](https://www.samashti.space/articles/why-geospatial-data-is-the-way-forward-in-data-analytics) 

@@ -16,11 +16,7 @@
 
 *注意:这个系列是空间数据科学的一部分:Sutan 的系列，请查看下面的元文章以获得更多空间数据科学文章*
 
-[](https://medium.com/rekayasa-data-spasial/spatial-data-science-the-series-81344a3ead29) [## 空间数据科学:系列
-
-### Sutan Mufti 撰写的关于空间数据科学的系列文章。
-
-medium.com](https://medium.com/rekayasa-data-spasial/spatial-data-science-the-series-81344a3ead29) 
+[](https://medium.com/rekayasa-data-spasial/spatial-data-science-the-series-81344a3ead29)  
 
 # 模型生成器——制作空间模型的图形用户界面工具
 

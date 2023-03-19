@@ -21,22 +21,14 @@
 
 我在以前的一篇文章中谈到过 IWSLT:
 
-[](https://medium.com/machine-translation-fbk/machines-can-learn-to-translate-directly-your-voice-fbk-iwslt18-bb284ccae8bc) [## 机器可以学习翻译你的声音
-
-### 我们如何为 IWSLT 2018 评估活动构建我们的端到端语音到文本翻译系统。
-
-medium.com](https://medium.com/machine-translation-fbk/machines-can-learn-to-translate-directly-your-voice-fbk-iwslt18-bb284ccae8bc) 
+[](https://medium.com/machine-translation-fbk/machines-can-learn-to-translate-directly-your-voice-fbk-iwslt18-bb284ccae8bc)  
 
 # 多语言语音翻译
 
 去年的一个场景是多语言语音翻译，包括从西班牙语(es)、法语(fr)、葡萄牙语(pt)和意大利语(it)到英语(en)和西班牙语(es)的翻译。首先要注意的是，所有涉及到的语言都有些相似，英语是这个群体中唯一的非浪漫语言。这使得多语言翻译更加有效，因为对于模型来说，使用许多类似语言的数据进行改进相对容易。
 其次，英语只出现在目标端，而很多研究和很多数据集都集中在源端的英语上。
 
-[](https://medium.com/machine-translation-fbk/must-c-a-large-corpus-for-speech-translation-8e2350d01ea3) [## MuST-C:一个用于语音翻译的大型语料库
-
-### …你一定要看看！
-
-medium.com](https://medium.com/machine-translation-fbk/must-c-a-large-corpus-for-speech-translation-8e2350d01ea3) 
+[](https://medium.com/machine-translation-fbk/must-c-a-large-corpus-for-speech-translation-8e2350d01ea3)  
 
 该任务的三个平移方向(It-En、It-Es 和 Pt-Es)被认为是相对于受约束轨迹的零炮，这意味着没有专门针对这些方向的训练数据。在不受约束的赛道上，参与者可以使用他们想要的所有额外的训练数据，因此没有任何控制。
 

@@ -355,11 +355,7 @@ embedding_dict
 
 **图九。**说明了用于生成嵌入的人工神经网络架构。作者使用 Jupyter + ann_visualizer()开发的图片
 
-[](/how-to-visualize-neural-network-architectures-in-python-567cd2aa6d62) [## 如何用 Python 可视化神经网络架构
-
-### 使用 Jupyter 或 Google Colab 创建神经网络图示的快速指南
-
-towardsdatascience.com](/how-to-visualize-neural-network-architectures-in-python-567cd2aa6d62) 
+[](/how-to-visualize-neural-network-architectures-in-python-567cd2aa6d62)  
 
 ## 4.7 直观地表示学习到的嵌入
 

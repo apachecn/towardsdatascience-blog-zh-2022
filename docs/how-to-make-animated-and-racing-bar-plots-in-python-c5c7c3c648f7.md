@@ -97,11 +97,7 @@ anim.save("bar2.gif", writer="imagemagick")
 
 在接下来的图中，我将使用这个超市数据集。请随意从这里下载数据集:
 
-[](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) [## 超市数据集
-
-### 包含超市销售额和利润的数据集
-
-www.kaggle.com](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) 
+[](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)  
 
 ***作者在页面描述中提到，仅允许将该数据集用于教育目的。***
 
@@ -275,28 +271,4 @@ def func(values, ranks):
 
 ## 更多阅读
 
-[](/30-very-useful-pandas-functions-for-everyday-data-analysis-tasks-f1eae16409af) [## 30 个非常有用的熊猫函数，用于日常数据分析任务
-
-### 熊猫小型张
-
-towardsdatascience.com](/30-very-useful-pandas-functions-for-everyday-data-analysis-tasks-f1eae16409af) [](/regression-in-tensorflow-using-both-sequential-and-function-apis-314e74b537ca) [## TensorFlow 中使用顺序 API 和函数 API 的回归
-
-### 演示几种不同类型的模型结构
-
-towardsdatascience.com](/regression-in-tensorflow-using-both-sequential-and-function-apis-314e74b537ca) [](/20-very-commonly-used-functions-of-pyspark-rdd-90b8271c25b2) [## PySpark RDD 的 20 个非常常用的功能
-
-### 每个功能都用清晰的例子演示
-
-towardsdatascience.com](/20-very-commonly-used-functions-of-pyspark-rdd-90b8271c25b2) [](https://pub.towardsai.net/an-overview-of-the-major-sql-query-clauses-and-most-commonly-used-functions-60720e2a20d7) [## SQL 查询子句和函数概述
-
-### 可以用作 SQL 的备忘单
-
-pub.towardsai.net](https://pub.towardsai.net/an-overview-of-the-major-sql-query-clauses-and-most-commonly-used-functions-60720e2a20d7) [](/details-of-violinplot-and-relplot-in-seaborn-30c63de23a15) [## Seaborn 的 Violinplot 和 Relplot 的细节
-
-### 充分发挥潜力在 Seaborn 使用小提琴和 Relplots
-
-towardsdatascience.com](/details-of-violinplot-and-relplot-in-seaborn-30c63de23a15) [](/what-is-a-recurrent-neural-network-and-implementation-of-simplernn-gru-and-lstm-models-in-keras-f7247e97c405) [## 在 Keras 中实现 SimpleRNN、GRU 和 LSTM 模型
-
-### 什么是递归神经网络以及三种递归神经网络在 Tensorflow 和
-
-towardsdatascience.com](/what-is-a-recurrent-neural-network-and-implementation-of-simplernn-gru-and-lstm-models-in-keras-f7247e97c405)
+[](/30-very-useful-pandas-functions-for-everyday-data-analysis-tasks-f1eae16409af)  [](/regression-in-tensorflow-using-both-sequential-and-function-apis-314e74b537ca)  [](/20-very-commonly-used-functions-of-pyspark-rdd-90b8271c25b2)  [](https://pub.towardsai.net/an-overview-of-the-major-sql-query-clauses-and-most-commonly-used-functions-60720e2a20d7)  [](/details-of-violinplot-and-relplot-in-seaborn-30c63de23a15)  [](/what-is-a-recurrent-neural-network-and-implementation-of-simplernn-gru-and-lstm-models-in-keras-f7247e97c405) 

@@ -52,11 +52,7 @@
 
 此外，您可以从 GitHub 资源库下载本教程中使用的数据子集:
 
-[](https://github.com/andymcdgeo/Petrophysics-Python-Series) [## GitHub-andymcdgeo/petro physics-Python-Series:一系列 Jupyter 笔记本，展示如何加载…
-
-### 本系列 Jupyter 笔记本将带您了解使用 Python 和岩石物理数据的各个方面。一个…
-
-github.com](https://github.com/andymcdgeo/Petrophysics-Python-Series) 
+[](https://github.com/andymcdgeo/Petrophysics-Python-Series)  
 
 # 锡伯恩图书馆
 

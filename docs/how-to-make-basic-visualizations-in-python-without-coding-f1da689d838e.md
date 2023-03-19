@@ -118,18 +118,10 @@ mitosheet.sheet()
 
 如果你想知道米托的其他特色，看看下面的指南。
 
-[](/this-python-library-will-help-you-move-from-excel-to-python-in-no-time-139e45ce9c69) [## 这个 Python 库自动化熊猫，并帮助你取代 Excel
-
-### 一个 Python 库，帮助我们像使用 Excel 一样处理熊猫。
-
-towardsdatascience.com](/this-python-library-will-help-you-move-from-excel-to-python-in-no-time-139e45ce9c69) 
+[](/this-python-library-will-help-you-move-from-excel-to-python-in-no-time-139e45ce9c69)  
 
 [](https://frankandrade.ck.page/bd063ff2d3)
 
 **如果你喜欢阅读这样的故事，并想支持我成为一名作家，可以考虑报名成为一名媒体成员。每月 5 美元，让您可以无限制地访问数以千计的 Python 指南和数据科学文章。如果你用[我的链接](https://frank-andrade.medium.com/membership)注册，我会赚一小笔佣金，不需要你额外付费。**
 
-**[](https://frank-andrade.medium.com/membership) [## 通过我的推荐链接加入媒体——弗兰克·安德拉德
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-frank-andrade.medium.com](https://frank-andrade.medium.com/membership)**
+**[](https://frank-andrade.medium.com/membership) **

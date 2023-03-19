@@ -58,11 +58,7 @@ Boruta 算法的第一步是评估特征的重要性。这通常是在基于树�
 
 示例代码也可以在我的 github 上找到，所以可以跳过这一节。
 
-[](https://github.com/vinyluis/Articles/tree/main/Boruta%20SHAP) [## 文章/博鲁塔 SHAP 在主要乙烯/文章
-
-### 第 1 篇:用 SHAP 价值观解释你的机器学习模型是如何工作的【恩】什么是 SHAP 价值观，它们是如何…
-
-github.com](https://github.com/vinyluis/Articles/tree/main/Boruta%20SHAP) 
+[](https://github.com/vinyluis/Articles/tree/main/Boruta%20SHAP)  
 
 要使用 Boruta，我们可以使用 BorutaPy 库[1]:
 
@@ -128,11 +124,7 @@ Boruta 是一种健壮的特征选择方法，但它强烈依赖于特征重要�
 
 如果你不知道 SHAP 是什么，看看我解释它的文章:
 
-[](/using-shap-values-to-explain-how-your-machine-learning-model-works-732b3f40e137) [## 用 SHAP 值来解释你的机器学习模型是如何工作的
-
-### 学习使用工具来显示每个特征如何影响模型的每个预测
-
-towardsdatascience.com](/using-shap-values-to-explain-how-your-machine-learning-model-works-732b3f40e137) 
+[](/using-shap-values-to-explain-how-your-machine-learning-model-works-732b3f40e137)  
 
 # 5.蟒蛇皮博鲁塔·SHAP
 
@@ -196,11 +188,7 @@ X_test_boruta_shap = X_test.drop(columns = features_to_remove)
 
 看看这个很棒的帖子
 
-[](/using-shap-values-to-explain-how-your-machine-learning-model-works-732b3f40e137) [## 用 SHAP 值来解释你的机器学习模型是如何工作的
-
-### 学习使用工具来显示每个特征如何影响模型的每个预测
-
-towardsdatascience.com](/using-shap-values-to-explain-how-your-machine-learning-model-works-732b3f40e137) 
+[](/using-shap-values-to-explain-how-your-machine-learning-model-works-732b3f40e137)  
 
 # **参考文献**
 

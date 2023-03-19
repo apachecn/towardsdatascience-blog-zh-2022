@@ -209,22 +209,10 @@ plt.show()**
 
 **上面的图显示了*m₃和主要质量的轨道的惯性和旋转框架结果。如你所见，对于这组初始条件，飞船有一个混乱的轨道。如果调整初始条件，可以创造出各种不同的轨道(有些甚至是周期性的)。我鼓励你打乱初始条件，自己做实验。为了使文章和代码尽可能简短，我省略了如何根据情节制作动画。如果您有兴趣添加它，请查看下面的分步指南:***
 
-***[](/how-to-animate-plots-in-matlab-fa42cf994f3e) [## 如何在 MATLAB 中制作动画
-
-### 一种简单的数据动画制作方法
-
-towardsdatascience.com](/how-to-animate-plots-in-matlab-fa42cf994f3e)*** 
+***[](/how-to-animate-plots-in-matlab-fa42cf994f3e) *** 
 
 ***感谢您阅读文章！这是对圆形受限三体以及如何对运动方程进行数值积分的简要概述。这是一个高级的轨道力学话题，所以学习起来可能会很有挑战性。如果你有任何问题，请随时联系这里或 [LinkedIn](https://www.linkedin.com/in/zachary-fizell-915532215/) 。请关注我关于轨道力学、编码和机器学习的每周文章！***
 
 ***如果您觉得这篇文章很有趣，您可能也会觉得以下内容很有趣:***
 
-***[](https://medium.com/illumination/astrodynamics-two-body-problem-ec2c5e148184) [## 如何解决两体问题
-
-### 通过推导两体系统的运动方程，学习轨道力学的基础知识
-
-medium.com](https://medium.com/illumination/astrodynamics-two-body-problem-ec2c5e148184) [](/use-python-to-create-two-body-orbits-a68aed78099c) [## 使用 Python 创建两体轨道
-
-### 了解如何使用 Python 来确定航天器在较大物体重力影响下的运动
-
-towardsdatascience.com](/use-python-to-create-two-body-orbits-a68aed78099c)***
+***[](https://medium.com/illumination/astrodynamics-two-body-problem-ec2c5e148184)  [](/use-python-to-create-two-body-orbits-a68aed78099c) ***

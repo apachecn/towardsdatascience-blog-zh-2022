@@ -64,8 +64,4 @@
 
 这里是储存库:
 
-[](https://github.com/jcheong0428/vest) [## GitHub - jcheong0428/vest:视频事件分割工具
-
-### 视频事件分割工具(VEST)是一个开源软件，用于注释视频剪辑中的时间事件。你…
-
-github.com](https://github.com/jcheong0428/vest)
+[](https://github.com/jcheong0428/vest) 

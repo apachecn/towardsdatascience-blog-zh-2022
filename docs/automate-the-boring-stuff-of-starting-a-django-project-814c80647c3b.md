@@ -70,20 +70,4 @@ django-admin startproject PROJECT_NAME .python manage.py startapp APP_NAME # for
 
 *快乐编码*！
 
-[](/build-a-django-crud-app-by-using-class-based-views-12bc69d36ab6) [## 使用基于类的视图构建 Django CRUD 应用程序
-
-### 是的，对姜戈来说就是这么简单和快速
-
-towardsdatascience.com](/build-a-django-crud-app-by-using-class-based-views-12bc69d36ab6) [](/django-first-steps-for-the-total-beginners-a-quick-tutorial-5f1e5e7e9a8c) [## Django 初学者的第一步:快速教程
-
-### 了解如何在 Django 应用程序中嵌入 Plotly 图形，以及其他主题
-
-towardsdatascience.com](/django-first-steps-for-the-total-beginners-a-quick-tutorial-5f1e5e7e9a8c) [](/create-a-django-app-with-login-restricted-pages-31229cc48791) [## 创建一个带有限制登录页面的 Django 应用程序
-
-### 现在，只有授权用户才能看到您的应用程序页面
-
-towardsdatascience.com](/create-a-django-app-with-login-restricted-pages-31229cc48791) [](/use-python-scripts-to-insert-csv-data-into-django-databases-72eee7c6a433) [## 使用 Python 脚本将 CSV 数据插入 Django 数据库
-
-### Django-extensions 是您正在寻找的工具
-
-towardsdatascience.com](/use-python-scripts-to-insert-csv-data-into-django-databases-72eee7c6a433)
+[](/build-a-django-crud-app-by-using-class-based-views-12bc69d36ab6)  [](/django-first-steps-for-the-total-beginners-a-quick-tutorial-5f1e5e7e9a8c)  [](/create-a-django-app-with-login-restricted-pages-31229cc48791)  [](/use-python-scripts-to-insert-csv-data-into-django-databases-72eee7c6a433) 

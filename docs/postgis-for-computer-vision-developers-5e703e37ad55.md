@@ -16,11 +16,7 @@
 
 # 波斯特吉斯
 
-[](https://postgis.net/) [## 波斯特吉斯
-
-### PostGIS 为 PostgreSQL 数据库提供空间对象，允许存储和查询位置信息…
-
-postgis.net](https://postgis.net/) 
+[](https://postgis.net/)  
 
 [PostGIS](https://postgis.net/) 是 [PostgreSQL](https://postgresql.org/) 对象关系数据库的空间数据库扩展器。它增加了对地理对象的支持，允许在 SQL 中运行位置查询。
 
@@ -200,11 +196,7 @@ SELECT **ST_Simplify**(geom,<tolerance>)
 
  [## 匀称的文档
 
-shapely.readthedocs.io](https://shapely.readthedocs.io/en/stable/#) [](https://geopandas.org/en/stable/) [## GeoPandas - GeoPandas 文档
-
-### GeoPandas 是一个开源项目，旨在简化 python 中地理空间数据的处理。GeoPandas 扩展了…
-
-geopandas.org](https://geopandas.org/en/stable/) 
+shapely.readthedocs.io](https://shapely.readthedocs.io/en/stable/#) [](https://geopandas.org/en/stable/)  
 
 # 收场白
 

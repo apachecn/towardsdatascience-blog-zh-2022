@@ -30,11 +30,7 @@
 
 **要了解如何清理你的数据，你可以看看下面的帖子:**
 
-[](/the-complete-beginners-guide-to-data-cleaning-and-preprocessing-2070b7d4c6d) [## 数据清理和预处理完全初学者指南
-
-### 如何在几分钟内为机器学习模型成功准备数据
-
-towardsdatascience.com](/the-complete-beginners-guide-to-data-cleaning-and-preprocessing-2070b7d4c6d) 
+[](/the-complete-beginners-guide-to-data-cleaning-and-preprocessing-2070b7d4c6d)  
 
 # 2.忽略异常值
 
@@ -52,11 +48,7 @@ towardsdatascience.com](/the-complete-beginners-guide-to-data-cleaning-and-prepr
 
 **要了解如何检测和处理异常值，请查看下面的帖子:**
 
-[](https://www.analyticsvidhya.com/blog/2021/05/detecting-and-treating-outliers-treating-the-odd-one-out/) [## 检测和处理异常值|如何处理异常值
-
-### 作为数据预处理的一部分，最重要的步骤之一是尽可能地检测和处理异常值…
-
-www.analyticsvidhya.com](https://www.analyticsvidhya.com/blog/2021/05/detecting-and-treating-outliers-treating-the-odd-one-out/) 
+[](https://www.analyticsvidhya.com/blog/2021/05/detecting-and-treating-outliers-treating-the-odd-one-out/)  
 
 # 3.从庞大的数据集开始
 
@@ -72,11 +64,7 @@ www.analyticsvidhya.com](https://www.analyticsvidhya.com/blog/2021/05/detecting-
 
 要了解如何处理不同大小的数据，请查看下面的帖子:
 
-[](/17-strategies-for-dealing-with-data-big-data-and-even-bigger-data-283426c7d260) [## 处理数据、大数据甚至更大数据的 17 种策略
-
-### 加速 Python 代码的技巧和库
-
-towardsdatascience.com](/17-strategies-for-dealing-with-data-big-data-and-even-bigger-data-283426c7d260) 
+[](/17-strategies-for-dealing-with-data-big-data-and-even-bigger-data-283426c7d260)  
 
 # 4.过度拟合
 
@@ -88,11 +76,7 @@ towardsdatascience.com](/17-strategies-for-dealing-with-data-big-data-and-even-b
 
 **要了解如何应对过度合身，请查看下面的帖子:**
 
-[](/8-simple-techniques-to-prevent-overfitting-4d443da2ef7d) [## 防止过度拟合的 8 个简单技巧
-
-### 机器学习中对抗过拟合的工具箱。
-
-towardsdatascience.com](/8-simple-techniques-to-prevent-overfitting-4d443da2ef7d) 
+[](/8-simple-techniques-to-prevent-overfitting-4d443da2ef7d)  
 
 # 5.不懂基本的数学
 
@@ -104,11 +88,7 @@ towardsdatascience.com](/8-simple-techniques-to-prevent-overfitting-4d443da2ef7d
 
 **要了解数据科学的数学知识，请查看下面的帖子:**
 
-[](/mathematics-for-data-science-e53939ee8306) [## 数据科学数学
-
-### 被寻找资源来理解数据科学和机器学习的数学知识所淹没？我们掩护你。
-
-towardsdatascience.com](/mathematics-for-data-science-e53939ee8306) 
+[](/mathematics-for-data-science-e53939ee8306)  
 
 # 6.坚持只有一种模式
 
@@ -122,11 +102,7 @@ towardsdatascience.com](/mathematics-for-data-science-e53939ee8306)
 
 **要了解不同的模型，你可以看看下面的帖子:**
 
-[](/6-predictive-models-models-every-beginner-data-scientist-should-master-7a37ec8da76d) [## 每个初学数据的科学家都应该掌握的 6 种预测模型
-
-### 在这篇文章中，你将了解当你开始学习数据科学和机器学习时，你应该学习哪些模型。
-
-towardsdatascience.com](/6-predictive-models-models-every-beginner-data-scientist-should-master-7a37ec8da76d) 
+[](/6-predictive-models-models-every-beginner-data-scientist-should-master-7a37ec8da76d)  
 
 # 今天开始练习
 

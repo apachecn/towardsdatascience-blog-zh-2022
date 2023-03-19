@@ -129,11 +129,7 @@ FROM Dummy_Sales_Data_v1
 
 你可以在我以前的一篇文章中读到另一个有趣的`GROUP BY`子句用例——
 
-[](/3-ultimate-ways-to-find-unique-records-in-sql-6ddf8ae567b0) [## 在 SQL 中查找唯一记录的 3 种终极方法
-
-### 停止使用 DISTINCT！开始使用这些快速的替代方法来避免混淆！
-
-towardsdatascience.com](/3-ultimate-ways-to-find-unique-records-in-sql-6ddf8ae567b0) 
+[](/3-ultimate-ways-to-find-unique-records-in-sql-6ddf8ae567b0)  
 
 接下来，让我们进一步了解如何以有效的方式限制 GROUP BY 子句获得的输出。
 

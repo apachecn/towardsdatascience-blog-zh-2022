@@ -16,11 +16,7 @@
 
 在本帖中，我们将回顾一个季节性数据的例子，然后展示如何删除它。我们想要删除它的原因是为了使我们的时间序列 [**平稳**](https://www.itl.nist.gov/div898/handbook/pmc/section4/pmc442.htm) ，这是大多数预测模型的要求。如果你想了解更多关于平稳性的知识，请点击这里查看我以前的帖子:
 
-[](/time-series-stationarity-simply-explained-125269968154) [## 时间序列平稳性的简单解释
-
-### 时间序列建模中平稳性需求的简单而直观的解释。
-
-towardsdatascience.com](/time-series-stationarity-simply-explained-125269968154) 
+[](/time-series-stationarity-simply-explained-125269968154)  
 
 # 观看季节性
 
@@ -79,11 +75,7 @@ Critical Values:
 
 **稳定方差也是最佳实践，因为这是平稳性的条件之一。为了实现这一点，我们本来可以使用 [**框考克斯变换**](https://en.wikipedia.org/wiki/Power_transform) **。如果你想了解更多关于稳定方差的知识，请查阅我以前的文章:****
 
-**[](/box-cox-transform-for-time-series-cc45f26082c6) [## 时间序列的 Box-Cox 变换
-
-### 如何使用 Box-Cox 变换创建平稳时间序列？
-
-towardsdatascience.com](/box-cox-transform-for-time-series-cc45f26082c6) 
+**[](/box-cox-transform-for-time-series-cc45f26082c6)  
 
 # 最后的想法
 
@@ -91,11 +83,7 @@ towardsdatascience.com](/box-cox-transform-for-time-series-cc45f26082c6)
 
 本文的完整 Python 脚本可以在我的 GitHub 中找到:
 
-[](https://github.com/egorhowell/Medium-Articles/blob/main/Time%20Series/Time%20Series%20Tools/seasonality.py) [## 中型商品/季节性. py at main egorhowell/中型商品
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/egorhowell/Medium-Articles/blob/main/Time%20Series/Time%20Series%20Tools/seasonality.py) 
+[](https://github.com/egorhowell/Medium-Articles/blob/main/Time%20Series/Time%20Series%20Tools/seasonality.py)  
 
 # 参考资料和进一步阅读
 

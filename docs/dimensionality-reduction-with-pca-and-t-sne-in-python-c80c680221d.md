@@ -14,19 +14,7 @@
 
 如果你错过了我们最近三次研讨会中的任何一次，你可以在这里找到这些
 
-[](/a-practical-introduction-to-hierarchical-clustering-from-scikit-learn-ffaf8ee2670c) [## scikit-learn 中的分层聚类实用介绍
-
-### UCL 数据科学学会研讨会 17:什么是层次聚类、实现、解释和评估
-
-towardsdatascience.com](/a-practical-introduction-to-hierarchical-clustering-from-scikit-learn-ffaf8ee2670c) [](/a-practical-introduction-to-kmeans-clustering-using-scikit-learn-fd9cff95144b) [## 使用 scikit-learn 进行 Kmeans 聚类的实用介绍
-
-### UCL 数据科学学会研讨会 16:什么是 Kmeans 集群、实现、评估和解释
-
-towardsdatascience.com](/a-practical-introduction-to-kmeans-clustering-using-scikit-learn-fd9cff95144b) [](/a-practical-introduction-to-support-vector-machines-from-scikit-learn-6e678cf1f228) [## 来自 scikit-learn 的支持向量机实用介绍
-
-### UCL 数据科学学会研讨会 15:什么是支持向量机，如何实现它们，以及如何评估它们
-
-towardsdatascience.com](/a-practical-introduction-to-support-vector-machines-from-scikit-learn-6e678cf1f228) 
+[](/a-practical-introduction-to-hierarchical-clustering-from-scikit-learn-ffaf8ee2670c)  [](/a-practical-introduction-to-kmeans-clustering-using-scikit-learn-fd9cff95144b)  [](/a-practical-introduction-to-support-vector-machines-from-scikit-learn-6e678cf1f228)  
 
 ## 什么是降维？
 
@@ -225,24 +213,8 @@ insta gram:[https://www.instagram.com/ucl.datasci/](https://www.instagram.com/uc
 
 如果你想了解 UCL 数据科学协会和其他优秀作者的最新信息，请使用我下面的推荐代码注册 medium。
 
-[](https://philip-wilkinson.medium.com/membership) [## 通过我的推荐链接加入媒体-菲利普·威尔金森
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-philip-wilkinson.medium.com](https://philip-wilkinson.medium.com/membership) 
+[](https://philip-wilkinson.medium.com/membership)  
 
 或者查看我在 Medium 上的其他文章
 
-[](/introduction-to-hierarchical-clustering-part-1-theory-linkage-and-affinity-e3b6a4817702) [## 层次聚类简介(第 1 部分——理论、联系和相似性)
-
-### 什么是层次聚类、亲和度和关联度
-
-towardsdatascience.com](/introduction-to-hierarchical-clustering-part-1-theory-linkage-and-affinity-e3b6a4817702) [](/maximum-likelihood-estimation-and-poisson-regression-in-the-gravity-model-5f0de29e3464) [## 重力模型中的最大似然估计和泊松回归
-
-### 通过引力模型介绍它们之间的关系
-
-towardsdatascience.com](/maximum-likelihood-estimation-and-poisson-regression-in-the-gravity-model-5f0de29e3464) [](/an-introduction-to-object-oriented-programming-for-data-scientists-879106d90d89) [## 面向数据科学家的面向对象编程介绍
-
-### 面向对象的基础知识，适合那些以前可能没有接触过这个概念或者想知道更多的人
-
-towardsdatascience.com](/an-introduction-to-object-oriented-programming-for-data-scientists-879106d90d89)
+[](/introduction-to-hierarchical-clustering-part-1-theory-linkage-and-affinity-e3b6a4817702)  [](/maximum-likelihood-estimation-and-poisson-regression-in-the-gravity-model-5f0de29e3464)  [](/an-introduction-to-object-oriented-programming-for-data-scientists-879106d90d89) 

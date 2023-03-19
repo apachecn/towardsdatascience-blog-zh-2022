@@ -77,16 +77,4 @@
 
 ## 我的其他文章
 
-[](/keyword-extraction-methods-the-overview-35557350f8bb) [## 关键词提取方法—概述
-
-### 关键词提取方法在文档中查找相关关键词。本文总结了最常用的方法…
-
-towardsdatascience.com](/keyword-extraction-methods-the-overview-35557350f8bb) [](/documents-embeddings-and-text-classification-without-coding-e274b4e191e9) [## 无需编码的文档嵌入和文本分类
-
-### 什么是文档嵌入，如何在没有一行代码的情况下对文本进行分类？
-
-towardsdatascience.com](/documents-embeddings-and-text-classification-without-coding-e274b4e191e9) [](/graph-embeddings-the-summary-cc6075aba007) [## 图形嵌入——综述
-
-### 本文介绍了什么是图嵌入，它们的用途，以及最常用的图嵌入的比较。
-
-towardsdatascience.com](/graph-embeddings-the-summary-cc6075aba007)
+[](/keyword-extraction-methods-the-overview-35557350f8bb)  [](/documents-embeddings-and-text-classification-without-coding-e274b4e191e9)  [](/graph-embeddings-the-summary-cc6075aba007) 

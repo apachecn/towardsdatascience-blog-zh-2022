@@ -4,15 +4,7 @@
 
 *⚠️在本文中，我将依靠赫斯特模式和用法的先验知识进行上位词提取。然而，我将使用专利的数据集，所以我建议检查我在这个周期的前一篇文章。*
 
-[](/improving-the-ner-model-with-patent-texts-spacy-prodigy-and-a-bit-of-magic-44c86282ea99) [## 用专利文本改进 NER 模型| SpaCy、Prodigy 和一点魔法🪄
-
-### 本文提出了一种利用专利文本训练特定领域 NER 模型的方法。
-
-towardsdatascience.com](/improving-the-ner-model-with-patent-texts-spacy-prodigy-and-a-bit-of-magic-44c86282ea99) [](/implementing-hearst-patterns-with-spacy-216e585f61f8) [## 用 SpaCy 实现 Hearst 模式
-
-### 上下位关系的自动提取
-
-towardsdatascience.com](/implementing-hearst-patterns-with-spacy-216e585f61f8) 
+[](/improving-the-ner-model-with-patent-texts-spacy-prodigy-and-a-bit-of-magic-44c86282ea99)  [](/implementing-hearst-patterns-with-spacy-216e585f61f8)  
 
 W 我们为什么要关心单词的相关性？那么，让我们从什么是关联性及其在 NLP 中的应用开始。
 
@@ -152,8 +144,4 @@ WordNet 有用性的例子
 
 完整的代码和解析的数据可以在这里找到:
 
-[](https://github.com/kinivi/patent_ner_linking) [## GitHub-kini VI/patent _ ner _ linking:📰命名实体识别(NER)和实体链接(EL)
-
-### 这个项目的主要目标是:用特定领域的专利数据集训练 NER 模型，用
-
-github.com](https://github.com/kinivi/patent_ner_linking)
+[](https://github.com/kinivi/patent_ner_linking) 

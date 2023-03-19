@@ -62,11 +62,7 @@ Python 现在很流行，主要是因为它简单易学。
 
 你可以在我的一篇趋势文章中读到更多关于这个技巧的内容。
 
-[](/5-most-powerful-one-liners-you-should-know-in-python-programming-c9d49a89b7f3) [## Python 编程中您应该知道的 5 个最强大的一行程序
-
-### 一行程序保持你的代码干净、清晰、简短和易于理解。
-
-towardsdatascience.com](/5-most-powerful-one-liners-you-should-know-in-python-programming-c9d49a89b7f3) 
+[](/5-most-powerful-one-liners-you-should-know-in-python-programming-c9d49a89b7f3)  
 
 # 使用 zip()同时遍历多个列表
 

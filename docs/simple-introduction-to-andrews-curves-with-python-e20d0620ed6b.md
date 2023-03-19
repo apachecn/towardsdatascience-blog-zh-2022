@@ -24,23 +24,7 @@ Armand Khoury 在 [Unsplash](https://unsplash.com/) 拍摄的图片
 
 > 要了解更多关于安德鲁斯曲线和上面提到的其他多维可视化工具，请查看下面的链接
 
-[](https://en.wikipedia.org/wiki/Andrews_plot) [## 安德鲁斯情节-维基百科
-
-### 在数据可视化中，安德鲁斯图或安德鲁斯曲线是一种可视化高维数据结构的方法。这是…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Andrews_plot) [](https://www.mikulskibartosz.name/looking-for-structure-in-data-andrews-curves-plot-explained/) [## 在数据中寻找结构-解释安德鲁斯曲线图
-
-### 这可能是我在现实生活中永远不会用到的工具之一，但我认为这很有趣，足以…
-
-www.mikulskibartosz.name](https://www.mikulskibartosz.name/looking-for-structure-in-data-andrews-curves-plot-explained/)  [## JSTOR 上的高维数据图
-
-### 每月计划访问 JPASS 收藏中的所有内容阅读每篇文章的全文下载多达 10 篇文章…
-
-www.jstor.org](https://www.jstor.org/stable/2528964?origin=crossref) [](https://www.geeksforgeeks.org/difference-between-pca-vs-t-sne/) [## PCA 与 t-SNE 极客 forGeeks 的区别
-
-### 主成分分析(PCA): PCA 是一种无监督的线性降维和数据可视化…
-
-www.geeksforgeeks.org](https://www.geeksforgeeks.org/difference-between-pca-vs-t-sne/) 
+[](https://en.wikipedia.org/wiki/Andrews_plot)  [](https://www.mikulskibartosz.name/looking-for-structure-in-data-andrews-curves-plot-explained/)    [](https://www.geeksforgeeks.org/difference-between-pca-vs-t-sne/)  
 
 在下面的段落中，我们将讨论如何为安德鲁斯曲线准备数据，并测试一些绘图方法。
 
@@ -66,15 +50,7 @@ Seaborn 的数据[可视化库](https://seaborn.pydata.org/)提供了另一种�
 
 绘制安德鲁斯曲线的其他方法包括 pandas 绘图函数和 hvplot，它们内置于库中。您可以查看以下选项:
 
- [## pandas . plotting . Andrews _ curves-pandas 1 . 5 . 1 文档
-
-### pandas . plotting . Andrews _ curves(frame，class_column，，，，，** kwargs ) [source]为…生成 matplotlib 图
-
-pandas.pydata.org](https://pandas.pydata.org/docs/reference/api/pandas.plotting.andrews_curves.html)  [## Andrewscurves - hvPlot 0.8.1 文档
-
-### 编辑描述
-
-hvplot.holoviz.org](https://hvplot.holoviz.org/reference/pandas/andrewscurves.html) 
+    
 
 # 结论
 
@@ -82,20 +58,8 @@ hvplot.holoviz.org](https://hvplot.holoviz.org/reference/pandas/andrewscurves.ht
 
 ## 感谢您的阅读！
 
-[](https://medium.com/membership/@cole-hagen) [## 用我的推荐链接加入灵媒-科尔哈根
-
-### 阅读科尔·哈根的每一个故事(以及媒体上成千上万的其他作家)。你的会员费直接支持科尔…
-
-medium.com](https://medium.com/membership/@cole-hagen) 
+[](https://medium.com/membership/@cole-hagen)  
 
 作者的类似文章—
 
-[](/warp-space-and-time-with-radial-heatmaps-c9a878d2ebf6) [## 使用径向热图扭曲空间和时间
-
-### 使用 Python 和 HoloViews 对时间序列和循环数据进行独特的数据可视化
-
-towardsdatascience.com](/warp-space-and-time-with-radial-heatmaps-c9a878d2ebf6) [](/making-it-rain-with-raincloud-plots-496c39a2756f) [## 用雨云图让它下雨
-
-### 使用 python 实现 ptitprince 库以实现健壮的数据可视化
-
-towardsdatascience.com](/making-it-rain-with-raincloud-plots-496c39a2756f)
+[](/warp-space-and-time-with-radial-heatmaps-c9a878d2ebf6)  [](/making-it-rain-with-raincloud-plots-496c39a2756f) 

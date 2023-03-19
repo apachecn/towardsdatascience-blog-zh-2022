@@ -177,16 +177,4 @@ Afif Kusuma 在 [Unsplash](https://unsplash.com/photos/376KN_ISplE) 上拍摄的
 
 如果你对这种类型的内容感兴趣，并想探索更多，有一些奇妙的想法，以进一步探讨这些想法如何桥梁经济学和 ML。
 
- [## 机器学习遇上经济学
-
-### 商业世界充满了需要过滤或评估的项目流:装配线上的零件…
-
-nicolas.kruchten.com](http://nicolas.kruchten.com/content/2016/01/ml-meets-economics/)  [## 机器学习与经济学相遇，第 2 部分
-
-### 通过使用机器学习算法，我们越来越能够使用计算机来执行智能任务
-
-nicolas.kruchten.com](http://nicolas.kruchten.com/content/2016/04/ml-meets-economics2/) [](https://www.linkedin.com/pulse/why-utility-determination-critical-defining-ai-success-bill-schmarzo/) [## 为什么效用决定是定义人工智能成功的关键
-
-### 似乎有无数的文章预测人工智能将推动令人难以置信的经济和社会增长。对于…
-
-www.linkedin.co](https://www.linkedin.com/pulse/why-utility-determination-critical-defining-ai-success-bill-schmarzo/)
+    [](https://www.linkedin.com/pulse/why-utility-determination-critical-defining-ai-success-bill-schmarzo/) 

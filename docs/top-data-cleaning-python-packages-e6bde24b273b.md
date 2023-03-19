@@ -64,11 +64,7 @@ Klib 是一个用于导入、清理和分析的开源 Python 包。这是一个�
 
 因为本文只讨论数据清理，所以让我们把重点放在数据清理 API 上。如果您想进一步探索 Klib，您可以查看下面的文章。
 
-[](/speed-up-your-data-cleaning-and-preprocessing-with-klib-97191d320f80) [## 使用 klib 加速您的数据清理和预处理
-
-### 定制和非常容易应用的功能，具有合理的默认值
-
-towardsdatascience.com](/speed-up-your-data-cleaning-and-preprocessing-with-klib-97191d320f80) 
+[](/speed-up-your-data-cleaning-and-preprocessing-with-klib-97191d320f80)  
 
 对于数据清理，Klib 依靠`data_cleaning` API 来自动清理数据帧。让我们用数据集例子来试试 API。首先，我们需要安装软件包。
 
@@ -105,11 +101,7 @@ df_cleaned = klib.data_cleaning(review)
 
 出于本文的目的，我将重点关注 DataPrep 的数据清理 API。然而，如果您对 DataPrep 包感兴趣，您可以访问我在下面文章中的解释。
 
-[](/clean-connect-and-visualize-interactively-with-dataprep-9c4bcd071ea9) [## 使用 DataPrep 进行交互式清理、连接和可视化
-
-### 适用于您的数据分析过程的一体化软件包
-
-towardsdatascience.com](/clean-connect-and-visualize-interactively-with-dataprep-9c4bcd071ea9) 
+[](/clean-connect-and-visualize-interactively-with-dataprep-9c4bcd071ea9)  
 
 DataPrep cleaning 为数据清理和验证提供了 140 多个 API。我将在下面的 GIF 中展示所有可用的 API。
 

@@ -117,19 +117,7 @@ de_calendar.get_working_days_delta(date(2021, 1, 1), date(2021, 1, 31))# Answer:
 
 您可能还会对以下内容感兴趣:
 
-[](/8-more-useful-pandas-functionalities-for-your-analyses-ef87dcfe5d74) [## 用于分析的 8 个更有用的熊猫功能
-
-### 它们可以让你的日常工作更轻松、更快捷
-
-towardsdatascience.com](/8-more-useful-pandas-functionalities-for-your-analyses-ef87dcfe5d74) [](/introduction-to-hierarchical-time-series-forecasting-part-ii-e73dfd3de86b) [## 分层时间序列预测简介—第二部分
-
-### Python 中使用 scikit-hts 的示例
-
-towardsdatascience.com](/introduction-to-hierarchical-time-series-forecasting-part-ii-e73dfd3de86b) [](/linkedins-response-to-prophet-silverkite-and-greykite-4fd0131f64cb) [## LinkedIn 对 Prophet-silver kite 和 Greykite 的回应
-
-### 时间序列预测新算法综述
-
-towardsdatascience.com](/linkedins-response-to-prophet-silverkite-and-greykite-4fd0131f64cb) 
+[](/8-more-useful-pandas-functionalities-for-your-analyses-ef87dcfe5d74)  [](/introduction-to-hierarchical-time-series-forecasting-part-ii-e73dfd3de86b)  [](/linkedins-response-to-prophet-silverkite-and-greykite-4fd0131f64cb)  
 
 # 参考
 

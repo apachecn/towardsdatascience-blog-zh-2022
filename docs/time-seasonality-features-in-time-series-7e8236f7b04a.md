@@ -180,16 +180,4 @@ T **ime 和季节性特征** s 在时间序列分析中经常被假设，忽略�
 
 ****如果你在阅读这样的文章中看到了价值，你可以在这里订阅 Medium[](https://at-tan.medium.com/membership)**来阅读我和无数其他作家的其他文章。谢谢你。******
 
-****[](/stacking-machine-learning-models-for-multivariate-time-series-28a082f881) [## 多元时间序列的堆积机器学习模型
-
-### 使用堆栈集合预报 PM 2.5 空气污染
-
-towardsdatascience.com](/stacking-machine-learning-models-for-multivariate-time-series-28a082f881) [](/tackling-imbalanced-data-with-predicted-probabilities-3293602f0f2) [## 用预测概率处理不平衡数据
-
-### 葡萄牙银行营销数据集中优化分类概率的案例研究
-
-towardsdatascience.com](/tackling-imbalanced-data-with-predicted-probabilities-3293602f0f2) [](/portfolio-diversification-with-emerging-market-bonds-ef1ec966531a) [## 新兴市场债券的投资组合多样化
-
-### 用贝叶斯概率模型测试均值-方差优化
-
-towardsdatascience.com](/portfolio-diversification-with-emerging-market-bonds-ef1ec966531a)****
+****[](/stacking-machine-learning-models-for-multivariate-time-series-28a082f881)  [](/tackling-imbalanced-data-with-predicted-probabilities-3293602f0f2)  [](/portfolio-diversification-with-emerging-market-bonds-ef1ec966531a) ****

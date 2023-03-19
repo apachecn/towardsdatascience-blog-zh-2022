@@ -8,21 +8,13 @@
 
 在最近的一篇文章中，我从读写能力的一般定义开始定义了数据读写能力，并将其应用于数据世界:
 
-[](/what-is-data-literacy-9b5c3032216f) [## 什么是数据素养？
-
-### …为什么它很重要？
-
-towardsdatascience.com](/what-is-data-literacy-9b5c3032216f) 
+[](/what-is-data-literacy-9b5c3032216f)  
 
 这篇文章遵循类似的思路——它的灵感来自我在高中学到的[逻辑谬误](https://blog.hubspot.com/marketing/common-logical-fallacies)。如果你在论证推理中会犯逻辑错误，那么你在数据分析和统计推理中也会犯逻辑错误。
 
 Geckoboard 的这篇博文是我研究的一个有用的起点:
 
-[](https://www.geckoboard.com/best-practice/statistical-fallacies/) [## 统计谬误和如何避免它们
-
-### 统计谬误是数据对你玩的常见把戏，它会导致数据解释和分析中的错误
-
-www.geckoboard.com](https://www.geckoboard.com/best-practice/statistical-fallacies/) 
+[](https://www.geckoboard.com/best-practice/statistical-fallacies/)  
 
 从那以后，我陷入了我经历最多的几个谬误。我为这篇文章挑选的六个是容易犯的常见错误。因此，请继续阅读，了解更多关于处理数据时可能会陷入的逻辑陷阱。
 

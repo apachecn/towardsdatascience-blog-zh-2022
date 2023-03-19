@@ -103,16 +103,4 @@ DBSCAN_cluster.labels_
 
 ## 参考
 
-[](https://en.wikipedia.org/wiki/DBSCAN) [## DBSCAN -维基百科
-
-### 基于密度的含噪声应用空间聚类(DBSCAN)是由 Martin…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/DBSCAN) [](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html) [## sklearn.cluster.DBSCAN
-
-### 从向量数组或距离矩阵执行 DBSCAN 聚类。基于 DBSCAN 密度的空间聚类…
-
-scikit-learn.org](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html) [](https://scikit-learn.org/stable/modules/clustering.html#dbscan) [## 2.3.使聚集
-
-### 可以使用 modulesklearn.cluster 对未标记的数据进行聚类。每种聚类算法都有两种…
-
-scikit-learn.org](https://scikit-learn.org/stable/modules/clustering.html#dbscan)
+[](https://en.wikipedia.org/wiki/DBSCAN)  [](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html)  [](https://scikit-learn.org/stable/modules/clustering.html#dbscan) 

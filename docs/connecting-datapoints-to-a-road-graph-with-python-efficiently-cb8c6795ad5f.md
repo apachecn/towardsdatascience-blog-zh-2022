@@ -108,8 +108,4 @@
 
 感谢您阅读文章，希望您觉得有用！
 
-[](https://vityazevdanil.medium.com/) [## 丹尼尔·维蒂亚泽夫培养基
-
-### 阅读 Danil Vityazev 在媒体上的文章。数据和商业分析师。我制作商业的数学模型…
-
-vityazevdanil.medium.com](https://vityazevdanil.medium.com/)
+[](https://vityazevdanil.medium.com/) 

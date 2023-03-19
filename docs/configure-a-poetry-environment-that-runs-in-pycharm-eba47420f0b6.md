@@ -32,11 +32,7 @@
 
 对于版本低于 2021.3 的 PyCharm，我们将安装 PyCharm 所需的插件。你可以在下面找到不同 JetBrains IDEs 的诗歌版本列表。
 
-[](https://plugins.jetbrains.com/plugin/14307-poetry/versions) [## 诗歌智能插件|市场
-
-### 这个插件支持诗歌，诗歌是 Python 帮助的一个包管理器，更多细节见文档。
-
-plugins.jetbrains.com](https://plugins.jetbrains.com/plugin/14307-poetry/versions) 
+[](https://plugins.jetbrains.com/plugin/14307-poetry/versions)  
 
 单击上面的链接后，IDE 中将出现一个弹出窗口，显示如何安装插件的说明。
 
@@ -282,16 +278,4 @@ poetry shell
 
 # *参考*
 
- *[## 诗意
-
-### 诗歌展示-树请求-工具带 0.8.0 高级用户的工具带...└──要求=2.0.1 ├──认证…
-
-python-poetry.org](https://python-poetry.org/)* *[](/a-poetic-apology-71a41db4ecce) [## 诗意的道歉
-
-### 或者为什么要用诗歌来管理 Python 的依赖性
-
-towardsdatascience.com](/a-poetic-apology-71a41db4ecce) [](https://www.jetbrains.com/help/pycharm/poetry.html) [## 配置诗歌环境| PyCharm
-
-### 诗歌是一个工具，它基于项目依赖关系来创建 Python 虚拟环境。你可以…
-
-www.jetbrains.com](https://www.jetbrains.com/help/pycharm/poetry.html)*
+ ** *[](/a-poetic-apology-71a41db4ecce)  [](https://www.jetbrains.com/help/pycharm/poetry.html) *

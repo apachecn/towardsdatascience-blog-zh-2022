@@ -14,11 +14,7 @@
 
 在上一篇文章中，我展示了如何使用极大期望来验证您的数据。
 
-[](/great-expectations-always-know-what-to-expect-from-your-data-51214866c24) [## 远大的期望:永远知道从你的数据中可以期待什么
-
-### 使用 Python 确保数据按预期工作
-
-towardsdatascience.com](/great-expectations-always-know-what-to-expect-from-your-data-51214866c24) 
+[](/great-expectations-always-know-what-to-expect-from-your-data-51214866c24)  
 
 尽管远大的期望提供了许多有用的工具，但是用远大的期望创建一个验证套件还是很复杂的。对于一个小型的数据科学项目来说，使用高期望值可能有些过头了。
 
@@ -151,30 +147,10 @@ Pandera 允许我们通过添加`regex=True`对共享特定模式的多个列应
 
 随意发挥，并在这里叉这篇文章的源代码:
 
-[](https://github.com/khuyentran1401/Data-science/blob/master/data_science_tools/pandera_example/pandera.ipynb) [## 数据科学/pandera . ipynb at master khuyentran 1401/数据科学
-
-### 收集有用的数据科学主题以及代码和文章-Data-science/pandera . ipynb at master…
-
-github.com](https://github.com/khuyentran1401/Data-science/blob/master/data_science_tools/pandera_example/pandera.ipynb) 
+[](https://github.com/khuyentran1401/Data-science/blob/master/data_science_tools/pandera_example/pandera.ipynb)  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的数据科学工具。你可以通过 [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1401/) 和 [Twitter](https://twitter.com/KhuyenTran16) 与我联系。
 
 如果你想查看我写的所有文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/bentoml-create-an-ml-powered-prediction-service-in-minutes-23d135d6ca76) [## BentoML:在几分钟内创建一个 ML 驱动的预测服务
-
-### 用 Python 封装和部署您的 ML 模型
-
-towardsdatascience.com](/bentoml-create-an-ml-powered-prediction-service-in-minutes-23d135d6ca76) [](/4-pre-commit-plugins-to-automate-code-reviewing-and-formatting-in-python-c80c6d2e9f5) [## 4 个预提交插件，用于在 Python 中自动检查和格式化代码
-
-### 使用 black、flake8、isort 和 interrogate 编写高质量的代码
-
-towardsdatascience.com](/4-pre-commit-plugins-to-automate-code-reviewing-and-formatting-in-python-c80c6d2e9f5) [](/orchestrate-a-data-science-project-in-python-with-prefect-e69c61a49074) [## 用 Prefect 编制 Python 中的数据科学项目
-
-### 用几行代码优化您的数据科学工作流程
-
-towardsdatascience.com](/orchestrate-a-data-science-project-in-python-with-prefect-e69c61a49074) [](/introduction-to-dvc-data-version-control-tool-for-machine-learning-projects-7cb49c229fe0) [## DVC 介绍:机器学习项目的数据版本控制工具
-
-### 就像 Git 一样，但是有数据！
-
-towardsdatascience.com](/introduction-to-dvc-data-version-control-tool-for-machine-learning-projects-7cb49c229fe0)
+[](/bentoml-create-an-ml-powered-prediction-service-in-minutes-23d135d6ca76)  [](/4-pre-commit-plugins-to-automate-code-reviewing-and-formatting-in-python-c80c6d2e9f5)  [](/orchestrate-a-data-science-project-in-python-with-prefect-e69c61a49074)  [](/introduction-to-dvc-data-version-control-tool-for-machine-learning-projects-7cb49c229fe0) 

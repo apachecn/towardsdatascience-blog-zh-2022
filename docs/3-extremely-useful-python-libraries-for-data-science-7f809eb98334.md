@@ -184,11 +184,7 @@ msno.matrix(df)
 
 另一个有用的可视化技术是热图。要了解它的细节，我推荐阅读这篇有趣的文章。🏆
 
-[](/five-ways-for-faster-data-analysis-801a043bfea9) [## 加快数据分析的五种方法
-
-### 让它在竞争中脱颖而出
-
-towardsdatascience.com](/five-ways-for-faster-data-analysis-801a043bfea9) 
+[](/five-ways-for-faster-data-analysis-801a043bfea9)  
 
 *总结一下，*
 

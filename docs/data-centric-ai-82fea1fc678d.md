@@ -63,20 +63,4 @@
 
 **下面是一些你可能会喜欢的帖子**
 
-**[](/moderation-pipeline-for-user-generated-content-59e7f3c320e0) [## 用户生成内容的审核渠道
-
-### 欧洲科技巨头如何利用 Toloka 的人群来调节其内容
-
-towardsdatascience.com](/moderation-pipeline-for-user-generated-content-59e7f3c320e0) [](/categorizing-customer-support-requests-7c285a9cf974) [## 分类客户支持请求
-
-### 以及如何通过众包来实现
-
-towardsdatascience.com](/categorizing-customer-support-requests-7c285a9cf974) [](/human-in-the-loop-in-machine-translation-systems-bdf3fe82bfa3) [## 机器翻译系统中的人在回路
-
-### 使用众包评估机器翻译质量
-
-towardsdatascience.com](/human-in-the-loop-in-machine-translation-systems-bdf3fe82bfa3) [](/how-to-successfully-add-large-data-sets-to-google-drive-130beb320f1a) [## 如何成功将大型数据集添加到 Google Drive
-
-### 并在谷歌实验室中使用它们…
-
-towardsdatascience.com](/how-to-successfully-add-large-data-sets-to-google-drive-130beb320f1a)**
+**[](/moderation-pipeline-for-user-generated-content-59e7f3c320e0)  [](/categorizing-customer-support-requests-7c285a9cf974)  [](/human-in-the-loop-in-machine-translation-systems-bdf3fe82bfa3)  [](/how-to-successfully-add-large-data-sets-to-google-drive-130beb320f1a) **

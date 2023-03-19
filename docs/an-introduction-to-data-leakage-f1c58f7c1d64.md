@@ -66,11 +66,7 @@
 
 如果你对算法如何被用来创建合成数据感到好奇，请查看我的文章，其中我给出了 SMOTE 的概要，这是一种更流行的数据增强方法。
 
-[](/create-artificial-data-with-smote-2a31ee855904) [## 用 SMOTE 创建人工数据
-
-### 如何利用简单的算法来弥补数据的不足
-
-towardsdatascience.com](/create-artificial-data-with-smote-2a31ee855904) 
+[](/create-artificial-data-with-smote-2a31ee855904)  
 
 自然，创建的人工数据的类型取决于输入这种算法的数据。在这个步骤中包括来自测试集的数据将不可避免地影响添加到训练集中的数据。
 

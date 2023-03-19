@@ -24,11 +24,7 @@ Photo by [Ross Sneddon](https://unsplash.com/@rosssneddon?utm_source=medium&utm_
 
 我在下面的上一篇文章中概述了生产规模的向量相似性搜索的注意事项。所有这些考虑也适用于这个项目。Milvus vector database 设计得非常好，许多步骤都完全相同，这里重复只是为了完整。
 
-[](https://medium.com/unstructured-data-service/supercharged-semantic-similarity-search-in-production-f2a3c35c4e00) [## 生产中的超级语义相似性搜索
-
-### 利用剪辑嵌入和 Milvus 实现超高速、高度可扩展的文本到图像搜索
-
-medium.com](https://medium.com/unstructured-data-service/supercharged-semantic-similarity-search-in-production-f2a3c35c4e00) 
+[](https://medium.com/unstructured-data-service/supercharged-semantic-similarity-search-in-production-f2a3c35c4e00)  
 
 # 设置环境并从 Kaggle 下载 arxiv 数据。
 
@@ -121,11 +117,7 @@ Milvus 集合类似于传统数据库中的表。为了创建一个集合来存�
 
 首先，我们需要将 Dask 数据帧中的文本转换成嵌入向量，以运行语义相似性搜索。我下面的帖子分享了我们如何将文本转换成嵌入。特别是，我们将使用名为 SPECTRE 的 SBERT 双编码器模型将科学论文转换为嵌入内容。
 
-[](/semantic-textual-similarity-83b3ca4a840e) [## 语义文本相似度
-
-### 从 Jaccard 到 OpenAI，为您的语义文本相似性项目实现最佳的 NLP 算法
-
-towardsdatascience.com](/semantic-textual-similarity-83b3ca4a840e) 
+[](/semantic-textual-similarity-83b3ca4a840e)  
 
 **SPECTER**[[Paper](http://arxiv.org/abs/2004.07180)][[Github](https://github.com/allenai/specter)]:使用引文通知转换器的科学论文嵌入是将科学论文转换为嵌入的模型。
 

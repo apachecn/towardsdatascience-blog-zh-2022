@@ -154,12 +154,4 @@ LIMIT 20
 
 # 有用的资源
 
-[](https://cloud.google.com/bigquery/docs/reference/odbc-jdbc-drivers) [## BigQuery |谷歌云的 ODBC 和 JDBC 驱动程序
-
-### Google 与 Magnitude Simba 合作提供 ODBC 和 JDBC 驱动程序，这些驱动程序利用了 BigQuery 的强大功能…
-
-cloud.google.com](https://cloud.google.com/bigquery/docs/reference/odbc-jdbc-drivers) [](https://dbeaver.io/) [## DBeaver
-
-### 免费的多平台数据库工具，面向开发人员、数据库管理员、分析师和所有需要工作的人…
-
-dbeaver.io](https://dbeaver.io/)
+[](https://cloud.google.com/bigquery/docs/reference/odbc-jdbc-drivers)  [](https://dbeaver.io/) 

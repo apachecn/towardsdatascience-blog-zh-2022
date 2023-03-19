@@ -75,11 +75,7 @@ user_colour = st.color_picker(label='Choose a colour for your plot')
 
 要了解更多关于颜色选择器部件的信息，请查看下面的文档页面。
 
-[](https://docs.streamlit.io/library/api-reference/widgets/st.color_picker) [## st.color_picker -简化文档
-
-### 函数签名 st.color_picker(label，value=None，key=None，help=None，on_change=None，args=None，kwargs=None，*…
-
-docs.streamlit.io](https://docs.streamlit.io/library/api-reference/widgets/st.color_picker) 
+[](https://docs.streamlit.io/library/api-reference/widgets/st.color_picker)  
 
 # 设置 Matplotlib 图形
 

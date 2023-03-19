@@ -14,8 +14,4 @@
 
 听起来很有趣？想了解更多信息和/或申请吗？[这是我们的官方申请](/join-us-as-an-editorial-associate-of-towards-data-science-766cdd74d13e)，它提供了你需要的所有细节。我们希望听到你的消息！
 
-[](/join-us-as-an-editorial-associate-of-towards-data-science-766cdd74d13e) [## 加入我们，成为一名志愿编辑助理
-
-### 走向数据科学为成千上万的人提供了一个平台来交流思想，并扩大我们对…
-
-towardsdatascience.com](/join-us-as-an-editorial-associate-of-towards-data-science-766cdd74d13e)
+[](/join-us-as-an-editorial-associate-of-towards-data-science-766cdd74d13e) 

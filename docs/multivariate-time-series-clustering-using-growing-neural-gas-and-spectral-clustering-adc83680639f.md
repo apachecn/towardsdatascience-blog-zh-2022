@@ -212,44 +212,4 @@ for c in anomaly_clusters_list:
 
 ## 有用的链接
 
-[](https://medium.com/starschema-blog/growing-neural-gas-models-theory-and-practice-b63e5bbe058d) [## 生长神经气体:使用 GNGs 量化糖尿病视网膜病变中的硬性视网膜渗出
-
-### 不断发展的神经气体算法可以帮助我们量化眼底病变和评估糖尿病的严重程度…
-
-medium.com](https://medium.com/starschema-blog/growing-neural-gas-models-theory-and-practice-b63e5bbe058d) [](/spectral-clustering-aba2640c0d5b) [## 谱聚类
-
-### 基础与应用
-
-towardsdatascience.com](/spectral-clustering-aba2640c0d5b) [](https://math.stackexchange.com/questions/1113467/why-laplacian-matrix-need-normalization-and-how-come-the-sqrt-of-degree-matrix/1113572) [## 为什么拉普拉斯矩阵需要归一化，度矩阵的 sqrt 是怎么来的？
-
-### 拉普拉斯矩阵为什么需要归一化，度矩阵的平方幂是怎么来的？对称归一化…
-
-math.stackexchange.com](https://math.stackexchange.com/questions/1113467/why-laplacian-matrix-need-normalization-and-how-come-the-sqrt-of-degree-matrix/1113572) [](https://www.mygreatlearning.com/blog/introduction-to-spectral-clustering/#WhatisSpectralclustering) [## 谱聚类简介
-
-### 近年来，谱聚类已经成为最流行的现代聚类算法之一。很容易…
-
-www.mygreatlearning.com](https://www.mygreatlearning.com/blog/introduction-to-spectral-clustering/#WhatisSpectralclustering)  [## 谱聚类入门 Juan Camilo Orduz 博士
-
-### 12 分钟阅读这篇文章，我想探索谱聚类背后的思想。我不打算发展这个理论…
-
-juanitorduz.github.io](https://juanitorduz.github.io/spectral_clustering/) [](https://math.stackexchange.com/questions/573888/how-do-i-compute-the-eigenvectors-for-spectral-clustering-from-a-singular-value) [## 如何从奇异值分解计算谱聚类的特征向量？
-
-### 感谢为数学栈交换贡献一个答案！请务必回答问题。提供详细信息…
-
-math.stackexchange.com](https://math.stackexchange.com/questions/573888/how-do-i-compute-the-eigenvectors-for-spectral-clustering-from-a-singular-value) [](https://stats.stackexchange.com/questions/314046/why-does-andrew-ng-prefer-to-use-svd-and-not-eig-of-covariance-matrix-to-do-pca) [## 为什么吴恩达更喜欢用奇异值分解而不是协方差矩阵的 EIG 来做主成分分析？
-
-### 开始组$ @阿米巴对 PCA 问题有很好的回答，包括这个关于奇异值分解和 PCA 关系的问题。回答给…
-
-stats.stackexchange.com](https://stats.stackexchange.com/questions/314046/why-does-andrew-ng-prefer-to-use-svd-and-not-eig-of-covariance-matrix-to-do-pca) [](https://machinelearningmastery.com/singular-value-decomposition-for-machine-learning/) [## 如何用 Python -机器学习掌握从头计算 SVD
-
-### 矩阵分解，也称为矩阵分解，涉及到描述一个给定的矩阵使用其组成…
-
-machinelearningmastery.com](https://machinelearningmastery.com/singular-value-decomposition-for-machine-learning/) [](/pca-and-svd-explained-with-numpy-5d13b0d2a4d8) [## 用 numpy 解释 PCA 和 SVD
-
-### 主成分分析和奇异值分解到底有什么关系，如何用 numpy 实现？
-
-towardsdatascience.com](/pca-and-svd-explained-with-numpy-5d13b0d2a4d8) [](https://stackoverflow.com/questions/24913232/using-numpy-np-linalg-svd-for-singular-value-decomposition) [## 使用 Numpy (np.linalg.svd)进行奇异值分解
-
-### TL；DR: numpy 的 SVD 计算 X = PDQ，所以 Q 已经转置了。奇异值分解将矩阵 X 有效地分解成…
-
-stackoverflow.com](https://stackoverflow.com/questions/24913232/using-numpy-np-linalg-svd-for-singular-value-decomposition)
+[](https://medium.com/starschema-blog/growing-neural-gas-models-theory-and-practice-b63e5bbe058d)  [](/spectral-clustering-aba2640c0d5b)  [](https://math.stackexchange.com/questions/1113467/why-laplacian-matrix-need-normalization-and-how-come-the-sqrt-of-degree-matrix/1113572)  [](https://www.mygreatlearning.com/blog/introduction-to-spectral-clustering/#WhatisSpectralclustering)    [](https://math.stackexchange.com/questions/573888/how-do-i-compute-the-eigenvectors-for-spectral-clustering-from-a-singular-value)  [](https://stats.stackexchange.com/questions/314046/why-does-andrew-ng-prefer-to-use-svd-and-not-eig-of-covariance-matrix-to-do-pca)  [](https://machinelearningmastery.com/singular-value-decomposition-for-machine-learning/)  [](/pca-and-svd-explained-with-numpy-5d13b0d2a4d8)  [](https://stackoverflow.com/questions/24913232/using-numpy-np-linalg-svd-for-singular-value-decomposition) 

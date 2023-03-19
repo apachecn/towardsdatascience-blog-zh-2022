@@ -171,11 +171,7 @@ $ python3 -m pip install scikit-learn
 
 如果您在导入`scikit-learn`时仍然有问题，那么可能是其他地方出错了。你可能会在我的一篇文章中找到答案
 
-[](/how-to-fix-modulenotfounderror-and-importerror-248ce5b69b1c) [## 如何修复 ModuleNotFoundError 和 ImportError
-
-### 做适当的模块导入，让你的生活更轻松
-
-towardsdatascience.com](/how-to-fix-modulenotfounderror-and-importerror-248ce5b69b1c) 
+[](/how-to-fix-modulenotfounderror-and-importerror-248ce5b69b1c)  
 
 ## 最后的想法
 
@@ -183,24 +179,8 @@ towardsdatascience.com](/how-to-fix-modulenotfounderror-and-importerror-248ce5b6
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership) 
+[](https://gmyrianthous.medium.com/membership)  
 
 **相关文章你可能也喜欢**
 
-[](/scikit-learn-vs-sklearn-6944b9dc1736) [## Scikit-Learn 和 Sklearn 有区别吗？
-
-### Python 中的 scikit-learn 与 sklearn
-
-towardsdatascience.com](/scikit-learn-vs-sklearn-6944b9dc1736) [](/predict-vs-predict-proba-scikit-learn-bdc45daa5972) [## scikit-learn 中的 predict()和 predict_proba()有什么区别？
-
-### 如何对数据集使用 predict 和 predict_proba 方法来执行预测
-
-towardsdatascience.com](/predict-vs-predict-proba-scikit-learn-bdc45daa5972) [](/14-must-know-pip-commands-for-data-scientists-and-engineers-a59ebbe0a439) [## 数据科学家和工程师必备的 14 个 pip 命令
-
-### 探索一些对日常编程最有用的 pip 命令
-
-towardsdatascience.com](/14-must-know-pip-commands-for-data-scientists-and-engineers-a59ebbe0a439)
+[](/scikit-learn-vs-sklearn-6944b9dc1736)  [](/predict-vs-predict-proba-scikit-learn-bdc45daa5972)  [](/14-must-know-pip-commands-for-data-scientists-and-engineers-a59ebbe0a439) 

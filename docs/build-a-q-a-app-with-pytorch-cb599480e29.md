@@ -210,11 +210,7 @@ best_a : Newcastle United striker Alan Shearer holds the record for most Premier
 
 如需完整的脚本，请点击以下链接进入我的 GitHub 页面:
 
-[](https://github.com/andreRibeiro1989/medium/tree/main/qa_model) [## 中型/QA _ main 和 Ribeiro1989 型/中型
-
-### 使用 transformers、Docker 和 FastAPI 的问答 app。
-
-github.com](https://github.com/andreRibeiro1989/medium/tree/main/qa_model) 
+[](https://github.com/andreRibeiro1989/medium/tree/main/qa_model)  
 
 # 结论
 
@@ -230,11 +226,7 @@ github.com](https://github.com/andreRibeiro1989/medium/tree/main/qa_model)
 
 如果你喜欢阅读这样的故事，并想支持我成为一名作家，可以考虑报名成为一名媒体成员。每月 5 美元，让你可以无限制地访问 Python、机器学习和数据科学文章。如果你使用[我的链接](https://andrefsr.medium.com/membership)注册，我会赚一小笔佣金，不需要你额外付费。
 
-[](https://andrefsr.medium.com/membership) [## 通过我的推荐链接加入 Medium-andréRibeiro
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-andrefsr.medium.com](https://andrefsr.medium.com/membership) 
+[](https://andrefsr.medium.com/membership)  
 
 # 参考
 

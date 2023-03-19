@@ -20,11 +20,7 @@
 
 几何分布通常被称为离散版的 [**指数分布**](https://en.wikipedia.org/wiki/Exponential_distribution) **。如果你想了解指数分布，我之前写过一篇关于它的短文，你可以在这里找到:**
 
-[](/exponential-distribution-simply-explained-349d05b1bdb8) [## 简单解释了指数分布
-
-### 指数分布及其起源的简明解释。
-
-towardsdatascience.com](/exponential-distribution-simply-explained-349d05b1bdb8) 
+[](/exponential-distribution-simply-explained-349d05b1bdb8)  
 
 实际上有两种不同类型的几何分布:
 

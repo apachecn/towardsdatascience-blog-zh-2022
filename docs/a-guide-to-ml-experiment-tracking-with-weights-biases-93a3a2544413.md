@@ -204,20 +204,8 @@ python main.py --learning_rate 0.015 --batch_size 64
 
 ## [我还建议成为一名中等会员，以便不要错过我每周发表的任何数据科学文章。在此加入👇](https://ipom.medium.com/membership/)
 
-[](https://ipom.medium.com/membership/) [## 通过我的推荐链接加入 Medium
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-ipom.medium.com](https://ipom.medium.com/membership/) 
+[](https://ipom.medium.com/membership/)  
 
 ## 我的另外几篇文章你可能会感兴趣:
 
-[](/31-datasets-for-your-next-data-science-project-6ef9a6f8cac6) [## 您下一个数据科学项目的 31 个数据集
-
-### 基于任务的数据集的汇编，可用于构建下一个数据科学项目
-
-towardsdatascience.com](/31-datasets-for-your-next-data-science-project-6ef9a6f8cac6) [](/26-github-repositories-to-inspire-your-next-data-science-project-3023c24f4c3c) [## 26 个 GitHub 存储库，激发您的下一个数据科学项目
-
-### 用这个有趣的代码列表开始新的一年，包括库、路线图和项目书签
-
-towardsdatascience.com](/26-github-repositories-to-inspire-your-next-data-science-project-3023c24f4c3c)
+[](/31-datasets-for-your-next-data-science-project-6ef9a6f8cac6)  [](/26-github-repositories-to-inspire-your-next-data-science-project-3023c24f4c3c) 

@@ -6,11 +6,7 @@
 
 在我之前的帖子中，我们学习了什么是图像分类以及如何创建图像分类模型。
 
-[](/image-classification-with-convolutional-neural-networks-12a7b4fb4c91) [## 基于卷积神经网络的图像分类
-
-### 图像分类卷积和卷积神经网络综合指南，从实现…
-
-towardsdatascience.com](/image-classification-with-convolutional-neural-networks-12a7b4fb4c91) 
+[](/image-classification-with-convolutional-neural-networks-12a7b4fb4c91)  
 
 现在是时候进一步了解对象检测了。
 
@@ -74,11 +70,7 @@ towardsdatascience.com](/image-classification-with-convolutional-neural-networks
 
 在下面的帖子中，我提到了不同的算法来应用图像分割，不使用基于人工智能的方法，而是使用经典的基于计算机视觉的方法。
 
-[](/image-segmentation-with-classical-computer-vision-based-approaches-80c75d6d995f) [## 基于经典计算机视觉方法的图像分割
-
-### 经典的基于计算机视觉的图像分割方法，如阈值法、基于区域的方法、基于边缘检测的方法和
-
-towardsdatascience.com](/image-segmentation-with-classical-computer-vision-based-approaches-80c75d6d995f) 
+[](/image-segmentation-with-classical-computer-vision-based-approaches-80c75d6d995f)  
 
 在同一类别中进行选择性搜索，它应用以下步骤来分割图像:
 
@@ -141,11 +133,7 @@ towardsdatascience.com](/image-segmentation-with-classical-computer-vision-based
 
 *mAP* :平均精度百分比是对象检测模型最常见的精度度量，其中计算每个类别的精度，然后取平均值。关于地图计算的更多信息，可以看看这篇很棒的帖子。
 
-[](https://jonathan-hui.medium.com/map-mean-average-precision-for-object-detection-45c121a31173) [## 用于对象检测的 mAP(平均精度)
-
-### AP(平均精度)是一个测量物体检测器精度的常用指标，如更快的 R-CNN、SSD 等…
-
-jonathan-hui.medium.com](https://jonathan-hui.medium.com/map-mean-average-precision-for-object-detection-45c121a31173) 
+[](https://jonathan-hui.medium.com/map-mean-average-precision-for-object-detection-45c121a31173)  
 
 ## 单级检测器
 
@@ -170,11 +158,7 @@ jonathan-hui.medium.com](https://jonathan-hui.medium.com/map-mean-average-precis
 
 *   要了解更多关于非最大值抑制机制以及如何选择最佳拟合边界框的信息，您可以阅读这篇不错的帖子:
 
-[](/non-maximum-suppression-nms-93ce178e177c) [## 非最大抑制(NMS)
-
-### 一种消除目标检测中重复和误报的技术
-
-towardsdatascience.com](/non-maximum-suppression-nms-93ce178e177c) 
+[](/non-maximum-suppression-nms-93ce178e177c)  
 
 让我们想象一下固态硬盘架构:
 
@@ -281,21 +265,13 @@ YOLOv5 的一些关键特性如下:
 
 在下面的 GitHub 链接中，您会发现我的 repo 是从基础源代码派生出来的，我在其中添加了一些更多的属性，并详细解释了如何构建和使用这个实现。
 
-[](https://github.com/YCAyca/Faster_RCNN_for_Open_Images_Dataset_Keras) [## GitHub-YCAyca/Faster _ RCNN _ for _ Open _ Images _ Dataset _ Keras:Faster R-CNN for Open Images Dataset by…
-
-### 快速 RCNN 实现的分叉存储库。在本文档中，构建说明和回购的使用将…
-
-github.com](https://github.com/YCAyca/Faster_RCNN_for_Open_Images_Dataset_Keras) 
+[](https://github.com/YCAyca/Faster_RCNN_for_Open_Images_Dataset_Keras)  
 
 **用 YOLOV4 进行物体检测**
 
 对于 YOLOV4，我使用了基于 C 的官方实现，并分叉为我的 GitHub repo，其中我添加了关于**如何构建**和**如何使用** YOLOV4 的指令。这个实现很难理解和构建，所以我强烈建议查看一下 repo，并按照步骤一步一步来训练和测试您自己的数据集。
 
-[](https://github.com/YCAyca/darknet) [## GitHub-YCAyca/darknet:yolov 4/Scaled-yolov 4/YOLO-用于对象检测的神经网络…
-
-### YOLOv4 / Scaled-YOLOv4 / YOLO -用于对象检测的神经网络(Windows 和 Linux 版本的 Darknet ) - GitHub …
-
-github.com](https://github.com/YCAyca/darknet) 
+[](https://github.com/YCAyca/darknet)  
 
 感谢您的关注，我希望这对您自己开始使用对象检测模型有所帮助！
 

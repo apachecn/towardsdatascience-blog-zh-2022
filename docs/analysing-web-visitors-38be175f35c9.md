@@ -159,8 +159,4 @@ df['city'] = df.remote_addr.apply(lambda x: country(x, res, 'city'))
 
 如果你花时间远离编码，记忆会变得很困难，因此这些混合工具很方便。我喜欢这些混合方法！
 
-[](https://cognitivedave.medium.com/membership) [## 通过我的推荐链接-大卫·摩尔加入媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-cognitivedave.medium.com](https://cognitivedave.medium.com/membership)
+[](https://cognitivedave.medium.com/membership) 

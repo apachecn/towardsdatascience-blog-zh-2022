@@ -165,48 +165,24 @@ DAG 是一组**节点**，由方向**边**(箭头)链接，不形成**循环**�
 
 朱迪亚·珀尔(Judea Pearl)和达纳·麦肯齐(Dana Mackenzie)写的《为什么》这本书可能是一个很好的开始，它会给你一个关于 Dag 以及如何操纵它们进行因果推理的强烈直觉。
 
-[](https://www.amazon.fr/Book-Why-Science-Cause-Effect/dp/046509760X) [## 为什么之书:因果的新科学
-
-### 诺特/5。原因之书:新的因果科学和股票市场上的数百万里弗…
-
-www.amazon.fr](https://www.amazon.fr/Book-Why-Science-Cause-Effect/dp/046509760X) 
+[](https://www.amazon.fr/Book-Why-Science-Cause-Effect/dp/046509760X)  
 
 如果你对阅读这本书没有把握，我根据它写了一篇关于媒介的文章，那会让你对它的内容有个概念:
 
-[](https://medium.com/@arthurmello_/the-science-of-why-a-brief-introduction-ed92060e6f0d) [## 为什么的科学:简介
-
-### 理解因果关系是如何工作的，以及如何处理它
-
-medium.com](https://medium.com/@arthurmello_/the-science-of-why-a-brief-introduction-ed92060e6f0d) 
+[](https://medium.com/@arthurmello_/the-science-of-why-a-brief-introduction-ed92060e6f0d)  
 
 读完那本书后，还有一本更短的书，也是朱迪亚·珀尔写的，会给出更多的数学细节:
 
-[](https://www.amazon.fr/Causality-Primer-Judea-Pearl/dp/1119186846/ref=pd_lpo_3?pd_rd_i=1119186846&psc=1) [## 统计学中的因果推断:初级读本
-
-### Noté /5:统计中的阿奇泰兹因果推理:一本入门读物
-
-www.amazon.fr](https://www.amazon.fr/Causality-Primer-Judea-Pearl/dp/1119186846/ref=pd_lpo_3?pd_rd_i=1119186846&psc=1) 
+[](https://www.amazon.fr/Causality-Primer-Judea-Pearl/dp/1119186846/ref=pd_lpo_3?pd_rd_i=1119186846&psc=1)  
 
 最后，我推荐 Coursera 上的这个 MOOC:
 
-[](https://www.coursera.org/learn/crash-course-in-causality) [## 因果关系速成班:从观察数据推断因果关系
-
-### 我们都听说过“相关性不等于因果关系”这句话。那么，什么等同于因果关系呢？本课程旨在…
-
-www.coursera.org](https://www.coursera.org/learn/crash-course-in-causality) 
+[](https://www.coursera.org/learn/crash-course-in-causality)  
 
 不会太长，会让你很好的把理论和实践结合起来(用 R)。如果我要从这份清单中只推荐一样东西给你，由于它的实际内容，它可能会是这门课程。
 
 如果你喜欢这篇文章，你可能也会喜欢这些:
 
-[](/hypothesis-testing-a23852264d09) [## 假设检验
-
-### 它是什么以及如何在 Python 中实现它
-
-towardsdatascience.com](/hypothesis-testing-a23852264d09) [](/regularization-for-machine-learning-67c37b132d61) [## 机器学习的正则化
-
-### 为什么它是最重要的技术之一，以及如何使用它
-
-towardsdatascience.com](/regularization-for-machine-learning-67c37b132d61) 
+[](/hypothesis-testing-a23852264d09)  [](/regularization-for-machine-learning-67c37b132d61)  
 
 > 如果你想进一步讨论，请随时通过 LinkedIn[联系我，这将是我的荣幸(老实说)。](https://www.linkedin.com/in/melloarthur/)

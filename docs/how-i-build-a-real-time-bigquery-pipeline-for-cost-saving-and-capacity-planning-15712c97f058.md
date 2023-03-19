@@ -138,8 +138,4 @@ PubSub 本质上是一个队列。我们需要像 cloud function 这样的订阅
 
 ## 参考
 
-[](https://cloud.google.com/blog/products/data-analytics/bigquery-audit-logs-pipelines-analysis) [## BigQuery 审计日志管道和分析|谷歌云博客
-
-### 使用 BigQuery 审计日志对各种角色的 BigQuery 生成的日志事件进行深入监控和分析…
-
-cloud.google.com](https://cloud.google.com/blog/products/data-analytics/bigquery-audit-logs-pipelines-analysis)
+[](https://cloud.google.com/blog/products/data-analytics/bigquery-audit-logs-pipelines-analysis) 

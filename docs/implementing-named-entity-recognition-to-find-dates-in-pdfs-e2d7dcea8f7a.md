@@ -10,11 +10,7 @@
 
 数据很重要。句号。虽然人们可以找到专门为某个数据科学任务定制的数据集，但总有一天这些数据集会变得缺乏原创性并被过度使用。最近我一直在用 Python 处理 pdf，老实说，这一开始并不是最容易的任务。您希望能够使用 PDF 文档的原因是，它们在互联网上非常容易访问，并且可以为您的数据集提供大量新数据。你可以看看我以前做过的 pdf 文件。此后，我清理并更改了我使用的一些代码，展示了您的代码是如何不断发展变化的！
 
-[](/natural-language-processing-pdf-processing-function-for-obtaining-a-general-overview-6fa63e81fbf1) [## 自然语言处理:获取概观的 PDF 处理功能
-
-### 今天用于自然语言处理(NLP)的许多文档都在。pdf 格式。将 pdf 读入…
-
-towardsdatascience.com](/natural-language-processing-pdf-processing-function-for-obtaining-a-general-overview-6fa63e81fbf1) 
+[](/natural-language-processing-pdf-processing-function-for-obtaining-a-general-overview-6fa63e81fbf1)  
 
 # →为什么日期在自然语言处理中很重要
 

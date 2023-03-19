@@ -171,8 +171,4 @@ positions_dict **=** {}
 
 总之，我们已经了解了线性编程问题的基础，并用 python 和 OR 工具构建了一个与体育相关的实现。我们还学习了这种方法的灵活性，并分析了带有和不带有定制约束的解决方案。最后，我留给您一个存储库，您可以在其中找到我用来构建它的代码和数据:
 
-[](https://github.com/nicogarciaara/nba_moneyball) [## GitHub-nicogarciaara/NBA _ money ball
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/nicogarciaara/nba_moneyball)
+[](https://github.com/nicogarciaara/nba_moneyball) 

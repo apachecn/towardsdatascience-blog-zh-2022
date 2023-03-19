@@ -26,19 +26,11 @@
 
 ## 学习线性代数的资源
 
-[](https://www.khanacademy.org/math/linear-algebra) [## 线性代数|可汗学院
-
-### 如果您看到此消息，这意味着我们在网站上加载外部资源时遇到了问题。如果你是…
-
-www.khanacademy.org](https://www.khanacademy.org/math/linear-algebra) 
+[](https://www.khanacademy.org/math/linear-algebra)  
 
 ## 如何使用线性代数进行数据分析
 
-[](/linear-algebra-essentials-with-numpy-part-1-af4a867ac5ca) [## Numpy 线性代数基础(第一部分)
-
-### 学习数据科学的基本线性代数技能—第 1/2 部分
-
-towardsdatascience.com](/linear-algebra-essentials-with-numpy-part-1-af4a867ac5ca) 
+[](/linear-algebra-essentials-with-numpy-part-1-af4a867ac5ca)  
 
 # 2.可能性
 
@@ -60,11 +52,7 @@ towardsdatascience.com](/linear-algebra-essentials-with-numpy-part-1-af4a867ac5c
 
 ## 学习统计的资源
 
-[](/fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7) [## 数据科学家和数据分析师的统计学基础
-
-### 数据科学或数据分析之旅的关键统计概念
-
-towardsdatascience.com](/fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7) [](/an-undergraduate-level-introductory-statistics-course-in-15-minutes-51996bb7caf3) [## 15 分钟的大学水平的统计学入门课程
+[](/fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7)  [](/an-undergraduate-level-introductory-statistics-course-in-15-minutes-51996bb7caf3) [## 15 分钟的大学水平的统计学入门课程
 
 towardsdatascience.com](/an-undergraduate-level-introductory-statistics-course-in-15-minutes-51996bb7caf3) 
 

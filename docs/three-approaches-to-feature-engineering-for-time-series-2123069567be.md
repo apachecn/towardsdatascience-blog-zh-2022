@@ -173,19 +173,7 @@ TRAIN_END = 3 * 365
 
 您可能还会对以下内容感兴趣:
 
-[](https://medium.com/geekculture/investigating-the-effects-of-resampling-imbalanced-datasets-with-data-validation-techniques-f4ca3c8b2b94) [## 利用数据验证技术研究不平衡数据集重采样的效果
-
-### 了解流行的重采样方法对处理类别不平衡的影响
-
-medium.com](https://medium.com/geekculture/investigating-the-effects-of-resampling-imbalanced-datasets-with-data-validation-techniques-f4ca3c8b2b94) [](/time-series-diy-seasonal-decomposition-f0b469afed44) [## 时间序列 DIY:季节分解
-
-### 了解在 statsmodel 的 seasonal_decompose 中发生了什么
-
-towardsdatascience.com](/time-series-diy-seasonal-decomposition-f0b469afed44) [](/a-step-by-step-guide-to-calculating-autocorrelation-and-partial-autocorrelation-8c4342b784e8) [## 计算自相关和偏自相关的分步指南
-
-### 如何在 Python 中从头开始计算 ACF 和 PACF 值
-
-towardsdatascience.com](/a-step-by-step-guide-to-calculating-autocorrelation-and-partial-autocorrelation-8c4342b784e8) 
+[](https://medium.com/geekculture/investigating-the-effects-of-resampling-imbalanced-datasets-with-data-validation-techniques-f4ca3c8b2b94)  [](/time-series-diy-seasonal-decomposition-f0b469afed44)  [](/a-step-by-step-guide-to-calculating-autocorrelation-and-partial-autocorrelation-8c4342b784e8)  
 
 # 参考
 

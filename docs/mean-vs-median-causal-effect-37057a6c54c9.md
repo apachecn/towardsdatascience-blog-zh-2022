@@ -200,11 +200,7 @@ Rho 加权函数，图片由作者提供
 
 *你可以在这里找到 Jupyter 的原始笔记本:*
 
-*[](https://github.com/matteocourthoud/Blog-Posts/blob/main/notebooks/quantile_reg.ipynb) [## 博客帖子/quantile _ reg . ipynb at main Matteo courthoud/博客帖子
-
-### 我的中型博客文章的代码和笔记本。为 matteocourthoud/Blog-Posts 的发展作出贡献
-
-github.com](https://github.com/matteocourthoud/Blog-Posts/blob/main/notebooks/quantile_reg.ipynb)* 
+*[](https://github.com/matteocourthoud/Blog-Posts/blob/main/notebooks/quantile_reg.ipynb) * 
 
 ## *感谢您的阅读！*
 

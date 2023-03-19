@@ -75,11 +75,7 @@ TDA 不是一种单一的技术。更确切地说，它是具有从数据中提�
 
 TDA 的两个用例。(左)TDA 应用于体育分析。图片来自 Ayasdi 白皮书[ [2](http://www.ayasdi.com/wp-content/uploads/_downloads/Redefining_Basketball_Through_Topological_Data_Analysis.pdf) ]。(右)TDA 用于识别糖尿病亚组。图片来自李等人的论文 [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4780757/) 。
 
-[](https://medium.datadriveninvestor.com/the-mapper-algorithm-d0842f926658) [## 映射器算法
-
-### 像欧拉一样画出来
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/the-mapper-algorithm-d0842f926658) 
+[](https://medium.datadriveninvestor.com/the-mapper-algorithm-d0842f926658)  
 
 ## 问题(术语)
 
@@ -99,11 +95,7 @@ medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/the-mapper-
 
 **支持** : [给我买杯咖啡](https://www.buymeacoffee.com/shawhint?source=about_page-------------------------------------) ☕️ | [成为会员](/membership?source=about_page-------------------------------------) ⭐️
 
-[](https://shawhin.medium.com/membership) [## 通过我的推荐链接加入媒体——肖文·塔莱比
-
-### ⭐️成为会员使用我的推荐链接，并获得充分的媒体上的每一篇文章。您的会员费直接…
-
-shawhin.medium.com](https://shawhin.medium.com/membership) 
+[](https://shawhin.medium.com/membership)  
 
 [1] [夏萨尔，f .，&米歇尔，B. (2021)。拓扑数据分析导论:数据科学家的基础和实践。*人工智能前沿*， *4* ，108。https://doi.org/10.3389/FRAI.2021.667963/BIBTEX](https://doi.org/10.3389/frai.2021.667963)
 

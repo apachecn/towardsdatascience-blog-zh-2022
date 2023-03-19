@@ -68,12 +68,4 @@ RASA 中的故事是为了平滑对话流的过渡。下面的故事显示了触
 
 # 参考
 
-[](https://www.whoson.com/chatbots-ai/the-problem-with-generalist-chatbots/) [## 多面手聊天机器人的问题是
-
-### “作为门房的聊天机器人”模式未能认识到你的访问者通常在寻找一个更简单、更清晰的…
-
-www.whoson.com](https://www.whoson.com/chatbots-ai/the-problem-with-generalist-chatbots/) [](https://www.openstreetmap.org/) [## OpenStreetMap
-
-### OpenStreetMap 是一张世界地图，由像您这样的人创建，在开放许可下可以免费使用。
-
-www.openstreetmap.org](https://www.openstreetmap.org/)
+[](https://www.whoson.com/chatbots-ai/the-problem-with-generalist-chatbots/)  [](https://www.openstreetmap.org/) 

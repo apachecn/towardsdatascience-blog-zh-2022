@@ -223,16 +223,4 @@ python -m ipykernel install --user --name myenv --display-name "myenv"
 
 **欢迎您**加入我的数据科学学习之旅！**点击此[媒体](https://kennethleungty.medium.com/)页面，查看我的 [GitHub](https://github.com/kennethleungty) ，了解更多精彩的数据科学内容。同时，享受用 DataWig 输入缺失值的乐趣吧！**
 
-**[](/feature-selection-with-simulated-annealing-in-python-clearly-explained-1808db14f8fa) [## Python 中模拟退火的特征选择，解释清楚
-
-### 为建模选择最佳特征的全局搜索算法的概念和实现
-
-towardsdatascience.com](/feature-selection-with-simulated-annealing-in-python-clearly-explained-1808db14f8fa) [](/how-to-dockerize-machine-learning-applications-built-with-h2o-mlflow-fastapi-and-streamlit-a56221035eb5) [## 如何对接用 H2O、MLflow、FastAPI 和 Streamlit 构建的机器学习应用
-
-### 用 Docker 容器化多服务 ML 应用的简单指南
-
-towardsdatascience.com](/how-to-dockerize-machine-learning-applications-built-with-h2o-mlflow-fastapi-and-streamlit-a56221035eb5) [](/top-tips-to-google-search-like-a-data-science-pro-897599f4d9ae) [## 像经验丰富的数据科学家一样使用谷歌搜索的顶级技巧
-
-### 了解高级 Google 搜索功能，提高您查找数据科学解决方案的效率
-
-towardsdatascience.com](/top-tips-to-google-search-like-a-data-science-pro-897599f4d9ae)**
+**[](/feature-selection-with-simulated-annealing-in-python-clearly-explained-1808db14f8fa)  [](/how-to-dockerize-machine-learning-applications-built-with-h2o-mlflow-fastapi-and-streamlit-a56221035eb5)  [](/top-tips-to-google-search-like-a-data-science-pro-897599f4d9ae) **

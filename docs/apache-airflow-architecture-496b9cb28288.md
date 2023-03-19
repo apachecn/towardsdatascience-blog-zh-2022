@@ -85,24 +85,8 @@ Airflow 是一个强大的工具，让用户(主要是工程师)设计、构建�
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership) 
+[](https://gmyrianthous.medium.com/membership)  
 
 **相关文章你可能也喜欢**
 
-[](/airflow-dags-decorators-b5dc03c76f07) [## 使用气流装饰器创作 Dag
-
-### 用 Python decorators 创作 Apache Airflow DAGs 和任务
-
-towardsdatascience.com](/airflow-dags-decorators-b5dc03c76f07) [](/hashicorp-vault-airflow-cfdddab31ea) [## 如何用气流设置 HashiCorp 保险库
-
-### 将 HashiCorp Vault 与 Apache Airflow 集成
-
-towardsdatascience.com](/hashicorp-vault-airflow-cfdddab31ea) [](/run-airflow-docker-1b83a57616fb) [## 如何使用 Docker 在本地运行气流
-
-### 在本地机器上使用 Docker 运行 Airflow 的分步指南
-
-towardsdatascience.com](/run-airflow-docker-1b83a57616fb)
+[](/airflow-dags-decorators-b5dc03c76f07)  [](/hashicorp-vault-airflow-cfdddab31ea)  [](/run-airflow-docker-1b83a57616fb) 

@@ -160,19 +160,11 @@ if __name__ == "__main__":
 
 和往常一样，你可以在我的 GitHub 账户上找到这个脚本。
 
-[](https://github.com/CognitiveDave/ReadingList/blob/main/parallelism.py) [## 主认知区的 reading list/parallelism . py Dave/reading list
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/CognitiveDave/ReadingList/blob/main/parallelism.py) 
+[](https://github.com/CognitiveDave/ReadingList/blob/main/parallelism.py)  
 
 不是中等会员！为什么不加入呢——只需 50 美元，物超所值。
 
-[](https://cognitivedave.medium.com/membership) [## 通过我的推荐链接-大卫·摩尔加入媒体
-
-### 阅读大卫·摩尔的每一个故事(以及媒体上成千上万的其他作家)。您的会员费直接支持…
-
-cognitivedave.medium.com](https://cognitivedave.medium.com/membership) 
+[](https://cognitivedave.medium.com/membership)  
 
 # 参考
 

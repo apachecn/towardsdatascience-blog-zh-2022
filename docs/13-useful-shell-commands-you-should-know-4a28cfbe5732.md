@@ -241,8 +241,4 @@ Time elapsed: 0:00.74
 
 如果你对学习成功的软件开发职业的基本技能感兴趣，看看下面这个故事:
 
-[](https://betterprogramming.pub/the-language-every-programmer-should-master-8d0dfc461284) [## 每个程序员都应该掌握的语言
-
-### 软件开发不仅仅是写代码
-
-better 编程. pub](https://betterprogramming.pub/the-language-every-programmer-should-master-8d0dfc461284)
+[](https://betterprogramming.pub/the-language-every-programmer-should-master-8d0dfc461284) 

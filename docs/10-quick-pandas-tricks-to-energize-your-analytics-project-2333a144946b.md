@@ -148,11 +148,7 @@ df.query("neighbourhood == 'Kensington'")
 
 要了解更多关于这种方法的信息，我强烈推荐阅读—
 
-[](/10-pandas-query-examples-that-will-make-you-use-pandas-query-easily-12a45b1e115) [## 10 个熊猫查询示例，让你轻松使用熊猫查询
-
-### 开始使用熊猫查询功能轻松过滤您的数据
-
-towardsdatascience.com](/10-pandas-query-examples-that-will-make-you-use-pandas-query-easily-12a45b1e115) 
+[](/10-pandas-query-examples-that-will-make-you-use-pandas-query-easily-12a45b1e115)  
 
 选择子集后，您将进入分析中的数据清理阶段。数字列的一个常见问题是，小数点后的位数超过了要求。让我们看看如何处理这样的列。
 
@@ -464,11 +460,7 @@ df_room.agg({'number of reviews': sum,
 
 为了更好地理解数据聚合，我强烈推荐阅读—
 
-[](/5-pandas-group-by-tricks-you-should-know-in-python-f53246c92c94) [## 5 只熊猫按你在 Python 中应该知道的技巧分组
-
-### 所有你需要知道的关于熊猫数据框架组，以有效地使用它！
-
-towardsdatascience.com](/5-pandas-group-by-tricks-you-should-know-in-python-f53246c92c94) 
+[](/5-pandas-group-by-tricks-you-should-know-in-python-f53246c92c94)  
 
 我希望你很快读完这篇文章，并发现它对使用 pandas 提高数据分析技巧很有用。
 

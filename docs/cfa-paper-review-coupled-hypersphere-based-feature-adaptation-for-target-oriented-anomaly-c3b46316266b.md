@@ -196,10 +196,6 @@ Att Loss [1]。
 
 ## **GitHub 知识库**
 
-**[](https://github.com/sungwool/CFA_for_anomaly_localization) [## GitHub-sung wool/CFA _ for _ anomaly _ localization
-
-### 通过在 GitHub 上创建帐户，为 sung wool/CFA _ for _ anomaly _ localization 开发做出贡献。
-
-github.com](https://github.com/sungwool/CFA_for_anomaly_localization)** 
+**[](https://github.com/sungwool/CFA_for_anomaly_localization) ** 
 
 **你喜欢我的文章吗？ [*成为会员*](https://eugenia-anello.medium.com/membership) *每天无限获取数据科学新帖！这是一种间接的支持我的方式，不会给你带来任何额外的费用。如果您已经是会员，* [*订阅*](https://eugenia-anello.medium.com/subscribe) *每当我发布新的数据科学和 python 指南时，您都会收到电子邮件！***

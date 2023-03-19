@@ -20,11 +20,7 @@
 
 然而，我的学分用完了，所以我决定寻找替代品，并通过拥抱脸看到了这篇不可思议的文章，
 
-[](https://huggingface.co/blog/stable_diffusion) [## 🧨扩散器的稳定扩散
-
-### 使用🧨扩散器稳定扩散是由研究人员和工程师创建的文本到图像的潜在扩散模型…
-
-huggingface.co](https://huggingface.co/blog/stable_diffusion) 
+[](https://huggingface.co/blog/stable_diffusion)  
 
 这解释了如何使用他们的`diffusers`包运行稳定的扩散模型。
 

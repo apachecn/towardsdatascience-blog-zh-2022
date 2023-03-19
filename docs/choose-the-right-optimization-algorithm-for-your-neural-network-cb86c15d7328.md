@@ -28,11 +28,7 @@
 
 在文章的最后一部分，我展示了一个比较所有优化器的可视化图表。实际比较的代码可以在这个 GitHub 存储库中找到:
 
-[](https://github.com/andreoniriccardo/articles/tree/main/art07-NN-optimizer) [## articles/art 07-NN-main 上的优化程序 andreoniriccardo/articles
-
-### 在 GitHub 上创建一个帐户，为 andreoniriccardo/articles 的开发做出贡献。
-
-github.com](https://github.com/andreoniriccardo/articles/tree/main/art07-NN-optimizer) 
+[](https://github.com/andreoniriccardo/articles/tree/main/art07-NN-optimizer)  
 
 # 批量梯度下降
 
@@ -171,11 +167,7 @@ Adam 优化算法在大多数情况下优于上述所有方法。唯一的例外
 
 测试不同优化器的算法在下面的要点中给出，更完整的内容在下面链接的 GitHub 库中。
 
-[](https://github.com/andreoniriccardo/articles/tree/main/art07-NN-optimizer) [## articles/art 07-NN-main 上的优化程序 andreoniriccardo/articles
-
-### 在 GitHub 上创建一个帐户，为 andreoniriccardo/articles 的开发做出贡献。
-
-github.com](https://github.com/andreoniriccardo/articles/tree/main/art07-NN-optimizer) 
+[](https://github.com/andreoniriccardo/articles/tree/main/art07-NN-optimizer)  
 
 结果图如下所示:
 

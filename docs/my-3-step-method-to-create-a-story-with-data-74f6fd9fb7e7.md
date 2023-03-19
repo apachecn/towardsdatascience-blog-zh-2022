@@ -60,16 +60,4 @@
 
 ## 你可能也会喜欢…
 
-[](/how-to-create-a-successful-data-presentation-7eae7a9a41f) [## 如何创建成功的数据演示
-
-### 针对不同受众的演示技巧
-
-towardsdatascience.com](/how-to-create-a-successful-data-presentation-7eae7a9a41f) [](/how-to-deliver-a-successful-data-presentation-bfd23684197d) [## 如何交付成功的数据演示
-
-### 我从向高层领导做报告中学到的经验
-
-towardsdatascience.com](/how-to-deliver-a-successful-data-presentation-bfd23684197d) [](/data-analyst-guide-to-stakeholder-management-728413c19449) [## 利益相关者管理数据分析师指南
-
-### 管理利益相关者的技巧
-
-towardsdatascience.com](/data-analyst-guide-to-stakeholder-management-728413c19449)
+[](/how-to-create-a-successful-data-presentation-7eae7a9a41f)  [](/how-to-deliver-a-successful-data-presentation-bfd23684197d)  [](/data-analyst-guide-to-stakeholder-management-728413c19449) 

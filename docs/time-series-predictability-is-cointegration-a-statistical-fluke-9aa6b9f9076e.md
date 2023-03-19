@@ -175,16 +175,8 @@ Statsmodels 很好地实现了经验累积分布函数(ECDF)。它是一个带�
 
 我希望这个故事对你有用。如果我错过了什么，请让我知道。如果你想知道更多这样的故事，请关注我的[媒体](https://medium.com/@diego-barba)。
 
-[](https://medium.com/subscribe/@diego-barba) [## 每当迭戈·巴尔巴出版时，就收到一封电子邮件。
-
-### 每当迭戈·巴尔巴出版时，就收到一封电子邮件。通过注册，您将创建一个中型帐户，如果您还没有…
-
-medium.com](https://medium.com/subscribe/@diego-barba) 
+[](https://medium.com/subscribe/@diego-barba)  
 
 喜欢这个故事吗？通过我的推荐链接成为媒体会员，可以无限制地访问我的故事和许多其他内容。
 
-[](https://medium.com/@diego-barba/membership) [## 通过我的推荐链接加入 Medium-Diego Barba
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@diego-barba/membership)
+[](https://medium.com/@diego-barba/membership) 

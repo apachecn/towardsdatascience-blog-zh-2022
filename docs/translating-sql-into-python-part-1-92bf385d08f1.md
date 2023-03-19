@@ -14,11 +14,7 @@
 
 如果这里没有涉及到您想要的内容，那么可能会在下面的第 2 部分中讨论，包括 groupbys、datetimes、cast whens 和其他杂项功能。
 
-[](/translating-sql-into-python-part-2-5b69c571ddc3) [## 将 SQL 翻译成 Python —第 2 部分
-
-### 有点像谷歌翻译，但对于̶l̶o̶v̶e̶语言的数据
-
-towardsdatascience.com](/translating-sql-into-python-part-2-5b69c571ddc3) 
+[](/translating-sql-into-python-part-2-5b69c571ddc3)  
 
 **目录:**
 

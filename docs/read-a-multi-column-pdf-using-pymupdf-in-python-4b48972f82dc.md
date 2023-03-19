@@ -136,19 +136,11 @@ PyMuPDF 无缝地读取这两列。作者截图。
 
 *如果你想了解更多关于我从懒鬼到数据科学家的旅程，请查看下面的文章:*
 
-[](/from-slacker-to-data-scientist-b4f34aa10ea1) [## 从懒鬼到数据科学家
-
-### 我的无学位数据科学之旅。
-
-towardsdatascience.com](/from-slacker-to-data-scientist-b4f34aa10ea1) 
+[](/from-slacker-to-data-scientist-b4f34aa10ea1)  
 
 *如果你正在考虑改变方向，进入数据科学领域，现在就开始考虑重塑品牌:*
 
-[](/the-slackers-guide-to-rebranding-yourself-as-a-data-scientist-b34424d45540) [## 懒鬼将自己重塑为数据科学家指南
-
-### 给我们其他人的固执己见的建议。热爱数学，选修。
-
-towardsdatascience.com](/the-slackers-guide-to-rebranding-yourself-as-a-data-scientist-b34424d45540) 
+[](/the-slackers-guide-to-rebranding-yourself-as-a-data-scientist-b34424d45540)  
 
 你可以通过 [Twitter](https://twitter.com/ecdedios) 或 [LinkedIn](https://www.linkedin.com/in/ednalyn-de-dios/) 联系我。
 

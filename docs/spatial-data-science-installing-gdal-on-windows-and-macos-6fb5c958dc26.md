@@ -32,11 +32,7 @@ Collecting fiona                                                                
 *   安装 anaconda
 *   使用 Anaconda 提示符，而不是通常的命令提示符(cmd.exe)。在 Mac 中，这相当于在环境变量中设置 anaconda 提示符。对于 mac 用户，请遵循
 
- [## 在 macOS 上安装- Anaconda 文档
-
-### 使用图形化安装程序(“向导”)或命令行(“手动”)安装 Anaconda 发行版…
-
-docs.anaconda.com](https://docs.anaconda.com/anaconda/install/mac-os/) 
+  
 
 *   熟悉管理 python 包和环境的`conda`命令行工具
 
@@ -53,11 +49,7 @@ docs.anaconda.com](https://docs.anaconda.com/anaconda/install/mac-os/)
 
 Anaconda 是一个 python 发行商，但是它附带了`conda`。我们可以把`conda`看作是`pip`和`venv`的替代品，虽然不是真的。`conda`是一个在`anaconda`环境中管理 python 库和环境的工具。如果您不理解这一点，特别是关于环境的部分，请不要担心，但是我们可以从安装 anaconda 开始:
 
-[](https://www.anaconda.com/) [## Anaconda |世界上最受欢迎的数据科学平台
-
-### 很抱歉，本网站只能在支持 Javascript 的浏览器上运行。表单和其他操作可能无法正常工作…
-
-www.anaconda.com](https://www.anaconda.com/) ![](img/0304fa440a8b3f4ecfb7ab195e58174f.png)
+[](https://www.anaconda.com/)  ![](img/0304fa440a8b3f4ecfb7ab195e58174f.png)
 
 安装向导(来源:作者(2022))
 

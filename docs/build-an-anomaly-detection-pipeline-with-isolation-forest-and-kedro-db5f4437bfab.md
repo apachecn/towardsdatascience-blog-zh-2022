@@ -397,18 +397,6 @@ kedro pipeline create model_evaluation**
 
 **我欢迎您**加入我的数据科学学习之旅**。跟随此[媒体](https://kennethleungty.medium.com/)页面并查看我的 [GitHub](https://github.com/kennethleungty) 以了解实用和教育数据科学内容。同时，与 Kedro 一起享受构建数据科学管道的乐趣！**
 
-**[](/end-to-end-automl-train-and-serve-with-h2o-mlflow-fastapi-and-streamlit-5d36eedfe606) [## H2O AutoML、MLflow、FastAPI 和 Streamlit 的端到端 AutoML 管道
-
-### 关于使用一系列功能强大的工具来培训和服务 AutoML 管道的简单易懂的综合指南
-
-towardsdatascience.com](/end-to-end-automl-train-and-serve-with-h2o-mlflow-fastapi-and-streamlit-5d36eedfe606) [](/autoxgb-for-financial-fraud-detection-f88f30d4734a) [## 利用 AutoXGB 进行金融欺诈检测
-
-### AutoXGB 与标准 XGBoost 在检测欺诈性信用卡交易方面的对比
-
-towardsdatascience.com](/autoxgb-for-financial-fraud-detection-f88f30d4734a) [](/key-learning-points-from-mlops-specialization-course-deeplearning-ai-andrew-ng-5d0746605752) [## MLOps 专业化认证的关键学习点—课程 1
-
-### 面向生产的机器学习工程课程 1 的主要课程(包括课堂讲稿)
-
-towardsdatascience.com](/key-learning-points-from-mlops-specialization-course-deeplearning-ai-andrew-ng-5d0746605752) [](https://kennethleungty.medium.com/membership) [## 通过我的推荐链接加入媒体-梁建华
+**[](/end-to-end-automl-train-and-serve-with-h2o-mlflow-fastapi-and-streamlit-5d36eedfe606)  [](/autoxgb-for-financial-fraud-detection-f88f30d4734a)  [](/key-learning-points-from-mlops-specialization-course-deeplearning-ai-andrew-ng-5d0746605752)  [](https://kennethleungty.medium.com/membership) [## 通过我的推荐链接加入媒体-梁建华
 
 ### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…](https://kennethleungty.medium.com/membership)**

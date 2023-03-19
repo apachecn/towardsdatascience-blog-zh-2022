@@ -399,11 +399,7 @@ Diff-in-diffs 明确控制治疗组和对照组之间的**系统差异**，这�
 
 *你可以在这里找到 Jupyter 的原始笔记本:*
 
- *[## 在 main matter courthoud/Blog-Posts/cuped . ipynb
-
-### 我的中型博客文章的代码和笔记本。为 matteocourthoud/Blog-Posts 的发展作出贡献
-
-github.com](https://github.com/matteocourthoud/Blog-Posts/blob/main/notebooks/cuped.ipynb)* 
+ ** 
 
 ## *感谢您的阅读！*
 

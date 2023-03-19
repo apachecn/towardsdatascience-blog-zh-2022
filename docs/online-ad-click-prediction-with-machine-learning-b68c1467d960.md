@@ -72,8 +72,4 @@
 
 **通过此* [*推荐链接*](https://analyticsoul.medium.com/membership) *加入 Medium，免费支持我。**
 
-*[](https://analyticsoul.medium.com/membership) [## 通过我的推荐链接加入 Medium—Asish bis was
-
-### 阅读阿西什·比斯瓦斯(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-analyticsoul.medium.com](https://analyticsoul.medium.com/membership)*
+*[](https://analyticsoul.medium.com/membership) *

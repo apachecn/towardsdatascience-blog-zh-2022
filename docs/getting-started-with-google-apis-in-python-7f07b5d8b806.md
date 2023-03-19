@@ -136,20 +136,8 @@ Gmail API 是最广泛的 API 之一，人们可以用它做更多的事情，�
 
 [成为会员](https://medium.com/@martin.heinz/membership)阅读媒体上的每一个故事。**你的会员费直接支持我和你看的其他作家。你还可以在媒体上看到所有的故事。**
 
-[](https://medium.com/@martin.heinz/membership) [## 通过我的推荐链接加入媒体-马丁·海因茨
-
-### 阅读马丁·海因茨(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-medium.com](https://medium.com/@martin.heinz/membership) 
+[](https://medium.com/@martin.heinz/membership)  
 
 你可能也喜欢…
 
-[](/exploring-google-analytics-realtime-data-with-python-8625849c7d7a) [## 用 Python 探索 Google Analytics 实时数据
-
-### 使用 REST API 和 Python 充分利用所有 Google Analytics 特性和数据
-
-towardsdatascience.com](/exploring-google-analytics-realtime-data-with-python-8625849c7d7a) [](/python-f-strings-are-more-powerful-than-you-might-think-8271d3efbd7d) [## Python f-strings 比您想象的更强大
-
-### 了解 Python 的 f 字符串的未知特性——格式化的字符串文字——以及您的文本格式化…
-
-towardsdatascience.com](/python-f-strings-are-more-powerful-than-you-might-think-8271d3efbd7d)
+[](/exploring-google-analytics-realtime-data-with-python-8625849c7d7a)  [](/python-f-strings-are-more-powerful-than-you-might-think-8271d3efbd7d) 

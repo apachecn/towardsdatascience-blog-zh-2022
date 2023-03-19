@@ -155,12 +155,4 @@ labels = ms.labels_
 
 ## 参考资料:
 
-[](https://scikit-learn.org/stable/auto_examples/cluster/plot_mean_shift.html#sphx-glr-auto-examples-cluster-plot-mean-shift-py) [## 均值漂移聚类算法的演示
-
-### 参考:Dorin Comaniciu 和 Peter Meer，“均值漂移:面向特征空间分析的稳健方法”。IEEE…
-
-scikit-learn.org](https://scikit-learn.org/stable/auto_examples/cluster/plot_mean_shift.html#sphx-glr-auto-examples-cluster-plot-mean-shift-py) [](https://en.wikipedia.org/wiki/Mean_shift) [## 均值漂移-维基百科
-
-### 均值漂移是一种非参数特征空间数学分析技术，用于定位密度的最大值
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Mean_shift)
+[](https://scikit-learn.org/stable/auto_examples/cluster/plot_mean_shift.html#sphx-glr-auto-examples-cluster-plot-mean-shift-py)  [](https://en.wikipedia.org/wiki/Mean_shift) 

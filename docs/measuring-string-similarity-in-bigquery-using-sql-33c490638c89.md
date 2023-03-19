@@ -28,11 +28,7 @@
 
 **你可以在维基百科上找到关于该算法的更多信息。**
 
- **[## 莱文斯坦距离-维基百科
-
-### 在信息论、语言学和计算机科学中，Levenshtein 距离是一个字符串度量，用于测量…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Levenshtein_distance)** 
+ **** 
 
 **现在我们已经学习了理论和应用，让我们看看如何在 SQL 中应用它。**
 

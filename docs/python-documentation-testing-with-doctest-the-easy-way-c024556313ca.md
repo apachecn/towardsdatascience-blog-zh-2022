@@ -647,40 +647,4 @@ perftester.perftester.IncorrectArgumentError: For memory tests, you can only set
 
 # **资源**
 
-**[](https://medium.com/geekculture/make-yourself-enjoy-writing-unit-tests-e639711c10bd) [## 让自己享受编写单元测试的乐趣
-
-### 大多数开发人员不喜欢编写测试。如果你是其中之一，尽你所能去改变它。
-
-medium.com](https://medium.com/geekculture/make-yourself-enjoy-writing-unit-tests-e639711c10bd)  [## doctest -测试交互式 Python 示例- Python 3.11.0 文档
-
-### 源代码:Lib/doctest.py 通过验证所有交互的…
-
-docs.python.org](https://docs.python.org/3/library/doctest.html)  [## 完整的 pytest 文档
-
-### 为功能测试请求一个唯一的临时目录
-
-docs.pytest.org](https://docs.pytest.org/en/7.2.x/contents.html)  [## 单元测试-单元测试框架- Python 3.11.0 文档
-
-### 源代码:Lib/unittest/__init__。py(如果你已经熟悉了测试的基本概念，你可能想…
-
-docs.python.org](https://docs.python.org/3/library/unittest.html)  [## 2.使用 Python 解释器- Python 3.11.0 文档
-
-### Python 解释器通常作为/usr/local/bin/python3.11 安装在可用的机器上…
-
-docs.python.org](https://docs.python.org/3/tutorial/interpreter.html)  [## 重组文本
-
-### reStructuredText 是一个易于阅读、所见即所得的纯文本标记语法和解析器系统。这是…
-
-docutils.sourceforge.io](https://docutils.sourceforge.io/rst.html) [](https://www.markdownguide.org/) [## 降价指南
-
-### 解释如何使用 Markdown 的免费开源参考指南。
-
-www.markdownguide.org](https://www.markdownguide.org/) [](https://github.com/nyggus/perftester) [## GitHub - nyggus/perftester:一个轻量级 Python 包，用于 Python 的性能测试…
-
-### 使用 pip 安装:perftester 仍在大量测试中。如果您发现任何不符合预期的情况，请…
-
-github.com](https://github.com/nyggus/perftester) [](https://medium.com/@nyggus/membership) [## 通过我的推荐链接加入媒体——玛茜·科萨克
-
-### 阅读马尔钦·科萨克(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-medium.com](https://medium.com/@nyggus/membership)**
+**[](https://medium.com/geekculture/make-yourself-enjoy-writing-unit-tests-e639711c10bd)            [](https://www.markdownguide.org/)  [](https://github.com/nyggus/perftester)  [](https://medium.com/@nyggus/membership) **

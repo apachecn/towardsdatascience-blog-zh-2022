@@ -109,10 +109,6 @@ streamlit run summ_app.py
 
 ## 其他相关文章:
 
-[](/creating-a-web-application-to-extract-topics-from-audio-with-python-21c3f541f3ca) [## 用 Python 创建一个从音频中提取主题的 Web 应用程序
-
-### 为 Spotify 播客的主题建模构建和部署 web 应用程序的分步教程
-
-towardsdatascience.com](/creating-a-web-application-to-extract-topics-from-audio-with-python-21c3f541f3ca) 
+[](/creating-a-web-application-to-extract-topics-from-audio-with-python-21c3f541f3ca)  
 
 你喜欢我的文章吗？ [*成为会员*](https://eugenia-anello.medium.com/membership) *每天无限获取数据科学新帖！这是一种间接的支持我的方式，不会给你带来任何额外的费用。如果您已经是会员，* [*订阅*](https://eugenia-anello.medium.com/subscribe) *每当我发布新的数据科学和 python 指南时，您都会收到电子邮件！*

@@ -35,11 +35,7 @@
 
 Pandera 是一个简单的 Python 库，用于验证熊猫数据帧。
 
-[](/validate-your-pandas-dataframe-with-pandera-2995910e564) [## 用 Pandera 验证你的熊猫数据框架
-
-### 确保您的数据符合您的期望
-
-towardsdatascience.com](/validate-your-pandas-dataframe-with-pandera-2995910e564) 
+[](/validate-your-pandas-dataframe-with-pandera-2995910e564)  
 
 要安装 Pandera，请键入:
 
@@ -129,30 +125,10 @@ pytest test4.py
 
 随意发挥，并在这里叉这篇文章的源代码:
 
-[](https://github.com/khuyentran1401/Data-science/tree/master/data_science_tools/pandera_hypothesis) [## 数据科学/数据科学工具/pandera 假设 1401/数据科学
-
-### 有用的数据科学主题以及代码和文章的集合…
-
-github.com](https://github.com/khuyentran1401/Data-science/tree/master/data_science_tools/pandera_hypothesis) 
+[](https://github.com/khuyentran1401/Data-science/tree/master/data_science_tools/pandera_hypothesis)  
 
 我喜欢写一些基本的数据科学概念，并尝试不同的数据科学工具。你可以通过 [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1401/) 和 [Twitter](https://twitter.com/KhuyenTran16) 与我联系。
 
 如果你想查看我写的所有文章的代码，请点击这里。在 Medium 上关注我，了解我的最新数据科学文章，例如:
 
-[](/detect-defects-in-a-data-pipeline-early-with-validation-and-notifications-83e9b652e65a) [## 通过验证和通知尽早检测数据管道中的缺陷
-
-### 使用深度检查和提督在 Python 中构建健壮的数据管道
-
-towardsdatascience.com](/detect-defects-in-a-data-pipeline-early-with-validation-and-notifications-83e9b652e65a) [](/how-to-create-fake-data-with-faker-a835e5b7a9d9) [## 如何用 Faker 创建假数据
-
-### 您可以收集数据或创建自己的数据
-
-towardsdatascience.com](/how-to-create-fake-data-with-faker-a835e5b7a9d9) [](/pytest-for-data-scientists-2990319e55e6) [## 数据科学家 Pytest
-
-### 适用于您的数据科学项目的 Pytest 综合指南
-
-towardsdatascience.com](/pytest-for-data-scientists-2990319e55e6) [](https://pub.towardsai.net/github-actions-in-mlops-automatically-check-and-deploy-your-ml-model-9a281d7f3c84) [## MLOps 中的 GitHub 动作:自动检查和部署您的 ML 模型
-
-### 使用 GitHub 动作自动化您的 ML 管道
-
-pub.towardsai.net](https://pub.towardsai.net/github-actions-in-mlops-automatically-check-and-deploy-your-ml-model-9a281d7f3c84)
+[](/detect-defects-in-a-data-pipeline-early-with-validation-and-notifications-83e9b652e65a)  [](/how-to-create-fake-data-with-faker-a835e5b7a9d9)  [](/pytest-for-data-scientists-2990319e55e6)  [](https://pub.towardsai.net/github-actions-in-mlops-automatically-check-and-deploy-your-ml-model-9a281d7f3c84) 

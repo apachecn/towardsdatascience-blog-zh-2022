@@ -28,15 +28,7 @@
 
 数据的特征会影响读写时间，例如数据类型、数据帧的宽度(列数)与长度(行数)。但是，这超出了本文的范围。对于进一步的阅读，我推荐以下资源:
 
-[](/the-best-format-to-save-pandas-data-414dca023e0d) [## 保存熊猫数据的最佳格式
-
-### 将 pandas 数据帧序列化到持久存储的各种方法的比较
-
-towardsdatascience.com](/the-best-format-to-save-pandas-data-414dca023e0d) [](https://www.architecture-performance.fr/ap_blog/loading-data-into-a-pandas-dataframe-a-performance-study/) [## 将数据加载到 Pandas 数据框架中——性能研究
-
-### 因为做机器学习意味着用不同的参数尝试许多选项和算法，从数据清理…
-
-www . architect-performance . fr](https://www.architecture-performance.fr/ap_blog/loading-data-into-a-pandas-dataframe-a-performance-study/) 
+[](/the-best-format-to-save-pandas-data-414dca023e0d)  [](https://www.architecture-performance.fr/ap_blog/loading-data-into-a-pandas-dataframe-a-performance-study/)  
 
 # 文件格式概述
 
@@ -240,11 +232,7 @@ CSV、Pickle、Parquet、Feather 和 HDF5 的对比(图片由作者提供)
 
 要阅读更多来自我和其他作家的故事，请在 Medium 上注册。报名时可以用我的 [*推荐链接*](https://medium.com/@iamleonie/membership) *支持我。我将收取佣金，不需要你额外付费。*
 
-[](https://medium.com/@iamleonie/membership) [## 通过我的推荐链接加入 Medium—Leonie Monigatti
-
-### 阅读 Leonie Monigatti(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接…
-
-medium.com](https://medium.com/@iamleonie/membership) 
+[](https://medium.com/@iamleonie/membership)  
 
 *在* [*LinkedIn*](https://www.linkedin.com/in/804250ab/) *和* [*上找我 Kaggle*](https://www.kaggle.com/iamleonie) *！*
 

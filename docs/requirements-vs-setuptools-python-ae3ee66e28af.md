@@ -99,11 +99,7 @@ from setuptools import setup if __name__ == "__main__":
 
 关于`setup.py`和`setup.cfg`文件之间的区别，你可以阅读这篇文章
 
-[](/setuptools-python-571e7d5500f2) [## Python 中的 setup.py 与 setup.cfg
-
-### 使用 setuptools 管理依赖项和分发 Python 包
-
-towardsdatascience.com](/setuptools-python-571e7d5500f2) 
+[](/setuptools-python-571e7d5500f2)  
 
 ## 我们需要 requirements.txt 和 setup.py/setup.cfg 文件吗？
 
@@ -135,30 +131,10 @@ towardsdatascience.com](/setuptools-python-571e7d5500f2)
 
 如果您现在想知道如何分发您的 Python 包并使其在 PyPI 上可用，以便它也可以通过`pip`包管理器安装，请务必阅读下面的文章。
 
-[](/how-to-upload-your-python-package-to-pypi-de1b363a1b3) [## 如何将 Python 包上传到 PyPI
+[](/how-to-upload-your-python-package-to-pypi-de1b363a1b3)  **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-towardsdatascience.com](/how-to-upload-your-python-package-to-pypi-de1b363a1b3) 
-
-[**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
-
-[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership) 
+[](https://gmyrianthous.medium.com/membership)  
 
 **相关文章你可能也喜欢**
 
-[](/8-must-know-venv-commands-for-data-scientists-and-engineers-dd81fbac0b38) [## 数据科学家和工程师必须知道的 8 个 venv 命令
-
-### 探索一些对 Python 日常编程最有用的虚拟环境命令
-
-towardsdatascience.com](/8-must-know-venv-commands-for-data-scientists-and-engineers-dd81fbac0b38) [](/pycache-python-991424aabad8) [## Python 中 __pycache__ 是什么？
-
-### 了解运行 Python 代码时创建的 __pycache__ 文件夹
-
-towardsdatascience.com](/pycache-python-991424aabad8) [](https://betterprogramming.pub/11-python-one-liners-for-everyday-programming-f346a0a73f39) [## 用于日常编程的 11 个 Python 一行程序
-
-### 令人惊叹的 Python 片段不会降低可读性
-
-better 编程. pub](https://betterprogramming.pub/11-python-one-liners-for-everyday-programming-f346a0a73f39)
+[](/8-must-know-venv-commands-for-data-scientists-and-engineers-dd81fbac0b38)  [](/pycache-python-991424aabad8)  [](https://betterprogramming.pub/11-python-one-liners-for-everyday-programming-f346a0a73f39) 

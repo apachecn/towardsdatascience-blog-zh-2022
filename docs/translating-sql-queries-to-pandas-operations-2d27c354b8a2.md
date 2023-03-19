@@ -168,16 +168,4 @@ Pandas 记录分组语法(作者图片)
 
 如果你喜欢读这篇文章，并且学到了一些新的东西，我相信你也会喜欢我的其他文章，如下所列:
 
-[](/20-of-pandas-functions-that-data-scientists-use-80-of-the-time-a4ff1b694707) [## 数据科学家 80%的时间使用熊猫 20%的功能
-
-### 将帕累托法则运用于熊猫图书馆
-
-towardsdatascience.com](/20-of-pandas-functions-that-data-scientists-use-80-of-the-time-a4ff1b694707) [](/why-i-stopped-dumping-dataframes-to-a-csv-and-why-you-should-too-c0954c410f8f) [## 为什么我停止向 CSV 转储数据帧，为什么您也应该这样做
-
-### 是时候告别 pd.to_csv()和 pd.read_csv()了
-
-towardsdatascience.com](/why-i-stopped-dumping-dataframes-to-a-csv-and-why-you-should-too-c0954c410f8f) [](/pandas-exercise-for-data-scientists-part-1-b601a97ee091) [## 数据科学家的熊猫练习—第一部分
-
-### 一组具有挑战性的熊猫问题。
-
-towardsdatascience.com](/pandas-exercise-for-data-scientists-part-1-b601a97ee091)
+[](/20-of-pandas-functions-that-data-scientists-use-80-of-the-time-a4ff1b694707)  [](/why-i-stopped-dumping-dataframes-to-a-csv-and-why-you-should-too-c0954c410f8f)  [](/pandas-exercise-for-data-scientists-part-1-b601a97ee091) 

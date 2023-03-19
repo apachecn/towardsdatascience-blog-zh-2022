@@ -107,24 +107,8 @@ list_iterator
 
 **[**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。****
 
-**[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership)** 
+**[](https://gmyrianthous.medium.com/membership) ** 
 
 ****你可能也会喜欢****
 
-**[](/python-linked-lists-c3622205da81) [## 如何在 Python 中实现链表
-
-### 探索如何使用 Python 从头开始编写链表和节点对象
-
-towardsdatascience.com](/python-linked-lists-c3622205da81)** **[](/switch-statements-python-e99ea364fde5) [## 如何用 Python 编写 Switch 语句
-
-### 了解如何使用模式匹配或字典在 Python 中编写 switch 语句
-
-towardsdatascience.com](/switch-statements-python-e99ea364fde5)** **[](/augmented-assignments-python-caa4990811a0) [## Python 中的扩充赋值
-
-### 了解增强赋值表达式在 Python 中的工作方式，以及为什么在使用它们时要小心…
-
-towardsdatascience.com](/augmented-assignments-python-caa4990811a0)**
+**[](/python-linked-lists-c3622205da81) ** **[](/switch-statements-python-e99ea364fde5) ** **[](/augmented-assignments-python-caa4990811a0) **

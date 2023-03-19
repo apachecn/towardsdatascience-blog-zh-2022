@@ -64,11 +64,7 @@ Python 因允许用户灵活地编写混乱的代码而臭名昭著，这些代�
 
 风格指南是你最好的朋友。使用它，偶尔刷新一下它的内容。
 
- [## PEP 8 风格的 Python 代码指南
-
-### 本文档给出了 Python 代码的编码约定，包括主 Python 中的标准库…
-
-peps.python.org](https://peps.python.org/pep-0008/) 
+  
 
 # 4.你写过代码文档吗？
 
@@ -92,11 +88,7 @@ peps.python.org](https://peps.python.org/pep-0008/)
 *   外部支持文档的有用链接。
 *   如果需要其他信息或帮助，请提供您的联系信息。
 
-[](/how-to-write-good-code-documentation-for-data-scientists-c9940aebb4f0) [## 如何为数据科学家编写好的代码文档
-
-### 关于最佳实践的速成课程，你需要确保每个人都理解你写的代码。
-
-towardsdatascience.com](/how-to-write-good-code-documentation-for-data-scientists-c9940aebb4f0) 
+[](/how-to-write-good-code-documentation-for-data-scientists-c9940aebb4f0)  
 
 # 5.您的代码是否针对生产环境进行了优化？
 

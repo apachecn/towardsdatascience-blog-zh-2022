@@ -12,11 +12,7 @@ Pawel Czerwinski 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_mediu
 
 如果你不熟悉 Foobar 挑战，我推荐你阅读我以前的文章，这篇文章提供了 1 级问题的概述和分解。
 
-[](/google-foobar-challenge-level-1-3487bb252780) [## 谷歌足球挑战赛:第一关
-
-### 对秘密编码挑战和问题分解的介绍
-
-towardsdatascience.com](/google-foobar-challenge-level-1-3487bb252780) 
+[](/google-foobar-challenge-level-1-3487bb252780)  
 
 # 问题和概念📚
 
@@ -107,8 +103,4 @@ towardsdatascience.com](/google-foobar-challenge-level-1-3487bb252780)
 
 我计划在以后的文章中继续描述我的 Foobar 之旅，并详细说明我是如何解决这些问题的。关注我，阅读更多关于挑战的信息。此外，欢迎所有反馈。我总是渴望学习新的或更好的做事方法。请随时留下您的评论或联系我 katyhagerty19@gmail.com。
 
-[](https://medium.com/@katyhagerty19/membership) [## 加入我的介绍链接媒体-凯蒂哈格蒂
-
-### 阅读凯蒂·哈格蒂(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-medium.com](https://medium.com/@katyhagerty19/membership)
+[](https://medium.com/@katyhagerty19/membership) 

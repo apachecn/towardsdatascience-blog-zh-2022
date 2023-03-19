@@ -20,11 +20,7 @@ Christoph Molnar 是一位机器学习专家，也是一位拥有统计学背景
 
 如果你曾经想开始可解释的机器学习，你可能会挑选的第一本书是 Christoph 的 [**可解释的机器学习**](https://leanpub.com/interpretable-machine-learning) 。语言的清晰，现实的例子，以及将复杂的理论分解成更简单易懂的部分的艺术是这本书众多 USPs 中的几个。这本书的第二版最近已经发行，如果你想得到它，你可以在这里找到所有的信息。
 
-[](https://christophm.github.io/interpretable-ml-book/) [## 可解释的机器学习
-
-### 机器学习在改进产品、流程和研究方面潜力巨大。但是电脑通常不会…
-
-christophm.github.io](https://christophm.github.io/interpretable-ml-book/) 
+[](https://christophm.github.io/interpretable-ml-book/)  
 
 问:这本书的想法是如何产生的？
 
@@ -62,12 +58,4 @@ christophm.github.io](https://christophm.github.io/interpretable-ml-book/)
 
 👉**阅读本系列的其他访谈:**
 
-[](/dont-just-take-notes-turn-them-into-articles-and-share-them-with-others-72aa43b83e29) [## 不要只是做笔记——把它们变成文章并与他人分享
-
-### 《机器学习图书营》一书的作者阿列克谢·格里戈里耶夫的采访。
-
-towardsdatascience.com](/dont-just-take-notes-turn-them-into-articles-and-share-them-with-others-72aa43b83e29) [](/you-do-not-become-better-by-employing-fancy-techniques-but-by-working-on-the-fundamentals-17d5c471c69c) [## 你不会因为使用花哨的技术而变得更好，而是通过在基础上努力
-
-### 《元学习:如何学习深度学习并在学习中茁壮成长》一书的作者 Radek Osmulski 的访谈
-
-towardsdatascience.com](/you-do-not-become-better-by-employing-fancy-techniques-but-by-working-on-the-fundamentals-17d5c471c69c)
+[](/dont-just-take-notes-turn-them-into-articles-and-share-them-with-others-72aa43b83e29)  [](/you-do-not-become-better-by-employing-fancy-techniques-but-by-working-on-the-fundamentals-17d5c471c69c) 

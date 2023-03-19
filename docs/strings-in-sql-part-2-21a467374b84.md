@@ -12,11 +12,7 @@
 
 关于字符串的第一篇文章有助于为这种变量类型的数据操作提供一些初步的见解。我们能够提取字符串的元素来搜索共同的群组。通过使用索引方法，可以研究字符串中的任意数量的特征。
 
-[](/strings-in-sql-part-1-122185dd0099) [## SQL 第 1 部分中的字符串
-
-### 使用 SQL 字符串技术从字符列中提取有意义的信息
-
-towardsdatascience.com](/strings-in-sql-part-1-122185dd0099) 
+[](/strings-in-sql-part-1-122185dd0099)  
 
 本文旨在展示如何将数据聚合整合到数据分析中。
 
@@ -24,11 +20,7 @@ towardsdatascience.com](/strings-in-sql-part-1-122185dd0099)
 
 对于这段分析，IBM HR 分析数据集的一个样本取自 Kaggle。在这个数据集中，有几个字符变量可用。
 
-[](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset) [## IBM HR Analytics 员工流失和绩效
-
-### 预测你有价值的员工的流失
-
-www.kaggle.com](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset) 
+[](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)  
 
 本文中显示的 SQL 代码是使用 Microsoft SQL Server Management Studio 18 的一个实例创建的。
 

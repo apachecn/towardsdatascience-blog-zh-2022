@@ -94,8 +94,4 @@ f 字符串使得格式化嵌入的表达式变得容易。只需在表达式后
 
 感谢您阅读我的文章。如果您喜欢我的内容，*请考虑关注我*。此外，欢迎所有反馈。我总是渴望学习新的或更好的做事方法。请随时留下您的评论或联系我 katyhagerty19@gmail.com。
 
-[](https://medium.com/@katyhagerty19/membership) [## 加入我的介绍链接媒体-凯蒂哈格蒂
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@katyhagerty19/membership)
+[](https://medium.com/@katyhagerty19/membership) 

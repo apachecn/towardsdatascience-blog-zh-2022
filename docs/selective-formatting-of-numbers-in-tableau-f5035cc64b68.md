@@ -80,32 +80,8 @@ ELSE '≤65%' END
 
 现在你知道了！非常感谢你坚持到这篇文章的结尾！❤希望你觉得这个指南有用，如果你想了解更多 GIS、数据分析(Tableau-inclusive) & Web 应用相关的内容，请随时[关注我的 Medium](https://medium.com/@geek-cc) 。会非常感激—😀
 
-[](https://geek-cc.medium.com/membership) [## 通过我的推荐链接加入灵媒——李思欣·崔
-
-### 获得李思欣·崔和其他作家在媒体上的所有帖子！😃您的会员费直接…
-
-geek-cc.medium.com](https://geek-cc.medium.com/membership) 
+[](https://geek-cc.medium.com/membership)  
 
 ## 想了解更多的 Tableau 技巧和窍门，请随意查看下面的帖子:
 
-[](/how-to-plot-a-custom-map-image-on-tableau-dashboard-in-just-3-easy-steps-no-calculations-required-8db0d41680c4) [## 如何在 Tableau 仪表板上绘制自定义地图图像，只需 3 个简单的步骤，无需计算…
-
-### 提示:查看一个专门为所有 Tableau 用户创建的 web 应用程序。
-
-towardsdatascience.com](/how-to-plot-a-custom-map-image-on-tableau-dashboard-in-just-3-easy-steps-no-calculations-required-8db0d41680c4) [](/leverage-on-d3-js-v4-to-build-a-network-graph-for-tableau-with-ease-cc274cba69ce) [## 利用 D3.js v4 轻松构建 Tableau 的网络图
-
-### 使用 D3.js 自动计算每个节点的(x，y)坐标，并在绘图前根据自己的喜好调整布局…
-
-towardsdatascience.com](/leverage-on-d3-js-v4-to-build-a-network-graph-for-tableau-with-ease-cc274cba69ce) [](/5-lesser-known-tableau-tips-tricks-hacks-with-use-case-demo-463f98fbdc7e) [## 5 个鲜为人知的小贴士、技巧和窍门。使用案例+演示。
-
-### 你都认识吗？
-
-towardsdatascience.com](/5-lesser-known-tableau-tips-tricks-hacks-with-use-case-demo-463f98fbdc7e) [](/superscript-and-subscript-in-tableau-why-and-how-you-can-implement-it-764caf0cc932) [## Tableau 中的上标和下标——为什么以及如何实现它
-
-### 让你的化学/数学方程式对用户更具可读性
-
-towardsdatascience.com](/superscript-and-subscript-in-tableau-why-and-how-you-can-implement-it-764caf0cc932) [](/underrated-combined-functionalities-of-tableau-point-linestring-polygon-mapping-b4c0568a4de2) [## 低估了 Tableau 的组合功能—点、线串和多边形映射
-
-### Tableau 中的地理空间分析-无需地理编码/底图服务即可工作+渲染混合几何类型…
-
-towardsdatascience.com](/underrated-combined-functionalities-of-tableau-point-linestring-polygon-mapping-b4c0568a4de2)
+[](/how-to-plot-a-custom-map-image-on-tableau-dashboard-in-just-3-easy-steps-no-calculations-required-8db0d41680c4)  [](/leverage-on-d3-js-v4-to-build-a-network-graph-for-tableau-with-ease-cc274cba69ce)  [](/5-lesser-known-tableau-tips-tricks-hacks-with-use-case-demo-463f98fbdc7e)  [](/superscript-and-subscript-in-tableau-why-and-how-you-can-implement-it-764caf0cc932)  [](/underrated-combined-functionalities-of-tableau-point-linestring-polygon-mapping-b4c0568a4de2) 

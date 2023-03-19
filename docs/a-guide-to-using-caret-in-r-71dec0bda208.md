@@ -517,10 +517,6 @@ library(ggplot2)ggplot(
 
 [数据科学训练营:你成为数据科学家的第一步](https://www.udemy.com/course/r-for-data-science-first-step-data-scientist/?couponCode=IVOSTUDENTSJULY) —作者图片
 
-[](https://medium.com/membership/@ivopbernardo) [## 通过我的推荐链接加入 Medium-Ivo Bernardo
-
-### 阅读我在 Medium 上的所有故事，了解更多关于数据科学和分析的信息。加入中级会员，您将…
-
-medium.com](https://medium.com/membership/@ivopbernardo) 
+[](https://medium.com/membership/@ivopbernardo)  
 
 下面是我们在这篇文章中使用的代码的一个小要点:

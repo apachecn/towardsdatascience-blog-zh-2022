@@ -64,26 +64,10 @@ EHR 是参与患者护理的个人的所有信息的综合集合。这包括来�
 
 参考
 
-[](https://www.healthit.gov/buzz-blog/electronic-health-and-medical-records/emr-vs-ehr-difference) [## EMR 与 EHR 的区别是什么？-健康 IT 热点
-
-### 彼得·加勒特和约书亚·塞德曼| 2011 年 1 月 4 日一句话里有什么？或者，甚至是首字母缩写的一个字母？有些人使用…
-
-www.healthit.gov](https://www.healthit.gov/buzz-blog/electronic-health-and-medical-records/emr-vs-ehr-difference) [](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3824370/) [## 临床有效性研究者的数据模型考虑
-
-### 越来越多地采用电子健康记录，越来越重视临床护理和医疗服务的重用和集成
-
-www.ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3824370/) [](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-019-0837-5) [## 临床研究的通用数据模型——BMC 医学信息学和决策
-
-### 背景大多数医疗保健数据源将信息存储在它们自己独特的模式中，使得可靠和…
-
-bmcmedinformdecismak.biomedcentral.com](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-019-0837-5) 
+[](https://www.healthit.gov/buzz-blog/electronic-health-and-medical-records/emr-vs-ehr-difference)  [](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3824370/)  [](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-019-0837-5)  
 
 [https://en . Wikipedia . org/wiki/Data _ retrieval #:~:text = In % 20 order % 20 to % 20 retrieve % 20 the，used % 20 to % 20 prepare % 20 the % 20 query](https://en.wikipedia.org/wiki/Data_retrieval#:~:text=In%20order%20to%20retrieve%20the,used%20to%20prepare%20the%20queries)。
 
-[](https://bmcmedethics.biomedcentral.com/articles/10.1186/s12910-017-0184-y) [## 欧盟医疗保健研究中数据科学法规的评论。
-
-### 欧盟为不同语言的医疗保健的比较和协调提供了一个合适的环境…
-
-bmcmedethics.biomedcentral.com](https://bmcmedethics.biomedcentral.com/articles/10.1186/s12910-017-0184-y) 
+[](https://bmcmedethics.biomedcentral.com/articles/10.1186/s12910-017-0184-y)  
 
 [https://www . research gate . net/publication/332988365 _ Clinical _ Data _ Sources _ and _ Types _ Regulatory _ Constraints _ Applications](https://www.researchgate.net/publication/332988365_Clinical_Data_Sources_and_Types_Regulatory_Constraints_Applications)

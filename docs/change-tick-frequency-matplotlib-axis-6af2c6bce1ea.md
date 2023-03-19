@@ -96,24 +96,8 @@ plt.show()
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership) 
+[](https://gmyrianthous.medium.com/membership)  
 
 **相关文章你可能也喜欢**
 
-[](/legend-outside-the-plot-matplotlib-5d9c1caa9d31) [## 如何在 Matplotlib 中将图例放置在绘图之外
-
-### 展示如何使用 matplotlib 和 Python 将图例放置在绘图之外
-
-towardsdatascience.com](/legend-outside-the-plot-matplotlib-5d9c1caa9d31) [](/plot-logarithmic-axes-matplotlib-python-bb8533f430c0) [## 如何用 Python 中的 Matplotlib 绘制对数轴
-
-### 了解何时以及如何在对数标度上可视化数据
-
-towardsdatascience.com](/plot-logarithmic-axes-matplotlib-python-bb8533f430c0) [](/save-plots-matplotlib-1a16b3432d8a) [## 如何使用 Matplotlib 将绘图保存到图像文件
-
-### 了解如何将 matplotlib 图形和绘图保存到图像文件
-
-towardsdatascience.com](/save-plots-matplotlib-1a16b3432d8a)
+[](/legend-outside-the-plot-matplotlib-5d9c1caa9d31)  [](/plot-logarithmic-axes-matplotlib-python-bb8533f430c0)  [](/save-plots-matplotlib-1a16b3432d8a) 

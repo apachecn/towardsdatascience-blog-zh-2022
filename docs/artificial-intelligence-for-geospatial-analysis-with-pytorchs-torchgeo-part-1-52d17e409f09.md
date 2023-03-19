@@ -153,11 +153,7 @@ plt.imshow(rgb*3)
 
 第 2 部分已在此处提供:
 
-[](/artificial-intelligence-for-geospatial-analysis-with-pytorchs-torchgeo-part-2-ec3785fae284) [## 使用 Pytorch 的 TorchGeo 进行地理空间分析的人工智能(第 2 部分)
-
-### 使用 Pytorch 和 TorchGeo 包的端到端深度学习地理空间分割项目
-
-towardsdatascience.com](/artificial-intelligence-for-geospatial-analysis-with-pytorchs-torchgeo-part-2-ec3785fae284) 
+[](/artificial-intelligence-for-geospatial-analysis-with-pytorchs-torchgeo-part-2-ec3785fae284)  
 
 # 保持联系
 
@@ -167,8 +163,4 @@ towardsdatascience.com](/artificial-intelligence-for-geospatial-analysis-with-py
 
 [1]新罗。(2021).地球表面水数据集。芝诺多。[https://doi.org/10.5281/zenodo.5205674](https://doi.org/10.5281/zenodo.5205674)
 
-[](https://cordmaur.medium.com/membership) [## 通过我的推荐链接加入媒体-毛里西奥·科代罗
-
-### 阅读毛里西奥·科代罗的每一个故事(以及媒体上成千上万的其他作家)。您的会员费直接…
-
-cordmaur.medium.com](https://cordmaur.medium.com/membership)
+[](https://cordmaur.medium.com/membership) 

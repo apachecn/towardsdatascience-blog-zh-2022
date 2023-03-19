@@ -12,11 +12,7 @@ Firmbee.com 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=ref
 
 几周前，我发表了一篇关于信息设计的文章:
 
-[](https://medium.com/cloud-workers/three-simple-rules-for-information-design-52db54864b47) [## 信息设计的三个简单规则
-
-### 我们知道那些花哨多彩的报道。现在，让我们探讨一下为什么这些都是不好的例子，以及我们如何能做得更好。
-
-medium.com](https://medium.com/cloud-workers/three-simple-rules-for-information-design-52db54864b47) 
+[](https://medium.com/cloud-workers/three-simple-rules-for-information-design-52db54864b47)  
 
 概括一下:
 
@@ -63,11 +59,7 @@ IBCS 帮助我们利用其规则来改进我们的报道。
 
 我在关于 Power BI 和 DAX 的第一篇文章中提到了这些专栏:
 
-[](/3-ways-to-improve-your-reporting-with-an-expanded-date-table-2d983d76cced) [## 使用扩展的日期表格改进报告的 3 种方法
-
-### 时间是最重要的报道维度。您可以使用一个好的日期表来扩展您的报告功能。
-
-towardsdatascience.com](/3-ways-to-improve-your-reporting-with-an-expanded-date-table-2d983d76cced) 
+[](/3-ways-to-improve-your-reporting-with-an-expanded-date-table-2d983d76cced)  
 
 此列计算从实际日期开始的周期数。
 
@@ -332,8 +324,4 @@ Contoso 的数据可以在麻省理工学院的许可下自由使用，正如这
 我扩大了数据集，使 DAX 引擎工作更努力。
 在线销售表包含 7100 万行(而不是 1260 万行)，零售表包含 1850 万行(而不是 340 万行)。
 
-[](https://medium.com/@salvatorecagliari/membership) [## 通过我的推荐链接加入 Medium-Salvatore Cagliari
-
-### 阅读萨尔瓦托勒·卡利亚里的每一个故事(以及媒体上成千上万的其他作家)。您的会员费直接…
-
-medium.com](https://medium.com/@salvatorecagliari/membership)
+[](https://medium.com/@salvatorecagliari/membership) 

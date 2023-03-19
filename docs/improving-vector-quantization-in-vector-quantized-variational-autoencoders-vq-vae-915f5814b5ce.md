@@ -86,11 +86,7 @@ NSVQ 框图:矢量量化中的噪声替代(图片由作者提供)
 
 我们在以下公开网页中提供 NSVQ 的 **PyTorch 代码:**
 
-[](https://gitlab.com/speech-interaction-technology-aalto-university/nsvq) [## 阿尔托大学/ NSVQ GitLab 的语音交互技术
-
-### 论文“机器学习矢量量化中的噪声替换”代码的 Python 实现…
-
-gitlab.com](https://gitlab.com/speech-interaction-technology-aalto-university/nsvq) 
+[](https://gitlab.com/speech-interaction-technology-aalto-university/nsvq)  
 
 # 确认
 

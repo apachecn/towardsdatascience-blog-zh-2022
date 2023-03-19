@@ -24,11 +24,7 @@
 
 在本文中，我们将在假设检验的背景下研究混淆矩阵。你可以在这里阅读关于分类问题的[混淆矩阵。](https://medium.com/@andreagustafsen/the-confusion-matrix-explained-part-2-6be183f180e0)
 
-[](/the-confusion-matrix-explained-part-2-6be183f180e0) [## 分类中的混淆矩阵
-
-### 使用混淆矩阵评估二元分类器的性能。如何计算性能指标…
-
-towardsdatascience.com](/the-confusion-matrix-explained-part-2-6be183f180e0) 
+[](/the-confusion-matrix-explained-part-2-6be183f180e0)  
 
 # 可视化假设检验
 
@@ -96,12 +92,4 @@ alpha 的补码，1-alpha，是正确拒绝零假设失败的概率，**真否�
 
 如果您对如何评估 I 型误差和功率感兴趣，欢迎您阅读这篇关于如何使用仿真[评估 t-test](/evaluating-the-performance-of-the-t-test-1c2a4895020c) 性能的深入文章。
 
-[](/evaluating-the-performance-of-the-t-test-1c2a4895020c) [## 仔细看看 T-test 的性能
-
-### 一项模拟研究，调查不同情况下 t 检验的 I 型误差和功效。样本大小和…
-
-towardsdatascience.com](/evaluating-the-performance-of-the-t-test-1c2a4895020c) [](/the-confusion-matrix-explained-part-2-6be183f180e0) [## 分类中的混淆矩阵
-
-### 使用混淆矩阵评估二元分类器的性能。如何计算性能指标…
-
-towardsdatascience.com](/the-confusion-matrix-explained-part-2-6be183f180e0)
+[](/evaluating-the-performance-of-the-t-test-1c2a4895020c)  [](/the-confusion-matrix-explained-part-2-6be183f180e0) 

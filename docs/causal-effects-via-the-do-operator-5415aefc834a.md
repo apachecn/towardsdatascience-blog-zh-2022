@@ -128,11 +128,7 @@ P(Y | X=x))和 P(Y | do(X=x)) 之间的**关键区别在于，第一个具体说
 
 *换句话说，通过对 Z_1 和 Z_3 进行调节，我们阻断了 X 和 Z_2 之间的统计相关性。在本系列的[下一篇博客](https://medium.com/towards-data-science/causal-effects-via-dags-801df31da794) 中，我们将探索截断因式分解公式的其他可能的简化。*
 
-*[](/causal-effects-via-dags-801df31da794) [## 通过 Dag 的因果效应
-
-### 估计因果效应的两个图形标准
-
-towardsdatascience.com](/causal-effects-via-dags-801df31da794) 
+*[](/causal-effects-via-dags-801df31da794)  
 
 ## 如何使用倾向得分
 
@@ -140,11 +136,7 @@ towardsdatascience.com](/causal-effects-via-dags-801df31da794)
 
 我们可以克服这个挑战的一个方法是**在倾向得分模型**中只包括 X 的父母。因此，如果我们花时间为我们的问题写下一个因果模型，我们就能以一种直接的方式挑选出协变量。例如，在上面的 DAG 中，我们将只在我们的倾向得分模型中包括 Z_1 和 Z_3，即使 Z_2 被测量。
 
-[](/propensity-score-5c29c480130c) [## 通过倾向得分的因果效应
-
-### 如何估计观测数据的影响
-
-towardsdatascience.com](/propensity-score-5c29c480130c) 
+[](/propensity-score-5c29c480130c)  
 
 ## **替代协变量选择**
 
@@ -162,11 +154,7 @@ towardsdatascience.com](/propensity-score-5c29c480130c)
 
 **支持** : [给我买杯咖啡](https://www.buymeacoffee.com/shawhint?source=about_page-------------------------------------) ☕️ | [成为会员](https://shawhin.medium.com/membership?source=about_page-------------------------------------) ⭐️
 
-[](https://shawhin.medium.com/membership) [## 通过我的推荐链接加入媒体——肖文·塔莱比
-
-### ⭐️成为会员使用我的推荐链接，并获得充分的媒体上的每一篇文章。您的会员费直接…
-
-shawhin.medium.com](https://shawhin.medium.com/membership) 
+[](https://shawhin.medium.com/membership)  
 
 【1】[朱迪亚·珀尔](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2836213/pdf/ijb1203.pdf)因果推理导论
 

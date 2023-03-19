@@ -12,11 +12,7 @@
 
 Seaborn 是一个建立在 Matplotlib 之上的接口，它使用几行简短的代码从 Pandas datafames 创建统计图表并设置其样式。它在引擎盖下利用了 Matplotlib，最好对[图](https://matplotlib.org/stable/api/figure_api.html)、[轴](https://matplotlib.org/stable/api/axes_api.html)、[轴](https://matplotlib.org/stable/api/axis_api.html)对象有一个基本的了解。
 
-[](/8-seaborn-plots-for-univariate-exploratory-data-analysis-eda-in-python-9d280b6fe67f) [## Python 中单变量探索性数据分析(EDA)的 8 个 Seaborn 图
-
-### 了解如何使用 seaborn 和 matplotlib 一次可视化和分析一个变量
-
-towardsdatascience.com](/8-seaborn-plots-for-univariate-exploratory-data-analysis-eda-in-python-9d280b6fe67f) 
+[](/8-seaborn-plots-for-univariate-exploratory-data-analysis-eda-in-python-9d280b6fe67f)  
 
 我们将使用来自 Kaggle 的[车辆数据集](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho?ref=hackernoon.com&select=Car+details+v3.csv)，该数据集受[开放数据库](https://opendatacommons.org/licenses/dbcl/1-0/)许可。下面的代码导入所需的库，设置样式，并加载数据集。
 

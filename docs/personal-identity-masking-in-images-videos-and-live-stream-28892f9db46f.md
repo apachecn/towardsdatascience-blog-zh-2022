@@ -18,11 +18,7 @@
 
 建立人脸掩蔽模型的第一步是选择人脸检测模型。面部检测模型必须能够以合理的推理速度和接近 100%的准确度在图像或视频帧中挑选出多个面部，以便易于部署。关于人脸检测的话题在我之前的教程中已经详尽地讨论过了，在这里你可以探索各种人脸检测模型，以及它们的优缺点:
 
-[](https://medium.com/artificialis/real-time-face-detection-with-dual-shot-face-detector-dsfd-c37e19e5af3d) [## 使用双镜头人脸检测器进行实时人脸检测(DSFD)
-
-### 一个高精度的人脸检测模型和一个加速检测推理的简单方法
-
-medium.com](https://medium.com/artificialis/real-time-face-detection-with-dual-shot-face-detector-dsfd-c37e19e5af3d) 
+[](https://medium.com/artificialis/real-time-face-detection-with-dual-shot-face-detector-dsfd-c37e19e5af3d)  
 
 选择合适的人脸检测模型后，在以下步骤中:
 
@@ -58,11 +54,7 @@ DSFD 人脸检测身份证图像人脸掩蔽。其他敏感文本信息被手动
 
 因为我会定期撰写文章，所以我也希望您能跟随我一起踏上学习数据科学的旅程。如果你愿意，可以看看这里教你如何有效地学习数据科学或任何其他学科的文章:
 
-[](/a-brief-guide-to-effective-learning-in-data-science-637de316da0e) [## 数据科学有效学习完全指南
-
-### 让你在数据科学(或任何学科)领域飞速发展的基本指南
-
-towardsdatascience.com](/a-brief-guide-to-effective-learning-in-data-science-637de316da0e) 
+[](/a-brief-guide-to-effective-learning-in-data-science-637de316da0e)  
 
 再见，祝你学习愉快。干杯！_/\_
 
@@ -70,8 +62,4 @@ towardsdatascience.com](/a-brief-guide-to-effective-learning-in-data-science-637
 > 
 > ***支持我！***——如果你*没有*订阅 Medium，并且喜欢我的内容，请考虑通过我的[推荐链接](https://tanpengshi.medium.com/membership)加入 Medium 来支持我。
 
-[](https://tanpengshi.medium.com/membership) [## 加入我的介绍链接媒体-谭师鹏阿尔文
-
-### 阅读谭·师鹏·阿尔文(以及媒体上成千上万其他作家)的每一个故事。您的会员费直接…
-
-tanpengshi.medium.com](https://tanpengshi.medium.com/membership)
+[](https://tanpengshi.medium.com/membership) 

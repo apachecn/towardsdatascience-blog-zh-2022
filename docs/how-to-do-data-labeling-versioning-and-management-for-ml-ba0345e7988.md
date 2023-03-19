@@ -169,16 +169,4 @@ ClearML Data 从存储数据的任何地方获取数据，并缓存数据，这�
 
 *下面还有一些你可能喜欢的帖子*
 
-*[](/adapting-a-sentiment-analysis-model-to-a-custom-domain-62ec386516bc) [## 使情感分析模型适应定制领域
-
-### 我们的实验发现和你尝试模型的机会
-
-towardsdatascience.com](/adapting-a-sentiment-analysis-model-to-a-custom-domain-62ec386516bc) [](/data-centric-ai-82fea1fc678d) [## 以数据为中心的人工智能
-
-### 以及它对机器学习从业者的意义…
-
-towardsdatascience.com](/data-centric-ai-82fea1fc678d) [](/top-8-magic-commands-in-jupyter-notebook-c1582e813560) [## Jupyter 笔记本中的 8 大魔法命令
-
-### 通过学习最有用的命令来提高您的生产力
-
-towardsdatascience.com](/top-8-magic-commands-in-jupyter-notebook-c1582e813560)*
+*[](/adapting-a-sentiment-analysis-model-to-a-custom-domain-62ec386516bc)  [](/data-centric-ai-82fea1fc678d)  [](/top-8-magic-commands-in-jupyter-notebook-c1582e813560) *

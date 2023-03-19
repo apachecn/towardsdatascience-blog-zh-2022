@@ -176,11 +176,7 @@ fit_polynomials(X2, y2, from_=10, to_=30, step=10)**[OUT]: Results for each (deg
 
 如果你喜欢这个内容，请关注我的博客。
 
-[](http://gustavorsantos.medium.com/) [## 古斯塔沃·桑托斯-中等
-
-### 阅读古斯塔夫·桑托斯在媒介上的作品。数据科学家。我从数据中提取见解，以帮助个人和公司…
-
-gustavorsantos.medium.com](http://gustavorsantos.medium.com/) 
+[](http://gustavorsantos.medium.com/)  
 
 如果你正在考虑加入 Medium 成为会员，这是我的[推荐代码](https://gustavorsantos.medium.com/membership)，其中部分价值与我分享，所以你也可以激励我。
 
@@ -188,16 +184,4 @@ gustavorsantos.medium.com](http://gustavorsantos.medium.com/)
 
 # 参考
 
-[](https://en.wikipedia.org/wiki/Polynomial) [## 多项式-维基百科
-
-### 在数学中，多项式是由不定项(也称为变量)和系数组成的表达式
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Polynomial) [](/polynomial-regression-bbe8b9d97491) [## 多项式回归
-
-### 这是我在机器学习系列的第三篇博客。这个博客需要线性回归的先验知识。如果你…
-
-towardsdatascience.com](/polynomial-regression-bbe8b9d97491) [](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.PolynomialFeatures.html) [## sklearn.preprocessing .多项式功能
-
-### 使用 sk learn . preprocessing . polynomial features 的示例:scikit 的发布亮点-learn 0.24 发布亮点…
-
-scikit-learn.org](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.PolynomialFeatures.html)
+[](https://en.wikipedia.org/wiki/Polynomial)  [](/polynomial-regression-bbe8b9d97491)  [](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.PolynomialFeatures.html) 

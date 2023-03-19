@@ -102,8 +102,4 @@
 
 在下面的链接中，您还可以找到一个免费的 PDF 演示，介绍如何使用 r。
 
-[](https://www.aspiringdatascientist.net/community) [## 数据科学项目清单-有抱负的数据科学家
-
-### 我是一名拥有 7 年以上分析经验的数据科学家，目前在英国伦敦的一家游戏公司工作。我的…
-
-www.aspiringdatascientist.net](https://www.aspiringdatascientist.net/community)
+[](https://www.aspiringdatascientist.net/community) 

@@ -43,15 +43,7 @@ models
 
 我写了两篇关于 Lazy Predict 的博客——一篇是关于分类模型的，另一篇是关于回归模型的，其中包括了我对它的想法和代码，这样你就可以自己测试了。
 
-[](/how-to-run-30-machine-learning-models-with-2-lines-of-code-d0f94a537e52) [## 如何用 2 行代码运行 30 个机器学习模型
-
-### 了解如何使用 lazy predict 运行多个机器学习模型——代码跟随
-
-towardsdatascience.com](/how-to-run-30-machine-learning-models-with-2-lines-of-code-d0f94a537e52) [](/how-to-run-40-regression-models-with-a-few-lines-of-code-5a24186de7d) [## 如何用几行代码运行 40 个回归模型
-
-### 了解如何使用 Lazy Predict 为回归项目运行 40 多个机器学习模型
-
-towardsdatascience.com](/how-to-run-40-regression-models-with-a-few-lines-of-code-5a24186de7d) 
+[](/how-to-run-30-machine-learning-models-with-2-lines-of-code-d0f94a537e52)  [](/how-to-run-40-regression-models-with-a-few-lines-of-code-5a24186de7d)  
 
 # 勒克斯
 
@@ -67,11 +59,7 @@ Lux 是另一个你绝对应该尝试的黄金图书馆。它允许您进行探�
 
 如果你想进一步了解莱克丝，我还为此写了一篇博客。
 
-[](/how-to-create-data-visualizations-on-python-with-one-click-f6bafbd8de54) [## 如何在 Python 上一键创建数据可视化
-
-### 了解在您的下一个数据科学项目中应该如何以及为什么使用 Lux 库
-
-towardsdatascience.com](/how-to-create-data-visualizations-on-python-with-one-click-f6bafbd8de54) 
+[](/how-to-create-data-visualizations-on-python-with-one-click-f6bafbd8de54)  
 
 # 黑色
 
@@ -117,11 +105,7 @@ PyForest 是我写的第一批 Python 库之一。我发现 PyForest 时，我�
 
 你可以在这里找到我的博客:
 
-[](/how-to-import-all-python-libraries-with-one-line-of-code-2b9e66a5879f) [## 如何用一行代码导入所有 Python 库
-
-### 了解如何使用 PyForest 导入 40 个最重要的库
-
-towardsdatascience.com](/how-to-import-all-python-libraries-with-one-line-of-code-2b9e66a5879f) 
+[](/how-to-import-all-python-libraries-with-one-line-of-code-2b9e66a5879f)  
 
 # Bamboolib，米托和 D-Tale
 
@@ -143,11 +127,7 @@ Bamboolib、米托和 D-Tale 不是一个图书馆。它们实际上是三个不
 
 这是我关于 Bamboolib 的博客
 
-[](/bamboolib-one-of-the-most-useful-python-libraries-you-have-ever-seen-6ce331685bb7) [## Bamboolib:你见过的最有用的 Python 库之一
-
-### 下面是我对这个很酷的 Python 库的看法，以及为什么你应该尝试一下
-
-towardsdatascience.com](/bamboolib-one-of-the-most-useful-python-libraries-you-have-ever-seen-6ce331685bb7) 
+[](/bamboolib-one-of-the-most-useful-python-libraries-you-have-ever-seen-6ce331685bb7)  
 
 ## 米托
 
@@ -159,11 +139,7 @@ towardsdatascience.com](/bamboolib-one-of-the-most-useful-python-libraries-you-h
 
 这是我关于米托的博客:
 
-[](/mito-one-of-the-coolest-python-libraries-you-have-ever-seen-5261dbfedceb) [## 米托:你见过的最酷的 Python 库之一
-
-### 下面是我对这个很酷的 Python 库的看法，以及为什么你应该尝试一下
-
-towardsdatascience.com](/mito-one-of-the-coolest-python-libraries-you-have-ever-seen-5261dbfedceb) 
+[](/mito-one-of-the-coolest-python-libraries-you-have-ever-seen-5261dbfedceb)  
 
 ## 数字童话
 
@@ -173,11 +149,7 @@ towardsdatascience.com](/mito-one-of-the-coolest-python-libraries-you-have-ever-
 
 作者 GIF
 
-[](/d-tale-one-of-the-best-python-libraries-you-have-ever-seen-c2deecdfd2b) [## D-Tale:你见过的最好的 Python 库之一
-
-### 以下是我对这个必备 Python 库的看法，以及为什么你应该试一试
-
-towardsdatascience.com](/d-tale-one-of-the-best-python-libraries-you-have-ever-seen-c2deecdfd2b) 
+[](/d-tale-one-of-the-best-python-libraries-you-have-ever-seen-c2deecdfd2b)  
 
 # PyCaret
 
@@ -191,11 +163,7 @@ PyCaret 是一个用 Python 编写的开源、低代码的机器学习库，可�
 
 几个月前我写过这个。是时候写一篇关于它的新博客了，因为他们增加了更多的功能，但是你可以在这里了解 PyCaret:
 
-[](/how-to-run-complex-machine-learning-models-with-2-lines-of-code-e0a541502ee9) [## 如何用两行代码运行复杂的机器学习模型
-
-### 使用 PyCarat 创建一个完整的数据科学项目。从数据清理到复杂的机器学习模型—代码…
-
-towardsdatascience.com](/how-to-run-complex-machine-learning-models-with-2-lines-of-code-e0a541502ee9) 
+[](/how-to-run-complex-machine-learning-models-with-2-lines-of-code-e0a541502ee9)  
 
 # SweetViz
 

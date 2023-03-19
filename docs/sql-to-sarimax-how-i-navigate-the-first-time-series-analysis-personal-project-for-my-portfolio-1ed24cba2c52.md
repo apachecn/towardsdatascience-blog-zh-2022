@@ -156,20 +156,4 @@ print(model.summary())*
 
 *Kaggle Knowledge 上的开源数据集:[https://www . ka ggle . com/c/store-sales-time-series-forecasting/overview/description](https://www.kaggle.com/c/store-sales-time-series-forecasting/overview/description)*
 
-*[](https://people.duke.edu/~rnau/arimrule.htm) [## 识别 ARIMA 模型的规则
-
-### 非季节性 ARIMA 模型说明(pdf 文件)季节性和非季节性 ARIMA 模型幻灯片(pdf 文件)介绍…
-
-people.duke.edu](https://people.duke.edu/~rnau/arimrule.htm) [](/the-complete-guide-to-time-series-analysis-and-forecasting-70d476bfe775) [## 时间序列分析和预测完全指南
-
-### 理解移动平均线，指数平滑，平稳性，自相关，SARIMA，并应用这些技术在…
-
-towardsdatascience.com](/the-complete-guide-to-time-series-analysis-and-forecasting-70d476bfe775) [](https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/) [## 如何在 Python -机器学习掌握中创建用于时间序列预测的 ARIMA 模型
-
-### 一个流行的和广泛使用的时间序列预测的统计方法是 ARIMA 模型。ARIMA 是…的首字母缩写
-
-machinelearningmastery.com](https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/) [](https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/) [## ARIMA 模型 Python 中时间序列预测的完整指南| ML+
-
-### 使用 ARIMA 模型，您可以使用序列的过去值来预测时间序列。在这篇文章中，我们建立了一个最优的 ARIMA…
-
-www.machinelearningplus.com](https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/)*
+*[](https://people.duke.edu/~rnau/arimrule.htm)  [](/the-complete-guide-to-time-series-analysis-and-forecasting-70d476bfe775)  [](https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/)  [](https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/) *

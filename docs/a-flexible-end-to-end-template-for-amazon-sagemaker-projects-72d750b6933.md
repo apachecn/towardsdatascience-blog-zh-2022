@@ -122,16 +122,4 @@ BYOC 为配置和调整 SageMaker 项目提供了难以置信的灵活性，但�
 
 **资源** 这篇博客文章基于(并借用)以下由[玛利亚·维克斯拉德](https://github.com/m-romanenko)和[拉姆·维吉拉朱](https://github.com/RamVegiraju)写的博客文章——大声喊出来:
 
-[](https://www.sicara.fr/blog-technique/amazon-sagemaker-model-training) [## 如何用 Amazon SageMaker 训练和部署定制模型——第 1 部分
-
-### 在 AWS Amazon SageMaker 上训练 TensorFlow 图像分类器是一项令人惊叹的服务，它可以让您建立完整的…
-
-www.sicara.fr](https://www.sicara.fr/blog-technique/amazon-sagemaker-model-training) [](/bring-your-own-container-with-amazon-sagemaker-37211d8412f4) [## 使用亚马逊 SageMaker 自带容器
-
-### SageMaker 中最灵活的实时推理选项
-
-towardsdatascience.com](/bring-your-own-container-with-amazon-sagemaker-37211d8412f4) [](https://github.com/smaakage85/shapemaker) [## GitHub-smaakage 85/shape maker:AWS sage maker 项目的端到端模板，旨在…
-
-### shapemaker 是亚马逊 SageMaker AWS 项目的端到端模板，旨在实现最大的灵活性。模板…
-
-github.com](https://github.com/smaakage85/shapemaker)
+[](https://www.sicara.fr/blog-technique/amazon-sagemaker-model-training)  [](/bring-your-own-container-with-amazon-sagemaker-37211d8412f4)  [](https://github.com/smaakage85/shapemaker) 

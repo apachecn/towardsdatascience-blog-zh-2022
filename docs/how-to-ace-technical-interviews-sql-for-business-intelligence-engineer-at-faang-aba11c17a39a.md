@@ -10,11 +10,7 @@
 
 在我最近在 FAANG 的面试中，SQL 是最先测试的技能之一。您可以在本文中了解整个过程。
 
-[](/how-i-cracked-business-intelligence-engineer-interviews-at-faang-d08f64f7e748) [## 我是如何在 FAANG 破解商业智能工程师面试的
-
-### 我最近面试了亚马逊的商业智能工程师，并成功通过了面试
-
-towardsdatascience.com](/how-i-cracked-business-intelligence-engineer-interviews-at-faang-d08f64f7e748) 
+[](/how-i-cracked-business-intelligence-engineer-interviews-at-faang-d08f64f7e748)  
 
 如果你要参加 FAANG(或任何公司)的数据分析师面试，以下是你需要准备的五大 SQL 概念。
 
@@ -46,11 +42,7 @@ end as Division
 
 要了解更多 SQL 概念，请参考这篇关于日期函数的文章。
 
-[](/how-to-handle-dates-in-sql-using-in-built-functions-d6ca5a345e6d) [## 如何使用内置函数在 SQL 中处理日期
-
-### 日期函数是 SQL 编程中谈论最多的领域之一
-
-towardsdatascience.com](/how-to-handle-dates-in-sql-using-in-built-functions-d6ca5a345e6d) 
+[](/how-to-handle-dates-in-sql-using-in-built-functions-d6ca5a345e6d)  
 
 在我看来，你可以用这五个概念和内置的日期函数来清除所有的 SQL 访问。就 SQL 技能而言，你将是一个强有力的候选人。
 

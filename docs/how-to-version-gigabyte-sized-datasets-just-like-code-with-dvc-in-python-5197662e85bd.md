@@ -279,27 +279,11 @@ $ mv .dvc/cache/* path/to/shared_cache
 
 文章的第二部分:
 
-[](https://pub.towardsai.net/how-to-track-ml-experiments-with-dvc-inside-vscode-to-boost-your-productivity-a654ace60bab) [## 如何在 VSCode 中使用 DVC 跟踪 ML 实验以提高您的工作效率
-
-### 像专家一样管理 ML 实验
-
-pub.towardsai.net](https://pub.towardsai.net/how-to-track-ml-experiments-with-dvc-inside-vscode-to-boost-your-productivity-a654ace60bab) 
+[](https://pub.towardsai.net/how-to-track-ml-experiments-with-dvc-inside-vscode-to-boost-your-productivity-a654ace60bab)  
 
 第三部分:
 
-[](https://pub.towardsai.net/how-to-create-highly-organized-ml-projects-anyone-can-reproduce-with-dvc-pipelines-fc3ac7867d16) [## 如何创建任何人都可以用 DVC 管道复制的高度组织的 ML 项目
-
-### 什么是机器学习管道？
-
-pub.towardsai.net](https://pub.towardsai.net/how-to-create-highly-organized-ml-projects-anyone-can-reproduce-with-dvc-pipelines-fc3ac7867d16) [](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-BEXGBoost
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。支持我的工作，给我买一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) [](https://ibexorigin.medium.com/subscribe) [## 每当 BEXGBoost 发布时收到一封电子邮件。
-
-### 每当 BEXGBoost 发布时收到一封电子邮件。注册后，如果您还没有，您将创建一个中型帐户…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/subscribe) 
+[](https://pub.towardsai.net/how-to-create-highly-organized-ml-projects-anyone-can-reproduce-with-dvc-pipelines-fc3ac7867d16)  [](https://ibexorigin.medium.com/membership)  [](https://ibexorigin.medium.com/subscribe)  
 
 ## 数据集的引用:
 
@@ -307,20 +291,4 @@ J.Stallkamp、M. Schlipsing、J. Salmen 和 C. Igel。德国交通标志识别�
 
 以下是我的一些故事:
 
-[](/how-to-create-perfect-machine-learning-development-environment-with-wsl2-on-windows-10-11-2c80f8ea1f31) [## 如何在 Windows 10/11 上用 WSL2 创建完美的机器学习开发环境
-
-### 一切包括:终端，docker，Anaconda，Git，Jupyter 实验室，GPU 支持，…
-
-towardsdatascience.com](/how-to-create-perfect-machine-learning-development-environment-with-wsl2-on-windows-10-11-2c80f8ea1f31) [](/how-to-boost-pandas-speed-and-process-10m-row-datasets-in-milliseconds-48d5468e269) [## 如何提高熊猫的速度，在几毫秒内处理 1000 万行数据集
-
-### 按照预期的方式使用熊猫
-
-towardsdatascience.com](/how-to-boost-pandas-speed-and-process-10m-row-datasets-in-milliseconds-48d5468e269) [](/a-complete-shap-tutorial-how-to-explain-any-black-box-ml-model-in-python-7538d11fae94) [## 完整的 SHAP 教程:如何用 Python 解释任何黑盒 ML 模型
-
-### 向非技术人员解释任何黑盒模型
-
-towardsdatascience.com](/a-complete-shap-tutorial-how-to-explain-any-black-box-ml-model-in-python-7538d11fae94) [](/3-step-feature-selection-guide-in-sklearn-to-superchage-your-models-e994aa50c6d2) [## Sklearn 中的 3 步功能选择指南，让您的模型焕然一新
-
-### 为任何受监督的问题开发一个健壮的特征选择工作流
-
-towardsdatascience.com](/3-step-feature-selection-guide-in-sklearn-to-superchage-your-models-e994aa50c6d2)
+[](/how-to-create-perfect-machine-learning-development-environment-with-wsl2-on-windows-10-11-2c80f8ea1f31)  [](/how-to-boost-pandas-speed-and-process-10m-row-datasets-in-milliseconds-48d5468e269)  [](/a-complete-shap-tutorial-how-to-explain-any-black-box-ml-model-in-python-7538d11fae94)  [](/3-step-feature-selection-guide-in-sklearn-to-superchage-your-models-e994aa50c6d2) 

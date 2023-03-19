@@ -22,11 +22,7 @@
 
 1.  [**数据会谈俱乐部**](https://datatalks.club/)
 
-[](https://datatalks.club/) [## 欢迎来到数据会谈。俱乐部
-
-### 即将发生的事件检查所有过去事件的事件。您也可以订阅我们的 Google 日历，以获得有关…的通知
-
-数据会谈.俱乐部](https://datatalks.club/) 
+[](https://datatalks.club/)  
 
 **松弛环节:**https://datatalks.club/slack.html
 
@@ -36,11 +32,7 @@
 
 **2。** [**MLOps 社区**](https://mlops.community/)
 
-[](https://mlops.community/) [## 主页— MLOps 社区
-
-### MLOps 社区满足了快速增长的分享现实世界机器学习操作最佳实践的需求…
-
-mlops.community](https://mlops.community/) 
+[](https://mlops.community/)  
 
 **松弛环节:**[https://mlops-community.slack.com](https://mlops-community.slack.com/join/shared_invite/zt-178s99cyv-Q~whRpqbhgMTBrOcbjnDIQ#/shared-invite/email)
 
@@ -50,11 +42,7 @@ mlops.community](https://mlops.community/)
 
 **3。** [**托洛卡全球社区**](https://toloka.ai/community/)
 
-[](https://toloka.ai/community/) [## 托洛卡全球社区
-
-### Toloka 将尖端技术与大众力量相结合，以创纪录的速度提供高性能数据…
-
-toloka.ai](https://toloka.ai/community/) 
+[](https://toloka.ai/community/)  
 
 **松弛环节:**https://toloka.ai/community
 
@@ -72,20 +60,4 @@ toloka.ai](https://toloka.ai/community/)
 
 *下面还有一些你可能喜欢的帖子*
 
-*[](/data-centric-ai-82fea1fc678d) [## 以数据为中心的人工智能
-
-### 以及它对机器学习从业者的意义…
-
-towardsdatascience.com](/data-centric-ai-82fea1fc678d) [](/categorizing-customer-support-requests-7c285a9cf974) [## 分类客户支持请求
-
-### 以及如何通过众包来实现
-
-towardsdatascience.com](/categorizing-customer-support-requests-7c285a9cf974) [](/human-in-the-loop-in-machine-translation-systems-bdf3fe82bfa3) [## 机器翻译系统中的人在回路
-
-### 使用众包评估机器翻译质量
-
-towardsdatascience.com](/human-in-the-loop-in-machine-translation-systems-bdf3fe82bfa3) [](/how-to-successfully-add-large-data-sets-to-google-drive-130beb320f1a) [## 如何成功将大型数据集添加到 Google Drive
-
-### 并在谷歌实验室中使用它们…
-
-towardsdatascience.com](/how-to-successfully-add-large-data-sets-to-google-drive-130beb320f1a)*
+*[](/data-centric-ai-82fea1fc678d)  [](/categorizing-customer-support-requests-7c285a9cf974)  [](/human-in-the-loop-in-machine-translation-systems-bdf3fe82bfa3)  [](/how-to-successfully-add-large-data-sets-to-google-drive-130beb320f1a) *

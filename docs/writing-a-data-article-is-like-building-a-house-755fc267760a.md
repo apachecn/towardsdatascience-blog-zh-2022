@@ -48,11 +48,7 @@
 
 例如，下面这篇关于 SQL 的文章面向技术和非技术读者。这就是为什么我在文章的开始部分对 SQL 的含义进行了适当的解释。
 
-[](/3-reasons-why-you-should-learn-sql-even-if-you-are-not-part-of-a-tech-team-232be317b9d7) [## 即使你不是技术团队的一员，你也应该学习 SQL 的 3 个理由
-
-### 这一切都是为了获得 SQL 逻辑(可能还会稍微炫耀一下)
-
-towardsdatascience.com](/3-reasons-why-you-should-learn-sql-even-if-you-are-not-part-of-a-tech-team-232be317b9d7) 
+[](/3-reasons-why-you-should-learn-sql-even-if-you-are-not-part-of-a-tech-team-232be317b9d7)  
 
 # #2 结构
 
@@ -74,11 +70,7 @@ towardsdatascience.com](/3-reasons-why-you-should-learn-sql-even-if-you-are-not-
 
 这是我在本文中使用的结构类型，我首先阐述我的观点，然后用一个详细的例子详细说明它:
 
-[](/not-all-data-requests-are-urgent-so-start-by-asking-these-5-questions-ad77d1fbe7dd) [## 并非所有的数据请求都是紧急的，所以从问这 5 个问题开始
-
-### 你应该向每个业务用户提出的 5 个问题+ 1 个实际操作练习，以说明实际情况
-
-towardsdatascience.com](/not-all-data-requests-are-urgent-so-start-by-asking-these-5-questions-ad77d1fbe7dd) 
+[](/not-all-data-requests-are-urgent-so-start-by-asking-these-5-questions-ad77d1fbe7dd)  
 
 ## 变体 B:你想向你的读者解释一个概念
 
@@ -94,11 +86,7 @@ towardsdatascience.com](/not-all-data-requests-are-urgent-so-start-by-asking-the
 
 这就是我在本文中使用的结构类型，在本文中，我使用自己创建的图表解释了现代数据堆栈的概念:
 
-[](/modern-or-not-what-is-a-data-stack-e6e09e74ae7f) [## 现代与否:什么是数据堆栈？
-
-### “现代数据堆栈”简单地解释为一个堆栈
-
-towardsdatascience.com](/modern-or-not-what-is-a-data-stack-e6e09e74ae7f) 
+[](/modern-or-not-what-is-a-data-stack-e6e09e74ae7f)  
 
 ## 变体 C:你想教你的读者如何做某事
 
@@ -114,11 +102,7 @@ towardsdatascience.com](/modern-or-not-what-is-a-data-stack-e6e09e74ae7f)
 
 这是我在本文中应用的结构类型，在本文中，我解释了我在标准 SQL 中处理空值的方法:
 
-[](/how-to-deal-with-null-values-in-standard-sql-1bffce0c55cd) [## 如何处理标准 SQL 中的空值
-
-### 1.识别— 2。理解— 3。行动
-
-towardsdatascience.com](/how-to-deal-with-null-values-in-standard-sql-1bffce0c55cd) 
+[](/how-to-deal-with-null-values-in-standard-sql-1bffce0c55cd)  
 
 # #3 装修
 
@@ -142,8 +126,4 @@ towardsdatascience.com](/how-to-deal-with-null-values-in-standard-sql-1bffce0c55
 
 你喜欢读这篇文章吗？ [*成为*](https://marie-lefevre.medium.com/membership) *的一员，加入一个不断成长的充满好奇心的社区吧！*
 
-[](https://marie-lefevre.medium.com/membership) [## 通过我的推荐链接加入媒体-玛丽·勒菲弗尔
-
-### 阅读玛丽·勒费夫尔(以及媒体上成千上万的其他作家)的每一个故事。每月 5 美元(或每年 50 美元),直接向…
-
-marie-lefevre.medium.com](https://marie-lefevre.medium.com/membership)
+[](https://marie-lefevre.medium.com/membership) 

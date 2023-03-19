@@ -150,19 +150,7 @@ os.listdir(path)**Output:**['sales_records_full.csv',
 
 # 你可能也喜欢
 
-[](/10-algorithms-to-solve-before-your-python-coding-interview-feb74fb9bc27) [## Python 编码面试前要解决的 10 个算法
-
-### 在这篇文章中，我介绍并分享了 FAANG 中经常出现的一些基本算法的解决方案
-
-towardsdatascience.com](/10-algorithms-to-solve-before-your-python-coding-interview-feb74fb9bc27) [](/3-ways-to-compute-a-weighted-average-in-python-4e066de7a719) [## Python 中计算加权平均值的 3 种方法
-
-### 在这篇简短的教程中，我将展示如何在 Python 中计算加权平均值，要么定义自己的函数，要么使用…
-
-towardsdatascience.com](/3-ways-to-compute-a-weighted-average-in-python-4e066de7a719) [](/3-ways-to-iterate-over-python-dictionaries-using-for-loops-14e789992ce5) [## 使用 For 循环迭代 Python 字典的 3 种方法
-
-### …以及 Python 字典上最流行的堆栈溢出问题的其他答案。
-
-towardsdatascience.com](/3-ways-to-iterate-over-python-dictionaries-using-for-loops-14e789992ce5) 
+[](/10-algorithms-to-solve-before-your-python-coding-interview-feb74fb9bc27)  [](/3-ways-to-compute-a-weighted-average-in-python-4e066de7a719)  [](/3-ways-to-iterate-over-python-dictionaries-using-for-loops-14e789992ce5)  
 
 # 给我的读者一个提示
 

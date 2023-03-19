@@ -155,12 +155,4 @@
 
 我错过了什么吗？不要犹豫，直接在 [LinkedIn](https://www.linkedin.com/in/aliakseimikhailiuk/) 或 [Twitter](https://twitter.com/mikhailiuka) 上给我留言、评论或发信息吧！
 
-[](/nine-tools-i-wish-i-mastered-before-my-phd-in-machine-learning-708c6dcb2fb0) [## 我希望在攻读机器学习博士学位之前掌握的九种工具
-
-### 无论你是建立一个启动或取得科学突破，这些工具将把你的 ML 管道到…
-
-towardsdatascience.com](/nine-tools-i-wish-i-mastered-before-my-phd-in-machine-learning-708c6dcb2fb0) [](/acing-machine-learning-interviews-aa73d6d7b07b) [## 应对机器学习面试
-
-### 机器学习面试准备指南和资源。
-
-towardsdatascience.com](/acing-machine-learning-interviews-aa73d6d7b07b)
+[](/nine-tools-i-wish-i-mastered-before-my-phd-in-machine-learning-708c6dcb2fb0)  [](/acing-machine-learning-interviews-aa73d6d7b07b) 

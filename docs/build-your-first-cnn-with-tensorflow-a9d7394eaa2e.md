@@ -20,11 +20,7 @@
 
 关于什么是分类和最流行的算法的更详细的解释，我强烈推荐阅读下面的文章:
 
-[](/machine-learning-classifiers-a5cc4e1b0623) [## 机器学习分类器
-
-### 什么是分类？
-
-towardsdatascience.com](/machine-learning-classifiers-a5cc4e1b0623) 
+[](/machine-learning-classifiers-a5cc4e1b0623)  
 
 # 卷积神经网络(CNN)
 
@@ -34,11 +30,7 @@ towardsdatascience.com](/machine-learning-classifiers-a5cc4e1b0623)
 
 为了更多更好地理解这种神经网络在图像中执行的操作，我建议这篇文章:
 
-[](/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53) [## 卷积神经网络综合指南 ELI5 方法
-
-### 人工智能见证了人类能力差距的巨大增长…
-
-towardsdatascience.com](/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53) 
+[](/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53)  
 
 # 构建我们的网络
 

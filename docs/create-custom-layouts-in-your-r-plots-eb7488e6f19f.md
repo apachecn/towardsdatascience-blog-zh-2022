@@ -230,16 +230,4 @@ close.screen(all = TRUE)
 
 如果你觉得这篇文章有用，请关注我，看看我的其他文章，包括:
 
-[](/how-do-decision-trees-and-random-forests-work-15cc2a925788) [## 决策树和随机森林是如何工作的？1b
-
-### 回归树
-
-towardsdatascience.com](/how-do-decision-trees-and-random-forests-work-15cc2a925788) [](/use-rattle-to-help-you-learn-r-d495c0cc517f) [## 用拨浪鼓来帮助你学习 R
-
-### 初学者指南
-
-towardsdatascience.com](/use-rattle-to-help-you-learn-r-d495c0cc517f) [](/creating-a-custom-r-package-9a2e303d3332) [## 创建自定义的 R 包
-
-### 为所有用户定义的函数创建一个中心位置。
-
-towardsdatascience.com](/creating-a-custom-r-package-9a2e303d3332)
+[](/how-do-decision-trees-and-random-forests-work-15cc2a925788)  [](/use-rattle-to-help-you-learn-r-d495c0cc517f)  [](/creating-a-custom-r-package-9a2e303d3332) 

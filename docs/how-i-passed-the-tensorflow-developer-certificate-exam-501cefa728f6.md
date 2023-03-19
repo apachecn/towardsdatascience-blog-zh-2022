@@ -264,8 +264,4 @@
 
 使用我的推荐链接注册会给我一点回扣，对你的会员资格没有影响，所以如果你选择这样做，谢谢你。
 
-[](https://medium.com/@maclayton/membership) [## 加入我的介绍链接媒体-迈克克莱顿
-
-### 阅读迈克·克莱顿(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-medium.com](https://medium.com/@maclayton/membership)
+[](https://medium.com/@maclayton/membership) 

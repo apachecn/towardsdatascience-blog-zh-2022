@@ -10,11 +10,7 @@
 
 在我上一篇关于 Polars 的文章中，我向您介绍了 Polars 数据帧库，它比 Pandas 数据帧高效得多。
 
-[](/getting-started-with-the-polars-dataframe-library-6f9e1c014c5c) [## Polars 数据帧库入门
-
-### 了解如何使用 Polars dataframe 库操作表格数据(并替换 Pandas)
-
-towardsdatascience.com](/getting-started-with-the-polars-dataframe-library-6f9e1c014c5c) 
+[](/getting-started-with-the-polars-dataframe-library-6f9e1c014c5c)  
 
 在本文中，我将深入探究是什么让 Polar 如此之快——懒惰评估。你会学到急切执行和懒惰评估/执行的区别。
 
@@ -223,11 +219,7 @@ q.fetch(5)
 
 作者图片
 
-[](https://weimenglee.medium.com/membership) [## 加入媒介与我的介绍链接-李伟孟
-
-### 阅读李维孟(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-weimenglee.medium.com](https://weimenglee.medium.com/membership) 
+[](https://weimenglee.medium.com/membership)  
 
 > 我将在即将到来的新加坡 ML 会议(2022 年 11 月 22-24 日)上主持一个关于 Polars 的研讨会。如果你想快速启动 Polars 数据框架，请在[https://ml conference . ai/machine-learning-advanced-development/using-Polars-for-data-analytics-workshop/](https://mlconference.ai/machine-learning-advanced-development/using-polars-for-data-analytics-workshop/)注册参加我的研讨会。
 

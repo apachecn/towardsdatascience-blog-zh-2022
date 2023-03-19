@@ -116,24 +116,8 @@ datetime.datetime(2022, 9, 30, 17, 26, 15, 891393, tzinfo=datetime.timezone.utc)
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership) 
+[](https://gmyrianthous.medium.com/membership)  
 
 **相关文章你可能也喜欢**
 
-[](/requirements-vs-setuptools-python-ae3ee66e28af) [## Python 中的 requirements.txt 与 setup.py
-
-### 了解 Python 中 requirements.txt、setup.py 和 setup.cfg 在开发和分发时的用途…
-
-towardsdatascience.com](/requirements-vs-setuptools-python-ae3ee66e28af) [](/diagrams-as-code-python-d9cbaa959ed5) [## Python 中作为代码的图
-
-### 用 Python 创建云系统架构图
-
-towardsdatascience.com](/diagrams-as-code-python-d9cbaa959ed5) [](/python-poetry-83f184ac9ed1) [## 用诗歌管理 Python 依赖关系
-
-### 依赖性管理和用诗歌打包
-
-towardsdatascience.com](/python-poetry-83f184ac9ed1)
+[](/requirements-vs-setuptools-python-ae3ee66e28af)  [](/diagrams-as-code-python-d9cbaa959ed5)  [](/python-poetry-83f184ac9ed1) 

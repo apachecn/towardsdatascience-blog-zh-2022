@@ -37,11 +37,7 @@ H ello 世界！我正在写我的第一篇关于 Medium 的文章，并决定�
 
 在向您的团队介绍 GitHub 之前，首先了解 GitHub 的基础知识很重要。知道如何添加、提交、推送文件和创建拉取请求。我不会深入这些基础知识，因为已经有大量的资源和文章提供了掌握这些基础知识的全面指南。以下是一些有用的快速链接:
 
-[](/introduction-to-github-for-data-scientists-2cf8b9b25fba) [## 面向数据科学家的 Github 简介
-
-### 掌握 Github 的基础知识
-
-towardsdatascience.com](/introduction-to-github-for-data-scientists-2cf8b9b25fba) 
+[](/introduction-to-github-for-data-scientists-2cf8b9b25fba)  
 
 一旦您对 git 的工作原理有了基本的了解，接下来要决定的是您的团队要采用什么类型的分支策略。
 
@@ -49,11 +45,7 @@ towardsdatascience.com](/introduction-to-github-for-data-scientists-2cf8b9b25fba
 
 到底什么是分支策略？它本质上是一种**策略**，通常被软件开发人员用来**在 Git 这样的 VCS 环境中编写、合并和发布代码**。选择一个合适的模型对于决定何时以及如何进行变更并提交回代码库是很重要的。
 
-[](https://medium.com/@patrickporto/4-branching-workflows-for-git-30d0aaee7bf) [## Git 的 4 个分支工作流
-
-### 在本文中，我们将介绍 Git 用户最流行的分支工作流，因此您可以决定哪种更适合…
-
-medium.com](https://medium.com/@patrickporto/4-branching-workflows-for-git-30d0aaee7bf) 
+[](https://medium.com/@patrickporto/4-branching-workflows-for-git-30d0aaee7bf)  
 
 **个人分支
 ).所有的个人分支都将并入`main`。当团队很小(< 3)，并且所涉及的工作很少复杂时(即，新项目的频率很低)，这种方法是有效的。**
@@ -137,11 +129,7 @@ git add -A # staging all the changesgit commit -m "Commit for Project A"git push
 
 将这种方法与 Git 结合使用变得很方便，因为您可以简单地将`.env`文件添加到`.gitignore`中，包含您所有凭证的文件将安全地存储在您的本地机器上。
 
-[](https://medium.com/developer-secrets/storing-credentials-the-right-way-78074ae21727) [## 以正确的方式存储凭据！
-
-### 有没有想过应该将您的凭据安全地存储在哪里，而不暴露给公众？学习如何去做…
-
-medium.com](https://medium.com/developer-secrets/storing-credentials-the-right-way-78074ae21727) 
+[](https://medium.com/developer-secrets/storing-credentials-the-right-way-78074ae21727)  
 
 一旦您将凭证存储在一个`.env`文件中，您就可以加载变量了。
 

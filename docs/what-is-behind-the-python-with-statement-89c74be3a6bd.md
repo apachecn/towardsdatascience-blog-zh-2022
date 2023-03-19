@@ -234,11 +234,7 @@ with get_db_connection('mysql') as con:
 
 在这篇文章中，我已经介绍了我们什么时候需要使用 with 语句以及如何使用它。还解释了这种语法背后的机制。除此之外，我还介绍了如何编写一个支持 with 语句的类或函数。通过以这种方式实现一个类或一个函数，我们可以以一种非常 Pythonic 化的方式简化接口的使用。
 
-[](https://medium.com/@qiuyujx/membership) [## 通过我的推荐链接加入灵媒-陶
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@qiuyujx/membership) 
+[](https://medium.com/@qiuyujx/membership)  
 
 如果你觉得我的文章有帮助，请考虑加入 Medium 会员来支持我和成千上万的其他作者！(点击上面的链接)
 

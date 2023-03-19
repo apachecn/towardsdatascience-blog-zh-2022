@@ -30,11 +30,7 @@ pip install wordcloud
 
 如果您使用[poem 来管理 Python 包](https://www.the-analytics.club/virtualenv-alternative-for-python-dependency-management)，您可以使用下面的命令。
 
-[](/poetry-to-complement-virtualenv-44088cc78fd1) [## 你不会还在用 Virtualenv 吧？
-
-### 有一种更好的方法来管理依赖项、打包和发布 Python 项目。
-
-towardsdatascience.com](/poetry-to-complement-virtualenv-44088cc78fd1) 
+[](/poetry-to-complement-virtualenv-44088cc78fd1)  
 
 ```
 poetry add wordcloud
@@ -54,11 +50,7 @@ text = """ Python is a widely used high-level interpreted language for general-p
 
 但是，您可能需要加载比这多得多的数据。例如，如果您有一个评论数据集，您必须以不同的方式加载它们。
 
-[](/summarize-pandas-data-frames-b9770567f940) [## 总结熊猫数据的更好方法。
-
-### Skimpy 使得在笔记本和终端上汇总数据集变得非常容易。
-
-towardsdatascience.com](/summarize-pandas-data-frames-b9770567f940) 
+[](/summarize-pandas-data-frames-b9770567f940)  
 
 你可以从[熊猫数据框](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html)中创建单词云。以下代码通过以下方式准备一个合并的审阅文本
 

@@ -85,11 +85,7 @@ plt.title("Apple Stock Price", fontsize=18)
 
 我们可以通过使用辅助 y 轴来解决这个问题。我们还需要添加第二个轴对象，这可以通过使用`subplots`方法来实现。如果你想了解更多关于 Matplotlib 的结构，这里有一个关于这个主题的详细帖子。
 
-[](/understanding-the-structure-of-matplotlib-23b97f507fac) [## 了解 Matplotlib 的结构
-
-### 那些情节是怎么创造出来的？
-
-towardsdatascience.com](/understanding-the-structure-of-matplotlib-23b97f507fac) 
+[](/understanding-the-structure-of-matplotlib-23b97f507fac)  
 
 我们将使用`twinx`方法添加一个辅助 y 轴。
 
@@ -229,10 +225,6 @@ ax2.tick_params(axis='both', which='major', labelsize=13)
 
 *你可以成为* [*媒介会员*](https://sonery.medium.com/membership) *解锁我的全部写作权限，外加其余媒介。如果您使用以下链接，我将收取您的一部分会员费，无需您支付额外费用。*
 
-[](https://sonery.medium.com/membership) [## 通过我的推荐链接加入 Medium-Soner yl DRM
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-sonery.medium.com](https://sonery.medium.com/membership) 
+[](https://sonery.medium.com/membership)  
 
 感谢您的阅读。如果您有任何反馈，请告诉我。

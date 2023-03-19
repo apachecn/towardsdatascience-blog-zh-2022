@@ -165,22 +165,6 @@ O 在数据科学和机器学习领域处理新数据的第一步通常是**标�
 
 **如果你喜欢这篇文章，并且觉得它内容丰富， ***请订阅，并查看我的其他文章，它们可能会说服你订阅:)*****
 
-**[](/300-times-faster-resolution-of-finite-difference-method-using-numpy-de28cdade4e1) [## 使用 numpy 将有限差分法的分辨率提高 300 倍
-
-### 有限差分法是解决复杂问题的强大技术，numpy 使它变得更快！
-
-towardsdatascience.com](/300-times-faster-resolution-of-finite-difference-method-using-numpy-de28cdade4e1) [](https://medium.com/analytics-vidhya/deep-dive-into-seaborn-meet-the-datasets-8d08755a320b) [## 深入了解 seaborn:了解数据集
-
-### Python 绘图:关于处理 seaborn 数据集您应该知道的一切
-
-medium.com](https://medium.com/analytics-vidhya/deep-dive-into-seaborn-meet-the-datasets-8d08755a320b) [](/wrapping-numpys-arrays-971e015e14bb) [## 包装 numpy 的数组
-
-### 集装箱方法。
-
-towardsdatascience.com](/wrapping-numpys-arrays-971e015e14bb) [](/interactive-plotting-the-well-know-rc-circuit-in-jupyter-d153c0e9d3a) [## 在 Jupyter 中交互绘制著名的 RC 电路
-
-### ipywidgets 和 matplotlib 的又一步
-
-towardsdatascience.com](/interactive-plotting-the-well-know-rc-circuit-in-jupyter-d153c0e9d3a) 
+**[](/300-times-faster-resolution-of-finite-difference-method-using-numpy-de28cdade4e1)  [](https://medium.com/analytics-vidhya/deep-dive-into-seaborn-meet-the-datasets-8d08755a320b)  [](/wrapping-numpys-arrays-971e015e14bb)  [](/interactive-plotting-the-well-know-rc-circuit-in-jupyter-d153c0e9d3a)  
 
 既然你一直往下读，这里有一个函数来白化你的数据，把它全部包装起来:**

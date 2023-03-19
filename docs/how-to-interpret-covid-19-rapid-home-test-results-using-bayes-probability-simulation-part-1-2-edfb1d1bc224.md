@@ -10,11 +10,7 @@
 
 这篇文章是我上一篇概率文章第一部分的延续。(这是一个临时帖子，我将在稍后发布该系列的第 2 部分)。
 
-[](/probability-simulations-solve-complex-probability-problems-using-randomness-part-1-6010026d4f49) [## 概率模拟:利用随机性解决复杂的概率问题:第 1 部分
-
-### 通过设计实验并在实验中重复几次来估计有利结果的可能性
-
-towardsdatascience.com](/probability-simulations-solve-complex-probability-problems-using-randomness-part-1-6010026d4f49) 
+[](/probability-simulations-solve-complex-probability-problems-using-randomness-part-1-6010026d4f49)  
 
 # 背景
 

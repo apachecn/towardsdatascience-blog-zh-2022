@@ -211,11 +211,7 @@ rmse(
 
 *感谢你花时间阅读这篇文章！如果你想看的话，我还写了一篇关于如何在 R 中训练装袋模型(随机森林)的教程:*
 
-*[](/data-science-tutorials-training-a-random-forest-in-r-a883cc1bacd1) [## 数据科学教程—在 R 中训练随机森林
-
-### 了解如何使用 R 库训练随机森林
-
-towardsdatascience.com](/data-science-tutorials-training-a-random-forest-in-r-a883cc1bacd1) 
+*[](/data-science-tutorials-training-a-random-forest-in-r-a883cc1bacd1)  
 
 我还在 [Udemy](https://www.udemy.com/course/r-for-data-science-first-step-data-scientist/?referralCode=MEDIUMREADERS) 上开设了一门课程，从零开始学习数据科学的概念，我希望你能在我身边！
 

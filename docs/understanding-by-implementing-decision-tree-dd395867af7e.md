@@ -210,11 +210,7 @@ class Node:
 
 现在，让我们做实际的决策树实现。我让它兼容 scikit-learn，因此我使用了一些来自`sklearn.base`的类。如果您对此不熟悉，请查看我关于如何构建 scikit-learn 兼容模型的文章:
 
-[](/build-your-own-custom-scikit-learn-regression-5d0d718f289) [## 构建您自己的定制 scikit-学习回归
-
-### 编写一个回归变量，并从 scikit-learn 生态系统的所有强大工具中受益，如管道、网格搜索…
-
-towardsdatascience.com](/build-your-own-custom-scikit-learn-regression-5d0d718f289) 
+[](/build-your-own-custom-scikit-learn-regression-5d0d718f289)  
 
 来实施吧！
 
@@ -367,15 +363,7 @@ print(dt.root)
 
 此外，检查我的基本机器学习算法的其他实现！
 
-[](/understanding-by-implementing-k-nearest-neighbors-469d6f84b8a9) [## 通过实现来理解:k-最近邻
-
-### 了解 k-最近邻分类器的工作原理并在 Python 中实现它
-
-towardsdatascience.com](/understanding-by-implementing-k-nearest-neighbors-469d6f84b8a9) [](/learning-by-implementing-gaussian-naive-bayes-3f0e3d2c01b2) [## 通过实施学习:高斯朴素贝叶斯
-
-### 了解高斯朴素贝叶斯的工作原理，并用 Python 实现它！
-
-towardsdatascience.com](/learning-by-implementing-gaussian-naive-bayes-3f0e3d2c01b2) 
+[](/understanding-by-implementing-k-nearest-neighbors-469d6f84b8a9)  [](/learning-by-implementing-gaussian-naive-bayes-3f0e3d2c01b2)  
 
 我希望你今天学到了新的、有趣的、有用的东西。感谢阅读！
 

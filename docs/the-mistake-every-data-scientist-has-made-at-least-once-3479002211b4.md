@@ -105,8 +105,4 @@
 
 点击此处开始使用 Google Cloud Vision API 和 AutoML Vision [:](https://bit.ly/googlecloudvision)
 
-[](https://bit.ly/googlecloudvision) [## 视觉人工智能|通过 ML 获得图像洞察力|云视觉 API |谷歌云
-
-### 今天见面，明天见面。加入我们 10 月 11 日至 13 日的 Google Cloud Next。立即注册使用 AutoML……
-
-bit.ly](https://bit.ly/googlecloudvision)
+[](https://bit.ly/googlecloudvision) 

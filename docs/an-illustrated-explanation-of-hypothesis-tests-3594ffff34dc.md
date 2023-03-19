@@ -109,12 +109,4 @@ GitHub 代码:【https://tinyurl.com/3csp5ejm
 
 如果你喜欢这个内容，请关注我的博客。
 
-[](https://gustavorsantos.medium.com/) [## 古斯塔沃·桑托斯-中等
-
-### 阅读古斯塔夫·桑托斯在媒介上的作品。数据科学家。我从数据中提取见解，以帮助个人和公司…
-
-gustavorsantos.medium.com](https://gustavorsantos.medium.com/) [](https://en.wikipedia.org/wiki/Statistical_hypothesis_testing) [## 统计假设检验-维基百科
-
-### 统计假设检验是一种统计推断方法，用于决定手头的数据是否充分…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Statistical_hypothesis_testing)
+[](https://gustavorsantos.medium.com/)  [](https://en.wikipedia.org/wiki/Statistical_hypothesis_testing) 

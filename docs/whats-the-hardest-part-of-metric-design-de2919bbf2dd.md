@@ -54,11 +54,7 @@
 
 在这里欣赏课程播放列表，它被分成 120 个单独的一口大小的课程视频:[bit.ly/machinefriend](http://bit.ly/machinefriend)
 
-[](https://kozyrkov.medium.com/membership) [## 加入介质
-
-### 阅读 Cassie Kozyrkov(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-kozyrkov.medium.com](https://kozyrkov.medium.com/membership) 
+[](https://kozyrkov.medium.com/membership)  
 
 # 喜欢作者？与凯西·科兹尔科夫联系
 

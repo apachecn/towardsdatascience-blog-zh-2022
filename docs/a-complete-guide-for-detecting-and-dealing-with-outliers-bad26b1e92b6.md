@@ -287,11 +287,7 @@ total_bill 列不再是连续变量。现在它是一个分类变量。
 
 处理异常值的另一种方法是将它们视为空值，并使用填充空值的技术来填充它们。在这里，您可以找到处理空值的提示:
 
-[](/6-tips-for-dealing-with-null-values-e16d1d1a1b33) [## 处理空值的 6 个技巧
-
-### 包括迭代方法、平均值和中值填充以及分组依据、平均值和中值填充
-
-towardsdatascience.com](/6-tips-for-dealing-with-null-values-e16d1d1a1b33) 
+[](/6-tips-for-dealing-with-null-values-e16d1d1a1b33)  
 
 ## 结论
 
@@ -299,28 +295,4 @@ towardsdatascience.com](/6-tips-for-dealing-with-null-values-e16d1d1a1b33)
 
 ## 更多阅读
 
-[](https://pub.towardsai.net/data-analysis-91a38207c92b) [## 数据分析
-
-### Python 中数据科学家/分析师日常工作中的常见数据清理任务
-
-pub.towardsai.net](https://pub.towardsai.net/data-analysis-91a38207c92b) [](/details-of-violinplot-and-relplot-in-seaborn-30c63de23a15) [## Seaborn 的 Violinplot 和 Relplot 的细节
-
-### 充分发挥潜力在 Seaborn 使用小提琴和 Relplots
-
-towardsdatascience.com](/details-of-violinplot-and-relplot-in-seaborn-30c63de23a15) [](/simple-explanation-on-how-decision-tree-algorithm-makes-decisions-34f56be344e9) [## 浅谈决策树算法如何决策
-
-### 决策树算法背后的直觉
-
-towardsdatascience.com](/simple-explanation-on-how-decision-tree-algorithm-makes-decisions-34f56be344e9) [](/regression-in-tensorflow-using-both-sequential-and-function-apis-314e74b537ca) [## TensorFlow 中使用顺序 API 和函数 API 的回归
-
-### 演示几种不同类型的模型结构
-
-towardsdatascience.com](/regression-in-tensorflow-using-both-sequential-and-function-apis-314e74b537ca) [](/20-very-commonly-used-functions-of-pyspark-rdd-90b8271c25b2) [## PySpark RDD 的 20 个非常常用的功能
-
-### 每个功能都用清晰的例子演示
-
-towardsdatascience.com](/20-very-commonly-used-functions-of-pyspark-rdd-90b8271c25b2) [](/animated-and-racing-bar-plots-tutorial-7967a45c4753) [## 动画和赛车酒吧情节教程
-
-### 完整的工作代码
-
-towardsdatascience.com](/animated-and-racing-bar-plots-tutorial-7967a45c4753)
+[](https://pub.towardsai.net/data-analysis-91a38207c92b)  [](/details-of-violinplot-and-relplot-in-seaborn-30c63de23a15)  [](/simple-explanation-on-how-decision-tree-algorithm-makes-decisions-34f56be344e9)  [](/regression-in-tensorflow-using-both-sequential-and-function-apis-314e74b537ca)  [](/20-very-commonly-used-functions-of-pyspark-rdd-90b8271c25b2)  [](/animated-and-racing-bar-plots-tutorial-7967a45c4753) 

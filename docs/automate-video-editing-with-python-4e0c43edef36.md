@@ -153,24 +153,12 @@
 
 如果你对数据分析和供应链感兴趣，可以看看我的网站
 
-[](https://samirsaci.com) [## Samir Saci |数据科学与生产力
-
-### 专注于数据科学、个人生产力、自动化、运筹学和可持续发展的技术博客
-
-samirsaci.com](https://samirsaci.com) 
+[](https://samirsaci.com)  
 
 我在一个专门的 Youtube 频道上分享了其他关于自动化手工任务的视频教程，如 PowerPoint、平面设计或商业规划。
 
-[](https://www.youtube.com/channel/UCiYf8BKpRmuPMLnoic74LyA/videos) [## 生产数据
-
-### 在这个频道，我分享了如何使用数据分析、python 或任何其他编程语言来自动化无聊的技巧…
-
-www.youtube.com](https://www.youtube.com/channel/UCiYf8BKpRmuPMLnoic74LyA/videos) 
+[](https://www.youtube.com/channel/UCiYf8BKpRmuPMLnoic74LyA/videos)  
 
 如果您想了解更多有关生产力和任务自动化数据分析的信息，
 
-[](http://samirsaci.com) [## Samir Saci |数据科学与生产力
-
-### 专注于数据科学、个人生产力、自动化、运筹学和可持续发展的技术博客
-
-samirsaci.com](http://samirsaci.com)
+[](http://samirsaci.com) 

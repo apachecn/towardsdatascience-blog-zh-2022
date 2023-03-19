@@ -130,14 +130,6 @@ Yellowbrick Python 库为使用 Scikit-learn 开发的模型提供了一种创�
 
 如果您想了解更多关于单一评估指标的内容，我之前写过一篇文章，讨论了分类评估指标，还有一篇文章讨论了回归评估指标。
 
-[](/8-metrics-to-measure-classification-performance-984d9d7fd7aa) [## 衡量分类性能的 8 项指标
-
-### …用简单的英语解释
-
-towardsdatascience.com](/8-metrics-to-measure-classification-performance-984d9d7fd7aa) [](/3-evaluation-metrics-for-regression-80cb34cee0e8) [## 回归的 3 个评估指标
-
-### …用简单的英语解释
-
-towardsdatascience.com](/3-evaluation-metrics-for-regression-80cb34cee0e8) 
+[](/8-metrics-to-measure-classification-performance-984d9d7fd7aa)  [](/3-evaluation-metrics-for-regression-80cb34cee0e8)  
 
 感谢阅读！

@@ -65,19 +65,11 @@
 
 不确定接下来要读什么？我为你挑选了另一篇文章:
 
-[](/the-5-best-data-science-books-you-should-read-in-2022-9209616c203f) [## 2022 年你应该阅读的 5 本最佳数据科学书籍
-
-### 以下是我喜欢的最好的数据科学书籍
-
-towardsdatascience.com](/the-5-best-data-science-books-you-should-read-in-2022-9209616c203f) 
+[](/the-5-best-data-science-books-you-should-read-in-2022-9209616c203f)  
 
 **还有一个:**
 
-[](/over-100-data-scientist-interview-questions-and-answers-c5a66186769a) [## 超过 100 个数据科学家面试问题和答案！
-
-### 来自亚马逊、谷歌、脸书、微软等公司的面试问题！
-
-towardsdatascience.com](/over-100-data-scientist-interview-questions-and-answers-c5a66186769a) 
+[](/over-100-data-scientist-interview-questions-and-answers-c5a66186769a)  
 
 ## -特伦斯·申
 

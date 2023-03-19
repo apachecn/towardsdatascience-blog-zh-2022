@@ -211,31 +211,11 @@ Lee 建议质量差的文章设法发表(因为经过一些修改后，它们会
 
 **这是我的 GitHub 知识库的链接，我计划在这里收集代码和许多与机器学习、人工智能等相关的资源。**
 
-**[](https://github.com/SalvatoreRa/tutorial) [## GitHub - SalvatoreRa/tutorial:关于机器学习、人工智能、数据科学的教程…
-
-### 关于机器学习、人工智能、数据科学的教程，包括数学解释和可重复使用的代码(python…
-
-github.com](https://github.com/SalvatoreRa/tutorial) 
+**[](https://github.com/SalvatoreRa/tutorial)  
 
 或者随意查看我在 Medium 上的其他文章:
 
-[](/machine-learning-a-friend-or-a-foe-for-science-9c0b421eabd8) [## 机器学习:科学的朋友还是敌人？
-
-### 机器学习如何影响科学再现性以及如何解决它
-
-towardsdatascience.com](/machine-learning-a-friend-or-a-foe-for-science-9c0b421eabd8) [](/how-ai-could-fuel-global-warming-8f6e1dda6711) [## 人工智能如何加剧全球变暖
-
-### 新的大型模型是能源密集型的。他们的训练需要多少二氧化碳？
-
-towardsdatascience.com](/how-ai-could-fuel-global-warming-8f6e1dda6711) [](/speaking-the-language-of-life-how-alphafold2-and-co-are-changing-biology-97cff7496221) [## 说生命的语言:AlphaFold2 和公司如何改变生物学
-
-### 人工智能正在重塑生物学研究，并开辟治疗的新领域
-
-towardsdatascience.com](/speaking-the-language-of-life-how-alphafold2-and-co-are-changing-biology-97cff7496221) [](/googles-minerva-solving-math-problems-with-ai-4f0a6aaabaf1) [## 谷歌的 Minerva，用 AI 解决数学问题
-
-### 定量推理对人类来说很难，对计算机来说也很难。密涅瓦刚刚在解决…
-
-towardsdatascience.com](/googles-minerva-solving-math-problems-with-ai-4f0a6aaabaf1) 
+[](/machine-learning-a-friend-or-a-foe-for-science-9c0b421eabd8)  [](/how-ai-could-fuel-global-warming-8f6e1dda6711)  [](/speaking-the-language-of-life-how-alphafold2-and-co-are-changing-biology-97cff7496221)  [](/googles-minerva-solving-math-problems-with-ai-4f0a6aaabaf1)  
 
 **附加资源**
 

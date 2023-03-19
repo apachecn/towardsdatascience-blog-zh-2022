@@ -62,24 +62,8 @@
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership) 
+[](https://gmyrianthous.medium.com/membership)  
 
 **相关文章你可能也喜欢**
 
-[](/data-lakes-vs-data-warehouses-47444228604c) [## 数据湖与数据仓库
-
-### 数据湖和仓库有什么区别？
-
-towardsdatascience.com](/data-lakes-vs-data-warehouses-47444228604c) [](https://pub.towardsai.net/object-storage-521d5454d2d) [## 对象存储对于大数据是否高效？
-
-### 使用对象存储来存储、归档和管理数据
-
-pub.towardsai.net](https://pub.towardsai.net/object-storage-521d5454d2d) [](https://betterprogramming.pub/kafka-cli-commands-1a135a4ae1bd) [## 用于日常编程的 15 个 Kafka CLI 命令
-
-### 演示最常用的 Kafka 命令行界面命令的使用
-
-better 编程. pub](https://betterprogramming.pub/kafka-cli-commands-1a135a4ae1bd)
+[](/data-lakes-vs-data-warehouses-47444228604c)  [](https://pub.towardsai.net/object-storage-521d5454d2d)  [](https://betterprogramming.pub/kafka-cli-commands-1a135a4ae1bd) 

@@ -64,16 +64,4 @@
 
 *如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，medium 允许你每月免费阅读* ***3 篇*** *。如果你希望有****无限制的*** *访问我的文章和数以千计的精彩文章，不要犹豫，点击我的推荐链接:*[【https://medium.com/@niklas_lang/membership】](https://medium.com/@niklas_lang/membership)每月花$***5****获得会员资格**
 
-*[](/introduction-to-apache-hadoop-distributed-file-system-99cb98d175c) [## Apache Hadoop 分布式文件系统简介
-
-### 关于这个 Hadoop 组件，您需要了解的一切
-
-towardsdatascience.com](/introduction-to-apache-hadoop-distributed-file-system-99cb98d175c) [](/stemming-vs-lemmatization-in-nlp-dea008600a0) [## 自然语言处理中的词干化与词汇化
-
-### 面向自然语言理解的文本预处理中如何规范词语
-
-towardsdatascience.com](/stemming-vs-lemmatization-in-nlp-dea008600a0) [](/why-you-should-know-big-data-3c0c161b9e14) [## 为什么您应该了解大数据
-
-### 定义大数据及其潜在威胁
-
-towardsdatascience.com](/why-you-should-know-big-data-3c0c161b9e14)*
+*[](/introduction-to-apache-hadoop-distributed-file-system-99cb98d175c)  [](/stemming-vs-lemmatization-in-nlp-dea008600a0)  [](/why-you-should-know-big-data-3c0c161b9e14) *

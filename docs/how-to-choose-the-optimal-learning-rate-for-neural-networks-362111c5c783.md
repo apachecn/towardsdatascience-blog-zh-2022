@@ -253,27 +253,15 @@ model.compile(**optimizer=RMSprop(learning_rate=0.005)**,...)**
 
 *   ****Keras 优化器中的学习率计划和衰减****
 
-**[](https://rukshanpramoditha.medium.com/learning-rate-schedules-and-decay-in-keras-optimizers-f68bf91de57d) [## Keras 优化器中的学习率计划和衰减
-
-### 培训期间更改学习率的选项
-
-rukshanpramoditha.medium.com](https://rukshanpramoditha.medium.com/learning-rate-schedules-and-decay-in-keras-optimizers-f68bf91de57d) 
+**[](https://rukshanpramoditha.medium.com/learning-rate-schedules-and-decay-in-keras-optimizers-f68bf91de57d)  
 
 *   **神经网络超参数分类**
 
-[](/classification-of-neural-network-hyperparameters-c7991b6937c3) [## 神经网络超参数的分类
-
-### 受网络结构、学习和优化以及正则化效应的影响
-
-towardsdatascience.com](/classification-of-neural-network-hyperparameters-c7991b6937c3) 
+[](/classification-of-neural-network-hyperparameters-c7991b6937c3)  
 
 *   **参数 Vs 超参数:有什么区别？**
 
-[](https://rukshanpramoditha.medium.com/parameters-vs-hyperparameters-what-is-the-difference-5f40e16e2e82) [## 参数 Vs 超参数:区别是什么？
-
-### 用 4 个不同的例子进行讨论
-
-rukshanpramoditha.medium.com](https://rukshanpramoditha.medium.com/parameters-vs-hyperparameters-what-is-the-difference-5f40e16e2e82) 
+[](https://rukshanpramoditha.medium.com/parameters-vs-hyperparameters-what-is-the-difference-5f40e16e2e82)  
 
 *   **全集我的** [**神经网络与深度学习教程**](https://rukshanpramoditha.medium.com/list/neural-networks-and-deep-learning-course-a2779b9c3f75)
 
@@ -285,11 +273,7 @@ rukshanpramoditha.medium.com](https://rukshanpramoditha.medium.com/parameters-vs
 
 **我希望你喜欢阅读这篇文章。如果你愿意支持我成为一名作家，请考虑 [***注册会员***](https://rukshanpramoditha.medium.com/membership) *以获得无限制的媒体访问权限。它只需要每月 5 美元，我会收到你的会员费的一部分。***
 
-**[](https://rukshanpramoditha.medium.com/membership) [## 通过我的推荐链接加入 Medium
-
-### 阅读 Rukshan Pramoditha(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接…
-
-rukshanpramoditha.medium.com](https://rukshanpramoditha.medium.com/membership) 
+**[](https://rukshanpramoditha.medium.com/membership)  
 
 非常感谢你一直以来的支持！下一篇文章再见。祝大家学习愉快！** 
 

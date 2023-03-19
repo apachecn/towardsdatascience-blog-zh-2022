@@ -100,8 +100,4 @@ m .科萨克和 b .奥托卡(2013 年)。关于著名的虹膜数据我们应该
 
 威克姆等人(2019)。欢迎来到 tidyverse。《开放源码软件杂志》，4 卷 43 期，1686 页，【https://doi.org/10.21105/joss.01686 
 
-[](https://medium.com/@nyggus/membership) [## 通过我的推荐链接加入媒体——玛茜·科萨克
-
-### 阅读马尔钦·科萨克(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-medium.com](https://medium.com/@nyggus/membership)
+[](https://medium.com/@nyggus/membership) 

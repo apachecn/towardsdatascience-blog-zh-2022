@@ -59,11 +59,7 @@ fake.text()
 
 在 Faker 库术语中，上述每种类型的“生成器”都被称为“提供者”。供应商太多了，我无法一一列举。然而，当您继续阅读时，可以在本文的其余部分找到一些新的提供者。如果您想获得它们的完整列表，文档总是您的好朋友。
 
- [## 欢迎来到 Faker 的文档！- Faker 13.3.3 文件
-
-### Faker 是一个为你生成假数据的 Python 包。无论您是否需要引导数据库，创建…
-
-faker.readthedocs.io](https://faker.readthedocs.io/en/stable/) 
+  
 
 # 2.批量生成
 
@@ -129,11 +125,7 @@ Faker 有许多内置的提供程序，可以在大多数时候满足我们的�
 
 然而，如果事实证明我们找不到我们需要的提供商呢？不要担心，Faker 已经开放了它的“协议”,以便社区可以贡献更多的提供商。在 Faker，他们称这些为“扩展提供商”。这是目前为止他们的名单。
 
- [## 社区提供商- Faker 13.3.3 文档
-
-### 这里有一个由社区编写的提供者列表:如果你想将你自己的提供者添加到这个列表中，请提交一个…
-
-faker.readthedocs.io](https://faker.readthedocs.io/en/stable/communityproviders.html) 
+  
 
 我将选择这辆车作为展示的例子。Faker 无法生成车辆品牌、型号等，但已经有一个扩展提供商可以提供帮助。
 
@@ -286,10 +278,6 @@ fake = Faker()for _ in range(5):
 
 在本文中，我介绍了 Faker 库，它是 Python 社区中令人惊叹的反重力库之一。它确实非常容易使用，而且会非常有用。当你只需要一些哑数据，并且不关心数据的分布时，可以考虑先用 Faker。
 
-[](https://medium.com/@qiuyujx/membership) [## 通过我的推荐链接加入灵媒-陶
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@qiuyujx/membership) 
+[](https://medium.com/@qiuyujx/membership)  
 
 如果你觉得我的文章有帮助，请考虑加入 Medium 会员来支持我和成千上万的其他作者！(点击上面的链接)

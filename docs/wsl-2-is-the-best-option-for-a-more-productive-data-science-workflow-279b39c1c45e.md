@@ -70,11 +70,7 @@ WSL 2 让我可以在相关的任务之间无缝切换，并把所有事情都�
 
 如果您喜欢这篇文章，记得在 Medium 上关注我以获取更多类似的内容，[注册我的简讯](https://www.kennethjee.com/newsletter)以获得我的内容创作和数据科学行业其他学习资源的每周更新！此外，考虑通过注册会员来支持我和成千上万的其他作家[。](https://medium.com/@kenneth.b.jee/membership)
 
-[](https://medium.com/@kenneth.b.jee/membership) [## 通过我的推荐链接加入媒体-肯吉
-
-### 阅读肯·吉(以及媒体上成千上万的其他作家)的每一个故事。你的会员费直接支持肯吉…
-
-medium.com](https://medium.com/@kenneth.b.jee/membership) 
+[](https://medium.com/@kenneth.b.jee/membership)  
 
 下次再见，祝您的数据科学之旅好运！
 

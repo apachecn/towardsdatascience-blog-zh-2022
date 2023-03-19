@@ -18,19 +18,11 @@
 
 如果你在那个位置，或者想加强你的 Matplotlib 游戏，我有你需要的指南。我会告诉你如何深入 Matplotlib 丛林的根部，放一把火，然后乘着喷气背包飞出去了。你准备好了吗？开始吧！
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-BEXGBoost
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。支持我的工作，给我买一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+[](https://ibexorigin.medium.com/membership)  
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex) [## 阿尔法信号|机器学习的极品。艾总结的。
-
-### 留在循环中，不用花无数时间浏览下一个突破；我们的算法识别…
-
-alphasignal.ai](https://alphasignal.ai/?referrer=Bex) 
+[](https://alphasignal.ai/?referrer=Bex)  
 
 # 艺术家创造了 Matplotlib
 
@@ -225,32 +217,8 @@ ax = axes_list[0]
 
 我希望这三种技能都来自你。我的部分是展示如何使用 Python 生态系统中最强大的绘图库之一来补充这些技能。我已经教了你一个强大的迭代过程，使你能够以智能和结构化的方式改进 Matplotlib 图。
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium。
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。你可以给我买一个 coffee☕，用你的…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) [](https://ibexorigin.medium.com/subscribe) [## 每当 Bex T .发布时收到电子邮件。
-
-### 每当 Bex T .发布时收到电子邮件。注册后，如果您还没有中型帐户，您将创建一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/subscribe) 
+[](https://ibexorigin.medium.com/membership)  [](https://ibexorigin.medium.com/subscribe)  
 
 # 您可能会对这些热门话题感兴趣…
 
-[](/10-sklearn-gems-buried-in-the-docs-waiting-to-be-found-ad95a8fabdfd) [## 埋藏在文档中等待被发现的 10 颗 Sklearn 宝石
-
-### 隐藏的宝藏
-
-towardsdatascience.com](/10-sklearn-gems-buried-in-the-docs-waiting-to-be-found-ad95a8fabdfd) [](https://ibexorigin.medium.com/python-became-the-language-of-the-year-3-times-in-4-years-it-wont-be-this-year-e5c724758ef) [## Python 在 4 年内 3 次成为“年度语言”。今年不会了
-
-### 猜猜会是哪种语言。
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/python-became-the-language-of-the-year-3-times-in-4-years-it-wont-be-this-year-e5c724758ef) [](/matplotlib-vs-plotly-lets-decide-once-and-for-all-dc3eca9aa011) [## Matplotlib vs. Plotly:让我们决定一劳永逸
-
-### 从 7 个关键方面进行深入快速的比较
-
-towardsdatascience.com](/matplotlib-vs-plotly-lets-decide-once-and-for-all-dc3eca9aa011) [](https://ibexorigin.medium.com/how-to-use-matplotlib-annotations-like-you-know-what-you-are-doing-da61e397cce3) [## 如何像知道自己在做什么一样使用 Matplotlib 注释
-
-### 了解如何将文本放置在绘图上的任意位置并绘制箭头
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/how-to-use-matplotlib-annotations-like-you-know-what-you-are-doing-da61e397cce3)
+[](/10-sklearn-gems-buried-in-the-docs-waiting-to-be-found-ad95a8fabdfd)  [](https://ibexorigin.medium.com/python-became-the-language-of-the-year-3-times-in-4-years-it-wont-be-this-year-e5c724758ef)  [](/matplotlib-vs-plotly-lets-decide-once-and-for-all-dc3eca9aa011)  [](https://ibexorigin.medium.com/how-to-use-matplotlib-annotations-like-you-know-what-you-are-doing-da61e397cce3) 

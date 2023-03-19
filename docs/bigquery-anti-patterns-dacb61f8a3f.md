@@ -73,11 +73,7 @@
 
 关于 OLAP 和 OLTP 系统之间的主要区别的更多细节，您可以阅读我最近的一篇文章。
 
-[](/oltp-vs-olap-9ac334baa370) [## OLTP 与 OLAP:他们的区别是什么
-
-### 在数据处理系统的上下文中理解 OLTP 和 OLAP 之间的区别
-
-towardsdatascience.com](/oltp-vs-olap-9ac334baa370) 
+[](/oltp-vs-olap-9ac334baa370)  
 
 ## 最后的想法
 
@@ -94,24 +90,8 @@ towardsdatascience.com](/oltp-vs-olap-9ac334baa370)
 
 [**成为会员**](https://gmyrianthous.medium.com/membership) **阅读介质上的每一个故事。你的会员费直接支持我和你看的其他作家。你也可以在媒体上看到所有的故事。**
 
-[](https://gmyrianthous.medium.com/membership) [## 通过我的推荐链接加入 Medium-Giorgos Myrianthous
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-gmyrianthous.medium.com](https://gmyrianthous.medium.com/membership) 
+[](https://gmyrianthous.medium.com/membership)  
 
 **相关文章您可能也喜欢**
 
-[](/visual-sql-joins-4e3899d9d46c) [## SQL 连接的直观解释
-
-### 用维恩图和实际例子理解 SQL 连接
-
-towardsdatascience.com](/visual-sql-joins-4e3899d9d46c) [](/2-rules-groupby-sql-6ff20b22fd2c) [## 在 SQL 中使用 GROUP BY 时要遵循的 2 条规则
-
-### 了解 GROUP BY 子句中要包含哪些列，以及如何在 WHERE 子句中包含聚合
-
-towardsdatascience.com](/2-rules-groupby-sql-6ff20b22fd2c) [](/sql-select-distinct-277c61012800) [## DISTINCT 不是 SQL 函数
-
-### 在 SQL 中使用 DISTINCT 关键字时，括号的使用如何会导致混淆
-
-towardsdatascience.com](/sql-select-distinct-277c61012800)
+[](/visual-sql-joins-4e3899d9d46c)  [](/2-rules-groupby-sql-6ff20b22fd2c)  [](/sql-select-distinct-277c61012800) 

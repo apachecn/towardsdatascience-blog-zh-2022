@@ -119,8 +119,4 @@ def my_function(i1, i2, ...):
 
 如果你从这些文章中获得了价值，并且还不是 medium 会员，考虑使用下面的链接注册 Medium！👇
 
-[](https://medium.com/@riandolphin/membership) [## 加入我的推荐链接-海豚
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@riandolphin/membership)
+[](https://medium.com/@riandolphin/membership) 

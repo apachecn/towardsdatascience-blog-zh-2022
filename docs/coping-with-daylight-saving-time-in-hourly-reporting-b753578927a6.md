@@ -158,8 +158,4 @@ Yianni Mathioudakis 在 [Unsplash](https://unsplash.com?utm_source=medium&utm_me
 
 这取决于你和你的用户来制定细节以应对时间的转换。
 
-[](https://medium.com/@salvatorecagliari/membership) [## 通过我的推荐链接加入 Medium-Salvatore Cagliari
-
-### 阅读萨尔瓦托勒·卡利亚里的每一个故事(以及媒体上成千上万的其他作家)。您的会员费直接…
-
-medium.com](https://medium.com/@salvatorecagliari/membership)
+[](https://medium.com/@salvatorecagliari/membership) 

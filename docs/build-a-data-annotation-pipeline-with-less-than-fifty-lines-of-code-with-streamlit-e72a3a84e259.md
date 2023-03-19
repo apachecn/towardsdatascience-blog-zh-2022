@@ -22,11 +22,7 @@
 
 对于我们的示例用例，我们想要为分类任务标记图像。这可以是你选择的数据集，例如, [fashion-mnist](https://github.com/zalandoresearch/fashion-mnist) 集合。对于本教程，我使用我自己的一些数据。前段时间写了下面这篇关于骰子随机性的文章，记录了~ 3000 张随机投掷的图像(*。png 图片，640 × 480 px)。
 
-[](/christmas-games-how-random-are-dice-969f8a935b18) [## 棋盘游戏:骰子有多随机？
-
-### 用 openCV 和假设检验分析骰子的随机性。
-
-towardsdatascience.com](/christmas-games-how-random-are-dice-969f8a935b18) 
+[](/christmas-games-how-random-are-dice-969f8a935b18)  
 
 下面是显示前三幅图像的数据集预览:
 

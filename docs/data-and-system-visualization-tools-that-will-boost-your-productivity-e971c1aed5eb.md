@@ -88,11 +88,7 @@ git word diff —按作者分类的图像
 
 正如你从上面两个例子中看到的，只要付出足够的努力，你可能会让命令行`git`的体验变得可以忍受，更多类似的技巧请看我以前的文章:
 
-[](https://itnext.io/advanced-git-features-you-didnt-know-you-needed-ed8455c45495) [## 您不知道自己需要的高级 Git 特性
-
-### 你错过了一些很棒的 git 特性，比如 word diff，auto-correct，插件或者提交签名，是时候了…
-
-itnext.io](https://itnext.io/advanced-git-features-you-didnt-know-you-needed-ed8455c45495) 
+[](https://itnext.io/advanced-git-features-you-didnt-know-you-needed-ed8455c45495)  
 
 如果你想完全避免基本的`git` CLI，你可以尝试使用`forgit`——一个交互使用`git`的 TUI:
 
@@ -178,20 +174,8 @@ Forgit —图片来自[文档](https://github.com/wfxr/forgit#-features)
 
 *[成为会员](https://medium.com/@martin.heinz/membership)阅读媒体上的每一个故事。**你的会员费直接支持我和你看的其他作家。你还可以在媒体上看到所有的故事。***
 
-*[](https://medium.com/@martin.heinz/membership) [## 通过我的推荐链接加入媒体-马丁·海因茨
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](https://medium.com/@martin.heinz/membership)* 
+*[](https://medium.com/@martin.heinz/membership) * 
 
 *你可能也喜欢…*
 
-*[](https://betterprogramming.pub/automate-all-the-boring-kubernetes-operations-with-python-7a31bbf7a387) [## 用 Python 自动化所有枯燥的 Kubernetes 操作
-
-### 了解如何使用 Python 的 Kubernetes 客户端库来自动化所有枯燥的 Kubernetes 任务和操作
-
-better 编程. pub](https://betterprogramming.pub/automate-all-the-boring-kubernetes-operations-with-python-7a31bbf7a387) [](/python-f-strings-are-more-powerful-than-you-might-think-8271d3efbd7d) [## Python f-strings 比您想象的更强大
-
-### 了解 Python 的 f 字符串的未知特性——格式化的字符串文字——以及您的文本格式化…
-
-towardsdatascience.com](/python-f-strings-are-more-powerful-than-you-might-think-8271d3efbd7d)*
+*[](https://betterprogramming.pub/automate-all-the-boring-kubernetes-operations-with-python-7a31bbf7a387)  [](/python-f-strings-are-more-powerful-than-you-might-think-8271d3efbd7d) *

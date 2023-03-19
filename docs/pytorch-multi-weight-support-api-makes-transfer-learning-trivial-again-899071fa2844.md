@@ -19,11 +19,7 @@
 5.  在保留的测试数据集上评估您训练的神经网络。您必须以处理定型数据集的相同方式处理测试数据集。任何微小的差异都会导致模型性能的恶化，这是非常难以调试的。
 6.  存储实验的元数据，例如数据集的类名，以便在以后的应用程序中使用它们，甚至执行健全性检查。
 
-[](/xresnet-from-scratch-in-pytorch-e64e309af722) [## Pytorch 中从头开始的 xResNet
-
-### 从你的 ResNet 架构中挤出一点额外的东西。
-
-towardsdatascience.com](/xresnet-from-scratch-in-pytorch-e64e309af722) 
+[](/xresnet-from-scratch-in-pytorch-e64e309af722)  
 
 这就是你说的重点，"*等一下，这不是那么直截了当的！*“你说得对，细节决定成败；如果你什么都自己做，有很多陷阱要避免。
 

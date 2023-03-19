@@ -257,24 +257,4 @@ multiply = lambda x, m: x * m
 
 # 资源
 
- [## PEP 8 风格的 Python 代码指南
-
-### 本文档给出了 Python 代码的编码约定，包括主 Python 中的标准库…
-
-peps.python.org](https://peps.python.org/pep-0008/) [](https://betterprogramming.pub/pythons-type-hinting-friend-foe-or-just-a-headache-73c7849039c7) [## Python 的类型暗示:朋友，敌人，还是只是头痛？
-
-### 类型提示在 Python 社区越来越受欢迎。这将把我们引向何方？我们能做些什么来使用它…
-
-better 编程. pub](https://betterprogramming.pub/pythons-type-hinting-friend-foe-or-just-a-headache-73c7849039c7) [](/lambda-functions-with-practical-examples-in-python-45934f3653a8) [## Python 中的 Lambda 函数及其实例
-
-### 如何、何时使用以及何时不使用 Lambda 函数
-
-towardsdatascience.com](/lambda-functions-with-practical-examples-in-python-45934f3653a8)  [## doctest -测试交互式 Python 示例- Python 3.11.0 文档
-
-### 源代码:Lib/doctest.py 检查模块的文档字符串是否是最新的
-
-docs.python.org](https://docs.python.org/3/library/doctest.html) [](https://medium.com/@nyggus/membership) [## 加入我的介绍链接媒体-马尔钦科萨克
-
-### 阅读马尔钦·科萨克(以及媒体上成千上万的其他作家)的每一个故事。您的会员费直接支持…
-
-medium.com](https://medium.com/@nyggus/membership)
+  [](https://betterprogramming.pub/pythons-type-hinting-friend-foe-or-just-a-headache-73c7849039c7)  [](/lambda-functions-with-practical-examples-in-python-45934f3653a8)    [](https://medium.com/@nyggus/membership) 

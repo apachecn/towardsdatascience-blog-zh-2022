@@ -12,11 +12,7 @@
 
 如果你还没有读第一部分，我建议你先去读一读，然后再回到这一部分。以下是该系列的第一部分:
 
-[](/build-a-blog-website-using-django-rest-framework-overview-part-1-1f847d53753f) [## 使用 Django Rest 框架构建博客网站——概述(第 1 部分)
-
-### 让我们使用 Django Rest 框架构建一个简单的博客网站，了解 DRF 和 REST APIs 如何工作，以及我们如何添加…
-
-towardsdatascience.com](/build-a-blog-website-using-django-rest-framework-overview-part-1-1f847d53753f) 
+[](/build-a-blog-website-using-django-rest-framework-overview-part-1-1f847d53753f)  
 
 在这个系列的第二部分，我们将处理完整的`users`应用程序，然后，在第三部分，我们将完成`posts`应用程序来完成这个网站的后端。
 
@@ -436,20 +432,8 @@ JWT 刷新流程的工作方式如下:
 
 该系列文章的下一部分可以在下面找到:
 
-[](/build-a-blog-website-using-django-rest-framework-posts-app-part-3-7334f75983fc) [## 使用 Django Rest 框架——Posts 应用程序构建一个博客网站(第 3 部分)
-
-### 在第三部分，我们处理应用程序的整个 posts 应用程序，从而完成应用程序的后端。
-
-towardsdatascience.com](/build-a-blog-website-using-django-rest-framework-posts-app-part-3-7334f75983fc) 
+[](/build-a-blog-website-using-django-rest-framework-posts-app-part-3-7334f75983fc)  
 
 读完这篇文章后，我推荐阅读以下系列文章:
 
-[](https://javascript.plainenglish.io/build-an-e-commerce-website-with-mern-stack-part-1-setting-up-the-project-eecd710e2696) [## 让我们建立一个 MERN 堆栈电子商务网络应用程序
-
-### 第 1 部分:设置项目
-
-javascript.plainenglish.io](https://javascript.plainenglish.io/build-an-e-commerce-website-with-mern-stack-part-1-setting-up-the-project-eecd710e2696) [](/build-a-social-media-website-using-django-setup-the-project-part-1-6e1932c9f221) [## 使用 Django 构建一个社交媒体网站——设置项目(第 1 部分)
-
-### 在第一部分中，我们通过设置密码来集中设置我们的项目和安装所需的组件…
-
-towardsdatascience.com](/build-a-social-media-website-using-django-setup-the-project-part-1-6e1932c9f221)
+[](https://javascript.plainenglish.io/build-an-e-commerce-website-with-mern-stack-part-1-setting-up-the-project-eecd710e2696)  [](/build-a-social-media-website-using-django-setup-the-project-part-1-6e1932c9f221) 

@@ -388,11 +388,7 @@ im2[:, :, 2][msk > 0.5] = random.randint(0, 255)
 
 完整的测试代码可以在这里找到:
 
-[](https://github.com/sagieppel/Train_Mask-RCNN-for-object-detection-in_In_60_Lines-of-Code/blob/main/test.py) [## train _ Mask-RCNN-for-object-detection-In _ 60 _ Lines-of-Code/test . py at main…
-
-### 此文件包含双向 Unicode 文本，其解释或编译可能与下面显示的不同…
-
-github.com](https://github.com/sagieppel/Train_Mask-RCNN-for-object-detection-in_In_60_Lines-of-Code/blob/main/test.py) 
+[](https://github.com/sagieppel/Train_Mask-RCNN-for-object-detection-in_In_60_Lines-of-Code/blob/main/test.py)  
 
 使用 PyTorch 屏蔽 RCNN 的教程:
 

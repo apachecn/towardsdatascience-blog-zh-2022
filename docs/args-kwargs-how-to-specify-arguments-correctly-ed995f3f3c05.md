@@ -134,16 +134,4 @@ If I’ve inspired you to join medium I would be really grateful if you did it t
 
 以下是我写的其他一些东西:
 
-[](/econometrics-is-the-original-data-science-6725d3f0d843) [## 计量经济学是原始数据科学
-
-### 这就是为什么你应该了解更多
-
-towardsdatascience.com](/econometrics-is-the-original-data-science-6725d3f0d843) [](/how-to-easily-show-your-matplotlib-plots-and-pandas-dataframes-dynamically-on-your-website-a9613eff7ae3) [## 如何在你的网站上轻松地动态展示你的 Matplotlib 图和熊猫数据框架。
-
-### 一种令人惊讶的简单方法，在线展示你的情节和数据框架，让全世界都能看到——不到……
-
-towardsdatascience.com](/how-to-easily-show-your-matplotlib-plots-and-pandas-dataframes-dynamically-on-your-website-a9613eff7ae3) [](/how-to-easily-run-python-scripts-on-website-inputs-d5167bd4eb4b) [## 如何在网站输入上轻松运行 Python 脚本
-
-### 下面是我建立的一个网站的演练，它将动态分析文本情感
-
-towardsdatascience.com](/how-to-easily-run-python-scripts-on-website-inputs-d5167bd4eb4b)
+[](/econometrics-is-the-original-data-science-6725d3f0d843)  [](/how-to-easily-show-your-matplotlib-plots-and-pandas-dataframes-dynamically-on-your-website-a9613eff7ae3)  [](/how-to-easily-run-python-scripts-on-website-inputs-d5167bd4eb4b) 

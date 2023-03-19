@@ -16,11 +16,7 @@
 
 本文中使用的所有示例都可以在我的 github 资源库中找到:
 
-[](https://github.com/vinyluis/Articles/tree/main/Decile%20Gain%20Lift) [## 物品/十分之一在主要乙烯基/物品处获得提升
-
-### 文章:用提升、收益和十分位数分析评估模型的潜在回报
-
-github.com](https://github.com/vinyluis/Articles/tree/main/Decile%20Gain%20Lift) 
+[](https://github.com/vinyluis/Articles/tree/main/Decile%20Gain%20Lift)  
 
 # 十分位数分析
 
@@ -137,8 +133,4 @@ sns.barplot(x = "decile", y = "profit_percent", data = grp_product_profit, order
 
 看看这个很棒的帖子
 
-[](/comparing-sample-distributions-with-the-kolmogorov-smirnov-ks-test-a2292ad6fee5) [## 用 Kolmogorov-Smirnov (KS)检验比较样本分布
-
-### 如何使用 python 比较样本并了解它们是否来自同一个发行版
-
-towardsdatascience.com](/comparing-sample-distributions-with-the-kolmogorov-smirnov-ks-test-a2292ad6fee5)
+[](/comparing-sample-distributions-with-the-kolmogorov-smirnov-ks-test-a2292ad6fee5) 

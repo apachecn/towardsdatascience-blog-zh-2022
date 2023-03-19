@@ -443,21 +443,13 @@ hessian_r <-  (219 * 0.513) * exp(0.7)
 
 这是一个令人满意的项目，我希望你发现结果有用！
 
-[](https://matepocs.medium.com/membership) [## 加入我的推荐链接-伴侣概念
-
-### 阅读 Mate Pocs(以及媒体上成千上万的其他作者)的每一个故事。你的会员费直接支持 Mate…
-
-matepocs.medium.com](https://matepocs.medium.com/membership) 
+[](https://matepocs.medium.com/membership)  
 
 # 来源
 
 我通常认为 XGBoost 文档是一个非常好的起点，尽管它没有考虑 L1 规范:
 
-[](https://xgboost.readthedocs.io/en/stable/tutorials/model.html) [## 升压树简介- xgboost 1.6.2 文档
-
-### XGBoost 代表“极端梯度增强”，其中术语“梯度增强”源于论文 Greedy…
-
-xgboost.readthedocs.io](https://xgboost.readthedocs.io/en/stable/tutorials/model.html) 
+[](https://xgboost.readthedocs.io/en/stable/tutorials/model.html)  
 
 除此之外，我还使用了 LightGBM 包中的源代码。我认为值得看一看幕后发生了什么。这个脚本的`GetLeafGain`功能非常关键:
 

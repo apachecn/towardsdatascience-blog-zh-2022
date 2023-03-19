@@ -144,34 +144,6 @@ numpy=1.20.1
 
 如果你喜欢这篇文章，你可能也会喜欢。
 
-[](/link-prediction-recommendation-engines-with-node2vec-c97c429351a8) [## 使用 Node2Vec 的链接预测推荐引擎
-
-### 使用节点嵌入进行链路预测
-
-towardsdatascience.com](/link-prediction-recommendation-engines-with-node2vec-c97c429351a8) [](/word2vec-explained-49c52b4ccb71) [## Word2Vec 解释道
-
-### 解释 Word2Vec 的直观性&用 Python 实现它
-
-towardsdatascience.com](/word2vec-explained-49c52b4ccb71) [](/recommendation-systems-explained-a42fc60591ed) [## 推荐系统解释
-
-### 用 Python 解释和实现基于内容的协同过滤和混合推荐系统
-
-towardsdatascience.com](/recommendation-systems-explained-a42fc60591ed) [](/optimize-training-predicting-sk-learn-models-in-python-with-sparse-matrices-1612072a025d) [## 使用稀疏矩阵优化 Python 中 SK-Learn 模型的训练和预测
-
-### 使用稀疏矩阵训练 SK-Learn 模型的速度提高了 40 倍
-
-towardsdatascience.com](/optimize-training-predicting-sk-learn-models-in-python-with-sparse-matrices-1612072a025d) [](https://pub.towardsai.net/dynamic-time-warping-explained-fbb24c1e079b) [## 动态时间扭曲解释
-
-### 动态时间扭曲背后的直觉&股票数据的 Python 实现
-
-pub.towardsai.net](https://pub.towardsai.net/dynamic-time-warping-explained-fbb24c1e079b) [](/mining-modelling-character-networks-part-ii-a3d77de89638) [## 挖掘和模拟字符网络—第二部分
-
-### 本文将介绍挖掘和建模字符网络的 Python 实现
-
-towardsdatascience.com](/mining-modelling-character-networks-part-ii-a3d77de89638) [](/monte-carlo-method-explained-8635edf2cf58) [## 蒙特卡罗方法解释
-
-### 在这篇文章中，我将向你介绍、解释和实现蒙特卡罗方法。这种模拟方法是一种…
-
-towardsdatascience.com](/monte-carlo-method-explained-8635edf2cf58) [](/bayesian-a-b-testing-explained-344a6df88c1a) [## 贝叶斯 A/B 测试解释
+[](/link-prediction-recommendation-engines-with-node2vec-c97c429351a8)  [](/word2vec-explained-49c52b4ccb71)  [](/recommendation-systems-explained-a42fc60591ed)  [](/optimize-training-predicting-sk-learn-models-in-python-with-sparse-matrices-1612072a025d)  [](https://pub.towardsai.net/dynamic-time-warping-explained-fbb24c1e079b)  [](/mining-modelling-character-networks-part-ii-a3d77de89638)  [](/monte-carlo-method-explained-8635edf2cf58)  [](/bayesian-a-b-testing-explained-344a6df88c1a) [## 贝叶斯 A/B 测试解释
 
 towardsdatascience.com](/bayesian-a-b-testing-explained-344a6df88c1a)

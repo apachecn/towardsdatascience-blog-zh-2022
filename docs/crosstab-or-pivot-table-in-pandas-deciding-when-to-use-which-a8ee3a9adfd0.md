@@ -10,11 +10,7 @@
 
 在这个演示中，我将引用一个个人数据源:我在 LinkedIn 上的发帖活动。这篇相关文章展示了如何自己查找和访问这些数据。
 
-[](/linkedin-the-best-example-data-source-you-never-knew-737d624f24b7) [## LinkedIn:你从来不知道的最好的示例数据源
-
-### 使用本指南了解和浏览 LinkedIn 允许您从个人资料中下载的数据
-
-towardsdatascience.com](/linkedin-the-best-example-data-source-you-never-knew-737d624f24b7) 
+[](/linkedin-the-best-example-data-source-you-never-knew-737d624f24b7)  
 
 # 数据
 

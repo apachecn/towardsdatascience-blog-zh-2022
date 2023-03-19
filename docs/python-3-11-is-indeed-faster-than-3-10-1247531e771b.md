@@ -18,11 +18,7 @@ Python 3.11 重新发布版出来了。我很想知道里面有什么新东西�
 
 我在运行 Python 的生产系统上工作没有任何问题。但是 Python 速度不快的事实困扰着我。出于性能原因，我们总是需要使用 Cython 或 Tuplex 来转换关键代码。
 
-[](/challenging-cython-the-python-module-for-high-performance-computing-2e0f874311c0) [## 挑战 cy thon——高性能计算的 Python 模块。
-
-### 现代的替代方案看起来很有希望，Python 可以以闪电般的速度运行。
-
-towardsdatascience.com](/challenging-cython-the-python-module-for-high-performance-computing-2e0f874311c0) 
+[](/challenging-cython-the-python-module-for-high-performance-computing-2e0f874311c0)  
 
 随着 Python 3.11 的发布，我相信它会走到尽头。
 
@@ -34,11 +30,7 @@ towardsdatascience.com](/challenging-cython-the-python-module-for-high-performan
 
 首先，让我们用一些斐波纳契数来试试。
 
-[](/how-to-speed-up-python-data-pipelines-up-to-91x-80d7accfe7ec) [## 如何将 Python 数据管道加速到 91X？
-
-### 一个 5 分钟的教程可以为您的大数据项目节省数月时间。
-
-towardsdatascience.com](/how-to-speed-up-python-data-pipelines-up-to-91x-80d7accfe7ec) 
+[](/how-to-speed-up-python-data-pipelines-up-to-91x-80d7accfe7ec)  
 
 # 如何安装 Python 3.11 预发布版本？
 
@@ -51,11 +43,7 @@ $ sudo add-apt-repository ppa:deadsnakes/ppa$ sudo apt install Python3.11
 
 在这篇文章中，我不得不经常在两个版本之间切换。因此，我创建了单独的虚拟环境来存放两个 Python 版本。
 
-[](/poetry-to-complement-virtualenv-44088cc78fd1) [## 你不会还在用 Virtualenv 吧？
-
-### 有一种更好的方法来管理依赖项、打包和发布 Python 项目。
-
-towardsdatascience.com](/poetry-to-complement-virtualenv-44088cc78fd1) 
+[](/poetry-to-complement-virtualenv-44088cc78fd1)  
 
 我们可以用下面的命令来完成:
 
@@ -76,11 +64,7 @@ def fib(n: int) -> int:
 
 然后我测量了这个函数在两个 Python 版本中的性能。
 
-[](/how-to-detect-memory-leakage-in-your-python-application-f83ae1ad897d) [## 如何检测 Python 应用程序中的内存泄漏
-
-### 标准的 Python 库，可以显示每一行的内存使用和执行时间
-
-towardsdatascience.com](/how-to-detect-memory-leakage-in-your-python-application-f83ae1ad897d) 
+[](/how-to-detect-memory-leakage-in-your-python-application-f83ae1ad897d)  
 
 让我们用 Timeit 运行斐波那契数生成器来确定执行时间。以下命令将重复生成过程十次，并显示最佳执行时间。
 
@@ -101,11 +85,7 @@ Python 3.11 和 Python 3.10 的并行性能比较—图片由[作者提供。](h
 
 但是我想检查它在熊猫任务中的表现。不幸的是，到目前为止，Numpy 和 Pandas 还没有支持 Python 3.11 的版本。
 
-[](/how-to-do-a-ton-of-analysis-in-the-blink-of-an-eye-16fa9affce06) [## 如何在眨眼之间用 Python 做一吨的分析？
-
-### 使用这些 Python 探索性数据分析，将您的数据探索时间缩短到原来的十分之一…
-
-towardsdatascience.com](/how-to-do-a-ton-of-analysis-in-the-blink-of-an-eye-16fa9affce06) 
+[](/how-to-do-a-ton-of-analysis-in-the-blink-of-an-eye-16fa9affce06)  
 
 # 冒泡排序的性能基准。
 
@@ -113,11 +93,7 @@ towardsdatascience.com](/how-to-do-a-ton-of-analysis-in-the-blink-of-an-eye-16fa
 
 所以，我想测试一下[冒泡排序](https://www.programiz.com/dsa/bubble-sort)。
 
-[](/how-to-serve-massive-computations-using-python-web-apps-590e51624bc6) [## 如何使用 Python Web 应用服务于大规模计算？
-
-### 克服 Python 的局限性，并通过 web 请求将其用于繁重的数据分析和机器学习。
-
-towardsdatascience.com](/how-to-serve-massive-computations-using-python-web-apps-590e51624bc6) 
+[](/how-to-serve-massive-computations-using-python-web-apps-590e51624bc6)  
 
 在下面的代码中，我们试图测量对一百万个数字进行排序所需的时间。
 
@@ -137,11 +113,7 @@ Python 3.11 只用了 21 秒就完成了排序，而 3.10 的对应版本用了 
 
 如果您正在处理一个庞大的文件列表，或者在不使用数据库的情况下存储/检索数据，I/O 性能是至关重要的。
 
-[](/python-web-apps-are-a-terrible-idea-for-analytics-projects-36f1bd33e84b) [## Python Web 应用对于分析项目来说是一个糟糕的想法。
-
-### 纯 Python 栈忽略了严重的缺点。以下是如何弥补的方法。
-
-towardsdatascience.com](/python-web-apps-are-a-terrible-idea-for-analytics-projects-36f1bd33e84b) 
+[](/python-web-apps-are-a-terrible-idea-for-analytics-projects-36f1bd33e84b)  
 
 这里有一个简单的测试，将 Python 3.11 和它的 3.10 兄弟进行对比。
 

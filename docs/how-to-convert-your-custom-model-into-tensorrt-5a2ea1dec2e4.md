@@ -132,11 +132,7 @@ model.onnx 图中的 OneHot 运算符与 model_tpat.onnx 图中的 tpat_onehot �
 *   从模型生成序列化引擎。
 *   从生成器生成序列化定时缓存。
 
-[](https://docs.nvidia.com/deeplearning/tensorrt/developer-guide/index.html#trtexec-ovr) [## 开发人员指南::NVIDIA 深度学习 TensorRT 文档
-
-### 本 NVIDIA TensorRT 开发人员指南演示了如何使用 C++和 Python APIs 来实现最常见的…
-
-docs.nvidia.com](https://docs.nvidia.com/deeplearning/tensorrt/developer-guide/index.html#trtexec-ovr) 
+[](https://docs.nvidia.com/deeplearning/tensorrt/developer-guide/index.html#trtexec-ovr)  
 
 可以使用下面的`trtexec`命令将模型转换成 TensorRT 平面图格式:
 
@@ -163,23 +159,7 @@ trtexec --loadEngine=model.plan \
 
 > 我们希望这篇博客对你有用，请看看我们团队在 Forsight 写的其他一些博客，如果你有任何问题，请随时通过 **info@forsight.ai** 联系我们！
 
-[](/new-tf2-object-detection-api-5c6ea8362a8c) [## 新 TF2 对象检测 API
-
-### 欢迎新动物进入动物园——模型评估
-
-towardsdatascience.com](/new-tf2-object-detection-api-5c6ea8362a8c) [](https://medium.com/swlh/construction-feat-tf2-object-detection-api-4465a3937c87) [## 建筑壮举。TF2 对象检测 API
-
-### 你受到保护了吗？
-
-medium.com](https://medium.com/swlh/construction-feat-tf2-object-detection-api-4465a3937c87) [](/understand-your-algorithm-with-grad-cam-d3b62fce353) [## 使用 Grad-CAM 了解您的算法
-
-### 当 AI 是一个黑匣子时，我们为什么要足够信任它来驾驶汽车，检测疾病，识别嫌疑人？
-
-towardsdatascience.com](/understand-your-algorithm-with-grad-cam-d3b62fce353) [](/generalizing-your-model-an-example-with-efficientnetv2-and-cats-dogs-6903740dfe2c) [## 推广你的模型:EfficientNetV2 和猫和狗的例子
-
-### 考虑一下这个场景。你正在使用新的花式最先进的 CNN 网络架构，EfficientNetV2，来训练…
-
-towardsdatascience.com](/generalizing-your-model-an-example-with-efficientnetv2-and-cats-dogs-6903740dfe2c) 
+[](/new-tf2-object-detection-api-5c6ea8362a8c)  [](https://medium.com/swlh/construction-feat-tf2-object-detection-api-4465a3937c87)  [](/understand-your-algorithm-with-grad-cam-d3b62fce353)  [](/generalizing-your-model-an-example-with-efficientnetv2-and-cats-dogs-6903740dfe2c)  
 
 # 参考
 

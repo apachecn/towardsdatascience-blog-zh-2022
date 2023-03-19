@@ -76,16 +76,4 @@
 
 *如果你喜欢我的作品，请在这里订阅*[](https://medium.com/subscribe/@niklas_lang)**或者查看我的网站* [*数据大本营*](http://www.databasecamp.de/en/homepage) *！还有，媒体允许你每月免费阅读* ***3 篇*** *。如果你想让***无限制地访问我的文章和数以千计的精彩文章，不要犹豫，通过点击我的推荐链接:*[https://medium.com/@niklas_lang/membership](https://medium.com/@niklas_lang/membership)获得会员资格，每个月只需支付 ***5*****
 
-***[](/8-machine-learning-algorithms-everyone-new-to-data-science-should-know-772bd0f1eca1) [## 数据科学新手应该知道的 8 种机器学习算法
-
-### 简要解释机器学习背后的算法
-
-towardsdatascience.com](/8-machine-learning-algorithms-everyone-new-to-data-science-should-know-772bd0f1eca1) [](/comprehensive-guide-to-principal-component-analysis-bb4458fff9e2) [## 主成分分析综合指南
-
-### 主成分分析的理论解释
-
-towardsdatascience.com](/comprehensive-guide-to-principal-component-analysis-bb4458fff9e2) [](/introduction-to-random-forest-algorithm-fed4b8c8e848) [## 随机森林算法简介
-
-### 算法是如何工作的，我们可以用它来做什么
-
-towardsdatascience.com](/introduction-to-random-forest-algorithm-fed4b8c8e848)***
+***[](/8-machine-learning-algorithms-everyone-new-to-data-science-should-know-772bd0f1eca1)  [](/comprehensive-guide-to-principal-component-analysis-bb4458fff9e2)  [](/introduction-to-random-forest-algorithm-fed4b8c8e848) ***

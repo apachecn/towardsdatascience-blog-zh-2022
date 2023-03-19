@@ -26,23 +26,11 @@
 
 这里有一个资源可以帮助你决定在数据科学领域寻找什么样的职业:
 
-[](/data-scientist-vs-data-analyst-vs-data-engineer-1e2514a36d41) [## 数据科学家 vs 数据分析师 vs 数据工程师
-
-### 在数据领域找到你真正的激情
-
-towardsdatascience.com](/data-scientist-vs-data-analyst-vs-data-engineer-1e2514a36d41) 
+[](/data-scientist-vs-data-analyst-vs-data-engineer-1e2514a36d41)  
 
 以下是一些资源，可帮助您决定需要为数据科学中的每种工作类型学习什么:
 
-[](/the-complete-roadmap-to-becoming-a-data-analyst-with-no-previous-experience-952c5b3a7cbc) [## 毫无经验的数据分析师的完整路线图
-
-### 该路线图将指导您通过业余学习成为一名数据分析师
-
-towardsdatascience.com](/the-complete-roadmap-to-becoming-a-data-analyst-with-no-previous-experience-952c5b3a7cbc) [](/top-10-skills-for-a-data-scientist-in-2020-2b8e6122a742) [## 数据科学家的十大技能
-
-### 那会让你在数据部工作。
-
-towardsdatascience.com](/top-10-skills-for-a-data-scientist-in-2020-2b8e6122a742) 
+[](/the-complete-roadmap-to-becoming-a-data-analyst-with-no-previous-experience-952c5b3a7cbc)  [](/top-10-skills-for-a-data-scientist-in-2020-2b8e6122a742)  
 
 [**FAANG**](/what-skills-are-important-for-a-data-engineering-role-at-faang-ec5230cbc962#:~:text=read.amazon.com-,Summary,this%20skill%20in%20your%20toolbox.)的数据工程职位需要哪些技能
 
@@ -80,11 +68,7 @@ towardsdatascience.com](/top-10-skills-for-a-data-scientist-in-2020-2b8e6122a742
 
 这里有一个很好的资源，可以帮助你了解更多关于学习风格以及如何改进自主学习过程的信息:
 
-[](https://uwaterloo.ca/centre-for-teaching-excellence/teaching-resources/teaching-tips/tips-students/self-knowledge/understanding-your-learning-style) [## 了解您的学习风格|卓越教学中心
-
-### 学习风格的想法始于 20 世纪 70 年代，当时越来越多的文献和行业假设学习者拥有…
-
-uwaterloo.ca](https://uwaterloo.ca/centre-for-teaching-excellence/teaching-resources/teaching-tips/tips-students/self-knowledge/understanding-your-learning-style) 
+[](https://uwaterloo.ca/centre-for-teaching-excellence/teaching-resources/teaching-tips/tips-students/self-knowledge/understanding-your-learning-style)  
 
 # 5.学习如何正确打字
 
@@ -96,23 +80,7 @@ uwaterloo.ca](https://uwaterloo.ca/centre-for-teaching-excellence/teaching-resou
 
 这里有一些资源可以帮助您学习如何更快地键入和使用键盘快捷键:
 
-[](https://www.ratatype.com/learn/) [## 学习如何打字更快。触摸打字提示- Ratatype
-
-### 这很容易，主要的是遵循一些基本的提示。打字时姿势正确；坐直，用你的…
-
-www.ratatype.com](https://www.ratatype.com/learn/)  [## Word 中的键盘快捷键
-
-### 注意:本文描述了 Word for Windows 中的键盘快捷键和功能键。在本主题中，此表…
-
-support.microsoft.com](https://support.microsoft.com/en-us/office/keyboard-shortcuts-in-word-95ef89dd-7142-4b50-afb2-f762f663ceb2) [](/jypyter-notebook-shortcuts-bf0101a98330) [## Jupyter 笔记本快捷方式
-
-### Jupyter 笔记本是什么？
-
-towardsdatascience.com](/jypyter-notebook-shortcuts-bf0101a98330) [](https://dev.to/macmacky/my-vscode-shortcuts-settings-and-extensions-for-productivity-3chd) [## 我的 VSCode 快捷方式、设置和生产力扩展。
-
-### 嗨，伙计们，日安！自从我从 co 开始编码以来，我已经使用了很多 IDE 和代码编辑器...用 vscode 标记…
-
-开发到](https://dev.to/macmacky/my-vscode-shortcuts-settings-and-extensions-for-productivity-3chd) 
+[](https://www.ratatype.com/learn/)    [](/jypyter-notebook-shortcuts-bf0101a98330)  [](https://dev.to/macmacky/my-vscode-shortcuts-settings-and-extensions-for-productivity-3chd)  
 
 # 6.通过自动化你的学习计划来避免生产力下降
 
@@ -124,11 +92,7 @@ towardsdatascience.com](/jypyter-notebook-shortcuts-bf0101a98330) [](https://dev
 
 这里有一个很好的资源可以让你开始自动化你的日常事务，并且可以扩展到自动化你的学习计划:
 
-[](/automating-your-digital-morning-routine-with-python-8387fe884422) [## 使用 Python 自动化您的数字早晨程序
-
-### 一个简单的 python 脚本开始您的一天
-
-towardsdatascience.com](/automating-your-digital-morning-routine-with-python-8387fe884422) 
+[](/automating-your-digital-morning-routine-with-python-8387fe884422)  
 
 # 7.承诺每天阅读一篇关于数据科学的文章
 
@@ -140,15 +104,7 @@ towardsdatascience.com](/automating-your-digital-morning-routine-with-python-838
 
 以下是一些提供日常数据科学内容的资源:
 
-[](https://towardsdatascience.com) [## 走向数据科学
-
-### 你的数据科学之家。分享概念、想法和准则的媒体出版物。
-
-towardsdatascience.com](https://towardsdatascience.com) [](https://www.datasciencecentral.com/) [## DataScienceCentral.com-大数据新闻和分析
-
-### 我们正在编写和添加专为我们的成员提供的新材料(压缩电子书),并且…
-
-www.datasciencecentral.com](https://www.datasciencecentral.com/) 
+[](https://towardsdatascience.com)  [](https://www.datasciencecentral.com/)  
 
 # 最后的想法
 

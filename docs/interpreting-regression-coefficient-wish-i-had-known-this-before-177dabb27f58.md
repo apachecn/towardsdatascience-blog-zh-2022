@@ -12,11 +12,7 @@
 
 ** *这篇文章是我上一篇文章的延续，我将使用相同的玩具示例(不同的数字)。万一你错过了，你可以考虑快速浏览一下。然而，阅读是可选的，因为我要重复必要的部分。***
 
-[](/what-does-it-mean-to-control-for-something-in-multiple-regression-744880620988) [## 控制回归中的一个变量意味着什么？
-
-### 直观的解释
-
-towardsdatascience.com](/what-does-it-mean-to-control-for-something-in-multiple-regression-744880620988) 
+[](/what-does-it-mean-to-control-for-something-in-multiple-regression-744880620988)  
 
 # 假设的例子
 
@@ -191,11 +187,7 @@ marginaleffects(model, variables = "Shoppers_Card") %>%
 
 *如果你想阅读我以前关于如何尝试了解未知的的一些帖子，这里有一些建议:*
 
-*[](https://vivdas.medium.com/how-to-explore-the-effect-of-doing-something-1d5f0e70a778) [## 如何探究做某事的效果？(第一部分)
-
-### 应用因果推理 101:反事实世界和实验理想](https://vivdas.medium.com/how-to-explore-the-effect-of-doing-something-1d5f0e70a778) [](https://vivdas.medium.com/how-to-explore-the-effect-of-doing-something-part-2-228f857bb060) [## 如何探究做某事的效果？(第二部分)
-
-### 应用因果推理 101:非实验数据](https://vivdas.medium.com/how-to-explore-the-effect-of-doing-something-part-2-228f857bb060) [](https://medium.datadriveninvestor.com/does-money-buy-happiness-4ad92109c303) [## 金钱能买到幸福吗？
+*[](https://vivdas.medium.com/how-to-explore-the-effect-of-doing-something-1d5f0e70a778)  [](https://medium.datadriveninvestor.com/does-money-buy-happiness-4ad92109c303) [## 金钱能买到幸福吗？
 
 ### 探索这个问题的实用教程](https://medium.datadriveninvestor.com/does-money-buy-happiness-4ad92109c303) 
 

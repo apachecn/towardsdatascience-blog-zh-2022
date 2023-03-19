@@ -24,11 +24,7 @@
 
 获得由强大的 AI-Alpha 信号选择和总结的最佳和最新的 ML 和 AI 论文:
 
-[](https://alphasignal.ai/?referrer=Bex) [## 阿尔法信号|机器学习的极品。艾总结的。
-
-### 留在循环中，不用花无数时间浏览下一个突破；我们的算法识别…
-
-alphasignal.ai](https://alphasignal.ai/?referrer=Bex) 
+[](https://alphasignal.ai/?referrer=Bex)  
 
 # 高效索引
 
@@ -76,11 +72,7 @@ alphasignal.ai](https://alphasignal.ai/?referrer=Bex)
 
 `replace`还有其他好处，包括基于正则表达式的替换，这可以在[文档](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.replace.html)中读到。
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-bex boost
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。支持我的工作，给我买一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) 
+[](https://ibexorigin.medium.com/membership)  
 
 # 高效迭代
 
@@ -112,11 +104,7 @@ ibexorigin.medium.com](https://ibexorigin.medium.com/membership)
 
 大约 9gb，这应该足够了。哦，顺便说一下，如果这种规模的数据集对你来说是一个问题，请查看我关于驯服这些野兽的文章:
 
-[](/how-to-work-with-million-row-datasets-like-a-pro-76fb5c381cdd) [## 如何像专家一样处理百万行数据集
-
-### 编辑描述
-
-towardsdatascience.com](/how-to-work-with-million-row-datasets-like-a-pro-76fb5c381cdd) 
+[](/how-to-work-with-million-row-datasets-like-a-pro-76fb5c381cdd)  
 
 现在，我们将继续使用我们的`crazy_function`，从 NumPy 矢量化作为基线开始:
 
@@ -144,24 +132,4 @@ towardsdatascience.com](/how-to-work-with-million-row-datasets-like-a-pro-76fb5c
 
 我们讨论的大部分内容摘自 Pandas 文档中信息丰富的 [*提高速度*](https://pandas.pydata.org/pandas-docs/stable/user_guide/enhancingperf.html) 部分。我们已经涵盖了最重要和最有效的方法，忽略了小细节。我强烈建议你通过它来获得更多的速度提示。
 
-[](https://ibexorigin.medium.com/membership) [## 通过我的推荐链接加入 Medium-bex boost
-
-### 获得独家访问我的所有⚡premium⚡内容和所有媒体没有限制。支持我的工作，给我买一个…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/membership) [](https://ibexorigin.medium.com/subscribe) [## 每当 BEXBoost 发布时收到电子邮件。
-
-### 每当 BEXBoost 发布时收到电子邮件。通过注册，您将创建一个中型帐户，如果您还没有…
-
-ibexorigin.medium.com](https://ibexorigin.medium.com/subscribe) [](/a-complete-shap-tutorial-how-to-explain-any-black-box-ml-model-in-python-7538d11fae94) [## 完整的 SHAP 教程:如何用 Python 解释任何黑盒 ML 模型
-
-### 向非技术人员解释任何黑盒模型
-
-towardsdatascience.com](/a-complete-shap-tutorial-how-to-explain-any-black-box-ml-model-in-python-7538d11fae94) [](/3-step-feature-selection-guide-in-sklearn-to-superchage-your-models-e994aa50c6d2) [## Sklearn 中的 3 步功能选择指南，让您的模型焕然一新
-
-### 为任何受监督的问题开发一个健壮的特征选择工作流
-
-towardsdatascience.com](/3-step-feature-selection-guide-in-sklearn-to-superchage-your-models-e994aa50c6d2) [](/how-to-use-umap-for-much-faster-and-effective-outlier-detection-e4608f336915) [## 如何使用 UMAP 进行更快更有效的异常检测
-
-### 让我们抓住那些高维离群值
-
-towardsdatascience.com](/how-to-use-umap-for-much-faster-and-effective-outlier-detection-e4608f336915)
+[](https://ibexorigin.medium.com/membership)  [](https://ibexorigin.medium.com/subscribe)  [](/a-complete-shap-tutorial-how-to-explain-any-black-box-ml-model-in-python-7538d11fae94)  [](/3-step-feature-selection-guide-in-sklearn-to-superchage-your-models-e994aa50c6d2)  [](/how-to-use-umap-for-much-faster-and-effective-outlier-detection-e4608f336915) 
